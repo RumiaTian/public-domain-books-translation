@@ -1,0 +1,30 @@
+## III The Garden Between Dawn and Sunrise
+Thus it was that Jurgen and the Centaur came to the garden between dawn and sunrise, entering this place in a fashion which it is not convenient to record. But as they passed over the bridge three fled before them, screaming. And when the life had been trampled out of the small furry bodies which these three had misused, there was none to oppose the Centaur’s entry into the garden between dawn and sunrise.
+This was a wonderful garden: yet nothing therein was strange. Instead, it seemed that everything hereabouts was heart-breakingly familiar and very dear to Jurgen. For he had come to a broad lawn which slanted northward to a well-remembered brook: and multitudinous maples and locust-trees stood here and there, irregularly, and were being played with very lazily by an irresolute west wind, so that foliage seemed to toss and ripple everywhere like green spray: but autumn was at hand, for the locust-trees were dropping a Danaë’s shower of small round yellow leaves. Around the garden was an unforgotten circle of blue hills. And this was a place of lucent twilight, unlit by either sun or stars, and with no shadows anywhere in the diffused faint radiancy that revealed this garden, which is not visible to any man except in the brief interval between dawn and sunrise.
+“Why, but it is Count Emmerick’s garden at Storisende,” says Jurgen, “where I used to be having such fine times when I was a lad.”
+“I will wager,” said Nessus, “that you did not use to walk alone in this garden.”
+“Well, no; there was a girl.”
+“Just so,” assented Nessus. “It is a local bylaw: and here are those who comply with it.”
+For now had come toward them, walking together in the dawn, a handsome boy and girl. And the girl was incredibly beautiful, because everybody in the garden saw her with the vision of the boy who was with her. “I am Rudolph,” said this boy, “and she is Anne.”
+“And are you happy here?” asked Jurgen.
+“Oh, yes, sir, we are tolerably happy: but Anne’s father is very rich, and my mother is poor, so that we cannot be quite happy until I have gone into foreign lands and come back with a great many lakhs of rupees and pieces of eight.”
+“And what will you do with all this money, Rudolph?”
+“My duty, sir, as I see it. But I inherit defective eyesight.”
+“God speed to you, Rudolph!” said Jurgen, “for many others are in your plight.”
+Then came to Jurgen and the Centaur another boy with the small blue-eyed person in whom he took delight. And this fat and indolent looking boy informed them that he and the girl who was with him were walking in the glaze of the red mustard jar, which Jurgen thought was gibberish: and the fat boy said that he and the girl had decided never to grow any older, which Jurgen said was excellent good sense if only they could manage it.
+“Oh, I can manage that,” said this fat boy, reflectively, “if only I do not find the managing of it uncomfortable.”
+Jurgen for a moment regarded him, and then gravely shook hands.
+“I feel for you,” said Jurgen, “for I perceive that you, too, are a monstrous clever fellow: so life will get the best of you.”
+“But is not cleverness the main thing, sir?”
+“Time will show you, my lad,” says Jurgen, a little sorrowfully. “And God speed to you, for many others are in your plight.”
+And a host of boys and girls did Jurgen see in the garden. And all the faces that Jurgen saw were young and glad and very lovely and quite heart-breakingly confident, as young persons beyond numbering came toward Jurgen and passed him there, in the first glow of dawn: so they all went exulting in the glory of their youth, and foreknowing life to be a puny antagonist from whom one might take very easily anything which one desired. And all passed in couples﻿—“as though they came from the Ark,” said Jurgen. But the Centaur said they followed a precedent which was far older than the Ark.
+“For in this garden,” said the Centaur, “each man that ever lived has sojourned for a little while, with no company save his illusions. I must tell you again that in this garden are encountered none but imaginary creatures. And stalwart persons take their hour of recreation here, and go hence unaccompanied, to become aldermen and respected merchants and bishops, and to be admired as captains upon prancing horses, or even as kings upon tall thrones; each in his station thinking not at all of the garden ever any more. But now and then come timid persons, Jurgen, who fear to leave this garden without an escort: so these must need go hence with one or another imaginary creature, to guide them about alleys and bypaths, because imaginary creatures find little nourishment in the public highways, and shun them. Thus must these timid persons skulk about obscurely with their diffident and skittish guides, and they do not ever venture willingly into the thronged places where men get horses and build thrones.”
+“And what becomes of these timid persons, Centaur?”
+“Why, sometimes they spoil paper, Jurgen, and sometimes they spoil human lives.”
+“Then are these accursed persons,” Jurgen considered.
+“You should know best,” replied the Centaur.
+“Oh, very probably,” said Jurgen. “Meanwhile here is one who walks alone in this garden, and I wonder to see the local bylaws thus violated.”
+Now Nessus looked at Jurgen for a while without speaking: and in the eyes of the Centaur was so much of comprehension and compassion that it troubled Jurgen. For somehow it made Jurgen fidget and consider this an unpleasantly personal way of looking at anybody.
+“Yes, certainly,” said the Centaur, “this woman walks alone. But there is no help for her loneliness, since the lad who loved this woman is dead.”
+“Nessus, I am willing to be reasonably sorry about it. Still, is there any need of pulling quite such a portentously long face? After all, a great many other persons have died, off and on: and for anything I can say to the contrary, this particular young fellow may have been no especial loss to anybody.”
+Again the Centaur said, “You should know best.”

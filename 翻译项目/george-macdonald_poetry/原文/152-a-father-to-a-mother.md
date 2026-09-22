@@ -1,0 +1,11 @@
+## A Father to a Mother
+
+When God’s own child came down to earth,
+High heaven was very glad;
+The angels sang for holy mirth;
+Not God himself was sad!
+
+Shall we, when ours goes homeward, fret?
+Come, Hope, and wait on Sorrow!
+The little one will not forget;
+It’s only till to-morrow!

@@ -1,0 +1,1 @@
+“His has been the summer air, and the sunshine, and the flowers; and gentle ears have listened to him, and gentle eyes have been upon him. Let others eat his honey that please, so that he has had his morsel and his song.”

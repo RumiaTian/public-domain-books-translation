@@ -1,0 +1,19 @@
+ (24 files)
+  块: O=317 C=317 OK | 段: EN=1630 CN=1630 OK
+  英文残留(剔括注) top: nemo-me-impune-lacessit×1, sauve×1, qui×1, peut×1
+  -- 术语表硬约束行 14 条:
+     Ukridge                        → 乌克里奇                 源×276   译×0     ★译0次(未落位?)
+     Jeremy Garnet / Garnet         → 杰里米·加内特              源×77    译×0     ★译0次(未落位?)
+     Jeremy Garnet（叙述者，昵称 Garny）    → 杰里米·加尼特／加尼           源×0     译×107   ★源0次(幽灵?)
+     Stanley Featherstonehaugh Ukri → 斯坦利·费瑟斯通豪·厄克里奇（Ukrid 源×5     译×5    
+     Mrs. Ukridge（闺名 Millie）        → 厄克里奇太太／米莉            源×46    译×85   
+     Phyllis Derrick／Professor Derr → 菲莉斯·德里克／德里克教授        源×0     译×16    ★源0次(幽灵?)
+     Aunt Elizabeth／Edwin／Norah Der → 伊丽莎白姨妈／埃德温／诺拉·德里克    源×0     译×54    ★源0次(幽灵?)
+     Harry Hawk（正式称呼 Henry Hawk）    → 哈里·霍克／亨利·霍克          源×5     译×7    
+     Mr. Beale／Mrs. Beale（the Hired → 比尔先生／比尔太太（雇仆／雇来的老家人） 源×16    译×31   
+     Mr. Chase                      → 蔡斯先生（债主）             源×26    译×26   
+     Bob                            → 博布（狗）                源×41    译×39   
+     Mrs. Medley                    → 梅德利太太                源×7     译×7    
+     Combe Regis／the Cob／Ware Cliff → 库姆里吉斯／科布防波堤／韦尔崖      源×0     译×33    ★源0次(幽灵?)
+     Waterloo Station／Harrod's／Whit → 滑铁卢车站／哈罗德／怀特利（百货）    源×0     译×30    ★源0次(幽灵?)
+====================================================================================================

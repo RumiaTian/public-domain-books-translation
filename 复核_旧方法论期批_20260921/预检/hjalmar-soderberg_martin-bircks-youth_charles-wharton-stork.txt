@@ -1,0 +1,51 @@
+ (36 files)
+  块: O=148 C=148 OK | 段: EN=665 CN=665 OK
+  英文残留(剔括注) top: killivillivippombom×2
+  -- 术语表硬约束行 46 条:
+     Martin Birck                   → 马丁·比尔克               源×15    译×11   
+     Stockholm                      → 斯德哥尔摩                源×10    译×9    
+     Planius                        → 普拉尼乌斯                源×5     译×5    
+     Uppsala                        → 乌普萨拉                 源×8     译×8    
+     Blanch’s café                  → 布朗什咖啡馆               源×1     译×1    
+     Östermalm                      → 奥斯特马尔姆               源×3     译×3    
+     Strand Avenue（Strandvägen）     → 斯特朗瓦根                源×1     译×1    
+     Nybro Inlet（Nybroviken）        → 尼布罗湾                 源×2     译×2    
+     Gustavus Adolphus Place        → 古斯塔夫·阿道尔夫广场          源×1     译×1    
+     Sture Square                   → 斯图雷广场                源×1     译×1    
+     Scania                         → 斯科讷                  源×1     译×1    
+     “Anglais”                      → “英国人”咖啡馆             源×2     译×1    
+     Verlaine                       → 魏尔伦                  源×1     译×1    
+     chartreuse                     → 查特酒                  源×2     译×2    
+     Vasa decoration（Order of Vasa） → 瓦萨勋章                 源×2     译×6    
+     Swedish Academy（the Academy）   → 瑞典文学院                源×2     译×3    
+     Henrik Rissler                 → 亨利克·里斯勒              源×10    译×10   
+     Doctor Markel                  → 马克尔博士                源×9     译×9    
+     Gabel                          → 加贝尔                  源×5     译×5    
+     Billfelt                       → 比尔费尔特                源×6     译×6     残留「老比尔费尔特」×2
+     Jansson                        → 扬松                   源×2     译×2    
+     Moberg                         → 莫贝里                  源×7     译×7    
+     Tullman                        → 图尔曼                  源×2     译×2    
+     Josef Marin                    → 约瑟夫·马林               源×9     译×9    
+     Hulda                          → 胡尔达                  源×2     译×2    
+     Hasselbacken                   → 哈塞尔巴肯                源×3     译×3    
+     Langholm jail                  → 朗霍尔姆监狱               源×2     译×1    
+     Tegnér                         → 特格纳尔                 源×2     译×2    
+     Gretchen                       → 格蕾琴                  源×2     译×2    
+     Faust                          → 浮士德                  源×3     译×3    
+     Jacobsen                       → 雅各布森                 源×2     译×2    
+     Niels Lyhne                    → 《尼尔斯·吕讷》             源×2     译×2    
+     Baudelaire                     → 波德莱尔                 源×1     译×1    
+     Don Juan in Hades              → 《冥府中的唐璜》             源×1     译×1    
+     Mefistofele                    → 《梅菲斯托费勒》             源×1     译×1    
+     Norbeck                        → 诺贝克                  源×1     译×1    
+     Daily News                     → 《每日新闻》               源×1     译×1    
+     Home Friend                    → 《家庭之友》               源×1     译×1    
+     Hamburg Bourse                 → 汉堡交易所                源×2     译×2    
+     Jacobs church                  → 雅各布教堂                源×1     译×1    
+     Lagerlunden                    → 拉格尔伦登                源×1     译×1    
+     Charles XII's Square           → 卡尔十二世广场              源×1     译×1    
+     St. Katarina                   → 圣卡塔琳娜教堂              源×1     译×1    
+     Order of Charles XIII          → 卡尔十三世勋章              源×1     译×1    
+     Venus                          → 维纳斯                  源×4     译×4    
+     crowns                         → 克朗                   源×5     译×5    
+====================================================================================================

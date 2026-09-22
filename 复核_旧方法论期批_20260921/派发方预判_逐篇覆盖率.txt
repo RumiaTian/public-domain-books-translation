@@ -1,0 +1,155 @@
+# 派发方预判：50 本逐篇覆盖率（阈值 0.90，2026-09-21 只读扫描）
+
+> 口径：epub 篇目正文（去标签、NFKC、去空白与 `-*#|_~` 噪音）切 30 字符滑窗（步长 20），命中 `原文/*.md` 全文即计。
+> 已知偏差：剧本/表格文本会因抽取器插入「说话人：」分隔符而虚低；插图题注会虚低；篇名不同源会虚低。
+> 用途：核对复核员的「素材完整性」结论；不单独作为定案依据。
+
+## daisy-ashford_the-young-visiters
+  全部篇目 ≥90%（未见缺口信号）
+
+## david-garnett_lady-into-fox
+  全部篇目 ≥90%（未见缺口信号）
+
+## ivy-compton-burnett_pastors-and-masters
+  全部篇目 ≥90%（未见缺口信号）
+
+## evelyn-underhill_practical-mysticism
+  全部篇目 ≥90%（未见缺口信号）
+
+## barbara-newhall-follett_the-house-without-windows
+   86.7%  endnotes.xhtml  310字符
+
+## josiah-henson_father-hensons-story-of-his-own-life
+  全部篇目 ≥90%（未见缺口信号）
+
+## jack-london_before-adam
+  全部篇目 ≥90%（未见缺口信号）
+
+## william-beckford_vathek_samuel-henley
+   86.4%  endnotes.xhtml  5,892字符
+
+## fritz-leiber_the-big-time
+  全部篇目 ≥90%（未见缺口信号）
+
+## susanna-haswell-rowson_charlotte-temple
+   88.9%  epigraph.xhtml  199字符
+
+## paul-laurence-dunbar_the-sport-of-the-gods
+  全部篇目 ≥90%（未见缺口信号）
+
+## anthony-trollope_harry-heathcote-of-gangoil
+  全部篇目 ≥90%（未见缺口信号）
+
+## frederik-pohl_plague-of-pythons
+  全部篇目 ≥90%（未见缺口信号）
+
+## h-g-wells_the-wonderful-visit
+   89.0%  chapter-47.xhtml  3,835字符
+
+## margaret-cavendish_the-blazing-world
+   87.0%  dedication.xhtml  486字符
+
+## edgar-saltus_mr-incouls-misadventure
+  全部篇目 ≥90%（未见缺口信号）
+
+## hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork
+  全部篇目 ≥90%（未见缺口信号）
+
+## walter-s-masterman_the-wrong-letter
+  全部篇目 ≥90%（未见缺口信号）
+
+## p-g-wodehouse_the-pothunters
+  全部篇目 ≥90%（未见缺口信号）
+
+## p-g-wodehouse_a-prefects-uncle
+  全部篇目 ≥90%（未见缺口信号）
+
+## edgar-saltus_the-truth-about-tristrem-varick
+  全部篇目 ≥90%（未见缺口信号）
+
+## p-g-wodehouse_the-gold-bat
+  全部篇目 ≥90%（未见缺口信号）
+
+## calvin-coolidge_the-autobiography-of-calvin-coolidge
+  全部篇目 ≥90%（未见缺口信号）
+
+## edgar-saltus_the-monster
+  全部篇目 ≥90%（未见缺口信号）
+
+## p-g-wodehouse_the-head-of-kays
+  全部篇目 ≥90%（未见缺口信号）
+
+## p-g-wodehouse_the-white-feather
+  全部篇目 ≥90%（未见缺口信号）
+
+## edgar-wallace_the-melody-of-death
+  全部篇目 ≥90%（未见缺口信号）
+
+## e-t-a-hoffmann_master-flea_george-soane
+   83.3%  endnotes.xhtml  135字符
+
+## dorothy-canfield-fisher_understood-betsy
+  全部篇目 ≥90%（未见缺口信号）
+
+## elizabeth-von-arnim_elizabeth-and-her-german-garden
+  全部篇目 ≥90%（未见缺口信号）
+
+## catherine-louisa-pirkis_a-bride-of-a-summers-day
+  全部篇目 ≥90%（未见缺口信号）
+
+## edgar-wallace_the-council-of-justice
+  全部篇目 ≥90%（未见缺口信号）
+
+## joseph-conrad_a-personal-record
+  全部篇目 ≥90%（未见缺口信号）
+
+## james-branch-cabell_the-cream-of-the-jest
+  全部篇目 ≥90%（未见缺口信号）
+
+## edgar-rice-burroughs_at-the-earths-core
+  全部篇目 ≥90%（未见缺口信号）
+
+## jane-addams_democracy-and-social-ethics
+  全部篇目 ≥90%（未见缺口信号）
+
+## johanna-spyri_cornelli_elisabeth-p-stork
+  全部篇目 ≥90%（未见缺口信号）
+
+## paul-laurence-dunbar_the-uncalled
+  全部篇目 ≥90%（未见缺口信号）
+
+## anna-katharine-green_a-strange-disappearance
+  全部篇目 ≥90%（未见缺口信号）
+
+## e-nesbit_wet-magic
+  全部篇目 ≥90%（未见缺口信号）
+
+## james-weldon-johnson_the-autobiography-of-an-ex-colored-man
+  全部篇目 ≥90%（未见缺口信号）
+
+## e-r-eddison_styrbiorn-the-strong
+  全部篇目 ≥90%（未见缺口信号）
+
+## j-storer-clouston_the-spy-in-black
+  全部篇目 ≥90%（未见缺口信号）
+
+## p-g-wodehouse_love-among-the-chickens
+  全部篇目 ≥90%（未见缺口信号）
+
+## c-s-forester_brown-on-resolution
+  全部篇目 ≥90%（未见缺口信号）
+
+## georgette-heyer_the-transformation-of-philip-jettan
+  全部篇目 ≥90%（未见缺口信号）
+
+## dorothy-m-richardson_honeycomb
+  全部篇目 ≥90%（未见缺口信号）
+
+## edgar-wallace_kate-plus-10
+   83.3%  endnotes.xhtml  134字符
+
+## charles-a-lindbergh_we
+  全部篇目 ≥90%（未见缺口信号）
+
+## sylvia-townsend-warner_lolly-willowes
+  全部篇目 ≥90%（未见缺口信号）

@@ -1,0 +1,36 @@
+## XV 2:13 a.m.﻿—The Thin Steel Blade
+Miss Murrow began to feel fidgety.
+Even after the many, many years she had spent in nursing she had never accustomed herself to spending a night quite comfortably in a chair. She had always had her attacks of the fidgets, and would probably continue to have them until she arrived at the port of destination for all good nurses and married one of her patients or a doctor. Of the two she really preferred a patient.
+She trained a speculative eye on her present one over there on the bed. Not really speculative, as﻿—she told herself firmly﻿—he was already married. Although heaven knew that that never mattered. Take the case of that redheaded Gilford girl who had snapped old man Tomlinson right up from under his wife’s nose﻿—probably, at that, because of his wife’s nose, which had been an unusually large one. Miss Murrow giggled. That was almost witty enough to tell to Mr. Hollander.
+He must have *felt* that she was thinking about him. What a curious expression that was in his eyes. He had just turned them toward her, and they seemed to glitter. Yes, that was the word exactly﻿—“glitter.”
+It was a fancy of Miss Murrow’s to be meticulous in the matter of words. “Really,” she thought, “I don’t see why I couldn’t be an author.” She felt sure she had ever so much more knowledge of life than one encountered in the average run of books. Tripe. Yes, “tripe” was indeed the word. Of course, her books wouldn’t be average. Now that little story of Delia Hackenpoole and the intern with those shifty eyes﻿ ﻿…
+Eyes﻿ ﻿…
+Yes, Mr. Hollander’s eyes *were* glittering﻿—even in that second flash she had just caught of them. But possibly he, too, had the fidgets. He’d been sitting terribly quiet for the past ten minutes or so. Not a budge out of him. A body would forget he was there, almost.
+Of course he was handsome. Especially in that soft, vague light from the distant lamp which picked his pale features out obscurely. And they *were* pale, at that. Genuinely pale. She did hope he wasn’t going to be ill or have a nervous breakdown and ruin this perfectly marvellous case of the dear doctor’s.﻿ ﻿…
+Mrs. Sanford Worth. What a pleasant name it would be. *Distingué.* How apt the French were! (She knew ten phrases.)
+Was that right hand of Mr. Hollander’s actually moving, or was it an illusion of light and shade? It seemed to be slipping slowly from the arm of the chair and would eventually end up in his lap. It was moving﻿—it wasn’t﻿—quite creepy, really. Damn the fidgets! She shifted her centre of balance and felt temporarily relieved. Overstuffed chairs were really wretched for prolonged periods of sitting, when you came right down to it, whereas a good old-fashioned horsehair sofa, such as Aunt Helen had had at Sciota.﻿ ﻿…
+Why, the hand was gone!
+Positively gone﻿—like a conjuring trick.
+It wasn’t on the arm of the chair, so it must be in Mr. Hollander’s lap. Then it *had* been moving after all, and she hadn’t been just imagining it. Why, it was almost *sneaky*.﻿ ﻿…
+His profile was toward her. Not a snub nose, exactly, nor retroussé. You couldn’t apply that term to anything about a man, and whatever else he might be, Mr. Hollander certainly was a man.
+How interesting his life at sea must have been. (She had definitely ticketed him as a sailor.) Lives at sea were always interesting. All the best books were in accord with that. You never read of a Main Street on the ocean. What with the girls in every port and the fights and the smell of crisp salt air﻿ ﻿… What a wretched little twirp that boy had been down at the beach last summer, with his absurd remarks about the salt smell being a lot of decayed lobster pots and dead fish. Of course the air at sea was salt. Sea and salt were synonymous.
+Mr. Hollander *did* have the fidgets.
+She couldn’t see exactly, because of the masking arm of the chair, but he certainly was fiddling with something. She’d think he was twirling his thumbs, if he looked like the sort of man who twirled thumbs, but he didn’t, so it wasn’t that.
+She looked at her wrist watch and saw that the hands were approaching the half hour. She’d have to examine her patient and note his pulse on the chart. What a pity that the only time you really felt comfortable in an overstuffed chair was at the moment when you had to get up.
+She stood up, smoothed starched surfaces, and sailed, a smart white pinnace, toward the bed. She smiled engagingly at Mr. Hollander and then started to take Endicott’s pulse. She gave a slight start and concentrated her full attention upon Endicott.
+“I think there’s a change.”
+Hollander looked up at her alertly. “Change?”
+“I think he shows signs of coming to.”
+Miss Murrow wondered a moment at the tight little lines which suddenly appeared on Hollander’s face, hardening and aging it rather shockingly, and altering the features into a cast whose hidden significance she could not define exactly. Strain, perhaps, better than anything else, served as an explanation: an emotional strain.
+“How can you tell?” he said.
+Miss Murrow smiled a bit superiorly. “It becomes instinct, mostly.”
+“Will it be soon?”
+“Very soon now. Be careful, please, not to disturb him or make any sudden noise or movement until I come back. I want Dr. Worth to be on hand before the patient actually does regain consciousness.”
+“You going up to get him now?”
+“Yes.” She went over to the bathroom door and spoke to Cassidy. “You gentlemen will be careful, won’t you, about being seen? I’d stay well back within the doorway, as sometimes a patient is a little, well, wild when he comes to like this, and if he started jerking around at all he might see you.” She smiled engagingly. “What with the uniforms and everything﻿—”
+Miss Murrow left implications of the possible fatal consequences hanging in air and returned to Endicott. She examined him critically for another moment, checked his pulse again, and then started for the door. She stopped just before she reached it, and said to Hollander: “I suppose you had better lock the door after me. Lieutenant Valcour placed great stress on the fact that it should be kept locked constantly.”
+“I’ll lock it,” said Hollander.
+“It does seem kind of foolish, doesn’t it?”
+Hollander smiled grimly. “Most foolish.”
+He stood up and joined her at the door. She went outside. He closed the door and locked it. He stared almost blankly for an instant at the two policemen. They had drawn their chairs back a little within the bathroom doorway. Hansen was impassively studying the ceiling above his head. Cassidy, leaning forward a little, was looking with solemn eyes at the outline of Endicott’s still figure beneath the bedclothes.
+Hollander stretched cramped muscles and then went back to his armchair beside the bed. He sat down and was all but completely obscured from the two guards by its high back. With imperceptible movements he drew a thin steel blade from beneath the cuff of his left coat sleeve and held it in such a fashion that it was masked in the palm of his right hand, the hilt extending up a little beneath the shirt cuff. He leaned forward and stared down upon Endicott’s quiet face. Not quiet, exactly, for the lids were twitching﻿—opening﻿—and Endicott’s eyes, bright and unseeing from fever, stared up.﻿ ﻿…

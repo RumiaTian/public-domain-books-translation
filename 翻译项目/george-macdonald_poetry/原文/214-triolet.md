@@ -1,0 +1,10 @@
+## Triolet
+
+Oh that men would praise the Lord
+For his goodness unto men!
+Forth he sends his saving word,
+—Oh that men would praise the Lord!﻿—
+And from shades of death abhorred
+Lifts them up to light again:
+Oh that men would praise the Lord
+For his goodness unto men!

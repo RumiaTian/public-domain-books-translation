@@ -1,0 +1,67 @@
+====================================================================================================
+### ring-lardner_gullibles-travels  (7 files)
+  块: O=132 C=132 OK | 段: EN=1042 CN=1044 !!差 -2
+     [不对称] carmen.md                                            O=35 C=35 段EN=220 段CN=222
+  英文残留(剔括注) top: Day×2, Trey×2, Ray×2, Sokol×1, Verein×1, exclusive×1, Armour's×1
+  项目说明备注: 见术语表.md。
+  -- 术语表硬约束行 59 条:
+     the Wife / the Missus          → 媳妇儿 / 我家那口子          源×149   译×76    落位偏低 76/149
+     Edgar                          → 埃德加                  源×1     译×1    
+     Hatch（Mr. / Mrs.）              → 哈奇 / 哈奇太太            源×149   译×110  
+     Bess                           → 贝丝                   源×75    译×95   
+     Bishop                         → 毕晓普                  源×120   译×120  
+     Ben                            → 本                    源×1     译×68   
+     Bessie                         → 贝西                   源×50    译×30   
+     Miss Gorton                    → 戈顿小姐                 源×1     译×1    
+     Archibald / Flora / Veto / Fre → 阿奇博尔德 / 弗洛拉 / 维托 / 弗 源×62    译×61   
+     Vanderbilts                    → 范德比尔特家               源×1     译×1    
+     Goulds                         → 古尔德家                 源×1     译×1    
+     Delmonico girls                → 德尔莫尼科家小姐             源×1     译×0     ★译0次(未落位?)
+     Palm Beach                     → 棕榈滩                  源×12    译×12   
+     Lake Shore Drive               → 湖滨大道                 源×1     译×1    
+     Jacksonville                   → 杰克逊维尔                源×1     译×1    
+     St. Augustine                  → 圣奥古斯丁                源×1     译×1    
+     Madison Street                 → 麦迪逊街                 源×1     译×2    
+     Chicago                        → 芝加哥                  源×5     译×7    
+     Florida East Coast             → 佛罗里达东海岸铁路公司          源×1     译×1    
+     B. & O.                        → 巴尔的摩俄亥俄铁路公司          源×1     译×1    
+     Breakers                       → 碎浪酒店                 源×2     译×1    
+     Poinciana                      → 波因西亚纳酒店              源×2     译×2    
+     Majestic                       → 美捷戏院                 源×1     译×1    
+     Four Hundred                   → 四百人圈                 源×2     译×2    
+     Wabash                         → 沃巴什                  源×14    译×14   
+     Auditorium                     → 大礼堂                  源×4     译×4    
+     The Ideal                      → 理想餐厅                 源×1     译×1    
+     Benton Harbor                  → 本顿港                  源×2     译×2    
+     St. Joe                        → 圣乔                   源×6     译×6    
+     Crown Point                    → 克朗波因特                源×1     译×1    
+     Little Italy                   → 小意大利区                源×1     译×1    
+     Erie（the Erie）                 → 伊利铁路                 源×3     译×2    
+     Carmen                         → 《卡门》                 源×23    译×13    落位偏低 13/23
+     The Three Kings                → 《三王》                 源×2     译×1    
+     L'amore dei tre re             → 《三王之恋》（The Love o' T 源×0     译×2     ★源0次(幽灵?)
+     Pelléas et Mélisande           → 《波莉·阿切尔》             源×0     译×2     ★源0次(幽灵?)
+     Cavalleria Rusticana           → 《乡村骑士》               源×0     译×2     ★源0次(幽灵?)
+     Madame Butterfly（"Madame Butte → 《黄油牛奶夫人》             源×0     译×1     ★源0次(幽灵?)
+     Il Trovatore（"Ill Toreador"）   → 《那斗牛士》               源×0     译×1     ★源0次(幽灵?)
+     House of David                 → 大卫之家                 源×0     译×1     ★源0次(幽灵?)
+     Holy Roller Skaters            → 神圣旱冰徒                源×2     译×2    
+     Père Marquette                 → 佩雷·马凯特号              源×1     译×1    
+     City o' Benton Harbor          → 本顿港市号                源×1     译×1    
+     Annette                        → 安妮特牌                 源×1     译×0     ★译0次(未落位?)
+     Hoosier                        → 印第安纳乡巴佬              源×2     译×2    
+     Colosimo                       → 科洛西莫                 源×1     译×1    
+     soup and fish                  → 礼服                   源×4     译×10   
+     high polloi                    → 上流人物                 源×2     译×2    
+     E-light                        → 上等人                  源×1     译×3    
+     war babies                     → 战时股（war babies）      源×1     译×1    
+     Crucial Steel                  → 关键钢铁                 源×2     译×2    
+     bucks                          → 块 / 大洋               源×7     译×98   
+     dinky                          → 寒酸                   源×1     译×1    
+     fox-trottin’                   → 跳狐步舞                 源×0     译×0     ★源0次(幽灵?)
+     rummy                          → 拉米牌                  源×10    译×9    
+     pitcher shows                  → 电影                   源×2     译×11   
+     Salvation Army                 → 救世军                  源×1     译×1    
+     U-boat                         → 潜艇（U-boat）           源×0     译×1     ★源0次(幽灵?)
+     society bacillus               → 上社会的菌                源×1     译×1    
+

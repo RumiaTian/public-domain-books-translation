@@ -1,0 +1,121 @@
+## XI
+
+Mother and Daughter
+
+Mrs. John had a long time to wait. The old captain prolonged his walk, as he was too apt to do, beyond his strength, and came home very slowly, leaning on Hester’s arm; and then as every hindrance, when people are anxious, has a way of doubling itself, Mrs. Morgan sent a polite message to say that she hoped Mrs. John Vernon would not object if she kept Hester to supper. Mrs. John objected greatly, but she was weak, and had never set up her own will in the face of anyone else who made a stand for theirs. She said “Oh yes, with pleasure,” with a pitiful little smile to Mrs. Morgan’s maid. To deny Hester anything (except the power of making a governess of herself and losing caste) was what she had never done in her life. It always gave her a little pang when her child left her to eat her solitary meal in the dark little parlour which nothing would light up, but she had trained herself to feel that this was very wrong, and that young people need change. Hester was entirely unacquainted with the series of little sacrifices which her mother thus made for her. If she thought of them at all, she thought that the poor lady “did not mind.” Her old friends next door were not gay, but they talked as Mrs. John was quite incapable of talking, and lived, though they saw nobody, in a wider atmosphere, a bigger world than any of the others. The old captain’s stories, the people he had seen, the experiences both these old people had gone through, were like another world to Hester. Her mother was small and straitened, had seen without seeing, and lived without living. In the days when Hester had guided her about by the arm, taking her whither she pleased, making new eyes for her in the vividness of her own, it was enough for the girl to have that echo of all her sentiments, that little objection generally ending with agreement, that broken little stream of faint recollections which her mother would give forth. But Hester had long ceased to form part of that sort of dual being which is so often made by a mother and her only daughter. To feel your parent smaller and sillier than yourself is sad. A great many young people do it without any adequate reason, strong in their sense of being the reigning monarchs of the present, while their progenitors belong to the past. Perhaps indeed it is the nature of youth to take a pleasure in such superiority. But that is very different from the fact of actual incapacity on the mother’s part to follow her child’s thoughts or even to know what she meant. Mrs. John was very well aware of it herself, and declared with a smiling countenance that young people liked change, and that she was never so happy as when her child was enjoying herself. And Hester, though she was so much more clever, accepted all this, and believed and thought her mother was quite contented with the evening paper, or a book from the circulating library, and never missed her when she was away. She misunderstood her silly mother, far more than that silly mother did her. The lesser comprehended the bigger, not the bigger the lesser, as in the ordinary course of affairs. Mrs. John had a great many sacrifices to make, of which her daughter was quite unconscious. And tonight the poor lady felt it, as with her mind so full she sat down at her little solitary table, which she had made pretty for Hester. There was nothing on it more luxurious than cold meat and salad, but the crisp greenness of the leaves, the little round loaf, the pat of butter in a small silver dish which was one of her relics, the creaming glass of milk, all set out upon a white cloth and lighted up by the two candles, would, she had flattered herself, call out an admiring exclamation when the girl came in out of the dark, a little dazzled for the first moment by the light. After she had said “Oh, yes, with pleasure,” Mrs. John came in and sat down and cried. Such a pretty table laid out, and oh, for once, so much to say! her mind so overflowing, her news so all important! There could not be anything so exciting to talk about, that was certain, on the other side of the partition, and this provoked and tantalised sense of having herself far better entertainment for Hester than she could be having, gave an insufferableness to the position. At one moment Mrs. John thought she must send for the girl, that she could not put up with the disappointment, but she was much more used to putting up with things, than to asserting herself. She sat down very cheerlessly and ate a mouthful of bread and salad. To eat alone is always miserable. Hester was making the table, where the old Morgans sat, very lively and cheerful, talking as she never talked with her mother. They sat and talked quite late into the night. What with the captain’s stories, and Mrs. Morgan’s elucidations and Hester’s questionings, the evening was full of interest. It flew away so quickly that when the clock struck eleven the girl sprang up with a great sense of guilt. “Eleven o’clock! what will mother say? I have never been so late before,” she cried. They were all half proud of it, of having been so mutually entertaining. “The poor little mother must have felt lonely,” Mrs. Morgan said, with a passing compunction when Hester flew round the corner, watched from the door to see that all was safe by the maid; but the captain took no notice. “It is delightful to see how that child enjoys herself,” he said, flattered in spite of himself, “though it’s no very intoxicating amusement we furnish her.” Captain Morgan was very softhearted, and understood by his affections as well as with his understanding, but in this case something beguiled him, perhaps a little complacency, perhaps want of thought.
+
+When Hester ran in, in the dark, locking the door of the verandah behind her, Mrs. John had gone upstairs and was going to bed. She was chilly and “cross” her daughter thought, who ran quickly up to her full of apologies. “We got talking,” she said; “you must forgive me, mother. The captain’s stories run on so, one into another﻿—one forgets how the time runs on too.”
+
+“I wish,” said Mrs. John, with the tears very near the surface, “that your mother was sometimes as amusing as the captain.” It was the greatest reproach she had addressed to her daughter for years.
+
+“Oh, mother! If I had thought you minded,” cried Hester, with wondering eyes.
+
+Mrs. John was penitent at once, and did her best to make things up. “I ought not to speak,” she said, “after all﻿—for I was not so very lonely. Harry stayed a long time and kept me company. It is only when you have him to yourself that you see how nice he is.”
+
+“Is he so nice?” said Hester, indifferently. “How lucky for him to find you alone,” she added, with a little laugh.
+
+“Oh, Hester, how can you say so. As if it was me he came for! Whatever you may try to make yourself believe you can’t think that.”
+
+Hester made no reply. She slept in a small room within her mother’s, the door of which always stood open. She had taken off her outdoor things and let down her hair to brush it. It hung about her in a cloud, running up into curls as soon as she let it free. Mrs. John, seated in the easiest chair, sat contemplating this operation with a mixture of pleasure and pain. The mass of curls was pretty, but it was not the fashion. It was quite unlike the smooth brown glossy locks that had adorned her own head when she was young. But she said to herself that it suited Hester, and gazed at her child admiringly, yet anxiously, conscious of many things in which she might be improved: her hair for one thing: and her waist, which was not so small as Mrs. John’s had been in her youth: and her nose, which was a little too short. And yet with all these defects she was pretty. When she was Harry’s wife everybody would admire her. Perhaps it was only because she was not sufficiently seen that she had no more admirers now.
+
+“I had a great deal to say to you, dear,” she said. “I don’t grudge you being away when you are enjoying yourself, but I had many things to say. It is not likely that Harry Vernon would sit with me for hours for nothing.”
+
+“I suppose,” said Hester, from the midst of her curls, “that he finds it dull now without Ellen at the White House?”
+
+“I could tell you a great deal about that,” said her mother quickly, eager to seize an opening. But Hester yawned with discouraging demonstrations of fatigue.
+
+“Don’t you think it will keep till tomorrow, mother? We had a long walk, and I am sleepy. I think Harry can’t be very urgent. Tomorrow will be time enough.”
+
+“Oh, Hester, how strange you are,” cried Mrs. John, “so pleased with those old people, ready to listen to all their old stories; but when I begin to talk to you of a thing that is of the greatest importance﻿—”
+
+“Nothing concerning Harry Vernon can be of great importance to me,” cried the perverse girl; and then she tried to turn off her wilfulness with a laugh. “The beauty of the captain’s stories is that they are of no importance, mother. You can have them when you please. It is like going to a theatre, or reading a book.”
+
+“I am not so clever as the captain to interest you,” Mrs. John said.
+
+There was a plaintive tone in her voice with which Hester was very well acquainted, and which betokened an inclination to tears. She came and kissed her mother, and gave her a few of those half-impatient caresses which generally soothed the poor lady. The girl did not in the least know that any consciousness was in Mrs. John’s mind of the superficial character of those kindnesses. She was not without love for the tender domestic creature who had been hers to use at her pleasure since ever she could recollect, but she bestowed these kisses upon her, as she would have given sweetmeats to a child.
+
+“Go to bed, mother. Don’t mind me. I will shut the door; you shall not have the light in your eyes to keep you from sleeping. Go to bed, mammy darling.”
+
+Mrs. John had liked this caressing talk when Hester was a child. She was soothed by it still, though a faint sense that there was something like contempt in it had got into her mind: and she could not struggle against a will which was so much stronger than her own. But she could not sleep, though she allowed herself to be put to bed. She could not help crying in the night, and wondering what she could do to be more respected, to be more important to her child; and then she prayed that she might be able to put Harry before her in the best light, and stopped and wondered whether it were right to pray about a young man. Altogether Mrs. John had not a tranquil night.
+
+But next morning she made a great effort to dismiss her anxiety, to present herself at breakfast with a cheerful aspect, and to get rid of that plaintive tone which she was herself aware of, which she had so often tried to remedy. Instead of it she tried a little jauntiness and gaiety, for extremes are always easy. It is the juste-milieu which it is so difficult to attain.
+
+“I am afraid I scolded you last night, Hester. I was cross when you came back. One can’t help being cross when one has a great many things to say and no audience,” she said with a laugh.
+
+“I am very sorry, mamma. I did not mean to stay so late.”
+
+“Oh, it was nothing, my dear. I had Harry. He sat with me a long time. He is﻿—really﻿—very﻿—entertaining when you have him to yourself.”
+
+“Is he?” said Hester demurely. “I should not have expected that: but I am very glad, mother, for your sake.”
+
+“Because I am likely to see a great deal of him in the future? Oh yes, my dear. I hope so, at least. He is very kind to me. Nobody has spoken so nicely of me for many a year.”
+
+“I like him for that,” said Hester honestly, yet with a blush of self-consciousness; for perhaps though she liked him for it, it did not improve her opinion of Harry’s intellect, that he should find her mother’s company so congenial.
+
+“Oh, you would if you knew him better, Hester. He feels for me in my changed circumstances. You don’t know how different things used to be, what a great deal people used to think of me when I was young. I don’t complain, for perhaps it was silly of them; but it is a great change. But living where he does in my house, you know, Harry feels that: he says it is there I ought to be﻿—in the White House. Even though nothing should ever come of it, it is nice that somebody should think so.”
+
+“Unfortunately nothing can ever come of it,” said Hester. “However nice people may be they do not give up their house to you, or their living; for you would need his money as well, to be able to live in the White House.”
+
+“You say unfortunately, dear,” said her mother, with eagerness. Mrs. John blushed like a girl as she began her attempt to hint out Harry’s love-tale to her daughter. She was innocent and modest, though she was silly. No talk about lovers, no “petty maxims” about marriage, had ever offended Hester’s ears. Her mother blushed and trembled when she felt herself broaching the subject to her child. “Oh, Hester, it would be easy, very easy, to cease to be unfortunate﻿—if you choose, dear. All that part of our life might fly away like a cloud﻿—if you choose. We might be done with poverty and dependence and thinking of what Catherine will say and what people will think. The White House﻿—might be yours if you liked, everything might be yours. You would only have to say the word.”
+
+Mrs. John’s eyes filled with tears. She could not get to the end of a long speech like this without crying; and she was so anxious, that they found their way also into her voice.
+
+“Mother!” cried Hester, opening wide her eyes. They were very bright and clear, and when they opened widely looked almost unnatural in their size. She was all the more startled that she had never been subject to any such representation before. “I don’t know what you mean,” she said. “What should we do with the White House? I think it is a vulgar, staring place, and far too big.”
+
+“Don’t speak so, Hester. I can’t bear it. My own married home that your poor papa took me to!”
+
+“I beg your pardon, mother. I had forgotten that. Of course taste was different in those days.”
+
+“Oh, taste! Your poor papa had beautiful taste. There are some things there that just break my heart﻿—the ormolu set that everybody admired so, and the picture of me over the mantelpiece in the little parlour. It used to be in the drawing-room, but you can’t wonder at them changing it. The hair was worn high then, on the top of your head, and short sleeves. It was very becoming to me. And to hear you call it vulgar and staring﻿—”
+
+“It was a mistake, mamma. I did not think what I was saying. Forgive me, mother dear!”
+
+“You know I would forgive you anything,” cried Mrs. John, now fairly launched, and forgetting all prudential restraints. “But oh, Hester, my darling, when he speaks to you don’t be hasty; think of all that is involved. I am not going to tell you what he wants to say﻿—oh no, he would never forgive me. It is he himself that must tell you that. But Hester, oh, don’t speak hastily; don’t answer all in a moment, without thinking. Often, often a girl says what she is sorry for, not being prepared. Think, my darling, what it would be﻿—not only to be rich, but to be independent﻿—to have your own house, all your own, and no charity﻿—to have as much money as you want, to be able to help the poor, and do everything you wish, and to make me happy, so happy, to the end of my days!”
+
+It was thus that Mrs. John treated Harry’s secret. She forgot all her precautions and her conviction that from himself only the proposal ought to come. The dialogues she had invented, the long conversations with Hester which she had held in imagination, delicately, diplomatically leading up to the main possibility, had all disappeared when the moment came. When she began to speak she had forgotten them altogether, and gone off impromptu without recollecting a syllable of all that had been so painfully prepared: and her own eloquence, if it did not affect her daughter, affected herself beyond description: her mouth quivered, the tears flowed out of her eyes. Hester, who could no more bear to see her mother cry (though she had seen that sight often enough) than to see the tears of a child, rose from her seat, and coming round hurriedly behind Mrs. John’s chair put her arms caressingly round her, and laid her cheek to that wet one. She was not so entirely unprepared but that she understood well enough what this emotion meant, but she tried to look as if it had a different meaning altogether. She drew her mother’s head to her breast and kissed her.
+
+“Dear mother! Is it really so bitter to you to be dependent? and you never let me know that you felt it.”
+
+“What would have been the good,” said the poor lady, “when we could do nothing? The thing was to put the best face upon it. But now when it is all in your power﻿—”
+
+“It was always in my power,” said Hester, with a mixture of real earnestness and a desire to persuade her mother that she put a different meaning upon all that had been said; “if you had not stopped me, mother; but I have not lost my accent, and if you will only give your consent now﻿—I am older, and people will trust me with their children.”
+
+“Oh, Hester, do not vex me so,” cried Mrs. John. “Do you think that is what I mean? And besides, if I were to give you leave tomorrow, Catherine, you know, would never consent.”
+
+“If you will trust to me,” said Hester, colouring high, “what Catherine pleases shall not be the last word.”
+
+Mrs. John wrung her hands, drawing herself out of Hester’s arms, to gaze into her face.
+
+“Oh, why will you make such a mistake? It is not *that*. I am not strong to stand out against you, Hester, but for your own sake. And Catherine would never let you do it. Oh, this is quite a different thing, my dear love! Not to work like any poor girl, but to be far above that, to have everything that heart could desire. And all so right and so nice, and so suitable, Hester. If your dear papa had lived and all had gone well I could not have wished for a better match.”
+
+“Match!” said the girl, colouring violently.
+
+She had indeed understood well enough that Harry was behind all her mother’s anxious insinuations, her promises and entreaties, but she had been confident in her power to defeat Mrs. John by aid of her own confused statements always capable of bearing two meanings. This word “match,” however, was one upon which there could be no confusion, and she was immediately driven to bay. She drew herself away from the tender attitude in which she had been standing.
+
+“I never thought,” she said, “that this was a thing that could be discussed between us,” with all the unreasonable indignation of a high-handed girl, determined to crush all attempts to influence her on the spot.
+
+But Mrs. John, though she was conscious she could not stand against Hester, was too sure that she was right, and too deeply convinced of the importance of this great question to give in, as she usually did.
+
+“Oh why should it not be discussed between us?” she said. “Is there anyone so much interested as I am? I have heard people say it was a mother’s duty. And Hester, abroad where we used to live, I should have settled it altogether﻿—you would never have been consulted. I am sure I don’t know that it is not the best way.”
+
+“It is a way﻿—that could never have been taken with me,” Hester said. She walked round to her own side of the table with a very stately aspect and sat down, and made a pretence of resuming her breakfast, but her hand trembled with excitement as she took up her cup. “It may be quite true what you say, that you are interested, mother. I suppose so. People consider a girl a piece of goods to be sold and disposed of.”
+
+“Oh, Hester, have I ever thought so? I have been wanting in my duty,” cried Mrs. John. “I have never tried to put you forward, to get you invitations, to have you seen and admired as other people do. You are so proud and so fanciful that I have never dared to do it. And when there comes one, without ever being invited, or thought of, or supposed possible﻿—”
+
+It seemed to Hester that the burning blush which she felt go all over her was capable of bursting into flame. It was not the shy shamefacedness with which every girl contemplates this subject on its first introduction, but bitter and scorching shame.
+
+“Invited﻿—thought of; mother!” she cried in a voice of girlish thunder; “is it possible that you could ever think of scheming﻿—matchmaking﻿—for **me**?”
+
+No capitals could represent the fervour of her indignation. She was entirely unconscious of the arrogance of self-opinion that was in all she said. For **me**. That a man should be invited into her presence with that thought, that she should be put forward, taken into society in order to be seen with that view. Heaven and Earth! was it possible that a woman should avow such possibilities and yet live?
+
+“When I tell you that I never did it, Hester! though I know it was my duty,” Mrs. John cried with tears. Never was woman punished more unjustly. She turned like the proverbial worm at the supreme inappropriateness of this judgment against her, and a sudden impulse of anger sustained the gentle little woman. “I know it was my duty,” she cried; “for who is to care for you, to see that you are settled in life, but me? But I was afraid to do it. I was obliged to leave it﻿—to Providence. I just said to myself, it is no use. Hester would never be guided by me. I must leave it﻿—to Providence.”
+
+It did not appear that Mrs. John had much opinion of Providence in such matters, for she announced this with a voice of despair. Then taking courage a little, she said with insinuating gentleness﻿—
+
+“I was just the same when I was a girl. I could not endure to hear about settlements and things. It was all love I thought of﻿—my darling. I was like you﻿—all love.”
+
+“Oh, mother!” cried Hester, jumping to her feet. This was more intolerable than the other. Her face flamed anew with the suggestion that it was “all love.” “For Heaven’s sake don’t say any more about it, unless you want to drive me out of my senses,” she said.
+
+Mrs. John stopped crying, she was so astonished, and gazed with open mouth and eyes. She had thought this last tender touch would be irresistible, that the child would fall into her arms, and perhaps breathe forth the sweetest secret aspiration of her heart﻿—perhaps own to her that dark eyes and a moustache had been her dream instead of Harry’s fairness; or that a melting voice or a genius for poetry were absolute requirements of her hero. With all these fancies she would have so tenderly sympathised. She would have liked to discuss everything, to point out that after all a fair complexion was very nice, and a genius for poetry not profitable. She remembered what occupation and delight these same subjects had afforded herself in the interval before John Vernon had proposed to her. She herself had dreamed of a troubadour, a lonely being with a guitar, with long hair and misfortunes; and John Vernon had none of these attractions. She was talked over by her mother and sister and made to see that the Bank and the White House were far better. Hester, perhaps, would have been more difficult, but yet she had felt that, confidence once established, the sweetness of these discussions would have been unspeakable. When she had got over her astonishment, she sank back in a despair which was not unmingled with resentment. Had it come to that, that nothing a mother could say would please a child nowadays﻿—neither the attraction of a great match nor the tenderness of love?
+
+This was how the great question of a young woman’s life was first revealed to Hester. It was not, to be sure, the last word. That would come when she was placed face to face with the aspirant for her favour and have to decide, so to speak, upon the future of two lives. But to say “no” to Harry would not have excited and confused her being, like this previous encounter with all the other powers and influences which were concerned﻿—or which were considered to be concerned, in her fate.

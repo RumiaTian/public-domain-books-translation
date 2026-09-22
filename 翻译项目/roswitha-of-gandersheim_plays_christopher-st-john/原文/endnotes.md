@@ -1,0 +1,11 @@
+## Endnotes
+1. Since this was written, an English translation of one of the plays, *Abraham*, has been issued by a private press. ↩︎
+2. I have adopted this form of the name in preference to “Hrotsuitha,” “Hrotswitha,” or “Hrosvitha,” as being more easily pronounced and more pleasant to the eye. The name is said to be derived from the old Saxon word “Hrodsuind” (strong voice), a derivation accepted by Roswitha herself in her preface to her plays, when she writes “*ego, clamor validus Gandeishermensis*,” and approved by Grimm. ↩︎
+3. Believing that the representation of the plays is possible, even desirable, I have also aimed at making the dialogue *speakable*. ↩︎
+4. The manuscript is now in the Munich City Library. Recently another manuscript, containing four of the six dramas, is reported to have been discovered among the state archives of Cologne. (*Times* Berlin Correspondent, May 9, 1922.) ↩︎
+5. Since this was written *Callimachus* (translation by Arthur Waley) has been produced by the Art Theatre. *Paphnutius*, in my translation, was produced by Miss Edith Craig for the Pioneer Players at the Savoy Theatre on June 4, 1914, Miss Ellen Terry appearing in the part of the Abbess. ↩︎
+6. Celtes prints this as part of the text; Magnin as a direction, on the ground that it is *introducuntur*, not *introducautur* in the MS. ↩︎
+7. Another “stage direction” omitted by Celtes. ↩︎
+8. This admonition to “spectators” is in the MS. and seems inexplicable if Roswitha wrote her plays to be read, not performed. ↩︎
+9. When *Paphnutius* was acted, the dialogue of the “disciples” was allotted to several different actors, with the interesting result that some definite characters emerged. ↩︎
+10. It has been my duty to preserve this rather tiresome numerical discourse, which no doubt Roswitha introduced to impress the “learned men” to whom she submitted her work, because it throws an interesting light on the studies pursued in such a monastery as Gandersheim in the 10th century. Equivalent modern English terms have been employed where the original, by change of usage, has become misleading. For example, “divisor” and “quotient” have been substituted for “denomination” and “quantity.” ↩︎

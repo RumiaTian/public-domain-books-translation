@@ -1,0 +1,11 @@
+# For to See the Town
+- Anthony, go to accompany they gentilsmen, do they see the town.
+- We won’t to see all that is it remarquable here.
+- Admire this master piece gothic architecture’s.
+- The chasing of all they figures is astonishing indeed.
+- The streets are very layed out by line and too paved.
+- There is it also hospitals here?
+- It not fail them.
+- What are then the edifices the worthest to have seen?
+- It is the arsnehal, the spectacle’s hall, the cusiom-house and the Purse.
+- We are going too see the others monuments such that the public pawnbroker’s office, the plants garden’s the money office’s, the library.

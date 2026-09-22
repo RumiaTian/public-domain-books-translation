@@ -1,0 +1,50 @@
+## XLIV Vasitthi’s Bequest
+And they were the last I heard on earth.
+My life-force was exhausted; fever held my senses in thrall. Like fleeting dream-pictures, I still saw figures round about me﻿—Medini’s face often near to mine. Then everything became dark. Suddenly, however, it seemed as if a cool bath were extinguishing my burning fever. I felt as a traveller, standing on the brink of a pond in the blazing sun, may well imagine to himself the lotus feels when, wholly submerged in the cool water of the spring, it imbibes a refreshing draught through every fibre. At the same time it grew light overhead, and I saw there above me a great floating red lotus flower; and over its edge bent thy loved face. Then I ascended without effort and awoke beside thee in the Paradise of the West.
+“And blessings on thee,” said Kamanita, “that led by thy love, thou didst take that way. Where should I have now been, if thou hadst not joined me there? True, I don’t know whether we shall be able to rescue ourselves out of the frightful wreckage of these ruined worlds﻿—nevertheless, thou dost inspire me with confidence, for thou art seemingly as little disturbed by all these horrors as the sunbeam by the storm.”
+“He who has seen the greater, my friend, is not moved by the less. And this, that thousands upon thousands of worlds should pass away, is of trifling import compared with the entering of a Perfected Buddha into Nirvana. For all this that we see around us is only a process of change, and all these beings will enter again into existence. Yonder hundred-thousandfold Brahma who, burning with rage, resists the inevitable and, in all probability, regards even us enviously because we quietly continue to shine, he will reappear on some lower plane, while some aspiring human spirit will arise as the Brahma. Each being will be where the deepest desire of his heart and his spiritual force guide him. On the whole, however, everything will be as it was, neither better nor worse; because it will be created, as it were, out of the same material. For which reason I call this a very small matter. And, for the same reason, I consider it not only not frightful, but a matter of rejoicing to live through this wreck of worlds. For if this Brahma world were eternal, there would be nothing higher.”
+“Then thou knowest a higher than this Brahma world?”
+“This Brahma world, as thou seest, passes away. But there is that which does not pass, which shall have no end, and which has had no beginning. ‘There is,’ says the Master, ‘a place where there is neither earth nor water, neither light nor air, neither infinitude of space nor infinitude of consciousness, neither perception nor the lack of perception. That I call, ye disciples, neither coming nor going, neither birth nor death; that is the end of suffering, the place of rest, the land of peace, the invisible Nirvana.’ ”
+“Help me, thou sweet and holy one, in order that we may rise again there, in the land of peace!”
+“ ‘That we shall rise again,’ the Master has said, ‘is not true of that land;’ and ‘That we shall not rise again’ is also not true. Any appellation by which thou dost make anything whatsoever tangible, and capable of being grasped, is untrue there.”
+“But what is the value to me of that which I cannot grasp?”
+“Rather ask, is that which can be grasped, worth stretching out one’s hand for?”
+“Ah, Vasitthi, I verily believe I must at some time have murdered a Brahman or committed some similar crime that pursued me so cruelly with its retribution in the little street of Rajagriha. For if I had not been so precipitately thrust out of life there, I should have sat at the Master’s feet, and would also assuredly have been present, as thou wert, at his Nirvana, and now I would have been as thou art. But come, Vasitthi﻿—while thought and perception are yet ours, do this for love of me. Describe the Perfect One to me exactly, in order that I may see him in spirit, and thereby obtain what was not vouchsafed to me on earth. That will surely bring me peace.”
+“Gladly, my friend,” answered Vasitthi. And she described to him the appearance of the Buddha, feature by feature, forgetting not the smallest detail.
+But in a tone of deep discontentment, Kamanita said﻿—
+“Oh! Of what use are descriptions! What thou now sayest, could, all of it, just as well have been said of that old ascetic, of whom I have told thee that I spent the night with him in the hall of a potter at Rajagriha, and who, I imagine, was not quite so foolish as I believed, for he indeed, as I now perceive, said much that was true. Well then, Vasitthi, don’t tell me anything more, but picture the Perfect One in spirit till thou seest him as when thou didst behold him face to face, and it may be that, in consequence of our spiritual fellowship, I shall then share thy vision.”
+“Gladly, my friend.”
+And Vasitthi recalled the image of the Perfect One as he was about to enter into Nirvana.
+“Dost thou see him, my dear one?”
+“Not yet, Vasitthi.”
+“I must make this mind-picture plastic,” thought Vasitthi.
+And she looked around her in immeasurable space where the Brahma world was in process of being extinguished.
+Just as when some great master-founder, who has completed the mould of the glorious image of a god and finds that he hasn’t metal enough to fill the mould, looks around him in his foundry and throws all that lies about him there﻿—tiny images of the gods, figures, vases, and bowls, all his possessions, the work of his life﻿—gladly and heartily into the smelting furnace, in order that he may be able to make a perfect cast of this one glorious divine image, so did Vasitthi look around her in immeasurable space, and all that there was left over of the paling light and dissolving forms of this Brahma world, she drew by her spiritual force to herself, thereby depopulating the whole of space, and this whole mass of astral matter she cast into the mould of her mind-picture and so created a colossal and luminous picture of the Perfect One, just as he was about to enter into Nirvana.
+And when she saw this picture opposite to her there arose in her no longing and no sadness.
+Yet even the great and holy Upagupta, when, by the magic art of Mara, the Evil One, he saw the form of the Buddha, after the latter had been long dead, even he was filled with longing, so that he flung himself adoring at the feet of the deceptive apparition and, overcome by grief, wailed, “Woe upon this pitiless evanescence that dissolves even such glorious forms. For that splendid body of the Great and Holy One bowed to the law of change and has become a prey to destruction.”
+But not so Vasitthi.
+Unmoved and self-possessed, she looked upon the likeness as an artist on his work, full of but one thought﻿—to reveal it to Kamanita.
+“Now I begin to see a figure,” said the latter. “Oh, hold it fast, let it shine yet more clearly.”
+Whereupon Vasitthi again looked around her in space. In the midst of it there still remained the lurid and angry glow of the hundred-thousandfold Brahma.
+And Vasitthi rent by her spiritual force this highest deity from his place and banned him into the mould of the Buddha likeness, which immediately lighted up and grew animated like one who has enjoyed an invigorating draught.
+“Now I see it more distinctly,” said Kamanita.
+It seemed to Vasitthi, however, that the Buddha spoke to her.
+“So thou art come, my daughter. Art thou finished with thy sentence?”
+And as one answers in a dream, Vasitthi responded﻿—
+“I am finished with it, O Master.”
+“Right so, my daughter! And the long way has not tired thee? Dost thou still need the help of the Perfect One?”
+“No, O Master, I no longer need the help of the Perfect One.”
+“Right so, my daughter. Thou hast sought refuge in thyself, thou dost rest in thine own self, Vasitthi?”
+“I have learnt to know mine own self, O Master. As one rolls up the phyllodium of a pisang trunk and finds beneath it no sound wood from which anything firm can be made, so I have learned to know myself, a body of changing forms in which there is nothing eternal, nothing that offers permanence. And I give up this self of mine. ‘That is not I, that does not belong to me’ is the judgment I now pass upon myself.”
+“Right so, my daughter. Thou dost now cling firmly to the doctrine alone?”
+“The doctrine, O Master, has brought me to my goal. As one, crossing a stream by means of a raft, neither clings to the raft when he has reached the farther side, nor drags it along with him, so I no longer cling to the doctrine but let it go.”
+“Right so, my daughter! Thus, clinging to nothing, attached to nothing, thou wilt rise again beside me in the Place of Peace.”
+“ ‘That we shall rise again,’ thou hast said is not true of that place, and ‘That we shall not rise again’ is also not true. And even the doctrine that neither is it true to say that we shall rise again nor yet to say that we shall not rise again﻿—even this is itself not true. Nothing is true any longer, and, least of all, is nothingness true. So I understand at last.”
+Then the Buddha likeness smiled an illuminating smile.
+“Now I am able to see the face,” said Kamanita. “Like a reflection in flowing water I recognise it vaguely. Oh, hold it fast, steady it, Vasitthi.”
+Vasitthi looked around her in space.
+Space was empty.
+Then Vasitthi flung her own corporal substance into the astral mass of the vision.
+Kamanita observed that Vasitthi had disappeared. But as one who is dying leaves a legacy, so had Vasitthi left to Kamanita the Buddha likeness, which remained alone with him in space and which he now clearly recognised.
+“That old ascetic with whom I spent the night in Rajagriha and whom I blamed for his foolishness, that was the Perfect One! Oh fool that I was! Was there ever a greater fool than I? What I have been longing for as the highest happiness, as salvation itself, that I have already been in possession of for milliards of years.”
+Then the vision of the Buddha drew near like an oncoming cloud and enveloped him in a luminous mist.

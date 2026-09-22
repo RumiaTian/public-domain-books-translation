@@ -1,0 +1,239 @@
+====================================================================================================
+### james-branch-cabell_the-line-of-love  (10 files)
+  块: O=397 C=397 OK | 段: EN=1489 CN=1592 !!差 -103
+     [不对称] chapter-1-the-wedding-jest.md                        O=30 C=30 段EN=144 段CN=159
+     [不对称] chapter-10-semper-idem.md                            O=7 C=7 段EN=19 段CN=31
+     [不对称] chapter-3-love-letters-of-falstaff.md                O=124 C=124 段EN=151 段CN=150
+     [不对称] chapter-4-sweet-adelais.md                           O=30 C=30 段EN=184 段CN=199
+     [不对称] chapter-5-in-necessitys-mortar.md                    O=54 C=54 段EN=196 段CN=212
+     [不对称] chapter-6-the-conspiracy-of-arnaye.md                O=24 C=24 段EN=160 段CN=172
+     [不对称] chapter-7-the-castle-of-content.md                   O=21 C=21 段EN=179 段CN=190
+     [不对称] chapter-8-in-ursulas-garden.md                       O=33 C=33 段EN=150 段CN=165
+     [不对称] chapter-9-porcelain-cups.md                          O=37 C=37 段EN=123 段CN=131
+  英文残留(剔括注) top: II×18, III×16, IV×15, in×11, of×10, de×7, the×7, and×5, his×4, Love×4
+  项目说明备注: 10 个独立短篇（episode），由世代血脉与「爱之线索」松散串联，各篇可独立成译。每篇卷首多有外语诗句题词，详见术语表「翻译策略」：原文块照录，译文块先存原文再附中文意译。卡贝尔语域繁丽典雅、夹叙夹议、冷嘲为骨，译文须保仿典雅书面语调，忌口语化。详见术语表。
+  -- 术语表硬约束行 223 条:
+     Jurgen                         → 于尔根                  源×5     译×3     残留「当铺老板于尔根」×1
+     Florian de Puysange            → 弗洛里安·德·皮桑日           源×10    译×10   
+     Adelaide de la Forêt           → 阿德莱德·德·拉福雷           源×2     译×2    
+     Madame Félise de Puysange      → 费莉丝·德·皮桑日夫人          源×1     译×1    
+     Comte de la Forêt              → 拉福雷伯爵                源×2     译×2    
+     Tiburce d’Arnaye               → 蒂比尔丝·达尔奈             源×10    译×10   
+     Etienne de Nérac               → 艾蒂安·德·内拉克            源×1     译×1    
+     Black Torrismond               → 「黑」托里斯蒙德             源×1     译×1    
+     Adhelmar                       → 阿代尔玛                 源×104   译×100  
+     Falstaff                       → 福斯塔夫                 源×7     译×7    
+     Adelais                        → 阿德莱丝                 源×57    译×55   
+     Matthiette                     → 玛蒂埃特                 源×50    译×49   
+     Dame Melicent                  → 梅利森特夫人               源×8     译×8    
+     Cynthia Allonby                → 辛西娅·阿隆比              源×6     译×6    
+     Edward Musgrave                → 爱德华·马斯格雷夫            源×2     译×3    
+     R. V. Musgrave / Colonel Musgr → R. V. 马斯格雷夫 / 马斯格雷夫上 源×3     译×3    
+     Pevensey                       → 佩文西                  源×44    译×40   
+     Marlowe / Kit Marlowe          → 马洛 / 「Kit」克里斯托弗·马洛   源×22    译×12    落位偏低 12/22
+     Villon                         → 维永                   源×7     译×6    
+     Will Sommers                   → 威尔·萨默斯               源×4     译×4    
+     Nicolas de Caen                → 尼古拉·德·卡昂             源×2     译×2    
+     Mrs. Grundy                    → 格伦迪夫人                源×2     译×2    
+     Mrs. Grundy（泛指）                → 世俗 / 格伦迪夫人           源×0     译×0     ★源0次(幽灵?)
+     Sylvie                         → 希尔薇                  源×9     译×9    
+     Mélite / Demoiselle Mélite     → 梅莉特 / 梅莉特小姐          源×57    译×57   
+     Reinault de Puysange           → 雷诺·德·皮桑日             源×1     译×1    
+     Hugues d’Arques / Sieur d’Arqu → 于格·达尔克 / 达尔克大人       源×17    译×16   
+     Henri de Nointel               → 亨利·德·努安泰尔            源×1     译×1    
+     Marshal Arnold d’Andreghen     → 阿诺·德·安德雷根元帅          源×1     译×1    
+     One-eyed Peire                 → 独眼佩尔                 源×2     译×1    
+     Tannhäuser                     → 唐怀瑟                  源×2     译×2    
+     Hinsauf                        → 欣绍夫                  源×1     译×1    
+     Ralph de Nointel               → 拉尔夫·德·努安泰勒           源×1     译×1    
+     Richard                        → 理查                   源×3     译×3    
+     Perion of the Forest           → 林间的佩里翁               源×1     译×1    
+     Demetrios                      → 德米特里奥斯               源×1     译×1    
+     Lilith                         → 莉莉丝                  源×1     译×1     残留「夏娃的长辈」×1
+     Raimbaut de Vaqueiras          → 兰博·德·瓦凯拉斯            源×1     译×1    
+     Miramon Lluagor                → 米拉蒙·柳阿戈尔             源×1     译×1    
+     Marchfeld / battle of Marchfel → 马希费尔德 / 马希费尔德之战      源×1     译×1    
+     Hugh Darke                     → 休·达克                 源×1     译×1    
+     Sylvia Vernon / Sylvia Darke   → 西尔维娅·弗农 / 西尔维娅·达克    源×5     译×6    
+     Robert Vernon of Winstead      → 温斯特德的罗伯特·弗农          源×1     译×1    
+     Bardolph                       → 巴道夫                  源×13    译×13   
+     Mistress Quickly               → 快嘴桂嫂                 源×5     译×5    
+     Goodman Quickly                → 桂掌柜                  源×2     译×2    
+     Doll Tearsheet                 → 桃儿·贴席                源×2     译×2    
+     Poins                          → 波因斯                  源×1     译×1    
+     Hotspur / Percy                → 霍茨波 / 潘西             源×3     译×3    
+     Sir Edward Falstaff            → 老爱德华·福斯塔夫爵士          源×1     译×1    
+     Sir Thomas Mowbray             → 托马斯·莫布雷爵士            源×2     译×2    
+     Fulke d’Arnaye / Sieur d’Arnay → 富尔克·达尔奈 / 达尔奈大人      源×41    译×40   
+     Adelais Vernon                 → 阿德莱丝·弗农              源×4     译×4    
+     Sir Hugh Vernon                → 休·弗农爵士               源×2     译×2    
+     Olivier d’Arnaye               → 奥利维耶·达尔奈             源×1     译×1    
+     Roger Darke of Yaxham          → 亚克斯姆的罗杰·达克           源×1     译×1    
+     Marquis of Falmouth            → 法尔茅斯侯爵               源×20    译×23   
+     John of Bedford                → 贝德福德的约翰              源×2     译×2    
+     Henry V / Henry of Monmouth    → 亨利五世 / 蒙茅斯的亨利        源×6     译×3     落位偏低 3/6
+     Simeon de Beck                 → 西蒙·德·贝克              源×1     译×1    
+     Earl of Brudenel               → 布鲁德内尔伯爵              源×2     译×2    
+     Noël d’Arnaye                  → 诺埃尔·达尔奈              源×8     译×8    
+     Catherine de Vaucelles         → 卡特琳·德·沃塞勒            源×7     译×7    
+     Raymond d’Arnaye               → 雷蒙·达尔奈               源×2     译×2     残留「阴谋」×2
+     Raoul de Frison                → 拉乌尔·德·弗里松            源×3     译×6    
+     Alys                           → 阿莉丝                  源×3     译×2    
+     Captain Gotiard                → 戈蒂亚尔队长               源×1     译×1    
+     Brother François               → 弗朗索瓦修士               源×2     译×2    
+     Nicole Beaupertuys             → 妮科尔·博珀蒂伊             源×1     译×1    
+     Jehan de Troyes                → 让·德·特鲁瓦              源×1     译×1    
+     François de Montcorbier        → 弗朗索瓦·德·蒙科尔比耶         源×12    译×12   
+     François Villon                → 弗朗索瓦·维永              源×13    译×12    残留「流浪汉」×1
+     Philippe Sermaise              → 菲利普·塞尔莫瓦斯            源×5     译×5    
+     Ysabeau de Montigny            → 伊莎博·德·蒙蒂尼            源×7     译×7    
+     René de Montigny               → 勒内·德·蒙蒂尼             源×3     译×3    
+     Guillemette Moreau             → 吉耶梅特·莫罗              源×4     译×4    
+     Guillaume de Villon            → 纪尧姆·德·维永             源×2     译×2    
+     Gilles Raguyer                 → 吉尔·拉居耶               源×4     译×4    
+     Jehan de Vaucelles             → 让·德·沃塞勒              源×4     译×4    
+     Jehan le Merdi                 → 让·勒梅尔迪               源×2     译×2    
+     Guy Tabary / Petit Jehan / Col → 居伊·塔巴里 / 小让 / 科兰·德·卡 源×5     译×5    
+     Guillaume Coiffier             → 纪尧姆·夸菲耶              源×1     译×2    
+     Thevenin Pensete               → 泰夫南·庞塞特              源×2     译×2    
+     Thomas Tricot / Martin Blaru / → 托马·特里科 / 马丁·布拉吕 / 罗班 源×3     译×3    
+     Macée                          → 玛赛                   源×3     译×3    
+     Henri Cousin                   → 亨利·库赞                源×1     译×1    
+     Rougemont / Dunois             → 鲁热蒙 / 迪努瓦            源×4     译×4    
+     Comte de Vaudremont            → 沃德雷蒙伯爵               源×1     译×0     ★译0次(未落位?)
+     Lady Adeliza                   → 阿德莉扎小姐               源×15    译×15   
+     Stephen Allonby                → 斯蒂芬·阿隆比              源×3     译×3    
+     Tom Allonby                    → 汤姆·阿隆比               源×4     译×4    
+     Elinor Sommers                 → 埃莉诺·萨默斯              源×1     译×1    
+     Anne de Beaujeu                → 安妮·德·博热              源×1     译×1    
+     Blaise                         → 布莱兹                  源×5     译×5    
+     Beatris                        → 贝亚特丽丝                源×2     译×2    
+     Cardinal Morton                → 莫顿红衣主教               源×1     译×1    
+     Lady Ursula Heleigh            → 厄休拉·希利小姐             源×1     译×1    
+     Master Richard Mervale         → 理查德·默维尔先生            源×1     译×1    
+     Mistress Katherine Beaufort    → 凯瑟琳·博福特小姐            源×1     译×2     残留「默维尔先生」×73
+     Stephen Allonby（the younger）   → 小斯蒂芬·阿隆比             源×0     译×0     ★源0次(幽灵?)
+     Sir Henry Rochford             → 亨利·罗奇福德爵士            源×1     译×1    
+     Lord Norreys                   → 诺里斯勋爵                源×1     译×1    
+     Lucius Rossmore                → 卢修斯·罗斯莫尔             源×1     译×1    
+     George Bulmer / Lord Pevensey（ → 乔治·布尔默 / 佩文西勋爵       源×14    译×18   
+     Cynthia Allonby                → 辛西娅·阿隆比              源×0     译×0     ★源0次(幽灵?)
+     Kit / Kit Marlowe              → 基特 / 基特·马洛           源×6     译×16   
+     Captain Edward Musgrave / Ned  → 爱德华·马斯格雷夫队长 / 内德     源×7     译×6    
+     Mary                           → 玛丽                   源×2     译×2     残留「小耗子」×1
+     Meg                            → 梅格                   源×1     译×1    
+     Robert Cecil                   → 罗伯特·塞西尔              源×1     译×1    
+     Barriere                       → 巴里埃尔                 源×1     译×1    
+     Langard                        → 兰加德                  源×1     译×1    
+     Techelles / Usumcasane / Theri → 特切勒斯 / 乌苏姆卡萨内 / 瑟里达马 源×3     译×3    
+     Euripides                      → 欧里庇得斯                源×2     译×2    
+     Gloriana                       → 格罗丽亚娜                源×1     译×1    
+     Poictesme                      → 普瓦泰斯姆                源×4     译×4    
+     Storisende                     → 斯托里森德                源×5     译×5    
+     Puysange                       → 皮桑日                  源×58    译×58   
+     la Forêt                       → 拉福雷                  源×0     译×0     ★源0次(幽灵?)
+     Arnaye                         → 阿尔奈                  源×29    译×17    落位偏低 17/29
+     Nérac                          → 内拉克                  源×0     译×0     ★源0次(幽灵?)
+     Amneran                        → 阿姆内兰                 源×2     译×2    
+     Normandy                       → 诺曼底                  源×11    译×11   
+     Matocton                       → 马托克顿                 源×0     译×0     ★源0次(幽灵?)
+     Allonby                        → 阿隆比                  源×10    译×11   
+     the Colony of Virginia         → 弗吉尼亚殖民地              源×1     译×1    
+     Lycia / Prince of Lycia        → 吕基亚 / 吕基亚王子          源×1     译×1    
+     Nointel                        → 努安泰尔                 源×10    译×5     落位偏低 5/10
+     Arques                         → 阿尔克（Arques 城堡译「达尔克城堡 源×7     译×5    
+     Allonby Shaw                   → 阿隆比肖                 源×4     译×4    
+     White Turret                   → 白塔楼                  源×3     译×3    
+     Yaxham                         → 亚克斯姆                 源×3     译×3    
+     Winstead                       → 温斯特德                 源×13    译×13   
+     Brétigny                       → 布雷蒂尼                 源×1     译×1    
+     Radcot Bridge                  → 拉德科特桥                源×1     译×1    
+     Eastcheap                      → 东市                   源×1     译×1    
+     Boar’s Head Tavern             → 野猪头酒店                源×3     译×3    
+     Halvergate                     → 哈尔弗盖特                源×3     译×3    
+     Castle Rising                  → 里辛城堡                 源×1     译×1    
+     Upton                          → 厄普顿                  源×1     译×1    
+     Filby                          → 菲尔比                  源×3     译×3    
+     Bure                           → 布尔河                  源×1     译×1    
+     Garianonum                     → 加里亚农努姆               源×1     译×1    
+     Agincourt                      → 阿金库尔                 源×6     译×6    
+     Vincennes                      → 万塞讷                  源×2     译×2    
+     Senlis                         → 桑利斯                  源×1     译×1    
+     Shrewsbury                     → 什鲁斯伯里                源×2     译×2    
+     Picardy                        → 皮卡第                  源×2     译×2    
+     Arras                          → 阿拉斯                  源×3     译×1     落位偏低 1/3
+     Guinegate                      → 基内加特                 源×1     译×1    
+     Harfleur                       → 阿尔夫勒尔                源×1     译×1    
+     Saint Maixent-en-Poitou        → 普瓦图的圣迈克桑             源×1     译×1    
+     Péronne                        → 佩罗讷                  源×0     译×1     ★源0次(幽灵?) 残留「君王未必永远圣明」×1
+     Rue Saint Jacques              → 圣雅克街                 源×23    译×23   
+     Rue du Fouarre                 → 福阿尔街                 源×2     译×2    
+     Montfaucon                     → 蒙福孔                  源×2     译×2    
+     Châtelet                       → 夏特莱法院                源×2     译×2    
+     Hôtel Dieu                     → 主宫医院                 源×1     译×1    
+     the Crowned Ox                 → 加冕牛酒店                源×4     译×4    
+     Geneppe                        → 热纳普                  源×3     译×3    
+     Rouvray-en-Beausse             → 博斯的鲁夫赖               源×1     译×1     残留「鲱鱼之战」×1
+     Bois Chenu                     → 舍努林                  源×1     译×1    
+     Saint Pourçain-en-Bourbonnais  → 波旁奈的圣普尔桑             源×1     译×1    
+     Hôtel de la Porte-Rouge        → 红门府                  源×1     译×1    
+     the Innocents’                 → 无辜者公墓                源×1     译×1    
+     Meung                          → 默恩                   源×1     译×1    
+     Saint Benoit-le-Bétourné       → 圣伯努瓦-勒贝图尔内           源×3     译×3    
+     Deptford                       → 德特福德                 源×5     译×5    
+     the Strand                     → 斯特兰德街                源×1     译×1    
+     Windsor / Holyrood / the Louvr → 温莎 / 荷里路德 / 卢浮宫      源×5     译×5    
+     Triloch Lenoch                 → 特里洛赫·莱诺赫             源×1     译×1    
+     the Golden Hind                → 金鹿酒店                 源×2     译×2    
+     Cataia                         → 契丹                   源×1     译×1    
+     Sestos                         → 塞斯托斯                 源×1     译×2    
+     Arcadia                        → 阿卡狄亚                 源×3     译×3    
+     Tiverton / Tiverton Manor      → 蒂弗顿 / 蒂弗顿庄园          源×11    译×10   
+     Devon                          → 德文郡                  源×4     译×1     落位偏低 1/4
+     Havre                          → 勒阿弗尔                 源×1     译×1    
+     Bosworth                       → 博斯沃思                 源×1     译×1    
+     Teignmouth                     → 廷茅斯                  源×2     译×2    
+     Exe                            → 埃克斯河                 源×4     译×4    
+     Castle of Content              → 知足城堡                 源×16    译×13   
+     Longaville Court               → 朗加维尔府                源×1     译×2    
+     Sussex                         → 萨塞克斯                 源×1     译×1    
+     Whitehall                      → 白厅                   源×1     译×1    
+     Windsor Forest                 → 温莎森林                 源×1     译×1    
+     Wyatt’s Rebellion              → 怀亚特叛乱                源×2     译×2    
+     The Line of Love               → 爱之血脉                 源×1     译×1    
+     Dizain des Mariages            → 婚姻十篇                 源×0     译×1     ★源0次(幽灵?)
+     Biography of the Life of Manue → 《曼努埃尔的一生传记》          源×0     译×0     ★源0次(幽灵?)
+     Manuel                         → 曼努埃尔                 源×0     译×0     ★源0次(幽灵?)
+     the line of love               → 爱之血脉 / 爱的脉络          源×0     译×0     ★源0次(幽灵?)
+     Walburga’s Eve / Walpurgis     → 瓦尔普吉斯之夜（Walburga’s E 源×4     译×4    
+     Sclaug                         → 斯克劳                  源×2     译×2    
+     Messire                        → 大人 / 阁下              源×7     译×95   
+     Vicomte                        → 子爵                   源×21    译×21   
+     Comte                          → 伯爵                   源×1     译×19   
+     Marquis                        → 侯爵                   源×64    译×69   
+     fief                           → 封地 / 采邑              源×6     译×8    
+     maying / Maypole               → 五月节采青 / 五月柱          源×3     译×3    
+     Society of the Cincinnati      → 辛辛那提协会               源×1     译×1    
+     Colonial Dames                 → 殖民地淑女会               源×1     译×1    
+     Explicit linea amoris          → Explicit linea amori 源×1     译×1    
+     Semper Idem                    → Semper Idem（始终如一）    源×1     译×0     ★译0次(未落位?)
+     sack                           → 白葡萄酒                 源×9     译×5     落位偏低 5/9
+     Battle of the Herrings         → 鲱鱼之战                 源×1     译×1    
+     Companions of the Cockleshell  → 贝壳帮                  源×1     译×2    
+     Fête-Dieu                      → 圣体节                  源×1     译×1    
+     Michaelmas                     → 米迦勒节                 源×2     译×3    
+     Exegi monumentum               → Exegi monumentum（我已筑 源×1     译×1    
+     celadon                        → 青瓷                   源×2     译×2    
+     Hero and Leander               → 《赫洛与利安德》             源×4     译×4    
+     Tamburlaine                    → 帖木儿                  源×3     译×4    
+     carpet earl                    → 地毯伯爵                 源×1     译×1    
+     Marler（Marlowe 误记）             → 马勒                   源×2     译×2    
+     the Plague                     → 瘟疫                   源×7     译×11   
+     The Musgraves of Matocton      → 《马托克顿的马斯格雷夫家族》       源×1     译×1    
+     Roi Atnaury                    → 《阿特瑙里王》（Roi Atnaury） 源×1     译×1    
+     Dizain des Reines              → 《王后十篇》（Dizain des Re 源×1     译×1    
+     Roman de Lusignan              → 《吕西尼昂传奇》（Roman de Lu 源×1     译×1    
+     Schahriah                      → 山鲁亚尔                 源×1     译×1    
+     the dark lady of Shakespeare’s → 莎士比亚十四行诗的「黑夫人」       源×1     译×0     ★译0次(未落位?)
+     the Envoi                      → 终曲                   源×1     译×0     ★译0次(未落位?)
+

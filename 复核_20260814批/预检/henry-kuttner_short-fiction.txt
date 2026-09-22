@@ -1,0 +1,104 @@
+====================================================================================================
+### henry-kuttner_short-fiction  (11 files)
+  块: O=241 C=241 OK | 段: EN=1269 CN=1456 !!差 -187
+     [不对称] crypt-city-of-the-deathless-one.md                   O=28 C=28 段EN=109 段CN=114
+     [不对称] don-t-look-now.md                                    O=28 C=28 段EN=160 段CN=166
+     [不对称] dream-s-end.md                                       O=22 C=22 段EN=212 段CN=233
+     [不对称] the-crystal-circe.md                                 O=7 C=7 段EN=25 段CN=31
+     [不对称] the-ego-machine.md                                   O=22 C=22 段EN=145 段CN=166
+     [不对称] the-eyes-of-thar.md                                  O=35 C=35 段EN=177 段CN=211
+     [不对称] the-secret-of-kralitz.md                             O=15 C=15 段EN=45 段CN=59
+     [不对称] thunder-in-the-void.md                               O=3 C=3 段EN=10 段CN=12
+     [不对称] war-gods-of-the-void.md                              O=21 C=21 段EN=100 段CN=120
+     [不对称] what-hath-me.md                                      O=19 C=19 段EN=79 段CN=97
+     [不对称] where-the-world-is-quiet.md                          O=41 C=41 段EN=207 段CN=247
+  英文残留(剔括注) top: ENIAC×8, Sanfel×3, Ylgana×1, Vo×1, trana×1, al-khron×1, Sfant×1, whom×1, Men×1, Ward×1
+  项目说明备注: - 各篇题材差异大（恐怖浓墨重彩、太空冒险明快、心理悬疑冷峻、黑色幽默诙谐），译文基调应**随篇调整**：哥特恐怖篇取偏书面、略带文言色彩的压抑语感；太空冒险篇节奏明快、对话利落；黑色幽默篇保留俏皮反讽与机锋。术语表「翻译策略说明」给出统一底色。 / - 库特纳自造/化用大量专有名词（克苏鲁神话专名、外星种族名、人造古语片段），术语表给出统一方案，全书严格照此；遇新词以「中文（Original）」首现标注，译后回填术语表。 / - 各篇中的人造/外星语言片段（如 the Ancient Tongue 的 *Ylgana! Vo m’trana al-khron*、Klanvahr 古语的 *Sanfel. Coth dr’gchang*）**保留原文转写**，首现以括号给出中文大意。 / - 篇名沿原文文件名（kebab-case）作为译文文件名，篇名正文标题在译文中以「英文 / 中文」合并形式呈现（如 `## The Secret of Kralitz / 克拉利茨之谜`）。
+  -- 术语表硬约束行 86 条:
+     Earth                          → 地球                   源×30    译×35   
+     the System / the Solar System  → 太阳系                  源×9     译×9    
+     the Sun / the sun              → 太阳                   源×9     译×12   
+     the Moon / Moon                → 月球 / 月亮              源×5     译×3    
+     Mars                           → 火星                   源×12    译×20   
+     Venus                          → 金星                   源×14    译×18   
+     Pluto                          → 冥王星                  源×3     译×5    
+     Neptune                        → 海王星                  源×1     译×1    
+     Saturn                         → 土星                   源×2     译×3    
+     Callisto                       → 木卫四（卡利斯托）            源×4     译×4    
+     Ganymede                       → 木卫三（盖尼米德）            源×8     译×13   
+     the asteroid belt              → 小行星带                 源×1     译×1    
+     Manhattan                      → 曼哈顿                  源×1     译×1    
+     New York                       → 纽约                   源×2     译×3    
+     Maine                          → 缅因                   源×1     译×1    
+     Kansas Spaceport               → 堪萨斯航天港               源×1     译×1    
+     Cairo                          → 开罗                   源×1     译×1    
+     Midwestern                     → 中西部大学                源×2     译×2    
+     Peru                           → 秘鲁                   源×2     译×4    
+     the Andes                      → 安第斯山脉                源×2     译×1    
+     the Cordilleras                → 科迪勒拉山脉               源×2     译×1    
+     Lima                           → 利马                   源×1     译×1    
+     Huascan                        → 瓦斯坎（Huascan）         源×10    译×10   
+     Klanvahr                       → 克兰瓦尔（Klanvahr）       源×20    译×18   
+     the Dry Provinces              → 干旱诸省                 源×1     译×1    
+     the Undercities                → 地下诸城                 源×1     译×1    
+     the Redhelm Tribe              → 红盔族（the Redhelm Trib 源×2     译×19   
+     the Redland Tribes             → 红土诸族                 源×1     译×1    
+     the Eyes of Thar               → 塔尔之眼（the Eyes of Tha 源×4     译×3    
+     Phobos                         → 福波斯                  源×1     译×1    
+     Zha                            → 扎（Zha）               源×17    译×25   
+     Castle Kralitz                 → 克拉利茨城堡（Castle Kralit 源×1     译×1    
+     Kralitz                        → 克拉利茨（Kralitz）        源×24    译×23   
+     Asgard                         → 阿斯加德（Asgard）         源×11    译×12    残留「人造小行星」×2
+     Chahnn                         → 查恩（Chahnn）           源×9     译×9    
+     Moonflower-Ritz Bar            → 月光丽兹酒吧               源×1     译×2    
+     Pluto（作异族居所时）                  → 冥王星                  源×0     译×0     ★源0次(幽灵?)
+     the Varra                      → 瓦拉（the Varra）        源×8     译×9    
+     the Plutonians                 → 冥王星人                 源×1     译×1    
+     the Aesir                      → 埃西尔神族（the Aesir）     源×14    译×18   
+     the Martians                   → 火星人                  源×18    译×62   
+     the Enemy                      → 敌人（the Enemy）        源×13    译×19   
+     the swamp people of Southern V → 金星南方沼泽族              源×1     译×1    
+     the Children of the Sun        → 太阳之子（the Children of 源×1     译×1    
+     Yuggoth                        → 尤戈斯（Yuggoth）         源×1     译×1    
+     Cthulhu                        → 克苏鲁（Cthulhu）         源×1     译×1    
+     Yog-Sothoth                    → 犹格·索托斯（Yog-Sothoth）  源×1     译×1    
+     Iod, the Source                → 伊奥德，本源（Iod, the Sour 源×1     译×1    
+     Circe                          → 喀耳刻                  源×1     译×1    
+     the Crystal Circe              → 水晶喀耳刻（the Crystal Ci 源×2     译×2    
+     Tartarus                       → 塔耳塔洛斯                源×1     译×1    
+     Argus                          → 阿耳戈斯                 源×1     译×1    
+     Lucifer                        → 路西法                  源×1     译×1    
+     Lilith                         → 莉莉丝                  源×1     译×1    
+     Manco Capac                    → 曼科·卡帕克（Manco Capac）  源×1     译×1    
+     Oello Huaco                    → 奥埃略·瓦科（Oello Huaco）  源×1     译×1    
+     spacer / spaceman              → 太空人                  源×1     译×3    
+     the spaceways                  → 星际航道                 源×2     译×2    
+     aircar                         → 飞行车 / 气垫车            源×2     译×2    
+     stratoship                     → 同温层飞船 / 平流层飞船        源×1     译×1    
+     spaceship / space cruiser      → 宇宙飞船 / 太空巡洋舰         源×1     译×2    
+     blaster（gun）                   → 爆能枪 / 光束枪            源×1     译×1    
+     force-ray                      → 力场射线                 源×1     译×1    
+     space armor                    → 太空装甲                 源×1     译×1    
+     microfilm / micro-projector    → 缩微胶片 / 缩微投影仪         源×1     译×2    
+     space-time continua            → 时空连续体                源×1     译×3    
+     North-Fever                    → 北迁热（North-Fever）     源×6     译×6    
+     filterable virus               → 滤过性病毒                源×2     译×2    
+     mola                           → 莫拉（mola）             源×2     译×2    
+     alka-roots                     → 碱根草（alka-roots）      源×1     译×1    
+     the Ancient Tongue             → 古语（the Ancient Tongu 源×4     译×5    
+     empathy surrogate              → 共情替代体（empathy surrog 源×6     译×6    
+     Pentothal narcosynthesis       → 戊硫代巴比妥麻醉综合疗法         源×1     译×1    
+     apomorphine                    → 阿扑吗啡                 源×2     译×2    
+     robot                          → 机器人                  源×87    译×93   
+     credit / credit-current        → 信用点 / 信用币            源×2     译×1    
+     Dr.                            → 博士 / 医生              源×10    译×32   
+     Mr. / Mrs. / Miss              → 先生 / 太太 / 小姐         源×6     译×10   
+     Fra（教名前缀）                      → ……神父                 源×10    译×0     ★译0次(未落位?)
+     Señor                          → 先生 / 阁下              源×5     译×0     ★译0次(未落位?)
+     Baron                          → 男爵                   源×12    译×15   
+     Consul                         → 领事                   源×13    译×14   
+     Captain                        → 船长 / 上尉              源×7     译×7    
+     Chief of Staff                 → 主任 / 参谋长             源×3     译×3     残留「科主任」×3
+     Abbot                          → 院长 / 大修道院长           源×4     译×4    
+     篇目                             → 原文                   源×0     译×0     ★源0次(幽灵?)
+

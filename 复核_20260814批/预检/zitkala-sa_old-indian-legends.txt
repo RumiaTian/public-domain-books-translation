@@ -1,0 +1,60 @@
+====================================================================================================
+### zitkala-sa_old-indian-legends  (15 files)
+  块: O=123 C=123 OK | 段: EN=445 CN=445 OK
+  英文残留(剔括注) top: Koda×3, Ni×3, Dakota×3, Shu×2, hi×2, pi×2, tokmus×1, wacipo×1, tuwayatunwanpi×1, kinhan×1
+  项目说明备注: - 原书含斜体达科他语引语+英译，译文须双保留（见术语表「翻译策略说明」）。 / - 角色名（Iktomi、Iya、Double-Face、Manštin 等）全书统一，严守术语表。 / - 保留口头文学讲故事的语气：感叹、拟声、重复节奏是本书风格的一部分。
+  -- 术语表硬约束行 53 条:
+     Iktomi                         → 伊克托米（Iktomi）         源×171   译×166  
+     Iya, the Camp-Eater            → 伊亚（Iya），「食营兽」        源×2     译×11   
+     Iya, the Eater                 → 食兽伊亚                 源×3     译×1     落位偏低 1/3
+     Old Double-Face / Double-Face  → 双面老怪（Old Double-Face 源×4     译×4    
+     Manštin                        → 曼斯汀（Manštin）         源×27    译×27    残留「兔子」×4
+     Skiska                         → 斯吉斯卡（Skiska）         源×2     译×2    
+     Patkaša                        → 帕特卡沙（Patkaša）        源×20    译×20    残留「乌龟」×10
+     Ikto                           → 伊克托（Ikto）            源×3     译×3    
+     Chaske                         → 查斯克（Chaske）          源×2     译×2     残留「食营兽」×2 残留「长子」×1
+     Inyan                          → 因扬（Inyan）            源×5     译×5     残留「曾祖父」×5
+     the Great Spirit               → 大神灵（Great Spirit）    源×3     译×5    
+     the Generous Giver             → 慷慨的赐予者（the Generous  源×1     译×1    
+     the avenger（the badger's man-s → 复仇者（the avenger）；獾的人 源×17    译×24   
+     the magic arrow                → 魔箭                   源×10    译×14   
+     the Badger                     → 獾                    源×26    译×56   
+     the Bear                       → 熊                    源×16    译×35   
+     the Turtle                     → 乌龟                   源×10    译×10   
+     the Muskrat                    → 麝鼠                   源×12    译×13   
+     the Coyote                     → 郊狼                   源×11    译×13   
+     the Fawn                       → 小鹿                   源×8     译×19   
+     the Toad                       → 蟾蜍                   源×2     译×9    
+     the red eagle                  → 红鹰                   源×13    译×18   
+     the Ashes / the Fire / the Bla → 灰烬 / 火 / 膀胱          源×16    译×58   
+     the Grasshopper / the Dragonfl → 蚂蚱 / 蜻蜓              源×6     译×6    
+     the Fish                       → 鱼                    源×14    译×20   
+     the peacock                    → 孔雀（peacock）          源×8     译×13   
+     prairie wolf                   → 草原狼                  源×1     译×1    
+     Dakota / the Dakotas           → 达科他（Dakota）          源×14    译×16   
+     Indian                         → 印第安                  源×11    译×11   
+     teepee                         → 梯皮帐篷（teepee）         源×25    译×12    落位偏低 12/25
+     wigwam                         → 棚屋（wigwam）           源×15    译×24   
+     moccasin                       → 鹿皮鞋（moccasin）        源×0     译×2     ★源0次(幽灵?)
+     leggins / deerskin leggins     → 鹿皮绑腿                 源×3     译×3    
+     brave                          → 勇士                   源×16    译×25   
+     papoose                        → 婴儿（papoose）          源×0     译×2     ★源0次(幽灵?)
+     vapor lodge（sacred stones）     → 蒸汽汗屋；圣石              源×1     译×0     ★译0次(未落位?)
+     wild sage                      → 野蒿                   源×1     译×1    
+     *Ištokmus wacipo, tuwayatunwan → 保留达科他语原文（斜体），其后接原文自带 源×1     译×0     ★译0次(未落位?)
+     *Koda Ni Dakota!*              → 「Koda Ni Dakota！（朋友， 源×3     译×0     ★译0次(未落位?)
+     *Zuya unhipi!*                 → 「Zuya unhipi！（他们出征了！ 源×1     译×0     ★译0次(未落位?)
+     Hĕ! / Hunhe! / Wän! / Hoye!    → 哈！/ 哼嘿！/ 呀！/ 好耶！     源×12    译×38   
+     Hin-hin-hin!                   → 「哼－哼－哼！」             源×4     译×2     落位偏低 2/4 残留「啊——噗——」×1
+     How!（问候）/ Han!（应诺）             → 你好！/ 嗯哪！             源×8     译×7     残留「嗯哪，我的孩子！」×1
+     Hinnú! / Ho-wo                 → 哎呀！/ 嗬－喔             源×3     译×8    
+     Āhäš! / Ūun! / Ĕ han! / En!    → 啊哈什！/ 呜嗯！/ 咿哈！/ 嗯！   源×8     译×5    
+     Hsss—tchu! / Whssh!            → 嘶——噗！/ 噗嘶！           源×1     译×2    
+     Hin-hin（哭调）                    → 哼——哼                 源×3     译×3    
+     Ah han!                        → Ah han！（请容我过去！）      源×1     译×1    
+     Wä-ough!                       → 哇——嗷！                源×2     译×2    
+     Ahōw!                          → 啊嚎！                  源×1     译×1    
+     Ōōp! ōōp!                      → 哦普！哦普！               源×1     译×1    
+     Ough!                          → 嚄！                   源×3     译×2    
+     swish! swish!                  → 唰唰！唰唰！               源×1     译×1    
+

@@ -1,0 +1,81 @@
+## XXXV
+
+Results of Science
+
+Board of Longitude﻿—Professorship of Mathematics at the East India College﻿—Professorship of Mathematics at Edinburgh﻿—Secretaryship of the Royal Society﻿—Master of the Mint﻿—Ditto﻿—Ditto﻿—Registrar-General of Births, Deaths, and Marriages﻿—Ditto﻿—Commissioner of Railways﻿—Ditto﻿—Ditto Abolished.
+
+At the commencement of life I had hoped that, whilst I indulged in the pursuits of science, I might derive from it some advantages for my family, or at least, that it might enable me to replace a small portion of the large expenditure, without which one of my most important discoveries could not be practically worked out.
+
+I shall now mention briefly several of those appointments for which I had the vanity to suppose myself qualified, and the simplicity to believe that fitness for the office was of the slightest use without interest to get the appointment.
+
+1. In the early part of 1816 the Professorship of Mathematics at the East India College at Haileybury became vacant. The salary, I believe, was £500 a-year. I became a candidate, and had strong recommendations from Ivory and Playfair. I was informed that it was usual for the candidates to call on the Directors. I did so. One of them was an honest man, for he was kind enough to tell me the truth. He said, “If you have interest, you will get it; if not, you will not succeed.”
+
+2. In 1819 the Professorship of Mathematics at Edinburgh became vacant by the death of Playfair, and the succession of Professor Leslie to his chair. I immediately became a candidate, and received testimony of my fitness from Lacroix, Biot, and Laplace.
+
+These communications, though gratifying to myself, were useless for the object. Not being a Scot, I was rejected at Edinburgh. That visit, however, led to a very agreeable incident. I spent a delightful week at Kinneil with Dugald Stewart. The second volume of his *Philosophy of the Human Mind* had fortunately fallen into my hands at an early period during my residence at Cambridge, and I had derived much instruction from that valuable work.
+
+3. About this time, in a conversation with Sir Joseph Banks, I mentioned my wish to have a seat at the Board of Longitude﻿—an office to which a salary of £100 a-year was attached. Although not then appointed, hopes were held out by Sir Joseph that at some future occasion I might be more successful. In 1820 another vacancy occurred in the Board of Longitude. I called on Sir Joseph Banks to ask his influence with the Admiralty; this he declined, alleging as a reason for withholding it﻿—the part I had taken in the institution of the Astronomical Society.
+
+I was one of its founders, had been one of its first Honorary Secretaries, and had taken an active part in that Committee, by which the *Nautical Almanac* was remodelled.
+
+4. In 1824 an opportunity unexpectedly presented itself. I was invited to take the entire organization and management of an office for the assurance of lives, then about to be established.
+
+It is sufficient to state that amongst our officers were the late Marquis of Lansdowne, the late Lord Abercrombie, the present Master of the Rolls, and the present Judge of the Admiralty Court; and that our direction included some of the first merchants in the City, two or three Directors of the Bank of England, and about an equal number of India Directors.
+
+The proposition made to me was that I should have the entire management of the concern as Director and Actuary, with a salary of £1,500 a-year, and apartments in the establishment, with liberty to practise as an Actuary.
+
+On consulting my friend the late Francis Baily, F.R.S., who had himself practised as an Actuary, he strongly advised me to accept the office. He assured me that the profit arising from private practice could scarcely be less than £1,000 a year, and would probably be much more.
+
+Under these circumstances, I accepted the proposition. On examining the materials which existed for a Table of the value of lives, I found in one of the addresses of Mr. Morgan, the Actuary of the Equitable, materials with which to construct, by the aid of various calculations, a very tolerable Table of the actual mortality in that Society. Upon this basis I calculated the Tables of our new Institution. After three months’ labour, when the whole of the arrangements had been completed, and the day for our opening had been fixed, circumstances occurred which induced us to give up the plan. After the experience I had now had of the amount of time occupied by such an office, I was unwilling to renew the engagement with other parties. I hoped by great exertions to complete the Difference Engine after the lapse of a few years, and that I should not be allowed to become a serious loser by that course.
+
+The Institution was therefore given up, and we each contributed about £100 to discharge the expenses incurred.
+
+Within the subsequent twelvemonth, an application to take the management of another Life Assurance Society was made to me, which I declined. That office is still in existence.
+
+The information and experience I had thus gained led me to think that the public were not sufficiently informed respecting the nature of assurances on lives, and that a small popular work on the subject might be useful. I prepared such a work as intervals of leisure admitted, and early in 1826 published it under the title of *A Comparative View of the Various Institutions for the Assurance of Lives*. This little volume was soon translated into German, and became the groundwork upon which the Great Life Assurance Society of Gotha was founded. Every year since that event I have received a copy of the report of the state of the Institution﻿—a gratifying attention which I am happy to have this opportunity of acknowledging.
+
+The wish expressed by my translator, in his Preface,65 has also been fulfilled by the establishment of many other excellent Life Assurance Offices, founded on similar principles.
+
+In Germany alone there were, in 1860, twenty-four Life Assurance Companies, in which about 260,000 persons were assured to the amount of upwards of forty millions sterling. The oldest and most successful of these institutions have adopted my Table of the Equitable experience, and I am informed that it agrees very well with the results of their own experience up to about the fifty-seventh year. After this the deaths are rather more frequent than those of the Equitable.
+
+Another still more gratifying result arose. My father, whose acquaintance with mercantile affairs was very extensive, was so pleased with the little book that, during the two last years of his life, he read it through three times.
+
+5. In 1846 the Mastership of the Mint became vacant. In former days it was held by Newton. I had pointed it out in *The Decline of Science* as one of those offices to which men of science might reasonably aspire. A complete acquaintance with the most advanced state of mechanical science, which the demands of my own machinery had compelled me to improve, added to a knowledge of the internal economy of manufactories, appeared to me to constitute fair claims to that office.
+
+In the event of my succeeding, I had proposed to let the whole of my salary accumulate, so that at the end of ten or twelve years I might retire from the office, and be enabled, with the £20,000 thus earned, to construct the Analytical Engine.
+
+I wrote to Lord Melbourne on the subject, but I did not mention that circumstance even to my most intimate friends. It came, however, to the knowledge of one of them, who took a very warm interest in my success; and I believe that at first I had a very fair chance. The appointment remained for a short time in abeyance; but it was found necessary to detach Sheil from O’Connell, and the appointment was therefore given to Sheil.
+
+Some years after, when Sheil was appointed our Minister at the court of Tuscany, he asked me to give him a letter of introduction to the Grand Duke Leopold II. Of course I treated the application as a joke; but Sheil assured me that he was quite serious, and that he knew it would be of use to him. I therefore gave him a letter of introduction to a sovereign from whom both before and subsequently I have been honoured by many gratifying attentions.
+
+6. In 1849, on the promotion of Sheil, the Mastership of the Mint again became vacant. I thought my own claims sufficiently known to the public; but I had no political interest. My friend Sir John Herschel was more fortunate, and he received the appointment.
+
+7. After a few years, the office again became vacant by the resignation of Sir John Herschel. The Government had now for the third time an opportunity of partially repairing its former neglect. I had, however, no political party to support me, and the present Master of the Mint, Mr. Graham, then received the appointment.
+
+### Registrar-General of Births, Deaths, etc.
+
+8. In 1835 a new office was created, that of Registrar-General of Births, Deaths, and Marriages. Mr. Francis Baily and others of my friends suggested to me that, being known to the public as qualified for this situation by my previous publications, I had a fair claim to the appointment. Having made inquiries on this subject, I found that it would be useless to make any application, as the place was intended for the brother-in-law of a Secretary of State.
+
+9. On the death of Mr. Lister, a few years after, the same office again became vacant, when other friends then made a similar suggestion.
+
+On making preliminary inquiries, I found, as before, that all applications would be useless, as the appointment was intended for a military officer, Major Graham, the brother of another Secretary of State.
+
+### Commissioners of Railways
+
+10. Some years ago, the alarm created by accidents occurring upon railways, induced the Government to consider about the appointment of a Commission to examine into their causes, and to lay down rules for the guidance of the Companies in the prevention of those dangers.
+
+In 1846 an Act of Parliament was passed appointing Commissioners for the supervision of railways. Having myself thought much upon the subject, and having had personally some experience on railways, I had the vanity to think that the mechanical knowledge of the author of *The Economy of Manufactures* would justify his appointment as one of those Commissioners.
+
+Applying, under such circumstances, for a Commissionership of the Railway Board, I expected that I should find few competitors with higher claims. But I had no interest﻿—a military engineer was appointed, who already held a civil appointment, and who died in less than two years after.
+
+11. On the occurrence of this vacancy another military officer was appointed. I was again passed over, under circumstances which at the time I thought must have caused deep regret in the mind of the Minister who made the appointment.
+
+After an existence of a few years, public opinion was so strongly expressed against the Railway Commission that it was dissolved.
+
+I am satisfied that in each of these cases, the appointment was entirely due to family or political influence.
+
+I have, in the course of my experience, frequently heard of appointments made in the most flattering and unexpected manner; of titles offered, in fact, in such a way, that it was impossible to decline them. Having myself seen a good deal behind the scenes of the drama of life, I have repeatedly found that these unsolicited honours have been obtained by the most persevering applications, and by the most servile flattery. Indeed, to the great scandal of public life, success has in some instances been attained by a man condescending for a time to oppose his own party, and, as some observer has wittily remarked, “of attempting to break into the shop for the purpose of serving behind the counter.”
+
+It cannot be doubted that patronage entrusted to the disposition of a Minister often proves an onerous and ungrateful trust, demanding powers of discrimination and forbearance not always found in public men; whilst a careful observation of the manner in which patronage is usually dispensed does not lead to the conclusion that its exercise is always free from the influence of corrupt motives. Even in the cases in which such impure motives *seem* absent, it too frequently happens that other influences beside a just and honest discrimination appear to have taken a part in regulating the distribution of public favour. It would be invidious to speculate on the motives or discuss the merits of the appointments to which I have had occasion to refer: with their propriety or otherwise I have individually no concern: of the positive motives which induced them I have no knowledge, at least not sufficient to justify me in condemning them on that score. But I cannot help thinking that such appointments have not always been made without some degree of pain or misgiving, and perhaps a conscientious scruple on the part of the Minister; indeed I have sometimes indulged a suspicion that a little firmness to resist external pressure would occasionally secure more fairness to candidates for public employment, and tend to retain the services of more efficient agents of the public weal.
+
+Although mankind may differ among one another individually *ad infinitum*, they possess certain moral elements which are common to the race. Such belong to the animal, and are never obliterated, though they may occasionally be concealed by the ermine of office or the robe of state. Self-interest is the great lever of society; and though the patriot profess to sacrifice it for the public good, or the cynic affect to despise its influence as opposed to his philosophy, both these may claim our respect, but neither should be permitted to deceive us. A Minister who professes to cast off the attributes of humanity is either a victim of delusion who has succeeded in deceiving himself, or a knave who is bent upon deceiving others. He may spurn the temptation of a bribe, because his wants do not lie in that direction; and, notwithstanding his generous pretensions, he will never discern merit unless accompanied by popular suffrage or political influence: in *his* balance one grain of *nepotism* will weigh down all the *honesty* he has at his disposal.

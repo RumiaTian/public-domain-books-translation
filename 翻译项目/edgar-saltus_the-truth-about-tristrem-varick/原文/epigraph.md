@@ -1,0 +1,1 @@
+“Truth is not always in white satin like a girl on her wedding-day. And when it is of mud and of blood, when it offends the nostrils, so much the worse; I, for one, will not sprinkle it with ottar of rose. Besides, I am not here to tell fairy tales and pastorals.”

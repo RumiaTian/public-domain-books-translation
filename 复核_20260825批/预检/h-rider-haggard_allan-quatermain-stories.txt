@@ -1,0 +1,95 @@
+====================================================================================================
+### h-rider-haggard_allan-quatermain-stories  (5 files)
+  块: O=79 C=79 OK | 段: EN=389 CN=392 !!差 -3
+     [不对称] a-tale-of-three-lions.md                             O=35 C=35 段EN=147 段CN=150
+  英文残留(剔括注) top: II×1, What×1, Was×1, Found×1, in×1, the×1, Pool×1, III×1, Jim-Jim×1, Is×1
+  -- 术语表硬约束行 88 条:
+     Allan Quatermain               → 艾伦·夸特梅因              源×6     译×6    
+     Macumazahn                     → 马库马赞                 源×35    译×35   
+     Hunter Quatermain              → 猎人夸特梅因               源×7     译×6    
+     Harry                          → 哈里                   源×53    译×53   
+     Mashune                        → 马舒内                  源×38    译×38   
+     Jim-Jim                        → 吉姆-吉姆                源×32    译×32   
+     Hans                           → 汉斯                   源×20    译×20   
+     Magepa                         → 马盖帕                  源×34    译×33    残留「雄鹿」×4
+     Pharaoh                        → 法老                   源×27    译×27   
+     Tom (driver)                   → 汤姆                   源×17    译×17   
+     Handspike Tom                  → 撬棍汤姆                 源×3     译×3    
+     Henry Curtis                   → 亨利·柯蒂斯爵士             源×10    译×10   
+     Captain Good / Capt. John Good → 古德船长 / 约翰·古德船长       源×11    译×11   
+     Gita                           → 吉塔                   源×7     译×7    
+     Sinala                         → 西纳拉                  源×7     译×7    
+     Cetewayo / U'Cetewayo          → 塞奇瓦约 / 乌塞奇瓦约         源×10    译×10   
+     Panda                          → 潘达王                  源×2     译×2    
+     Umbelazi the Handsome          → 「英俊的」乌姆贝拉齐           源×1     译×0     ★译0次(未落位?)
+     T'Chaka                        → 恰卡                   源×1     译×1    
+     Kaptein                        → 卡普泰因                 源×11    译×11    残留「上尉」×1
+     Sikukuni                       → 西库库尼                 源×3     译×3    
+     Sequati                        → 塞夸蒂                  源×1     译×1    
+     Maiwa                          → 玛伊瓦                  源×1     译×1    
+     Inkoos / Koos                  → 因库斯 / 库斯             源×7     译×7    
+     Maboona                        → 马布纳                  源×1     译×1    
+     Isanusi                        → 伊萨努西                 源×2     译×2    
+     Dr. Livingstone                → 利文斯通博士               源×1     译×1    
+     Sir Bartle Frere               → 巴特尔·弗里尔爵士            源×1     译×1    
+     Pilgrims' Rest                 → 皮尔格里姆斯雷斯特            源×6     译×6    
+     Transvaal                      → 德兰士瓦                 源×2     译×2    
+     Zululand / Zulu(s)             → 祖鲁兰 / 祖鲁人            源×31    译×17    落位偏低 17/31
+     Natal                          → 纳塔尔                  源×7     译×7    
+     Durban                         → 德班                   源×1     译×1    
+     Yorkshire                      → 约克郡                  源×7     译×7    
+     Delagoa Bay                    → 德拉瓜湾                 源×1     译×1    
+     Zambesi                        → 赞比西河                 源×1     译×1    
+     Oliphant River                 → 奥利凡茨河                源×1     译×2    
+     Tugela                         → 图盖拉河                 源×4     译×2     落位偏低 2/4
+     Bamangwato                     → 巴曼瓦托                 源×3     译×3    
+     Khama                          → 卡马                   源×1     译×1    
+     Gatgarra                       → 加特加拉                 源×2     译×2    
+     Chobe River                    → 乔贝河                  源×1     译×1    
+     Matabeleland                   → 马塔贝莱兰                源×1     译×1    
+     Middelburg                     → 米德尔堡                 源×2     译×2    
+     Rorke's Drift                  → 罗克渡口                 源×2     译×2    
+     Buffalo River                  → 布法罗河                 源×1     译×1    
+     Isandhlwana                    → 伊桑德尔瓦纳               源×1     译×1    
+     Zanzibar / Tana                → 桑给巴尔 / 塔纳河           源×2     译×3    
+     Blood River                    → 血河                   源×1     译×1    
+     Northumberland House           → 诺森伯兰府                源×1     译×1    
+     skerm                          → 防兽围篱（skerm）          源×22    译×3     落位偏低 3/22
+     kraal                          → 村寨（kraal）            源×19    译×12   
+     koppie                         → 小丘（koppie）           源×3     译×2    
+     kloof / donga / nullah         → 峡谷 / 沟壑              源×16    译×18   
+     pan                            → （干涸）水盘               源×9     译×0     ★译0次(未落位?)
+     drift                          → 渡口/浅滩                源×6     译×8    
+     reim / trektow / disselboom    → 皮绳 / 挽索 / 车辕         源×12    译×14   
+     voorlooper                     → 前导（voorlooper）       源×3     译×6    
+     inspan                         → 套车                   源×1     译×1    
+     maas                           → 马斯（凝固酪乳）             源×2     译×2    
+     mealie meal / mealie pap       → 玉米面 / 玉米糊            源×2     译×2    
+     kaross                         → 卡罗斯皮毯                源×1     译×0     ★译0次(未落位?)
+     veldt-schoons                  → 费尔德生皮靴               源×1     译×1    
+     tandstickor                    → 塘斯蒂克（瑞典火柴）           源×1     译×1    
+     keshla                         → 克什拉（编发环的已婚男子）        源×1     译×1    
+     kerry                          → 克里短棒                 源×1     译×1    
+     assegai / bangwan              → 长矛 / 邦万宽刃刺矛          源×9     译×12   
+     impi                           → 因皮（军团）               源×1     译×2    
+     umfagozan                      → 翁法戈赞（贱民）             源×1     译×1    
+     Gwasa / nanzia                 → 瓜萨（刺）/ 南齐亚（那儿）       源×4     译×2     落位偏低 2/4
+     redwater / lungsick / salted   → 红水病 / 肺疫 / 「腌盐」的（免疫） 源×8     译×6    
+     tsetse                         → 采采蝇                  源×1     译×1    
+     express rifle                  → 大威力步枪（express）       源×0     译×4     ★源0次(幽灵?)
+     Martini (Henry)                → 马蒂尼（-亨利）步枪           源×8     译×8    
+     Westley Richards falling block → 韦斯特利·理查兹落块式步枪        源×1     译×1    
+     eight-bore / No. 12 smoothbore → 八号口径步枪 / 12 号滑膛枪     源×4     译×3    
+     Cape smoke / Hollands / port   → 开普烈酒 / 荷兰杜松子酒 / 波特酒  源×5     译×5    
+     springbuck / blesbuck / quagga → 跳羚 / 白纹大羚羊 / 白氏斑马 /  源×6     译×6    
+     koodoo / impala / eland / orib → 扭角羚 / 黑斑羚 / 大羚羊 / 小岩 源×20    译×18   
+     aasvögels                      → 秃鹫                   源×1     译×1    
+     tambouki grass                 → 红顶草                  源×3     译×3    
+     sugar bush                     → 糖灌木                  源×1     译×2    
+     Knobnose / Mapoch Kaffir       → 疙鼻人 / 马波奇卡菲尔人        源×2     译×2    
+     Kaffirs                        → 卡菲尔人                 源×14    译×15   
+     Hottentot                      → 霍屯督人                 源×8     译×8    
+     Zu-Vendis                      → 祖-文迪斯                源×1     译×1    
+     Marie                          → 《玛丽》                 源×2     译×2    
+     King Solomon's Mines           → 所罗门王矿藏               源×3     译×3    
+

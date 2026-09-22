@@ -1,0 +1,1 @@
+I had thought of mines before: but in a very languid way, till this article, and other things that I read, as it were struck my brain a slap with the notion. For “there,” I said, “if anywhere, shall I find a man.﻿ ﻿…”

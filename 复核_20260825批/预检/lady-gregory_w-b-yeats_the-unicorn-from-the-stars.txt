@@ -1,0 +1,51 @@
+====================================================================================================
+### lady-gregory_w-b-yeats_the-unicorn-from-the-stars  (3 files)
+  块: O=102 C=102 OK | 段: EN=862 CN=862 OK
+  英文残留(剔括注) top: Et×2, calix×2, meus×2, inebrians×2, quam×2, praeclarus×2, est×2, monoceros×1, de×1, astris×1
+  -- 术语表硬约束行 45 条:
+     Martin                         → 马丁                   源×128   译×129  
+     the unicorn from the stars     → 星中独角兽                源×2     译×2    
+     Martin Hearne                  → 马丁·赫恩                源×1     译×1    
+     Thomas                         → 托马斯                  源×71    译×71   
+     Thomas Hearne                  → 托马斯·赫恩               源×1     译×1    
+     Andrew                         → 安德鲁                  源×72    译×72   
+     Father John                    → 约翰神父                 源×87    译×87   
+     Johnny                         → 约翰尼                  源×64    译×64   
+     Johnny Bacach                  → 瘸子约翰尼                源×7     译×7    
+     Johnny Gibbons                 → 约翰尼·吉本斯              源×7     译×7    
+     Paudeen                        → 保丁                   源×32    译×32   
+     Nanny                          → 南妮                   源×27    译×27   
+     Biddy                          → 碧蒂                   源×33    译×33   
+     Kinvara                        → 金瓦拉                  源×2     译×2    
+     Dublin Castle                  → 都柏林城堡                源×2     译×2    
+     the Lord Lieutenant            → 总督                   源×1     译×1    
+     King George                    → 乔治国王                 源×2     译×2    
+     Munster                        → 芒斯特                  源×1     译×1    
+     the falling sickness           → 癫痫                   源×6     译×7    
+     trance                         → 恍惚                   源×15    译×18   
+     vision                         → 异象                   源×14    译×15   
+     command                        → 号令                   源×16    译×17   
+     hurling                        → 赫林球赛                 源×1     译×1    
+     harry-pin                      → 长铁钎                  源×1     译×1    
+     monoceros de astris            → 保留拉丁文                源×1     译×0     ★译0次(未落位?) 残留「星中独角兽」×2
+     coachbuilder                   → 马车匠                  源×2     译×2    
+     coach                          → 大轿式车                 源×19    译×1     落位偏低 1/19
+     Biddy Lally                    → 碧蒂·拉利                源×3     译×3    
+     the Boys                       → 弟兄们                  源×2     译×1    
+     the drill                      → 操练                   源×2     译×2    
+     the square house / the Square  → 方宅                   源×2     译×2    
+     the League of the Unicorns     → 独角兽同盟                源×1     译×1    
+     Ribbons / Whiteboys / Rightboy → 缎带会/白衫党/正派党/打谷党/破晓党  源×10    译×11   
+     Van Diemen's Land              → 范迪门地                 源×1     译×1    
+     Saint Ciaran                   → 圣基兰                  源×1     译×1    
+     fairy gold                     → 仙金                   源×1     译×1    
+     graineen                       → 一撮烟丝                 源×1     译×1    
+     Aughanish                      → 奥加尼什                 源×2     译×2    
+     the Gael / the Gall            → 盖尔人 / 戈尔人            源×4     译×3    
+     forths                         → 仙丘                   源×1     译×1    
+     the Mountain of Abiegnos       → 阿比诺山                 源×1     译×1    
+     red soldiers                   → 红衣兵                  源×2     译×2    
+     keening                        → 哭丧                   源×1     译×0     ★译0次(未落位?)
+     four last ends                 → 四终                   源×1     译×1    
+     the Golden Plough              → 金犁                   源×1     译×1    
+

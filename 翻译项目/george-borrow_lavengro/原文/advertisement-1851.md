@@ -1,0 +1,2 @@
+### Advertisement (1851)
+In compliance with the advice of certain friends who are desirous that it may not be supposed that the following work has been written expressly for the present times, the author begs leave to state that it was planned in the year 1842, and all the characters sketched before the conclusion of the year 1843. The contents of the volumes here offered to the public have, with the exception of the Preface, existed in manuscript for a very considerable time.

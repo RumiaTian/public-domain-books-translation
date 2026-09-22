@@ -1,0 +1,6 @@
+
+> And they shall scourge him, and put him to death;﻿ ﻿…
+ 
+
+ And they understood none of these things:﻿ ﻿…
+> — St. Luke 18:33, 34

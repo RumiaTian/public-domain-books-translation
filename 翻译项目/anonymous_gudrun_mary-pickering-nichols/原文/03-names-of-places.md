@@ -1,0 +1,35 @@
+## Names of Places
+- Abakie﻿—an imaginary Eastern land, subject to Siegfried.
+- Abalie﻿—an Eastern land, noted for gems and cloths.
+- Alzabie﻿—a fabulous Moorland city, the residence of Siegfried.
+- Amilé﻿—an imaginary Eastern land, the home of mermaids.
+- Araby﻿—a land whence came fine clothes and treasures.
+- Ballian﻿—Ballyghan, Hagen’s chief city in Ireland.
+- Daneland﻿—not the present Denmark, but, in the ninth century, the seat of the Danes in Friesland, near the mouth of the Scheldt.
+- Dietmarsch﻿—a province subject to Hettel.
+- Friesland﻿—subject to Hettel, and held in fief by Morunc and Irold.
+- Galeis﻿—a land whose people are friendly to Herwic.
+- Galicia﻿—Portugal, the home of Hildeburg.
+- Garadie﻿—an indeterminate country, near Ireland.
+- Givers﻿—a fabulous land, subject to Horant.
+- Gulstred﻿—a place in the West.
+- Hegeling﻿—the name of a people on the North Sea, in Holland, governed by Hettel.
+- Holstein﻿—variously mentioned as subject to Fru-te, to Irolt, and to Ortwin.
+- Icaria﻿—a fabulous land whose people are allies of Siegfried of Moorland.
+- Ireland﻿—The situation seems sometimes to correspond with the modern Ireland, and sometimes to a part of Holland. There is a place in Texel, at the present day, named Eijerland.
+- Iserland﻿—the home of one of Gudrun’s maiden companions.
+- Kampalia﻿—a fabulous land noted for rich clothing.
+- Kampatille﻿—Hettel’s castle, also called Matelan.
+- Karadie﻿—a land belonging to Siegfried of Moorland.
+- Kassian﻿—the chief city and castle of Normandy.
+- Matelan﻿—see Kampatille.
+- Moorland﻿—the kingdom of Siegfried; owing to the love of the marvelous in antiquity, regarded by the poet as the land of the Moors, but probably a low country near the North Sea.
+- Nifland﻿—“the land of fogs,” on the lower Rhine, the home of the Nibelungen.
+- Normandy or Ormanie﻿—may be the country now known as Normandy, or is perhaps a region near the mouth of the Scheldt, where the name Ormans-kapelle occurs in an ancient map.
+- Ortland﻿—probably Jutland, under the rule of Ortwin.
+- Salmé﻿—a fabulous country.
+- Sealand﻿—Herwic’s kingdom, not the Danish Zealand, but probably the sea-lands of Friesland.
+- Scotland﻿—spoken of as belonging to Norway.
+- Sturmland﻿—subject to Wâ-te, adjoining Herwic’s kingdom.
+- Waleis﻿—the western limit of Hettel’s kingdom, by some supposed to be Wales, but generally thought to be the country near the mouth of the river Waal in Holland.
+- Wulpensand﻿—an island at the mouth of the Scheldt.

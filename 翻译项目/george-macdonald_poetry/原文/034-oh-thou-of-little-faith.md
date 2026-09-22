@@ -1,0 +1,16 @@
+## Oh Thou of Little Faith
+
+Sad-hearted, be at peace: the snowdrop lies
+Buried in sepulchre of ghastly snow;
+But spring is floating up the southern skies,
+And darkling the pale snowdrop waits below.
+
+Let me persuade: in dull December’s day
+We scarce believe there is a month of June;
+But up the stairs of April and of May
+The hot sun climbeth to the summer’s noon.
+
+Yet hear me: I love God, and half I rest.
+O better! God loves thee, so all rest thou.
+He is our summer, our dim-visioned Best;﻿—
+And in his heart thy prayer is resting now.

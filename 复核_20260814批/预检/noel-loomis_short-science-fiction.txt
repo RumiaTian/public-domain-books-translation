@@ -1,0 +1,51 @@
+====================================================================================================
+### noel-loomis_short-science-fiction  (9 files)
+  块: O=186 C=186 OK | 段: EN=1242 CN=1242 OK
+  英文残留(剔括注) top: take×27, linotype×15, galley×11, IX×5, LIII×2, IV×2, II×1, XXXVI×1, VIII×1, Century×1
+  -- 术语表硬约束行 45 条:
+     Mogar                          → 莫加（Mogar）            源×52    译×52   
+     Dalen                          → 达伦（Dalen）            源×53    译×52   
+     Lennat                         → 伦纳特（Lennat）          源×5     译×6    
+     IX Galaxy                      → IX 银河                源×3     译×3    
+     IX Galactic Council            → IX 银河理事会             源×1     译×1    
+     LIII Constellation Committee   → LIII 星座委员会           源×2     译×2    
+     II Supergalaxy                 → II 超星系               源×1     译×1    
+     IV Universe                    → IV 宇宙                源×2     译×2    
+     VIII Galaxy                    → VIII 银河              源×1     译×1    
+     XXXVI                          → XXXVI（新太阳系）          源×1     译×1    
+     Bootes                         → 牧夫座（Bootes）          源×2     译×2    
+     Lesser Magellanic Cloud        → 小麦哲伦云                源×1     译×1    
+     Milky Way Supergalaxy          → 银河超星系                源×2     译×2    
+     Constellation Hercules         → 武仙座（Constellation He 源×2     译×3    
+     Constellation Tracho           → 特拉科星座（Tracho）        源×0     译×1     ★源0次(幽灵?)
+     Supergalactic Conference       → 超星系会议                源×4     译×4    
+     Cosmic Chamber                 → 宇宙议事厅                源×1     译×1    
+     Dioclave                       → 迪奥克莱夫（Dioclave）      源×1     译×1    
+     Laws of Hierarchy              → 阶层法则                 源×1     译×1    
+     Constellation Committee        → 星座委员会                源×1     译×1    
+     thought-force                  → 思维力                  源×6     译×6    
+     energy-nucleus                 → 能量核                  源×1     译×1    
+     space-warp                     → 空间翘曲                 源×0     译×0     ★源0次(幽灵?)
+     fifth-dimension space-warp     → 五维空间翘曲               源×1     译×1    
+     the sixth dimension            → 第六维度                 源×1     译×2    
+     ninth-dimension elliptical spi → 第九维度椭圆螺旋             源×1     译×0     ★译0次(未落位?)
+     macro-erg                      → 宏尔格                  源×0     译×3     ★源0次(幽灵?)
+     opposed thumb                  → 对生拇指                 源×3     译×5    
+     biped                          → 双足生物                 源×4     译×3    
+     conjunctive symbiosis          → 缔合共生                 源×1     译×1    
+     conjunctive feeling            → 缔合情感                 源×1     译×1    
+     germanium isotope rays         → 锗同位素射线               源×1     译×1    
+     spore                          → 孢子                   源×1     译×1    
+     binary system                  → 双星系统                 源×1     译×1    
+     nova explosion                 → 新星爆发                 源×2     译×2    
+     light-year                     → 光年                   源×0     译×2     ★源0次(幽灵?)
+     parsecs                        → 秒差距                  源×2     译×2    
+     eon(s)                         → 纪（eon）               源×3     译×13   
+     galactic morning               → 银河之晨                 源×1     译×1    
+     Man                            → 「人类」                 源×118   译×1     落位偏低 1/118
+     sire                           → 大人                   源×14    译×30    残留「陛下」×8
+     the gods                       → 众神                   源×5     译×4    
+     god                            → 神                    源×19    译×74   
+     species                        → 物种                   源×9     译×9    
+     entity                         → 实体                   源×6     译×6    
+

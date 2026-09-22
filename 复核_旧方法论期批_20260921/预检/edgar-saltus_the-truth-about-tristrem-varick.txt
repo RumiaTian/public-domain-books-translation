@@ -1,0 +1,23 @@
+ (19 files)
+  块: O=172 C=172 OK | 段: EN=662 CN=662 OK
+  英文残留(剔括注) top: bien×5, le×5, Magali×4, de×4, ma×3, aim×3, tous×3, est×3, comme×3, il×3
+  -- 术语表硬约束行 18 条:
+     Tristrem Varick                → 特里斯特雷姆·瓦里克（昵称 Trissy 源×14    译×14   
+     Erastus Varick                 → 伊拉斯图斯·瓦里克（父；ch1 已故、c 源×8     译×8    
+     Dirck Van Norden               → 德克·范诺登（外祖父，Mr. Van N 源×5     译×5    
+     Viola Raritan                  → 薇奥拉（拉里坦小姐，后为韦尔登太太）   源×3     译×57   
+     Mrs. Raritan / Roanoke Raritan → 拉里坦太太 / 罗阿诺克·拉里坦     源×55    译×57   
+     Royal Weldon                   → 罗亚尔·韦尔登（Nanny 南妮）    源×9     译×9    
+     A. B. Fenwick Chisholm-Jones / → A. B. 芬威克·奇泽姆-琼斯 / 「 源×6     译×6    
+     Ledyard Yorke                  → 莱迪亚德·约克              源×2     译×2    
+     Flossy Finch                   → 弗洛茜·芬奇               源×2     译×2    
+     Mrs. Garret / Mlle. de l'Entre → 加勒特太太 / 德朗特雷索尔小姐     源×2     译×2    
+     Lieutenant Gorringe（游艇 Cleopat → 戈林奇中尉（克娄巴特拉号）        源×1     译×1    
+     Karl Martel                    → 卡尔·马特尔               源×1     译×1    
+     Robert Harris（管家）/ Davis / Alf → 罗伯特·哈里斯 / 戴维斯 / 阿尔夫  源×4     译×4    
+     Mr. Meggs / Rufus K. Taintor / → 梅格斯先生 / 鲁弗斯·K·泰因特 /  源×7     译×7    
+     Miss Tippity-fitchet           → 蒂皮蒂-菲切特小姐            源×1     译×1    
+     Mrs. Manhattan（夫 Nicholas）     → 曼哈顿太太（尼古拉斯；讽刺性泛称）    源×5     译×3    
+     the Wainwarings / Mrs. Potipha → 温沃林家 / 波提乏太太         源×6     译×7    
+     Dupont / Duflot / Dubois（门房等法籍 → 杜邦 / 杜弗洛 / 杜布瓦       源×4     译×4    
+====================================================================================================

@@ -1,0 +1,192 @@
+====================================================================================================
+### lord-dunsany_the-king-of-elflands-daughter  (36 files)
+  块: O=394 C=394 OK | 段: EN=780 CN=779 !!差 1
+     [不对称] a-chapter-on-unicorn-hunting.md                      O=10 C=10 段EN=22 段CN=21
+  英文残留(剔括注) top: 无
+  项目说明备注: 见术语表.md。
+  -- 术语表硬约束行 184 条:
+     Alveric                        → 阿尔韦里克                源×324   译×322  
+     Lirazel                        → 莉拉泽尔                 源×83    译×81   
+     the Lord of Erl                → 厄尔领主                 源×4     译×6    
+     the lonely witch（near the Cast → （孤身）女巫               源×1     译×0     ★译0次(未落位?)
+     Ziroonderel                    → 齐龙德尔泽尔               源×45    译×42   
+     the leather-worker             → 皮匠                   源×11    译×15   
+     Narl                           → 纳尔                   源×39    译×39   
+     Oth                            → 奥斯                   源×46    译×48   
+     Threl                          → 斯瑞尔                  源×39    译×40   
+     Guhic                          → 古希克                  源×9     译×9    
+     Gazic                          → 加齐克                  源×4     译×4    
+     Orion                          → 奥利安                  源×211   译×209  
+     Vand                           → 范德                   源×28    译×28   
+     Rannok                         → 兰诺克                  源×8     译×8    
+     Niv                            → 尼夫                   源×71    译×72   
+     Zend                           → 曾德                   源×49    译×49   
+     Thyl                           → 锡尔                   源×12    译×11   
+     Erl                            → 厄尔                   源×126   译×115  
+     the Castle of Erl              → 厄尔城堡                 源×10    译×12   
+     Elfland / Faery / fairyland    → 精灵国 / 精灵之境           源×384   译×392  
+     the Elfin Mountains            → 精灵山脉                 源×26    译×29   
+     the fields we know             → 我们所知的原野              源×107   译×72   
+     the frontier (of Faery)        → （精灵国的）边境             源×32    译×0     ★译0次(未落位?)
+     the Parliament of Erl          → 厄尔议会                 源×12    译×11   
+     the Vale of Erl                → 厄尔之谷                 源×9     译×17   
+     the guarding wood              → 护卫之林                 源×1     译×2    
+     the enchanted wood             → 施过魔法的森林              源×7     译×9    
+     the throne of rainbows and ice → 彩虹与冰之宝座 / 薄雾与冰之宝座    源×0     译×1     ★源0次(幽灵?)
+     the frontier of twilight / the → 暮色的边境 / 暮色的屏障        源×23    译×33   
+     the King of Elfland / the Elf  → 精灵国王                 源×47    译×53    残留「精灵国王的女儿」×3
+     gnomish                        → 地精的                  源×1     译×1     残留「地精之族」×1
+     rune(s)                        → 符文                   源×73    译×69   
+     master-runes                   → 主符文                  源×1     译×2    
+     thunderbolt(s)                 → 雷石                   源×9     译×9    
+     the Dark Ones (that show not t → 幽冥之神（不示真容者）          源×1     译×1    
+     christening                    → 洗礼                   源×1     译×1    
+     faeries / fairies              → 精灵                   源×3     译×61   
+     the gods                       → 诸神                   源×2     译×2    
+     the sceptre of witches (the eb → 女巫的权杖（乌木杖）           源×1     译×1    
+     the King of Elfland's daughter → 精灵国王的女儿              源×3     译×3    
+     the Freer                      → 教士                   源×29    译×32   
+     Ziroonderel                    → 泽龙德尔                 源×0     译×3     ★源0次(幽灵?)
+     heathen / heathenesse          → 异教徒 / 异教之乡           源×6     译×5    
+     Christom things / Christom rit → 基督圣物 / 基督圣礼          源×2     译×3    
+     mermaid                        → 美人鱼                  源×4     译×4    
+     Benvenuto Cellini              → 本韦努托·切利尼             源×3     译×3    
+     Pope Clement                   → 教皇克雷芒                源×1     译×1    
+     Tobbia                         → 托比亚                  源×2     译×2    
+     King Francis                   → 弗朗西斯王                源×2     译×2    
+     Rome (the City of Rome)        → 罗马城                  源×2     译×1    
+     Tennyson                       → 丁尼生                  源×2     译×2     残留「隐隐吹响」×1
+     gnomes                         → 侏儒                   源×1     译×1    
+     trolls                         → 巨怪                   源×120   译×258  
+     elves                          → 精灵                   源×5     译×0     ★译0次(未落位?)
+     goblins                        → 哥布林                  源×6     译×8    
+     sprites of the water           → 水中精怪                 源×1     译×0     ★译0次(未落位?)
+     fauns                          → 萨提儿（牧神之从者）           源×1     译×1    
+     Pan                            → 潘神                   源×1     译×1    
+     will-o'-the-wisp(s)            → 鬼火                   源×27    译×28   
+     toadstool rings                → 菌蕈之圈                 源×1     译×1    
+     sprites                        → 精怪                   源×0     译×1     ★源0次(幽灵?)
+     hypogriffs                     → 骏鹰                   源×1     译×1    
+     Pegasus                        → 珀伽索斯                 源×1     译×1    
+     mer-folk (tribes of the mer-fo → 人鱼之族                 源×1     译×1    
+     cowslip(s)                     → 黄花九轮草                源×4     译×4    
+     orchids                        → 兰花                   源×2     译×4    
+     violets                        → 紫罗兰                  源×2     译×2    
+     bulwark of twilight            → 暮色壁垒                 源×1     译×1    
+     the mundane fields             → 事物之原野 / 人世之原野        源×1     译×0     ★译0次(未落位?)
+     the hills of dreams / dells of → 梦之群山 / 梦之谷地          源×2     译×3    
+     the holy place (of the Freer)  → 教士的圣所                源×8     译×4     落位偏低 4/8
+     after-bird-song                → 鸟歌之后                 源×1     译×1    
+     the Last Day                   → 末日审判                 源×1     译×1    
+     the witch's hill               → 女巫山                  源×3     译×2    
+     the good Freer                 → 善良的教士                源×1     译×2    
+     buttercups                     → 毛茛                   源×11    译×10   
+     hare                           → 野兔                   源×11    译×12   
+     Noman's Dog                    → 无人之犬                 源×3     译×3    
+     Thing-over-the-Border          → 边境那边的东西              源×1     译×1    
+     troll-talk                     → 巨怪语                  源×8     译×8    
+     changeling                     → 调包儿                  源×1     译×1    
+     tarns                          → 幽潭                   源×7     译×5    
+     parchment                      → 羊皮纸                  源×11    译×11   
+     the Ebbing of Elfland          → 精灵国的退潮               源×1     译×0     ★译0次(未落位?)
+     the way of the leaves / the wa → 落叶之途 / 一切美好之途        源×2     译×2    
+     May tree                       → 五月树                  源×2     译×2    
+     foxgloves                      → 毛地黄                  源×2     译×2    
+     mulleins                       → 毛蕊花                  源×1     译×1    
+     orchis                         → 兰花                   源×2     译×0     ★译0次(未落位?)
+     forget-me-nots                 → 勿忘草                  源×2     译×2    
+     satchel                        → 背袋                   源×1     译×4    
+     the people of the marshes      → 沼泽之民                 源×8     译×9    
+     the (great) marshes            → 大沼泽                  源×14    译×2     落位偏低 2/14
+     green plover (hen)             → 绿鸻（雌）                源×1     译×1    
+     teal                           → 水凫                   源×1     译×1    
+     rooks                          → 秃鼻鸦                  源×4     译×3    
+     jackdaws                       → 寒鸦                   源×4     译×5    
+     bulrushes                      → 蒲草                   源×1     译×1    
+     Nehic                          → 尼希克                  源×1     译×1    
+     Vlel                           → 弗莱尔                  源×1     译×1    
+     bluebells                      → 蓝风信花                 源×4     译×3    
+     wild anemones                  → 野白头翁花                源×1     译×1    
+     pageboy                        → 小听差                  源×1     译×1    
+     clover honey                   → 苜蓿蜜                  源×3     译×1     落位偏低 1/3
+     the mountains of Elfland       → 精灵国的群山               源×2     译×0     ★译0次(未落位?)
+     the deep of the woods          → 林之深处 / 林深处           源×3     译×4    
+     myrtle (tree)                  → 桃金娘                  源×2     译×5    
+     blackbirds                     → 乌鸫                   源×2     译×4    
+     martens                        → 貂                    源×1     译×2    
+     badgers                        → 獾                    源×2     译×3    
+     foxes                          → 狐狸                   源×6     译×33   
+     bracken                        → 蕨丛                   源×2     译×3    
+     bramble                        → 荆棘                   源×1     译×2    
+     (grey) oaks                    → （灰色）橡树               源×4     译×0     ★译0次(未落位?)
+     stag                           → 雄鹿                   源×11    译×11   
+     fawn                           → 小鹿（之皮）               源×1     译×1    
+     the glamour of the woods       → 林中的神魅                源×1     译×1    
+     the deep of time / the dark of → 时间的幽暗                源×2     译×2    
+     the verge of Earth             → 尘世的边缘                源×1     译×0     ★译0次(未落位?)
+     hawthorn(s)                    → 山楂树                  源×1     译×1    
+     Now                            → 此刻                   源×172   译×64    落位偏低 64/172 残留「逝去的年华」×1
+     Venus / the Evening Star       → 金星 / 昏星              源×8     译×8    
+     moon matins / moon's-morning   → 月之晨课 / 月之清晨          源×2     译×2    
+     the brazen bell of the Freer   → 教士的铜钟                源×1     译×0     ★译0次(未落位?)
+     conies                         → 兔儿                   源×1     译×1    
+     rabbit(s)                      → 兔子                   源×5     译×3    
+     gipsies                        → 吉卜赛人                 源×1     译×1    
+     tramps                         → 流浪汉                  源×1     译×1    
+     owl                            → 猫头鹰                  源×2     译×2     残留「明白事理的家伙」×1
+     beetle                         → 甲虫                   源×1     译×2    
+     meteor                         → 流星                   源×2     译×2    
+     the pigeon-loft                → 鸽笼                   源×12    译×18   
+     Vyria                          → 维丽娅                  源×1     译×1    
+     roe deer                       → 獐鹿                   源×1     译×1    
+     red deer                       → 赤鹿                   源×4     译×4     残留「巨大的赤鹿」×1
+     thyme                          → 百里香                  源×2     译×3    
+     jays                           → 松鸦                   源×1     译×1    
+     the elfin horns (horns of Elfl → 精灵号角 / 精灵国的号角        源×6     译×10   
+     brow antlers                   → 额角 / 角叉              源×1     译×2    
+     the quest                      → 追寻                   源×8     译×17   
+     the Unenchanted Plain          → 失去魔法的原野              源×1     译×0     ★译0次(未落位?)
+     the shingly plain              → 碎石遍布的原野              源×0     译×1     ★源0次(幽灵?)
+     hedgehogs                      → 刺猬                   源×1     译×1    
+     squirrels’ legs                → 松鼠腿                  源×1     译×1    
+     the Elfin Mountains (pale-blue → （淡蓝色的）精灵山脉           源×0     译×0     ★源0次(幽灵?)
+     stave                          → 手杖                   源×2     译×6    
+     wallet                         → 背袋                   源×3     译×0     ★译0次(未落位?)
+     water-bottle                   → 水壶                   源×2     译×4    
+     skins (large skins)            → 大块皮子                 源×7     译×1     落位偏低 1/7
+     May trees (of memory)          → （记忆中的）五月树            源×1     译×0     ★译0次(未落位?)
+     the golden birds               → 金色的鸟儿                源×1     译×0     ★译0次(未落位?)
+     disenchanted (place)           → 被剥夺了魔法的（处所）          源×6     译×3     落位偏低 3/6
+     the shining line               → 闪耀之线                 源×3     译×4    
+     a shimmering line of silver    → 一条闪烁的银线              源×1     译×1    
+     crook / shepherd's crook       → 牧羊杖                  源×2     译×2    
+     the Happy Isles                → 极乐之岛                 源×1     译×1    
+     the moon / the will of the moo → 月亮 / 月亮之意            源×31    译×30    残留「此非月亮之意」×1 残留「月亮之道」×1
+     the interstellar darkness      → 星辰之间的幽暗              源×1     译×1    
+     the wolds                      → 丘陵                   源×1     译×46   
+     the fenlands                   → 沼泽之地                 源×1     译×0     ★译0次(未落位?)
+     whipper-in / whippers-in       → 执鞭者                  源×3     译×3    
+     the abasement of the five poin → 五体之降                 源×1     译×1    
+     peacocks                       → 孔雀                   源×2     译×2    
+     March                          → 三月                   源×4     译×1     落位偏低 1/4
+     elms                           → 榆树                   源×2     译×2    
+     a mouldering loft              → 朽败的阁楼                源×1     译×1    
+     scabbard                       → 剑鞘                   源×9     译×9    
+     hazel (woods)                  → 榛树（林）                源×1     译×1    
+     hedgerow / hedge               → 树篱                   源×18    译×34   
+     gloaming                       → 薄暮 / 暮色              源×14    译×101  
+     cuckoo                         → 杜鹃                   源×3     译×3    
+     oak                            → 橡树                   源×11    译×10   
+     beech (-leaves)                → 山毛榉（叶）               源×2     译×4    
+     birch (tree)                   → 白桦                   源×1     译×1    
+     may (buds of may)              → 五月花（之蕾）              源×63    译×4     落位偏低 4/63
+     orchis                         → 兰花                   源×0     译×0     ★源0次(幽灵?)
+     rhododendrons                  → 杜鹃花                  源×2     译×2    
+     sunflowers                     → 向日葵                  源×1     译×1    
+     the rampart of twilight        → 暮色的壁垒                源×1     译×1    
+     the spires of the palace       → 宫殿的尖塔                源×1     译×3    
+     the dark wood                  → 幽暗的森林                源×1     译×1    
+     the deep blue of night in summ → 夏夜的深蓝                源×0     译×0     ★源0次(幽灵?)
+     the deeps of lakes (in twiligh → 湖水的深蓝（暮色里）           源×1     译×1    
+     the beauty of May              → 五月之美                 源×1     译×0     ★译0次(未落位?)
+

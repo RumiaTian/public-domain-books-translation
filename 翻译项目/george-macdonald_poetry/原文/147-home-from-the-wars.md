@@ -1,0 +1,6 @@
+## Home from the Wars
+
+A tattered soldier, gone the glow and gloss,
+With wounds half healed, and sorely trembling knee,
+Homeward I come, to claim no victory-cross:
+I only faced the foe, and did not flee.

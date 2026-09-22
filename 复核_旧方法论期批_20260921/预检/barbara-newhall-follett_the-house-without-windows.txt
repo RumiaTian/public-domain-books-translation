@@ -1,0 +1,44 @@
+ (6 files)
+  块: O=140 C=140 OK | 段: EN=525 CN=547 !!差 -22
+     [不对称] by-another-hand.md                                   O=8 C=8 段EN=25 段CN=27
+     [不对称] the-meadow.md                                        O=44 C=44 段EN=154 段CN=164
+     [不对称] the-mountains.md                                     O=54 C=54 段EN=198 段CN=201
+     [不对称] the-sea.md                                           O=31 C=31 段EN=141 段CN=148
+  英文残留(剔括注) top: colour×1, favourite×1, storey×1, veranda×1
+  项目说明备注: 作者为儿童时期写成，天真的自然意象按原味保留。 /  / ## 篇目清单 /  / 由 `translation_queue.csv` 管理（6 篇，约 192KB）。
+  -- 术语表硬约束行 34 条:
+     Evan                           → 埃万                   源×0     译×0     ★源0次(幽灵?)
+     Narda                          → 纳尔达                  源×0     译×0     ★源0次(幽灵?)
+     Eepersip                       → 伊佩西普                 源×421   译×421  
+     Fleuriss                       → 弗勒里丝                 源×108   译×107  
+     Barbara                        → 芭芭拉                  源×11    译×11   
+     Wilson Follett                 → 威尔逊·福莱特              源×1     译×1    
+     House without Windows          → 无窗之屋                 源×2     译×2    
+     cordary berry                  → 科达里莓                 源×1     译×3    
+     Walter de la Mare              → 沃尔特·德·拉·梅尔           源×1     译×1    
+     The Three Mulla-Mulgars        → 《三只穆拉穆尔加》            源×1     译×1    
+     A Little Boy Lost              → 《迷路的小男孩》             源×1     译×1    
+     The Princess and the Goblin    → 《公主与妖魔》              源×1     译×1    
+     Eigleen                        → 伊格琳                  源×58    译×74   
+     Ikkisfield                     → 伊基斯菲尔德               源×22    译×27   
+     Wraspane                       → 拉斯潘                  源×7     译×16   
+     Brunio                         → 布鲁尼奥                 源×19    译×25   
+     Flitterveen                    → 弗利特文                 源×5     译×5    
+     Caireen                        → 凯琳                   源×5     译×5    
+     Chippy                         → 奇皮                   源×35    译×36   
+     Snowflake                      → 雪花                   源×42    译×50   
+     Mount Varcrobis                → 瓦克罗比斯山               源×7     译×8    
+     Eiki-ennern Peak               → 艾基恩嫩峰                源×11    译×11   
+     Carrenda                       → 卡伦达                  源×15    译×19   
+     Toby                           → 托比                   源×20    译×20   
+     Eeserpip                       → 伊瑟西普                 源×3     译×4    
+     mermaid dress                  → 美人鱼裙                 源×2     译×2    
+     nymph dress / sea-nymph        → 宁芙裙 / 海中宁芙           源×2     译×2    
+     talatuna                       → 塔拉图纳                 源×2     译×2    
+     Mary                           → 玛丽                   源×2     译×2    
+     frost-feathers / snow-pinks    → 霜羽 / 雪石竹             源×6     译×9    
+     checkerberry / steeple-bush    → 冬绿莓 / 尖塔绣线菊          源×2     译×3    
+     wood-thrush / bobolink         → 棕林鸫 / 食米鸟            源×1     译×2    
+     yellow lady-slipper            → 黄杓兰                  源×1     译×1    
+     naiad / sprite                 → 水仙 / 精灵              源×5     译×12   
+====================================================================================================

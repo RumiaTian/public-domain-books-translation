@@ -1,0 +1,73 @@
+## LXXX Ruby Prepares for Service
+Our poor old honest friend John Crumb was taken away to durance vile after his performance in the street with Sir Felix, and was locked up for the remainder of the night. This indignity did not sit so heavily on his spirits as it might have done on those of a quicker nature. He was aware that he had not killed the baronet, and that he had therefore enjoyed his revenge without the necessity of “swinging for it at Bury.” That in itself was a comfort to him. Then it was a great satisfaction to think that he had “served the young man out” in the actual presence of his Ruby. He was not prone to give himself undue credit for his capability and willingness to knock his enemies about; but he did think that Ruby must have observed on this occasion that he was the better man of the two. And, to John, a night in the station-house was no great personal inconvenience. Though he was very proud of his four-post bed at home, he did not care very much for such luxuries as far as he himself was concerned. Nor did he feel any disgrace from being locked up for the night. He was very good-humoured with the policeman, who seemed perfectly to understand his nature, and was as meek as a child when the lock was turned upon him. As he lay down on the hard bench, he comforted himself with thinking that Ruby would surely never care any more for the “baronite” since she had seen him go down like a cur without striking a blow. He thought a good deal about Ruby, but never attributed any blame to her for her share in the evils that had befallen him.
+The next morning he was taken before the magistrates, but was told at an early hour of the day that he was again free. Sir Felix was not much the worse for what had happened to him, and had refused to make any complaint against the man who had beaten him. John Crumb shook hands cordially with the policeman who had had him in charge, and suggested beer. The constable, with regrets, was forced to decline, and bade adieu to his late prisoner with the expression of a hope that they might meet again before long. “You come down to Bungay,” said John, “and I’ll show you how we live there.”
+From the police-office he went direct to Mrs. Pipkin’s house, and at once asked for Ruby. He was told that Ruby was out with the children, and was advised both by Mrs. Pipkin and Mrs. Hurtle not to present himself before Ruby quite yet. “You see,” said Mrs. Pipkin, “she’s a thinking how heavy you were upon that young gentleman.”
+“But I wasn’t;﻿—not particular. Lord love you, he ain’t a hair the wuss.”
+“You let her alone for a time,” said Mrs. Hurtle. “A little neglect will do her good.”
+“Maybe,” said John﻿—“only I wouldn’t like her to have it bad. You’ll let her have her wittles regular, Mrs. Pipkin.”
+It was then explained to him that the neglect proposed should not extend to any deprivation of food, and he took his leave, receiving an assurance from Mrs. Hurtle that he should be summoned to town as soon as it was thought that his presence there would serve his purposes; and with loud promises repeated to each of the friendly women that as soon as ever a “line should be dropped” he would appear again upon the scene, he took Mrs. Pipkin aside, and suggested that if there were “any hextras,” he was ready to pay for them. Then he took his leave without seeing Ruby, and went back to Bungay.
+When Ruby returned with the children she was told that John Crumb had called. “I thought as he was in prison,” said Ruby.
+“What should they keep him in prison for?” said Mrs. Pipkin. “He hasn’t done nothing as he oughtn’t to have done. That young man was dragging you about as far as I can make out, and Mr. Crumb just did as anybody ought to have done to prevent it. Of course they weren’t going to keep him in prison for that. Prison indeed! It isn’t him as ought to be in prison.”
+“And where is he now, aunt?”
+“Gone down to Bungay to mind his business, and won’t be coming here any more of a fool’s errand. He must have seen now pretty well what’s worth having, and what ain’t. Beauty is but skin deep, Ruby.”
+“John Crumb ’d be after me again tomorrow, if I’d give him encouragement,” said Ruby. “If I’d hold up my finger he’d come.”
+“Then John Crumb’s a fool for his pains, that’s all; and now do you go about your work.” Ruby didn’t like to be told to go about her work, and tossed her head, and slammed the kitchen door, and scolded the servant girl, and then sat down to cry. What was she to do with herself now? She had an idea that Felix would not come back to her after the treatment he had received;﻿—and a further idea that if he did come he was not, as she phrased it to herself, “of much account.” She certainly did not like him the better for having been beaten, though, at the time, she had been disposed to take his part. She did not believe that she would ever dance with him again. That had been the charm of her life in London, and that was now all over. And as for marrying her﻿—she began to feel certain that he did not intend it. John Crumb was a big, awkward, dull, uncouth lump of a man, with whom Ruby thought it impossible that a girl should be in love. Love and John Crumb were poles asunder. But﻿—! Ruby did not like wheeling the perambulator about Islington, and being told by her aunt Pipkin to go about her work. What Ruby did like was being in love and dancing; but if all that must come to an end, then there would be a question whether she could not do better for herself, than by staying with her aunt and wheeling the perambulator about Islington.
+Mrs. Hurtle was still living in solitude in the lodgings, and having but little to do on her own behalf, had devoted herself to the interest of John Crumb. A man more unlike one of her own countrymen she had never seen. “I wonder whether he has any ideas at all in his head,” she had said to Mrs. Pipkin. Mrs. Pipkin had replied that Mr. Crumb had certainly a very strong idea of marrying Ruby Ruggles. Mrs. Hurtle had smiled, thinking that Mrs. Pipkin was also very unlike her own countrywomen. But she was very kind to Mrs. Pipkin, ordering rice-puddings on purpose that the children might eat them, and she was quite determined to give John Crumb all the aid in her power.
+In order that she might give effectual aid she took Mrs. Pipkin into confidence, and prepared a plan of action in reference to Ruby. Mrs. Pipkin was to appear as chief actor on the scene, but the plan was altogether Mrs. Hurtle’s plan. On the day following John’s return to Bungay Mrs. Pipkin summoned Ruby into the back parlour, and thus addressed her. “Ruby, you know, this must come to an end now.”
+“What must come to an end?”
+“You can’t stay here always, you know.”
+“I’m sure I work hard, Aunt Pipkin, and I don’t get no wages.”
+“I can’t do with more than one girl﻿—and there’s the keep if there isn’t wages. Besides, there’s other reasons. Your grandfather won’t have you back there; that’s certain.”
+“I wouldn’t go back to grandfather, if it was ever so.”
+“But you must go somewheres. You didn’t come to stay here always﻿—nor I couldn’t have you. You must go into service.”
+“I don’t know anybody as ’d have me,” said Ruby.
+“You must put a ’vertisement into the paper. You’d better say as nursemaid, as you seems to take kindly to children. And I must give you a character;﻿—only I shall say just the truth. You mustn’t ask much wages just at first.” Ruby looked very sorrowful, and the tears were near her eyes. The change from the glories of the music hall was so startling and so oppressive! “It has got to be done sooner or later, so you may as well put the ’vertisement in this afternoon.”
+“You’re going to turn me out, Aunt Pipkin.”
+“Well;﻿—if that’s turning out, I am. You see you never would be said by me as though I was mistress. You would go out with that rapscallion when I bid you not. Now when you’re in a regular place like, you must mind when you’re spoke to, and it will be best for you. You’ve had your swing, and now you see you’ve got to pay for it. You must earn your bread, Ruby, as you’ve quarrelled both with your lover and with your grandfather.”
+There was no possible answer to this, and therefore the necessary notice was put into the paper﻿—Mrs. Hurtle paying for its insertion. “Because, you know,” said Mrs. Hurtle, “she must stay here really, till Mr. Crumb comes and takes her away.” Mrs. Pipkin expressed her opinion that Ruby was a “baggage” and John Crumb a “soft.” Mrs. Pipkin was perhaps a little jealous at the interest which her lodger took in her niece, thinking perhaps that all Mrs. Hurtle’s sympathies were due to herself.
+Ruby went hither and thither for a day or two, calling upon the mothers of children who wanted nursemaids. The answers which she had received had not come from the highest members of the aristocracy, and the houses which she visited did not appal her by their splendour. Many objections were made to her. A character from an aunt was objectionable. Her ringlets were objectionable. She was a deal too flighty-looking. She spoke up much too free. At last one happy mother of five children offered to take her on approval for a month, at £12 a year, Ruby to find her own tea and wash for herself. This was slavery;﻿—abject slavery. And she too, who had been the beloved of a baronet, and who might even now be the mistress of a better house than that into which she was to go as a servant﻿—if she would only hold up her finger! But the place was accepted, and with brokenhearted sobbings Ruby prepared herself for her departure from aunt Pipkin’s roof.
+“I hope you like your place, Ruby,” Mrs. Hurtle said on the afternoon of her last day.
+“Indeed then I don’t like it at all. They’re the ugliest children you ever see, Mrs. Hurtle.”
+“Ugly children must be minded as well as pretty ones.”
+“And the mother of ’em is as cross as cross.”
+“It’s your own fault, Ruby; isn’t it?”
+“I don’t know as I’ve done anything out of the way.”
+“Don’t you think it’s anything out of the way to be engaged to a young man and then to throw him over? All this has come because you wouldn’t keep your word to Mr. Crumb. Only for that your grandfather wouldn’t have turned you out of his house.”
+“He didn’t turn me out. I ran away. And it wasn’t along of John Crumb, but because grandfather hauled me about by the hair of my head.”
+“But he was angry with you about Mr. Crumb. When a young woman becomes engaged to a young man, she ought not to go back from her word.” No doubt Mrs. Hurtle, when preaching this doctrine, thought that the same law might be laid down with propriety for the conduct of young men. “Of course you have brought trouble on yourself. I am sorry that you don’t like the place. I’m afraid you must go to it now.”
+“I am a-going﻿—I suppose,” said Ruby, probably feeling that if she could but bring herself to condescend so far there might yet be open for her a way of escape.
+“I shall write and tell Mr. Crumb where you are placed.”
+“Oh, Mrs. Hurtle, don’t. What should you write to him for? It ain’t nothing to him.”
+“I told him I’d let him know if any steps were taken.”
+“You can forget that, Mrs. Hurtle. Pray don’t write. I don’t want him to know as I’m in service.”
+“I must keep my promise. Why shouldn’t he know? I don’t suppose you care much now what he hears about you.”
+“Yes I do. I wasn’t never in service before, and I don’t want him to know.”
+“What harm can it do you?”
+“Well, I don’t want him to know. It is such a come down, Mrs. Hurtle.”
+“There is nothing to be ashamed of in that. What you have to be ashamed of is jilting him. It was a bad thing to do;﻿—wasn’t it, Ruby?”
+“I didn’t mean nothing bad, Mrs. Hurtle; only why couldn’t he say what he had to say himself, instead of bringing another to say it for him? What would you feel, Mrs. Hurtle, if a man was to come and say it all out of another man’s mouth?”
+“I don’t think I should much care if the thing was well said at last. You know he meant it.”
+“Yes;﻿—I did know that.”
+“And you know he means it now?”
+“I’m not so sure about that. He’s gone back to Bungay, and he isn’t no good at writing letters no more than at speaking. Oh﻿—he’ll go and get somebody else now.”
+“Of course he will if he hears nothing about you. I think I’d better tell him. I know what would happen.”
+“What would happen, Mrs. Hurtle?”
+“He’d be up in town again in half a jiffey to see what sort of a place you’d got. Now, Ruby, I’ll tell you what I’ll do, if you’ll say the word. I’ll have him up here at once and you shan’t go to Mrs. Buggins’.” Ruby dropped her hands and stood still, staring at Mrs. Hurtle. “I will. But if he comes you mustn’t behave this time as you did before.”
+“But I’m to go to Mrs. Buggins’ tomorrow.”
+“We’ll send to Mrs. Buggins and tell her to get somebody else. You’re breaking your heart about going there;﻿—are you not?”
+“I don’t like it, Mrs. Hurtle.”
+“And this man will make you mistress of his house. You say he isn’t good at speaking; but I tell you I never came across an honester man in the whole course of my life, or one who I think would treat a woman better. What’s the use of a glib tongue if there isn’t a heart with it? What’s the use of a lot of tinsel and lacker, if the real metal isn’t there? Sir Felix Carbury could talk, I dare say, but you don’t think now he was a very fine fellow.”
+“He was so beautiful, Mrs. Hurtle!”
+“But he hadn’t the spirit of a mouse in his bosom. Well, Ruby, you have one more choice left you. Shall it be John Crumb or Mrs. Buggins?”
+“He wouldn’t come, Mrs. Hurtle.”
+“Leave that to me, Ruby. May I bring him if I can?” Then Ruby in a very low whisper told Mrs. Hurtle, that if she thought proper she might bring John Crumb back again. “And there shall be no more nonsense?”
+“No,” whispered Ruby.
+On that same night a letter was sent to Mrs. Buggins, which Mrs. Hurtle also composed, informing that lady that unforeseen circumstances prevented Ruby Ruggles from keeping the engagement she had made; to which a verbal answer was returned that Ruby Ruggles was an impudent hussey. And then Mrs. Hurtle in her own name wrote a short note to Mr. John Crumb.
+
+> If you will come back to London I think you will find Miss Ruby Ruggles all that you desire.
+> Yours faithfully,
+> Winifred Hurtle.
+
+“She’s had a deal more done for her than I ever knew to be done for young women in my time,” said Mrs. Pipkin, “and I’m not at all so sure that she has deserved it.”
+“John Crumb will think she has.”
+“John Crumb’s a fool;﻿—and as to Ruby; well, I haven’t got no patience with girls like them. Yes; it is for the best; and as for you, Mrs. Hurtle, there’s no words to say how good you’ve been. I hope, Mrs. Hurtle, you ain’t thinking of going away because this is all done.”

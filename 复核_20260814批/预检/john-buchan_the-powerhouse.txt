@@ -1,0 +1,60 @@
+====================================================================================================
+### john-buchan_the-powerhouse  (10 files)
+  块: O=318 C=318 OK | 段: EN=549 CN=556 !!差 -7
+     [不对称] chapter-3.md                                         O=64 C=64 段EN=85 段CN=87
+     [不对称] chapter-4.md                                         O=54 C=54 段EN=68 段CN=71
+     [不对称] chapter-5.md                                         O=37 C=37 段EN=51 段CN=52
+     [不对称] chapter-9.md                                         O=8 C=8 段EN=20 段CN=21
+  英文残留(剔括注) top: Krafthaus×4, Suivez×1, Bokhare×1, Saronov×1, Messieurs×1, les×1, assassins×1, De×1, mortuis×1
+  项目说明备注: 见术语表.md。全书序章（编者序，框架故事）加 9 章正文，单一叙事弧、篇幅较短，按中篇连续模式由主 agent 直译，跨章语气与术语靠术语表与黄金样本保持一致。
+  -- 术语表硬约束行 49 条:
+     Edward Leithen                 → 爱德华·利思滕              源×0     译×0     ★源0次(幽灵?)
+     Tommy Deloraine                → 汤米·德洛兰               源×5     译×5    
+     Charles Pitt-Heron / Charlie   → 查尔斯·皮特-赫伦            源×4     译×3    
+     Ethel Pitt-Heron               → 埃塞尔·皮特-赫伦            源×2     译×2    
+     Andrew Lumley                  → 安德鲁·拉姆利              源×7     译×6    
+     Chapman / "Chipmunk"           → 查普曼（绰号「花栗鼠」）         源×46    译×48   
+     Milson                         → 米尔森                  源×2     译×2    
+     Wytham                         → 怀瑟姆                  源×1     译×1    
+     Macgillivray                   → 麦克吉利夫雷               源×26    译×26   
+     Felix                          → 费利克斯                 源×24    译×24   
+     Tomlin                         → 汤姆林                  源×1     译×1    
+     Konalevsky                     → 科纳列夫斯基               源×3     译×3    
+     Sir Francis Lloyd              → 弗朗西斯·劳埃德爵士           源×0     译×0     ★源0次(幽灵?)
+     Hoppy Bynge                    → 霍皮·宾奇                源×1     译×1    
+     Jim                            → 吉姆                   源×3     译×3    
+     Joggleberry                    → 乔格尔贝里                源×2     译×2    
+     The Power-House / The Powerhou → 动力室                  源×9     译×15   
+     Glenaicill                     → 格莱纳伊克尔               源×1     译×1    
+     House of Commons               → 下议院                  源×2     译×8    
+     Parliament Square              → 议会广场                 源×1     译×1    
+     Victoria                       → 维多利亚车站               源×3     译×3    
+     Fountain Court                 → 喷泉庭院                 源×1     译×1    
+     the Temple                     → 律师学院区                源×6     译×7    
+     Portman Square                 → 波特曼广场                源×4     译×4    
+     Down Street                    → 唐街                   源×5     译×5    
+     Carlton Hotel                  → 卡尔顿饭店                源×1     译×1    
+     Scotland Yard                  → 苏格兰场                 源×11    译×11   
+     Moscow                         → 莫斯科                  源×6     译×7    
+     the Bramaputra (Brahmaputra)   → 布拉马普特拉河              源×1     译×1    
+     Carstensz                      → 卡斯滕士峰                源×1     译×1    
+     Lake Chad                      → 乍得湖                  源×1     译×1    
+     Ypres Salient                  → 伊普尔突出部               源×1     译×1    
+     West Ham                       → 西汉姆                  源×2     译×2    
+     the skerries                   → 礁岛群                  源×1     译×1    
+     Russian Embassy                → 俄罗斯大使馆               源×1     译×1    
+     Solicitor-General              → 副检察长                 源×2     译×2    
+     the Woolsack                   → 大法官席                 源×1     译×1    
+     the Bar                        → 律师界                  源×4     译×5    
+     Imperial General Staff         → 帝国总参谋部               源×1     译×1    
+     Boundary Commission            → 边界委员会                源×1     译×1    
+     Labour member                  → 工党议员                 源×4     译×4    
+     the Speaker                    → 议长                   源×1     译×1    
+     Government Whip                → 政府督导                 源×1     译×1    
+     Under Secretary                → 副国务大臣                源×1     译×2    
+     the Chilean Arbitration        → 智利仲裁案                源×1     译×1    
+     Mother of Parliaments          → 议会之母                 源×1     译×1    
+     K.C.B.                         → K.C.B.（巴斯骑士指挥官勋章）    源×0     译×0     ★源0次(幽灵?)
+     Mountains of the Moon          → 月亮山脉                 源×1     译×1    
+     *De mortuis*                   → *De mortuis*（死者为大）   源×1     译×1    
+

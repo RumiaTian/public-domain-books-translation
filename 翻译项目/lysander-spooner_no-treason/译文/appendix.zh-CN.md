@@ -1,0 +1,7 @@
+## Appendix / 附录
+
+===Original===
+Inasmuch as the Constitution was never signed, nor agreed to, by anybody, as a contract, and therefore never bound anybody, and is now binding upon nobody; and is, moreover, such an one as no people can ever hereafter be expected to consent to, except as they may be forced to do so at the point of the bayonet, it is perhaps of no importance what its true legal meaning, as a contract, is. Nevertheless, the writer thinks it proper to say that, in his opinion, the Constitution is no such instrument as it has generally been assumed to be; but that by false interpretations, and naked usurpations, the government has been made in practice a very widely, and almost wholly, different thing from what the Constitution itself purports to authorize. He has heretofore written much, and could write much more, to prove that such is the truth. But whether the Constitution really be one thing, or another, this much is certain—that it has either authorized such a government as we have had, or has been powerless to prevent it. In either case, it is unfit to exist.
+
+===Chinese===
+既然宪法（the Constitution）从未被人作为一份契约（contract）加以签署或表示同意，因而从未约束过任何人，如今也不约束任何人；而且它还是这样一种文件——除非人们在刺刀逼迫之下被迫同意，否则不能指望任何民族今后会同意它——那么，它作为契约的真实法律含义究竟为何，或许已无关紧要。尽管如此，笔者仍认为应当声明：依他之见，宪法并非人们一向所假定的那种文件；毋宁说，由于错误的解释与赤裸裸的篡夺（usurpations），政府在实践中已被弄成一个与宪法自身声称所授权者相去甚远、而且几乎全然不同的东西。为证明此系实情，他此前已写过许多，而且还能写得更多。但无论宪法实际上是这样一种东西还是那一种东西，有一点是确定无疑的——它要么授权了我们历来所拥有的这样一个政府，要么就是无力阻止这样一个政府。无论哪种情形，它都不配存在。

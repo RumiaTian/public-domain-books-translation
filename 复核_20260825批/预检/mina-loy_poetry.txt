@@ -1,0 +1,10 @@
+====================================================================================================
+### mina-loy_poetry  (2 files)
+  块: O=5 C=5 OK | 段: EN=17 CN=17 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: there-is-no-life-or-death.md 仅数节短诗，源文极短，正常走流程即可。 /  / ## 篇目清单 /  / 由 `translation_queue.csv` 管理（2 篇，约 0KB）。
+  -- 术语表硬约束行 3 条:
+     Endnotes                       → 尾注                   源×1     译×0     ★译0次(未落位?)
+     marriage portions              → 嫁妆（marriage portions 源×1     译×1    
+     There Is No Life or Death      → 没有生，也没有死             源×4     译×1     落位偏低 1/4
+

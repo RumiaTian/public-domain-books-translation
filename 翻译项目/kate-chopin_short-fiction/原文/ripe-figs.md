@@ -1,0 +1,8 @@
+## Ripe Figs
+Maman-Nainaine said that when the figs were ripe Babette might go to visit her cousins down on the Bayou-Lafourche where the sugar cane grows. Not that the ripening of figs had the least thing to do with it, but that is the way Maman-Nainaine was.
+It seemed to Babette a very long time to wait; for the leaves upon the trees were tender yet, and the figs were like little hard, green marbles.
+But warm rains came along and plenty of strong sunshine, and though Maman-Naiaine was as patient as the statue of la Madone, and Babette as restless as a hummingbird, the first thing they both knew it was hot summertime. Every day Babette danced out to where the fig-trees were in a long line against the fence. She walked slowly beneath them, carefully peering between the gnarled, spreading branches. But each time she came disconsolate away again. What she saw there finally was something that made her sing and dance the whole long day.
+When Maman-Nainaine sat down in her stately way to breakfast, the following morning, her muslin cap standing like an aureole about her white, placid face, Babette approached. She bore a dainty porcelain platter, which she set down before her godmother. It contained a dozen purple figs, fringed around with their rich, green leaves.
+“Ah,” said Maman-Nainaine, arching her eyebrows, “how early the figs have ripened this year!”
+“Oh,” said Babette, “I think they have ripened very late.”
+“Babette,” continued Maman-Nainaine, as she peeled the very plumpest figs with her pointed silver fruit-knife, “you will carry my love to them all down on Bayou-Lafourche. And tell your Tante Frosine I shall look for her at Toussaint﻿—when the chrysanthemums are in bloom.”

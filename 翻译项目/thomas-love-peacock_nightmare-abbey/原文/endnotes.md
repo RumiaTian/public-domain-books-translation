@@ -1,0 +1,15 @@
+## Endnotes
+1. A corruption of Filosky, quasi *φιλοσχιος*, a lover, or sectator, of shadows. ↩︎
+2. See Forsyth’s *Principles of Moral Science*. ↩︎
+3. We are not masters of the whole vocabulary. See any novel by any literary lady. ↩︎
+4. Ahrimanes, in the Persian mythology, is the evil power, the prince of the kingdom of darkness. He is the rival of Oromazes, the prince of the kingdom of light. These two powers have divided and equal dominion. Sometimes one of the two has a temporary supremacy.﻿—According to Mr. Toobad, the present period would be the reign of Ahrimanes. Lord Byron seems to be of the same opinion, by the use he has made of Ahrimanes in *Manfred*; where the great Alastor, or *Καχος Δαιμων*, of Persia, is hailed king of the world by the Nemesis of Greece, in concert with three of the Scandinavian Valkyrae, under the name of the Destinies; the astrological spirits of the alchemists of the middle ages; an elemental witch, transplanted from Denmark to the Alps; and a chorus of Dr. Faustus’s devils, who come in the last act for a soul. It is difficult to conceive where this heterogeneous mythological company could have originally met, except at a table d’hôte, like the six kings in *Candide*. ↩︎
+5. “**Pension**. Pay given to a slave of state for treason to his country.” —﻿Johnson’s *Dictionary* ↩︎
+6. See Denys Montfort: *Histoire Naturelle des Mollusques; Vues Générales*, pp. 37, 38. (P.) The second half of this speech by Mr. Asterias and the opening sentence of his previous speech are a paraphrase from Montfort, pp. 37﻿–﻿9. ↩︎
+7. There must be some mistake in this, for the whole honourable band of gentlemen-pensioners has resolved unanimously, that Mr. Burke was a very sublime person, particularly after he had prostituted his own soul, and betrayed his country and mankind, for £1,200 a year: yet he does not appear to have been a very terrible personage, and certainly went off with a very small portion of human respect, though he contrived to excite, in a great degree, the astonishment of all honest men. Our immaculate laureate (who gives us to understand that, if he had not been purified by holy matrimony into a mystical type, he would have died a virgin), is another sublime gentleman of the same genus: he very much astonished some persons when he sold his birthright for a pot of sack; but not even his *Sosia* has a grain of respect for him, though, doubtless, he thinks his name very terrible to the enemy, when he flourishes his criticopoeticopolitical tomahawk, and sets up his Indian yell for the blood of his old friends: but, at best, he is a mere political scarecrow, a man of straw, ridiculous to all who know of what materials he is made; and to none more so, than to those who have stuffed him, and set him up, as the Priapus of the garden of the golden apples of corruption. ↩︎
+8. *Childe Harold*, canto 4. cxxiv. cxxvi. ↩︎
+9. *Childe Harold*, canto 4. cxxiii. ↩︎
+10. *Childe Harold*, canto 3. lxxi. ↩︎
+11. *Childe Harold*, canto 4. cxxi. cxxxvi. ↩︎
+12. *Childe Harold*, canto 4. cxxii. ↩︎
+13. Sits, and will sit for ever. ↩︎
+14. See *The Sorrows of Werther*, Letter 93. ↩︎

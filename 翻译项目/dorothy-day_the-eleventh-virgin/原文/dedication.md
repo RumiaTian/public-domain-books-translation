@@ -1,0 +1,1 @@
+This book is affectionately dedicated to H. N., to J. K., to a girl whose initials I cannot remember, and although it is not customary to include oneself in dedications, to myself; according to agreement.

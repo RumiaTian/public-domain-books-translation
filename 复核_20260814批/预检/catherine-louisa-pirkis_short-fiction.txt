@@ -1,0 +1,105 @@
+====================================================================================================
+### catherine-louisa-pirkis_short-fiction  (6 files)
+  块: O=112 C=112 OK | 段: EN=430 CN=430 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: 六篇各自独立成篇，无贯穿人物；仅作者译名、维多利亚时代社会用语（称谓、货币、度量衡）等通用约定需与姊妹项目保持一致，详见术语表.md「跨篇共享元素」。术语表已按篇预置人物、地名、专有术语；翻译时遇表内源词须用指定译法，新词首次出现以「中文（English）」标注，译完补入术语表。 /  / 篇目阅读顺序（依原书目录）：1. disappeared-from-her-home（失踪疑案，15 节）｜2. trooping-with-crows（4 节）｜3. at-twelve-tonight（3 节）｜4. rhea（副题 A Woman of the World）｜5. drifting ｜6. jack（副题 A Mendicant）。
+  -- 术语表硬约束行 98 条:
+     Catherine Louisa Pirkis        → 凯瑟琳·卢伊莎·皮尔基斯         源×0     译×0     ★源0次(幽灵?)
+     Victoria / Victorian           → 维多利亚（时代）             源×2     译×1    
+     pound / shilling / penny       → 英镑 / 先令 / 便士         源×4     译×24   
+     sovereign                      → 索维林                  源×0     译×0     ★源0次(幽灵?)
+     guinea                         → 几尼                   源×0     译×0     ★源0次(幽灵?)
+     mile                           → 英里                   源×0     译×3     ★源0次(幽灵?)
+     Miss / Mrs. / Mr.              → 小姐 / 太太 / 先生         源×13    译×28   
+     Sir / Lady / Lord              → 爵士 / 夫人（女士）/ 勋爵      源×28    译×3     落位偏低 3/28
+     Dowager                        → 太夫人                  源×1     译×1    
+     Esq.                           → 先生（绅士敬称）             源×1     译×0     ★译0次(未落位?)
+     Bishop                         → 主教                   源×0     译×0     ★源0次(幽灵?)
+     Professor                      → 教授                   源×19    译×21   
+     Inspector                      → 巡官                   源×0     译×0     ★源0次(幽灵?)
+     Rev. (Reverend)                → 牧师 / 可敬的             源×0     译×6     ★源0次(幽灵?)
+     *persona grata*                → 受欢迎的人（*persona grata 源×1     译×1    
+     *ma mignonne*                  → 我的小宝贝（*ma mignonne*） 源×8     译×8    
+     hansom                         → 双轮马车                 源×0     译×0     ★源0次(幽灵?)
+     pony-phaeton                   → 小马双轮轻便车              源×1     译×1    
+     Victoria（carriage）             → 维多利亚式敞篷马车            源×0     译×1     ★源0次(幽灵?)
+     Erard’s grand piano            → 埃拉尔三角钢琴              源×1     译×1    
+     Amy Warden                     → 艾米·沃登                源×0     译×0     ★源0次(幽灵?)
+     Stephen Warden                 → 斯蒂芬·沃登               源×1     译×1    
+     Mrs. Warden                    → 沃登太太                 源×2     译×2    
+     Lady Nugent                    → 纽金特夫人                源×1     译×1    
+     Matthews                       → 马修斯                  源×2     译×2    
+     Frank Varley                   → 弗兰克·瓦利               源×2     译×2    
+     Lord Hardcastle                → 哈德卡斯尔勋爵              源×2     译×2     残留「戴手套的哈德卡斯尔」×1
+     Inspector Smythe               → 史迈斯巡官                源×1     译×1    
+     George                         → 乔治                   源×1     译×1    
+     Lettice Tremarten              → 莱蒂丝·特雷马滕             源×2     译×2    
+     Owen Tremarten                 → 欧文·特雷马滕              源×1     译×1    
+     Aunt Rosamond                  → 罗莎蒙德姑母               源×4     译×4    
+     Aunt Judith                    → 朱迪思姑母                源×1     译×1    
+     Dr. Herron                     → 赫伦医生                 源×8     译×8    
+     Roberts                        → 罗伯茨                  源×3     译×3    
+     Brownie                        → 布朗尼                  源×15    译×15   
+     Fiddle / Falstaff              → 费德尔 / 法尔斯塔夫          源×4     译×4    
+     Professor Thurstane            → 瑟斯坦教授                源×1     译×1    
+     Nellie                         → 内莉                   源×17    译×17   
+     Piers                          → 皮尔斯                  源×10    译×10   
+     Cousin Lavinia                 → 拉维尼娅表姐               源×3     译×4    
+     Guy                            → 盖伊                   源×4     译×4    
+     Lady Glencross / Rhea Crossley → 格伦克罗斯夫人 / 蕾娅·克罗斯利    源×16    译×16   
+     Lord Glencross                 → 格伦克罗斯勋爵              源×1     译×1    
+     Lord Chenevix                  → 切内维克斯勋爵              源×5     译×5    
+     Bishop of St. Cheviot’s        → 圣切维奥特教区主教            源×2     译×2     残留「世故女人」×1
+     Dulcie                         → 杜尔西                  源×17    译×17   
+     Lord Carthewe                  → 卡鲁勋爵                 源×11    译×11   
+     Trevor Yorke                   → 特雷弗·约克               源×3     译×3    
+     Fay                            → 费伊                   源×54    译×54   
+     Val Thorndyke                  → 瓦尔·索恩戴克              源×3     译×3    
+     Euan Mackreth                  → 尤安·马克雷思              源×4     译×4    
+     Angus                          → 安格斯                  源×7     译×7    
+     Lady Clancy                    → 克兰西夫人                源×4     译×4    
+     Archie Milner                  → 阿奇·米尔纳               源×0     译×1     ★源0次(幽灵?)
+     Caleb                          → 迦勒                   源×42    译×42   
+     Mattie / Martha                → 玛蒂 / 玛莎              源×24    译×25   
+     Jack                           → 杰克                   源×31    译×29   
+     Dunwich                        → 丹威奇                  源×3     译×3    
+     Harleyford                     → 哈利福德                 源×2     译×2    
+     High Elms                      → 高榆庄                  源×1     译×1    
+     Leicestershire                 → 莱斯特郡                 源×1     译×1    
+     Dunwich Police Station         → 丹威奇警察局               源×2     译×2    
+     The Eyrie                      → 「鹰巢」（The Eyrie）      源×1     译×1    
+     Wales / Welsh mountains        → 威尔士 / 威尔士山区          源×1     译×1    
+     London                         → 伦敦                   源×9     译×9    
+     Glen Orloch Isle               → 格伦奥洛克岛               源×1     译×1    
+     Loch Rhuy                      → 罗伊湖                  源×3     译×3    
+     Glen Orchol                    → 格伦奥克尔                源×4     译×4    
+     Mull                           → 马尔岛                  源×5     译×5    
+     Neuilly                        → 讷伊                   源×1     译×1    
+     Paris                          → 巴黎                   源×4     译×4    
+     St. Cheviot’s                  → 圣切维奥特                源×0     译×0     ★源0次(幽灵?)
+     laird                          → 领主（laird）            源×6     译×6    
+     jointure                       → 寡居赡养产 / 遗孀产          源×1     译×1    
+     chaperon / chaperone           → 陪护 / 陪伴女伴            源×1     译×1    
+     dowager                        → 太夫人                  源×0     译×0     ★源0次(幽灵?)
+     scapegrace                     → 浪荡子                  源×1     译×1    
+     coquette                       → 弄风情者 / 卖俏女子          源×2     译×2    
+     handbill                       → 启事 / 悬赏告示            源×2     译×1    
+     *Sans espoir je meurs*         → 无望而亡（*Sans espoir je 源×1     译×1    
+     garter with buckle / motto     → 带扣吊袜带及铭文             源×2     译×0     ★译0次(未落位?)
+     sea-pyot / pyot                → 海喜鹊 / 乌鸦             源×2     译×3    
+     heron                          → 苍鹭                   源×2     译×2    
+     chablis                        → 夏布利酒                 源×1     译×1    
+     baccarat                       → 巴卡拉（纸牌赌）             源×1     译×1    
+     Apollo Belvedere               → 望景楼的阿波罗              源×1     译×1    
+     Mephistopheles                 → 墨菲斯托费勒斯              源×1     译×1    
+     Sir Joshua Reynolds            → 雷诺兹爵士                源×1     译×1    
+     Erard                          → 埃拉尔                  源×0     译×0     ★源0次(幽灵?)
+     barndoor fowl                  → 院鸡 / 家养母鸡            源×2     译×2    
+     Yellowhammer                   → 黄鹀                   源×0     译×1     ★源0次(幽灵?)
+     linnet / thrush / finch / tomt → 朱顶雀 / 画眉 / 雀 / 山雀    源×2     译×6    
+     magpie / blackbird / robin     → 喜鹊 / 乌鸫 / 知更鸟        源×1     译×4    
+     sycamore / horse-chestnut / mo → 梧桐 / 马栗 / 花楸         源×3     译×3    
+     Spanish Harleys                → 西班牙「哈利」家族            源×1     译×0     ★译0次(未落位?)
+     mendicant                      → 乞讨者 / 托钵者            源×1     译×0     ★译0次(未落位?)
+     Angel of Death                 → 死亡天使                 源×1     译×1    
+

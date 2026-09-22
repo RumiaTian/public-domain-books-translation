@@ -1,0 +1,7 @@
+## With a Book
+
+Words shouting, singing, smiling, frowning﻿—
+Sense lacking.
+
+Ah, nothing, more obscure than Browning,
+Save blacking.

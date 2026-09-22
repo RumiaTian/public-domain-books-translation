@@ -1,0 +1,203 @@
+====================================================================================================
+### p-g-wodehouse_something-new  (12 files)
+  块: O=547 C=547 OK | 段: EN=2245 CN=2269 !!差 -24
+     [不对称] 02-ii.md                                             O=23 C=23 段EN=100 段CN=101
+     [不对称] 03-iii.md                                            O=106 C=106 段EN=414 段CN=419
+     [不对称] 05-v.md                                              O=94 C=94 段EN=444 段CN=449
+     [不对称] 06-vi.md                                             O=38 C=38 段EN=172 段CN=173
+     [不对称] 07-vii.md                                            O=25 C=25 段EN=94 段CN=95
+     [不对称] 08-viii.md                                           O=29 C=29 段EN=118 段CN=121
+     [不对称] 09-ix.md                                             O=57 C=57 段EN=215 段CN=219
+     [不对称] 11-xi.md                                             O=84 C=84 段EN=351 段CN=355
+  英文残留(剔括注) top: scarabeus×1, scarabaei×1, Scarabaeus×1, Scarabaee×1, Scarabaeum×1, Scarabaei×1, Scarabaeo×1
+  项目说明备注: - 全书共 12 章（01-i.md ~ 12-xii.md），依原书 spine 顺序以两位数字前缀编号，保证队列顺序＝阅读顺序。 / - 原章题仅有罗马数字（`## I` ~ `## XII`），无章名；译文标题按合并格式作「## I / 第一章」……「## XII / 第十二章」（罗马数字照搬保留）。 / - 03-iii.md（73.6KB）、05-v.md（91.5KB）、11-xi.md（61.2KB）超过 50KB 长文阈值，按 `prompts/通用翻译引擎.md` 第七节分段处理（单文件内分段连续翻译，不拆文件、不截断）。 / - 布兰丁斯系列专名（埃姆斯沃思勋爵、弗雷迪·思里普伍德、鲁珀特·巴克斯特「能干的巴克斯特」、管家比奇、布兰丁斯城堡等）须与 `翻译项目/p-g-wodehouse_leave-it-to-psmith/` 译名严格一致，见术语表。 / - 译文须保持伍德豪斯标志性的明快诙谐、漫画化夸张喜剧腔调；弗雷迪的吞音碎语（chappie、bally、I mean to say）、彼得斯的美式抱怨腔、巴克斯特的冷硬、阿什与琼的轻快斗嘴须各有声口（详见术语
+  -- 术语表硬约束行 188 条:
+     Ashe Marson                    → 阿什·马森                源×16    译×17   
+     Joan Valentine                 → 琼·瓦伦丁                源×23    译×23    残留「辛普森小姐」×8
+     Lord Emsworth                  → 埃姆斯沃思勋爵              源×109   译×111  
+     Freddie Threepwood             → 弗雷迪·思里普伍德            源×7     译×8    
+     Rupert Baxter                  → 鲁珀特·巴克斯特             源×7     译×7     残留「能干的巴克斯特」×44
+     Beach                          → 比奇                   源×81    译×81   
+     J. Preston Peters              → J. 普雷斯顿·彼得斯          源×8     译×8    
+     Aline Peters                   → 艾琳·彼得斯               源×25    译×25   
+     George Emerson                 → 乔治·埃默森               源×34    译×34   
+     Lady Ann Warblington           → 安·沃布林顿夫人             源×7     译×7    
+     R. Jones                       → R. 琼斯                源×50    译×46   
+     Lady Mildred Mant              → 米尔德丽德·曼特夫人           源×2     译×2    
+     Colonel Mant                   → 曼特上校                 源×6     译×6    
+     Miss Willoughby                → 威洛比小姐                源×19    译×19   
+     Lord Bosham                    → 博舍姆勋爵                源×1     译×1    
+     Lord Stockheath                → 斯托克希思勋爵              源×12    译×13    残留「百分局」×1
+     Algernon Wooster               → 阿尔杰农·伍斯特             源×4     译×4    
+     Miss Chester                   → 切斯特小姐                源×4     译×4    
+     Lieutenant Larsen              → 拉森中尉                 源×2     译×2     残留「白船」×1
+     the editress                   → （《居家闲话》的）女主编         源×1     译×0     ★译0次(未落位?)
+     Mrs. Bell                      → 贝尔太太                 源×5     译×6    
+     Felix Clovelly                 → 费利克斯·克罗弗利            源×3     译×3    
+     Dickie                         → 迪基                   源×7     译×7    
+     Mr. Judson                     → 贾德森先生                源×23    译×22   
+     Mr. Ferris                     → 费里斯先生                源×9     译×9    
+     Merridew                       → 梅里迪尤                 源×1     译×1    
+     Eddie Waffles                  → 埃迪·沃弗尔斯              源×2     译×2    
+     Mr. Muldoon                    → 马尔登先生                源×2     译×2    
+     James；Alfred                   → 詹姆斯；阿尔弗雷德            源×0     译×0     ★源0次(幽灵?) 残留「毁了」×10
+     Lord Mount Anville             → 芒特安维尔勋爵              源×1     译×1    
+     Cortes                         → 科尔特斯                 源×1     译×1     残留「带着狂野的惊疑」×1
+     Ella Wheeler Wilcox            → 埃拉·惠勒·威尔科克斯          源×1     译×1    
+     Antony；Cleopatra               → 安东尼；克里奥帕特拉           源×0     译×0     ★源0次(幽灵?)
+     Percy                          → 珀西                   源×16    译×16   
+     Jellicoe-Smith                 → 杰利科-史密斯              源×1     译×1    
+     William Shakespeare            → 威廉·莎士比亚              源×1     译×1    
+     Blandings Castle               → 布兰丁斯城堡               源×22    译×23   
+     Market Blandings               → 布兰丁斯集镇               源×21    译×21   
+     Shropshire                     → 什罗普郡                 源×0     译×0     ★源0次(幽灵?)
+     the museum                     → （城堡）博物馆              源×49    译×0     ★译0次(未落位?)
+     the Emsworth Arms              → 埃姆斯沃思酒馆              源×4     译×4    
+     Arundell Street, Leicester Squ → 莱斯特广场阿伦德尔街           源×3     译×0     ★译0次(未落位?)
+     Piccadilly                     → 皮卡迪利（大街）             源×6     译×6    
+     the Strand                     → 斯特兰德大街               源×3     译×4    
+     Simpson’s Restaurant           → 辛普森餐馆                源×1     译×1    
+     New York / America             → 纽约／美国                源×14    译×35   
+     the Piccadilly (Theatre)       → 皮卡迪利剧院               源×2     译×2    
+     Hayling, Massachusetts         → 马萨诸塞州海灵              源×5     译×6    
+     Hotel Mathis                   → 马蒂斯旅馆                源×5     译×5    
+     Hotel Previtali                → 普雷维塔利旅馆              源×4     译×4    
+     Queen’s Club                   → 女王俱乐部                源×1     译×1    
+     Hotel Guelph                   → 圭尔夫旅馆                源×1     译×1    
+     the Thames Embankment          → 泰晤士河堤                源×1     译×1    
+     Eton                           → 伊顿公学                 源×4     译×2     落位偏低 2/4
+     Windsor                        → 温莎                   源×1     译×1    
+     Oxford                         → 牛津                   源×6     译×6    
+     the National Sporting Club     → 全国体育俱乐部              源×2     译×2     残留「老兄」×19
+     Swindon                        → 斯温登                  源×3     译×3    
+     Blatchford                     → 布拉奇福德                源×1     译×1    
+     Droitwich                      → 德罗伊特威奇               源×1     译×1    
+     White Plains                   → 白原                   源×2     译×2    
+     *Home Gossip*                  → 《居家闲话》               源×4     译×4    
+     *Morning Post*                 → 《晨邮报》                源×8     译×8    
+     *Mirror*                       → 《镜报》                 源×5     译×2     落位偏低 2/5
+     *Mail*                         → 《邮报》                 源×2     译×1    
+     *Intelligencer and Echo*       → 《通报与回声报》             源×1     译×1    
+     Gridley Quayle, Investigator   → 格里德利·奎尔，大侦探          源×6     译×6    
+     The Adventure of the Missing M → 《失踪侯爵案》              源×1     译×0     ★译0次(未落位?)
+     The Mikado; Pooh-Bah           → 《日本天皇》；噗噗大人          源×0     译×0     ★源0次(幽灵?)
+     The Baby Doll                  → 《洋娃娃宝贝》              源×1     译×1    
+     Mary, the Beautiful Mill-Hand  → 《美丽的纺织女工玛丽》          源×1     译×1    
+     the White Ship                 → 「白船」号                源×0     译×1     ★源0次(幽灵?)
+     Something New / Something Fres → 《新鲜事》                源×4     译×0     ★译0次(未落位?)
+     Mammoth Publishing Company     → 猛犸出版公司               源×2     译×2    
+     British Pluck Library          → 《英国胆气文库》             源×2     译×2    
+     The Adventure of the Wand of D → 《死亡魔杖案》              源×3     译×4    
+     The Wreck of the Hesperus      → 《赫斯珀罗斯号遇难记》          源×1     译×1    
+     Walkinshaw’s Supreme Ointment  → 沃金肖至尊软膏              源×1     译×1    
+     scarab; a Cheops of the Fourth → 圣甲虫；第四王朝的基奥普斯圣甲虫     源×0     译×0     ★源0次(幽灵?)
+     Scarabaeus / Scarabaeum / Scar → 圣甲虫／圣甲虫（宾格）／……       源×6     译×131  
+     valet / lady's maid            → 贴身男仆／贴身女仆            源×50    译×52   
+     butler                         → 管家                   源×43    译×56   
+     breach of promise              → 毁婚诉讼（婚约违约）           源×2     译×1    
+     letters                        → 情书（私信）               源×33    译×2     落位偏低 2/33
+     dyspepsia / dyspeptic          → 消化不良（症）              源×7     译×21   
+     vegetarian                     → 素食                   源×1     译×0     ★译0次(未落位?)
+     curio                          → 古董（ curios 古玩）       源×5     译×4    
+     bookmaker                      → 赛马庄家                 源×0     译×0     ★源0次(幽灵?)
+     chappie / bally / I mean to sa → 老兄／该死的（轻咒）／我是说／什么    源×326   译×38    落位偏低 38/326
+     gov'ner                        → 老爸                   源×0     译×15    ★源0次(幽灵?)
+     check book                     → 支票簿                  源×5     译×5    
+     clock golf / billiards a hundr → 钟面高尔夫／台球百分局          源×1     译×1    
+     Osiris / Ammon / Mut / Bubasti → 奥西里斯／阿蒙／穆特／布巴斯提斯     源×11    译×13   
+     the Hyksos kings               → 希克索斯诸王               源×2     译×2    
+     Amenophis III; Queen Taia      → 阿蒙霍特普三世；泰雅王后         源×0     译×0     ★源0次(幽灵?)
+     the Princess Gilukhipa of Mita → 米坦尼的吉卢基帕公主           源×3     译×3    
+     the lake of Zarukhe; Naucratis → 扎鲁赫湖；瑙克拉提斯           源×0     译×0     ★源0次(幽灵?)
+     the Book of the Dead           → 《亡灵书》                源×3     译×3    
+     New Kingdom / Middle Kingdom   → 新王国／中王国              源×4     译×4    
+     Sunny Jim                      → 「阳光吉姆」               源×1     译×0     ★译0次(未落位?)
+     wand of death                  → 死亡魔杖                 源×10    译×9    
+     Larsen Exercises               → 拉森体操                 源×7     译×8    
+     Indian clubs                   → 印式体操棒                源×5     译×3    
+     General Sherman                → 谢尔曼将军                源×1     译×1    
+     Scotland Yard                  → 苏格兰场                 源×5     译×6    
+     the Derby                      → 德比马赛                 源×1     译×1    
+     Mr. Lloyd-George               → 劳合·乔治先生              源×1     译×0     ★译0次(未落位?)
+     Nosy Parker                    → 包打听帕克                源×2     译×2    
+     Old Home Week                  → 游子还乡周                源×1     译×1    
+     the Havant case                → 哈文特案                 源×1     译×1    
+     Jesse James                    → 杰西·詹姆斯               源×2     译×2    
+     Viollet-le-Duc                 → 维奥莱-勒-杜克             源×1     译×1    
+     the hosts of Midian            → 米甸大军                 源×1     译×1     残留「一生潜行巡视」×1
+     pound / £                      → 英镑                   源×2     译×14   
+     dollar                         → 美元                   源×3     译×30   
+     mile / yard                    → 英里／码                 源×9     译×24   
+     quid                           → 一镑（英镑俚称）             源×2     译×1    
+     Adams                          → 亚当斯                  源×45    译×45   
+     Senior Conservative Club       → 保守党元老俱乐部             源×3     译×3    
+     Mr. Simmonds                   → 西蒙兹先生                源×4     译×4    
+     Fathead                        → 「木头脑袋」               源×2     译×1    
+     Mr. Gladstone                  → 格拉德斯顿先生              源×1     译×0     ★译0次(未落位?)
+     Head Gardener Thorne           → 首席园丁索恩               源×2     译×2    
+     Memphis / Tennessee            → 孟菲斯／田纳西              源×4     译×5    
+     Porky Jones                    → 波基·琼斯                源×1     译×1    
+     Eddie Flynn                    → 埃迪·弗林                源×1     译×1    
+     Pittsburgh                     → 匹兹堡                  源×2     译×3    
+     Annabel                        → 安娜贝尔                 源×1     译×1    
+     The Adventure of the Secret Si → 《秘密六人组》              源×2     译×1    
+     Christie's                     → 克里斯蒂拍卖行              源×3     译×1     落位偏低 1/3
+     Tottenham Court Road           → 托特纳姆宫路               源×2     译×2    
+     Soho                           → 索霍区                  源×1     译×1    
+     Oxford Street                  → 牛津街                  源×1     译×1    
+     below-stairs etiquette         → 楼下仆役规矩               源×1     译×0     ★译0次(未落位?)
+     Mainprice, Mainprice & Boole   → 梅因普莱斯、梅因普莱斯与布尔       源×5     译×5     残留「征聘」×3
+     Denvers Street                 → 丹弗斯街                 源×1     译×1    
+     Paddington Station             → 帕丁顿车站                源×3     译×1     落位偏低 1/3
+     British Museum                 → 大英博物馆                源×1     译×1    
+     Raffles                        → 拉夫尔斯                 源×1     译×1     残留「圣甲虫失窃案」×1
+     the Bishop of Godalming        → 戈达尔明主教               源×5     译×5    
+     Colonel Horace Mant            → 霍勒斯·曼特上校             源×8     译×8    
+     Mrs. Twemlow                   → 特姆洛太太                源×17    译×17   
+     Mrs. Jack Hale                 → 杰克·黑尔太太              源×1     译×1    
+     the Methodist Chapel           → 循道会礼拜堂               源×1     译×1    
+     High Street                    → 大街                   源×1     译×6    
+     a drummer                      → 跑外的推销员               源×1     译×1    
+     the registrar’s                → （结婚）登记处              源×1     译×0     ★译0次(未落位?)
+     I take the count               → 我认输了                 源×1     译×1    
+     the elevated                   → 高架电车                 源×1     译×1    
+     green-baize door               → 绿呢门                  源×9     译×8    
+     groom of the chambers          → 客厅领班                 源×4     译×4    
+     steward’s room                 → 管事餐房                 源×8     译×11   
+     Westminster Abbey              → 威斯敏斯特教堂              源×1     译×1    
+     Hungarian Goulash / escaloped  → 匈牙利烩牛肉／烙烤脑花          源×2     译×2    
+     curried lobster; Pork Tenderlo → 咖喱龙虾；肥膘镶猪里脊          源×0     译×0     ★源0次(幽灵?)
+     lobster à la Newburg           → 纽堡龙虾                 源×1     译×1    
+     Barmecide feast                → 画饼充饥的空宴              源×1     译×1    
+     Eddie Foy                      → 埃迪·福伊                源×1     译×1    
+     Venus                          → 维纳斯                  源×2     译×2    
+     the Last Trump                 → 末日号角                 源×1     译×1    
+     White Hope of the ring; Truck  → 拳坛「白人希望」；卡车司机工会      源×0     译×0     ★源0次(幽灵?)
+     runabout                       → 双座小汽车                源×2     译×1    
+     Exhibit A                      → 证物甲                  源×1     译×1    
+     occasional china               → 陈设瓷器                 源×7     译×7    
+     dinner gong                    → 正餐锣                  源×3     译×2    
+     the knife-and-shoe boy         → 擦鞋小厮                 源×3     译×4    
+     the late Countess of Emsworth  → 已故埃姆斯沃思伯爵夫人          源×1     译×1     残留「改良」×1
+     the Empire                     → 帝国剧场                 源×1     译×1    
+     Meredith                       → 梅雷迪思                 源×5     译×5     残留「病重」×1
+     Southampton                    → 南安普敦                 源×1     译×1    
+     office cipher                  → 行里密码                 源×1     译×0     ★译0次(未落位?)
+     Slingsby                       → 斯灵斯比                 源×7     译×7    
+     Hoboken                        → 霍博肯                  源×1     译×1     残留「好血统」×1
+     The Adventure of the Blue Ruby → 《蓝色红宝石案》             源×1     译×1    
+     half sovereign                 → 半沙弗林金币               源×1     译×1    
+     housekeeper’s room             → 女管家房                 源×7     译×0     ★译0次(未落位?)
+     servants’ hall                 → 仆役大厅                 源×5     译×7    
+     odd man                        → 打杂男仆                 源×2     译×1    
+     scullery maid                  → 洗碗女仆                 源×9     译×1     落位偏低 1/9
+     the ten-fifty                  → 十点五十的车               源×1     译×0     ★译0次(未落位?)
+     Muriel                         → 穆丽尔                  源×7     译×7    
+     Billy; Young Bonehead          → 比利；「小木头」             源×0     译×0     ★源0次(幽灵?)
+     Doctor Bird                    → 伯德医生                 源×1     译×1    
+     the Marquis of Petersfield     → 彼得斯菲尔德侯爵             源×1     译×1    
+     Marius; Carthage               → 马里乌斯；迦太基             源×0     译×0     ★源0次(幽灵?)
+     Doctor Watson; Sherlock Holmes → 华生医生；夏洛克·福尔摩斯        源×0     译×0     ★源0次(幽灵?)
+     Persian cat; fried sole        → 波斯猫；煎鳎目鱼             源×0     译×0     ★源0次(幽灵?)
+     Paranoia                       → 偏执狂                  源×2     译×3    
+

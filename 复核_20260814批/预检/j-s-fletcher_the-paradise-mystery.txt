@@ -1,0 +1,97 @@
+====================================================================================================
+### j-s-fletcher_the-paradise-mystery  (27 files)
+  块: O=440 C=440 OK | 段: EN=1697 CN=1698 !!差 -1
+     [不对称] chapter-27.md                                        O=15 C=15 段EN=50 段CN=51
+  英文残留(剔括注) top: In×1, Para×1, Wrycestr×1, juxt×1, tumb×1, Ric×1, Jenk×1, ex×1, cap×1, xxiii×1
+  项目说明备注: 见术语表.md。关键难点在于多重身份/化名（布雷登/布雷克、福利奥特/雷、弗拉德盖特/弗拉德）——首次出现时务必括注真名，保证读者不迷失。译名以术语表为准。
+  -- 术语表硬约束行 89 条:
+     Dr. Mark Ransford              → 马克·兰斯福德医生            源×4     译×4    
+     Mary Bewery                    → 玛丽·比尤里               源×47    译×48   
+     Richard “Dick” Bewery          → 理查德·比尤里（昵称迪克 Dick）   源×0     译×1     ★源0次(幽灵?)
+     Pemberton Bryce                → 彭伯顿·布赖斯              源×14    译×14   
+     John Braden / John Brake       → 约翰·布雷登（真名约翰·布雷克 John 源×54    译×26    落位偏低 26/54 残留「乐园」×58
+     Mary Bewery (the elder)        → 玛丽·比尤里（老）            源×0     译×0     ★源0次(幽灵?)
+     Stephen Folliot                → 斯蒂芬·福利奥特             源×5     译×5    
+     Mrs. Folliot                   → 福利奥特太太               源×45    译×45   
+     Sackville Bonham               → 萨克维尔·博纳姆             源×13    译×13   
+     Fladgate / Flood               → 弗拉德盖特（真名弗拉德 Flood）   源×40    译×15    落位偏低 15/40
+     Inspector Mitchington          → 米钦顿探长                源×6     译×9    
+     Detective-Sergeant Jettison    → 杰蒂森侦探警长              源×3     译×3    
+     Simpson Harker                 → 辛普森·哈克（绰号老哈克）        源×9     译×10   
+     Collishaw                      → 科利肖                  源×127   译×130  
+     Varner                         → 瓦纳                   源×51    译×52   
+     Ambrose Campany                → 安布罗斯·坎帕尼             源×6     译×6    
+     Betty Campany                  → 贝蒂·坎帕尼               源×3     译×3    
+     The Duke of Saxonsteade        → 萨克森斯蒂德公爵             源×10    译×10   
+     Rev. Thomas Gilwaters          → 托马斯·吉尔沃特斯牧师          源×0     译×1     ★源0次(幽灵?)
+     Mr. Deramore                   → 德拉莫尔先生               源×0     译×0     ★源0次(幽灵?)
+     Glassdale                      → 格拉斯代尔                源×131   译×132  
+     Clayborne                      → 克莱伯恩                 源×1     译×10   
+     Selina Womersley               → 塞利娜·沃默斯利             源×1     译×1    
+     Thomas Joynt                   → 托马斯·乔因特              源×1     译×1    
+     Mrs. Partingley                → 帕丁利太太（Mrs. Partingle 源×9     译×1     落位偏低 1/9
+     Dellingham                     → 德灵厄姆（Dellingham）     源×15    译×3     落位偏低 3/15
+     Mr. Walkinshaw, Q.C.           → 沃金肖先生（御用大律师 Q.C.）    源×1     译×1    
+     Jenkins (Richard Jenkins, armi → 理查德·詹金斯（乡绅）          源×22    译×19    残留「乐园」×58
+     Martin                         → 马丁                   源×3     译×3    
+     Mrs. Folliot's garden-party    → 福利奥特太太的游园会           源×1     译×0     ★译0次(未落位?)
+     Wrychester                     → 赖彻斯特                 源×126   译×127  
+     the Close                      → 教堂区                  源×64    译×64   
+     the Cathedral                  → 大教堂                  源×47    译×62   
+     Paradise                       → 「乐园」                 源×53    译×53   
+     the Paradise                   → 「乐园」                 源×5     译×0     ★译0次(未落位?)
+     the tower / cathedral tower    → 大教堂塔楼                源×1     译×0     ★译0次(未落位?)
+     the Mitre                      → 米特旅馆                 源×15    译×14   
+     Barthorpe                      → 巴索普                  源×57    译×58   
+     Saxonsteade                    → 萨克森斯蒂德               源×19    译×19   
+     Leicestershire                 → 莱斯特郡                 源×12    译×12   
+     London                         → 伦敦                   源×55    译×59   
+     Westbourne Grove               → 韦斯特本格罗夫              源×1     译×1    
+     Bayswater                      → 贝斯沃特                 源×2     译×2    
+     Streatham                      → 斯特里瑟姆                源×1     译×1    
+     Upper Tooting                  → 上图廷                  源×1     译×1    
+     Braden Medworth                → 布雷登梅德沃斯              源×17    译×17   
+     Central Criminal Court         → 中央刑事法院               源×1     译×1    
+     Canada                         → 加拿大                  源×2     译×2    
+     America                        → 美国/美洲                源×2     译×4    
+     Australia                      → 澳大利亚                 源×15    译×15   
+     Scotland Yard / the Yard       → 苏格兰场                 源×6     译×7    
+     the Dean and Chapter           → 教长与教士会               源×5     译×5    
+     Wrychester Common              → 赖彻斯特公地（Wrychester Co 源×1     译×1    
+     Wrychester Golf Club           → 赖彻斯特高尔夫俱乐部           源×1     译×1    
+     the Deanery                    → 教长宅（the Deanery）     源×5     译×4    
+     the west porch                 → 西门廊                  源×7     译×8    
+     Friary Lane                    → 弗里亚里巷（Friary Lane）   源×5     译×3    
+     the Peacock                    → 孔雀旅馆（the Peacock）    源×4     译×4    
+     St. Pancras                    → 圣潘克拉斯（St. Pancras）   源×1     译×1    
+     the old well-house             → 老井屋（the old well-hou 源×2     译×4    
+     verger                         → 教堂司事                 源×7     译×10   
+     Close                          → 教堂区                  源×35    译×0     ★译0次(未落位?)
+     the galleries                  → （塔内）回廊层              源×2     译×0     ★译0次(未落位?)
+     ambulatories                   → 漫步廊                  源×1     译×1    
+     bell-tower                     → 钟楼                   源×1     译×1    
+     nave                           → 中殿                   源×12    译×12   
+     transepts                      → 耳堂（十字翼）              源×1     译×5    
+     spire                          → 尖塔                   源×3     译×4    
+     clerestory                     → 高侧窗层                 源×14    译×14   
+     coroner / inquest              → 验尸官 / 验尸聆讯           源×64    译×62   
+     penal servitude / penal servit → 苦役流放 / 徒刑            源×9     译×5     落位偏低 5/9
+     armiger                        → 乡绅（持盾纹章者）            源×1     译×1    
+     mason / mason's labourer       → 石匠 / 石匠帮工            源×18    译×20   
+     master-mason                   → 首席石匠                 源×9     译×7    
+     short loan                     → 短期借贷                 源×1     译×2    
+     half-crown                     → 半克朗（硬币）              源×1     译×1    
+     guinea                         → 几尼（币）                源×0     译×0     ★源0次(幽灵?)
+     sexton                         → 教堂工役                 源×3     译×2    
+     Q.C. (Queen's Counsel)         → 御用大律师                源×0     译×1     ★源0次(幽灵?)
+     London & Home Counties Bank, L → 伦敦与本土各郡银行有限公司        源×1     译×1    
+     spinney                        → 小树林                  源×0     译×1     ★源0次(幽灵?)
+     wicket gate                    → 便门                   源×2     译×4    
+     grafting                       → 嫁接                   源×1     译×1    
+     standard（rose）                 → 独干（玫瑰）               源×4     译×2     落位偏低 2/4
+     *Times*                        → 《泰晤士报》（*Times*）      源×17    译×7     落位偏低 7/17
+     *Crockford*                    → 《克罗克福德》（*Crockford*） 源×1     译×1    
+     box-tomb                       → 匣形墓                  源×1     译×1    
+     bull's-eye lantern             → 牛眼灯                  源×1     译×1    
+     Duchess's diamonds / robbery a → 公爵夫人的钻石 / 萨克森斯蒂德盗案   源×3     译×2    
+

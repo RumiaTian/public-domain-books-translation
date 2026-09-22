@@ -1,0 +1,47 @@
+## Preface / 序言
+
+===Original===
+Copies of a few of these Hymns have already appeared in periodical publications and in some recent collections. I have observed one or two of them attributed to persons who certainly had no concern in them but as transcribers. All that have been at different times parted with in manuscript are included in the present volume; and (if the information were of any great importance) the public may be assured, that the whole number were composed by two persons only. The original design would not admit of any other association. A desire of promoting the faith and comfort of sincere Christians, though the principal, was not the only motive to this undertaking. It was likewise intended as a monument, to perpetuate the remembrance of an intimate and endeared friendship. With this pleasing view I entered upon my part, which would have been smaller than it is, and the book would have appeared much sooner, and in a very different form, if the wise though mysterious providence of God had not seen fit to cross my wishes. We had not proceeded far upon our proposed plan before my dear friend was prevented, by a long and affecting indisposition, from affording me any further assistance. My grief and disappointment were great; I hung my harp upon the willows, and for some time thought myself determined to proceed no farther without him. Yet my mind was afterwards led to resume the service. My progress in it, amidst a variety of other engagements, has been slow; yet, in a course of years, the Hymns amounted to a considerable number; and my deference to the judgment and desires of others has at length overcome the reluctance I long felt to see them in print, while I had so few of my friend’s Hymns to insert in the collection.
+
+===Chinese===
+这几篇圣诗中的少数几首，此前已见于期刊和一些新近出版的圣诗集。我注意到其中一两首被归于某些人名下，而他们与这些诗实在毫无关系，至多只是抄录者。历年来以手稿形式流出的各篇，均已收入本卷；并且（倘若这消息有多少重要性可言）公众可以确信，全部圣诗仅出自两人之手。原先的计划本不容许更多人的合作。促进真诚基督徒的信心与安慰，虽是这项工作的主要动机，却不是惟一的动机。它同样意在立一座纪念碑，使一段亲密而亲爱的友谊长存在记忆之中。带着这可喜的期望，我承担了自己的部分。若不是神智慧却难测的护理定意挫阻我的心愿，我的这部分本会更小，这本书也会早得多问世，并且以截然不同的面貌出现。我们按拟定的计划尚未进行多久，我亲爱的朋友便因一场漫长而令人伤痛的疾病，再不能给我任何帮助。我的悲伤与失望何等深重；我把琴挂在柳树上，一度以为自己定意不再没有他而继续下去。然而后来我的心又被引导重新担起这项事奉。在繁多的事务之中，我的进展缓慢；但经过多年，圣诗累积成了可观的数目；我对旁人判断与愿望的尊重，终于胜过了我久久不愿见它们付印的心情——尤其当时我朋友的圣诗能收入本集的如此之少。
+
+===Original===
+There is a style and manner suited to the composition of hymns, which may be more successfully, or at least more easily attained by a versifier than by a poet. They should be *Hymns*, not *Odes*, if designed for public worship, and for the use of plain people. Perspicuity, simplicity, and ease, should be chiefly attended to: and the imagery and colouring of poetry, if admitted at all, should be indulged very sparingly, and with great judgment. The late Dr. Watts, many of whose hymns are admirable patterns in this species of writing, might, as a poet, have a right to say, That it cost him labour to restrain his fire, and to accommodate himself to the capacities of common readers. But it would not become me to make such a declaration. It behoved me do my best. But though I would not offend readers of taste by a wilful coarseness and negligence, I do not write professedly for them. If the Lord, whom I serve, has been pleased to favour me with that mediocrity of talent, which may qualify me for usefulness to the weak and the poor of his flock, without quite disgusting persons of superior discernment, I have reason to be satisfied.
+
+===Chinese===
+圣诗的写作自有一种相宜的文体与笔法，一个写韵文的人或许比一个诗人更容易——至少更轻松地——达到。圣诗若是为公共崇拜、为普通人的用处而写，就应当是*圣诗*，而不是*颂歌*。明晰、质朴、平易，是首要的讲究：诗歌的意象与辞彩即便容许，也当极节制地使用，并须极有分寸。已故的瓦茨博士（Dr. Watts）——他的许多圣诗正是这类写作的绝佳典范——作为诗人，或许有权说，约束自己的火、迁就普通读者的领会力，曾使他费过一番气力。但这样的话轮不到我来说。我只当尽力而为。虽然我不愿以故意的粗陋和疏忽冒犯有品位的读者，我也并非专为他们写作。若我所事奉的主乐意赐我一份中等之才，足以使我在他羊群中软弱贫穷的人那里有用，又不至于令见识高超的人完全生厌，我就有理由满足了。
+
+===Original===
+As the workings of the heart of man, and of the Spirit of God, are in general the same in all who are the subjects of grace, I hope most of these hymns, being the fruit and expression of my own experience, will coincide with the views of real Christians of all denominations. But I cannot expect that every sentiment I have advanced will be universally approved. However, I am not conscious of having written a single line with an intention either to flatter or to offend any party or person upon earth. I have simply declared my own views and feelings, as I might have done if I had composed hymns in some of the newly discovered islands in the South sea, where no person had any knowledge of the name of Jesus hut myself. I am a friend of peace; and being deeply convinced that no one can profitably understand the great truths and doctrines of the Gospel any further than he is taught of God, I have not a wish to obtrude my own tenets upon others in a way of controversy; yet I do not think myself bound to conceal them. Many gracious persons (for many such I am persuaded there are) who differ from me, more or less, in those points which are called Calvinistic, appeared desirous that the Calvinists should, for their sakes, studiously avoid every expression which they cannot approve. Yet few of them, I believe, impose a like restraint upon themselves, but think the importance of what they deem to be truth justifies them in speaking their sentiments plainly and strongly. May I not plead for an equal liberty? The views I have received of the doctrines of grace are essential to my peace; I could not live comfortably a day or an hour without them. I likewise believe, yea, so far as my poor attainments warrant me to speak, I know them to be friendly to holiness, and to have a direct influence in producing and maintaining a gospel conversation; and therefore I must not be ashamed of them.
+
+===Chinese===
+由于人心的活动与神的灵的运行，在一切蒙恩之人身上大体相同，我希望这些圣诗——既是我自己经历的果实与表白——大多能与各宗派真基督徒的见解相合。但我不能指望我提出的每一项见解都得到普遍认同。然而，我自觉没有写过一行字，存心要讨好或得罪世上任何党派或个人。我只是坦白陈述了自己的见解和感受，就像我若在南海新发现的某个岛屿上写圣诗——那里除我以外没有人知道耶稣的名——也会这样作一样。我是爱好和平的人；既深深确信，人若不是蒙神教导，就无法有益地明白福音的伟大真理与教义，我便无意以争辩的方式把自己的主张强加于人；但我也不认为自己有义务隐瞒它们。许多蒙恩的人（因为我确信这样的人很多）在那些称为加尔文主义的要点上与我或多或少不同，他们似乎期望加尔文主义者为他们的缘故，刻意回避每一个他们无法赞同的表述。然而我相信，他们中很少有人对自己施加同样的约束，倒认为他们视为真理之事的重要性，足以使他们坦率而有力地陈明自己的见解。我难道不能为自己请求同等的自由吗？我所领受的恩典教义的看见，对我的平安是必不可少的；没有它们，我连一天甚至一个时辰都无法安然度日。我也相信——是的，就我这可怜的成就所配让我说的而言，我知道它们与圣洁为友，并在产生和维系福音化的言行上有直接的影响；因此我决不可以它们为耻。
+
+===Original===
+The Hymns are distributed into three Books. In the first I have classed those which are formed upon select passages of Scripture, and placed them in the order of the Books of the Old and New Testament. The second contains occasional Hymns, suited to particular seasons, or suggested by particular events or subjects. The third book is miscellaneous, comprising a variety of subjects relative to a life of faith in the Son of God, which have no express reference either to a single text of Scripture, or to any determinate season or incident. These are further subdivided into distinct heads. This arrangement is not so accurate but that several of the hymns might have been differently disposed. Some attention to method may be found convenient, though a logical exactness was hardly practicable. As some subjects in the several books are nearly coincident, I have, under the divisions in the third book, pointed out those which are similar in the two former. And I have likewise here and there, in the first and second, made a reference to hymns of a like import in the third.
+
+===Chinese===
+这些圣诗分为三卷。第一卷收录根据圣经选段写成的圣诗，并按新旧约各卷的次序排列。第二卷是偶发主题的圣诗，配合特定的节期，或由特定的事件或题目引发。第三卷是杂集，涵盖与信靠神儿子之生命相关的各样主题，既不特指某一段圣经经文，也不限定某个节期或事件。这些主题又再细分为不同的门类。这样的编排并不精确——其中好几首圣诗原也可以有不同的安排。对方法稍加留意或觉便利，尽管要达到逻辑上的精确几乎不可能。由于各卷中有些主题彼此相近，我在第三卷的各分类下，指出了前两卷中相似的诗篇；同样，我也在第一、二卷中这里那里，附注了第三卷中同类旨趣的圣诗。
+
+===Original===
+This publication, which, with my humble prayer to the Lord for his blessing upon it, I offer to the service and acceptance of all who love the Lord Jesus Christ in sincerity, of every name and in every place, into whose hands it may come, I more particularly dedicate to my dear friends in the parish and neighbourhood of Olney, for whose use the hymns were originally composed, as a testimony of the sincere love I bear them, and as a token of my gratitude to the Lord and to them, for the comfort and satisfaction with which the discharge of my ministry among them has been attended.
+
+===Chinese===
+谨以本书，连同我为它祈求主赐福的卑微祷告，献给一切以诚实爱主耶稣基督的人——无论何名分、居何地，凡此书所到之手的——供他们使用与接纳；我更特别把它献给我在奥尔尼教区及邻近地方的亲爱的朋友们。这些圣诗最初正是为他们而写，作为我对他们真诚之爱的见证，也作为我向主并向他们感恩的记号——感谢我在他们中间履职事奉时所同蒙的安慰与满足。
+
+===Original===
+The hour is approaching, and at my time of life cannot be very distant, when my heart, my pen, and my tongue, will no longer be able to move in their service. But I trust while my heart continues to beat, it will feel a warm desire for the prosperity of their souls; and while my hand can write, and my tongue speak, it will be the business and the pleasure of my life, to aim at promoting their growth and establishment in the grace of our God and Saviour. To this precious grace I commend them, and earnestly entreat them, and all who love his name, to strive mightily with their prayers to God for me, that I may be preserved faithful to the end, and enabled at last to finish my course with joy.
+
+===Chinese===
+那时刻正在临近——以我这年纪，必不会太远——到那时，我的心、我的笔、我的舌，将再不能为他们效力。但我深信，只要我的心还在跳动，它就必怀着对他们灵魂兴盛的热切愿望；只要我的手还能写、我的舌还能说，促进他们在我们神和救主的恩典中成长坚立，就必是我一生的事业与喜乐。我将他们交托给这宝贵的恩典，并恳切劝勉他们，以及一切爱他名的人，切切以祷告向神为我祈求，使我得以持守忠心直到末了，并最终能存着喜乐跑尽我的路程。
+
+===Original===
+John Newton.
+Olney, Bucks,
+February 15, 1779.
+
+===Chinese===
+约翰·牛顿
+奥尔尼，白金汉郡
+1779年2月15日

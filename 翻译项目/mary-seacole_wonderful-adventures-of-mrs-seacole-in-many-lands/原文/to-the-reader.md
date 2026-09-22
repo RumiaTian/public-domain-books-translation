@@ -1,0 +1,6 @@
+## To the Reader
+I should have thought that no preface would have been required to introduce Mrs. Seacole to the British public, or to recommend a book which must, from the circumstances in which the subject of it was placed, be unique in literature.
+If singleness of heart, true charity, and Christian works; if trials and sufferings, dangers and perils, encountered boldly by a helpless woman on her errand of mercy in the camp and in the battlefield, can excite sympathy or move curiosity, Mary Seacole will have many friends and many readers.
+She is no Anna Comnena, who presents us with a verbose history, but a plain truth-speaking woman, who has lived an adventurous life amid scenes which have never yet found a historian among the actors on the stage where they passed.
+I have witnessed her devotion and her courage; I have already borne testimony to her services to all who needed them. She is the first who has redeemed the name of “sutler” from the suspicion of worthlessness, mercenary baseness, and plunder; and I trust that England will not forget one who nursed her sick, who sought out her wounded to aid and succour them, and who performed the last offices for some of her illustrious dead.
+W. H. Russell.

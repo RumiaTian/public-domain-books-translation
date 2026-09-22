@@ -1,0 +1,78 @@
+====================================================================================================
+### zitkala-sa_american-indian-stories  (13 files)
+  块: O=138 C=138 OK | 段: EN=513 CN=531 !!差 -18
+     [不对称] an-indian-teacher-among-indians.md                   O=14 C=14 段EN=51 段CN=54
+     [不对称] impressions-of-an-indian-childhood.md                O=26 C=26 段EN=118 段CN=124
+     [不对称] the-school-days-of-an-indian-girl.md                 O=23 C=23 段EN=88 段CN=93
+     [不对称] the-softhearted-sioux.md                             O=16 C=16 段EN=55 段CN=59
+  英文残留(剔括注) top: The×9, II×4, III×4, IV×4, My×3, Mother×2, VI×2, VII×2, Trip×1, Westward×1
+  -- 术语表硬约束行 68 条:
+     Zitkála-Šá                     → 齐特卡拉-萨（Zitkála-Šá）   源×0     译×0     ★源0次(幽灵?)
+     Dakota / the Dakotas           → 达科他（Dakota）；达科他人     源×10    译×13   
+     Sioux                          → 苏族                   源×5     译×5    
+     Great Sioux Nation             → 大苏族（Great Sioux Nati 源×1     译×1    
+     Indian / American Indian       → 印第安 / 美洲印第安          源×77    译×83   
+     red man / red Americans        → 红种人                  源×7     译×4     落位偏低 4/7
+     paleface                       → 白脸人（paleface）        源×31    译×31   
+     the Great Spirit               → 大神灵（Great Spirit）    源×15    译×16   
+     wakan                          → 瓦坎（wakan），神圣之力       源×0     译×0     ★源0次(幽灵?)
+     medicine man                   → 巫医（medicine man）     源×2     译×14   
+     medicine bag                   → 药袋（medicine bag）     源×1     译×1    
+     teepee                         → 梯皮帐篷（teepee）         源×32    译×12    落位偏低 12/32
+     wigwam                         → 棚屋（wigwam）           源×33    译×34   
+     moccasin                       → 鹿皮鞋（moccasin）        源×0     译×16    ★源0次(幽灵?)
+     brave                          → 勇士                   源×16    译×64    残留「勇敢的」×8
+     papoose                        → 婴儿（papoose）          源×0     译×0     ★源0次(幽灵?)
+     porcupine quill（刺绣）            → 豪猪刺（porcupine quill） 源×2     译×2    
+     village crier                  → 传令人                  源×1     译×4    
+     Washington, DC                 → 华盛顿                  源×4     译×14   
+     The Atlantic Monthly           → 《大西洋月刊》（The Atlantic 源×1     译×1    
+     Harper's Magazine              → 《哈泼斯杂志》（Harper's Mag 源×1     译×1    
+     Everybody's Magazine           → 《人人杂志》（Everybody's M 源×1     译×1    
+     Impressions of an Indian Child → 印第安童年的印象             源×2     译×1    
+     The School Days of an Indian G → 一个印第安女孩的求学岁月         源×2     译×1    
+     An Indian Teacher Among Indian → 印第安人中的印第安教师          源×2     译×1    
+     Why I Am a Pagan               → 我为什么是异教徒             源×2     译×1    
+     The Trial Path                 → 审判之路                 源×2     译×3    
+     The Softhearted Sioux          → 心软的苏族人               源×2     译×1    
+     A Warrior's Daughter           → 勇士的女儿                源×2     译×1    
+     A Dream of Her Grandfather     → 梦见祖父                 源×1     译×0     ★译0次(未落位?)
+     America's Indian Problem       → 美国的印第安问题             源×1     译×0     ★译0次(未落位?)
+     The Widespread Enigma Concerni → 关于蓝星女人的广传之谜          源×1     译×0     ★译0次(未落位?)
+     Acknowledgments                → 致谢                   源×1     译×0     ★译0次(未落位?)
+     Bureau of Indian Affairs       → 印第安事务局（Bureau of Ind 源×1     译×3    
+     Bureau of Municipal Research   → 市政研究局（Bureau of Muni 源×1     译×1    
+     Municipal Research             → 《市政研究》（Municipal Res 源×1     译×1    
+     Powhatan                       → 波瓦坦（Powhatan）        源×2     译×2    
+     De Soto                        → 德索托（De Soto）         源×2     译×2    
+     Cofachiqui                     → 科法奇奎（Cofachiqui）     源×1     译×1    
+     Dawée                          → 达维（Dawée）            源×22    译×22   
+     the Great Father (at Washingto → 大父亲（Great Father）    源×3     译×3    
+     firewater                      → 火水（firewater）        源×1     译×1    
+     reservation                    → 保留地（reservation）     源×3     译×5    
+     Taku Iyotan Wasaka             → 塔库·约坦·瓦萨卡（Taku Iyota 源×1     译×1    
+     Warca-Ziwin                    → 瓦尔卡-齐温（Warca-Ziwin）， 源×5     译×5    
+     Wiyaka-Napbina                 → 维亚卡-纳普比纳（Wiyaka-Napb 源×4     译×4    
+     Judéwin                        → 朱德温（Judéwin）         源×15    译×15   
+     Thowin                         → 托温（Thowin）           源×6     译×6    
+     Haraka Wambdi                  → 哈拉卡·万布迪（Haraka Wambd 源×2     译×2    
+     Chanyu                         → 查纽（Chanyu）           源×1     译×1    
+     Iktomi                         → 伊克托米（Iktomi）         源×2     译×2    
+     Missouri (River)               → 密苏里河                 源×4     译×4    
+     iron horse                     → 铁马                   源×6     译×7    
+     How! / Han!                    → 嗯哪！/ 汉！              源×6     译×6    
+     Ate / Ina                      → 阿特（Ate，父亲）/ 伊娜（Ina，母 源×5     译×1     落位偏低 1/5
+     Hoh! / Ho                      → 嚯！                   源×4     译×2     落位偏低 2/4
+     Ohiyesa                        → 奥希耶萨（Ohiyesa）        源×3     译×3    
+     Heyã / Eya / Ho-po / Hinnu     → 嘿亚（不）/ 埃亚（是呀）/ 嚯-波（传 源×8     译×2     落位偏低 2/8
+     Blue-Star Woman                → 蓝星女人（Blue-Star Woman 源×27    译×27   
+     Chief High Flier               → 高飞酋长（Chief High Flie 源×4     译×4    
+     Small Voice Woman              → 小声音女人（Small Voice Wo 源×2     译×2    
+     Sitting Bull                   → 坐牛（Sitting Bull）     源×1     译×1    
+     White-Horse-Riders             → 白马骑团（White-Horse-Rid 源×2     译×2    
+     superintendent                 → 主管（superintendent）   源×7     译×7    
+     Wan / Hunhunhe / Iye-que       → 万／哼哼嘿／伊耶-克（有福气的人）    源×4     译×13   
+     Chän                           → 恰恩（Chän）             源×2     译×2    
+     Stone-Boy / Inyan              → 石童（Stone-Boy）/ 因扬（In 源×2     译×1    
+     Yellow Breast                  → 黄胸鸟（Yellow Breast）   源×1     译×1    
+

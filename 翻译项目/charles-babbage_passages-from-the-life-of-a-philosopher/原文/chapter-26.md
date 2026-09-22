@@ -1,0 +1,438 @@
+## XXVI
+
+Street Nuisances
+
+Various Classes injured﻿—Instruments of Torture﻿—Encouragers; Servants, Beer-shops, Children, Ladies of elastic virtue﻿—Effects on the Musical Profession﻿—Retaliation﻿—Police themselves disturbed﻿—Invalids distracted﻿—Horses run away﻿—Children run over﻿—A Cabstand placed in the Author’s street attracts Organs﻿—Mobs shouting out his Name﻿—Threats to Burn his House﻿—Disturbed in the middle of the night when very ill﻿—An average number of Persons are always ill﻿—Hence always disturbed﻿—Abusive Placards﻿—Great Difficulty of getting Convictions﻿—Got a Case for the Queen’s Bench﻿—Found it useless﻿—A Dead Sell﻿—Another Illustration﻿—Musicians give False Name and Address﻿—Get Warrant for Apprehension﻿—They keep out of the way﻿—Offenders not yet found and arrested by the Police﻿—Legitimate Use of Highways﻿—An Old Lawyer’s Letter to *The Times*﻿—Proposed Remedies; Forbid entirely﻿—Authorize Police to seize the Instrument and take it to the Station﻿—An Association for Prevention of Street Music proposed.
+
+During the last ten years, the amount of street music has so greatly increased that it has now become a positive nuisance to a very considerable portion of the inhabitants of London. It robs the industrious man of his time; it annoys the musical man by its intolerable badness; it irritates the invalid; deprives the patient, who at great inconvenience has visited London for the best medical advice, of that repose which, under such circumstances, is essential for his recovery, and it destroys the time and the energies of all the intellectual classes of society by its continual interruptions of their pursuits.
+
+Instruments of torture permitted by the Government to be in daily and nightly use in the streets of London.
+				
+					
+- 
+						
+
+Organs.
+
+- 
+						
+
+Brass bands.
+
+- 
+						
+
+Fiddles.
+
+- 
+						
+
+Harps.
+
+- 
+						
+
+Harpsichords.
+
+- 
+						
+
+Hurdy-gurdies.
+
+- 
+						
+
+Flageolets.
+
+- 
+						
+
+Drums.
+
+- 
+						
+
+Bagpipes.
+
+- 
+						
+
+Accordions.
+
+- 
+						
+
+Halfpenny whistles.
+
+- 
+						
+
+Tom-toms.
+
+- 
+						
+
+Trumpets.
+
+- 
+						
+
+The human voice in various forms:
+
+- 
+								
+
+Shouting out objects for sale.
+
+- 
+								
+
+Religious canting.
+
+- 
+								
+
+Psalm-singing.
+
+I have very frequently been disturbed by such music after eleven and even after twelve o’clock at night. Upon one occasion a brass band played, with but few and short intermissions, for five hours.
+
+Encouragers of Street Music.
+				
+					
+- 
+						
+
+Tavern-keepers.
+
+- 
+						
+
+Public-houses.
+
+- 
+						
+
+Gin-shops.
+
+- 
+						
+
+Beer-shops.
+
+- 
+						
+
+Coffee-shops.
+
+- 
+						
+
+Servants.
+
+- 
+						
+
+Children.
+
+- 
+						
+
+Visitors from the country.
+
+- 
+						
+
+Ladies of doubtful virtue.
+
+- 
+						
+
+Occasionally titled ladies; but these are almost invariably of recent elevation, and deficient in that taste which their sex usually possess.
+
+The habit of frequenting public-houses, and the amount of intoxication, is much augmented by these means. It therefore finds support from the whole body of licensed victuallers, and from all those who are interested, as the proprietors of public-houses.
+
+The great encouragers of street music belong chiefly to the lower classes of society. Of these, the frequenters of public-houses and beer-shops patronize the worst and the most noisy kinds of music. The proprietors of such establishments find it a very successful means of attracting customers. Music is kept up for a longer time, and at later hours, before the public-house, than under any other circumstances. It not unfrequently gives rise to a dance by little ragged urchins, and sometimes by half-intoxicated men, who occasionally accompany the noise with their own discordant voices.
+
+Servants and children are great admirers of street music; also people from the country, who, coming up to town for a short time, often encourage it.
+
+Another class who are great supporters of street music, consists of ladies of elastic virtue and cosmopolitan tendencies, to whom it affords a decent excuse for displaying their fascinations at their own open windows. Most ladies resident in London are aware of this peculiarity, but occasionally some few to whom it is not known have found very unpleasant inferences drawn, in consequence of thus gratifying their musical taste.
+
+Musical Performers.
+				
+					
+						Musicians.
+						Instruments.
+					
+				
+				
+					
+						Italians
+						Organs.
+					
+					
+						Germans
+						Brass bands.
+					
+					
+						Natives of India
+						Tom-toms.
+					
+					
+						English
+						Brass bands, fiddles, etc.
+					
+					
+						The lowest class of clubs
+						Bands with double drum.
+					
+				
+			
+			
+
+The most numerous of these classes, the organ-grinders, are natives of Italy, chiefly from the mountainous district, whose language is a rude patois, and who are entirely unacquainted with any other. It is said that there are above a thousand of these foreigners usually in London employed in tormenting the natives. They mostly reside in the neighbourhood of Saffron Hill, and are, of course, from their ignorance of any other language than their own, entirely in the hands of their padrones. One of these, a most persevering intruder with his organ, gave me a false address. Having ascertained the real address, he was sought for by the police for above a fortnight, but not discovered. His padrone becoming aware of his being “*wanted*,” sent him on a country circuit. I once met, within a few miles of the Land’s End, one of these fellows whom I had frequently sent away from my own street.
+
+The amount of interruption from street music, and from other occasional noises, varies with the nature and the habits of its victims. Those whose minds are entirely unoccupied receive it with satisfaction, as filling up the vacuum of time. Those whose thoughts are chiefly occupied with frivolous pursuits or with any other pursuits requiring but little attention from the reasoning or the reflective powers, readily attend to occasional street music. Those who possess an impaired bodily frame, and whose misery might be alleviated by *good* music at proper intervals, are absolutely driven to distraction by the vile and discordant music of the streets waking them, at all hours, in the midst of that temporary repose so necessary for confirmed invalids.
+
+By professional musicians its effects are most severely felt. It interrupts them in their own studies, and entirely destroys the value of the instructions they are giving their domestic pupils. When they leave their own house to give lessons to their employers, the “*infernal*” organ still pursues them. Their Belgravian employer is obliged, at every lesson, to bribe the itinerant miscreant to desist﻿—his charge for this act of mercy being from a shilling to half-a-crown for each lesson.
+
+It is, however, right to hint to the members of the musical profession, that their immediate neighbours do not quite so much enjoy even the most exquisite professional music when filtered through brick walls, or transmitted circuitously and partially through open windows into the houses of their neighbours. I know of no remedy to propose for the benefit of the latter class, but I think that a proper self-respect should induce the professional musician himself to close his windows, and even to suffer the inconvenience of heat, rather than permanently annoy his neighbours.
+
+The law of retaliation, which is only justified when other arguments fail, was curiously put in force in a case which was brought under my notice a few years ago. An artist of considerable eminence, who resided in the west end of London, had for many a year pursued his own undisturbed and undisturbing studies, when one fine morning his professional studies were interrupted by the continuous sound of music transmitted through the wall from his neighbour’s house.
+
+Finding the noise continuous and his interruption complete, he rang for his servant, and putting his maul into the man’s hand desired him to continue knocking against the wall from whence the disturbance proceeded until he returned from a walk in the Park. He added that he should probably be absent for an hour, and that if any person called and wished to see him, he should be at home at the end of that time.
+
+On his return he was informed that the new tenant of the adjacent house had called during his absence, and that on being informed of the hour of his master’s return, he had expressed his intention of calling again. A short time after this the new tenant of the adjacent house was introduced. He apologized for this visit to a stranger, but said that during the last hour he had been annoyed by a most extraordinary knocking against the wall, which entirely interrupted his professional pursuits.
+
+To this the artist replied in almost precisely the same words, that during the previous hour he had been annoyed by a most extraordinary and unusual sound which entirely interrupted *his* professional pursuits. After some discussion it was settled that the piano should be removed to the opposite wall, and that it should be covered with a stratum of blankets.
+
+This arrangement went on for a few months; but the pupils and their relatives disapproving of a dumb piano gradually left the professor, who found it desirable to give up the house and retire to a more music-tolerating neighbourhood. In this case the evil was equal on both sides, and it was reasonable that the newcomer should retire.
+
+In my own case it has often been suggested to me to retaliate; and as many of my interruptions have been *intentional*, that course might be justifiable. But as they have been confined to one or two of the lowest persons in the neighbourhood, I thought it not right to disturb my more respectable neighbours. The means at my command for producing the most hideously discordant noises are ample, having a considerable collection of shrill organ pipes, with appropriate bellows, and an indefatigable steam engine ever ready to work them whilst I might be “taking a walk in the Park.” I hope by the timely amendment of the law no person may be driven to practise what it refuses to prevent, and thus test the laws of the country by the *reductio ad absurdum*.
+
+It is difficult to estimate the misery inflicted upon thousands of persons, and the absolute pecuniary penalty imposed upon multitudes of intellectual workers by the loss of their time, destroyed by organ-grinders and other similar nuisances.
+
+I have witnessed much and suffered more; many communications on the subject have reached me, and I fear that I may appear to have neglected several of them. I hope, however, that the great sacrifice of my own time, which has been forced upon me in order to secure the remainder, may be accepted as my excuse. I will now mention some few of the results.
+
+Even policemen have frequently told me that organs are a great nuisance to them personally. A large number of the police are constantly on night duty, and of course these can only get their sleep during the day. On such occasions their rest is constantly broken by the nuisance of street music.
+
+A lady, the wife of an officer on half-pay, writes to me, stating her own sad case. Her husband, suffering under a painfully nervous affection, is brought up to London for the benefit of medical advice. Under these circumstances a sensible improvement takes place, but it requires time and constant attention to advance the cure. In order to profit by the eminent skill which London supplies, the lady and her husband, at considerable sacrifice, take a very small house in a very quiet little square. Unfortunately, the organ-grinders had possession of it, and no entreaties would banish them. The irritation produced on the invalid was frightful, and I feel it some relief not to have known its almost inevitable termination.
+
+Various accidents occur as the consequence of street music. It occasionally happens that horses are frightened, and perhaps their riders thrown; that carriages are run away with, and their occupiers dreadfully alarmed and possibly even bruised.
+
+The following casualties were reported, about three years ago, in most of the daily newspapers:﻿—
+
+**“Shocking Occurrence.﻿—Six Children Run Over and Mutilated.**
+
+Yesterday afternoon, shortly after four o’clock, a German band, whilst performing in the Old St. Pancras Road, was the cause of a most dreadful accident. At the time mentioned, the band referred to was playing at the corner of Aldenham Terrace, when a man named Charles Field was driving one of Atcherley’s (the horse-slaughterer’s) carts down Aldenham Street. At the end of Aldenham Street there is a great declivity into the St. Pancras Road, and just as the cart was turning it, laden with a dead horse, the big drum was beaten with extraordinary violence. A cart was standing on the opposite side of the road, to avoid which a short turn on the part of the driver of Atcherley’s cart was necessary. The sudden beating of the drum caused the horse to take fright, and the driver being pitched head foremost from his seat, caused him to lose control over the animal he was driving, which dashed in amongst the children and others who were standing in the road listening to the music, knocking them down right and left. When the consternation created by the occurrence had subsided, no less than six poor children were found lying on the ground in a helpless condition, the vehicle having passed over some part of their persons. They were conveyed as fast as possible into the adjacent surgery of Dr. Sutherin, of 28, Aldenham Terrace, who, with his assistant, promptly attended upon them.
+
+“William Hill, aged nine years, of 34, Stanmore Street, who had sustained fractured ribs and other injuries; and
+
+“Charles Harwood, aged eleven years, of 4, Clarendon Square, with fracture of the left arm and groin, as well as right leg, caused by the vehicle passing over them, were removed, by direction of Dr. Sutherin, to University College Hospital.
+
+“The other sufferers are Robert Thwaites, of 2, St. Pancras Square, aged seven years, injury to leg and one of his feet;
+
+“James Gunn, 34, Stanmore Street, crushed toes;
+
+“William Young, 8, Percy Terrace, aged six years, contusion to head and face; and
+
+“A child, name unknown, considerably injured.
+
+“The persons who witnessed the occurrence do not attribute any blame to the driver; but as soon as it took place the German band were off with as little delay as possible.”
+
+> *Daily Telegraph*, Oct. 3, 1861.
+
+If this sad accident had fortunately happened in Belgravia, there can be little doubt that the law would have been altered, in order to prevent the recurrence of such frightful misery.
+
+No attempt, however, has yet been made to remove the cause; and I have myself more recently seen a German brass band playing in a very narrow, crowded street, close to the Bank of England, at three o’clock in the afternoon, making it difficult to pass, as well as dangerous to one’s pocket.
+
+On another occasion, at two o’clock, a German band was playing in Piccadilly, at that crowded part, the Circus. In both instances the police were looking on, and seemed to enjoy the music they were not directed to stop.
+
+I have obtained, in my *own* country, an unenviable celebrity, not by anything I have done, but simply by a determined resistance to the tyranny of the lowest mob, whose love, not of music, but of the most discordant noises, is so great that it insists upon enjoying it at all hours and in every street. It may therefore be expected that I should in this volume state at least the outline of my own case.
+
+I claim no merit for this resistance; although I am quite aware that I am fighting the battle of every one of my countrymen who gains his subsistence by his intellectual labour. The simple reason for the course I have taken is, that however disagreeable it has been, it would have been still more painful to have given up a great and cherished object, already fully within my reach. I have been compelled individually to resist this tyranny of the lowest mob, because the Government itself is notoriously afraid to face it.
+
+On a careful retrospect of the last dozen years of my life, I have arrived at the conclusion that I speak within limit when I state that one-fourth part of my working power has been destroyed by the nuisance against which I have protested. Twenty-five percent is rather too large an additional income-tax upon the brain of the intellectual workers of this country, to be levied by permission of the Government, and squandered upon its most worthless classes.
+
+The effect of a *uniform* and *continuous* sound, in distracting the attention or in disturbing intellectual pursuits, is almost insensible. Those who reside near a waterfall﻿—even Niagara﻿—have their organs soon seasoned and adapted to its monotony. It is the *change* from quietness to noise, or from one kind of noise to another, which instantly distracts the attention. It would be equally distracted by the reverse﻿—by the sudden change from the hum of the busy world to the stillness of the desert.
+
+The injurious effect of noisy interruptions upon our attention also varies with the nature of the investigations upon which we are engaged. If they are of a kind requiring but a very small amount of intellectual effort, as, for instance, the routine of a public office, they will be little felt. If, on the other hand, those subjects are of such a character as to require the highest efforts of the thinker, then their examination is interrupted by the slightest change in the surrounding circumstances.
+
+When the work to be done is proportioned to the powers of the mind engaged upon it, the painful effect of interruption is felt as deeply by the least intellectual as by the most highly gifted. The condition which determines the maximum of interruption is﻿—that the mind disturbed, however moderate its powers, shall be working up to its full stretch.
+
+Finding, many years ago, the increasing interruption of my pursuits from street music, as it is now tolerated, I determined to endeavour to get rid of it by putting in force our imperfect law, as far it goes. I soon found how very imperfect it is.
+
+The first step is to require the performer to desist, and to assign illness or other sufficient reason for the request. If a female servant is sent on this mission it is quite useless. The organ-player is scarcely ever acquainted with more than four or five words of our language: but these always the most vulgar, the most offensive, and the most insulting. If a manservant is sent, the Italians are often very insolent, and constantly refuse to depart. But there are multitudes of sufferers who are ill and are in lodgings, and have no servant to send. Besides, the servants must occasionally be absent, being sent by their employers on their various duties.
+
+The principle on which I proposed to act is, whenever it can be fully carried out, usually very effective. It was simply this﻿—to make it more unprofitable to the offender to do the wrong than the right.
+
+Whenever, therefore, an itinerant musician disturbed me, I immediately sent out, or went out myself, to warn him away. At first this was not successful; but after summoning and convicting a few, they found out that their precious time was wasted, and most of them deserted the immediate neighbourhood. This would have succeeded had the offenders been few in number; but their name is legion: upwards of a thousand being constantly in London, besides those on their circuit in the provinces.
+
+It was not, however, the interest of those who deserted my station to inform their countrymen of its barrenness; consequently, the freshly-imported had each to gain his own experience at the expense of his own and of my time. Perhaps I might have succeeded at last in banishing the Italian nuisance from the neighbourhood of my residence; but various other native professors of the art of tormenting with discords increased as the licence of these Italian itinerants was encouraged. Another event, however, occurred, which added much more seriously to my difficulty.
+
+Many years before I had purchased a house in a very quiet locality, with an extensive plot of ground, on part of which I had erected workshops and offices, in which I might carry on the experiments and make the drawings necessary for the construction of the Analytical Engine. Several years ago the quiet street in which I resided was invaded by a hackney-coach stand. I, in common with most of the inhabitants, remonstrated and protested against this invasion of our comfort and this destruction of the value of our property. Our remonstrance was ineffectual: the hackney-coach stand was established.
+
+The immediate consequence was obvious. The most respectable tradesmen, with some of whom I had dealt for five-and-twenty years, saw the ruin which was approaching, and, wisely making a first sacrifice, at once left their deteriorated property as soon as they could find for it a purchaser. The neighbourhood became changed: coffee-shops, beer-shops, and lodging-houses filled the adjacent small streets. The character of the new population may be inferred from the taste they exhibit for the noisiest and most discordant music.
+
+I have looked in vain for any public advantage to justify this heavy injury to private property. It will scarcely be believed that another hackney-coach stand actually exists within two hundred yards,51 namely, that in Paddington Street, which has a very large space unoccupied by any houses on either side of the street, and which had frequently cabs on it plying for hire during the whole night.
+
+In endeavouring to put in force the existing law, imperfect as it is, I have met with sundry small inconveniences which a Cabinet Minister might perhaps think trivial, but which, in a slight degree, try the temper even of a philosopher.
+
+Some of my neighbours have derived great pleasure from inviting musicians, of various tastes and countries, to play before my windows, probably with the pacific view of ascertaining whether there are not some kinds of instruments which we might both approve. This has repeatedly failed, even with the accompaniment of the human voice divine, from the lips of little shoeless children, urged on by their ragged parents to join in a chorus rather disrespectful to their philosophic neighbour.
+
+The enthusiasm of the performer, excited by such applause, has occasionally permitted him to dwell too long upon the already forbidden notes, and I have been obliged to find a policeman to ascertain the residence of the offender. In the meantime the crowd of young children, urged on by their parents, and backed at a judicious distance by a set of vagabonds, forms quite a noisy mob, following me as I pass along, and shouting out rather uncomplimentary epithets. When I turn round and survey my illustrious tail, it stops; if I move towards it, it recedes: the elder branches are then quiet﻿—sometimes they even retire, wishing perhaps to avoid my future recognition. The instant I turn, the shouting and the abuse are resumed, and the mob again follow at a respectful distance. The usual result is that the deluded musicians find themselves left in the lurch at the police-court by their enthusiastic encouragers, and have to pay a heavier fine for having contributed to collect this unruly and ungenerous mob.
+
+Such occurrences have unfortunately been by no means rare. In one case there were certainly above a hundred persons, consisting of men, women, and boys, with multitudes of young children, who followed me through the streets before I could find a policeman. To such an extent has this annoyance of shouting out my name, without or with insulting epithets, been carried, that I can truly affirm, unless I am detained at home by illness, no week ever passes without many instances of it.
+
+The police tell me that the children, “who are put up to the trick by their parents,” belong chiefly to several ragged-schools in my neighbourhood. I have myself repeatedly traced numbers of them into the Portman Chapel School, in East Street. In one instance I went into that school and made a formal complaint to the teacher, who expressed great regret for it, and requested me, if I could see any of the offenders, to point them out; but amongst the number of children then present I was unable to identify the offenders.
+
+The insults arising from boys, set on by their parents, and from other older, and therefore less pardonable offenders, shouting out my name under my windows, or as I pass along the streets, and even in the middle of the night, are of almost constant occurrence. Of course, I always appear to take no notice of such circumstances. Only a few days ago, whilst I was engaged upon the present chapter, I had occasion to pass down Manchester Street: when I was about halfway down, I heard from that end of the street I had left, loud and repeated cries of “Stop thief.” I naturally turned round, when I saw two young fellows at the corner, who repeated the cry twice, as loudly as they could, and then ran, as hard as they were able, round the corner out of my sight. There could be no mistake that this was intended to annoy me, because it happened at a time when there was no person except myself in the upper part of the street.
+
+Another source of annoyance, fortunately only of a very limited amount, arises from a perverse disposition of some of my neighbours, who, in two or three instances, have gone to the expense of purchasing worn-out or damaged wind instruments, which they are incapable of playing, but on which they produced a discordant noise for the purpose of annoying me. One of these appearing at the police-court as a witness for an organ-grinder, was questioned by the magistrate, and informed that he would render himself liable to an indictment by the continuance of such conduct. Another foolish young fellow purchased a wind instrument with a hole in it, with which he made discordant noises purposely to annoy me. Travelling in a third-class carriage to Deptford, he described, with great zest to the person sitting opposite to him, the instrument, its price, and the use he made of it. The listener to this confidence was one of the best of my own draughtsmen, who was quite as much disturbed by the street music as myself. The police were made acquainted with the fact, and I believe still have, from time to time, their eyes upon the young vagabond.
+
+Another wilful disturber of my quiet, was a workman inhabiting an attic in a street which overlooked my garden. When he returned daily to his dinner, this fellow, possessing a penny tin whistle, opened his window, and leaning out of it, blew his shrill instrument in the direction of my garden for about half-an-hour. I simply noted the fact in a memorandum book, and then employed the time he thought he was destroying, in taking my daily exercise, or in any other outdoor mission my pursuits required. After a perseverance in this course during many months, he discontinued the annoyance, but for what reason I never knew.
+
+At an early period when I was putting the law in force, as far as I could, for the prevention of this destruction of my time, I received constantly anonymous letters, advising, and even threatening me with all sorts of evils, such as destruction of my property, burning my house, injury to myself. I was very often addressed in the streets with similar threats. On one occasion, when I was returning home from an affair with a mob whom the police had just dispersed, I met, close to my own door, a man, who, addressing me, said, “You deserve to have your house burnt, and yourself in it, and I will do it for you, you old villain.” I asked him if he had any objection to give me his address. Of course he refused. I then followed him at a short distance, looking out for a policeman. Whenever he saw one at a distance he turned rapidly up the next street; this chase continued above half-an-hour; he was then joined by a companion, an ill-looking fellow. They still continued to turn off into another street whenever a constable became visible in the distance. At last we saw a great crowd, into which they both rushed, and further pursuit became impossible.
+
+I will not describe the smaller evils of dead cats, and other offensive materials, thrown down my area; of windows from time to time purposely broken, or from occasional blows from stones projected by unseen hands.
+
+The last annoyance I shall mention, occurred in the month of December of the past year. I had been suffering considerably from ill-health, and it became necessary that I should undergo a painful surgical operation. Late in the night of that day, I got into a refreshing sleep, when at one o’clock in the morning I was suddenly awakened by the crash of a brass band, which continued playing whilst I was unable to move, and was compelled passively to submit to the tormentors.
+
+By a most singular accident, many weeks after, I became possessed of evidence, that the musicians held a consultation in Manchester Square about going to the top of the street to wake me up. I am glad, however, to add, for the credit of human nature, that *one* of the party advised them not to do it, and that he himself immediately left them.
+
+It has been found, upon undoubted authority, by returns from benefit societies, that in London, about 4.72 persons percent are constantly ill. This approximation may be fairly assumed as the nearest yet attained for the population of London. It follows, therefore, that about forty-seven out of every thousand inhabitants are always ill. The number of persons per house varies in different parts. In my own district it averages ten to each house; in a neighbouring district the average is thirteen per house.
+
+In Manchester Street, which faces my own residence, there are fifty-six houses. This, allowing the above average of ill-health, will show that about twenty-six persons are usually ill in that street. Now the annoyance from street music is by no means confined to the performers in the street in which a house is situated. In my own case, there are portions of five other streets in which street music constantly interrupts me in my pursuits. If the portions of these five streets are considered to be only equal in population to that of Manchester Street, it will appear that upwards of fifty people who are ill, are constantly disturbed by the same noises which so frequently interrupt my own pursuits.
+
+The misery inflicted upon those who are really ill is far greater than that which arises from the mere destruction of time, however valuable. A friend of mine, himself an excellent magistrate, suffering under a severe and fatal complaint, was almost driven to distraction during the last six months of his painful existence, by the constant occurrence of the organ nuisance, which he was entirely unable to stop.
+
+I have at times made attempts to register the number of such interruptions in my pursuits; but these have been very partial and imperfect. I find by some notes, that during about eighty days, I registered one hundred and sixty-five instances, the greater part of which I went out myself to put a stop to the nuisance. In several of these cases my whole day’s work was destroyed, for they frequently occurred at times when I was giving instruction to my workmen relative to some of the most difficult parts of the Analytical Engine.
+
+At one period after I had succeeded in getting two or three convictions, some of my neighbours put themselves to the expense of having large placards printed, in which they abused me for having put the law in force against the destroyers of my time. These placards they stuck up in the windows of their little shops, at intervals from Edgware Road to Tottenham Court Road. Some of them attempted verse and thought it poetry; though the only part really imaginative was their prose statements.
+
+Unfortunately for my comfort, a few years ago, Mr. X﻿—﻿—, one of the magistrates of Marylebone Office, was succeeded by Mr. Y﻿—﻿—. Now the taste of the new magistrate, like that of his predecessor, was favourable to the Italian organ: his predecessor might, however, have been excused, as he was deaf. Possibly Mr. Y﻿—﻿— thinks that all Italian music is high art, and therefore ought to be encouraged.
+
+I soon discovered that it was useless to bring any musical offender before him, and I had for some time to endure the most intolerable interruption of my pursuits.
+
+Upon one occasion, when I had summoned an organ-grinder before him, his decision was, in my opinion, so unsatisfactory, that I determined to address to the Home Secretary a remonstrance against it.
+
+The case was heard by Mr. Y﻿—﻿— about the middle of July. My letter to Sir George Grey, accompanied by a series of the placards, was sent to the Home Office about the middle of August. I waited patiently for a reply, but, receiving none, I took it for granted that my letter could not have reached the Home Secretary. At last, on the 17th of December, I wrote to his private secretary, in order to ascertain the fact: the reply to my note was﻿—the simple admission that *the letter had been received*. I confess that this event baffled all my calculations. I had observed that high officials, distinguished by their intellectual powers, were occasionally oblivious upon minor points; but that high officials distinguished only by the office they held were usually most rigidly courteous and exact.
+
+After this I abstained for a long time from bringing any case before Mr. Y﻿—﻿—. At last a case occurred, which it appeared to me could not be resisted. I brought it before that magistrate; it was heard, and the charge was dismissed. Believing the decision to be erroneous in law, I consulted a solicitor who had much experience in the Metropolitan Police Courts, with the view of getting the opinion of the Court of Queen’s Bench upon the subject.
+
+My legal adviser had no doubt that the decision would be favourable, but urged upon me the great expense, and advised me not to proceed. On inquiry as to the probable amount, he suggested that it might reach fifty pounds. I immediately replied that it would be good economy to purchase my own time at that expense, and I desired him to take the necessary steps.
+
+The first was to get some housekeeper to enter with me into a bond for twenty pounds to pay the magistrate’s costs, in case I failed. Having wasted some time upon this, the magistrate granted a case for the Queen’s Bench, a copy of which my solicitor immediately sent me.
+
+The grounds of Mr. Y﻿—﻿—’s decision, were﻿—
+
+- 
+					
+
+1st. That the man was not *legally* in custody.
+
+- 
+					
+
+2nd. That he was not within reasonable distance of my house.
+
+- 
+					
+
+3rd. That he did not understand the English language.
+
+On receiving this, I felt quite relieved, and thought that a clear decision upon these three points would be very cheaply purchased by an expenditure of fifty pounds.
+
+However, on mentioning the subject to several of my personal friends, who were themselves high in the profession of the law, I was destined to be grievously disappointed. I was informed that the Court of Queen’s Bench would not decide upon any one of the questions, but would decide generally that the magistrate’s decision was right or was wrong, without giving me the least intimation on which of the grounds it rested.
+
+I now perceived the *dodge* that had been practised upon me, and I felt compelled to admit that Mr. Y﻿—﻿— was a *clever fellow*. A regard for truth, however, forbids me to extend the application of this observation to anybody else concerned in this matter.
+
+I have spared neither expense nor personal trouble in endeavouring to put a stop to this nuisance. During one twelvemonth those expenses amounted, within a few shillings, to one hundred and four pounds. I was not, however, the only sufferer; that amount would otherwise have been expended in giving a year’s employment to a skilled workman, whose wages are about two pounds a week.
+
+I shall now give one illustration from my own experience of the utterly imperfect state of the law for suppressing the nuisance of street music:﻿—
+
+On Monday, the 29th of February, in the present year, at 3 p.m., in the midst of a thick fog, a brass band struck up close under my windows. I was in ill-health, and engaged in a subject requiring much attention. I knocked at the window; but the band continued their performance. Then I opened the window and desired them to desist; they still continued, and I then sent my servant to desire them to go away. Having finished their tune, they removed about five doors from my residence, and commenced another performance. My patience being exhausted, I then went out myself to desire my tormentors to depart. My servant went on to the station before he could get a constable. In the meantime the band had removed about six doors further, and began another tune. At last my servant arrived with a policeman, who took down the names and addresses of the nine musicians constituting the band.
+
+The next day I paid twenty-seven shillings for summonses. The day after, the police informed me that all the addresses given, which were either in Richmond or Brentford, were false. I applied to the police, who watched at certain haunts; but they only succeeded in identifying two of them. I then obtained warrants to apprehend those two, and came up from the country expressly to attend at the police-court; but the men were not to be found. I am still waiting in the hope that our police is not quite so inefficient as to allow them to escape. I have already been put to the charge of employing a solicitor and to other expenses. But the band itself is, I believe, still going about in London and playing every day.
+
+Now, if it had been legal for the police to have taken possession of the instruments of those disturbers of the public peace, a false address would have been useless, for it would have been cheaper to have paid the penalties than to have lost their instruments.
+
+It is, I presume, admitted that streets and high roads are not the property of those who use them. They are the Queen’s highways, and were devoted to the public for certain uses only.
+
+The public have an undoubted right to traverse them, and convey over them persons, goods, materials, etc. The adjacent householders must bear any amount of noise which is fairly required for the legitimate use of roads; but no individual has any right to use them for other purposes, as for instance﻿—
+
+- 
+					
+
+Theatrical representations﻿—as Punch, Gymnastics.
+
+- 
+					
+
+Playground and games.
+
+- 
+					
+
+Religious services.
+
+- 
+					
+
+Music﻿—as Organs and Brass Bands.
+
+These not merely interfere with their proper use, but disturb the householders and are in most cases a positive nuisance.
+
+The following letter, from an “Old Lawyer,” recently appeared in *The Times*. It states the law briefly, and with authority:﻿—
+
+**Street Music.**
+
+To the Editor of *The Times*.
+
+“Sir﻿—Whether street music in London ought to be put down or not, I, living in the country, am not concerned to answer. I suppose it is a question, like smoking, on which the public will always be divided; but as the law on the subject is so clear and simple, I am surprised how legislators and justices can be puzzled about it.
+
+“Every public road or street belongs to the Sovereign, as embodying the nation, and is accordingly called the King’s or Queen’s highway. The interest of each individual is limited to a right of passing and repassing over such highway, and he is no more entitled to use it for business or amusement than he is to build upon it or dig for ore beneath its surface. Hence the keeping of stalls for sale is illegal, and, though often winked at, is sometimes denounced and punished. Hence, the police are justified in desiring you to ‘move on,’ if you loiter, in looking at a shop window or conversing with a friend, so as to bar the progress of passengers. *A fortiori*, a band of musicians has no *locus standi* on the ground.
+
+“There is, in my neighbourhood, a right of way over a gentleman’s park. But I have only the privilege of passage, and none of remaining on the path for the purpose of reading, sketching, or playing the violin.
+
+“I am, Sir, your obedient Servant,
+
+“An Old Lawyer.”
+
+At most, the tolerance of noisy occupants of the streets, such as organ-grinders, German bands, et hoc genus omne, is on sufferance only, and neither the municipal law nor common sense justifies the invasion or curtailment of a man’s liberty to use his brain, and exert his mental energies as the occasion may require; and that, too, even within the very recesses of the “Englishman’s castle.”
+
+With respect to the remedies against street music, I am not at all sanguine. The only one which is certain is, positively to forbid it in all cases, and with it also that varied multitude of vocal noises made by persons parading the streets singing, relating tales, praying, offering trifling articles for sale, etc., all of them with the transparent object of begging.
+
+In all these cases which admit of it, the police ought to be directed to take possession of the offensive instrument and convey it to the police-court, there to await the decision of the magistrate.
+
+Certain street nuisances reappear periodically every few years: thus the game called “tip-cat” again prevails.
+
+After a certain number of eyes have been knocked out, the police will probably have orders to stop the nuisance. It will then be put down in a few weeks, and, perhaps, after a year or two it may break out afresh, and be again as easily put down.
+
+A similar cycle occurs with children’s hoops: they are trundled about until they get under horses’ legs. Now if, as it frequently happens, they are made of iron, not only is the rider thrown as well as the horse, but the poor animal is almost sure to have his leg broken.
+
+In these and other similar cases, the offending instrument should invariably be detained by the police and taken to the station to be destroyed, or only to be returned on payment of a small fine by the offending party within three days after the seizure.
+
+If this were the case, a multitude of daily street nuisances would very soon disappear. Boys with accordions and other noisy instruments, small children with shrill tin whistles would then be obliged to ask their parents to go to the police-office and pay a fine for the recovery of toys, and the parents themselves would prevent their children from destroying the time of other persons as soon as they were made to feel that it incurred an equal penalty on their own.
+
+Every kind of noisy instrument, whether organ or harp, or trumpet or penny whistle, if sounded, should be seized by the police and taken to the station, also all hoops and instruments for playing games. The effect of this would ultimately be to diminish the labours of the police. At first they would have some additional trouble; but a few months would make the disturbers feel that it was a very unprofitable practice; and after that, if the police did their duty, they would only occasionally have to seize a stray instrument or two.
+
+Proper warning of this intention to enforce the law ought to be given. The multitude of music-halls now established in all parts of London is such that those who enjoy street music may have a much larger quantity of it, and of a better kind, at a cheaper rate than that which in their own street disturbs all their neighbours.
+
+If street music is to be at all tolerated by law, against which I protest in the strongest manner, then every performer ought to carry on his back or upon his instrument his name and address, or an authorized number, by which the public might be saved from wasting their time by false addresses, now so frequently given.
+
+I have received several suggestions about organizing a society, to endeavour to put a stop to these street nuisances. My reply has been that such a combination well managed would probably have a very considerable effect, but that it would be impossible for me to give up to it any of my own time. I would willingly subscribe to it, and offer it any suggestions that might assist its operations. Its most important duty would be to ascertain whether the present law is sufficient to put down the nuisance. In case it is not, then it would become necessary to get it amended, and for that purpose to consult with influential Members about the introduction of a Bill for that purpose.
+
+Amongst the legal difficulties are the following:﻿—The magistrates in different districts interpret the law differently. Might it not be expedient that police magistrates should meet from time to time and discuss such differences of opinion, and agree to act upon that of the majority? Or ought they not to apply to the Home Secretary for his authority how to interpret it?
+
+If I am right in the opinion which is confirmed in the letter of the “Old Lawyer,” that the Queen’s highways can only be legally used by her subjects for the passage of themselves and the transport of their property, then it is desirable to ascertain how that principle of the common law can be enforced. Hitherto all proceedings have been under certain clauses of the Metropolitan Police Act.
+
+In case any Association should be formed to endeavour to procure an Act of Parliament to put an end to the music nuisance, it would be desirable to apply distinctly to each of the Members for the Metropolitan Boroughs, in order that it might be known on which side of the question they intended to vote.
+
+As upon all other subjects, men differ upon street nuisances. An ancient philosopher divided all mankind into *two* sections, namely, fools and philosophers; and, unhappily for the race, the one cannot enjoy his whistle except at the expense of the other. I was once asked by an astute and sarcastic magistrate whether I seriously believed that a man’s brain would be injured by listening to an organ; my reply was, “*Certainly not*;” for the obvious reason that no man having brain ever listened to street musicians.
+
+“The opera, like the pillory, may be said
+					
+
+					To nail the ears down, but expose the head.”
+
+I believe that the greater part of the householders of London would gladly assist in putting a stop to street-music. The proportion of cases prosecuted compared with the number of interruptions, is, in my own case, less than one in a thousand. If the annoyance is not absolutely prohibited by law, the number of the police must be at least double, to give quiet working people any repose.

@@ -1,0 +1,204 @@
+ (17 files)
+  块: O=180 C=180 OK | 段: EN=592 CN=592 OK
+  英文残留(剔括注) top: lieber×8, Gott×8, Persian×7, Yellow×7, Madame×4, du×4, Backfisch×4, dich×4, Dr×4, Grill×4
+  项目说明备注: - **篇目命名**：原书以日记日期为章题（May 7th → April 18th）。文件名已按阅读顺序加两位数字前缀（01-may-7th.md … 17-april-18th.md），队列顺序即阅读顺序；章题「May 7th」等照搬不译（保留英文日期或译作「5月7日」均可，全书统一即可，建议译作「5月7日」格式）。 / - **多语混排**：正文夹有德语（斜体，如 *Backfisch*、*Hausfrau* 及整句德语）与法语短语，处理策略见术语表「译法约定」：单词类按术语表定译；整句外语保留原文（斜体）并在其后括注中译。 / - **玫瑰品种名**：书中大量玫瑰栽培品种名（Marie van Houtte、Souvenir de la Malmaison 等）照搬不译，保留斜体/原文。 / - **人物绰号**：the Man of Wrath（愤怒之人）、the Sage（圣人，即丈夫的另一绰号）、the sweet singer of the summer（夏日甜歌手，伊蕾斯）等绰号全书统一，见术语表。 / - **长文章节**：09-november-11th.md 达
+  -- 术语表硬约束行 198 条:
+     Elizabeth                      → 伊丽莎白                 源×27    译×28    残留「我」×1794
+     the Man of Wrath               → 愤怒之人                 源×54    译×58   
+     the Sage                       → 圣人                   源×0     译×8     ★源0次(幽灵?)
+     Irais                          → 伊蕾斯                  源×115   译×115   残留「夏日甜歌手」×1
+     Minora                         → 米诺拉                  源×121   译×121  
+     Miss Jones                     → 琼斯小姐                 源×18    译×18   
+     the April baby                 → 四月宝贝                 源×15    译×16   
+     the May baby                   → 五月宝贝                 源×2     译×3    
+     the June baby                  → 六月宝贝                 源×6     译×7    
+     the babies                     → 三个宝贝                 源×21    译×15   
+     Peter                          → 彼得                   源×6     译×6    
+     Fräulein Wundermacher          → 温德马赫小姐               源×7     译×7    
+     Miss Robinson                  → 罗宾逊小姐                源×8     译×8    
+     Graf X— —                      → 某伯爵（Graf X——）        源×0     译×1     ★源0次(幽灵?)
+     the gardener                   → 园丁                   源×11    译×19   
+     the garden / the place         → 花园 / 庄园              源×81    译×94   
+     Hirschwald                     → 希尔施瓦尔德（Hirschwald，德语 源×6     译×6    
+     the Baltic                     → 波罗的海                 源×6     译×6    
+     Brandenburg                    → 勃兰登堡                 源×2     译×3    
+     Pomerania                      → 波美拉尼亚                源×0     译×0     ★源0次(幽灵?)
+     Berlin / Dresden               → 柏林 / 德累斯顿            源×4     译×4    
+     England / Germany / Russia     → 英格兰 / 德国 / 俄国        源×19    译×48   
+     the Uckermark                  → 乌克马克                 源×0     译×0     ★源0次(幽灵?)
+     Gustavus Adolphus              → 古斯塔夫·阿道夫             源×2     译×2    
+     the Lion of the North          → 北方雄狮                 源×1     译×1    
+     the Thirty Years' War          → 三十年战争                源×1     译×1    
+     the convent / the nuns         → 修道院 / 修女             源×2     译×4    
+     *Backfisch* / *Backfische*     → 半大姑娘（Backfisch）      源×5     译×3    
+     *Hausfrau* / *Hausfraus*       → 家庭主妇（Hausfrau）       源×3     译×3    
+     *Spickgans*                    → 烟熏鹅（Spickgans）       源×4     译×4    
+     *Glühwein*                     → 热红酒（Glühwein）        源×2     译×2    
+     *Schweinekoteletten*           → 猪排（Schweinekotelette 源×1     译×1    
+     *Gasthof*                      → 客栈（Gasthof）          源×3     译×2    
+     *Schloss*                      → 庄园府邸（Schloss）        源×2     译×2    
+     *Frisur*                       → 盘发（Frisur）           源×1     译×1    
+     *Geburtstagskind*              → 寿星（Geburtstagskind）  源×1     译×1    
+     *Christkind*                   → 圣婴（Christkind）       源×1     译×2    
+     *das Praktische*               → 实用之事（das Praktische） 源×1     译×1    
+     *Kreuzzeitung*                 → 《十字报》（Kreuzzeitung）  源×3     译×3    
+     *Gotha Almanach*               → 《哥达贵族年鉴》（Gotha Alman 源×2     译×2    
+     *Trost in Trauer*              → 《哀伤中的慰藉》（Trost in Tr 源×1     译×1    
+     *chaussée*                     → 大路（chaussée）         源×2     译×3    
+     *fantaisie déréglée*           → 不着调的怪念头（fantaisie dé 源×1     译×1    
+     *mais je les redoute*          → 「但我怕它们」（mais je les  源×1     译×0     ★译0次(未落位?)
+     Marie van Houtte               → 照搬 Marie van Houtte  源×2     译×0     ★译0次(未落位?)
+     Viscountess Folkestone         → 照搬 Viscountess Folke 源×3     译×0     ★译0次(未落位?)
+     Laurette Messimy               → 照搬 Laurette Messimy  源×3     译×0     ★译0次(未落位?)
+     Souvenir de la Malmaison       → 照搬 Souvenir de la Ma 源×1     译×0     ★译0次(未落位?)
+     Adam / Devoniensis / Bicolor   → 照搬                   源×6     译×0     ★译0次(未落位?)
+     Persian Yellow                 → 照搬 Persian Yellow    源×7     译×0     ★译0次(未落位?)
+     Safrano                        → 照搬 Safrano           源×3     译×0     ★译0次(未落位?)
+     Duke of Teck / Cheshunt Scarle → 照搬                   源×2     译×0     ★译0次(未落位?)
+     Dr. Grill / Dr. Grills         → 照搬 Dr. Grill         源×4     译×0     ★译0次(未落位?)
+     Elizabeth and Her German Garde → 《伊丽莎白和她的德国花园》        源×0     译×0     ★源0次(幽灵?)
+     *Prowls in Pomerania*          → 《波美拉尼亚漫游》（Prowls in  源×1     译×1    
+     *Bosh from Berlin*             → 《柏林胡话》（Bosh from Ber 源×1     译×1    
+     *Drivel from Dresden*          → 《德累斯顿呓语》（Drivel from 源×1     译×1    
+     *Journeyings in Germany* / *Jo → 《德国之行》/《德国之行拾零》      源×2     译×2    
+     “The Pernicious Stocking; or,  → 《祸害长袜——或曰衬裙伦理随想》     源×0     译×1     ★源0次(幽灵?)
+     “The Subtle Significance of So → 《沙发的微妙意涵》            源×0     译×1     ★源0次(幽灵?)
+     Elijah                         → 以利亚                  源×1     译×1    
+     Aunt Bertha                    → 伯莎姨妈                 源×1     译×1    
+     John Jones / George Potts      → 约翰·琼斯 / 乔治·波茨        源×2     译×2    
+     the coachman Peter             → 马车夫彼得                源×0     译×0     ★源0次(幽灵?)
+     the energetic friend (lady of  → 精力过人的朋友（邻府夫人）        源×0     译×1     ★源0次(幽灵?)
+     *alter Esel*                   → 老驴（alter Esel）       源×1     译×1    
+     *wunderbar*                    → 妙不可言（wunderbar）      源×1     译×1    
+     *dummes Weib*                  → 蠢婆娘（dummes Weib）     源×1     译×1    
+     *entzückend, reizend, herrlich → 迷人极了／可爱极了／华美极了／奇妙极了／ 源×0     译×5     ★源0次(幽灵?)
+     *dolus eventualis*             → 间接故意（dolus eventuali 源×1     译×1    
+     Réaumur                        → 列氏度（Réaumur）         源×1     译×0     ★译0次(未落位?)
+     grog                           → 格罗格热酒（grog）          源×1     译×1    
+     hyacinth                       → 风信子                  源×1     译×4    
+     lily of the valley             → 铃兰                   源×0     译×1     ★源0次(幽灵?)
+     marigold                       → 金盏花                  源×0     译×3     ★源0次(幽灵?) 残留「热烈的金盏花」×1
+     nasturtium                     → 旱金莲                  源×0     译×2     ★源0次(幽灵?)
+     eschscholtzia                  → 花菱草                  源×0     译×1     ★源0次(幽灵?)
+     dahlia                         → 大丽花                  源×0     译×3     ★源0次(幽灵?)
+     zinnia                         → 百日菊                  源×0     译×1     ★源0次(幽灵?)
+     scabiosa                       → 松虫草                  源×1     译×1    
+     portulaca                      → 半支莲                  源×1     译×1    
+     viola                          → 堇菜                   源×0     译×2     ★源0次(幽灵?)
+     stocks                         → 紫罗兰                  源×1     译×3    
+     sweet-pea                      → 香豌豆                  源×0     译×5     ★源0次(幽灵?)
+     lupin                          → 羽扇豆                  源×0     译×1     ★源0次(幽灵?)
+     calceolaria                    → 蒲包花                  源×0     译×1     ★源0次(幽灵?)
+     pansy                          → 三色堇                  源×0     译×5     ★源0次(幽灵?)
+     pinks                          → 石竹                   源×6     译×6    
+     forget-me-not                  → 勿忘我                  源×0     译×2     ★源0次(幽灵?)
+     tulip                          → 郁金香                  源×0     译×8     ★源0次(幽灵?)
+     silver birch                   → 白桦                   源×5     译×5    
+     azalea                         → 杜鹃                   源×0     译×3     ★源0次(幽灵?)
+     acacia                         → 刺槐                   源×1     译×5    
+     mountain-ash                   → 花楸                   源×0     译×1     ★源0次(幽灵?)
+     oak                            → 栎树                   源×1     译×3    
+     copper-beech                   → 紫叶山毛榉                源×0     译×1     ★源0次(幽灵?)
+     maple                          → 枫树                   源×0     译×1     ★源0次(幽灵?)
+     larch                          → 落叶松                  源×0     译×2     ★源0次(幽灵?)
+     juniper                        → 杜松                   源×2     译×3    
+     lilac                          → 丁香                   源×5     译×12   
+     snowdrop                       → 雪滴花                  源×0     译×2     ★源0次(幽灵?)
+     primrose                       → 报春花                  源×1     译×3     残留「报春花同盟」×1
+     windflower                     → 银莲花                  源×0     译×4     ★源0次(幽灵?)
+     celandine                      → 白屈菜                  源×0     译×3     ★源0次(幽灵?)
+     petunia / verbena / nicotina a → 矮牵牛／美女樱／花烟草          源×1     译×3    
+     vegetable marrow               → 西葫芦                  源×0     译×2     ★源0次(幽灵?)
+     cauliflower / lettuce / turnip → 花椰菜／莴苣／芜菁／紫甘蓝        源×4     译×5    
+     the Washington Post (dance)    → 「华盛顿邮报」舞（Washington  源×1     译×0     ★译0次(未落位?)
+     the Baltic 野餐点诸景               → fishing-smacks 渔船／ja 源×0     译×0     ★源0次(幽灵?)
+     Mother’s knee（写娃娃套路）           → 母亲的膝头                源×3     译×3    
+     pink toes                      → 粉红的脚趾                源×3     译×1     落位偏低 1/3
+     Wordsworth “Shades of the pris → 「牢狱之影开始向成长中的孩子合拢」（华兹 源×0     译×1     ★源0次(幽灵?)
+     “partings”（娃娃误读 parties）       → 「离别会」（partings，把 par 源×1     译×1    
+     Anna                           → 安娜                   源×2     译×2    
+     the nurse                      → 保姆                   源×5     译×10   
+     head inspector                 → 总管                   源×1     译×2    
+     the inspectors                 → 各农场管事                源×0     译×0     ★源0次(幽灵?)
+     the mamsells                   → 女管家们                 源×1     译×1    
+     the bookkeepers and secretarie → 账房和文书们               源×1     译×1    
+     the overseer                   → 监工                   源×3     译×4    
+     the cowherd                    → 牛倌                   源×3     译×4    
+     cow-doctor                     → 牛医                   源×2     译×2     残留「医生」×4
+     Whitsunday / Whitsuntide       → 圣灵降临节                源×2     译×1    
+     Saints' days                   → 圣徒节                  源×1     译×1    
+     carols                         → 圣诞颂歌                 源×1     译×1    
+     catechism                      → 教理问答                 源×1     译×1    
+     confirmation                   → 坚振礼                  源×1     译×1    
+     *lieber Gott*                  → 亲爱的上帝（lieber Gott）   源×8     译×2     落位偏低 2/8
+     *Himmel*                       → 天堂（Himmel）           源×3     译×9    
+     *sehr anspruchslos*            → 真不讲究啊（sehr anspruchs 源×1     译×0     ★译0次(未落位?)
+     *anspruchslos*                 → 不事讲究（anspruchslos）   源×1     译×1    
+     bird-cherry                    → 稠李                   源×0     译×4     ★源0次(幽灵?)
+     wortleberry                    → 越橘                   源×1     译×1    
+     hepaticas                      → 獐耳细辛                 源×1     译×1    
+     anemones                       → 银莲花                  源×2     译×0     ★译0次(未落位?)
+     rockets                        → 香紫罗兰                 源×10    译×10   
+     hollyhocks                     → 蜀葵                   源×5     译×5    
+     tea-rose                       → 茶香月季                 源×2     译×17   
+     China rose                     → 中国月季                 源×2     译×4    
+     Madonna lilies                 → 圣母百合                 源×3     译×3    
+     wallflowers                    → 桂竹香                  源×3     译×3    
+     perennial phlox                → 宿根福禄考                源×1     译×1    
+     peonies                        → 芍药                   源×2     译×2    
+     lavender                       → 薰衣草                  源×1     译×1    
+     starworts                      → 紫菀                   源×1     译×1    
+     cornflowers                    → 矢车菊                  源×1     译×1    
+     Lychnis chalcedonica           → 剪秋罗（拉丁名照搬）           源×1     译×1    
+     daffodils / narcissus          → 黄水仙 / 水仙             源×7     译×7    
+     foxgloves                      → 毛地黄                  源×2     译×2    
+     mulleins                       → 毛蕊花                  源×1     译×1    
+     crocuses                       → 番红花                  源×2     译×3    
+     ipomoea                        → 牵牛花                  源×4     译×4    
+     clematis                       → 铁线莲                  源×2     译×2    
+     delphinium                     → 翠雀                   源×1     译×1    
+     larkspur（annual/perennial）     → 飞燕草（一年生/多年生）         源×1     译×3    
+     poppies / giant poppies        → 罂粟 / 大罂粟             源×5     译×5    
+     columbines                     → 耧斗菜                  源×3     译×3    
+     periwinkles                    → 蔓长春花                 源×1     译×1    
+     Solomon's Seal                 → 玉竹                   源×1     译×1    
+     cowslip                        → 黄花九轮草                源×1     译×2    
+     yellow flags                   → 黄菖蒲                  源×1     译×1    
+     Virginia creeper               → 五叶地锦                 源×2     译×2    
+     fir                            → 冷杉                   源×4     译×6    
+     beech                          → 山毛榉                  源×3     译×7    
+     horse-chestnut                 → 七叶树                  源×1     译×1     残留「盘子」×2
+     privet hedge                   → 女贞树篱                 源×1     译×1    
+     Bouquet d'Or                   → 照搬 Bouquet d'Or      源×2     译×0     ★译0次(未落位?)
+     “Noel”（米诺拉书章节题）                → 《Noel》（圣诞）           源×1     译×1    
+     拉丁花木名（Pirus Malus spectabilis、 → 照搬不译                 源×0     译×0     ★源0次(幽灵?)
+     the (reigning) cousins / cousi → （在位的／占着宅子的）表亲们       源×9     译×0     ★译0次(未落位?)
+     Mr. Johnstone                  → 约翰斯通先生               源×1     译×1    
+     Potsdam                        → 波茨坦                  源×2     译×2    
+     Sans Souci                     → 无忧宫（Sans Souci）      源×1     译×1    
+     the Mark                       → 马克边区（the Mark，即勃兰登堡） 源×1     译×1    
+     the Fatherland                 → 父邦（德国）               源×2     译×1    
+     *Noch ein dummes Frauenzimmer! → 「又是一个蠢丫头！」（Noch ein  源×1     译×0     ★译0次(未落位?)
+     *dummes Frauenzimmer*          → 蠢丫头（dummes Frauenzim 源×1     译×2    
+     *unangenehme Elisabeth*        → 讨人嫌的伊丽莎白（unangenehme 源×1     译×1    
+     *Die war doch immer verdreht*  → 「她从来就是这副疯疯癫癫的德性」（Die 源×1     译×0     ★译0次(未落位?)
+     *Redensarten*                  → 场面客套（Redensarten）    源×1     译×1    
+     *Unsinn*                       → 胡说（Unsinn）           源×2     译×3    
+     *Elizabeth, wenn du schreist,  → 「伊丽莎白，你敢哭，我就拧你，拧到你爆开 源×1     译×0     ★译0次(未落位?)
+     *Hebe dich weg von mir, Sohn d → 「从我面前滚开，撒旦之子！」       源×1     译×0     ★译0次(未落位?)
+     *Auge um Auge, Zahn um Zahn*   → 「以眼还眼，以牙还牙」          源×1     译×0     ★译0次(未落位?)
+     “Will Satan mich verschlingen, → 「愿撒旦将我吞噬，也让天使歌唱：哈利路亚 源×3     译×0     ★译0次(未落位?)
+     Wollmarkt                      → 羊毛集市（Wollmarkt）      源×1     译×1    
+     Carlyle’s *Frederick*          → 卡莱尔《腓特烈》（Frederick）  源×1     译×1    
+     a Life of Luther               → 《路德传》                源×1     译×1    
+     Alice in Wonderland            → 《爱丽丝漫游奇境》            源×1     译×1    
+     “Two paradises ’twere in one t → 「独自住在乐园里，一个乐园便抵得上两个乐 源×0     译×0     ★源0次(幽灵?)
+     “The King of Love my Shepherd  → 「仁爱之王是我的牧者」          源×0     译×1     ★源0次(幽灵?)
+     mignonette / dwarf mignonette  → 木樨草／矮生木樨草            源×2     译×2    
+     kingcup                        → 驴蹄草（kingcup）         源×0     译×1     ★源0次(幽灵?)
+     dog-rose                       → 犬蔷薇                  源×0     译×1     ★源0次(幽灵?)
+     lime tree（linden）              → 菩提树                  源×1     译×1    
+     rockery                        → 假山园                  源×7     译×7    
+     rooks                          → 白嘴鸦                  源×2     译×2    
+     partridges                     → 山鹑                   源×1     译×1    
+====================================================================================================

@@ -1,0 +1,118 @@
+## IX What Love Can Do
+“Yesterday you were unkind and ungallant. How could I smile when you seemed so stern?”
+“Yesterday I was not alone with you. How could I say what lay next my heart, when indifferent ears could catch the words that were meant only for you?”
+“Ah, monsieur, do they teach you in England how to make pretty speeches?”
+“No, mademoiselle, that is an instinct that comes into birth by the fire of a woman’s eyes.”
+Mademoiselle Lange was sitting upon a small sofa of antique design, with cushions covered in faded silks heaped round her pretty head. Armand thought that she looked like that carved cameo which his sister Marguerite possessed.
+He himself sat on a low chair at some distance from her. He had brought her a large bunch of early violets, for he knew that she was fond of flowers, and these lay upon her lap, against the opalescent grey of her gown.
+She seemed a little nervous and agitated, his obvious admiration bringing a ready blush to her cheeks.
+The room itself appeared to Armand to be a perfect frame for the charming picture which she presented. The furniture in it was small and old; tiny tables of antique Vernis-Martin, softly faded tapestries, a pale-toned Aubusson carpet. Everything mellow and in a measure pathetic. Mademoiselle Lange, who was an orphan, lived alone under the duennaship of a middle-aged relative, a penniless hanger-on of the successful young actress, who acted as her chaperone, housekeeper, and maid, and kept unseemly or overbold gallants at bay.
+She told Armand all about her early life, her childhood in the backshop of Maitre Mézière, the jeweller, who was a relative of her mother’s; of her desire for an artistic career, her struggles with the middle-class prejudices of her relations, her bold defiance of them, and final independence.
+She made no secret of her humble origin, her want of education in those days; on the contrary, she was proud of what she had accomplished for herself. She was only twenty years of age, and already held a leading place in the artistic world of Paris.
+Armand listened to her chatter, interested in everything she said, questioning her with sympathy and discretion. She asked him a good deal about himself, and about his beautiful sister Marguerite, who, of course, had been the most brilliant star in that most brilliant constellation, the Comédie Française. She had never seen Marguerite St. Just act, but, of course, Paris still rang with her praises, and all art-lovers regretted that she should have married and left them to mourn for her.
+Thus the conversation drifted naturally back to England. Mademoiselle professed a vast interest in the citizen’s country of adoption.
+“I had always,” she said, “thought it an ugly country, with the noise and bustle of industrial life going on everywhere, and smoke and fog to cover the landscape and to stunt the trees.”
+“Then, in future, mademoiselle,” he replied, “must you think of it as one carpeted with verdure, where in the spring the orchard trees covered with delicate blossom would speak to you of fairyland, where the dewy grass stretches its velvety surface in the shadow of ancient monumental oaks, and ivy-covered towers rear their stately crowns to the sky.”
+“And the Scarlet Pimpernel? Tell me about him, monsieur.”
+“Ah, mademoiselle, what can I tell you that you do not already know? The Scarlet Pimpernel is a man who has devoted his entire existence to the benefit of suffering mankind. He has but one thought, and that is for those who need him; he hears but one sound﻿—the cry of the oppressed.”
+“But they do say, monsieur, that philanthropy plays but a sorry part in your hero’s schemes. They aver that he looks on his own efforts and the adventures through which he goes only in the light of sport.”
+“Like all Englishmen, mademoiselle, the Scarlet Pimpernel is a little ashamed of sentiment. He would deny its very existence with his lips, even whilst his noble heart brimmed over with it. Sport? Well! mayhap the sporting instinct is as keen as that of charity﻿—the race for lives, the tussle for the rescue of human creatures, the throwing of a life on the hazard of a die.”
+“They fear him in France, monsieur. He has saved so many whose death had been decreed by the Committee of Public Safety.”
+“Please God, he will save many yet.”
+“Ah, monsieur, the poor little boy in the Temple prison!”
+“He has your sympathy, mademoiselle?”
+“Of every right-minded woman in France, monsieur. Oh!” she added with a pretty gesture of enthusiasm, clasping her hands together, and looking at Armand with large eyes filled with tears, “if your noble Scarlet Pimpernel will do aught to save that poor innocent lamb, I would indeed bless him in my heart, and help him with all my humble might if I could.”
+“May God’s saints bless you for those words, mademoiselle,” he said, whilst, carried away by her beauty, her charm, her perfect femininity, he stooped towards her until his knee touched the carpet at her feet. “I had begun to lose my belief in my poor misguided country, to think all men in France vile, and all women base. I could thank you on my knees for your sweet words of sympathy, for the expression of tender motherliness that came into your eyes when you spoke of the poor forsaken Dauphin in the Temple.”
+She did not restrain her tears; with her they came very easily, just as with a child, and as they gathered in her eyes and rolled down her fresh cheeks they in no way marred the charm of her face. One hand lay in her lap fingering a diminutive bit of cambric, which from time to time she pressed to her eyes. The other she had almost unconsciously yielded to Armand.
+The scent of the violets filled the room. It seemed to emanate from her, a fitting attribute of her young, wholly unsophisticated girlhood. The citizen was goodly to look at; he was kneeling at her feet, and his lips were pressed against her hand.
+Armand was young and he was an idealist. I do not for a moment imagine that just at this moment he was deeply in love. The stronger feeling had not yet risen up in him; it came later when tragedy encompassed him and brought passion to sudden maturity. Just now he was merely yielding himself up to the intoxicating moment, with all the abandonment, all the enthusiasm of the Latin race. There was no reason why he should not bend the knee before this exquisite little cameo, that by its very presence was giving him an hour of perfect pleasure and of aesthetic joy.
+Outside the world continued its hideous, relentless way; men butchered one another, fought and hated. Here in this small old-world salon, with its faded satins and bits of ivory-tinted lace, the outer universe had never really penetrated. It was a tiny world﻿—quite apart from the rest of mankind, perfectly peaceful and absolutely beautiful.
+If Armand had been allowed to depart from here now, without having been the cause as well as the chief actor in the events that followed, no doubt that Mademoiselle Lange would always have remained a charming memory with him, an exquisite bouquet of violets pressed reverently between the leaves of a favourite book of poems, and the scent of spring flowers would in after years have ever brought her dainty picture to his mind.
+He was murmuring pretty words of endearment; carried away by emotion, his arm stole round her waist; he felt that if another tear came like a dewdrop rolling down her cheek he must kiss it away at its very source. Passion was not sweeping them off their feet﻿—not yet, for they were very young, and life had not as yet presented to them its most unsolvable problem.
+But they yielded to one another, to the springtime of their life, calling for Love, which would come presently hand in hand with his grim attendant, Sorrow.
+Even as Armand’s glowing face was at last lifted up to hers asking with mute lips for that first kiss which she already was prepared to give, there came the loud noise of men’s heavy footsteps tramping up the old oak stairs, then some shouting, a woman’s cry, and the next moment Madame Belhomme, trembling, wide-eyed, and in obvious terror, came rushing into the room.
+“Jeanne! Jeanne! My child! It is awful! It is awful! *Mon Dieu*﻿—*mon Dieu!* What is to become of us?”
+She was moaning and lamenting even as she ran in, and now she threw her apron over her face and sank into a chair, continuing her moaning and her lamentations.
+Neither Mademoiselle nor Armand had stirred. They remained like graven images, he on one knee, she with large eyes fixed upon his face. They had neither of them looked on the old woman; they seemed even now unconscious of her presence. But their ears had caught the sound of that measured tramp of feet up the stairs of the old house, and the halt upon the landing; they had heard the brief words of command:
+“Open, in the name of the people!”
+They knew quite well what it all meant; they had not wandered so far in the realms of romance that reality﻿—the grim, horrible reality of the moment﻿—had not the power to bring them back to earth.
+That peremptory call to open in the name of the people was the prologue these days to a drama which had but two concluding acts: arrest, which was a certainty; the guillotine, which was more than probable. Jeanne and Armand, these two young people who but a moment ago had tentatively lifted the veil of life, looked straight into each other’s eyes and saw the hand of death interposed between them: they looked straight into each other’s eyes and knew that nothing but the hand of death would part them now. Love had come with its attendant, Sorrow; but he had come with no uncertain footsteps. Jeanne looked on the man before her, and he bent his head to imprint a glowing kiss upon her hand.
+“Aunt Marie!”
+It was Jeanne Lange who spoke, but her voice was no longer that of an irresponsible child; it was firm, steady and hard. Though she spoke to the old woman, she did not look at her; her luminous brown eyes rested on the bowed head of Armand St. Just.
+“Aunt Marie!” she repeated more peremptorily, for the old woman, with her apron over her head, was still moaning, and unconscious of all save an overmastering fear.
+“Open, in the name of the people!” came in a loud harsh voice once more from the other side of the front door.
+“Aunt Marie, as you value your life and mine, pull yourself together,” said Jeanne firmly.
+“What shall we do? Oh! what shall we do?” moaned Madame Belhomme. But she had dragged the apron away from her face, and was looking with some puzzlement at meek, gentle little Jeanne, who had suddenly become so strange, so dictatorial, all unlike her habitual somewhat diffident self.
+“You need not have the slightest fear, Aunt Marie, if you will only do as I tell you,” resumed Jeanne quietly; “if you give way to fear, we are all of us undone. As you value your life and mine,” she now repeated authoritatively, “pull yourself together, and do as I tell you.”
+The girl’s firmness, her perfect quietude had the desired effect. Madame Belhomme, though still shaken up with sobs of terror, made a great effort to master herself; she stood up, smoothed down her apron, passed her hand over her ruffled hair, and said in a quaking voice:
+“What do you think we had better do?”
+“Go quietly to the door and open it.”
+“But﻿—the soldiers﻿—”
+“If you do not open quietly they will force the door open within the next two minutes,” interposed Jeanne calmly. “Go quietly and open the door. Try and hide your fears, grumble in an audible voice at being interrupted in your cooking, and tell the soldiers at once that they will find mademoiselle in the boudoir. Go, for God’s sake!” she added, whilst suppressed emotion suddenly made her young voice vibrate; “go, before they break open that door!”
+Madame Belhomme, impressed and cowed, obeyed like an automaton. She turned and marched fairly straight out of the room. It was not a minute too soon. From outside had already come the third and final summons:
+“Open, in the name of the people!”
+After that a crowbar would break open the door.
+Madame Belhomme’s heavy footsteps were heard crossing the antechamber. Armand still knelt at Jeanne’s feet, holding her trembling little hand in his.
+“A love-scene,” she whispered rapidly, “a love-scene﻿—quick﻿—do you know one?”
+And even as he had tried to rise she held him back, down on his knees.
+He thought that fear was making her distracted.
+“Mademoiselle﻿—” he murmured, trying to soothe her.
+“Try and understand,” she said with wonderful calm, “and do as I tell you. Aunt Marie has obeyed. Will you do likewise?”
+“To the death!” he whispered eagerly.
+“Then a love-scene,” she entreated. “Surely you know one. Rodrigue and Chimene! Surely﻿—surely,” she urged, even as tears of anguish rose into her eyes, “you must﻿—you must, or, if not that, something else. Quick! The very seconds are precious!”
+They were indeed! Madame Belhomme, obedient as a frightened dog, had gone to the door and opened it; even her well-feigned grumblings could now be heard and the rough interrogations from the soldiery.
+“Citizeness Lange!” said a gruff voice.
+“In her boudoir, *quoi*!”
+Madame Belhomme, braced up apparently by fear, was playing her part remarkably well.
+“Bothering good citizens! On baking day, too!” she went on grumbling and muttering.
+“Oh, think﻿—think!” murmured Jeanne now in an agonised whisper, her hot little hand grasping his so tightly that her nails were driven into his flesh. “You must know something that will do﻿—anything﻿—for dear life’s sake.﻿ ﻿… Armand!”
+His name﻿—in the tense excitement of this terrible moment﻿—had escaped her lips.
+All in a flash of sudden intuition he understood what she wanted, and even as the door of the boudoir was thrown violently open Armand﻿—still on his knees, but with one hand pressed to his heart, the other stretched upwards to the ceiling in the most approved dramatic style, was loudly declaiming:
+
+> “Pour venger son honneur il perdit son amour,
+ 
+
+ Pour venger sa maitresse il a quitté le jour!”
+
+Whereupon Mademoiselle Lange feigned the most perfect impatience.
+“No, no, my good cousin,” she said with a pretty moue of disdain, “that will never do! You must not thus emphasise the end of every line; the verses should flow more evenly, as thus.﻿ ﻿…”
+Héron had paused at the door. It was he who had thrown it open﻿—he who, followed by a couple of his sleuthhounds, had thought to find here the man denounced by de Batz as being one of the followers of that irrepressible Scarlet Pimpernel. The obviously Parisian intonation of the man kneeling in front of citizeness Lange in an attitude no ways suggestive of personal admiration, and coolly reciting verses out of a play, had somewhat taken him aback.
+“What does this mean?” he asked gruffly, striding forward into the room and glaring first at mademoiselle, then at Armand.
+Mademoiselle gave a little cry of surprise.
+“Why, if it isn’t citizen Héron!” she cried, jumping up with a dainty movement of coquetry and embarrassment. “Why did not Aunt Marie announce you?﻿ ﻿… It is indeed remiss of her, but she is so ill-tempered on baking days I dare not even rebuke her. Won’t you sit down, citizen Héron? And you, cousin,” she added, looking down airily on Armand, “I pray you maintain no longer that foolish attitude.”
+The febrileness of her manner, the glow in her cheeks were easily attributable to natural shyness in face of this unexpected visit. Héron, completely bewildered by this little scene, which was so unlike what he expected, and so unlike those to which he was accustomed in the exercise of his horrible duties, was practically speechless before the little lady who continued to prattle along in a simple, unaffected manner.
+“Cousin,” she said to Armand, who in the meanwhile had risen to his knees, “this is citizen Héron, of whom you have heard me speak. My cousin Belhomme,” she continued, once more turning to Héron, “is fresh from the country, citizen. He hails from Orléans, where he has played leading parts in the tragedies of the late citizen Corneille. But, ah me! I fear that he will find Paris audiences vastly more critical than the good Orléanese. Did you hear him, citizen, declaiming those beautiful verses just now? He was murdering them, say I﻿—yes, murdering them﻿—the gaby!”
+Then only did it seem as if she realised that there was something amiss, that citizen Héron had come to visit her, not as an admirer of her talent who would wish to pay his respects to a successful actress, but as a person to be looked on with dread.
+She gave a quaint, nervous little laugh, and murmured in the tones of a frightened child:
+“La, citizen, how glum you look! I thought you had come to compliment me on my latest success. I saw you at the theatre last night, though you did not afterwards come to see me in the greenroom. Why! I had a regular ovation! Look at my flowers!” she added more gaily, pointing to several bouquets in vases about the room. “Citizen Danton brought me the violets himself, and citizen Santerre the narcissi, and that laurel wreath﻿—is it not charming?﻿—that was a tribute from citizen Robespierre himself.”
+She was so artless, so simple, and so natural that Héron was completely taken off his usual mental balance. He had expected to find the usual setting to the dramatic episodes which he was wont to conduct﻿—screaming women, a man either at bay, sword in hand, or hiding in a linen cupboard or up a chimney.
+Now everything puzzled him. De Batz﻿—he was quite sure﻿—had spoken of an Englishman, a follower of the Scarlet Pimpernel; every thinking French patriot knew that all the followers of the Scarlet Pimpernel were Englishmen with red hair and prominent teeth, whereas this man.﻿ ﻿…
+Armand﻿—who deadly danger had primed in his improvised role﻿—was striding up and down the room declaiming with ever-varying intonations:
+
+> “Joignez tous vos efforts contre un espoir si doux
+ 
+
+ Pour en venir à bout, c’est trop peu que de vous.”
+
+“No! no!” said mademoiselle impatiently; “you must not make that ugly pause midway in the last line: ‘*pour en venir à bout, c’est trop peu que de vous!*’ ”
+She mimicked Armand’s diction so quaintly, imitating his stride, his awkward gesture, and his faulty phraseology with such funny exaggeration that Héron laughed in spite of himself.
+“So that is a cousin from Orléans, is it?” he asked, throwing his lanky body into an armchair, which creaked dismally under his weight.
+“Yes! a regular gaby﻿—what?” she said archly. “Now, citizen Héron, you must stay and take coffee with me. Aunt Marie will be bringing it in directly. Hector,” she added, turning to Armand, “come down from the clouds and ask Aunt Marie to be quick.”
+This certainly was the first time in the whole of his experience that Héron had been asked to stay and drink coffee with the quarry he was hunting down. Mademoiselle’s innocent little ways, her desire for the prolongation of his visit, further addled his brain. De Batz had undoubtedly spoken of an Englishman, and the cousin from Orléans was certainly a Frenchman every inch of him.
+Perhaps had the denunciation come from anyone else but de Batz, Héron might have acted and thought more circumspectly; but, of course, the chief agent of the Committee of General Security was more suspicious of the man from whom he took a heavy bribe than of anyone else in France. The thought had suddenly crossed his mind that mayhap de Batz had sent him on a fool’s errand in order to get him safely out of the way of the Temple prison at a given hour of the day.
+The thought took shape, crystallised, caused him to see a rapid vision of de Batz sneaking into his lodgings and stealing his keys, the guard being slack, careless, inattentive, allowing the adventurer to pass barriers that should have been closed against all comers.
+Now Héron was sure of it; it was all a conspiracy invented by de Batz. He had forgotten all about his theories that a man under arrest is always safer than a man that is free. Had his brain been quite normal, and not obsessed, as it always was now by thoughts of the Dauphin’s escape from prison, no doubt he would have been more suspicious of Armand, but all his worst suspicions were directed against de Batz. Armand seemed to him just a fool, an actor *quoi*? and so obviously not an Englishman.
+He jumped to his feet, curtly declining mademoiselle’s offers of hospitality. He wanted to get away at once. Actors and actresses were always, by tacit consent of the authorities, more immune than the rest of the community. They provided the only amusement in the intervals of the horrible scenes around the scaffolds; they were irresponsible, harmless creatures who did not meddle in politics.
+Jeanne the while was gaily prattling on, her luminous eyes fixed upon the all-powerful enemy, striving to read his thoughts, to understand what went on behind those cruel, prominent eyes, the chances that Armand had of safety and of life.
+She knew, of course, that the visit was directed against Armand﻿—someone had betrayed him, that odious de Batz mayhap﻿—and she was fighting for Armand’s safety, for his life. Her armoury consisted of her presence of mind, her cool courage, her self-control; she used all these weapons for his sake, though at times she felt as if the strain on her nerves would snap the thread of life in her. The effort seemed more than she could bear.
+But she kept up her part, rallying Héron for the shortness of his visit, begging him to tarry for another five minutes at least, throwing out﻿—with subtle feminine intuition﻿—just those very hints anent little Capet’s safety that were most calculated to send him flying back towards the Temple.
+“I felt so honoured last night, citizen,” she said coquettishly, “that you even forgot little Capet in order to come and watch my debut as Célimène.”
+“Forget him!” retorted Héron, smothering a curse, “I never forget the vermin. I must go back to him; there are too many cats nosing round my mouse. Good day to you, citizeness. I ought to have brought flowers, I know; but I am a busy man﻿—a harassed man.”
+“*Je te crois*,” she said with a grave nod of the head; “but do come to the theatre tonight. I am playing Camille﻿—such a fine part! one of my greatest successes.”
+“Yes, yes, I’ll come﻿—mayhap, mayhap﻿—but I’ll go now﻿—glad to have seen you, citizeness. Where does your cousin lodge?” he asked abruptly.
+“Here,” she replied boldly, on the spur of the moment.
+“Good. Let him report himself tomorrow morning at the Conciergerie, and get his certificate of safety. It is a new decree, and you should have one, too.”
+“Very well, then. Hector and I will come together, and perhaps Aunt Marie will come too. Don’t send us to *maman* guillotine yet awhile, citizen,” she said lightly; “you will never get such another Camille, nor yet so good a Célimène.”
+She was gay, artless to the last. She accompanied Héron to the door herself, chaffing him about his escort.
+“You are an aristo, citizen,” she said, gazing with well-feigned admiration on the two sleuthhounds who stood in wait in the anteroom; “it makes me proud to see so many citizens at my door. Come and see me play Camille﻿—come tonight, and don’t forget the greenroom door﻿—it will always be kept invitingly open for you.”
+She bobbed him a curtsey, and he walked out, closely followed by his two men; then at last she closed the door behind them. She stood there for a while, her ear glued against the massive panels, listening for their measured tread down the oak staircase. At last it rang more sharply against the flagstones of the courtyard below; then she was satisfied that they had gone, and went slowly back to the boudoir.

@@ -1,0 +1,2 @@
+## Endnotes
+1. **Note**: The proportional intensity of sunlight to moonlight is subject to fluctuations, from many causes, and is therefore variously stated. The highest accepted ratio is 600,000 to 1; the lowest 200,000 to 1. A constitutional repugnance to anything savouring of effect prompted me to indicate the lower proportion. The error in the text unfortunately escaped observation. —﻿T. C. ↩︎

@@ -1,0 +1,218 @@
+====================================================================================================
+### ameen-rihani_the-book-of-khalid  (36 files)
+  块: O=316 C=316 OK | 段: EN=855 CN=859 !!差 -4
+     [不对称] 3-4-on-the-open-highway.md                           O=18 C=18 段EN=38 段CN=39
+     [不对称] epigraph-1.md                                        O=1 C=1 段EN=1 段CN=2
+     [不对称] epigraph-2.md                                        O=1 C=1 段EN=1 段CN=2
+     [不对称] epigraph-3.md                                        O=1 C=1 段EN=1 段CN=2
+  英文残留(剔括注) top: billah×5, ya×4, habibi×3, Mashallah×2, Bronx×2, Marhaba×2, duly×1, Office×1, foremost×1, bon×1
+  项目说明备注: - 三卷结构：Book I（In the Exchange，纽约货郎生涯）/ Book II（In the Temple，回黎巴嫩、爱 Najma）/ Book III（In Kulmakan，先知式游荡）。卷名页（book-1/2/3.md）只有标题，照卷名页处理。 / - 各卷题献（epigraph-1/2/3）为哈立德署名的小段献辞，照译。 / - 序（Al-Fatihah）/跋（Al-Khatimah）用阿拉伯语经文式标题，保留音译+意译。 / - 大量阿拉伯/伊斯兰术语（Kaaba、houris、Jinn、Fatihah、howdaj、Baalbek）以术语表为准，首现附原文。 / - 第 3 卷第 4 章（On the Open Highway，37.5KB）为最长章，按分段处理。 / - 文风华丽警句化，译文求典雅有思辨气，不口语化。 / - 作者名 Ameen Rihani → 阿明·雷哈尼；主人公 Khalid → 哈立德。
+  -- 术语表硬约束行 207 条:
+     Khalid                         → 哈立德                  源×552   译×556  
+     Ameen Rihani                   → 阿明·雷哈尼               源×0     译×0     ★源0次(幽灵?) 残留「编者」×11
+     Shakib                         → 沙基布                  源×161   译×162  
+     Najma                          → 娜吉玛                  源×62    译×62   
+     Jamilah                        → 贾米拉                  源×3     译×3    
+     the Editor                     → 编者                   源×3     译×11   
+     Madame de Warens               → 华伦夫人                 源×1     译×1    
+     Gibbon                         → 吉本                   源×1     译×1    
+     Rousseau                       → 卢梭                   源×5     译×6    
+     Spencer                        → 斯宾塞                  源×3     译×3    
+     al-Farid                       → 法里德（al-Farid）        源×2     译×2    
+     Jalal ad-Din Rumi              → 鲁米（贾拉勒丁·鲁米，Jalal ad- 源×1     译×1    
+     Socrates                       → 苏格拉底                 源×9     译×10   
+     St. Francis of Assisi          → 阿西西的圣方济各（St. Francis 源×1     译×1    
+     Homer                          → 荷马（Homer）            源×1     译×2    
+     Shakespeare                    → 莎士比亚（Shakespeare）    源×3     译×3    
+     Swinburne                      → 斯温伯恩（Swinburne）      源×2     译×2    
+     Seth                           → 塞特（Seth）             源×1     译×1    
+     Noah                           → 挪亚（Noah）             源×1     译×1    
+     Solomon                        → 所罗门（Solomon）         源×1     译×2    
+     Nimrod                         → 宁录（Nimrod）           源×2     译×2    
+     Abdul Hamid                    → 阿卜杜勒·哈米德（Abdul Hamid 源×10    译×10   
+     St. Minius                     → 圣米纽斯（St. Minius）     源×1     译×1    
+     St. Cyril                      → 圣西里尔（St. Cyril）      源×1     译×1    
+     St. Theodosius                 → 圣狄奥多西（St. Theodosius 源×1     译×1    
+     Ste. Odicksyia                 → 圣奥迪克西娅（Ste. Odicksyi 源×1     译×1    
+     al-Iman ul-Ouzaai              → 伊玛目·奥扎伊（al-Iman ul-O 源×1     译×1    
+     al-Makrizi                     → 马克里齐（al-Makrizi）     源×2     译×3    
+     Kallinichus                    → 卡利尼库斯（Kallinichus）   源×1     译×1    
+     Kosta ibn Luka                 → 科斯塔·伊本·卢卡（Kosta ibn  源×1     译×1    
+     Mar-Kizhayiah                  → 马尔-基扎亚（Mar-Kizhayiah 源×1     译×2    
+     secondhand Jerry               → 二手杰瑞（secondhand Jerr 源×7     译×6    
+     the Prophet Jeremiah           → 先知耶利米（Jeremiah）      源×2     译×2    
+     Tom Paine                      → 汤姆·潘恩（Tom Paine）     源×2     译×2    
+     Sibawayh                       → 西伯威（Sibawayh）        源×3     译×3    
+     Niftawayh                      → 尼夫塔威（Niftawayh）      源×1     译×1    
+     Bahira                         → 贝希拉（Bahira）          源×1     译×1    
+     Matthew Arnold                 → 马修·阿诺德（Matthew Arnol 源×1     译×1    
+     Dickens                        → 狄更斯（Dickens）         源×1     译×1    
+     Balzac                         → 巴尔扎克（Balzac）         源×1     译×1    
+     Tennyson                       → 丁尼生（Tennyson）        源×1     译×1    
+     Emerson                        → 爱默生（Emerson）         源×4     译×4    
+     Baalbek                        → 巴勒贝克                 源×47    译×54   
+     Lebanon                        → 黎巴嫩                  源×25    译×34   
+     the Khedivial Library          → 赫迪夫图书馆               源×7     译×21   
+     Cairo                          → 开罗                   源×18    译×18   
+     New York                       → 纽约                   源×34    译×34   
+     Syria                          → 叙利亚                  源×22    译×59   
+     the Desert                     → 沙漠                   源×29    译×41   
+     Heliopolis                     → 赫利奥波利斯               源×1     译×1    
+     Cedars of Lebanon              → 黎巴嫩雪松（Cedars of Leba 源×2     译×3    
+     Yucatan                        → 尤卡坦                  源×1     译×1    
+     Hajar                          → 哈贾尔（Hajar）           源×1     译×1    
+     Newcastle                      → 纽卡斯尔                 源×1     译×1    
+     Red Quarter                    → 红区（Red Quarter）      源×1     译×1    
+     Mena House                     → 米娜宫（Mena House）      源×4     译×4    
+     Sphinx                         → 斯芬克斯（Sphinx）         源×1     译×1    
+     Pyramid                        → 金字塔（Pyramid）         源×4     译×10   
+     Ellis Island                   → 埃利斯岛（Ellis Island）   源×2     译×4    
+     Brooklyn Bridge                → 布鲁克林大桥（Brooklyn Brid 源×3     译×3    
+     Statue of Liberty              → 自由女神像（Statue of Libe 源×5     译×5    
+     Greater New York               → 大纽约（Greater New York 源×1     译×1    
+     Beirut                         → 贝鲁特（Beirut）          源×25    译×26   
+     Syrian Quarter                 → 叙利亚区（Syrian Quarter） 源×2     译×5    
+     Dahomey                        → 达荷美（Dahomey）         源×2     译×2    
+     Marseilles                     → 马赛                   源×6     译×6    
+     Ottoman Empire                 → 奥斯曼帝国（Ottoman Empire 源×2     译×2    
+     Anti-Libanus                   → 安提黎巴嫩山（Anti-Libanus） 源×2     译×2    
+     Coele-Syria                    → 科厄勒-叙利亚（Coele-Syria） 源×1     译×1    
+     Damascus                       → 大马士革（Damascus）       源×27    译×28   
+     Acropolis                      → 卫城（Acropolis）        源×8     译×8    
+     Berlin Museum                  → 柏林博物馆（Berlin Museum） 源×1     译×1    
+     Leontes                        → 利昂特斯河（Leontes）       源×2     译×2    
+     Mosque                         → 清真寺（Mosque）          源×26    译×31   
+     Rasulain                       → 拉苏莱恩（Rasulain）       源×1     译×2    
+     Istachre                       → 伊斯塔赫雷（Istachre）      源×1     译×1    
+     Tower of Babel                 → 巴别塔（Tower of Babel）  源×1     译×1    
+     Mt. Hermon                     → 黑门山（Mt. Hermon）      源×1     译×1    
+     Mecca                          → 麦加（Mecca）            源×2     译×2    
+     India                          → 印度（India）            源×4     译×4    
+     Dahr’ul-Qadhib                 → 达赫尔·卡迪卜（Dahr’ul-Qadh 源×1     译×1    
+     Mediterranean                  → 地中海（Mediterranean）   源×4     译×4    
+     the Bronx                      → 布朗克斯（the Bronx）      源×11    译×10   
+     Battery Park                   → 巴特利公园（Battery Park）  源×8     译×8    
+     Al-Fatihah                     → 《开端章》（Al-Fatihah）    源×2     译×0     ★译0次(未落位?)
+     Al-Khatimah                    → 《终章》（Al-Khatimah）    源×1     译×0     ★译0次(未落位?)
+     the Kaaba                      → 克尔白（Kaaba）           源×3     译×4    
+     houris                         → 天园美女（houris）         源×7     译×8    
+     Jinn                           → 精灵（Jinn）             源×2     译×6    
+     howdaj                         → 轿厢（howdaj）           源×1     译×0     ★译0次(未落位?)
+     mujaddara                      → 穆贾达拉（mujaddara）      源×17    译×17   
+     Maronite                       → 马龙派                  源×2     译×5    
+     Druze                          → 德鲁兹派                 源×0     译×0     ★源0次(幽灵?)
+     Shi'a / Sunni                  → 什叶派 / 逊尼派            源×0     译×0     ★源0次(幽灵?)
+     Koran                          → 《古兰经》（Koran）         源×6     译×7    
+     Mahdi                          → 马赫迪（Mahdi）           源×6     译×6    
+     dervish                        → 德尔维希（dervish）        源×29    译×32   
+     sandomancer / sand-diviner     → 沙占师（sandomancer）     源×3     译×2    
+     hashish                        → 哈希什（hashish）         源×10    译×9    
+     ganja                          → 甘贾（ganja）            源×1     译×2    
+     chikbouk                       → 长烟杆（chikbouk）        源×2     译×2    
+     Phoenicians                    → 腓尼基人（Phoenicians）    源×18    译×23   
+     Jahannam                       → 火狱（Jahannam）         源×16    译×16   
+     Iblis                          → 伊布力斯（Iblis）          源×8     译×8    
+     Azrael                         → 亚兹拉尔（Azrael）         源×2     译×2    
+     Maronite priest                → 马龙派神父                源×1     译×0     ★译0次(未落位?)
+     scapular                       → 圣衣（scapular）         源×0     译×4     ★源0次(幽灵?)
+     al-Mutanabbi                   → 穆太奈比（al-Mutanabbi）   源×13    译×13   
+     Im-Hanna                       → 伊姆-汉娜（Im-Hanna）      源×14    译×14   
+     Teague                         → 蒂格（Teague）           源×1     译×1    
+     Greenbacks                     → 绿背钞（Greenbacks）      源×1     译×1    
+     Ksarah                         → 克萨拉（Ksarah）          源×2     译×2    
+     Jesuits                        → 耶稣会士（Jesuits）        源×18    译×26   
+     bulbuls                        → 夜莺（bulbuls）          源×8     译×12   
+     billah                         → 凭真主起誓（billah）        源×13    译×13   
+     bismillah                      → 奉真主之名（bismillah）     源×1     译×1    
+     Jannat                         → 天园（Jannat）           源×4     译×4    
+     amir                           → 埃米尔（amir）            源×1     译×2    
+     Allahu akbar                   → 真主至大（Allahu akbar）   源×1     译×1    
+     Joseph                         → 约瑟（Joseph）           源×1     译×1    
+     Jonah                          → 约拿（Jonah）            源×1     译×1    
+     Baal                           → 巴力（Baal）             源×0     译×1     ★源0次(幽灵?)
+     muezzin                        → 宣礼员（muezzin）         源×4     译×4    
+     minaret                        → 宣礼塔（minaret）         源×1     译×2    
+     Mohammad                       → 穆罕默德（Mohammad）       源×8     译×17   
+     narghile                       → 水烟壶（narghile）        源×6     译×7    
+     Allah                          → 真主（Allah）            源×70    译×105  
+     sakka                          → 沙卡（sakka）            源×1     译×1    
+     Bazaar                         → 巴扎（Bazaar）           源×5     译×6    
+     wali                           → 瓦利（wali）             源×2     译×8    
+     pasha                          → 帕夏（pasha）            源×6     译×9    
+     arak                           → 阿拉克酒（arak）           源×2     译×2    
+     dragoman                       → 口译向导（dragoman）       源×8     译×7    
+     sumpter-mule                   → 驮骡（sumpter-mule）     源×1     译×2    
+     bastinado                      → 杖笞脚底（bastinado）      源×1     译×2    
+     hornbook                       → 角书（hornbook）         源×2     译×2    
+     the Holy Virgin                → 圣母（the Holy Virgin）  源×3     译×20   
+     Moabites                       → 摩押人（Moabites）        源×1     译×1    
+     Magdalene                      → 抹大拉（Magdalene）       源×1     译×1    
+     Ashtarout                      → 阿施塔罗特（Ashtarout）     源×1     译×3    
+     Jupiter-Ammon                  → 朱庇特-阿蒙（Jupiter-Ammon 源×1     译×1    
+     Greek fire                     → 希腊火（Greek fire）      源×1     译×1    
+     Muhaddetheen                   → 穆哈迪辛（Muhaddetheen）   源×2     译×2    
+     Mashallah                      → 真主所欲（Mashallah）      源×2     译×2    
+     salaam                         → 色兰（salaam）           源×13    译×15   
+     mulayiah                       → 《穆拉伊亚》（mulayiah）     源×2     译×2    
+     brummagems                     → 廉价劣货（brummagems）     源×1     译×1    
+     hebephrenia                    → 青春型癫狂（hebephrenia）   源×1     译×2    
+     Don Quixote                    → 堂吉诃德                 源×1     译×1    
+     Voltaire                       → 伏尔泰                  源×1     译×2    
+     Diderot                        → 狄德罗（Diderot）         源×0     译×1     ★源0次(幽灵?)
+     Via Dolorosa                   → 苦路（Via Dolorosa）     源×3     译×3    
+     Carlyle                        → 卡莱尔                  源×10    译×10   
+     Renan                          → 勒南                   源×3     译×3    
+     Swedenborg                     → 斯韦登堡                 源×2     译×2    
+     Hamlet                         → 哈姆雷特                 源×4     译×3    
+     Order of Knighthood            → 骑士勋章（Order of Knight 源×1     译×1    
+     dance of the seven veils       → 七重面纱之舞               源×2     译×2    
+     helots                         → 希洛人（helots）          源×5     译×5    
+     salamander                     → 火蜥蜴（salamander）      源×3     译×3    
+     Histoire Intime                → 《私密史》（Histoire Intim 源×15    译×15   
+     les dessous de cartes          → 底牌（les dessous de ca 源×1     译×2    
+     Muse                           → 缪斯（Muse）             源×7     译×3     落位偏低 3/7
+     Young Turks                    → 青年土耳其党人（Young Turks） 源×2     译×2    
+     Esau                           → 以扫（Esau）             源×1     译×1    
+     Statue of Eros                 → 厄洛斯神像（Statue of Eros 源×1     译×1    
+     trachoma                       → 沙眼（trachoma）         源×6     译×6    
+     Bureau/Board of Emigration     → 移民局（Bureau/Board of  源×2     译×4    
+     Temple of Jupiter              → 朱庇特神庙（Temple of Jupi 源×1     译×1    
+     Temple of Bacchus              → 巴克科斯神庙（Temple of Bac 源×2     译×2    
+     Bacchantes                     → 酒神狂女（Bacchantes）     源×1     译×2    
+     Temple of Zeus                 → 宙斯神庙（Temple of Zeus） 源×2     译×2    
+     Temple of Venus                → 维纳斯神庙（Temple of Venu 源×6     译×7    
+     Laus Veneris                   → 《维纳斯颂》（Laus Veneris） 源×1     译×1    
+     phoenix                        → 凤凰（phoenix）          源×1     译×2    
+     Queen of Sheba                 → 示巴女王（Queen of Sheba） 源×1     译×1    
+     stereopticon                   → 立体投影灯（stereopticon）  源×1     译×1    
+     retroussage                    → 擦笔柔化（retroussage）    源×1     译×1    
+     Hesperian light                → 西方的光（Hesperian light 源×1     译×1    
+     City of Demiurgic Dollar       → 造化美元之城（City of Demiu 源×1     译×1    
+     Gorgon                         → 戈耳工（Gorgon）          源×3     译×3    
+     Arabian Nights                 → 《一千零一夜》（Arabian Nigh 源×3     译×4    
+     Epictetus                      → 爱比克泰德（Epictetus）     源×2     译×2    
+     Montaigne                      → 蒙田（Montaigne）        源×5     译×5    
+     Brentano’s                     → 布伦塔诺书店（Brentano’s）   源×1     译×1    
+     Necropolis                     → 亡灵之城（Necropolis）     源×2     译×2    
+     Serapeum                       → 塞拉皮姆（Serapeum）       源×2     译×2    
+     Nebular Hypothesis             → 星云假说（Nebular Hypothe 源×1     译×1    
+     parasang                       → 帕拉桑（parasang）        源×1     译×1    
+     Age of Reason                  → 《理性时代》（Age of Reason 源×2     译×2    
+     Isaiah                         → 以赛亚（Isaiah）          源×1     译×1    
+     Pascal                         → 帕斯卡（Pascal）          源×4     译×5    
+     St. Augustine                  → 圣奥古斯丁（St. Augustine） 源×2     译×2    
+     Whitman                        → 惠特曼（Whitman）         源×4     译×4    
+     Torquemada                     → 托尔克马达（Torquemada）    源×1     译×1    
+     the Pointers                   → 指极双星（the Pointers）   源×1     译×1    
+     City of Zion                   → 锡安城（City of Zion）    源×1     译×1    
+     City of Baal                   → 巴力之城（City of Baal）   源×7     译×3     落位偏低 3/7
+     Tamar                          → 他玛（Tamar）            源×1     译×1    
+     King David                     → 大卫王（King David）      源×1     译×1    
+     World-Temple                   → 世界神殿                 源×1     译×1     残留「人」×1353
+     the Fountain                   → 泉                    源×6     译×27   
+     the God of Humour              → 幽默之神                 源×1     译×1    
+     the Claws                      → 利爪                   源×2     译×2    
+     the Wings                      → 翅膀                   源×6     译×15   
+     the Orient and Occident        → 东方与西方                源×3     译×3    
+     Maker                          → 造物主                  源×10    译×7    
+

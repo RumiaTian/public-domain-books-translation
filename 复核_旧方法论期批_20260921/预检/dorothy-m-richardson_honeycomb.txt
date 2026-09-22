@@ -1,0 +1,253 @@
+ (11 files)
+  块: O=224 C=224 OK | 段: EN=681 CN=794 !!差 -113
+     [不对称] chapter-1.md                                         O=11 C=11 段EN=40 段CN=45
+     [不对称] chapter-2.md                                         O=11 C=11 段EN=44 段CN=48
+     [不对称] chapter-3.md                                         O=27 C=27 段EN=99 段CN=109
+     [不对称] chapter-4.md                                         O=18 C=18 段EN=42 段CN=58
+     [不对称] chapter-5.md                                         O=13 C=13 段EN=35 段CN=42
+     [不对称] chapter-6.md                                         O=12 C=12 段EN=14 段CN=25
+     [不对称] chapter-7.md                                         O=5 C=5 段EN=14 段CN=17
+     [不对称] chapter-8.md                                         O=12 C=12 段EN=24 段CN=31
+     [不对称] chapter-9.md                                         O=22 C=22 段EN=92 段CN=100
+     [不对称] chapter-10.md                                        O=75 C=75 段EN=249 段CN=281
+     [不对称] chapter-11.md                                        O=18 C=18 段EN=28 段CN=38
+  英文残留(剔括注) top: ello×7, Ello×3, Planchette×3, Stiboo×3, Sti×3, oo×3, divine×3, me×3, Wilde×3, Freue×3
+  项目说明备注: - 全书 11 章（罗马数字 I–XI），单一连续叙事弧（纽兰兹任家庭教师 → 双婚礼 → 母亲病亡），章数 ≤15 且不可分割的整体 → 中篇 → 连续模式。 / - 本书是《朝圣》序列第三部，与已译姊妹篇《尖顶屋》（第一部）、《过渡》（第五部）、《僵局》（第六部）共享主人公米丽亚姆·亨德森及意识流语体。人物/地名/翻译策略须与三书术语表保持一致；时间线上本书紧接第二部《后流》（Backwater，尚未建项目）、早于第四部《隧道》（The Tunnel，尚未建项目）——第四部起米丽亚姆才进入伦敦温波尔街牙医诊所与贝利太太寄宿舍，本书尚在"前伦敦"阶段，勿混入后三卷的职场/寄宿舍人物。
+  -- 术语表硬约束行 236 条:
+     Miriam Henderson               → 米丽亚姆·亨德森             源×0     译×0     ★源0次(幽灵?)
+     Miss Henderson                 → 亨德森小姐                源×2     译×2    
+     Eve Henderson                  → 伊芙·亨德森               源×0     译×0     ★源0次(幽灵?)
+     Sarah Henderson / Sally        → 萨拉·亨德森 / 萨莉          源×4     译×1     落位偏低 1/4
+     Harriett Henderson             → 哈丽特·亨德森              源×0     译×0     ★源0次(幽灵?)
+     Mr. Henderson                  → 亨德森先生                源×1     译×1     残留「破产」×2
+     Mrs. Henderson                 → 亨德森太太                源×16    译×16   
+     Pater / father                 → 爸爸（Pater）            源×10    译×4     落位偏低 4/10
+     Mother / mother / mater        → 妈妈                   源×43    译×33   
+     Mary                           → 玛丽                   源×7     译×7    
+     Mrs. Corrie / Julia            → 科里太太（朱莉娅）            源×152   译×151  
+     Mr. Corrie / Felix Corrie      → 科里先生（费利克斯·科里）        源×52    译×54   
+     Sybil                          → 西比尔                  源×12    译×12   
+     the boy / "Boy"                → 男孩（"Boy"）            源×19    译×16   
+     Bunnikin                       → 邦尼金                  源×3     译×3    
+     Wiggerson                      → 威格森                  源×26    译×26   
+     Stokes                         → 斯托克斯                 源×10    译×10   
+     Harris                         → 哈里斯                  源×1     译×1    
+     Joey Banks                     → 乔伊·班克斯               源×1     译×2     残留「东方公主」×1
+     Mélie / Mrs. Staple-Craven     → 梅莉 / 斯特普尔-克雷文太太      源×26    译×26    残留「第二视觉」×1
+     Mr. Staple-Craven / Percy / To → 斯特普尔-克雷文先生（珀西；又称汤姆/汤 源×12    译×9     残留「诗人」×3 残留「银溪」×1
+     Mr. Kronen                     → 克罗嫩先生                源×3     译×4    
+     Mrs. Kronen                    → 克罗嫩太太                源×41    译×41    残留「半伦敦腔」×1
+     Miss Tower / Jin               → 塔沃尔小姐（金）             源×7     译×2     落位偏低 2/7
+     Kate                           → 凯特                   源×3     译×4    
+     Mrs. Kronen 之名册（the Bean-pole「 → 照原文意译                源×0     译×0     ★源0次(幽灵?)
+     Bob Greville / old Bob         → 鲍勃·格雷维尔 / 老鲍勃        源×8     译×8     残留「洛桑」×2
+     Gabbie Anstruther / Mrs. Anstr → 加比·安斯特瑟 / 安斯特瑟太太     源×3     译×3     残留「未来连襟」×1
+     Gerald / Gerald Ducayne        → 杰拉尔德（·杜坎）            源×29    译×28   
+     Bennett                        → 贝内特                  源×15    译×14    残留「破产」×2
+     Mr. Grove                      → 格罗夫先生                源×3     译×3     残留「兄弟会」×1
+     Mr. Tremayne                   → 特里梅因先生               源×2     译×2    
+     Mrs. Bywater                   → 拜沃特太太                源×1     译×1    
+     the Hendon girls               → 亨顿家的姑娘们              源×1     译×1    
+     the Wheeler girl               → 惠勒家大小姐               源×0     译×0     ★源0次(幽灵?)
+     the Greens                     → 格林一家                 源×5     译×0     ★译0次(未落位?)
+     Nan Babington                  → 南·巴宾顿                源×1     译×1    
+     Dr. Ryman                      → 赖曼医生                 源×6     译×6     残留「能干」×4
+     Mrs. Skrine                    → 斯克林太太                源×1     译×1    
+     Miss Meldrum                   → 梅尔德拉姆小姐              源×5     译×5    
+     the old homoeopathist          → 顺势疗法老医生              源×1     译×1    
+     the bony old woman             → 瘦骨嶙峋的老妇人             源×1     译×1    
+     Lilla                          → 莉拉                   源×5     译×5    
+     Mrs. Poole                     → 普尔太太                 源×2     译×2     残留「能干」×4
+     Shakespeare / Darwin / Ruskin  → 莎士比亚 / 达尔文 / 罗斯金 / 路 源×16    译×19   
+     Wilde                          → 王尔德                  源×5     译×2     落位偏低 2/5
+     Jabez Balfour                  → 贾贝兹·鲍尔弗              源×4     译×4     残留「解放者」×1 残留「多美的名字」×1
+     Rosa Nouchette Carey / Mrs. Hu → 罗莎·努谢特·凯里 / 亨格福德太太 / 源×3     译×3    
+     Mrs. Caudle                    → 考德尔太太                源×3     译×0     ★译0次(未落位?)
+     Newlands                       → 纽兰兹                  源×15    译×15   
+     the commons                    → 荒原（the commons）      源×8     译×25   
+     Gunnersbury                    → 冈纳斯伯里                源×2     译×2     残留「破产」×2
+     Barnes                         → 巴恩斯                  源×2     译×2    
+     Banbury Park                   → 班伯里园                 源×8     译×8    
+     Wordsworth House               → 华兹华斯楼                源×1     译×1    
+     the Putney school              → 普特尼旧校                源×1     译×2    
+     Hanover                        → 汉诺威                  源×1     译×1    
+     London / the West End          → 伦敦 / 西区              源×28    译×35   
+     Regent Street                  → 摄政街                  源×9     译×9    
+     Brook Street                   → 布鲁克街                 源×4     译×4    
+     Salviati's                     → 萨尔维亚蒂玻璃店（Salviati's） 源×3     译×2    
+     Liberty's / the music shop / B → 利伯提商店 / 音乐商店 / 邦珀斯书店 源×3     译×4    
+     British Chess Club             → 英国的国际象棋俱乐部（British C 源×2     译×2    
+     Waterloo Bridge / Waterloo / V → 滑铁卢桥 / 滑铁卢站 / 沃克斯豪尔  源×4     译×2     落位偏低 2/4
+     Piccadilly / Green Park        → 皮卡迪利 / 绿园            源×2     译×2    
+     Kew                            → 邱园                   源×2     译×2    
+     Kensington                     → 肯辛顿                  源×1     译×1    
+     Richmond Park                  → 里士满公园                源×1     译×1    
+     Upper Richmond Road            → 上里士满路                源×1     译×1    
+     Gipsy Lane                     → 吉卜赛巷                 源×1     译×1    
+     Weymouth / Brighton / Worthing → 韦茅斯 / 布莱顿 / 沃辛       源×5     译×5    
+     Portland Bill                  → 波特兰角                 源×1     译×1    
+     Devonshire                     → 德文郡                  源×4     译×4    
+     Somersetshire                  → 萨默塞特郡                源×1     译×1    
+     South Africa / I.D.B.          → 南非 / 非法钻石交易（I.D.B.）  源×5     译×5    
+     Australia                      → 澳大利亚                 源×2     译×2    
+     India                          → 印度                   源×3     译×3    
+     All Saints                     → 诸圣堂（All Saints）      源×1     译×1     残留「礼文派副牧师」×1
+     Balone / Balloyne / Bologne    → 照搬各误读（首注：Boulogne 布洛 源×6     译×0     ★译0次(未落位?)
+     Harwich / Holland              → 哈里奇 / 荷兰             源×3     译×3    
+     France                         → 法国                   源×0     译×2     ★源0次(幽灵?)
+     Germany                        → 德国                   源×7     译×17   
+     A Human Document               → 《人间文献》（A Human Docum 源×1     译×2    
+     Mrs. Caudle's Curtain Lectures → 《考德尔太太的帐中训话》（Mrs. Ca 源×0     译×3     ★源0次(幽灵?)
+     How to Be Happy Though Married → 《婚后如何幸福》             源×1     译×1    
+     The Second Mrs. Tanqueray      → 《第二位坦纳雷太太》           源×0     译×1     ★源0次(幽灵?)
+     The Dental Cosmos / Dare's soa → （如出现，沿用《过渡》）         源×2     译×0     ★译0次(未落位?)
+     Pilgrimage                     → 《朝圣》                 源×1     译×0     ★译0次(未落位?)
+     Honeycomb                      → 《蜂巢》                 源×0     译×0     ★源0次(幽灵?)
+     Ich grolle nicht               → 《我不怨》（*Ich grolle ni 源×1     译×0     ★译0次(未落位?)
+     Schubert's Ave Maria           → 舒伯特《圣母颂》             源×0     译×1     ★源0次(幽灵?)
+     Bohm's songs                   → 伯姆的歌曲                源×1     译×1    
+     "Und wenn i dann mal wieder ko → 《当我再回来时》（德语原文照录）     源×0     译×0     ★源0次(幽灵?)
+     "Freue dich des Lebens"        → 《乐享人生》（*Freue dich d 源×0     译×1     ★源0次(幽灵?)
+     Cloches de Corneville / Planqu → 《科尔纳维尔的钟》（*Cloches d 源×2     译×1    
+     "Stiboo-stibee, sti-ibbety-oo" → 照搬不译                 源×0     译×0     ★源0次(幽灵?)
+     "Jack's the boy for work; Jack → 照搬原文并附中译             源×0     译×0     ★源0次(幽灵?)
+     The Harbour Bar                → 《海港酒吧》               源×1     译×1    
+     The Pawnbroker's Daughter      → 《当铺老板的女儿》            源×3     译×1     落位偏低 1/3
+     Poole's Miriorama              → 普尔全景剧场（Poole's Mirio 源×3     译×3    
+     the South Coast Entertainment  → 南岸演艺公司               源×1     译×1    
+     "Take each fair mask for what  → 「且将 fair mask 照其所示而受 源×0     译×0     ★源0次(幽灵?) 残留「美面假面」×8
+     Beata Beatrix                  → 《至福的贝雅特丽齐》（*Beata Be 源×1     译×1    
+     Marcus Stone people            → 马库斯·斯通笔下人物           源×1     译×0     ★译0次(未落位?)
+     Leader landscapes              → 利德的风景画               源×1     译×0     ★译0次(未落位?)
+     Bartolozzi                     → 巴托洛齐（版画）             源×1     译×1    
+     brougham                       → 轿式马车（brougham）       源×14    译×10   
+     victoria                       → 四轮敞篷马车（victoria）     源×3     译×4    
+     hansom                         → 双轮马车（hansom）         源×7     译×8    
+     Saratoga trunk                 → 萨拉托加大旅行箱             源×3     译×3    
+     Gladstone bag                  → 格拉德斯通旅行包             源×1     译×1    
+     planchette                     → 扶乩写字板（planchette）    源×7     译×2     落位偏低 2/7
+     Kummel                         → 茴香利口酒（Kummel）        源×1     译×1    
+     hock / Burgundy / Moselle / po → 莱茵白葡萄酒 / 勃艮第红葡萄酒 / 摩 源×8     译×5    
+     Venetian glass                 → 威尼斯玻璃                源×2     译×3    
+     mimosa                         → 含羞花（mimosa，银白合欢）     源×2     译×2    
+     Jockey Club                    → 骑师俱乐部（Jockey Club，香水 源×1     译×1    
+     cloisonné / "clawzonny"        → 掐丝珐琅（cloisonné）／鲍勃误读 源×0     译×0     ★源0次(幽灵?)
+     Lausanne / "Lawzanne"          → 洛桑／鲍勃误读 "Lawzanne"   源×1     译×2    
+     Q.C. / the Bar                 → 御用大律师（Q.C.）／律师界（the  源×8     译×3     落位偏低 3/8
+     the Fair                       → "女人家"（the Fair，旧式谑称） 源×2     译×0     ★译0次(未落位?)
+     greenery-yellery, Grosvenor-ga → 照搬原文并首注              源×0     译×0     ★源0次(幽灵?)
+     New Woman                      → 新女性                  源×1     译×1    
+     bluestocking                   → 蓝袜子（女学究）             源×0     译×1     ★源0次(幽灵?)
+     the Liberator scheme           → "解放者"骗局（the Liberato 源×1     译×0     ★译0次(未落位?)
+     beef-tea                       → 牛肉汁                  源×5     译×5    
+     bromide                        → 溴剂                   源×5     译×5    
+     forty pounds a year            → 年薪四十镑                源×1     译×0     ★译0次(未落位?)
+     convives                       → 同席之客（*convives*）     源×2     译×1    
+     tel qui rit vendredi dimanche  → 周五笑者周日哭（*tel qui rit 源×1     译×1    
+     Telle est la vie               → 人生如是（*Telle est la v 源×1     译×1    
+     C'est si bon… de confondre en  → 克罗嫩太太香颂，保留原文并附中译     源×0     译×0     ★源0次(幽灵?)
+     Aime-moi… car ton charme est é → 同上                   源×0     译×0     ★源0次(幽灵?)
+     strahlend mit Freude           → 喜悦灼灼生辉（*strahlend mi 源×1     译×1    
+     Le style c'est l'homme         → 风格即人（*Le style c'est 源×1     译×1    
+     where their worm dieth not and → 「虫是不死的，火是不灭的」        源×1     译×0     ★译0次(未落位?)
+     Thomas à Kempis（题赠 "To Miriam, → 托马斯·阿·肯培（题赠照录原文并附中译） 源×1     译×1    
+     "Peace I give unto you…" / "Ho → 「我留下平安给你们……」／「那报佳音之人 源×0     译×0     ★源0次(幽灵?)
+     I am in eternity               → 我在永恒里                源×1     译×1    
+     Jenooshalet / Jenoash          → 照搬不译                 源×1     译×0     ★译0次(未落位?)
+     Ello—ello / Ow-de-do / chum al → 保留原文并附中译             源×3     译×0     ★译0次(未落位?)
+     red mullet                     → 红鲣鱼（red mullet）      源×2     译×2    
+     hopsack                        → 板丝呢（hopsack）         源×1     译×1    
+     Dare's soap                    → 戴尔香皂（Dare's soap）    源×0     译×2     ★源0次(幽灵?)
+     second sight                   → 第二视觉（second sight）   源×1     译×1    
+     changeling                     → 仙灵调包的孩子（changeling）  源×1     译×1    
+     Princess of Wales fringe       → 威尔士王妃式刘海             源×1     译×1    
+     "Boy"（称呼）                      → 照搬 "Boy"             源×0     译×0     ★源0次(幽灵?) 残留「男孩」×16
+     Billy-billy                    → 比利-比利（Billy-billy）   源×1     译×1    
+     ’Menjous                       → ’Menjous（好听的调调儿）     源×0     译×1     ★源0次(幽灵?)
+     ooftish                        → 钞票（ooftish）          源×1     译×5     残留「钱」×24
+     coffy-drink                    → 咖啡饮儿（coffy-drink）    源×1     译×1    
+     injarubber                     → 橡皮（injarubber）       源×1     译×1    
+     m'lud                          → 法官大人（m'lud）          源×1     译×1    
+     cure                           → 老活宝（cure）            源×1     译×1     残留「怪人」×2
+     hahreem / hairum；Aswân / Ass-o → 照搬原文                 源×2     译×0     ★译0次(未落位?)
+     whitebait                      → 小银鱼（whitebait）       源×2     译×2    
+     cream caramel                  → 奶油焦糖布丁               源×1     译×1    
+     whatnot                        → 什锦架（whatnot）         源×1     译×1    
+     holland cover                  → 荷兰麻布台罩（holland cover 源×1     译×0     ★译0次(未落位?)
+     cope                           → 圣体斗篷（cope）           源×2     译×1    
+     "Star, star, beautiful star, a → 「星星，星星，美丽的星，一个俊俏的、年入 源×0     译×0     ★源0次(幽灵?)
+     "All work and no play makes Ja → 「光做活儿不玩耍，杰克可要……」     源×0     译×0     ★源0次(幽灵?)
+     bay / bright bay / roan / stra → 骝毛 / 亮骝毛 / 沙毛 / 草莓沙毛 源×5     译×9    
+     silkette                       → 仿丝绸（silkette）        源×1     译×1    
+     secretaire                     → 写字台（secretaire）      源×2     译×3    
+     whippet / Great Dane / Willoug → 惠比特犬 / 大丹犬 / 威洛比（Wil 源×3     译×2    
+     guvnis                         → 家庭教师                 源×1     译×8    
+     divine                         → divine（神圣得很）         源×7     译×3     落位偏低 3/7
+     cabinet photograph             → 全身照片（cabinet photogr 源×1     译×1    
+     block                          → 画纸本（block）           源×2     译×2    
+     frock-coat                     → 长礼服（frock-coat）      源×1     译×2    
+     the pink papers                → 粉红报纸（the pink papers 源×1     译×1    
+     glad mask                      → 美面假面（glad mask）      源×1     译×8    
+     banksia roses                  → 木香花（banksia roses）   源×1     译×1    
+     guipure                        → 凸纹花边（guipure）        源×1     译×1    
+     ingénue                        → 青涩（ingénue）          源×1     译×1    
+     blasé                          → 什么都腻了（blasé）         源×2     译×1    
+     Dresden                        → 德累斯顿                 源×1     译×1    
+     the vagaries of the Fair       → 女人家的性子没个准儿（the vagar 源×2     译×2    
+     Bushy / Bush                   → 布希（Bushy）            源×2     译×2     残留「教区里最能打架的狗」×1
+     Miss Haddie                    → 哈迪小姐                 源×1     译×1    
+     art muslin                     → 艺术纱（art muslin）      源×2     译×2    
+     Japanese anemones              → 日本银莲花（Japanese anemo 源×1     译×1    
+     champagne cup                  → 香槟潘趣（champagne cup）  源×1     译×1    
+     shower bouquets                → 飘垂花束（shower bouquets 源×1     译×1    
+     portmanteau                    → 旅行皮箱（portmanteau）    源×1     译×1    
+     pierrot                        → 皮埃罗（pierrot）         源×1     译×1     残留「扑粉」×1
+     Andromeda / Perseus            → 安德洛墨达／珀尔修斯           源×3     译×3     残留「美的悲剧」×1
+     Comus / The Seven Ages of Man  → 《科玛斯》／《人生的七个阶段》／《北极地 源×3     译×3    
+     chair-bed                      → 椅床（chair-bed）        源×1     译×1    
+     curling-pin                    → 卷发夹（curling-pin）     源×2     译×2    
+     gails                          → 姑娘们（gails）           源×1     译×4    
+     "So early in the morning, my b → 「这么早，在清晨，我的良人」       源×0     译×0     ★源0次(幽灵?)
+     "I had rather feel compunction → 「我宁觉痛悔，不愿知其定义」       源×0     译×0     ★源0次(幽灵?)
+     "the end of my tether"         → 「我已经忍到头了」            源×0     译×0     ★源0次(幽灵?)
+     "A bright place and a cool bre → 「一个明亮的地方，一阵凉爽的风」     源×0     译×0     ★源0次(幽灵?)
+     coffee creams                  → 咖啡奶油巧克力（coffee cream 源×3     译×3    
+     oak stain                      → 橡木着色漆（oak stain）     源×1     译×1    
+     azaleas                        → 杜鹃花（azaleas）         源×2     译×2    
+     Heliogabalus                   → 埃拉伽巴路斯（Heliogabalus） 源×1     译×1     残留「希腊人」×1
+     "Illicit dahmond bah"          → 照搬并首注（伦敦腔 illicit di 源×0     译×0     ★源0次(幽灵?)
+     "A banana? A bite of a barnato → "来根香蕉？来一口巴纳托（barnato 源×0     译×0     ★源0次(幽灵?)
+     Madonna lilies                 → 圣母百合                 源×1     译×1    
+     gorse / Irish terrier / aspen  → 荆豆丛 / 爱尔兰㹴犬 / 山杨     源×4     译×3    
+     "True, true till death; bear i → "真实，真实到死；承负它吧，哦风，凭你闪 源×0     译×0     ★源0次(幽灵?)
+     "Scorn such a foe… though I co → "蔑视这样的*对手*……虽然一击便能放倒 源×0     译×0     ★源0次(幽灵?)
+     "Inspiration"                  → 照搬并首注（灵感）            源×0     译×0     ★源0次(幽灵?)
+     sally                          → 萨尔药水（sally，sal volat 源×0     译×1     ★源0次(幽灵?)
+     nun’s veiling                  → 修女绡（nun’s veiling）   源×1     译×1    
+     lilies of the valley           → 铃兰（lilies of the val 源×1     译×1    
+     madonna                        → 圣母                   源×1     译×2     残留「圣母百合」×1
+     host’s colours                 → 主人家的徽色               源×1     译×1    
+     cannon / pocket / break        → 双球连击（cannon）／落袋（pock 源×10    译×2     落位偏低 2/10
+     grand chain                    → “大连环”（grand chain）   源×1     译×1    
+     gay dog                        → 快活小子（gay dog）        源×2     译×2    
+     con amore                      → con amore（怀着爱意地）     源×1     译×1    
+     freemasonry of women           → 女人之间的秘密会盟            源×1     译×0     ★译0次(未落位?) 残留「背弃」×1
+     Book of Judgment               → 《审判之书》               源×1     译×1    
+     actident                       → actident（法内事故）       源×1     译×1    
+     a purely accidental accident   → 一桩纯属偶然的偶然事故          源×1     译×1    
+     miscreant                      → 恶棍                   源×1     译×1    
+     euphonium                      → 上低音号（euphonium）      源×1     译×1    
+     goat-chaise                    → 山羊小马车（goat-chaise）   源×1     译×1    
+     bathing-machine                → 海滨更衣车（bathing-machin 源×1     译×1    
+     chahld / yahs                  → 照搬并首注（child／years 的做 源×2     译×0     ★译0次(未落位?) 残留「年华」×1
+     the pier pavilion / pavilion   → 码头演艺馆／演艺馆            源×5     译×5    
+     the esplanade / the parade     → 海滨大道／步道              源×5     译×6    
+     the bandstand / the wooden kio → 音乐亭／木亭               源×3     译×3    
+     the big old woman              → 高大的老妇人               源×1     译×1     残留「瘦骨嶙峋的老妇人」×1
+     I am cumbering the ground      → 「我是白占地土」             源×1     译×0     ★译0次(未落位?)
+     God has deserted me            → 「上帝离弃我了」             源×1     译×0     ★译0次(未落位?)
+     calceolarias / geraniums / lob → 蒲包花／天竺葵／半边莲          源×4     译×4    
+     New Testament / psalms / the g → 《新约》／诗篇／福音书／书信       源×4     译×5    
+     tea cosy                       → 保温壶套                 源×0     译×4     ★源0次(幽灵?)
+     painting the acid              → 涂酸剂                  源×0     译×0     ★源0次(幽灵?)
+====================================================================================================

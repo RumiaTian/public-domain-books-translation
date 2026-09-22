@@ -1,0 +1,18 @@
+## The Bênitous’ Slave
+Old Uncle Oswald believed he belonged to the Bênitous, and there was no getting the notion out of his head. Monsieur tried every way, for there was no sense in it. Why, it must have been fifty years since the Bênitous owned him. He had belonged to others since, and had later been freed. Beside, there was not a Bênitou left in the parish now, except one rather delicate woman, who lived with her little daughter in a corner of Natchitoches town, and constructed “fashionable millinery.” The family had dispersed, and almost vanished, and the plantation as well had lost its identity.
+But that made no difference to Uncle Oswald. He was always running away from Monsieur﻿—who kept him out of pure kindness﻿—and trying to get back to those Bênitous.
+More than that, he was constantly getting injured in such attempts. Once he fell into the bayou and was nearly drowned. Again he barely escaped being run down by an engine. But another time, when he had been lost two days, and finally discovered in an unconscious and half-dead condition in the woods, Monsieur and Doctor Bonfils reluctantly decided that it was time to “do something” with the old man.
+So, one sunny spring morning, Monsieur took Uncle Oswald in the buggy, and drove over to Natchitoches with him, intending to take the evening train for the institution in which the poor creature was to be cared for.
+It was quite early in the afternoon when they reached town, and Monsieur found himself with several hours to dispose of before train-time. He tied his horses in front of the hotel﻿—the quaintest old stuccoed house, too absurdly unlike a “hotel” for anything﻿—and entered. But he left Uncle Oswald seated upon a shaded bench just within the yard.
+There were people occasionally coming in and going out; but no one took the smallest notice of the old negro drowsing over the cane that he held between his knees. The sight was common in Natchitoches.
+One who passed in was a little girl about twelve, with dark, kind eyes, and daintily carrying a parcel. She was dressed in blue calico, and wore a stiff white sunbonnet, extinguisher fashion, over her brown curls.
+Just as she passed Uncle Oswald again, on her way out, the old man, half asleep, let fall his cane. She picked it up and handed it back to him, as any nice child would have done.
+“Oh, thankee, thankee, missy,” stammered Uncle Oswald, all confused at being waited upon by this little lady. “You is a putty li’le gal. W’at’s yo’ name, honey?”
+“My name’s Susanne; Susanne Bênitou,” replied the girl.
+Instantly the old negro stumbled to his feet. Without a moment’s hesitancy he followed the little one out through the gate, down the street, and around the corner.
+It was an hour later that Monsieur, after a distracted search, found him standing upon the gallery of the tiny house in which Madame Bênitou kept “fashionable millinery.”
+Mother and daughter were sorely perplexed to comprehend the intentions of the venerable servitor, who stood, hat in hand, persistently awaiting their orders.
+Monsieur understood and appreciated the situation at once, and he has prevailed upon Madame Bênitou to accept the gratuitous services of Uncle Oswald for the sake of the old darky’s own safety and happiness.
+Uncle Oswald never tries to run away now. He chops wood and hauls water. He cheerfully and faithfully bears the parcels that Susanne used to carry; and makes an excellent cup of black coffee.
+I met the old man the other day in Natchitoches, contentedly stumbling down St. Denis street with a basket of figs that someone was sending to his mistress. I asked him his name.
+“My name’s Oswal’, Madam; Oswal’﻿—dat’s my name. I b’longs to de Bênitous,” and someone told me his story then.

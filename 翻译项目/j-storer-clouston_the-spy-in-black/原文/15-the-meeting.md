@@ -1,0 +1,48 @@
+## I The Meeting
+As the dusk rapidly thickened and I lay in the heather waiting for the signal, I gave myself one last bit of good advice. Of “him” I was to meet, I had received officially a pretty accurate description, and unofficially heard one or two curious stories. I had also, of course, had my exact relationship to him officially defined. I was to be under his orders, generally speaking; but in purely naval matters, or at least on matters of naval detail, my judgment would be accepted by him. My last word of advice to myself simply was to be perfectly firm on any such point, and permit no scheme to be set afoot, however tempting, unless it was thoroughly practical from the naval point of view.
+From the rim of my hollow there on the hillside I could see several of the farms below me, as well as the manse, and I noted one little sign of British efficiency﻿—no glimmer of light shown from any of their windows. At sea a light or two twinkled intermittently, and a searchlight was playing, though fortunately not in my direction. Otherwise land and water were alike plunged in darkness. And then at last one single window of the manse glowed red for an instant. A few seconds passed, and it shone red again. Finally it showed a brighter yellow light twice in swift succession.
+I rose and very carefully led my cycle over the heather down to the road, and then, still pushing it, walked quickly down the steep hill to where the side road turned off. There was not a sound save my footfall as I approached the house. A dark mass loomed in front of me, which I saw in a moment to be a garden wall with a few of the low wind-bent island trees showing above it. This side road led right up to an iron gate in the wall, and just as I got close enough to distinguish the bars, I heard a gentle creak and saw them begin to swing open. Beyond, the trees overarched the drive, and the darkness was profound. I had passed between the gateposts before I saw or heard anything more. And then a quiet voice spoke.
+“It is a dark night,” it said in perfect English.
+“Dark as pitch,” I answered.
+“It was darker last night,” said the voice.
+“It is dark enough,” I answered.
+Not perhaps a very remarkable conversation, you may think; but I can assure you my fingers were on my revolver, just in case one single word had been different. Now I breathed freely at last.
+“Herr Tiel?” I inquired.
+“Mr. Tiel,” corrected the invisible man beside me.
+I saw him then for the first time as he stepped out from the shelter of the trees and closed the gate behind me﻿—a tall dim figure in black.
+“I’ll lead your cycle,” he said in a low voice, as he came back to me; “I know the way best.”
+He took it from me, and as we walked side by side towards the house he said﻿—
+“Permit me, Mr. Belke, to give you one little word of caution. While you are here, forget that you can talk German! *Think* in English, if you can. We are walking on a tightrope, not on the pavement. *No* precaution is excessive!”
+“I understand,” I said briefly.
+There was in his voice, perfectly courteous though it was, a note of command which made one instinctively reply briefly﻿—and obediently. I felt disposed to be favourably impressed with my ally.
+He left me standing for a moment in the drive while he led my motorcycle round to some shed at the back, and then we entered the house by the front door.
+“My servant doesn’t spend the night here,” he explained, “so we are safe enough after dark, as long as we make no sound that can be heard outside.”
+It was pitch-dark inside, and only when he had closed and bolted the front door behind us, did Tiel flash his electric torch. Then I saw that we stood in a small porch which opened into a little hall, with a staircase facing us, and a passage opening beside it into the back of the house. At either side was a door, and Tiel opened that on the right and led me into a pleasant, low, lamp-lit room with a bright peat fire blazing and a table laid for supper. I learned afterwards that the clergyman who had just vacated the parish had left hurriedly, and that his books and furniture had not yet followed him. Hence the room, and indeed the whole house, looked habitable and comfortable.
+“This is the place I have been looking for for a long time!” I cried cheerfully, for indeed it made a pleasant contrast to a ruinous farm or the interior of a submarine.
+Tiel smiled. He had a pleasant smile, but it generally passed from his face very swiftly, and left his expression cool, alert, composed, and a trifle dominating.
+“You had better take off your overalls and begin,” he said. “There is an English warning against conversation between a full man and a fasting. I have had supper already.”
+When I took off my overalls, I noticed that he gave me a quick look of surprise.
+“In uniform!” he exclaimed.
+“It may not be much use if I’m caught,” I laughed, “but I thought it a precaution worth taking.”
+“Excellent!” he agreed, and he seemed genuinely pleased. “It was very well thought of. Do you drink whisky-and-soda?”
+“You have no beer?”
+He smiled and shook his head.
+“I am a Scottish divine,” he said, “and I am afraid my guests must submit to whisky. Even in these little details it is well to be correct.”
+For the next half-hour there was little conversation. To tell you the truth I was nearly famished, and had something better to do than talk. Tiel on his part opened a newspaper, and now and then read extracts aloud. It was an English newspaper, of course, and I laughed once or twice at its items. He smiled too, but he did not seem much given to laughter. And all the while I took stock of my new acquaintance very carefully.
+In appearance Adolph Tiel was just as he had been described to me, and very much as my imagination had filled in the picture: a man tall, though not very tall, clean-shaved, rather thin, decidedly English in his general aspect, distinctly good-looking, with hair beginning to turn grey, and cleverness marked clearly in his face. What I had not been quite prepared for was his air of good-breeding and authority. Not that there was any real reason why these qualities should have been absent, but as a naval officer of a country whose military services have pretty strong prejudices, I had scarcely expected to find in a secret-service agent quite this air.
+Also what I had heard of Tiel had prepared me to meet a gentleman in whom cleverness was more conspicuous than dignity. Even those who professed to know something about him had admitted that he was a bit of a mystery. He was said to come either from Alsace or Lorraine, and to be of mixed parentage and the most cosmopolitan experience. One story had it that he served at one period of his very diverse career in the navy of a certain South American State, and this story I very soon came to the conclusion was correct, for he showed a considerable knowledge of naval affairs. Even when he professed ignorance of certain points, I was inclined to suspect he was simply trying to throw doubt upon the reports which he supposed I had heard, for rumour also said that he had quitted the service of his adopted country under circumstances which reflected more credit on his brains than his honesty.
+In fact, my informants were agreed that Herr Tiel’s brains were very remarkable indeed, and that his nerve and address were equal to his ability. He was undoubtedly very completely in the confidence of my own Government, and I could mention at least two rather serious mishaps that had befallen England which were credited to him by people who certainly ought to have known the facts.
+Looking at him attentively as he sat before the fire studying *The Scotsman* (the latest paper to be obtained in those parts), I thought to myself that here was a man I should a very great deal sooner have on my side than against me. If ever I had seen a wolf in sheep’s clothing, it seemed to me that I beheld one now in the person of Adolph Tiel, attired as a Scottish clergyman, reading a solid Scottish newspaper over the peat fire of this remote and peaceful manse. And, to complete the picture, there sat I arrayed in a German naval uniform, with the unsuspecting Grand Fleet on the other side of those shuttered and curtained windows. The piquancy of the whole situation struck me so forcibly that I laughed aloud.
+Tiel looked up and laid down his paper, and his eyebrows rose inquiringly. He was not a man who wasted many words.
+“We are a nice pair!” I exclaimed.
+I seemed to read approval of my spirit in his eye.
+“You seem none the worse of your adventures,” he said with a smile.
+“No thanks to you!” I laughed.
+Again he gave me that keen look of inquiry.
+“I landed on this infernal island last night!” I explained.
+“The deuce you did!” said he. “I was afraid you might, but as things turned out I couldn’t get here sooner. What did you do with yourself?”
+“First give me one of those cigars,” I said, “and then I’ll tell you.”
+He handed me the box of cigars and I drew up an easy-chair on the other side of the fire. And then I told him my adventures, and as I was not unwilling that this redoubtable adventurer should see that he had a not wholly unworthy accomplice, I told them in pretty full detail. He was an excellent listener, I must say that for him. With an amused yet appreciative smile, putting in now and then a question shrewd and to the point, he heard my tale to the end. And then he said in a quiet manner which I already realised detracted nothing from the value of his approval﻿—
+“You did remarkably well, Mr. Belke. I congratulate you.”
+“Thank you, Mr. Tiel,” I replied. “And now may I ask you your adventures?”
+“Certainly,” said he. “I owe you an explanation.”

@@ -1,0 +1,4 @@
+## The Father’s Worshippers
+
+’Tis we, not in thine arms, who weep and pray;
+The children in thy bosom laugh and play.

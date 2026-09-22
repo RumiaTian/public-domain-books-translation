@@ -1,0 +1,1 @@
+I have taken a dead girl with wild huggings to my bosom; and I have touched the corrupted lip, and spat upon her face, and tossed her down, and crushed her teeth with my heel, and jumped and jumped upon her breast, like the snake-stamping zebra, mad, mad﻿ ﻿… !

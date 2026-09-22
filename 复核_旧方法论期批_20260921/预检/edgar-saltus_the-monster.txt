@@ -1,0 +1,68 @@
+ (13 files)
+  块: O=343 C=343 OK | 段: EN=1584 CN=1584 OK
+  英文残留(剔括注) top: the×13, Vidya×13, mia×13, cara×10, Allez×4, Cara×3, en×2, chasseur×2, demi-castors×2, Bon×2
+  项目说明备注: - 章节标题为罗马数字（I–XIII），文件名已加两位数字前缀（01-i.md … 13-xiii.md）保证队列顺序=阅读顺序。 / - 原文中夹杂大量法语词句（madame la comtesse、en veine、demi-castors 等）与法语姓名（de Joyeuse、de Fresnoy、d'Arcy）：法语短语句按小说文学惯例酌情保留原文斜体或随文译出，人名一律按法语读音音译。 / - 神智学/印度教词汇（Vidya、Book of Dzyan、Upanishads、Paramitas、karma）按术语表统一处理。
+  -- 术语表硬约束行 62 条:
+     Leilah Ogston / Leilah Verplan → 蕾拉                   源×4     译×276  
+     Gulian Verplank                → 古里安·弗普兰克             源×1     译×0     ★译0次(未落位?)
+     Effingham Verplank             → 埃芬厄姆·弗普兰克            源×2     译×2    
+     Matlack Ogston                 → 马特拉克·奥格斯顿            源×3     译×3    
+     Hilda Hemingway                → 希尔达·海明威              源×2     译×2    
+     Violet Silverstairs（née Arling → 维奥莱特·西尔弗斯泰尔斯         源×17    译×17   
+     Silverstairs                   → 西尔弗斯泰尔斯              源×93    译×93   
+     Aurelia Arlington              → 奥蕾莉亚·阿灵顿             源×0     译×0     ★源0次(幽灵?) 残留「法尔内塞王妃」×1
+     Howard Tempest                 → 霍华德·坦皮斯特             源×2     译×2    
+     Camille de Joyeuse             → 卡米耶·德·茹瓦约兹           源×7     译×0     ★译0次(未落位?)
+     Monsieur de Joyeuse            → 德·茹瓦约兹先生             源×1     译×0     ★译0次(未落位?)
+     Barouffski / comte Barouffski  → 巴罗夫斯基伯爵              源×173   译×1     落位偏低 1/173
+     Marie de Fresnoy / Baronne de  → 玛丽·德·弗雷斯努瓦（男爵夫人）     源×9     译×0     ★译0次(未落位?)
+     d'Arcy                         → 达尔西                  源×59    译×59   
+     Helley-Quetgen(s)              → 埃利-凯特根（一家）           源×11    译×11   
+     Lord Buttercups                → 巴特卡普斯勋爵              源×2     译×2    
+     Palencia                       → 帕伦西亚                 源×18    译×18   
+     Tyszkiewicz                    → 蒂什凯维奇                源×16    译×16   
+     Roberts                        → 罗伯茨                  源×2     译×2    
+     Emmanuel                       → 埃马纽埃尔                源×10    译×10   
+     Parker                         → 帕克                   源×3     译×3    
+     Ernestine                      → 欧内斯蒂娜                源×9     译×9    
+     Marguerite                     → 玛格丽特                 源×3     译×4    
+     Princesse de Solférino         → 索尔费里诺王妃              源×1     译×1    
+     Duchesse de Malakoff           → 马拉科夫公爵夫人             源×1     译×1    
+     Princess Farnese               → 法尔内塞王妃               源×1     译×1    
+     San Diego Bay                  → 圣迭戈湾                 源×1     译×1    
+     Coronado                       → 科罗纳多                 源×10    译×10   
+     Newport                        → 纽波特                  源×2     译×2    
+     the Marquesas                  → 马克萨斯群岛               源×2     译×2    
+     Bora-Bora                      → 博拉博拉岛                源×2     译×2    
+     Paris                          → 巴黎                   源×18    译×25   
+     Rue de la Pompe                → 蓬佩街（Rue de la Pompe） 源×11    译×12   
+     Rue François Premier           → 弗朗索瓦一世街              源×7     译×7    
+     Rue Cambon                     → 康朋街                  源×1     译×1    
+     Bois de Boulogne               → 布洛涅森林                源×1     译×3    
+     Paillard's                     → 帕亚尔餐厅                源×3     译×3    
+     the Opéra                      → 歌剧院                  源×7     译×7    
+     the monster                    → 怪物                   源×2     译×4    
+     the Vidya                      → 《维迪亚经》（the Vidya）    源×13    译×0     ★译0次(未落位?)
+     the Book of Dzyan              → 《德赞之书》（Book of Dzyan 源×0     译×1     ★源0次(幽灵?)
+     the Upanishads                 → 《奥义书》                源×5     译×5    
+     the Paramitas                  → 波罗蜜多（Paramitas）      源×4     译×4     残留「福祉」×2
+     Theosophy                      → 神智学                  源×2     译×3    
+     karma                          → 业                    源×4     译×10    残留「因果」×1
+     la première                    → 首席裁缝                 源×0     译×7     ★源0次(幽灵?)
+     Leilah（偶见 Leila 变体）            → 蕾拉（一律统一）             源×272   译×0     ★译0次(未落位?)
+     Gulian Verplank / Effingham Ve → 格里安·弗普兰克（夫）／埃芬厄姆·弗普兰 源×0     译×1     ★源0次(幽灵?)
+     Count Kasimiérz Barouffski / B → 卡西米耶日·巴罗夫斯基伯爵／巴罗夫斯卡（ 源×16    译×17   
+     Howard Tempest                 → 霍华德·坦皮斯特（英国人）        源×0     译×0     ★源0次(幽灵?)
+     Violet / Lady Silverstairs（伯爵） → 维奥莱特·西尔弗斯泰尔斯／西尔弗斯泰尔斯 源×132   译×9     落位偏低 9/132
+     Camille de Joyeuse（昵称 Muffins） → 卡米耶·德·茹瓦耶兹／「玛芬」      源×0     译×8     ★源0次(幽灵?)
+     Mustim Pasha（昵称 Musty）         → 穆斯提姆·帕夏／穆斯提          源×2     译×6    
+     Lord Buttercups（戏称 Parsnips）   → 巴特卡普斯勋爵（意为「毛茛」）／欧防风  源×0     译×0     ★源0次(幽灵?)
+     Lord Auld Reekie / Bobbles     → 奥德·里基勋爵／波布尔斯         源×3     译×3    
+     Prince Farnese / Padapoulos /  → 法尔内塞亲王／帕达普洛斯／蒙特比安科亲王 源×5     译×5    
+     marquise de Charleroi / prince → 夏勒罗伊侯爵夫人／奥隆娜王妃／祖巴罗夫王 源×4     译×4    
+     Baronne de Fresnoy             → 德·弗雷努瓦男爵夫人           源×0     译×1     ★源0次(幽灵?)
+     Matlack Ogston / Hilda Hemingw → 马特拉克·奥格斯顿／希尔达·海明威／阿灵 源×51    译×51   
+     Tyszkiewicz / Palencia / Kinca → 蒂什凯维奇／帕伦西亚／金卡丁       源×1     译×1    
+     Roberts（男仆）/ Parker（女仆）/ Emman → 罗伯茨／帕克／埃马纽埃尔／莱奥波德    源×5     译×5    
+     d'Arcy（le beau d'Arcy）/ Helley → 达尔西（美男子达尔西）／埃利-凯特根／史 源×1     译×0     ★译0次(未落位?)
+====================================================================================================

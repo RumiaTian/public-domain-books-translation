@@ -1,0 +1,78 @@
+====================================================================================================
+### maria-lowell_poetry  (20 files)
+  块: O=20 C=20 OK | 段: EN=683 CN=683 OK
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 72 条:
+     Maria Lowell / Maria White Low → 玛丽亚·洛威尔 / 玛丽亚·怀特·洛威尔 源×0     译×0     ★源0次(幽灵?)
+     James Russell Lowell           → 詹姆斯·拉塞尔·洛威尔          源×0     译×0     ★源0次(幽灵?)
+     Jesus                          → 耶稣                   源×6     译×6    
+     Mary                           → 马利亚                  源×5     译×5    
+     the Father                     → 天父                   源×1     译×1    
+     Death                          → 死神                   源×4     译×4    
+     Maria Antoinette               → 玛丽·安托瓦内特             源×1     译×1    
+     Undine                         → 昂丁                   源×1     译×1    
+     Hildebrand                     → 希尔德布兰德               源×1     译×1    
+     Zarifa                         → 扎里法                  源×1     译×1    
+     Keats                          → 济慈                   源×1     译×1    
+     Venus                          → 维纳斯                  源×1     译×1    
+     Petrarch                       → 彼特拉克                 源×1     译×1    
+     Laura                          → 劳拉                   源×1     译×1    
+     the Pope                       → 教皇                   源×1     译×1    
+     Murray                         → 默里                   源×1     译×1    
+     Joan of Arc                    → 贞德（圣女贞德）             源×1     译×1    
+     Endymion                       → 恩底弥翁                 源×1     译×1    
+     Lorelei                        → 罗蕾莱                  源×1     译×1    
+     Bunyan                         → 班扬                   源×1     译×1    
+     Giant Despair                  → 绝望巨人                 源×1     译×1    
+     Memnon                         → 门农                   源×1     译×1    
+     Ocean                          → 大洋                   源×3     译×3    
+     siren                          → 塞壬                   源×1     译×1    
+     Malta                          → 马耳他                  源×1     译×1    
+     Cadiz                          → 加的斯                  源×4     译×3    
+     Guadalquiver                   → 瓜达尔基维尔河              源×1     译×1     残留「闪耀的瓜达尔基维尔河」×1
+     Rome                           → 罗马                   源×5     译×5    
+     Avignon                        → 阿维尼翁                 源×1     译×0     ★译0次(未落位?)
+     Nismes                         → 尼姆                   源×1     译×1    
+     Rouen                          → 鲁昂                   源×0     译×0     ★源0次(幽灵?)
+     Place de la Pucelle            → 少女广场                 源×0     译×0     ★源0次(幽灵?)
+     France                         → 法兰西                  源×1     译×1    
+     Africa                         → 非洲                   源×1     译×0     ★译0次(未落位?)
+     Nile                           → 尼罗河                  源×1     译×1    
+     Pyramids                       → 金字塔                  源×1     译×1    
+     Capri                          → 卡普里岛                 源×1     译×1    
+     Como                           → 科莫                   源×1     译×1    
+     Greece                         → 希腊                   源×1     译×2    
+     Mediterranean                  → 地中海                  源×1     译×1    
+     Trenton                        → 特伦顿                  源×1     译×1    
+     Scotland                       → 苏格兰                  源×1     译×1    
+     Paradise                       → 伊甸园 / 天国             源×2     译×2     残留「伊甸园的林中」×1 残留「乐园」×1
+     The Maiden’s Harvest           → 少女的丰收                源×1     译×0     ★译0次(未落位?)
+     Song                           → 歌                    源×9     译×20   
+     The Alpine Sheep               → 高山之羊                 源×2     译×1    
+     Africa                         → 非洲                   源×0     译×0     ★源0次(幽灵?)
+     Jesus and the Dove             → 耶稣与鸽子                源×1     译×0     ★译0次(未落位?)
+     The Morning-Glory              → 牵牛花                  源×5     译×5    
+     The Slave-Mother               → 奴隶母亲                 源×1     译×0     ★译0次(未落位?)
+     Necklaces                      → 项链                   源×1     译×0     ★译0次(未落位?)
+     Cadiz                          → 加的斯                  源×0     译×0     ★源0次(幽灵?)
+     Rome                           → 罗马                   源×0     译×0     ★源0次(幽灵?)
+     The Grace of Keats             → 济慈之恩                 源×1     译×0     ★译0次(未落位?)
+     Avignon                        → 阿维尼翁                 源×0     译×0     ★源0次(幽灵?)
+     Rouen, Place de la Pucelle     → 鲁昂，少女广场              源×1     译×0     ★译0次(未落位?)
+     The Sick-Room                  → 病房                   源×1     译×0     ★译0次(未落位?)
+     An Opium Fantasy               → 鸦片幻梦                 源×1     译×0     ★译0次(未落位?)
+     Sonnet（之一）                     → 十四行诗·之一              源×4     译×0     ★译0次(未落位?)
+     Sonnet（之二）                     → 十四行诗·之二              源×0     译×0     ★源0次(幽灵?)
+     Sonnet（致——）                    → 十四行诗·致——             源×0     译×0     ★源0次(幽灵?)
+     Sonnet（之四）                     → 十四行诗·之四              源×0     译×0     ★源0次(幽灵?)
+     Memories of Waters             → 水的记忆                 源×1     译×0     ★译0次(未落位?)
+     morning-glory                  → 牵牛花                  源×1     译×0     ★译0次(未落位?)
+     Alpine sheep                   → 高山之羊                 源×0     译×0     ★源0次(幽灵?)
+     oleander                       → 夹竹桃                  源×0     译×6     ★源0次(幽灵?)
+     jasmine                        → 茉莉                   源×1     译×1    
+     bobolink                       → 食米鸟                  源×1     译×1    
+     opiate / poppies               → 鸦片剂 / 罂粟             源×2     译×2    
+     sonnet                         → 十四行诗                 源×0     译×0     ★源0次(幽灵?)
+     cradle-bars                    → 摇篮栏杆                 源×1     译×1    
+     trellis                        → 花架                   源×1     译×1    
+

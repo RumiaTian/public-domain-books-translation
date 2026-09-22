@@ -1,0 +1,106 @@
+====================================================================================================
+### h-g-wells_short-fiction  (57 files)
+  块: O=1029 C=1028 !!不对称 | 段: EN=4058 CN=4065 !!差 -7
+     [不对称] a-slip-under-the-microscope.md                       O=38 C=38 段EN=101 段CN=104
+     [不对称] a-story-of-the-days-to-come.md                       O=16 C=16 段EN=156 段CN=157
+     [不对称] in-the-abyss.md                                      O=24 C=24 段EN=107 段CN=108
+     [不对称] the-flowering-of-the-strange-orchid.md               O=15 C=15 段EN=74 段CN=76
+     [不对称] the-land-ironclads.md                                O=10 C=9 段EN=66 段CN=59
+     [不对称] the-pearl-of-love.md                                 O=5 C=5 段EN=16 段CN=17
+     [不对称] the-purple-pileus.md                                 O=18 C=18 段EN=72 段CN=73
+     [不对称] the-red-room.md                                      O=20 C=20 段EN=53 段CN=54
+     [不对称] the-star.md                                          O=20 C=20 段EN=40 段CN=41
+     [不对称] the-story-of-the-late-mr-elvesham.md                 O=21 C=21 段EN=74 段CN=77
+  英文残留(剔括注) top: Aepyornis×3, Mwres×2, vastus×2, and×2, vero×1, Capri×1, Faraglioni×1, Elizebe×1, maximus×1, Titan×1
+  项目说明备注: 见术语表.md。
+  -- 术语表硬约束行 89 条:
+     Mr. Bessel                     → 贝塞尔先生                源×76    译×76   
+     Mr. Vincey                     → 文西先生                 源×44    译×45   
+     Mr. Hart                       → 哈特先生                 源×8     译×8    
+     Mrs. Bullock                   → 布洛克夫人                源×4     译×4    
+     Dr. Wilson Paget               → 威尔逊·佩吉特博士            源×1     译×3    
+     Dr. Hatton                     → 哈顿博士                 源×1     译×1    
+     Mrs. Piper                     → 派珀夫人                 源×1     译×1    
+     Minnie                         → 明妮                   源×35    译×35   
+     Old Tootles                    → 老图特尔斯                源×4     译×4    
+     Tommy Byles                    → 汤米·拜尔斯               源×1     译×1    
+     George（车夫）                     → 乔治（车夫）               源×14    译×15   
+     ’Arry ’Icks                    → 哈里·希克斯               源×2     译×2    
+     Ravachol                       → 拉瓦肖尔                 源×1     译×1    
+     Vaillant                       → 瓦扬                   源×1     译×1    
+     Mrs. Jabber                    → 贾珀太太                 源×2     译×3    
+     Cooper                         → 库珀                   源×1     译×1    
+     Hedon                          → 赫登                   源×1     译×1    
+     Gresham                        → 格雷沙姆                 源×13    译×13   
+     St. Paul’s Churchyard          → 圣保罗教堂墓地              源×2     译×2    
+     the Albany                     → 奥尔巴尼                 源×7     译×7    
+     Piccadilly                     → 皮卡迪利                 源×5     译×5    
+     Regent Street                  → 摄政街                  源×10    译×11   
+     Staple Inn                     → 斯特普尔律师学院             源×5     译×5    
+     Vigo Street                    → 维戈街                  源×3     译×3    
+     Bond Street                    → 邦德街                  源×1     译×1    
+     Chancery Lane                  → 大法官巷                 源×2     译×2    
+     Long Acre                      → 朗埃克                  源×2     译×2    
+     Covent Garden                  → 考文特花园                源×1     译×1    
+     Hampstead Road                 → 汉普斯特德路               源×1     译×1    
+     Tottenham Court Road           → 托特纳姆法院路              源×3     译×3    
+     Euston Road                    → 尤斯顿路                 源×5     译×5    
+     Baker Street                   → 贝克街                  源×5     译×5    
+     Burlington Arcade              → 伯灵顿商场                源×1     译×1    
+     Holborn                        → 霍尔本                  源×2     译×2    
+     Scotland Yard                  → 苏格兰场                 源×1     译×1    
+     Waxwork Exhibition             → 蜡像馆                  源×1     译×1    
+     Haverstock Hill                → 哈弗斯托克山               源×2     译×2    
+     Camden Town High Street        → 卡姆登镇大街               源×1     译×0     ★译0次(未落位?)
+     Havelock Crescent              → 哈夫洛克新月街              源×1     译×1    
+     Great Saint Andrew’s Street    → 大圣安德鲁街               源×1     译×1    
+     Wellington Street              → 惠灵顿街                 源×1     译×1    
+     Waterloo Bridge                → 滑铁卢桥                 源×2     译×2    
+     Hampstead                      → 汉普斯特德                源×4     译×4    
+     Rugby                          → 拉格比                  源×1     译×1    
+     Capri                          → 卡普里                  源×11    译×10   
+     Monte Solaro                   → 蒙特索拉罗山               源×3     译×3    
+     Isle of the Sirens             → 塞壬群岛                 源×1     译×1    
+     Faraglioni                     → 法拉廖尼                 源×2     译×1    
+     Grotta del Bovo Marino         → 博沃马里诺洞窟              源×1     译×1    
+     Piccola Marina                 → 小码头                  源×1     译×1    
+     Pleasure City                  → 享乐之城                 源×3     译×3    
+     the Gang                       → 那个帮派                 源×5     译×1     落位偏低 1/5
+     Liverpool                      → 利物浦                  源×2     译×2    
+     Ischia                         → 伊斯基亚                 源×1     译×1    
+     Naples                         → 那不勒斯                 源×2     译×2    
+     Vesuvius                       → 维苏威火山                源×1     译×1    
+     Torre dell’Annunziata          → 托雷德尔安农齐亚塔            源×0     译×1     ★源0次(幽灵?)
+     Castellammare                  → 卡斯特拉马雷               源×1     译×1    
+     Sorrento                       → 索伦托                  源×1     译×1    
+     the Rhine-mouth                → 莱茵河口                 源×1     译×1    
+     Salerno                        → 萨莱诺                  源×2     译×2    
+     Cava                           → 卡瓦                   源×1     译×1    
+     Taranto                        → 塔兰托                  源×1     译×1    
+     Mount Alburno                  → 阿尔布尔诺山               源×1     译×1    
+     Paestum                        → 帕埃斯图姆                源×4     译×4    
+     Chalk Farm                     → 乔克农场                 源×1     译×1    
+     Euston                         → 尤斯顿                  源×4     译×4    
+     psychical research             → 心灵研究                 源×2     译×2    
+     thought transference           → 思想传感                 源×2     译×2    
+     apparitions of the living      → 活人显形                 源×1     译×1    
+     phantom of the living          → 活人幻影                 源×1     译×1    
+     self-hypnotism                 → 自我催眠                 源×1     译×1    
+     medium                         → 灵媒                   源×5     译×5    
+     séance                         → 降神会                  源×6     译×6    
+     trance                         → 通灵状态                 源×5     译×1     落位偏低 1/5
+     pineal eye                     → 松果眼                  源×2     译×2    
+     colza oil                      → 菜籽油                  源×2     译×2    
+     bacillus                       → 杆菌                   源×2     译×1    
+     cholera                        → 霍乱                   源×5     译×5    
+     cholera germ                   → 霍乱病菌                 源×1     译×1    
+     microscope                     → 显微镜                  源×15    译×17   
+     Bacteriologist                 → 细菌学家                 源×18    译×18   
+     bacterium / bacteria           → 细菌                   源×2     译×4    
+     Anarchist                      → 无政府主义者               源×9     译×8    
+     Vive l’Anarchie                → 无政府主义万岁              源×1     译×1    
+     sovereign                      → 索维林                  源×2     译×5    
+     Armageddon                     → 哈米吉多顿                源×1     译×0     ★译0次(未落位?)
+     consecutive dreaming           → 连续做梦                 源×1     译×1    
+     Fortnum-Roscoe’s Dream States  → 福特纳姆-罗斯科《梦境状态》       源×0     译×0     ★源0次(幽灵?)
+

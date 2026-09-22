@@ -1,0 +1,79 @@
+====================================================================================================
+### xavier-de-maistre_short-fiction_various-translators  (6 files)
+  块: O=506 C=506 OK | 段: EN=897 CN=978 !!差 -81
+     [不对称] a-journey-round-my-room.md                           O=192 C=192 段EN=287 段CN=329
+     [不对称] a-night-journey-round-my-room.md                     O=122 C=122 段EN=153 段CN=191
+     [不对称] the-prisoners-of-the-caucasus.md                     O=37 C=37 段EN=100 段CN=101
+  英文残留(剔括注) top: the×3, te×3, II×2, III×2, IV×2, VI×2, VII×2, VIII×2, IX×2, XI×2
+  -- 术语表硬约束行 70 条:
+     Attwell / Andrews / Carey & Le → 阿特韦尔 / 安德鲁斯 / 凯里与李   源×33    译×33   
+     S.E. Editor                    → 编者                   源×2     译×2    
+     Turin / St. Petersburg / Mosco → 都灵 / 圣彼得堡 / 莫斯科 / 基辅 源×58    译×59   
+     Russia(n)                      → 俄国                   源×34    译×31   
+     Ivan                           → 伊万                   源×64    译×0     ★译0次(未落位?) 残留「伊凡」×64
+     Tchetchengs                    → 车臣人                  源×17    译×26   
+     Rose / Rosine                  → 罗丝 / 罗西娜             源×46    译×21    落位偏低 21/46
+     Niejeni Novogorod / Novogorod  → 下诺夫哥罗德 / 诺夫哥罗德       源×6     译×23   
+     verst                          → 俄里                   源×2     译×15   
+     Cossacks                       → 哥萨克人                 源×15    译×2     落位偏低 2/15
+     Ischim / Tobolsk / Yekaterinbu → 伊希姆 / 托博尔斯克 / 叶卡捷琳堡  源×33    译×35   
+     Ivan Smirnoff                  → 伊万·斯米尔诺夫             源×1     译×1    
+     Malte Brun                     → 马尔特·布伦               源×1     译×1    
+     Captain John Dundas Cochrane   → 约翰·邓达斯·科克伦船长         源×1     译×1    
+     Sterne / Richardson / Abbé Pré → 斯特恩 / 理查逊 / 普雷沃神父    源×3     译×3    
+     Clarissa Harlowe / Werther / C → 《克拉丽莎·哈洛》/《维特》/《克利夫兰 源×6     译×5    
+     Aosta                          → 奥斯塔                  源×4     译×4    
+     the Leper / the Officer        → 麻风病人 / 军官            源×94    译×100  
+     Count René of Chalans          → 沙朗伯爵勒内               源×1     译×1    
+     Marie of Braganza              → 布拉干萨的玛丽              源×1     译×1    
+     Bramafan                       → 布拉马凡                 源×2     译×2     残留「饥饿的呼号」×1
+     Tower of Terror                → 恐怖之塔                 源×1     译×1    
+     hospital of Saint Maurice      → 圣莫里斯医院               源×1     译×1    
+     principality of Oneille        → 奥内利亚公国               源×1     译×1    
+     Imitation of Jesus Christ      → 《效法基督》               源×1     译×1    
+     glaciers of Ruitorts           → 吕伊托尔冰川               源×1     译×1    
+     mount Saint Bernard            → 圣伯纳德山                源×1     译×1    
+     valley of Rhème                → 雷姆山谷                 源×1     译×1    
+     Charvensod / Piedmont          → 沙尔文索 / 皮埃蒙特          源×3     译×3    
+     Miserere                       → 《求主怜悯》               源×1     译×1    
+     the Doire                      → 多伊尔河                 源×2     译×2    
+     Miracle（犬名）                    → 奇迹                   源×3     译×3    
+     hermit of the city of Aosta    → 奥斯塔城的隐士              源×1     译×0     ★译0次(未落位?)
+     Kascambo / Ibrahim / Mamet     → 卡斯坎波 / 易卜拉欣 / 马梅特    源×51    译×50   
+     Denchick / Koniac / fourka     → 登奇克 / 科尼亚克 / 富尔卡     源×5     译×5    
+     Sonja / Terek(Terec) / Tcherve → 松扎河 / 捷列克河 / 切尔维利安斯卡 源×3     译×8    
+     Joanetti（源文拼法）                 → 若阿内蒂                 源×13    译×33   
+     M. de Baffon                   → 布封                   源×2     译×2    
+     Rue de la Providence / Hôtel d → 天意街 / 好妇人旅馆 / 大多伊尔街  源×2     译×4    
+     Superga / St. Philip's / Conve → 苏佩尔加 / 圣菲利普教堂 / 嘉布遣会 源×5     译×5    
+     Sophie / Marie / Eliza / Georg → 索菲 / 玛丽 / 伊丽莎 / 乔治娜  源×10    译×10   
+     Mme. Hautcastle（de Hautcastel） → 奥特卡斯尔夫人              源×2     译×10   
+     M. Necker / Themistocles / Cor → 内克尔 / 地米斯托克利 / 科里奥拉努 源×4     译×4    
+     Asti / Hipparcus / Plëiades    → 阿斯蒂 / 希帕恰斯 / 昴星团     源×3     译×3    
+     Joannetti（正拼）                  → 若阿内蒂                 源×20    译×0     ★译0次(未落位?)
+     Rosalie / Jenny / Eugénie / Ge → 罗莎莉 / 珍妮 / 欧仁妮 / 乔治娜 源×5     译×5    
+     Father Beccaria / Empedocles / → 贝卡里亚神父 / 恩培多克勒 / 皮格马 源×3     译×3    
+     Charlotte / Albert / Clarissa  → 夏洛特 / 阿尔贝特 / 克拉丽莎 /  源×8     译×10   
+     Chevalier d’Assas / James（Jem） → 达萨骑士 / 詹姆斯（杰姆） / 尚贝里 源×4     译×3    
+     Mount Viso / Strada della Po / → 维索山 / 波河街 / 瓦伦蒂诺     源×3     译×3    
+     Dr. Cigna / Dr. Ranson / Docto → 西尼亚医生 / 朗松医生 / 瓦利医生  源×4     译×7    
+     Hippocrates / Pericles / Plato → 希波克拉底 / 伯里克利 / 柏拉图 / 源×24    译×24   
+     Harvey / Spallanzani / Le Brun → 哈维 / 斯帕朗扎尼 / 勒布伦 / 凯 源×6     译×6    
+     Ugolino / Electra / Orestes /  → 乌戈利诺 / 厄勒克特拉 / 俄瑞斯忒斯 源×8     译×7    
+     the prisoner of Pignerol（源文阳拼） → 皮涅罗的囚徒               源×1     译×1    
+     Prascovia Lopouloff            → 普拉斯科维娅·洛普洛夫          源×1     译×1    
+     Ismail / Otchakoff / Kamouïche → 伊兹梅尔 / 奥恰科夫 / 卡穆舍夫   源×3     译×3    
+     Neyler                         → 奈勒                   源×4     译×4    
+     Mrs. Milin / Mrs. G. / Mrs. L. → 米林夫人 / G夫人 / L夫人 / T 源×30    译×29   
+     Mr. Violier                    → 维奥利耶先生               源×6     译×6    
+     Empress-mother / Emperor Paul  → 太后 / 保罗皇帝 / 亚历山大皇帝   源×4     译×11   
+     Count Kotchoubey               → 科丘别伊伯爵               源×1     译×1    
+     Kiev / Vladimir / Riga / Novog → 基辅 / 弗拉基米尔 / 里加 / 诺夫 源×5     译×6    
+     Oca / Neva / Tobol / Tchousova → 奥卡河 / 涅瓦河 / 托博尔河 / 丘 源×9     译×9    
+     Senate / ukaze / Starost / kib → 元老院 / 谕旨 / 村长 / 凯毕特车 源×24    译×25   
+     Pougatcheff / Captain-Ispravni → 普加乔夫 / 县警长           源×3     译×3    
+     Hermitage / Knights of St. Geo → 冬宫 / 圣乔治骑士 / 英国滨河街 / 源×11    译×7    
+     Luca Giordano                  → 卢卡·焦尔达诺              源×1     译×1    
+     Christos voscres / Voistino vo → 基督复活了 / 确实复活了        源×3     译×3    
+     灵魂与动物（the Soul and the Animal） → 灵魂与动物                源×0     译×4     ★源0次(幽灵?)
+

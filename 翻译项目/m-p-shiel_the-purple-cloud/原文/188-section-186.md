@@ -1,0 +1,12 @@
+I said to her:
+“We will fly west to one of the Somersetshire coal-mines, or to one of the Cornwall tin-mines, and we will barricade ourselves against the cloud, and provision ourselves for six months﻿—for it is perfectly feasible, and we have plenty of time, and no crowds to break down our barricades﻿—and there in the deep earth we will live sweetly together, till the danger is overpast.”
+And she smiled, and drew her hand across my face, and said:
+“No, no: don’t you tlust in my God? do you think He would leally let me die?”
+For she has appropriated the Almighty God to herself, naming Him “*my* God”﻿—the impudence: though she generally knows what she is saying, too. And she would not fly the cloud.
+And I am now writing three weeks later at a little place called Château-les-Roses, and no poison-cloud, and no sign of any poison-cloud, has come. And this I do not understand.
+It may be that she divined that I was about to destroy myself﻿ ﻿… she may be quite capable.﻿ ﻿… But no, I do not understand, and shall never ask her.
+But *this* I understand: that it is *the White* who is Master here: that though he wins but by a hair, yet he wins, he wins: and since he wins, dance, dance, my heart.
+I look for a race that shall resemble its Mother: nimble-witted, light-minded, pious﻿—like her; all-human, ambidextrous, ambicephalous, two-eyed﻿—like her; and if, like her, they talk the English language with all the *r*’s turned into *l*’s, I shall not care.
+They will be vegetable-eaters, I suppose, when all the meat now extant is eaten up: but it is not certain that meat is good for men: and if it is really good, then they will *invent* a meat: for they will be *her* sons, and she, to the furthest cycle in which the female human mind is permitted to orbit, is, I swear, all-wise.
+There was a preaching man﻿—a Scotchman he was, named Macintosh, or something like that﻿—who said that the last end of Man shall be well, and very well: and she says the same: and the agreement of these two makes a Truth. And to that I now say: Amen, Amen.
+For I, Adam Jeffson, second Parent of the world, hereby lay down, ordain, and decree for all time, clearly perceiving it now: That the one Motto and Watchword essentially proper to each human individual, and to the whole Race of Man, as distinct from other races in heaven or in earth, was always, and remains, even this: “Though He slay me, yet will I trust in Him.”

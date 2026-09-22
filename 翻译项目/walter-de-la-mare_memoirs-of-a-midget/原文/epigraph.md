@@ -1,0 +1,9 @@
+
+> A wild beast there is in Aegypt, called orix, which the Aegyptians say, doth stand full against the dog starre when it riseth, looketh wistly upon it, and testifieth after a sort by sneesing, a kind of worship.﻿ ﻿…
+> — Philemon Holland
+
+> Did’st thou ever see a lark in a cage? Such is the soul in the body: this world is like her little turf of grass; and the heaven o’er our heads, like her looking-glass, only gives us a miserable knowledge of the small compass of our prison.﻿ ﻿…
+> — John Webster
+
+> Provoke them not, fair sir, with tempting words; the heavens are gracious.﻿ ﻿…
+> — Thomas Kyd

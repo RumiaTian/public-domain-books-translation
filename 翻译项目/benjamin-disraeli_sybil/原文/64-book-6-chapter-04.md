@@ -1,0 +1,50 @@
+### IV
+“I don’t think I can stand this much longer,” said Mr. Mountchesney, the son-in-law of Lord de Mowbray, to his wife, as he stood before the empty fireplace with his back to the mantelpiece and his hands thrust into the pockets of his coat. “This living in the country in August bores me to extinction. I think we will go to Baden, Joan.”
+“But papa is so anxious, dearest Alfred, that we should remain here at present and see the neighbours a little.”
+“I might be induced to remain here to please your father, but as for your neighbours I have seen quite enough of them. They are not a sort of people that I ever met before, or that I wish to meet again. I do not know what to say to them, nor can I annex an idea to what they say to me. Heigho! certainly the country in August is a thing of which no one who has not tried it has the most remote conception.”
+“But you always used to say you doted on the country, Alfred,” said Lady Joan in a tone of tender reproach.
+“So I do; I never was happier than when I was at Melton, and even enjoyed the country in August when I was on the Moors.”
+“But I cannot well go to Melton,” said Lady Joan.
+“I don’t see why you can’t. Mrs. Shelldrake goes with her husband to Melton, and so does Lady Di with Barham; and a very pleasant life it is.”
+“Well, at any rate we cannot go to Melton now,” said Lady Joan, mortified; “and it is impossible for me to go to the moors.”
+“No, but I could go,” said Mr. Mountchesney, “and leave you here. I might have gone with Eugene de Vere and Milford and Fitz-heron. They wanted me very much. What a capital party it would have been, and what capital sport we should have had! And I need not have been away for more than a month or perhaps six weeks, and I could have written to you every day and all that sort of thing.”
+Lady Joan sighed and affected to recur to the opened volume which during this conversation she had held in her hand.
+“I wonder where Maud is,” said Mr. Mountchesney; “I shall want her to ride with me today. She is a capital horsewoman, and always amuses me. As you cannot ride now, Joan, I wish you would let Maud have Sunbeam.”
+“As you please.”
+“Well I am going to the stables and will tell them. Who is this?” Mr. Mountchesney exclaimed, and then walked to the window that looking over the park showed at a distance the advance of a very showy equipage.
+Lady Joan looked up.
+“Come here, Joan, and tell me who this is,” and Lady Joan was at his side in a moment.
+“It is the livery of the Bardolfs,” said Lady Joan.
+“I always call them Firebrace; I cannot get out of it,” said Mr. Mountchesney. “Well, I am glad it is they; I thought it might be an irruption of barbarians. Lady Bardolf will bring us some news.”
+Lord and Lady Bardolf were not alone; they were accompanied by a gentleman who had been staying on a visit at Firebrace, and who, being acquainted with Lord de Mowbray, had paid his respects to the castle in his way to London. This gentleman was the individual who had elevated them to the peerage﻿—Mr. Hatton. A considerable intimacy had sprung up between him and his successful clients. Firebrace was an old place rebuilt in the times of the Tudors, but with something of its more ancient portions remaining, and with a storehouse of muniments that had escaped the civil wars. Hatton revelled in them, and in pursuing his researches, had already made discoveries which might perhaps place the coronet of the earldom of Lovel on the brow of the former champion of the baronetage, who now however never mentioned the Order. Lord de Mowbray was well content to see Mr. Hatton, a gentleman in whom he did not repose the less confidence, because his advice given him three years ago, respecting the writ of right and the claim upon his estate had proved so discreet and correct. Acting on that advice Lord de Mowbray had instructed his lawyers to appear to the action without entering into any unnecessary explanation of the merits of his case. He counted on the accuracy of Mr. Hatton’s judgment, that the claim would not be pursued; and he was right; after some fencing and preliminary manoeuvring, the claim had not been pursued. Lord de Mowbray therefore, always gracious, was disposed to accord a very distinguished reception to his confidential counsellor. He pressed very much his guests to remain with him some days, and though that was not practicable, Mr. Hatton promised that he would not leave the neighbourhood without paying another visit to the castle.
+“And you continue quiet here?” said Mr. Hatton to Lord de Mowbray.
+“And I am told we shall keep so,” said Lord de Mowbray. “The mills are mostly at work, and the men take the reduced wages in a good spirit. The fact is our agitators in this neighbourhood suffered pretty smartly in ’39, and the Chartists have lost their influence.”
+“I am sorry for poor Lady St. Julians,” said Lady Bardolf to Lady de Mowbray. “It must be such a disappointment, and she has had so many; but I understand there is nobody to blame but herself. If she had only left the Prince alone, but she would not be quiet!”
+“And where are the Deloraines?”
+“They are at Munich; with which they are delighted. And Lady Deloraine writes me that Mr. Egremont has promised to join them there. If he do, they mean to winter at Rome.”
+“Somebody said he was going to be married,” said Lady de Mowbray.
+“His mother wishes him to marry,” said Lady Bardolf; “but I have heard nothing.”
+Mr. Mountchesney came in and greeted the Bardolfs with some warmth. “How delightful in the country in August to meet somebody that you have seen in London in June!” he exclaimed. “Now, dear Lady Bardolf do tell me something, for you can conceive nothing so triste as we are here. We never get a letter. Joan only corresponds with philosophers and Maud with clergymen; and none of my friends ever write to me.”
+“Perhaps you never write to them?”
+“Well, I never have been a letter writer; because really I never wanted to write or to be written to. I always knew what was going on because I was on the spot; I was doing the things that people were writing letters about﻿—but now not being in the world any longer, doing nothing, living in the country﻿—and the country in August﻿—I should like to receive letters every day, but I do not know who to fix upon as a correspondent. Eugene de Vere will not write, Milford cannot; and as for Fitz-heron he is so very selfish, he always wants his letters answered.”
+“That is very unreasonable,” said Lady Bardolf.
+“Besides what can they tell me at this moment? They have gone to the moors and are enjoying themselves. They asked me to go with them, but I could not go, because you see I could not leave Joan; though why I could not leave her, I really cannot understand, because Egerton has got some moors this year, and he leaves Lady Augusta with her father.”
+Lady Maud entered the room in her bonnet, returning from an airing. She was all animation﻿—charmed to see everybody; she had been to Mowbray to hear some singing at the Roman Catholic chapel in that town; a service had been performed and a collection made for the suffering workpeople of the place. She had been apprised of it for some days, was told that she would hear the most beautiful voice that she had ever listened to, but it had far exceeded her expectations. A female voice it seemed; no tones could be conceived more tender and yet more thrilling: in short seraphic.
+Mr. Mountchesney blamed her for not taking him. He liked music, singing, especially female singing; when there was so little to amuse him, he was surprised that Lady Maud had not been careful that he should have been present. His sister-in-law reminded him that she had particularly requested him to drive her over to Mowbray, and he had declined the honour as a bore.
+“Yes,” said Mr. Mountchesney, “but I thought Joan was going with you, and that you would be shopping.”
+“It was a good thing our House was adjourned before these disturbances in Lancashire,” said Lord Bardolf to Lord de Mowbray.
+“The best thing we can all do is to be on our estates I believe,” said Lord de Mowbray.
+“My neighbour Marney is in a great state of excitement,” said Lord Bardolf; “all his yeomanry out.”
+“But he is quiet at Marney?”
+“In a way; but these fires puzzle us. Marney will not believe that the condition of the labourer has anything to do with them; and he certainly is a very acute man. But still I don’t know what to say to it. The poor-law is very unpopular in my parish. Marney will have it, that the incendiaries are all strangers hired by the anti-Corn-law League.”
+“Ah! here is Lady Joan,” exclaimed Lady Bardolf, as the wife of Mr. Mountchesney entered the room; “My dearest Lady Joan!”
+“Why Joan,” said Mr. Mountchesney, “Maud has been to Mowbray, and heard the most delicious singing. Why did we not go?”
+“I did mention it to you, Alfred.”
+“I remember you said something about going to Mowbray, and that you wanted to go to several places. But there is nothing I hate so much as shopping. It bores me more than anything. And you are so peculiarly long when you are shopping. But singing, and beautiful singing in a Catholic chapel by a woman; perhaps a beautiful woman, that is quite a different thing, and I should have been amused, which nobody seems ever to think of here. I do not know how you find it, Lady Bardolf, but the country to me in August is a something﻿—” and not finishing his sentence, Mr. Mountchesney gave a look of inexpressible despair.
+“And you did not see this singer?” said Mr. Hatton, sidling up to Lady Maud, and speaking in a subdued tone.
+“I did not, but they tell me she is most beautiful; something extraordinary; I tried to see her, but it was impossible.”
+“Is she a professional singer?”
+“I should imagine not; a daughter of one of the Mowbray people I believe.”
+“Let us have her over to the Castle, Lady de Mowbray,” said Mr. Mountchesney.
+“If you like,” replied Lady de Mowbray, with a languid smile.
+“Well at last I have got something to do,” said Mr. Mountchesney. “I will ride over to Mowbray, find out the beautiful singer, and bring her to the Castle.”

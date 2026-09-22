@@ -1,0 +1,87 @@
+## IX: A Confirmed Spinster / 第九章：一个老处女
+
+===Original===
+I am in danger, I see, of being included among the whimsical fellows, which I so little desire that I have got me into my writing-chair to combat the charge, but, having sat for an unconscionable time with pen poised, I am come agitatedly to the fear that there may be something in it.
+
+So long a time has elapsed, you must know, since I abated of the ardours of self-inquiry that I revert in vain (through many rusty doors) for the beginning of this change in me, if changed I am; I seem ever to see this same man until I am back in those wonderful months which were half of my life, when, indeed, I know that I was otherwise than I am now; no whimsical fellow then, for that was one of the possibilities I put to myself while seeking for the explanation of things, and found to be inadmissible. Having failed in those days to discover why I was driven from the garden, I suppose I ceased to be enamoured of myself, as of some dull puzzle, and then perhaps the whimsicalities began to collect unnoticed.
+
+It is a painful thought to me tonight, that he could wake up glorious once, this man in the elbow-chair by the fire, who is humorously known at the club as a "confirmed spinster." I remember him well when his years told four and twenty; on my soul the proudest subaltern of my acquaintance, and with the most reason to be proud. There was nothing he might not do in the future, having already done the biggest thing, this toddler up club-steps today.
+
+===Chinese===
+我明白，我正有沦入"古怪家伙"行列的危险，这正是我极力避免的，所以我已坐到书桌前准备反驳这项指控，但握着笔呆坐了许久之后，我惶恐地意识到这指控或许并非空穴来风。
+
+要知道，我已很久不再热切地自我审视了，如今我徒劳地（隔着一道道生锈的门）追溯这场变化开始的端倪——如果我真的变了的话；我仿佛始终看到同一个自己，直到我回到生命中那神奇的几个月，那时的我确实与今不同；那时绝非古怪，因为我在探寻事物缘由时曾设想过这种可能，并发现它站不住脚。当年未能查明我为何被逐出那座花园，我想我便不再迷恋自己了，如同对一个乏味的谜题失去兴趣，于是那些古怪之处或许便不知不觉地积聚起来。
+
+今夜，这个念头令我痛苦：壁炉旁扶手椅里的这个人，那个在俱乐部里被戏称为"老处女"的人，他曾能辉煌地醒来。我清楚地记得他二十四岁的样子；凭我的灵魂起誓，那是我所认识的最骄傲的尉官，也最值得骄傲。他未来的一切皆有可能，因为他已经做成了最了不起的事，而今天这个蹒跚爬上俱乐部台阶的人，就是他。
+
+===Original===
+Not, indeed, that I am a knave; I am tolerably kind, I believe, and most inoffensive, a gentleman, I trust, even in the eyes of the ladies who smile at me as we converse; they are an ever-increasing number, or so it seems to me tonight. Ah, ladies, I forget when I first began to notice that smile and to be made uneasy by it. I think I understand it now, and in some vague way it hurts me. I find that I watch for it nowadays, but I hope I am still your loyal, obedient servant.
+
+You will scarcely credit it, but I have just remembered that I once had a fascinating smile of my own. What has become of my smile? I swear I have not noticed that it was gone till now; I am like one who revisiting his school feels suddenly for his old knife. I first heard of my smile from another boy, whose sisters had considered all the smiles they knew and placed mine on top. My friend was scornful, and I bribed him to mention the plebiscite to no one, but secretly I was elated and amazed. I feel lost tonight without my smiles. I rose a moment ago to look for it in my mirror.
+
+===Chinese===
+当然，我并非无赖；我相信自己相当和善，也极不惹人厌烦，甚至在那些与我交谈时对我微笑的女士眼中，我无疑是一位绅士；她们的数量似乎与日俱增，至少今夜我是这么觉得的。啊，女士们，我已记不清自己是从何时起开始注意到那微笑并为之不安的。我想我现在明白了，它以某种模糊的方式伤害着我。我发现如今自己会留意它的出现，但我希望我依然是你们忠实、顺从的仆人。
+
+你恐怕很难相信，但我刚刚想起自己也曾有过迷人的微笑。我的微笑去哪儿了？我发誓直到此刻我才发觉它已消失；我就像重返母校的人突然摸向口袋，寻找那把旧小刀。我第一次听说自己的微笑是从另一个男孩那里，他的姐妹们品评了所有她们认识的微笑，将我的排在首位。我的朋友对此嗤之以鼻，我贿赂他不许声张那次投票，但暗地里我又惊又喜。今夜没有了我的微笑，我感到茫然失措。片刻前我起身照了照镜子，想找回它。
+
+===Original===
+I like to believe that she has it now. I think she may have some other forgotten trifles of mine with it that make the difference between that man and this. I remember her speaking of my smile, telling me it was my one adornment, and taking it from me, so to speak, for a moment to let me see how she looked in it; she delighted to make sport of me when she was in a wayward mood, and to show me all my ungainly tricks of voice and gesture, exaggerated and glorified in her entrancing self, like a star calling to the earth: "See, I will show you how you hobble round," and always there was a challenge to me in her eyes to stop her if I dared, and upon them, when she was most audacious, lay a sweet mist.
+
+They all came to her court, as is the business of young fellows, to tell her what love is, and she listened with a noble frankness, having, indeed, the friendliest face for all engaged in this pursuit that can ever have sat on woman. I have heard ladies call her coquette, not understanding that she shone softly upon all who entered the lists because, with the rarest intuition, she foresaw that they must go away broken men and already sympathised with their dear wounds. All wounds incurred for love were dear to her; at every true utterance about love she exulted with grave approval, or it might be a with a little "ah!" or "oh!" like one drinking deliciously. Nothing could have been more fair, for she was for the first comer who could hit the target, which was her heart.
+
+She adored all beautiful things in their every curve and fragrance, so that they became part of her. Day by day, she gathered beauty; had she had no heart (she who was the bosom of womanhood) her thoughts would still have been as lilies, because the good is the beautiful.
+
+===Chinese===
+我宁愿相信如今是她拥有了它。我想，随着它一起被她带走的，还有一些我遗忘的琐碎，正是那些东西造就了今昔的差距。我记得她谈起我的微笑，告诉我那是我唯一的装饰，并且——姑且这么说——将它从我这里取走片刻，好让我看看它戴在她脸上是什么样子；她性情乖张时便喜欢取笑我，把我那些笨拙的声音和手势把戏演示给我看，在她那迷人的自我中加以夸张和美化，仿佛一颗星辰对大地说："看，我来给你瞧瞧你那蹒跚的样子。"她的眼神总是在向我挑战：有本事就来阻止我啊。而当她最大胆时，那眼神上总是蒙着一层甜美的薄雾。
+
+他们全都来到她的宫廷，这是年轻人的正事，向她倾诉何为爱情，而她带着高贵的坦率倾听——世上从未有过比她更友善的面容，给予所有追求爱情的人。我听过女士们称她为"交际花"，却不明白她之所以柔和地照耀着所有入场的竞技者，是因为她以最敏锐的直觉预见了他们必将心碎而去，并已预先为那些可爱的伤口心生怜悯。所有为爱而受的伤在她看来都弥足珍贵；每当有人真情流露地谈论爱情，她便以庄重的赞许欣然回应，或者轻叹一声"啊！"或"哦！"，仿佛在啜饮琼浆。这一切公平至极，因为她只属于第一个射中靶心——她的心——的人。
+
+她崇拜一切美丽事物的每一道曲线与芬芳，使它们成为她自身的一部分。日复一日，她积聚着美；即使没有心（她可是女性的化身），她的思想也会如百合般高洁，因为善即是美。
+
+===Original===
+And they all forgave her; I never knew of one who did not forgive her; I think had there been one it would have proved that there was a flaw in her. Perhaps, when goodbye came she was weeping because all the pretty things were said and done with, or she was making doleful confessions about herself, so impulsive and generous and confidential, and so devoid of humour, that they compelled even a tragic swain to laugh. She made a looking-glass of his face to seek woefully in it whether she was at all to blame, and when his arms went out for her, and she stepped back so that they fell empty, she mourned, with dear sympathy, his lack of skill to seize her. For what her soft eyes said was that she was always waiting tremulously to be won. They all forgave her, because there was nothing to forgive, or very little, just the little that makes a dear girl dearer, and often afterward, I believe, they have laughed fondly when thinking of her, like boys brought back. You ladies who are everything to your husbands save a girl from the dream of youth, have you never known that double-chinned industrious man laugh suddenly in a reverie and start up, as if he fancied he were being hailed from faraway?
+
+I hear her hailing me now. She was so lighthearted that her laugh is what comes first across the years; so high-spirited that she would have wept like Mary of Scots because she could not lie on the bare plains like the men. I hear her, but it is only as an echo; I see her, but it is as a light among distant trees, and the middle-aged man can draw no nearer; she was only for the boys. There was a month when I could have shown her to you in all her bravery, but then the veil fell, and from that moment I understood her not. For long I watched her, but she was never clear to me again, and for long she hovered round me, like a dear heart willing to give me a thousand chances to regain her love. She was so picturesque that she was the last word of art, but she was as young as if she were the first woman. The world must have rung with gallant deeds and grown lovely thoughts for numberless centuries before she could be; she was the child of all the brave and wistful imaginings of men. She was as mysterious as night when it fell for the first time upon the earth. She was the thing we call romance, which lives in the little hut beyond the blue haze of the pinewoods.
+
+===Chinese===
+他们全都原谅了她；我从未听说有谁不原谅她；我想若有那么一个人，那便证明她身上有瑕疵。或许，当告别来临时，她在哭泣，因为所有美好的言语和行为都已终结，或者她在哀伤地自白，冲动、慷慨而交心，却又如此缺乏幽默感，以至于连最悲伤的恋人也不禁失笑。她把他的脸当镜子，可怜巴巴地从中寻找自己是否该受责备，当他的双臂向她张开，她却后退一步，让他扑了个空，她便带着真切的同情，哀悼他没能抓住她。因为她温柔的眼神说的是，她始终在颤抖地等待被征服。他们全都原谅了她，因为没有什么值得原谅的，或者只有很少一点——那让一个可爱的女孩变得更加可爱的微不足道之处。而且我相信，此后他们想起她时常常会深情地微笑，仿佛重回少年。你们这些对丈夫而言是全部却唯独不是少女时代梦中少女的女士们，你们可曾见过那个双下巴的勤勉男人在沉思中突然大笑并惊跳起来，仿佛听见有人在远方呼唤他？
+
+我听见她正在呼唤我。她是如此快活，以至于她的笑声是跨越岁月最先抵达的；她是如此意气风发，若不能像男子汉一样躺在旷野上，她会像苏格兰女王玛丽（Mary of Scots）一样哭泣。我听见她，但那只是回声；我看见她，但那是远林间的一点微光，中年的我已无法走近；她只属于那些少年。曾有一个月，我能将她展现给你，风采尽显，但随后帷幕落下，自那一刻起我便不再理解她。我久久地注视着她，但她再未清晰地显现在我眼前，而她也久久地在我身边徘徊，仿佛一颗挚爱之心愿意给我一千次机会赢回她的爱。她是如此如画，堪称艺术的极致，却又如此年轻，仿佛第一位女子。世界必定在无数个世纪里回荡着英勇的事迹、生长着美好的思想，才终于孕育出她；她是人类所有勇敢而怅惘想象的结晶。她如同第一次降临大地的夜一样神秘。她就是我们称之为浪漫的东西，居住在松林蓝雾之外的小屋里。
+
+===Original===
+No one could have looked less elfish. She was all on a noble scale, her attributes were so generous, her manner unconquerably gracious, her movements indolently active, her face so candid that you must swear her every thought lived always in the open. Yet, with it all, she was a wild thing, alert, suspicious of the lasso, nosing it in every man's hand, more curious about it than about aught else in the world; her quivering delight was to see it cast for her, her game to eluate it; so mettlesome was she that she loved it to be cast fair that she might escape as it was closing round her; she scorned, however her heart might be beating, to run from her pursuers; she took only the one step backward, which still left her near them but always out of reach; her head on high now, but her face as friendly, her manner as gracious as before, she is yours for the catching. That was ever the unspoken compact between her and the hunters.
+
+It may be but an old trick come back to me with these memories, but again I clasp my hands to my brows in amaze at the thought that all this was for me could I retain her love. For I won it, wonder of the gods, but I won it. I found myself with one foot across the magic circle wherein she moved, and which none but I had entered; and so, I think, I saw her in revelation, not as the wild thing they had all conceived her, but as she really was. I saw no tameless creature, nothing wild or strange. I saw my sweet love placid as a young cow browsing. As I brushed aside the haze and she was truly seen for the first time, she raised her head, like one caught, and gazed at me with meek affrighted eyes. I told her what had been revealed to me as I looked upon her, and she trembled, knowing she was at last found, and fain would she have fled away, but that her fear was less than her gladness. She came to me slowly; no incomprehensible thing to me now, but transparent as a pool, and so restful to look upon that she was a bath to the eyes, like banks of moss.
+
+Because I knew the maid, she was mine. Every maid, I say, is for him who can know her. The others had but followed the glamour in which she walked, but I had pierced it and found the woman. I could anticipate her every thought and gesture, I could have flashed and rippled and mocked for her, and melted for her and been dear disdain for her. She would forget this and be suddenly conscious of it as she began to speak, when she gave me a look with a shy smile in it which meant that she knew I was already waiting at the end of what she had to say. I call this the blush of the eye. She had a look and a voice that were for me alone; her very fingertips were charged with caresses for me. And I loved even her naughtinesses, as when she stamped her foot at me, which she could not do without also gnashing her teeth, like a child trying to look fearsome. How pretty was that gnashing of her teeth! All her tormentings of me turned suddenly into sweetnesses, and who could torment like this exquisite fury, wondering in sudden flame why she could give herself to anyone, while I wondered only why she could give herself to me. It may be that I wondered overmuch. Perhaps that was why I lost her.
+
+===Chinese===
+没有人看起来比她更不似精灵。她的一切都气象高华，品性如此慷慨，仪态不可征服地优雅，举止慵懒而充满活力，面容如此坦率，你一定会发誓她每个念头都始终坦荡于外。然而，尽管如此，她是个野性的东西，警觉，怀疑套索，在每个人手里嗅探它，对此比世上任何事物都更感兴趣；她看到套索抛向自己时会因激动而颤抖，她的游戏就是躲开它；她是如此骁勇，以至于她喜欢套索抛得漂亮些，好让她在它即将合拢时逃脱；无论内心如何狂跳，她都蔑视从追捕者面前逃跑；她只退后一步，依然离他们很近，却总是够不着；此刻她昂着头，但面容依旧友善，仪态依旧优雅，等着你来捕捉。这一直是她与猎人之间心照不宣的约定。
+
+也许这只是记忆卷土重来的一个旧把戏，但当我想到只要我能留住她的爱，这一切就曾属于我时，我再次双手抱头，惊讶不已。因为我确实赢得了它，诸神啊，奇迹啊，我赢得了它。我发现自己一只脚踏进了她漫步其中的魔法圈，而除了我从未有人进入；因此，我想，我在启示中看见了她，不是所有人以为的那种野性生灵，而是她真实的模样。我看见的不是什么难以驯服的东西，没有任何野性或怪异。我看见我甜美的爱人安详如一头吃草的小牛。当我拨开薄雾，她第一次被真正看见时，她抬起了头，仿佛一个被捉住的人，用温顺而惊恐的眼神望着我。我告诉她我凝视她时所领悟的一切，她颤抖着，知道自己终于被找到了，她多么想逃走，但她的恐惧不及她的喜悦。她缓缓向我走来；此刻她对我而言不再不可捉摸，而是清澈如一池水，静观之下是如此安宁，犹如青苔铺岸，让眼睛也为之沐浴。
+
+因为我了解了这位少女，她便属于我。我说，每一位少女都属于能了解她的人。其他人不过追随她行走其中的光晕，而我穿透了它，发现了那个女人。我能够预见她的每一个念头和手势，我能为她闪光、起涟漪、扮嘲弄，为她融化、露出深情的不屑。她会忘记这一点，但当她开始说话时，又会突然意识到，于是给我一个含着羞涩微笑的眼神，那意味着她知道我已等待着她要说的话的结尾。我称之为"眼里的红晕"。她有一个眼神和一种嗓音只为我而存在；她的指尖也充满了给我的爱抚。我甚至爱她的顽皮，比如她朝我跺脚，她跺脚时总要咬牙切齿，像个装作吓人的孩子。她咬牙切齿的样子多美啊！她所有折磨我的把戏突然都变成了甜蜜，谁能像这绝美的狂女那样折磨人呢，她突然在火焰中燃烧，纳闷自己为何能委身于任何人，而我只纳闷她为何能委身于我。也许我纳闷得太多了。也许这就是我失去她的原因。
+
+===Original===
+It was in the full of the moon that she was most restive, but I brought her back, and at first she could have bit my hand, but then she came willingly. Never, I thought, shall she be wholly tamed, but he who knows her will always be able to bring her back.
+
+I am not that man, for mystery of mysteries, I lost her. I know not how it was, though in the twilight of my life that then began I groped for reasons until I wearied of myself; all I know is that she had ceased to love me; I had won her love, but I could not keep it. The discovery came to me slowly, as if I were a most dull-witted man; at first I knew only that I no longer understood her as of old. I found myself wondering what she had meant by this and that; I did not see that when she began to puzzle me she was already lost to me. It was as if, unknowing, I had strayed outside the magic circle.
+
+When I did understand I tried to cheat myself into the belief that there was no change, and the dear heart bleeding for me assisted in that poor pretence. She sought to glide to me with swimming eyes as before, but it showed only that this caressing movement was still within her compass, but never again for me. With the hands she had pressed to her breast she touched mine, but no longer could they convey the message. The current was broken, and soon we had to desist miserably from our pretences. She could tell no more than I why she had ceased to love me; she was scarcely less anxious than I that I should make her love me again, and, as I have said, she waited with a wonderful tolerance while I strove futilely to discover in what I was lacking and to remedy it. And when, at last, she had to leave me, it was with compassionate cries and little backward flights.
+
+The failure was mine alone, but I think I should not have been so altered by it had I known what was the defect in me through which I let her love escape. This puzzle has done me more harm than the loss of her. Nevertheless, you must know (if I am to speak honestly to you) that I do not repent me those dallyings in enchanted fields. It may not have been so always, for I remember a black night when a poor lieutenant lay down in an oarless boat and let it drift toward the weir. But his distant moans do not greatly pain me now; rather am I elated to find (as the waters bring him nearer) that this boy is I, for it is something to know that, once upon a time, a woman could draw blood from me as from another.
+
+===Chinese===
+满月时分她最为躁动不安，但我总能将她带回，起初她简直想咬我的手，但随后她便心甘情愿了。我曾以为她永远不会被完全驯服，但了解她的人总能将她唤回。
+
+我却不是那个人，因为最神秘的神秘在于，我失去了她。我不知道是怎么回事，尽管在那段开始于生命黄昏的岁月里，我摸索着寻找缘由，直到厌倦了自己；我所知道的只是她不再爱我了；我曾赢得她的爱，却无法留住它。这个发现是缓缓降临的，仿佛我是个极其迟钝的人；起初我只知道我不再像从前那样理解她了。我发现自己纳闷她这样那样是什么意思；我没意识到当她开始让我困惑时，她已离我而去。仿佛我在不知不觉中走出了那个魔法圈。
+
+当我终于明白时，我试图欺骗自己相信一切如旧，而那颗为我流血的心也配合着这可怜的伪装。她试图像从前那样，以泪眼朦胧的姿态向我滑来，但这只表明那种抚慰的动作仍在她能力范围之内，只是永远不再为我了。她用那双曾按在胸前的手触碰我的手，但它们再也无法传递讯息。电流断了，很快我们便痛苦地停止了伪装。她和我一样，说不出她为何不再爱我了；她几乎和我一样渴望我能重新让她爱上我，而且如我所说，她以惊人的耐心等待着，而我徒劳地试图找出自己的不足并加以弥补。当她最终不得不离开我时，带着怜悯的哭喊和小步的退却。
+
+这失败全是我一人的，但我想我若知道是自身的什么缺陷让她的爱溜走，就不至于被它改变至此。这个谜题对我造成的伤害超过了失去她。然而，你必须知道（如果我要对你坦诚的话），我并不后悔那些在魔幻田野里的流连。也许并非一直如此，因为我记得一个漆黑的夜晚，一个可怜的中尉躺在一艘无桨的小船里，任它漂向堰坝。但他那遥远的呻吟如今已不再让我痛苦；相反，我很欣慰地发现（随着水流将他带近）那个男孩就是我，因为知道曾经有一个女人能像对别人一样让我流血，总归是件值得称道的事。
+
+===Original===
+I saw her again, years afterward, when she was a married woman playing with her children. She stamped her foot at a naughty one, and I saw the gleam of her teeth as she gnashed them in the dear pretty way I can't forget; and then a boy and girl, fighting for her shoulders, brought the whole group joyously to the ground. She picked herself up in the old leisurely manner, lazily active, and looked around her benignantly, like a cow: our dear wild one safely tethered at last with a rope of children. I meant to make her my devoirs, but, as I stepped forward, the old wound broke out afresh, and I had to turn away. They were but a few poor drops, which fell because I found that she was even a little sweeter than I had thought.
+
+===Chinese===
+多年后我又见到了她，那时她已是为人妇，正在和孩子们玩耍。她朝一个淘气的孩子跺了跺脚，我看到她咬牙切齿时牙齿的闪光，那可爱美妙的样子我永远忘不了；然后一个男孩和一个女孩争着要爬上她的肩膀，三人欢笑着一起摔倒在地。她以过去那种悠闲的姿态不慌不忙地爬起来，慵懒而灵活，像一头母牛般慈祥地环顾四周：我们亲爱的野性之物，最终被一根孩子组成的绳索安全地拴住了。我本打算向她致意，但当我走上前时，旧伤复发，我只得转身离去。那只是几滴可怜的泪水，因为我发现她甚至比我想的还要甜一点点。

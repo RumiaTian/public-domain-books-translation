@@ -1,0 +1,253 @@
+ (17 files)
+  块: O=357 C=357 OK | 段: EN=1733 CN=1744 !!差 -11
+     [不对称] chapter-1.md                                         O=23 C=23 段EN=121 段CN=122
+     [不对称] chapter-2.md                                         O=28 C=28 段EN=138 段CN=139
+     [不对称] chapter-3.md                                         O=26 C=26 段EN=133 段CN=134
+     [不对称] chapter-5.md                                         O=23 C=23 段EN=124 段CN=126
+     [不对称] chapter-7.md                                         O=15 C=15 段EN=60 段CN=61
+     [不对称] chapter-8.md                                         O=17 C=17 段EN=64 段CN=65
+     [不对称] chapter-10.md                                        O=25 C=25 段EN=111 段CN=112
+     [不对称] chapter-15.md                                        O=24 C=24 段EN=145 段CN=146
+     [不对称] chapter-16.md                                        O=24 C=24 段EN=134 段CN=136
+  英文残留(剔括注) top: Au×2, revoir×2, Venenum×1, in×1, auro×1, bibitur×1, sous-officiers×1, Mon×1, Dieu×1, sieur×1
+  -- 术语表硬约束行 239 条:
+     Four Just Men                  → 四义人                  源×2     译×72   
+     The Council of Justice         → 正义议会                 源×8     译×7    
+     Manfred                        → 曼弗雷德                 源×167   译×167  
+     Gonsalez                       → 冈萨雷斯                 源×21    译×21   
+     Poiccart                       → 普瓦卡尔                 源×57    译×3     落位偏低 3/57
+     Courlander                     → 库尔兰                  源×1     译×1    
+     Jessen                         → 杰森                   源×68    译×66   
+     Falmouth                       → 法尔茅斯                 源×66    译×66   
+     Charles Garrett                → 查尔斯·加勒特              源×4     译×5    
+     Prince of the Escorial         → 埃斯科里亚尔亲王             源×8     译×6    
+     Woman of Gratz                 → 格拉茨女人                源×0     译×34    ★源0次(幽灵?)
+     Starque                        → 斯塔克                  源×62    译×62   
+     François                       → 弗朗索瓦                 源×26    译×26   
+     Bartholomew                    → 巴塞洛缪                 源×60    译×60   
+     Schmidt                        → 施密特                  源×13    译×19   
+     Father Kopab                   → 科帕布神父                源×1     译×1    
+     Menshikoff                     → 缅希科夫                 源×8     译×8    
+     Antonio Selleni                → 安东尼奥·塞莱尼             源×2     译×2    
+     Karl Ollmanns                  → 卡尔·奥尔曼斯              源×2     译×2    
+     Franz Kitsinger                → 弗朗茨·基辛格              源×1     译×1    
+     Von Dunop                      → 冯·杜诺普                源×8     译×8    
+     Ivan Oranvitch                 → 伊万·奥兰维奇              源×1     译×1    
+     Magnus the Jew                 → 犹太人马格努斯              源×1     译×1    
+     Maliscrivona                   → 马利斯克里沃纳              源×1     译×1    
+     Tchezki                        → 切兹基                  源×1     译×1    
+     Vellantini                     → 韦兰蒂尼                 源×1     译×1    
+     De Romans                      → 德·罗曼斯                源×1     译×1    
+     Luigi Fressini                 → 路易吉·弗雷西尼             源×1     译×1    
+     Antonio de Costa               → 安东尼奥·德·科斯塔           源×1     译×1    
+     Felix Hedeman                  → 费利克斯·赫德曼             源×1     译×1    
+     Samuel Lipski                  → 塞缪尔·利普斯基             源×1     译×1    
+     Ramon                          → 拉蒙                   源×2     译×2    
+     Mr. Summers                    → 萨默斯先生                源×1     译×1    
+     von Hedlitz                    → 冯·赫德利茨               源×1     译×1    
+     Blackie                        → 布莱基                  源×2     译×2    
+     O'Mahony                       → 奥马洪尼                 源×1     译×1    
+     Poynter                        → 波因特                  源×1     译×1    
+     Mr. Short                      → 肖特先生                 源×1     译×1    
+     Massonni                       → 马索尼                  源×1     译×1    
+     Theodore Max                   → 西奥多·马克斯              源×1     译×1    
+     Harold Ashton                  → 哈罗德·阿什顿              源×1     译×1    
+     Ridgeway                       → 里奇韦                  源×1     译×1    
+     Countess Slienvitch            → 斯利恩维奇伯爵夫人            源×2     译×2    
+     Boyle / Lawley                 → 博伊尔／劳利               源×2     译×2    
+     Isadore                        → 伊萨多                  源×1     译×1    
+     Red Hundred                    → 红色百人团                源×1     译×57   
+     Home Office                    → 内政部                  源×3     译×3    
+     Home Secretary                 → 内政大臣                 源×0     译×10    ★源0次(幽灵?)
+     Scotland Yard                  → 苏格兰场                 源×8     译×8    
+     Criminal Investigation Departm → 刑事侦缉部                源×1     译×1    
+     Wandsworth Jail/Gaol           → 旺兹沃思监狱               源×5     译×3    
+     Guild                          → 公会                   源×1     译×7    
+     League of London               → 伦敦联盟                 源×1     译×1    
+     Pride of Millwall              → 米尔沃尔之光               源×2     译×2    
+     Anthropological Institute of R → 罗马人类学研究所             源×1     译×1    
+     Lambs Club                     → 羔羊俱乐部                源×1     译×1    
+     Greenwich Police Court         → 格林尼治安法庭              源×1     译×1    
+     Koon-dorp Mounted Rifles       → 库恩多普骑步枪队             源×1     译×1    
+     Megaphone                      → 《扩音器报》               源×16    译×14   
+     Times                          → 《泰晤士报》               源×10    译×5     落位偏低 5/10
+     Mercury                        → 《墨丘利报》               源×1     译×1    
+     Evening News                   → 《晚间新闻》               源×4     译×1     落位偏低 1/4
+     Morning Leader                 → 《晨间领袖报》              源×1     译×1    
+     Forty Days of Terrorism        → 《恐怖四十天》              源×3     译×3    
+     Cerebral Dynamics              → 《脑动力学》               源×1     译×1    
+     Three Months in Morocco        → 《摩洛哥三月记》             源×4     译×4    
+     Through the Ituri Forest       → 《穿越伊图里森林》            源×1     译×2    
+     London                         → 伦敦                   源×25    译×26   
+     England                        → 英格兰                  源×11    译×10   
+     Gratz                          → 格拉茨                  源×1     译×2    
+     Lewisham                       → 刘易舍姆                 源×1     译×1    
+     Hill Crest Lodge, St. John's   → 圣约翰区山冠小屋             源×1     译×1    
+     Presley Street                 → 普雷斯利街                源×6     译×6    
+     Carlby Mansions                → 卡尔比公寓                源×3     译×4    
+     Oxford Street                  → 牛津街                  源×2     译×2    
+     Woolwich Arsenal               → 伍利奇兵工厂               源×1     译×1    
+     Catford                        → 卡特福德                 源×1     译×1    
+     Tower Bridge                   → 塔桥                   源×2     译×2    
+     Kensington Park Gardens        → 肯辛顿公园花园街             源×1     译×1    
+     Ladbroke Square                → 拉德布罗克广场              源×1     译×1    
+     Notting Hill Gate Station      → 诺丁山门车站               源×1     译×1    
+     Maidham Crescent               → 梅德汉姆新月街              源×1     译×1    
+     Berkeley Square                → 伯克利广场                源×2     译×2    
+     Park Lane                      → 公园巷                  源×1     译×1    
+     Brook Street                   → 布鲁克街                 源×1     译×1    
+     Charing Cross                  → 查令十字                 源×2     译×2    
+     Dover                          → 多佛                   源×1     译×1    
+     Calais                         → 加来                   源×1     译×1    
+     Harwich                        → 哈里奇                  源×1     译×1    
+     Victoria                       → 维多利亚（车站）             源×1     译×1    
+     Hull                           → 赫尔                   源×1     译×1    
+     Stockholm                      → 斯德哥尔摩                源×1     译×1    
+     Liverpool                      → 利物浦                  源×1     译×1    
+     Glasgow                        → 格拉斯哥                 源×1     译×1    
+     Newcastle                      → 纽卡斯尔                 源×1     译×1    
+     Blackheath Hill                → 布莱克希思山               源×1     译×1    
+     Paris                          → 巴黎                   源×2     译×3    
+     Prague                         → 布拉格                  源×1     译×2    
+     Milan                          → 米兰                   源×1     译×1    
+     Bordeaux                       → 波尔多                  源×2     译×2    
+     Petrograd                      → 彼得格勒                 源×2     译×2    
+     Riga                           → 里加                   源×1     译×2    
+     Tehran                         → 德黑兰                  源×1     译×1    
+     Transylvania                   → 特兰西瓦尼亚               源×0     译×2     ★源0次(幽灵?)
+     Brittany                       → 布列塔尼                 源×1     译×1    
+     Quai d'Orsay                   → 凯道赛（法国外交部）           源×1     译×1    
+     Auditorium                     → 观众厅剧场                源×2     译×2    
+     Ritz                           → 丽兹酒店                 源×2     译×2    
+     Whiteley's                     → 怀特利百货商店              源×1     译×1    
+     Derby                          → 德比大赛                 源×1     译×1    
+     Culveri                        → 库尔维里                 源×1     译×1    
+     Fenian                         → 芬尼亚会                 源×1     译×1    
+     Grand Vizier                   → 大维齐尔                 源×1     译×1    
+     Manfred / George Manfred       → 曼弗雷德／乔治·曼弗雷德         源×6     译×6    
+     Leon Gonsalez                  → 莱昂·冈萨雷斯              源×3     译×3    
+     Poiccart                       → 普瓦卡                  源×0     译×54    ★源0次(幽灵?)
+     Falmouth                       → 法尔茅斯                 源×0     译×0     ★源0次(幽灵?)
+     Jessen（化名 Long「朗」）             → 杰森                   源×0     译×0     ★源0次(幽灵?)
+     Starque / Rudolph Starque      → 斯塔克／鲁道夫·斯塔克          源×2     译×3    
+     Courtlander                    → 考特兰德                 源×5     译×5    
+     Prince of the Escorial         → 埃斯科里亚尔亲王             源×0     译×0     ★源0次(幽灵?) 残留「埃斯科里亚尔世袭亲王」×1
+     François                       → 弗朗索瓦                 源×0     译×0     ★源0次(幽灵?)
+     the Woman of Gratz             → 格拉茨的女人               源×34    译×0     ★译0次(未落位?)
+     Herr Schmidt (of Prague)       → 施密特（布拉格的）            源×6     译×0     ★译0次(未落位?)
+     Peter Sweeney                  → 彼得·斯威尼               源×6     译×6    
+     Charles Garrett                → 查尔斯·加勒特              源×0     译×0     ★源0次(幽灵?)
+     James Sinclair (Jimmy)         → 詹姆斯·辛克莱（吉米）          源×1     译×1    
+     Sir William Seddon / Bill Sedd → 威廉·塞登爵士／比尔·塞登        源×2     译×2    
+     Lipski                         → 利普斯基                 源×2     译×2    
+     Perkins / Franklin             → 珀金斯／富兰克林             源×2     译×2    
+     Willington                     → 威灵顿                  源×1     译×1    
+     Heckford Brothers              → 赫克福德兄弟               源×1     译×1    
+     Gipsy Jack                     → 吉卜赛杰克                源×2     译×2    
+     Clarker                        → 克拉克                  源×1     译×1    
+     Forsythe / Berander / Sir Thom → 福赛斯／贝兰德／托马斯·曼多里爵士    源×3     译×3    
+     Miss Arbuckle                  → 阿巴克尔小姐               源×1     译×0     ★译0次(未落位?)
+     the Four Just Men              → 四义人                  源×57    译×0     ★译0次(未落位?)
+     the Council of Justice         → 正义议会                 源×0     译×0     ★源0次(幽灵?)
+     the Red Hundred                → 红色百人团                源×56    译×0     ★译0次(未落位?)
+     the "Rational Faithers"        → 「理性信仰会」              源×0     译×2     ★源0次(幽灵?)
+     The Guild                      → 公会                   源×6     译×0     ★译0次(未落位?)
+     The Megaphone                  → 《扩音器报》               源×0     译×0     ★源0次(幽灵?)
+     the Review                     → 《评论报》                源×1     译×1    
+     the Home Secretary             → 内政大臣                 源×9     译×0     ★译0次(未落位?)
+     Old Bailey                     → 老贝利                  源×3     译×2    
+     Wandsworth Gaol                → 旺兹沃思监狱               源×2     译×0     ★译0次(未落位?)
+     Chelmsford (Gaol)              → 切姆斯福德（监狱）            源×12    译×11   
+     Pentonville / Reading          → 佩顿维尔／雷丁              源×12    译×4     落位偏低 4/12
+     Royal Yacht                    → 王家游艇                 源×2     译×2    
+     Gratz                          → 格拉茨                  源×0     译×0     ★源0次(幽灵?)
+     Wivenhoe                       → 威文霍                  源×2     译×2    
+     Clacton                        → 克拉克顿                 源×2     译×2    
+     Walton                         → 沃尔顿                  源×2     译×2    
+     Colchester                     → 科尔切斯特                源×1     译×1    
+     Colchester Road                → 科尔切斯特路               源×2     译×2    
+     Essex / the Midlands           → 埃塞克斯／米德兰             源×2     译×2    
+     Clifton / Chertsey             → 克利夫顿／切特西             源×2     译×2    
+     Morocco / Prague               → 摩洛哥／布拉格              源×1     译×1    
+     Diet of Worms / Magna Charta   → 沃尔姆斯帝国议会／《大宪章》       源×2     译×2    
+     "Faith Home" / "Palace Lodge"  → 「信仰之家」／「宫殿庐」         源×0     译×2     ★源0次(幽灵?)
+     Three Months in Morocco        → 《摩洛哥三月记》             源×0     译×0     ★源0次(幽灵?)
+     Magno-Sellie                   → 马格诺-塞利（防盗警报系统）       源×1     译×1    
+     Manfred / George Manfred       → 曼弗雷德／乔治·曼弗雷德         源×0     译×0     ★源0次(幽灵?)
+     Gonsalez / Leon Gonsalez       → 冈萨雷斯／莱昂·冈萨雷斯         源×0     译×0     ★源0次(幽灵?)
+     Poiccart                       → 普瓦卡                  源×0     译×0     ★源0次(幽灵?)
+     Bernard Courtlander            → 伯纳德·考特兰德             源×1     译×1    
+     Jessen（化名 Mr. Long）            → 杰森／朗先生               源×0     译×11    ★源0次(幽灵?)
+     Charles Garrett                → 查尔斯·加勒特              源×0     译×0     ★源0次(幽灵?)
+     Falmouth                       → 法尔茅斯                 源×0     译×0     ★源0次(幽灵?)
+     the Woman of Gratz / Maria     → 格拉茨女人／玛丽亚            源×8     译×8    
+     Starque / Rudolph Starque      → 斯塔克／鲁道夫·斯塔克          源×0     译×0     ★源0次(幽灵?)
+     Bartholomew / Lauder Bartholom → 巴塞洛缪／劳德·巴塞洛缪         源×4     译×4     残留「多普方丹英雄」×1
+     François                       → 弗朗索瓦                 源×0     译×0     ★源0次(幽灵?)
+     Menshikoff                     → 缅希科夫                 源×0     译×0     ★源0次(幽灵?)
+     Schmidt / Augustus Schmidt     → 施密特／奥古斯塔斯·施密特        源×1     译×1    
+     Herr Bleaumeau                 → 布洛莫先生                源×2     译×2    
+     Herr Von Dunop                 → 冯·杜诺普先生              源×1     译×1    
+     little Peter / Konoplanikova   → 小彼得／科诺普利尼科娃          源×8     译×8    
+     Niloff of Vitebsk              → 维捷布斯克的尼洛夫            源×1     译×0     ★译0次(未落位?)
+     Old Joseph                     → 老约瑟夫                 源×1     译×1    
+     Bentvitch                      → 本特维奇                 源×1     译×1    
+     Hollom / Paul Mirtisky / Georg → 霍洛姆／保罗·米蒂斯基／乔治·格拉贝   源×3     译×3    
+     Fritz von Hedlitz              → 弗里茨·冯·赫德利茨           源×1     译×1    
+     Marquis de Santo-Strato        → 圣托-斯特拉托侯爵            源×1     译×1    
+     Hendrik Houssmann              → 亨德里克·豪斯曼             源×1     译×1    
+     Falk / Wally / Garth / Ike Isa → 福尔克／沃利／加思老头／艾克·艾萨克斯  源×9     译×9    
+     Billy Marks                    → 比利·马克斯               源×2     译×2    
+     Simon Czech / Michael Ranekov  → 西蒙·切克／米哈伊尔·拉内科夫      源×2     译×2    
+     General Maloff / Prince Hazall → 马洛夫将军／哈扎利亚科夫亲王／卡韦尔达夫 源×3     译×3    
+     Mirtowsky                      → 米尔托夫斯基               源×1     译×1    
+     Svardo                         → 斯瓦尔多                 源×1     译×1     残留「格龙多维奇号」×3
+     Corday                         → 科黛                   源×1     译×1    
+     the Red Hundred                → 红色百人团（the Reds＝赤色分子） 源×0     译×0     ★源0次(幽灵?)
+     Inner Council / inner committe → 核心委员会                源×10    译×11   
+     the Four Just Men              → 四义人                  源×0     译×0     ★源0次(幽灵?)
+     the Council of Justice         → 正义议会                 源×0     译×0     ★源0次(幽灵?)
+     The Guild                      → 公会                   源×0     译×0     ★源0次(幽灵?)
+     Inner Code                     → 内部密典                 源×1     译×1    
+     Red Bean（红豆密令）                 → 红豆／黑豆（生死暗号）          源×8     译×13   
+     Russian Sailors' Home          → 俄国水手之家               源×2     译×2    
+     Friends of the People          → 人民之友                 源×1     译×1    
+     New Presbyterian Church        → 新长老会                 源×1     译×1    
+     the Megaphone                  → 《扩音器报》；Megaphone Hou 源×0     译×0     ★源0次(幽灵?)
+     Russkoye Znamźa                → 《俄国旗帜报》              源×1     译×1    
+     Racing Calendar                → 《赛马年鉴》               源×1     译×1    
+     Telephone Tragedy              → 电话惨案                 源×1     译×1    
+     Bradshaw                       → 《布拉德肖指南》             源×3     译×1     落位偏低 1/3
+     Bank of England                → 英格兰银行（the Bank＝银行）   源×2     译×2    
+     Home Office                    → 内政部                  源×0     译×0     ★源0次(幽灵?)
+     *Lucus Woerhmann* / *Grondovit → “卢库斯·沃尔曼号”／“格龙多维奇号”（ 源×5     译×1     落位偏低 1/5
+     Hotel Larboune (Red Room)      → 拉本旅馆（红厅）             源×1     译×1    
+     fortress of St. Peter and Paul → 圣彼得保罗要塞              源×1     译×1    
+     Princess Revolutionary / Princ → 革命公主／美丽公主            源×6     译×5    
+     *Venenum in auro bibitur*      → 保留拉丁原文（毒药盛于金杯而饮）     源×1     译×0     ★译0次(未落位?)
+     Middlesex Street               → 米德尔塞克斯街              源×5     译×5    
+     Phoenix Hall                   → 菲尼克斯厅                源×1     译×1    
+     Aldgate / Aldgate Station      → 奥德门／奥德门车站            源×3     译×3    
+     Newgate Street / Oxford Street → 纽盖特街／牛津街             源×1     译×1    
+     East Street                    → 东街                   源×1     译×1    
+     Walworth / Blue Bob            → 沃尔沃思／“蓝鲍勃”酒馆         源×3     译×2    
+     Fleet Street                   → 舰队街                  源×1     译×1    
+     King's Cross / Reggiori's      → 国王十字／雷乔里餐馆           源×2     译×2    
+     Piccadilly (Circus)            → 皮卡迪利（圆场）             源×3     译×3    
+     Half Moon Street / Berkeley Sq → 半月街／伯克利广场            源×2     译×2    
+     Bloomsbury                     → 布卢姆斯伯里               源×3     译×3    
+     Presley Street                 → 普雷斯利街                源×0     译×0     ★源0次(幽灵?)
+     Leicester Square / Gravesend   → 莱斯特广场／格雷夫森德          源×2     译×2    
+     Thames Embankment              → 泰晤士河堤                源×1     译×1    
+     Baden / Frieburg / Karlsruhe / → 巴登／弗赖堡／卡尔斯鲁厄／曼海姆     源×6     译×6    
+     Vitebsk / Odessa / Moscow / Pe → 维捷布斯克／敖德萨／莫斯科／彼得格勒   源×2     译×3    
+     Budapest                       → 布达佩斯                 源×1     译×1    
+     Gratz / Buda-Gratz             → 格拉茨／布达-格拉茨           源×2     译×2    
+     Birmingham / Bordeaux / Naples → 伯明翰／波尔多／那不勒斯         源×2     译×2    
+     Uganda / Brindisi / Suez       → 乌干达／布林迪西／苏伊士         源×5     译×5    
+     Newmarket Heath                → 纽马基特荒原               源×1     译×1    
+     Hamburg-Altoona                → 汉堡-阿尔托纳              源×1     译×1    
+     Bukarest                       → 布加勒斯特                源×1     译×1    
+     Raz (Transylvania)             → 拉兹（特兰西瓦尼亚）           源×1     译×1    
+     Chitral / Sudan Campaigns      → 吉德拉尔／苏丹战役            源×2     译×2    
+====================================================================================================

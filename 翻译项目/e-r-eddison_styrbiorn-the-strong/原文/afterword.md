@@ -1,0 +1,7 @@
+## Note
+
+Styrbiorn fell in 983. In England at that time Ethelred the Unready was King, and the last of the Carolingians in France. Otto II sat on the throne of the Caesars. John Zimisces was Emperor in Byzantium, or (as they called it in the North) King of the Greeks in Micklegarth. Iceland, that new republic of aristocrats founded from Norway by men who could not abide to be under the strong hand of King Harald Hairfair, had just passed her centenary. The great Earl Hakon, called by some the Mighty but by some the Ill, ruled like a King in Norway. Only in Denmark, under Harald Gormson, had Christianity as yet any sure foothold in the North.
+
+Except a few very minor characters all the persons mentioned in this story are historical, or at least of ancient tradition. So too are the main facts, which may be found by the curious or the learned in the brief record entitled “Páttr Styrbjarnar Svíakappa,” printed in the *Lives of the Kings* (Fornmannasögur, Vol. V, pp. 245﻿–﻿51: Copenhagen, 1830). One reservation must be made from this statement: Styrbiorn’s relations with Sigrid the Haughty have no historical basis save that they were suggested by what is known of the later career of that fatal Queen.
+
+The verses are translations. Those in Chapters V and IX are rendered nearly line for line and word for word, and in an alliterative measure somewhat resembling the original, out of the Elder Edda.

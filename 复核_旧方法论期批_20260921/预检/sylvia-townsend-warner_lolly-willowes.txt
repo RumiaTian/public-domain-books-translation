@@ -1,0 +1,69 @@
+ (3 files)
+  块: O=99 C=99 OK | 段: EN=656 CN=656 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: 正文仅 i/ii/iii 三个大文件（最大 110KB），各部按通用翻译引擎第七节分段；单一叙事弧但篇幅与文件结构不宜连续模式，走委派并强调术语与人物一致性。 /  / ## 篇目清单 /  / 由 `translation_queue.csv` 管理（3 篇，约 286KB）。
+  -- 术语表硬约束行 63 条:
+     Laura Willowes                 → 劳拉·威洛斯               源×2     译×2    
+     Lolly / Aunt Lolly / Auntie Lo → 洛莉 / 洛莉姑姑            源×65    译×64   
+     Henry                          → 亨利                   源×124   译×124  
+     Caroline                       → 卡罗琳                  源×127   译×126  
+     James                          → 詹姆斯                  源×28    译×28   
+     Sibyl (Mauleverer)             → 西比尔（·莫尔弗勒）           源×36    译×36   
+     Everard                        → 埃弗拉德                 源×44    译×45   
+     Titus                          → 泰特斯                  源×137   译×138  
+     Fancy                          → 范西                   源×35    译×27   
+     Marion                         → 玛丽昂                  源×15    译×15   
+     Willowes                       → 威洛斯                  源×82    译×93   
+     Lady Place                     → 淑女居                  源×28    译×29   
+     Apsley Terrace                 → 阿普斯利台                源×11    译×11   
+     East Bingham                   → 东宾厄姆                 源×3     译×3    
+     Hampstead                      → 汉普斯特德                源×5     译×5    
+     Great Mop                      → 大莫普                  源×53    译×54   
+     Ratafee                        → 拉塔菲                  源×5     译×5    
+     Emma / Aunt Emmy               → 埃玛 / 埃米姑婆            源×11    译×11   
+     Salome                         → 莎乐美                  源×9     译×9    
+     Frances D'Urfey                → 弗朗西丝·德菲              源×1     译×1    
+     Owen Wolf-Saunders             → 欧文·沃尔夫-桑德斯           源×1     译×1    
+     Kit Bendigo                    → 基特·本迪戈               源×3     译×3    
+     Jemima / Rosalind              → 杰迈玛 / 罗莎琳德           源×5     译×5    
+     Satan                          → 撒旦                   源×26    译×30   
+     Devil                          → 魔鬼                   源×29    译×30   
+     Mrs. Bonnet                    → 博内特太太                源×3     译×3    
+     Nannie (Quantrell)             → 南妮（·匡特雷尔）            源×10    译×10   
+     Brewer                         → 布鲁尔                  源×3     译×3    
+     Mr. Arbuthnot                  → 阿巴思诺特先生              源×8     译×8    
+     Mrs. Dymond                    → 戴蒙德太太                源×1     译×1    
+     Mr. Warbury                    → 沃伯里先生                源×1     译×1    
+     Miss Taylor                    → 泰勒小姐                 源×2     译×2    
+     Mme. Brevet                    → 布雷维夫人                源×1     译×1    
+     Miss Parley                    → 帕利小姐                 源×1     译×1    
+     Miss Boddle                    → 博德尔小姐                源×2     译×2    
+     Lady Ross-Price                → 罗斯-普莱斯夫人             源×1     译×1    
+     mugwort                        → 艾草                   源×7     译×8    
+     nettles                        → 荨麻                   源×4     译×4    
+     Mrs. Leak                      → 利克太太                 源×77    译×75   
+     Mr. Saunter                    → 索恩特先生                源×35    译×36   
+     Vinegar (Tom)                  → 醋精（汤姆）               源×13    译×13   
+     Pandora Williams               → 潘多拉·威廉斯              源×4     译×3    
+     Fuseli                         → 富塞利                  源×11    译×11   
+     The Chilterns                  → 奇尔特恩丘陵               源×8     译×5    
+     Wickendon                      → 威肯登                  源×5     译×5    
+     Barleighs                      → 巴利斯                  源×6     译×6    
+     Cubbey Ridge                   → 卡比岭                  源×2     译×2    
+     The Reason Why                 → 「缘由」客栈               源×3     译×0     ★译0次(未落位?)
+     Folly Wood                     → 愚林                   源×4     译×4    
+     Maulgrave Folly                → 莫尔格雷夫愚楼              源×2     译×3    
+     Lazzard Court                  → 拉扎德庄园                源×7     译×7    
+     Misses Larpent（Minnie/Jane）    → 拉彭特家小姐（明妮/简）         源×13    译×1     落位偏低 1/13
+     Mr. Gurdon                     → 格登先生                 源×25    译×25   
+     Mr. Jones                      → 琼斯先生                 源×16    译×16   
+     Miss Carloe                    → 卡洛尔小姐                源×12    译×12   
+     Mrs. Trumpet                   → 特朗佩特太太               源×10    译×10   
+     Mrs. Garland                   → 加兰太太                 源×9     译×9    
+     Dunlop                         → 邓洛普                  源×5     译×5    
+     young Billy Thomas             → 小比利·托马斯              源×9     译×9    
+     Emily                          → 埃米莉                  源×11    译×11   
+     Mr. Bunting                    → 邦廷先生                 源×2     译×2    
+     Sprat                          → 斯普拉特                 源×2     译×2    
+     Ovaltine                       → 阿华田                  源×1     译×1    
+

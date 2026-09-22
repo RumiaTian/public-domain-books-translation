@@ -1,0 +1,57 @@
+====================================================================================================
+### noel-coward_the-vortex  (5 files)
+  块: O=301 C=301 OK | 段: EN=1618 CN=1618 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: 剧本：对白按「**人物名**：台词」块对照、舞台指示斜体保留（循 shaw/hamlin 剧本体例）。
+  -- 术语表硬约束行 50 条:
+     Preston                        → 普雷斯顿                 源×38    译×38   
+     Helen Saville                  → 海伦·萨维尔               源×3     译×2    
+     Pauncefort Quentin             → 庞斯福特·昆廷              源×3     译×2     残留「庞尼」×136
+     Pawnie                         → 庞尼                   源×136   译×136  
+     Clara Hibbert                  → 克拉拉·希伯特              源×6     译×6    
+     Florence Lancaster             → 弗洛伦斯·兰开斯特            源×2     译×2    
+     Tom Veryan                     → 汤姆·维里安               源×13    译×13   
+     Nicky Lancaster                → 尼基·兰开斯特              源×1     译×1    
+     David Lancaster                → 大卫·兰开斯特              源×2     译×2    
+     Bunty Mainwaring               → 邦蒂·曼纳林               源×5     译×5    
+     Bruce Fairlight                → 布鲁斯·费尔莱特             源×7     译×7    
+     Davis                          → 戴维斯                  源×1     译×1    
+     Barker                         → 巴克                   源×1     译×1    
+     Laura Tennant                  → 劳拉·坦南特               源×1     译×1    
+     Gregory                        → 格雷戈里                 源×4     译×4    
+     General Fenwick                → 芬威克将军                源×2     译×2    
+     John Bagot                     → 约翰·巴戈特               源×1     译×1    
+     Yvonne Mirabeau                → 伊冯娜·米拉波              源×1     译×1    
+     Inez Zulieta                   → 伊内兹·祖列塔              源×1     译×1    
+     Elsa                           → 埃尔莎                  源×3     译×3    
+     Iris                           → 艾丽斯                  源×1     译×1    
+     Bunty（称呼）                      → 邦蒂                   源×197   译×197  
+     Paris                          → 巴黎                   源×16    译×16   
+     Newcastle                      → 纽卡斯尔                 源×2     译×2    
+     Sandhurst                      → 桑德赫斯特                源×1     译×1    
+     Oxford                         → 牛津                   源×1     译×1    
+     Monte Carlo                    → 蒙特卡洛                 源×1     译×1    
+     the Embassy                    → 「大使馆」夜总会             源×4     译×1     落位偏低 1/4
+     Claridges                      → 克拉里奇                 源×1     译×1    
+     Bath Club                      → 巴斯俱乐部                源×1     译×1    
+     the Brigade                    → 近卫旅                  源×1     译×1    
+     Carbury Square                 → 卡伯里广场                源×1     译×1    
+     Parelli                        → 帕雷利                  源×1     译×1    
+     Gabriel Faure                  → 加布里埃尔·福雷             源×1     译×1    
+     Reynaldo Hahn                  → 雷纳尔多·哈恩              源×1     译×1    
+     Debussy / Ravel                → 德彪西 / 拉威尔            源×2     译×2    
+     Scriabine                      → 斯克里亚宾                源×1     译×1    
+     Patou                          → 帕图                   源×1     译×1    
+     Poiret                         → 普瓦雷                  源×1     译×1    
+     Caron                          → 卡龙                   源×1     译×1    
+     "Narcisse Noir"                → 「黑色水仙」               源×0     译×1     ★源0次(幽灵?)
+     "Cachet Faivre"                → 「费夫尔头痛片」             源×0     译×3     ★源0次(幽灵?)
+     *Tatler*                       → 《闲谈者》                源×1     译×1    
+     *Evening News*                 → 《晚间新闻》               源×1     译×1    
+     The New Elaine                 → 《新埃莱恩》               源×1     译×2    
+     Simple Faith                   → 《朴素的信仰》              源×1     译×1    
+     Rolling Stones                 → 《滚石》                 源×1     译×1    
+     Mischievous Passion            → 《淘气的激情》              源×1     译×1    
+     inferiority complex            → 自卑情结                 源×1     译×1    
+     The Vortex                     → 《旋涡》                 源×0     译×0     ★源0次(幽灵?)
+

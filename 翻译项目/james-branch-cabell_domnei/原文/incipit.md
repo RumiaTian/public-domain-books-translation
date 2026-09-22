@@ -1,0 +1,1 @@
+The romance of Lusignan of that forgotten maker in the French tongue, messire Nicolas de Caen. Here begins the tale which they of Poictesme narrate concerning dame Melicent, that was daughter to the great count Manuel.

@@ -1,0 +1,23 @@
+ (19 files)
+  块: O=226 C=226 OK | 段: EN=976 CN=989 !!差 -13
+     [不对称] chapter-10.md                                        O=7 C=7 段EN=26 段CN=27
+     [不对称] chapter-13.md                                        O=12 C=12 段EN=50 段CN=53
+     [不对称] chapter-14.md                                        O=13 C=13 段EN=50 段CN=53
+     [不对称] chapter-15.md                                        O=16 C=16 段EN=61 段CN=67
+  英文残留(剔括注) top: ei×2, rein×1, Moldi×1, mouldy×1, Jomsburg×1, msburg×1, Fyrisfield×1, Thyri×1, syrup×1
+  -- 术语表硬约束行 14 条:
+     Styrbiorn（简称 Biorn）            → 斯蒂尔比约恩／比约恩           源×559   译×679  
+     Thorgnyr the Lawman            → 松格尼尔（法律宣讲人）          源×4     译×98   
+     Jomsburg / Jomsburgers         → 约姆斯堡／约姆斯堡人           源×132   译×133  
+     Palnatoki                      → 帕尔纳托基                源×93    译×93   
+     Upsala                         → 乌普萨拉                 源×64    译×64   
+     Sigrid                         → 西格丽德                 源×61    译×61   
+     Thyri                          → 蒂丽                   源×40    译×39   
+     King Harald Gormson（Blue-tooth → 哈拉尔·戈姆松（蓝牙哈拉尔）       源×9     译×5     落位偏低 5/9
+     King Eric the Victorious       → 埃里克王（常胜王）            源×0     译×47    ★源0次(幽灵?)
+     King Olaf（the Lap-King 膝上王）    → 奥拉夫王                 源×10    译×13   
+     King Burisleif                 → 布里莱夫王                源×9     译×9    
+     Earl Wolf / Earl Hakon         → 沃尔夫伯爵／哈康伯爵           源×33    译×33   
+     Sigvaldi / Tosti / Bui / Thori → 西格瓦迪／托斯蒂／布伊／托里尔／莫尔迪  源×113   译×116  
+     Biorn Asbrandson（阔湾勇士）         → 比约恩·阿斯布兰德松           源×5     译×5    
+====================================================================================================

@@ -1,0 +1,112 @@
+====================================================================================================
+### geronimo_geronimos-story-of-his-life  (32 files)
+  块: O=423 C=423 OK | 段: EN=518 CN=527 !!差 -9
+     [不对称] 11-kas-ki-yeh.md                                     O=24 C=24 段EN=24 段CN=25
+     [不对称] 15-other-raids.md                                    O=21 C=21 段EN=21 段CN=24
+     [不对称] 16-heavy-fighting.md                                 O=8 C=8 段EN=8 段CN=9
+     [不对称] 27-unwritten-laws-of-the-apaches.md                  O=26 C=26 段EN=26 段CN=30
+  英文残留(剔括注) top: of×3, Raid×2, White×2, The×1, Revenge×1, by×1, Men×1, Mexican×1, Apache×1, Raids×1
+  项目说明备注: - 本书为口述自传：杰罗尼莫的第一人称叙述须保持质朴、庄重、句式简短的口述语气；编者 Barrett 的序言、尾注与所引官方文件（罗斯福、陆军部公函）须与口述正文区分，采用更书面的译笔，不可混同。 / - 正文中的尾注编号（如 “Usen2”）为原书脚注标记，按原文保留位置处理；endnotes.md 为全部尾注，单独成篇翻译。 / - 涉及战争、屠杀（Kas-ki-yeh 大屠杀等）的章节，语气凝重，避免润色性增删。 / - Part 标题页（the-apaches.md 等 4 个短文件）仅一行标题，按块对照正常翻译。 / - 阿帕奇语音译词首次出现用「中文（原文）」格式，后文统一用中文译法。 /  / ## 翻译启动指令（给 agent 用） /  / 当你要翻译本项目时，按顺序读取以下文件，然后翻译： /  / 1. 本文件（项目说明.md） / 2. `prompts/通用翻译引擎.md` / 3. `prompts/领域配置/历史古籍.md` / 4. `术语表.md`（本目录） / 5. 「原文/」下的源文件 /  / 翻译产出写入「译文/」对应文件，采用块对照格式。
+  -- 术语表硬约束行 101 条:
+     Geronimo                       → 杰罗尼莫                 源×110   译×108  
+     Mangus-Colorado                → 曼加斯-科罗拉多             源×23    译×24   
+     Cochise                        → 柯奇斯                  源×11    译×13   
+     Naiche                         → 纳切                   源×19    译×20   
+     Whoa                           → 沃阿                   源×13    译×13   
+     Asa Deklugie                   → 阿萨·德克卢吉              源×6     译×6    
+     Victoria                       → 维多利亚                 源×12    译×12   
+     Charlie                        → 查理                   源×1     译×2    
+     Hash-ka-ai-la                  → 哈什卡艾拉                源×1     译×1    
+     Co-si-to                       → 科西托                  源×1     译×1    
+     Co-da-hoo-yah                  → 科达胡亚                 源×1     译×1    
+     Alope                          → 阿洛佩                  源×5     译×5    
+     Porico (White Horse)           → 波里科（白马）              源×5     译×5    
+     Kayitah                        → 凯伊塔                  源×1     译×1    
+     Marteen                        → 马丁                   源×1     译×1    
+     Chihuahua（酋长）                  → 奇瓦瓦                  源×10    译×10   
+     José Maria Yaskes              → 何塞·玛丽亚·亚斯克斯          源×1     译×1    
+     Usen                           → 乌森（天神）               源×14    译×16   
+     General Miles                  → 迈尔斯将军                源×49    译×48   
+     General Crook                  → 克鲁克将军                源×13    译×12   
+     General Howard                 → 霍华德将军                源×9     译×10   
+     Captain Lawton                 → 劳顿上尉                 源×14    译×14   
+     Lieutenant Gatewood            → 盖特伍德中尉               源×2     译×2    
+     President Roosevelt            → 罗斯福总统                源×2     译×3    
+     George Wratton                 → 乔治·拉顿                源×4     译×4    
+     Lieutenant Purington           → 普林顿中尉                源×4     译×4    
+     Dr. J. M. Greenwood            → J. M. 格林伍德博士         源×2     译×2    
+     S. M. Barrett                  → S. M. 巴雷特            源×1     译×1    
+     Major Charles W. Taylor        → 查尔斯·W·泰勒少校           源×1     译×1    
+     Governor Torres                → 托雷斯州长                源×2     译×1    
+     D. S. Stanley                  → D·S·斯坦利准将            源×1     译×1    
+     Captain Crawford               → 克劳福德上尉               源×1     译×1    
+     C. McKeever                    → C·麦基弗                源×1     译×1    
+     J. D. Prewitt                  → J·D·普鲁伊特             源×1     译×1    
+     Apache(s)                      → 阿帕奇（人）               源×157   译×160  
+     Be-don-ko-he / Bedonkohe       → 贝东科黑                 源×18    译×18   
+     Chokonen (Chiricahua)          → 乔科嫩（奇里卡瓦）            源×10    译×12   
+     Chihenne / Chi-hen-ne (Ojo Cal → 奇亨内（温泉阿帕奇）           源×3     译×3    
+     Chi-e-a-hen                    → 奇埃阿亨                 源×1     译×1    
+     Nedni Apaches                  → 内德尼阿帕奇               源×12    译×7     落位偏低 7/12
+     White Mountain Apaches         → 白山阿帕奇                源×2     译×2    
+     Navajo(s)                      → 纳瓦霍（人）               源×4     译×5    
+     Mescalero                      → 梅斯卡莱罗                源×3     译×3    
+     Kiowa                          → 基奥瓦                  源×2     译×4    
+     Comanche                       → 科曼奇                  源×2     译×3    
+     Arizona                        → 亚利桑那                 源×59    译×62   
+     New Mexico                     → 新墨西哥                 源×9     译×9    
+     Old Mexico                     → 老墨西哥                 源×20    译×20   
+     Mexico                         → 墨西哥                  源×44    译×206  
+     Sonora                         → 索诺拉                  源×17    译×17   
+     Chihuahua                      → 奇瓦瓦                  源×0     译×0     ★源0次(幽灵?)
+     Casa Grande                    → 卡萨格兰德                源×14    译×13   
+     Kas-ki-yeh / Kaskiyeh          → 卡斯基耶                 源×7     译×6    
+     Gosoda                         → 戈索达                  源×2     译×2    
+     Sierra de Antunez Mountains    → 安图内斯山脉               源×5     译×5    
+     Apache Pass                    → 阿帕奇山口                源×14    译×14   
+     Fort Sill                      → 西尔堡                  源×12    译×12   
+     Fort Bowie                     → 鲍伊堡                  源×11    译×14   
+     Fort Marion                    → 马里恩堡                 源×5     译×5    
+     Fort Apache / Camp Apache      → 阿帕奇堡 / 阿帕奇营          源×4     译×5    
+     San Carlos                     → 圣卡洛斯                 源×11    译×11   
+     Sierra Madre Mountains         → 马德雷山脉                源×11    译×11   
+     Sahuripa Mountains             → 萨乌里帕山                源×2     译×0     ★译0次(未落位?)
+     Skeleton Canyon                → 骷髅峡谷                 源×12    译×12   
+     Gila River                     → 希拉河                  源×4     译×4    
+     Turkey Creek                   → 特基河                  源×1     译×1    
+     Tombstone                      → 墓碑镇                  源×5     译×5    
+     Tucson                         → 图森                   源×3     译×3    
+     Nacozari                       → 纳科萨里                 源×2     译×2    
+     Quitaco                        → 基塔科                  源×1     译×1    
+     Santa Cruz                     → 圣克鲁斯                 源×2     译×2    
+     Presidio                       → 普雷西迪奥                源×1     译×1    
+     San Antonio                    → 圣安东尼奥                源×2     译×2    
+     Texas                          → 得克萨斯                 源×2     译×2    
+     California                     → 加利福尼亚                源×2     译×2    
+     Florida                        → 佛罗里达                 源×4     译×4    
+     White Mountain Reserve         → 白山保留地                源×1     译×1    
+     Canyon of Los Embudos          → 洛斯恩布多斯峡谷             源×1     译×1    
+     San Bernardino                 → 圣贝纳迪诺                源×1     译×1    
+     Planchos                       → 普兰乔斯                 源×1     译×1    
+     Corrona Mountains              → 科罗纳山脉                源×1     译×1    
+     Buena Vista                    → 布埃纳维斯塔               源×1     译×1    
+     Magdalena                      → 马格达莱纳                源×1     译×1    
+     Fronteraz                      → 弗龙特拉斯                源×1     译×1    
+     Fort Sill Military Reservation → 西尔堡军区保留地             源×2     译×3    
+     Department of Arizona          → 亚利桑那军区               源×2     译×2    
+     Division of the Pacific        → 太平洋师                 源×2     译×2    
+     Assistant Adjutant General     → 副官长助理                源×2     译×2     残留「代理」×5
+     war bonnet                     → 战帽（羽冠）               源×2     译×2    
+     teepee                         → 梯皮帐篷                 源×13    译×9    
+     take the warpath / on the warp → 出征／在征途上              源×16    译×23   
+     medicine man                   → 巫医                   源×2     译×7    
+     Kah                            → 卡戏                   源×2     译×3    
+     council                        → 议事会                  源×22    译×22   
+     chief                          → 酋长                   源×72    译×73   
+     warrior                        → 武士                   源×36    译×119  
+     scalp-lock                     → 头皮发绺                 源×0     译×1     ★源0次(幽灵?)
+     prisoner of war                → 战俘                   源×8     译×19   
+     reservation                    → 保留地                  源×16    译×15   
+     war dance                      → 战舞                   源×3     译×3    
+     the Almighty                   → 全能的神                 源×5     译×5    
+

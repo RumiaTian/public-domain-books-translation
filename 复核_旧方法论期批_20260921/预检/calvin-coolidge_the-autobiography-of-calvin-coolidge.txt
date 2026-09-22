@@ -1,0 +1,170 @@
+ (7 files)
+  块: O=149 C=149 OK | 段: EN=510 CN=512 !!差 -2
+     [不对称] 03-the-law-and-politics.md                           O=34 C=34 段EN=100 段CN=101
+     [不对称] 04-in-national-politics.md                           O=16 C=16 段EN=51 段CN=52
+  英文残留(剔括注) top: comprehended×1
+  项目说明备注: - 章节标题格式为罗马数字 + 章名（如 "I Scenes of My Childhood"），罗马数字照搬不译，章名照译。 / - 语体基调：平实、简净、略带旧式庄严；柯立芝善用短句与格言式收束，译文忌铺陈夸饰，忌现代口语腔。 / - 政制名词按美国宪制惯译（General Court 特指马萨诸塞州议会，勿译"最高法院"）。 / - 原文件名已加 01–07 数字前缀以保证队列顺序 = 阅读顺序（罗马数字章名 natural sort 会乱序）。
+  -- 术语表硬约束行 162 条:
+     Calvin Coolidge                → 卡尔文·柯立芝              源×0     译×0     ★源0次(幽灵?) 残留「我」×1564
+     Victoria Josephine (Moore) Coo → 维多利亚·约瑟芬（摩尔）·柯立芝     源×0     译×1     ★源0次(幽灵?)
+     Colonel John C. Coolidge       → 约翰·C·柯立芝上校           源×0     译×0     ★源0次(幽灵?)
+     Captain John Coolidge          → 约翰·柯立芝上尉             源×1     译×1    
+     Abbie                          → 阿比                   源×3     译×3     残留「妹妹阿比（Abbie）」×1
+     grandfather Moor / Calvin Moor → 摩尔外祖父                源×3     译×2    
+     Grace (Goodhue) Coolidge       → 格雷斯·（古德休）·柯立芝        源×0     译×1     ★源0次(幽灵?)
+     Mrs. Don C. Pollard / Aunt Sar → 萨拉姨妈（唐·C·波拉德夫人）      源×2     译×2    
+     President (Warren G.) Harding  → （沃伦·G·）哈定总统          源×8     译×0     ★译0次(未落位?)
+     President (Woodrow) Wilson     → （伍德罗·）威尔逊总统          源×7     译×0     ★译0次(未落位?)
+     Mr. (Herbert) Hoover           → （赫伯特·）胡佛先生           源×2     译×0     ★译0次(未落位?)
+     Senator (Henry Cabot) Lodge    → （亨利·卡伯特·）洛奇参议员       源×2     译×0     ★译0次(未落位?)
+     Senator Crane                  → 克雷恩参议员               源×2     译×2    
+     Edwin U. Curtis                → 埃德温·U·柯蒂斯            源×2     译×2    
+     Hammond and Field              → 哈蒙德与菲尔德（律师事务所）       源×2     译×2    
+     Judge Henry P. Field           → 亨利·P·菲尔德法官           源×1     译×1    
+     Frank W. Stearns               → 弗兰克·W·斯特恩斯           源×1     译×1    
+     George Sherman                 → 乔治·谢尔曼               源×1     译×1    
+     Miss M. Belle Chellis          → 梅·贝尔·切利斯小姐           源×1     译×1    
+     Dr. Putney                     → 普特尼博士                源×1     译×1    
+     President Julius H. Seelye     → 朱利叶斯·H·西利校长          源×1     译×1    
+     President Merrill E. Gates     → 梅里尔·E·盖茨校长           源×1     译×1    
+     General Amherst                → 阿默斯特将军               源×1     译×1    
+     Governor McCall                → 麦考尔州长                源×2     译×2    
+     Frank O. Lowden                → 弗兰克·O·洛登             源×1     译×1    
+     General Leonard Wood           → 伦纳德·伍德将军             源×1     译×0     ★译0次(未落位?)
+     Hiram Johnson                  → 海勒姆·约翰逊              源×1     译×1    
+     Governor Morrow                → 莫罗州长                 源×1     译×1    
+     Senator Cox                    → 考克斯参议员               源×1     译×1    
+     (Charles Evans) Hughes         → 休斯                   源×3     译×3    
+     Benjamin Harrison              → 本杰明·哈里森              源×1     译×1    
+     Grover Cleveland               → 格罗弗·克利夫兰             源×1     译×1    
+     Speaker (Frederick H.) Gillett → 吉列议长                 源×2     译×2    
+     James B. Reynolds              → 詹姆斯·B·雷诺兹            源×1     译×1    
+     Judge Wallace McCamant         → 华莱士·麦卡曼特法官           源×1     译×1    
+     Dr. L. Clark Seelye            → L·克拉克·西利博士           源×1     译×1    
+     Vice President (Thomas R.) Mar → 马歇尔副总统               源×0     译×1     ★源0次(幽灵?)
+     Chief Justice White            → 首席大法官怀特              源×1     译×1    
+     Mr. (Andrew) Mellon            → （安德鲁·）梅隆先生           源×1     译×0     ★译0次(未落位?)
+     Senator (Philander C.) Knox    → （菲兰德·C·）诺克斯参议员       源×1     译×0     ★译0次(未落位?)
+     Everett Sanders                → 埃弗雷特·桑德斯             源×1     译×1    
+     Plymouth (Vermont)             → 普利茅斯（佛蒙特州）           源×7     译×7    
+     Vermont                        → 佛蒙特州                 源×19    译×10    落位偏低 10/19
+     Green Mountains                → 绿山                   源×2     译×3    
+     Black River                    → 黑河                   源×3     译×3    
+     Ottauquechee                   → 奥陶奎奇河                源×1     译×1    
+     Connecticut River              → 康涅狄格河                源×1     译×5    
+     Ludlow                         → 卢德洛                  源×4     译×4    
+     Proctorsville                  → 普罗克托斯维尔              源×1     译×1    
+     Black River Academy            → 黑河学院                 源×3     译×3    
+     St. Johnsbury Academy          → 圣约翰斯伯里学院             源×1     译×1    
+     Amherst (College)              → 阿默斯特学院               源×12    译×2     落位偏低 2/12
+     Northampton                    → 北安普顿                 源×18    译×18   
+     Boston                         → 波士顿                  源×28    译×28   
+     Worcester                      → 伍斯特                  源×1     译×1    
+     Massachusetts                  → 马萨诸塞州                源×54    译×29    落位偏低 29/54
+     Washington / White House       → 华盛顿 / 白宫             源×68    译×71   
+     Lake Champlain                 → 尚普兰湖                 源×1     译×1    
+     Fort Ticonderoga               → 提康德罗加堡               源×1     译×1    
+     Saratoga                       → 萨拉托加                 源×2     译×2    
+     Bennington Battle Monument     → 本宁顿战役纪念碑             源×1     译×1    
+     Masonic Building               → 共济会大楼                源×1     译×1    
+     General Court                  → 州议会（马萨诸塞州立法机关）       源×11    译×15    残留「最高法院」×5
+     Common Council                 → 市议会                  源×1     译×2    
+     Republican / Democratic (Party → 共和党 / 民主党            源×28    译×48   
+     Vice President                 → 副总统                  源×17    译×17   
+     Governor / Lieutenant Governor → 州长 / 副州长             源×57    译×64   
+     State House                    → 州议会大厦                源×2     译×2    
+     police strike of Boston (1919) → 波士顿警察罢工              源×1     译×1    
+     League of Nations              → 国际联盟                 源×3     译×3    
+     Treaty of Versailles           → 《凡尔赛条约》              源×1     译×1    
+     Constitution of the United Sta → 《美国宪法》               源×2     译×2    
+     章节 Roman numerals (I–VII)      → 照搬不译                 源×0     译×0     ★源0次(幽灵?)
+     美制单位（mile/acre/rod/dollar 等）   → 照搬数字，单位换算注释或按惯例译（英里/ 源×1     译×0     ★译0次(未落位?)
+     机构缩写与法规名                       → 首次意译附原文              源×0     译×0     ★源0次(幽灵?)
+     World Court                    → 世界法院                 源×1     译×1    
+     favorite sons                  → 本州宠儿                 源×1     译×1    
+     bitter-enders                  → 死硬派                  源×1     译×1    
+     Gridiron (Club) dinner         → 烤架俱乐部（Gridiron）晚宴    源×2     译×2    
+     Conference on Limitation of Ar → 军备限制会议               源×1     译×1    
+     Senator Dale                   → 戴尔参议员                源×1     译×1    
+     Dr. Jason Noble Pierce         → 贾森·诺布尔·皮尔斯博士         源×1     译×1    
+     C. Bascom Slemp                → C·巴斯康姆·斯伦普           源×1     译×1    
+     George Harvey                  → 乔治·哈维                源×1     译×1    
+     Mr. Gompers / Mr. Morrison     → 龚珀斯先生 / 莫里森先生        源×2     译×2    
+     William M. Butler              → 威廉·M·巴特勒             源×1     译×1    
+     Calvin (Jr.)                   → 小卡尔文                 源×6     译×0     ★译0次(未落位?)
+     General McCoy                  → 麦科伊将军                源×1     译×1    
+     Morrow                         → 莫罗                   源×1     译×1     残留「莫罗州长」×1
+     Stimson                        → 史汀生                  源×1     译×1    
+     Jefferson                      → 杰斐逊总统                源×6     译×2     落位偏低 2/6
+     John Marshall                  → 约翰·马歇尔               源×1     译×1    
+     Prudence Prim / Rob Roy        → 普鲁登斯·普里姆 / 罗布·罗伊     源×2     译×2    
+     Marion, Ohio                   → 马里恩（俄亥俄州）            源×2     译×1    
+     First Congregational Church    → 第一公理会教堂              源×1     译×1    
+     South Grounds                  → 南草坪                  源×4     译×4    
+     Rock Creek Park                → 石溪公园                 源×1     译×1    
+     Black Hills / Bear Butte       → 黑山 / 熊丘              源×2     译×2    
+     Nicaragua / Mexico / Philippin → 尼加拉瓜 / 墨西哥 / 菲律宾     源×6     译×6    
+     Green Room / Blue Room / East  → 绿厅 / 蓝厅 / 东厅         源×6     译×6    
+     Social Bureau                  → 社交局                  源×1     译×1    
+     Shipping Board                 → 航运局                  源×1     译×1    
+     Veterans' Bureau               → 退伍军人局                源×1     译×1    
+     Cabinet                        → 内阁                   源×20    译×21   
+     Secretary of State / State Dep → 国务卿 / 国务院            源×5     译×7    
+     Undersecretary of State        → 副国务卿                 源×1     译×1    
+     Secretary to the President     → 总统秘书                 源×2     译×3    
+     Governor's Council             → 州长委员会                源×2     译×1    
+     notary public                  → 公证人                  源×2     译×2    
+     Marine Band                    → 海军陆战队军乐团             源×1     译×1    
+     American Federation of Labor   → 美国劳工联合会              源×3     译×3    
+     Interstate Commerce Commission → 州际商务委员会              源×1     译×1    
+     Federal Trade Commission       → 联邦贸易委员会              源×1     译×1    
+     Louisiana Purchase             → 路易斯安那购地              源×1     译×1    
+     Annual Message / Message to th → 年度咨文 / 致国会咨文         源×5     译×3    
+     secret service men             → 特勤局特工                源×2     译×1    
+     checks and balances            → 分权制衡                 源×1     译×1    
+     Mistress of the White House    → 白宫女主人                源×4     译×4    
+     John Calvin Coolidge           → 约翰·卡尔文·柯立芝           源×1     译×1    
+     Calvin Galusha Coolidge        → 卡尔文·加卢沙·柯立芝          源×1     译×1    
+     Sarah Almeda Brewer            → 萨拉·阿尔梅达·布鲁尔          源×1     译×1    
+     Hiram Dunlap Moor              → 海勒姆·邓拉普·摩尔           源×1     译×1     残留「摩尔外祖父」×2
+     Abigail (Franklin) Moor        → 阿比盖尔（富兰克林）·摩尔        源×1     译×1    
+     Carrie A. Brown                → 卡丽·A·布朗              源×1     译×1    
+     John G. Sargent                → 约翰·G·萨金特             源×1     译×1    
+     General Ethan Allen / Admiral  → 伊桑·艾伦将军 / 乔治·杜威海军上将  源×2     译×2    
+     Professor William S. Tyler     → 威廉·S·泰勒教授            源×1     译×1    
+     George D. Olds                 → 乔治·D·奥尔兹             源×1     译×1    
+     Professor Anson D. Morse       → 安森·D·莫尔斯教授           源×1     译×1    
+     Professor Henry A. Frink       → 亨利·A·弗林克教授           源×1     译×1    
+     Professor John F. Genung       → 约翰·F·杰农教授            源×1     译×1    
+     Charles E. Garman              → 查尔斯·E·加曼             源×1     译×1    
+     William P. Dillingham          → 威廉·P·迪林厄姆            源×1     译×1    
+     John C. Hammond                → 约翰·C·哈蒙德             源×1     译×1    
+     Judge William G. Bassett / Jud → 威廉·G·巴塞特法官 / 威廉·P·斯特 源×2     译×2    
+     Jonathan Edwards               → 乔纳森·爱德华兹             源×1     译×1    
+     Henry Ward Beecher             → 亨利·沃德·比彻             源×1     译×1    
+     Bryan / McKinley               → 布赖恩 / 麦金利            源×3     译×3    
+     The Notch / Plymouth Notch     → 山口 / 普利茅斯山口          源×3     译×3    
+     Charlestown (NH)               → 查尔斯敦（新罕布什尔州）         源×1     译×1    
+     Otter Creek                    → 奥特溪                  源×1     译×1    
+     St. Lawrence River             → 圣劳伦斯河                源×1     译×1    
+     Woodstock                      → 伍德斯托克                源×1     译×1    
+     Montpelier                     → 蒙彼利埃                 源×4     译×4    
+     Westfield                      → 西菲尔德                 源×1     译×1    
+     Mount Warner / Holyoke Range / → 华纳山 / 霍利奥克岭 / 汉普夏群山  源×3     译×3    
+     Kimball Union Academy          → 金博尔联合学院              源×1     译×1    
+     Williams (College) / Dartmouth → 威廉姆斯学院 / 达特茅斯学院      源×4     译×2     落位偏低 2/4
+     Pratt Field / Pratt Gymnasium  → 普拉特运动场 / 普拉特体育馆      源×2     译×2    
+     Sons of the American Revolutio → 美国革命之子会              源×1     译×1     残留「美国革命女儿会」×2
+     Justice of the Peace           → 治安法官                 源×1     译×4    
+     Constable / Deputy Sheriff     → 警役 / 副治安官            源×2     译×2    
+     Probate Court                  → 遗嘱检验法院               源×1     译×1    
+     Freemen’s meeting              → 自由人大会                源×1     译×1    
+     Moderator                      → 会议主持人                源×1     译×1    
+     Lime Kiln lot                  → 石灰窑地块                源×1     译×1    
+     Demosthenes’ “On the Crown”    → 狄摩西尼《金冠辞》            源×1     译×1    
+     Kent’s Commentaries            → 肯特《美国法释义》            源×1     译×0     ★译0次(未落位?)
+     free silver campaign           → 自由铸银运动               源×1     译×1    
+     gold standard                  → 金本位                  源×1     译×1    
+     cum laude                      → 优等                   源×1     译×1    
+     Vermont backwoodsman           → 佛蒙特山野人               源×2     译×2    
+====================================================================================================

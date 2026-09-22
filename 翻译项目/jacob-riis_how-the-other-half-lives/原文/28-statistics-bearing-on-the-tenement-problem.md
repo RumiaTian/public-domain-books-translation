@@ -1,0 +1,10 @@
+## Appendix Statistics Bearing on the Tenement Problem
+Statistics of population were left out of the text in the hope that the results of this year’s census would be available as a basis for calculation before the book went to press. They are now at hand, but their correctness is disputed. The statisticians of the Health Department claim that New York’s population has been underestimated a hundred thousand at least, and they appear to have the best of the argument. A recount is called for, and the printer will not wait. Such statistics as follow have been based on the Health Department estimates, except where the census source is given. The extent of the quarrel of official figures may be judged from this one fact, that the ordinarily conservative and careful calculations of the Sanitary Bureau make the death-rate of New York, in 1889, 25.19 for the thousand of a population of 1,575,073, while the census would make it 26.76 in a population of 1,482,273.
+For every person who dies there are always two disabled by illness, so that there was a regular average of 79,358 New Yorkers on the sick-list at any moment last year. It is usual to count 28 cases of sickness the year round for every death, and this would give a total for the year 1889 of 1,111,082 of illness of all sorts.
+This is exclusive of deaths in institutions, properly referable to the tenements in most cases. The adult death-rate is found to decrease in the larger tenements of newer construction. The child mortality increases, reaching 114.04 percent of 1,000 living in houses containing between 60 and 80 tenants. From this point it decreases with the adult death-rate.
+Police Statistics
+Immigration
+Tenements
+Corner tenements may cover all of the lot, except 4 feet at the rear. Tenements in the block may only cover seventy-eight percent of the lot. They must have a rear yard 10 feet wide, and air-shafts or open courts equal to twelve percent of the lot.
+Tenements or apartment houses must not be built over 70 feet high in streets 60 feet wide.
+Tenements or apartment houses must not be built over 80 feet high in streets wider than 60 feet.

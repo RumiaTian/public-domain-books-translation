@@ -1,0 +1,219 @@
+ (9 files)
+  块: O=371 C=371 OK | 段: EN=424 CN=424 OK
+  英文残留(剔括注) top: de×6, la×5, du×2, Il×2, vache×2, enrag×2, Pro×2, pas×2, domo×2, vous×2
+  项目说明备注: - 章标题为罗马数字（`## I` … `## VII`）与序名（Author's Note / A Familiar Preface），罗马数字照搬不译，标题合并格式「英文 / 中文」照通用引擎第六节。 / - 文中穿插大量法语、意大利语、德语、拉丁语短语及法文书名：**保留原文（斜体照排），首次出现括注中译**，详见术语表「外语短语策略」。 / - 康拉德句式绵长、插入语层叠、语调反讽；译文应保住长句的从容顿挫，忌拆碎成短句、忌现代口语腔。 / - 船名用「某某号」加引文内斜体规则处理（如 *Adowa* →「*阿多瓦号*」），全表见术语表。 / - 原文件名已加 01–09 数字前缀以保证队列顺序 = 阅读顺序。 / - 署名「J. C.」照搬不译。
+  -- 术语表硬约束行 213 条:
+     Joseph Conrad / “I”            → 约瑟夫·康拉德              源×1     译×1     残留「我」×1731
+     Mr. Nicholas / Uncle Nicholas  → 尼古拉斯·B 舅公            源×37    译×32   
+     my uncle / my uncle and guardi → 舅舅（兼监护人）             源×11    译×13   
+     my mother                      → 母亲                   源×12    译×23   
+     my father                      → 父亲                   源×13    译×20   
+     my grandmother                 → 外祖母                  源×5     译×6    
+     Sir Hugh Clifford              → 休·克利福德爵士             源×2     译×2    
+     Mr. Cunninghame Graham         → 坎宁安·格雷厄姆先生           源×1     译×1    
+     Frank Swettenham               → 弗兰克·斯威特纳姆            源×1     译×1    
+     Captain Froud                  → 弗劳德船长                源×4     译×4    
+     Mr. Paramor                    → 帕拉莫尔先生               源×2     译×2    
+     the young Cambridge man        → 剑桥青年                 源×1     译×1     残留「托伦斯号」×2
+     Madame Delestang               → 德莱斯唐夫人               源×3     译×5    
+     Baptistin Solary / my friend S → 索拉里（巴蒂斯坦）            源×1     译×4    
+     Marshal Marmont                → 马尔蒙元帅                源×1     译×1     残留「传令军官」×1
+     Napoleon / the Great Napoleon  → 拿破仑                  源×11    译×14   
+     Flaubert                       → 福楼拜                  源×1     译×1    
+     Mr. Kipling                    → 吉卜林先生                源×1     译×1    
+     Victor Hugo                    → 维克多·雨果               源×3     译×3    
+     Anatole France                 → 阿纳托尔·法朗士             源×3     译×3    
+     Jean Jacques Rousseau          → 卢梭                   源×2     译×2    
+     Marcus Aurelius                → 马可·奥勒留               源×1     译×1    
+     the Abbé Sieyès                → 西哀士神父                源×1     译×1    
+     Mrs. Nickleby                  → 尼克贝太太                源×1     译×1    
+     Lady Dedlock / Sir Leicester   → 德德洛克夫人 / 莱斯特爵士       源×3     译×3    
+     Don Quixote                    → 堂吉诃德                 源×3     译×3    
+     Gil Blas                       → 《吉尔·布拉斯》             源×2     译×2    
+     *Adowa*                        → 「阿多瓦号」               源×1     译×1    
+     *Torrens*                      → 「托伦斯号」               源×2     译×2    
+     *James Westoll*                → 「詹姆斯·韦斯托尔号」          源×3     译×1     落位偏低 1/3
+     *Mavis*                        → 「梅维斯号」               源×1     译×1    
+     Flying Dutchman                → 「漂泊的荷兰人」             源×1     译×1    
+     Ukraine                        → 乌克兰                  源×3     译×4    
+     Krakow                         → 克拉科夫                 源×3     译×3    
+     Warsaw                         → 华沙                   源×4     译×4    
+     Kiev                           → 基辅                   源×3     译×3    
+     Rouen                          → 鲁昂                   源×6     译×6     残留「阿多瓦号」×1
+     Havre / the Havre roads        → 勒阿弗尔（外港海面）           源×1     译×1    
+     Marseilles                     → 马赛                   源×3     译×4    
+     the Prado                      → 普拉多大道                源×1     译×1    
+     the Jolliette breakwater       → 若利埃特防波堤              源×1     译×1    
+     Fenchurch Street               → 芬乔奇街                 源×2     译×2    
+     Tower Hill                     → 塔丘                   源×2     译×3    
+     St. Katherine's Dockhouse      → 圣凯瑟琳船坞事务所            源×1     译×1    
+     Victoria Dock                  → 维多利亚船坞               源×3     译×3    
+     Bessborough Gardens            → 贝斯伯勒花园               源×4     译×4    
+     Furca Pass                     → 富尔卡山口                源×7     译×7    
+     Rhône Glacier / Häsli Valley / → 罗讷冰川 / 黑斯利河谷 / 芬斯特拉阿 源×3     译×3    
+     St. Helena                     → 圣赫勒拿岛                源×1     译×1    
+     Celebes                        → 西里伯斯（今苏拉威西）          源×2     译×2    
+     Borneo                         → 婆罗洲                  源×0     译×1     ★源0次(幽灵?)
+     Malay Archipelago / Malay Isle → 马来群岛                 源×2     译×3    
+     Adelaide                       → 阿德莱德                 源×1     译×1    
+     Suez Canal                     → 苏伊士运河                源×1     译×1    
+     British Merchant Service       → 英国商船队                源×2     译×2    
+     (London) Shipmasters' Society  → （伦敦）船长协会             源×3     译×0     ★译0次(未落位?)
+     the Board of Trade / Marine De → 贸易部 / 海务司            源×4     译×4    
+     the Legion of Honour           → 荣誉军团勋章               源×2     译×1    
+     Virtuti Militari               → Virtuti Militari（波兰军 源×1     译×1    
+     Franco-Canadian Transport Comp → 法加轮运公司               源×2     译×4    
+     the Third Company (pilots)     → 第三引水公司               源×2     译×3    
+     the Red Ensign                 → 红船旗（英国商船旗）           源×2     译×2    
+     Polish Army / French Army      → 波兰军 / 法军             源×8     译×12   
+     Russian Empire                 → 俄罗斯帝国                源×2     译×2    
+     *Almayer's Folly*              → 《阿尔迈耶的愚蠢》            源×17    译×17   
+     An Outpost of Progress         → 《进步的前哨》              源×1     译×1    
+     *The Nigger of the Narcissus*  → 《「水仙号」上的黑水手》         源×1     译×1    
+     *The Secret Agent*             → 《间谍》                 源×1     译×1    
+     *Nostromo*                     → 《诺斯特罗莫》              源×1     译×1    
+     *The Mirror of the Sea*        → 《大海如镜》               源×2     译×2    
+     *Nicholas Nickleby*            → 《尼古拉斯·尼克贝》           源×1     译×1    
+     *Two Gentlemen of Verona*      → 《维洛那二绅士》             源×2     译×2    
+     *Toilers of the Sea*           → 《海上劳工》               源×1     译×1    
+     *The Red Badge of Courage*     → 《红色英勇勋章》             源×1     译×1    
+     *Imitation of Christ*          → 《效法基督》               源×1     译×1    
+     *North American Review*        → 《北美评论》               源×1     译×1    
+     *Une campagne de trois ans dan → 「Une campagne de tro 源×1     译×0     ★译0次(未落位?)
+     Captain C——                    → C——船长                源×0     译×6     ★源0次(幽灵?)
+     Almayer                        → 阿尔迈耶                 源×60    译×60   
+     Tuan (Almayer)                 → 图安·阿尔迈耶（老爷）          源×1     译×1    
+     Anthony Trollope               → 安东尼·特罗洛普             源×1     译×1    
+     Dickens / Walter Scott / Thack → 狄更斯 / 司各特 / 萨克雷      源×4     译×4    
+     Mrs. Nickleby / Ralph / Crumml → 尼克贝太太 / 拉尔夫 / 克拉姆尔斯一 源×3     译×3    
+     Mr. Gladstone                  → 格拉德斯通先生              源×1     译×1    
+     Ferdinand Brunetière           → 费迪南·布吕内蒂埃            源×1     译×1    
+     M. Gustave Kahn                → 居斯塔夫·卡恩先生            源×1     译×1    
+     Charles Gould                  → 查尔斯·古尔德              源×1     译×1    
+     Capataz de Cargadores          → 装卸工首领（Capataz de Car 源×1     译×1    
+     Dr. Monygham                   → 莫尼厄姆医生               源×1     译×1    
+     Linda Viola                    → 琳达·维奥拉               源×1     译×1    
+     the general's daughter(s)      → 将军家的女儿（们）            源×6     译×3     落位偏低 3/6
+     Stephen Crane                  → 斯蒂芬·克莱恩              源×1     译×1    
+     Abdullah bin Selim             → 阿卜杜拉·本·塞利姆           源×1     译×1    
+     Jurumudi Itam                  → 尤鲁穆迪·伊塔姆             源×1     译×1    
+     Ah Sing                        → 阿盛                   源×1     译×1    
+     Madame Delestang 的丈夫（银行家）      → 德莱斯唐先生               源×0     译×0     ★源0次(幽灵?)
+     Henri Quatre / Louis Quatorze  → 亨利四世 / 路易十四 / 科尔贝先生  源×3     译×3    
+     Giuliano de Medici / Michelang → 朱利亚诺·德·梅迪奇 / 米开朗琪罗   源×1     译×2    
+     serang                         → 水手长                  源×5     译×5    
+     kalashes                       → 土著水手（kalashes）       源×5     译×5    
+     quartermaster                  → 舵工/舵手                源×3     译×4    
+     chief/second engineer          → 轮机长 / 二管轮            源×7     译×4     落位偏低 4/7
+     the Corporation/Syndic of the  → 引水员公司 / 引水员公会会长      源×2     译×1    
+     master-stevedores / caulkers / → 装卸承包商 / 捻缝匠 / 造船木匠   源×4     译×3    
+     Pulo Laut                      → 普劳劳特                 源×1     译×1    
+     Dongola                        → 栋戈拉                  源×2     译×2    
+     Rajah                          → 拉者                   源×3     译×3    
+     Singapore / Samarang / Falmout → 新加坡 / 三宝垄 / 法尔茅斯 / 巴 源×5     译×5    
+     Costaguana / the Placid Gulf   → 科斯塔瓜纳 / 普拉西多湾        源×3     译×3    
+     Pola (Naval School)            → 普拉（海军学校）             源×1     译×1    
+     Vienna / Zurich / Lyons        → 维也纳 / 苏黎世 / 里昂       源×8     译×8    
+     Planier lighthouse             → 普拉尼耶灯塔               源×1     译×1    
+     Château d'If                   → 伊夫堡                  源×1     译×2    
+     the Gulf of Bengal             → 孟加拉湾                 源×1     译×1    
+     the North Sea / Dutch coast    → 北海 / 荷兰海岸            源×2     译×2    
+     the Crimean War / the Mutiny y → 克里米亚战争 / 兵变之年（一八五七）  源×2     译×1    
+     guttah                         → 古塔胶                  源×1     译×1    
+     ecus                           → 埃居                   源×2     译×2    
+     bouillabaisse                  → 马赛鱼汤                 源×1     译×1    
+     Ollendorff / Ollendorffian     → 奥伦多夫 / 奥伦多夫式         源×4     译×4    
+     Elysian Fields / Elysian Abode → 极乐原野 / 亡灵的极乐居所       源×2     译×2    
+     the Walrus and the Carpenter（诗 → 海象与木匠                源×0     译×0     ★源0次(幽灵?)
+     three-card-trick man           → 玩三张牌戏法的              源×1     译×1    
+     *Bleak House*                  → 《荒凉山庄》               源×1     译×1    
+     *Émile*                        → 《爱弥儿》                源×1     译×1    
+     “The Open Boat”                → 《海上扁舟》               源×0     译×1     ★源0次(幽灵?)
+     *un puissant rêveur* / *tant q → 保留原文斜体，首次括注中译        源×10    译×0     ★译0次(未落位?)
+     master's certificate / Master  → 船长证书 / 考取船长（资格）      源×28    译×1     落位偏低 1/28
+     strictly sober                 → 确乎戒饮                 源×1     译×1    
+     Alfred de Vigny                → 阿尔弗雷德·德·维尼           源×1     译×1    
+     Archimedes                     → 阿基米德                 源×1     译×1     残留「阿基米德的杠杆」×1
+     Novalis                        → 诺瓦利斯                 源×1     译×1    
+     Jacques                        → 雅克                   源×6     译×8    
+     Young Cole                     → 科尔（年轻的科尔）            源×1     译×1     残留「阿多瓦号」×1
+     Joseph                         → 约瑟夫                  源×4     译×4    
+     Bovary / Père Renault          → 包法利 / 雷诺老爹           源×2     译×1    
+     Abdullah                       → 阿卜杜拉                 源×1     译×1     残留「阿卜杜拉·本·塞利姆」×1
+     Nigeria                        → 尼日利亚                 源×1     译×1    
+     St. Petersburg                 → 圣彼得堡                 源×1     译×1    
+     Geneva / Champel               → 日内瓦 / 尚佩尔            源×2     译×2    
+     Berlin / Friedrichstrasse      → 柏林 / 腓特烈大街           源×2     译×2    
+     Pimlico / Belgravia            → 皮姆利科 / 贝尔格莱维亚        源×2     译×2    
+     Montreal / Quebec              → 蒙特利尔 / 魁北克           源×2     译×2    
+     Congo / Stanley Falls / Kincha → 刚果 / 斯坦利瀑布 / 金沙萨 / 利 源×6     译×6    
+     the Government of Kiev         → 基辅省                  源×1     译×1    
+     the Western Ocean              → 西大洋                  源×2     译×6    
+     Cook's tourists                → 库克旅行社                源×1     译×1    
+     “Youth” / “Typhoon”            → 《青春》 / 《台风》          源×2     译×2    
+     *Chatterton*                   → 《夏特顿》                源×1     译×1    
+     Gibbon's *History*             → 吉本的《历史》              源×1     译×0     ★译0次(未落位?)
+     *Lucia di Lammermoor*          → 《拉美莫尔的露琪亚》           源×1     译×1    
+     the Pantai band                → 帕泰帮                  源×0     译×0     ★源0次(幽灵?)
+     Sclavonism                     → 斯拉夫主义                源×1     译×1    
+     Russianism                     → 俄罗斯主义                源×1     译×1    
+     the secret National Committee  → 秘密国家委员会              源×1     译×1    
+     the “Highest Grace”            → 「最高恩典」               源×1     译×1    
+     a cask of choice Madeira       → 一桶上选的马德拉（酒）          源×1     译×1    
+     Gladstone bag                  → 格拉德斯通旅行袋             源×1     译×1     残留「格拉德斯通先生」×1
+     Countess Tekla Potocka         → 泰克拉·波托茨卡伯爵夫人         源×1     译×1    
+     old Valery                     → 瓦莱里                  源×1     译×3    
+     Mr. T. B.                      → T. B. 先生             源×1     译×1    
+     my tutor                       → 家庭教师                 源×5     译×6     残留「我」×1731
+     the ingenious hidalgo / the su → 奇情异想的乡绅／崇高的骑士        源×3     译×2    
+     Brandabarbaran, Lord of Arabia → 阿拉伯的君主布兰达巴尔巴兰        源×1     译×1    
+     old King Louis-Philippe        → 老王路易-菲利普             源×1     译×1     残留「人民是永远不会错的」×1
+     Prince Joseph Poniatowski      → 约瑟夫·波尼亚托夫斯基亲王        源×1     译×1    
+     Achilles                       → 阿喀琉斯                 源×1     译×1    
+     Alexander I, Autocrat of all t → 全俄专制君主亚历山大一世         源×1     译×1    
+     Grand Duke Constantine (Pavlov → 康斯坦丁·帕夫洛维奇大公         源×1     译×1    
+     the military commandant        → 卫戍司令官                源×1     译×1     残留「尼古拉·斯捷潘诺维奇」×1
+     Nicholas Stepanovitch          → 尼古拉·斯捷潘诺维奇           源×1     译×1    
+     my paternal grandfather        → 祖父                   源×2     译×10   
+     the police-captain of the dist → 县警察局长                源×2     译×0     ★译0次(未落位?)
+     Bezak                          → 贝扎克                  源×1     译×1     残留「须不折不扣执行」×1
+     Mlle. Durand                   → 迪朗小姐                 源×1     译×1     残留「我」×1731
+     Francesca                      → 弗兰切斯卡                源×1     译×1    
+     the patron (of the Third Compa → 艇长（patron）           源×5     译×4    
+     the grandfather / the Ancient  → 老爷爷／老前辈              源×2     译×5    
+     Mr. W. W. Jacobs               → W. W. 雅各布斯先生         源×1     译×1    
+     Oratow                         → 奥拉图夫                 源×1     译×1    
+     Vienna / the Upper Danube / Mu → 维也纳／多瑙河上游／慕尼黑／莱茵瀑布／博 源×4     译×4    
+     the Valley of the Reuss / the  → 罗伊斯河谷／卢塞恩湖／弗吕伦／霍斯彭塔尔 源×5     译×6    
+     Venice / Lido                  → 威尼斯／利多               源×2     译×2    
+     Calcutta                       → 加尔各答                 源×1     译×1     残留「我」×1731
+     St. Gothard Tunnel             → 圣哥达隧道                源×2     译×2    
+     Friedland / Bar-le-Duc         → 弗里德兰／巴尔勒迪克           源×3     译×3    
+     Leipzig / the river Elster     → 莱比锡／埃尔斯特河            源×2     译×2    
+     Galicia / Austrian Galicia     → 加利西亚／奥地利加利西亚         源×3     译×3    
+     Austerlitz                     → 奥斯特里茨                源×1     译×1    
+     Carlsbad                       → 卡尔斯巴德                源×1     译×1    
+     the Dnieper / Astrakhan / Grea → 第聂伯河／阿斯特拉罕／大俄罗斯      源×3     译×3    
+     the Hundred Days               → 百日王朝                 源×2     译×2    
+     the remount establishment      → 马匹采办站                源×2     译×2    
+     the Marshal of the Nobility    → 贵族长                  源×1     译×1    
+     the Pilot Office               → 引水员办事处               源×1     译×1    
+     the Vieux Port / Fort St. Jean → 老港／圣让堡               源×2     译×3    
+     Monte Cristo / the Château d'I → 基督山岛／伊夫堡             源×2     译×1    
+     Toulon / Algeria / Trafalgar / → 土伦／阿尔及利亚／特拉法尔加／厄尔巴岛／ 源×6     译×6    
+     Notre Dame de la Garde         → 守护圣母教堂               源×1     译×1    
+     the Jolliette omnibus          → 若利埃特公共马车             源×0     译×0     ★源0次(幽灵?)
+     chibouk                        → 土耳其长烟斗               源×2     译×0     ★译0次(未落位?)
+     the Grand Army                 → 大军团                  源×1     译×1    
+     Mounted Rifles                 → 骑马步枪兵                源×1     译×1    
+     half-imperial                  → 半帝国金币                源×0     译×1     ★源0次(幽灵?)
+     powder-monkey                  → 火药小厮                 源×1     译×1    
+     Look out there!                → 「当心那儿！」              源×1     译×1     残留「我」×1731
+     *la vache enragée* / *pour pre → 保留斜体，首次括注（发狂的母牛／道别）  源×3     译×0     ★译0次(未落位?)
+     *Pro patria!* / *de visu*      → 保留斜体，首次括注（为了祖国！／亲见）  源×2     译×0     ★译0次(未落位?)
+     *Chevalier de la Légion d'Honn → 保留斜体，首次括注（荣誉军团骑士）    源×1     译×0     ★译0次(未落位?)
+     *unschreckbar*                 → 保留斜体，首次括注（无畏）        源×1     译×0     ★译0次(未落位?)
+     *bizarre*                      → 保留斜体，首次括注（怪模怪样）      源×3     译×0     ★译0次(未落位?)
+     *Ah! Coquin de sort!* / *Hé, l → 保留斜体，首次括注中译          源×4     译×0     ★译0次(未落位?)
+     *avant-port* / *matelot léger* → 保留斜体，首次括注（外港／二等熟练水兵／ 源×3     译×0     ★译0次(未落位?)
+====================================================================================================

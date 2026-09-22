@@ -1,0 +1,24 @@
+====================================================================================================
+### constance-holme_the-splendid-fairing  (27 files)
+  块: O=500 C=500 OK | 段: EN=958 CN=957 !!差 1
+     [不对称] dedication.md                                        O=1 C=1 段EN=4 段CN=3
+     [不对称] iv-3.md                                              O=5 C=5 段EN=20 段CN=19
+     [不对称] v-2.md                                               O=5 C=5 段EN=19 段CN=20
+  英文残留(剔括注) top: to×16, Nay×13, the×12, Ay×11, right×9, o'×9, never×7, brass×7, nowt×7, fine×7
+  -- 术语表硬约束行 15 条:
+     Sarah                          → 萨拉                   源×391   译×396  
+     Eliza                          → 伊莱莎                  源×244   译×245  
+     Simon                          → 西蒙                   源×283   译×290  
+     Will                           → 威尔                   源×154   译×145  
+     Geordie                        → 乔迪                   源×141   译×136  
+     Jim                            → 吉姆                   源×95    译×96   
+     Sally                          → 萨莉                   源×33    译×33   
+     Blindbeck                      → 布林德贝克                源×76    译×74   
+     Sandholes                      → 桑德霍尔斯                源×31    译×31   
+     Thornthwaite                   → 索恩思韦特                源×12    译×7     落位偏低 7/12 残留「桑思韦特」×6
+     Harry                          → 哈里                   源×6     译×6    
+     Tom                            → 汤姆                   源×2     译×2    
+     Bill                           → 比尔                   源×2     译×1    
+     Fred                           → 弗雷德                  源×1     译×1    
+     smug cousin                    → 势利堂兄                 源×7     译×5    
+

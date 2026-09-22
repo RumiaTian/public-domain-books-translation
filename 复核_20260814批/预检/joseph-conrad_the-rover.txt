@@ -1,0 +1,106 @@
+====================================================================================================
+### joseph-conrad_the-rover  (16 files)
+  块: O=808 C=808 OK | 段: EN=1324 CN=1327 !!差 -3
+     [不对称] chapter-15.md                                        O=38 C=38 段EN=169 段CN=172
+  英文残留(剔括注) top: tre×8, nom×8, ma×7, de×7, la×6, mon×5, Sacr×5, bien×4, citoyen×4, disparu×4
+  项目说明备注: - 全书 16 章，单一叙事弧，约 8.7 万英文词（源文总量约 480KB），远超连续模式单批容量，故走委派模式。 / - 背景为 18 世纪末至 1805 年（特拉法加海战）的法国南部海岸；人名、地名、船名、海事术语及革命称谓见术语表，法语嵌入词句需照录原文并加首次释义。 / - 章节用罗马数字（I—XVI）编号，照搬不译。
+  -- 术语表硬约束行 98 条:
+     Peyrol                         → 佩罗尔                  源×832   译×838   残留「漫游者」×67
+     Citizen / Citoyen Renaud       → 公民雷诺（Renaud）         源×32    译×4     落位偏低 4/32
+     Michel                         → 米歇尔（Michel）          源×128   译×129  
+     Scevola / Citizen Scevola      → 塞沃拉（Scevola）         源×106   译×103   残留「公民塞沃拉」×20
+     Arlette                        → 阿尔莱特（Arlette）        源×109   译×107  
+     Catherine                      → 凯瑟琳（Catherine）       源×124   译×125  
+     Lieutenant Réal / Captain Réal → 雷亚尔中尉／雷亚尔上尉（Réal）    源×56    译×56   
+     Captain Vincent                → 文森特舰长（Vincent）       源×90    译×88    残留「阿米莉亚号」×59
+     Mr. Bolt                       → 博尔特先生（Bolt）          源×21    译×21    残留「阿米莉亚号」×59
+     Symons                         → 西蒙斯（Symons）          源×55    译×55    残留「阿米莉亚号」×59
+     Lord Nelson                    → 纳尔逊勋爵                源×13    译×14   
+     Keats                          → 基茨（Keats）            源×2     译×2     残留「苏珀布号」×2
+     the cripple of the Madrague    → 马德拉格的残疾汉             源×1     译×1    
+     the farmer Peyrol              → 农庄主佩罗尔               源×1     译×1    
+     Toulon (Port of Toulon)        → 土伦（土伦港）              源×61    译×60   
+     Hyères (Hyères Roadstead, isla → 耶尔（耶尔锚地、耶尔群岛）        源×14    译×14   
+     Giens (Giens peninsula)        → 吉安（吉安半岛）             源×6     译×6    
+     Porquerolles (Porquerolles Cas → 波克罗勒岛（波克罗勒城堡）        源×17    译×15   
+     Cape Esterel / Esterel range   → 埃斯泰雷尔角／埃斯泰雷尔山        源×12    译×12   
+     Almanarre                      → 阿尔马纳尔                源×8     译×8    
+     Escampobar                     → 埃斯坎波巴                源×54    译×54   
+     Madrague                       → 马德拉格                 源×16    译×16   
+     Fréjus                         → 弗雷瑞斯                 源×6     译×6    
+     Marseilles                     → 马赛                   源×2     译×2    
+     Dunkerque                      → 敦刻尔克                 源×1     译×1    
+     Cape Verde                     → 佛得角                  源×1     译×1    
+     Cape Spartel                   → 斯帕特尔角                源×1     译×1    
+     Mozambique Channel             → 莫桑比克海峡               源×3     译×3    
+     Madagascar                     → 马达加斯加                源×3     译×4    
+     Cape of Storms / Cape of Good  → 风暴角／好望角              源×2     译×3    
+     Corsica                        → 科西嘉                  源×2     译×2    
+     Naples                         → 那不勒斯                 源×3     译×3    
+     Egypt                          → 埃及                   源×3     译×3    
+     Cette                          → 塞特                   源×1     译×1    
+     Genoa                          → 热那亚                  源×3     译×3    
+     Cape Cicié                     → 西西耶角                 源×5     译×5    
+     Brest                          → 布雷斯特                 源×1     译×1    
+     Gibraltar                      → 直布罗陀                 源×2     译×2    
+     Ile du Levant                  → 黎凡特岛                 源×1     译×1    
+     Fort de la Vigie               → 维吉瞭望台（炮台）            源×1     译×1    
+     Ste Marie Majeure              → 圣玛丽马若尔教堂             源×1     译×1    
+     La Boyère                      → 拉布瓦耶尔                源×1     译×1    
+     Brothers of the Coast / brothe → 海岸兄弟会                源×11    译×21   
+     the Jacobin type               → 雅各宾派                 源×1     译×4    
+     Amelia                         → 阿米莉亚号                源×59    译×59   
+     Superb                         → 苏珀布号                 源×2     译×2    
+     Victory                        → 胜利号                  源×8     译×5    
+     tartane                        → 塔尔塔纳（地中海单桅三角帆船）      源×149   译×153  
+     East Indiaman                  → 东印度商船                源×1     译×2    
+     prize / prize-master           → 战利船／战利船押运长           源×13    译×8    
+     sloop                          → 单桅快速帆船（巡航舰）          源×12    译×12   
+     corvette                       → 轻巡洋舰                 源×23    译×23   
+     line-of-battle ship / seventy- → 战列舰／七十四炮舰            源×2     译×2    
+     lateen (yard / craft)          → 三角帆（三角帆桁／三角帆船）       源×37    译×8     落位偏低 8/37
+     tricolour                      → 三色旗                  源×3     译×3    
+     citoyen / Citizen / Citoyen    → 公民                   源×12    译×64   
+     Citoyen Commandant             → 公民指挥官                源×1     译×1    
+     sansculotte                    → 无套裤汉                 源×22    译×23   
+     assignats                      → 指券                   源×1     译×1    
+     Capitaine de Frégate           → 护卫舰上校                源×1     译×1    
+     Battle of Trafalgar            → 特拉法加海战               源×1     译×2    
+     maître                         → 师傅／老大                源×10    译×12   
+     camarade                       → 老兄／伙计                源×1     译×8    
+     salle                          → 正厅（正房）               源×36    译×35   
+     ma chère amie                  → 我亲爱的                 源×1     译×4    
+     fermière                       → 农妇                   源×3     译×4    
+     sacrés Anglais                 → 该死的英国人               源×1     译×1    
+     Hé! la mère                    → 喂！老太太                源×1     译×1    
+     Mais oui, citoyen              → 是的，公民                源×1     译×1    
+     C'est un homme ça              → 那才算条汉子               源×1     译×1    
+     la terre                       → 陆地                   源×2     译×20    残留「陆地！陆地！」×1
+     Bonaparte                      → 波拿巴                  源×1     译×1    
+     First Consul                   → 第一执政                 源×1     译×1    
+     Monsieur Surcouf               → 苏库夫先生                源×1     译×1    
+     Préfet Maritime                → 海军省长                 源×1     译×1    
+     Invalides                      → 荣军院                  源×1     译×1    
+     pontoons                       → 英国囚船                 源×1     译×3    
+     Sardinia                       → 撒丁岛                  源×1     译×1    
+     Cape Guardafui                 → 瓜达富伊角                源×1     译×1    
+     Baleares                       → 巴利阿里群岛               源×1     译×1    
+     Barbary                        → 巴巴里海岸                源×1     译×1    
+     Zanzibar                       → 桑给巴尔                 源×1     译×1    
+     carmagnole                     → 卡马尼奥勒                源×1     译×1    
+     sailing barge                  → 帆驳船                  源×1     译×1    
+     spar                           → 小帆桁                  源×4     译×3    
+     valise                         → 旅行袋                  源×8     译×8    
+     Arlesian cap                   → 阿尔式女帽                源×2     译×2    
+     hein                           → 嗯？                   源×4     译×7    
+     patronne                       → 女主人                  源×7     译×11   
+     ci-devant / ci-devants         → 前贵族                  源×8     译×5    
+     Voyons                         → 得啦／我说                源×1     译×42   
+     Allons—du courage              → 来——拿出勇气来             源×0     译×1     ★源0次(幽灵?)
+     Mademoiselle Catherine         → 凯瑟琳小姐                源×5     译×5    
+     Saracen                        → 撒拉逊人                 源×1     译×1    
+     the Terror                     → 恐怖统治                 源×7     译×1     落位偏低 1/7
+     presbytery                     → 神父住宅                 源×6     译×1     落位偏低 1/6
+     epaulette-wearer               → 佩戴肩章的军官              源×1     译×2    
+     white squall                   → 白色飑                  源×1     译×1    
+

@@ -1,0 +1,1 @@
+I thought to myself: If now a wave from the Deep has washed over this planetary ship of earth, and I, who alone happened to be in the extreme bows, am the sole survivor of that crew?﻿ ﻿… What then, my God, shall I do?

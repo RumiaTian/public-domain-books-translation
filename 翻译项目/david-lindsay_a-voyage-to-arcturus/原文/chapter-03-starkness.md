@@ -1,0 +1,42 @@
+## III Starkness
+A couple of days later, at two o’clock in the afternoon, Maskull and Nightspore arrived at Starkness Observatory, having covered the seven miles from Haillar Station on foot. The road, very wild and lonely, ran for the greater part of the way near the edge of rather lofty cliffs, within sight of the North Sea. The sun shone, but a brisk east wind was blowing and the air was salt and cold. The dark green waves were flecked with white. Throughout the walk, they were accompanied by the plaintive, beautiful crying of the gulls.
+The observatory presented itself to their eyes as a self-contained little community, without neighbours, and perched on the extreme end of the land. There were three buildings: a small, stone-built dwelling house, a low workshop, and, about two hundred yards farther north, a square tower of granite masonry, seventy feet in height.
+The house and the shop were separated by an open yard, littered with waste. A single stone wall surrounded both, except on the side facing the sea, where the house itself formed a continuation of the cliff. No one appeared. The windows were all closed, and Maskull could have sworn that the whole establishment was shut up and deserted.
+He passed through the open gate, followed by Nightspore, and knocked vigorously at the front door. The knocker was thick with dust and had obviously not been used for a long time. He put his ear to the door, but could hear no movements inside the house. He then tried the handle; the door was locked.
+They walked around the house, looking for another entrance, but there was only the one door.
+“This isn’t promising,” growled Maskull. “There’s no one here.﻿ ﻿… Now you try the shed, while I go over to that tower.”
+Nightspore, who had not spoken half a dozen words since leaving the train, complied in silence, and started off across the yard. Maskull passed out of the gate again. When he arrived at the foot of the tower, which stood some way back from the cliff, he found the door heavily padlocked. Gazing up, he saw six windows, one above the other at equal distances, all on the east face﻿—that is, overlooking the sea. Realising that no satisfaction was to be gained here, he came away again, still more irritated than before. When he rejoined his friend, Nightspore reported that the workshop was also locked.
+“Did we, or did we not, receive an invitation?” demanded Maskull energetically.
+“The house is empty,” replied Nightspore, biting his nails. “Better break a window.”
+“I certainly don’t mean to camp out till Krag condescends to come.”
+He picked up an old iron bolt from the yard and, retreating to a safe distance, hurled it against a sash window on the ground floor. The lower pane was completely shattered. Carefully avoiding the broken glass, Maskull thrust his hand through the aperture and pushed back the frame fastening. A minute later they had climbed through and were standing inside the house.
+The room, which was a kitchen, was in an indescribably filthy and neglected condition. The furniture scarcely held together, broken utensils and rubbish lay on the floor instead of on the dust heap, everything was covered with a deep deposit of dust. The atmosphere was so foul that Maskull judged that no fresh air had passed into the room for several months. Insects were crawling on the walls.
+They went into the other rooms on the lower floor﻿—a scullery, a barely furnished dining room, and a storing place for lumber. The same dirt, mustiness, and neglect met their eyes. At least half a year must have elapsed since these rooms were last touched, or even entered.
+“Does your faith in Krag still hold?” asked Maskull. “I confess mine is at vanishing point. If this affair isn’t one big practical joke, it has every promise of being one. Krag never lived here in his life.”
+“Come upstairs first,” said Nightspore.
+The upstairs rooms proved to consist of a library and three bedrooms. All the windows were tightly closed, and the air was insufferable. The beds had been slept in, evidently a long time ago, and had never been made since. The tumbled, discoloured bed linen actually preserved the impressions of the sleepers. There was no doubt that these impressions were ancient, for all sorts of floating dirt had accumulated on the sheets and coverlets.
+“Who could have slept here, do you think?” interrogated Maskull. “The observatory staff?”
+“More likely travellers like ourselves. They left suddenly.”
+Maskull flung the windows wide open in every room he came to, and held his breath until he had done so. Two of the bedrooms faced the sea; the third, the library, the upward-sloping moorland. This library was now the only room left unvisited, and unless they discovered signs of recent occupation here Maskull made up his mind to regard the whole business as a gigantic hoax.
+But the library, like all the other rooms, was foul with stale air and dust-laden. Maskull, having flung the window up and down, fell heavily into an armchair and looked disgustedly at his friend.
+“Now what is your opinion of Krag?”
+Nightspore sat on the edge of the table which stood before the window. “He may still have left a message for us.”
+“What message? Why? Do you mean in this room?﻿—I see no message.”
+Nightspore’s eyes wandered about the room, finally seeming to linger upon a glass-fronted wall cupboard, which contained a few old bottles on one of the shelves and nothing else. Maskull glanced at him and at the cupboard. Then, without a word, he got up to examine the bottles.
+There were four altogether, one of which was larger than the rest. The smaller ones were about eight inches long. All were torpedo-shaped, but had flattened bottoms, which enabled them to stand upright. Two of the smaller ones were empty and unstoppered, the others contained a colourless liquid, and possessed queer-looking, nozzle-like stoppers that were connected by a thin metal rod with a catch halfway down the side of the bottle. They were labelled, but the labels were yellow with age and the writing was nearly undecipherable. Maskull carried the filled bottles with him to the table in front of the window, in order to get better light. Nightspore moved away to make room for him.
+He now made out on the larger bottle the words “Solar Back Rays”; and on the other one, after some doubt, he thought that he could distinguish something like “Arcturian Back Rays.”
+He looked up, to stare curiously at his friend. “Have you been here before, Nightspore?”
+“I guessed Krag would leave a message.”
+“Well, I don’t know﻿—it may be a message, but it means nothing to us, or at all events to me. What are ‘back rays’?”
+“Light that goes back to its source,” muttered Nightspore.
+“And what kind of light would that be?”
+Nightspore seemed unwilling to answer, but, finding Maskull’s eyes still fixed on him, he brought out: “Unless light pulled, as well as pushed, how would flowers contrive to twist their heads around after the sun?”
+“I don’t know. But the point is, what are these bottles for?”
+While he was still talking, with his hand on the smaller bottle, the other, which was lying on its side, accidentally rolled over in such a manner that the metal caught against the table. He made a movement to stop it, his hand was actually descending, when﻿—the bottle suddenly disappeared before his eyes. It had not rolled off the table, but had really vanished﻿—it was nowhere at all.
+Maskull stared at the table. After a minute he raised his brows, and turned to Nightspore with a smile. “The message grows more intricate.”
+Nightspore looked bored. “The valve became unfastened. The contents have escaped through the open window toward the sun, carrying the bottle with them. But the bottle will be burned up by the Earth’s atmosphere, and the contents will dissipate, and will not reach the sun.”
+Maskull listened attentively, and his smile faded. “Does anything prevent us from experimenting with this other bottle?”
+“Replace it in the cupboard,” said Nightspore. “Arcturus is still below the horizon, and you would succeed only in wrecking the house.”
+Maskull remained standing before the window, pensively gazing out at the sunlit moors.
+“Krag treats me like a child,” he remarked presently. “And perhaps I really am a child.﻿ ﻿… My cynicism must seem most amusing to Krag. But why does he leave me to find out all this by myself﻿—for I don’t include you, Nightspore.﻿ ﻿… But what time will Krag be here?”
+“Not before dark, I expect,” his friend replied.

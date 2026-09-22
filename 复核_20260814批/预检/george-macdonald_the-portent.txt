@@ -1,0 +1,44 @@
+====================================================================================================
+### george-macdonald_the-portent  (27 files)
+  块: O=235 C=235 OK | 段: EN=690 CN=690 OK
+  英文残留(剔括注) top: Psyche×1
+  项目说明备注: 全书共 27 章，约 4 万词。单一第一人称叙事弧，但章数较多（27≥20），按工作流归入「长篇」走委派模式。核心是统一超自然术语（预兆／第二视觉／叮当作响的马蹄铁／梦游症）与苏格兰方言色彩（老保姆玛格丽特的口吻），详见术语表。献词（作者致邓肯·麦科尔的信）属前言非正文，未纳入翻译队列。
+  -- 术语表硬约束行 37 条:
+     Duncan Campbell                → 邓肯·坎贝尔               源×1     译×1     残留「我」×2482 残留「第二视觉」×2
+     Campbell (the Campbells)       → 坎贝尔（坎贝尔家族）           源×16    译×17   
+     Margaret                       → 玛格丽特                 源×30    译×28    残留「第二视觉」×2
+     Janet                          → 珍妮特                  源×16    译×16   
+     Captain Campbell               → 坎贝尔上尉                源×1     译×1    
+     Lord Hilton                    → 希尔顿勋爵                源×17    译×19   
+     Lady Hilton                    → 希尔顿夫人                源×20    译×21   
+     Lady Alice                     → 爱丽丝小姐（爱丽丝夫人）         源×75    译×78   
+     the two boys / my pupils       → 两个男孩／我的学生            源×9     译×8     残留「希尔顿勋爵」×19
+     Lady Lucy                      → 露西小姐                 源×6     译×6    
+     Lord Glendarroch               → 格兰达洛赫勋爵              源×2     译×2    
+     Mrs. Blakesley                 → 布莱克斯利太太              源×20    译×20   
+     Honest Wood                    → 忠仆伍德（伍德）             源×1     译×0     ★译0次(未落位?)
+     Dr. Ruthwell                   → 鲁思韦尔医生               源×3     译×3    
+     Von Salis                      → 冯·萨利斯                源×3     译×3    
+     Argyll (north of Argyll)       → 阿盖尔（阿盖尔北部）           源×1     译×1    
+     the Highlands / Highlanders    → 高地／高地人               源×0     译×4     ★源0次(幽灵?)
+     the mountain / the hill / the  → 那座山／那座荒丘／荒原          源×32    译×7     落位偏低 7/32
+     Margaret’s cottage             → 玛格丽特的小屋              源×0     译×1     ★源0次(幽灵?)
+     Edinburgh                      → 爱丁堡                  源×2     译×2    
+     London                         → 伦敦                   源×7     译×7    
+     Hilton Hall                    → 希尔顿庄园                源×8     译×8    
+     the midland counties           → 中部诸郡                 源×1     译×1    
+     Glendarroch                    → 格兰达洛赫                源×0     译×0     ★源0次(幽灵?)
+     Huntly                         → 亨特利                  源×0     译×0     ★源0次(幽灵?)
+     Kensington                     → 肯辛顿                  源×0     译×0     ★源0次(幽灵?)
+     The Portent                    → 预兆                   源×0     译×2     ★源0次(幽灵?)
+     second sight / the Second Sigh → 第二视觉                 源×2     译×2     残留「听」×151
+     the inner vision               → 内视                   源×0     译×1     ★源0次(幽灵?)
+     the clanking shoe / the dangli → 叮当作响的马蹄铁／垂荡的马蹄铁      源×6     译×6    
+     somnambulist / somnambulism    → 梦游者／梦游症              源×2     译×1    
+     the Boneless                   → 无骨鬼                  源×1     译×1    
+     sabre-cut                      → 刀伤（军刀伤）              源×5     译×5    
+     bairn                          → 孩儿                   源×5     译×6    
+     Scotch Greys                   → 苏格兰灰骑兵团              源×2     译×2    
+     “Psyche’s Sorrow” / “Psyche’s  → 《心灵之恸》               源×1     译×3    
+     “The Rime of the Ancient Marin → 《古舟子咏》               源×0     译×0     ★源0次(幽灵?)
+

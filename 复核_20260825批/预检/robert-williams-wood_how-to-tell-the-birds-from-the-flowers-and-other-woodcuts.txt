@@ -1,0 +1,126 @@
+====================================================================================================
+### robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts  (4 files)
+  块: O=64 C=64 OK | 段: EN=496 CN=546 !!差 -50
+     [不对称] 02-all-poems.md                                      O=51 C=51 段EN=405 段CN=455
+  英文残留(剔括注) top: The×89, fish×3, Bird×2, Pelican×2, Panicle×2, Cat×2, bird×2, Cow×2, Butter×2, Blue×2
+  项目说明备注: 原书为图像书：59 幅木刻无法转译，正文为 51 首配对谐趣诗（02-all-poems.md 已定制提取）+ 引言/目录/尾注；诗题格式「A; B」为双关对（如 The Crow; The Crocus 乌鸦与番红花），翻译时保留双关趣味。 /  / ## 篇目清单 /  / 由 `translation_queue.csv` 管理（4 篇，约 26KB）。
+  -- 术语表硬约束行 118 条:
+     Burdock                        → 牛蒡                   源×1     译×1    
+     Burr                           → 刺球                   源×3     译×3    
+     Crow                           → 乌鸦                   源×6     译×6    
+     Crocus                         → 番红花                  源×3     译×6    
+     Clover                         → 三叶草                  源×5     译×5    
+     Plover                         → 鸻                    源×5     译×5    
+     Bee                            → 蜜蜂                   源×7     译×9    
+     Gander                         → 公鹅                   源×4     译×4    
+     Oleander                       → 夹竹桃                  源×4     译×4    
+     Hen                            → 母鸡                   源×11    译×10   
+     Lichen                         → 地衣                   源×3     译×4    
+     Pelican                        → 鹈鹕                   源×5     译×4    
+     Panicle                        → 圆锥花序                 源×4     译×4    
+     Pea                            → 豌豆                   源×7     译×8    
+     Pewee                          → 霸鹟                   源×7     译×7    
+     Parrot                         → 鹦鹉                   源×5     译×5    
+     Carrot                         → 胡萝卜                  源×4     译×5    
+     Rue                            → 芸香                   源×6     译×6     残留「懊悔」×1
+     Rooster                        → 公鸡                   源×5     译×5    
+     Hawk                           → 鹰                    源×3     译×3    
+     Hollyhock                      → 蜀葵                   源×2     译×3    
+     Pecan                          → 山核桃                  源×5     译×7    
+     Toucan                         → 巨嘴鸟                  源×6     译×6    
+     Cat-bird                       → 猫鸫                   源×0     译×4     ★源0次(幽灵?)
+     Cat-nip                        → 猫薄荷                  源×0     译×5     ★源0次(幽灵?)
+     Quail                          → 鹌鹑                   源×5     译×5    
+     Kale                           → 羽衣甘蓝                 源×4     译×4    
+     Auk                            → 海鸦                   源×6     译×5    
+     Orchid                         → 兰花                   源×4     译×5    
+     Cowbird                        → 牛鹂                   源×3     译×4    
+     Cowslip                        → 黄花九轮草                源×3     译×3    
+     Butter-ball                    → 黄油球鸭                 源×0     译×2     ★源0次(幽灵?)
+     Butter-cup                     → 金凤花                  源×1     译×5    
+     Roc                            → 大鹏                   源×5     译×5    
+     Shamrock                       → 爱尔兰三叶草               源×3     译×4    
+     Sparrow                        → 麻雀                   源×3     译×4    
+     Asparagus                      → 芦笋                   源×5     译×6    
+     Blue Mountain Lory             → 蓝山鹦                  源×2     译×3    
+     Morning Glory                  → 牵牛花                  源×3     译×3    
+     Tern                           → 燕鸥                   源×10    译×9    
+     Turnip                         → 芜菁                   源×7     译×7    
+     Lark                           → 云雀                   源×0     译×5     ★源0次(幽灵?)
+     Larkspur                       → 飞燕草                  源×3     译×4    
+     Cross Bill                     → 交嘴雀                  源×2     译×4    
+     Sweet William                  → 须苞石竹                 源×4     译×4    
+     Ibis                           → 圣鹮                   源×4     译×4    
+     Hibiscus / 'Ibiscus            → 木槿                   源×2     译×4    
+     Mallow                         → 锦葵                   源×1     译×1    
+     Indian Pipe                    → 水晶兰                  源×2     译×2     残留「印第安烟斗草」×2
+     Snipe                          → 鹬                    源×5     译×5    
+     Blue Jay                       → 蓝松鸦                  源×2     译×4    
+     Bay tree                       → 月桂（树）                源×2     译×4    
+     Gentian                        → 龙胆                   源×1     译×4     残留「绅士龙胆」×2
+     Lady-bird                      → 瓢虫                   源×0     译×3     ★源0次(幽灵?) 残留「瓢虫淑女」×1
+     Puffin                         → 海鹦                   源×3     译×3    
+     Nuffin'                        → 没影                   源×0     译×0     ★源0次(幽灵?)
+     Beetle                         → 甲虫                   源×6     译×7    
+     Beet                           → 甜菜                   源×6     译×6    
+     Bunny                          → 兔子                   源×3     译×4    
+     Tunny                          → 金枪鱼                  源×3     译×4    
+     Puss                           → 猫咪                   源×3     译×1     落位偏低 1/3
+     Octopus                        → 章鱼                   源×4     译×5    
+     Cuttle-fish                    → 乌贼                   源×0     译×1     ★源0次(幽灵?)
+     Eel                            → 鳗鱼                   源×4     译×4    
+     Elephant                       → 大象                   源×3     译×4    
+     Ant                            → 蚂蚁                   源×8     译×4     落位偏低 4/8
+     Pheasant                       → 雉鸡                   源×3     译×4    
+     Hare                           → 野兔                   源×5     译×5    
+     Harrier                        → 鹞                    源×5     译×5    
+     Penguin                        → 企鹅                   源×5     译×6    
+     Sword-fish                     → 剑鱼                   源×0     译×5     ★源0次(幽灵?)
+     Gnu                            → 牛羚                   源×5     译×5    
+     Newt                           → 蝾螈                   源×7     译×7    
+     Ray                            → 鳐鱼                   源×5     译×5    
+     Raven                          → 渡鸦                   源×6     译×6    
+     Ape                            → 猿猴                   源×6     译×4    
+     Grape                          → 葡萄                   源×2     译×6    
+     Doe                            → 母鹿                   源×4     译×4    
+     Dodo                           → 渡渡鸟                  源×4     译×4    
+     Pipe-fish                      → 烟管鱼                  源×0     译×4     ★源0次(幽灵?)
+     Sea-gar                        → 海雪茄                  源×0     译×2     ★源0次(幽灵?)
+     Elk                            → 麋鹿                   源×3     译×3    
+     Whelk                          → 峨螺                   源×4     译×3    
+     P-cock                         → 孔雀                   源×0     译×4     ★源0次(幽灵?)
+     Q-cumber                       → 黄瓜                   源×0     译×4     ★源0次(幽灵?)
+     Sloe                           → 黑刺李                  源×5     译×5    
+     Sloth                          → 树懒                   源×4     译×4    
+     gin                            → 杜松子酒／捕兽夹             源×6     译×3     落位偏低 3/6
+     Cow                            → 奶牛                   源×8     译×5    
+     Cowry                          → 宝贝螺                  源×4     译×4    
+     Antelope                       → 羚羊                   源×4     译×4    
+     Cantelope                      → 罗马甜瓜                 源×4     译×4    
+     Pansy                          → 三色堇                  源×5     译×5    
+     Chim-pan-zee                   → 黑猩猩                  源×0     译×4     ★源0次(幽灵?)
+     Nautilus                       → 鹦鹉螺                  源×4     译×4    
+     Naught                         → 无                    源×2     译×13   
+     Coot                           → 黑水鸡                  源×4     译×4    
+     Bandicoot                      → 袋狸                   源×4     译×5    
+     Kangaroo                       → 袋鼠                   源×1     译×3    
+     Opossum                        → 负鼠                   源×1     译×3    
+     Pitcher Plant                  → 猪笼草                  源×5     译×5    
+     Fly-catcher                    → 捕蝇鸟                  源×0     译×2     ★源0次(幽灵?)
+     Yellow-hammer                  → 黄鹀                   源×1     译×4    
+     Flicker                        → 扑动鴷                  源×1     译×1    
+     Saw-fish                       → 锯鳐                   源×0     译×4     ★源0次(幽灵?)
+     Stork                          → 鹳                    源×2     译×4    
+     Phlox                          → 福禄考                  源×4     译×4    
+     Luther Burbank                 → 路德·伯班克               源×1     译×1    
+     Gray                           → 格雷                   源×4     译×4    
+     Audubon                        → 奥杜邦                  源×2     译×3    
+     Darwin                         → 达尔文                  源×2     译×2    
+     Edgar Allan Poe                → 埃德加·爱伦·坡             源×1     译×1    
+     Sinbad                         → 辛巴德                  源×1     译×1    
+     St. Patrick's day              → 圣帕特里克节               源×1     译×1    
+     Noah's ark                     → 挪亚方舟                 源×1     译×1    
+     the Lena                       → 勒拿河                  源×1     译×1    
+     the Amazon                     → 亚马孙河                 源×0     译×1     ★源0次(幽灵?)
+     Fez                            → 土耳其毡帽                源×1     译×1    
+

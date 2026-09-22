@@ -1,0 +1,5 @@
+## List of Illustrations
+1. A crossword puzzle grid with rows numbered with Arabic numerals and columns numbered with Roman numerals. Most cells are black or white, but some additional reddish cells create a square pattern midway to the center of the puzzle.
+2. A sketch map of the area near the parish church of Little Doddering. North is to the left, south to the right. At top left is Mortimer’s house and the village of Abbott’s Bolton; middle left is the village of Frimpton. At the center bottom of the map is the village of Petering Friars. Little Doddering, with its old priory is at the right of the map, across the road from the War Memorial. Bridle paths connect Mortimer’s house to a barn and then to Dead Man’s Post, Little Doddering, Petering Friars and the road to Lympton.
+3. A page from Münster’s Cosmographia Universalis, showing a fanciful map of the discoveries in the New World made by Christopher Columbus. Overwritten on the map are the words: “Hic in capite draconis ardet perpetuo Sol.”
+4. A crossword puzzle grid with the solution filled in. Revealed on the reddish cells are the words TESTAMENT, VERSICLES, CANTICLES and THIRTYONE.

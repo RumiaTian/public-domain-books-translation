@@ -1,0 +1,89 @@
+### V / 五
+
+===Original===
+St. Roque’s Cottage was considered rather a triumph of local architecture. A Carlingford artist had built it “after” the Church, which was one of Gilbert Scott’s churches, and perfect in its way, so that its Gothic qualities were unquestionable. The only thing wanting was size, which was certainly an unfortunate defect, and made this adaptation of ecclesiastical architecture to domestic purposes a very doubtful experiment. However, in bright sunshine, when the abundance of light neutralised the want of window, all was well, and there was still abundance of sunshine in Carlingford in October, three months after the entrance of Fred Rider and his family into Mrs. Smith’s little rooms. It was a bright autumn day, still mild, though with a crispness in the air, the late season showing more in the destitution of the flower-borders than in any more sensible sign. It was a pretty spot enough for a roadside. St. Roque’s stood on the edge of a little common, over which, at the other margin, you could see some white cottages, natural to the soil, in a little hamlet-cluster, dropped along the edge of the grey-green unequal grass; while between the church and the cottage ran the merest shadow of a brook, just enough to give place and nutriment to three willow-trees which had been the feature of the scene before St. Roque’s was, and which now greatly helped the composition of the little landscape, and harmonised the new building with the old soil. St. Roque’s Cottage, by special intervention of Mr. Wentworth, the perpetual curate, had dropped no intervening wall between its garden and those trees; but, not without many fears, had contented itself with a wooden paling on the side nearest the willows. Consequently, the slope of grass at that side, which Mrs. Smith was too prudent to plant with anything that could be abstracted, was a pretty slope with the irregular willow shadows swept over it, thin, but still presenting a pale obstruction to the flood of sunshine on this special afternoon. There a little group was collected, in full enjoyment of the warmth and the light. Mrs. Rider, still faded, but no longer travel-worn, sat farther up in the garden, on the green bench, which had been softened with cushions for her use, leisurely working at some piece of needlework, in lonely possession of the chrysanthemums and Michaelmas daisies round her; while on the grass, dropped over with yellow flecks of willow-leaves, lightly loosened by every passing touch of wind, sat Nettie, all brown and bright, working with the most rapid fingers at a child’s frock, and “minding” with a corner of her eye the possessor of the same, the tiny Freddy, an imp of mischief uncontrollable by other hand or look than hers. A little lower down, poking into the invisible brook through the paling, was the eldest boy, silent from sheer delight in the unexpected pleasure of coating himself with mud without remark from Nettie. This unprecedented escape arose from the fact that Nettie had a visitor, a lady who had bent down beside her in a half-kneeling attitude, and was contemplating her with a mingled amaze and pity which intensified the prevailing expression of kindness in the mildest face in the world. It was Miss Wodehouse, in her soft dove-coloured dress and large soft checked shawl. Her mild eyes were fixed upon that brilliant brown creature, all buoyant and sparkling with youth. These wonderful young people perplexed Miss Wodehouse; here was another incomprehensible specimen﻿—most incomprehensible perhaps of all that had ever crossed her mild elderly horizon with bewildering unintelligible light.
+
+===Chinese===
+圣罗克小屋（St. Roque’s Cottage）被看作本地建筑的一件颇为得意之作。一位卡林福德（Carlingford）的匠人照着那座教堂“仿”造了它——那座教堂是吉尔伯特·斯科特（Gilbert Scott）的手笔之一，在同类中尽善尽美，因此这小屋的哥特风味是无可置疑的。缺的只是尺寸，这当然是个不幸的缺陷，使得这种把教堂建筑挪作家用的试验，成了一桩很可疑的尝试。不过，在大晴天里，光线充足，抵消了窗子不足的缺憾，一切便都安好；而十月的卡林福德，阳光依然富足——弗雷德·莱德（Fred Rider）一家搬进史密斯太太（Mrs. Smith）那几间小屋，已经是三个月前的事了。这是个晴朗的秋日，天气还很温和，只是空气里透着一丝爽利；时令已晚的迹象，与其说显在任何更分明的表征上，倒不如说更多显在花坛的萧疏里。就路边的景致而言，这地方够秀美的了。圣罗克小屋立在一小片公地的边上；公地另一侧的边缘——灰绿色的、高低不平的草地的边缘——散落着几座白墙村舍，与这片土壤天然相宜，结成一个小小的村落；而教堂与小屋之间，流过一弯细得只剩个影子的小溪，刚够给三棵柳树安身立足、供水滋养——在圣罗克小屋还没有影儿的时候，这几棵柳树本是此间景致的点睛之处，如今又大大成全了这小幅风景的构图，使新建筑与古老的土壤融洽无间。多亏常驻副牧师温特沃斯先生（Mr. Wentworth）特别出面，圣罗克小屋的花园与那几棵树之间才没有筑起隔墙；但也少不了提心吊胆，只在离柳树最近的一侧安了一道木栅栏，便算了事。因此，那一侧的草坡——史密斯太太精明得很，凡属可能被人顺手牵走的花木，一概不肯栽种——倒是一道可爱的草坡，疏疏斜斜的柳影扫过坡面，淡淡的，却仍在这特定的午后，给那片倾泻的阳光添了一道浅浅的障隔。一小群人正聚在那里，尽情受用着暖意与光亮。莱德太太（Mrs. Rider）坐在园中更高处的一张绿凳上，颜色依旧褪得厉害，却不再是风尘仆仆的旅途模样了；凳子特意为她垫上了软垫；她不慌不忙地做着一件针线活，独自享有身边那一圈菊花和米迦勒节雏菊（Michaelmas daisies）；而草地上——被每一阵拂过的风轻轻抖落点点黄柳叶的草地上——坐着妮蒂（Nettie），周身棕褐、明亮，十指如飞地赶做一件小孩的连衣裙，一面用眼角“照管”着那件裙子的主人——小小弗雷迪（Freddy），一个除了她的手、她的眼色谁也管不住的捣蛋小鬼。再往下一点，是最大的那个男孩，正隔着栅栏朝那条看不见的小溪里捅弄；他一声不响——只因那份纯粹的欢喜：不惹妮蒂一句数落，就让自己糊上一身泥浆，这份意外的乐事来得太稀罕了。这桩破天荒的漏网之福，缘由是妮蒂来了客人：一位夫人半跪在她身旁俯下身来，又惊又怜地端详着她；那份怜惜，叫世上最温和的一张脸上那无往不在的慈祥神色愈发加深。那是伍德豪斯小姐（Miss Wodehouse），穿一身柔和的鸽灰色衣裙，披一方宽大的软格纹披肩。她那双温和的眼睛，一眨不眨地望着那个棕褐色的精灵——一个浑身洋溢着青春的欢跃与光华的精灵。这些了不得的年轻人叫伍德豪斯小姐摸不着头脑；眼前又是一件不可思议的标本——在她那片温和的暮年视野里横穿而过的东西，个个带着令人目眩、不可理喻的光，而眼前这一件，兴许是其中最不可思议的了。
+
+===Original===
+“My dear,” said Miss Wodehouse, “things used to be very different when I was young. When we were girls we thought about our own pleasures﻿—and﻿—and vanities of all kinds,” said the good woman, with a little sigh; “and, indeed, I can’t think it is natural still to see you devoting yourself like this to your sister’s family. It is wonderful; but dear, dear me! it isn’t natural, Nettie, such self-devotion.”
+
+“I do wish you wouldn’t speak!” said Nettie, with a sudden start﻿—“self-devotion! stuff! I am only doing what must be done. Freddy can’t go on wearing one frock forever, can he﻿—does it stand to reason? Would you have me sit idle and see the child’s petticoats drop to pieces? I am a colonial girl﻿—I don’t know what people do in England. Where I was brought up we were used to be busy about whatever lay nearest to our hand.”
+
+“It isn’t Freddy’s frock,” said Miss Wodehouse, with a little solemnity. “You know very well what I mean. And suppose you were to marry﻿—what would happen supposing you were to marry, Nettie?”
+
+“It is quite time enough to think of that when there is any likelihood of it happening,” said Nettie, with a little toss of her head. “It is only idle people who have time to think of falling in love and such nonsense. When one is very busy it never comes into one’s head. Why, you have never married, Miss Wodehouse; and when I know that I have everything I possibly could desire, why should I?”
+
+===Chinese===
+“我的乖孩子，”伍德豪斯小姐说，“我年轻那会儿，事情跟现在很不一样。我们做姑娘的时候，想的是自己的快活——还有——还有种种虚荣，”这位好人轻轻叹了口气说；“说实在的，如今看见你这样一门心思为姐姐一家人奉献自己，我总觉得不合常理。真是了不起；可是，哎呀呀！这不合常理，妮蒂，这样的自我奉献不合常理。”
+
+“求您别开口啦！”妮蒂猛地一惊，说——“自我奉献！无聊话！我不过是在做非做不可的事罢了。弗雷迪总不能一件裙子穿到底吧——这合乎情理吗？难道您要我闲坐着，眼看孩子的衬裙碎成一片一片？我是个殖民地姑娘——英国人怎么行事，我不懂。在我从小长大的地方，人人习惯了手边有什么，就忙什么。”
+
+“说的可不是弗雷迪的裙子，”伍德豪斯小姐带几分庄重说。“你心里很明白我指的是什么。再说，假如你嫁了人——假如你嫁了人，那会怎么样呢，妮蒂？”
+
+“等真有一点儿可能了，再想也不迟，”妮蒂微微把头一扬说。“只有闲人，才有工夫想什么坠入情网之类的无聊事。人一忙起来，这念头根本到不了脑子里。嗳，您不是也没结婚吗，伍德豪斯小姐；我知道自己想要的东西样样都不缺，我干吗还要结婚？”
+
+===Original===
+Miss Wodehouse bent her troubled sweet old face over the handle of her parasol, and did not say anything for a few minutes. “It is all very well as long as you are young,” she said, with a wistful look; “and somehow you young creatures are so much handier than we used to be. Our little Lucy, you know, that I can remember quite a baby﻿—I am twice as old as she is,” cried Miss Wodehouse, “and she is twice as much use in the world as I. Well, it is all very strange. But, dear, you know, *this* isn’t natural all the same.”
+
+“It is dreadful to say so﻿—it is dreadful to think so!” cried Nettie. “I know what you mean﻿—not Freddy’s frock, to be sure, but only one’s whole life and heart. Should one desert the only people belonging to one in the world because one happens to have a little income and they have none? If one’s friends are not very sensible, is that a reason why one should go and leave them? Is it right to make one’s escape directly whenever one feels one is wanted? or what do you mean, Miss Wodehouse?” said the vehement girl. “That is what it comes to, you know. Do you imagine I had any choice about coming over to England when Susan was breaking her heart about her husband? could one let one’s sister die, do you suppose? And now that they are all together, what choice have I? They can’t do much for each other﻿—there is actually nobody but me to take care of them all. You may say it is not natural, or it is not right, or anything you please, but what else can one do? That is the practical question,” said Nettie, triumphantly. “If you will answer that, then I shall know what to say to you.”
+
+Miss Wodehouse gazed at her with a certain mild exasperation, shook her head, wrung her hands, but could find nothing to answer.
+
+“I thought so,” said Nettie, with a little outburst of jubilee; “that is how it always happens to abstract people. Put the practical question before them, and they have not a word to say to you. Freddy, cut the grass with the scissors, don’t cut my trimmings; they are for your own frock, you little savage. If I were to say it was my duty and all that sort of stuff, you would understand me, Miss Wodehouse; but one only says it is one’s duty when one has something disagreeable to do; and I am not doing anything disagreeable,” added the little heroine, flashing those eyes which had confused Edward Rider﻿—those brilliant, resolute, obstinate eyes, always with the smile of youth, incredulous of evil, lurking in them, upon her bewildered adviser. “I am living as I like to live.”
+
+===Chinese===
+伍德豪斯小姐把她那张甜美的、愁绪萦怀的老脸俯在阳伞柄上，好几分钟没有言语。“趁你还年轻，一切都好说，”她说，目光里带着一抹怅惘；“再说，不知怎么的，你们这些年轻人，手脚比我们当年利落多了。我们的小露西（Lucy），你知道，我记得她完全还是个奶娃娃呢——我的岁数抵她两个，”伍德豪斯小姐嚷道，“可她在世上的用处，也抵我两个。唉，这一切都怪得很。可是，乖孩子，你要知道，*这*终归是不合常理的。”
+
+“说出这话来可怕——这么想更可怕！”妮蒂嚷道。“我懂您的意思——自然不是弗雷迪的裙子，说的是一个人的整个生活和整个心。只因为自己碰巧有份小小的进项，而世上唯一属于自己的亲人一无所有，就该撇下他们吗？假如一个人的亲人不太明事理，难道这就成了走开、丢下他们的理由？只要一觉得人家少不了自己，立刻就抽身脱逃，这是对的吗？要不然，您究竟是什么意思，伍德豪斯小姐？”这位言辞激切的姑娘说。“您要知道，事情归根到底就在这里。您当真以为，苏珊（Susan）为她的丈夫伤心欲绝的时候，我来不来英国，我还有得挑吗？您想，人能眼看自己的亲姐姐死吗？如今他们全家都聚在一处了，我又有什么可挑的？他们彼此帮不了多少忙——实实在在，除了我，没有第二个人照管他们大家。您尽可以说这不合常理，或者说这不对头，随便您说什么都行，可除此之外，人还能怎么办？这才是实实在在的问题，”妮蒂得意洋洋地说。“您要答得上这个，我才知道该怎么回您。”
+
+伍德豪斯小姐望着她，心头又气又恼，那气恼却也是温温和和的；她摇摇头，绞着两手，可一句应答的话也找不出来。
+
+“我料着如此，”妮蒂说，欢天喜地地迸出这么一句；“活在抽象里的人，向来就是这个下场。把实实在在的问题摆到他们面前，他们就一个字也答不上来。弗雷迪，拿剪刀剪草，别剪我的镶边；那是给你自己裙子用的，你这个小野人。我若是说这是我尽义务啦、诸如此类的话，您倒能明白我，伍德豪斯小姐；可人只有碰上什么不痛快的事非做不可，才说那是义务；我可没做什么不痛快的事，”这位小女杰又添了一句，朝她那位给搅糊涂了的劝导者闪起那双眼睛——那双曾把爱德华·莱德（Edward Rider）搅得晕头转向的眼睛：明亮、果决、执拗，眼底总潜藏着青春的笑意，从不肯相信世上有恶。“我过的是我情愿过的日子。”
+
+===Original===
+There was a pause﻿—at least there was a pause in the argument, but not in Nettie’s talk, which ran on in an eager stream, addressed to Freddy, Johnnie, things in general. Miss Wodehouse pondered over the handle of her parasol. She had absolutely nothing to say; but, thoroughly unconvinced and exasperated at Nettie’s logic, could not yet retire from the field.
+
+“It is all very well to talk just now,” said the gentle woman at last, retiring upon that potent feminine argument; “but, Nettie, think! If you were to marry﻿—”
+
+Miss Wodehouse paused, appalled by the image she herself had conjured up.
+
+“Marrying is really a dreadful business, anyhow,” she added, with a sigh; “so few people, you know, can, when they might. There is poor Mr. Wentworth, who brought me here first; unless he gets preferment, poor fellow﻿—. And there is Dr. Rider. Things are very much changed from what they used to be in my young days.”
+
+===Chinese===
+停了一停——至少论战停了，妮蒂的话头却没有停，依旧像一股急流，滔滔向前，一会儿说给弗雷迪，一会儿说给约翰尼（Johnnie），一会儿说给天下万物。伍德豪斯小姐对着阳伞柄沉思。她实在无话可说；可她心里半点也不服气，又被妮蒂的逻辑激得恼火，一时还退不下阵去。
+
+“眼下说得倒是动听，”这位温婉的妇人末了说道，退守到那条威力无边的女性论据上；“可是，妮蒂，想想吧！万一你嫁了人——”
+
+伍德豪斯小姐顿住了，叫她自己唤出来的那幅图景骇住了。
+
+“不管怎么说，成婚实在是桩叫人害怕的事，”她叹了口气，接着说；“您瞧，明明可以成婚的人，能成婚的却少得很。就说可怜的温特沃斯先生，当初头一个把我带到这里来的就是他；他要再得不到荐拔的圣职，可怜的人——。还有莱德医生。如今的世道，跟我年轻时候比，变得太多啦。”
+
+===Original===
+“Is Dr. Rider in the same dilemma? I suppose, of course, you mean Dr. Edward,” cried Nettie, with a little flash of mischievous curiosity. “Why? He has nobody but himself. I should like to know why he can’t marry﻿—that is, if anybody would have him﻿—when he pleases. Tell me; you know he is my brother-in-law.”
+
+Miss Wodehouse had been thinking of Bessie Christian. She paused, partly for Dr. Rider’s sake, partly because it was quite contrary to decorum, to suppose that Bessie, now Mrs. Brown, might possibly a year ago have married somebody else. She faltered a little in her answer. “A professional man never marries till he has a position,” said Miss Wodehouse, abstractedly. Nettie lifted upon her, eyes that danced with mischief and glee.
+
+“A profession is as bad as a family, then,” said the little Australian. “I shall remember that next time you speak to me on this subject. I am glad to think Dr. Edward, with all his prudence, is disabled too.”
+
+When Nettie had made this unguarded speech, she blushed; and suddenly, in a threatening and defiant manner, raised her eyes again to Miss Wodehouse’s face. Why? Miss Wodehouse did not understand the look, nor put any significance into the words. She rose up from the grass, and said it was time for her to go. She went away, pondering in her own mind those singular new experiences of hers. She had never been called upon to do anything particular all her gentle life. Another fashion of woman might have found a call to action in the management of her father’s house, or the education of her motherless young sister. But Miss Wodehouse had contented herself with loving Lucy﻿—had suffered her to grow up very much as she would, without interference﻿—had never taken a decided part in her life. When anything had to be done, to tell the truth, she was very inexpert﻿—unready﻿—deeply embarrassed with the unusual necessity. Nettie’s case, so wonderfully different from anything she could have conceived, lay on her mind and oppressed her as she went home to Grange Lane.
+
+===Chinese===
+“莱德医生也陷在同样的困境里吗？您指的当然是爱德华医生喽，”妮蒂嚷道，眼里闪过一道促狭好奇的光。“为什么？他孤身一人，谁也不牵累。我倒很想知道，他为什么不能想结婚就结婚——我是说，倘若有人肯要他的话。告诉我；您知道，他是我姐夫的弟弟。”
+
+伍德豪斯小姐心里想的原是贝西·克里斯琴（Bessie Christian）。她顿了一下，一半是替莱德医生留体面，一半是因为，硬要去设想贝西——如今的布朗太太（Mrs. Brown）——一年以前兴许本来能嫁给另外什么人，这实在大大有失体统。她的回答有点儿支吾。“干专业的人，不到有了立足的地位，是决计不结婚的，”伍德豪斯小姐心不在焉地说。妮蒂朝她仰起脸来，一双眼睛里跳动着调皮和欢欣。
+
+“这么说，‘专业’跟‘一家子’一样糟糕，”这位小小的澳大利亚人说。“下回您再同我谈这个题目，我可要把这话记在心里。想到爱德华医生尽管那么谨慎，也叫这个绊住了，我倒觉得高兴。”
+
+妮蒂这句失于检点的话一出口，脸就红了；忽而又带着威胁和挑衅的神气，重新抬眼直望到伍德豪斯小姐的脸上。这是为什么？伍德豪斯小姐看不懂这道眼神，也不曾从那句话里听出什么意味来。她从草地上站起身，说是该走的时候到了。她走开了，一路在心里反复思量着她那些奇特的新的经历。她那温良的一生里，从来不曾有人要她担当什么特别的事。换一种性情的女人，也许会在操持父亲的宅邸、或是教养那丧了母的小妹妹里头，找到一桩召唤她行动起来的差事。可伍德豪斯小姐只满足于疼爱露西——听凭她随自己的心意长大，从不去干预——从不曾在她的人生里担当过一个坚决的角色。真到了非办什么事不可的时候，说句实话，她是极不在行的——迟钝笨拙——被这种不寻常的必要窘得厉害。妮蒂的处境，同她所能设想的任何事情相比，都奇妙地不同；她一路走回格兰奇巷（Grange Lane）的家里去，这件事压在她心头，沉甸甸地放不下来。
+
+===Original===
+As for Nettie herself, she took her work and her children indoors after a while, and tried on the new frock, and scolded and rehabilitated the muddy hero of the brook. Then, with those light fairy motions of hers, she spread the homely table for tea, called in Susan, sought Fred in his room upstairs with a stinging word which penetrated even his callous mind, and made him for the moment ashamed of himself. Nettie bit her red lip till it grew white and bloodless as she turned from Fred’s door. It was not hard to work for the children﻿—to support and domineer over Susan; but it was hard for such an alert uncompromising little soul to tolerate that useless hulk﻿—that heavy encumbrance of a man, for whom hope and life were dead. She bit her lip as she discharged her sharp stinging arrow at him through the half-opened door, and then went down singing, to take her place at the table which her own hands had spread﻿—which her own purse supplied with bread. Nobody there showed the least consciousness of that latter fact; nobody fancied it was anything but natural to rely upon Nettie. The strange household demeaned itself exactly as if things were going on in the most regular and ordinary course. No wonder that spectators outside looked on with a wonder that could scarcely find expression, and half exasperated, half admiring, watched the astonishing life of the colonial girl.
+
+Nobody watched it with half the amount of exasperation which concentrated in the bosom of Dr. Rider. He gazed and noted and observed everything with a secret rage, indignation, and incredulity impossible to describe. He could not believe it even when it went on before his very eyes. Doctor though he was, and scientific, to a certain extent, Edward Rider would have believed in witchcraft﻿—in some philtre or potion acting upon her mind, rather than in Nettie’s voluntary folly. Was it folly? was it heroism? was it simple necessity, as she herself called it? Nobody could answer that question. The matter was as incomprehensible to Miss Wodehouse as to Dr. Rider, but not of such engrossing interest. Bessie Christian, after all, grew tame in the Saxon composure of her beauty before this brown, sparkling, self-willed, imperious creature. To see her among her self-imposed domestic duties filled the doctor with a smouldering wrath against all surrounding her, which any momentary spark might set aflame.
+
+===Chinese===
+至于妮蒂自己，过了一阵，她收起针线，领着孩子们进了屋，让那件新裙子试了身，把那个满身泥浆的溪边好汉一顿数落，又替他收拾得焕然一新。然后，凭着她那双仙女般轻盈的手脚，她摆开了家常茶饭的桌子，把苏珊唤进来，又到楼上的房里去找弗雷德（Fred），丢下一句尖利扎人的话——那话连他麻木的头脑也穿透了，叫他一时之间为自己害臊起来。妮蒂从弗雷德门口转过身的时候，把自己的红嘴唇咬得发白，血色全无。为孩子们操劳，不费难——扶持苏珊、辖制苏珊，也不费难；难的是，像她这样机敏、绝不肯含糊迁就的小性子，要容得下那具无用的空壳——那个人形的沉重累赘，一个希望与生活对他都已死灭的人。她咬着嘴唇，从半开的门缝里把那支尖利刺人的箭朝他射出去，随后哼着歌下了楼，到那张她亲手摆下的桌前去入座——桌上的面包，也是她自己的钱袋供给的。屋里没有谁露出丝毫知道这层底细的样子；没有谁不把倚仗妮蒂看作天经地义。这个古怪的家庭，举止做派俨然一切都在最规矩、最寻常的常轨上进行。难怪外头的旁观者看得惊异莫名、几乎无从表达，一半气恼、一半叹服地注视着这殖民地姑娘那令人惊异的生活。
+
+看这一切的人，谁也没有莱德医生胸中郁结的那股恼恨的一半。他瞪眼望着、一一记下、细细省察，怀着一种无从描述的隐怒、义愤与不信。事情就在他眼皮底下进行，他还是不能相信。他虽是医生，也算得在一定程度上有几分科学头脑，爱德华·莱德却宁可相信世上有巫术——相信有什么迷魂汤或魔水在她心神上作祟——也不肯相信妮蒂是自愿犯傻。是犯傻吗？是英雄气概吗？还是像她自己说的，不过是单纯的必要？没有人答得上这个问题。这件事在伍德豪斯小姐看来，同在莱德医生看来一样不可思议，只是不像攫住他那样攫住她。说到底，在这个棕褐色、亮闪闪、任性而专断的精灵面前，贝西·克里斯琴那撒克逊式沉静的美，相形之下变得温吞平淡了。看着她在自己揽下的家务操劳中间周旋，医生便对着她周围的一切人憋着一股郁火，随便哪一点转瞬的火星溅上去，都能把它点着。

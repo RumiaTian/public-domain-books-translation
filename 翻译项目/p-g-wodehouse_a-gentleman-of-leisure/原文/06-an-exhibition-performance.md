@@ -1,0 +1,57 @@
+## VI An Exhibition Performance
+Cold reason may disapprove of wagers, but without a doubt there is something joyous and lovable in the type of mind which rushes at the least provocation into the making of them, something smacking of the spacious days of the Regency. Nowadays the spirit seems to have deserted England. When Mr. Lloyd George became Premier of Great Britain no earnest forms were to be observed rolling peanuts along the Strand with a toothpick. When Mr. George is dethroned it is improbable that any Briton will allow his beard to remain unshaved until his pet party returns to office. It is in the United States that the wager has found a home. It is characteristic of some minds to dash into a wager with the fearlessness of a soldier in a forlorn hope, and, once in, to regard it almost as a sacred trust. Some men never grow up out of the schoolboy spirit of “daring.”
+To this class Jimmy Pitt belonged. He was of the same type as the man in the comic opera who proposed to the lady because somebody bet him he wouldn’t. There had never been a time when a challenge, a “dare,” had not acted as a spur to him. In his newspaper days life had been one long series of challenges. They had been the essence of the business. A story had not been worth getting unless the getting were difficult.
+With the conclusion of his newspaper life came a certain flatness into the scheme of things. There were times, many times, when Jimmy was bored. He hungered for excitement, and life appeared to have so little to offer. The path of the rich man was so smooth, and it seemed to lead nowhere. This task of burgling a house was like an unexpected treat to a child. With an intensity of purpose which should have touched his sense of humour, but which, as a matter of fact, did not appeal to him as ludicrous in any way, he addressed himself to the work. The truth was that Jimmy was one of those men who are charged to the brim with force. Somehow the force had to find an outlet. If he had undertaken to collect birds’ eggs, he would have set about it with the same tense energy.
+Spike was sitting on the edge of his chair, dazed but happy, his head still buzzing from the unhoped-for praise. Jimmy looked at his watch. It was nearly three o’clock. A sudden idea struck him. The gods had provided gifts﻿—why not take them?
+“Spike!”
+“Huh?”
+“Would you care to come and crack a crib with me now?”
+“Gee, boss!”
+“Would you?”
+“Surest t’ing you know, boss.”
+“Or, rather,” proceeded Jimmy, “would you care to crack a crib while I come along with you? Strictly speaking, I am here on vacation, but a trifle like this isn’t real work. It’s this way,” he explained. “I’ve taken a fancy to you, Spike, and I don’t like to see you wasting your time on coarse work. You have the root of the matter in you, and with a little coaching I could put a polish on you. I wouldn’t do this for everyone, but I hate to see a man bungling who might do better! I want to see you at work. Come right along and we’ll go uptown and you shall start in. Don’t get nervous. Just work as you would if I were not there. I shall not expect too much. Rome was not built in a day. When we are through I will criticise a few of your mistakes. How does that suit you?”
+“Gee, boss! Great! And say, I knows just de places. A friend of mine puts me wise to it. Leastways, I didn’t know he was me friend, but I falls for him now. It’s a﻿—”
+“Very well, then. One moment, though.”
+He went to the telephone. Before he had left New York on his travels, Arthur Mifflin had been living at an hotel near Washington Square. It was probable that he was still there. He called up the number. The night clerk was an old acquaintance of his.
+“Hullo, Dixon!” said Jimmy, “is that you? I’m Pitt. Pitt. Yes. I’m back. How did you guess? Yes, very pleasant, thanks. Has Mr. Mifflin come in yet? Gone to bed? Never mind, ring him up, will you? Thanks.” Presently the sleepy and outraged voice of Mr. Mifflin spoke at the other end of the line.
+“What’s wrong? Who the devil’s that?”
+“My dear Arthur! Where you pick up such expressions I can’t think. Not from me.”
+“Is that you, Jimmy? What in the name of﻿—”
+“Heavens! what are you kicking about? The night’s yet young. Arthur, touching that little arrangement we made﻿—cracking that crib, you know. Are you listening? Have you any objection to my taking an assistant along with me? I don’t want to do anything contrary to our agreement, but there’s a young fellow here who’s anxious that I should let him come along and pick up a few hints. He’s a professional all right. Not in our class, of course, but quite a fair rough workman. He﻿—Arthur! Arthur! These are harsh words! Then am I to understand you have no objection? Very well. Only don’t say later on that I didn’t play fair. Good night.”
+He hung up the receiver and turned to Spike.
+“Ready?”
+“Ain’t youse goin’ to put on your gumshoes, boss?”
+Jimmy frowned reflectively, as if there was something in what this novice suggested. He went into the bedroom, and returned wearing a pair of thin patent leather shoes.
+Spike coughed tentatively.
+“Won’t youse need your gun?” he hazarded.
+Jimmy gave a short laugh.
+“I work with my brains, not guns,” he said. “Let us be going.”
+There was a taxicab near by, as there always is in New York. Jimmy pushed Spike in.
+The luxury of riding in a taxicab kept Spike dumb for several miles. At One Hundred and Fiftieth Street Jimmy stopped the cab and paid the driver, who took the money with that magnificently aloof air which characterizes the taxi-chauffeur. A lesser man might have displayed some curiosity about the ill-matched pair. The chauffeur, having lit a cigarette, drove off without any display of interest whatsoever. It might have been part of his ordinary duties to drive gentlemen in evening clothes and shock-headed youths in parti-coloured sweaters about the city at three o’clock in the morning.
+“We will now,” said Jimmy, “stroll on and prospect. It might excite comment if we drove up to the door. It is up to you, Spike. Lead me to this house you mentioned.”
+They walked on, striking eastward out of Broadway. It caused Jimmy some surprise to find that much-enduring thoroughfare extended as far as this. It had never occurred to him before to ascertain what Broadway did with itself beyond Times Square. He had spent much of his time abroad, in cities where a street changes its name every hundred yards or so without any apparent reason.
+It was darker now that they had moved from the centre of things, but it was still far too light for Jimmy’s tastes. He was content, however, to leave matters entirely in his companion’s charge. Spike probably had his method for evading publicity on these occasions.
+Spike, meanwhile, plodded steadily onwards. Block after block he passed, until finally the houses began to be more scattered.
+At length he stopped outside a fair-sized detached house. As he did so a single raindrop descended with a splash on the nape of Jimmy’s neck. In another moment the shower had begun﻿—jerkily at first, then, as if warming to its work, with the quiet persistence of a shower-bath.
+“Dis is de place, boss,” said Spike.
+From a burglar’s point of view it was an admirable house. It had no porch, but there was a handy window only a few feet from the ground. Spike pulled from his pocket a small bottle and a piece of coarse paper.
+“What’s that?” inquired Jimmy.
+“Treacle, boss,” said Spike deferentially.
+He poured the contents of the bottle onto the paper, which he pressed firmly against the windowpane. Then, drawing out a short steel instrument, he gave the paper a sharp tap. The glass beneath broke, though the sound was almost inaudible. The paper came away with the glass attached, then Spike inserting his hand in the opening, shot back the catch and softly pushed up the window.
+“Elementary,” said Jimmy; “elementary, but quite neat.”
+There was now a shutter to be negotiated. This took longer, but in the end Spike’s persuasive methods prevailed.
+Jimmy became quite cordial.
+“You have been well grounded, Spike,” he said. “And, after all, that is half the battle. The advice I give to every novice is ‘Learn to walk before you try to run.’ Master the A.B.C. of the craft first. With a little careful coaching you will do. Just so. Pop in.”
+Spike climbed cautiously over the sill, followed by Jimmy. The latter struck a match and found the electric light switch. They were in a parlour furnished and decorated with surprising taste. Jimmy had expected the usual hideousness, but here everything, from the wallpaper to the smallest ornaments, was wonderfully well selected.
+Business, however, was business. This was no time to stand admiring artistic efforts in room furnishing. There was that big J to be carved on the front door. If ’twere done, then ’twere well ’twere done quickly.
+He was just moving to the door, when from some distant part of the house came the bark of a dog. Another joined in. The solo became a duet. The air was filled with their clamour.
+“Gee!” cried Spike.
+The remark seemed more or less to sum up the situation.
+“ ’Tis sweet,” says Byron, “to hear the watchdog’s honest bark.” Jimmy and Spike found two watchdogs’ honest barks cloying. Spike intimated this by making a feverish dash for the open window. Unfortunately for the success of this manoeuvre, the floor of the room was covered, not with a carpet, but with tastefully scattered rugs, and underneath these rugs it was very highly polished. Spike, treading on one of these islands, was instantly undone. No power of will or muscle can save a man in such a case. Spike skidded. His feet flew from under him. There was a momentary flash of red hair, as of a passing meteor. The next moment he had fallen on his back with a thud which shook the house, and probably the rest of Manhattan Island as well. Even in that crisis the thought flashed across Jimmy’s mind that this was not Spike’s lucky night.
+Upstairs the efforts of the canine choir had begun to resemble the “A che la morte” duet in *Il Trovatore*. Particularly good work was being done by the baritone dog.
+Spike sat up, groaning. Equipped though he was by nature with a skull of the purest and most solid ivory, the fall had disconcerted him. His eyes, like those of Shakespeare’s poet, rolling a fine frenzy, did glance from heaven to earth, from earth to heaven. He passed his fingers tenderly through his vermilion hair.
+Heavy footsteps were descending the stairs. In the distance the soprano dog had reached A in alto and was holding it, while his fellow artiste executed runs in the lower register.
+“Get up!” hissed Jimmy. “There’s somebody coming! Get up, you idiot, can’t you?”
+It was characteristic of Jimmy that it never even occurred to him to desert the fallen one and depart alone. There was once an Italian convict who, in planning a jail-breaking, assigned to his brother felons such duties as shooting the governor and strangling the warders, reserving for himself the task of making “da gran’ escape.” Jimmy was the exact opposite of this strategist. Spike was his brother-in-arms. He would as soon have thought of deserting him as a sea captain would have abandoned his ship.
+Consequently, as Spike, despite all exhortations, continued to remain on the floor, rubbing his head and uttering “Gee!” at intervals in a melancholy voice, Jimmy resigned himself to fate, and stood where he was, waiting for the door to open.
+It opened the next moment as if a cyclone had been behind it.

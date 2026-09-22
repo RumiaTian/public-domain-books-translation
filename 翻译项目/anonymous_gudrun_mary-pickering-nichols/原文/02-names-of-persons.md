@@ -1,0 +1,24 @@
+## Names of Persons
+- Ger﻿—an early king of Ireland, grandfather of Hagen.
+- U-te﻿—wife of Ger.
+- Sigeband﻿—son of Ger and U-te.
+- U-te﻿—a Norwegian princess, wife of Sigeband.
+- Hagen﻿—son of Sigeband and the second U-te, and grandfather of Gudrun.
+- Hilda﻿—a princess of India, wife of Hagen.
+- Hilda﻿—daughter of Hagen, wife of Hettel.
+- Hettel﻿—king of the Hegelings, husband of Hilda, and father of Gudrun and Ortwin.
+- Gudrun﻿—daughter of Hettel and Hilda.
+- Ortwin﻿—prince of Ortland, son of Hettel and Hilda.
+- Wâ-te﻿—vassal of Hettel.
+- Fru-te﻿—vassal of Hettel.
+- Horant﻿—vassal of Hettel.
+- Morunc﻿—vassal of Hettel.
+- Irold﻿—vassal of Hettel.
+- Ludwig﻿—king of Normandy.
+- Gerlind﻿—wife of Ludwig.
+- Hartmut﻿—son of Ludwig and Gerlind, a suitor for Gudrun.
+- Ortrun﻿—daughter of Ludwig and Gerlind.
+- Siegfried﻿—king of Moorland, a suitor for Gudrun.
+- Herwic﻿—king of Sealand, betrothed to Gudrun.
+- Hildeburg﻿—maiden companion of Gudrun.
+- Hergart﻿—maiden companion of Gudrun.

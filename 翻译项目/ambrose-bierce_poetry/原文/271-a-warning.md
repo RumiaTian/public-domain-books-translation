@@ -1,0 +1,6 @@
+## A Warning
+
+Cried Age to Youth: “Abate your speed!﻿—
+The distance hither’s brief indeed.”
+But Youth pressed on without delay﻿—
+The shout had reached but half the way.

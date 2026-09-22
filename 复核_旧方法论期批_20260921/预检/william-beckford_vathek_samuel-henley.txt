@@ -1,0 +1,89 @@
+ (3 files)
+  块: O=185 C=185 OK | 段: EN=523 CN=523 OK
+  英文残留(剔括注) top: Herbelot×9, Al×4, Koran×4, Habesci×3, State×3, of×3, the×3, Ottoman×3, Empire×3, ch×3
+  项目说明备注: 正文集中在单一 vathek.md（207KB）：中篇形态但单文件超限，按通用翻译引擎第七节分 3-4 段，委派子代理在独立上下文完成，连贯性靠术语表与分段衔接；preface/endnotes 独立成篇。 /  / ## 篇目清单 /  / 由 `translation_queue.csv` 管理（3 篇，约 215KB）。
+  -- 术语表硬约束行 83 条:
+     Vathek                         → 瓦提克                  源×125   译×127  
+     Carathis                       → 卡拉希丝                 源×79    译×80   
+     Nouronihar                     → 努罗尼哈                 源×87    译×87   
+     Gulchenrouz                    → 古尔申鲁兹                源×54    译×54   
+     the Giaour                     → 吉奥尔                  源×28    译×38   
+     Eblis                          → 埃布利斯                 源×11    译×11   
+     the Hall of Eblis / the subter → 埃布利斯之殿／地下宫殿          源×5     译×5    
+     Istakar                        → 伊斯特卡尔                源×10    译×10   
+     Rocnabad                       → 罗克纳巴德                源×4     译×5    
+     Gian Ben Gian                  → 吉安·本·吉安              源×2     译×2    
+     Muhammad Ebn Edris al Shafei   → 穆罕默德·伊本·伊德里斯·沙菲      源×1     译×1    
+     Al Mouhadethin                 → 阿尔·穆哈德辛              源×3     译×3    
+     Masulipatan                    → 马苏利帕塔姆               源×1     译×1    
+     Tigris                         → 底格里斯河                源×2     译×2    
+     Gulchissar                     → 古尔奇萨尔                源×1     译×1    
+     Franguestan                    → 法兰吉斯坦                源×1     译×1    
+     Samarah                        → 萨迈拉                  源×25    译×25   
+     Motassem                       → 穆塔西姆                 源×3     译×3    
+     Haroun Al Raschid              → 哈伦·阿尔·拉希德            源×2     译×2    
+     the race of the Abassides      → 阿拔斯王族                源×2     译×2    
+     hill of Pied Horses            → 杂色马山                 源×2     译×2    
+     palace of Alkoremmi            → 阿尔科雷米宫               源×1     译×1    
+     Mani                           → 摩尼                   源×1     译×1    
+     Omar Ben Abdalaziz             → 奥马尔·本·阿卜杜勒-阿齐兹       源×1     译×1    
+     Nimrod                         → 宁录                   源×2     译×2    
+     Genii                          → 精灵                   源×14    译×25   
+     Houris                         → 天女                   源×1     译×2    
+     vizier                         → 维齐尔                  源×9     译×17   
+     Morakanabad                    → 莫拉卡纳巴德               源×23    译×13    落位偏低 13/23
+     isle of Kirmith                → 基尔米斯岛                源×1     译×1    
+     sequin                         → 塞昆                   源×0     译×1     ★源0次(幽灵?)
+     seraglio / harem               → 后宫                   源×21    译×22   
+     the Indian                     → 印度人                  源×21    译×25   
+     Bababalouk                     → 巴巴巴鲁克                源×55    译×55   
+     Circassians                    → 切尔克斯女奴               源×3     译×0     ★译0次(未落位?)
+     divan                          → 御前会议                 源×2     译×3    
+     muezzin                        → 宣礼员                  源×0     译×2     ★源0次(幽灵?)
+     plain of Catoul                → 卡图勒平原                源×4     译×3    
+     Soliman Ben Daoud              → 苏莱曼·本·达乌德            源×2     译×2    
+     Muhammad                       → 穆罕默德                 源×18    译×24   
+     Caliph                         → 哈里发                  源×151   译×157  
+     Kaf                            → 卡夫山                  源×7     译×5    
+     Simurgh                        → 西摩格                  源×2     译×3    
+     Afreet / Afreets               → 阿弗里特                 源×10    译×12   
+     Deggial                        → 德贾尔                  源×0     译×1     ★源0次(幽灵?)
+     Ali Hassan                     → 阿里·哈桑                源×3     译×3    
+     Dive / Dives                   → 迪夫                   源×15    译×15   
+     Ghouls                         → 食尸鬼                  源×6     译×8    
+     Peries                         → 佩丽仙女                 源×1     译×2    
+     Giamschid                      → 加姆希德                 源×4     译×4    
+     Serendib                       → 细轮迪卜岛                源×1     译×1    
+     Philomel                       → 菲洛墨拉                 源×1     译×1    
+     Aracan                         → 阿拉坎                  源×1     译×1    
+     Meimoune                       → 美穆奈                  源×3     译×3    
+     symar                          → 西玛尔长袍                源×1     译×2    
+     Imams                          → 伊玛目                  源×1     译×2    
+     sherbet                        → 果汁露                  源×3     译×1     落位偏低 1/3
+     Monker and Nakir               → 孟凯尔与纳基尔              源×1     译×1    
+     Dilara                         → 迪拉拉                  源×6     译×6    
+     magi / the Magi                → 祆教祭司                 源×6     译×2     落位偏低 2/6
+     Nerkes                         → 内尔克斯                 源×7     译×7    
+     Cafour                         → 卡富尔                  源×7     译×7    
+     Myrabolan comfit               → 诃黎勒蜜饯                源×1     译×1    
+     Santons                        → 苦修圣僧                 源×9     译×2     落位偏低 2/9
+     Shiraz                         → 设拉子                  源×5     译×6    
+     Moullahs                       → 毛拉                   源×2     译×2    
+     Koran                          → 《古兰经》                源×12    译×9    
+     Calenders                      → 卡连德尔游方僧              源×2     译×1    
+     Dervises                       → 托钵僧                  源×2     译×5    
+     Motavakel                      → 穆塔瓦基勒                源×2     译×2    
+     Fakreddin                      → 法克雷丁                 源×19    译×19   
+     Sutlememe                      → 苏特莱梅梅                源×16    译×16   
+     Shaban                         → 沙班                   源×11    译×11   
+     Alboufaki                      → 阿尔布法基                源×13    译×13   
+     Sheiks                         → 谢赫                   源×2     译×2    
+     Cadis                          → 卡迪                   源×1     译×1    
+     Sheddad                        → 谢达德                  源×1     译×1    
+     Aherman                        → 阿赫曼                  源×2     译×2    
+     Argenk                         → 阿尔根克                 源×1     译×1    
+     Ouranabad                      → 乌拉纳巴德                源×1     译×1    
+     Sansar                         → 桑萨尔                  源×1     译×1    
+     Kalilah                        → 卡利拉                  源×1     译×1    
+     Balkis                         → 巴尔吉丝                 源×1     译×1    
+====================================================================================================

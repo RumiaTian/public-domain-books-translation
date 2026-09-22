@@ -1,0 +1,432 @@
+====================================================================================================
+### h-beam-piper_space-viking  (27 files)
+  块: O=412 C=412 OK | 段: EN=1502 CN=1563 !!差 -61
+     [不对称] 01-i.md                                              O=9 C=9 段EN=43 段CN=45
+     [不对称] 02-ii.md                                             O=12 C=12 段EN=46 段CN=47
+     [不对称] 04-iv.md                                             O=8 C=8 段EN=28 段CN=30
+     [不对称] 05-v.md                                              O=14 C=14 段EN=54 段CN=55
+     [不对称] 06-vi.md                                             O=17 C=17 段EN=56 段CN=57
+     [不对称] 07-vii.md                                            O=16 C=16 段EN=55 段CN=57
+     [不对称] 08-viii.md                                           O=24 C=24 段EN=67 段CN=68
+     [不对称] 09-ix.md                                             O=15 C=15 段EN=74 段CN=76
+     [不对称] 10-x.md                                              O=10 C=10 段EN=29 段CN=32
+     [不对称] 11-xi.md                                             O=9 C=9 段EN=41 段CN=43
+     [不对称] 12-xii.md                                            O=26 C=26 段EN=77 段CN=81
+     [不对称] 14-xiv.md                                            O=13 C=13 段EN=52 段CN=55
+     [不对称] 15-xv.md                                             O=13 C=13 段EN=50 段CN=51
+     [不对称] 16-xvi.md                                            O=12 C=12 段EN=43 段CN=45
+     [不对称] 17-xvii.md                                           O=17 C=17 段EN=57 段CN=60
+     [不对称] 18-xviii.md                                          O=15 C=15 段EN=57 段CN=59
+     [不对称] 19-xix.md                                            O=12 C=12 段EN=50 段CN=53
+     [不对称] 20-xx.md                                             O=18 C=18 段EN=72 段CN=76
+     [不对称] 21-xxi.md                                            O=21 C=21 段EN=81 段CN=84
+     [不对称] 23-xxiii.md                                          O=19 C=19 段EN=74 段CN=78
+     [不对称] 24-xxiv.md                                           O=13 C=13 段EN=51 段CN=54
+     [不对称] 25-xxv.md                                            O=29 C=29 段EN=90 段CN=96
+     [不对称] 26-xxvi.md                                           O=13 C=13 段EN=48 段CN=51
+     [不对称] 27-xxvii.md                                          O=19 C=19 段EN=72 段CN=75
+  英文残留(剔括注) top: F-×1, B-×1
+  项目说明备注: - 书名定为《太空维京》（Space Viking）。未见权威通行中译本，取意译；「Space Vikings」指劫掠旧联邦的剑世界武装商团，兼具维京海盗的历史影射，正文统一译「太空维京（人）」。 / - 原文为 Standard Ebooks 制作，27 章正文按 spine 顺序分章提取；原文件名为小写罗马数字（i–xxvii），natural sort 会乱序，已统一加两位数字前缀（01-i.md … 27-xxvii.md），队列顺序＝阅读顺序。 / - 罗马数字章节标题（I–XXVII）照搬不译。 / - 舰船名在原文为斜体，译文统一加「号」，详见术语表。 / - 剑世界诸行星均以传说中的名剑命名（Gram、Excalibur、Durendal、Joyeuse 等），旧联邦诸行星多以神话人物命名（Marduk、Amaterasu、Tanith、Khepera 等），译法与背景注释见术语表。 / - 主角头衔随剧情升迁：Baron→Lord→Prince Trask / Viceroy of Tanith；Duke Angus→King Angus of Gram；Bentri
+  -- 术语表硬约束行 401 条:
+     Lucas Trask / Lucas / Trask    → 卢卡斯·特拉斯克 / 卢卡斯 / 特拉斯 源×276   译×279  
+     Elaine Karvall / Lady Elaine T → 伊莱恩·卡瓦尔 / 伊莱恩        源×6     译×63   
+     Sesar Karvall                  → 塞萨尔·卡瓦尔              源×16    译×16   
+     Lady Lavina Karvall            → 拉维娜·卡瓦尔夫人            源×3     译×3    
+     Burt Sandrasan                 → 伯特·桑德拉桑              源×4     译×4    
+     Andray Dunnan                  → 安德雷·邓南               源×51    译×51    残留「企业号」×61
+     Nevil Ormm                     → 内维尔·奥姆               源×6     译×6    
+     Duke Angus / King Angus        → 安格斯公爵 / 安格斯国王        源×60    译×58   
+     Rovard Grauffis                → 罗瓦德·格拉菲斯             源×18    译×18   
+     Otto Harkaman                  → 奥托·哈卡曼               源×28    译×29   
+     Boake Valkanhayn               → 博克·瓦尔肯海恩             源×18    译×18    残留「太空天罚号」×48
+     Garvan Spasso                  → 加文·斯帕索               源×14    译×14   
+     Guatt Kirbey                   → 古特·柯比                源×13    译×13   
+     Alvyn Karffard                 → 阿尔文·卡法德              源×20    译×20   
+     Sir Paytrik Morland            → 佩特里克·莫兰爵士            源×4     译×5    
+     Prince Simon Bentrik / Bentrik → 西蒙·本特里克亲王 / 本特里克     源×91    译×92   
+     the Count of Ravary            → 拉瓦里伯爵                源×2     译×9    
+     Princess Myrna / Crown Princes → 米尔娜公主 / 王储公主米尔娜      源×10    译×10   
+     King Mikhyl                    → 米基尔国王                源×5     译×4    
+     Crown Prince Edvard            → 埃德瓦德王储               源×7     译×13   
+     Zaspar Makann                  → 扎斯帕·马坎               源×31    译×31   
+     Duke Omfray of Glaspyth        → 格拉斯皮斯的奥姆弗雷公爵         源×1     译×2    
+     Alex Gorram                    → 亚历克斯·戈拉姆             源×8     译×8    
+     President Pedrosan Pedro       → 佩德罗桑·佩德罗总统           源×3     译×3    
+     Roger-fan-Morvill Esthersan    → 罗杰-凡-莫维尔·埃斯特桑        源×5     译×5     残留「鬼东西号」×6
+     Baron Rathmore                 → 拉思莫尔男爵               源×16    译×16   
+     Lord Valpry                    → 瓦尔普里勋爵               源×5     译×5    
+     Rolve Hemmerding               → 罗尔夫·亨默丁              源×2     译×2    
+     Sir Maxamon Zhorgay            → 马克萨蒙·佐尔盖爵士           源×1     译×0     ★译0次(未落位?)
+     Sir Nikkolay Trask             → 尼古拉·特拉斯克爵士           源×1     译×1    
+     Sir Thomas Kobbly              → 托马斯·科布利爵士            源×3     译×3    
+     King Konrad                    → 康拉德国王                源×2     译×2    
+     King Napolyan                  → 拿波利翁国王               源×0     译×1     ★源0次(幽灵?)
+     Lionel of Newhaven             → 新黑文的莱昂内尔             源×6     译×6    
+     Ffayle / Lothar Ffayle         → 菲尔 / 洛塔尔·菲尔          源×14    译×14    残留「放高利贷的」×1
+     Duke Ridgerd of Didreksburg    → 迪德雷克斯堡的里杰德公爵         源×1     译×1    
+     Sancia                         → 桑西亚                  源×1     译×1    
+     old Duke Fergus                → 老公爵弗格斯               源×1     译×1    
+     Duchess Flavia                 → 公爵夫人弗拉维娅             源×2     译×2    
+     Rodolf of Excalibur            → 埃克斯卡利伯的罗道夫           源×3     译×3    
+     Cousin Nikkolay                → 堂兄尼古拉                源×4     译×8    
+     Basil Gorram                   → 巴兹尔·戈拉姆              源×4     译×4    
+     Vann Larch                     → 范恩·拉奇                源×13    译×13   
+     Sharll Renner                  → 沙尔·伦纳                源×5     译×5    
+     Dame Cecelia                   → 塞西莉亚夫人               源×1     译×1    
+     Paul Koreff / Koreff           → 保罗·科雷夫 / 科雷夫         源×12    译×13    残留「复仇女神号」×83
+     Stefan Kintour                 → 斯特凡·金图尔              源×1     译×1    
+     Baron Manniwel                 → 曼尼韦尔男爵               源×1     译×1    
+     Captain Morbes                 → 莫布斯船长                源×1     译×1     残留「罗西南特号」×5
+     Rock Morgan                    → 洛克·摩根                源×1     译×1     残留「煤袋号」×1
+     Gunsalis Jan                   → 冈萨利斯·扬               源×1     译×1    
+     Dagró Ector                    → 达格罗·埃克托              源×2     译×2    
+     Benny the Moose                → 驼鹿本尼                 源×1     译×1    
+     Hugh Rathmore                  → 休·拉思莫尔               源×2     译×2    
+     Lady-Demoiselle Evita          → 贵小姐埃维塔               源×1     译×1    
+     Baron Valdiva                  → 瓦尔迪瓦男爵               源×1     译×1    
+     Prince Havilgar of Haulteclere → 奥特克莱尔的哈维尔加亲王         源×1     译×1    
+     Vann Humfort                   → 范恩·哈姆福特              源×1     译×1     残留「悠悠号」×6
+     Nial Burrik                    → 尼尔·伯里克               源×1     译×1     残留「福尔图娜号」×4
+     Horris Sasstroff               → 霍里斯·萨斯特罗夫            源×2     译×2     残留「诚实的霍里斯」×1
+     Captain Gurrash                → 古拉什船长                源×1     译×1     残留「公平交易号」×2
+     Joris of Bigglersport          → 比格勒斯港的乔里斯            源×1     译×1    
+     Alan of Northport              → 诺斯港的艾伦               源×1     译×1    
+     Baron Zarvas of Blackcliffe    → 布莱克克利夫的老男爵扎瓦斯        源×1     译×1    
+     Prince Vandarvant              → 凡达尔凡特亲王              源×3     译×3    
+     Princess Bentrik               → 本特里克亲王夫人             源×9     译×8    
+     Count Steven of Ravary / Count → 拉瓦里伯爵史蒂文 / 史蒂文       源×7     译×19   
+     Admiral Shefter                → 谢夫特上将                源×8     译×8    
+     Lady Valerie Alvarath          → 瓦莱丽·阿尔瓦拉特女士          源×4     译×4    
+     Crown Princess Melanie         → 王储妃梅拉妮               源×3     译×3    
+     Baron Cragdale                 → 克雷格代尔男爵              源×7     译×7    
+     Professor Pullwell             → 普尔韦尔教授               源×1     译×1    
+     Princess Lucile                → 露西尔亲王夫人              源×3     译×3    
+     Manfred Ravallo                → 曼弗雷德·拉瓦洛             源×4     译×4     残留「黑星号」×16
+     Captain Garravay               → 加拉维船长                源×3     译×3     残留「捍卫者号」×2
+     Duke Joris                     → 乔里斯公爵                源×4     译×4    
+     Queen Evita                    → 埃维塔王后                源×4     译×4    
+     Tobbin of Nergal               → 奈尔加尔的托宾              源×1     译×1    
+     Mopsy                          → 莫普西                  源×9     译×9    
+     Margot                         → 玛戈                   源×3     译×3     残留「大臣」×12
+     Dame Eunice                    → 尤妮斯女士                源×1     译×1     残留「大臣」×12
+     Sir Thomas                     → 托马斯爵士                源×1     译×1     残留「大臣」×12
+     Count Naydnayr                 → 奈德奈尔伯爵               源×1     译×1    
+     Captain Rainer                 → 赖纳船长                 源×4     译×4    
+     Fleet Admiral Bargham          → 舰队上将巴格姆              源×2     译×2    
+     Sir Thomas Kobbly（马杜克）         → 托马斯·科布利爵士            源×0     译×0     ★源0次(幽灵?) 残留「托马斯爵士」×1
+     Captain Gompertz               → 贡佩尔茨船长               源×1     译×1     残留「格伦德尔克星号」×7
+     Space Viking(s)                → 太空维京（人）              源×124   译×125  
+     the Sword-Worlds / Sword-World → 剑世界 / 剑世界人           源×26    译×54   
+     the Old Federation / the Feder → 旧联邦 / 联邦             源×37    译×46   
+     Gram                           → 格拉姆                  源×130   译×131  
+     Wardshaven                     → 沃兹港                  源×41    译×42   
+     Traskon                        → 特拉斯孔                 源×33    译×34   
+     Traskon New House              → 特拉斯孔新宅               源×6     译×6    
+     Excalibur                      → 埃克斯卡利伯               源×15    译×15   
+     Morglay                        → 莫格利                  源×7     译×7    
+     Flamberge                      → 弗朗贝尔热                源×12    译×12   
+     Durendal                       → 杜兰达尔                 源×10    译×10   
+     Joyeuse                        → 乔尤斯                  源×5     译×5    
+     Odin                           → 奥丁                   源×4     译×4    
+     Bigglersport                   → 比格勒斯港                源×13    译×14   
+     Newhaven / Northport           → 新黑文 / 诺斯港            源×10    译×10   
+     Glaspyth / Didreksburg         → 格拉斯皮斯 / 迪德雷克斯堡       源×34    译×32   
+     Haulteclere                    → 奥特克莱尔                源×10    译×10   
+     Tanith                         → 塔尼丝                  源×185   译×186  
+     the Tanith Adventure           → 塔尼丝冒险计划              源×8     译×10   
+     Tradetown                      → 贸易镇                  源×9     译×9    
+     Rivington / Rivvin             → 里文顿 / 里文             源×16    译×16   
+     Marduk                         → 马杜克                  源×109   译×150  
+     Malverton                      → 马尔弗顿                 源×9     译×9    
+     Drepplin                       → 德雷普林                 源×5     译×5    
+     Amaterasu                      → 天照                   源×34    译×36   
+     Eglonsby                       → 埃格隆斯比                源×32    译×33   
+     Beowulf                        → 贝奥武夫                 源×40    译×42   
+     Khepera                        → 凯佩拉                  源×18    译×21   
+     Stolgoland                     → 斯托尔戈兰                源×18    译×26   
+     Gimli                          → 吉姆利                  源×19    译×19   
+     Gilgamesh                      → 吉尔伽美什                源×14    译×22   
+     Jagannath                      → 贾格纳特                 源×6     译×6    
+     the Nemesis                    → 「复仇女神号」              源×1     译×83   
+     the Enterprise                 → 「企业号」                源×0     译×61    ★源0次(幽灵?)
+     the Space Scourge              → 「太空天罚号」              源×0     译×48    ★源0次(幽灵?)
+     the Lamia                      → 「拉弥亚号」               源×0     译×22    ★源0次(幽灵?)
+     the Corisande                  → 「科丽桑德号」              源×0     译×11    ★源0次(幽灵?)
+     the Viking's Gift              → 「维京赠礼号」              源×0     译×6     ★源0次(幽灵?)
+     the Harpy                      → 「哈耳庇厄号」              源×0     译×4     ★源0次(幽灵?)
+     the Curse of Cagn              → 「卡恩之咒号」              源×0     译×4     ★源0次(幽灵?)
+     the Damnthing                  → 「鬼东西号」               源×0     译×6     ★源0次(幽灵?)
+     the Grendelsbane               → 「格伦德尔克星号」            源×0     译×7     ★源0次(幽灵?)
+     the Rozinante                  → 「罗西南特号」              源×0     译×5     ★源0次(幽灵?)
+     R.M.N.S.                       → 马杜克王家海军舰（R.M.N.S.）   源×3     译×3    
+     R.M.N.S. Challenger / Conquist → 「挑战者号」/「征服者号」        源×1     译×3    
+     the Black Star                 → 「黑星号」                源×0     译×16    ★源0次(幽灵?)
+     House of Ward                  → 沃德家族                 源×3     译×5    
+     Karvall mills                  → 卡瓦尔钢铁厂               源×3     译×4    
+     Panplanet News Service         → 泛行星新闻社               源×1     译×1    
+     People's Watchmen              → 人民卫士                 源×14    译×16   
+     Prince-Protector               → 护国亲王                 源×6     译×7    
+     Viceroy of Tanith              → 塔尼丝总督                源×4     译×2     落位偏低 2/4
+     kreggs                         → 克雷格兽                 源×3     译×4    
+     civilized planet(s)            → 文明星球                 源×18    译×17   
+     Neobarbarian(s)                → 新蛮族                  源×7     译×8    
+     contragravity                  → 反重力                  源×26    译×26   
+     aircar                         → 飞行车                  源×8     译×13   
+     astrogator                     → 领航员                  源×12    译×12   
+     hyperdrive                     → 超空间引擎                源×7     译×6    
+     microjump                      → 微跃迁                  源×7     译×9    
+     collapsium                     → 塌缩素                  源×5     译×5    
+     carniculture (vats)            → 肉类培养（槽）              源×5     译×4    
+     veridicator                    → 测真仪                  源×1     译×1    
+     Galactic Standard day/hour     → 银河标准日/小时             源×16    译×64   
+     Old Terran / Terra             → 古地球的 / 泰拉            源×21    译×16   
+     Karval House                   → 卡瓦尔宅邸                源×1     译×6    
+     the Palace                     → 公爵府                  源×14    译×6     落位偏低 6/14
+     serving-robot / robo-table     → 服务机器人 / 机器人餐桌        源×1     译×4    
+     Southmain Continent            → 索斯梅因大陆               源×2     译×2    
+     System States Alliance         → 星系国家联盟               源×1     译×1    
+     Abigor                         → 阿比戈尔                 源×1     译×1    
+     the Big War                    → 大战                   源×4     译×5    
+     the Interstellar Wars          → 星际战争                 源×1     译×2    
+     Atomic Era                     → 原子纪元                 源×2     译×7     残留「前原子纪元」×5
+     the Terran Federation          → 泰拉联邦                 源×4     译×6    
+     the First Federation / the Sec → 第一联邦 / 第二联邦          源×2     译×2    
+     Nifflheim                      → 尼弗尔海姆                源×5     译×5    
+     Em-See-Square                  → 埃姆-西-平方              源×6     译×6    
+     vaqueros                       → 牛仔                   源×2     译×2    
+     roboticians                    → 机器人技师                源×1     译×1    
+     Lady-Demoiselle                → 贵小姐                  源×4     译×4    
+     Sword of State                 → 国剑                   源×2     译×2    
+     Ducal Salute                   → 《公爵礼号》               源×1     译×1    
+     Nobles’ Wedding March          → 《贵族婚礼进行曲》            源×1     译×1    
+     Westlands Telecast & Teleprint → 西地电视电传               源×2     译×4    
+     bisonoid                       → 野牛兽                  源×6     译×6    
+     University of Camelot          → 卡梅洛特大学               源×1     译×1    
+     Hoth                           → 霍斯                   源×9     译×9    
+     Nergal                         → 奈尔加尔                 源×5     译×6    
+     Dagon                          → 达贡                   源×4     译×4    
+     Xochitl                        → 索奇特尔                 源×42    译×44    残留「花」×50
+     Xipototec                      → 希波托特克                源×2     译×2    
+     Elmersans                      → 埃尔默桑人                源×2     译×2    
+     Curtana                        → 库尔塔纳                 源×5     译×5    
+     Windsor                        → 温莎                   源×1     译×1    
+     Abbot lift-and-drive           → 阿伯特升举-推进机组           源×2     译×3    
+     Dillingham hyperdrive          → 迪林厄姆超空间引擎            源×1     译×1    
+     vicar-baron                    → 代理男爵                 源×1     译×1    
+     pinnace                        → 舰载艇                  源×11    译×23   
+     tramp freighter                → 不定期货船                源×2     译×2    
+     carabao                        → 水牛                   源×0     译×2     ★源0次(幽灵?)
+     robomedic                      → 自动医疗床                源×3     译×4    
+     encephalograph                 → 脑电描记仪                源×1     译×1    
+     caduceus                       → 双蛇杖                  源×1     译×1    
+     Dunnan House                   → 邓南宅邸                 源×2     译×2    
+     beret-jewel                    → 贝雷帽饰针                源×1     译×1    
+     Ertado’s Star                  → 埃尔塔多之星               源×2     译×2    
+     Gehenna                        → 欣嫩谷                  源×9     译×9    
+     Van Allen belt                 → 范艾伦带                 源×2     译×3    
+     planetbuster                   → 碎星弹                  源×3     译×3    
+     mess-robot                     → 供餐机器人                源×1     译×1    
+     microray                       → 微射线                  源×3     译×3    
+     impulse-code                   → 脉冲电码                 源×2     译×3    
+     screen combination             → 屏蔽频率组合               源×5     译×3    
+     Set                            → 赛特                   源×19    译×2     落位偏低 2/19
+     Hertha                         → 赫尔塔                  源×1     译×1    
+     Melkarth                       → 梅尔卡特                 源×6     译×6    
+     spaceport                      → 航天港                  源×24    译×26   
+     showback                       → 回像屏                  源×1     译×0     ★译0次(未落位?)
+     viewscreen                     → 舷景屏                  源×5     译×5    
+     subneutron bomb / Omega-ray bo → 亚中子弹 / 奥米伽射线弹        源×2     译×2    
+     command-council                → 指挥委员会                源×0     译×1     ★源0次(幽灵?)
+     Prince Viktor                  → 维克托亲王                源×12    译×12   
+     Nikky Gratham / the Grathams   → 尼基·格拉瑟姆 / 格拉瑟姆家族     源×6     译×5    
+     the Everrards                  → 埃弗拉德家族               源×5     译×6    
+     Colada                         → 科拉达                  源×1     译×1    
+     Gilgameshers                   → 吉尔伽美什人               源×18    译×31   
+     lifter-skid                    → 升运滑板                 源×2     译×3    
+     poncho                         → 蓬乔                   源×1     译×2    
+     sepoy army                     → 西帕依式仆从军              源×1     译×0     ★译0次(未落位?)
+     pay-token                      → 工钱代币                 源×1     译×1    
+     commissary                     → 消费社                  源×1     译×1    
+     landing stage                  → 着陆台                  源×8     译×8    
+     Lingua Terra                   → 泰拉通用语                源×2     译×2    
+     Sol system                     → 太阳系                  源×1     译×1    
+     sepoy(s)                       → 西帕依兵                 源×1     译×1    
+     livery-and-maintenance         → 号衣豢养                 源×1     译×1    
+     trade tokens                   → 贸易代币                 源×1     译×1    
+     microbooks                     → 缩微图书                 源×3     译×3    
+     Lord Trask of Tanith           → 塔尼丝的特拉斯克勋爵           源×2     译×2    
+     Admiral Harkaman               → 哈卡曼上将                源×3     译×3    
+     stellar(s)                     → 恒星币                  源×5     译×5    
+     Gresham's law                  → 格雷欣法则                源×1     译×1     残留「坏教养驱逐好教养」×1
+     saw the elephant               → 见过大象                 源×1     译×1    
+     megathere                      → 大地懒                  源×0     译×1     ★源0次(幽灵?)
+     combat car                     → 作战飞车                 源×3     译×3    
+     air-cavalry mount / air-cavalr → 空骑坐骑 / 空骑兵           源×2     译×3    
+     Terro-human(s)                 → 泰拉人类                 源×1     译×1    
+     Member Republic                → 成员共和国                源×1     译×1    
+     alcodote-vitamin pills         → 解醇维生素药丸              源×1     译×1    
+     Great Satan                    → 伟大的撒旦                源×7     译×8    
+     the Princess of Lyonesse       → 「里昂内丝公主号」            源×0     译×1     ★源0次(幽灵?)
+     hellburner                     → 地狱燃烧弹                源×3     译×6    
+     Bethe solar-phoenix reaction   → 贝特太阳凤凰反应             源×1     译×1    
+     Tizona                         → 提佐纳                  源×1     译×1    
+     giraffe-birds                  → 长颈鹿鸟                 源×1     译×1    
+     power-unit cartridge           → 动力单元弹                源×2     译×2    
+     Gram gum-pear brandy           → 格拉姆树胶梨白兰地            源×1     译×1    
+     the Coalsack                   → 「煤袋号」                源×0     译×1     ★源0次(幽灵?)
+     Neobarbs                       → 新蛮子                  源×2     译×3    
+     subcrit display                → 亚临界示威弹               源×1     译×1    
+     Council of Syndics             → 辛迪加理事会               源×3     译×3    
+     Syndicate / Syndic(s)          → 辛迪加 / 辛迪加代表          源×6     译×7    
+     Corporate State                → 企业国家                 源×1     译×1    
+     credit                         → 信用                   源×5     译×3    
+     Stolgonopolis                  → 斯托尔戈诺波利斯             源×2     译×2    
+     air-lorry / air-lorries        → 空中货车                 源×1     译×1    
+     reaction-plant                 → 反应堆                  源×1     译×4    
+     mass-energy converter          → 质能转换器                源×3     译×3    
+     collapsed-matter producer      → 塌缩物质生产机              源×1     译×1    
+     gentlemen-adventurers          → 绅士冒险者                源×3     译×1     落位偏低 1/3
+     Battle of Beowulf              → 贝奥武夫之战               源×1     译×1    
+     gadolinium                     → 钆                    源×10    译×11   
+     plutonium                      → 钚                    源×8     译×9    
+     the Queen Flavia               → 「弗拉维娅王后号」            源×0     译×7     ★源0次(幽灵?)
+     shuttle-craft                  → 梭运艇                  源×1     译×1    
+     Bank of Wardshaven             → 沃兹港银行                源×2     译×2    
+     theo-socialism                 → 神权社会主义               源×1     译×1    
+     Chermosh                       → 切尔莫什                 源×6     译×7    
+     Yah the Almighty               → 全能的亚                 源×1     译×1    
+     the Big Board                  → 大标图板                 源×2     译×2    
+     the Alborak                    → 「阿尔博拉克号」             源×0     译×2     ★源0次(幽灵?)
+     the Starhopper                 → 「跃星者号」               源×0     译×8     ★源0次(幽灵?)
+     Teodor Vaghn                   → 特奥多尔·瓦恩              源×2     译×2     残留「跃星者号」×8
+     Imhotep                        → 印何阗                  源×7     译×7    
+     Agni                           → 阿耆尼                  源×5     译×5    
+     Irminsul                       → 伊尔明苏尔                源×1     译×1    
+     Uller                          → 乌勒尔                  源×1     译×1    
+     Zarathustra                    → 琐罗亚斯德                源×2     译×2    
+     Isis                           → 伊西斯                  源×2     译×2    
+     Baldur                         → 巴德尔                  源×4     译×5    
+     Aton                           → 阿顿                   源×8     译×9    
+     Dai-Butu                       → 大佛                   源×0     译×1     ★源0次(幽灵?)
+     the Yo-Yo                      → 「悠悠号」                源×0     译×6     ★源0次(幽灵?)
+     the Bolide                     → 「火流星号」               源×0     译×7     ★源0次(幽灵?) 残留「企业号」×61
+     the Fortuna                    → 「福尔图娜号」              源×0     译×4     ★源0次(幽灵?)
+     the Honest Horris              → 「诚实霍里斯号」             源×0     译×11    ★源0次(幽灵?)
+     the Fairdealer                 → 「公平交易号」              源×0     译×2     ★源0次(幽灵?)
+     the Blue Comet                 → 「蓝彗星号」               源×0     译×6     ★源0次(幽灵?)
+     the Corisande II               → 「科丽桑德二世号」            源×0     译×4     ★源0次(幽灵?)
+     the Speedwell                  → 「顺遂号」                源×0     译×2     ★源0次(幽灵?)
+     the Goodhope                   → 「好望号」                源×0     译×2     ★源0次(幽灵?)
+     Ithunn                         → 伊通恩                  源×1     译×1     残留「企业号」×61 残留「火流星号」×7
+     Bank of Tanith                 → 塔尼丝银行                源×2     译×2    
+     Royal Exchequer                → 王家金库                 源×1     译×1    
+     cap-of-maintenance             → 尊严冠                  源×3     译×3    
+     Vitharr                        → 维塔尔                  源×1     译×1    
+     Tetragrammaton                 → 四字神名                 源×7     译×7    
+     the House of Hoylbar           → 霍伊尔巴家族               源×1     译×1    
+     Rimmon                         → 临门                   源×2     译×2    
+     heaven-tea                     → 天茶                   源×1     译×1    
+     skunk-apple oil                → 臭鼬果油                 源×1     译×0     ★译0次(未落位?)
+     hypership                      → 超空间飞船                源×1     译×3    
+     normal-drive                   → 正常驱动                 源×1     译×1    
+     hall-car                       → 廊道车                  源×2     译×2    
+     terror-raid                    → 恐吓性劫掠                源×2     译×3    
+     Beowulfers                     → 贝奥武夫人                源×6     译×5    
+     Seshat                         → 塞沙特                  源×4     译×4    
+     Obidicut                       → 奥比迪卡特                源×2     译×2    
+     Lugaluru                       → 卢加卢鲁                 源×2     译×2     残留「王」×468
+     Audhumla                       → 奥德姆布拉                源×17    译×14    残留「企业号」×61
+     Jannsboro                      → 扬斯伯勒                 源×1     译×1    
+     the Victrix                    → 「维克特里克斯号」            源×0     译×16    ★源0次(幽灵?) 残留「胜利」×2
+     space armor                    → 太空装甲服                源×2     译×4    
+     damnthing                      → 鬼东西兽                 源×7     译×1     落位偏低 1/7 残留「鬼东西号」×6
+     Fafnir mantichore              → 法夫纳曼提克尔兽             源×1     译×1    
+     the Assembly                   → 议会                   源×5     译×5    
+     Chamber of Representatives     → 代表院                  源×6     译×8    
+     Chamber of Delegates           → 代表团院                 源×4     译×5    
+     Chancellor                     → 总理                   源×7     译×7    
+     Prime Minister                 → 首相                   源×12    译×12   
+     Planetary Nationalist          → 行星民族主义者              源×1     译×1    
+     Albigensians                   → 阿尔比派                 源×1     译×1    
+     Goldberg                       → 戈德堡                  源×1     译×1    
+     Ithavoll                       → 伊达沃尔                 源×3     译×3    
+     Ishtar                         → 伊什塔尔                 源×1     译×1    
+     Goodman                        → 掌柜                   源×4     译×8    
+     Goldberg-ocracy                → 戈德堡式政体               源×1     译×1    
+     League for Common Defense      → 共同防卫联盟               源×1     译×1    
+     Planetary Republic             → 行星共和国                源×2     译×2    
+     catastrophic decivilization /  → 灾变式文明退化 / 侵蚀式文明退化    源×2     译×0     ★译0次(未落位?)
+     Board of Inquiry               → 调查庭                  源×2     译×1    
+     Naval Intelligence             → 海军情报处                源×2     译×2    
+     Operational Planning           → 作战计划处                源×2     译×2    
+     Ship Construction              → 造舰处                  源×2     译×2    
+     Research & Development         → 研究发展处                源×2     译×2    
+     submarine detection system     → 潜艇探测系统               源×1     译×1    
+     commodore                      → 准将                   源×8     译×9    
+     ensign                         → 海军少尉                 源×1     译×1    
+     lifter-car                     → 升运车                  源×1     译×1    
+     hunting lodge                  → 猎庄                   源×4     译×4    
+     lady-companion                 → 陪侍女伴                 源×1     译×1    
+     Self-Sustaining Rotary Pension → 自续循环养老金计划            源×1     译×1    
+     People's Welfare Party         → 人民福利党                源×5     译×7    
+     Crown Loyalist Party           → 王室忠君党                源×3     译×4     残留「所谓」×8
+     swagger-stick                  → 指挥杖                  源×1     译×2    
+     Minister of the Bedchamber     → 寝宫大臣                 源×1     译×1    
+     Minister of Education          → 教育大臣                 源×1     译×1    
+     Minister of Security           → 安全大臣                 源×1     译×1    
+     Goodman Mikhyl                 → 掌柜米基尔                源×9     译×5     落位偏低 5/9 残留「掌柜（Goodman）」×1
+     Skathi                         → 斯卡蒂                  源×3     译×3    
+     Startraders, Ltd.              → 星商股份有限公司             源×1     译×1     残留「诚实霍里斯号」×11
+     Gilgamesh Interstellar Conspir → 吉尔伽美什星际阴谋            源×2     译×2    
+     Navy Moon Base                 → 海军月球基地               源×1     译×1    
+     Makannists                     → 马坎党徒                 源×1     译×2    
+     the Vindex                     → 「捍卫者号」               源×0     译×2     ★源0次(幽灵?)
+     the Ghetto                     → 隔都                   源×1     译×1    
+     Braggi                         → 布拉基                  源×1     译×1    
+     the Mad Baron of Blackcliffe   → 布莱克克利夫的疯男爵           源×1     译×0     ★译0次(未落位?)
+     Battle of Tanith               → 塔尼丝之战                源×1     译×1    
+     Back-To-Gram party / Raid-Xoch → 「回格拉姆」派 / 「即刻劫索奇特尔」派 源×4     译×1     落位偏低 1/4
+     the Durendal War               → 杜兰达尔战争               源×1     译×1    
+     Fedrig Barragon                → 费德里格·巴拉贡             源×1     译×1    
+     Captain Ravallo                → 拉瓦洛船长                源×2     译×2     残留「黑星号」×16
+     Schicklgruber                  → 希克尔格鲁伯               源×1     译×1    
+     the Sun Goddess                → 「太阳女神号」              源×0     译×6     ★源0次(幽灵?)
+     Ganpat                         → 甘帕特                  源×2     译×2    
+     Indra                          → 因陀罗                  源×1     译×1    
+     Pushan                         → 普尚                   源×1     译×1    
+     Dagon Operation                → 达贡行动                 源×1     译×1    
+     Battle of Audhumla             → 奥德姆布拉之战              源×3     译×3     残留「企业号」×61 残留「悠悠号」×6
+     Oskarsan-Elmersan War          → 奥斯卡桑-埃尔默桑战争          源×1     译×1    
+     Treaty of Khepera              → 凯佩拉条约                源×1     译×1    
+     Princely State of Tanith       → 塔尼丝亲王国               源×1     译×1    
+     Commonwealth of Beowulf        → 贝奥武夫联邦               源×1     译×1    
+     Planetary League of Amaterasu  → 天照行星联盟               源×1     译×1    
+     hitchhikers                    → 搭便车的人                源×3     译×1     落位偏低 1/3
+     Crowd of Disloyalists          → 不忠乌合党                源×1     译×2    
+     wave of the future             → 未来浪潮                 源×1     译×1    
+     Abaddon                        → 亚巴顿                  源×6     译×6    
+     the Reliable                   → 「可靠号」                源×0     译×3     ★源0次(幽灵?)
+     Tanith News Service            → 塔尼丝新闻社               源×1     译×1    
+     Mardukan Planetary Army        → 马杜克行星陆军              源×1     译×1    
+     Moonbase                       → 月球基地                 源×16    译×17   
+     the Moon of Tanith / the Moon  → 塔尼丝卫星 / 马杜克卫星        源×6     译×5    
+     Battle off Marduk / Battle on  → 「马杜克*外*之战」/「马杜克*上*之战 源×0     译×2     ★源0次(幽灵?)
+     Royal Army of Tanith           → 塔尼丝王家陆军              源×1     译×1    
+     Dowager Crown Princess         → 王储太妃                 源×1     译×1    
+     polyencephalographic veridicat → 多导脑电测真仪              源×1     译×1    
+     transpex                       → 透明护面                 源×1     译×1    
+     League of Civilized Worlds     → 文明世界联盟               源×1     译×1    
+     King of Tanith                 → 塔尼丝国王                源×5     译×6    
+     King Simon I                   → 西蒙一世国王               源×1     译×1    
+     regent                         → 摄政                   源×5     译×10   
+     Battle of Abaddon              → 亚巴顿之战                源×2     译×2    
+     King Mikhyl VIII               → 米基尔八世国王              源×2     译×2    
+     Ruthless Ravary the Demon of t → 星航魔王无情拉瓦里            源×1     译×1    
+     People’s Armed Forces          → 人民武装力量               源×1     译×1    
+     the Eclipse                    → 「日蚀号」                源×0     译×1     ★源0次(幽灵?)
+     the Champion                   → 「冠军号」                源×0     译×1     ★源0次(幽灵?)
+     the Guardian                   → 「卫士号」                源×0     译×1     ★源0次(幽灵?)
+     Ex-R.M.N.S. Paladin            → 前马杜克王家海军舰「帕拉丁号」      源×0     译×0     ★源0次(幽灵?)
+     the Banshee                    → 「报丧女妖号」              源×0     译×2     ★源0次(幽灵?)
+     the Exporter                   → 「出口商号」               源×0     译×1     ★源0次(幽灵?)
+

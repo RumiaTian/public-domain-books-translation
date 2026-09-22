@@ -1,0 +1,90 @@
+====================================================================================================
+### andre-norton_star-hunter  (13 files)
+  块: O=268 C=268 OK | 段: EN=935 CN=938 !!差 -3
+     [不对称] 03-chapter-3.md                                      O=18 C=18 段EN=52 段CN=53
+     [不对称] 09-chapter-9.md                                      O=22 C=22 段EN=84 段CN=85
+     [不对称] 13-chapter-13.md                                     O=24 C=24 段EN=71 段CN=72
+  英文残留(剔括注) top: X-Tee×7, L-B×1
+  项目说明备注: - 章节标题为罗马数字（I–XIII），正文内保留罗马数字原样，中文标题按「罗马数字 / 中文」合并格式（如 `## I / 一`，罗马数字照搬不译）。 / - 译文语调：1960 年代太空歌剧风，动作场面节奏明快；心理独白与外星意志段落（斜体意象、非人视角）需保持冷峻疏离感。 / - 人名地名统一以 `术语表.md` 为准，首次出现附原文。
+  -- 术语表硬约束行 80 条:
+     Ras Hume                       → 拉斯·休姆                源×8     译×8    
+     Vye Lansor                     → 维伊·兰索                源×7     译×7    
+     Milfors Wass                   → 米尔弗斯·瓦斯              源×1     译×1    
+     Rynch Brodie                   → 林奇·布罗迪               源×21    译×21   
+     Tharlee Kogan Brodie           → 瑟莉·科根·布罗迪            源×1     译×1    
+     Tors Wazalitz                  → 托斯·瓦扎利茨              源×2     译×2    
+     Simmons Tait                   → 西蒙斯·泰特               源×1     译×1    
+     Starns                         → 斯塔恩斯                 源×22    译×22   
+     Chambriss                      → 尚布里斯                 源×17    译×17   
+     Yactisi                        → 亚克提西                 源×13    译×13   
+     Rovald                         → 罗瓦尔德                 源×19    译×19   
+     Peake                          → 皮克                   源×8     译×8    
+     Darfu                          → 达尔富                  源×1     译×1    
+     Vorm-man                       → 沃姆人                  源×4     译×4    
+     Salarkian                      → 萨拉基人                 源×2     译×2    
+     Eucorian                       → 尤克里人                 源×1     译×1    
+     Nahuatl                        → 纳瓦特尔                 源×11    译×12   
+     Jumala                         → 朱马拉                  源×27    译×30   
+     Xipe                           → 希佩                   源×1     译×1    
+     Terra / Terran                 → 特拉 / 特拉人             源×3     译×3    
+     Sargon Two                     → 萨尔贡二号                源×1     译×1    
+     Alexbut                        → 亚历克斯巴特               源×1     译×1    
+     Altar-Ishtar                   → 阿尔塔-伊什塔尔             源×1     译×1    
+     Dugor                          → 杜戈                   源×1     译×1    
+     Out-Hunters' Guild / the Guild → 外猎公会 / 公会            源×23    译×34   
+     Out-Hunter                     → 外猎人                  源×21    译×21   
+     Master（公会元老）                   → 元老                   源×2     译×1    
+     the Center                     → 中心站                  源×3     译×1     落位偏低 1/3
+     the Patrol / Patrol Council    → 巡逻队 / 巡逻委员会          源×29    译×34   
+     Ten Sector-Terran Courts       → 十区特拉法庭               源×1     译×1    
+     Kogan-Bors-Wazalitz            → 科根-博斯-瓦扎利茨           源×4     译×4    
+     Starfall                       → 星陨（酒馆）               源×17    译×16   
+     *Largo Drift*                  → 《拉戈漂流号》              源×10    译×10   
+     *Rigal Rover*                  → 《里加尔漫游者号》            源×2     译×2    
+     L-B                            → L-B（救生艇）             源×31    译×1     落位偏低 1/31
+     flitter                        → 飘行车                  源×41    译×42   
+     needler                        → 针枪                   源×30    译×31   
+     blaster                        → 爆能枪                  源×3     译×2    
+     ray tube                       → 射线管枪                 源×24    译×25   
+     plasta-hand / plasta-flesh     → 塑胶手 / 塑肉             源×9     译×9    
+     tri-dee                        → 三维屏                  源×3     译×3    
+     T-Casts                        → 三维转播                 源×2     译×2    
+     skin-core                      → 肤核敷料                 源×1     译×1    
+     protecto-nib                   → 保护嘴                  源×1     译×1    
+     directo                        → 导向仪                  源×1     译×1    
+     con-stone                      → 混凝石                  源×1     译×1    
+     viv-root                       → 维夫根                  源×4     译×4    
+     Kardo                          → 卡多酒                  源×2     译×2    
+     tharsala lilly                 → 萨沙拉百合                源×1     译×1    
+     Veep                           → 帮首                   源×15    译×15   
+     civ                            → 平民客户                 源×8     译×16   
+     safari                         → 狩猎远征                 源×29    译×7     落位偏低 7/29
+     gearman                        → 器材员                  源×5     译×5    
+     swamper                        → 打杂工                  源×5     译×5    
+     tubeman                        → 管舱员                  源×1     译×1    
+     port-drift                     → 港口流浪儿                源×6     译×3     落位偏低 3/6
+     State child / State Child's Cr → 国家抚养儿 / 国立育婴堂        源×4     译×4    
+     Five-Hour Fever                → 五小时热病                源×1     译×1    
+     psycho-tech                    → 精神技师                 源×0     译×1     ★源0次(幽灵?)
+     verity lab                     → 测真实验室                源×1     译×1    
+     conditioner                    → 记忆调定师                源×1     译×1    
+     tape（动词：录供/记忆）                 → 录制（音带/记忆带）           源×16    译×1     落位偏低 1/16
+     Fata Rite                      → 法塔仪式                 源×1     译×1     残留「永恒天平」×1
+     Gratz chewer                   → 格拉茨嚼客                源×1     译×1    
+     Krusha dream                   → 克鲁沙之梦                源×1     译×1    
+     thaline dream                  → 萨林迷梦                 源×1     译×1    
+     smoke eater                    → 烟客                   源×1     译×1    
+     Basic Space                    → 基础太空语                源×1     译×1    
+     strong-jaw                     → 强颚兽                  源×3     译×6    
+     water-cat                      → 水猫                   源×16    译×24   
+     Syken deer                     → 赛肯鹿                  源×1     译×1    
+     planet time                    → 行星时                  源×2     译×3    
+     loan premium / premium         → 贷款保证金 / 保证金          源×6     译×5    
+     victim compensation            → 受害者补偿金               源×3     译×3    
+     recruit                        → 新丁                   源×1     译×1    
+     servio-robot                   → 伺服机器人                源×1     译×1    
+     Ozakian spider silk            → 奥扎克蜘蛛丝               源×1     译×1    
+     Flangoid flying lizard         → 弗兰戈翼蜥                源×1     译×1    
+     reconditioning                 → 精神重塑                 源×1     译×5    
+     Gentlehomo / Gentlefem         → 阁下 / 夫人              源×15    译×16   
+

@@ -1,0 +1,199 @@
+## XV
+
+The Christians to the Lions
+
+After the contest in which Lupus had been defeated there was a pause. The gladiatorial part of the show was now over, but there was greater excitement still awaiting the audience, for they knew Nero had ordered that some of the Christians were to be given to the lions. There was a hush of expectation as the door was opened, and a procession, consisting of a priest of Jupiter and several attendants of the temple, followed by four guards conducting an elderly man with his two sons, lads of seventeen or eighteen, entered. They made their way across the arena and stopped before the emperor. The priest approached the prisoners, holding out a small image of the god, and offered them their lives if they would pay the customary honours to it. All refused. They were then conducted back to the centre of the arena, and the rest, leaving them there, filed out through the door. The old man laid his hands on the shoulders of his sons and began singing a hymn, in which they both joined. Their voices rose loud and clear in the silence of the amphitheatre, and there was neither pause nor waver in the tone as the entrance to one of the cages at the other end of the arena was opened, and a lion and a lioness appeared. The animals stood hesitating as they looked round at the sea of faces, then, encouraged by the silence, they stepped out, and side by side made the circuit of the arena, stopping and uttering a loud roar as they came upon the track along which the bleeding bodies of those who had fallen had been dragged. When they had completed the circle they again paused, and now for the first time turned their attention to the three figures standing in its centre. For a minute they stood irresolute, and then crouching low crawled towards them.
+
+Beric turned his head. He could view without emotion a contest of armed men, but he could not, like the population of Rome, see unarmed and unresisting men pulled down by wild beasts. There was a dead stillness in the crowded amphitheatre, then there was a low sound as of gasping breath. One voice alone continued the hymn, and soon that too ceased suddenly. The tragedy was over, and the buzz of conversation and comment again broke out among the spectators. Certainly these Christians knew how to die. They were bad citizens, they had doubtless assisted to burn Rome, but they knew how to die.
+
+A strong body of guards provided with torches now entered. The lions were driven back to their dens, the bodies being left lying where they had fallen. Four batches of prisoners who were brought out one after another met with a similar fate. Then there was another pause. It was known that a girl of noble family was to be the last victim, and all eyes were turned to Norbanus, who, with his wife and Aemilia, sat in the front row near Nero, with two Praetorian guards standing beside them. Norbanus was deadly pale, but the pride of noble blood, the stoicism of the philosopher, and the knowledge of his own utter helplessness combined to prevent his showing any other sign of emotion. Lesbia sat upright and immovable herself. She was not one to show her emotion before the gaze of the common people.
+
+Aemilia, half insensible, would have fallen had not the guard beside her supported her. She had seen nothing of what had passed in the arena, but had sat frozen with horror beside her mother. Again the doors opened, a priest of Diana, followed by a procession of white robed attendants, and six virgins from the temple of Diana, entered, followed by Ennia between the attendants of the temple, while a band of lictors brought up the rear. Even the hardened hearts of the spectators were moved by the youth and beauty of the young girl, who, dressed in white, advanced calmly between her guards, with a gentle modest expression on her features. When the procession formed up before the emperor, she saluted him. The priest and the virgins surrounded her, and urged her to pay reverence to the statue of Diana.
+
+Pointing to her parents, they implored her for their sake to recant. Pale as death, and with tears streaming down her cheeks, she shook her head quietly. “I cannot deny the Lord who died for me,” she said.
+
+Nero himself rose from his seat. “Maiden,” he said, “if not for your own sake, for the sake of those who love you, I pray you to cease from your obstinacy. How can a child like you know more than the wisest heads of Rome? How can you deny the gods who have protected and given victory to your country? I would fain spare you.”
+
+“I am but a child, as you say, Caesar,” Ennia replied. “I have no strength of my own, but I am strong in the strength of Him I worship. He gave His life for me﻿—it is not much that I should give mine for Him.”
+
+Nero sank back on his seat with an angry wave of his hand. He saw that the sympathy of the audience was with the prisoner, and would willingly have gained their approval by extending his clemency towards her. The procession now returned to the centre of the arena, where the girls, weeping, took leave of Ennia, who soon stood alone a slight helpless figure in the sight of the great silent multitude. Nero had spoken in a low tone to one of his attendants. The door of another cage was opened, and a lion, larger in bulk than any that had previously appeared, entered the arena, saluting the audience with a deep roar. As it did so a tall figure, naked to the waist, sprang forward from the group of attendants behind a strong barrier at the other end of the arena. He was armed only with a sword which he had snatched from a soldier standing next to him. Deep murmurs of surprise rose from the spectators. The master of ceremonies exchanged a few words with the emperor, and a body of men with torches and trumpets ran forward and drove the lion back into its den. Then Beric, who had been standing in front of Ennia, advanced towards the emperor.
+
+“Who are you?” Nero asked.
+
+“I am Beric, once chief of the Iceni, now a British captive. I received great kindness on my way hither from Norbanus, the father of this maid. As we Britons are not ungrateful I am ready to defend her to the death, and I crave as a boon, Caesar, that you will permit me to battle against the lion with such arms as you may decide.”
+
+“Are you a Christian?” the emperor asked coldly.
+
+“I am not. I am of the religion of my nation, and Rome has always permitted the people that have been subdued to worship in their own fashion. I know nought of the Christian doctrines, but I know that this damsel at least can have had nought to do with the burning of Rome, and that though she may have forsaken the gods of Rome, in this only can she have offended. I pray you, and I pray this assembly, to let me stand as her champion against the beasts.”
+
+A burst of applause rose from the spectators. This was a novelty, and an excitement beyond what they had bargained for. They had been moved by the youth of the victim, and now the prospects of something even more exciting than the rending to pieces of a defenceless girl enlisted them in favour of the applicant. Moreover the Romans intensely admired feats of bravery, and that this captive should offer to face single handed an animal that was known to be one of the most powerful of those in the amphitheatre filled them with admiration. Accustomed as they were to gaze at athletes, they were struck with the physique and strength of this young Briton, with the muscles standing up massive and knotted through the white skin.
+
+“Granted, granted!” they shouted; “let him fight.”
+
+Nero waited till the acclamation ceased, and then said: “The people have spoken, let their will be done. But we must not be unfair to the lion; as the maiden was unarmed so shall you stand unarmed before the lion.”
+
+The decision was received in silence by the spectators. It was a sentence of death to the young Briton, and the silence was succeeded by a low murmur of disapproval. Beric turned a little pale, but he showed no other sign of emotion.
+
+“Thanks, Caesar, for so much of a boon,” he said in a loud, steady voice; “I accept the conditions, it being understood that should the gods of my country, and of this maiden, defend me against the lion, the damsel shall be free from all pain and penalty, and shall be restored to her parents.”
+
+“That is understood,” Nero replied.
+
+With an inclination of his head to the emperor and a wave of his hand to the audience in general, Beric turned and walked across the arena to the barrier. Scopus was standing there.
+
+“You are mad, Beric. I grieve for you. You were my favourite pupil, and I looked for great things from you, and now it has come to this, and all is over.”
+
+“All is not quite over yet, Scopus. I will try to do credit to your training; give me my cloak.” He wrapped himself in its ample folds, and then walked quietly back to the centre of the arena. A murmur of surprise rose from the spectators. Why should the Briton cumber his limbs with this garment?
+
+On reaching his position Beric again threw off the cloak, and stood in the short skirt reaching scarce to the knees. “I am unarmed,” he cried in a loud voice. “You see I have not as much as a dagger.” Then he tore off two broad strips from the edge of the garment and twisted them into ropes, forming a running noose in each, threw the cloak, which was composed of the stout cloth used by the common people, over his arm, and signed to the attendants at the cage to open the door.
+
+“Oh, Beric, why have you thrown away your life in a useless attempt to save mine?” Ennia said as he stood before her.
+
+“It may not be useless, Ennia. My god has protected me through many dangers, and your God will surely assist me now. Do you pray to Him for aid.”
+
+Then as the door of the den opened he stepped a few paces towards it. A roar of applause rose from the vast audience. They had appreciated his action in making the ropes, and guessed that he meant to use his cloak as a retiarius used his net; there would then be a contest and not a massacre. Enraged at its former treatment the lion dashed out of its den with a sudden spring, made three or four leaps forward, and then paused with its eyes fixed on the man standing in front of it, still immovable, in an easy pose, ready for instant action. Then it sank till its belly nearly touched the ground, and began to crawl with a stealthy gliding motion towards him. More and more slowly it went, till it paused at a distance of some ten yards.
+
+For a few seconds it crouched motionless, save for a slow waving motion of its tail; then with a sharp roar it sprang through the air. With a motion as quick Beric leaped aside, and as it touched the ground he sprang across its loins, at the same moment wrapping his cloak in many folds round its head, and knotting the ends tightly. Then as the lion, recovering from its first surprise, sprang to its feet with a roar of anger and disgust, Beric was on his feet beside it.
+
+For a moment it strove to tear away the strange substance which enveloped its head, but Beric dropped the end of a noose over one of its forepaws, drew it tight, and with a sudden pull jerked the animal over on its back. As it sprang up again the other forepaw was noosed, and it was again thrown over. This time, as it sprang to its feet, Beric struck it a tremendous blow on the nose. The unexpected assault for a moment brought it down, but mad with rage it sprang up and struck out in all directions at its invisible foe, leaping and bounding hither and thither. Beric easily avoided the onslaught, and taking every opportunity struck it three or four times with all his force on the ear, each time rolling it over and over. The last of these blows seemed almost to stun it, and it lay for a moment immovable.
+
+Again Beric leaped upon it, coming down astride of its loins with all his weight, and seizing at once the two ropes. The lion uttered a roar of dismay and pain, and struck at him first with one paw and then with the other. By his coolness and quickness, however, he escaped all the blows, and then, when the lion seemed exhausted, he jerked tightly the cords, twisting them behind the lion’s back and with rapid turns fastening them together. The lion was helpless now. Had Beric attempted to pull the cords in any other position it would have snapped them like pack thread, but in this position it had no strength, the pads of the feet being fastened together and the limbs almost dislocated. As the animal rolled over and over uttering roars of vain fury, Beric snatched the cloth from its head, tore off another strip, twisted it, and without difficulty bound its hind legs together. Then he again wrapped it round the lion’s head, and standing up bowed to the spectators.
+
+A mighty shout shook the building. Never had such a feat been seen in the arena before, and men and women alike standing up waved their hands with frantic enthusiasm. Beric had not escaped altogether unhurt, for as the lion struck out at him it had torn away a piece of flesh from his side, and the blood was streaming down over his white skirt. Then he went up to Ennia, who was standing with closed eyes and hands clasped in prayer. She had seen nothing of the conflict, and had believed that Beric’s death and her own were inevitable.
+
+“Ennia,” he said, “our gods have saved me; the lion is helpless.” Then she sank down insensible. He raised her on his shoulder, walked across the arena, passed the barrier, and, ascending the steps, walked along before the first row of spectators and handed her over to her mother. Then he descended again, and bowed deeply, first to the emperor and then to the still shouting people.
+
+The giver of the games advanced and placed on his head a crown of bay leaves, and handed to him a heavy purse of gold, which Beric placed in his girdle, and, again saluting the audience, rejoined Scopus, who was in a state of enthusiastic delight at the prowess of his pupil.
+
+“You have proved yourself the first gladiator in Rome,” he said. “Henceforth the school of Scopus is ahead of all its rivals. Now we must get your side dressed. Another inch or two, Beric, and the conflict would not have ended as it did.”
+
+“Yes, if the lion had not been in such a hurry to strike, and had stretched its paw to the fullest, it would have fared badly with me,” Beric said; “but it was out of breath and spiteful, and had not recovered from the blow and from the shock of my jumping on it, which must have pretty nearly broken its back. I knew it was a risk, but it was my only chance of getting its paws in that position, and in no other would my ropes have been strong enough to hold them.”
+
+“But how came you to think of fighting in that way?” Scopus asked, after the leech, who was always in attendance to dress the wounds of the gladiators, had bandaged up his side.
+
+“I never expected to have to fight the beasts unarmed,” Beric said, “but I had sometimes thought what should be done in such a case, and I thought that if one could but wrap one’s cloak round a lion’s head the beast would be at one’s mercy. Had I had but a caestus I could have beaten its skull in, but without that I saw that the only plan was to noose its limbs. Surely a man ought to be able to overcome a blinded beast.”
+
+“I would not try it for all the gold in Rome, Beric, even now that I have seen you do it. Did you mark Caesar? There is no one appreciates valiant deeds more than he does. At first his countenance was cold﻿—I marked him narrowly﻿—but he half rose to his feet and his countenance changed when you first threw yourself on the lion, and none applauded more warmly than he did when your victory was gained. Listen to them; they are shouting for you again. You must go. Never before did I know them to linger after a show was over. They will give you presents.”
+
+“I care not for them,” Beric said.
+
+“You must take them,” Scopus said, “or you will undo the favourable impression you have made, which will be useful to you should you ever enter the arena again and be conquered. Go, go!”
+
+Beric again entered the arena, and the attendants led him up to the emperor, who presented him with a gold bracelet, saying:
+
+“I will speak to you again, Beric. I had wondered that you and your people should have resisted Suetonius so long, but I wonder no longer.”
+
+Then Beric was led round the arena. Ladies threw down rings and bracelets to him. These were gathered up by the attendants and handed to him as he bowed to the givers. Norbanus, his wife, and daughter had already left their seats, surrounded by friends congratulating them, and bearing with them the still insensible girl. Having made the tour of the arena Beric again saluted the audience and retired. One of the imperial attendants met them as they left the building.
+
+“The emperor bids me say, Scopus, that when Beric is recovered from his wound he is to attend at the palace.”
+
+“I thought the emperor meant well towards you,” Scopus said. “You will in any case fight no more in the arena.”
+
+“How is that?” Beric asked in surprise.
+
+“Did you not hear the shouts of the people the last time you entered, Beric?”
+
+“I heard a great confused roar, but in truth I was feeling somewhat faint from loss of blood, and did not catch any particular sounds.”
+
+“They shouted that you were free from the arena henceforth. It is their custom when a gladiator greatly distinguishes himself to declare him free, though I have never known one before freed on his first appearance. The rule is that a gladiator remains for two years in the ring, but that period is shortened should the people deem that he has earned his life by his courage and skill. For a moment I was sorry when I heard it, but perhaps it is better as it is. Did you remain for two years, and fight and conquer at every show, you could gain no more honour than you have done. Now I will get a lectica and have you carried out to the hills. You are not fit to walk.”
+
+They were joined outside by Porus and Lupus. The former was warm in his congratulation.
+
+“By the gods, Beric, though I knew well that you would gain a great triumph in the arena when your time came, I never thought to see you thus fighting with the beasts unarmed. Why, Milo himself was not stronger, and he won thirteen times at the Olympian and Pythian games. He would have won more, but no one would venture to enter against him. Why, were you to go on practising for another five years, you would be as strong as he was, and as you are as skilful as you are strong it would go hard with any that met you. I congratulated myself, I can tell you, when I heard the people shout that you were free of the arena, for if by any chance we had been drawn against each other, I might as well have laid down my net and asked you to finish me at once without trouble.”
+
+“It was but a happy thought, Porus: if a man could be caught in a net, why not a lion blinded in a cloak? That once done the rest was easy.”
+
+“Well, I don’t want any easy jobs of that sort,” Porus said. “But let us go into a wine shop; a glass will bring the colour again to your cheeks.”
+
+“No, no, Porus,” Scopus said. “Do you and Lupus drink, and I will drink with you, but no wine for Beric. I will get him a cup of hot ass’s milk; that will give him strength without fevering his blood. Here is a place where they sell it. I will go in with him first, and then join you there; but take not too much. You have a long walk back, and I guess, Lupus, that your head already hums from the blow that Briton gave it. By Bacchus, these Britons are fine men! I thought you had got an easy thing of it, when boom! and there you were stretched out like a dead man.”
+
+“It was a trick,” Lupus said angrily, “a base trick.”
+
+“Not at all,” Scopus replied. “You fought as if in war; and in war if you had an opponent at close quarters, and could not use your sword’s point, you would strike him down with the hilt if you could. As I have told you over and over again, you are a good swordsman, but you don’t know everything yet by a long way, and you are so conceited that you never will. I hoped that drubbing Beric gave you a few days after he joined us would have done you good, but I don’t see that it has. There are some men who never seem to learn. If it had not been for you our ludus would have triumphed all round today; but when one sees a man we put forward as one of our best swordsmen defeated by a raw Briton, people may well say, ‘Scopus has got one or two good men; there is Beric, he is a marvel; and Porus is good with the net; but as for the rest, I don’t value them a straw.’ ”
+
+The enraged gladiator sprang upon Scopus, but the latter seized him by the waist and hurled him down with such force that he was unable to rise until Porus assisted him to his feet. As to Scopus, he paid him no farther attention, but putting his hand on Beric’s shoulder led him into the shop. A long draught of hot milk did wonders for Beric, and he proposed walking, but Scopus would not hear of it.
+
+“Sit down here for five minutes,” he said, “till I have a cup of wine with the others. I should think Lupus must need it pretty badly, what with the knock on the head and the tumble I have just given him. I am not sorry that he was beaten by your countryman, for since he has had the luck to win two or three times in the arena, his head has been quite turned. He would never have dared to lay his hand on me had he not been half mad, for he knows well enough that I could strangle him with one hand. The worst of him is, that the fellow bears malice. He has never forgiven you the thrashing you administered to him. Now I suppose he will be sulky for weeks; but if he does it will be worse for him, for I will cut off his wine, and that will soon bring him to his senses.”
+
+Scopus had gone but a few minutes when he returned with a lectica, which was a sort of palanquin, carried by four stout countrymen.
+
+“Really, Scopus, it is ridiculous that I should be carried along the streets like a woman.”
+
+“Men are carried as well as women, Beric, and as you are a wounded man you have a double right to be carried. Here is a bag with all those ornaments you got. It is quite heavy to lift.”
+
+The bearers protested loudly at the weight of their burden when they lifted the lectica, but the promise of a little extra pay silenced their complaints. They were scarcely beyond the city when Beric, who was weaker from loss of blood than he imagined, dozed off to sleep, and did not wake till the lectica was set down in the atrium of the house on the Alban Hills.
+
+Next morning he was extremely stiff, and found himself obliged to continue on his couch.
+
+“It is of no use your trying to get up,” Scopus said; “the muscles of your flank are badly torn, and you must remain quiet.”
+
+An hour later a rheda or four wheeled carriage drove up to the door, and in another minute Norbanus entered Beric’s cubicle. There were tears in his eyes as he held out both hands to him. “Ah, my friend,” he said, “how happy you must be in the happiness you caused to us! Who could have thought, when I entertained, as a passing guest, the friend of Pollio, that he would be the saviour of my family? You must have thought poorly of us yesterday that I was not at the exit from the amphitheatre to meet and thank you. But I hurried home with Ennia, and having left her in charge of her mother and sister came back to find you, but you had left, and I could learn no news of you. I searched for some time, and then guessing that you had been brought home by Scopus, I went back to the child, who is sorely ill. I fear that the strain has been too much for her, and that we shall lose her. But how different from what it would have been! To die is the lot of us all, and though I shall mourn my child, it will be a different thing indeed from seeing her torn to pieces before my eyes by the lion. She has recovered from her faint, but she lies still and quiet, and scarce seems to hear what is said to her. Her eyes are open, she has a happy smile on her lips, and I believe that she is well content now that she has done what she deems her duty to her God. She smiled when I told her this morning that I was coming over to see you, and said in a whisper, ‘I shall see him again, father.’ ”
+
+“Would she like to see me now?” Beric said, making an effort to rise.
+
+“No, not now, Beric. I don’t think somehow that she meant that. The leech said that she must be kept perfectly quiet; but I will send a slave with a letter to you daily. Oh, what a day was yesterday! The woes of a lifetime seemed centred in an hour. I know not how I lived as I sat there and waited for the fatal moment. All the blood in my veins seemed to freeze up as she was left alone in the arena. A mist came over my eyes. I tried to close them, but could not. I saw nothing of the amphitheatre, nothing of the spectators, nothing but her, till, at the sudden shout from the crowd, I roused myself with a start. When I saw you beside her I thought at first that I dreamed; but Aemilia suddenly clasped my arm and said, ‘It is Beric!’ Then I hoped something, I know not what, until Nero said that you must meet the lion unarmed.
+
+“Then I thought all was over﻿—that two victims were to die instead of one. I tried to rise to cry to you to go, for that I would die by Ennia, but my limbs refused to support me; and though I tried to shout I did but whisper. What followed was too quick for me to mark. I saw the beast spring at you; I saw a confused struggle; but not until I saw you rise and bow, while the lion rolled over and over, bound and helpless, did I realize that what seemed impossible had indeed come to pass, and that you, unarmed and alone, had truly vanquished the terrible beast.
+
+“I hear that all Rome is talking of nothing else. My friends, who poured in all the evening to congratulate us, told me so, and that no such feat had ever been seen in the arena.”
+
+“It does not seem much to me, Norbanus,” Beric said. “It needed only some coolness and strength, though truly I myself doubted, when Nero gave the order to fight without weapons, if it could be done. I cannot but think that Ennia’s God and mine aided me.”
+
+“It is strange,” Norbanus said, “that one so young and weak as Ennia should have shown no fear, and that the other Christians should all have met their fate with so wonderful a calm. As you know, I have thought that all religions were alike, each tribe and nation having its own. But methinks there must be something more in this when its votaries are ready so to die for it.”
+
+“Do not linger with me,” Beric said. “You must be longing to be with your child. Pray, go at once. She must be glad to have you by her, even if she says little. I thank you for your promise to send news to me daily. If she should express any desire to see me, I will get Scopus to provide a vehicle to carry me to Rome; but in a few days I hope to be about.”
+
+“Your first visit must be to Caesar, when you are well enough to walk,” Norbanus said. “They tell me he bade you come to see him, and he would be jealous did he know that he was not the first in your thoughts.”
+
+Norbanus returned to Rome, and each day a letter came to Beric. The news was always the same; there was no change in Ennia’s condition.
+
+Beric’s wound healed rapidly. Hard work and simple living had so toughened his frame that a wound that might have been serious affected him only locally, and mended with surprising rapidity. In a week he was up and about, and three days later he felt well enough to go to Rome.
+
+“You would have been better for a few days more rest,” Scopus said, “but Nero is not fond of being kept waiting; and if he really wishes to see you it would be well that you present yourself as soon as possible.”
+
+“I care nothing for Nero,” Beric said; “but I should be glad, for the sake of Norbanus, to see his daughter. It may be that my presence might rouse her and do her good. I want none of Nero’s favours; they are dangerous at best. His liking is fatal. He has now murdered Britannicus, his wife Octavia, and his mother Agrippina. He has banished Seneca, and every other adviser he had he has either executed or driven into exile.”
+
+“That is all true enough, Beric, though it is better not said. Still, you must remember you have no choice. There is no thwarting Nero; if he designs to bestow favours upon you, you must accept them. I agree with you that they are dangerous; but you know how to guard yourself. A man who has fought a lion with naked hands may well manage to escape even the clutches of Nero. He has struck down the greatest and richest; but it is easier for one who is neither great nor rich to escape. At any rate, Beric, I have a faith in your fortune. You have gone through so much, that I think surely some god protects you. By the way, what are you going to do with that basketful of women’s ornaments that I have locked up in my coffer?”
+
+“I thought no more about them, Scopus.”
+
+“I should advise you to sell them. In themselves they are useless to you. But once turned into money they may some day stand you in good stead. They are worth a large sum, I can tell you, and I don’t care about keeping them here. None of my school are condemned malefactors. I would never take such men, even to please the wealthiest patron. But there is no use in placing temptation before any, and Porus and Lupus will have told how the Roman ladies flung their bracelets to you. I will take them down to a goldsmith who works for some of my patrons, and get him to value them, if you will.”
+
+“Thank you, Scopus, I shall be glad to get rid of them. How would you dress for waiting on Caesar?”
+
+“I have been thinking it over,” Scopus said. “I should say well, and yet not too well. You are a free man, for although Nero disposed of you as if you had been slaves, you were not enslaved nor did you bear the mark of slavery, therefore you have always dressed like a free man. Again, you are a chief among your own people; therefore, as I say, I should dress well but quietly. Nero has many freedmen about him, and though some of these provoke derision by vying with the wealthiest, this I know would never be done by you, even did you bask in the favour of Nero. A white tunic and a paenula of fine white cloth or a lacerna, both being long and ample so as to fall in becoming folds, would be the best. As I shall ride into Rome with you, you can there get one before going to see Nero.”
+
+On arriving at Rome Beric was soon fitted with a cloak of fine white stuff, the folds of which showed off his figure to advantage. Scopus accompanied him to Nero’s palace.
+
+“I know several of his attendants,” he said, “and can get you passed in to the emperor, which will save you waiting hours, perhaps, before you can obtain an audience.”
+
+Taking him through numerous courts and along many passages they reached a chamber where several officials of the palace were walking and talking, waiting in readiness should they be required by Nero. Scopus went up to one with whom he was well acquainted. After the usual greetings he explained to him that he had, in accordance with Nero’s order, brought the young Briton, Beric, who had conquered the lion in the arena, and begged him to ask the emperor whether he would choose to give him audience at present.
+
+“I will acquaint his chief chamberlain at once, Scopus, and will ask him, for your sake, to choose his moment for telling Nero. It may make a great difference in the fortunes of the young man whether Caesar is in a good temper or not when he receives him. It is not often at present that he is in bad humour. Since the fire his mind has been filled with great ideas, and he thinks of little but making the city in all respects magnificent, and as he loves art in every way this is a high delight to him; therefore, unless aught has gone wrong with him, he will be found accessible. I will go to the chamberlain at once, my Scopus.”
+
+It was half an hour before he returned. “The chamberlain said that there could not be a better time for your gladiator to see Caesar, and therefore he has spoken to him at once, and Nero has ordered the Briton to be brought to him. These two officials will conduct him at once to his presence.”
+
+Beric was taken in charge by the two ushers, and was led along several passages, in each of which a guard was on duty, until they reached a massive door. Here two soldiers were stationed. The ushers knocked. Another official presented himself at the door, and, beckoning to Beric to follow him, pushed aside some rich hangings heavy with gold embroidery. They were now in a small apartment, the walls of which were of the purest white marble, and the furniture completely covered with gold. Crossing this he drew another set of hangings aside, entered with Beric, bowed deeply, and saying, “This is the Briton, Caesar,” retired, leaving Beric standing before the emperor.
+
+The apartment was of moderate size, exquisitely decorated in Greek fashion. One end was open to a garden, where plants and shrubs of the most graceful foliage, brought from many parts of the world, threw a delicious shade. Statues of white marble gleamed among them, and fountains of perfumed waters filled the air with sweet odours. Nero sat in a simple white tunic upon a couch, while a black slave, of stature rivalling that of Beric, kneeled in front of him holding out a great sheet of parchment with designs of some of the decorations of his new palace. Nero waved his hand, and the slave, rolling up the parchment, took his stand behind the emperor’s couch. The latter looked long and steadily at him before speaking, as if to read his disposition.
+
+“Beric,” he said, “I have seen you risk your life for one who was but little to you, for I have spoken to Norbanus, and have learned from him the nature of your acquaintance with him, and found that you have seen but little of this young maiden for whom you were ready to risk what seemed certain death. Moreover, she was but a young girl, and her life can have had no special value in your eyes; therefore, it seems to me that you are one who would be a true and faithful friend indeed to a man who on his part was a friend to you. You have the other qualities of bravery and skill and strength. Moreover, you belong to no party in Rome. I have inquired concerning you, and find that although Pollio, the nephew of Norbanus, introduced you to many of his friends, you have gone but little among them, but have spent your time much, when not in the ludus, in the public libraries. Being myself a lover of books, the report inclines me the more toward you. I feel that I could rely upon you, and you would find in me not a master but a friend. Of those around me I can trust but few. They serve from interest, and if their interest lay the other way they would desert me. I have many enemies, and though the people love me, the great families, whose connections and relations are everywhere, think only of their private aims and ends, and many deem themselves to have reasons for hatred against me. I need one like you, brave, single minded, resolute, and faithful to me, who would be as simple and as true when raised to wealth and honour as you have shown yourself when but a simple gladiator. Wilt thou be such a one to me?”
+
+“I am but ill fitted for such a post, Caesar,” Beric said gravely. “I have been a chief and leader of my own people, and my tongue would never bring itself to utter the flattering words used by those who surround an imperial throne. Monarchs love not the truth, and my blunt speech would speedily offend you. A faithful guard to your majesty I might be, more than that I fear I never could be, for even to please you, Nero, I could not say aught except what I thought.”
+
+“I should expect and wish for no more,” Nero said. “It is good to hear the truth sometimes. I heard it from Seneca; but, alas! I did not value it then as I should have done. I am older and wiser now. Besides, Seneca was a Roman, and necessarily mixed up in the intrigues that are ever on foot, and connected with half the great families in Rome. You stand alone, and I should know that whatever you said the words would be your own, and would not have been put in your mouth by others, and even when your opinions ran counter to mine I should respect them. Well, what do you say?”
+
+“It is not for me to bargain with the master of Rome,” Beric said. “I am ready to be your man, Caesar, to lay down my life in your defence, to be your guard as a faithful hound might be; only, I pray you, take me not in any way into your confidence as to state affairs, for of these I am wholly ignorant. My ideas are those of a simple British chief. Rome and its ways are too complicated for me to understand, and were you to speak to me on such matters I should soon forfeit your favour. For we in Britain are, as it were, people of another world﻿—simple and straightforward in our thoughts and ways, and with no ideas of state expediency. Therefore, I pray you, let me stand aloof from all such matters, and regard me simply as one ready to strike and die in your defence, and as having no more interest or knowledge of state affairs and state intrigues than those statues in the garden there.”
+
+“So be it,” Nero said. “You are modest, Beric, and modesty is a virtue rare in Rome; but I appreciate your honesty, and feel sure that I can rely upon you for faithful service. Let me see, to what office shall I appoint you? I cannot call you my bodyguard, for this would excite the jealousy of the Praetorians.” He sat in thought for a minute. “Ah!” he exclaimed, “you are fond of books, I will appoint you my private librarian. My libraries are vast, but I will have a chamber close to mine own fitted up with the choicest books, so that I can have ready at hand any that I may require. This will be an excuse for having you always about my person.”
+
+“I do not speak Greek, Caesar.”
+
+“You shall have under you a Greek freedman, one Chiton, who is now in my library. He will take charge of the rolls, for I do not intend that you should remain shut up there. It is but a pretext for your presence here.”
+
+He touched a bell and a servant entered. “Tell Phaon to come to me.” A minute later Phaon, a freedman who stood very high in the confidence of Nero, entered.
+
+“Phaon,” the emperor said, “this is Beric the Briton, he has entered my service, and will have all my trust and confidence even as you have. Prepare for him apartments close to mine, and appoint slaves for his service. See that he has everything in accordance with his position as a high official of the palace. Let one of the rooms be furnished with sets of books, of which I will give you a list, from my library. Chiton is to be in charge of it under him. Beric is to be called my private librarian. I wish him to be at all times within call of me. You will be friends with Beric, Phaon, for he is as honest as you are, and will be, like you, a friend of mine, and, as you may perceive, is one capable of taking part of a friend in case of need.”
+
+Phaon bowed deeply and signed to Beric to follow him; the latter bowed to Nero, who nodded to him pleasantly, and left the room with Phaon. The freedman took him to his private apartment.
+
+“Nero has chosen well this time, methinks,” he said after a close scrutiny of the newcomer. “It is no easy post on which you have entered, Beric. Nero is changeable in his moods, but you carry your heart in your face, and even he can have no suspicions of you. Take my advice, make friends with no man, for one who stands high in court favour today may be an exile or condemned tomorrow, and then all connected with him in any way are apt to share his fate; therefore, it is best to stand quite alone. By tomorrow morning you will find everything in readiness for you here.”

@@ -1,0 +1,53 @@
+====================================================================================================
+### w-e-b-du-bois_the-quest-of-the-silver-fleece  (40 files)
+  块: O=896 C=896 OK | 段: EN=3606 CN=3603 !!差 3
+     [不对称] a-master-of-fate.md                                  O=35 C=35 段EN=163 段CN=162
+     [不对称] cotton.md                                            O=20 C=20 段EN=98 段CN=97
+     [不对称] the-marriage-morning.md                              O=28 C=28 段EN=66 段CN=65
+  英文残留(剔括注) top: publicity×1, sheriff×1
+  项目说明备注: - 作者风格：诗意象征 + 社会写实交织。开篇《Dreams》等章节近乎散文诗，译文要传达其抒情与神秘气息；涉及政治/经济论述处则需清晰准确。 / - **种族用语处理（重要）**：原作含 nigger（79 次）、darky（12 次）等种族蔑称，均出自白人种族主义者之口，是杜波依斯对南方压迫现实的如实揭露与批判。翻译时**保留其历史冲击力**，译为「黑鬼」「黑佬」等对应蔑称（首次出现处加简短译注说明语境：此为原作白人角色的种族主义用语，反映 19 世纪末南方现实，译文照实译出以存其批判锋芒）。**不得**擅自弱化或省略——那是洗白历史。中性学术称呼 Negro/Negroes 译「黑人」「黑人们」（1911 年时的规范称呼，保留时代感）。 / - 人物名、地名、政治术语以术语表为准，新词首次出现附原文。 / - 全书 = 题词（dedication）+ 作者序（note）+ 38 章。卷首两个前言文件很短，一并翻译。 / - 章节无统一罗马数字前缀（直接是 I Dreams、II The School… 形式已含罗马序号），照搬不译罗马数字。
+  -- 术语表硬约束行 43 条:
+     Zora                           → 佐拉                   源×516   译×515  
+     Bles Alwyn                     → 布莱斯·阿尔文              源×31    译×31   
+     Alwyn                          → 阿尔文                  源×153   译×151  
+     Harry Cresswell                → 哈里·克雷斯韦尔             源×54    译×53   
+     Senator Cresswell              → 克雷斯韦尔参议员             源×0     译×0     ★源0次(幽灵?)
+     Mrs. Cresswell / the Cresswell → 克雷斯韦尔（一家）            源×123   译×514  
+     Mary Taylor                    → 玛丽·泰勒                源×54    译×53   
+     (Miss) Caroline Wynn           → 卡罗琳·怀恩（小姐）           源×13    译×12   
+     Vanderpool                     → 范德普尔                 源×198   译×205  
+     Smith                          → 史密斯                  源×317   译×320  
+     Grey                           → 格雷                   源×98    译×96   
+     Easterly                       → 伊斯特利                 源×81    译×86   
+     Stillings                      → 斯蒂林斯                 源×63    译×63   
+     John (Polyhymnia)              → 约翰                   源×92    译×108  
+     Helen                          → 海伦                   源×36    译×38   
+     Elsbeth                        → 埃尔斯贝思                源×0     译×50    ★源0次(幽灵?)
+     Bert                           → 伯特                   源×0     译×14    ★源0次(幽灵?)
+     Davis                          → 戴维斯                  源×0     译×0     ★源0次(幽灵?)
+     Williams                       → 威廉斯                  源×2     译×2    
+     the Swamp                      → 沼泽                   源×127   译×153  
+     Tooms County                   → 图姆斯县                 源×4     译×5    
+     the South                      → 南方                   源×74    译×137  
+     the North                      → 北方                   源×15    译×39   
+     Washington                     → 华盛顿                  源×40    译×39   
+     New York                       → 纽约                   源×22    译×22   
+     Boston                         → 波士顿                  源×6     译×6    
+     Chicago                        → 芝加哥                  源×2     译×2    
+     Alabama                        → 阿拉巴马                 源×21    译×18   
+     Georgia                        → 佐治亚                  源×6     译×6    
+     Virginia                       → 弗吉尼亚                 源×1     译×1    
+     Congress                       → 国会                   源×9     译×13   
+     Senate                         → 参议院                  源×7     译×7    
+     Senator                        → 参议员                  源×85    译×88   
+     Congressman                    → 国会议员                 源×11    译×1     落位偏低 1/11
+     Colonel                        → 上校                   源×162   译×167  
+     the Campaign                   → 竞选运动                 源×9     译×0     ★译0次(未落位?)
+     the Silver Fleece              → 银色羊毛                 源×40    译×20    落位偏低 20/40
+     Fleece                         → 羊毛                   源×25    译×43   
+     cotton                         → 棉花                   源×221   译×187  
+     the Swamp                      → 沼泽                   源×0     译×0     ★源0次(幽灵?)
+     Negro / Negroes                → 黑人 / 黑人们             源×145   译×271  
+     nigger / niggers               → 黑鬼                   源×81    译×73   
+     darky / darkies                → 黑佬 / 黑鬼们             源×12    译×14   
+

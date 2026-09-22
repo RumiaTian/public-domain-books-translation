@@ -1,0 +1,24 @@
+## From Virginia to Paris
+
+The polecat, sovereign of its native wood,
+Dashes damnation upon bad and good;
+The health of all the upas trees impairs
+By exhalations deadlier than theirs;
+Poisons the rattlesnake and warts the toad﻿—
+The creeks go rotten and the rocks corrode!
+She shakes o’er breathless hill and shrinking dale
+The horrid aspergillus of her tail!
+From every saturated hair, till dry,
+The *spargent* fragrances divergent fly,
+Stifle the world and reek along the sky!
+
+Removed to alien scenes, amid the strife
+Of urban odors to ungladden life﻿—
+Where gas and sewers and dead dogs conspire
+The flesh to torture and the soul to fire﻿—
+Where all the “well defined and several stinks”
+Known to mankind hold revel and high jinks﻿—
+Humbled in spirit, smitten with a sense
+Of lost distinction, leveled eminence,
+Her powers atrophied, her vigor sunk,
+She lives deodorized, a sweeter skunk.

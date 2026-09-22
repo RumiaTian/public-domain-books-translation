@@ -1,0 +1,80 @@
+====================================================================================================
+### andre-norton_voodoo-planet  (8 files)
+  块: O=204 C=204 OK | 段: EN=569 CN=570 !!差 -1
+     [不对称] chapter-8.md                                         O=25 C=25 段EN=64 段CN=65
+  英文残留(剔括注) top: I-C×2
+  项目说明备注: - 书名定为《巫毒行星》（Voodoo Planet），「巫毒」为通行译法，直呼应书中非洲裔殖民者的巫医（witch doctor）文化与心灵「巫术」主题。 / - **系列沿用**：本书为「太阳女王号」系列作品，工具库内已有同系列《疫船》（andre-norton_plague-ship）等项目。主要人物（戴恩·索尔森/陶/杰利科）、船名（太阳女王号）、机构（联合体/巡逻队/自由商人）、船猫（辛巴德）与胡蝙蝠（奎克斯）等译名均沿用系列术语表，保持跨书一致；本书中船猫拼作 Sindbad（plague-ship 作 Sinbad），译名统一「辛巴德」。 / - 原文为 Standard Ebooks 制作，8 章正文按 spine 顺序提取；原章题为罗马数字（I–VIII），自然排序会乱序，已统一改名 chapter-1.md–chapter-8.md，保证队列顺序＝阅读顺序；titlepage/imprint/colophon/uncopyright 等非正文已排除。 / - 罗马数字章节号（I–VIII）照搬不译。 / - 主角多以名（Dane）行文，阿萨基多以姓（Asaki）行文
+  -- 术语表硬约束行 72 条:
+     Dane Thorson / Dane            → 戴恩·索尔森 / 戴恩          源×173   译×173   残留「太阳女王号」×1
+     Craig Tau / Tau                → 克雷格·陶 / 陶            源×146   译×147   残留「巫术」×20
+     Captain Jellico / Jellico      → 杰利科船长 / 杰利科          源×88    译×88    残留「太阳女王号」×1
+     Kort Asaki / Asaki             → 科特·阿萨基 / 阿萨基         源×83    译×84   
+     Nymani                         → 尼亚马尼                 源×53    译×53   
+     Lumbrilo                       → 卢姆布里洛                源×72    译×72   
+     Sindbad                        → 辛巴德                  源×10    译×10    残留「太阳女王号」×1
+     Queex                          → 奎克斯                  源×1     译×1    
+     the Five Families              → 五大家族                 源×2     译×3    
+     the Solar Queen / the Queen    → 太阳女王号 / 女王号          源×0     译×14    ★源0次(幽灵?)
+     Xecho                          → 泽霍                   源×10    译×10    残留「女王号」×14
+     Khatka / Khatkan(s)            → 卡特卡 / 卡特卡人           源×76    译×77   
+     Zoboru                         → 佐博鲁                  源×8     译×8    
+     the swamp of Mygra / Mygra     → 迈格拉沼泽 / 迈格拉          源×8     译×8    
+     Komog                          → 科莫格                  源×2     译×2    
+     Sabra                          → 萨布拉                  源×1     译×1    
+     Terra / Terran(s)              → 特拉 / 特兰人             源×22    译×12    落位偏低 12/22
+     the Combine                    → 联合体                  源×1     译×10   
+     Free Trader(s)                 → 自由商人                 源×7     译×7     残留「女王号」×14
+     the Patrol                     → 巡逻队                  源×3     译×7    
+     Chief Ranger / Rangers         → 首席护林官 / 护林员          源×54    译×55   
+     Trackers / Hunters             → 追踪者 / 猎手             源×15    译×29   
+     Survey Scout                   → 勘测侦察员                源×1     译×1    
+     the Second Atomic War          → 第二次原子战争              源×1     译×1    
+     witch doctor                   → 巫医                   源×10    译×10   
+     hoobat                         → 胡蝙蝠                  源×1     译×1    
+     graz                           → 格拉兹兽                 源×26    译×23   
+     amplet                         → 安普莱特兽                源×1     译×1    
+     rock ape                       → 岩猿                   源×24    译×25   
+     Khatkan lion(s)                → 卡特卡狮                 源×3     译×2    
+     fastal(s)                      → 法斯塔尔鸟                源×1     译×1    
+     glam / glam skin               → 格拉姆兽 / 格拉姆兽皮         源×2     译×2    
+     eldama                         → 埃尔达玛                 源×3     译×3    
+     “Hodi, eldama! Hodi!”          → 「霍迪，埃尔达玛！霍迪！」        源×0     译×0     ★源0次(幽灵?)
+     Galactic Basic                 → 银河通用语                源×1     译×1    
+     tri-dee(s)                     → 立体影像                 源×6     译×6    
+     flitter                        → 飞梭                   源×21    译×26   
+     blaster                        → 爆能枪                  源×17    译×20   
+     stun gun                       → 击晕枪                  源×1     译×2    
+     fire ray                       → 火焰射线枪                源×6     译×9    
+     needler                        → 针枪                   源×20    译×20   
+     Lunar mines                    → 月球矿场                 源×1     译×1    
+     Number One hold                → 一号货舱                 源×2     译×2     残留「女王号」×14
+     “Terra Bound”                  → 《归向特拉》               源×3     译×5    
+     *Rover*                        → 「漫游者号」               源×1     译×0     ★译0次(未落位?)
+     Lamorian                       → 拉莫尔人                 源×1     译×1     残留「唱」×8
+     Thorkian death darts           → 索基死亡飞镖               源×1     译×1    
+     guest rights                   → 客权                   源×1     译×2    
+     cruiser                        → 巡航艇                  源×1     译×1    
+     stass belt                     → 静滞带                  源×4     译×4    
+     poli / landeer                 → 波利兽 / 兰迪尔兽           源×2     译×2    
+     Samantine rock coinage         → 萨曼廷岩石币               源×1     译×1    
+     hunting magic                  → 狩猎巫术                 源×2     译×2    
+     cat-dog                        → 猫犬兽                  源×3     译×3    
+     force blade                    → 力场刀                  源×3     译×3    
+     feeder beam                    → 馈能波束                 源×1     译×1    
+     com unit / com                 → 通讯器 / 通讯             源×7     译×7    
+     fire-wasp                      → 火蜂                   源×3     译×4    
+     labbla                         → 拉布拉兽                 源×1     译×1    
+     hoodra                         → 胡德拉兽                 源×1     译×1    
+     death pit                      → 死亡坑                  源×1     译×1    
+     Guards（护卫）/ forest guard       → 护卫 / 保留区护卫           源×3     译×4    
+     Nymani 的职务                     → 猎手飞行员（Hunter pilot）  源×0     译×2     ★源0次(幽灵?) 残留「追踪者」×5
+     finger rock / trigger rock     → 手指岩                  源×4     译×7    
+     water purifier / purifier pill → 净水剂 / 净水药片           源×2     译×7    
+     mass hallucination             → 群体幻觉                 源×1     译×1    
+     “*Haugh!*”                     → 「*哈呜！*」              源×1     译×1    
+     water tree                     → 水树                   源×4     译×4    
+     salt crust / saline mire       → 盐霜 / 盐泥沼             源×3     译×3    
+     Magawaya                       → 马加瓦亚                 源×1     译×1    
+     I-C                            → I-C 公司               源×2     译×2    
+     the Great River                → 大河                   源×1     译×1    
+

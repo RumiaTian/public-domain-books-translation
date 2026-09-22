@@ -1,0 +1,62 @@
+====================================================================================================
+### cordwainer-smith_short-fiction  (3 files)
+  块: O=45 C=45 OK | 段: EN=176 CN=181 !!差 -5
+     [不对称] the-game-of-rat-and-dragon.md                        O=15 C=15 段EN=60 段CN=65
+  英文残留(剔括注) top: 无
+  项目说明备注: 三篇短篇分属同一科幻宇宙但故事独立。术语表中「上外层」「器主族」等跨篇共享元素，各篇必须统一译法。舰船名意译并保留斜体原文。
+  -- 术语表硬约束行 54 条:
+     Martel                         → 马特尔                  源×11    译×11   
+     Luci                           → 露西                   源×15    译×15   
+     Vomact                         → 沃马克特                 源×9     译×9    
+     Underhill                      → 安德希尔                 源×8     译×8    
+     Woodley                        → 伍德利                  源×10    译×10   
+     Dogwood                        → 多格伍德                 源×2     译×2    
+     Jack Bearden                   → 杰克·比尔登               源×1     译×1    
+     T'ang                          → 唐                    源×3     译×4    
+     Baartek                        → 巴尔特克                 源×1     译×1    
+     Soong                          → 宋                    源×1     译×4    
+     Up-and-Out                     → 上外层                  源×9     译×12   
+     Instrumentality (of Mankind)   → 人类器主族                源×0     译×0     ★源0次(幽灵?)
+     Chiefs of the Instrumentality  → 器主族首长们               源×2     译×2    
+     City of Franklin               → 富兰克林城                源×4     译×4    
+     Lhasa                          → 拉萨                   源×2     译×2    
+     War Territory of Kerguelen     → 凯尔盖朗战区               源×2     译×2    
+     Universal War Board            → 万国战争委员会              源×1     译×1    
+     Austral League                 → 澳洲联盟                 源×1     译×1    
+     United American Nations        → 美利坚合众国联              源×1     译×1    
+     Mongolian Alliance             → 蒙古联盟                 源×1     译×3    
+     Venus                          → 金星                   源×1     译×1    
+     Scanner                        → 扫描器                  源×11    译×14   
+     Scanners' Guild/Confraternity  → 扫描器公会                源×0     译×0     ★源0次(幽灵?)
+     haberman                       → 哈伯曼人                 源×10    译×10   
+     cranch / cranching             → 克兰奇 / 克兰奇期           源×11    译×14   
+     Haberman Device / the Haberman → 哈伯曼装置 / 哈伯曼切割        源×2     译×3    
+     Great Pain of Space / Pain of  → 太空剧痛                 源×2     译×3    
+     First Effect                   → 初效应                  源×1     译×1    
+     chestbox / Heart box / Nerve b → 胸匣 / 心匣 / 神经匣        源×3     译×5    
+     Overload / Dead / Danger       → 过载 / 死寂 / 危险         源×15    译×17   
+     pinlighting / pinlighter       → 针光术 / 针光员            源×7     译×10   
+     pin-set                        → 针感仪                  源×6     译×11   
+     planoform / planoforming       → 面化 / 面化航行            源×7     译×8    
+     the Game                       → 那局游戏                 源×1     译×1    
+     Rats                           → 鼠                    源×10    译×12   
+     Dragons                        → 龙                    源×12    译×15   
+     Partner                        → 搭档                   源×2     译×21   
+     Fighting Room                  → 战斗舱                  源×1     译×1    
+     Release Ship                   → 救济舰                  源×1     译×1    
+     War Permit                     → 战争许可证                源×1     译×1    
+     Radiant Heat Monopoly          → 辐射热专营权               源×1     译×1    
+     Q-ray telescope                → Q射线望远镜               源×1     译×1    
+     aero-ship                      → 航空舰                  源×0     译×1     ★源0次(幽灵?)
+     autotelevisation               → 自动电视观测               源×2     译×2    
+     Senior Scanner                 → 资深扫描器                源×1     译×1    
+     Music Wire                     → 音乐线                  源×1     译×1    
+     Talking Nail                   → 说话钉                  源×1     译×1    
+     Sleeping Valve                 → 睡眠阀                  源×1     译×1    
+     Central Tie-in                 → 中央接线站                源×2     译×2    
+     Space-fire                     → 太空之火                 源×1     译×1    
+     the Wild                       → 荒野                   源×2     译×1    
+     aircoat                        → 气衣                   源×1     译×1    
+     Alarm                          → 警报                   源×1     译×1    
+     lambtchot                      → 羊排                   源×1     译×3    
+

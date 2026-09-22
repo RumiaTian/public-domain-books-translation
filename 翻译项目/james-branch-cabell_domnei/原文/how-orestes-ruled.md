@@ -1,0 +1,16 @@
+## XXIV How Orestes Ruled
+Melicent returned into the Court of Stars; and as she entered, Orestes lifted one of the red cushions from Demetrios’ face. The eyes of Ahasuerus, who stood by negligently, were as expressionless as the eyes of a snake.
+“The great proconsul laid an inconvenient mandate upon me,” said Orestes. “The great proconsul has been removed from us in order that his splendour may enhance the glories of Elysium.”
+She saw that the young man had smothered his own father in the flesh as Demetrios lay helpless; and knew thereby that Orestes was indeed the son of Demetrios.
+“Go,” this Orestes said thereafter; “go, and remember I am master here.”
+Said Melicent, “And by which door?” A little hope there was as yet.
+But he, as half in shame, had pointed to the entrance of the Women’s Garden. “I have no enmity against you, outlander. Yet my mother desires to talk with you. Also there is some bargaining to be completed with Ahasuerus here.”
+Then Melicent knew what had prompted the proconsul’s murder. It seemed unfair Callistion should hate her with such bitterness; yet Melicent remembered certain thoughts concerning Dame Mélusine, and did not wonder at Callistion’s mania half so much as did Callistion’s son.
+“I must endure discomfort and, it may be, torture for a little longer,” said Melicent, and laughed wholeheartedly. “Oh, but today I find a cure for every ill,” said Melicent; and thereupon she left Orestes as a princess should.
+But first she knelt by that which yesterday had been her master.
+“I have no word of praise or blame to give you in farewell. You were not admirable, Demetrios. But you depart upon a fearful journey, and in my heart there is just memory of the long years wherein according to your fashion you were kind to me. A bargain is a bargain. I sold with open eyes that which you purchased. I may not reproach you.”
+Then Melicent lifted the dead face between her hands, as mothers caress their boys in questioning them.
+“I would I had done this when you were living,” said Melicent, “because I understand now that you loved me in your fashion. And I pray that you may know I am the happiest woman in the world, because I think this knowledge would now gladden you. I go to slavery, Demetrios, where I was queen, I go to hardship, and it may be that I go to death. But I have learned this assuredly﻿—that love endures, that the strong knot which unites my heart and Perion’s heart can never be untied. Oh, living is a higher thing than you or I had dreamed! And I have in my heart just pity, poor Demetrios, for you who never found the love of which I must endeavour to be worthy. A curse was I to you unwillingly, as you﻿—I now believe﻿—have been to me against your will. So at the last I turn anew to bargaining, and cry﻿—in your deaf ears﻿—*Pardon for pardon, O Demetrios*!”
+Then Melicent kissed pitiable lips which would not ever sneer again, and, rising, passed into the Women’s Garden, proudly and unafraid.
+Ahasuerus shrugged so patiently that she was half afraid. Then, as a cloud passes, she saw that all further buffetings would of necessity be trivial.
+For Perion, as she now knew, was very near to her﻿—single of purpose, clean of hands, and filled with such a love as thrilled her with delicious fears of her own poor unworthiness.

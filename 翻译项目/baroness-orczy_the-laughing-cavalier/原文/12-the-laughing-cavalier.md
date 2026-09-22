@@ -1,0 +1,98 @@
+## X The Laughing Cavalier
+We all know every fold of that doublet now, with its magnificent sleeves, crimson-lined and richly embroidered, its slashings which afford peeps of snowy linen, and its accessories of exquisite lace; the immortal picture then painted by Frans Hals, and which he called the Laughing Cavalier, has put its every line on record for all times.
+Diogenes wore it with delight. Its splendour suited his swaggering air to perfection: its fine black cloth, delicate lace and rich silk sash set off to perfection his well-proportioned massive figure.
+A joy to the artist every bit of him, the tone, the pose, the line, the colour and that face full of life, of the joy of living, that merry twinkle in the eyes, that laugh that forever hovers on the lips.
+We all stand before it, marvelling at the artist’s skill, for we know that the portrait is true to the life; we know that it is true, because we know the man; his whole character is there indelibly writ upon the canvas by the master-hand of a genius:﻿—Diogenes the soldier of fortune is there, the man who bows to no will save to his own, too independent to bow to kindred or to power, the man who takes life as he finds it, but leavens it with his own gaiety and the priceless richness of his own humour: we know him for his lighthearted gaiety, we condone his swagger, we forgive his reckless disregard of all that makes for sobriety and respectability. The eyes twinkle at us, the mouth all but speaks, and we know and recognize every detail as true; only the fine, straight brow, the noble forehead, the delicate contour of the nose and jaw puzzle us at times, for those we cannot reconcile with the man’s calling or with his namelessness, until we remember his boast in the tavern of the Lame Cow on New Year’s morning: “My father was one of those who came in English Leicester’s train.”
+So we see him now standing quite still, while the artist is absorbed in his work: his tall figure very erect, the head slightly thrown back, the well-shaped hand resting on the hip and veiled in folds of filmy lace. And so did Mynheer Nicolaes Beresteyn see him as he entered the artist’s studio at ten o’clock of that same New Year’s morning.
+“A happy New Year to you, my good Hals,” he said with easy condescension. “*Vervloekte* weather, eh﻿—for the incoming year! there must be half a foot of snow in the by-streets by now.”
+With that same air of graciousness he acknowledged the artist’s obsequious bow. His father Mynheer Councillor Beresteyn was an avowed patron of Frans Hals and the hour had not yet struck in civilized Europe when wealth would go hat in hand bowing to genius and soliciting its recognition. In this year of grace 1624 genius had still to hold the hat and to acknowledge if not to solicit the kindly favours of wealth.
+Nicolaes Beresteyn did not know exactly how to greet the man with whom he had a few hours ago bandied arguments in the tap room of a tavern, and whom﻿—to tell the truth﻿—he had expressly come to find. The complaisant nod which he had bestowed on Frans Hals did not somehow seem appropriate for that swaggering young knight of industry, who looked down on him from the high eminence of the model’s platform so that Nicolaes was obliged to look well up, if he wished to meet his glance at all.
+It was the obscure soldier of fortune who relieved the pompous burgher of his embarrassment.
+“Fate hath evidently not meant that we should remain strangers, sir,” he said lightly, “this meeting after last night’s pleasing amenities is indeed unexpected.”
+“And most welcome, sir, as far as I am concerned,” rejoined Nicolaes pleasantly. “My name is Nicolaes Beresteyn and right glad am I to renew our acquaintance of last night. I had no idea that my friend Hals could command so perfect a model. No wonder that his pictures have become the talk of the town.”
+He turned back to Hals now with a resumption of his patronizing manner.
+“I came to confirm my father’s suggestion, my good Hals, that you should paint his portrait and at the price you named yourself. The officers of St. Joris’ Guild are also desirous, as I understand, of possessing yet another group from your brush.”
+“I shall be honoured,” said the artist simply.
+“ ’Tis many an ugly face you’ll have to paint within the next few months, my friend,” added Diogenes lightly.
+“My father is reckoned one of the handsomest men in Holland,” retorted Beresteyn with becoming dignity.
+“And the owner of the finest tulip bulbs in the land,” said the other imperturbably. “I heard him tell last night that he had just given more florins for one bit of dried onion than I have ever fingered in the whole course of my life.”
+“Fortune, sir, has not dealt with you hitherto in accordance with your deserts.”
+“No! ’tis my sternest reproach against her.”
+“There is always a tide, sir, in a man’s fortunes.”
+“Mine I feel, sir, is rising at your call.”
+There was a moment’s pause now while the two men looked on one another eye to eye, appraising one another, each counting on his opponent’s worth. Then Nicolaes suddenly turned back to Frans Hals.
+“My good Hals,” he said, “might I crave a favour from your friendship?”
+“I am at your service, mynheer, now as always as you know,” murmured the artist, who indeed was marvelling what favour so illustrious a gentleman could ask of a penniless painter of portraits.
+“ ’Tis but a small matter to you,” rejoined Nicolaes, “but it would be of great service to me. I desire to hold private conversation with this gentleman. Could I do so in your house without attracting anybody’s attention?”
+“Easily, sir. This room though none too comfortable is at your disposal. I have plenty of work to do in another part of my house. No one will come in here. You will be quite undisturbed.”
+“I am infinitely obliged to you. ’Tis but half-an-hour’s privacy I desire﻿ ﻿… providing this gentleman will grant me the interview.”
+“Like my friend Hals,” rejoined Diogenes suavely, “I am, sir, at your service. The tides are rising around me, I feel them swelling even as I speak. I have an overwhelming desire to ride on the crest of the waves, rather than to duck under them against my will.”
+“I hope this intrusion will not retard your work too much, my good Hals,” said Beresteyn with somewhat perfunctory solicitude when he saw that the artist finally put his brushes and palette on one side, and in an abstracted manner began to dust a couple of rickety chairs and then place them close to the stove.
+“Oh!” interposed Diogenes airily, “the joy of being of service to so bountiful a patron will more than compensate Frans Hals for this interruption to his work. Am I not right, old friend?” he added with just a soupçon of seriousness in the mocking tones of his voice.
+Hals murmured a few words under his breath which certainly seemed to satisfy Beresteyn for the latter made no further attempt at apology, and only watched with obvious impatience the artist’s slow progress out of the room.
+As soon as the heavy oaken door had fallen-to behind the master of this house, Beresteyn turned with marked eagerness to Diogenes.
+“Now, sir,” he said, “will you accord me your close attention for a moment. On my honour it will be to your advantage so to do.”
+“And to your own, I take it, sir,” rejoined Diogenes, as he stepped down from the elevated platform and sat himself astride one of the rickety chairs facing his interlocutor who had remained standing. “To your own too, sir, else you had not spent half an hour in that *vervloekte* weather last night pacing an insalubrious street in order to find out where I lodged.”
+Nicolaes bit his lip with vexation.
+“You saw me?” he asked.
+“I have eyes at the back of my head,” replied the young man. “I knew that you followed me in company with a friend all the way from the door of the Lame Cow and that you were not far off when I announced my intention of sleeping under the stars and asking my friend Frans Hals for some breakfast later on.”
+Beresteyn had quickly recovered his equanimity.
+“I have no cause to deny it,” he said.
+“None,” assented Diogenes.
+“Something, sir, in your manner and your speech last night aroused my interest. Surely you would not take offence at that.”
+“Certainly not.”
+“And hearing you speak, a certain instinct prompted me to try and not lose sight of you if I could by some means ascertain where you lodged. My friend and I did follow you: I own it, and we witnessed a little scene which I confess did you infinite credit.”
+Diogenes merely bowed his head this time in acknowledgment.
+“It showed, sir,” resumed Nicolaes after a slight pause, “that you are chivalrous to a fault, brave and kindly: and these are just the three qualities which I﻿—even like your illustrious namesake﻿—have oft sought for in vain.”
+“Shall we add, also for the sake of truth, sir,” said Diogenes pleasantly, “that I am obviously penniless, presumably unscrupulous and certainly daring, and that these are just the three qualities which you﻿ ﻿… and your friend﻿ ﻿… most require at the present moment in the man whom you wish to pay for certain services.”
+“You read my thoughts, sir.”
+“Have I not said that I have eyes at the back of my head?”
+And Nicolaes Beresteyn wondered if that second pair of eyes were as merry and mocking and withal as inscrutable as those that met his now.
+“Well,” he said as if with suddenly conceived determination, “again I see no cause why I should deny it. Yes, sir, you have made a shrewd guess. I have need of your services, of your chivalry and of your valour and﻿ ﻿… well, yes,” he added after an instant’s hesitation, “of your daring and your paucity of scruples too. As for your penury, why, sir, if you like, its pangs need worry you no longer.”
+“It all sounds very tempting, sir,” said Diogenes with his most winning smile, “suppose now that we put preliminaries aside and proceed more directly with our business.”
+“As you will.”
+Nicolaes Beresteyn now took the other chair and brought it close to his interlocutor. Then he sat down and sinking his voice to a whisper he began:
+“I will be as brief and to the point as I can, sir. There are secrets as you know the knowledge of which is ofttimes dangerous. Such an one was spoken of in the cathedral last night after watch-night service by six men who hold their lives in their hands and are ready to sacrifice it for the good of their country and of their faith.”
+“In other words,” interposed Diogenes with dry humour, “six men in the cathedral last night decided to murder someone for the good of this country and of their faith and for the complete satisfaction of the devil.”
+“ ’Tis false!” cried Beresteyn involuntarily.
+“Be not angered, sir, I was merely guessing﻿—and not guessing methinks very wide of the mark. I pray you proceed. You vastly interest me. We left then six men in the cathedral after watch-night service plotting for the welfare of Holland and the established Faith.”
+“Their lives, sir,” resumed Beresteyn more calmly, “depend on the inviolability of their secret. You are good at guessing﻿—will you guess what would happen to those six men if their conversation last night had been overheard and their secret betrayed.”
+“The scaffold,” said Diogenes laconically.
+“And torture.”
+“Of course. Holland always has taken the lead in civilization of late.”
+“Torture and death, sir,” reiterated Beresteyn vehemently. “There are six men in this city today whose lives are at the mercy of one woman.”
+“Oho! ’twas a woman then who surprised those six men in their endeavour to do good to Holland and to uphold the Faith.”
+“Rightly spoken, sir! To do good to Holland and to uphold the Faith! those are the two motives which guide six ardent patriots in their present actions and cause them to risk their lives and more, that they may bring about the sublime end. A woman has surprised their secret, a woman pure and good as the stars but a woman for all that, weak in matters of sentiment and like to be swayed by a mistaken sense of what she would call her duty. A woman now, sir, holds the future happiness of Holland, the triumph of Faith and the lives of six stalwart patriots in the hollow of her hand.”
+“And ’tis with the lives of six stalwart patriots that we are most concerned at the moment, are we not?” asked Diogenes blandly.
+“Put it as you will, sir. I cannot expect you﻿—a stranger﻿—to take the welfare of Holland and of her Faith so earnestly as we Dutchmen do. Our present concern is with the woman.”
+“Is she young?”
+“Yes.”
+“Pretty?”
+“What matter?”
+“I don’t know. The fact might influence mine actions. For of course you wish to put the woman out of the way.”
+“Only for a time and from my soul I wish her no harm. I only want to place her out of the reach of doing us all a grievous wrong. Already she has half threatened to speak of it all to my father. The idea of it is unthinkable. I want her out of the way for a few days, not more than ten days at most. I want her taken out of Haarlem, to a place of safety which I will point out to you anon, and under the care of faithful dependents who would see that not a hair on her head be injured. You see, sir, that what I would ask of you would call forth your chivalry and need not shame it; it would call forth your daring and your recklessness of consequences and if you will undertake to do me service in this, my gratitude and that of my friends as well as the sum of 2,000 guilders will be yours to command.”
+“About a tenth part of the money in fact which your father, sir, doth oft give for a bulb.”
+“Call it 3,000, sir,” said Nicolaes Beresteyn, “we would still be your debtors.”
+“You are liberal, sir.”
+“It means my life and that of my friends, and most of us are rich.”
+“But the lady﻿—I must know more about her. Ah sir! this is a hard matter for me﻿—A lady﻿—young﻿—presumably fair﻿—of a truth I care naught for women, but please God I have never hurt a woman yet.”
+“Who spoke of hurting her, man?” queried Nicolaes haughtily.
+“This abduction﻿—the State secret﻿—the matter of life and death﻿—the faithful dependent﻿—how do I know, sir, that all this is true?”
+“On the word of honour of a gentleman!” retorted Beresteyn hotly.
+“A gentleman’s honour is easily attenuated where a woman is concerned.”
+“The lady is my own sister, sir.”
+Diogenes gave a long, low whistle.
+“Your sister!” he exclaimed.
+“My only sister and one who is dearly loved. You see, sir, that her safety and her honour are dearer to me than mine own.”
+“Yet you propose entrusting both to me,” said Diogenes with a mocking laugh, “to me, a nameless adventurer, a penniless wastrel whose trade lies in his sword and his wits.”
+“Which must prove to you, sir, firstly how true are my instincts, and secondly how hardly I am pressed. My instinct last night told me that in this transaction I could trust you. Today I have realized more fully than I did last night that my sister is a deadly danger to many, to our country and to our Faith. She surprised a secret, the knowledge of which had she been a man would have meant death then and there in the chapel of the cathedral. Had it been a brother of mine instead of a sister who surprised our secret, my friends would have killed him without compunction and I would not have raised a finger to save him. Being a woman she cannot pay for her knowledge with her life; but her honour and her freedom are forfeit to me because I am a man and she a woman. I am strong and she is weak; she has threatened to betray me and my friends and I must protect them and our cause. I have decided to place her there where she cannot harm us, but someone must convey her thither, since I must not appear before her in this matter. Therefore hath my choice fallen on you, sir, for that mission, chiefly because of that instinct which last night told me that I could trust you. If my instinct should prove me wrong, I would kill you for having cheated me, but I would even then not regret what I had done.”
+He paused and for a moment looked straight into the laughter-loving face of the man in whose keeping he was ready to entrust with absolute callousness the safety and honour of one whom he should have protected with his life. The whole face, even now seemed still to laugh, the eyes twinkled, the mouth was curled in a smile.
+The next moment the young adventurer had risen to his full height. He picked up his hat which lay on the platform close beside him and with it in his hand he made an elaborate and deep bow to Nicolaes Beresteyn.
+“Sir?” queried the latter in astonishment.
+“At your service, sir,” said Diogenes gaily, “I am saluting a greater blackguard than I can ever hope to be myself.”
+“Insolent!” exclaimed Nicolaes hotly.
+“Easy, easy, my good sir,” interposed the other calmly, “it would not suit your purpose or mine that we should cut one another’s throat. Let me tell you at once and for the appeasing of your anxiety and that of your friends that I will, for the sum of 4,000 guilders, take Jongejuffrouw Beresteyn from this city to any place you may choose to name. This should also ease your pride, for it will prove to you that I also am a consummate blackguard and that you therefore need not stand shamed before me. I have named a higher sum than the one which you have offered me, not with any desire to squeeze you, sir, but because obviously I cannot do this work single-handed. The high roads are not safe. I could not all alone protect the lady against the army of footpads that infest them, I shall have to engage and pay an escort for her all the way. But she shall reach the place to which you desire me to take her, to this I pledge you my word. Beyond that﻿ ﻿… well! you have said it yourself, by her knowledge of your secret she has forfeited her own safety; you﻿—her own brother﻿—choose to entrust her to me. The rest lies between you and your honour.”
+An angry retort once more rose to Nicolaes Beresteyn’s lips, but common sense forced him to check it. The man was right in what he said. On the face of it his action in entrusting his own sister into the keeping of a knight of industry, a nameless wastrel whose very calling proclaimed him an unscrupulous adventurer, was the action of a coward and of a rogue. Any man with a spark of honour in him﻿—would condemn Nicolaes Beresteyn as a blackguard for this deed. Nevertheless there was undoubtedly something in the whole personality of this same adventurer that in a sense exonerated Nicolaes from the utter dishonour of his act.
+On the surface the action was hideous, monstrous, and cowardly, but beneath that surface there was the undercurrent of trust in this one man, the firm belief born of nothing more substantial than an intuition that this man would in this matter play the part of a gentleman.
+But it is not my business to excuse Nicolaes Beresteyn in this. What guided him solely in his present action was that primary instinct of self-preservation, that sense which animals have without the slightest knowledge or experience on their part and which has made men play at times the part of a hero and at others that of a knave. Stoutenburg who was always daring and always unscrupulous where his own ambitious schemes were at stake had by a careful hint shown him a way of effectually silencing Gilda during the next few days. Beresteyn’s mind filled to overflowing with a glowing desire for success and for life had readily worked upon the hint.
+And he did honestly believe﻿—as hundreds of misguided patriots have believed before and since﻿—that Heaven was on his side of the political business and had expressly led along his path this one man of all others who would do what was asked of him and whom he could trust.

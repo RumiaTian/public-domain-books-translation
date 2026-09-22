@@ -1,0 +1,18 @@
+ (20 files)
+  块: O=392 C=392 OK | 段: EN=1862 CN=1862 OK
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 13 条:
+     Kate Plus Ten                  → 凯特加十                 源×0     译×0     ★源0次(幽灵?)
+     Michael Pretherston（侦探）        → 迈克尔·普雷瑟斯顿            源×35    译×35   
+     Kate (Katharine) Westhanger    → 凯特·韦斯特汉杰（诨名"阿里巴巴小姐"） 源×7     译×7    
+     Miss Tenby（凯特化名）               → 滕比小姐                 源×15    译×15   
+     Colonel / Miss Westhanger      → 韦斯特汉杰上校／韦斯特汉杰小姐      源×90    译×23    落位偏低 23/90
+     Sir Ralph                      → 拉尔夫爵士                源×121   译×107  
+     Lord Flanborough               → 弗兰伯勒勋爵               源×89    译×89   
+     Lady Moya                      → 莫亚小姐                 源×14    译×6     落位偏低 6/14
+     Señor Gregori                  → 格雷戈里先生               源×2     译×25   
+     Princess / Prince Dimitri Bach → 巴切夫斯基公主／季米特里·巴切夫斯基王子 源×23    译×6     落位偏低 6/23
+     Mike                           → 迈克                   源×24    译×287  
+     Mr. Boltover / Mr. Mulberry    → 博尔托弗先生／马尔伯里先生        源×28    译×36   
+     Seahampton                     → 西汉普顿（海滨城）            源×26    译×26   
+====================================================================================================

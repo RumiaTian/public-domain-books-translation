@@ -1,0 +1,102 @@
+====================================================================================================
+### edgar-rice-burroughs_beyond-thirty  (9 files)
+  块: O=230 C=230 OK | 段: EN=815 CN=815 OK
+  英文残留(剔括注) top: Felis×2, tigris×2, SS-×1
+  项目说明备注: - 作者风格：通俗冒险、节奏明快，第一人称回忆录口吻，间或插叙议论（关于战争、文明、无政府主义的反思）。译文保持冒险小说的流畅与画面感，避免翻译腔。 / - 专有名词一律以术语表为准，新词首次出现附原文「中文（English）」。 / - 真实地球地名用通行译名；Grabritin 为 Great Britain 之讹变，音译「格拉布列坦」并于首现处保留语源说明（作者在第三章原文中自释）。 / - 罗马数字章节序号照搬不译。 / - 全书 9 章，共 9 个文件。
+  -- 术语表硬约束行 95 条:
+     Jefferson Turck                → 杰斐逊·特克               源×3     译×3     残留「科尔德沃特号」×32
+     John Alvarez                   → 约翰·阿尔瓦雷斯             源×2     译×2    
+     Porfirio Johnson               → 波菲里奥·约翰逊             源×3     译×3    
+     Snider                         → 斯奈德                  源×56    译×58   
+     Taylor                         → 泰勒                   源×37    译×37   
+     Delcarte                       → 德尔卡特                 源×52    译×53   
+     Victory                        → 薇克托莉                 源×92    译×90   
+     Mary                           → 玛丽                   源×8     译×8    
+     Buckingham                     → 白金汉                  源×35    译×35   
+     Wettin                         → 威廷                   源×6     译×6    
+     Thirty-six                     → 三十六                  源×13    译×13   
+     Abu Belik                      → 阿布·贝利克               源×1     译×1    
+     Menelek XIV                    → 梅内利克十四世              源×5     译×5    
+     Professor Cortoran             → 科尔托兰教授               源×3     译×3    
+     Porter Turck                   → 波特·特克                源×1     译×1    
+     Admiral Turck                  → 特克上将                 源×1     译×1    
+     Admiral Sanchez                → 桑切斯上将                源×1     译×1    
+     Sir Phillip                    → 菲利普爵士                源×1     译×1    
+     Gray                           → 格雷                   源×4     译×1     落位偏低 1/4
+     Chamberlin                     → 张伯伦                  源×1     译×1    
+     Kitchener                      → 基奇纳                  源×1     译×1    
+     Shaw                           → 萧伯纳                  源×1     译×1    
+     Pan-America / Pan-American Fed → 泛美 / 泛美联盟            源×23    译×43   
+     United States of North America → 北美合众国                源×4     译×4    
+     Grabritin / Grubitten          → 格拉布列坦                源×14    译×19   
+     England                        → 英格兰                  源×38    译×48   
+     Europe                         → 欧洲                   源×25    译×26   
+     Abyssinia                      → 阿比西尼亚                源×4     译×11   
+     Adis Abeba                     → 亚的斯亚贝巴               源×1     译×1    
+     New Gondar                     → 新贡达尔                 源×10    译×10   
+     Berlin                         → 柏林                   源×2     译×3    
+     China / Chinese                → 中国 / 中国人             源×11    译×9    
+     London                         → 伦敦                   源×18    译×20   
+     Thames                         → 泰晤士河                 源×10    译×10   
+     Westminster Abbey              → 威斯敏斯特教堂              源×1     译×1    
+     the Tower                      → 伦敦塔                  源×1     译×1    
+     London Bridge                  → 伦敦桥                  源×1     译×1    
+     Tunbridge Wells                → 坦布里奇韦尔斯              源×1     译×1    
+     Isle of Wight                  → 怀特岛                  源×6     译×6    
+     Rhine                          → 莱茵河                  源×7     译×7    
+     Ostend                         → 奥斯坦德                 源×2     译×2    
+     Elbe                           → 易北河                  源×1     译×1    
+     Cologne                        → 科隆                   源×2     译×2    
+     Cornwall                       → 康沃尔                  源×1     译×1    
+     Scilly Islands                 → 锡利群岛                 源×1     译×2    
+     Land's End                     → 兰兹角                  源×1     译×1    
+     English Channel                → 英吉利海峡                源×2     译×2    
+     Ram Head                       → 拉姆角                  源×2     译×2    
+     Plymouth / Plymouth Bay        → 普利茅斯 / 普利茅斯湾         源×3     译×3    
+     Devonport                      → 德文波特                 源×3     译×3    
+     River Tamar                    → 塔马尔河                 源×2     译×3    
+     Devon                          → 德文郡                  源×2     译×2     残留「虎国」×2
+     Bolt Head                      → 博尔特角                 源×1     译×1    
+     Solent                         → 索伦特海峡                源×1     译×1    
+     Ryde                           → 赖德                   源×1     译×1    
+     Newport                        → 新港                   源×2     译×2    
+     Hants (Hampshire)              → 汉普郡                  源×1     译×1    
+     Strait of Dover                → 多佛尔海峡                源×1     译×1    
+     North Sea                      → 北海                   源×3     译×3    
+     Arizona                        → 亚利桑那                 源×2     译×2    
+     New York                       → 纽约                   源×5     译×5    
+     Azores                         → 亚速尔群岛                源×2     译×2    
+     Iceland                        → 冰岛                   源×1     译×1    
+     Hawaiian Islands               → 夏威夷群岛                源×1     译×1    
+     Erith                          → 伊里斯                  源×1     译×1    
+     Albion                         → 阿尔比恩                 源×1     译×1    
+     Rio / San Diego / Valparaiso   → 里约 / 圣迭戈 / 瓦尔帕莱索     源×3     译×3    
+     Unter den Linden               → 菩提树下大街               源×1     译×1    
+     British Isles                  → 不列颠群岛                源×1     译×1    
+     Scandinavia                    → 斯堪的纳维亚               源×1     译×1    
+     Coldwater                      → 科尔德沃特号               源×32    译×32   
+     aero-submarine                 → 空潜两用舰                源×2     译×2    
+     gravitation-screen generator   → 重力屏发生器               源×3     译×4    
+     SS-96                          → SS-96 级              源×1     译×1    
+     beyond thirty                  → 三十度之外                源×13    译×9    
+     thirty / 175 (one hundred seve → 三十度线 / 一百七十五度线       源×40    译×36    残留「死线」×6
+     dead line                      → 死线                   源×6     译×6    
+     the Great War                  → 大战                   源×7     译×9    
+     East Camp / West Camp          → 东营 / 西营              源×3     译×3    
+     Eastenders / Westenders        → 东营人 / 西营人            源×5     译×5    
+     the launch                     → 汽艇                   源×39    译×41   
+     Felis tigris                   → 虎（*Felis tigris*）    源×4     译×16   
+     Tigerland                      → 虎国                   源×1     译×2    
+     soft bullets / steel-jacketed  → 软头弹 / 钢壳弹            源×2     译×5    
+     elephant country / lion countr → 象乡 / 狮乡              源×6     译×6    
+     Camp of the Lions              → 狮营                   源×8     译×8    
+     Felis leo                      → 狮（*Felis leo*）       源×1     译×69   
+     African elephant               → 非洲象（*Elephas african 源×1     译×1    
+     the men from there             → 那边来的人                源×3     译×5    
+     red deer                       → 赤鹿                   源×1     译×1    
+     the Death                      → 大瘟疫                  源×5     译×3    
+     yellow men                     → 黄种人 / 黄人             源×5     译×5    
+     flint and steel                → 火石火镰                 源×2     译×1    
+     body servant                   → 贴身仆人                 源×3     译×3    
+     white slaves                   → 白奴                   源×2     译×0     ★译0次(未落位?)
+

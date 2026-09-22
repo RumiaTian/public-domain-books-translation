@@ -1,0 +1,15 @@
+### An Unfinished Race / 一场未竟的赛跑
+
+===Original===
+James Burne Worson was a shoemaker who lived in Leamington, Warwickshire, England. He had a little shop in one of the byways leading off the road to Warwick. In his humble sphere he was esteemed an honest man, although like many of his class in English towns he was somewhat addicted to drink. When in liquor he would make foolish wagers. On one of these too frequent occasions he was boasting of his prowess as a pedestrian and athlete, and the outcome was a match against nature. For a stake of one sovereign he undertook to run all the way to Coventry and back, a distance of something more than forty miles. This was on the 3rd day of September in 1873. He set out at once, the man with whom he had made the bet﻿—whose name is not remembered﻿—accompanied by Barham Wise, a linen draper, and Hamerson Burns, a photographer, I think, following in a light cart or wagon.
+
+===Chinese===
+詹姆斯·伯恩·沃森（James Burne Worson）是英格兰沃里克郡利明顿温泉镇（Leamington, Warwickshire）的一名鞋匠。他在通往沃里克（Warwick）的一条小巷旁开了一间小铺子。在他卑微的圈子里，他被视为一个诚实的人，尽管和英国城镇里许多同阶层的人一样，他有些嗜酒。喝了酒他就会打些愚蠢的赌。在这些频繁发生的事端中的一次，他吹嘘自己作为步行者和运动员的高超本领，最终演变成一场与自然的对决。他以一枚金畿尼为赌注，承诺从这里一直跑到考文垂（Coventry）再跑回来，来回超过四十英里。此事发生在1873年9月3日。他立即出发了，与他打赌的那个人——其名已不可考——由巴勒姆·怀斯（Barham Wise）——一位亚麻布商，以及我想是哈默森·伯恩斯（Hamerson Burns）——一位摄影师，陪同着，乘坐一辆轻便马车或货车跟随。
+
+===Original===
+For several miles Worson went on very well, at an easy gait, without apparent fatigue, for he had really great powers of endurance and was not sufficiently intoxicated to enfeeble them. The three men in the wagon kept a short distance in the rear, giving him occasional friendly "chaff" or encouragement, as the spirit moved them. Suddenly﻿—in the very middle of the roadway, not a dozen yards from them, and with their eyes full upon him﻿—the man seemed to stumble, pitched headlong forward, uttered a terrible cry and vanished! He did not fall to the earth﻿—he vanished before touching it. No trace of him was ever discovered.
+After remaining at and about the spot for some time, with aimless irresolution, the three men returned to Leamington, told their astonishing story and were afterward taken into custody. But they were of good standing, had always been considered truthful, were sober at the time of the occurrence, and nothing ever transpired to discredit their sworn account of their extraordinary adventure, concerning the truth of which, nevertheless, public opinion was divided, throughout the United Kingdom. If they had something to conceal, their choice of means is certainly one of the most amazing ever made by sane human beings.
+
+===Chinese===
+沃森行进了数英里，步履轻松，毫无疲惫之态，因为他确实有极强的耐力，而醉意也不足以削弱它。货车里的三个人在后面保持着不远的距离，时而友好地打趣几句，时而加以鼓励，全凭兴致而定。突然——就在路中央，距他们不到十几码，而且他们的眼睛正紧紧盯着他——那人似乎绊了一下，向前猛扑出去，发出一声可怕的尖叫，然后消失了！他并没有跌倒在地——他在触及地面之前就消失了。再未发现他的任何踪迹。
+在事发地点及其附近徘徊了一阵，茫然无措后，三人返回利明顿温泉镇，讲述了他们令人震惊的故事，随后被拘留。但他们是体面人，向来被视为诚实，事发时也并未醉酒，此后也没有任何事端能证实他们对那次非凡冒险的宣誓陈述有假，尽管如此，全英公众对事件真相的看法仍各执一词。如果他们有意隐瞒什么，那么他们选择的手段无疑是健全人类所做过的最令人惊异的事情之一。

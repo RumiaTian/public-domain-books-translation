@@ -1,0 +1,14 @@
+## XII How Demetrios Was Taken
+Thus it was that war awoke and raged about the province of Demetrios as tirelessly as waves lapped at its shores.
+Then, after many ups and downs of carnage,1 Perion surprised the galley of Demetrios while the proconsul slept at anchor in his own harbour of Quesiton. Demetrios fought nakedly against accoutred soldiers and had killed two of them with his hands before he could be quieted by an admiring Perion.
+Demetrios by Perion’s order was furnished with a sword of ordinary attributes, and Perion ridded himself of all defensive armour. The two met like an encounter of tempests, and in the outcome Demetrios was wounded so that he lay insensible.
+Demetrios was taken as a prisoner toward the domains of King Theodoret.
+“Only you are my private capture,” said Perion; “conquered by my own hand and in fair fight. Now I am unwilling to insult the most valiant warrior whom I have known by valuing him too cheaply, and I accordingly fix your ransom as the person of Dame Melicent.”
+Demetrios bit his nails.
+“Needs must,” he said at last. “It is unnecessary to inform you that when my property is taken from me I shall endeavour to regain it. I shall, before the year is out, lay waste whatever kingdom it is that harbours you. Meanwhile I warn you it is necessary to be speedy in this ransoming. My other wives abhor the Frankish woman who has supplanted them in my esteem. My son Orestes, who succeeds me, will be guided by his mother. Callistion has thrice endeavoured to kill Melicent. If any harm befalls me, Callistion to all intent will reign in Nacumera, and she will not be satisfied with mere assassination. I cannot guess what torment Callistion will devise, but it will be no child’s play﻿—”
+“Hah, infamy!” cried Perion. He had learned long ago how cunning the heathen were in such cruelties, and so he shuddered.
+Demetrios was silent. He, too, was frightened, because this despot knew﻿—and none knew better﻿—that in his lordly house far oversea Callistion would find equipment for a hundred curious tortures.
+“It has been difficult for me to tell you this,” Demetrios then said, “because it savours of an appeal to spare me. I think you will have gleaned, however, from our former encounters, that I am not unreasonably afraid of death. Also I think that you love Melicent. For the rest, there is no person in Nacumera so untutored as to cross my least desire until my death is triply proven. Accordingly, I who am Demetrios am willing to entreat an oath that you will not permit Theodoret to kill me.”
+“I swear by God and all the laws of Rome﻿—” cried Perion.
+“Ey, but I am not very popular in Rome,” Demetrios interrupted. “I would prefer that you swore by your love for Melicent. I would prefer an oath which both of us may understand, and I know of none other.”
+So Perion swore as Demetrios requested, and set about the conveyance of Demetrios into King Theodoret’s realm.

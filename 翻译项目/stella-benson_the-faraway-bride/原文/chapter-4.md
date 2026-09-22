@@ -1,0 +1,149 @@
+## IV
+
+Tatiana Pavlovna Ostapenko and the servant, Katya, bent side by side over washtubs, looked like a sow and a hind feeding side by side from one trough. Both wore the same kind of headkerchief and faded blue cotton bodice and skirt. But Tatiana bent like someone finding flowers at her feet, and Katya bent like a bear offering a goblin a ride on its back.
+
+A young man watched them from the shade of the wide tree that stood behind the village at the junction of three footpaths across the barley and bean fields. The young man, Piotr Gavrilovitch Isaev, almost wished that Tatiana would never turn round. He knew her face so well and was so much afraid of it. Yet he whistled﻿—do-mi-do﻿—his old call to her, and she turned. He knew she would make no gesture of enthusiasm. She looked at him across fifty yards of shimmering evening sunlight for a long moment and then flapped her hand toward him with an abashed, rather rigid, gesture. He watched her talk for a minute to Katya as she dried her hands on her apron. Then Katya went into the house and Tatiana walked along the raised footpath toward the young man under the tree. He could see her exquisite pale face, her russet hair dragged tightly from her forehead under the kerchief, her rather sunken light eyes, now twitching with nervousness. Twice, as she approached, she smiled, as though rehearsing a smile﻿—just a little abrupt delicate grin﻿—a tautening and an instant slackening of her cheeks. It was a smile that seemed to mean nothing but a good intention, and was obliterated like a duty done. As soon as she reached him her expression changed like a changing light on her face, and she said, “Forgive me, dear Piotr Gavrilovitch. I have forgotten something; I must go back to the washing for a minute.” She turned away from him at once and began walking back along the footpath, as a ladybird hurrying along a leaf, on being turned round, walks just as industriously the other way.
+
+Young Isaev, for a moment taken aback, caught up with her in three strides. “What’s the matter, Tatiana Pavlovna? I want to tell you something. Won’t you come and sit in the shade of the tree for half an hour?”
+
+“Yes, of course I will, presently, dear Petya. I must do something I had forgotten, first.”
+
+She always called people *dear* in a cold voice. Like her twitched-on, twitched-off smile, the dear was a sort of concession, kind yet shy, to humanity. She walked back to the washtubs and Piotr walked beside her.
+
+“My aunt heard from my cousin Sasha Weber this morning,” said Piotr, after wondering for a moment what to say.
+
+“Did he find the world as wide as he expected?” asked Tatiana.
+
+“He hasn’t been all over it yet, Tanya, so he can’t tell. He has only reached Pa-tao-kou.”
+
+“Oh,” said Tatiana, with her apologetic smile. She minded very much when her questions evoked dead answers. They often did. She tried to join in the talk in the manner of other talkers, but so often the talk mysteriously died of her gentle intervention. I think that a remark of hers, though dressed in the trappings of ordinary convenient comment, was often like a fairy coming into a room full of flesh-and-blood men and women. There was the fairy, in no tangible way different from themselves, dressed like themselves, walking, moving like themselves, yet somehow accompanied by cold airs, aloof, terrifying, humiliating. And one man finds that he has forgotten a letter he meant to write, another that he has a business appointment, another that he promised to take the dog for a walk﻿ ﻿… and so the poor fairy is left alone﻿—not rudely but inexorably﻿—left alone, looking itself up and down in the mirror, wondering what was wrong﻿ ﻿… wondering how they knew.﻿ ﻿…
+
+Tatiana looked at Piotr with remorse, and saw uneasiness in his pink face. His face was ugly and anxious; his brassy hair and eyelashes looked lighter in tone than his face; his nose was sunburnt, prominent, and fat. Tatiana’s ready, cold pity was aroused by the tight puckered skin that enclosed his hurt feelings. She thought of the skull inside that skin﻿—sensitive to a blow; of the brain inside that skull﻿—protesting, defensive, bewildered, also afraid of assault. She saw him as a besieged creature in a fortress, marshaling its defenses against her. She felt as if she were trespassing against her will on something almost unbearably sacred, by simply seeing his face. She was seeing too much. Poor Piotr! this is not the way young girls should see young men﻿—yet so it was! Tatiana, however, though only eighteen, was wise enough not to put her compassion into words.
+
+She could not think of anything else to put into words, either. She always boggled over words, and would not have recognized the properly girlish ones, even if they had occurred to her. Nor was she interested enough in spanning this giddy space between herself and Piotr to risk anything for the sake of building a bridge over it. She did not know how to approach him; she could not bear that he should approach her. Her body she did not know, but in her mind she was fanatically virgin. Every approach was a danger, she could not have explained why. And yet *she* must be allowed to trespass secretly upon her neighbors; she must have hostages in many camps; she must send herself often far away from home to be a protesting prisoner in other bodies. A little pang in everyone’s pain seemed hers, just as a lamb’s leaping, an impudent flirt of a free bird’s wing, so often seemed part of her vicarious youth﻿—a word she herself had known but left unspoken, a satisfaction in itself, like a flattery. Perhaps she was an egoist﻿—an egoist whose center had slipped﻿—an egoist whose ego had spilled over, tainted too much. She was like a person who lived on a mountain instead of in her own house. That was poor Piotr’s trouble, though he did not know it﻿—Tatiana was never at home, waiting inside herself for visitors, as other young people are﻿—waiting behind her own threshold﻿—watching out of her own eyes. You might call﻿—Tanya, Tanya﻿—at her pretty ear, and her voice would reply, as it were, from a long way off. Her sight was unglazed by eyes and therefore too coldly clear﻿—like frosty air as you come out too early in the dawn from your smoky house. Tanya, Tanya, you might call, posturing before her window, but she would be away, watching you quietly from the hill, seeing you, not as you, but as a little far part of herself, dancing in the distance.
+
+She was both too far and too near. She loved her neighbor as herself because she found herself in her neighbor, but if you were her neighbor, you found that she loved you no better than herself﻿—and therefore not at all.
+
+What a detestable advantage it gave her, to be high on the hill, safe, away from home, yet near enough to hear, with her remote cold senses, your heart beating. How wrong that she should claim to have the key to your lock and yet, herself, present no lock, no door, no house, even, for your unlocking. And yet her face and body were so lovely that you must love them even more than you hated her passionless mind and heart﻿—you could not help calling﻿—Tanya, Tanya﻿—before the empty windows of a deserted house at the foot of the hill, hoping always to lure her home, inside herself, to welcome you in at last.
+
+She had a smile that pulled the corners of her lips up and the corners of her eyes down, but it was never meant for you, except secondarily; when you smiled in reply, hers vanished, was twitched away.
+
+Tatiana did not know that she lived on a hill; she only knew that she had no neighbors; her neighbors all must harbor *her*, but she had no neighbors. To be approached was entirely unbearable; a desiring or acute glance was in itself an assault; see she must, but to be seen was somehow insult. She loathed touch and always avoided it; the lightest accidental touch rasped her like a cat’s tongue. Love of her neighbor was a thing felt stilly, thinly diffused among pitied lovers﻿—puppies﻿—parents﻿—flowers﻿—insects﻿—even things (she often felt guilty for disappointing *things*)﻿—even *invented* things﻿—blank pensioners of her compassionate fancy. She drew no ecstasy except through her eyes. And she felt a little giddy always because she saw so many things and had so little known self﻿—or such a wide, unknown self﻿—out of which to see them. She saw now, as she walked, a collapsing hourglass of blue sky. She watched clouds crushing it in, and a sand of light spill out of it. Then, as she came to the washtub, her attention swooped suddenly to the reason of her return﻿—a woolly-bear caterpillar, swimming in the suds. It had been swimming there for some time﻿—not exactly swimming, for it was too light to break through the soapy skin of the water, and occasionally it found a sodden island of linen to walk across. Its fur was dry, but it looked exhausted. Tatiana, most of whose diversions of the mind were curiously cruel, had dared herself to let it nearly drown so that its relief at ultimate rescue might be the more glorious. Then Piotr’s whistle had made her forget it﻿—made her prolong the poor insect’s ordeal more than she had intended. She put her finger under it now and caught it up to safety. She laid her finger against a blade of grass and, when the caterpillar had found its footing on its own world, she knelt down and watched it. She was imagining its incredulous delight. Piotr, puzzled, knelt down beside her. They looked as if they were about to pray together.
+
+“But what did you come back for, Tanya?”
+
+“For this.”
+
+“For what? This slug?”
+
+“Well﻿ ﻿… I left it drowning. I forgot it for the moment. Then I remembered﻿—so I had to come back.”
+
+“But﻿—oh, Tanya﻿—a caterpillar! When I told you I had something to tell you! Don’t be so foolish, for God’s sake, Tanya; don’t be so cold. Listen to me﻿—don’t laugh at me.”
+
+He looked at her and could not pretend to himself that she was even paying him the compliment of laughing at him. Nor was he sure that she was listening. She was breathlessly following the caterpillar’s course. It rippled earnestly along like a little machine running on concealed wheels well provided with shock-absorbers.
+
+Piotr uttered a mild curse and then, seizing an empty glass jar that had contained washing soda, he placed it upside down over the caterpillar, involving that unlucky insect in yet another unmerited dilemma.
+
+“Tanya, I believe I’m glad﻿—I’m glad that you are so contrary and unkind. It makes it easier to say these things to you. Listen, I don’t want to stay in Mi-san any more﻿—I don’t want to see your face any more.﻿ ﻿… I’m tired of your face. There’s something wrong with it; though it is so pretty, there’s no heart behind it. Listen, Tanya﻿—don’t look at that damned bug﻿—listen. I’m going away. There was no reason why you should have treated me so﻿—we were betrothed. There is nothing to keep us apart now, except your own hard heart. That and my feeling of being tired of you, of course. You have lost something by your hardheartedness, I can tell you. Some day you will be sorry. You are kinder to that caterpillar than to a man, Tanya. I can tell you, some girls know a man’s value better. Once lost, I am lost forever. You will be sorry.﻿ ﻿… What do you expect? No man of flesh and blood can go on forever loving a girl that only smiles at﻿—caterpillars. What is the matter with you, that you hold yourself so much above love? What else is there for you? Do you want to live and die alone?”
+
+“No﻿—no﻿—Petya,” she said at once in tears. The word “alone” had a terrible sound to her. Yet she had no defense against it, because the *reality*, loneliness, was her right﻿—her unassailable pride. To live and die alone was like living and dying on a throne; she took her queenship so much for granted that she did not know of it. It was only the word “alone” that had such a cruel, insulting sound﻿—synonymous with *undefended*. Her wordless diffused egoism demanded defense against all that was implied by the word “alone.” A queen has a right to be defended. Yet, of course, Tatiana defended herself﻿—she would have resented that intrusion, actual defense. Perhaps she needed fairy counselors and was only offered lovers. Perhaps she needed the comfort of God and was only offered the love of men. At any rate, the word “alone” made her cry. *Live and die alone.* It was uttered like a threat and therefore it made her cry﻿—just as the words *be crowned a queen*, uttered portentously, might make a queen-beginner cry. Words, heard by the ear, bring tears from the eyes. But hearts are left firm on their thrones, deep down, beyond the reach of threats and tears. *Alone*﻿—how ugly a word! *Alone*﻿—how fierce a threat! *Alone*﻿—how sore and smarting must Piotr’s poor vanity be, to utter such a threat. She felt an unbearable compassion for him. She imagined she could hear his baffled vanity﻿—rejected﻿—driven home﻿—going round and round in his breast, crying﻿—why﻿—why﻿—why? Other girls, he said, knew his value better. That was his poor darling vanity that spoke; he was besieged inside himself﻿—firing off the failing ammunition of his vanity from behind that pink serious face, those blinking blue eyes, that hard healthy nose, that deeply-breathing chest. Of course there was value in that bewildered body of his﻿—of course other girls knew that value. Why not? She knew it herself. Yet suddenly, as she reviewed his deserts, the very thought of his touching her outraged her. She felt sick. She stopped crying.
+
+“It’s no use, dear Petya,” she said in a quavering voice. “I’m not proud of this fear in me. I don’t pretend it. I am what I am.”
+
+But, very deep down in her heart, she was proud of this birthmark of remoteness. It was not a fear﻿—it was not a fleeing away, but a repelling. Somehow she knew without knowing it, that to be alone was to be judged by a strange calm standard﻿—to be judged, in fact, by herself only﻿—the ideal of pride. Loneliness was in itself a sort of license to live strangely﻿—to live according to an outlaw’s law.
+
+There was a long silence during which Tatiana, her tears drying on her cheeks, watched the caterpillar under the jam-pot. She thought it was arguing to itself: “Now I must keep my head and think clearly. I got in here, so there must be a way out. That stands to reason.” A perfectly good argument. But there was no way out.
+
+Piotr, who had turned his face away, looked at her and saw where her attention was. Grunting with irritation, he knocked the jam-pot over, and the caterpillar, congratulating itself on this justification of its logic, rippled away.
+
+“Come over to the tree, Tanya, and listen to what I have to say,” said Piotr, hoping there would be no insect life or other distracting livestock there. But not hoping very firmly, for anything, he knew, could hold Tatiana’s attention﻿—anything, except a lover.
+
+She was very docile. She walked by his side, back toward the tree. But, halfway, she stopped and said: “But Petya, is it any good talking? You know what happened﻿—that day. It isn’t words that can alter things like that.”
+
+Piotr remembered. The memory stabbed deeply and quickly through his tender body. He could feel still the generous heat of his accepted love﻿—accepted, for she was docile, and had not refused her lips. Why should she refuse? They were betrothed. His memory still rang with her wild scream; his hands tingled still to recall the stiffening of her body as she had fainted. Thunderstruck, almost unbearably hurt, he had looked up﻿—round﻿—down﻿—as he released her. Had she seen a tiger﻿—heard a shot? No, nothing had happened except the natural gesture of a quite ordinary young man’s quite ordinary love.﻿ ﻿… Words to alter this? He ground his teeth to think that such difficult unsimple things as words should be needed. For he knew no fresh words; he hoped for no inspiration of eloquence. All he had to say was, “But why﻿—why﻿—why?” His only argument was being what he was﻿—a healthy decent young man in love with a beautiful healthy girl, whose parents sanctioned their betrothal. What was wrong with that? What was there left for words to explain in that? When he said, “Well then, I shall go away,” he pictured himself obscurely in two halves; one half walking inexorably away over hill and dale, completely carefree, the other half gloating over the sight of the bereaved Tatiana’s remorse, as she lay, cured of her folly, crying, Come back, come back. Petya my darling.﻿ ﻿…
+
+“Well then, Tanya, I shall go away. You will not see me again.”
+
+Tatiana smiled at once. “Will you really, Piotr Gavrilovitch? Will you really be happy again? I shall think of you happy again, finding a new thing every minute﻿—waving your stick﻿—walking happily along.﻿ ﻿…”
+
+“Happy? I am happy now,” said Piotr, sullenly. “It isn’t a woman that could make me unhappy.”
+
+She looked apologetic again. “Oi, Petya﻿—I hurt you.﻿ ﻿… I wish I had never been born.”
+
+“You didn’t hurt me. How could you hurt me? Certainly we would have been married; there was nothing to prevent it except some whim of yours, Tanya. But why should I care? I am the freer for your whim. This place is too small for a man like me. Perhaps I shall join the Chinese army as an officer. Danger doesn’t frighten me. Almost certainly I shall never come back. There will be nobody ever again to bring you mushrooms.”
+
+“How frightful for him,” thought Tatiana, “that he can’t hurt me, though he is hurt by me. I wish I could seem hurt.”
+
+“Of course I shall be very sorry,” she mumbled, awkwardly.
+
+“Sorry! Sorry to miss the mushrooms,” said Piotr, wildly. “You and your mushrooms!” The very mention of mushrooms suddenly filled his eyes with tears. Mushrooms, patterned on a morning field, seemed to spell Tanya to him for a moment. “Mushrooms, indeed!” he croaked. “You think of nothing but yourself.”
+
+“Myself﻿—myself﻿—myself,” thought Tatiana. “Where is myself?” She sought through herself for some essential bone of personality to lay a finger on. “What is it that likes mushrooms? What is it that fears to be alone and yet *must* be alone? What is it that dies of horror when men come too near? Are my eyes, watching caterpillars and watching Petya’s red face﻿—are my eyes myself? What else? What else?” She tried even to imagine what her outer self looked like, sitting here on a tree-root one cautious yard away from Piotr. She could see the spreading tree, spangled with green light; she could see the red hills under that clear tense light that comes just before sunset, the gullies filling with long smoke-blue shadows.﻿ ﻿… She looked along the bent perspective of the gully that stretched below the village to a wide purple and gold valley. The crops, in all colors but all tinged with the same rich yellow late light, and in all shapes﻿—uneven squares, stripes, oblongs, rhomboids﻿—grew from a bloodred soil, so that the near barley seemed like pale green armies wading in blood. Here and there were intervals of naked red﻿—acres that had been ploughed for a new sowing. The paths, angling about among the many-angled crops, were deep set, as though stitched firmly into the texture of patched quilted velvet. Villages, of the same dreamlike smoke-blue as the far mountains, were tucked into gullies and tributary gullies, and over each village a thin taut string of smoke﻿—the smoke of evening cooking﻿—was stretched flat on the windless air.
+
+And in the middle of this jewel-like elaboration of shape and color﻿—where was Tatiana? She could not see herself or put herself into words, but in her mind’s eye a pillar of nothingness reared﻿—a white mirror, passively accepting the image of hills and valleys, insects and lovers.﻿ ﻿…
+
+“Well, have you nothing to say to me﻿—before I say goodbye?”
+
+“I wish you happiness, dear Piotr Gavrilovitch.”
+
+“You really want me to go away and be happy somewhere else and leave you alone?”
+
+“What else is there to do?”
+
+“Do you realize what it is, you foolish girl, for a woman to live and die alone?”
+
+“I realize very well.”
+
+“Well then.﻿ ﻿… Ah, Tanya, would you let me kiss your eyes﻿—just once﻿—before I go?”
+
+Her heart froze. “Petya﻿—would it make you go more happily?” There was a hissing in her ears, like something boiling over﻿—louder and louder﻿—higher and higher. “Ah, but *no﻿—no﻿—no﻿—no*!” She burst into tears and jumped giddily to her feet. She began running back toward her father’s house. She reached the washtubs and plunged her arms in among the wet clothes, pounding, crying, gasping, trembling. A terrified glance back toward the tree showed her that Piotr had gone. A puff of dust at the corner of the temple was all that reminded her eyes of him. If her eyes were her only self﻿—he was gone from her sight now, gone from her self. She felt suddenly safe﻿—safe from seeing his poor face﻿—safe from having to pity him﻿—safe from invasion. The blank page of herself was safe from inscription now. She flapped a wet garment with wild joy in the air.
+
+“Oi, what a splashing!” said the servant, Katya, coming out, carrying two cans of hot water. “You have been crying again, Tatiana Pavlovna.”
+
+“Only for a minute,” said Tatiana. With the strength of excitement she emptied out her washtub into the ditch and wrung out the clothes. She poured the fresh hot water into the tub from a foolish height, saying to herself, “The awed traveler stood and watched the stupendous cataract from a neighboring height.” She imagined the awed traveler, about half an inch high, standing on the opposite brim of the washtub﻿—but she drowned him at once, by mistake, for the water, violently poured in, splashed violently over the brim.
+
+“You are wasting half the hot water, you foolish girl!” shouted Katya. “I have been nearly an hour heating that water and now you throw it on the mud. Can’t you be careful?”
+
+“If I like,” said Tatiana. She began swirling the water round and round in the tub, saying below her breath, “The horrors of the maelstrom,” and pretending that a little ship, the size of a peanut shell, full of despairing pinhead sailors, was whirling round and round, nearer and nearer to the fatal dark siren dint in the middle of the whirl.
+
+“*Tck tck!*” said Katya, and, pushing Tatiana aside, she plunged an armful of soapy linen into the water, instantly calming the cyclone. “Now please, Tatiana Pavlovna, don’t waste time, but help me with the rinsing. It will be dark in half an hour.”
+
+Tatiana began thoughtfully steeping the linen in the water, pulling it, plunging it slowly, letting the white spines of linen hems come to the surface here and there like slow porpoises.
+
+“Where is Piotr Gavrilovitch?” asked Katya.
+
+“He is gone.”
+
+“Gone for good?”
+
+“Going for good.”
+
+“Well, Tatiana Pavlovna, I hope you are properly proud of yourself﻿—emptying this village completely of its young men. Piotr Isaev was the last. Now they are all gone. Seven Russian boys came over in our party from Vladivostok when we all settled here in Mi-san, and now they are all gone, thanks to you. In my young days a pretty girl had all the young men from miles around coming round her like wasps round honey; she didn’t drive them away as though she were a bad smell.”
+
+“Some young woman somewhere’s the better for each of these goings-away of young men,” said Tatiana in a high voice. “Seven pots of honey somewhere have one bad smell in Mi-san to thank for their seven wasps.”
+
+She had no defense against Katya’s talk. Katya could not help vomiting spiteful talk, thought Tatiana. One had to forgive other people with weak stomachs, even if they disgusted one﻿—so why not Katya’s surfeit and indigestion of crude words?
+
+“It’s no good pretending you don’t care,” went on Katya. “No young girl wants to be an old maid. That’s what you’ll be, Tatiana Pavlovna﻿—a finicky old maid, whining over a fat cat. Look at you now﻿—left alone﻿—not another young man of your own race within a hundred miles. What do you want to do about it﻿—marry a smelly Korean or a Japanese shopkeeper who doesn’t come up to your elbow and blows wind through his teeth? Do you like the idea? What’s the matter with you that all the young men run away at the last minute? It’s a disgrace to this house, I assure you. I’ve known you almost as long as your mother has, and I can tell you it keeps me awake of nights. The disgrace of it. It’s not natural. Young men didn’t run away from me, I can tell you, when I was a pretty girl. Of course, after I’d borne seven children and buried five and lost my figure, that was a different matter. Men always run away from a red nose and three hundred pounds of flesh﻿—it’s their nature. But from a pretty girl﻿—*that’s* not nature, Tatiana Pavlovna, there’s something funny about that.”
+
+Tatiana did not speak. She tried to make a loud secret story inside her mind to drown Katya’s voice. She pretended, as she wrung out the linen, that she was a hero, after a shipwreck, saving the drowning, applying artificial respiration. She did not know what artificial respiration was, but amused herself a little by pretending it was rather like this wringing process. Here, she thought, picking up one of her father’s thick unbleached nightgowns﻿—here was a fat old rich Jew all sodden and limp, and here she folded him up and twisted him round, wringing, jerking, laughing as she thought of his dignity all mixed up and intertwisted, his nose and his toes, his eyeglasses and his ankles, all in a little buckled salutary wet lump, being saved by her﻿—and then, shake, flap there he was, the old moneygrubber, flat, bloodless, and pale, but almost his own shape again, the light evening wind blowing him out as she ran him up on the clothesline.
+
+“What do you think women are for?” went on Katya, gasping and wheezing as she pounded and wrung. “What do you think men want of women? Pretty talk﻿—poetry﻿—sitting side by side and looking at stars? Why, my girl, I can tell you men wouldn’t mind if women were dumb and imbecile, as long as the women could give them the one thing they want. I’ll tell you what marriage is, Tatiana Pavlovna﻿—it’s just getting out of bed, cooking three meals, and getting back into bed again. Women can’t run away from that﻿—unless they’re nuns. There’s nothing makes a man so angry as a woman who plays the coward in bed﻿—nothing else that a woman can do can hurt his feelings at all, except, perhaps, bad cooking. It makes a man mad for a woman not to know her duty; it’s like stabbing him﻿—it turns his love to bile. Love, indeed!﻿ ﻿… Why that’s what love is﻿—just the hope of going to bed together. But running away from fate is what you’re doing, Tatiana Pavlovna, and I’m telling you for your good.”
+
+Tatiana had been pounding one pillowcase ever since she saved the scorned Jew. It was an old pillowcase and now she suddenly pounded a hole in it.
+
+“Why, you ought to have been proud to be wanted by all those fine young men,” persisted Katya, in a grinding voice. “A thin, white little thing like you﻿—and all the good red-blooded Russian wenches that have to shrivel up as virgins, these days, or sleep with yellow men. God knows Piotr Isaev was no catch for your father’s daughter, and he a common gardener’s son; still, he was a man﻿—the last man in Mi-san﻿—and now he’s turned his back on you. You ought to be ashamed, breaking your father’s and mother’s hearts by your whimsies.”
+
+“Real people like to be nagged at,” thought Tatiana. “Nagged at by love and other things﻿—asked and asked to give something. Only hills and rivers and flowers and animals are allowed to be free﻿—not to ask for anything. The more you ask of people the more sure they feel that they are people. It’s their *me*﻿—to be nagged at. I don’t ask for anything, so I’m not allowed to be alive. I’ll be kind to them﻿—I’ll cry for them﻿—I’ll laugh for them﻿—I’ll pretend I’m them﻿—but people don’t want that; they want to claw my *me* and they want me to claw theirs. Not to nag is to insult them.”
+
+She saw little circles in outline, flying about on blankness, each circle trying to pursue, attack, overlap and obliterate another. Whenever one circle succeeded in overlapping another, the area of their intersection was suffused with black; the words “wicked black” formed in her mind. No circle seemed content to let its outline rest coolly on another’s﻿—to admit another’s integrity. Black trespass was the inspiration of all.
+
+“It’s something not natural in you; it’s like a devil in you,” said Katya. “A devil sticking a knife into men’s stomachs. It’s like killing something﻿—to scream and faint and kick up a fuss when a man offers to give you﻿—all he has to give, poor beast. A man feels killed. It’s as if you’d killed those seven lovers of yours, Tatiana Pavlovna.”
+
+“Yet they’re not dead. They’re offering it to someone else by now,” thought Tatiana. “And I’m alive, too.” Then that thought broke. “But *am* I? Am I? Is this a life﻿—this seeing﻿—this thinking for caterpillars and men? If in the morning I was hanging from a branch of that tree there, would there be one life less in the world﻿—or only a pair of eyes shut for good? Where is Tanya﻿—washing clothes﻿—hanging from a tree? Tanya the nothing﻿—who by her nothingness killed seven loves and broke the hearts of her father and mother.﻿ ﻿…”
+
+And then, thinking of lovers, she saw the circles trespassing more and more within one another’s outlines till some wholly covered others, each couple becoming one black circle. Her brain began to freeze. A high throbbing note began to sound in her ears. All the hills began rolling slowly on an upward slant behind the darkening window of her eyes.
+
+“Katya! Katya!”
+
+“Oh, little fool! Oh, my darling! Katya’s coming!” cried the old woman, running towards her.

@@ -1,0 +1,74 @@
+## V The Blood of the Winterslips
+The days that followed proved that he was right. He seldom had a moment alone with Barbara; when he did, Jennison seemed always to be hovering nearby, and he did not long delay making the group a threesome. At first John Quincy resented this, but gradually he began to feel that it didn’t matter.
+Nothing appeared to matter any more. A great calm had settled over the waters and over John Quincy’s soul. The Pacific was one vast sheet of glass, growing a deeper blue with every passing hour. They seemed to be floating in space in a world where nothing ever happened, nothing could happen. Quiet restful days gave way to long brilliant nights. A little walk, a little talk, and that was life.
+Sometimes John Quincy chatted with Madame Maynard on the deck. She who had known the Islands so many years had fascinating tales to tell, tales of the monarchy and the missionaries. The boy liked her immensely, she was a New Englander at heart despite her glamourous lifetime in Hawaii.
+Bowker, too, he found excellent company. The steward was that rarity even among college graduates, an educated man; there was no topic upon which he could not discourse at length and brilliantly. In John Quincy’s steamer trunk were a number of huge imposing volumes﻿—books he had been meaning to tackle long ago, but it was Bowker who read them, not John Quincy.
+As the days slipped by, the blue of the water deepened to ultramarine, the air grew heavier and warmer. Underfoot throbbed the engines that were doing their best for Barbara and an early landing. The captain was optimistic, he predicted they would make port late Monday afternoon. But Sunday night a fierce sudden storm swept down upon them, and lashed the ship with a wet fury until dawn. When the captain appeared at luncheon Monday noon, worn by a night on the bridge, he shook his head.
+“We’ve lost our bet, Miss Barbara,” he said. “I can’t possibly arrive off Hololulu before midnight.”
+Barbara frowned. “But ships sail at any hour,” she reminded him. “I don’t see why﻿—if we sent radios ahead﻿—”
+“No use,” he told her. “The Quarantine people keep early hours. No, I’ll have to lay by near the channel entrance until official sunrise﻿—about six. We’ll get in ahead of the *Matsonia* in the morning. That’s the best I can offer you.”
+“You’re a dear, anyhow,” Barbara smiled. “That old storm wasn’t your fault. We’ll drown our sorrow tonight with one last glorious dance﻿—a costume party.” She turned to Jennison. “I’ve got the loveliest fancy dress﻿—Marie Antoinette﻿—I wore it at college. What do you say, Harry?”
+“Fine!” Jennison answered. “We can all dig up some sort of costume. Let’s go.”
+Barbara hurried off to spread the news. After dinner that evening she appeared, a blonde vision straight from the French Court, avid for dancing. Jennison had rigged up an impromptu pirate dress, and was a striking figure. Most of the other passengers had donned weird outfits; on the Pacific boats a fancy dress party is warmly welcomed and amusingly carried out.
+John Quincy took small part in the gaiety, for he still suffered from New England inhibitions. At a little past eleven he drifted into the main saloon and found Madame Maynard seated there alone.
+“Hello,” she said. “Come to keep me company? I’ve sworn not to go to bed until I see the light on Diamond Head.”
+“I’m with you,” John Quincy smiled.
+“But you ought to be dancing, boy. And you’re not in costume.”
+“No,” admitted John Quincy. He paused, seeking an explanation. “A﻿—a fellow can’t make a fool of himself in front of a lot of strangers.”
+“I understand,” nodded the old lady. “It’s a fine delicacy, too. But rather rare, particularly out this way.”
+Barbara entered, flushed and vibrant. “Harry’s gone to get me a drink,” she panted. She sat down beside Mrs. Maynard. “I’ve been looking for you, my dear. You know, you haven’t read my palm since I was a child. She’s simply wonderful﻿—” this to John Quincy. “Can tell you the most amazing things.”
+Mrs. Maynard vehemently shook her head. “I don’t read ’em any more,” she said. “Gave it up. As I’ve grown older, I’ve come to understand how foolish it is to peer into the future. Today﻿—that’s enough for me. That’s all I care to think about.”
+“Oh, please,” the girl pouted.
+The old woman took Barbara’s slim hand in hers, and studied the palm for a moment. John Quincy thought he saw a shadow cross her face. Again she shook her head.
+“Carpe diem,” she said. “Which my nephew once translated as ‘grab the day.’ Dance and be happy tonight, and let’s not try to look behind the curtain. It doesn’t pay, my dear. Take an old woman’s word for that.”
+Harry Jennison appeared in the door. “Oh, here you are,” he said. “I’ve got your drink waiting in the smoking-room.”
+“I’m coming,” the girl said, and went. The old woman stared after her.
+“Poor Barbara,” she murmured. “Her mother’s life was none too happy, either﻿—”
+“You saw something in her hand﻿—” John Quincy suggested.
+“No matter,” the old lady snapped. “There’s trouble waiting for us all, if we look far enough ahead. Now, let’s go on deck. It’s getting on toward midnight.”
+She led him out to the starboard rail. A solitary light, like a star, gleamed in the distance. Land, land at last. “Diamond Head?” John Quincy asked.
+“No,” she said. “That’s the beacon on Makapuu Point. We shall have to round Koko Head before we sight Honolulu.” She stood for a moment by the rail, one frail hand resting upon it. “But that’s Oahu,” she said gently. “That’s home. A sweet land, boy. Too sweet, I often think. I hope you’ll like it.”
+“I’m sure I shall,” replied John Quincy gallantly.
+“Let’s sit down here.” They found deck chairs. “Yes, a dear land,” she went on. “But we’re all sorts, in Hawaii﻿—just as it is the whole world over﻿—honest folks and rascals. From the four corners of the globe men come to us﻿—often because they were no longer welcome at home. We offer them a paradise, and some repay us by becoming good citizens, while others rot away. I often think it will take a lot of stamina to make good in Heaven﻿—and Hawaii is the same.”
+The tall emaciated figure of the Reverend Mr. Upton appeared before them. He bowed. “Good evening, Madame. You’re nearly home.”
+“Yes,” she said. “Glad of it, too.”
+He turned to John Quincy. “You’ll be seeing Dan Winterslip in the morning, young man.”
+“I expect I shall,” John Quincy replied.
+“Just ask him if he recalls that day on Apiang Island in the ’eighties. The Reverend Frank Upton.”
+“Of course,” replied John Quincy. “But you haven’t told me much about it, you know.”
+“No, I haven’t.” The missionary dropped into a chair. “I don’t like to reveal any secrets about a man’s past,” he said. “However, I understand that the story of Dan Winterslip’s early life has always been known in Honolulu.” He glanced toward Madame Maynard.
+“Dan was no saint,” she remarked. “We all know that.”
+He crossed his thin legs. “As a matter of fact, I’m very proud of my meeting with Dan Winterslip,” he went on. “I feel that in my humble way I persuaded him to change his course﻿—for the better.”
+“Humph,” said the old lady. She was dubious, evidently.
+John Quincy was not altogether pleased at the turn the conversation had taken. He did not care to have the name of a Winterslip thus bandied about. But to his annoyance, the Reverend Mr. Upton was continuing.
+“It was in the ’eighties, as I told you,” said the missionary. “I had a lonely station on Apiang, in the Gilbert group. One morning a brig anchored just beyond the reef, and a boat came ashore. Of course, I joined the procession of natives down to the beach to meet it. I saw few enough men of my own race.
+“There was a ruffianly crew aboard, in charge of a dapper, rather handsome young white man. And I saw, even before they beached her, midway in the boat, a long pine box.
+“The white man introduced himself. He said he was First Officer Winterslip, of the brig *Maid of Shiloh*. And when he mentioned the name of the ship, of course I knew at once. Knew her unsavory trade and history. He hurried on to say that their captain had died the day before, and they had brought him ashore to bury him on land. It had been the man’s last wish.
+“Well.” The Reverend Mr. Upton stared at the distant shore line of Oahu. “I looked over at that rough pine box﻿—four Malay sailors were carrying it ashore. ‘So Tom Brade’s in there,’ I said. Young Winterslip nodded. ‘He’s in there, right enough,’ he answered. And I knew I was looking on at the final scene in the career of a famous character of the South Seas, a callous brute who knew no law, a pirate and adventurer, the master of the notorious *Maid of Shiloh*. Tom Brade, the blackbirder.”
+“Blackbirder?” queried John Quincy.
+The missionary smiled. “Ah, yes﻿—you come from Boston. A blackbirder, my boy, is a shipping-master who furnishes contract labor to the plantations at so much a head. It’s pretty well wiped out now, but in the ’eighties! A horrible business﻿—the curse of God was on it. Sometimes the laborers came willingly. Sometimes. But mostly they came at the point of a knife or the muzzle of a gun. A bloody, brutal business.
+“Winterslip and his men went up the beach and began to dig a grave under a coconut palm. I followed. I offered to say a prayer. Winterslip laughed﻿—not much use, he said. But there on that bright morning under the palm I consigned to God the soul of a man who had so much to answer for. Winterslip agreed to come to my house for lunch. He told me that save for a recruiting agent who had remained aboard the brig, he was now the only white man on the ship.
+“During lunch, I talked to him. He was so young﻿—I discovered this was his first trip. ‘It’s no trade for you,’ I told him. And after a time, he agreed with me. He said he had two hundred blacks under the hatches that he must deliver to a plantation over in the Kings-mill group, and that after he’d done that, he was through. ‘I’ll take the *Maid* back to Sydney, Dominie,’ he promised, ‘and turn her over. Then I’m *pau*. I’m going home to Honolulu.’ ”
+The Reverend Mr. Upton rose slowly. “I learned later that he kept his word,” he finished. “Yes, Dan Winterslip went home, and the South Seas saw him no more. I’ve always been a little proud of my part in that decision. I’ve had few rewards. It’s not everywhere that the missionaries have prospered in a worldly way﻿—as they did in Hawaii.” He glanced at Madame Maynard. “But I’ve had satisfactions. And one of them arose from that meeting on the shore at Apiang. It’s long past my bed hour﻿—I must say good night.”
+He moved away. John Quincy sat turning this horror over and over in his mind. A Winterslip in the blackbirding business! That was pretty. He wished he was back on Beacon Street.
+“Sweet little dig for me,” the old lady was muttering indignantly. “That about the missionaries in Hawaii. And he needn’t be so cocky. If Dan Winterslip dropped blackbirding, it was only because he’d found something more profitable, I fancy.” She stood up suddenly. “At last,” she said.
+John Quincy rose and stood beside her. Far away a faint yellow eye was winking. For a moment the old lady did not speak.
+“Well, that’s that,” she said finally, in a low voice. “I’ve seen Diamond Head again. Good night, my boy.”
+“Good night,” John Quincy answered.
+He stood alone by the rail. The pace of the *President Tyler* was slowing perceptibly. The moon came from behind a cloud, crept back again. A sort of unholy calm was settling over the hot, airless, deep blue world. The boy felt a strange restlessness in his heart.
+He ascended to the boat deck, seeking a breath of air. There, in a secluded spot, he came upon Barbara and Jennison﻿—and stopped, shocked. His cousin was in the man’s arms, and their bizarre costumes added a weird touch to the scene. They did not see John Quincy, for in their world at that moment there were only two. Their lips were crushed together, fiercely﻿—
+John Quincy fled. Good lord! He had kissed a girl or two himself, but it had been nothing like that.
+He went to the rail outside his stateroom. Well, what of it? Barbara was nothing to him, a cousin, yes, but one who seemed to belong to an alien race. He had sensed that she was in love with Jennison; this was no surprise. Why did he feel that frustrated pang deep in his heart? He was engaged to Agatha Parker.
+He gripped the rail, and sought to see again Agatha’s aristocratic face. But it was blurred, indistinct. All Boston was blurred in his memory. The blood of the roaming Winterslips, the blood that led on to blackbirding and hot breathless kisses in the tropic night﻿—was it flowing in his veins too? Oh, lord﻿—he should have stayed at home where he belonged.
+Bowker, the steward, came along. “Well, here we are,” he said. “We’ll anchor in twelve fathoms and wait for the pilot and the doctor in the morning. I heard they’d been having Kona weather out this way, but I imagine this is the tail end of it. There’ll be a moon shortly, and by dawn the old trades will be on the job again, God bless them.”
+John Quincy did not speak. “I’ve returned all your books, sir,” the steward went on, “except that one by Adams on *Revolutionary New England*. It’s a mighty interesting work. I intend to finish it tonight, so I can give it to you before you go ashore.”
+“Oh, that’s all right,” John Quincy said. He pointed to dim harbor lights in the distance. “Honolulu’s over there, I take it.”
+“Yeah﻿—several miles away. A dead town, sir. They roll up the sidewalks at nine. And let me give you a tip. Keep away from the okolehau.”
+“The what?” asked John Quincy.
+“The okolehau. A drink they sell out here.”
+“What’s it made of?”
+“There,” said Bowker, “you have the plot for a big mystery story. What *is* it made of? Judging by the smell, of nothing very lovely. A few gulps, and you hit the ceiling of eternity. But oh, boy﻿—when you drop! Keep off it, sir. I’m speaking as one who knows.”
+“I’ll keep off it,” John Quincy promised.
+Bowker disappeared. John Quincy remained by the rail, that restless feeling growing momentarily. The moon was hidden still, the ship crept along through the muggy darkness. He peered across the black waters toward the strange land that awaited him.
+Somewhere over there, Dan Winterslip waited for him too. Dan Winterslip, blood relative of the Boston Winterslips, and ex-blackbirder. For the first time, the boy wished he had struck first in that dark attic in San Francisco, wished he had got that strong box and cast it overboard in the night. Who could say what new scandal, what fresh blot on the honored name of Winterslip, might have been averted had he been quicker with his fists?
+As John Quincy turned and entered his cabin, he made a firm resolution. He would linger but briefly at this, his journey’s end. A few days to get his breath, perhaps, and then he would set out again for Boston. And Aunt Minerva would go with him, whether she wanted to or not.

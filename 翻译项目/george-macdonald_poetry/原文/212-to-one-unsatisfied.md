@@ -1,0 +1,6 @@
+## To One Unsatisfied
+
+When, with all the loved around thee,
+Still thy heart says, “I am lonely,”
+It is well; the truth hath found thee:
+Rest is with the Father only.

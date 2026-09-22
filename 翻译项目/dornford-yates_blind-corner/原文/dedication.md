@@ -1,0 +1,1 @@
+To Norman Kenneth Stephen, late Senior Assistant Master of Harrow School, who was the first to show me that, though few can bend it, the long bow of English is on every man’s back, this book is respectfully and gratefully dedicated.

@@ -1,0 +1,83 @@
+====================================================================================================
+### mary-de-morgan_the-windfairies  (9 files)
+  块: O=586 C=586 OK | 段: EN=643 CN=643 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: 见术语表.md。文体为维多利亚时代文学童话，叙事典雅、说书人口吻，对话须贴合角色（粗汉粗、少女柔、仙子空灵）；保留原书的反复句式与排比节奏及篇中嵌入的歌谣。各篇人物独立，仅共享"风仙子/地精/仙灵"等类型词。
+  -- 术语表硬约束行 76 条:
+     Lucilla                        → 露西娅                  源×79    译×78   
+     the miller                     → 磨坊主                  源×18    译×21   
+     the sailor                     → 水手                   源×8     译×9    
+     the King                       → 国王                   源×47    译×63   
+     the Queen                      → 王后                   源×23    译×40   
+     the windfairies                → 风仙子                  源×14    译×27   
+     Kesta                          → 凯斯塔                  源×48    译×47   
+     Adam                           → 亚当                   源×12    译×12   
+     the miller                     → 磨坊主                  源×0     译×0     ★源0次(幽灵?)
+     the bailiff                    → 管家                   源×9     译×12   
+     the Duke                       → 公爵                   源×22    译×24   
+     the Duchess                    → 公爵夫人                 源×2     译×2    
+     the General                    → 将军                   源×14    译×16   
+     the banker                     → 银行家                  源×15    译×15   
+     the pool                       → 池塘                   源×21    译×25   
+     the tree                       → 树                    源×45    译×94   
+     the swallow                    → 燕子                   源×2     译×3    
+     the moon                       → 月亮                   源×15    译×10   
+     the little cloud               → 小云朵                  源×1     译×5    
+     the west wind                  → 西风                   源×3     译×3    
+     Nanina                         → 纳尼娜                  源×28    译×27   
+     the old farmer                 → 老农夫                  源×0     译×3     ★源0次(幽灵?)
+     the shepherd boy               → 牧羊少年                 源×1     译×11   
+     the old palace                 → 旧宫殿                  源×6     译×6    
+     the black goats                → 黑山羊                  源×3     译×5    
+     the potter                     → 陶工                   源×59    译×63   
+     the gipsy                      → 吉普赛女郎                源×68    译×23    落位偏低 23/68
+     the gipsy boy                  → 吉普赛少年                源×14    译×15   
+     the potter's wife              → 陶工之妻                 源×40    译×40   
+     the old gentleman              → 老绅士                  源×46    译×48   
+     the cat / grey puss            → 灰猫 / 灰猫儿             源×22    译×17   
+     the beggar-man                 → 乞丐                   源×0     译×7     ★源0次(幽灵?)
+     Persian                        → 波斯猫                  源×1     译×1    
+     Siamese                        → 暹罗猫                  源×1     译×1    
+     Othmar                         → 奥特玛                  源×99    译×99   
+     Hulda                          → 胡尔达                  源×86    译×86   
+     the dwarf / the musician / the → 矮人 / 乐师 / 小个子        源×28    译×43   
+     Tommy the fool                 → 傻瓜汤米                 源×3     译×3    
+     the raven                      → 渡鸦                   源×47    译×51   
+     the Mayor                      → 镇长                   源×1     译×1    
+     the bird-boy / bird-boy        → 鸟孩子                  源×2     译×2     残留「失声的奥特玛」×1
+     the singing girl               → 唱歌的少女                源×6     译×5    
+     the shepherd                   → 牧羊人                  源×16    译×7     落位偏低 7/16
+     the shepherd's wife            → 牧羊人之妻                源×19    译×19   
+     the shepherd's daughter / the  → 牧羊人之女 / 雨中少女         源×9     译×8    
+     the grey woman                 → 灰衣女子                 源×1     译×1    
+     the King                       → 老国王                  源×0     译×3     ★源0次(幽灵?)
+     the King's son / the Prince    → 王子                   源×15    译×4     落位偏低 4/15
+     the Princess                   → 公主                   源×2     译×8    
+     the ploughman                  → 农夫                   源×57    译×57   
+     the wife                       → 妻子                   源×31    译×96   
+     the gnome                      → 地精                   源×25    译×30   
+     the Palace                     → 宫殿                   源×15    译×15   
+     the barracks                   → 兵营                   源×2     译×2    
+     the old castle                 → 旧城堡                  源×0     译×1     ★源0次(幽灵?)
+     Cat Show                       → 猫展                   源×5     译×7    
+     windfairies                    → 风仙子                  源×12    译×0     ★译0次(未落位?)
+     fairy / fairies                → 仙子                   源×14    译×14   
+     fairy folk                     → 仙灵                   源×1     译×1    
+     gnome                          → 地精                   源×7     译×0     ★译0次(未落位?)
+     the rain maiden                → 雨中少女                 源×0     译×0     ★源0次(幽灵?)
+     keep faith with                → 守信 / 不背弃             源×7     译×18   
+     witchcraft / witch             → 巫术 / 女巫              源×9     译×11   
+     crook                          → 牧杖                   源×1     译×1    
+     pipe                           → 牧笛                   源×22    译×8     落位偏低 8/22
+     wheel / throwing pots          → 陶轮 / 拉坯              源×19    译×18   
+     kiln                           → 窑                    源×3     译×5    
+     the little brown cup           → 小棕杯                  源×5     译×13   
+     shilling / penny / sovereign   → 先令 / 便士 / 索弗林金币      源×3     译×4    
+     india-rubber                   → 橡胶                   源×2     译×2    
+     black beetle                   → 黑甲虫                  源×6     译×6    
+     the downs                      → 丘原                   源×8     译×8    
+     windmill sails                 → （风车的）翼板              源×4     译×0     ★译0次(未落位?)
+     feather-down                   → 羽绒                   源×3     译×3    
+     the Evil One                   → 恶魔                   源×2     译×2    
+     scaffold / block               → 刑台 / 断头墩             源×10    译×10   
+

@@ -1,0 +1,36 @@
+## XXVIII On the Shores of the Heavenly Gunga
+When Kamanita perceived that even here, in the abode of bliss, these memories overshadowed, as with dark and troublous wings, the yet delicate, newly awakened soul of his beloved, he took her by the hand and led her away, guiding their flight to the charming hill on whose slope he had lately lain and watched the games of the floating dancers.
+Here they sought a resting-place. Already groves and shrubberies, meadows and hill-slopes were filled with countless floating figures, red, blue, and white. Group after group surrounded them to greet the newly awakened one. And the two mingled in the ranks of the players.
+They had been gliding hither and thither for a long time, through the groves, round about the rocks, over the meadows and lotus ponds, wherever the chain of dancers led, when they were suddenly met by the white-robed companion who had formerly called upon Kamanita to face the journey to the Gunga with her. As they held out their hands to one another in the dance, she asked, with a sunny smile﻿—
+“Well, hast thou been at the shores of the Gunga yet? Now thou hast a companion, I see.”
+“Not yet,” answered Kamanita.
+“What is that?” asked Vasitthi.
+And Kamanita told her.
+“Let us go there,” said Vasitthi. “Oh, how often have I, down in the sad valleys of earth, looked up to the distant reflection of the heavenly stream, and thought of the blessed plains that are enfolded and watered by it, and asked myself if we should really one day be united in this place of bliss. Now I feel myself irresistibly drawn thither, to linger with thee on its shores.”
+They withdrew from the chain of dancers and turned their flight in a direction which led them far from their own lake. After some time they saw no more lotus ponds, nor lotus roses bearing happy beings; the wealth of blossoms decreased perceptibly; more and more rarely did they meet the figures of the Blest; herds of antelopes here gave life to the plain; on the lakes swans glided along, drawing trains of glistening waves behind them over the dark waters. The hills, which in the beginning had grown ever steeper and more rocky, disappeared entirely.
+They floated over a flat, desert-like plain covered with tiger-grass and thorny shrubs. Before them lay stretched the endless curves of a forest of palms.
+They reached the forest. More and more deeply did the shadows close around them. The ringed trunks gleamed like bronze. High above them, the treetops resounded with a clang as of metal.
+In front, glistening points and streaks of light began to dance. And suddenly there streamed towards them such a blaze of light that they were obliged to hold their hands before their eyes. It seemed as though there stood in the forest a gigantic colonnade of burnished silver pillars flashing back the light of the rising sun.
+When they ventured again to remove their hands from their faces, they were just floating out between the last of the forest palms.
+Before them lay the heavenly Gunga, its silvery expanse teaching out to the far horizon, while at their feet wavelets of liquid starlight lapped, as if with tongues of flame, the pearl-grey sand of the flat shore.
+As a rule, the sky begins to grow gradually clearer down towards the horizon, but here the order was reversed; the ultramarine blue passed into indigo, and finally deepened to an all but absolutely black border, which rested on the silver waters.
+Of the perfume of the blossoms of Paradise, there was nothing left. But whereas, in the malachite valley, that memory-laden perfume of perfumes lay dense around the Coral Tree, here there blew, along the stream of the universe, a cool and fresh breath which took for its perfume the absence of all perfume﻿—perfect purity. And Vasitthi seemed to quaff it greedily as a refreshing draught, while it took Kamanita’s breath away.
+Here also, of the music of the genii, one did not catch the faintest note. But from the stream there seemed to rise up mighty sounds like the deep booming of thunder.
+“Listen,” whispered Vasitthi, and raised her hand.
+“Strange,” said Kamanita. “Once on my journeyings I had found quarters in a hut which stood at the entrance to a mountain ravine, and past the hut there flowed a charming little rivulet with clear water in which I washed my feet after my wanderings. During the night, a violent rain fell and, as I lay awake in my hut, I heard the rivulet, which in the evening had rippled softly by, rush and rage with ever-increasing vehemence. At the same time my attention was caught by a banging, thundering sound which I could not explain to myself at all. The next morning, however, I saw that the clear brook had become a raging mountain torrent, with waters grey and foaming, in which huge stones rolled and bounded as they dashed onward. And these it was that had caused the uproar. How dost thou suppose that just here, when listening to these sounds, this memory out of the time of my pilgrimage should rise within me?”
+“It comes from this,” answered Vasitthi, “that the sounds are analogous, though in that mountain stream merely stones, while here in the stream of the heavenly Gunga, worlds are rolled and propelled along. These it is from which the booming sounds like thunder proceed.”
+“Worlds!” exclaimed Kamanita, horrified.
+Vasitthi smiled, and, as she did so, floated onward; but Kamanita, full of terror, caught and held her back by the robe.
+“Take care of thyself, Vasitthi. Who knows what powers, what fearful forces hold sway over this stream of the universe, forces into whose power thou mightst fall, by forsaking the shore. I tremble already at the thought of seeing thee torn suddenly from me.”
+“Wouldst thou not dare to follow me, then?”
+“Certainly, I would follow thee. But who knows whether I could reach thee, whether we should not be torn from one another? And even if we remained together, what misery would it not be to be borne away to the illimitable, far from this abode of bliss.”
+“To the illimitable!” repeated Vasitthi dreamily, and her glance swept over the surface of the heavenly Gunga, far out to where the silver flood touched the black border of the sky, and seemed to desire to penetrate ever farther. “Is it possible, then, for eternal happiness to exist where there is limitation?” she asked, as if she were lost in thought.
+“Vasitthi!” exclaimed Kamanita, becoming alarmed in earnest. “I wish I had never led thee hither! Come, love, come!”
+And even more anxiously than from the Coral Tree did he draw her thence.
+She followed him not unwillingly, turning her head at the first palms as she did so, and casting a last glance backward at the heavenly stream.
+---
+And again they were throned on their lotus seats in the crystal pond, again they floated between trees bearing blossoms of jewels, again mingled with the ranks of the Blest, joined in the dances, and enjoyed the raptures of heaven, happy in their unclouded love.
+Once, in the dance, they met their friend of the white robe, who greeted them with﻿—
+“So ye have really been at the shores of the Gunga?”
+“How canst thou possibly know that we have been there?”
+“I see it; for all who have been there wear, as it were, a shadow on their brows. For that reason I don’t wish to go. And ye will also not go a second time﻿—no one does.”

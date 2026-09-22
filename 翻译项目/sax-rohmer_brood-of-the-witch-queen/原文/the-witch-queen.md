@@ -1,0 +1,84 @@
+## XV The Witch-Queen
+A man mentally overtired sleeps either dreamlessly, or dreams with a vividness greater than that characterising the dreams of normal slumber. Dr. Cairn dreamt a vivid dream.
+He dreamt that he was awakened by the sound of a gentle rapping. Opening his eyes, he peered through the cloudy netting. He started up, and wrenched back the curtain. The rapping was repeated; and peering again across the room, he very distinctly perceived a figure upon the balcony by the open window. It was that of a woman who wore the black silk dress and the white yashmak of the Muslim, and who was bending forward looking into the room.
+“Who is there?” he called. “What do you want?”
+“*S﻿—sh!*”
+The woman raised her hand to her veiled lips, and looked right and left as if fearing to disturb the occupants of the adjacent rooms.
+Dr. Cairn reached out for his dressing-gown which lay upon the chair beside the bed, threw it over his shoulders, and stepped out upon the floor. He stooped and put on his slippers, never taking his eyes from the figure at the window. The room was flooded with moonlight.
+He began to walk towards the balcony, when the mysterious visitor spoke.
+“You are Dr. Cairn?”
+The words were spoken in the language of dreams; that is to say, that although he understood them perfectly, he knew that they had not been uttered in the English language, nor in any language known to him; yet, as is the way with one who dreams, he had understood.
+“I am he,” he said. “Who are you?”
+“Make no noise, but follow me quickly. Someone is very ill.”
+There was sincerity in the appeal, spoken in the softest, most silvern tone which he had ever heard. He stood beside the veiled woman, and met the glance of her dark eyes with a consciousness of some magnetic force in the glance, which seemed to set his nerves quivering.
+“Why do you come to the window? How do you know﻿—”
+The visitor raised her hand again to her lips. It was of a gleaming ivory colour, and the long tapered fingers were laden with singular jewellery﻿—exquisite enamel work, which he knew to be Ancient Egyptian, but which did not seem out of place in this dream adventure.
+“I was afraid to make any unnecessary disturbance,” she replied. “Please do not delay, but come at once.”
+Dr. Cairn adjusted his dressing-gown, and followed the veiled messenger along the balcony. For a dream city, Port Said appeared remarkably substantial, as it spread out at his feet, its dingy buildings whitened by the moonlight. But his progress was dreamlike, for he seemed to glide past many windows, around the corner of the building, and, without having consciously exerted any physical effort, found his hands grasped by warm jewelled fingers, found himself guided into some darkened room, and then, possessed by that doubting which sometimes comes in dreams, found himself hesitating. The moonlight did not penetrate to the apartment in which he stood, and the darkness about him was impenetrable.
+But the clinging fingers did not release their hold, and vaguely aware that he was acting in a manner which might readily be misconstrued, he nevertheless allowed his unseen guide to lead him forward.
+Stairs were descended in phantom silence﻿—many stairs. The coolness of the air suggested that they were outside the hotel. But the darkness remained complete. Along what seemed to be a stone-paved passage they advanced mysteriously, and by this time Dr. Cairn was wholly resigned to the strangeness of his dream.
+Then, although the place lay in blackest shadow, he saw that they were in the open air, for the starry sky swept above them.
+It was a narrow street﻿—at points, the buildings almost met above﻿—wherein, he now found himself. In reality, had he been in possession of his usual faculties, awake, he would have asked himself how this veiled woman had gained admittance to the hotel, and why she had secretly led him out from it. But the dreamer’s mental lethargy possessed him, and, with the blind faith of a child, he followed on, until he now began vaguely to consider the personality of his guide.
+She seemed to be of no more than average height, but she carried herself with unusual grace, and her progress was marked by a certain hauteur. At the point where a narrow lane crossed that which they were traversing the veiled figure was silhouetted for a moment against the light of the moon, and through the gauze-like fabric, he perceived the outlines of a perfect shape. His vague wonderment, concerned itself now with the ivory, jewel-laden hands. His condition differed from the normal dream state, in that he was not entirely resigned to the anomalous.
+Misty doubts were forming, when his dream guide paused before a heavy door of a typical native house which once had been of some consequence, and which faced the entrance to a mosque, indeed lay in the shadow of the minaret. It was opened from within, although she gave no perceptible signal, and its darkness, to Dr. Cairn’s dulled perceptions, seemed to swallow them both up. He had an impression of a trap raised, of stone steps descended, of a new darkness almost palpable.
+The gloom of the place effected him as a mental blank, and, when a bright light shone out, it seemed to mark the opening of a second dream phase. From where the light came, he knew not, cared not, but it illuminated a perfectly bare room, with a floor of native mud bricks, a plastered wall, and wood-beamed ceiling. A tall sarcophagus stood upright against the wall before him; its lid leant close beside it﻿ ﻿… and his black robed guide, her luminous eyes looking straightly over the yashmak, stood rigidly upright within it!
+She raised the jewelled hands, and with a swift movement discarded robe and yashmak, and stood before him, in the clinging draperies of an ancient queen, wearing the leopard skin and the uraeus, and carrying the flail of royal Egypt!
+Her pale face formed a perfect oval; the long almond eyes had an evil beauty which seemed to chill; and the brilliantly red mouth was curved in a smile which must have made any man forget the evil in the eyes. But when we move in a dream world, our emotions become dreamlike too. She placed a sandalled foot upon the mud floor and stepped out of the sarcophagus, advancing towards Dr. Cairn, a vision of such sinful loveliness as he could never have conceived in his waking moments. In that strange dream language, in a tongue not of East nor West, she spoke; and her silvern voice had something of the tone of those Egyptian pipes whose dree fills the nights upon the Upper Nile﻿—the seductive music of remote and splendid wickedness.
+“You know me, *now*?” she whispered.
+And in his dream she seemed to be a familiar figure, at once dreadful and worshipful.
+A fitful light played through the darkness, and seemed to dance upon a curtain draped behind the sarcophagus, picking out diamond points. The dreamer groped in the mental chaos of his mind, and found a clue to the meaning of this. The diamond points were the eyes of thousands of tarantula spiders with which the curtain was broidered.
+The sign of the spider! What did he know of it? Yes! of course; it was the secret mark of Egypt’s witch-queen﻿—of the beautiful woman whose name, after her mysterious death, had been erased from all her monuments. A sweet whisper stole to his ears:
+“You will befriend him, befriend my son﻿—for *my* sake.”
+And in his dream-state he found himself prepared to foreswear all that he held holy﻿—for her sake. She grasped both his hands, and her burning eyes looked closely into his.
+“Your reward shall be a great one,” she whispered, even more softly.
+Came a sudden blank, and Dr. Cairn found himself walking again through the narrow street, led by the veiled woman. His impressions were growing dim; and now she seemed less real than hitherto. The streets were phantom streets, built of shadow stuff, and the stairs which presently he found himself ascending, were unsubstantial, and he seemed rather to float upward; until, with the jewelled fingers held fast in his own, he stood in a darkened apartment, and saw before him an open window, knew that he was once more back in the hotel. A dim light dawned in the blackness of the room and the musical voice breathed in his ear:
+“Your reward shall be easily earned. I did but test you. Strike﻿—and strike truly!”
+The whisper grew sibilant﻿—serpentine. Dr. Cairn felt the hilt of a dagger thrust into his right hand, and in the dimly-mysterious light looked down at one who lay in a bed close beside him.
+At sight of the face of the sleeper﻿—the perfectly-chiselled face, with the long black lashes resting on the ivory cheeks﻿—he forgot all else, forgot the place wherein he stood, forgot his beautiful guide, and only remembered that he held a dagger in his hand, and that Antony Ferrara lay there, sleeping!
+“Strike!” came the whisper again.
+Dr. Cairn felt a mad exultation boiling up within him. He raised his hand, glanced once more on the face of the sleeper, and nerved himself to plunge the dagger into the heart of this evil thing.
+A second more, and the dagger would have been buried to the hilt in the sleeper’s breast﻿—when there ensued a deafening, an appalling explosion. A wild red light illuminated the room, the building seemed to rock. Close upon that frightful sound followed a cry so piercing that it seemed to ice the blood in Dr. Cairn’s veins.
+“Stop, sir, stop! My God! what are you doing!”
+A swift blow struck the dagger from his hand and the figure on the bed sprang upright. Swaying dizzily, Dr. Cairn stood there in the darkness, and as the voice of awakened sleepers reached his ears from adjoining rooms, the electric light was switched on, and across the bed, the bed upon which he had thought Antony Ferrara lay, he saw his son, Robert Cairn!
+No one else was in the room. But on the carpet at his feet lay an ancient dagger, the hilt covered with beautiful and intricate gold and enamel work.
+Rigid with a mutual horror, these two so strangely met stood staring at one another across the room. Everyone in the hotel, it would appear, had been awakened by the explosion, which, as if by the intervention of God, had stayed the hand of Dr. Cairn﻿—had spared him from a deed impossible to contemplate.
+There were sounds of running footsteps everywhere; but the origin of the disturbance at that moment had no interest for these two. Robert was the first to break the silence.
+“Merciful God, sir!” he whispered huskily, “how did you come to be here? What is the matter? Are you ill?”
+Dr. Cairn extended his hands like one groping in darkness.
+“Rob, give me a moment, to think, to collect myself. Why am I here? By all that is wonderful, why are *you* here?”
+“I am here to meet you.”
+“To meet me! I had no idea that you were well enough for the journey, and if you came to meet me, why﻿—”
+“That’s it, sir! Why did you send me that wireless?”
+“I sent no wireless, boy!”
+Robert Cairn, with a little colour returning to his pale cheeks, advanced and grasped his father’s hand.
+“But after I arrived here to meet the boat, sir I received a wireless from the P. and O. due in the morning, to say that you had changed your mind, and come via Brindisi.”
+Dr. Cairn glanced at the dagger upon the carpet, repressed a shudder, and replied in a voice which he struggled to make firm:
+“*I* did not send that wireless!”
+“Then you actually came by the boat which arrived last night?﻿—and to think that I was asleep in the same hotel! What an amazing﻿—”
+“Amazing indeed, Rob, and the result of a cunning and well planned scheme.” He raised his eyes, looking fixedly at his son. “You understand the scheme; the scheme that could only have germinated in one mind﻿—a scheme to cause me, your father, to﻿—”
+His voice failed and again his glance sought the weapon which lay so close to his feet. Partly in order to hide his emotion, he stooped, picked up the dagger, and threw it on the bed.
+“For God’s sake, sir,” groaned Robert, “what were you doing here in my room with﻿—that!”
+Dr. Cairn stood straightly upright and replied in an even voice:
+“I was here to do murder!”
+“*Murder!*”
+“I was under a spell﻿—no need to name its weaver; I thought that a poisonous thing at last lay at my mercy, and by cunning means the primitive evil within me was called up, and braving the laws of God and man, I was about to slay that thing. Thank God!﻿—”
+He dropped upon his knees, silently bowed his head for a moment, and then stood up, self-possessed again, as his son had always known him. It had been a strange and awful awakening for Robert Cairn﻿—to find his room illuminated by a lurid light, and to find his own father standing over him with a knife! But what had moved him even more deeply than the fear of these things, had been the sight of the emotion which had shaken that stern and unemotional man. Now, as he gathered together his scattered wits, he began to perceive that a malignant hand was moving above them, that his father, and himself, were pawns, which had been moved mysteriously to a dreadful end.
+A great disturbance had now arisen in the streets below, streams of people it seemed, were pouring towards the harbour; but Dr. Cairn pointed to an armchair.
+“Sit down, Rob,” he said. “I will tell my story, and you shall tell yours. By comparing notes, we can arrive at some conclusion. Then we must act. This is a fight to a finish, and I begin to doubt if we are strong enough to win.”
+He took up the dagger and ran a critical glance over it, from the keen point to the enamelled hilt.
+“This is unique,” he muttered, whilst his son, spellbound, watched him; “the blade is as keen as if tempered but yesterday; yet it was made full five thousand years ago, as the workmanship of the hilt testifies. Rob, we deal with powers more than human! We have to cope with a force which might have awed the greatest Masters which the world has known. It would have called for all the knowledge, and all the power of Apollonius of Tyana to have dealt with﻿—*him*!”
+“Antony Ferrara!”
+“Undoubtedly, Rob! it was by the agency of Antony Ferrara that the wireless message was sent to you from the P. and O. It was by the agency of Antony Ferrara that I dreamt a dream tonight. In fact it was no true dream; I was under the influence of﻿—what shall I term it?﻿—hypnotic suggestion. To what extent that malign will was responsible for you and I being placed in rooms communicating by means of a balcony, we probably shall never know; but if this proximity was merely accidental, the enemy did not fail to take advantage of the coincidence. I lay watching the stars before I slept, and one of them seemed to grow larger as I watched.” He began to pace about the room in growing excitement. “Rob, I cannot doubt that a mirror, or a crystal, was actually suspended before my eyes by﻿—someone, who had been watching for the opportunity. I yielded myself to the soothing influence, and thus deliberately﻿—deliberately﻿—placed myself in the power of﻿—Antony Ferrara﻿—”
+“You think that he is here, in this hotel?”
+“I cannot doubt that he is in the neighbourhood. The influence was too strong to have emanated from a mind at a great distance removed. I will tell you exactly what I dreamt.”
+He dropped into a cane armchair. Comparative quiet reigned again in the streets below, but a distant clamour told of some untoward happening at the harbour.
+Dawn would break ere long, and there was a curious rawness in the atmosphere. Robert Cairn seated himself upon the side of the bed, and watched his father, whilst the latter related those happenings with which we are already acquainted.
+“You think, sir,” said Robert, at the conclusion of the strange story, “that no part of your experience was real?”
+Dr. Cairn held up the antique dagger, glancing at the speaker significantly.
+“On the contrary,” he replied, “I *do* know that part of it was dreadfully real. My difficulty is to separate the real from the phantasmal.”
+Silence fell for a moment. Then:
+“It is almost certain,” said the younger man, frowning thoughtfully, “that you did not actually leave the hotel, but merely passed from your room to mine by way of the balcony.”
+Dr. Cairn stood up, walked to the open window, and looked out, then turned and faced his son again.
+“I believe I can put that matter to the test,” he declared. “In my dream, as I turned into the lane where the house was﻿—the house of the mummy﻿—there was a patch covered with deep mud, where at some time during the evening a quantity of water had been spilt. I stepped upon that patch, or dreamt that I did. We can settle the point.”
+He sat down on the bed beside his son, and, stooping, pulled off one of his slippers. The night had been full enough of dreadful surprises; but here was yet another, which came to them as Dr. Cairn, with the inverted slipper in his hand, sat looking into his son’s eyes.
+The sole of the slipper was caked with reddish brown mud.

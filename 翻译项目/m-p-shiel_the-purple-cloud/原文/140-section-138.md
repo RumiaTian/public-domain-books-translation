@@ -1,0 +1,1 @@
+I believe that her momentary laugh and sob, which I had heard, was the result of surprise at seeing her own image; and I firmly believe, from the expression of her face, that this was the first time that she had seen it.

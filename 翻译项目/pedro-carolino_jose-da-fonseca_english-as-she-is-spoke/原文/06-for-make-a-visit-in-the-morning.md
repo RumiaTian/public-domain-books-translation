@@ -1,0 +1,27 @@
+# For Make a Visit in the Morning
+- Is your master at home?
+- Yes, sir.
+- Is it up.
+- No, sir, he sleep yet.
+- I go make that he get up.
+- It come in one’s? How is it, you are in bed yet?
+- Yesterday at evening, I was to bed so late that I may not rising me soon that morning.
+- Well! what you have done after the supper?
+- We have sung, danced, laugh and played.
+- What game?
+- To the picket.
+- Whom I am sorry do not have know it!
+- Who have prevailed upon?
+- I had gained ten lewis.
+- Till at what o’clock its had play one?
+- Un till two o’clock after mid night.
+- At what o’clock are you go to bed.
+- Half pass three.
+- I am no astonished if you get up so late.
+- What o’clock is it?
+- What o’clock you think is it?
+- I think is not yet eight o’clock.
+- How is that, eight ’clock! it is ten ’clock struck.
+- It must then what I rise me quickly.
+- Adieu, my deer, I leave you. If can to see you at six clock to the hotel from —﻿—﻿—, we swill dine togetter.
+- Willingly. Good by.

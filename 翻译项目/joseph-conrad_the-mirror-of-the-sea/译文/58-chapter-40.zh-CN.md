@@ -1,0 +1,23 @@
+### XL / 第四十篇
+
+===Original===
+It was written that there, in the nursery of our navigating ancestors, I should learn to walk in the ways of my craft and grow in the love of the sea, blind as young love often is, but absorbing and disinterested as all true love must be. I demanded nothing from it—not even adventure. In this I showed, perhaps, more intuitive wisdom than high self-denial. No adventure ever came to one for the asking. He who starts on a deliberate quest of adventure goes forth but to gather dead-sea fruit, unless, indeed, he be beloved of the gods and great amongst heroes, like that most excellent cavalier Don Quixote de la Mancha. By us ordinary mortals of a mediocre animus that is only too anxious to pass by wicked giants for so many honest windmills, adventures are entertained like visiting angels. They come upon our complacency unawares. As unbidden guests are apt to do, they often come at inconvenient times. And we are glad to let them go unrecognized, without any acknowledgment of so high a favour. After many years, on looking back from the middle turn of life's way at the events of the past, which, like a friendly crowd, seem to gaze sadly after us hastening towards the Cimmerian shore, we may see here and there, in the grey throng, some figure glowing with a faint radiance, as though it had caught all the light of our already crepuscular sky. And by this glow we may recognize the faces of our true adventures, of the once unbidden guests entertained unawares in our young days.
+
+===Chinese===
+命运注定，就在那里——我们航海先祖的摇篮之地——我将学会行走在这门行当的道路上，在对大海的热爱中成长，像年轻的爱情常常那样盲目，却也像一切真正的爱情必然那样投入而无私。我从大海中什么也不索取——甚至不求冒险。在这一点上，我表现出的或许不是崇高的克己，而是比这更高明的直觉智慧。冒险从不因你的索取而来。那些蓄意追寻冒险的人出发去摘取的，不过是死海的苦果，除非他真如众神所钟爱、英雄中的豪杰——比如那位最出色的骑士堂吉诃德·德·拉·曼恰（Don Quixote de la Mancha）。而我们这些平庸的凡人，天性不过尔尔，过于急切地绕开邪恶的巨人去敬奉那些老实的风车，冒险却如同来访的天使般被我们迎进门来。它们在我们猝不及防时降临于我们的自满。正如不速之客惯常所做的那样，它们常常在不方便的时候到来。而我们倒乐得让它们悄然离去，不去承认这份莫大的恩惠。多年以后，从人生路途的中途回望过往的事件——它们如同一群友善的人群，似乎悲伤地目送我们匆匆走向钦默里安海岸（the Cimmerian shore）——我们或许会在灰色的人群中看到这里那里有一个人影闪烁着微弱的光芒，仿佛它已捕获了我们那已近黄昏的天空中的全部光亮。借着这微光，我们或许能辨认出那些真正冒险的面孔——我们年轻时不期而遇的不速之客。
+
+===Original===
+If the Mediterranean, the venerable (and sometimes atrociously ill-tempered) nurse of all navigators, was to rock my youth, the providing of the cradle necessary for that operation was entrusted by Fate to the most casual assemblage of irresponsible young men (all, however, older than myself) who, as if drunk with Provençal sunshine, frittered life away in joyous levity on the model of Balzac's *Histoire des Treize* qualified by a dash of romance *de cape et d'épée*.
+
+She who was my cradle in those years had been built on the River of Savona by a famous builder of boats, was rigged in Corsica by another good man, and was described on her papers as a "tartane" of sixty tons. In reality, she was a true balancelle, with two short masts raking forward and two curved yards, each as long as her hull; a true child of the Latin lake, with a spread of two enormous sails resembling the pointed wings on a seabird's slender body, and herself, like a bird indeed, skimming rather than sailing the seas.
+
+===Chinese===
+如果地中海——所有航海者那令人敬畏（有时脾气坏得可怕）的乳母——注定要摇晃我的青春，那么为这摇篮提供必要的襁褓，命运便将它交给了最随意的一群不靠谱的年轻人（尽管他们个个比我年长），这些人仿佛被普罗旺斯的阳光灌醉了，以巴尔扎克（Balzac）《十三人故事》（*Histoire des Treize*）为范本，掺着几分披风与剑（*de cape et d'épée*）的浪漫，挥霍着生活，轻浮而快活。
+
+那些年里充当我摇篮的那条船，由一位著名的造船匠在萨沃纳河（River of Savona）上建造，由另一位好心人在科西嘉装配索具，证件上登记为一艘六十吨的"塔尔塔纳帆船"（tartane）。实际上，她是一艘地道的巴朗瑟勒帆船（balancelle），两根短桅前倾，两根弯曲的横桁各与船体等长；一个真正的拉丁之湖的孩子，两面巨大的帆展开来像海鸟纤细身躯上尖尖的翅膀，而她自己——像一只鸟——与其说在航行，不如说在海面上掠过。
+
+===Original===
+Her name was the *Tremolino*. How is this to be translated? The *Quiverer*? What a name to give the pluckiest little craft that ever dipped her sides in angry foam! I had felt her, it is true, trembling for nights and days together under my feet, but it was with the high-strung tenseness of her faithful courage. In her short, but brilliant, career she has taught me nothing, but she has given me everything. I owe to her the awakened love for the sea that, with the quivering of her swift little body and the humming of the wind under the foot of her lateen sails, stole into my heart with a sort of gentle violence, and brought my imagination under its despotic sway. The *Tremolino*! To this day I cannot utter or even write that name without a strange tightening of the breast and the gasp of mingled delight and dread of one's first passionate experience.
+
+===Chinese===
+她的名字叫*特雷莫利诺号*（*Tremolino*）。这个名字该怎么译？*颤动号*（*The Quiverer*）？把这样的名字赐给一条曾在怒涛的白色泡沫中侧身破浪的最勇敢的小船，未免太不像话了！诚然，我感受过她在我的脚下日日夜夜地颤抖，但那是她忠实勇气的紧绷与亢奋。在她短暂而辉煌的生涯中，她没有教给我什么，却给了我一切。我对大海被唤醒的热爱，正是拜她所赐——伴随着她那灵巧小船身的震颤和拉丁帆脚下风的嗡鸣，这热爱以一种温柔的暴力潜入了我的心房，将我的想象力置于它专横的统治之下。*特雷莫利诺号*！直到今天，每当我念出或写下这个名字，胸口总会涌起一种奇异的紧缩感，夹杂着初次激情体验的欣喜与畏惧，令人屏息。

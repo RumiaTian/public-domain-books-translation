@@ -1,0 +1,124 @@
+====================================================================================================
+### clark-ashton-smith_short-fiction  (12 files)
+  块: O=260 C=260 OK | 段: EN=497 CN=522 !!差 -25
+     [不对称] marooned-in-andromeda.md                             O=47 C=47 段EN=153 段CN=168
+     [不对称] the-end-of-the-story.md                              O=41 C=41 段EN=84 段CN=90
+     [不对称] the-last-incantation.md                              O=8 C=8 段EN=17 段CN=18
+     [不对称] the-uncharted-isle.md                                O=30 C=30 段EN=34 段CN=37
+  英文残留(剔括注) top: II×2, III×2, IV×2, The×2, Into×2, the×2, VI×2, VII×2, Marooned×1, Strange×1
+  项目说明备注: 见术语表.md。各篇独立，仅共享架空世界译名（Averoigne/Hyperborea/Poseidonis/Yondo/Sadastor 等）与文体基调；史密斯文笔繁复古雅，译文须保留其颓靡华丽的怪奇质感。其中 marooned-in-andromeda（68.5KB）与 the-end-of-the-story（40.0KB）为长篇，按通用翻译引擎第七节分段处理。
+  -- 术语表硬约束行 113 条:
+     Sultan Sujah Ali               → 苏丹·苏加·阿里             源×1     译×1    
+     Sidi Hassen                    → 西迪·哈森                源×1     译×1    
+     Amina                          → 阿米娜                  源×4     译×4    
+     Rankling Sahib                 → 兰克林·萨希布              源×3     译×3    
+     Mohammed Din                   → 穆罕默德·丁               源×14    译×13   
+     Nicholson                      → 尼科尔森                 源×16    译×16   
+     Mallek Khan                    → 马利克·汗                源×5     译×5    
+     Yussuf Ali Borah               → 优素福·阿里·博拉            源×3     译×3    
+     Ali Bagh                       → 阿里·巴格                源×10    译×10   
+     Hawley                         → 霍利                   源×22    译×23   
+     Krishna Singh                  → 克里希纳·辛格              源×11    译×11   
+     Merton                         → 默顿                   源×6     译×6    
+     Bently                         → 本特利                  源×26    译×26   
+     Chumbu Singh                   → 琼布·辛格                源×6     译×6    
+     Lal Das                        → 拉尔·达斯                源×4     译×4    
+     Malygris                       → 马利格里斯                源×17    译×17   
+     Nylissa                        → 妮莉莎                  源×14    译×14   
+     Christophe Morand              → 克里斯托夫·莫朗             源×2     译×2    
+     Hilaire                        → 希莱尔                  源×17    译×17   
+     Nycea                          → 妮赛娅                  源×12    译×12   
+     Gerard / Gérard                → 杰拉德                  源×13    译×13   
+     Charnadis                      → 沙尔纳迪斯                源×3     译×3    
+     Lyspial                        → 利斯皮尔                 源×1     译×1    
+     Jonas McGillicuddy             → 乔纳斯·麦吉利卡迪            源×2     译×2    
+     Matilda（昵称 Matildy）            → 玛蒂尔达                 源×7     译×9    
+     Bill                           → 比尔                   源×2     译×1    
+     Samuel Slocum                  → 塞缪尔·斯洛克姆             源×1     译×1    
+     Roverton                       → 罗弗顿                  源×62    译×62   
+     Deming                         → 戴明                   源×32    译×32   
+     Adams                          → 亚当斯                  源×15    译×15   
+     Volmar                         → 沃尔马                  源×14    译×15   
+     Alton Jasper                   → 阿尔顿·贾斯珀              源×1     译×1    
+     Mark Irwin                     → 马克·欧文                源×1     译×1    
+     Captain Melville               → 梅尔维尔船长               源×2     译×2    
+     Guenevere                      → 桂妮薇儿                 源×6     译×6    
+     Herbert                        → 赫伯特                  源×1     译×1    
+     Averoigne                      → 阿维罗涅                 源×6     译×6    
+     Hyperborea                     → 许珀玻瑞亚                源×1     译×1    
+     Poseidonis                     → 波塞冬尼斯                源×1     译×1    
+     Yondo                          → 雍多                   源×13    译×12   
+     Sadastor                       → 萨达斯托                 源×3     译×2    
+     Lemuria                        → 利莫里亚                 源×2     译×2    
+     Mu                             → 姆大陆                  源×1     译×1    
+     Atlantis                       → 亚特兰蒂斯                源×1     译×1    
+     Singapore                      → 新加坡                  源×4     译×4    
+     Delhi                          → 德里                   源×1     译×1    
+     China Sea                      → 中国海                  源×1     译×1    
+     the Peninsula                  → 马来半岛                 源×2     译×2    
+     Hyderabad                      → 海得拉巴                 源×1     译×1    
+     Bombay                         → 孟买                   源×1     译×1    
+     Begum suburb                   → 贝古姆区                 源×1     译×1    
+     Perigon（l’abbaye de Périgon）   → 佩里贡（修道院）             源×7     译×7    
+     Vyones                         → 维奥纳                  源×1     译×1    
+     Moulins                        → 穆兰                   源×3     译×3    
+     Tours                          → 图尔                   源×2     译×2    
+     Château des Faussesflammes     → 伪焰堡（Château des Faus 源×5     译×14   
+     Venteillon                     → 旺特伊永                 源×8     译×8    
+     Mophi                          → 莫菲                   源×1     译×1    
+     Thebais                        → 底比斯地区                源×1     译×1    
+     Elephantine                    → 厄勒弗廷                 源×1     译×1    
+     Andromeda                      → 仙女座                  源×2     译×4    
+     Delta Andromedae               → 仙女座δ                 源×4     译×4    
+     Callao                         → 卡亚俄                  源×1     译×1    
+     Wellington                     → 惠灵顿                  源×1     译×1    
+     Easter Island                  → 复活节岛                 源×2     译×2    
+     Agra                           → 阿格拉                  源×10    译×10   
+     Jizapur                        → 吉扎普尔                 源×8     译×8    
+     Shaitanabad                    → 谢塔纳巴德                源×6     译×6    
+     Nahargarh                      → 纳哈加尔堡                源×2     译×2    
+     Georgetown                     → 乔治敦                  源×3     译×3    
+     El Dorado                      → 埃尔多拉多                源×1     译×1    
+     Sierras（Sierra Nevada）         → 内华达山脉                源×2     译×2    
+     Sacramento                     → 萨克拉门托                源×2     译×2    
+     Boulder Ridge                  → 巨石岭                  源×2     译×2    
+     Newcastle                      → 纽卡斯尔                 源×1     译×1    
+     Auburn                         → 奥本                   源×2     译×2    
+     Coast Range                    → 海岸山脉                 源×1     译×1    
+     Susran                         → 苏斯兰                  源×1     译×1    
+     Meros                          → 梅罗斯                  源×2     译×2    
+     Zemander                       → 泽曼德                  源×1     译×1    
+     krise / kris                   → 波形短剑（krise）          源×4     译×2     落位偏低 2/4
+     prahus                         → 帆船（prahus）           源×4     译×5    
+     Sahib                          → 萨希布 / 先生             源×12    译×13   
+     mahout                         → 象夫（mahout）           源×18    译×18   
+     Raja                           → 王公（Raja）             源×39    译×26   
+     Maharaja                       → 大君（Maharaja）         源×11    译×12   
+     Rajput                         → 拉杰普特人                源×6     译×10   
+     Waler                          → 沃勒马（Waler）           源×2     译×2    
+     Parsee / Parsi                 → 帕西人                  源×2     译×2    
+     charpoy                        → 查尔帕伊（绳床）             源×3     译×1     落位偏低 1/3
+     tabouret                       → 绣墩                   源×3     译×4    
+     divan                          → 长榻                   源×1     译×1    
+     punkah                         → 布风扇                  源×1     译×1    
+     pipal                          → 菩提树                  源×1     译×1    
+     Urdu                           → 乌尔都文                 源×1     译×1    
+     emerald                        → 祖母绿                  源×4     译×2     落位偏低 2/4
+     lamia                          → 拉弥亚                  源×6     译×6    
+     siren                          → 塞壬                   源×3     译×3    
+     basilisk                       → 蛇怪（basilisk）         源×0     译×1     ★源0次(幽灵?)
+     mandragora                     → 曼陀罗                  源×1     译×1    
+     Lethe                          → 忘川（Lethe）            源×1     译×1    
+     Tartarus                       → 塔耳塔洛斯                源×1     译×1    
+     Python                         → 皮同                   源×1     译×1    
+     armillary / astrolabe          → 浑天仪 / 星盘             源×3     译×3    
+     parapegm                       → 历象碑                  源×0     译×1     ★源0次(幽灵?)
+     cycad / fern-palm / araucaria  → 苏铁 / 蕨棕榈 / 南洋杉       源×1     译×4    
+     Morrigan                       → 莫里甘号                 源×0     译×0     ★源0次(幽灵?)
+     incantation                    → 咒语 / 召魂术             源×2     译×3    
+     necromancer                    → 死灵法师                 源×1     译×1    
+     Eld                            → 洪荒（Eld）              源×2     译×3    
+     witches' sabbat                → 巫魔夜会（witches' sabbat 源×1     译×1    
+     manzanita                      → 熊果木（manzanita）       源×1     译×1    
+     Mission / Muscat               → 弥赛（Mission）/ 麝香（Musc 源×2     译×1    
+

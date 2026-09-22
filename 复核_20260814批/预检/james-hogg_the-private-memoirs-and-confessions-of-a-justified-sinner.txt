@@ -1,0 +1,58 @@
+====================================================================================================
+### james-hogg_the-private-memoirs-and-confessions-of-a-justified-sinner  (3 files)
+  块: O=183 C=183 OK | 段: EN=860 CN=860 OK
+     [不对称] 01-editors-narrative.md                              O=62 C=62 段EN=374 段CN=373
+     [不对称] 03-editors-conclusion.md                             O=23 C=23 段EN=33 段CN=34
+  英文残留(剔括注) top: halfway×1, duly×1, Sc×1, Fideli×1, certa×1, merces×1
+  项目说明备注: - 本书为单一长篇，但本 Standard Ebooks 版本将正文并作三个大文件：01 编者的叙述（开篇）、02 罪人的回忆录（全书最长，含日记与书信体）、03 编者的叙述（尾声）。三文件按阅读顺序编号。 / - 各文件体量均偏大（02 达 260KB），超过连续模式单批容量，故走委派模式，子代理逐文件译；每文件内部须严守「大文件分段」规则（见通用翻译引擎第七节）。 / - 苏格兰方言对话与标准英语叙述的口吻差异是本书风格关键，详见术语表「翻译策略」。 / - 「justified」全书取神学义「称义」，见术语表。
+  -- 术语表硬约束行 49 条:
+     Robert Wringhim / Robert Wring → 罗伯特·林金               源×8     译×8     残留「称义罪人」×1
+     George Colwan (the laird / Lai → 乔治·科尔万（达尔卡斯尔领主）      源×24    译×10    落位偏低 10/24
+     Lady Dalcastle / Rabina / Mrs. → 达尔卡斯尔夫人（拉宾娜）         源×13    译×4     落位偏低 4/13
+     Baillie Orde                   → 贝尔·奥德                源×2     译×2    
+     Mr. Wringhim                   → 林金牧师                 源×11    译×4     落位偏低 4/11
+     George Colwan the younger (the → 小乔治·科尔万              源×0     译×1     ★源0次(幽灵?) 残留「被弃绝的」×3
+     Gil-Martin                     → 吉尔-马丁                源×10    译×10   
+     John Barnet / old Barnet       → 约翰·巴尼特（老巴尼特）         源×9     译×5     落位偏低 5/9
+     the Editor                     → 编者                   源×2     译×0     ★译0次(未落位?)
+     James Hogg (the Shepherd)      → 詹姆斯·霍格（「牧羊人」）        源×1     译×1    
+     Mr. Anderson / James Anderson  → 安德森先生 / 詹姆斯·安德森 / 戴维 源×7     译×8    
+     William Shiel / W. Sword       → 威廉·希尔 / W. 索德        源×2     译×2    
+     Mr. L——t of C——d               → L——t 先生（C——d 人）      源×0     译×7     ★源0次(幽灵?)
+     Mr. L——w                       → L——w 先生              源×0     译×7     ★源0次(幽灵?)
+     Patrick M'Lure / Ardinferry    → 帕特里克·麦克卢尔 / 阿丁费里     源×2     译×2    
+     Duke of Buccleuch / Laird of D → 巴克卢公爵 / 德拉梅尔齐尔领主 / 纳 源×4     译×4    
+     Dalcastle / Dalchastel         → 达尔卡斯尔                源×32    译×44   
+     Balgrennan                     → 巴尔格雷南                源×4     译×4    
+     Glasgow                        → 格拉斯卡 / 格拉斯哥          源×10    译×12   
+     Cowan's-Croft                  → 考恩田庄（传说中自杀者葬处）       源×4     译×4    
+     the Faw-Law                    → 法-劳山                 源×2     译×2    
+     Berry-Knowe                    → 贝里-诺丘                源×1     译×1    
+     Eltrive / Ault-Righ (the King' → 埃尔特赖夫 / 奥尔特-赖（王之溪）   源×4     译×4    
+     Eltrive Hope / Eldinhope       → 埃尔特赖夫霍普 / 埃尔丁霍普      源×2     译×2    
+     the Hart Loup                  → 哈特卢隘口                源×1     译×1    
+     Altrive Lake                   → 奥尔特赖夫湖               源×1     译×1    
+     Selkirk                        → 塞尔柯克                 源×1     译×1    
+     the Ettrick                    → 埃特里克（河）              源×1     译×1    
+     Thirlestane / Thirlestane-gree → 瑟尔斯泰恩 / 瑟尔斯泰恩草地      源×3     译×3    
+     Edinburgh                      → 爱丁堡                  源×25    译×25   
+     the Forest (Ettrick Forest)    → 林区（埃特里克森林）           源×1     译×1    
+     Blackwood's Magazine           → 《布莱克伍德杂志》            源×2     译×2    
+     justified / justification (by  → 称义 / （因恩典/因信）称义      源×22    译×20    残留「自以为义」×4
+     the elect / the chosen         → 蒙拣选者 / 选民            源×15    译×16   
+     predestination / predestinaria → 预定论 / 预定论者           源×7     译×5    
+     the reprobate / reprobation    → 被弃绝者 / 被弃绝           源×5     译×11   
+     a castaway                     → 被弃绝者（沉沦者）            源×1     译×0     ★译0次(未落位?)
+     the covenant (of promise / of  → （应许/恩典之）约            源×9     译×0     ★译0次(未落位?)
+     the book of life               → 生命册                  源×2     译×3    
+     regeneration / unregenerated   → 重生 / 未重生             源×4     译×9    
+     the bond of iniquity           → 罪的捆绑                 源×1     译×2    
+     original transgression / origi → 原罪 / 本罪              源×1     译×1    
+     the atonement                  → 赎罪                   源×1     译×3    
+     antinomian(ism)                → 反律法主义（者）             源×0     译×0     ★源0次(幽灵?)
+     Single Catechism               → 《简明教理问答》             源×1     译×1    
+     Effectual / Ineffectual Callin → 有效的/无效的呼召            源×6     译×6    
+     the Reformation (principles)   → 宗教改革（原则）             源×2     译×2    
+     self-righteousness             → 自以为义                 源×1     译×4     残留「称义」×20
+     parable                        → 寓言（宗教寓言）             源×3     译×6    
+

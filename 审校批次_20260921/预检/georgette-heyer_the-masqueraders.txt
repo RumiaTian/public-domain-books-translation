@@ -1,0 +1,270 @@
+====================================================================================================
+### georgette-heyer_the-masqueraders  (33 files)
+  块: O=621 C=621 OK | 段: EN=2743 CN=2743 OK
+  英文残留(剔括注) top: bon×7, papa×7, mon×6, l'Inconnu×6, cher×5, Mon×5, Dieu×5, Baiser×5, enfin×4, mademoiselle×4
+  -- 术语表硬约束行 264 条:
+     Prudence / Prue                → 普鲁登丝／普鲁              源×448   译×446  
+     Robin                          → 罗宾                   源×438   译×438  
+     Sir Anthony Fanshawe           → 安东尼·范肖爵士             源×33    译×39   
+     Barham / my Lord Barham        → 巴勒姆／巴勒姆勋爵            源×116   译×133   残留「我运筹成了」×5
+     Tremaine                       → 特雷梅因                 源×68    译×77   
+     Lady Enderby / Beatrice        → 恩德比夫人／比阿特丽斯          源×12    译×13   
+     Dartrey                        → 达特里                  源×7     译×7    
+     Sir Thomas                     → 托马斯爵士                源×5     译×5    
+     Lady Lowestoft / Thérèse       → 洛斯托夫特夫人／泰蕾丝          源×57    译×57   
+     Letty / Letitia Grayson        → 莱蒂／莱蒂西娅·格雷森          源×135   译×134  
+     Sir Humphrey Grayson           → 汉弗莱·格雷森爵士            源×8     译×8    
+     John                           → 约翰                   源×178   译×178  
+     Tony                           → 托尼                   源×58    译×58   
+     Robert                         → 罗伯特                  源×22    译×22   
+     Pride o’ Rye                   → 『拉伊之骄傲』号             源×3     译×3    
+     Gretna                         → 格雷特纳                 源×6     译×5    
+     King Cophetua                  → 科菲图亚王                源×2     译×2    
+     O mountain / my mammoth        → 大山／猛犸                源×5     译×15   
+     my little popinjay / little ma → 小花孔雀／小个子             源×13    译×24   
+     Merriot                        → 梅里奥特                 源×281   译×299  
+     John                           → 约翰                   源×0     译×0     ★源0次(幽灵?)
+     Rensley                        → 伦斯利                  源×218   译×221  
+     Tremaine                       → 特雷梅因                 源×0     译×0     ★源0次(幽灵?)
+     Barham                         → 巴勒姆                  源×0     译×0     ★源0次(幽灵?)
+     Challoner                      → 查洛纳                  源×1     译×1    
+     Devereux                       → 德弗罗                  源×48    译×48   
+     Charles                        → 查尔斯                  源×31    译×31   
+     Belfort                        → 贝尔福特                 源×82    译×82   
+     Molyneux                       → 莫利纽克斯                源×27    译×27   
+     Sir Raymond Orton              → 雷蒙德·奥顿爵士             源×9     译×9    
+     Grayson                        → 格雷森                  源×73    译×75   
+     Sir Humphrey Grayson           → 汉弗莱·格雷森爵士            源×0     译×0     ★源0次(幽灵?)
+     Lady Elton                     → 埃尔顿夫人                源×1     译×1    
+     White’s                        → 怀特俱乐部                源×18    译×17   
+     Arlington Street               → 阿灵顿街                 源×18    译×16   
+     Markham                        → 马卡姆                  源×280   译×279  
+     Jessup                         → 杰瑟普                  源×5     译×5    
+     Maria                          → 玛丽亚                  源×1     译×1    
+     Tony                           → 托尼                   源×0     译×0     ★源0次(幽灵?)
+     Lady Lowestoft                 → 洛斯托夫特夫人              源×0     译×0     ★源0次(幽灵?)
+     Lady Enderby                   → 恩德比夫人                源×0     译×0     ★源0次(幽灵?)
+     Gregory                        → 格雷戈里                 源×9     译×9    
+     Letty / Miss Letty             → 莱蒂／莱蒂小姐              源×48    译×46   
+     Lord March                     → 马奇勋爵                 源×14    译×17   
+     Stephen                        → 斯蒂芬                  源×1     译×1    
+     Richmond                       → 里士满                  源×13    译×13   
+     Hampshire                      → 汉普郡                  源×8     译×8    
+     Grosvenor Square               → 格罗夫纳广场               源×8     译×8    
+     Poynter Street                 → 波因特街                 源×1     译×1    
+     Mohocks                        → 摩霍克匪徒                源×10    译×9    
+     Bohea                          → 武夷茶                  源×2     译×2    
+     Lord Barham / my Lord Barham   → 巴勒姆勋爵                源×21    译×0     ★译0次(未落位?) 残留「勋爵大人」×355
+     Lady Fanshawe                  → 范肖夫人                 源×3     译×3    
+     Letitia / Letitia Grayson      → 莉蒂西娅／莉蒂西娅·格雷森        源×32    译×35   
+     Kate                           → 凯特                   源×36    译×37   
+     Peter                          → 彼得                   源×46    译×46   
+     Gretna Green                   → 格雷特纳格林               源×2     译×3    
+     Gloucestershire                → 格洛斯特郡                源×2     译×2    
+     Grayson Court                  → 格雷森府                 源×1     译×2    
+     Stilton                        → 斯蒂尔顿                 源×2     译×2    
+     Adonis                         → 阿多尼斯                 源×1     译×1    
+     Lady Dorling                   → 多林夫人                 源×6     译×6    
+     Ranelagh Gardens               → 拉内拉夫花园               源×1     译×1    
+     Wych End                       → 威奇恩德                 源×8     译×8    
+     Jollyot                        → 乔利奥特                 源×11    译×11   
+     the large gentleman            → 大块头绅士                源×34    译×34    残留「大个子绅士」×6
+     faro                           → 法罗牌                  源×7     译×6    
+     picquet                        → 皮克牌                  源×10    译×10   
+     guinea                         → 几尼                   源×1     译×6    
+     Black Pompey                   → 黑仆庞培                 源×1     译×1    
+     chicken-skin fan               → 鸡皮折扇                 源×0     译×1     ★源0次(幽灵?)
+     Tyburn                         → 泰伯恩                  源×6     译×6    
+     Half Moon Street               → 半月街                  源×2     译×2    
+     St. James's                    → 圣詹姆斯宫                源×3     译×1     落位偏低 1/3
+     Murray of Broughton            → 布劳顿的默里               源×1     译×1     残留「告密者」×1
+     Jonah                          → 约拿                   源×1     译×1    
+     Robin Lacey                    → 罗宾·雷西                源×3     译×3    
+     Mr. Colney                     → 科尔尼先生                源×6     译×6    
+     Mr. Daughtry                   → 多尔蒂先生                源×1     译×1    
+     Prince Vanilov                 → 瓦尼洛夫亲王               源×1     译×1    
+     Hanover                        → 汉诺威                  源×1     译×1    
+     the Pretender                  → 僭王                   源×1     译×1    
+     Whig                           → 辉格党人                 源×2     译×1    
+     Grand Tour                     → 欧陆壮游                 源×2     译×2    
+     Kensington                     → 肯辛顿                  源×2     译×2    
+     Fanshawe                       → 范肖                   源×57    译×58   
+     the lost Viscount              → 失踪的子爵                源×4     译×6    
+     Black Domino                   → 黑衣多米诺                源×16    译×15   
+     euchre                         → 尤克牌                  源×2     译×2    
+     angel cake                     → 天使蛋糕                 源×2     译×2    
+     fichu                          → 蕾丝小披巾                源×1     译×1    
+     baronet                        → 从男爵                  源×1     译×1    
+     Rufus                          → 鲁弗斯                  源×1     译×1    
+     roan                           → 菊花青马                 源×18    译×18   
+     Matthew                        → 马修                   源×12    译×12   
+     Sir Roger Lowestoft            → 罗杰·洛斯托夫特爵士           源×1     译×1    
+     Marthe                         → 玛尔特                  源×16    译×16   
+     his Grace of Cumberland        → 坎伯兰公爵殿下              源×1     译×1    
+     little fierce George           → 凶巴巴的小乔治              源×1     译×1    
+     the bonnie prince              → 俊俏王子                 源×1     译×1    
+     Jacobite                       → 詹姆士党人                源×9     译×12   
+     Frankfort                      → 法兰克福                 源×2     译×2    
+     her Grace of Queensberry       → 昆斯伯里公爵夫人             源×2     译×2     残留「殿下」×4
+     Mr. Selwyn                     → 塞尔温先生                源×3     译×3    
+     Miss Gunning                   → 冈宁小姐                 源×3     译×3    
+     Peterson                       → 彼得森                  源×1     译×1    
+     Miss Carslake                  → 卡斯莱克小姐               源×1     译×1    
+     Cloverly                       → 克洛弗利                 源×1     译×1    
+     Farnborough                    → 法恩伯勒                 源×1     译×1    
+     Margrave                       → 边疆伯爵                 源×4     译×4    
+     Vauxhall Gardens               → 沃克斯豪尔花园              源×3     译×3    
+     Barnet                         → 巴尼特                  源×4     译×4    
+     Finchley Common                → 芬奇利公地                源×2     译×2    
+     Nemesis                        → 涅墨西斯                 源×2     译×2    
+     Letitia                        → 莉蒂西娅                 源×0     译×0     ★源0次(幽灵?)
+     Norman Cross                   → 诺曼克罗斯                源×2     译×2    
+     King George                    → 乔治王                  源×1     译×1    
+     the Butcher                    → 「屠夫」                 源×1     译×0     ★译0次(未落位?)
+     Tower Hill                     → 塔丘                   源×2     译×2    
+     Saxe                           → 萨克斯                  源×2     译×2    
+     the Prince                     → 那位王子                 源×6     译×4    
+     the old gentleman              → 老先生                  源×88    译×92   
+     the Quality                    → 上流人物                 源×2     译×1    
+     Mechlin lace                   → 梅克林花边                源×1     译×2    
+     post-chaise                    → 驿车                   源×6     译×8    
+     *en demie toilette*            → *en demie toilette*（ 源×1     译×1    
+     beau geste                     → beau geste（漂亮豪举）     源×2     译×1    
+     Madam／my lady（凯特场合）            → 小姐                   源×0     译×302   ★源0次(幽灵?)
+     Walpole                        → 沃波尔先生                源×4     译×4    
+     Gilly Williams                 → 吉利·威廉姆斯              源×1     译×1    
+     Sir Francis Jollyot            → 弗朗西斯·乔利奥特爵士          源×2     译×2    
+     lansquenet                     → 兰斯克内牌                源×7     译×5    
+     ratafie                        → 拉塔菲亚甜酒               源×3     译×3    
+     canary                         → 加那利酒                 源×2     译×2    
+     negus                          → 尼格斯热酒                源×1     译×1    
+     Mr. Troubridge                 → 特拉布里奇先生              源×11    译×11   
+     my Lord Kestrel                → 凯斯特雷尔勋爵              源×8     译×14   
+     Clarges Street                 → 克拉吉斯街                源×3     译×3    
+     repique                        → 瑞皮克                  源×1     译×1    
+     sponging house                 → 债户拘留所                源×1     译×1    
+     Bel                            → 贝尔                   源×7     译×7    
+     Apollo                         → 阿波罗                  源×1     译×1    
+     Culloden                       → 卡洛登                  源×1     译×1    
+     Perth                          → 珀斯                   源×2     译×2    
+     Dieppe                         → 迪耶普                  源×2     译×2    
+     Florence                       → 佛罗伦萨                 源×1     译×1    
+     Stewart Charles                → 斯图亚特家的查理             源×1     译×1    
+     German George                  → 德国佬乔治                源×1     译×1    
+     Cumberland                     → 坎伯兰                  源×1     译×1    
+     Thérèse de Brûton              → 泰蕾丝·德·布吕东            源×1     译×1    
+     attainder / under attainder    → 褫夺公权令／名列褫夺公权令之下      源×1     译×1    
+     the mountain                   → 那座山                  源×13    译×14   
+     l'Inconnu / the Unknown        → *l'Inconnu*／无名氏      源×47    译×46   
+     minuet                         → 小步舞                  源×2     译×2    
+     quadrille                      → 四对方舞                 源×1     译×1    
+     claret                         → 红葡萄酒                 源×11    译×9    
+     patch                          → 美人贴                  源×2     译×1    
+     tricorne                       → 三角帽                  源×3     译×5    
+     haresfoot                      → 兔足粉扑                 源×1     译×1    
+     pink/grey/blue/crimson domino  → 粉衣／灰衣／蓝衣／绯红多米诺       源×62    译×11    落位偏低 11/62
+     Charing Cross                  → 查令十字                 源×4     译×4    
+     Strawberry Hill                → 草莓山                  源×1     译×1    
+     the Spectator                  → 《旁观者》                源×2     译×2    
+     Mr. Dendy                      → 登迪先生                 源×1     译×0     ★译0次(未落位?)
+     Proudie                        → 普劳迪                  源×1     译×1    
+     sedan chair（take a chair）      → 轿椅                   源×0     译×8     ★源0次(幽灵?) 残留「坐轿椅」×5
+     Mr. Fontenoy                   → 丰特努瓦先生               源×20    译×20   
+     Lord Clevedale / Thomas        → 克利夫代尔勋爵／托马斯          源×10    译×10   
+     Munich                         → 慕尼黑                  源×15    译×15   
+     Rome                           → 罗马                   源×4     译×4    
+     Turin                          → 都灵                   源×1     译×1    
+     Lady Barham                    → 巴勒姆夫人                源×1     译×1    
+     pink salon                     → 粉红客厅                 源×5     译×5    
+     oriole window（oriel window）    → 凸窗                   源×1     译×1    
+     perruquier                     → 假发师                  源×4     译×4    
+     roué                           → 老浪子                  源×1     译×1    
+     snuffbox                       → 鼻烟盒                  源×16    译×16    残留「撮鼻烟」×11
+     Tare an' 'ouns                 → 天杀的                  源×3     译×3    
+     *lackey*                       → *听差*                 源×17    译×2     落位偏低 2/17
+     Galliano                       → 加利亚诺                 源×19    译×19   
+     Girolamo Galliano              → 吉罗拉莫·加利亚诺            源×1     译×1    
+     Gally                          → 加利                   源×10    译×10   
+     Tino                           → 蒂诺                   源×2     译×2    
+     Farraday                       → 法拉迪                  源×1     译×1    
+     Haymarket                      → 海马克特                 源×1     译×1    
+     Grey's Inn Fields              → 格雷律师学院广场             源×2     译×2    
+     *Le Baiser de la Morte*        → *Le Baiser de la Mor 源×1     译×1    
+     the small sword                → 小剑                   源×4     译×4    
+     Sa-sa                          → 萨萨                   源×1     译×1    
+     rappee                         → 鼻烟                   源×1     译×16   
+     Dev                            → 德夫                   源×6     译×6    
+     Carslake                       → 卡斯莱克                 源×1     译×1    
+     my Lord George Murray          → 乔治·默里勋爵              源×2     译×2    
+     Newmarket                      → 纽马基特                 源×2     译×2    
+     Borgia                         → 波吉亚                  源×1     译×1    
+     Mr. Fire-Eater                 → 喷火先生                 源×1     译×1     残留「彼得」×47
+     small sword                    → 小剑                   源×0     译×0     ★源0次(幽灵?)
+     sangfroid                      → 镇定自若                 源×2     译×1    
+     my Lord Bute / Lord Bute       → 布特勋爵                 源×2     译×2     残留「布特（Bute）」×1
+     London Bridge                  → 伦敦桥                  源×1     译×1    
+     the North Road                 → 北路                   源×1     译×1    
+     Hop o’ my Thumb                → 小拇指汤姆                源×1     译×1    
+     midget                         → 小不点                  源×3     译×2    
+     molehill                       → 鼹鼠丘                  源×1     译×1    
+     the elder Miss Grayson         → 大格雷森小姐               源×3     译×2    
+     damme                          → 妈的                   源×7     译×8    
+     quizzing-glass                 → 单片眼镜                 源×8     译×18   
+     Burgundy                       → 勃艮第酒                 源×12    译×8    
+     Bute                           → 布特                   源×1     译×1    
+     Henry                          → 亨利                   源×3     译×3    
+     ale                            → 麦酒                   源×2     译×1    
+     quarte                         → 第四式                  源×3     译×1     落位偏低 1/3
+     forte / foible                 → 强部／弱部                源×4     译×3    
+     time-thrust                    → 时机突刺                 源×6     译×6    
+     blunderbuss                    → 大口径短铳                源×2     译×2    
+     footpad                        → 路劫贼                  源×1     译×1    
+     Cordelia                       → 考狄利娅                 源×1     译×1    
+     Madeira                        → 马德拉酒                 源×1     译×1    
+     barker                         → 手枪                   源×1     译×31   
+     Madam Anxiety                  → 忧虑夫人                 源×1     译×1    
+     *'Pon rep*                     → *我的名誉作保*             源×2     译×1    
+     High Toby                      → 拦路行劫                 源×1     译×1    
+     chefs d’oeuvres                → chefs d’oeuvres（杰作）  源×1     译×1    
+     postilion                      → 前骑驿仆                 源×2     译×2    
+     Jesuit father                  → 耶稣会神父                源×2     译×2    
+     the King's Highway             → 王家大道                 源×1     译×1    
+     Tiens!                         → Tiens!（哎呀）           源×1     译×0     ★译0次(未落位?)
+     'Pon my soul                   → 我以灵魂起誓               源×7     译×6    
+     Easterly Woods                 → 伊斯特利树林               源×4     译×4    
+     the Watch                      → 巡丁                   源×2     译×1    
+     sword-stick                    → 剑杖                   源×3     译×3    
+     curricle                       → 双轮轻便马车               源×2     译×1    
+     hartshorn                      → 鹿角精嗅盐                源×1     译×1     残留「凯特」×37
+     Williams                       → 威廉斯                  源×1     译×1    
+     Lawton                         → 劳顿                   源×2     译×4    
+     Gaston                         → 加斯东                  源×1     译×1    
+     the Wells                      → 温泉镇                  源×1     译×1    
+     packet                         → 邮船                   源×2     译×2     残留「头一班邮船」×1
+     point-de-vice                  → point-de-vice（一丝不苟）  源×1     译×1    
+     je ne sais quoi                → je ne sais quoi（说不出的 源×1     译×1    
+     dégagé                         → 洒脱随性                 源×1     译×1    
+     *Du vrai*                      → *Du vrai*（说真的）       源×2     译×2    
+     *affreux*                      → *affreux*（吓死人）       源×1     译×1    
+     spinney                        → 矮林                   源×5     译×4    
+     Clapperly                      → 克拉珀利                 源×22    译×22   
+     Brent                          → 布伦特                  源×21    译×21   
+     Mrs. Staines                   → 斯坦斯夫人                源×7     译×7    
+     Burton                         → 伯顿                   源×9     译×10   
+     Samuel / Sam                   → 塞缪尔／萨姆               源×4     译×4    
+     Maggie                         → 玛吉                   源×2     译×2    
+     Johnny                         → 约翰尼                  源×3     译×3    
+     Fawley                         → 福利                   源×1     译×1    
+     Aunt Susanna                   → 苏珊娜姑母                源×1     译×1    
+     Toto                           → 托托                   源×1     译×1    
+     Johanna                        → 乔安娜                  源×2     译×2    
+     Dorothea                       → 多萝西娅                 源×1     译×1    
+     Maria Banstead                 → 玛丽亚·班斯特德             源×1     译×1    
+     Culverly                       → 卡尔弗利                 源×1     译×1    
+     Horace / Odes of Horace        → 贺拉斯／《颂歌》             源×3     译×5    
+     lodge-keeper                   → 门房看守                 源×2     译×2    
+     de rigueur                     → 必不可少的规矩              源×1     译×1    
+     punch                          → 潘趣酒                  源×1     译×1    
+     primrose taffety               → 樱草黄塔夫绸               源×1     译×0     ★译0次(未落位?)
+     point（花边）                      → 针绣花边                 源×28    译×2     落位偏低 2/28
+

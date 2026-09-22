@@ -1,0 +1,286 @@
+====================================================================================================
+### dorothy-m-richardson_pointed-roofs  (10 files)
+  块: O=200 C=200 OK | 段: EN=1191 CN=1297 !!差 -106
+     [不对称] chapter-1.md                                         O=26 C=26 段EN=129 段CN=131
+     [不对称] chapter-10.md                                        O=45 C=45 段EN=303 段CN=318
+     [不对称] chapter-2.md                                         O=7 C=7 段EN=36 段CN=42
+     [不对称] chapter-3.md                                         O=21 C=21 段EN=184 段CN=204
+     [不对称] chapter-4.md                                         O=9 C=9 段EN=20 段CN=24
+     [不对称] chapter-5.md                                         O=40 C=40 段EN=56 段CN=72
+     [不对称] chapter-6.md                                         O=22 C=22 段EN=286 段CN=307
+     [不对称] chapter-8.md                                         O=21 C=21 段EN=140 段CN=161
+     [不对称] chapter-9.md                                         O=5 C=5 段EN=23 段CN=24
+  英文残留(剔括注) top: Mademoiselle×77, Ach×14, ich×9, so×8, Monsieur×7, Ein×7, Gott×7, Wie×6, Sie×6, meine×6
+  项目说明备注: - 全书 10 章，单一连续叙事弧（米丽亚姆从伦敦赴德、在瓦尔德街学校度过一学期、期末返乡）。章数 ≤15 且不可分割的整体 → 中篇 → 连续模式。全书约 33.5 万字节 / 5.7 万英文词，篇幅在短篇与长篇之间，属"短长篇/中篇"体量；主 agent 连续翻译时单批受上下文限制，可分批推进。 / - **核心风格约束**：意识流。译文必须保留米丽亚姆内向、反思、跳跃的意识语体——大量自由间接引语、省略号（……）、破折号、片段式短语构成思绪的绵延与断流，不可"理顺"为平铺直叙的外视角叙述。详见术语表"翻译策略"。 / - 文中夹杂大量德语（校名、称呼、对话、歌词、祷词、内心独白）与少量法语。德/法语处理策略见术语表——作为场景与人物标识的短词保留原文并首次括注，歌词/祷词保留原文并紧跟中译。 / - 章节标题为罗马数字 I–X，照搬不译。
+  -- 术语表硬约束行 270 条:
+     Miriam Henderson               → 米丽亚姆·亨德森             源×0     译×0     ★源0次(幽灵?)
+     Harriett Henderson             → 哈丽特·亨德森              源×0     译×0     ★源0次(幽灵?)
+     Eve Henderson                  → 伊芙·亨德森               源×0     译×0     ★源0次(幽灵?)
+     Sarah Henderson                → 萨拉·亨德森               源×0     译×0     ★源0次(幽灵?)
+     Pater / father                 → 爸爸（Pater）            源×23    译×18   
+     Mother / mother / Mater        → 妈妈                   源×30    译×18   
+     the cook / cook                → 厨娘                   源×2     译×1    
+     Sarah（仆人）/ servants            → 萨拉 / 仆人们             源×27    译×23   
+     Lilla                          → 莉拉                   源×7     译×8    
+     Miss Gilkes                    → 吉尔克斯小姐               源×1     译×1    
+     Gerald                         → 杰拉尔德                 源×1     译×1    
+     Mr. Bart                       → 巴特先生                 源×1     译×1    
+     the Pooles                     → 普尔一家                 源×3     译×1     落位偏低 1/3
+     Mr. Brough                     → 布拉夫先生                源×5     译×5    
+     Fräulein Pfaff                 → 普法夫小姐（Fräulein Pfaff 源×61    译×64   
+     Mademoiselle / Aline Ducorroy  → 小姐（Mademoiselle）/ 阿莉 源×129   译×173  
+     Herr Schraub                   → 施劳布先生                源×3     译×3    
+     Herr Bossenberger              → 波森贝格先生               源×6     译×6    
+     Herr Winter                    → 温特先生                 源×2     译×2    
+     Herr Kapellheimer              → 卡佩尔迈斯特先生             源×0     译×1     ★源0次(幽灵?)
+     Pastor Lahmann                 → 拉曼牧师                 源×25    译×25    残留「好心的老拉曼」×1
+     Frau / the housekeeper         → 女管家（Frau）            源×12    译×13   
+     Gertrude                       → 格特鲁德                 源×87    译×89   
+     Jimmie / Jemima                → 吉米 / 杰迈玛             源×50    译×53   
+     Millie                         → 米莉                   源×55    译×61   
+     Judy                           → 朱迪                   源×28    译×28   
+     Solomon                        → 所罗门                  源×20    译×20   
+     Miss Owen                      → 欧文小姐                 源×2     译×2    
+     Miss Ottridge                  → 奥特里奇小姐               源×1     译×0     ★译0次(未落位?)
+     Miss Donne                     → 唐恩小姐                 源×1     译×1    
+     Emma Bergmann                  → 爱玛·贝格曼               源×5     译×5    
+     Ulrica                         → 乌尔丽卡                 源×51    译×51   
+     Clara                          → 克拉拉                  源×57    译×59   
+     Bertha Martin                  → 贝莎·马丁                源×9     译×9    
+     Elsa                           → 埃尔莎                  源×30    译×30   
+     Petite                         → 小不点（Petite）          源×5     译×5    
+     Lily                           → 莉莉                   源×14    译×17   
+     Hanover                        → 汉诺威                  源×9     译×10   
+     Germany                        → 德国                   源×32    译×148  
+     Waldstraße                     → 瓦尔德街（Waldstraße）     源×13    译×13   
+     the school / the house         → 学校 / 那座宅子            源×79    译×62   
+     Barnes                         → 巴恩斯                  源×7     译×7    
+     London / West End              → 伦敦 / 西区              源×4     译×6    
+     England                        → 英国                   源×13    译×91   
+     Norderney                      → 诺德奈                  源×9     译×9    
+     Besançon                       → 贝桑松                  源×3     译×4    
+     Erfurth                        → 埃尔富特                 源×1     译×1    
+     Holland                        → 荷兰                   源×2     译×14   
+     All Saints'                    → 诸圣堂                  源×2     译×2    
+     the Assembly Rooms             → 集会厅                  源×1     译×1    
+     the Heath                      → 荒野（the Heath）        源×1     译×2    
+     Fräulein                       → 小姐（弗劳莱恩）             源×229   译×0     ★译0次(未落位?)
+     der Saal（*Saal*）               → 大厅（Saal）             源×0     译×47    ★源0次(幽灵?)
+     Waldstraße                     → 瓦尔德街                 源×0     译×0     ★源0次(幽灵?)
+     Ja / Nein                      → 是 / 不                源×15    译×1949 
+     Ach                            → 啊（Ach）               源×18    译×90   
+     artig                          → 乖 / 规矩（artig）        源×1     译×11   
+     Hör mal                        → 听着（Hör mal）          源×1     译×23   
+     Machen Sie schnell             → 快点（Machen Sie schnel 源×1     译×6    
+     Wäsche angekommen              → 洗衣物到了（Wäsche angekom 源×1     译×1    
+     Na, gut                        → 嗯，好（Na, gut）         源×1     译×1    
+     fromme Eltern                  → 虔诚的双亲（fromme Eltern） 源×2     译×2    
+     Männer-geschichten             → 男人的事 / 情爱之事（Männer-g 源×0     译×3     ★源0次(幽灵?)
+     das deutsche Vaterland         → 德意志祖国（das deutsche V 源×1     译×1    
+     Ich bin so bange vor Krebs     → 我好怕得癌症（Ich bin so ba 源×1     译×1    
+     Eine feste Burg                → 《坚固保障》（Eine feste Bu 源×1     译×1    
+     Leb' wohl, mein Kind, Gott seg → 别了，我的孩子，愿上帝祝福你（Leb'  源×1     译×1    
+     Damen-Coupé                    → 女士车厢（Damen-Coupé）    源×1     译×1    
+     Pfarrer                        → 牧师（Pfarrer）          源×1     译×11   
+     Käthe                          → 凯特（Käthe）            源×5     译×5    
+     Hermann und Dorothea           → 《赫尔曼与多罗特娅》           源×0     译×1     ★源0次(幽灵?)
+     Dass du mich liebst, das wusst → 你爱我，我早已知晓            源×1     译×1    
+     Seit ich ihn gesehen / Glaub'  → 自从见过他 / 我便如盲         源×2     译×2    
+     Eine feste Burg ist unser Gott → 上主是我坚固保障             源×0     译×0     ★源0次(幽灵?)
+     The Wearin' o' the Green       → 《穿戴绿衣》               源×1     译×1    
+     Abide with Me                  → 《求主同住》               源×2     译×2    
+     The Mikado                     → 《日本天皇》               源×0     译×2     ★源0次(幽灵?)
+     Gather roses while ye may      → 及时采撷玫瑰               源×0     译×0     ★源0次(幽灵?)
+     Swift to its close ebbs out li → 生命短日飞逝将尽             源×1     译×1    
+     Strengthen and Stay / Thyself  → 求赐力量、屹然不动            源×2     译×0     ★译0次(未落位?)
+     Mademoiselle                   → 小姐（Mademoiselle）     源×0     译×0     ★源0次(幽灵?)
+     raccommodage                   → 缝补（raccommodage）     源×7     译×15   
+     Voilà Monsieur; courrez, Madem → 那位先生在那儿；快追呀，小姐！      源×1     译×1    
+     Ce n'est pas moi qui fait les  → 主动献殷勤的不是我            源×0     译×1     ★源0次(幽灵?)
+     prima ballerina                → 首席芭蕾女伶               源×1     译×1    
+     Venez mon enfant, venez à l'in → 来呀我的孩子，马上来           源×1     译×1    
+     Saratoga trunk                 → 萨拉托加大衣箱              源×3     译×3    
+     finishing school               → 寄宿修身学校 / 女子进修学校      源×2     译×2    
+     Pater / Mater                  → 爸爸 / 妈妈              源×0     译×0     ★源0次(幽灵?)
+     Athanasian Creed               → 《亚他那修信经》             源×0     译×1     ★源0次(幽灵?)
+     undistributed middle term      → 中词不周延                源×1     译×1    
+     ignoratio elenchi / argumentum → 不相干谬误 / 针对人身论证       源×2     译×2    
+     Pilgrimage                     → 《朝圣》                 源×2     译×0     ★译0次(未落位?)
+     Intermezzo                     → 间奏曲（Intermezzo）      源×1     译×1    
+     piquet                         → 皮凯（piquet）           源×2     译×2    
+     rujabiba frills                → 噜噜巴巴（rujabiba）褶边     源×1     译×1    
+     goodney                        → 老天鹅（goodney）         源×3     译×3     残留「老天爷」×3
+     Gooby                          → 古比（Gooby）            源×1     译×1    
+     Binks / Yink grink binks       → 宾克斯 / 因克·格林克·宾克斯     源×3     译×3    
+     basket plaits                  → 篮式辫（basket plaits）   源×1     译×1    
+     Hinde's                        → 欣德牌（Hinde's）发夹       源×3     译×2    
+     petersham (belt)               → 彼得沙姆（petersham）腰带    源×1     译×1    
+     rounders                       → 圆场球（rounders）        源×2     译×2    
+     may trees                      → 山楂树（may trees）       源×1     译×1    
+     lime trees                     → 椴树                   源×3     译×3    
+     Lecky                          → 莱基（Lecky）            源×2     译×2    
+     Contemporary Review            → 《当代评论》               源×1     译×1    
+     "Holy Family" duets            → 《圣家族》二重奏             源×0     译×1     ★源0次(幽灵?)
+     Ungava; A Tale of the North    → 《翁加瓦：北方的故事》          源×1     译×1    
+     John Halifax                   → 《约翰·哈利法克斯》           源×1     译×1    
+     Swiss Family Robinson          → 《瑞士家庭鲁滨逊》            源×1     译×1    
+     The Voyage of the Beagle       → 《小猎犬号航海记》            源×0     译×0     ★源0次(幽灵?)
+     Villette                       → 《维莱特》                源×2     译×2    
+     Egmont                         → 《艾格蒙特》               源×1     译×1    
+     voluntary incongruity          → 主动的不协调（voluntary inc 源×1     译×1    
+     the Grand Ceremonial           → 大典礼（the Grand Ceremo 源×1     译×1     残留「嘿」×5
+     Granny                         → 奶奶                   源×2     译×2    
+     Herr Kapellmeister Bossenberge → 卡佩尔迈斯特·波森贝格先生        源×2     译×2    
+     Minna                          → 米娜                   源×88    译×27    落位偏低 27/88
+     Anna                           → 安娜                   源×14    译×14   
+     Kreipe / Kreipe's              → 克赖佩（Kreipe）          源×7     译×4     落位偏低 4/7
+     Georgstraße                    → 格奥尔格大街               源×3     译×3    
+     Elsa Speier                    → 埃尔莎·施派尔              源×7     译×7    
+     Dr. Dieckel                    → 迪克尔医生                源×1     译×1    
+     Stroodie                       → 斯特鲁迪                 源×4     译×2     落位偏低 2/4
+     Herr Pastor                    → 牧师先生（Herr Pastor）    源×1     译×1    
+     Vorspielen                     → 试奏（Vorspielen）       源×7     译×1     落位偏低 1/7
+     Wäsche / Waschfrau             → 待洗衣物 / 洗衣妇           源×2     译×2    
+     Hendchen! Ich muss zum Zahnarz → 小亨迪！我得去看牙医           源×1     译×0     ★译0次(未落位?)
+     Ach, ich koche so schrecklich  → 啊，我吓人地喜欢做饭！          源×0     译×0     ★源0次(幽灵?)
+     Schokolade und ein Biskuit     → 巧克力加一块饼干             源×1     译×1    
+     Apotheker                      → 药剂师（Apotheker）       源×3     译×4    
+     Jüngling                       → 青年郎君（Jüngling）       源×2     译×1    
+     Delikatessen                   → 美味熟食（Delikatessen）   源×1     译×1    
+     Pomerania                      → 波美拉尼亚                源×3     译×4    
+     Harley Street                  → 哈利街                  源×1     译×1    
+     Saxon blue uniform             → 萨克森蓝军装               源×1     译×1    
+     The Ring and the Book          → 《指环与书》               源×1     译×1    
+     Aesthetic Movement             → 唯美主义运动               源×1     译×1    
+     Calisthenics / elocution       → 柔软体操 / 演说术           源×2     译×2    
+     éclair                         → 闪电泡芙                 源×1     译×1    
+     wincey                         → 温西呢（wincey）          源×3     译×1     落位偏低 1/3
+     fur boa / pelerine             → 毛皮长围巾（boa）/ 佩勒林披肩（pe 源×3     译×0     ★译0次(未落位?)
+     masseuse                       → 女按摩师（masseuse）       源×1     译×1    
+     beehive                        → 蜂巢                   源×2     译×4    
+     Ulrica Hesse                   → 乌尔丽卡·黑塞              源×3     译×3     残留「茉莉般的脸」×1
+     Minna Blum                     → 明娜·布卢姆               源×2     译×2    
+     Elsa Speier                    → 埃尔莎·施派尔              源×0     译×0     ★源0次(幽灵?)
+     Gertrude Goldring              → 格特鲁德·戈德林             源×3     译×3     残留「副主席」×2
+     Solomon Martin                 → 所罗门·马丁               源×5     译×5    
+     Anna                           → 安娜                   源×0     译×0     ★源0次(幽灵?) 残留「多骨」×1
+     Frau Krause                    → 克劳泽太太                源×9     译×9    
+     Mr. Strood / Stroodie          → 斯特鲁德先生 / 斯特鲁迪        源×2     译×2     残留「受教于莱比锡」×1 残留「伞骨似的手」×1
+     Hendchen                       → 小亨德森（Hendchen）       源×8     译×2     落位偏低 2/8
+     Vorspielen                     → 试奏会（Vorspielen）      源×0     译×6     ★源0次(幽灵?)
+     Haarwaschen                    → 洗头（Haarwaschen）      源×1     译×2    
+     Misunderstood                  → 《误解》（Misunderstood）  源×2     译×2    
+     Sandford and Merton            → 《桑福德与默顿》             源×1     译×1    
+     Moody and Sankey               → 穆迪与桑基（Moody and Sank 源×1     译×1    
+     Sonata Pathétique              → 《悲怆奏鸣曲》              源×1     译×1    
+     Chopin's Fifteenth Nocturne    → 肖邦第十五号夜曲             源×1     译×1    
+     Spring Song                    → 《春之歌》                源×1     译×1    
+     Girls' Own Paper               → 《少女自己的报纸》            源×1     译×1    
+     Ein Blatt aus sommerlichen Tag → 《夏日里的一叶》             源×3     译×0     ★译0次(未落位?) 残留「夏天终结在枯叶里」×1
+     Sterndale Bennett              → 斯特代尔·贝内特             源×1     译×1    
+     Grieg / Schubert / Brahms      → 格里格 / 舒伯特 / 勃拉姆斯     源×5     译×5    
+     Ruskin                         → 罗斯金                  源×4     译×4    
+     Chartreuse                     → 查特酒                  源×1     译×1    
+     cantharides and rose water     → 斑蝥酊和玫瑰水              源×1     译×1    
+     Devonshire / Tarring           → 德文郡 / 塔灵             源×2     译×2    
+     John Gilpin's wife             → 约翰·吉尔平的妻子            源×1     译×1     残留「节俭」×2
+     Brunhilde                      → 布伦希尔德                源×1     译×1    
+     classic knot / klassischer Kno → 希腊式发髻                源×5     译×3    
+     Lily / Leely                   → 莉莉                   源×3     译×0     ★译0次(未落位?)
+     Madame Beck（Villette）          → 贝克夫人                 源×1     译×1    
+     "Fly away Jack, fly away Jill" → "飞走吧杰克，飞走吧吉尔"        源×0     译×0     ★源0次(幽灵?)
+     wie Gräfinnen                  → 像伯爵夫人（wie Gräfinnen） 源×1     译×1    
+     the lift                       → 升降机（the lift）        源×4     译×4    
+     Hoddenheim                     → 霍登海姆                 源×4     译×4    
+     gummi-bags / sponge bags       → 橡皮袋 / 肥皂袋            源×2     译×2    
+     Die Fenster auf! / Die Herzen  → 把窗子打开！/ 把心也打开！       源×2     译×0     ★译0次(未落位?)
+     Ritzifizier, das vierundzwanzi → 嘀滋菲齐尔，第二十四个年头        源×1     译×0     ★译0次(未落位?)
+     Der Spaziergang                → 《散步》（Der Spaziergang 源×1     译×1    
+     Schwimmbad                     → 游泳池（Schwimmbad）      源×1     译×1    
+     Lohengrin                      → 《罗恩格林》               源×2     译×2    
+     Du, meine Seele                → 你呀，我的灵魂              源×0     译×1     ★源0次(幽灵?)
+     Scots wha hae                  → 苏格兰好汉（Scots wha hae） 源×1     译×1    
+     teint / hangry / haypie        → 脸色（teint）/ 气饿（hangry 源×7     译×4     落位偏低 4/7
+     mädshuns                       → 姑娘们（mädshuns）        源×1     译×118  
+     Wütend                         → 气疯啦（Wütend）          源×1     译×1    
+     Tiergartenstraße               → 动物园街（Tiergartenstraß 源×1     译×1    
+     the Pfaff Pastor               → "牧师普法夫"（the Pfaff Pa 源×1     译×0     ★译0次(未落位?)
+     Bienenkorb                     → 蜂巢（Bienenkorb）       源×3     译×0     ★译0次(未落位?)
+     beautifoll                     → 真是太美了（beautifoll）    源×1     译×1    
+     The March of the Men of Harlec → 《哈莱赫男人进行曲》           源×1     译×1    
+     Les toiles d'araignées         → 蜘蛛网（les toiles d'ara 源×2     译×6    
+     La Première Prière de Jessica  → 《杰西卡的第一次祈祷》          源×1     译×1    
+     Le Secret de Lady Audley       → 《奥德利夫人的秘密》           源×1     译×1    
+     Grigg's                        → 格里格店（Grigg's）        源×1     译×1    
+     slommucky                      → 邋遢（slommucky）        源×3     译×3    
+     flountery                      → 花哨飘飘的（flountery）     源×1     译×1    
+     Sie können Ihre paar Groschen  → 你那几个格罗申都拿去           源×1     译×1    
+     Schwarzbrot                    → 黑麦面包（Schwarzbrot）    源×1     译×1    
+     affaire de goût                → 品味的事（affaire de goût 源×1     译×1    
+     Engländerin                    → 英国女人（Engländerin）    源×5     译×8    
+     Die Räuber                     → 《强盗》（Die Räuber）     源×0     译×1     ★源0次(幽灵?)
+     Braten                         → 烤肉（Braten）           源×2     译×2    
+     N' Morgen, meine Damen         → 早上好，女士们              源×1     译×1    
+     Roehampton                     → 罗汉普顿                 源×1     译×1    
+     gentleman farmer               → 乡绅农场主（gentleman farm 源×1     译×1    
+     Mother Bunch                   → 邦奇妈妈（Mother Bunch）   源×1     译×1    
+     vairy / provairb               → 拉曼牧师的口音变读            源×5     译×0     ★译0次(未落位?)
+     crab walk / halfpenny dip      → 螃蟹步 / 半便士颠步          源×2     译×2    
+     Magd                           → 女仆（Magd）             源×1     译×14   
+     Schokolade mit Schlagsahne     → 巧克力加掼奶油              源×1     译×1    
+     Lehrerin                       → 女教师（Lehrerin）        源×3     译×6    
+     Jetzt mag' ich Sie leiden      → 现在我中意您了              源×1     译×1    
+     Na guten Tag, Herr Pastor      → 日安，牧师先生              源×1     译×1    
+     Schlosskirche                  → 宫殿教堂（Schlosskirche）  源×2     译×2    
+     Les Travailleurs de la Mer     → 《海上劳工》（Les Travaille 源×1     译×1    
+     Lead, Kindly Light             → 《慈光歌》（Lead, Kindly L 源×1     译×1     残留「译」×3
+     Cardinal Newman                → 纽曼红衣主教（Cardinal Newm 源×1     译×1    
+     Mr. Gladstone                  → 格莱斯顿先生（Mr. Gladstone 源×1     译×1     残留「又气又冷嘲」×1
+     Radical / Conservatives        → 激进派（Radical）/ 保守党人   源×5     译×5    
+     chapel                         → 非国教的礼拜堂（chapel）      源×2     译×1    
+     schöne Predigt                 → 优美的布道（schöne Predigt 源×1     译×1    
+     Caritas / have not Charity     → 没有爱（Charity）/ Carita 源×1     译×1     残留「鸣的锣、响的钹」×1
+     Nun danket alle Gott           → 今感谢全体上帝（Nun danket a 源×1     译×1     残留「硬邦邦方方正正的曲子」×1
+     Hugo Wieland                   → 雨果·维兰德（Hugo Wieland） 源×1     译×1    
+     Erica Wieland                  → 埃丽卡·维兰德（Erica Wielan 源×1     译×1    
+     Marie                          → 玛丽（Marie）            源×4     译×4    
+     outside edge / figure-skating  → 外刃 / 花样滑冰            源×2     译×2    
+     milk walk                      → 牛奶散步                 源×1     译×1    
+     In der Ecke steht er…（学生歌）     → 他站在角落里……             源×0     译×0     ★源0次(幽灵?) 残留「烂醉的女婿」×1
+     O Sonnenschein!（学生合唱）          → 哦，阳光！                源×0     译×4     ★源0次(幽灵?)
+     Solveig's song                 → 索尔维格之歌（Solveig's son 源×2     译×2    
+     Ik kenne meine Tasse sie ist s → 我认得我的杯子，它是黑的         源×1     译×1    
+     Platt Deutsch                  → 低地德语（Platt Deutsch）  源×1     译×1    
+     Vater unser                    → 我们在天上的父（Vater unser） 源×2     译×2    
+     Bienenkorb                     → 蜂巢（Bienenkorb）       源×0     译×0     ★源0次(幽灵?)
+     Konfirmation / confirmation    → 坚信礼（Konfirmation）    源×4     译×4    
+     Millenium mine                 → 我的千禧米莉（Millenium min 源×1     译×1    
+     Männergesangverein             → 男声合唱团（Männergesangve 源×1     译×1    
+     mammazellchen / Momzell        → 小姐小姐（mammazellchen）/ 源×2     译×1    
+     Emmchen                        → 小爱玛（Emmchen）         源×2     译×3    
+     Christina                      → 克里斯蒂娜（Christina）     源×2     译×2    
+     Henchen                        → 小亨迪（Henchen）         源×1     译×2    
+     Song of Hiawatha               → 《海华沙之歌》（Song of Hiaw 源×1     译×1    
+     Mr. Barnes of New York         → 《纽约的巴恩斯先生》（Mr. Barne 源×1     译×1    
+     the Academy / plein-airistes   → 皇家艺术院（the Academy）/  源×2     译×1    
+     Bella Lyndon                   → 贝拉·林登（Bella Lyndon）  源×1     译×1    
+     Lilla Belton                   → 莉拉·贝尔顿（Lilla Belton） 源×1     译×1    
+     Anwyl girls / Birdy Anwyl / Mr → 安威尔家姑娘们 / 伯蒂·安威尔 / 斯 源×3     译×2    
+     Upper Richmond Road            → 上里士满路（Upper Richmond 源×1     译×1    
+     bull's-eye                     → 圆形硬糖（bull's-eye）     源×1     译×1    
+     sugar-loaf hat                 → 糖锥帽                  源×1     译×1    
+     doorknocker plait              → 门环辫（doorknocker plai 源×1     译×1    
+     rose-madder blouse             → 玫瑰茜红色衬衫              源×1     译×0     ★译0次(未落位?)
+     shot silk waistband            → 闪色绸（shot silk）腰带     源×1     译×1    
+     bay rum                        → 月桂朗姆发水（bay rum）      源×1     译×1    
+     stays / tight-lace             → 紧身褡（stays）/ 束腰（tight 源×3     译×2    
+     toby frill                     → "托比"（toby）褶边         源×0     译×0     ★源0次(幽灵?)
+     ulster                         → 乌尔斯特长外套（ulster）      源×2     译×1    
+     ruche / lace tuckers / zephyrs → 褶饰边（ruche）/ 蕾丝胸褶 / 细 源×3     译×4    
+     Gewiss / Ruhig, Kinder, ruhig  → 当然（Gewiss）/ 安静，孩子们，安 源×2     译×29   
+     Ei! Bewahre!                   → 哎！使不得！（Ei! Bewahre!） 源×1     译×0     ★译0次(未落位?)
+     Gott sei Dank                  → 感谢上帝（Gott sei Dank）  源×1     译×1    
+     It dot besser wenn da regnet?  → 下雨了，就好些了吧（It dot bes 源×1     译×1    
+     Dutch doll                     → 荷兰玩偶                 源×1     译×1    
+     oon voove / *Verve*, Bertha    → 温——乌夫（oon voove）/*韦尔 源×2     译×1    
+

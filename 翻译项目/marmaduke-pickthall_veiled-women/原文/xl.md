@@ -1,0 +1,39 @@
+## XL
+It was strange how, with her broken spirit, she regained a kindly interest in all around her. She had found the keynote of harem existence﻿—resignation; not merely passive, but exultant as an act of worship. The gross, full-blooded speech, the something cruel in these women, which in the day of sentimental pride had seemed intolerable, was but the natural outcome of relentless vision. In the first fervour of her self-abasement she stood beside the deathbed of Murjânah Khânum, watched her last struggle, and endured the death-room orgies without flinching. Thenceforth she took up the old Muslim standpoint, denouncing all the fallacies of Europe. Having won from Yûsuf the confession that he kept three other women, she had them brought to the old Pasha’s palace, where she lived thenceforward, to rid his dealings of the surreptitiousness which smacks of vice. She received them sometimes in her rooms, and took benignant notice of their children, but remained aloof. They called her “the great lady,” and deferred to her.
+When the festivals of visitation of the dead came round, she would withdraw into the tomb for days together, but showed no mournfulness at other seasons. When Englishwomen called on her (as sometimes happened, for Yûsuf held a high position in the Government), she spoke in stilted French, and never hinted that she knew their language, or was other than the thing she seemed﻿—a Turkish lady. She felt assured that, had she carried out her plan and fled to Europe after her son’s death, she would have gone mad in that sentimental atmosphere with all her memories. More than the English, she disliked some French and German ladies who, without renouncing their religion or their nationality, had married Muslims. These, in their visits, showed a curiosity, and used a tone of patronage, which was offensive. Of races less exclusive than the English, they kept their European friends, maintained their liberty. They had no real conception of the harem life.
+She was angry with her daughter when the latter told her:
+“At marriage I shall make my husband promise to have me alone before I yield to him. It is become the fashion in the noblest houses. Of course, if I should fail to bear a son, I should release him.”
+“Endeavour to retain him by thy charms,” the mother scolded. “O foolish one, to make him promise is to make him sin. In following the madness of the Frankish women, thou dost but court deception in the Frankish manner. It all comes of the reading of French stories without knowledge or intelligence.”
+It vexed her soul to see young girls forsaking the old stately way to hanker for the trash of Europe, which they misconceived. Afîfah had no notion of that mutual love and comradeship which is the sole excuse for monogamic marriage; she merely thought it fine to be an only wife. When harem ladies talked of feminine emancipation, they understood it to involve licentiousness. Their genius was at once too indolent and too direct ever to harbour European vapours.
+But these vagaries were restricted to a score of wealthy houses, and even there the harem life went on the same. There were the lattices, the veils, the eunuchs, and some few slaves in spite of many edicts; the ladies still had their old interests and rules and customs; the same old women hawked the news and bawdy tales from house to house; and superstition flourished more than ever. Young wives who had been bred up in the Frankish culture, and insisted on the husband talking French in private, consulted witches when the baby ailed, or sent a portion of his clothing to be bloodstained at a zâr.
+Afîfah married in due course a high official, and Barakah spent half the year with her. The mother had her little circle of old friends, and many protégés﻿—in particular the house of Ghandûr, whose firstborn, Ali, she regarded always as her son. Her age seemed not unhappy.
+On a summer evening, she was sitting on the roof of the old Pasha’s palace, watching the sunset with Gulbeyzah, Na’imah, and two of Yûsuf’s sisters who had come to visit her. Red light as of a conflagration shone around them. The shadow cast towards them by the parapet was vastly elongated and as black as ink. A tray with fruit and sherbet rested on the ground, and a slave-girl, squatting on her heels before them, awaiting their good pleasure to remove it, followed their conversation with an eager smile.
+The English had been five-and-twenty years in Cairo, and mighty changes had distressed the world of men, but the harem seemed changeless in its calm seclusion. Beliefs as old as Egypt lingered there, and new things introduced were made to serve old customs. Yet the ladies had been sighing at the growth of innovations.
+“Dost thou remember, O my sweet one, the little window in the servants’ passage where I used to sit and dream as a young maiden?” sighed Gulbeyzah. “Is it still there? I must go down and see it! And the little lover on the roof who waved his arms so wildly? I wonder did he die of me, the poor young man! Thou didst blame me for that small amusement; but, by Allah, girls in these days are less innocent. My granddaughters read French books till their brains are addled. They had better sit alone and dream as I did.”
+“The best of life is thinking with hands idle,” answered Na’imah. “All women do it, and so form their minds. But the girls today have no resources. They despise embroidery. They needs must be amused by some strange sight, excited by unhealthy reading, or they die of ennui.”
+“Look, look!” exclaimed Gulbeyzah suddenly.
+They all stared in the direction which her finger pointed.
+The slave, who had been waiting their good pleasure to remove the tray, had started up and stood against the parapet, looking out towards the sunset, with her back towards them. Both her arms were raised as for an incantation. The rosy light enveloped her as with a halo. Her shadow, grown enormous, covered half the roof.
+“I seek refuge in Allah. Is she worshipping the sun?” gasped Na’imah. “She should be punished for such gross impiety.”
+“She is going to give that crow his salutation,” said Gulbeyzah.
+The bird had wheeled away, but now drew near again.
+
+> “If good the news, O bird, alight and welcome;
+ 
+
+ If bad, draw up thy claws and hie away!”
+
+The slave-girl having chanted the time-honoured formula, turned to resume her attitude of patient waiting. She grinned to find herself the object of all eyes.
+“I shamed him,” she remarked, with a wide flash of teeth, as she sat down once more.
+“Thou knowest the history﻿—not so, O my flower?” said Na’imah.
+“Umm ed-Dahak has related it a thousand times﻿—the Lord have mercy on her!” Barakah made answer in a tone of fond remembrance.
+“O light of my eyes, surely every woman here in Egypt knows it!” giggled Yûsuf’s youngest sister. “They say it has been handed down among us from the days of our lord Noah, when we sent up the petition.”
+“That every girl might be allowed four husbands?” asked Gulbeyzah.
+“More! more!﻿—or so old Umm ed-Dahak used to tell me﻿—as many as she could endure, my sweet!” laughed Barakah.
+“May Allah destroy the house of that most wicked crow, who has kept us waiting all these thousands of long years till now!” groaned Na’imah.
+“How long! How long, O Lord!” sighed out Gulbeyzah in a comic ecstasy.
+“Never in my time, that is certain, under Allah,” answered Barakah. “But perhaps you young ones.﻿ ﻿…”
+“Young ones! O Allah, listen to her! Ah, alas for us!” cried Yûsuf’s youngest sister, with a sobbing laugh. Whereat the ladies looked into each other’s faces, illumined by the greenish light which follows sunset. A silence and a shudder fell upon them.
+“Allah have mercy on us!” Gulbeyzah broke the stillness with a shrug. “Behold us finished for the joys of this low world.”
+“The praise to Allah!” answered Na’imah devoutly.
+They were all old withered bodies, for the grave.

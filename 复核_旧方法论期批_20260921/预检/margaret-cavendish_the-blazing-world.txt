@@ -1,0 +1,109 @@
+ (5 files)
+  块: O=55 C=55 OK | 段: EN=143 CN=143 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: - 03-description-of-a-new-world-part-1.md 约 173KB，为超长单篇：翻译时按 `prompts/通用翻译引擎.md` 第七节分段处理（100-200KB 建议分 2 段，在段落空行处切分，勿切碎翻译单元），中断后按「断点恢复」续译，单篇不得中途放弃。 / - 本书段落极长（单段可达数 KB），块对照切块时以自然段为准，勿为凑块大小拆散或合并原段。 / - 17 世纪早期近代科学用语（如 chemists、experimental philosophers）按近代科学史语境译（化学家、实验哲学家），详见术语表策略。 / - 献词（01）为诗体，导言/后记含作者自指（M. Newcastle、Margaret the First），译名从术语表。
+  -- 术语表硬约束行 103 条:
+     the Empress                    → 女皇                   源×335   译×361   残留「女皇（Empress）」×3
+     the Emperor                    → 皇帝                   源×51    译×63   
+     the Duchess of Newcastle       → 纽卡斯尔公爵夫人（Duchess of  源×7     译×8    
+     the Duke of Newcastle          → 纽卡斯尔公爵（Duke of Newca 源×6     译×7    
+     William Newcastle              → 威廉·纽卡斯尔（William Newc 源×1     译×1    
+     M. Newcastle / Margaret Newcas → 玛格丽特·纽卡斯尔            源×2     译×2    
+     Margaret the First             → 玛格丽特一世               源×1     译×1    
+     the merchant                   → 商人                   源×1     译×2    
+     Duke of Savoy                  → 萨伏依公爵                源×1     译×1    
+     Duke of Lorraine               → 洛林公爵                 源×1     译×1    
+     Duke of Florence               → 佛罗伦萨公爵               源×1     译×1    
+     Lady Fortune                   → 命运女神                 源×2     译×27   
+     Sir Epicure Mammon             → 伊壁鸠鲁·玛蒙爵士（Sir Epicur 源×1     译×1    
+     亚历山大 Caesar 恺撒、Hector 赫克托耳、Ach → 均用通行译名               源×0     译×0     ★源0次(幽灵?)
+     Bear-men                       → 熊人（Bear-men）         源×18    译×30   
+     Bird-men                       → 鸟人（Bird-men）         源×29    译×38   
+     Worm-men                       → 虫人（Worm-men）         源×36    译×42   
+     Fish-men / Mear-men            → 鱼人（Fish-men / Mear-m 源×26    译×36   
+     Syrens                         → 塞壬（Syrens）           源×3     译×3    
+     Fly-men                        → 蝇人（Fly-men）          源×10    译×18   
+     Ape-men                        → 猿人（Ape-men）          源×11    译×12   
+     Satyrs                         → 萨提尔（Satyrs）          源×8     译×8    
+     Fox-men                        → 狐人（Fox-men）          源×6     译×10   
+     Spider-men                     → 蜘蛛人（Spider-men）      源×6     译×8    
+     Lice-men                       → 虱人（Lice-men）         源×5     译×6    
+     Jackdaw-men                    → 寒鸦人（Jackdaw-men）     源×3     译×4    
+     Magpie-men                     → 喜鹊人（Magpie-men）      源×1     译×4    
+     Parrot-men                     → 鹦鹉人（Parrot-men）      源×3     译×5    
+     Geese-men                      → 雁人（Geese-men）        源×1     译×2    
+     Ant-men                        → 蚁人（Ant-men）          源×1     译×1    
+     Giants                         → 巨人（Giants）           源×7     译×8    
+     immaterial spirits             → 无形精灵（immaterial spir 源×15    译×16   
+     the Blazing-World              → 燃烧世界（Blazing-World）  源×31    译×42   
+     the New Blazing-World          → 新燃烧世界                源×1     译×1    
+     Paradise                       → 乐园（Paradise）         源×8     译×9    
+     the Icy Sea                    → 冰海（Icy Sea）          源×2     译×2    
+     the North-pole                 → 北极                   源×1     译×2    
+     her native country             → 她的故国                 源×9     译×4     落位偏低 4/9
+     Vesuvius / Etna                → 维苏威火山 / 埃特纳火山        源×2     译×2    
+     Hell / Heaven                  → 地狱 / 天堂              源×26    译×22   
+     The Description of a New World → 《新世界描述，或曰燃烧世界》       源×1     译×0     ★译0次(未落位?)
+     Observations Upon Experimental → 《对实验哲学的观察》（Observati 源×1     译×1    
+     experimental philosophy        → 实验哲学                 源×1     译×9    
+     chemists / chemistry           → 化学家 / 化学             源×9     译×12    残留「炼金术士」×1
+     salt, sulphur and mercury      → 盐、硫、汞（三要素）           源×0     译×3     ★源0次(幽灵?)
+     Galenic physicians             → 盖仑派医生                源×2     译×3    
+     platonic friend(ship)          → 柏拉图式友人（情谊）           源×4     译×3    
+     golden ships / leather ships   → 金船 / 皮船              源×3     译×6    
+     blazing-stars                  → 彗星（blazing-stars）    源×6     译×7    
+     the sun-stone                  → 太阳石（sun-stone）       源×4     译×4    
+     telescopes / microscopes       → 望远镜 / 显微镜            源×21    译×28   
+     fire-stone                     → 火石（fire-stone）       源×9     译×20   
+     star-stone                     → 星石（star-stone）       源×8     译×8    
+     burning-mountains              → 燃烧之山（burning-mountai 源×1     译×1    
+     blazing-stars                  → 彗星（blazing-stars）    源×0     译×0     ★源0次(幽灵?)
+     packet-boat                    → 小型邮船（packet-boat）    源×2     译×1    
+     musket                         → 火枪                   源×1     译×1    
+     the Last Day                   → 末日（the Last Day）     源×1     译×1    
+     vehicles                       → 载体（vehicles）         源×34    译×41   
+     particulars                    → 个体（particulars）      源×10    译×9    
+     elixir                         → 灵药（elixir）           源×2     译×3    
+     monarchess                     → 女君主（monarchess）      源×1     译×1    
+     princess（女皇自称语境）               → 女君                   源×6     译×4     残留「女皇」×361
+     the Civil Wars                 → 内战（the Civil Wars）   源×1     译×2    
+     horses of manage               → 骑术马（horses of manage 源×2     译×1    
+     carbuncle(s)                   → 红宝石（carbuncle）       源×5     译×8    
+     unicorn(s)                     → 独角兽                  源×1     译×1    
+     ambergris                      → 龙涎香                  源×1     译×1    
+     the King of E.S.F.I.           → E.S.F.I. 国王          源×3     译×3    
+     the narrow seas                → 狭海（the narrow seas）  源×1     译×1    
+     the Blinking-World of wit      → 才子们的「眨闪世界」（Blinking- 源×1     译×1    
+     Louse-men                      → 虱人                   源×1     译×0     ★译0次(未落位?)
+     Columbus / America             → 哥伦布 / 亚美利加           源×2     译×2    
+     Henry the Fifth / Charles the  → 亨利五世 / 查理二世          源×2     译×2    
+     the Fates                      → 命运三女神                源×1     译×1    
+     swimming-dances                → 游泳舞                  源×1     译×1    
+     viols / theorbos / lutes / cit → 维奥尔琴 / 诗琴 / 琉特琴 / 西特 源×5     译×5    
+     creatoress / authoress         → 女创造者 / 女作者           源×2     译×2    
+     Cabbala / the Jews' Cabbala    → 喀巴拉（Cabbala）／犹太人的喀巴拉 源×21    译×37   
+     philosopher's stone            → 贤者之石                 源×1     译×1    
+     alkahest                       → 万能溶剂（alkahest）       源×1     译×1    
+     Golden Sands                   → 金沙（Golden Sands）     源×2     译×2    
+     virtuosos                      → 博学之士（virtuosos）      源×2     译×2    
+     Purgatory                      → 炼狱                   源×4     译×4    
+     plastick power                 → 塑造力（plastick power）  源×2     译×2    
+     non-beings                     → 不存在之物（non-beings）    源×4     译×3     残留「半存之物」×1
+     grand-seignior                 → 大君（grand-seignior）   源×3     译×5    
+     Muhammad                       → 穆罕默德                 源×1     译×1    
+     Thales / Pythagoras / Epicurus → 泰勒斯／毕达哥拉斯／伊壁鸠鲁／伽桑狄／赫 源×13    译×9    
+     Lucian's World of Lights       → 琉善（Lucian）的光明世界      源×1     译×1    
+     Mercury / Apollo / Zephyrus    → 墨丘利／阿波罗／仄费罗斯（Zephyru 源×6     译×3     落位偏低 3/6
+     Dr. Dee / Edward Kelly         → 迪伊博士（Dr. Dee）／爱德华·凯利 源×3     译×1     落位偏低 1/3
+     Ben Jonson / *The Alchemist*   → 本·琼森（Ben Jonson）／《炼金 源×2     译×1    
+     Capt. Face / Dr. Subtle / Doll → 费斯上尉／萨特尔博士／多尔·科门／亚拿尼 源×5     译×5    
+     Nottinghamshire / Forest of Sh → 诺丁汉郡／舍伍德森林（Sherwood） 源×4     译×2     落位偏低 2/4
+     Prudence / Honesty / Folly / R → 审慎（Prudence）／诚实（Hone 源×71    译×20    落位偏低 20/71
+     drone-fly                      → 蜂虻（drone-fly）        源×1     译×1    
+     vinegar-eel / sprat            → 醋线虫／西鲱               源×2     译×2    
+     sensitive / rational / inanima → 感性／理性／无生命物质          源×34    译×56   
+     self-moving matter (body)      → 自动物质（self-moving mat 源×2     译×1    
+     figurative motions             → 成形运动                 源×6     译×6    
+     animal spirits                 → 动物元气                 源×2     译×2    
+     carbuncle（与 rubies 同句时）        → 红宝石（carbuncle）       源×0     译×0     ★源0次(幽灵?)
+====================================================================================================

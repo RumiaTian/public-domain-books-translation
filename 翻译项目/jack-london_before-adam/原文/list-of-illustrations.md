@@ -1,0 +1,2 @@
+## List of Illustrations
+1. A map depicting the region in which the story takes place. To the north, there is the Great Forest and the Grasslands; the south depicts the coast; the west shows the Great Swamp and a mountain range; while the east the most important locations, being the first abiding place, the caves of the Horde, the land of the Fire-people, the land of the Tree-people and the river that provides for them all.

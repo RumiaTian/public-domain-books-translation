@@ -1,0 +1,78 @@
+====================================================================================================
+### thomas-love-peacock_nightmare-abbey  (17 files)
+  块: O=184 C=184 OK | 段: EN=561 CN=561 OK
+  英文残留(剔括注) top: entre×3, et×2, comme×2, de×2, piano×2, Oui×2, monsieur×2, ma×2, foi×2, non×2
+  项目说明备注: - 章节标题为罗马数字（I–XV），译文标题中罗马数字照搬不译。 / - 正文中尾注引用以裸数字出现（如 `pensions5` 指第 5 条尾注），译文照搬编号；尾注集中在 `endnotes.md`。 / - 原文含大量拉丁文、法文短语与希腊文词源（见术语表「古典/外语短语」节）：拉丁短语照搬原文，括注中文释义；法语对话照搬原文并括注中文；希腊字母词照搬。 / - 对话表已转为「**人物.** 台词」段落，人物名粗体格式在译文中保留（**斯克罗普.** …）。 / - 斜体标记保留（书名、剧目、强调）。 / - 虚构书刊名（*Devilman*、*Paul Jones*、*The Downing Street Review*）与虚构人名（Roderick Sackbut 等）按术语表译法统一。
+  -- 术语表硬约束行 71 条:
+     Christopher Glowry, Esquire    → 克里斯托弗·格洛里            源×1     译×1    
+     Scythrop                       → 斯克罗普                 源×185   译×187  
+     Mr. Hilary                     → 希拉里先生                源×32    译×38   
+     Mrs. Hilary                    → 希拉里太太                源×16    译×14   
+     Marionetta                     → 玛丽奥内塔                源×97    译×97   
+     The Honourable Mr. Listless    → 尊贵的李斯特里斯先生           源×46    译×46   
+     Mr. Flosky                     → 弗洛斯基先生               源×71    译×71   
+     Mr. Cypress                    → 赛普里斯先生               源×20    译×20   
+     Mr. Toobad                     → 图巴德先生                源×52    译×53   
+     Celinda Toobad                 → 塞琳达·图巴德              源×0     译×0     ★源0次(幽灵?)
+     Stella                         → 斯特拉                  源×13    译×13   
+     The Reverend Mr. Larynx        → 拉林克斯牧师               源×20    译×23   
+     Raven                          → 雷文                   源×27    译×26   
+     Mr. Asterias                   → 阿斯特里亚斯先生             源×23    译×23   
+     Lord C.                        → C——勋爵                源×1     译×1    
+     Crow                           → 克罗                   源×11    译×12   
+     Fatout                         → 法图                   源×19    译×20   
+     Skellet / Squelette            → 斯凯雷特 / 斯克雷特          源×2     译×2    
+     Mattocks and Graves            → 马托克斯和格雷夫斯            源×1     译×0     ★译0次(未落位?) 残留「坟墓」×3
+     Diggory Deathshead             → 迪戈里·死人头              源×1     译×1     残留「小死人头」×1
+     Emily Girouette                → 埃米莉·吉鲁埃特             源×3     译×3    
+     The Honourable Mr. Lackwit     → 尊贵的拉克维特先生            源×1     译×1    
+     Miss O'Carroll                 → 奥卡罗尔小姐               源×17    译×18   
+     Lord S—                        → S——勋爵                源×0     译×1     ★源0次(幽灵?)
+     Roderick Sackbut, Esquire      → 罗德里克·萨克巴特先生          源×1     译×1     残留「我们无可指摘的桂冠诗人」×1
+     Nightmare Abbey                → 噩梦隐修院                源×23    译×23   
+     Lincolnshire                   → 林肯郡                  源×4     译×5    
+     the fens                       → 沼泽地                  源×5     译×2     落位偏低 2/5
+     Claydyke                       → 克莱迪克                 源×5     译×5    
+     Brazen-nose                    → 铜鼻学院                 源×1     译×1    
+     Berkeley Square                → 伯克利广场                源×1     译×1    
+     illuminati / bands of illumina → 光照派                  源×3     译×4    
+     secret tribunals               → 秘密法庭                 源×1     译×3    
+     the keep                       → 主楼 / 城堡主楼            源×0     译×2     ★源0次(幽灵?)
+     atrabilarious                  → 忧郁质的                 源×1     译×0     ★译0次(未落位?)
+     the blue devils                → 忧郁症（蓝魔）              源×3     译×2    
+     tedium vitae                   → tedium vitae（厌倦人生）   源×0     译×0     ★源0次(幽灵?)
+     felo de se                     → felo de se（自戕罪）      源×1     译×1    
+     videlicet / viz.               → 即                    源×1     译×22   
+     nil curo                       → nil curo（我全不在乎）      源×1     译×1    
+     ennui                          → 倦怠                   源×3     译×3    
+     transcendental / transcendenta → 先验的 / 先验论            源×10    译×7     残留「先验论者」×3
+     misanthropy / misanthropist    → 厌世 / 厌世者             源×7     译×8    
+     the march of mind / march of i → 智识进军                 源×0     译×0     ★源0次(幽灵?)
+     eleutherarchs                  → 自由执政官                源×1     译×2     残留「统治」×2
+     Philosophical Gas; or, a Proje → 《哲学瓦斯：或，人类心智普遍照明方略》  源×0     译×1     ★源0次(幽灵?)
+     Philosophical Gas              → 《哲学瓦斯》               源×1     译×0     ★译0次(未落位?)
+     black bile                     → 黑胆汁                  源×0     译×0     ★源0次(幽灵?)
+     morbid anatomy of black bile   → 黑胆汁的病理解剖             源×2     译×2    
+     Nina Pazza per Amore           → 《因爱而疯的妮娜》            源×1     译×1    
+     Devilman                       → 《魔鬼人》                源×1     译×1    
+     Paul Jones, a poem             → 《保罗·琼斯》              源×1     译×1    
+     The Downing Street Review      → 《唐宁街评论》              源×1     译×1    
+     An Ode to the Red Book         → 《红皮书颂》               源×1     译×1    
+     The Sorrows of Werther         → 《维特之烦恼》              源×1     译×2    
+     Christabel                     → 《克丽斯特贝尔》             源×1     译×1    
+     Manfred                        → 《曼弗雷德》               源×1     译×1    
+     Childe Harold                  → 《恰尔德·哈罗尔德游记》         源×5     译×5    
+     Ahrimanes                      → 阿里曼                  源×3     译×4    
+     Oromazes                       → 奥罗马泽斯                源×1     译×1    
+     Alastor                        → 阿拉斯托                 源×1     译×1    
+     Valkyrae                       → 女武神（瓦尔基里）            源×1     译×1    
+     Every Man in His Humour        → 《人人扫兴》/《各遂其性》        源×1     译×1    
+     Candide                        → 《老实人》                源×1     译×2    
+     the green bag                  → 绿袋子                  源×1     译×1    
+     the Alien Act                  → 《外国人法案》              源×1     译×1    
+     illuminée                      → 光照派女信徒               源×1     译×0     ★译0次(未落位?)
+     Spartacus Weishaupt            → 斯巴达克斯·魏斯豪普特          源×1     译×1    
+     Mr. Burke                      → 伯克先生                 源×2     译×2    
+     the Honourable                 → 尊贵的                  源×0     译×0     ★源0次(幽灵?)
+     Esquire / Esq.                 → 先生/乡绅                源×0     译×227   ★源0次(幽灵?)
+

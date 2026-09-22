@@ -1,0 +1,41 @@
+## XIII
+For nine days Chandler’s status remained in limbo. He spent that day in a state of numb bemusement, remembering the men and women he had worn like garments, appalled and exhilarated. He did not see Rosalie again that day, she kept to her room and he locked out. He was still a lapdog, but a lapdog with a dream dangling before him. He went to sleep that night thinking that he was a dog who might become a god, and he had eight days left.
+The next day Rosalie wheedled another hour of the coronet from Koitska. They explored the ice caves on Mount Rainier in the bodies of two sick, starving hermits and wandered arm in arm near the destroyed International Bridge at Niagara, breathing the spray of the unchanging Falls. He had seven days left.
+They passed like a dream. He saw a great deal of the inner workings of the exec, more than before. He had privileges. He was up for membership in the club. Rosalie had proposed him. He talked with two Czechoslovakian ballet dancers in their persons, and a succession of heavily accented Russians and Poles and Japanese through the mouth of the beach boy who came to tend Rosalie’s garden. He thought they liked him and was pleased that he penetrated where he had not been allowed before﻿ ﻿… until he realized that these freedoms were in themselves a threat. They allowed him this contact so that they could look him over. If they rejected him they would have to kill him, because he had seen too much. But by then a week had passed, and another day, and though he did not know it he had only one day left. Rosalie did what she could to make the days of waiting easy for him.
+“Embarrassing, isn’t it? I went through it myself, love. Come have a drink.”
+“When will I know?” he demanded fretfully.
+“Well.” She hesitated. “I don’t suppose there’s any harm in telling you, love, under the circumstances﻿—”
+He knew what the circumstances were.
+“I guess I can tell you. You need just over seven hundred votes to come in. You’ve got﻿—” Her eyes glazed for a moment. She was looking through some clerk’s eyes, somewhere on the island. “You’ve got about a hundred and fifty so far. Takes time, doesn’t it? But it’s worth it in the end.”
+“How many ‘no’ votes?”
+“None.” She said gently, “You’ll never have but one, love, because that’s all it takes.”
+He stared. The girl gook took up his hand and kissed it lightly. “One blackball’s enough, yes, but never fear. Rosie’s on your side.”
+---
+Restlessly Chandler stood up and made himself another drink. His head was beginning to buzz. They had been drinking on her sun terrace since early afternoon.
+Rosalie came up beside him soothingly. “I know how you feel. Want me to tell you about when I went through it?”
+“Sure,” he said, stirring the ice around in the glass and drinking it down. He made another drink absently, hardly hearing what she said, although the sound of her voice was welcome.
+“Oh, that lousy headdress! It weighed twenty pounds, and they put it on with hatpins.” He caressed her absently. He had figured out that she was talking about the night New York was bombed. “I was in the middle of the big first-act curtain number when﻿—” her face was strained, even after years, even now that she was herself one of the godlike ones﻿—“when something took hold of me. I ran off the stage and right out through the front door. There was a cab waiting. As soon as I got in I was free, and the driver took off like a lunatic through the tunnel, out to Newark Airport. I tell you, I was scared! At the toll booth I screamed but my﻿—friend﻿—let go of the driver for a minute, smashed a trailer-truck into a police car, and in the confusion we got away. He took me over again at the airport. I ran bare as a bird into a plane that was just ready to take off. The pilot was under control.﻿ ﻿… We flew eleven hours, and I wore that damn feather headdress all the way.”
+She held out her glass for a refill. Chandler busied himself slicing a lime for her drink. Now she was talking about her friend. “I hadn’t seen him in six years. I was just a kid, living in Islip. He was with a Russian trade commission next door, in an old mansion. Well, he was one of the ones, back in Russia, that came up with these.” She touched her coronet. “So,” she said brightly, “he put me up for membership and by and by they gave me one. You see? It’s all very simple, except the waiting.”
+Chandler pulled her down on the couch beside him and made a toast. “Your friend.”
+“He’s a nice guy,” she said moodily, sipping her drink. “You know how careful I am about getting exercise and so on? It’s partly because of him. You would have liked him, love, only﻿—well, it turned out that he liked me well enough, but he began to like what he could get through the coronet a lot more. He got fat. A lot of them are awfully fat, love,” she said seriously. “That’s why they need people like me. And you. Replacements. Heart trouble, liver trouble, what can they expect when they lie in bed day in and day out, taking their lives through other people’s bodies? I won’t let myself go that way.﻿ ﻿… It’s a temptation. You know, almost every day I find some poor woman on a diet and spend a solid hour eating creampuffs and gravies. How they must hate me!”
+She grinned, leaned back and kissed him.
+Chandler put his arms around the girl and returned the kiss, hard. She did not draw away. She clung to him, and he could feel in the warmth of her body, the sound of her breath that she was responding. The drink made him reckless; the last two weeks made him doubtful; he was torn. He could tell that there was no resistance in her body, but the coronet made it in doubt; she could fling him away from her with one touch of the mind. Yet she didn’t do it﻿—
+“*Vi myenya zvali?*” his own voice demanded, harsh and mocking.
+---
+The girl tried to push him away. Her eyes were bright and huge, staring at him. “Andrei!”
+“*Da, Andrei! Kok eto dosadno!*”
+“Andrei, please. I know that you are﻿—”
+“Filthy!” screamed Chandler’s voice. “How can you? I do not allow this carrion to touch you so﻿—not vot is mine﻿—I do not allow him to live!” And Chandler dropped her and leaped to his feet. He fought. He struggled; but only in his mind, and helplessly; his body carried him out of the room, running and stumbling, out into the drive, into her waiting car and away.
+He drove like a madman on roads he had never seen before. The car’s gears bellowed pain at their abuse, the tires screamed.
+Chandler, prisoned inside himself, recognized that touch. Koitska! He knew who Rosalie Pan’s lover had been. If he had been in doubt his own voice, raucous and hysterical with rage, told him the truth. All that long drive it screamed threats and obscenities at him, in Russian and tortured English.
+The car stopped in front of the T.W.A. facility and, still prisoned, his body hurried in, bruising itself deliberately against every doorpost and stick of furniture. “I could have smashed you in the car!” his voice screamed hoarsely. “It is too merciful. I could have thrown you into the sea! It is not painful enough.”
+In the garage his body stopped and looked wildly around. “Knives, torches,” his lips chanted. “Shall I gouge out eyes? Slit throat?”
+A jar of battery acid stood on a shelf, “*Da, da!*” screamed Chandler, stumbling toward it. “One drink eh? And I von’t even stay vith you to feel it, the pain﻿—just a moment﻿—then it eats the gut, the long slow dying.﻿ ﻿…” And all the time the body that was Chandler’s was clawing the cap off the jar, tilting it﻿—
+He dropped the jar, and leaped aside instinctively as it splintered at his feet.
+He was free!
+Before he could move he was seized again, stumbled, crashed into a wall﻿—
+And was free again.
+He stood waiting for a moment, unable to believe it; but he was still free. The alien invader did not seize his mind. There was no sound. No one moved. No gun fired at him, no danger threatened.
+He *was* free; he took a step, turned, shook his head and proved it.
+He was free and, in a moment, realized that he was in the building with the fat bloated body of the man who wanted to murder him, the body that in its own strength could scarcely stand erect.
+It was suicide to attempt to harm an exec. He would certainly lose his life﻿—except﻿—that was gone already anyhow; he had lost it. He had nothing left to lose.

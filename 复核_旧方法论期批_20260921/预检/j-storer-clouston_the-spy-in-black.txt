@@ -1,0 +1,63 @@
+ (32 files)
+  块: O=345 C=345 OK | 段: EN=1570 CN=1570 OK
+  英文残留(剔括注) top: Gott×6, Mein×5, Dame×1, Garantirt×1, echt×1, Vulcanfibre×1, mein×1, Ach×1, so×1
+  项目说明备注: - 章节按原书 spine 顺序以两位数字前缀命名（01- … 32-），保证按阅读顺序翻译；部首页（01/07/14/24/29）为各部标题，篇幅极短，翻译时照常合并为「英文 / 中文」标题即可。 / - 每部章节号各自从罗马数字 I 重新计起（如第 I 部「I The Landing」、第 II 部「I The Pleasant Stranger」），照搬不译。 / - 德方人名带贵族介词 von（von Belke「冯·贝尔克」）；虚构地名 Windy Isles 统一作「温迪群岛」，不坐实为奥克尼。 / - 苏格兰官职/教会用语（laird、manse、minister、the Kirk）及海军军衔（Commander/Captain/Lieutenant）首现保留原文，详见术语表「翻译策略说明」。
+  -- 术语表硬约束行 57 条:
+     Conrad von Belke               → 康拉德·冯·贝尔克            源×1     译×1     残留「侦察员」×1
+     Wiedemann                      → 维德曼                  源×0     译×22    ★源0次(幽灵?)
+     Adolph Tiel                    → 阿道夫·蒂尔               源×7     译×7    
+     Schumann                       → 舒曼                   源×12    译×12    残留「约翰牛」×2 残留「宜人的陌生人」×1
+     Rev. Alexander Burnett         → 亚历山大·伯内特牧师           源×2     译×4    
+     Robert Drummond                → 罗伯特·德拉蒙德             源×3     译×4    
+     Mrs. Drummond                  → 德拉蒙德夫人               源×4     译×0     ★译0次(未落位?)
+     Lieutenant Topham              → 托珀姆中尉                源×7     译×0     ★译0次(未落位?)
+     Blacklock                      → 布莱克洛克                源×20    译×17   
+     Captain Phipps                 → 菲普斯上校                源×14    译×0     ★译0次(未落位?)
+     Captain Ashington              → 阿兴顿上校                源×11    译×11   
+     Miss Holland / Eileen Holland  → 霍尔登小姐／艾琳·霍尔登         源×60    译×0     ★译0次(未落位?) 残留「那位女士」×5
+     Mary                           → 玛丽                   源×11    译×11   
+     Richard Craigie, Esq., of Brec → 布雷克庄园主理查德·克雷吉        源×1     译×0     ★译0次(未落位?)
+     Mrs. Craigie                   → 克雷吉夫人                源×16    译×0     ★译0次(未落位?)
+     Mrs. Armitage                  → 阿米蒂奇夫人               源×3     译×0     ★译0次(未落位?)
+     the Windy Isles / Islands      → 温迪群岛（Windy Isles）    源×26    译×0     ★译0次(未落位?)
+     Myredale                       → 迈尔代尔（Myredale）       源×6     译×6    
+     Breck                          → 布雷克（Breck）           源×2     译×3    
+     Trinity                        → 特里尼蒂（Trinity）        源×1     译×1    
+     Edinburgh                      → 爱丁堡                  源×10    译×10   
+     the Forth                      → 福斯湾（the Forth）       源×1     译×2    
+     Fife                           → 法夫                   源×1     译×1    
+     Berwick                        → 伯里克（Berwick）         源×5     译×0     ★译0次(未落位?)
+     Kensington                     → 肯辛顿                  源×2     译×2    
+     Pentland Firth                 → 彭特兰湾（Pentland Firth） 源×1     译×0     ★译0次(未落位?)
+     the German Navy                → 德国海军                 源×6     译×7    
+     the Grand Fleet                → 大舰队（the Grand Fleet） 源×3     译×8    
+     Royal Naval Reserve (RNR)      → 皇家海军后备队（Royal Naval  源×1     译×1    
+     submarine                      → 潜艇                   源×11    译×17   
+     conning tower                  → （潜艇）指挥塔              源×1     译×0     ★译0次(未落位?)
+     Commander                      → 中校                   源×12    译×12   
+     Captain                        → 上校                   源×9     译×6    
+     Lieutenant                     → 中尉                   源×16    译×16   
+     two zigzag stripes             → 两道曲折金线               源×1     译×0     ★译0次(未落位?)
+     laird                          → 领主（laird）            源×11    译×11   
+     manse                          → 牧师寓所（manse）          源×20    译×10    落位偏低 10/20
+     minister                       → 牧师                   源×60    译×82   
+     the Kirk                       → 长老会／国教               源×0     译×0     ★源0次(幽灵?)
+     John Bull                      → 约翰牛                  源×2     译×2    
+     motor-bicycle / motorcycle     → 摩托车                  源×19    译×29   
+     khaki                          → 卡其色军装                源×3     译×0     ★译0次(未落位?)
+     Mons                           → 蒙斯（Mons）             源×1     译×1    
+     threepence                     → 三便士                  源×1     译×1    
+     Lieutenant (Conrad) von Belke  → 冯·贝尔克中尉（教名 Conrad 康拉 源×6     译×3     落位偏低 3/6
+     Herr / Mr. (Adolf) Tiel        → 蒂尔先生／蒂尔（全名 阿道夫·蒂尔）   源×21    译×179  
+     Rev. Alexander Burnett（昵称 Alec → 亚历山大·伯内特牧师／伯内特先生（编者框 源×0     译×66    ★源0次(幽灵?)
+     Eileen Holland / Miss Holland  → 艾琳·霍兰德／霍兰德小姐（家庭教师）   源×0     译×60    ★源0次(幽灵?)
+     Mr. (Dick/Richard) Craigie / M → 克雷格先生／克雷格太太          源×36    译×53   
+     Mr. (Robert) Drummond          → 德拉蒙德先生               源×36    译×34   
+     (John) Taylor                  → （约翰·）泰勒（假名司机）        源×37    译×0     ★译0次(未落位?)
+     Ashington                      → 阿兴顿                  源×23    译×24   
+     Wiedermann                     → 维德曼（中校）              源×22    译×0     ★译0次(未落位?)
+     Captain / Commander (Robin) Bl → 布莱克洛克上校／布莱克洛克中校（名 Ro 源×7     译×10   
+     Captain Phipps                 → 皮普斯上校（海军）            源×0     译×14    ★源0次(幽灵?)
+     Lieutenant / Mr. Topham        → 托帕姆中尉／托帕姆先生（源文两种称呼并存 源×3     译×10   
+     Mrs. Brown／Mrs. Armitage／Mr. W → 布朗太太／阿米蒂奇太太／威尔逊先生    源×0     译×13    ★源0次(幽灵?)
+====================================================================================================

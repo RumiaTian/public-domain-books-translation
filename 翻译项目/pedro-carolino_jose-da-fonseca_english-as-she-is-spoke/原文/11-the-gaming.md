@@ -1,0 +1,11 @@
+# The Gaming
+- Do you like the gaming?
+- At what pack will you that we does play?
+- To the cards.
+- Waiter, give us a card’s game.
+- What is the trump?
+- The club’s king.
+- Play, if you please.
+- The heart’s aces.
+- We do ought.
+- This time I have a great deal pack.

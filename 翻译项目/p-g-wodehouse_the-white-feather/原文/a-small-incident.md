@@ -1,0 +1,52 @@
+## XI A Small Incident
+Failing a gentleman friend, Mr. Bevan was obliged to do what he could by means of local talent. On Sheen’s next visit he was introduced to a burly youth of his own age, very taciturn, and apparently ferocious. He, it seemed, was the knife and boot boy at the “Blue Boar,” “did a bit” with the gloves, and was willing to spar with Sheen provided Mr. Bevan made it all right with the guv’nor; saw, that is so say, that he did not get into trouble for passing in unprofessional frivolity moments which should have been sacred to knives and boots. These terms having been agreed to, he put on the gloves.
+For the first time since he had begun his lessons, Sheen experienced an attack of his old shyness and dislike of hurting other people’s feelings. He could not resist the thought that he had no grudge against the warden of the knives and boots. He hardly liked to hit him.
+The other, however, did not share this prejudice. He rushed at Sheen with such determination, that almost the first warning the latter had that the contest had begun was the collision of the back of his head with the wall. Out in the middle of the room he did better, and was beginning to hold his own, in spite of a rousing thump on his left eye, when Joe Bevan called “Time!” A second round went off in much the same way. His guard was more often in the right place, and his leads less wild. At the conclusion of the round, pressure of business forced his opponent to depart, and Sheen wound up his lesson with a couple of minutes at the punching-ball. On the whole, he was pleased with his first spar with someone who was really doing his best and trying to hurt him. With Joe Bevan and Francis there was always the feeling that they were playing down to him. Joe Bevan’s gentle taps, in particular, were a little humiliating. But with his late opponent all had been serious. It had been a real test, and he had come through it very fairly. On the whole, he had taken more than he had given﻿—his eye would look curious tomorrow﻿—but already he had thought out a way of foiling the burly youth’s rushes. Next time he would really show his true form.
+The morrow, on which Sheen expected his eye to look curious, was the day he had promised to play fives with Mr. Spence. He hoped that at the early hour at which they had arranged to play it would not have reached its worst stage; but when he looked in the glass at a quarter to seven, he beheld a small ridge of purple beneath it. It was not large, nor did it interfere with his sight, but it was very visible. Mr. Spence, however, was a sportsman, and had boxed himself in his time, so there was a chance that nothing would be said.
+It was a raw, drizzly morning. There would probably be few fives-players before breakfast, and the capture of the second court should be easy. So it turned out. Nobody was about when Sheen arrived. He pinned his slip of paper to the door, and, after waiting for a short while for Mr. Spence and finding the process chilly, went for a trot round the gymnasium to pass the time.
+Mr. Spence had not arrived during his absence, but somebody else had. At the door of the second court, gleaming in first-fifteen blazer, sweater, stockings, and honour-cap, stood Attell.
+Sheen looked at Attell, and Attell looked through Sheen.
+It was curious, thought Sheen, that Attell should be standing in the very doorway of court two. It seemed to suggest that he claimed some sort of ownership. On the other hand, there was his, Sheen’s, paper on the.﻿ ﻿… His eye happened to light on the cement flooring in front of the court. There was a crumpled ball of paper there.
+When he had started for his run, there had been no such ball of paper.
+Sheen picked it up and straightened it out. On it was written “R. D. Sheen.”
+He looked up quickly. In addition to the faraway look, Attell’s face now wore a faint smile, as if he had seen something rather funny on the horizon. But he spake no word.
+A curiously calm and contented feeling came upon Sheen. Here was something definite at last. He could do nothing, however much he might resent it, when fellows passed him by as if he did not exist; but when it came to removing his landmark.﻿ ﻿…
+“Would you mind shifting a bit?” he said very politely. “I want to pin my paper on the door again. It seems to have fallen down.”
+Attell’s gaze shifted slowly from the horizon and gradually embraced Sheen.
+“I’ve got this court,” he said.
+“I think not,” said Sheen silkily. “I was here at ten to seven, and there was no paper on the door then. So I put mine up. If you move a little, I’ll put it up again.”
+“Go and find another court, if you want to play,” said Attell, “and if you’ve got anybody to play with,” he added with a sneer. “This is mine.”
+“I think not,” said Sheen.
+Attell resumed his inspection of the horizon.
+“Attell,” said Sheen.
+Attell did not answer.
+Sheen pushed him gently out of the way, and tore down the paper from the door.
+Their eyes met. Attell, after a moment’s pause, came forward, half-menacing, half irresolute; and as he came Sheen hit him under the chin in the manner recommended by Mr. Bevan.
+“When you uppercut,” Mr. Bevan was wont to say, “don’t make it a swing. Just a half-arm jolt’s all you want.”
+It was certainly all Attell wanted. He was more than surprised. He was petrified. The sudden shock of the blow, coming as it did from so unexpected a quarter, deprived him of speech: which was, perhaps, fortunate for him, for what he would have said would hardly have commended itself to Mr. Spence, who came up at this moment.
+“Well, Sheen,” said Mr. Spence, “here you are. I hope I haven’t kept you waiting. What a morning! You’ve got the court, I hope?”
+“Yes, sir,” said Sheen.
+He wondered if the master had seen the little episode which had taken place immediately before his arrival. Then he remembered that it had happened inside the court. It must have been over by the time Mr. Spence had come upon the scene.
+“Are you waiting for somebody, Attell?” asked Mr. Spence. “Stanning? He will be here directly. I passed him on the way.”
+Attell left the court, and they began their game.
+“You’ve hurt your eye, Sheen,” said Mr. Spence, at the end of the first game. “How did that happen?”
+“Boxing, sir,” said Sheen.
+“Oh,” replied Mr. Spence, and to Sheen’s relief he did not pursue his inquiries.
+Attell had wandered out across the gravel to meet Stanning.
+“Got that court?” inquired Stanning.
+“No.”
+“You idiot, why on earth didn’t you? It’s the only court worth playing in. Who’s got it?”
+“Sheen.”
+“Sheen!” Stanning stopped dead. “Do you mean to say you let a fool like Sheen take it from you! Why didn’t you turn him out?”
+“I couldn’t,” said Attell. “I was just going to when Spence came up. He’s playing Sheen this morning. I couldn’t very well bag the court when a master wanted it.”
+“I suppose not,” said Stanning. “What did Sheen say when you told him you wanted the court?”
+This was getting near a phase of the subject which Attell was not eager to discuss.
+“Oh, he didn’t say much,” he said.
+“Did you do anything?” persisted Stanning.
+Attell suddenly remembered having noticed that Sheen was wearing a black eye. This was obviously a thing to be turned to account.
+“I hit him in the eye,” he said. “I’ll bet it’s coloured by school-time.”
+And sure enough, when school-tune arrived, there was Sheen with his face in the condition described, and Stanning hastened to spread abroad this sequel to the story of Sheen’s failings in the town battle. By the end of preparation it had got about the school that Sheen had cheeked Attell, that Attell had hit Sheen, and that Sheen had been afraid to hit him back. At the precise moment when Sheen was in the middle of a warm two-minute round with Francis at the “Blue Boar,” an indignation meeting was being held in the senior day-room at Seymour’s to discuss this latest disgrace to the house.
+“This is getting a bit too thick,” was the general opinion. Moreover, it was universally agreed that something ought to be done. The feeling in the house against Sheen had been stirred to a dangerous pitch by this last episode. Seymour’s thought more of their reputation than any house in the school. For years past the house had led on the cricket and football field and off it. Sometimes other houses would actually win one of the cups, but, when this happened, Seymour’s was always their most dangerous rival. Other houses had their ups and downs, were very good one year and very bad the next; but Seymour’s had always managed to maintain a steady level of excellence. It always had a man or two in the School eleven and fifteen, generally supplied one of the School Racquets pair for Queen’s Club in the Easter vac., and when this did not happen always had one of two of the Gym. Six or Shooting Eight, or a few men who had won scholarships at the ’Varsities. The pride of a house is almost keener than the pride of a school. From the first minute he entered the house a new boy was made to feel that, in coming to Seymour’s, he had accepted a responsibility that his reputation was not his own, but belonged to the house. If he did well, the glory would be Seymour’s glory. If he did badly, he would be sinning against the house.
+This second story about Sheen, therefore, stirred Seymour’s to the extent of giving the house a resemblance to a hornet’s nest into which a stone had been hurled. After school that day the house literally hummed. The noise of the two day-rooms talking it over could be heard in the road outside. The only bar that stood between the outraged Seymourites and Sheen was Drummond. As had happened before, Drummond resolutely refused to allow anything in the shape of an active protest, and no argument would draw him from this unreasonable attitude, though why it was that he had taken it up he himself could not have said. Perhaps it was that rooted hatred a boxer instinctively acquires of anything in the shape of unfair play that influenced him. He revolted against the idea of a whole house banding together against one of its members.
+So even this fresh provocation did not result in any active interference with Sheen; but it was decided that he must be cut even more thoroughly than before.
+And about the time when this was resolved, Sheen was receiving the congratulations of Francis on having positively landed a blow upon him. It was an event which marked an epoch in his career.

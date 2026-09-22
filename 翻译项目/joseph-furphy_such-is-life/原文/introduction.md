@@ -1,0 +1,3 @@
+## Introduction
+Contrary to usage, these memoirs are published, not “in compliance with the entreaties of friends” but in direct opposition thereto. It has been pointed out to me that the prizes of civilisation﻿—Municipal dignity, Churchwardenship, the Honorary Bench, and so forth﻿—do not wait upon avowed comradeship with people who can by no management of hyperbole be called respectable. But there is a grim, fakir-like pleasure in any renunciation of desirable things, when the line of least resistance leads in a contrary direction; and, in my own case, the impulse of reminiscence, fatally governed by an inveterate truthfulness, is wayward enough to overbear all hope of local pre-eminence, as well as all sense of literary propriety. Hence these pages.
+Tom Collins

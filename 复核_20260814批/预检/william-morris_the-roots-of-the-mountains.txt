@@ -1,0 +1,125 @@
+====================================================================================================
+### william-morris_the-roots-of-the-mountains  (60 files)
+  块: O=709 C=709 OK | 段: EN=2682 CN=2678 !!差 4
+     [不对称] the-men-of-burgdale-meet-the-runaways.md             O=22 C=22 段EN=55 段CN=51
+  英文残留(剔括注) top: 无
+  项目说明备注: 见术语表.md。
+  -- 术语表硬约束行 117 条:
+     Face-of-god                    → 面神                   源×499   译×515   残留「面神之宅」×47
+     Stone-face                     → 石面                   源×97    译×100  
+     Folk-might                     → 民强                   源×243   译×247  
+     the Bride                      → 新娘                   源×142   译×153  
+     Iron-face                      → 铁面                   源×82    译×84   
+     Hall-face                      → 厅面                   源×77    译×76   
+     Hall-ward                      → 厅卫                   源×24    译×23   
+     the Jewel                      → 珠玉                   源×2     译×2    
+     Gold-mane                      → 金鬃                   源×180   译×181  
+     Rafe                           → 雷夫                   源×2     译×2    
+     Dallach                        → 达拉赫                  源×79    译×80   
+     Crow                           → 克劳                   源×11    译×10    残留「疾箭者」×3
+     Sun-beam                       → 日光                   源×146   译×169  
+     the Dusky Men                  → 黝暗人                  源×115   译×141  
+     the Dalesmen                   → 谷民                   源×60    译×79   
+     the Woodland-Carles            → 林中汉子                 源×6     译×54   
+     the Shepherd-Folk              → 牧羊之民                 源×12    译×65   
+     Burgstead                      → 堡镇                   源×83    译×90   
+     Burgdale                       → 堡谷                   源×117   译×185  
+     Shadowy Vale                   → 幽谷                   源×87    译×91   
+     Silverdale                     → 银谷                   源×136   译×137  
+     Rosedale                       → 玫瑰谷                  源×76    译×76   
+     the Weltering Water            → 翻滚河                  源×24    译×24   
+     the Death-Tarn                 → 死潭                   源×1     译×2    
+     the Wildlake                   → 野湖溪                  源×3     译×7    
+     Wildlake's Way                 → 野湖径                  源×19    译×19   
+     the Portway                    → 港路                   源×29    译×29   
+     Carlstead                      → 汉子镇                  源×16    译×16   
+     Greenbury                      → 绿堡                   源×12    译×12   
+     the Motestead                  → 议事坪                  源×15    译×16   
+     the House of the Face          → 面神之宅                 源×49    译×47   
+     the Doom-ring                  → 判决环                  源×16    译×21   
+     the Speech-mound               → 议事土台                 源×1     译×2    
+     the God of the Earth           → 地神                   源×8     译×21   
+     the Alderman                   → 长老                   源×130   译×177  
+     the Wardens                    → 守事                   源×7     译×15   
+     the Folk-mote                  → 民众大会                 源×27    译×48   
+     runes                          → 卢恩文字                 源×2     译×2    
+     Yuletide                       → 岁末冬至节                源×6     译×9    
+     Midwinter                      → 仲冬                   源×3     译×3    
+     blood-wite(s)                  → 血金                   源×9     译×9    
+     furlong                        → 浪                    源×5     译×23   
+     neat                           → 牛（牲畜）                源×10    译×81   
+     thrall(s)                      → 奴隶                   源×102   译×74   
+     theft-wite                     → 盗金                   源×1     译×1    
+     spring-tide                    → 春时                   源×7     译×2     落位偏低 2/7
+     spring market-tide             → 春市之时                 源×1     译×1    
+     long hundreds                  → 长百                   源×8     译×12   
+     speech-friend                  → 言友                   源×7     译×5    
+     War-leader                     → 战首                   源×79    译×73   
+     burg（通名）                       → 山堡                   源×58    译×12    落位偏低 12/58
+     Dale-warden                    → 谷卫                   源×19    译×29   
+     the Friend                     → 朋友                   源×29    译×145  
+     Bow-may                        → 弓娥                   源×157   译×130  
+     Wood-father                    → 林父                   源×18    译×19   
+     Wood-mother                    → 林母                   源×7     译×7    
+     Wood-wise                      → 林智                   源×55    译×54   
+     Wood-wont                      → 林习                   源×11    译×12   
+     Wood-grey                      → 林灰                   源×13    译×11   
+     Spear-god                      → 枪神                   源×1     译×1    
+     Stone-wolf                     → 石狼                   源×3     译×3    
+     Red-coat                       → 红衣                   源×11    译×14   
+     the Sons of the Wolf           → 狼之子                  源×5     译×9    
+     the Children of the Wolf       → 狼之子民                 源×10    译×7    
+     the Folk of the Wolf           → 狼之民                  源×3     译×6    
+     the Kindred of the Wolf        → 狼之宗族                 源×4     译×1     落位偏低 1/4
+     the Jaws of the Wolf           → 狼之颚                  源×3     译×3    
+     the Red Hand                   → 赤手                   源×5     译×5    
+     the Silver Arm                 → 银臂                   源×8     译×9    
+     the Golden Bushel              → 金斗                   源×6     译×5    
+     the Ragged Sword               → 残锋剑                  源×6     译×3     落位偏低 3/6
+     the Ring of the Sons of the Wo → 狼之子之环                源×1     译×1    
+     the Red-mouthed Wolf           → 赤口狼                  源×1     译×1    
+     the Sun-burst                  → 旭日旗                  源×4     译×1     落位偏低 1/4
+     the Felons                     → 恶徒                   源×25    译×90   
+     Westland men                   → 西地人                  源×2     译×1    
+     the Wildwood                   → 野林                   源×29    译×24   
+     the Shivering Flood            → 战栗川                  源×15    译×15   
+     the Great Waste                → 大荒原                  源×0     译×8     ★源0次(幽灵?)
+     the Plain / the Cities (of the → 平原 / 平原诸城            源×52    译×33   
+     the Westland                   → 西土                   源×17    译×18   
+     Mountains of the World         → 世界之山                 源×1     译×2    
+     the Burg of the Runaways       → 逃奴堡                  源×5     译×3    
+     Boars-bait                     → 野猪饵                  源×3     译×3    
+     the God of the Face            → 面之神                  源×6     译×8    
+     the Warrior                    → 武神                   源×45    译×14    落位偏低 14/45
+     the sign of the Hammer         → 锤符                   源×2     译×2    
+     the Boar                       → 圣猪                   源×34    译×10    落位偏低 10/34
+     the Great Undoing              → 大倾覆                  源×3     译×5    
+     the Wights of the Waste        → 荒原之灵                 源×1     译×2    
+     the Sorrow of the Earth        → 世间苦难                 源×1     译×0     ★译0次(未落位?)
+     Silverstead                    → 银镇                   源×17    译×17   
+     Wood-dale                      → 林谷                   源×2     译×2    
+     the Crooked Sword / crookblade → 弯剑                   源×5     译×5    
+     Weapon-show                    → 武器大阅                 源×11    译×7    
+     the Mote-house                 → 议事堂                  源×14    译×12   
+     the Bridge of the Burg / the B → 堡桥 / 堡门              源×2     译×18   
+     the Upper Dale / the Lower Dal → 上谷 / 下谷              源×15    译×18   
+     Redesman                       → 雷德斯曼                 源×12    译×12   
+     Regulus                        → 雷古拉斯                 源×1     译×1    
+     the Holy Play / the Holy Heart → 圣剧 / 圣灶              源×6     译×6    
+     the Maiden of Spring           → 春之少女                 源×1     译×1    
+     fosterer                       → 养父                   源×4     译×4    
+     hundred-leaders / leaders of s → 百长 / 廿长 / 十长         源×5     译×20   
+     murder-carles                  → 凶徒                   源×11    译×9    
+     the Steer                      → 犍牛族                  源×57    译×30    落位偏低 30/57
+     the Bridge                     → 桥族                   源×32    译×17    落位偏低 17/32
+     the Bull                       → 公牛族                  源×17    译×14   
+     the Vine                       → 葡藤族                  源×13    译×9    
+     the Sickle                     → 镰族                   源×18    译×13   
+     the Face                       → 面族                   源×100   译×25    落位偏低 25/100
+     Gold-ring                      → 金环                   源×8     译×14   
+     Bears-bane                     → 熊厄                   源×4     译×4    
+     the Pinewood                   → 松林                   源×11    译×14   
+     tallies                        → 符木                   源×1     译×1    
+     grey goose                     → 灰雁羽箭                 源×1     译×2    
+     blackthorn                     → 黑刺李                  源×7     译×7    
+

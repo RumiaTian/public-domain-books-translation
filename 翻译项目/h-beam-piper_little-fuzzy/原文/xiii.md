@@ -1,0 +1,41 @@
+## XIII
+The management of the Hotel Mallory appeared to have undergone a change of heart, or of policy, toward Fuzzies. It might have been Gus Brannhard’s threats of action for racial discrimination and the possibility that the Fuzzies might turn out to be a race instead of an animal species after all. The manager might have been shamed by the way the Lurkin story had crumbled into discredit, and influenced by the revived public sympathy for the Fuzzies. Or maybe he just decided that the chartered Zarathustra Company wasn’t as omnipotent as he’d believed. At any rate, a large room, usually used for banquets, was made available for the Fuzzies George Lunt and Ben Rainsford were bringing in for the trial, and the four strangers and their black-and-white kitten were installed there. There were a lot of toys of different sorts, courtesy of the management, and a big view screen. The four strange Fuzzies dashed for this immediately and turned it on, yeeking in delight as they watched landing craft coming down and lifting out at the municipal spaceport. They found it very interesting. It only bored the kitten.
+With some misgivings, Jack brought Baby down and introduced him. They were delighted with Baby, and Baby thought the kitten was the most wonderful thing he had ever seen. When it was time to feed them, Jack had his own dinner brought in, and ate with them. Gus and Gerd came down and joined him later.
+“We got the Lurkin kid and her father,” Gus said, and then falsettoed: “ ‘Naw, Pop gimme a beatin’, and the cops told me to say it was the Fuzzies.’ ”
+“She say that?”
+“Under veridication, with the screen blue as a sapphire, in front of half a dozen witnesses and with audiovisuals on. Interworld’s putting it on the air this evening. Her father admitted it, too; named Woller and the desk sergeant. We’re still looking for them; till we get them, we aren’t any closer to Emmert or Grego. We did pick up the two car cops, but they don’t know anything on anybody but Woller.”
+That was good enough, as far as it went, Brannhard thought, but it didn’t go far enough. There were those four strange Fuzzies showing up out of nowhere, right in the middle of Nick Emmert’s drive-hunt. They’d been kept somewhere by somebody﻿—that was how they’d learned to eat Extee Three and found out about viewscreens. Their appearance was too well synchronized to be accidental. The whole thing smelled to him of a booby trap.
+One good thing had happened. Judge Pendarvis had decided that it would be next to impossible, in view of the widespread public interest in the case and the influence of the Zarathustra Company, to get an impartial jury, and had proposed a judicial trial by a panel of three judges, himself one of them. Even Leslie Coombes had felt forced to agree to that.
+He told Jack about the decision. Jack listened with apparent attentiveness, and then said:
+“You know, Gus, I’ll always be glad I let Little Fuzzy smoke my pipe when he wanted to, that night out at camp.”
+The way he was feeling, he wouldn’t have cared less if the case was going to be tried by a panel of three zaragoats.
+Ben Rainsford, his two Fuzzies, and George Lunt, Ahmed Khadra and the other constabulary witnesses and their family, arrived shortly before noon on Saturday. The Fuzzies were quartered in the stripped-out banquet room, and quickly made friends with the four already there, and with Baby. Each family bedded down apart, but they ate together and played with each others’ toys and sat in a clump to watch the viewscreen. At first, the Ferny Creek family showed jealousy when too much attention was paid to their kitten, until they decided that nobody was trying to steal it.
+It would have been a lot of fun, eleven Fuzzies and a Baby Fuzzy and a black-and-white kitten, if Jack hadn’t kept seeing his own family, six quiet little ghosts watching but unable to join the frolicking.
+---
+Max Fane brightened when he saw who was on his screen.
+“Well, Colonel Ferguson, glad to see you.”
+“Marshal,” Ferguson was smiling broadly. “You’ll be even gladder in a minute. A couple of my men, from Post Eight, picked up Woller and that desk sergeant, Fuentes.”
+“Ha!” He started feeling warm inside, as though he had just downed a slug of Baldur honey-rum. “How?”
+“Well, you know Nick Emmert has a hunting lodge down there. Post Eight keeps an eye on it for him. This afternoon, one of Lieutenant Obefemi’s cars was passing over it, and they picked up some radiation and infrared on their detectors, as though the power was on inside. When they went down to investigate, they found Woller and Fuentes making themselves at home. They brought them in, and both of them admitted under veridication that Emmert had given them the keys and sent them down there to hide out till after the trial.
+“They denied that Emmert had originated the frameup. That had been one of Woller’s own flashes of genius, but Emmert knew what the score was and went right along with it. They’re being brought up here the first thing tomorrow morning.”
+“Well, that’s swell, Colonel! Has it gotten out to the news services yet?”
+“No. We would like to have them both questioned here in Mallorysport, and their confessions recorded, before we let the story out. Otherwise, somebody might try to take steps to shut them up for good.”
+That had been what he had been thinking of. He said so, and Ferguson nodded. Then he hesitated for a moment, and said:
+“Max, do you like the situation here in Mallorysport? Be damned if I do.”
+“What do you mean?”
+“There are too many strangers in town,” Ian Ferguson said. “All the same kind of strangers﻿—husky-looking young men, twenty to thirty, going around in pairs and small groups. I’ve been noticing it since day before last, and there seem to be more of them every time I look around.”
+“Well, Ian, it’s a young man’s planet, and we can expect a big crowd in town for the trial﻿ ﻿…”
+He didn’t really believe that. He just wanted Ian Ferguson to put a name on it first. Ferguson shook his head.
+“No, Max. This isn’t a trial-day crowd. We both know what they’re like; remember when they tried the Gawn brothers? No whooping it up in bars, no excitement, no big crap games; this crowd’s just walking around, keeping quiet, as though they expected a word from somebody.”
+“Infiltration.” Goddamit, he’d said it first, himself after all! “Victor Grego’s worried about this.”
+“I know it, Max. And Victor Grego’s like a veldbeest bull; he isn’t dangerous till he’s scared, and then watch out. And against the gang that’s moving in here, the men you and I have together would last about as long as a pint of trade-gin at a Sheshan funeral.”
+“You thinking of pushing the panic-button?”
+The constabulary commander frowned. “I don’t want to. A dim view would be taken back on Terra if I did it without needing to. Dimmer view would be taken of needing to without doing it, though. I’ll make another check, first.”
+---
+Gerd van Riebeek sorted the papers on the desk into piles, lit a cigarette and then started to mix himself a highball.
+“Fuzzies are members of a sapient race,” he declared. “They reason logically, both deductively and inductively. They learn by experiment, analysis and association. They formulate general principles, and apply them to specific instances. They plan their activities in advance. They make designed artifacts, and artifacts to make artifacts. They are able to symbolize, and convey ideas in symbolic form, and form symbols by abstracting from objects.
+“They have aesthetic sense and creativity,” he continued. “They become bored in idleness, and they enjoy solving problems for the pleasure of solving them. They bury their dead ceremoniously, and bury artifacts with them.”
+He blew a smoke ring, and then tasted his drink. “They do all these things, and they also do carpenter work, blow police whistles, make eating tools to eat land-prawns with and put molecule-model balls together. Obviously they are sapient beings. But don’t please don’t ask me to define sapience, because God damn it to Nifflheim, I still can’t!”
+“I think you just did,” Jack said.
+“No, that won’t do. I need a definition.”
+“Don’t worry, Gerd,” Gus Brannhard told him. “Leslie Coombes will bring a nice shiny new definition into court. We’ll just use that.”

@@ -1,0 +1,85 @@
+ (13 files)
+  块: O=56 C=56 OK | 段: EN=196 CN=201 !!差 -5
+     [不对称] 11-the-third-form-of-contemplation.md                O=6 C=6 段EN=22 段CN=27
+  英文残留(剔括注) top: night×3, that×2, of×2, Lover×2, didst×1, lead×1, thus×1, more×1, lovely×1, than×1
+  项目说明备注: 见术语表.md。 /  / **章节文件命名说明**：原 epub 章节为「文字标题式」文件名（无序号），按文件名排序会错乱阅读顺序。已按 spine 阅读顺序统一加两位数字前缀：`00-`献词、`01-`前言、`02-`题词（布莱克语）、`03-`～`12-`正文十章（依次为何谓神秘主义、实在世界、神秘主义者的准备、默想与收敛心神、自我调适、爱与意志、默观的第一/第二/第三种形式、神秘主义的人生）。前缀即阅读顺序，前缀后原名保留可读性。 /  / **翻译重点**： / - 核心术语对照表内定译全书统一，尤其 meditation=默想 与 contemplation=默观 二词形近义近，绝不可混用；recollection 作术语时译「收敛心神」。 / - Reality/World of Reality 与 World of Becoming 是全书骨架对举，分别统一译「实在/实在世界」与「生成世界」，不与「真实/现实」混译（daily life、practical 等语境的 reality 才作「现实」）。 / - 书中反复出现的拟想对话者 the practical man 
+  -- 术语表硬约束行 78 条:
+     mysticism                      → 神秘主义                 源×15    译×29   
+     practical mysticism            → 实用神秘主义               源×3     译×1     落位偏低 1/3
+     the mystic / mystics           → 神秘主义者                源×65    译×66   
+     Reality                        → 实在                   源×88    译×131  
+     the World of Reality           → 实在世界                 源×3     译×4     残留「生成世界」×6
+     the World of Becoming          → 生成世界                 源×5     译×6    
+     union with Reality             → 与实在合一                源×13    译×13   
+     meditation                     → 默想                   源×13    译×18    残留「中途客栈」×1
+     recollection / Recollection    → 收敛心神（收心）             源×23    译×22   
+     contemplation                  → 默观                   源×51    译×74   
+     ordinary contemplation         → 寻常默观                 源×1     译×1     残留「专家们所谓」×1
+     the first/second/third form of → 默观的第一/第二/第三种形式       源×37    译×14    落位偏低 14/37
+     self-adjustment                → 自我调适                 源×1     译×1    
+     the Absolute                   → 绝对者                  源×4     译×3    
+     Absolute Reality / Eternal Rea → 绝对实在 / 永恒实在 / 神性实在   源×5     译×5    
+     Divine Essence                 → 神性本体                 源×3     译×3    
+     the Whole                      → 整体                   源×26    译×31   
+     Eternal Wisdom                 → 永恒智慧                 源×1     译×1    
+     Eternal Order                  → 永恒秩序                 源×4     译×3    
+     Transcendent Love              → 超越之爱                 源×1     译×1    
+     the Transcendent               → 超越者                  源×7     译×5    
+     Spiritual World                → 灵性世界                 源×7     译×8    
+     Universal Life                 → 宇宙生命                 源×3     译×3    
+     spiritual senses               → 灵性感官                 源×1     译×2    
+     the Eye of Eternity            → 永恒之眼                 源×1     译×1    
+     Science of Love                → 爱的科学                 源×2     译×2    
+     transforming union             → 转化合一                 源×1     译×1    
+     deification                    → 神化                   源×1     译×1    
+     purgation                      → 净化                   源×3     译×17   
+     the practical man              → 讲求实际的人               源×13    译×19   
+     single vision                  → 单一视觉                 源×5     译×5    
+     the doors of perception        → 知觉之门                 源×4     译×6    
+     the Real Presence              → 真在                   源×1     译×1    
+     sacramental                    → 圣事性的                 源×2     译×1    
+     incarnation / the Incarnation  → 道成肉身                 源×1     译×1    
+     the Inner Light                → 内光                   源×1     译×2    
+     the World of Appearance        → 表象世界                 源×3     译×3    
+     "in tune with the infinite"    → 「与无限合拍」              源×0     译×1     ★源0次(幽灵?)
+     the mango trick                → 芒果戏法                 源×2     译×2    
+     contemplative consciousness    → 默观意识                 源×8     译×8    
+     recollective act               → 收敛心神的行动              源×1     译×2    
+     the True Self                  → 真我                   源×1     译×2    
+     That art thou                  → 「汝即彼」                源×1     译×0     ★译0次(未落位?)
+     the Shepherd                   → 牧者                   源×3     译×3    
+     The Cloud of Unknowing         → 《未知之云》               源×7     译×6    
+     Eyes and No-Eyes               → 《有眼与无眼》              源×1     译×1    
+     "There lives the dearest fresh → 「万物深处始终住着最珍贵的清新」     源×0     译×1     ★源0次(幽灵?)
+     Adoro te devote, latens Deitas → 拉丁文保留 + 括注「我虔敬朝拜你，隐匿 源×1     译×0     ★译0次(未落位?)
+     "For Heaven ghostly…"          → 参《未知之云》中译回译，保留古雅     源×0     译×0     ★源0次(幽灵?)
+     Evelyn Underhill               → 伊夫琳·恩德希尔             源×0     译×0     ★源0次(幽灵?)
+     St. Teresa (of Avila)          → 圣德兰（阿维拉的圣德兰／大德兰）     源×4     译×5    
+     St. John of the Cross          → 十字若望                 源×4     译×5    
+     Ruysbroeck                     → 吕斯布鲁克                源×7     译×7    
+     Julian of Norwich              → 诺里奇的朱利安              源×2     译×2    
+     Plotinus                       → 普罗提诺                 源×4     译×5    
+     St. Augustine                  → 奥古斯丁                 源×2     译×4    
+     Blake / William Blake          → 布莱克                  源×8     译×8     残留「单一视觉」×5
+     Walt Whitman                   → 惠特曼                  源×3     译×6    
+     Keats                          → 济慈                   源×5     译×6    
+     Wordsworth                     → 华兹华斯                 源×2     译×2    
+     Vaughan                        → 沃恩                   源×1     译×1    
+     Dante                          → 但丁                   源×2     译×2    
+     Thomas Aquinas / St. Thomas    → 托马斯·阿奎那              源×4     译×3    
+     St. Paul / Paul                → 保罗                   源×1     译×1    
+     Joan of Arc                    → 圣女贞德                 源×3     译×3    
+     Florence Nightingale           → 弗洛伦斯·南丁格尔            源×3     译×3    
+     General Gordon                 → 戈登将军                 源×1     译×1    
+     St. Francis of Assisi          → 阿西西的圣方济各             源×1     译×1    
+     St. Catherine of Siena         → 锡耶纳的圣加大利纳            源×1     译×1    
+     George Fox                     → 乔治·福克斯               源×1     译×1    
+     Octavia Hill                   → 奥克塔维娅·希尔             源×1     译×1    
+     the Victorine mystics          → 圣维克多会神秘主义者           源×1     译×1    
+     Sufi                           → 苏菲（派）                源×1     译×1    
+     Quakers / Friends              → 贵格会 / 公谊会            源×2     译×0     ★译0次(未落位?)
+     Assisi                         → 阿西西                  源×0     译×0     ★源0次(幽灵?)
+     Siena                          → 锡耶纳                  源×0     译×0     ★源0次(幽灵?)
+     Norwich                        → 诺里奇                  源×0     译×0     ★源0次(幽灵?)
+     Avila                          → 阿维拉                  源×0     译×0     ★源0次(幽灵?)
+====================================================================================================

@@ -1,0 +1,7 @@
+## Prologue / 开场诗
+
+===Original===
+Fortune, that favours fools, these two short hours, We wish away, both for your sakes and ours, Judging spectators; and desire, in place, To the author justice, to ourselves but grace. Our scene is London, ’cause we would make known, No country’s mirth is better than our own: No clime breeds better matter for your whore, Bawd, squire, impostor, many persons more, Whose manners, now called humours, feed the stage; And which have still been subject for the rage Or spleen of comic writers. Though this pen Did never aim to grieve, but better men; Howe’er the age he lives in doth endure The vices that she breeds, above their cure. But when the wholesome remedies are sweet, And in their working gain and profit meet, He hopes to find no spirit so much diseased, But will with such fair correctives be pleased: For here he doth not fear who can apply. If there be any that will sit so nigh Unto the stream, to look what it doth run, They shall find things, they’d think or wish were done; They are so natural follies, but so shown, As even the doers may see, and yet not own.
+
+===Chinese===
+福耳图那偏爱愚人；这短短两小时，我们既为您、也为我们自己，愿把她打发走，明察的看客们；我们在此但求：还作者以公道，给我们自己只求开恩。我们的场景是伦敦，因为我们要叫人知道：没有哪国的欢乐胜过本国；没有哪方水土，能滋养出更好的素材，供您的娼妓、鸨母、纨绔、骗子，以及更多的各色人等之用——他们的风习，如今唤作「癖性」（humours），正是戏台的食粮；也向来是喜剧作家怒火与脾囊施展的对象。虽然这支笔从无意刺伤，要伤也只伤更坏的人；然而无论他身处的时代，如何纵容它自己生养、且已病入膏肓的种种恶习。但既然祛病的药剂甘甜，服下去又见效又得利，他希望世上找不到一个病得那样重的灵魂，竟会不欢喜这样体面的矫正之药：因为在此他不怕有谁真能对号入座。倘有人偏要坐得离这溪流那样近，看它究竟流淌些什么，他们自会看见一些自己想过或盼过的事；这些全是天生的蠢行，只是如此搬演出来，连行事者本人都看得见，却认不出是自家。

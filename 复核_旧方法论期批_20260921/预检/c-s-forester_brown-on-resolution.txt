@@ -1,0 +1,221 @@
+ (21 files)
+  块: O=176 C=176 OK | 段: EN=421 CN=421 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: - 章节标题为罗马数字，译文标题按通用翻译引擎规则合并为「## I / 一」格式（罗马数字照搬不译）。 / - 舰船名在原文为斜体专名，译文沿用术语表译法，首次出现附原文。 / - 全书为第三人称过去时战争小说，语气克制带反讽（尤其涉及海军体制的议论段），翻译时保持这种冷静叙事实质。
+  -- 术语表硬约束行 215 条:
+     Albert Brown / Leading Seaman  → 阿尔伯特·布朗              源×16    译×16    残留「一级水兵」×10
+     Agatha Brown / Agatha          → 阿加莎·布朗 / 阿加莎         源×203   译×202  
+     Captain Saville-Samarez / R. E → 萨维尔-萨马雷斯舰长           源×20    译×17    残留「海军上尉」×7 残留「上校」×2
+     Captain von Lutz               → 冯·卢茨舰长               源×25    译×31   
+     Mr. Gold                       → 戈尔德先生                源×41    译×40   
+     Mrs. Rodgers                   → 罗杰斯太太                源×26    译×28   
+     Mr. Deane                      → 迪恩先生                 源×14    译×14   
+     Doctor Walters                 → 沃尔特斯医生               源×7     译×7    
+     Herr Schmidt                   → 施密特先生                源×10    译×10   
+     Sturdee                        → 斯特迪                  源×4     译×4    
+     von Spee                       → 冯·施佩                 源×44    译×44   
+     Muller                         → 穆勒                   源×5     译×5    
+     Nelson                         → 纳尔逊                  源×7     译×7    
+     Frau Schmidt                   → 施密特太太                源×1     译×1    
+     Admiral Cradock                → 克拉多克海军上将             源×1     译×0     ★译0次(未落位?)
+     Fisher                         → 费希尔                  源×2     译×3    
+     Schulz                         → 舒尔茨                  源×1     译×1    
+     Morgan                         → 摩根                   源×1     译×1    
+     Seaman Muller                  → 水兵穆勒                 源×3     译×3    
+     Ginger Harris                  → 金吉·哈里斯               源×4     译×3    
+     Gunnery Commander              → 枪炮长                  源×5     译×5    
+     Drake                          → 德雷克                  源×3     译×3    
+     Howe                           → 豪                    源×1     译×2     残留「六月一日海战」×1
+     Mahan                          → 马汉                   源×1     译×1    
+     Adeline Burton / the Burtons   → 阿德琳·伯顿 / 伯顿一家        源×4     译×3    
+     Will Brown                     → 威尔（·布朗）              源×2     译×14   
+     Harry Brown                    → 哈里（·布朗）              源×0     译×9     ★源0次(幽灵?)
+     George Brown                   → 乔治（·布朗）              源×0     译×8     ★源0次(幽灵?)
+     Evans                          → 埃文斯（小埃文斯）            源×3     译×3    
+     Miss Farrow                    → 法罗小姐                 源×1     译×1    
+     Mrs. Beeton                    → 比顿太太                 源×1     译×1    
+     Dickie / Sammy                 → 迪基 / 萨米              源×5     译×5    
+     Aggie                          → 阿琪                   源×2     译×2    
+     Captain Holt                   → 霍尔特舰长                源×1     译×1     残留「卡律布狄斯号」×57
+     Lieutenant Stunner             → 斯通纳上尉                源×1     译×1    
+     Maschinistmaat Zimmer          → 轮机军士齐默尔              源×0     译×0     ★源0次(幽灵?)
+     Mr. Dickens (the vicar)        → 迪更斯牧师                源×1     译×1    
+     Lord Charles (Beresford)       → 查尔斯勋爵                源×1     译×1    
+     Sir John (Fisher)              → 约翰爵士                 源×1     译×1    
+     Blake                          → 布莱克                  源×1     译×1    
+     Woodes Rogers                  → 伍兹·罗杰斯               源×0     译×1     ★源0次(幽灵?)
+     Dampier                        → 丹皮尔                  源×1     译×1    
+     Anson                          → 安森                   源×1     译×1    
+     Hermann Melville               → 赫尔曼·梅尔维尔             源×1     译×1    
+     Charles Darwin                 → 查尔斯·达尔文              源×1     译×1    
+     *Ziethen*                      → 「齐滕号」                源×165   译×90    落位偏低 90/165
+     *Charybdis*                    → 「卡律布狄斯号」             源×58    译×53   
+     *Leopard*                      → 「利奥帕德号」              源×35    译×0     ★译0次(未落位?)
+     *Penzance*                     → 「彭赞斯号」               源×34    译×0     ★译0次(未落位?)
+     *Emden*                        → 「埃姆登号」               源×9     译×5     落位偏低 5/9
+     *Sydney*                       → 「悉尼号」                源×1     译×0     ★译0次(未落位?)
+     *Scharnhorst*                  → 「沙恩霍斯特号」             源×8     译×4     落位偏低 4/8
+     *Lion*                         → 「狮号」                 源×2     译×0     ★译0次(未落位?)
+     *Invincible*                   → 「无敌号」                源×1     译×0     ★译0次(未落位?)
+     *Inflexible*                   → 「不屈号」                源×1     译×0     ★译0次(未落位?)
+     *Gneisenau*                    → 「格奈森瑙号」              源×6     译×4    
+     *Dresden*                      → 「德累斯顿号」              源×2     译×1    
+     *Good Hope*                    → 「好望号」                源×2     译×1    
+     *Monmouth*                     → 「蒙茅斯号」               源×2     译×1    
+     *Defence*                      → 「防卫号」                源×2     译×0     ★译0次(未落位?)
+     *Black Prince*                 → 「黑太子号」               源×1     译×0     ★译0次(未落位?)
+     *Cressy* / *Hogue* / *Aboukir* → 「克雷西号」/「霍格号」/「阿布基尔号」 源×3     译×0     ★译0次(未落位?)
+     *Mainz*                        → 「美因茨号」               源×1     译×0     ★译0次(未落位?)
+     *Britannia*                    → 「不列颠尼亚号」             源×5     译×4    
+     H.M. Training Ship *Ganges*    → 「恒河号」                源×1     译×1    
+     H.M.S. *Beagle*                → 「贝格尔号」               源×1     译×1    
+     *Bulwark*                      → 「布尔沃克号」              源×1     译×1    
+     *Dreadnought*（具体舰名）            → 「无畏号」                源×4     译×1     落位偏低 1/4 残留「无畏舰」×4
+     Resolution                     → 雷索卢申岛                源×44    译×13    落位偏低 13/44
+     Galapagos Archipelago          → 加拉帕戈斯群岛              源×4     译×6    
+     Ealing                         → 伊灵                   源×11    译×12   
+     Putney                         → 帕特尼                  源×0     译×0     ★源0次(幽灵?)
+     Tsing-tao                      → 青岛                   源×3     译×3    
+     Coronel                        → 科罗内尔（海战）             源×7     译×7    
+     Jutland                        → 日德兰（海战）              源×1     译×1    
+     Panama                         → 巴拿马                  源×14    译×15   
+     Shetlands                      → 设得兰群岛                源×1     译×1    
+     Pacific                        → 太平洋                  源×37    译×38   
+     the Navy                       → 海军                   源×29    译×91    残留「英国海军」×7
+     the Admiralty                  → 海军部                  源×4     译×10   
+     Royal Naval College, Greenwich → 格林尼治皇家海军学院           源×1     译×1    
+     Guayaquil                      → 瓜亚基尔                 源×1     译×1    
+     Callao                         → 卡亚俄                  源×3     译×3    
+     Valparaiso                     → 瓦尔帕莱索                源×3     译×3    
+     Gatun (lock)                   → 加通（船闸）               源×4     译×4    
+     the Cut (Culebra Cut)          → 库莱布拉水道               源×2     译×1    
+     Miraflores (lock)              → 米拉弗洛雷斯（船闸）           源×1     译×1    
+     Old Panama                     → 老巴拿马城                源×1     译×0     ★译0次(未落位?)
+     Bay of Panama                  → 巴拿马湾                 源×1     译×1    
+     the Horn                       → 合恩角                  源×4     译×3    
+     the Falklands                  → 福克兰群岛                源×4     译×2     落位偏低 2/4
+     West Indies                    → 西印度群岛                源×4     译×4    
+     Caribbean                      → 加勒比海                 源×1     译×1    
+     the Gulf                       → 墨西哥湾                 源×1     译×1    
+     Heligoland Bight               → 黑尔戈兰湾                源×1     译×1    
+     Scapa (Flow)                   → 斯卡帕湾                 源×2     译×2    
+     Indian Ocean                   → 印度洋                  源×4     译×4    
+     New Zealand                    → 新西兰                  源×3     译×3    
+     Whitehall                      → 白厅                   源×2     译×2    
+     Lewisham                       → 刘易舍姆                 源×1     译×1    
+     Woolwich                       → 伍利奇                  源×2     译×2    
+     Deptford                       → 德普特福德                源×3     译×3    
+     Blackheath                     → 布莱克希思                源×1     译×1    
+     Greenwich Park                 → 格林尼治公园               源×1     译×1    
+     Peckham                        → 佩克汉姆                 源×4     译×4    
+     Colchester Street / Road       → 科尔切斯特街／路             源×19    译×84   
+     Beaconsfield Terrace           → 比肯斯菲尔德台              源×2     译×2    
+     Salisbury Road                 → 索尔兹伯里路               源×1     译×1    
+     Ealing Broadway                → 伊灵百老汇                源×1     译×1    
+     Charing Cross                  → 查令十字                 源×6     译×6    
+     London Bridge                  → 伦敦桥                  源×2     译×2    
+     Waterloo Junction              → 滑铁卢联轨站               源×1     译×1    
+     the Strand                     → 河岸街                  源×2     译×2    
+     Chandos Street                 → 钱多斯街                 源×1     译×1    
+     Edinburgh                      → 爱丁堡                  源×1     译×1    
+     Cronstadt                      → 喀琅施塔得                源×1     译×1    
+     Lagos / Quiberon / Trafalgar   → 拉各斯／基伯龙／特拉法尔加        源×4     译×4    
+     South Africa / pro-Boer        → 南非／亲布尔派              源×7     译×7    
+     Shotley Barracks               → 肖特利兵营                源×2     译×2    
+     Singapore                      → 新加坡                  源×2     译×2    
+     Camberwell Green               → 坎伯韦尔格林               源×2     译×2    
+     Blackfriars                    → 黑衣修士                 源×2     译×2    
+     Portsmouth                     → 朴次茅斯                 源×1     译×1    
+     the City                       → 伦敦城                  源×2     译×5    
+     China Sea                      → 中国海                  源×1     译×1    
+     Carolines                      → 加罗林群岛                源×4     译×1     落位偏低 1/4
+     Marshalls                      → 马绍尔群岛                源×4     译×1     落位偏低 1/4
+     Kiao-chau                      → 胶州湾                  源×1     译×1     残留「青岛」×3
+     Madras                         → 马德拉斯                 源×1     译×1    
+     Chile                          → 智利                   源×1     译×2    
+     Peru                           → 秘鲁                   源×1     译×1    
+     Hamburg                        → 汉堡                   源×2     译×2    
+     Harwich                        → 哈里奇                  源×1     译×1    
+     Australasian waters            → 澳大拉西亚水域              源×1     译×1    
+     Albemarle / Indefatigable / Ch → 阿尔伯马尔／因德法蒂加布尔／查塔姆／巴灵 源×4     译×4    
+     the Line                       → 赤道                   源×14    译×4     落位偏低 4/14
+     Pacific whalers                → 太平洋捕鲸船               源×1     译×0     ★译0次(未落位?)
+     Leading Seaman                 → 一级水兵                 源×5     译×10   
+     Lieut.-Commander               → 海军上尉                 源×2     译×7    
+     Captain（舰长）                    → 舰长 / 上校              源×43    译×34   
+     Commander                      → 副舰长 / 中校             源×31    译×24   
+     Lieutenant                     → 海军上尉                 源×18    译×0     ★译0次(未落位?)
+     4.7 (gun)                      → 4.7 英寸炮              源×6     译×6    
+     12-inch guns                   → 12 英寸炮               源×6     译×10   
+     battle cruiser                 → 战列巡洋舰                源×17    译×17   
+     armoured cruiser               → 装甲巡洋舰                源×20    译×21   
+     "The Day"                      → 「决战之日」               源×0     译×1     ★源0次(幽灵?)
+     Nonconformist                  → 非国教徒                 源×2     译×1    
+     collier                        → 加煤船                  源×1     译×2    
+     punitive/raider（如出现 raider）    → 袭击舰                  源×0     译×3     ★源0次(幽灵?)
+     Kapitan-Leutnant               → 上尉副长（德衔海军上尉）         源×2     译×2    
+     First Sea Lord                 → 第一海务大臣               源×1     译×1    
+     Grand Fleet                    → 大舰队                  源×1     译×1    
+     High Sea Fleet                 → 公海舰队                 源×1     译×1    
+     Dreadnought                    → 无畏舰                  源×0     译×4     ★源0次(幽灵?)
+     rear-admiral                   → 海军少将                 源×2     译×2    
+     K.C.B. / C.B. / M.V.O.         → 保留原文                 源×6     译×0     ★译0次(未落位?)
+     leading signalman              → 一等信号兵                源×4     译×4    
+     lagoon                         → 潟湖                   源×23    译×23   
+     lifebelt                       → 救生衣                  源×3     译×7    
+     steam pinnace                  → 蒸汽小艇                 源×7     译×7    
+     semaphore                      → 旗语／信号旗               源×11    译×15   
+     marine iguanas (Amblyrhincus)  → 海鬣蜥                  源×3     译×3    
+     *Lear* / *Twelfth Night*       → 《李尔王》／《第十二夜》         源×2     译×2    
+     Rembrandt                      → 伦勃朗                  源×1     译×1    
+     China Station                  → 中国站                  源×4     译×4    
+     Navy List                      → 《海军名录》               源×2     译×2    
+     Junior (Army and) Navy Club /  → 陆军海军青年俱乐部／青年军人俱乐部（俗称 源×2     译×2    
+     Benjamin's Hotel               → 本杰明旅馆                源×1     译×1    
+     "aft through the hawsehole"    → 「从锚链孔爬到船尾」           源×0     译×1     ★源0次(幽灵?)
+     Selection Board                → 选任委员会                源×1     译×1    
+     Seniority vs Selection / Zone  → 资历制与选拔制／区带制          源×1     译×2    
+     Little Englander               → 「小英格兰」派              源×1     译×1    
+     Fleet in Being                 → 「存在舰队」               源×1     译×1    
+     fair Cyprian                   → 赛普里亚美人               源×3     译×3    
+     Official Receiver              → 破产管理局官员              源×2     译×1    
+     Wesleyan                       → 卫斯理宗                 源×1     译×1    
+     mockingbird                    → 嘲鸫                   源×1     译×1    
+     iguana(s)                      → 鬣蜥                   源×2     译×3     残留「海鬣蜥」×3
+     Ordinary Seaman                → 二等水兵                 源×3     译×2    
+     Able Seaman (A.B.)             → 一等水兵                 源×0     译×1     ★源0次(幽灵?) 残留「一级水兵」×10
+     second-class / first-class boy → 二等练兵／一等练兵            源×3     译×3    
+     gunlayer                       → 炮瞄手                  源×2     译×2    
+     Kapitan zur See                → 海军上校（德衔）             源×1     译×2    
+     Sublieutenant                  → 海军少尉                 源×6     译×1     落位偏低 1/6
+     Gunnery Lieutenant             → 炮术上尉                 源×8     译×7    
+     salvo                          → 齐射                   源×10    译×14   
+     bracket(ed)                    → 夹叉                   源×1     译×1    
+     collision mat                  → 堵漏垫                  源×2     译×2    
+     armour belt                    → 装甲带                  源×1     译×1    
+     careen                         → 倾侧检修                 源×1     译×1    
+     bo'sun's chair                 → 吊板                   源×7     译×10   
+     Jacob's ladder                 → 绳梯                   源×4     译×4    
+     dog watches                    → 小更                   源×1     译×1    
+     action stations                → 战斗部署                 源×1     译×1    
+     White Ensign                   → 白船旗                  源×2     译×2    
+     Black Cross (flag)             → 白底黑十字旗               源×3     译×3    
+     Mauser rifle                   → 毛瑟步枪                 源×1     译×1    
+     twelve-pounder                 → 十二磅炮                 源×1     译×2    
+     Naval Brigade                  → 海军旅                  源×1     译×1    
+     showing the Flag               → 展示国旗                 源×1     译×1    
+     Fisher-Beresford feud          → 费希尔—贝雷斯福德之争          源×1     译×0     ★译0次(未落位?)
+     emergency ration               → 应急口粮                 源×1     译×1    
+     Council School / Secondary Sch → 议会学校／中学              源×5     译×5    
+     office boy                     → 办公室杂役                源×5     译×5    
+     Cesarewitch                    → 切萨雷维奇大赛              源×1     译×1    
+     penny dreadfuls                → 廉价惊险小说               源×1     译×1    
+     mutes                          → 职业送葬人                源×1     译×1    
+     vicar                          → 教区牧师                 源×1     译×0     ★译0次(未落位?)
+     bluejacket                     → 水兵                   源×1     译×29   
+     "Britannia, the Pride of the O → 「不列颠尼亚，海洋的骄傲」        源×0     译×1     ★源0次(幽灵?)
+     *Origin of Species by Natural  → 《依据自然选择的物种起源》        源×1     译×1    
+     lower deck                     → 下层甲板                 源×5     译×7    
+     sickbay (steward)              → 病舱（服务兵）              源×10    译×10   
+     Executive Officer              → 副长                   源×1     译×0     ★译0次(未落位?)
+====================================================================================================

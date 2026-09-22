@@ -1,0 +1,77 @@
+## VI Collapse of the Romance
+“B m﻿—B m﻿—B m﻿—N﻿—N﻿—N﻿—Oh! where are you, N? Where is the little girl at B m﻿—B m﻿—B m?”
+Such were the sounds that greeted Nattie’s ears, as she entered the office the morning after her adventure with the lovelorn Quimby; and immediately she ceased to speculate on the probable embarrassment that must necessarily attend their not-to-be-avoided next meeting, and interrupted C’s solitary conversation, by saying,
+“What is the matter with you this morning? Here I am, N.”
+“G. M., my dear. I’m off, and wanted to say goodbye before I went,” responded C.
+“Off?” questioned Nattie, with a sudden fall in her mental temperature.
+“Yes, I am going to a station five miles below to substitute, today. The operator there is obliged to go away, and couldn’t find anyone competent to do his work, and as there was a fellow that could do mine, he comes here and I go there.”
+“Oh, dear! what shall I do all day?” said Nattie, sinking into a chair, very much aggrieved.
+“I am very sorry, but I couldn’t well avoid accommodating him. But what will you do when I leave entirely, if you can’t get along without me one day? happy I, to be so necessary to your existence!”
+“But there is no prospect of your leaving at present, is there?” asked Nattie, forgetting in her alarm at such a possibility to challenge the last of his remark.
+“There is some probability of it now,” C responded. “I will tell you all about it tomorrow. I may come nearer to you; near enough even for you to see that twinkle.”
+“You don’t mean you have a prospect of an office here in the city?” questioned Nattie, not knowing whether she would be glad or sorry if such were the case.
+“Not exactly,” replied C. “I haven’t time to explain; train is coming, so﻿—”
+“Where did you say you were going today?” broke in Nattie quickly.
+“B a﻿—five miles down the line nearer you, but not on this wire. Used to be, you know, but switched on wire number twenty-seven last week,” C responded so hurriedly, that Nattie could hardly read it, although so accustomed to his style of making his dots and dashes; for, with the key, as with the pen, all operators have their own peculiar manner of writing.
+“Ah, yes! I remember,” responded Nattie quickly. “That hateful operator signing ‘M’ had it, that used to be fighting for the circuit always, and breaking in when we were talking. I wouldn’t have gone for him.”
+“Couldn’t well avoid it. Here is train. Goodbye; shall miss you terribly, but will be with you again tomorrow. Goodbye.”
+“Goodbye. I am lonesome already,” Nattie answered.
+As C made no reply, it was supposable he had gone, and probably had to run for the train, thought Nattie, as she took off her hat rather dejectedly.
+A broken companionship of any kind must ever leave a certain sense of loneliness, and this was none the less true now on account of the unique circumstances. Indeed, until today she had not fully realized how necessary C had become to her telegraphic life. Naturally, she had woven a sort of romance about him who was a friend “so near and yet so far.” Perhaps too, a certain yearning for tenderness in her lonely heart, a feeling that every woman knows, found something, very pleasant in being always greeted with “Good morning, my dear,” and hearing the last thing at night, “Good night, little girl at B m.”
+Miss Kling undoubtedly would have been shocked at being thus addressed even on the wire, by a strange person﻿—a person certainly, although unseen; but Nattie, used to the license that distance gave, whether wisely or unwisely, had never thought it necessary to check the familiarity.
+Pondering over what he had hinted about leaving permanently, in the leisure usually devoted to chatting with him, but which that day she hardly knew how to fill, Nattie wondered if, should they ever come face to face, they would feel like the old friends they were, or if the nearness would bring a constraint now unknown? Yet she was fain to confess she would like to see him and ascertain the personal appearance of one who occupied so much of her thoughts. But how strange it would be, if, after all their friendly talks and gay confidences, he should pass out of the way that was both their ways now, and they never know anything more about each other than that one was C and one was N! something not impossible either, or even improbable; for fate is a sort of switchboard, and a slight move will switch two lives onto wires far asunder, even as the moving of a peg or two will alter everything on the board that shows its power so little.
+With such thoughts in her mind, Nattie was rather among the shadows that day, and presented no laughing face to the curious passersby, much to that opposite clerk’s relief, who came to the conclusion that she had once more recovered her senses.
+About an hour before the time for closing the office, as she was counting over her cash, and thinking how glad she was that C would be back tomorrow, she became conscious of someone waiting her attention outside, and went forward, scarcely looking at him, expecting, of course, a message. But instead, the individual, who filled the air with a suffocating odor of musk, asked,
+“You are the regular operator here, I suppose?”
+With a start Nattie looked up, expecting a complaint, an occurrence often prefaced by some like question, and scrutinizing him more particularly, saw a short, rather stout young man, possessing an air of cheap assurance, hair that insisted on being red, notwithstanding the bear’s grease that covered it, teeth all at variance with each other, and seeming to rejoice obtrusively in the fact, and light blue eyes of a most insinuating expression, trimmed around with red.
+“Yes,” Nattie replied as she took this survey. “I am.”
+“You don’t know me, I suppose?” was the next question.
+“No,” Nattie replied with a glance at the large mock diamond pin, and immense imitation amethyst ring he wore; “I certainly do not.”
+“I think you are mistaken about that,” he rejoined, smiling at her in a most unpleasantly familiar manner.
+Surprised and offended, Nattie drew back haughtily. “I think, rather, you are mistaken,” she said, stiffly. “May I inquire your business?”
+With an air of easy confidence and familiar remonstrance, he replied,
+“Come, now, don’t freeze a fellow; why, I came to see you. That’s my business and no other!”
+“He is drunk,” thought Nattie, indignantly, but before she could reply he added,
+“I am an operator, you see.”
+“Oh!” said Nattie, comprehensively, but not at all delightedly, for operator or no operator, and notwithstanding the sort of freemasonry between those of the craft, she preferred his room to his company. But constraining herself, she added as civilly as possible, “Did you wish to send a message, or speak to anyone on the wire?”
+“No, thank you,” he answered; then, with an insinuating smile,
+“Can’t you guess who I am?”
+“I really can’t,” Nattie replied, coldly and indifferently; thinking, “some of the operators down town, I suppose, and a delightful set they are if he is a specimen! So impertinent of him!”
+“Can’t you?” laughing and displaying his obtrusive teeth to their utmost advantage. “Now just think of someone you have been buzzing lately, and then guess, won’t you, N?”
+Without the least suspicion Nattie shook her head impatiently, feeling very much disgusted, and longing for some interruption to occur. But his next words were startling. Leaning forward very confidentially, he asked with a smile of consciousness,
+“Do you see that twinkle, N?”
+“What!” ejaculated Nattie﻿—so forcibly that a passing countryman stopped with a peanut half cracked, to stare﻿—and clutching at an umbrella hanging by her side, for support, she turned a horror-stricken face to the questioner, who, looking as if he expected her to be enraptured, added,
+“You know a fellow that signs C, don’t you?”
+The bump of self-conceit must have largely overbalanced the perceptive faculties of this obnoxious young man, if he could possibly mistake the expression on Nattie’s face for rapture, as, frantically grasping the umbrella, she gasped,
+“No﻿—no﻿—it can’t be﻿—you are not﻿—not﻿—”
+“Not C? Ain’t I, though!” laughed the proprietor of the ring, pin, bear’s-grease, et cetera.
+“But,” said poor Nattie, clinging desperately to hope and the umbrella, “C said this morning he was going to B a﻿—and﻿—”
+“That was a trick to take you by surprise,” he interrupted, with great enjoyment of his own words. “I knew I was coming here, all the time, but I wanted to give you a nice little surprise. Think I have, eh?” and he laughed again, and winked with almost vulgar assurance.
+Nattie let go of hope and the umbrella, and collapsed with her romance into a chair; and she thought of Quimby’s warning about the “soiled invisible,” and barely suppressed a groan. Involuntarily she stole a glance at this too-visible person, and shuddered. Could she reconcile C, her visionary, interesting, witty and gentlemanly C of the wire, with this musk-scented being of greasy red hair, cheap jewelry and vulgar manners? Impossible!
+“It is the nightmare! it cannot be!” she thought, with the despairing refuge in dreams we often take when suddenly overwhelmed with terrible realities.
+As she made no reply to his last observation, her visitor, glancing at her as if slightly puzzled by her behavior, went on﻿—
+“I did not think you would be so bashful, after all our talks. *I* am not,”﻿—a fact hardly necessary to mention. “We ought to be pretty good friends by this time. Say, do I look as you expected I would?” and as if to give her a better view, he pushed his hat back on his head, a kindness wholly unappreciated, as Nattie had seen more than sufficient of him already.
+“Not﻿—not exactly!” she stammered, in a sort of dazed way.
+“I believe you thought I was one of those slim fellows whose bones rattle when they walk, didn’t you? I am no such a fellow, you see. But you ain’t a bit as I imagined. May I be a plug3 forever if you are!”
+Nattie was too wretched, too unable even yet to realize that her C and this odious creature were one and the same, to ask, as he evidently expected natural curiosity would induce her to do, in what way she so differed from the person of his imagination.
+“You go beyond all my calculations,” he continued, flatteringly, after waiting in vain for a question from her; “Only you are more bashful than I supposed you would be, after the dots and dashes we have slung. But then it’s easier to buzz on the wire than it is to talk, isn’t it? For all a fellow has to do is to take up a book or a paper, pick things out to say, and go it without exercising his own brains!”
+At these words, that explained the previous incomprehensible difference between the distant C and present person, the realization of the companionship, the romance, the friendship gone to wreck on this reef of musk and bear’s-grease came over Nattie with a rush, and for a moment so affected her that she could hardly restrain her tears. And yet, after all, was not C, *her* C, the C whom she knew by his conversation only﻿—“picked out of books!”﻿—an unreal, intangible being, and not this so different person who claimed his identity?
+“I think we astonished some of them on the wire with all the stuff we had over!” went on with his monologue the knight of the collapsed romance, who, not being troubled with fine sensibilities, had no idea of the feelings under which she was laboring.
+“Yes﻿—I﻿—doubtless!” stammered Nattie, and turned very red, as, suddenly remembering the tenor of some of what he so elegantly termed “stuff,” the appalling thought, what if he should say “my dear?” presented itself in all its horrors, and the idea punished her for that girlish imprudence in allowing the familiarity from afar.
+Evidently he noticed the access of color, and attributed it to his own fascinations, for he smiled complacently as he said,
+“I wish I had longer to stay with you, but my train goes in five minutes.” Nattie breathed a sigh of relief. “Too bad, isn’t it? But I will come again some time! By the way,” a cunning expression that seemed uncalled-for crossing over his face, “don’t say anything on the wire about my being here today, will you? I don’t want anyone to know. Let them think I was at B a.”
+“Certainly not!” replied Nattie, with an alacrity born of the knowledge that she should hold no further communication of any kind with him; then, in order to give a hint of her intentions, she added, bracing herself up to mention what was so difficult to speak of to this vampire who mocked her with her vanished C.
+“Now that the﻿—the mystery is solved, and I﻿—and we have met, I don’t think there will be much amusement in talking over the wire.”
+Somewhat to her surprise, and not at all flattering to her vanity, he answered, without a remonstrance,
+“No! I don’t know as there will!”
+“Perhaps he doesn’t like my looks any better than I do his!” was Nattie’s natural and indignant thought at this quiet reception of her hint. And if anything had been necessary﻿—which it certainly was not﻿—to her utter repudiation of him, this would have sufficed for the purpose.
+“You mentioned this morning you thought of leaving X n. Do you expect to go soon?” she asked, catching at the idea that a few hours ago had caused so much alarm, with a hope that he might be about to vanish from her world finally and forever. But even as she spoke, the difference of the now and then smote her like a pain.
+“Did I say that?” he said, with a look that she could not understand, as if for some secret reason, he was so well pleased with himself, he could hardly avoid laughing outright. “Oh! well! I was only fooling!”
+Nattie’s face fell, but, catching at the opportunity to convey the impression that in her opinion they had not been very friendly, after all, she said,
+“I suppose no one really means what they say on the wire. I am sure *I* do not!”
+“But we mean what we say now,” he replied, with an insinuating smile. “Next time I come we will be more sociable. But we’ve have had a nice talk, ain’t we?”
+For a moment the repulsive person before her overcame the remembrance of the lost C, and Nattie replied, sarcastically,
+“I trust the talk has not been too much of an exercise for your brain!”
+He looked at her doubtfully, and then laughed. “You are sort of a queer girl, ain’t you? I wish though, I could stay and buzz you longer, but I have only time to get my train, so goodbye.”
+“Goodbye,” said Nattie, betraying all her relief at his departure in the sudden animation of her voice, something so different from her preceding manner that he could but notice it, and he turned, looked at her, as if a suspicion of its true cause penetrated his mind at last, frowned, and then with that former look she did not understand crossing his face, nodded and ran for the depot, coming into violent collision with a fat Dutchman, looking perplexedly for a barber’s shop. And thus the red hair, the bear’s grease, the sham jewelry, and the obtrusive, fighting teeth disappeared forever from Nattie’s sight, leaving her with a bewildered look on her face, as if, indeed, just awakened from that imagined nightmare.
+She looked around the office blankly. Everything was there just as usual, the little key and the sounder, over which had come all C’s pleasant talk. C! That creature! The odor of his detestable musk hovered about her even now, but not yet could she realize that her C was no more.

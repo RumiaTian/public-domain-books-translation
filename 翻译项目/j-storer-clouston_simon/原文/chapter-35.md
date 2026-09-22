@@ -1,0 +1,49 @@
+## XXXV
+
+In the Garden
+
+It was a few minutes after half past eight when Miss Peterkin chanced to meet her friend Mr. Carrington in the entrance hall of the Kings Arms. He was evidently going out, and she noticed he was rather differently habited from usual, wearing now a long, light top coat of a very dark grey hue, and a dark coloured felt hat. They were not quite so becoming as his ordinary garb, she thought, but then Mr. Carrington looked the gentleman in anything.
+
+“Are you going to desert us tonight, Mr. Carrington?” asked the manageress.
+
+“I have a letter or two to post,” said he, “they are an excuse for a stroll. I want a breath of fresh air.”
+
+He closed the glass door of the hotel behind him and stood for a moment on the pavement in the little circle of radiance thrown by the light of the hall. Mr. Carrington’s leisurely movements undoubtedly played no small part in the unsuspecting confidence which he inspired. Out of the light he turned, strolling easily, down the long stretch of black pavement with its few checkers of lamplight here and there, and the empty, silent street of the little country town at his side. It was a very dark, moonless night, and the air was almost quite still. Looking upward, he could see a rare star or two twinkle, but all the rest of the Heavens were under cloud. Judging from his contented expression the night seemed to please him.
+
+He passed the post office, but curiously enough omitted to drop any letters into the box. The breath of fresh air seemed, in fact, to be his sole preoccupation. Moving with a slightly quickened stride, but still easily, he turned out of that street into another even quieter and darker, and in a short time he was nearing the lights of the station. He gave these a wide birth, however, and presently was strolling up a very secluded road, with a few villas and gardens upon the one side, and black space on the other. There for a moment he stopped and transferred something from the pocket of his inner coat into the pocket of his top coat. It was a small compact article, and a ray of light from a lamppost behind him gleamed for an instant upon a circular metal orifice at one end of it.
+
+Before he moved on, he searched the darkness intently, before him and behind, but saw no sign of any other passenger. And then he turned the rim of his dark felt hat down over his face, stepped out briskly for some fifty yards further, and turned sharply through an open gate. Once again he stopped and listened keenly, standing now in the shadow of the trees beside the drive. In his dark top coat and with his hat turned over his face he was as nearly invisible as a man could be, but even this did not seem to satisfy him, for in a moment he gently parted the branches of the trees and pushed through the belt of planting to the lawn beyond.
+
+The villa of Mr. Simon Rattar was now half seen beyond the curving end of the belt that bounded the drive. It was dim against the night sky, and the garden was dimmer still. Carrington kept on the grass, following the outside of the trees, and then again plunged into them when they curved round at the top of the drive. Pushing quietly through, he reached the other side, and there his expedition in search of fresh air seemed to have found its goal, for he leaned his back against a tree trunk, folded his arms, and waited.
+
+He was looking obliquely across a sweep of gravel, with the whole front of the house full in view. A ray came from the fanlight over the front door and a faint radiance escaped through the slats of the library blinds, but otherwise the villa was a lump of darkness in the dark.
+
+One minute after another passed without event and with scarcely even the faintest sound. Then, all at once, a little touch of breeze sprang up and sighed overhead through the tree tops, and from that time on, there was an alternation of utter silence with the sough of branches gently stirred.
+
+From a church tower in the town came the stroke of a clock. Carrington counted nine and his eyes were riveted on the front door now. Barely two more minutes passed before it opened quietly; a figure appeared for an instant in the light of the hall, and then, as quietly, the door closed again. There was a lull at the moment, but Carrington could hear not a sound. The figure must be standing very still on the doorstep, listening﻿—evidently listening. And then the thickset form of Simon Rattar appeared dimly on the gravel, crossing to the lawn beyond. The pebbles crunched a little, but not very much. He seemed to be walking warily, and when he reached the further side he stood still again and Carrington could see his head moving, as though he were looking all round him through the night.
+
+But now the figure was moving again, coming this time straight for the head of the belt of trees. Carrington had drawn on a pair of dark gloves, and he raised his arm to cover the lower part of his face, looking over it through the branches, and facing the silent owner of the garden, till there were hardly three paces between them, the one on the lawn, the other in the heart of the plantation.
+
+And then when Simon was exactly opposite, he stopped dead. Carrington’s other hand slipped noiselessly into the pocket where he had dropped that little article, but otherwise he never moved a muscle and he breathed very gently. The man on the turf seemed to be doing something with his hands, but what, it was impossible to say. The hands would move into his pocket and then out again, till quite three or four minutes had passed, and then came a sudden flash of light. Carrington’s right hand moved halfway out of his pocket and then was stayed, for by the light of the match he saw a very singular sight.
+
+Simon Rattar was not looking at him. His eyes were focused just before his nose where the bowl of a pipe was beginning to glow. Carrington could hear the lips gently sucking, and then the aroma of tobacco came in a strong wave through the trees. Finally the match went out, and the glowing pipe began to move slowly along the turf, keeping close to the shelter of the trees.
+
+For a space Carrington stood petrified with wonder, and then, very carefully and quite silently, he worked his way through the trees out on to the turf, and at once fell on his hands and knees. Had anyone been there to see, they would have beheld for the next five minutes a strange procession of two slowly moving along the edge of the plantation; a thickset man in front smoking a pipe and something like a great gorilla stalking him from behind. This procession skirted the plantation nearly down to the gate; then it turned at right angles, following the line of trees that bordered the wall between the garden and the road; and then again at right angles when it had reached the further corner of Mr. Rattar’s demesne. Simon was now in a secluded path with shrubs on either hand, and instead of continuing his tour, he turned at the end of this path and paced slowly back again. And seeing this, the ape behind him squatted in the shadow of a laurel and waited.
+
+A steady breeze was now blowing and the trees were sighing continuously. The sky at the same time cleared, and more and more stars came out till the eyes of the man behind the bush could follow the moving man from end to end of the path. The wind made the pipe smoke quickly, and presently a shower of sparks showed that it was being emptied, and in a minute or two another match flashed and a second pipe glowed faintly.
+
+Backwards and forwards paced the lawyer, and backwards and forwards again, but for the space of nearly an hour from his first coming out, that was everything that happened; and then at last came a tapping of the bowl and more sparks flying abroad in the wind. The procession was resumed, Simon in front, the apelike form behind; but with a greater space between them this time as the night was clearer, and now they were heading for the house. The lawyer’s steps crunched lightly on the gravel again, the front door opened and closed, and Carrington was alone in the garden.
+
+Still crawling, he reached the shelter of the belt of trees and then rose and made swiftly for the gate, and out into the road. As he passed under a lamp, his face wore a totally new expression, compounded of wonder, excitement, and urgent thought. He was walking swiftly, and his pace never slackened, nor did the keenness leave his face, till he was back at the door of the Kings Arms Hotel. Before he entered, he took off his hat and turned up the brim again, and his manner when he tapped at the door of the manageress’ room was perfectly sedate. He let it appear, however, that he had some slight matter on his mind.
+
+“What is the name of Mr. Rattar’s head clerk?” he enquired. “An oldish, prim looking man, with side whiskers.”
+
+“Oh, that will be Mr. Ison,” said the manageress.
+
+“I have just remembered a bit of business I ought to have seen about tonight,” he continued. “I can’t very well call on Mr. Rattar himself at this hour, but I was thinking of looking up Mr. Ison if I could discover his whereabouts.”
+
+“The boots will show you the way to his house,” said she, and rang the bell.
+
+While waiting for the boots, Mr. Carrington asked another casual question or two and learned that Mr. Ison had been in the office since he was a boy. No man knew the house of Rattar throughout its two generations better than Mr. Ison, said Miss Peterkin; and she remembered afterwards that this information seemed to give Mr. Carrington peculiar satisfaction. He seemed so gratified, indeed, that she wondered a little at the time.
+
+And then the visitor and the boots set out together for the clerk’s house, and at what hour her guest returned she was not quite sure. The boots, it seemed, had been instructed to wait up for him, but she had long gone to bed.

@@ -1,0 +1,3 @@
+## II
+At thirty-five minutes past seven Francis Joseph McPhillip shot himself dead while trying to escape from No. 44 Titt Street, his father’s house. The house had been surrounded by Detective-Sergeant McCartney and ten men. Hanging by his left hand from the sill of the back-bedroom window on the second floor, McPhillip put two bullets into McCartney’s left shoulder. While he was trying to fire again, his left hand slipped and lost its hold. The pistol muzzle struck the edge of the sill. The bullet shot upwards and entered McPhillip’s brain through the right temple.
+When they picked him out of the orange box in the back garden where he fell, he was quite dead.

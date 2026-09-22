@@ -1,0 +1,17 @@
+====================================================================================================
+### e-f-benson_ghost-stories  (29 files)
+  块: O=553 C=553 OK | 段: EN=2416 CN=2448 !!差 -32
+     [不对称] and-the-dead-spake.md                                O=23 C=23 段EN=108 段CN=109
+     [不对称] mr-tilly-s-s-ance.md                                 O=23 C=23 段EN=109 段CN=110
+     [不对称] mrs-amworth.md                                       O=17 C=17 段EN=86 段CN=87
+     [不对称] negotium-perambulans.md                              O=17 C=17 段EN=70 段CN=72
+     [不对称] outside-the-door.md                                  O=14 C=14 段EN=53 段CN=55
+     [不对称] the-confession-of-charles-linkworth.md               O=18 C=18 段EN=152 段CN=153
+     [不对称] the-man-who-went-too-far.md                          O=18 C=18 段EN=184 段CN=191
+     [不对称] the-other-bed.md                                     O=16 C=16 段EN=49 段CN=55
+     [不对称] the-outcast.md                                       O=18 C=18 段EN=99 段CN=108
+     [不对称] the-shootings-of-achnaleish.md                       O=23 C=23 段EN=133 段CN=134
+     [不对称] the-terror-by-night.md                               O=7 C=7 段EN=73 段CN=74
+  英文残留(剔括注) top: Khal×3, Cancer×3, combe×3, perambulans×3, in×3, tenebris×3, Yallah×2, sitt×2, Inglisensis×2, Negotium×2
+  项目说明备注: 见术语表.md。
+

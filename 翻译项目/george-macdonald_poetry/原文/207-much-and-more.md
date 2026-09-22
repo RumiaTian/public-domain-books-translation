@@ -1,0 +1,11 @@
+## Much and More
+
+When thy heart, love-filled, grows graver,
+And eternal bliss looks nearer,
+Ask thy heart, nor show it favour,
+Is the gift or giver dearer?
+
+Love, love on; love higher, deeper;
+Let love’s ocean close above her;
+Only, love thou more love’s keeper,
+More, the love-creating lover.

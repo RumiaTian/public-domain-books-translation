@@ -1,0 +1,3 @@
+## I Watho
+There was once a witch who desired to know everything. But the wiser a witch is, the harder she knocks her head against the wall when she comes to it. Her name was Watho, and she had a wolf in her mind. She cared for nothing in itself﻿—only for knowing it. She was not naturally cruel, but the wolf had made her cruel.
+She was tall and graceful, with a white skin, red hair, and black eyes, which had a red fire in them. She was straight and strong, but now and then would fall bent together, shudder, and sit for a moment with her head turned over her shoulder, as if the wolf had got out of her mind on to her back.

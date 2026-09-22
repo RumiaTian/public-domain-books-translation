@@ -1,0 +1,666 @@
+====================================================================================================
+### siegfried-sassoon_memoirs-of-an-infantry-officer  (10 files)
+  块: O=194 C=194 OK | 段: EN=443 CN=496 !!差 -53
+     [不对称] at-the-army-school.md                                O=6 C=6 段EN=20 段CN=21
+     [不对称] at-the-depot.md                                      O=15 C=15 段EN=27 段CN=30
+     [不对称] battle.md                                            O=26 C=26 段EN=78 段CN=82
+     [不对称] before-the-push.md                                   O=10 C=10 段EN=20 段CN=21
+     [不对称] escape.md                                            O=11 C=11 段EN=34 段CN=37
+     [不对称] hospital-and-convalescence.md                        O=33 C=33 段EN=49 段CN=57
+     [不对称] independent-action.md                                O=34 C=34 段EN=72 段CN=86
+     [不对称] rouen-in-february.md                                 O=11 C=11 段EN=22 段CN=26
+     [不对称] the-raid.md                                          O=15 C=15 段EN=31 段CN=33
+     [不对称] the-second-battalion.md                              O=33 C=33 段EN=90 段CN=103
+  英文残留(剔括注) top: II×10, III×7, IV×4, Thos×2, Expect×2, anent×2, skirmish×1, ranger×1, Verney×1, London×1
+  项目说明备注: - 作者风格：诗化散文、克制含蓄、大量内心独白与自然景物描写（英伦乡愁对照战壕惨烈）。译文要保留其忧郁诗意的气质，避免粗糙直译。 / - 一战军事术语（ranks、units、trench terms）须准确，见术语表。 / - 地名（法国索姆河战场、英国乡间）以术语表为准，新词首次出现附原文。 / - 全书 10 章。其中 battle.md、the-second-battalion.md、independent-action.md 三章超过 80KB，翻译时按通用翻译引擎第七节分 2-4 段处理，断点选章节内小节边界（### 标题）或空行。 / - 书中有以 *斜体* 标注的内心独白/引文，保留斜体标记。 / - 罗马数字章节序号照搬不译。
+  -- 术语表硬约束行 649 条:
+     George Sherston                → 乔治·舍尔斯顿              源×0     译×0     ★源0次(幽灵?)
+     Aunt Evelyn                    → 伊芙琳姨母                源×51    译×49   
+     Barton                         → 巴顿                   源×57    译×58   
+     Colonel Kinjack                → 金杰克上校                源×2     译×2    
+     David                          → 戴维                   源×35    译×35   
+     Durley                         → 德利                   源×45    译×45   
+     Dottrell                       → 多特雷尔                 源×24    译×24   
+     Tyrrell                        → 蒂雷尔                  源×25    译×25   
+     Clitherland                    → 克利瑟兰                 源×24    译×23   
+     Flook                          → 弗卢克                  源×20    译×20   
+     Cromlech ("Longneck")          → 克朗莱克（绰号「长脖子」）        源×7     译×7    
+     Farrell                        → 法雷尔先生                源×9     译×9    
+     Protheroe                      → 普罗瑟罗                 源×8     译×8    
+     Moffat                         → 莫法特                  源×5     译×6    
+     Colonel Hesmon                 → 赫斯蒙上校                源×4     译×4    
+     Huxtable                       → 赫克斯特布尔上尉             源×14    译×15   
+     Colonel Kinjack                → 金杰克上校                源×0     译×0     ★源0次(幽灵?)
+     Durley                         → 德利                   源×0     译×0     ★源0次(幽灵?)
+     Dottrell                       → 多特雷尔                 源×0     译×0     ★源0次(幽灵?)
+     Stephen Colwood                → 斯蒂芬·科尔伍德             源×1     译×1    
+     Dixon                          → 迪克森                  源×2     译×2    
+     Huckett                        → 哈克特                  源×1     译×1    
+     Allgood                        → 奥尔古德                 源×7     译×7    
+     Miles (C.S.M.)                 → 迈尔斯中士                源×43    译×2     落位偏低 2/43
+     Asbestos Bill                  → 石棉比尔                 源×4     译×4    
+     Fernby                         → 弗恩比                  源×16    译×16   
+     Perrin / Edmunds / Danby       → 佩林 / 埃德蒙兹 / 丹比       源×10    译×10   
+     David Cromlech                 → 戴维·克朗莱克              源×4     译×4    
+     Major Macartney                → 麦卡蒂少校                源×3     译×3    
+     Johnson                        → 约翰逊                  源×7     译×7    
+     Lance-Corporal Kendle          → 肯德尔下士                源×2     译×0     ★译0次(未落位?)
+     Dick Tiltwood                  → 迪克·蒂尔特伍德             源×3     译×3    
+     Bill Eaves                     → 比尔·伊夫斯               源×2     译×2    
+     Ormand                         → 奥曼德                  源×22    译×22   
+     Strangford                     → 斯特兰福德                源×1     译×1    
+     Parkins                        → 帕金斯                  源×6     译×6    
+     Holt                           → 霍尔特                  源×2     译×2    
+     White                          → 怀特                   源×37    译×5     落位偏低 5/37
+     Patterson                      → 帕特森                  源×2     译×2    
+     Medical Officer (Rouen Base)   → 军医官                  源×2     译×6    
+     Rifle Brigade Major            → 步枪旅少校                源×1     译×0     ★译0次(未落位?)
+     Lance-Corporal Kendle          → 肯德尔下士                源×0     译×0     ★源0次(幽灵?)
+     Worgan                         → 沃根                   源×3     译×3    
+     Woolman ("Asbestos Bill")      → 伍尔曼（「石棉比尔」）          源×2     译×2    
+     Fernby                         → 弗恩比                  源×0     译×0     ★源0次(幽灵?)
+     Hawkes                         → 霍克斯                  源×1     译×1    
+     Holman                         → 霍尔曼                  源×3     译×3    
+     Perrin                         → 佩林                   源×0     译×0     ★源0次(幽灵?)
+     Lord Asterisk                  → 阿斯特里斯克勋爵             源×6     译×4    
+     Lady Asterisk                  → 阿斯特里斯克夫人             源×10    译×9     残留「另一个世界」×2
+     Joe Dottrell                   → 乔·多特雷尔               源×4     译×4    
+     Dunning                        → 邓宁                   源×9     译×9     残留「回头见」×1
+     Ralph Wilmot                   → 拉尔夫·威尔莫特             源×4     译×4    
+     Julian Durley                  → 朱利安·德利               源×1     译×1    
+     Mr. Jukes                      → 朱克斯先生                源×1     译×1    
+     Birdie Mansfield               → 伯蒂·曼斯菲尔德             源×3     译×1     落位偏低 1/3
+     Young Brock                    → 小布洛克                 源×1     译×1    
+     Sergeant Blaxton               → 布拉克斯顿中士              源×1     译×1    
+     Second Battalion Doctor        → 第二营军医                源×1     译×0     ★译0次(未落位?)
+     Edmunds                        → 埃德蒙兹                 源×0     译×0     ★源0次(幽灵?)
+     Jenkins                        → 詹金斯                  源×6     译×7    
+     David Cromlech                 → 戴维·克朗莱克              源×0     译×0     ★源0次(幽灵?) 残留「长脖子」×2
+     Old Joe                        → 老乔                   源×3     译×3    
+     the Somme                      → 索姆河                  源×20    译×20   
+     Mametz                         → 马梅斯                  源×14    译×14   
+     Mametz Wood                    → 马梅斯树林                源×8     译×8    
+     Morlancourt                    → 莫朗库尔                 源×10    译×10   
+     Fricourt                       → 弗里库尔                 源×25    译×25   
+     High Wood                      → 高地树林                 源×2     译×2    
+     Delville Wood                  → 德尔维尔树林               源×5     译×2     落位偏低 2/5
+     Bazentin                       → 巴藏丹                  源×6     译×6    
+     Ginchy                         → 吉什                   源×3     译×1     落位偏低 1/3
+     Guillemont                     → 吉耶蒙                  源×2     译×1    
+     Gommecourt                     → 戈姆库尔                 源×3     译×3    
+     La Chaussée                    → 拉绍塞                  源×3     译×3    
+     Bussy                          → 比西                   源×3     译×3    
+     Havre (Le Havre)               → 阿弗尔                  源×6     译×6    
+     Southampton                    → 南安普敦                 源×2     译×2    
+     Oxford / Somerville College    → 牛津 / 萨默维尔学院          源×8     译×8    
+     Kensington                     → 肯辛顿                  源×1     译×1    
+     Waterloo Station               → 滑铁卢车站                源×1     译×1    
+     Butley                         → 巴特利                  源×23    译×23   
+     Surbiton                       → 瑟比顿                  源×1     译×1    
+     Weald                          → 威尔德（威尔德原野）           源×6     译×6    
+     Sussex                         → 苏塞克斯                 源×6     译×6    
+     Hampshire                      → 汉普郡                  源×1     译×1    
+     Dover                          → 多佛                   源×1     译×1    
+     Westphalia                     → 威斯特伐利亚               源×2     译×2    
+     Gallipoli                      → 加里波利                 源×3     译×3    
+     Ypres Salient                  → 伊普尔突出部               源×1     译×1    
+     Plug Street Wood               → 普拉格街树林               源×1     译×1    
+     Puxford Park                   → 帕克斯福德庄园              源×2     译×2    
+     Flixécourt                     → 弗利克斯库尔               源×6     译×6    
+     Amiens                         → 亚眠                   源×11    译×11   
+     Abbeville                      → 阿布维尔                 源×2     译×2    
+     Rouen                          → 鲁昂                   源×13    译×13   
+     Arras                          → 阿拉斯                  源×11    译×10   
+     Bapaume                        → 巴波姆                  源×2     译×2    
+     Albert                         → 阿尔贝                  源×1     译×1    
+     Pozières                       → 波济耶尔                 源×1     译×1    
+     Montauban                      → 蒙托邦                  源×3     译×3    
+     Bécordel                       → 贝科尔代尔                源×2     译×2    
+     Heilly                         → 海伊                   源×6     译×6    
+     Dernancourt                    → 德尔南库尔                源×1     译×1    
+     Carnoy                         → 卡尔努瓦                 源×1     译×1    
+     Bray                           → 布雷                   源×1     译×1    
+     Corbie                         → 科尔比                  源×10    译×10   
+     Ypres                          → 伊普尔                  源×4     译×4    
+     Loos                           → 卢斯                   源×4     译×4    
+     Bethune                        → 贝蒂讷                  源×1     译×1    
+     England                        → 英格兰                  源×44    译×18    落位偏低 18/44
+     Blighty                        → 英国 / 伤退回国            源×4     译×46   
+     Clitherland Camp               → 克利瑟兰兵营               源×3     译×4    
+     Flintshire Fusiliers           → 弗林特郡燧发枪兵团            源×8     译×7    
+     Formby                         → 福姆比                  源×5     译×5    
+     Mersey                         → 默西河                  源×2     译×2    
+     Liverpool                      → 利物浦                  源×13    译×12   
+     Olympic Hotel                  → 奥林匹克酒店               源×1     译×1    
+     Cheshire Hounds                → 柴郡猎犬                 源×1     译×1    
+     Cox's Bank                     → 考克斯银行                源×1     译×2    
+     Army and Navy Stores→见前        → 海陆军百货店               源×0     译×5     ★源0次(幽灵?)
+     Beaumont-Hamel                 → 博蒙阿梅尔                源×1     译×1    
+     Armentières                    → 阿尔芒蒂耶尔               源×1     译×1    
+     Bonté Redoubt                  → 邦泰据点                 源×1     译×1    
+     Pint / Bitter / Beer / Ale / V → 品脱壕 / 苦啤壕 / 啤酒壕 / 艾尔 源×18    译×8     落位偏低 8/18
+     Ale Alley                      → 艾尔巷                  源×4     译×4    
+     Ginchy                         → 万希                   源×0     译×2     ★源0次(幽灵?)
+     Guillemont                     → 吉勒蒙                  源×0     译×1     ★源0次(幽灵?)
+     Delville Wood                  → 德维尔树林                源×0     译×1     ★源0次(幽灵?)
+     East Surreys                   → 东萨里团                 源×1     译×1    
+     Manchesters                    → 曼彻斯特团                源×12    译×15   
+     Artists' Rifles                → 艺术家步枪团               源×1     译×1    
+     County Down                    → 唐郡                   源×1     译×1    
+     Perth                          → 珀斯                   源×1     译×1    
+     Edinburgh University           → 爱丁堡大学                源×1     译×1    
+     Devil's Wood                   → 魔鬼林                  源×1     译×1    
+     Ancre                          → 昂克河                  源×3     译×3    
+     Hindenburg Line                → 兴登堡防线                源×3     译×3    
+     Hôtel de la Poste              → 邮政旅馆                 源×3     译×4    
+     South African War              → 南非战争                 源×1     译×1    
+     Bullecourt                     → 比勒库尔                 源×1     译×1    
+     Neuve Chapelle                 → 讷沃夏佩勒                源×1     译×1    
+     Sussex Downs                   → 苏塞克斯丘陵               源×1     译×1    
+     Nutwood Manor                  → 坚果林庄园                源×10    译×10   
+     The Clematis Room              → 铁线莲间                 源×5     译×5    
+     Great Central Hotel            → 大中央饭店                源×2     译×2    
+     Piccadilly Circus              → 皮卡迪利广场               源×1     译×1    
+     Hyde Park                      → 海德公园                 源×2     译×2    
+     Denmark Hill                   → 丹麦山                  源×2     译×2    
+     Lambeth Palace                 → 兰贝斯宫                 源×1     译×1    
+     Cameroons                      → 喀麦隆                  源×1     译×1    
+     Sierra Leone                   → 塞拉利昂                 源×1     译×1    
+     Contalmaison                   → 康塔尔梅松                源×3     译×2    
+     La Boisselle                   → 拉布瓦塞尔                源×2     译×2    
+     Méaulte                        → 莫奥勒                  源×1     译×1    
+     Querrieux                      → 克里约                  源×1     译×1    
+     Marais                         → 马尔                   源×1     译×2    
+     Gibraltar                      → 直布罗陀                 源×1     译×1    
+     Citadel                        → 堡垒                   源×3     译×3    
+     Albert                         → 阿尔贝                  源×0     译×0     ★源0次(幽灵?)
+     New Trench                     → 新壕                   源×5     译×5    
+     Sunken Road Trench             → 沉路壕                  源×4     译×4    
+     Rose Trench                    → 玫瑰壕                  源×3     译×3    
+     Orchard Alley                  → 果园巷                  源×1     译×1    
+     Apple Alley                    → 苹果巷                  源×2     译×2    
+     Willow Avenue                  → 柳树大道                 源×2     译×2    
+     Kingston Road Trench           → 金斯敦路战壕               源×1     译×1    
+     Quadrangle Trench              → 四边形战壕                源×6     译×9    
+     Wood Trench                    → 树林战壕                 源×1     译×1    
+     Bottom Wood                    → 低谷树林                 源×4     译×4    
+     Rectangle                      → 矩形据点                 源×1     译×1    
+     Wing Corner                    → 翼角                   源×3     译×3    
+     Old Kent Road                  → 老肯特路                 源×2     译×2    
+     Maple Redoubt                  → 枫树据点                 源×2     译×2    
+     the War                        → 这场战争 / 大战            源×190   译×147  
+     the Front (Line)               → 前线（战壕前线）             源×51    译×42   
+     trench / trenches              → 战壕                   源×146   译×136  
+     mine-crater                    → 弹坑                   源×0     译×35    ★源0次(幽灵?)
+     Battalion                      → 营                    源×107   译×174  
+     Brigade                        → 旅                    源×19    译×51   
+     Division                       → 师                    源×16    译×37   
+     Corps                          → 军                    源×9     译×366  
+     Army                           → 集团军                  源×72    译×13    落位偏低 13/72
+     Company                        → 连                    源×80    译×133  
+     the Fourth Army School         → 第四集团军学校              源×2     译×2    
+     Headquarters (HQ)              → 指挥部 / 司令部            源×29    译×5     落位偏低 5/29
+     Orderly Room                   → 勤务室 / 营部办公室          源×7     译×7    
+     Colonel                        → 上校                   源×54    译×48   
+     Major                          → 少校                   源×36    译×27   
+     Captain                        → 上尉                   源×27    译×13    落位偏低 13/27
+     Lieutenant                     → 中尉 / 少尉              源×0     译×14    ★源0次(幽灵?)
+     push                           → 推进 / 进攻              源×5     译×88   
+     the push                       → 那次进攻                 源×3     译×0     ★译0次(未落位?)
+     going over the top             → 跃出掩体冲锋               源×4     译×6    
+     billet(s)                      → 宿营地 / 驻地             源×16    译×9     落位偏低 9/16
+     depot                          → 补充兵营 / 兵站            源×13    译×15   
+     Blighty one                    → 能回国的伤                源×2     译×4    
+     Fritz / Boche / Hun            → 德国佬                  源×9     译×19   
+     Kangaroo                       → 袋鼠                   源×4     译×8    
+     Transport Officer              → 运输官                  源×3     译×3    
+     Adjutant                       → 副官                   源×20    译×20   
+     Quartermaster                  → 军需官                  源×15    译×14   
+     C.O. (Commanding Officer)      → 营长 / 指挥官             源×1     译×11   
+     O.C. (Officer Commanding)      → ……长官                 源×1     译×0     ★译0次(未落位?)
+     C.S.M. (Company Sergeant-Major → 连队军士长                源×2     译×5    
+     Coy (Company)                  → 连                    源×2     译×0     ★译0次(未落位?)
+     Hospital Ship                  → 医院船                  源×1     译×1    
+     Medical Board                  → 体格复审（委员会）            源×8     译×7    
+     Roll of Honour                 → 伤亡名册 / 阵亡名单          源×5     译×6    
+     enteritis                      → 肠炎                   源×1     译×1    
+     P.U.O. (Pyrexia of Unknown Ori → 病号（病因不明）             源×2     译×4    
+     Blighty one                    → 能回国的伤                源×0     译×0     ★源0次(幽灵?)
+     swinging the lead              → 装病偷懒                 源×1     译×1    
+     wangle one's way home          → 想法子混回国               源×0     译×1     ★源0次(幽灵?)
+     Depot                          → 补充兵营 / 兵站            源×0     译×0     ★源0次(幽灵?)
+     Divisional Rest                → 师休整                  源×2     译×1    
+     brass-hats                     → 大檐帽（指参谋）             源×2     译×2    
+     King's uniform                 → 国王军装                 源×1     译×1    
+     shirker                        → 逃避兵役者                源×1     译×1    
+     enemy aliens                   → 敌国侨民                 源×1     译×1    
+     cannon-fodder                  → 炮灰                   源×1     译×1    
+     cub-hunting                    → 猎幼狐                  源×1     译×1    
+     point-to-point                 → 越野赛马                 源×2     译×1    
+     Ringwell Hounds                → 灵韦尔猎犬                源×1     译×0     ★译0次(未落位?)
+     vulpicide                      → 杀狐者                  源×0     译×1     ★源0次(幽灵?)
+     hop-kilns                      → 烘啤酒花窑                源×1     译×1    
+     Death's Head Hawk Moth         → 骷髅纹天蛾                源×1     译×1    
+     G.S. (General Service)         → 一般勤务                 源×2     译×6    
+     R.S.M. (Regimental Sergeant-Ma → 团级军士长                源×1     译×1    
+     Lewis Gun                      → 路易斯机枪                源×9     译×9    
+     contact-aeroplane              → 联络机                  源×1     译×1    
+     barrage                        → 弹幕                   源×6     译×7    
+     enfilade fire                  → 侧射火力                 源×2     译×2    
+     zero                           → 零时                   源×5     译×11   
+     smokescreen                    → 烟幕                   源×1     译×2    
+     puttees                        → 绑腿                   源×2     译×3    
+     runner                         → 传令兵                  源×5     译×9    
+     stretcher-bearers              → 担架兵                  源×9     译×10   
+     Very lights                    → 照明弹                  源×1     译×8    
+     holding attack                 → 牵制性进攻                源×1     译×1    
+     spring offensive               → 春季攻势                 源×5     译×5    
+     sergeant-instructors           → 军士教官                 源×1     译×1    
+     second-in-command              → 副营长                  源×5     译×2     落位偏低 2/5
+     Anteroom                       → 休息室                  源×3     译×3    
+     Old Joe                        → 老乔                   源×0     译×0     ★源0次(幽灵?)
+     Jorrocks                       → 乔罗克斯                 源×1     译×1    
+     Bedfordshire / Oakley / Grafto → 贝德福德 / 奥克利 / 格拉夫顿 /  源×9     译×9    
+     Paradise Lost                  → 《失乐园》                源×1     译×2    
+     John Skelton                   → 约翰·斯克尔顿              源×1     译×1    
+     Samuel Butler                  → 塞缪尔·巴特勒              源×1     译×1    
+     Beethoven's Fifth Symphony     → 贝多芬《第五交响曲》           源×1     译×1    
+     The Bonny Earl of Murray       → 《邦尼的默里伯爵》            源×1     译×1    
+     The Minstrelsy of the Border   → 《边境游吟集》              源×1     译×1    
+     Robinson Crusoe                → 《鲁滨逊漂流记》             源×1     译×1    
+     Anthony Trollope               → 安东尼·特罗洛普             源×1     译×1    
+     Puritan's Progress             → 清教徒历程                源×1     译×1    
+     Blue Lamps / Red Lamps         → 蓝灯 / 红灯              源×2     译×3    
+     5th Infantry Base Depot / 5th  → 第五步兵补充兵营             源×3     译×1     落位偏低 1/3
+     Base Camp                      → 基地兵营                 源×1     译×1    
+     the Bull Ring                  → 斗牛场                  源×1     译×1    
+     German measles                 → 德国麻疹                 源×2     译×2    
+     No. 25 Stationary Hospital     → 第二十五后方医院             源×1     译×1    
+     stationary hospital            → 后方医院                 源×0     译×0     ★源0次(幽灵?)
+     shell-shock (case)             → 弹震症                  源×2     译×2    
+     shot for cowardice             → 因怯战被枪决               源×2     译×1    
+     Conscientious Objectors        → 良心拒服兵役者              源×4     译×7    
+     War Office                     → 陆军部                  源×5     译×5    
+     hard labour                    → 苦工（刑）                源×2     译×2    
+     Medical Officer / M.O.         → 军医官                  源×4     译×0     ★译0次(未落位?)
+     Rifle Brigade                  → 步枪旅                  源×1     译×2    
+     Territorial (Force)            → 本土义勇军                源×1     译×2    
+     Heavy Trench Mortars           → 重迫击炮                 源×1     译×1    
+     Balloon Section                → 气球分队                 源×1     译×1    
+     Royal Flying Corps / R.F.C.    → 皇家飞行队                源×2     译×2    
+     Royal Field Artillery / R.F.A. → 皇家野战炮兵               源×1     译×0     ★译0次(未落位?)
+     Garrison Gunners               → 守备炮兵                 源×1     译×1    
+     green tabs                     → 绿领章                  源×1     译×1    
+     Coronation Medal               → 加冕奖章                 源×1     译×1    
+     Base Details                   → 基地这帮人                源×1     译×1    
+     reinforcement train            → 增援火车                 源×1     译×1    
+     Red Cross trains               → 红十字列车                源×1     译×2    
+     Cavalry Brigadier              → 骑兵旅长                 源×1     译×1    
+     trench-coat                    → 战壕雨衣                 源×1     译×2    
+     trench-boots                   → 战壕靴                  源×2     译×2    
+     haversack                      → 背囊                   源×6     译×5    
+     gaiters                        → 绑腿                   源×1     译×0     ★译0次(未落位?)
+     New Army Battalion             → 新军营                  源×2     译×2    
+     R.C. padre                     → 天主教随军牧师              源×1     译×1    
+     kilt                           → 苏格兰裙                 源×1     译×1    
+     harriers                       → 猎兔狗                  源×2     译×2    
+     Field Artillery                → 野战炮兵                 源×2     译×2    
+     Omar Khayyám                   → 奥玛·珈音                源×2     译×2    
+     a jug of wine, a loaf of bread → 一壶酒、一块面包             源×1     译×1    
+     tone                           → 派头                   源×7     译×6    
+     for the nonce / anent          → 暂且 / 关于              源×3     译×33   
+     Caravanserai                   → 客栈                   源×1     译×3    
+     being for it again             → 又去送命了                源×1     译×1    
+     wangle                         → 设法弄到                 源×2     译×1    
+     chew the rag                   → 嚼舌头                  源×0     译×1     ★源0次(幽灵?)
+     give them the knock            → 给他们点颜色看看             源×1     译×1    
+     cried enough                   → 讨饶                   源×1     译×1    
+     made good                      → 争了气                  源×1     译×1    
+     in clover                      → 在福窝里                 源×1     译×1    
+     temporary gentleman            → 临时绅士                 源×1     译×1    
+     spring offensive               → 春季攻势                 源×0     译×0     ★源0次(幽灵?)
+     four and threepence            → 四先令三便士               源×1     译×1    
+     quid                           → 一镑（俚语）               源×1     译×1    
+     Saint's Day                    → 圣徒节                  源×1     译×1    
+     Lenten                         → 大斋期的                 源×1     译×1    
+     nave                           → 中殿                   源×1     译×1    
+     rose-window                    → 玫瑰花窗                 源×1     译×1    
+     Archangel                      → 天使长号                 源×1     译×1    
+     Burgundy                       → 勃艮第                  源×1     译×1    
+     M.C. (Military Cross)          → 军功十字勋章               源×3     译×12   
+     Bar (to a medal)               → 加章（勋带银玫瑰结）           源×4     译×2     落位偏低 2/4
+     Mills bomb                     → 米尔斯手榴弹               源×3     译×7    
+     General Service (G.S.)         → 一般勤务                 源×4     译×0     ★译0次(未落位?)
+     Flying Corps / R.A.F.          → 飞行队 / 皇家飞行队          源×1     译×1    
+     Staff Officer                  → 参谋军官                 源×2     译×3    
+     Trench Warfare                 → 堑壕战                  源×8     译×8    
+     permanent rank                 → 实授军衔                 源×1     译×1    
+     theosophist                    → 通灵论者                 源×1     译×1    
+     spiritualism                   → 通灵术                  源×1     译×1    
+     Roll of Honour                 → 阵亡名册                 源×0     译×2     ★源0次(幽灵?) 残留「伤亡名册」×3
+     Lamb's Essays                  → 兰姆随笔                 源×1     译×0     ★译0次(未落位?)
+     Unconservative Weekly          → 《非保守派周刊》             源×0     译×5     ★源0次(幽灵?)
+     Morning Post                   → 《晨邮报》                源×3     译×3    
+     Archbishop of Canterbury       → 坎特伯雷大主教              源×2     译×2    
+     Royal Academy                  → 皇家美术院                源×1     译×1    
+     "Forward the Guns!"            → 「炮车前进！」              源×0     译×1     ★源0次(幽灵?)
+     Contalmaison (picture)         → 《孔特迈松》               源×0     译×1     ★源0次(幽灵?)
+     Nth Division                   → 第 N 师                源×3     译×1     落位偏低 1/3
+     illustrated weeklies           → 画报性周刊                源×1     译×1    
+     War Correspondents' Headquarte → 随军记者总部               源×1     译×1    
+     House of Lords                 → 上议院                  源×1     译×1    
+     Ecclesiastical Commissioners   → 教会委员                 源×1     译×1    
+     Dante                          → 但丁                   源×1     译×1    
+     Paolo and Francesca            → 保罗与弗朗切丝卡             源×2     译×2    
+     D'Annunzio                     → 邓南遮                  源×1     译×1    
+     Colonel Repington              → 雷平顿上校                源×1     译×1    
+     Allenby                        → 艾伦比                  源×8     译×8    
+     General Smuts                  → 史末资将军                源×2     译×2    
+     Tagore                         → 泰戈尔                  源×1     译×1    
+     Gluck / Handel                 → 格鲁克 / 亨德尔            源×2     译×2    
+     Boer War                       → 布尔战争                 源×3     译×3    
+     hock                           → 莱茵白葡萄酒               源×3     译×1     落位偏低 1/3
+     kippers                        → 熏鲱鱼干                 源×4     译×3    
+     mufti                          → 便装                   源×1     译×4    
+     Tribunals                      → 征兵法庭                 源×2     译×1    
+     groundsheet                    → 油布                   源×2     译×3    
+     cushy wound                    → 够回国又不致命的轻伤           源×1     译×1    
+     provisional pension            → 临时抚恤金                源×1     译×1    
+     ragtime                        → 雷格泰姆                 源×1     译×1    
+     Barrage lifted at the first ob → 弹幕在第一道目标线延伸          源×1     译×0     ★译0次(未落位?)
+     Gordon Highlanders             → 戈登高地团                源×2     译×2    
+     Devons                         → 德文郡团                 源×1     译×1    
+     South Staffordshires           → 南斯塔福德郡团              源×1     译×1    
+     Border Regiment                → 边境团                  源×2     译×2    
+     Royal Irish                    → 皇家爱尔兰团               源×6     译×6    
+     Royal Irish Fusiliers          → 皇家爱尔兰燧发枪兵团           源×0     译×0     ★源0次(幽灵?)
+     21st Division                  → 第二十一师                源×3     译×3    
+     Welsh Division                 → 威尔士师                 源×3     译×3    
+     Six Army Corps                 → 六军                   源×1     译×0     ★译0次(未落位?)
+     Field-Marshal Haig             → 陆军元帅黑格               源×1     译×1    
+     Stokes mortar                  → 斯托克斯迫击炮              源×1     译×4    
+     Salvage Corps                  → 战场回收队                源×1     译×1    
+     Casualty Clearing Station      → 伤员清理站                源×3     译×1     落位偏低 1/3
+     Dressing Station               → 包扎站                  源×5     译×1     落位偏低 1/5
+     Forward Observation Officer    → 前进观测官                源×1     译×1    
+     Comic Cuts                     → 《连环漫画》               源×2     译×2    
+     Z day / zero day / zero hour   → Z 日 / 零时日 / 零时       源×6     译×0     ★译0次(未落位?)
+     Operation Orders               → 作作战命令                源×8     译×0     ★译0次(未落位?)
+     Battle Plan                    → 作战计划                 源×1     译×3    
+     Corps Intelligence Summary     → 军情报简报                源×2     译×1    
+     stand-to                       → 待命                   源×2     译×4    
+     fire-step                      → 火阶                   源×4     译×3    
+     fire-trench                    → 战斗壕                  源×1     译×1    
+     support trench                 → 支援壕                  源×5     译×8    
+     communication trench           → 交通壕                  源×8     译×8    
+     sap                            → 壕支线                  源×7     译×2     落位偏低 2/7
+     strong-point / strong-post     → 坚强据点                 源×4     译×3    
+     consolidation                  → 巩固                   源×3     译×6    
+     carrying-party                 → 运输队 / 搬运队            源×6     译×12   
+     ammunition-carrying party      → 运弹小队                 源×0     译×2     ★源0次(幽灵?)
+     parapet                        → 胸墙                   源×10    译×11   
+     bivouac                        → 棚屋 / 露营              源×2     译×27   
+     Echelon / reserve Echelon      → 梯队 / 预备梯队            源×1     译×1    
+     valise                         → 行军背包                 源×5     译×1     落位偏低 1/5
+     fleabag                        → 睡袋                   源×4     译×3    
+     tin hat                        → 钢盔                   源×4     译×11   
+     basin-helmet                   → 盆形钢盔                 源×0     译×1     ★源0次(幽灵?)
+     web-equipment                  → 帆布装备                 源×1     译×1    
+     smoke helmets                  → 防烟头盔                 源×1     译×1    
+     gas-cylinders                  → 毒气筒                  源×1     译×1    
+     smoke-bombs                    → 烟幕弹                  源×1     译×1    
+     phosphorus bombs               → 磷弹                   源×1     译×1    
+     stick-bombs                    → 柄式手榴弹                源×1     译×1    
+     Mills bomb                     → 米尔斯手榴弹               源×0     译×0     ★源0次(幽灵?)
+     bully beef                     → 咸牛肉（罐头）              源×1     译×1    
+     hard biscuits                  → 硬饼干                  源×1     译×1    
+     grocery ration                 → 杂货配额                 源×1     译×0     ★译0次(未落位?)
+     rum issue / rum-jar            → 朗姆酒配额 / 朗姆酒坛         源×2     译×4    
+     Heavies                        → 重炮                   源×1     译×6    
+     5.9 shells                     → 5.9 英寸炮弹             源×1     译×0     ★译0次(未落位?)
+     shrapnel                       → 榴霰弹                  源×4     译×3    
+     field-glasses                  → 望远镜                  源×3     译×4    
+     gas-mask                       → 防毒面具                 源×1     译×1    
+     haversack                      → 背囊                   源×0     译×0     ★源0次(幽灵?)
+     water-bottle                   → 水壶                   源×3     译×4    
+     corkscrew stakes               → 螺旋形桩子                源×1     译×1    
+     concertina wire                → 蛇腹式铁丝网               源×1     译×1    
+     wire-cutters                   → 铁丝剪                  源×11    译×10   
+     Woodbine                       → 「忍冬」牌香烟              源×1     译×1    
+     Limbers                        → 弹药车                  源×6     译×4    
+     field-kitchens                 → 野战厨房                 源×1     译×1    
+     motor-lorries                  → 运货卡车                 源×1     译×1    
+     Transport Lines / Transport    → 运输线                  源×12    译×3     落位偏低 3/12
+     view-halloas                   → 猎人之啸                 源×0     译×1     ★源0次(幽灵?)
+     did a guy                      → 溜之大吉                 源×1     译×2    
+     into the blue                  → 跃入未知的蓝色              源×1     译×1    
+     cold-footed                    → 怯战                   源×2     译×4    
+     windup                         → 吓破了胆                 源×2     译×1    
+     marking time                   → 原地踏步                 源×1     译×2    
+     next show                      → 下一次「演出」              源×1     译×1    
+     cockfighting                   → 斗鸡                   源×2     译×2    
+     bona fide                      → 货真价实                 源×1     译×1    
+     attrition of manpower          → 人力消耗                 源×1     译×1    
+     Staff Captain                  → 参谋上尉                 源×2     译×2    
+     jocular Jesus                  → 爱开玩笑的耶稣              源×1     译×1    
+     Godbert Restaurant             → 戈贝尔餐厅                源×1     译×1    
+     Basilica                       → 大殿                   源×1     译×1    
+     Second Battalion               → 第二营                  源×22    译×22   
+     Camp 13                        → 十三号营                 源×8     译×8    
+     Cléry sector                   → 克莱里防区                源×1     译×1    
+     Major-General Whincop          → 温科普少将                源×1     译×1     残留「无朗姆酒师」×2
+     No Rum Division                → 「无朗姆酒师」              源×1     译×2    
+     G.O.C. (General Officer Comman → 集团军司令                源×0     译×8     ★源0次(幽灵?)
+     Colonel Easby                  → 伊斯比上校                源×3     译×3    
+     Captain Leake                  → 莱克上尉                 源×1     译×1    
+     Captain Munro                  → 芒罗上尉                 源×1     译×1    
+     Quartermaster Bates            → 军需官贝茨                源×0     译×1     ★源0次(幽灵?)
+     Ralph Wilmot                   → 拉尔夫·威尔莫特             源×0     译×0     ★源0次(幽灵?)
+     Rees                           → 里斯                   源×8     译×14   
+     Shirley                        → 雪利                   源×9     译×9    
+     wart                           → 「疣子」                 源×0     译×1     ★源0次(幽灵?)
+     Special Reserve                → 特种预备役                源×1     译×1    
+     Divisional Race Meeting        → 师越野赛马会               源×1     译×1    
+     Cookers                        → 「炊事车」                源×2     译×2    
+     Corps Commander                → 军长                   源×10    译×11   
+     Allenby                        → 艾伦比                  源×0     译×0     ★源0次(幽灵?)
+     Rawlinson                      → 罗林森                  源×1     译×2    
+     Army Area                      → 集团军辖区                源×2     译×2    
+     Cameronians                    → 卡梅伦苏格兰步枪兵            源×3     译×2    
+     Lancers                        → 枪骑兵                  源×1     译×1    
+     Sausage Machine                → 香肠机（绞肉机）             源×2     译×1    
+     Arras Battle                   → 阿拉斯战役                源×2     译×3    
+     Second Battle of the Scarpe    → 第二次斯卡普河之役            源×1     译×1    
+     Casualty Clearing Station      → 伤员急救站                源×0     译×2     ★源0次(幽灵?) 残留「伤员清理站」×1
+     Y.M.C.A.                       → 基督教青年会               源×1     译×1    
+     estaminets                     → 乡村小酒馆                源×1     译×1    
+     Life of Disraeli               → 《迪斯累里传》              源×1     译×1    
+     gastritis                      → 胃炎                   源×2     译×2    
+     opium pill                     → 鸦片丸                  源×1     译×1    
+     Field Cashier                  → 野战出纳官                源×3     译×3    
+     Hindenburg Trench / Main Trenc → 兴登堡战壕 / 主壕 / 前哨壕 / 隧 源×25    译×26   
+     Sappers                        → 工兵                   源×3     译×4    
+     Stokes-gun / Stokes mortar     → 斯托克斯迫击炮              源×3     译×0     ★译0次(未落位?)
+     Mills bombs                    → 米尔斯手榴弹               源×3     译×0     ★译0次(未落位?)
+     egg-bomb                       → 卵形手榴弹                源×1     译×1    
+     field-grey                     → 灰绿色                  源×2     译×5    
+     bay                            → 壕的拐角                 源×2     译×1    
+     O.C. Cameronians               → 卡梅伦苏格兰步枪兵长官          源×2     译×2    
+     2nd Lt. / Lt.                  → 二等少尉 / 中尉            源×4     译×2     落位偏低 2/4
+     Stygian shore                  → 冥河彼岸                 源×1     译×1    
+     Canterbury Cricket Week        → 坎特伯雷板球周              源×1     译×1    
+     Kentish Weald                  → 肯特郡威尔德               源×1     译×1    
+     Squire Maundle                 → 乡绅莫恩德尔               源×2     译×2    
+     Amblehurst                     → 安布尔赫斯特               源×1     译×1    
+     Dumbridge Road                 → 邓布里奇路                源×1     译×1    
+     B. Echelon                     → B 梯队                 源×2     译×2    
+     Bovril                         → 波弗利                  源×1     译×1    
+     anti-tetanus injection         → 防破伤风针                源×1     译×0     ★译0次(未落位?)
+     Henin / Henin Hill             → 埃南 / 埃南山             源×2     译×3    
+     Wancourt Tower                 → 万库尔塔楼                源×1     译×1    
+     Heninel                        → 埃南                   源×1     译×0     ★译0次(未落位?)
+     Fontaine-les-Croiselles        → 枫丹莱克鲁瓦塞尔             源×3     译×3    
+     Mercatel                       → 梅卡泰尔                 源×1     译×1    
+     St. Martin-Cojeul              → 圣马丁科茹尔               源×1     译×1    
+     Ficheux                        → 菲什                   源×2     译×0     ★译0次(未落位?) 残留「鱼钩」×1
+     Blairville                     → 布莱尔维尔                源×3     译×3    
+     Lucheux                        → 吕雪                   源×1     译×1    
+     Saulty                         → 索尔蒂                  源×1     译×1    
+     Basseux                        → 巴索                   源×3     译×3    
+     Beauval                        → 博沃                   源×2     译×2    
+     Pont Noyelles                  → 蓬努瓦耶                 源×1     译×1    
+     Villers-Bocage                 → 维莱博卡日                源×3     译×3    
+     Doullens                       → 杜伦                   源×3     译×3    
+     St. Pol                        → 圣波尔                  源×1     译×1    
+     Neuville-Vitasse               → 讷维尔维塔斯               源×1     译×1    
+     Warlencourt                    → 沃伦库尔                 源×1     译×1    
+     Captain Macnair                → 麦克奈尔上尉               源×2     译×2    
+     Sergeant Baldock               → 鲍尔多克中士               源×3     译×2    
+     K.C.B.                         → 巴斯骑士大十字勋章            源×1     译×1    
+     Field Ambulance Hut            → 前线救护棚                源×1     译×1    
+     Army Service Corps Dump        → 陆军勤务队兵站              源×1     译×1    
+     British Warm                   → 「英式暖」军大衣             源×1     译×1    
+     Maconachie                     → 马科诺奇                 源×1     译×1    
+     Infantry Training              → 《步兵训练》               源×1     译×1    
+     Handbook for the Training of P → 《排训练手册》              源×1     译×1    
+     Corps Reserve                  → 军预备队                 源×1     译×1    
+     Court Martial                  → 军事法庭                 源×6     译×7    
+     Tosca / Bohème                 → 《托斯卡》 / 《波希米亚人》      源×2     译×2    
+     bubbly                         → 「冒泡的」                源×3     译×1     落位偏低 1/3
+     tickle the ivories             → 「弹弹象牙」               源×1     译×0     ★译0次(未落位?)
+     Cox's / Cox's Bank             → 考克斯银行                源×1     译×0     ★译0次(未落位?)
+     Magdalen / Christ Church / Bal → 莫德林 / 基督教堂学院 / 贝利奥尔  源×4     译×4    
+     Winchester                     → 温彻斯特                 源×1     译×1    
+     public school                  → 公学                   源×3     译×3    
+     nap                            → 「纳普」                 源×3     译×2    
+     despatch riding                → 送急件                  源×1     译×1    
+     motor-bicycle                  → 摩托自行车                源×1     译×1    
+     Evacuation                     → 撤退                   源×1     译×2    
+     Armageddon                     → 阿米吉多顿                源×2     译×1    
+     memento mori                   → 「莫忘汝终有一死」            源×1     译×1    
+     happy warrior                  → 「快乐的战士」              源×3     译×2    
+     self-inflicted wounds          → 自伤                   源×1     译×1    
+     Battalion spirit               → 「营魂」                 源×2     译×1    
+     people at home                 → 「家里那帮人」              源×5     译×1     落位偏低 1/5
+     steel curtain                  → 铁幕                   源×1     译×1    
+     walking wounded                → 「能走动的伤员」             源×3     译×2    
+     Red Cross train                → 红十字列车                源×2     译×0     ★译0次(未落位?)
+     Charing Cross (Station)        → 查令十字（车站）             源×2     译×2    
+     Denmark Hill                   → 丹麦山                  源×0     译×0     ★源0次(幽灵?)
+     Bishop of London               → 伦敦主教                 源×1     译×1    
+     Holy Communion                 → 圣餐礼                  源×1     译×0     ★译0次(未落位?)
+     jugular vein                   → 颈静脉                  源×1     译×1    
+     Palm Sunday                    → 棕枝主日                 源×1     译×1    
+     Good Friday                    → 耶稣受难日                源×1     译×1    
+     Easter Monday                  → 复活节星期一               源×2     译×2    
+     Mr. Markington                 → 马金顿先生                源×1     译×1    
+     Thornton Tyrrell               → 桑顿·蒂雷尔               源×2     译×2    
+     David Cromlech                 → 戴维·克朗莱克              源×0     译×0     ★源0次(幽灵?) 残留「进疯人院」×1
+     Major Macartney                → 麦卡蒂少校                源×0     译×0     ★源0次(幽灵?)
+     Deputy-Assistant-Adjutant      → 副助理副官                源×2     译×2    
+     Thomas Welfare                 → 托马斯·韦尔法              源×1     译×1    
+     Sarah Welfare                  → 萨拉·韦尔法               源×0     译×0     ★源0次(幽灵?)
+     Popsy                          → 波普西                  源×2     译×2    
+     Kerensky                       → 克伦斯基                 源×1     译×1    
+     Richard Cobden                 → 理查德·科布登              源×1     译×1    
+     Lloyd George                   → 劳合·乔治                源×1     译×1    
+     Gladstone                      → 格拉德斯通                源×1     译×1    
+     Muhammad and the Mountain      → 穆罕默德和山               源×1     译×1    
+     Archdeacon Crocket             → 会吏长克罗克特              源×1     译×1    
+     the Duke of Omnium             → 奥姆尼姆公爵               源×1     译×1     残留「巴塞特郡」×1
+     the Battle of Messines         → 梅西纳战役                源×1     译×1    
+     the Russian Front              → 俄国前线                 源×1     译×1    
+     the Russian Revolution         → 俄国革命                 源×0     译×0     ★源0次(幽灵?)
+     Whitehall                      → 白厅                   源×1     译×1    
+     G.H.Q. (General Headquarters)  → 总司令部                 源×4     译×4    
+     Pall Mall                      → 蓓尔美尔街                源×1     译×1    
+     the Strand                     → 河滨大道                 源×1     译×1    
+     Bloomsbury                     → 布卢姆斯伯里               源×2     译×2    
+     Hampstead                      → 汉普斯特德                源×1     译×1    
+     Charing Cross Bridge           → 查令十字桥                源×1     译×1    
+     Old Broad Street               → 老宽街                  源×3     译×3    
+     Liverpool Street (Station)     → 利物浦街（车站）             源×1     译×2    
+     St. Pancras                    → 圣潘克拉斯                源×1     译×1    
+     Paternoster Avenue             → 帕特诺斯特巷               源×1     译×1    
+     the Savoy Hotel                → 萨伏伊饭店                源×2     译×3    
+     the Ritz                       → 里兹饭店                 源×2     译×1    
+     Jermyn Street                  → 杰明街                  源×1     译×1    
+     Hyde Park                      → 海德公园                 源×0     译×0     ★源0次(幽灵?)
+     Barsetshire                    → 巴塞特郡                 源×0     译×1     ★源0次(幽灵?)
+     Grantchester                   → 格兰特切斯特               源×1     译×0     ★译0次(未落位?)
+     King's Chapel                  → 国王学院礼拜堂              源×1     译×1    
+     Baldock Wood                   → 巴尔多克伍德               源×1     译×1    
+     Dumbridge                      → 邓布里奇                 源×3     译×3    
+     the County Cricket Ground      → 郡板球场                 源×1     译×1    
+     the Kent Eleven                → 肯特郡十一人队              源×1     译×0     ★译0次(未落位?)
+     Crewe                          → 克鲁                   源×2     译×4    
+     Formby                         → 福姆比                  源×0     译×0     ★源0次(幽灵?)
+     Brotherhood's Explosive Works  → 布拉泽胡德炸药厂             源×1     译×1    
+     the Exchange Hotel             → 交换旅馆                 源×3     译×3    
+     Slateford (War) Hospital       → 斯莱特福德（战时）医院          源×3     译×3    
+     Mersey Defences                → 默西防区                 源×1     译×1    
+     the Isle of Wight disease      → 怀特岛病                 源×1     译×1    
+     Flanders                       → 佛兰德                  源×4     译×1     落位偏低 1/4
+     Galicia                        → 加利西亚                 源×2     译×2    
+     the Balkan States              → 巴尔干各国                源×1     译×1    
+     Mesopotamian Oil Wells         → 美索不达米亚油井             源×1     译×0     ★译0次(未落位?)
+     Westphalia / Prussia           → 威斯特伐利亚 / 普鲁士         源×0     译×3     ★源0次(幽灵?)
+     the *Unconservative Weekly*    → 《非保守派周刊》             源×5     译×0     ★译0次(未落位?)
+     the Liberal Party              → 自由党                  源×1     译×2    
+     War Aims                       → 战争目标                 源×5     译×5    
+     Conscientious Objectors        → 良心拒服兵役者              源×0     译×0     ★源0次(幽灵?)
+     the "Stop the War Committee"   → 「停止战争委员会」            源×0     译×1     ★源0次(幽灵?)
+     the "No Conscription Fellowshi → 「反征兵同志会」             源×0     译×1     ★源0次(幽灵?)
+     Conscientious Objector         → 良心拒服兵役者              源×3     译×0     ★译0次(未落位?)
+     Pacifist(s)                    → 和平主义者                源×5     译×4    
+     pacifist                       → 和平主义的                源×0     译×0     ★源0次(幽灵?)
+     Anti-War Movement              → 反战运动                 源×1     译×1    
+     extreme pacifists              → 极端和平主义者              源×1     译×1    
+     "gallant little Belgium"       → 「英勇的小比利时」            源×0     译×1     ★源0次(幽灵?)
+     defeatist                      → 失败主义者                源×1     译×1    
+     Home Rule Bill                 → 《爱尔兰自治法案》            源×1     译×1    
+     International Arbitration      → 国际仲裁                 源×1     译×1    
+     secret treaties                → 秘密条约                 源×1     译×1    
+     air-raid                       → 空袭                   源×3     译×6    
+     Air Raid Reprisals             → 空袭报复                 源×1     译×1    
+     searchlights                   → 探照灯                  源×1     译×1    
+     zeppelin                       → 齐柏林飞艇                源×1     译×1    
+     "crushing Prussian militarism" → 「粉碎普鲁士军国主义」          源×0     译×1     ★源0次(幽灵?)
+     Court Martial / court martial  → 军事法庭                 源×0     译×0     ★源0次(幽灵?)
+     Special Medical Board          → 特别体格复审               源×1     译×1    
+     R.A.M.C. (Royal Army Medical C → 陆军军医团（皇家陆军医疗队）       源×1     译×1    
+     shell-shock                    → 弹震症                  源×0     译×0     ★源0次(幽灵?)
+     lunatic asylum                 → 疯人院                  源×1     译×1    
+     "prisoner's friend"            → 「囚徒之友」               源×0     译×0     ★源0次(幽灵?)
+     skrimshankers                  → 装病逃避的人               源×1     译×1    
+     wire-pulling                   → 暗中疏通                 源×1     译×1    
+     doctrinaire                    → 空论家                  源×1     译×3    
+     Vickers Machine-Gun            → 维克斯机枪                源×1     译×2    
+     cadet / Cadet Battalion        → 学兵 / 学兵营             源×5     译×7    
+     History Don                    → 历史学研究员               源×1     译×1    
+     musketry-exercise              → 射击操练                 源×1     译×0     ★译0次(未落位?)
+     Staff work                     → 参谋工作                 源×1     译×1    
+     local objective                → 局部目标                 源×2     译×2    
+     the Central Powers             → 中部列强（同盟国）            源×1     译×1    
+     the Allies                     → 协约国                  源×4     译×6    
+     second-lieutenant              → 二等少尉                 源×6     译×0     ★译0次(未落位?)
+     temporary gentleman            → 临时绅士                 源×0     译×0     ★源0次(幽灵?)
+     Divisional General             → 师长                   源×3     译×4    
+     Brigadier / Division           → 准将 / 师               源×7     译×3     落位偏低 3/7
+     Colonel / Major / Captain      → 上校 / 少校 / 上尉         源×0     译×0     ★源0次(幽灵?)
+     Generals (Allenby/Smuts/Rawlin → 艾伦比/史末资/罗林森          源×9     译×0     ★译0次(未落位?)
+     Tolstoy's *War and Peace*      → 托尔斯泰《战争与和平》          源×1     译×0     ★译0次(未落位?)
+     Trollope's Barsetshire         → 特罗洛普「巴塞特郡」小说         源×1     译×0     ★译0次(未落位?)
+     Kropotkin's *The Conquest of B → 克鲁泡特金《面包征服》          源×0     译×0     ★源0次(幽灵?)
+     Rousseau's *The Morals of Rous → 《卢梭的道德》              源×0     译×1     ★源0次(幽灵?)
+     Cowper's couplet "I shall not  → 柯珀对偶句「我不会去问让·雅克·卢梭/鸟 源×3     译×1     落位偏低 1/3
+     Palgrave's *Golden Treasury of → 帕尔格雷夫《英诗金库》          源×1     译×0     ★译0次(未落位?)
+     Keats' "Ode to a Nightingale"  → 济慈《夜莺颂》              源×0     译×0     ★源0次(幽灵?)
+     Gray's Elegy                   → 格雷《墓畔哀歌》             源×1     译×1    
+     Milton / *Paradise Lost* ("att → 弥尔顿《失乐园》             源×4     译×0     ★译0次(未落位?)
+     "Rock of ages cleft for me, le → 「磐石为我开，容我藏身其中」       源×0     译×1     ★源0次(幽灵?)
+     *Who's Who*                    → 《名人录》                源×1     译×1    
+     "Muhammad and the Mountain"    → 「穆罕默德和山」             源×0     译×0     ★源0次(幽灵?)
+     Muhammad                       → 穆罕默德                 源×1     译×1    
+     "Keep vital" / "love your neig → 「保持生气」 / 「爱你的邻人」     源×0     译×0     ★源0次(幽灵?)
+

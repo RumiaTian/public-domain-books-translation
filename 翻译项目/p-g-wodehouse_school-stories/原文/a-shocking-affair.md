@@ -1,0 +1,96 @@
+## A Shocking Affair
+The Bradshaw who appears in the following tale is the same youth who figures as the hero﻿—or villain, label him as you like﻿—of the preceding equally veracious narrative. I mention this because I should not care for you to go away with the idea that a waistcoat marked with the name of Bradshaw must of necessity cover a scheming heart. It may, however, be noticed that a good many members of the Bradshaw family possess a keen and rather sinister sense of the humorous, inherited doubtless from their great ancestor, the dry wag who wrote that monument of quiet drollery, *Bradshaw’s Railway Guide*. So with the hero of my story.
+Frederick Wackerbath Bradshaw was, as I have pointed out, my contemporary at St. Austin’s. We were in the same House, and together we sported on the green﻿—and elsewhere﻿—and did our best to turn the majority of the staff of masters into confirmed pessimists, they in the meantime endeavouring to do the same by us with every weapon that lay to their hand. And the worst of these weapons were the end-of-term examination papers. Mellish was our form-master, and once a term a demon entered into Mellish. He brooded silently apart from the madding crowd. He wandered through dry places seeking rest, and at intervals he would smile evilly, and jot down a note on the back of an envelope. These notes, collected and printed closely on the vilest paper, made up the examination questions.
+Our form read two authors a term, one Latin and one Greek. It was the Greek that we feared most. Mellish had a sort of genius for picking out absolutely untranslatable passages, and desiring us (in print) to render the same with full notes. This term the book had been Thucydides, Book II, with regard to which I may echo the words of a certain critic when called upon to give his candid opinion of a friend’s first novel, “I dare not say what I think about that book.”
+About a week before the commencement of the examinations, the ordinary night-work used to cease, and we were supposed, during that week, to be steadily going over the old ground and arming ourselves for the approaching struggle. There were, I suppose, people who actually did do this, but for my own part I always used to regard those seven days as a blessed period of rest, set apart specially to enable me to keep abreast of the light fiction of the day. And most of the form, so far as I know, thought the same. It was only on the night before the examination that one began to revise in real earnest. One’s methods on that night resolved themselves into sitting in a chair and wondering where to begin. Just as one came to a decision, it was bedtime.
+“Bradshaw,” I said, as I reached page 103 without having read a line, “do you know any likely bits?”
+Bradshaw looked up from his book. He was attempting to get a general idea of Thucydides’ style by reading Pickwick.
+“What?” he said.
+I obliged with a repetition of my remark.
+“Likely bits? Oh, you mean for the Thucydides. I don’t know. Mellish never sets the bits any decent ordinary individual would set. I should take my chance if I were you.”
+“What are you going to do?”
+“I’m going to read Pickwick. Thicksides doesn’t come within a mile of it.”
+I thought so too.
+“But how about tomorrow?”
+“Oh, I shan’t be there,” he said, as if it were the most ordinary of statements.
+“Not there! Why, have you been sacked?”
+This really seemed the only possible explanation. Such an event would not have come as a surprise. It was always a matter for wonder to me *why* the authorities never sacked Bradshaw, or at the least requested him to leave. Possibly it was another case of the ass and the bundles of hay. They could not make up their minds which special misdemeanour of his to attack first.
+“No, I’ve not been sacked,” said Bradshaw.
+A light dawned upon me.
+“Oh,” I said, “you’re going to slumber in.” For the benefit of the uninitiated, I may mention that to slumber in is to stay in the House during school on a pretence of illness.
+“That,” replied the man of mystery, with considerable asperity, “is exactly the silly rotten kid’s idea that would come naturally to a complete idiot like you.”
+As a rule, I resent being called a complete idiot, but this was not the time for asserting one’s personal dignity. I had to know what Bradshaw’s scheme for evading the examination was. Perhaps there might be room for two in it; in which case I should have been exceedingly glad to have lent my moral support to it. I pressed for an explanation.
+“You may jaw,” said Bradshaw at last, “as much as you jolly well please, but I’m not going to give this away. All you’re going to know is that I shan’t be there tomorrow.”
+“I bet you are, and I bet you do a jolly rank paper too,” I said, remembering that the sceptic is sometimes vouchsafed revelations to which the most devout believer may not aspire. It is, for instance, always the young man who scoffs at ghosts that the family spectre chooses as his audience. But it required more than a mere sneer or an empty gibe to pump information out of Bradshaw. He took me up at once.
+“What’ll you bet?” he said.
+Now I was prepared to wager imaginary sums to any extent he might have cared to name, but as my actual worldly wealth at that moment consisted of one penny, and my expectations were limited to the shilling pocket-money which I should receive on the following Saturday﻿—half of which was already mortgaged﻿—it behoved me to avoid doing anything rash with my ready money. But, since a refusal would have meant the downfall of my arguments, I was obliged to name a figure. I named an even sixpence. After all, I felt, I must win. By what means, other than illness, could Bradshaw possibly avoid putting in an appearance at the Thucydides examination?
+“All right,” said Bradshaw, “an even sixpence. You’ll lose.”
+“Slumbering in barred.”
+“Of course.”
+“Real illness barred too,” I said. Bradshaw is a man of resource, and has been known to make himself genuinely ill in similar emergencies.
+“Right you are. Slumbering in and real illness both barred. Anything else you’d like to bar?”
+I thought.
+“No. Unless﻿—” an idea struck me﻿—“You’re not going to run away?”
+Bradshaw scorned to answer the question.
+“Now you’d better buck up with your work,” he said, opening his book again. “You’ve got about as long odds as anyone ever got. But you’ll lose all the same.”
+It scarcely seemed possible. And yet﻿—. Bradshaw was generally right. If he said he had a scheme for doing﻿—though it was generally for not doing﻿—something, it rarely failed to come off. I thought of my sixpence, my only sixpence, and felt a distinct pang of remorse. After all, only the other day the chaplain had said how wrong it was to bet. By Jove, so he had. Decent man the chaplain. Pity to do anything he would disapprove of. I was on the point of recalling my wager, when before my mind’s eye rose a vision of Bradshaw rampant and sneering, and myself writhing in my chair a crushed and scored-off wreck. I drew the line at that. I valued my self-respect at more than sixpence. If it had been a shilling now﻿—. So I set my teeth and turned once more to my Thucydides. Bradshaw, having picked up the thread of his story again, emitted hoarse chuckles like minute guns, until I very nearly rose and fell upon him. It is maddening to listen to a person laughing and not to know the joke.
+“You will be allowed two hours for this paper,” said Mellish on the following afternoon, as he returned to his desk after distributing the Thucydides questions. “At five minutes to four I shall begin to collect your papers, but those who wish may go on till ten past. Write only on one side of the paper, and put your names in the top right-hand corner. Marks will be given for neatness. Any boy whom I see looking at his neighbour’s﻿—*where’s Bradshaw?*”
+It was already five minutes past the hour. The latest of the late always had the decency to appear at least by three minutes past.
+“Has anybody seen Bradshaw?” repeated Mellish. “You, what’s-your-name﻿—(I am what’s-your-name, very much at your service)﻿—you are in his House. Have you seen him?”
+I could have pointed out with some pleasure at this juncture that if Cain expressed indignation at being asked where his brother was, I, by a simple sum in proportion, might with even greater justice feel annoyed at having to locate a person who was no relative of mine at all. Did Mr. Mellish expect me to keep an eye on every member of my House? Did Mr. Mellish﻿—in short, what did he mean by it?
+This was what I thought. I said, “No, sir.”
+“This is extraordinary,” said Mellish, “most extraordinary. Why, the boy was in school this morning.”
+This was true. The boy had been in school that morning to some purpose, having beaten all records (his own records) in the gentle sport of Mellish-baiting. This evidently occurred to Mellish at the time, for he dropped the subject at once, and told us to begin our papers.
+Now I have remarked already that I dare not say what I think of Thucydides, Book II. How then shall I frame my opinion of that examination paper? It was Thucydides, Book II, with the few easy parts left out. It was Thucydides, Book II, with special homemade difficulties added. It was﻿—well, in its way it was a masterpiece. Without going into details﻿—I dislike sensational and realistic writing﻿—I may say that I personally was not one of those who required an extra ten minutes to finish their papers. I finished mine at half-past two, and amused myself for the remaining hour and a half by writing neatly on several sheets of foolscap exactly what I thought of Mr. Mellish, and precisely what I hoped would happen to him some day. It was grateful and comforting.
+At intervals I wondered what had become of Bradshaw. I was not surprised at his absence. At first I had feared that he would keep his word in that matter. As time went on I knew that he would. At more frequent intervals I wondered how I should enjoy being a bankrupt.
+Four o’clock came round, and found me so engrossed in putting the finishing touches to my excursus of Mr. Mellish’s character, that I stayed on in the form-room till ten past. Two other members of the form stayed too, writing with the despairing energy of those who had five minutes to say what they would like to spread over five hours. At last Mellish collected the papers. He seemed a trifle surprised when I gave up my modest three sheets. Brown and Morrison, who had their eye on the form prize, each gave up reams. Brown told me subsequently that he had only had time to do sixteen sheets, and wanted to know whether I had adopted Rutherford’s emendation in preference to the old reading in Question II. My prolonged stay had made him regard me as a possible rival.
+I dwell upon this part of my story, because it has an important bearing on subsequent events. If I had not waited in the form-room I should not have gone downstairs just behind Mellish. And if I had not gone downstairs just behind Mellish, I should not have been in at the death, that is to say the discovery of Bradshaw, and this story would have been all beginning and middle, and no ending, for I am certain that Bradshaw would never have told me a word. He was a most secretive animal.
+I went downstairs, as I say, just behind Mellish. St. Austin’s, you must know, is composed of three blocks of buildings, the senior, the middle, and the junior, joined by cloisters. We left the senior block by the door. To the captious critic this information may seem superfluous, but let me tell him that I have left the block in my time, and entered it, too, though never, it is true, in the company of a master, in other ways. There are windows.
+Our procession of two, Mellish leading by a couple of yards, passed through the cloisters, and came to the middle block, where the Masters’ Common Room is. I had no particular reason for going to that block, but it was all on my way to the House, and I knew that Mellish hated having his footsteps dogged. That Thucydides paper rankled slightly.
+In the middle block, at the top of the building, far from the haunts of men, is the Science Museum, containing﻿—so I have heard, I have never been near the place myself﻿—two stuffed rats, a case of mouldering butterflies, and other objects of acute interest. The room has a staircase all to itself, and this was the reason why, directly I heard shouts proceeding from that staircase, I deduced that they came from the Museum. I am like Sherlock Holmes, I don’t mind explaining my methods.
+“Help!” shouted the voice. “Help!”
+The voice was Bradshaw’s.
+Mellish was talking to M. Gerard, the French master, at the moment. He had evidently been telling him of Bradshaw’s nonappearance, for at the sound of his voice they both spun round, and stood looking at the staircase like a couple of pointers.
+“Help,” cried the voice again.
+Mellish and Gerard bounded up the stairs. I had never seen a French master run before. It was a pleasant sight. I followed. As we reached the door of the Museum, which was shut, renewed shouts filtered through it. Mellish gave tongue.
+“Bradshaw!”
+“Yes, sir,” from within.
+“Are you there?” This I thought, and still think, quite a superfluous question.
+“Yes, sir,” said Bradshaw.
+“What are you doing in there, Bradshaw? Why were you not in school this afternoon? Come out at once.” This in deep and thrilling tones.
+“Please, sir,” said Bradshaw complainingly, “I can’t open the door.” Now, the immediate effect of telling a person that you are unable to open a door is to make him try his hand at it. Someone observes that there are three things which everyone thinks he can do better than anyone else, namely poking a fire, writing a novel, and opening a door.
+Gerard was no exception to the rule.
+“Can’t open the door?” he said. “Nonsense, nonsense.” And, swooping at the handle, he grasped it firmly, and turned it.
+At this point he made an attempt, a very spirited attempt, to lower the world’s record for the standing high jump. I have spoken above of the pleasure it gave me to see a French master run. But for good, square enjoyment, warranted free from all injurious chemicals, give me a French master jumping.
+“My dear Gerard,” said the amazed Mellish.
+“I have received a shock. Dear me, I have received a most terrible shock.”
+So had I, only of another kind. I really thought I should have expired in my tracks with the effort of keeping my enjoyment strictly to myself. I saw what had happened. The Museum is lit by electric light. To turn it on one has to shoot the bolt of the door, which, like the handle, is made of metal. It is on the killing two birds with one stone principle. You lock yourself in and light yourself up with one movement. It was plain that the current had gone wrong somehow, run amock, as it were. Mellish meanwhile, instead of being warned by Gerard’s fate, had followed his example, and tried to turn the handle. His jump, though quite a creditable effort, fell short of Gerard’s by some six inches. I began to feel as if some sort of round game were going on. I hoped that they would not want me to take a hand. I also hoped that the thing would continue for a good while longer. The success of the piece certainly warranted the prolongation of its run. But here I was disappointed. The disturbance had attracted another spectator, Blaize, the science and chemistry master. The matter was hastily explained to him in all its bearings. There was Bradshaw entombed within the Museum, with every prospect of death by starvation, unless he could support life for the next few years on the two stuffed rats and the case of butterflies. The authorities did not see their way to adding a human specimen (youth’s size) to the treasures in the Museum, *so*﻿—how was he to be got out?
+The scientific mind is equal to every emergency.
+“Bradshaw,” shouted Blaize through the keyhole.
+“Sir?”
+“Are you there?”
+I should imagine that Bradshaw was growing tired of this question by this time. Besides, it cast aspersions on the veracity of Gerard and Mellish. Bradshaw, with perfect politeness, hastened to inform the gentleman that he was there.
+“Have you a piece of paper?”
+“Will an envelope do, sir?”
+“Bless the boy, anything will do so long as it is paper.”
+Dear me, I thought, is it as bad as all that? Is Blaize, in despair of ever rescuing the unfortunate prisoner, going to ask him to draw up a “last dying words” document, to be pushed under the door and despatched to his sorrowing guardian?
+“Put it over your hand, and then shoot back the bolt.”
+“But, sir, the electricity.”
+“Pooh, boy!”
+The scientific mind is always intolerant of lay ignorance.
+“Pooh, boy, paper is a nonconductor. You won’t get hurt.”
+Bradshaw apparently acted on his instructions. From the other side of the door came the sharp sound of the bolt as it was shot back, and at the same time the light ceased to shine through the keyhole. A moment later the handle turned, and Bradshaw stepped forth﻿—free!
+“Dear me,” said Mellish. “Now I never knew that before, Blaize. Remarkable. But this ought to be seen to. In the meantime, I had better ask the Headmaster to give out that the Museum is closed until further notice, I think.”
+And closed the Museum has been ever since. That further notice has never been given. And yet nobody seems to feel as if an essential part of their life had ceased to be, so to speak. Curious. Bradshaw, after a short explanation, was allowed to go away without a stain﻿—that is to say, without any additional stain﻿—on his character. We left the authorities discussing the matter, and went downstairs.
+“Sixpence isn’t enough,” I said, “take this penny. It’s all I’ve got. You shall have the sixpence on Saturday.”
+“Thanks,” said Bradshaw. “Was the Thucydides paper pretty warm?”
+“Warmish. But, I say, didn’t you get a beastly shock when you locked the door?”
+“I did the week before last, the first time I ever went to the place. This time I was more or less prepared for it. Blaize seems to think that paper dodge a special invention of his own. He’ll be taking out a patent for it one of these days. Why, every kid knows that paper doesn’t conduct electricity.”
+“I didn’t,” I said honestly.
+“You don’t know much,” said Bradshaw, with equal honesty.
+“I don’t,” I replied. “Bradshaw, you’re a great man, but you missed the best part of it all.”
+“What, the Thucydides paper?” asked he with a grin.
+“No, you missed seeing Gerard jump quite six feet.”
+Bradshaw’s face expressed keen disappointment.
+“No, did he really? Oh, I say, I wish I’d seen it.”
+The moral of which is that the wicked do not always prosper. If Bradshaw had not been in the Museum, he might have seen Gerard jump six feet, which would have made him happy for weeks. On second thoughts, though, that does not work out quite right, for if Bradshaw had not been in the Museum, Gerard would not have jumped at all. No, better put it this way. I was virtuous, and I had the pleasure of witnessing the sight I have referred to. But then there was the Thucydides paper, which Bradshaw missed but which I did not. No. On consideration, the moral of this story shall be withdrawn and submitted to a committee of experts. Perhaps they will be able to say what it is.

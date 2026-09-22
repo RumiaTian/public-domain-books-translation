@@ -1,0 +1,38 @@
+====================================================================================================
+### mary-weston-fordham_magnolia-leaves  (5 files)
+  块: O=72 C=72 OK | 段: EN=2177 CN=2238 !!差 -61
+     [不对称] dedication.md                                        O=1 C=1 段EN=11 段CN=9
+     [不对称] in-memoriam.md                                       O=15 C=15 段EN=264 段CN=277
+     [不对称] magnolia-leaves.md                                   O=52 C=52 段EN=1891 段CN=1941
+  英文残留(剔括注) top: The×15, to×9, To×6, Mrs×5, of×5, the×5, Weston×3, Lines×3, Ode×3, Tribute×2
+  项目说明备注: 诗集：每首一块逐行对应、空行同位、标题「英 / 中」合并（循 maria-lowell 先例）；诗集按短篇集体例逐首成篇。
+  -- 术语表硬约束行 28 条:
+     Weston                         → 韦斯顿                  源×0     译×1     ★源0次(幽灵?)
+     Fordham                        → 福德姆                  源×0     译×0     ★源0次(幽灵?)
+     Rev. Samuel Weston             → 塞缪尔·韦斯顿牧师            源×1     译×0     ★译0次(未落位?)
+     Rev. Thaddeus Saltus           → 萨迪厄斯·索尔塔斯牧师          源×1     译×1    
+     Capt. F. W. Dawson             → F·W·道森上尉             源×1     译×1    
+     Mrs. Louise B. Weston          → 路易丝·B·韦斯顿夫人          源×1     译×1    
+     Mrs. Isabel Peace              → 伊莎贝尔·皮斯夫人            源×1     译×1    
+     Alphonse Campbell Fordham      → 阿方斯·坎贝尔·福德姆          源×1     译×1    
+     Mr. Edward Fordham             → 爱德华·福德姆先生            源×1     译×1    
+     Mrs. Jennette Bonneu           → 珍妮特·博纳夫人             源×1     译×1    
+     Queenie                        → 奎妮                   源×3     译×3    
+     Susan Eugenia Bennett          → 苏珊·尤金妮娅·贝内特          源×1     译×1    
+     Mrs. Rebecca Weston            → 丽贝卡·韦斯顿夫人            源×1     译×1    
+     Mrs. E. Cohrs Brown            → E·科尔斯·布朗夫人           源×1     译×1    
+     Mrs. Mary Furman Weston Byrd   → 玛丽·弗曼·韦斯顿·伯德夫人       源×2     译×1    
+     Carolina                       → 卡罗来纳                 源×3     译×4    
+     Gates of Gold                  → 黄金之门                 源×2     译×2    
+     Heartsease                     → 三色堇                  源×1     译×1    
+     Uranne                         → 乌兰妮                  源×14    译×14   
+     Marco                          → 马尔科                  源×7     译×7    
+     Hurra                          → 万岁                   源×10    译×18   
+     Forget-Me-Not                  → 勿忘我                  源×1     译×5    
+     Pale Face                      → 白面孔                  源×4     译×4    
+     Columbia                       → 哥伦比亚                 源×3     译×3    
+     Erin                           → 艾琳                   源×5     译×5    
+     Fannie                         → 范妮                   源×1     译×1    
+     Louis                          → 路易斯                  源×1     译×1    
+     Rev'd D. A. Payne              → D·A·佩恩主教             源×1     译×1    
+

@@ -1,0 +1,74 @@
+## XII
+
+The journey over was precisely like any other, except in this, that, the tide of travel being in the contrary direction, the number of cabin passengers was limited. Among them there was no one whom Tristrem had met before; yet, after the second day out, there were few whom his appearance and manner had not attracted and coerced into some overture to better acquaintance. Of these his attention was particularly claimed by an Englishman who sat next to him at table, and a young lady who occupied the seat opposite to his own. In the eyes of the latter was the mischievous look of a precocious boy. She was extremely pretty; blonde, fair, with a mouth that said Kiss me﻿—what the French call a *frimousse frottée de champagne*; and her speech was marked by great vivacity. She was accompanied by an elderly person who appeared at table but once, and who during the rest of the voyage remained bundled in shawls in the ladies’ cabin, where refreshments were presumably brought her.
+
+It was rumored that this young lady was an ex-star of the Gaiety, and more recently a member of a burlesque troupe that had disbanded in the States. It was added﻿—but then, are not ill-natured things said about everybody? You, sir, and you, madam, who happen to read this page, have never, of course, been spoken of other than with the greatest respect, but what is said of your neighbor? and what have you said yourself?
+
+Tristrem, unaffected by the gossip of the smoking room, to which, indeed, he lent but an inattentive ear, allowed the young lady to march him up and down the deck and, as was his wont, permitted himself to be generally made use of. Yet if the elderly person in the ladies’ cabin had exacted of him similar attentions, the attentions would have been rendered with the same prompt and diligent willingness. He was not a good listener, although he seemed one, but there was a breeziness in the young lady’s conversation which helped him not a little to forget the discomforts of ocean travel. He walked with her, in consequence, mile after mile, and when she wearied of that amusement, he got her comfortably seated and, until she needed him again, passed the time in the smoking room.
+
+It was there that he became acquainted with the Englishman who sat next to him at table. His name, he learned, was Ledyard Yorke. He was an artist by profession, and in the course of a symposium or two Tristrem discovered that he was a very cultivated fellow besides. He seemed to be well on in the thirties, and it was evident that there were few quarters of the globe with which he was not familiar. He was enthusiastic on the subject of French literature, but the manufactures of the pupils of the Beaux Arts he professed to abominate.
+
+“The last time I was at the Salon,” he said, one evening, “there were in those interminable halls over three thousand pictures. Of these, there were barely fifty worth looking at. The others were interesting as colored lithographs on a dead wall. There was a Manet or two, a Moreau, and a dozen or more excellent landscapes, but the rest represented the apotheosis of mediocrity. The pictures which Gérôme, Cabanel, Bouguereau, and the acolytes of those pastrycooks exposed were stupid and sterile as church doors. What is art, after all, if it be not an imitation of nature? To my thinking, the greater the illusion, the nearer does the counterfeit approach the model. And look at the nymphs and dryads which those hairdressers present. In the first place, nymphs and dryads are as overdone as the assumption of Virgins and the loves of Leda. Besides they were not modern, but even if they were, fancy a girl who lives in the open air in her birthday costume, and who, exposed to the sun, to say nothing of the wind, still preserves the pink and white skin of a baby﻿—and a skin, mind you, that looks as though it had been polished and pinched by a masseur; however, place a dozen of them lolling in conventional attitudes in a glade, or represent them bathing in a pond, and although the sun shines on them through the foliage, be careful not to get so much as the crisscross of a shadow on their bodies, smear the whole thing with cold cream, label one ‘Arcadia,’ and the other ‘Nymphs surprised,’ and you have what they call in France the *faire distingué*.”
+
+There was nothing particularly new in what Mr. Yorke had to say, and if, like the majority of men whose thoughts run in a particular channel, he was apt to be dogmatic in his views, he yet possessed that saving quality, which consists in treating the subject in hand not as were it a matter of life and death, but rather as one which is as unimportant as the gout of a distant relative. And it was in the companionship of this gentleman, and that of the young lady alluded to, that Tristrem passed the six days which separated him from the Irish coast.
+
+On the day preceding the debarcation he was in great and expectant spirits, but as the sun sank in the ocean his lightheartedness sank with it. During dinner his charming vis-à-vis rallied him as best she might, but he remained unresponsive, answering only when civility made it necessary for him to do so. It is just possible that the young lady may have entertained original ideas of her own on the subject of his taciturnity, but, however that may be, it so happened that before the meal was done Tristrem went up on deck, and seeking the stern of the ship, leaned over the gunwale.
+
+So far in the distance as his eyes could reach was a trail of glistening white. On either side were impenetrable wastes of black. In his ears was the sob of water displaced, the moan of tireless discontent, and therewith the flash and shimmer of phosphorus seemed to invite and tell of realms of enchanted rest beneath. And, as Tristrem watched and listened, the sibilants of the sea gurgled in sympathy with his thoughts, accompanying and accentuating them with murmurs of its own. Its breast was bared to him, it lay at his feet, open-armed as though waiting his coming, and conjuring him to haste. “There is nothing sweeter,” it seemed to say, “nothing swifter, and naught more still. I feed my lovers on lotus and Lethe. There is no fairer couch in the world than mine. A sister’s kiss is not more chaste. I am better than fame, serener than hope; I am more than love, I am peace. I am unforsakable, and I never forsake.”
+
+And as the great ship sped on in fright, it almost seemed to Tristrem that the sea, like an affianced bride, was rising up to claim and take him as her own. Many months later, he thought of the sensation that he then experienced, the query that came to his mind, he knew not how or whence, whether it were not better perhaps﻿—and then the after-shudder as he started back, wondering could it be that for the moment he was mad, and telling himself that in a few hours, a few days at most, he would be with Her. And what had the sea to do with him? Many months after he thought of it.
+
+And as he still gazed at the tempting waters, he felt a hand touch his own, rest on, and nestle in it. He looked around; it was his charming vis-à-vis who had sought him out and was now looking in his face. She did not speak; her eyes had lost their mischief, but her mouth framed its message as before. Awkwardly as men do such things, Tristrem disengaged his hand. The girl made one little effort to detain it, and for a moment her lips moved; but she said nothing, and when the hand had gone from her, she turned with a toss of the head and disappeared in the night.
+
+Soon after, Tristrem turned, too, and found his way to the smoking room. In some way the caress which he had eluded had left a balm. He was as hopeful as before, and he smiled in silent amusement at the ups and downs of his needless fears. In a corner of the room was Yorke.
+
+“I have been looking at the sea,” he said, as he took a seat at his side; “it is captious as wine.”
+
+“You are a poet, are you not?” Yorke spoke not as though he were paying a compliment, but in the matter-of-fact fashion in which one drummer will say “Dry goods?” to another.
+
+“No; I wish I were. I have never written.”
+
+“It’s a popular prejudice to suppose that a poet must write. The greatest of all never put pen to paper. What is there left to us of Linus and Musaeus? Siddartha did not write, Valmiki did not know how. The parables of the Christ were voiced, not written. Besides, the poet feels﻿—he does not spend a year, like Mallarmé, in polishing a sonnet. De Musset is certainly the best example of the poet that France has to offer; with him you always catch the footfall of the Muse﻿—you feel, as he felt, the inspiration. And all the more clearly in that his verses limp. He never would have had time to express himself if he had tried to sandpaper his thoughts. Don’t you suppose that Murillo was a poet? Don’t you suppose that Guido was? Don’t you think that anyone who is in love with beauty must be? I say beauty where I might say the ideal. That is the reason I thought you a poet. You have in your face that constant preoccupation which is distinctive of those who pursue the intangible.”
+
+“I am not pursuing the intangible, though,” Tristrem answered, with a little sententious nod.
+
+“Ah, who shall say? We all do. I am pursuing it myself, though not in the sense that I attribute to you. Did you ever read Flaubert’s *Tentation*? No? Well, fancy the Sphinx crouching at sunset in the encroaching sand. In the background is a riot of color, and overhead a tender blue fading into salmon and the discreetest gray. Then add to that the impression of solitude and the most absolute silence. In the foreground flutters a Chimera, a bird with a dragon’s tail and the rainbow wings of a giant butterfly. The Sphinx is staring at you, and yet through and beyond, as though her eyes rested on some inaccessible horizon. Cities crumble, nations rise and subside, and still that undeviating stare! And in her face the unroutable calm of fabulous beauty. I want those eyes, I want that face. You never heard the duo which Flaubert gives, did you? It runs somewhat this way: The motionless Sphinx calls: ‘Here, Chimera, rest a while.’
+
+“The Chimera answers: ‘Rest? Not I.’
+
+“**The Sphinx.** Whither goest thou in such haste?
+
+“**The Chimera.** I gallop in the corridors of the labyrinth. I soar to the mountaintops. I skim the waves. I yelp at the foot of precipices. I cling to the skirt of clouds. With my training tail I sweep the shores. The hills have taken their curve from the form of my shoulders. But thou﻿—I find thee perpetually immobile, or else with the end of thy claw drawing alphabets in the sand.
+
+“**The Sphinx.** I am guarding my secret, I calculate and I dream.
+
+“**The Chimera.** I﻿—I am joyous and light of heart. I discover to man resplendent perspectives, Utopias in the skies, and distant felicities. Into his soul I pour the eternal follies, projects of happiness, plans for the future, dreams of fame, and the vows of love and virtuous resolutions. I incite to perilous journeys, to great undertakings. It is I that chiselled the marvels of architecture. It is I that hung bells on the tomb of Porsenna, and surrounded with an orchalc wall the quays of the Atlantides. I seek new perfumes, larger flowers, and pleasures unenjoyed. If anywhere I perceive a man whose mind rests in wisdom, I drop from space and strangle him.
+
+“**The Sphinx.** All those whom the desire of God torments, I have devoured.”
+
+Yorke had repeated these snatches from the duo in French. He had repeated them well, bringing out the harmony of the words in a manner which in our harsher tongue would have been impossible. And now he felt parched, and ordered some drink of the steward.
+
+“It is the face of that Sphinx that I want,” he continued. “If I were a composer I would put the duo itself to music. I know of no prose more admirable. I have the scene on canvas, all of it, that is, except the Sphinx’s face, and that, of course, is the most important. I want a face that she alone could possess. I may find it, I may not. At all events, you see that just at present I too am in pursuit of the intangible. But there, tell me of the artist who is not. It is true, you go to the Academy, and in the Cleopatras and Psyches you recognize the same Mary Jane who the day before offered herself as model to you. My Sphinx, however, was not born in Clapham. Nor does she dwell in Pimlico. But, apropos to Pimlico, I have a fancy that that little friend of yours is on her way to St. John’s Wood.”
+
+“What little friend?”
+
+“Why, the girl that sits opposite. And what’s more to the point, she’s in love with you. *Tous mes compliments, c’est un vrai morceau de roi.*”
+
+At this Tristrem blushed in spite of himself. She might have been the Helen for whom the war of the world was fought; she might have been Mylitta or Venus Basilea, and still would she have left him unimpressed. He would not have recognized the divinity﻿—he bowed but to one.
+
+“You remind me,” said Yorke, who had watched his expression﻿—“you remind me of De Marsay, who did not know what he did to the women to make them all fall in love with him. There is nothing as fetching as that. And there is nothing, at least to my thinking, that compares with that charm which a woman in love exhales to her lover. It is small matter whether the woman is the daughter of an earl or whether she is a cocotte. There are, I know, people who like their claret in decanters, but so long as the wine is good, what does the bottle matter?
+
+“ ‘Aimer est le grand point, qu’ importe la maitresse?
+					
+
+					Qu’ importe le flacon, pourvu qu’on ait l’ivresse?’ ”
+
+“De Musset was drunk when he wrote that,” said Tristrem. “But whether he was drunk or sober, I don’t agree with him. I don’t agree with him at all. It is the speech of a man who can think himself in love over and over again, and who discovers in the end that through all his affairs he has loved no one but himself.”
+
+All of which Mr. Yorke pooh-poohed in the civilest manner, and when Tristrem had finished his little speech, expounded the principles of love as they are formulated in the works of a German metaphysician, supporting them as he did so with such clarity and force of argument that Tristrem, vanquished but unconvinced, left him in disgust.
+
+The next day they were at Liverpool. In the confusion that is incidental to every debarcation Tristrem had had no opportunity of exchanging a word with his vis-à-vis. But in the customhouse he caught sight of her, and went forward to bid her goodbye.
+
+“Goodbye,” she answered, when he had done so, and putting out her hand, she looked at him with mischievous eyes. “Goodbye,” she repeated, lightly, and then, between her teeth, she added, “Imbecile that you are!”
+
+Though what she may have meant by that, Tristrem never understood.

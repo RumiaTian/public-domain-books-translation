@@ -1,0 +1,5 @@
+## Letter
+ IX Mr. Villars to Evelina
+Berry Hill, March 28.
+To resist the urgency of entreaty, is a power which I have not yet acquired: I aim not at an authority which deprives you of liberty, yet I would fain guide myself by a prudence which should save me the pangs of repentance. Your impatience to fly to a place which your imagination has painted to you in colors so attractive, surprises me not; I have only to hope, that the liveliness of your fancy may not deceive you: to refuse, would be raising it still higher. To see my Evelina happy, is to see myself without a wish: go then, my child; and may that Heaven, which alone can direct, preserve and strengthen you! To that, my love, will I daily offer prayers for your felicity. O may it guard, watch over you, defend you from danger, save you from distress, and keep vice as distant from your person as from your heart! And to me, may it grant, the ultimate blessing of closing these aged eyes in the arms of one so dear﻿—so deservedly beloved!
+Arthur Villars.

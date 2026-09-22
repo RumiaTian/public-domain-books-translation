@@ -1,0 +1,17 @@
+## Preface / 序言
+
+===Original===
+On the northern shore of Sicily are still to be seen the magnificent remains of a castle, which formerly belonged to the noble house of Mazzini. It stands in the centre of a small bay, and upon a gentle acclivity, which, on one side, slopes towards the sea, and on the other rises into an eminence crowned by dark woods. The situation is admirably beautiful and picturesque, and the ruins have an air of ancient grandeur, which, contrasted with the present solitude of the scene, impresses the traveller with awe and curiosity. During my travels abroad I visited this spot. As I walked over the loose fragments of stone, which lay scattered through the immense area of the fabrick, and surveyed the sublimity and grandeur of the ruins, I recurred, by a natural association of ideas, to the times when these walls stood proudly in their original splendour, when the halls were the scenes of hospitality and festive magnificence, and when they resounded with the voices of those whom death had long since swept from the earth. “Thus,” said I, “shall the present generation﻿—he who now sinks in misery﻿—and he who now swims in pleasure, alike pass away and be forgotten.” My heart swelled with the reflection; and, as I turned from the scene with a sigh, I fixed my eyes upon a friar, whose venerable figure, gently bending towards the earth, formed no uninteresting object in the picture. He observed my emotion; and, as my eye met his, shook his head and pointed to the ruin. “These walls,” said he, “were once the seat of luxury and vice. They exhibited a singular instance of the retribution of Heaven, and were from that period forsaken, and abandoned to decay.” His words excited my curiosity, and I enquired further concerning their meaning.
+
+===Chinese===
+在西西里（Sicily）的北岸，至今仍可望见一座城堡的壮丽遗迹，它昔日属于马齐尼（Mazzini）贵族世家。城堡坐落在一处小海湾的中央、一道平缓的斜坡上；坡地一侧渐次倾入大海，另一侧则隆起为高冈，幽暗的林木冠覆冈巅。此地景致秀美如画，令人叹赏；废墟间自有一股古老的恢宏气象，与眼前的荒凉孤寂恰成对照，令旅人心生敬畏，又满怀好奇。我在国外游历时曾亲临此地。当我踏着散落于城堡广袤庭域之内的碎石断片，纵览这片废墟的崇伟与壮丽时，思绪便循着自然的联想，回到往昔的岁月——那时这些城墙还傲然挺立于原本的辉煌之中，厅堂之内好客情殷、宴饮豪奢，笑语人声回荡其间，而那些声音的主人，早已被死神从大地上席卷而去。“就这样，”我说道，“如今这一代——此刻在苦难中沉沦的人，与此刻在欢乐中畅游的人——终将同样逝去，同样被人遗忘。”这般思量使我心头激荡；当我叹息着转身离开这片景物时，目光停驻在一位修士身上，他那令人肃然起敬的身影微微俯向大地，为这幅画面添上一处并不乏味的景致。他看出了我的激动；待我的目光与他的相遇，他便摇了摇头，指向那废墟。“这些墙垣，”他说，“曾是奢侈与罪恶的巢穴。它们展示了上天报应的一个奇特例证，自那个时期起便遭弃置，任其朽坏。”他的话激起了我的好奇，我便进一步探询其中深意。
+
+===Original===
+“A solemn history belongs to this castle,” said he, “which is too long and intricate for me to relate. It is, however, contained in a manuscript in our library, of which I could, perhaps, procure you a sight. A brother of our order, a descendant of the noble house of Mazzini, collected and recorded the most striking incidents relating to his family, and the history thus formed, he left as a legacy to our convent. If you please, we will walk thither.”
+
+I accompanied him to the convent, and the friar introduced me to his superior, a man of an intelligent mind and benevolent heart, with whom I passed some hours in interesting conversation. I believe my sentiments pleased him; for, by his indulgence, I was permitted to take abstracts of the history before me, which, with some further particulars obtained in conversation with the *Abate*, I have arranged in the following pages.
+
+===Chinese===
+“这座城堡有着一段凝重的历史，”他说，“但太长也太曲折，我难以尽述。不过，它载于我们藏书室的一部手稿之中，或许我能设法让您一阅。我们修会的一位弟兄——马齐尼贵族世家的一位后裔——搜集并记录了与他家族相关的种种最堪注目的变故；他将如此写成的这部历史，作为遗产留给了我们的修道院。您若愿意，我们就此同往。”
+
+我随他同往修道院，修士引我拜见他们的住持——一位心智明达、心地仁厚的人；我与他在饶有兴味的谈话中度过了几个时辰。我相信我的见解令他欣然；因为承蒙他的宽厚，我获准摘录了面前这部历史；其后又在与院长（*the Abate*）的交谈中得悉若干补益的细节，一并整理成以下篇章。

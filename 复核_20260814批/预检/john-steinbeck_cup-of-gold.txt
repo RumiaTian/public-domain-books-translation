@@ -1,0 +1,130 @@
+====================================================================================================
+### john-steinbeck_cup-of-gold  (5 files)
+  块: O=349 C=349 OK | 段: EN=1552 CN=1587 !!差 -35
+     [不对称] chapter-1.md                                         O=51 C=51 段EN=231 段CN=240
+     [不对称] chapter-2.md                                         O=44 C=44 段EN=367 段CN=375
+     [不对称] chapter-3.md                                         O=106 C=106 段EN=208 段CN=214
+     [不对称] chapter-4.md                                         O=108 C=108 段EN=444 段CN=453
+     [不对称] chapter-5.md                                         O=40 C=40 段EN=302 段CN=305
+  英文残留(剔括注) top: II×10, III×10, IV×10, VI×8, VII×6, VIII×2, uisquebaugh×1, Jun-Jo-Bee×1, veinte×1, mil×1
+  项目说明备注: 全书5个章节（实为五大「部」，每部含罗马数字编号的若干小节，共约32节），单一连续叙事弧。因章数少（5 ≤ 15）且为不可分割的整体叙事，按 WORKFLOW 形态判据归为「中篇／连续模式」，由主 agent 直译以保跨章连贯。各章源文篇幅较大（52–114KB），译时按通用翻译引擎第七节分段处理。
+  -- 术语表硬约束行 118 条:
+     Henry Morgan / young Henry / C → 亨利·摩根（Henry Morgan）  源×194   译×113   落位偏低 113/194
+     Old Robert / Robert (Morgan)   → 老罗伯特（Old Robert）     源×91    译×19    落位偏低 19/91
+     Mother Morgan                  → 摩根母亲（Mother Morgan）  源×8     译×8    
+     Gwenliana                      → 格温莉安娜（Gwenliana）     源×13    译×13    残留「第二视觉」×2
+     Dafydd                         → 达菲德（Dafydd）          源×16    译×16   
+     Pierre le Grand                → 大个子皮埃尔（Pierre le Gra 源×5     译×5    
+     Coeur de Gris                  → 柯尔·德·格里（Coeur de Gri 源×68    译×68   
+     Sir Edward Morgan              → 爱德华·摩根爵士（Sir Edward  源×3     译×5    
+     Elizabeth                      → 伊丽莎白（Elizabeth）      源×58    译×55   
+     Sir Charles Moddyford / Govern → 查尔斯·莫迪福德爵士／莫迪福德总督（Mo 源×1     译×1    
+     Lady Moddyford                 → 莫迪福德夫人（Lady Moddyfor 源×6     译×6    
+     La Santa Roja / the Red Saint  → 红圣女（La Santa Roja）   源×42    译×42    残留「金杯」×24
+     Captain Sawkins                → 索金斯船长（Sawkins）       源×2     译×2    
+     Captain Dawes                  → 道斯船长（Dawes）          源×2     译×2    
+     Merlin                         → 默林（Merlin）           源×48    译×19    落位偏低 19/48
+     Edward Mansveldt               → 爱德华·曼斯维尔德（Edward Man 源×2     译×2    
+     Bras de Fer                    → 铁臂（Bras de Fer）      源×4     译×4    
+     L’Ollonais                     → 洛洛诺瓦（L’Ollonais）     源×7     译×7    
+     William                        → 威廉（William）          源×7     译×8    
+     Don Juan Perez de Guzman       → 唐·胡安·佩雷斯·德·古兹曼（Don J 源×3     译×3    
+     Robert (Morgan)                → 罗伯特（Robert）          源×0     译×71    ★源0次(幽灵?) 残留「老罗伯特」×19
+     Grippo (black Grippo)          → 格里波（Grippo）          源×16    译×16   
+     Drake / Kidd / Blackbeard / La → 德雷克／基德／黑胡子／拉菲特       源×6     译×6    
+     Tim                            → 蒂姆（Tim）              源×26    译×26    残留「布里斯托尔女郎号」×5
+     James Flower                   → 詹姆斯·弗劳尔（James Flower 源×24    译×24   
+     Paulette                       → 波莱特（Paulette）        源×39    译×39   
+     Squire Rhys                    → 赖斯乡绅（Squire Rhys）    源×2     译×2    
+     Bristol Girl                   → 「布里斯托尔女郎号」（Bristol G 源×5     译×4    
+     Elizabeth (Henry's ship)       → 「伊丽莎白号」（Elizabeth）   源×0     译×3     ★源0次(幽灵?)
+     Sangre de Cristo               → 「圣血号」（Sangre de Cris 源×1     译×0     ★译0次(未落位?)
+     Ysobel / Doña Ysobel Espinoza, → 伊索贝尔／唐娜·伊索贝尔·埃斯皮诺萨·巴 源×26    译×26    残留「红圣女」×42 残留「金杯」×24
+     Jones                          → 琼斯（Jones）            源×9     译×9    
+     Captain Zeigler                → 齐格勒船长（Zeigler）       源×1     译×1     残留「海上酒馆老板」×1
+     The Burgundian / The Other Bur → 勃艮第人／另一个勃艮第人（The Bur 源×13    译×14   
+     Holbert / Tegna / Sullivan / M → 霍尔伯特／特格纳／沙利文／梅瑟（Holb 源×4     译×4    
+     Balboa                         → 巴尔沃亚（Balboa）         源×3     译×3    
+     Pedrarias                      → 佩德拉里亚斯（Pedrarias）    源×2     译×2    
+     Pizarro                        → 皮萨罗（Pizarro）         源×3     译×3    
+     Rodriguez                      → 罗德里格斯（Rodriguez）     源×7     译×7    
+     Delphine                       → 德尔菲娜（Delphine）       源×1     译×1    
+     Chico                          → 奇科（Chico）            源×7     译×7    
+     Don Pedro / Don Guierrmo       → 唐·佩德罗／唐·吉耶尔莫（Don Ped 源×6     译×6    
+     Wales                          → 威尔士（Wales）           源×3     译×8    
+     the Indies / the West Indies   → 西印度群岛／印度群岛（the Indie 源×38    译×42   
+     Tortuga                        → 托尔图加（Tortuga）        源×16    译×16   
+     Goaves                         → 戈阿夫（Goaves）          源×13    译×13   
+     Jamaica                        → 牙买加（Jamaica）         源×8     译×8    
+     Port Royal                     → 皇家港（Port Royal）      源×12    译×12   
+     Hispaniola                     → 伊斯帕尼奥拉（Hispaniola）   源×2     译×2    
+     Panama                         → 巴拿马（Panama）          源×92    译×94    残留「金杯」×24
+     Maracaibo                      → 马拉开波（Maracaibo）      源×8     译×8    
+     Barbados                       → 巴巴多斯（Barbados）       源×7     译×7    
+     Puerto Bello / Puerto          → 贝略港（Puerto Bello）    源×4     译×4    
+     Gibraltar                      → 直布罗陀（Gibraltar）      源×1     译×1    
+     Caerleon                       → 卡利恩（Caerleon）        源×1     译×1    
+     the Brethren (of the Coast)    → 海岸兄弟会（the Brethren o 源×1     译×1    
+     the Free Brotherhood           → 自由兄弟会（the Free Broth 源×3     译×4     残留「海岸兄弟会」×1
+     the Spanish Main               → 西属大陆（the Spanish Mai 源×2     译×2    
+     Cambria                        → 坎布里亚（Cambria）        源×12    译×13   
+     Darien                         → 达连（Darien）           源×6     译×6    
+     Cartagena                      → 卡塔赫纳（Cartagena）      源×1     译×1    
+     Campeche                       → 坎佩切（Campeche）        源×5     译×5    
+     Cuba                           → 古巴（Cuba）             源×3     译×3    
+     Castilla de Oro                → 黄金卡斯蒂利亚（Castilla de  源×2     译×2    
+     Yucatan                        → 尤卡坦（Yucatan）         源×2     译×2    
+     Granada                        → 格拉纳达（Granada）        源×1     译×1    
+     St. Augustine                  → 圣奥古斯丁（St. Augustine） 源×1     译×1    
+     Florida                        → 佛罗里达（Florida）        源×1     译×1    
+     St. Catherine’s Isle           → 圣凯瑟琳岛（St. Catherine’ 源×3     译×3    
+     Havana                         → 哈瓦那（Havana）          源×1     译×1    
+     Cordova                        → 科尔多瓦（Cordova）        源×5     译×5    
+     Virginia                       → 弗吉尼亚（Virginia）       源×1     译×1    
+     Isle de la Vaca                → 瓦卡岛（Isle de la Vaca） 源×1     译×1    
+     St. Eustatius                  → 圣尤斯特歇斯（St. Eustatius 源×1     译×1    
+     Saint Kit’s                    → 圣基茨岛（Saint Kit’s）    源×1     译×1    
+     Crag-top                       → 崩顶（Crag-top）         源×7     译×1     落位偏低 1/7
+     Chagres                        → 查格雷斯（Chagres）        源×12    译×12   
+     Peru                           → 秘鲁（Peru）             源×4     译×6    
+     Nicaragua                      → 尼加拉瓜（Nicaragua）      源×1     译×1    
+     Seville                        → 塞维利亚（Seville）        源×1     译×1    
+     Paris                          → 巴黎（Paris）            源×4     译×4    
+     St. Malo                       → 圣马洛（St. Malo）        源×1     译×3    
+     Calais                         → 加来（Calais）           源×2     译×2    
+     Plymouth                       → 普利茅斯（Plymouth）       源×3     译×3    
+     Nieuw Amsterdam                → 新阿姆斯特丹（Nieuw Amsterd 源×1     译×1    
+     New England                    → 新英格兰（New England）    源×1     译×1    
+     Castile / Aragon               → 卡斯蒂利亚／阿拉贡（Castile /  源×4     译×5    
+     the Cup of Gold                → 金杯（the Cup of Gold）  源×21    译×24   
+     buccaneer(s)                   → 海盗／海岸兄弟（视语境）         源×51    译×97   
+     privateer                      → 私掠者                  源×0     译×0     ★源0次(幽灵?)
+     commission                     → 私掠特许状（commission）    源×5     译×2     落位偏低 2/5
+     galleon                        → 西班牙大帆船（galleon）      源×6     译×3     落位偏低 3/6
+     pieces of eight                → 八里亚尔银币（pieces of eig 源×5     译×5    
+     Carib(s)                       → 加勒比人（Caribs）         源×10    译×10   
+     Papist                         → 教皇派／天主教徒（Papist）     源×1     译×7    
+     second sight                   → 第二视觉（second sight）   源×2     译×2    
+     corpse-candle                  → 尸烛（corpse-candle）    源×0     译×2     ★源0次(幽灵?)
+     league                         → 里格（league）           源×2     译×3    
+     pieces of eight（货币）            → 见上                   源×0     译×0     ★源0次(幽灵?)
+     boucan                         → 布干（boucan）           源×1     译×1    
+     Ganymede                       → 「加尼米德号」（Ganymede）    源×9     译×4     落位偏低 4/9
+     dog watch                      → 二更班（dog watch）       源×1     译×1    
+     Te Deum                        → 《感恩赞》（Te Deum）       源×1     译×1    
+     Sorcerer’s Farewell            → 巫师的告别（Sorcerer’s Far 源×1     译×1    
+     Bride of Orpheus / Orpheus     → 俄耳甫斯的新娘／俄耳甫斯（Orpheus 源×2     译×2    
+     plate fleet / the Vice-Admiral → 银船队／银船队副司令           源×3     译×3    
+     bond-servant                   → 契约仆役                 源×3     译×3    
+     Huguenots / Lutherans / Church → 胡格诺派／路德派／英国国教        源×3     译×4    
+     Romish church                  → 罗马公教（Romish church）  源×1     译×1    
+     St. Bartholomew                → 圣巴托洛缪（St. Bartholome 源×1     译×1    
+     doubloon                       → 达布隆金币（doubloon）      源×0     译×1     ★源0次(幽灵?) 残留「最称手的施暴利器」×1
+     Zeerover(s)                    → 「泽罗弗」海盗（Zeerover）    源×2     译×0     ★译0次(未落位?)
+     Cimarones                      → 西马龙人（Cimarones）      源×2     译×2    
+     Cockney                        → 伦敦佬（Cockney）         源×7     译×8    
+     Circe                          → 喀耳刻（Circe）           源×1     译×1    
+     Savonarola                     → 萨沃纳罗拉（Savonarola）    源×1     译×1     残留「新教徒的萨沃纳罗拉」×1
+     plate fleet（续）                 → 银船队                  源×0     译×0     ★源0次(幽灵?)
+     duenna                         → 傅姆（duenna）           源×5     译×5    
+

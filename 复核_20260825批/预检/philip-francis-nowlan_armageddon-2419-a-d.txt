@@ -1,0 +1,97 @@
+====================================================================================================
+### philip-francis-nowlan_armageddon-2419-a-d  (14 files)
+  块: O=172 C=172 OK | 段: EN=506 CN=506 OK
+  英文残留(剔括注) top: GK-×13, RB-×4, LK-×3, LG-×3, LD-×2
+  -- 术语表硬约束行 91 条:
+     Anthony Rogers                 → 安东尼·罗杰斯              源×1     译×1    
+     Tony                           → 托尼                   源×13    译×13   
+     the Han / Hans                 → 汉人                   源×106   译×106  
+     Wilma Deering / Wilma          → 威尔玛·迪林               源×89    译×2     落位偏低 2/89
+     Boss                           → 头领                   源×26    译×30   
+     Big Boss                       → 大头领                  源×15    译×15   
+     Camp Boss / Raid Boss / Scout  → 营地头领 / 突袭头领 / 斥候头领   源×7     译×9    
+     Psycho Boss / History Boss     → 心理头领 / 历史头领          源×3     译×4    
+     Hart                           → 哈特                   源×19    译×19   
+     Bill Hearn / Bill              → 比尔·赫恩 / 比尔           源×22    译×22   
+     Alan                           → 艾伦                   源×3     译×4    
+     Wyomings                       → 怀俄明帮                 源×7     译×10   
+     Bad Bloods                     → 劣血帮                  源×12    译×16   
+     exchange                       → 交换员                  源×6     译×7    
+     jumper(s)                      → 跳跃带                  源×8     译×8    
+     rocket ship                    → 火箭船                  源×5     译×7    
+     rocket-gun                     → 火箭枪                  源×4     译×9    
+     ultron                         → 乌尔特隆                 源×11    译×12   
+     inertron                       → 因纳特隆                 源×20    译×20   
+     ultronic                       → 超波                   源×9     译×11   
+     projectoscope                  → 投射镜                  源×14    译×19   
+     disintegrator ray              → 裂解射线                 源×13    译×21   
+     repellor                       → 斥力射线                 源×17    译×10    落位偏低 10/17
+     barrage                        → 弹幕                   源×21    译×28   
+     Gerdi Mann / Gerdi             → 格迪·曼 / 格迪            源×9     译×9    
+     Nu-yok                         → 纽-约                  源×16    译×16   
+     Bah-flo                        → 巴-弗洛                 源×4     译×4    
+     ultrophone                     → 超波电话                 源×14    译×24   
+     concentro                      → 康森特罗                 源×1     译×1    
+     recordograph                   → 记录仪                  源×0     译×5     ★源0次(幽灵?)
+     Delawares                      → 特拉华人                 源×3     译×2    
+     Susquanna(s)                   → 萨斯奎哈纳（帮）             源×6     译×6    
+     Wyoming Works                  → 怀俄明工厂                源×2     译×2    
+     Han Airlords                   → 汉人空主                 源×1     译×1    
+     the Most Magnificent           → 至威大帝                 源×1     译×1    
+     Day of Hope                    → 希望之日                 源×2     译×2    
+     Second War of Independence     → 第二次独立战争              源×1     译×1    
+     carnotite                      → 钒钾铀矿                 源×0     译×1     ★源0次(幽灵?)
+     Camboss / Big Camboss          → 营地头领 / 大营地头领         源×2     译×1    
+     Superboss / Zone               → 超级头领 / 战区            源×2     译×3    
+     A.E.F.                         → 美国远征军                源×1     译×1    
+     Sacramentos                    → 萨克拉门托帮               源×1     译×1    
+     Eries                          → 伊利帮                  源×2     译×2    
+     Sand-snipers                   → 沙狙帮                  源×1     译×1    
+     Jersey Beaches                 → 泽西海滩                 源×1     译×2    
+     A-lan-a                        → 阿-兰-阿                源×1     译×1    
+     Nagras                         → 纳格拉                  源×1     译×1    
+     Pineys                         → 松林佬                  源×2     译×2    
+     scar path                      → 焦痕带                  源×1     译×2    
+     First Constitution             → 第一宪法                 源×1     译×0     ★译0次(未落位?)
+     Gear Boss                      → 装备头领                 源×2     译×2    
+     ultroscope                     → 超波镜                  源×4     译×9    
+     magnetic graph                 → 磁力记录仪                源×1     译×1    
+     Clee-lan                       → 克利-兰                 源×1     译×1    
+     Si-ka-ga                       → 西-卡-加                源×1     译×1    
+     Bald Knob                      → 秃丘                   源×1     译×1    
+     business                       → 买卖                   源×12    译×3     落位偏低 3/12
+     clearing                       → 领物                   源×4     译×1     落位偏低 1/4
+     Blash                          → 布拉什                  源×14    译×14   
+     Gaunt                          → 冈特                   源×10    译×10   
+     Barker                         → 巴克                   源×9     译×9    
+     Gibbons                        → 吉本斯                  源×23    译×23   
+     dope can                       → 迷魂罐                  源×1     译×2    
+     electrograph / viewplate       → 电书 / 视屏              源×9     译×14   
+     Sinsings                       → 辛辛帮                  源×16    译×19   
+     Garlin                         → 加林                   源×2     译×2    
+     Yellow/White Intelligence Divi → 黄队/白队情报部             源×8     译×4     落位偏低 4/8
+     swooper                        → 俯冲艇                  源×5     译×13   
+     kite-tail                      → 风筝尾                  源×3     译×4    
+     chute cape                     → 降落披风                 源×2     译×2    
+     hell cylinder                  → 地狱圆筒                 源×1     译×1    
+     Finger of Doom                 → 末日之指                 源×2     译×1    
+     Unit Boss / Control Boss       → 单位头领 / 管制头领          源×6     译×6    
+     Lo-Tan                         → 洛-坦                  源×2     译×2    
+     Han-affairs Boss               → 汉务头领                 源×1     译×1    
+     go into zero                   → 归零                   源×1     译×1    
+     Bert Gaunt                     → 伯特·冈特                源×1     译×1    
+     Bill Barker                    → 比尔·巴克                源×2     译×2    
+     Mort Gibbons                   → 莫特·吉本斯               源×1     译×1    
+     Altoonas                       → 阿尔图纳帮                源×2     译×2    
+     Ned Garlin                     → 内德·加林                源×3     译×3    
+     Phone Boss / Plants Boss       → 电话头领 / 工厂头领          源×2     译×3    
+     Field Boss / Resources Divisio → 战地头领 / 资源师           源×4     译×4    
+     drop ship                      → 俯降艇                  源×1     译×1    
+     directional projector          → 定向投射器                源×1     译×1    
+     Heaven-Born                    → 天生至尊                 源×2     译×2    
+     Heaven-Council                 → 天廷议事会                源×1     译×1    
+     tribesmen                      → 部民                   源×6     译×6    
+     Public Intelligence Office     → 公众情报署                源×1     译×1    
+     Navigation Intelligence Divisi → 航运情报部                源×2     译×2    
+     Military Office                → 军务署                  源×10    译×3     落位偏低 3/10
+

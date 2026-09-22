@@ -1,0 +1,55 @@
+## XXXI The Duke and Duchess in Town
+At the end of March the Duchess of Omnium, never more to be called Lady Glencora by the world at large, came up to London. The Duke, though he was now banished from the House of Commons, was nevertheless wanted in London; and what funereal ceremonies were left might be accomplished as well in town as at Matching Priory. No old Ministry could be turned out and no new Ministry formed without the assistance of the young Duchess. It was a question whether she should not be asked to be Mistress of the Robes, though those who asked it knew very well that she was the last woman in England to hamper herself by dependence on the Court. Up to London they came; and, though of course they went into no society, the house in Carlton Gardens was continually thronged with people who had some special reason for breaking the ordinary rules of etiquette in their desire to see how Lady Glencora carried herself as Duchess of Omnium. “Do you think she’s altered much?” said Aspasia Fitzgibbon, an elderly spinster, the daughter of Lord Claddagh, and sister of Laurence Fitzgibbon, member for one of the western Irish counties. “I don’t think she was quite so loud as she used to be.”
+Mrs. Bonteen was of opinion that there was a change. “She was always uncertain, you know, and would scratch like a cat if you offended her.”
+“And won’t she scratch now?” asked Miss Fitzgibbon.
+“I’m afraid she’ll scratch oftener. It was always a trick of hers to pretend to think nothing of rank;﻿—but she values her place as highly as any woman in England.”
+This was Mrs. Bonteen’s opinion; but Lady Baldock, who was present, differed. This Lady Baldock was not the mother, but the sister-in-law of that Augusta Boreham who had lately become Sister Veronica John. “I don’t believe it,” said Lady Baldock. “She always seems to me to be like a great schoolgirl who has been allowed too much of her own way. I think people give way to her too much, you know.” As Lady Baldock was herself the wife of a peer, she naturally did not stand so much in awe of a duchess as did Mrs. Bonteen, or Miss Fitzgibbon.
+“Have you seen the young Duke?” asked Mr. Ratler of Barrington Erle.
+“Yes; I have been with him this morning.”
+“How does he like it?”
+“He’s bothered out of his life﻿—as a hen would be if you were to throw her into water. He’s so shy, he hardly knows how to speak to you; and he broke down altogether when I said something about the Lords.”
+“He’ll not do much more.”
+“I don’t know about that,” said Erle. “He’ll get used to it, and go into harness again. He’s a great deal too good to be lost.”
+“He didn’t give himself airs?”
+“What!﻿—Planty Pall! If I know anything of a man he’s not the man to do that because he’s a duke. He can hold his own against all comers, and always could. Quiet as he always seemed, he knew who he was, and who other people were. I don’t think you’ll find much difference in him when he has got over the annoyance.” Mr. Ratler, however, was of a different opinion. Mr. Ratler had known many docile members of the House of Commons who had become peers by the death of uncles and fathers, and who had lost all respect for him as soon as they were released from the crack of the whip. Mr. Ratler rather despised peers who had been members of the House of Commons, and who passed by inheritance from a scene of unparalleled use and influence to one of idle and luxurious dignity.
+Soon after their arrival in London the Duchess wrote the following very characteristic letter:﻿—
+
+> Dear Lord Chiltern,
+> Mr. Palliser﻿—
+
+Then having begun with a mistake, she scratched the word through with her pen.
+
+> The Duke has asked me to write about Trumpeton Wood, as he knows nothing about it, and I know just as little. But if you say what you want, it shall be done. Shall we get foxes and put them there? Or ought there to be a special fox-keeper? You mustn’t be angry because the poor old Duke was too feeble to take notice of the matter. Only speak, and it shall be done.
+> Yours faithfully,
+> Glencora O.
+> Madame Goesler spoke to me about it; but at that time we were in trouble.
+
+The answer was as characteristic:﻿—
+
+> Dear Duchess of Omnium,
+> Thanks. What is wanted, is that keepers should know that there are to be foxes. When keepers know that foxes are really expected, there always are foxes. The men latterly have known just the contrary. It is all a question of shooting. I don’t mean to say a word against the late Duke. When he got old the thing became bad. No doubt it will be right now.
+> Faithfully yours,
+> Chiltern.
+> Our hounds have been poisoned in Trumpeton Wood. This would never have been done had not the keepers been against the hunting.
+
+Upon receipt of this she sent the letter to Mr. Fothergill, with a request that there might be no more shooting in Trumpeton Wood. “I’ll be shot if we’ll stand that, you know,” said Mr. Fothergill to one of his underlings. “There are two hundred and fifty acres in Trumpeton Wood, and we’re never to kill another pheasant because Lord Chiltern is Master of the Brake Hounds. Property won’t be worth having at that rate.”
+The Duke by no means intended to abandon the world of politics, or even the narrower sphere of ministerial work, because he had been ousted from the House of Commons, and from the possibility of filling the office which he had best liked. This was proved to the world by the choice of his house for a meeting of the party on the 30th of March. As it happened, this was the very day on which he and the Duchess returned to London; but nevertheless the meeting was held there, and he was present at it. Mr. Gresham then repeated his reasons for opposing Mr. Daubeny’s bill; and declared that even while doing so he would, with the approbation of his party, pledge himself to bring in a bill somewhat to the same effect, should he ever again find himself in power. And he declared that he would do this solely with the view of showing how strong was his opinion that such a measure should not be left in the hands of the Conservative party. It was doubted whether such a political proposition had ever before been made in England. It was a simple avowal that on this occasion men were to be regarded, and not measures. No doubt such is the case, and ever has been the case, with the majority of active politicians. The double pleasure of pulling down an opponent, and of raising oneself, is the charm of a politician’s life. And by practice this becomes extended to so many branches, that the delights﻿—and also the disappointments﻿—are very widespread. Great satisfaction is felt by us because by some lucky conjunction of affairs our man, whom we never saw, is made Lord-Lieutenant of a county, instead of another man, of whom we know as little. It is a great thing to us that Sir Samuel Bobwig, an excellent Liberal, is seated high on the bench of justice, instead of that timeserving Conservative, Sir Alexander McSilk. Men and not measures are, no doubt, the very life of politics. But then it is not the fashion to say so in public places. Mr. Gresham was determined to introduce that fashion on the present occasion. He did not think very much of Mr. Daubeny’s Bill. So he told his friends at the Duke’s house. The Bill was full of faults﻿—went too far in one direction, and not far enough in another. It was not difficult to pick holes in the Bill. But the sin of sins consisted in this﻿—that it was to be passed, if passed at all, by the aid of men who would sin against their consciences by each vote they gave in its favour. What but treachery could be expected from an army in which every officer, and every private, was called upon to fight against his convictions? The meeting passed off with dissension, and it was agreed that the House of Commons should be called upon to reject the Church Bill simply because it was proposed from that side of the House on which the minority was sitting. As there were more than two hundred members present on the occasion, by none of whom were any objections raised, it seemed probable that Mr. Gresham might be successful. There was still, however, doubt in the minds of some men. “It’s all very well,” said Mr. Ratler, “but Turnbull wasn’t there, you know.”
+But from what took place the next day but one in Park Lane it would almost seem that the Duchess had been there. She came at once to see Madame Goesler, having very firmly determined that the Duke’s death should not have the appearance of interrupting her intimacy with her friend. “Was it not very disagreeable,”﻿—asked Madame Goesler﻿—“just the day you came to town?”
+“We didn’t think of that at all. One is not allowed to think of anything now. It was very improper, of course, because of the Duke’s death;﻿—but that had to be put on one side. And then it was quite contrary to etiquette that Peers and Commoners should be brought together. I think there was some idea of making sure of Plantagenet, and so they all came and wore out our carpets. There wasn’t above a dozen peers; but they were enough to show that all the old landmarks have been upset. I don’t think anyone would have objected if I had opened the meeting myself, and called upon Mrs. Bonteen to second me.”
+“Why Mrs. Bonteen?”
+“Because next to myself she’s the most talkative and political woman we have. She was at our house yesterday, and I’m not quite sure that she doesn’t intend to cut me out.”
+“We must put her down, Lady Glen.”
+“Perhaps she’ll put me down now that we’re half shelved. The men did make such a racket, and yet no one seemed to speak for two minutes except Mr. Gresham, who stood upon my pet footstool, and kicked it almost to pieces.”
+“Was Mr. Finn there?”
+“Everybody was there, I suppose. What makes you ask particularly about Mr. Finn?”
+“Because he’s a friend.”
+“That’s come up again, has it? He’s the handsome Irishman, isn’t he, that came to Matching, the same day that brought you there?”
+“He is an Irishman, and he was at Matching, that day.”
+“He’s certainly handsome. What a day that was, Marie! When one thinks of it all﻿—of all the perils and all the salvations, how strange it is! I wonder whether you would have liked it now if you were the Dowager Duchess.”
+“I should have had some enjoyment, I suppose.”
+“I don’t know that it would have done us any harm, and yet how keen I was about it. We can’t give you the rank now, and you won’t take the money.”
+“Not the money, certainly.”
+“Plantagenet says you’ll have to take it;﻿—but it seems to me he’s always wrong. There are so many things that one must do that one doesn’t do. He never perceives that everything gets changed every five years. So Mr. Finn is the favourite again?”
+“He is a friend whom I like. I may be allowed to have a friend, I suppose.”
+“A dozen, my dear;﻿—and all of them good-looking. Goodbye, dear. Pray come to us. Don’t stand off and make yourself disagreeable. We shan’t be giving dinner parties, but you can come whenever you please. Tell me at once;﻿—do you mean to be disagreeable?”
+Then Madame Goesler was obliged to promise that she would not be more disagreeable than her nature had made her.

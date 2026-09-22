@@ -1,0 +1,89 @@
+## XVIII The Telegram
+Hetherwick followed his companion across the Strand, into the Adelphi, and to the house they wanted﻿—an old Adams mansion, now divided into flats. Matherfield did not take the trouble to ascend to the upper regions; he sought and found a caretaker and put a question to him. The man shook his head.
+“Dr. Ambrose, sir?” he replied. “Oh, yes, Dr. Ambrose lives here﻿—38. But he ain’t in, sir﻿—ain’t at home, in fact. He’s been away three weeks or so﻿—don’t know where he is.”
+With a meaning look at Hetherwick, Matherfield drew the caretaker aside and talked to him for a few moments; the man presently turned and went downstairs to the basement from which they had summoned him.
+“That’s all right,” remarked Matherfield, with a wink. “He’s going to let us into Ambrose’s flat. Didn’t I tell you we shouldn’t find Ambrose here? Not he! I should say he’s off!”
+“Supposing he returns﻿—while we’re here?” asked Hetherwick.
+“Wish he would!” chuckled Matherfield. “Nobody I want to see more! If he did, why, I should just ask him to take a little walk with me﻿—to explain a few matters. But he won’t! Here’s the man. We’ll go up.”
+The caretaker reappeared with a bunch of keys and led the way to a flat at the top of the old house. He unlocked a door and stood aside.
+“You needn’t wait,” said Matherfield. “I’ll shut the place up again when we leave and let you know. All right.”
+He walked in, with Hetherwick at his heels, as soon as the caretaker had gone, and, once inside, closed the door carefully upon himself and his companion. But Hetherwick, after a first glance at the sitting-room into which they had entered, a somewhat untidy, shabbily furnished place, went straight to the hearth and pointed to a framed photograph, time-stained and faded, which hung over the mantelpiece.
+“There’s a striking and significant piece of evidence﻿—at once!” he exclaimed. “Do you know what that is, Matherfield?”
+Matherfield looked in the direction indicated, and shook his head.
+“Not the slightest idea!” he answered. “I see it’s a photograph of some old church or other﻿—that’s all.”
+“That’s the famous Parish Church of Sellithwaite!” said Hetherwick. “One of the very finest in England! I had a look at it﻿—only a mere look﻿—when I was down there. Now then, what’s this man doing with a picture of Sellithwaite Parish Church in his rooms? Hannaford came from Sellithwaite!”
+“That’s a mighty significant thing, anyway,” agreed Matherfield. “We’re getting at something this morning!” He looked more carefully at the photograph. “Grand old building, as you say,” he continued. “Of course, the mere fact of his having it put up there shows that he’s some interest in it. Sellithwaite man, likely. But we’ll find all that out. Now let’s look round.”
+There was little to see, Hetherwick thought. The flat consisted of a sitting-room and bedroom and a small bathroom. The furniture was plain, old, rather shabby; the whole place suggested that its occupant was not over well-to-do; the only signs of affluence to be seen were manifested in the toilet articles on the dressing-table, in a luxurious, if well-worn, dressing-gown which hung on the rail of the bed, and in the presence of carefully folded and pressed garments laid out in the bedroom. There were a few books, chiefly medical treatises, in shelves in the sitting-room; a few personal pictures, mainly of college and school groups, on the walls; and a desk in the centre, littered with more books, writing materials, and papers. Matherfield began to turn them over.
+“See that?” he exclaimed suddenly, pointing to a movable calendar which stood on the top ledge of the desk. “Notice the date? March 18th! That’s the day on which Hannaford got his quietus. At least, strictly speaking, it was the day before. Hannaford actually died on the nineteenth﻿—about﻿—what was it?﻿—very early in the morning, anyway. What’s one to gather from this?﻿—that Ambrose hasn’t been here since the eighteenth. So﻿—hallo!”
+Turning over the loose papers that lay about the blotting-pad, he had suddenly lighted upon a telegram; just as suddenly he thrust it into Hetherwick’s hands.
+“Look at that!” he exclaimed. “Now, that is a find! Biggest we’ve ever had﻿—so far!”
+Hetherwick read the apparently innocent message.
+
+> All right. Will meet you Victoria bookstall this evening as suggested.
+> Hannaford.
+
+“See the date?” said Matherfield excitedly. “March 18th! Now we’ve got at it! Ambrose was the man that met Hannaford at Victoria, the tall, muffled-up man that Ledbitter saw! That’s﻿—certain!”
+“Seems so,” agreed Hetherwick. He was still studying the telegram. “Sent off from Fleet Street twelve-fifteen that day,” he muttered. “Yes﻿—there doesn’t seem much doubt about this. I wonder who this man Ambrose is?”
+“We’ll soon get to know something about that, Mr. Hetherwick!” exclaimed Matherfield briskly. “Now, I’m just going to put that wire in my pocket, lock up this flat again, have another word or two with that caretaker chap, and go in search of the information you refer to. Come with me! Later, I shall get a search warrant, and make a thorough examination of this flat. Let’s be moving.”
+Downstairs again, Matherfield called up the caretaker.
+“You say Dr. Ambrose has been away for a bit?” he asked. “Is there anything unusual in that?”
+“Well, not so very,” answered the man. “Ever since he came here, two or three years ago, he’s been used to going away for a while. I believe he used to go over to Paris. But I never remember him being away more than a week at a time before.”
+“Evidently he’s a doctor,” suggested Matherfield. “Did he ever have patients come to see him here?”
+The caretaker shook his head.
+“No,” he replied. “He never had anybody much come to see him here﻿—never remember anybody, unless it was somebody he brought in at night for a smoke, you know. He generally went out early in a morning, and came home late﻿—very late.”
+“What about his meals?” asked Matherfield.
+“He’d no meals here﻿—unless he made himself a cup of coffee or so in a morning,” said the caretaker. “All his meals out﻿—breakfast, too. Sundays as well as weekdays. We saw very little of him.”
+“Who does up his rooms﻿—makes the bed and so on?” inquired Matherfield.
+“My wife,” answered the caretaker. “She does all that.”
+“And she hasn’t had anything to do for﻿—how long?”
+“Well, it’ll be three weeks, I’m sure. He never used to say anything at any time when he went off﻿—just went. He’d call downstairs when he came back and let us know he was back, d’ye see? But we never thought he’d be as long away as this, this time. It was only this morning, just before you came, that my missus said to me that it seemed queer.”
+“Why queer?”
+“Because he’s taken nothing with him. However short a time he might be away before, he always took a suitcase, clean linen, shaving things, so on﻿—he was a very particular gentleman about his appearance﻿—always dressed like a swell and had a clean shirt every day; used to have a nice heavy washing-bill, anyhow!”
+“Did he seem to be pretty well supplied with money?” asked Matherfield. “Or﻿—the opposite?”
+“Couldn’t rightly say,” replied the caretaker. “Always paid his rent, and us, and the washing regular, but as for anything else, why, we’d no means of knowing. Of course, as I tell you, he always looked the gentleman.”
+“I see!” said Matherfield. “All right﻿—you’ll see me again this afternoon.”
+He strode away towards the Strand, and there ushered Hetherwick into the first empty taxicab they met.
+“Where now?” asked Hetherwick as Matherfield followed him into the cab after a word to its driver.
+“We’re going now, sir, to Hallam Street, to the offices of the General Medical Council,” answered Matherfield promptly. “I’ve had experience of inquiring into the antecedents of medical men before, and I know where to find out all about any of ’em. I’m going to find out all about this Dr. Charles Ambrose﻿—that is, of course, if he’s an English doctor.”
+“Probably he isn’t,” remarked Hetherwick, “any more than Baseverie is.”
+“Ah, Baseverie!” exclaimed Matherfield. “I’d forgotten that man for the time being! Well, while we’re about it, we’ll see if we can unearth a bit of information concerning him. We’ve done a bit of good work this morning, ye know, Mr. Hetherwick!” he went on, rubbing his hands with satisfaction. “We’ve practically made certain that Ambrose was the man who met Hannaford at Victoria, and we’re sure he’s the man to whom Macpherson supplied the bottle in which the poison was discovered at Granett’s room. And now we’ll hope for a bit more illumination in the darkness!”
+Hetherwick presently found himself closeted with Matherfield and a grave official who, after seeing Matherfield’s credentials and listening to his reasons for his visit of inquiry, began to consult various books of reference. Presently he left the room and was away some time; when he returned he brought with him two slips of paper, which he handed to Matherfield.
+“I have had the particulars you require written out for you,” he said, “so you can examine them at your leisure. I﻿—” here he smiled frostily﻿—“I gather that you are somewhat anxious to get in touch with these men?”
+“I think it’s extremely probable, sir, that before the day’s over I shall be exceedingly anxious to get in touch with both!” answered Matherfield, with something very like a wink. “More than anxious!”
+The grave official nodded and smiled again, and Matherfield and Hetherwick went away. Outside Matherfield looked right and left.
+“Mr. Hetherwick,” he said, “it’s well past twelve, and I’d my breakfast before eight﻿—I’m hungry! Let’s turn into the first decent place we see and get a bite and a sup! And we’ll examine these papers.”
+He presently led Hetherwick into the saloon bar of a tavern, and remarking that he had a taste for ale and bread and cheese at that time of day, provided himself with these matters and retreated to a snug corner, whither Hetherwick followed him with a whisky and soda.
+“Here’s success to our endeavours, Mr. Hetherwick!” said Matherfield, lifting his tankard. “I’m now firmly under the impression that we’re adding link after link to the chain! But let’s see what we’ve got here in this crabbed writing.”
+He laid the slips of paper on the table at which they sat; both bent over them. There were not many words on either, but to Hetherwick they were significant enough in their plain straightforwardness.
+
+> Charles Ambrose, M.B. (Oxon). Medical Officer of Health, Crayport, Lancs, 1903﻿–﻿4; in practice Whiteburn, Lancs, 1904﻿–﻿9; police surgeon, Sellithwaite, WR, Yorks, 1909﻿–﻿12; in practice Brondesbury, London, 1912﻿–﻿18. Struck off Register by General Medical Council for unprofessional conduct, 1918.
+
+“So much for him!” muttered Matherfield, his cheek bulging with bread and cheese. “I thought it would turn out to be something of that sort! Now t’other!”
+
+> Cyprian Baseverie, L.R.C.P., L.R.C.S. In practice Birmingham, 1897﻿–﻿1902; at Wyborough, Northants, 1902﻿–﻿11; at Dalston, N, 1911﻿–﻿17, Convicted of fraud at Central Criminal Court, 1917, and struck off Register by General Medical Council, 1918.
+
+“Ho-ho!” exclaimed Matherfield. “Been in the dock already, has he? Well, well, Mr. Hetherwick, we continue to learn, sir! We know still more. Baseverie’s a convicted criminal. Both have been struck off the register. Ambrose was certainly at Sellithwaite﻿—and he’d be there, according to these dates, at the time of the Whittingham affair. A promising pair﻿—for our purpose! What do you think?”
+“I’m wondering if the two men know each other,” answered Hetherwick.
+“Shouldn’t wonder,” said Matherfield. “Probably they do. Probably they’re mixed up together in this affair. Probably they’re actual partners in it﻿—accessories to each other. But now that I know this much about them, I can find out more, especially about Ambrose, as he was a police surgeon. I can find out, too, what Baseverie’s particular crime was. Defrauding a patient, I should imagine. But I’ll put one or two men on to working up particulars and records of both Baseverie and Ambrose this afternoon, and, of course, I shall go back and thoroughly examine that flat in John Street.”
+“And, I suppose, in view of the evidence supplied by Macpherson, set up a search for Ambrose?” suggested Hetherwick.
+“To be sure! We’ll get out a ‘tracked by the police’ notice, describing him to the best of our power,” replied Matherfield. “But I’ll tell you﻿—in my opinion it’ll be a stiff job getting hold of him. If you want my opinion, as a private individual, he’s probably got that secret invention of Hannaford’s and gone off across the Atlantic with it﻿—to turn it into money.”
+“That’s very likely,” assented Hetherwick. “But what about Baseverie?”
+“I’m not so much concerned about him now,” said Matherfield. “Ambrose seems to be the man I want﻿—first, anyway. But I shall do what I can to get hold of Baseverie. If these Penteney and Blenkinsop people had only come to us instead of laying plans of their own, some good would have been done. I shouldn’t have let the man get away!”
+“My belief,” observed Hetherwick, “is that Baseverie and Ambrose are partners in this affair. And﻿—how do we know that they didn’t meet at Dover, and that they haven’t gone off together?”
+Still wondering about this, Hetherwick next morning went round to Lincoln’s Inn Fields and asked to see one of the partners. He was shown into the room in which he and Matherfield had had their interview on the previous day. But he found Major Penteney alone. Blenkinsop, remarked the junior partner, had business in the Courts that morning.
+“I called,” explained Hetherwick, “to ask if you had any more information about Baseverie’s disappearance at Dover.”
+Penteney made a wry face.
+“More vexed than ever about that!” he answered. “Most inexcusably stupid conduct on the part of our man﻿—man we’ve always found so reliable previously. He came back yesterday afternoon, crestfallen, told us all about it, and got a jolly good wigging. He’d done well at first. Tracked his man from Riversreade Court to Dorking, and thence to Redhill, and thence to Dover, after one or two changes. Baseverie put up at some hotel﻿—I forget which﻿—near the harbour; our man, certain that Baseverie was quite unconscious that he was being followed, put up there, too. Nothing happened. He saw Baseverie at dinner that night, saw him in the smoking-room after; in fact, he had a game of billiards with him, and saw him retire to bed; their rooms were adjacent. He felt sure of seeing him at breakfast, but when he went down he found that the bird had flown﻿—flown, said the night porter, before six o’clock; he didn’t know where. Nor could our man trace him at station or pier, or anywhere.”
+“Careless sort of watching,” said Hetherwick.
+“Worse than careless!” agreed Penteney. “As I said, he caught it hot. But now﻿—”
+The telephone bell on Blenkinsop’s desk rang. With a word of excuse Penteney turned to it. A moment later a smothered ejaculation of surprise came from him, followed by a sharp interrogation on his part. Suddenly he turned on Hetherwick.
+“Good heavens!” he exclaimed. “What’s all this? This is Lady Riversreade speaking. She says her sister, who came yesterday, and Miss Featherstone have been kidnapped! Kidnapped﻿—this morning!”
+Hetherwick leapt to his feet with a sharp exclamation﻿—half amazed, half incredulous. But already his thoughts were with Rhona; he saw the dangers of the situation for her as Penteney could not see them.
+“Impossible!” he said. “Kidnapped! in broad daylight? And﻿—from there?”
+But Penteney was still busy at the telephone, giving and receiving rapid answers.
+“Yes, yes!” he was saying. “To be sure!﻿—police﻿—yes! I’m coming straight there now﻿—car﻿—tell the police to get busy.”
+He turned sharply to Hetherwick as he laid down the instrument.
+“Fear there’s no impossibility about it!” he said. “Lady Riversreade says they were carried off as they crossed from the Court to the Home﻿—she’s heard something of a big car with strange men in it. I’m going down there at once﻿—there’s more in this affair than one sees at first.”
+“I’ll come with you,” said Hetherwick. “Where can we get a car﻿—a fast one?”
+“Garage close by, in Kingsway,” answered Penteney, hurriedly seizing on one of several greatcoats that hung in a recess. “Here!﻿—get into one of these﻿—you’re about my height, and the air’s still nippy, motoring. Now come on﻿—we’ll be there in under the hour. You know,” he continued, as they left the office and hastened towards Kingsway, “I think I see through something of this already, Hetherwick. These fellows probably believed they were kidnapping Lady Riversreade!﻿—and got her sister in mistake for her. Ransom, you know! The blackmailing dodge failed﻿—now they’re trying this. A desperate and daredevil lot, evidently!”
+Hetherwick nodded a silent assent. He was wondering whether or not to tell Penteney that the Miss Featherstone of whom he had just spoken was in reality the granddaughter of the man whose mysterious murder appeared to be the starting-point of the more recent, equally mysterious events. That fact, it seemed to him, would have to come out sooner or later﻿—and there might be possible complications, perhaps unpleasantness, when Lady Riversreade discovered that Rhona had gone to her as a spy. Might it not be well to take Penteney into his confidence and explain matters? But, on reflection, he decided to wait until they knew the exact situation at Riversreade Court; so far, in spite of Lady Riversreade’s news he felt it difficult to believe that two women, one of them, to his knowledge, a girl of character and resource, and the other a woman of the world, used to travelling and to adventure, could be carried off in broad daylight in immediate prospect of two large houses﻿—the thing seemed impossible.

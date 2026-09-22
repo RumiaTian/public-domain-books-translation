@@ -1,0 +1,57 @@
+## Preface / 前言
+
+===Original===
+There are few novelists nowadays, I suppose, who will not readily acknowledge that, in certain most intrinsic qualities of the art, the great Russians are what Henry James once called Balzac, the masters of us all.
+
+===Chinese===
+我想，如今的小说家很少有不乐于承认这一点的：就这门艺术某些最内在的品质而言，伟大的俄国人，正是亨利·詹姆斯（Henry James）当年用来称呼巴尔扎克（Balzac）的那个字眼——「我们大家的宗师」。
+
+===Original===
+To many readers of the western world, however, there was﻿—there still is, despite the blinding glare which the Russian disaster has shed on the national character﻿—a recurring sense of bewilderment in trying to trace the motives of the strange, seductive and incoherent people who live in the pages of Dostoevsky, Tolstoy, and their mighty group. In Balzac, at all times, the western mind is at home: even when the presentment is obviously a caricature, one knows what is being caricatured. But there are moments﻿—to me at least﻿—in the greatest of Russian novels, and just as I feel the directing pressure of the novelist most strongly on my shoulder, when somehow I stumble, the path fades to a trail, the trail to a sand-heap, and hopelessly I perceive that the clue is gone, and that I no longer know which way the master is seeking to propel me, because his people are behaving as I never knew people to behave.
+
+===Chinese===
+然而对西方世界的许多读者来说，曾经有过——纵使俄国的浩劫已把那民族性格照得让人睁不开眼，至今也依然有着——一种反复袭来的惶惑：想追索陀思妥耶夫斯基、托尔斯泰和他们的雄强一派的书页里那些古怪、迷人而全无条理的人物们的动机，却总是茫茫然不得其门。在巴尔扎克笔下，西方的头脑随时随地都像在自己家里：哪怕那描绘分明是一幅漫画，你也知道被漫画的是什么。可是在最伟大的俄国小说里，总有那样的时刻——至少对我是如此——而且偏偏正当我感到小说家指引的压力最重地压上肩头的时候，不知怎么便一个趔趄，大路淡成了小径，小径淡成了沙堆，我绝望地看出线索已经丢失，再也不知道这位宗师究竟想把我往哪边推，因为他笔下那些人物行事的样子，是我从来不曾见识过有人那样行事的。
+
+===Original===
+“Oh, no; we *know* they’re like that, because he says so﻿—but they’re too different!” one groans.
+And then, perhaps, for enlightenment, one turns to the western novelist, French or English or other, the avowed “authority” who, especially since the war, has undertaken to translate the Russian soul in terms of our vernacular.
+
+===Chinese===
+「哦，不；我们*知道*他们就是那副样子，因为是他说的话——可他们也实在太不一样了！」便有人这样哀叹。
+于是，也许为了求得开导，人们便转向西方的小说家——法国的、英国的或别的什么——那位自任的「权威」；尤其自大战以来，此人便担起了用我们的白话来转译俄国灵魂的差事。
+
+===Original===
+Well﻿—I had more than once so turned﻿ ﻿… and had vainly hunted, through the familiar scenery of vodka, muzhik, eikon, izba and all the rest, for the souls of the wooden puppets who seemed to me differentiated only from similar wooden puppets by being called Alexander Son-of-Somebody instead of Mr. Jones or M. Dupont.
+
+===Chinese===
+唉——像这样转而求助于西方小说家，我也不止一次了……却只是枉然：在伏特加、穆日克（muzhik，俄国农夫）、圣像、木屋（izba）和诸如此类一套熟烂了的风光里，白费气力地搜寻那些木头傀儡的灵魂——在我看来，这些傀儡与同类的木头傀儡惟一的不同，便是名字叫做亚历山大·某某之子（Alexander Son-of-Somebody），而不是琼斯先生（Mr. Jones）或者杜邦先生（M. Dupont）。
+
+===Original===
+Then I fell upon *Futility*. Someone said: “It’s another new novel about Russia”﻿—and every one of my eager feelers curled up in a tight knot of refusal. But I had a railway-journey to make, and the book in my bag﻿—and I began it. And I remember nothing of that railway-journey, of its dust, discomfort, heat and length, because, on the second or third page, I had met living intelligible people, Sons-and-daughters-of-Somebody, as Russian, I vow, as those of Dostoevsky or Goncharoff, and yet conceivable by me because presented to me by a mind open at once to their skies and to mine. I read on, amused, moved, absorbed, till the tale and the journey ended together.
+
+===Chinese===
+后来我撞上了《徒劳》（*Futility*）。有人说：「又是一本写俄国的新小说」——我全部热切的触角霎时蜷作一个抵拒的死结。可是偏偏有一趟火车要坐，书又在提包里——我便开了头。那趟旅程的尘土、不适、暑热和漫长，我竟毫无记忆，因为在第二页还是第三页上，我已经遇上了活生生的、可以理喻的人物——某某人家的儿女们——我敢起誓，他们同陀思妥耶夫斯基或冈察洛夫（Goncharoff）笔下的人物一样地道地是俄国人，然而又是我所能设想的，因为把他们呈到我面前的那颗心灵，对他们的天空和我的天空同时敞开着。我于是一路读下去，时而莞尔，时而动容，浑然入迷，直到故事与旅程一齐到了尽头。
+
+===Original===
+This, it seems to me, is the most striking quality of Mr. Gerhardie’s book: that he has (even in this, his first venture) enough of the true novelist’s “objectivity” to focus the two so utterly alien races to which he belongs almost equally by birth and bringing-up﻿—the English and Russian; to sympathize with both, and to depict them for us *as they see each other*, with the play of their mutual reactions illuminating and animating them all.
+
+===Chinese===
+依我看来，这正是格哈迪先生（Mr. Gerhardie）这本书最触目的品质：他（即使在这初次试笔里）有着足够分量的真正小说家的「客观性」，能把两个截然异质、而他凭血统与教养又几乎同等地隶属其中的种族——英国与俄国——统摄在同一个焦点上；能对两者一体同情，并把双方*互相眼中的模样*描绘给我们，让他们相互反应的交相照映，使书中众人个个被照亮、被点活。
+
+===Original===
+There are lots of other good things in the book; indeed, it is so surprisingly full of them that one wonders at the firmness of the hand which has held together all the fun, pathos and irony of the thronged sprawling tale, and guided it resolutely to an inevitable conclusion. “It takes genius to make an ending” Nietzsche said; and, perhaps partly for that reason, the modern novelist seems often to have decided that it is the trifle most conveniently dispensed with.
+
+===Chinese===
+书里还有许许多多别样的好处；真的，好处多得惊人，叫人不禁惊叹那只手何以这样稳：它把这部人物济济、枝蔓丛生的故事里全部的谐趣、哀感与讥讽牢牢拢住，又断然把它引向一个必然的结局。「造出一个结局来，需要天才」，尼采如是说；而现代小说家似乎常常——也许一部分正为这个缘故——认定这结局原是最不妨省去的小玩意儿。
+
+===Original===
+Mr. Gerhardie’s novel is extremely modern; but it has bulk and form, a recognizable orbit, and that promise of more to come which one always feels latent in the beginnings of the born novelist. For all these reasons﻿—and most of all for the laughter, the tears, the strong beat of life in it﻿—I should like to hand on my enjoyment of the book to as many other American readers as possible.
+
+===Chinese===
+格哈迪先生的这部小说极其现代；然而它有块头、有形状，有一条认得出的轨道，还有那种「此后还大有可期」的兆头——天生的小说家开笔之时，人们总能感到这种兆头潜伏其间。为了这一切——更为了其中的笑声、眼泪和生命的有力搏动——我很愿意把我读这本书的快乐，尽量传递给更多的美国读者。
+
+===Original===
+Edith Wharton.
+
+===Chinese===
+伊迪丝·华顿（Edith Wharton）。

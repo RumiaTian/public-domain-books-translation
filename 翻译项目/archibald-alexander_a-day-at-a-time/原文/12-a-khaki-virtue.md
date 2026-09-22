@@ -1,0 +1,29 @@
+## XII A Khaki Virtue
+
+> “God loveth a cheerful giver.”
+> — 2 Corinthians 9:7
+
+We are proud to believe that, in the article of courage, our men are second to none in the world. They have glorious traditions to live up to, and they are adding to these pages﻿—nay, a whole volume, as splendid as any in our annals. Yet it is not of our soldiers’ courage I wish to speak.
+For we are told on all hands that there is another quality shining brighter still these days in the trenches in France and Belgium, in ambulance wagons and field hospitals, and in the camps at home, namely, cheerfulness. Again and again the same tale is repeated from one quarter or another﻿—“our men are simply wonderful,” “they treat discomfort as a joke.” They label the very instruments that deal death among them with names that raise a smile. Nurses, doctors, and correspondents tell us that the lighthearted way in which our soldiers face pain and suffering and force twisted lips to smile has created a new record for the British Army. When the story of this war is written, and the world gets a nearer glimpse into those awful trenches, I venture to prophesy that the quality in our countrymen which will most capture the imagination and fill us with the greatest pride will be the gay, undaunted cheerfulness with which they faced it all.
+Surely we who stay at home may learn something of that virtue too. For it is worth learning. Ordinary people who only know what they like, without knowing why they like it, have a very warm side towards the person who, when things are grey and gloomy, can keep cheerful. They would much rather see him come in on a dull day than a wiser man whose wisdom was a burden to him, or even than a pious person whose piety ran to solemnity and gloom. It is high time, indeed, that the tradition was broken for good and all which associates moral excellence with a funereal heaviness of manner and denies the favour of the Lord to one who, as Goldsmith has it, “carols as he goes.”
+For the blessing of God is written visibly upon the results of cheerfulness wherever you find it. God rewards the gallant souls who keep their colours flying through every battle, even though they have to nail them up over a sorely damaged ship. If you want a proof that the hopeful and cheery way of facing the rebuffs of life and tholing its aches and disappointments is more in the line of what God expects from His children than the doleful whining temper, you have it shown unmistakably in the fact that the gallant unconquerable soul solves problems, overcomes difficulties, endures pains, and wins successes where the solemn and easily depressed would simply have given in and lain down. You can safely prophesy that the man whom you hear singing as he goes through the valley, like the pilgrim that Bunyan’s Christian heard, is going to get out of it safely and honourably in the end. The Lord Himself will deliver him, as He delights to deliver all those who face life smiling and unafraid, and meet His Fatherly discipline with a stout heart.
+Cheerfulness, in other words, pays for oneself. But it is also a great blessing to others. One very safe and sure way to help our fellows up their hills is to breast our own as bravely and gaily as we can. And the cheerfulness which heals and blesses like the breath of morning is that which shows up against a background of cloud and trouble. Let us all in this year of war and clean courage, register a vow that we shall take a leaf out of our soldiers’ book, and think less about our own troubles, teach our lips to smile when things are wrong, and keep our eyes wider open for trouble’s danger signals among our friends. It’s a simple way of doing good, but a very effective one. For cheerfulness, like mercy, is twice blessed. It blesseth him that has, and him that sees!
+
+> “It was only a glad Good Morning
+ 
+
+ As she passed along the way,
+ 
+
+ But it spread the morning’s glory
+ 
+
+ Over the livelong day.”
+
+But cheerfulness needs its explanation. It implies something. A man is not cheerful without some underlying philosophy of life to sustain him, some pillar of faith or hope at his back. When a man faces life dauntless and smiling, he does so because some inward and, it may even be, unconscious faith or hope thus finds its expression. What that faith is, different men will describe in different ways.
+But however much the descriptions vary, it all comes back to this in the end, that the man who is living bravely and cheerfully is expressing by his conduct at any rate his faith in the Fatherhood and good Providence of God. He knows that “God’s in His Heaven”; at any rate he believes so. He believes that things do not just fall out by chance, but that a Father Hand controls all, and a Father Heart cares even for the sparrow’s unheeded fall. The God who rules all makes no mistakes.
+And is not that a cardinal part of the faith which Jesus brings near to all who are learning of Him? There are various adjectives used to qualify the title Christian. One hears, for example, of “earnest Christians,” and earnestness is a very necessary quality, even though one does occasionally happen upon “earnest Christians” who are rather unlovable and irritating people. But there’s another adjective, not nearly so common﻿—and yet it denotes a quality just as essential in those who have taken Christ’s gospel of God’s Love and Fatherhood to their hearts﻿—namely, cheerful. A “cheerful Christian.” Let us all try to be that kind of Christian at least.
+Prayer
+
+> “The day returns and brings us the petty round of irritating concerns and duties. Help us to play the man, help us to perform them with laughter and kind faces, let cheerfulness abound with industry. Give us to go blithely on our business all this day, bring us to our resting beds weary and content and undishonoured, and grant us in the end the gift of sleep. Amen.”
+> — R. L. Stevenson.

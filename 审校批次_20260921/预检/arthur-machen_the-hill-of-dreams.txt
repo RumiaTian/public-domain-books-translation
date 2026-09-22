@@ -1,0 +1,173 @@
+====================================================================================================
+### arthur-machen_the-hill-of-dreams  (8 files)
+  块: O=213 C=213 OK | 段: EN=463 CN=463 OK
+  英文残留(剔括注) top: gwaes×2, Isca×1, Silurum×1, J'ai×1, vu×1, tout×1, twyn×1, urtica×1, pilulifera×1, LBW×1
+  项目说明备注: - 章节文件名原为罗马数字（i.md…vii.md），natural sort 会乱序，已统一加两位数字前缀：00-introduction.md、01-i.md … 07-vii.md，前缀顺序即阅读顺序（epub spine 顺序）。 / - 全书约 371KB，超出连续模式单批约 150KB 的上限，需分多批推进，批间靠术语表 + 已译篇目保连贯。 / - 各章普遍 40–70KB，为长文，翻译时按通用翻译引擎第七节分段处理。 / - 文中含大量星号斜体（书名 *The Anatomy of Tobacco* 等）与长破折号（﻿—），保留标记与标点风格；第五章 Annie 与第六、七章鸦片/幻象场景的语气递进需特别注意。 / - 导言（00-introduction.md）为作者自传性回忆（真人真事：A. E. Waite、Bloomsbury 等），译法按术语表「导言人物」节。
+  -- 术语表硬约束行 166 条:
+     Lucian Taylor                  → 卢西安·泰勒               源×2     译×2    
+     Lucian                         → 卢西安                  源×201   译×201  
+     Annie                          → 安妮                   源×30    译×30   
+     the parson / Lucian's father   → 牧师 / 卢西安的父亲          源×16    译×29   
+     Miss Deacon                    → 迪肯小姐                 源×14    译×13   
+     Dr. Burrows                    → 伯罗斯医生                源×8     译×10   
+     Mr. Dixon / Mrs. Dixon         → 迪克森先生 / 迪克森太太        源×37    译×37   
+     Mr. Gervase / Mrs. Gervase     → 格瓦斯先生 / 格瓦斯太太        源×13    译×15   
+     Miss Colley                    → 科利小姐                 源×3     译×3     残留「神情严峻的黄脸老处女」×1 残留「科利太太」×2
+     Miss Spurry                    → 斯珀里小姐                源×4     译×4    
+     the Meyricks                   → 梅里克一家                源×1     译×1    
+     Mr. Vaughan                    → 沃恩先生                 源×7     译×7    
+     Lord Beamys                    → 比米斯勋爵                源×5     译×5    
+     Sir Vivian Ponsonby            → 维维安·庞森比爵士            源×2     译×2    
+     Dr. Manning                    → 曼宁医生                 源×1     译×1    
+     Joe                            → 乔                    源×2     译×4    
+     Barnes                         → 巴恩斯                  源×7     译×7    
+     Agatha Gervase                 → 阿加莎·格瓦斯              源×1     译×1    
+     Henrietta Dixon                → 亨利埃塔·迪克森             源×2     译×2    
+     Captain Kempton / Lieutenant G → 肯普顿上尉 / 加特威克中尉       源×2     译×2    
+     Gathy                          → 加蒂                   源×1     译×1    
+     the Morgans                    → 摩根家                  源×1     译×2    
+     Merivale                       → 梅里维尔                 源×2     译×2    
+     Thomas Trevor / Bob (Bobby) Wi → 托马斯·特雷弗 / 鲍勃（博比）·威廉斯 源×4     译×3    
+     Mrs. Jones                     → 琼斯太太                 源×1     译×1    
+     Ethel / Nelly / Robert / Wyman → 埃塞尔 / 内莉 / 罗伯特 / 怀曼  源×6     译×7    
+     A. E. Waite                    → A. E. 韦特             源×1     译×1    
+     Mr. Blank / Mr. Dash           → 布兰克先生 / 达什先生         源×3     译×3    
+     Mrs. Scudamore Runnymede       → 斯卡达姆·朗尼米德夫人          源×2     译×2    
+     Miranda                        → 米兰达                  源×3     译×3    
+     Sarah Pocklington Sanders      → 萨拉·波克林顿·桑德斯          源×1     译×1    
+     Edward Dutton / Mr. King       → 按上下文                 源×1     译×0     ★译0次(未落位?)
+     Caermaen                       → 凯尔梅恩                 源×32    译×32   
+     the hill of dreams / the Hill  → 梦想之丘                 源×2     译×0     ★译0次(未落位?)
+     the rectory                    → 教区宅邸                 源×6     译×8    
+     Llanfihangel                   → 兰菲汉格尔                源×1     译×1    
+     Bloomsbury                     → 布卢姆斯伯里               源×5     译×5    
+     Gray's Inn / Verulam Buildings → 格雷律师学院 / 维鲁拉姆大楼      源×2     译×3    
+     Theobald's Road                → 西奥博尔德路               源×1     译×1    
+     Uxbridge Road                  → 阿克斯布里奇路              源×2     译×2    
+     Notting Hill                   → 诺丁山                  源×2     译×2    
+     Halden Road                    → 哈尔登路                 源×1     译×1    
+     Messrs. Beit & Co.             → 贝特出版公司               源×3     译×9    
+     the Hungarian Protestants      → 匈牙利新教徒（募捐对象）         源×1     译×1    
+     the Society for the Conversion → 犹太人皈依协会              源×1     译×1    
+     the Portuguese Missions        → 葡萄牙传道会               源×1     译×2    
+     B. N. C.                       → B. N. C.（牛津布雷齐诺斯学院）  源×1     译×1    
+     Smart Society / the Press / th → 《时髦社会》/《新闻报》/《评论报》   源×11    译×7    
+     Pentre                         → 彭特雷                  源×3     译×3    
+     Croeswen                       → 克罗斯温                 源×1     译×1    
+     Avallaunius                    → 阿瓦隆尼乌斯               源×2     译×8     残留「阿瓦隆尼乌斯的花园」×2
+     the garden of Avallaunius      → 阿瓦隆尼乌斯的花园            源×6     译×2     落位偏低 2/6
+     Sangraal / San Graal           → 圣格拉尔（圣杯）             源×2     译×2    
+     Mithras                        → 密特拉                  源×3     译×3    
+     Isis                           → 伊西斯                  源×2     译×2    
+     Bacchus                        → 巴克斯                  源×1     译×3    
+     Faunus                         → 法乌努斯                 源×2     译×2     残留「法乌努斯标记的酒坛」×1
+     Saturn                         → 萨图恩                  源×1     译×2     残留「萨图恩之桥酒」×1
+     the wine of the Owl's Face     → 「鸮面酒」                源×1     译×0     ★译0次(未落位?)
+     Lycidas                        → 《利西达斯》               源×5     译×5    
+     the glory / glamour            → 迷魅 / 魔彩              源×7     译×5    
+     the Little People              → 小小人                  源×1     译×2    
+     the Great God Pan              → 潘神                   源×1     译×1    
+     opium / the little dark-blue b → 鸦片 / 深蓝小瓶            源×2     译×3    
+     the work                       → 「那部书」/「作品」           源×30    译×2     落位偏低 2/30 残留「大业」×2
+     illumination / limning         → 泥金饰彩 / 细描            源×3     译×4    
+     Dr. Jelly's Cooling Powders    → 杰利医生的清凉散             源×1     译×1    
+     Cork-ho                        → 科克霍                  源×1     译×1     残留「节制」×5
+     Benedicite omnia opera / Urbs  → 《万物颂》/《蒙福之城》         源×2     译×2    
+     “Lotus Eaters” / “Maud”        → 《食莲人》/《莫德》           源×1     译×2    
+     gwaes / mun / Iss              → gwaes〔土话，「家伙」〕/ 咹 /  源×9     译×5     落位偏低 5/9
+     The Hill of Dreams             → 《梦想之丘》               源×0     译×2     ★源0次(幽灵?)
+     The Anatomy of Tobacco         → 《烟草解剖学》              源×1     译×1    
+     the Heptaméron                 → 《七日谈》                源×0     译×1     ★源0次(幽灵?)
+     The Chronicle of Clemendy      → 《克莱门迪编年史》            源×1     译×1    
+     Le Moyen de Parvenir           → 《得遂之道》               源×1     译×1    
+     The Memoirs of Casanova        → 《卡萨诺瓦回忆录》            源×0     译×1     ★源0次(幽灵?)
+     The Three Impostors            → 《三个骗子》               源×3     译×3    
+     The Great God Pan              → 《伟大的潘神》              源×0     译×1     ★源0次(幽灵?)
+     Don Quixote                    → 《堂吉诃德》               源×3     译×2    
+     The Scarlet Letter             → 《红字》                 源×0     译×1     ★源0次(幽灵?)
+     A Bad Un to Beat / Yoicks!     → 《难缠的对手》/《呀呼！》（戏仿书名意译 源×4     译×5    
+     Millicent's Marriage           → 《米莉森特的婚姻》            源×2     译×2    
+     Dog and the Doctor             → 《狗与医生》               源×1     译×1    
+     Daily Post                     → 《每日邮报》式小报，译《每日邮报》    源×1     译×0     ★译0次(未落位?)
+     Charles Whibley                → 查尔斯·威布利              源×1     译×1    
+     Tristram Shandy                → 《项狄传》                源×1     译×1    
+     Gil Blas                       → 《吉尔·布拉斯》             源×1     译×1    
+     Robinson Crusoe                → 《鲁滨逊漂流记》             源×1     译×1    
+     Gwent                          → 格温特                  源×1     译×1    
+     Caerleon-on-Usk                → 乌斯克河畔凯尔莱昂            源×1     译×1    
+     Isca Silurum                   → 伊斯卡·西鲁鲁姆             源×1     译×1    
+     Wentwood                       → 温特伍德                 源×1     译×1    
+     Juggernaut (斗牛犬名)              → 贾格纳特                 源×2     译×2    
+     The Globe                      → 《环球报》                源×1     译×1    
+     The St. James's Gazette        → 《圣詹姆斯公报》             源×1     译×1    
+     The Whirlwind                  → 《旋风报》                源×1     译×1    
+     Via Nympharum                  → 宁芙之道                 源×1     译×1    
+     Pont Sadwrn                    → 庞特·萨德恩               源×1     译×1    
+     Lamb's Conduit Street          → 兰姆康迪特街               源×1     译×1    
+     Mecklenburgh Square            → 梅克伦堡广场               源×1     译×1    
+     Great Coram Street             → 大科拉姆街                源×1     译×1    
+     Clarendon Road                 → 克拉伦登路                源×1     译×1    
+     Notting Hill Gate              → 诺丁山门                 源×1     译×1    
+     Mr. Ritson                     → 里特森                  源×5     译×6    
+     The Chorus in Green            → 《绿野合唱》               源×4     译×4    
+     the Reader                     → 《读者报》                源×2     译×3    
+     Annie Morgan                   → 安妮·摩根                源×4     译×4    
+     Mrs. Gibbon                    → 吉本太太                 源×5     译×5    
+     Henrietta                      → 亨利埃塔                 源×2     译×2    
+     the Reverend Merivale Dixon    → 梅里维尔·迪克森牧师           源×1     译×1    
+     Burleigh / Mr. Tomson          → 伯利 / 汤姆森先生           源×5     译×6    
+     Yahoos / Houyhnhnm             → 耶胡 / 慧骃              源×3     译×5    
+     glamour                        → 迷魅                   源×0     译×0     ★源0次(幽灵?)
+     the Darren                     → 达伦                   源×1     译×1    
+     White House Farm               → 白屋农场                 源×1     译×3    
+     urtica pilulifera              → 罗马荨麻                 源×1     译×1    
+     De Carti / M'Carthytown        → 德卡蒂 / 麦卡锡镇           源×8     译×8    
+     Siluria                        → 西卢里亚                 源×2     译×2    
+     Butler's Analogy               → 巴特勒《类比论》             源×0     译×1     ★源0次(幽灵?)
+     the archdeacon                 → 会吏长                  源×3     译×3    
+     Martin                         → 马丁                   源×2     译×2    
+     Mr. King                       → 金先生                  源×0     译×1     ★源0次(幽灵?)
+     Mr. Wyndham                    → 温德姆先生                源×1     译×1    
+     Sappho                         → 萨福                   源×1     译×1    
+     Diana                          → 狄安娜                  源×2     译×2    
+     Apuleius / The Golden Ass      → 阿普列乌斯 / 《金驴记》        源×2     译×2    
+     Fotis / Byrrhaena / Lucius     → 福提斯 / 比尔赫纳 / 卢基乌斯    源×4     译×4    
+     Daphnis and Chloe              → 《达夫尼斯与克洛厄》           源×1     译×1    
+     Lumen de Lumine / Vaughan      → 《光中之光》/ 沃恩           源×7     译×11    残留「西卢尔人」×1
+     The Prince of the House of Dav → 《大卫家的王子》/《宾虚》        源×2     译×2    
+     Meditations of a Tavern        → 《酒馆冥想录》              源×1     译×1    
+     Theurgy                        → 通神术                  源×1     译×1    
+     spagyric art                   → 斯帕吉里克秘术              源×1     译×1    
+     powder of projection / philoso → 点金粉 / 哲人石            源×2     译×2    
+     the Public Worship Regulation  → 《公共礼拜规制法》            源×1     译×1    
+     damper                         → 丹帕饼                  源×1     译×1    
+     Vanity Fair                    → 名利场                  源×1     译×1    
+     Shepherd's Bush / Acton Vale   → 谢泼德布什 / 阿克顿谷         源×2     译×2    
+     Kubla Khan                     → 《忽必烈汗》               源×1     译×1    
+     Philosophy of Composition      → 《创作哲学》               源×1     译×1    
+     Roderick Random                → 罗德里克·兰登              源×1     译×1    
+     the Great North Road           → 大北路                  源×1     译×1    
+     Jervas                         → 贾维斯                  源×1     译×1    
+     the Quiver                     → 《羽箭》                 源×3     译×1     落位偏低 1/3
+     Utter Gwent                    → 遥远格温特                源×1     译×1    
+     the Sabbath                    → 巫魔夜会                 源×7     译×9    
+     De Quincey                     → 德·昆西                 源×3     译×3    
+     the great Smith                → 大作家史密斯               源×2     译×1    
+     the Manor Lane                 → 庄园巷                  源×1     译×1    
+     Pandemonium                    → 万魔殿                  源×1     译×1    
+     Herculaneum                    → 赫库兰尼姆                源×1     译×1    
+     faun                           → 法翁                   源×4     译×5    
+     plainsong                      → 素歌                   源×3     译×3    
+     changeling                     → 精灵换下的替身              源×1     译×1    
+     Romola                         → 《罗慕拉》                源×2     译×2    
+     The Cloister and the Hearth    → 《修道院与炉火》             源×1     译×1    
+     Parish Magazine                → 《教区杂志》               源×1     译×1    
+     fetish                         → 物神                   源×1     译×1    
+     Dolly fils                     → 小多利                  源×0     译×2     ★源0次(幽灵?)
+     Bolter                         → 博尔特                  源×1     译×1    
+     Scurragh                       → 斯库拉格赛会               源×1     译×0     ★译0次(未落位?)
+     The Amber Statuette            → 《琥珀小雕像》              源×1     译×1    
+     plum-pudding                   → 葡萄干布丁                源×2     译×3    
+     Amber/Golden Venus             → 琥珀维纳斯/黄金维纳斯          源×13    译×2     落位偏低 2/13
+     Ave atque vale                 → 致意，且永别               源×1     译×1    
+

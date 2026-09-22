@@ -1,0 +1,61 @@
+====================================================================================================
+### phillis-wheatley_poems-on-various-subjects-religious-and-moral  (5 files)
+  块: O=79 C=79 OK | 段: EN=1805 CN=1868 !!差 -63
+     [不对称] poems-on-various-subjects-religious-and-moral.md     O=62 C=62 段EN=1770 段CN=1833
+  英文残留(剔括注) top: the×33, of×30, To×17, Death×14, on×14, On×11, Lady×10, to×9, His×9, Her×8
+  项目说明备注: 诗集：每首一块逐行对应、空行同位、标题「英 / 中」合并（循 maria-lowell 先例）；诗集按短篇集体例逐首成篇。
+  -- 术语表硬约束行 53 条:
+     Maecenas                       → 麦凯纳斯                 源×4     译×3    
+     Countess of Huntingdon         → 亨廷顿伯爵夫人              源×1     译×2    
+     Whitefield                     → 怀特菲尔德                源×4     译×4    
+     Sewell                         → 塞韦尔                  源×4     译×4    
+     Marshall                       → 马歇尔                  源×2     译×2    
+     Amory                          → 阿莫里                  源×5     译×5    
+     Dartmouth                      → 达特茅斯                 源×2     译×2    
+     New-England                    → 新英格兰                 源×4     译×5    
+     Britannia                      → 不列颠                  源×5     译×11   
+     Thames                         → 泰晤士河                 源×2     译×2    
+     Helicon                        → 赫利孔山                 源×2     译×1    
+     Parnassus                      → 帕纳索斯                 源×1     译×1    
+     Olympus                        → 奥林波斯                 源×2     译×2    
+     Zion                           → 锡安                   源×2     译×2    
+     Salem                          → 撒冷                   源×2     译×2    
+     Gath                           → 迦特                   源×3     译×3    
+     Elah                           → 以拉                   源×1     译×1    
+     Jehovah                        → 耶和华                  源×3     译×3    
+     Lord of Hosts                  → 万军之耶和华               源×1     译×1    
+     Cherub(s)                      → 基路伯                  源×4     译×4    
+     Seraph(s)                      → 撒拉弗                  源×3     译×8    
+     Latona                         → 勒托                   源×6     译×6    
+     Phoebe                         → 福柏                   源×2     译×1    
+     Jove / Jupiter                 → 朱庇特                  源×4     译×4    
+     Juno                           → 朱诺                   源×1     译×1    
+     Venus                          → 维纳斯                  源×1     译×1    
+     Neptune                        → 尼普顿                  源×3     译×3    
+     Boreas                         → 玻瑞阿斯                 源×1     译×1    
+     Aeolus                         → 埃俄罗斯                 源×1     译×2    
+     Nereid(s)                      → 涅瑞伊得斯                源×3     译×3    
+     Flora                          → 弗洛拉                  源×1     译×1    
+     Sylvanus                       → 西尔瓦努斯                源×1     译×1    
+     Hebe                           → 赫柏                   源×1     译×1    
+     Terence                        → 泰伦提乌斯                源×0     译×1     ★源0次(幽灵?)
+     Maro                           → 马洛                   源×2     译×2    
+     Mantuan Sage                   → 曼图亚的圣哲               源×1     译×1    
+     Tantalus                       → 坦塔罗斯                 源×2     译×2    
+     Amphion                        → 安菲翁                  源×4     译×4    
+     Cadmus                         → 卡德摩斯                 源×3     译×3    
+     Delos                          → 得洛斯                  源×1     译×3    
+     Cynthus                        → 辛托斯                  源×1     译×1    
+     Maeonia                        → 迈奥尼亚                 源×2     译×2    
+     Idumea                         → 以东                   源×1     译×1    
+     Bosrah                         → 波斯拉                  源×1     译×1    
+     Elisha                         → 以利沙                  源×1     译×1    
+     Occom                          → 奥卡姆                  源×1     译×1    
+     Stamp Act                      → 《印花税法》               源×1     译×1    
+     muses / the Nine               → 缪斯／九位缪斯              源×5     译×28   
+     Fancy                          → 幻想                   源×10    译×8    
+     Imagination                    → 想象                   源×2     译×5    
+     Recollection                   → 追忆                   源×5     译×5    
+     Providence                     → 天意                   源×2     译×2    
+     Freedom                        → 自由                   源×4     译×6    
+

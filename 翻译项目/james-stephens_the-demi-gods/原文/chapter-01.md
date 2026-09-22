@@ -1,0 +1,57 @@
+## Book I: Patsy Mac Cann
+
+### I
+“Will you leave that donkey alone,” said Patsy Mac Cann to his daughter. “I never heard the like of it,” he continued testily. “I tell you the way you do be going on with the ass is enough to make a Christian man swear, so it is.”
+“You let me be,” she replied. “If I was doing hurt or harm to you I wouldn’t mind, and if I am fond of the ass itself what does it matter to anybody?”
+“It’s this way, that I don’t like to see a woman kissing an ass on the snout, it’s not natural nor proper.”
+“A lot you know about natural and proper. Let you leave me alone now; and, besides that, doesn’t the ass like it?”
+“That’s not a reason; sure it doesn’t matter in the world what an ass likes or dislikes, and, anyhow, an ass doesn’t like anything except carrots and turnips.”
+“This one does,” said she stoutly.
+“And a body might be kissing an ass until the black day of doom and he wouldn’t mind it.”
+“This one minds.”
+“Kissing an old ass!”
+“One has to be kissing something.”
+“Let you kiss me then and get done with it,” said he.
+She regarded him in amazement.
+“What would I kiss you for? Sure you’re my father, and aren’t you as old as the hills?”
+“Well, well, you’re full of fun, and that’s what I say. Take the winkers off that donkey’s face, and let him get a bit to eat; there’s grass enough, God knows, and it’s good grass.”
+Mary busied herself with the winkers and the bit while her father continued:
+“What I wish is this, that Christian people were able to eat grass like the beasts, and then there wouldn’t be any more trouble in the world. Are you listening to me, Mary, or are you listening to the donkey?”
+“It’s you I’m listening to.”
+“I say this, that if every person had enough to eat there’d be no more trouble in the world and we could fight our fill. What have you got in the basket?”
+“I’ve the loaf that I bought in the shop at Knockbeg, and the half loaf that you took out of the woman’s window﻿—it’s fresher than the other one.”
+“I was guided,” said her father. “We’ll eat that one first the way no person can claim it. What else have you got?”
+“I’ve the white turnip that I found in a field.”
+“There’s great nourishment in turnips; the cattle do get fat on them in winter.”
+“And I’ve the two handfuls of potatoes that you gathered at the bend of the road.”
+“Roast themselves in the embers, for that’s the only road to cook a potato. What way are we going to eat tonight?”
+“We’ll eat the turnip first, and then we’ll eat the bread, and after that we’ll eat the potatoes.”
+“And fine they’ll taste. I’ll cut the turnip for you with the sailorman’s jackknife.”
+---
+The day had drawn to its close. The stars had not yet come, nor the moon. Far to the west a red cloud poised on the horizon like a great whale and, moment by moment, it paled and faded until it was no more than a pink flush. On high, clouds of pearl and snow piled and fell and sailed away on easy voyages. It was the twilight﻿—a twilight of such quietude that one could hear the soft voice of the world as it whispered through leaf and twig. There was no breeze to swing the branches of the trees or to creep among the rank grasses and set them dancing, and yet everywhere there was unceasing movement and a sound that never ceased. About them, for mile upon mile, there was no habitation of man; there was no movement anywhere except when a bird dipped and soared in a hasty flight homewards, or when a beetle went slugging by like a tired bullet.
+Mary had unharnessed the ass and bade him, with an affectionate kiss, to eat his full. The donkey stood for a moment with his ears and tail hanging down, then he lifted both his ears and his tail, slung up his ragged head, bared his solid teeth, and brayed furiously for two minutes. That accomplished, he trotted briskly a few paces, bent to the grass, and began to eat so eagerly that one would think eating was more of a novelty to him than it could be to an ass of his years.
+“The sound of that beast’s voice does get on my nerves,” said Patsy.
+“He has a powerful voice, sure enough, God bless him! Sit down there by the hedge and light the fire while I’m getting the things ready; the night will be on us in a few minutes and it will be a cold night.”
+While she moved busily from the cart to the hedge her father employed himself lighting a fire of turf in a wrinkled bucket. When this was under way he pulled out a pipe, black as a coal, and off which half the shank was broken, and this he put into his mouth. At the moment he seemed to be sunken in thought, his eyes to the grass and his feet planted, and it was in a musing voice that he spoke:
+“Do you know what I’d do, Mary, if I had a bottle of porter beside me in this field?”
+“I do well,” she replied; “you’d drink it.”
+“I would so, but before I’d drink it I’d put the end of this pipe into it, for it’s newly cracked, and it sticks to my lips in a way that would anger a man wanting a smoke, and if I could stick it into the porter it would be cured. I don’t suppose, now, that you have a sup of porter in the cart!”
+“I have not.”
+“Because if you had a small sup I’d be able to get a smoke this night, as well as a drink.”
+“You’re full of fun,” said she sourly.
+“I saw a bottle in your hand a while back,” he continued musingly, “and it looked like a weighty bottle.”
+“It’s full to the neck with spring water.”
+“Ah!” said her father, and he regarded that distant horizon whereon the pink cloud was now scarcely visible as a pinkness and was no longer the shape of a great whale.
+After a moment he continued in a careless voice:
+“You might hand me the bottle of spring water, alanna, till I wet my lips with it. It’s a great thing for the thirst, I’m told, and it’s healthy beside that.”
+“I’m keeping that sup of water to make the tea when we’d be wanting it.”
+“Well, I’ll only take a drop out of it, and I won’t lose the cork.”
+“You can get it yourself, then,” said Mary, “for I’ve plenty to do and you haven’t.”
+Her father, rolling his tough chin with his fingers, went to the cart. He found the bottle, lifted the cork, smelt it, tasted:
+“It is spring water indeed,” said he, and he thumped the cork back again with some irritation and replaced the bottle in the cart.
+“I thought you wanted a drink,” said his daughter mildly.
+“So I do,” he replied, “but I can’t stand the little creatures that do be wriggling about in spring water. I wouldn’t like to be swallowing them unknown. Ah! them things don’t be in barrels that you buy in a shop, and that’s a fact.”
+She was preparing the potatoes when a remark from her father caused her to pause.
+“What is it?” said she.
+“It’s a bird. I saw it for a second against a white piece of a cloud, and I give you my word that it’s as big as a haystack. There it is again,” he continued excitedly, “there’s three of them.”
+For a few minutes they followed the flight of these amazing birds, but the twilight had almost entirely departed and darkness was brooding over the land. They did not see them any more.

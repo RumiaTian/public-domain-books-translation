@@ -1,0 +1,54 @@
+====================================================================================================
+### charles-beaumont_short-fiction  (3 files)
+  块: O=127 C=127 OK | 段: EN=694 CN=721 !!差 -27
+     [不对称] 01-the-beautiful-people.md                           O=54 C=54 段EN=299 段CN=308
+     [不对称] 02-elegy.md                                          O=54 C=54 段EN=287 段CN=300
+     [不对称] 03-traumerei.md                                      O=19 C=19 段EN=108 段CN=113
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 45 条:
+     Mary (Cuberle)                 → 玛丽（·库伯勒）             源×81    译×81   
+     Mrs. Cuberle / Zena Cuberle    → 库伯勒太太 / 泽娜·库伯勒       源×34    译×34   
+     Dr. (Elph) Hortel              → （埃尔夫·）霍特尔医生          源×6     译×0     ★译0次(未落位?)
+     Dr. Wagoner                    → 瓦格纳医生                源×1     译×1    
+     Transformation                 → 蜕变                   源×17    译×18   
+     Centraldome                    → 中央穹顶                 源×2     译×2    
+     tapes                          → 录带                   源×6     译×7    
+     Mr. Willmes                    → 威尔姆斯先生               源×5     译×5    
+     Mr. Poole                      → 普尔先生                 源×2     译×2    
+     Interplan                      → 因特普兰                 源×1     译×1    
+     Dralich                        → 德拉利奇                 源×1     译×1    
+     Mullinson                      → 马林森                  源×1     译×1    
+     Shala                          → 莎拉                   源×1     译×1    
+     Ganymede                       → 木卫三                  源×1     译×1    
+     Mayoraka Disaster              → 马约拉卡惨案               源×1     译×1    
+     the Elders                     → 长老们                  源×1     译×1    
+     Dept. F                        → F部                   源×1     译×1    
+     Monagh / Prinn / Fedders       → 莫纳格 / 普林 / 费德斯       源×4     译×4    
+     Geoff                          → 杰夫                   源×1     译×1    
+     Captain Webber                 → 韦伯船长                 源×43    译×43   
+     Lieutenant Peterson            → 彼得森中尉                源×16    译×16   
+     Mr. Friden                     → 弗里登先生                源×17    译×17   
+     Mr. Milton                     → 米尔顿先生                源×13    译×13   
+     Mr. Chitterwick                → 奇特威克先生               源×12    译×12   
+     Mr. Goeblin                    → 戈布林先生                源×9     译×9    
+     Mr. Greypoole                  → 格雷普尔先生               源×32    译×32   
+     Mr. Waldmeyer                  → 瓦尔德迈耶先生              源×7     译×7    
+     Mr. Bellefont                  → 贝尔丰特先生               源×2     译×2    
+     Mrs. Dominguez                 → 多明格斯太太               源×2     译×2    
+     Professor Carling              → 卡林教授                 源×1     译×1    
+     Miss Daphne Trilling           → 达夫妮·特里林小姐            源×1     译×1    
+     Mr. Conklin                    → 康克林先生                源×2     译×2    
+     Appleton                       → 阿普尔顿                 源×2     译×2    
+     Happy Glades                   → 极乐林苑                 源×8     译×8    
+     Eternifier                     → 永生剂                  源×2     译×2    
+     Sealing Film / the film        → 密封膜 / 膜              源×4     译×7    
+     Guests                         → 贵宾                   源×4     译×5    
+     X-Bomb                         → X弹                   源×1     译×1    
+     Holsteins                      → 荷斯坦牛                 源×2     译×2    
+     Henry Ritchie / Hank           → 亨利·里奇 / 汉克           源×10    译×10   
+     Mrs. Ritchie / Ruth            → 里奇太太 / 露丝            源×10    译×10   
+     Max Kaplan                     → 马克斯·卡普兰              源×4     译×4    
+     George Sanderson               → 乔治·桑德森               源×2     译×2    
+     Beatty                         → 比蒂                   源×2     译×2    
+     X-hour                         → X时刻                  源×1     译×1    
+

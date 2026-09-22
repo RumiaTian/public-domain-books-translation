@@ -1,0 +1,134 @@
+ (16 files)
+  块: O=238 C=238 OK | 段: EN=756 CN=843 !!差 -87
+     [不对称] 01-enter-three-hussars.md                            O=40 C=40 段EN=90 段CN=100
+     [不对称] 02-a-right-hand-glove.md                             O=30 C=30 段EN=80 段CN=88
+     [不对称] 03-nine-for-a-party.md                               O=20 C=20 段EN=36 段CN=41
+     [不对称] 04-sos-from-nowhere.md                               O=17 C=17 段EN=37 段CN=41
+     [不对称] 05-sid-insists-on-ghostgirls.md                      O=9 C=9 段EN=18 段CN=21
+     [不对称] 06-crete-circa-1300-bc.md                            O=10 C=10 段EN=25 段CN=28
+     [不对称] 07-time-to-think.md                                  O=17 C=17 段EN=48 段CN=55
+     [不对称] 08-a-place-to-stand.md                               O=20 C=20 段EN=64 段CN=72
+     [不对称] 09-a-locked-room.md                                  O=8 C=8 段EN=48 段CN=53
+     [不对称] 10-motives-and-opportunities.md                      O=8 C=8 段EN=46 段CN=51
+     [不对称] 11-the-western-front-1917.md                         O=8 C=8 段EN=39 段CN=43
+     [不对称] 12-a-big-opportunity.md                              O=12 C=12 段EN=49 段CN=55
+     [不对称] 13-the-tiger-is-loose.md                             O=6 C=6 段EN=32 段CN=36
+     [不对称] 14-now-will-you-talk.md                              O=10 C=10 段EN=29 段CN=33
+     [不对称] 15-lord-spider.md                                    O=12 C=12 段EN=51 段CN=56
+     [不对称] 16-the-possibility-binders.md                        O=11 C=11 段EN=64 段CN=70
+  英文残留(剔括注) top: Liebchen×12, Kamerad×7, Gott×6, Salz×6, Nichevo×4, und×4, Schlange×3, der×3, Omnia×3, in×3
+  项目说明备注: - 书名《大时光》（The Big Time）。书中「the Big Time」指身处变更战争之中，与「寻常时光」（宇宙内凡人的生活）相对，也谐「过上好日子/风光日子」之意；书名建议《大时光》，正文「be on the Big Time」译「在大时光里」。 / - 原文为 Standard Ebooks 制作，16 章正文按 spine 顺序分章提取；titlepage/imprint/colophon/uncopyright 等非正文已排除。 / - 章节标题为罗马数字+章名（如「I Enter Three Hussars」）：罗马数字照搬不译，章名译出，合并为「## I 率三骠骑兵进场」式样。 / - 原文件名为章名文字（自然排序会乱序），已统一加两位数字前缀（01-…至 16-…），保证队列顺序=阅读顺序。 / - 叙述者为 20 世纪芝加哥女性，口语化、俚语密集、爱玩文字双关（Got Mittens/Gott mit uns、Bonny Dew/le bon Dieu 等），译文须保留其俏皮语气，双关处加简短译注。 / - 人物德语、拉丁语、伊丽莎白时代英语等外语插入语的处理策
+  -- 术语表硬约束行 112 条:
+     Greta Forzane / Greta          → 格蕾塔·福尔赞 / 格蕾塔        源×33    译×34   
+     Sidney Lessingham / Sid / Sidd → 悉尼·莱辛厄姆 / 西德 / 西迪    源×142   译×141  
+     Beauregard / Beau              → 博雷加德 / 博             源×83    译×85   
+     Doc                            → 大夫                   源×43    译×41   
+     Maud Davies / Maud             → 莫德·戴维斯 / 莫德          源×54    译×55    残留「老姑娘」×2
+     Lili                           → 莉莉                   源×84    译×85    残留「新姑娘」×14
+     Erich / Erich Friederich von H → 埃里希 / 埃里希·弗里德里希·冯·霍亨 源×163   译×162  
+     Bruce                          → 布鲁斯                  源×172   译×173   残留「新小子」×17
+     Mark / Marcus Vipsaius Niger   → 马克 / 马库斯·维普萨伊乌斯·尼日尔  源×58    译×58   
+     Kaby / Kabysia Labrys          → 卡比 / 卡比西娅·拉布里斯       源×60    译×58   
+     Ilhilihis / Illy               → 伊尔希利希斯 / 伊尔利         源×58    译×58    残留「事物师」×4
+     Sevensee                       → 七观                   源×33    译×33   
+     Benson-Carter                  → 本森-卡特                源×10    译×10    残留「特快室」×7
+     the Countess                   → 伯爵夫人                 源×7     译×9    
+     Phryne                         → 弗里妮                  源×5     译×5    
+     Anton A. Forzane               → 安东·A·福尔赞             源×1     译×1    
+     Mamma Devi / Bab-ed-Din        → 德维妈妈 / 巴布丁           源×2     译×2    
+     the Change War                 → 变更战争                 源×15    译×18   
+     the Change World               → 变更世界                 源×20    译×24   
+     the Big Time                   → 大时光                  源×11    译×12   
+     the Place                      → 场所                   源×65    译×89   
+     the Void                       → 虚空                   源×34    译×33   
+     the Spiders                    → 蜘蛛（方）                源×37    译×79   
+     the Snakes                     → 蛇（方）                 源×25    译×55   
+     Doubleganger                   → 二重身                  源×5     译×11   
+     Demon                          → 魔鬼                   源×14    译×34   
+     Ghost                          → 幽灵                   源×4     译×18   
+     Ghostgirl(s)                   → 幽灵少女                 源×18    译×17   
+     Zombie                         → 僵尸                   源×7     译×18    残留「过去」×51
+     Entertainer                    → 招待员                  源×9     译×22   
+     Soldier                        → 士兵                   源×12    译×41   
+     Recuperation Station           → 疗养站                  源×6     译×7    
+     Maintainer                     → 维持器                  源×42    译×48   
+     Major Maintainer               → 主维持器                 源×11    译×14   
+     Minor Maintainer               → 副维持器                 源×17    译×17    残留「王牌」×1
+     the Door                       → 门                    源×27    译×66   
+     Change Winds                   → 变更之风                 源×23    译×28   
+     Change Shock                   → 变更休克                 源×1     译×1    
+     Big Change                     → 大变更                  源×7     译×7    
+     lifeline                       → 生命线                  源×14    译×23   
+     Recruited / Recruitment        → 被招募 / 招募             源×5     译×7    
+     Resurrection / Resurrected     → 复活 / 被复活             源×21    译×23   
+     Caller                         → 呼叫器                  源×11    译×13   
+     Atropos                        → 阿特罗波斯                源×2     译×2    
+     stun gun                       → 眩晕枪                  源×4     译×4    
+     Introvert / Introversion       → 内闭                   源×19    译×34   
+     Inversion                      → 逆置                   源×8     译×17   
+     Express Room                   → 特快室                  源×6     译×7    
+     Surgery / Refresher / Stores / → 手术区 / 盥洗区 / 库房区 / 艺术 源×43    译×46   
+     cosmic leave                   → 宇宙假                  源×2     译×2    
+     feather-talk                   → 羽语                   源×5     译×5    
+     squeakbox                      → 吱吱匣                  源×3     译×6    
+     thinger                        → 事物师                  源×4     译×4    
+     A-tech                         → 原子技师（A-tech）         源×6     译×8    
+     energy-binders / space-binders → 能量束缚者 / 空间束缚者 / 时间束缚 源×5     译×5    
+     voyageurs                      → 远行者                  源×2     译×2    
+     hussar                         → 骠骑兵                  源×2     译×9    
+     the Bonny Dew                  → 好天神                  源×3     译×3    
+     Got Mittens                    → 「拿到连指手套」             源×4     译×0     ★译0次(未落位?) 残留「上帝与我们同在」×2
+     Doppchen                       → 小二重身                 源×1     译×1    
+     Bruce Marchant                 → 布鲁斯·马钱特              源×6     译×6    
+     Lilian Foster                  → 莉莲·福斯特               源×2     译×2    
+     Dave                           → 戴夫                   源×7     译×7    
+     Beau Lassiter                  → 博·拉西特                源×1     译×1    
+     Damballa                       → 丹巴拉                  源×1     译×1    
+     Nichevo                        → 尼切沃                  源×4     译×1     落位偏低 1/4 残留「没什么」×4
+     Change Death                   → 变更之死                 源×6     译×6    
+     Conservation of Reality        → 现实守恒定律               源×2     译×2    
+     Three-Thousand-Year Plan       → 三千年计划                源×1     译×1    
+     Unholy Triple Alliance         → 邪恶三国同盟               源×1     译×1    
+     Spider Issue / S.I.            → 蜘蛛配发                 源×2     译×2    
+     Change Commando                → 变更突击队                源×2     译×2    
+     Recuperee                      → 疗养客                  源×2     译×3    
+     A Young Man’s Fancy            → 《年轻人的遐想》             源×1     译×1    
+     stabilitin                     → 稳定素                  源×1     译×1    
+     Change Gale                    → 变更飓风                 源×2     译×2    
+     Unborn                         → 未生者                  源×6     译×6    
+     Eightaitch                     → 八艾奇                  源×1     译×1    
+     Marcia                         → 玛西娅                  源×1     译×1    
+     Change People                  → 变更之民                 源×2     译×2    
+     needle gun                     → 针枪                   源×1     译×1    
+     Kreesed us                     → 克里老天保佑               源×1     译×1    
+     Petsofa hairdress              → 佩索法式发髻               源×1     译×1    
+     Fat Belly                      → 胖肚皮                  源×1     译×1    
+     Muskrat Ramble                 → 《麝鼠漫步》               源×1     译×1    
+     Panther Rag                    → 《黑豹拉格泰姆》             源×1     译×1    
+     the Countess                   → 伯爵夫人                 源×0     译×0     ★源0次(幽灵?)
+     Bibi Miriam                    → 比比·玛丽亚姆              源×1     译×1    
+     Triple Goddess                 → 三重女神                 源×6     译×6    
+     Mindbomb                       → 心弹                   源×1     译×1    
+     Lynn Regis                     → 雷吉斯林恩                源×2     译×2    
+     Rape of Chicago                → 芝加哥浩劫                源×1     译×1     残留「芝加哥解放战」×1
+     Jazz Limited                   → 「爵士特快」               源×1     译×1    
+     Ubivaytye Pauki—i Nyemetzi     → 俄语原句保留               源×0     译×0     ★源0次(幽灵?) 残留「杀了蜘蛛——还有德国人！」×2
+     Two Hearts in Waltz Time       → 《两颗心，三拍子》            源×1     译×1    
+     Late Cosmicians                → 晚期宇宙人                源×3     译×3    
+     Nervy Anna                     → 涅维·安娜                源×1     译×1    
+     Suzaku                         → 朱雀                   源×3     译×3    
+     Phyllis                        → 菲莉丝                  源×1     译×1    
+     Dr. Pyeshkov / Maxey Aleksevic → 佩什科夫大夫 / 马克西·阿列克谢维奇  源×2     译×2    
+     Maud ap-Ares Davies            → 莫德·阿普-阿瑞斯·戴维斯        源×1     译×1    
+     Invertor                       → 逆置器                  源×3     译×3    
+     Extroverting                   → 解闭                   源×1     译×0     ★译0次(未落位?)
+     Shaitan                        → 筛坦                   源×1     译×1    
+     Peterhouse                     → 彼得豪斯                 源×2     译×2    
+     black bottom                   → 黑臀舞                  源×1     译×1    
+     Tonight’s the Night            → 《今夜正是时候》             源×1     译×1    
+     Limehouse Blues                → 《莱姆豪斯布鲁斯》            源×1     译×1    
+     Nell Gwyn                      → 内尔·格温                源×1     译×1    
+     Rupert Brooke                  → 鲁珀特·布鲁克              源×1     译×1    
+     candys                         → 坎迪斯宽袍                源×1     译×1    
+     Daddy Longlegs                 → 长腿蛛爹爹                源×1     译×1    
+====================================================================================================

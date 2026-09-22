@@ -1,0 +1,6 @@
+## Endnotes
+
+- 
+					
+
+Literally, “Head off.” ↩︎

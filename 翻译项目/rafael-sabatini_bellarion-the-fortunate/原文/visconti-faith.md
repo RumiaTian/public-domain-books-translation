@@ -1,0 +1,42 @@
+## XII Visconti Faith
+If Facino Cane’s eyes grew wide in astonishment to see his countess ushered into that mean chamber by Carmagnola, wider still did they grow to behold the man who accompanied her and to consider their inexplicable conjunction. For this man was Giovanni Pusterla of Venegono, cousin to that Pusterla who had been castellan of Monza, and who by Gian Maria’s orders had procured the assassination of Gian Maria’s mother.
+The rest is a matter of history upon which I have already touched.
+In a vain attempt to mask his own matricide, to make the crime appear as the work of another, Gian Maria had seized the unfortunate castellan who had served his evil will too faithfully and charging him with the crime caused him barbarously and without trial to be done to death. Thereafter, because he perceived that this did not suffice to turn the public mind from the conviction of his own horrible guilt, Gian Maria had vowed the extermination of the Pusterla family, as a blood-offering to the manes of his murdered mother. It was a Pusterla whom he had hunted with his dogs into the arms of Bellarion in the meadows of Abbiategrasso, and that was the fifth innocent member of the family whom he had done to death in satisfaction of his abominable vow.
+This Pusterla of Venegono, who now led the Countess Beatrice into her husband’s presence, was a slight but vigorous and moderately tall man of not more than thirty, despite the grey that so abundantly mingled with his thick black hair. His shaven countenance was proud and resolute, with a high-bridged nose flanked perhaps too closely by dark eyes that glowed and flashed as in reflection of his superabundant energy of body and of spirit.
+Between himself and Facino there was esteem; but no other link to account for his sudden appearance as an escort to the Lady Beatrice.
+From the settle which he occupied, his ailing leg stretched upon it, the amazed Facino greeted them by a rough soldier’s oath on a note of interrogation.
+The Countess, white and lovely, swept towards him.
+“You are ailing, Facino!” Concern charged her murmuring voice as she stooped to receive his kiss.
+His countenace brightened, but his tone was almost testy.
+To discuss his ailments now was but to delay the explanation that he craved. “That I ail is no matter. That you should be here﻿ ﻿… What brings you, Bice, and with Venegono there?”
+“Aye, we take you by surprise,” she answered him. “Yet Heaven knows there would be no need for that if ever you had heeded me, if ever you had used your eyes and your wits as I bade you.”
+“Will you tell me what brings you, and leave the rest?”
+She hesitated a moment, then swung imperially to her travelling companion.
+“Tell him, Messer da Venegono.”
+Venegono responded instantly. He spoke rapidly, using gestures freely, his face an ever-shifting mirror of his feelings, so that at once you knew him for a brisk-minded, impulsive man. “We are here to speak of what is happening in Milan. Do you know nothing of it, my lord?”
+“In Milan? Despatches reach me weekly from his highness. They report nothing that is not reassuring.”
+The Countess laughed softly, bitterly. Venegono plunged on.
+“Is it reassuring to you that the Malatesta of Rimini, Pandolfo, and his brother Carlo are there with an army five thousand strong?”
+Facino was genuinely startled. “They are moving against Milan?”
+Again the Countess laughed, and this time Venegono laughed with her.
+“Against it?” And he launched his thunderbolt. “They are there at the express invitation of the Duke.” Without pausing for breath he completed the tale. “On the second of the month the Lady Antonia Malatesta was married to Duke Gian Maria, and her father has been created Governor of Milan.”
+A dead silence followed, broken at last by Facino. The thing was utterly incredible. He refused to believe it, and said so with an oath.
+“My lord, I tell you of things that I have witnessed,” Benegono insisted.
+“Witnessed? Have you been in Milan? You?”
+Venegono’s features twisted into a crooked smile. “After all there are still enough staunch Ghibellines in Milan to afford me shelter. I take my precautions, Lord Count. But I do not run from danger. No Pusterla ever did, which is why this hellhound Duke has made so many victims.”
+Appalled, Facino looked at him from under heavy brows. Then his lady spoke, a faint smile of bitter derision on her pale face.
+“You’ll understand now why I am here, Facino. You’ll see that it was no longer safe in Milan for Facino’s wife: the wife of the man whose ruin is determined and to be purchased by the Duke at all costs: even at the cost of putting his neck under Malatesta’s heel.”
+Facino’s mind, however, was still entirely absorbed by the main issue.
+“But Gabriello?” he cried.
+“Gabriello, my lord,” said Venegono promptly, “is as much a victim, and has been taken as fully by surprise, as you and every Ghibelline in Milan. It is all the work of della Torre. To what end he strives only himself and Satan know. Perhaps he will lead Gian Maria to destruction in the end. It may be his way of resuming the old struggle for supremacy between Visconti and Torriani. Anyhow, his is the guiding brain.”
+“But did that weak bastard Gabriello never raise a hand﻿ ﻿…”
+“Gabriello, my lord, has gone to earth for his own safety’s sake in the Castle of Porta Giovia. There Malatesta is besieging him, and the city has been converted into an armed camp labouring to reduce its own citadel. That monster Gian Maria has set a price upon the head of the brother who has so often shielded him from the just wrath of the Commune and the people. There is a price, too, upon the heads of his cousins Antonio and Francesco Visconti, who are with Gabriello in the fortress, together with many other Ghibellines among whom my own cousin Giovanni Pusterla. Lord!” he ended passionately, “if the great Galeazzo could but come to life again, to see the filthy shambles his horrible son has made of the great realm he built!”
+Silence followed. Facino, his head lowered, his brows knitted, was drawing a geometrical figure on the table with the point of a knife. Presently whilst so engaged he spoke, slowly, sorrowfully.
+“I am the last of all those condottieri who were Gian Galeazzo’s brothers-in-arms; the last of those who helped him build up the great state which his degenerate son daily dishonours. His faithless, treacherous nature drove the others away from him one by one, each taking some part of his dominions to make an independent state for himself! I alone have remained, loyally to serve and support his tottering throne, making war upon my brother condottieri in his defence, suffering for him and from him, for the sake of his great father who was my friend, for the sake of the trust which his father left me when he died. And now I have my wages. I am sent to restore Alessandria to the pestilential hands of these false Visconti from which it has been wrested, and whilst I am about this errand, my place is usurped by the greatest Guelph in Italy, and measures are taken to prevent my ever returning.” His voice almost broke.
+There was a long-drawn sigh from the Countess. “There is no need to tell you more,” she murmured. “You begin to open your eyes, and to see for yourself at last.”
+And then Venegono was speaking.
+“I come to you, Facino, in the name of all the Ghibellines of Milan, who look to you as to their natural leader, who trust you and have no hope save in you. Before this Guelphic outrage they cringe in terror of the doom that creeps upon them. Already Milan is a city of blood and horror. You are our party’s only hope, Milan’s only hope in this dreadful hour.”
+Facino buried the knife-blade deep in the table with sudden violence, and left it quivering there. He raised at last his eyes. They were blood-injected, and the whole expression of his face had changed. The good-nature of which it habitually wore the stamp had been entirely effaced.
+“Let God but heal this leg of mine,” he said, “and from my hands the Visconti shall eat the fruits of treachery until they choke them.”
+He stretched out his hand as he spoke towards the crucifix that hung upon the wall, making of his threat a solemn vow.
+Bellarion, looking beyond him, at the Countess, read in the covert exultation of her face her assumption that her greed for empire was at last promised gratification and her insensibility that it should be purchased on terms that broke her husband’s heart.

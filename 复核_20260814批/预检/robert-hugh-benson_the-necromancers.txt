@@ -1,0 +1,186 @@
+====================================================================================================
+### robert-hugh-benson_the-necromancers  (19 files)
+  块: O=329 C=329 OK | 段: EN=2395 CN=2477 !!差 -82
+     [不对称] chapter-1.md                                         O=17 C=17 段EN=103 段CN=110
+     [不对称] chapter-2.md                                         O=38 C=38 段EN=215 段CN=220
+     [不对称] chapter-4.md                                         O=21 C=21 段EN=213 段CN=216
+     [不对称] chapter-5.md                                         O=14 C=14 段EN=106 段CN=107
+     [不对称] chapter-6.md                                         O=24 C=24 段EN=181 段CN=182
+     [不对称] chapter-7.md                                         O=36 C=36 段EN=264 段CN=275
+     [不对称] chapter-8.md                                         O=15 C=15 段EN=101 段CN=102
+     [不对称] chapter-9.md                                         O=14 C=14 段EN=160 段CN=173
+     [不对称] chapter-10.md                                        O=16 C=16 段EN=110 段CN=112
+     [不对称] chapter-11.md                                        O=15 C=15 段EN=104 段CN=109
+     [不对称] chapter-12.md                                        O=22 C=22 段EN=131 段CN=133
+     [不对称] chapter-13.md                                        O=12 C=12 段EN=38 段CN=49
+     [不对称] chapter-14.md                                        O=21 C=21 段EN=160 段CN=165
+     [不对称] chapter-15.md                                        O=3 C=3 段EN=26 段CN=28
+     [不对称] chapter-16.md                                        O=17 C=17 段EN=179 段CN=185
+     [不对称] chapter-17.md                                        O=19 C=19 段EN=126 段CN=130
+     [不对称] chapter-18.md                                        O=3 C=3 段EN=28 段CN=30
+     [不对称] epilogue.md                                          O=10 C=10 段EN=73 段CN=74
+  英文残留(剔括注) top: II×30, III×18, IV×6, volaille×2, altogether×1, mysticism×1, Necromantia×1, ex×1, consult×1, silk×1
+  项目说明备注: - 章序为纯罗马数字（I–XVIII），无章名；照搬不译。 / - 跋（Epilogue）「四个月后」补叙结局。 / - 通灵术/降神会术语（séance、medium、trance、materialization、psychic）以术语表为准，首现附原文。 / - 天主教用语（Mass、the Blessed Sacrament、confession、souls in Purgatory）用中文天主教通行译名。 / - 第 7 章（46.6KB）为最长，按分段处理。 / - 哥特氛围浓重，译文求阴郁、紧张感。
+  -- 术语表硬约束行 161 条:
+     Laurie Baxter                  → 劳里·巴克斯特              源×14    译×14   
+     Maggie Deronnais               → 玛吉·德罗奈               源×8     译×8    
+     Mrs. Baxter                    → 巴克斯特太太               源×88    译×88   
+     Lady Laura Bethell             → 劳拉·贝塞尔夫人             源×5     译×9    
+     Mrs. Stapleton                 → 斯台普顿太太               源×69    译×69   
+     Mr. Vincent / James Vincent    → 文森特先生 / 詹姆斯·文森特      源×76    译×76   
+     Mr. Jamieson                   → 杰米森先生                源×14    译×14   
+     Mr. Stainton Moses             → 斯坦顿·摩西先生             源×1     译×1    
+     Mr. Eglinton / Willie          → 埃格林顿先生 / 威利          源×2     译×2    
+     Col. Tom Stapleton（"dear Tom"） → 汤姆·斯台普顿上校（「亲爱的汤姆」）   源×0     译×0     ★源0次(幽灵?)
+     Amy                            → 艾米                   源×35    译×35   
+     Amy Nugent                     → 艾米·纽金特               源×10    译×10   
+     Father Mahon                   → 马洪神父                 源×23    译×24   
+     Margaret Marie Deronnais       → 玛格丽特·玛丽·德罗奈          源×2     译×2    
+     Leo XIII                       → 利奥十三世                源×1     译×1    
+     Cardinal Newman                → 纽曼枢机                 源×12    译×12   
+     Mr. Rymer                      → 雷默先生                 源×8     译×8    
+     Mrs. Rymer                     → 雷默太太                 源×1     译×1    
+     Amos Nugent                    → 阿莫斯·纽金特              源×0     译×0     ★源0次(幽灵?)
+     Maria Nugent                   → 玛丽亚·纽金特              源×1     译×1    
+     Ferris                         → 费里斯                  源×2     译×2    
+     Mr. Morton / James Morton      → 莫顿先生 / 詹姆斯·莫顿        源×46    译×46   
+     Mr. Cathcart                   → 卡特卡特先生               源×44    译×44   
+     Galileo                        → 伽利略                  源×1     译×1    
+     Mr. Parker                     → 帕克先生                 源×11    译×11   
+     Miss Baker                     → 贝克小姐                 源×6     译×6    
+     Mrs. Martin                    → 马丁太太                 源×2     译×2    
+     Mrs. Mayle                     → 梅尔太太                 源×3     译×3    
+     Lady Carraden                  → 卡拉登夫人                源×1     译×1    
+     Mr. Paton                      → 佩顿先生                 源×1     译×1    
+     Mr. Grove                      → 格罗夫先生                源×1     译×1    
+     Jim                            → 吉姆                   源×1     译×1    
+     Susan                          → 苏珊                   源×6     译×6    
+     Charlotte                      → 夏洛特                  源×9     译×9    
+     Mabel                          → 玛贝尔                  源×8     译×8    
+     Mr. Lawrence                   → 劳伦斯先生                源×2     译×3    
+     Hudson                         → 赫德森                  源×1     译×1    
+     Wagner                         → 瓦格纳                  源×1     译×1     残留「无限地不下苦功也能敷衍」×1
+     Bach                           → 巴赫                   源×1     译×1     残留「无限地肯下苦功」×1
+     Queen's Gate                   → 王后门                  源×9     译×9    
+     Knightsbridge                  → 骑士桥（Knightsbridge）   源×1     译×1    
+     Kensington                     → 肯辛顿（Kensington）      源×1     译×1    
+     London                         → 伦敦                   源×15    译×15   
+     Sussex                         → 苏塞克斯                 源×0     译×0     ★源0次(幽灵?)
+     Hertfordshire                  → 赫特福德郡                源×2     译×2    
+     Royston                        → 罗伊斯顿                 源×2     译×2    
+     the Temple                     → 律师学院（the Temple）     源×3     译×2    
+     Oxford                         → 牛津                   源×6     译×6    
+     France                         → 法国                   源×1     译×5    
+     Scotland                       → 苏格兰                  源×2     译×2    
+     Endor                          → 隐多珥                  源×1     译×1    
+     All Saints', Carlton Gardens   → 万圣堂（卡尔顿花园）           源×1     译×2    
+     the Stantons                   → 斯坦顿家                 源×1     译×11   
+     the East                       → 东方                   源×2     译×4    
+     Brompton Oratory               → 布朗普顿礼拜堂（the Brompton 源×1     译×1    
+     Baker Street                   → 贝克街                  源×3     译×3    
+     Hyde Park Corner               → 海德公园角                源×1     译×1    
+     Mitre Court                    → 米特院                  源×3     译×3    
+     Charing Cross                  → 查令十字街                源×1     译×1    
+     Egyptian Hall                  → 埃及厅                  源×2     译×2    
+     Ireland                        → 爱尔兰                  源×3     译×4    
+     the Courts                     → 法院                   源×1     译×1    
+     Fleet Street                   → 舰队街                  源×3     译×3    
+     the Cock Inn                   → 公鸡客栈（the Cock Inn）   源×1     译×2    
+     the Wheatsheaf                 → 麦穗客栈（the Wheatsheaf） 源×2     译×2    
+     Oxford Street                  → 牛津街（Oxford Street）   源×1     译×1    
+     Surbiton                       → 瑟比顿（Surbiton）        源×1     译×1    
+     New Zealand                    → 新西兰                  源×2     译×2    
+     Queen Anne                     → 安妮女王                 源×2     译×2    
+     Bon Marché                     → 「平价市场」（Bon Marché）   源×3     译×2    
+     the Embankment                 → 河滨大道（the Embankment） 源×1     译×1    
+     Westminster (underground / tow → 威斯敏斯特（地铁 / 塔楼）       源×3     译×2    
+     Gloucester Road                → 格洛斯特路（Gloucester Roa 源×1     译×1    
+     the Pall Mall                  → 《帕尔摩报》（the *Pall Mal 源×0     译×2     ★源0次(幽灵?)
+     Easter week                    → 复活节那一周               源×3     译×3    
+     Easter Eve                     → 复活节前夜（Easter Eve）    源×2     译×1    
+     Easter Day                     → 复活节                  源×2     译×5    
+     *volaille*                     → 法式禽肉菜（*volaille*）    源×2     译×0     ★译0次(未落位?)
+     Spiritualism                   → 通灵术（Spiritualism）    源×27    译×37   
+     séance                         → 降神会（séance）          源×15    译×18   
+     medium                         → 灵媒（medium）           源×84    译×79   
+     trance                         → 通灵状态 / 出神（trance）    源×16    译×19   
+     materialization                → 显形（materialization）  源×8     译×10   
+     psychic                        → 通灵的 / 灵媒的            源×0     译×8     ★源0次(幽灵?)
+     necromancer                    → 招魂者（necromancer）     源×0     译×0     ★源0次(幽灵?)
+     apparition                     → 幻影 / 鬼影              源×2     译×7    
+     the other world                → 彼界                   源×2     译×5    
+     Higher Light                   → 更高之光                 源×2     译×1     残留「光照」×5
+     Higher Thought                 → 更高思想                 源×2     译×2    
+     Higher periodicals             → 「更高」刊物               源×1     译×1    
+     passed over / crossed over     → 过去 / 到了那边            源×8     译×52   
+     This Side / the Other          → 这边 / 那边              源×122   译×25    落位偏低 25/122
+     magnetism                      → 磁力                   源×2     译×2    
+     psychical orgy                 → 通灵的狂欢                源×1     译×1    
+     hypnotism                      → 催眠术                  源×1     译×1    
+     automatic handwriting          → 自动书写（automatic handw 源×3     译×6    
+     the control                    → 操控的灵体（the control）   源×1     译×1    
+     willpower                      → 意念力                  源×2     译×1    
+     sensitive                      → 敏感体质（sensitive）      源×9     译×3     落位偏低 3/9
+     cabinet                        → 柜棚（cabinet）          源×2     译×19   
+     pince-nez                      → 夹鼻眼镜（pince-nez）      源×5     译×5    
+     Annie                          → 安妮                   源×2     译×2    
+     a priori                       → 先验（a priori）         源×2     译×2    
+     table-rapping / tapping of a t → 桌子的叩击                源×3     译×1     落位偏低 1/3
+     controlled by a spirit         → 被亡灵所控制 / 附身          源×1     译×1    
+     water divining                 → 寻水术                  源×1     译×1    
+     witchcraft                     → 巫术                   源×1     译×1    
+     the illuminated                → 「受光照者」               源×1     译×1     残留「更高之光」×1
+     Queen cakes                    → 皇后蛋糕                 源×1     译×1    
+     Plasmon (biscuits)             → 普拉斯蒙（饼干）             源×1     译×1    
+     the cabinet                    → 柜 / 柜棚（降神会帷帐柜）       源×25    译×17   
+     nebula                         → 星云                   源×2     译×2    
+     the Watcher on the Threshold   → 阈限上的守望者（The Watcher  源×1     译×1    
+     subliminal consciousness       → 潜意识（the subliminal c 源×1     译×9    
+     planchette                     → 普朗歇特（planchette）     源×3     译×3    
+     crystal-gazing                 → 凝视水晶球（crystal-gazing 源×1     译×1    
+     occult powers                  → 玄秘之力（occult powers）  源×1     译×1    
+     affinity                       → 亲和（affinity）         源×3     译×4    
+     objective / subjective self    → 客观 / 主观自我            源×5     译×4    
+     Spiritism                      → 通灵术（Spiritism）       源×1     译×0     ★译0次(未落位?)
+     necromancy                     → 招魂术（necromancy）      源×1     译×1     残留「由招唤亡者而生之招魂术」×1
+     divination                     → 占卜                   源×3     译×3    
+     turning tables / table-turning → 转桌之术                 源×1     译×1    
+     the Spiritualists              → 通灵术者（the Spiritualis 源×2     译×8    
+     the Personality                → 「人格」（the Personality 源×2     译×1    
+     thought-projection             → 思想投射（thought-project 源×1     译×2    
+     astral substance               → 星光体质（astral substanc 源×1     译×1     残留「兽」×5
+     the Beast / Beasts             → 「兽」（the Beast / Beas 源×1     译×1    
+     inherited experience           → 遗传的经验                源×1     译×1     残留「本能」×13
+     R.-O.-T. / rot                 → 胡说八道（R.-O.-T. / rot） 源×9     译×9    
+     Mass                           → 弥撒                   源×14    译×14   
+     the Blessed Sacrament          → 圣体                   源×0     译×0     ★源0次(幽灵?)
+     confession                     → 告解                   源×0     译×4     ★源0次(幽灵?)
+     Purgatory                      → 炼狱                   源×2     译×2    
+     the Church                     → 圣教会                  源×14    译×8     落位偏低 8/14
+     priest                         → 神父                   源×17    译×24   
+     soul                           → 灵魂                   源×38    译×47   
+     prayer                         → 祈祷                   源×5     译×13   
+     Baptist                        → 浸礼会教徒（Baptist）       源×2     译×1    
+     New Thought                    → 新思想（New Thought）     源×2     译×2    
+     Rome                           → 罗马                   源×1     译×4    
+     confirmation                   → 坚振礼（confirmation）    源×1     译×1    
+     tabernacle                     → 圣龛 / 圣体龛             源×1     译×2    
+     Salvation Army                 → 救世军（Salvation Army）  源×1     译×1    
+     D.T. (Delirium Tremens)        → 震颤性谵妄（D.T.）          源×1     译×1    
+     Satan / Satanic                → 撒殚 / 撒殚的             源×2     译×2    
+     Sabetti                        → 萨贝蒂（Sabetti）         源×1     译×1    
+     Baltimore fathers              → 巴尔的摩教父们              源×1     译×1    
+     mortal sin / grave sin         → 死罪 / 重罪              源×4     译×4    
+     prie-dieu                      → 经台（prie-dieu）        源×2     译×3    
+     Saxon                          → 撒克逊                  源×1     译×2    
+     Nonconformist                  → 非国教徒（Nonconformist）  源×1     译×0     ★译0次(未落位?)
+     Good Friday                    → 耶稣受难日（Good Friday）   源×1     译×1    
+     the prophet Jonas              → 先知约纳                 源×1     译×1    
+     a string of beads (rosary)     → 一串念珠                 源×1     译×1    
+     Queen Victoria                 → 维多利亚女王               源×1     译×1    
+     the Our Father                 → 《天主经》（the Our Father 源×3     译×3    
+     Jesus of Nazareth              → 纳匝肋人耶稣（Jesus of Naza 源×1     译×1    
+     Easter Day                     → 复活节主日（Easter Day）    源×0     译×1     ★源0次(幽灵?)
+     discarnate Personalities       → 无肉身的灵体人格（discarnate  源×1     译×1    
+     obsessed / obsessed by a spiri → 被附身（obsessed）        源×2     译×1    
+

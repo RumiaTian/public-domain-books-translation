@@ -1,0 +1,43 @@
+====================================================================================================
+### lewis-carroll_a-tangled-tale  (16 files)
+  块: O=169 C=169 OK | 段: EN=632 CN=655 !!差 -23
+     [不对称] appendix.md                                          O=74 C=74 段EN=268 段CN=291
+  英文残留(剔括注) top: Answers×11, to×11, Knot×10, The×8, AC×2, ought×2, nought×2, adder×2, an×2, and×2
+  -- 术语表硬约束行 36 条:
+     A Tangled Tale                 → 《一团乱麻》               源×0     译×0     ★源0次(幽灵?)
+     Knot                           → 乱结                   源×29    译×22   
+     Balbus                         → 巴尔布斯                 源×66    译×66   
+     Hugh                           → 休                    源×32    译×33   
+     Lambert                        → 兰伯特                  源×26    译×27   
+     Clara                          → 克拉拉                  源×63    译×64   
+     Norman                         → 诺曼                   源×18    译×18   
+     Mad Mathesis                   → 疯癫数学                 源×16    译×15   
+     Her Radiancy                   → 光辉殿下                 源×17    译×16   
+     the Governor                   → 总督                   源×32    译×31   
+     Kgovjni                        → 克格夫尼                 源×3     译×5    
+     Little Mendip                  → 小门迪普                 源×3     译×3    
+     Lolo / Mimi / Zuzu             → 洛洛 / 米米 / 祖祖         源×44    译×44   
+     Simple Susan                   → 单纯苏珊                 源×10    译×10   
+     Fifee                          → 菲菲                   源×9     译×13   
+     Janet                          → 珍妮特                  源×9     译×9    
+     Problem                        → 题                    源×42    译×109  
+     Answer                         → 答                    源×45    译×103  
+     Solution                       → 解答                   源×27    译×29   
+     Answers to Knot X              → 乱结 X 题解              源×1     译×0     ★译0次(未落位?)
+     £1,000                         → 1,000 英镑             源×3     译×3    
+     Chelsea buns                   → 切尔西甜包                源×2     译×2    
+     Excelsior                      → Excelsior（更高更远）      源×1     译×0     ★译0次(未落位?)
+     Mhruxi / Mhruxian              → 姆鲁克西 / 姆鲁克西语         源×3     译×3    
+     Kgovjnian                      → 克格夫尼语                源×4     译×2     落位偏低 2/4
+     grurmstipths                   → 格鲁姆斯特普斯              源×3     译×3    
+     Aunt Mattie                    → 马蒂姨（Aunt Mattie）     源×3     译×3    
+     Her Exalted Potency 等          → 至尊神力陛下／锦绣威焰陛下／澄澈辉煌陛下 源×0     译×4     ★源0次(幽灵?)
+     The Dead Reckoning             → 航位推算                 源×1     译×1    
+     Oughts and Crosses             → 圈圈与叉叉                源×5     译×0     ★译0次(未落位?)
+     Petty Cash                     → 零用账                  源×3     译×2    
+     A Serpent with Corners         → 带拐角的蛇                源×2     译×1    
+     Double Rule of Three           → 复三率法                 源×3     译×3    
+     rule of false                  → 假借法                  源×1     译×1    
+     The Knot-Untiers               → 「解结者」俱乐部             源×2     译×0     ★译0次(未落位?)
+     Chelsea Pensioners             → 切尔西领抚恤金者             源×2     译×2    
+

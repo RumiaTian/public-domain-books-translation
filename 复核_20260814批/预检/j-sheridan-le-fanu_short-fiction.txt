@@ -1,0 +1,30 @@
+====================================================================================================
+### j-sheridan-le-fanu_short-fiction  (39 files)
+  块: O=864 C=864 OK | 段: EN=3934 CN=3957 !!差 -23
+     [不对称] a-legend-of-dunoran.md                               O=8 C=8 段EN=120 段CN=122
+     [不对称] being-a-fifth-extract-from-the-legacy-of-the-late-francis-purcell-p-p-of-drumcoolagh.md O=50 C=50 段EN=198 段CN=203
+     [不对称] being-a-fourth-extract-from-the-legacy-of-the-late-f-purcell-p-p-of-drumcoolagh.md O=22 C=22 段EN=61 段CN=68
+     [不对称] being-an-eighth-extract-from-the-legacy-of-the-late-francis-purcell-p-p-of-drumcoolagh.md O=16 C=16 段EN=72 段CN=73
+     [不对称] being-an-eleventh-extract-from-the-legacy-of-the-late-francis-purcell-p-p-of-drumcoolagh.md O=40 C=40 段EN=271 段CN=272
+     [不对称] billy-malowney-s-taste-of-love-and-glory.md          O=31 C=31 段EN=108 段CN=109
+     [不对称] from-the-notes-of-fra-giacomo.md                     O=22 C=22 段EN=70 段CN=71
+     [不对称] the-dead-sexton.md                                   O=41 C=41 段EN=169 段CN=172
+     [不对称] the-ghost-and-the-bonesetter.md                      O=13 C=13 段EN=49 段CN=51
+  英文残留(剔括注) top: Shackleton×15, in×2, the×2, of×2, buffet'×1, closet×1, mollia×1, tempora×1, fandi×1, da×1
+  项目说明备注: - Le Fanu 文风：长句、迂回叙事、19 世纪维多利亚用词、大量爱尔兰地名与方言色彩。译笔须沉稳古雅，带哥特阴郁。 / - 部分文件（carmilla/green-tea/mr-justice-harbottle/the-familiar）是《暗影之镜》(In a Glass Darkly) 集子各篇的 **Prologue/编者前言**（Dr. Hesselius 医案框架），主篇正文不在本 epub 中。这些 prologue 作为独立短文译出，保留其框架叙事性质。 / - "being-a-second-contribution..."（128KB）是超长中篇（The Fatal Bride），翻译时注意长文分段（通用翻译引擎第七节），结尾不截断。 / - Father Purcell 系列多冠以冗长标题（"Being an Nth Extract from the Legacy of the Late Francis Purcell, P.P. of Drumcoolagh"），按原标题照译。 / - 爱尔兰地名用通行音译（Chapelizod=查佩利佐德、Lough G
+  -- 术语表硬约束行 14 条:
+     Dr. Martin Hesselius           → 马丁·赫塞利乌斯医生           源×3     译×3    
+     Father Francis Purcell         → 弗朗西斯·珀塞尔神父           源×0     译×2     ★源0次(幽灵?)
+     Fra Giacomo                    → 贾科莫修士                源×1     译×2    
+     Chapelizod                     → 查佩利佐德                源×16    译×15   
+     Lough Guir                     → 盖尔湖                  源×0     译×1     ★源0次(幽灵?)
+     Drumcoolagh                    → 德鲁姆库拉                源×10    译×1     落位偏低 1/10
+     Drumgunniol                    → 德鲁姆甘尼奥尔              源×7     译×6    
+     Dunoran                        → 杜诺兰                  源×5     译×4    
+     Cappercullen                   → 卡珀卡伦                 源×1     译×2    
+     Aungier Street                 → 昂吉尔街                 源×2     译×1    
+     Old Brompton                   → 老布朗普顿                源×1     译×1    
+     Connemara                      → 康内马拉                 源×1     译×1    
+     Tunbridge Wells                → 坦布里奇韦尔斯              源×2     译×2    
+     Leyden                         → 莱顿                   源×1     译×5    
+

@@ -1,0 +1,3 @@
+## Envoy
+
+The tale is done and night is come. Now may all the sprites who, with curled wing and starry eyes, have clustered around my hands and helped me weave this story, lift with deft delicacy from out the crevice where it lines may heavy flesh of fact, that rich and colored gossamer of dream which the Queen of Faerie lent to me for a season. Pleat it to shining bundle and return it, sweet elves, beneath the moon, to her Mauve Majesty with my low and fond obeisance. Beg her, sometime, somewhere, of her abundant leisure, to tell us hard humans: Which is really Truth﻿—Fact or Fancy? the Dream of the Spirit or the Pain of the Bone?

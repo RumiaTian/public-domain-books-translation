@@ -1,0 +1,49 @@
+## LX Lord Gerald in Further Trouble
+When Silverbridge got back to the house he was by no means well pleased with himself. In the first place he was unhappy to think that Mabel was unhappy, and that he had made her so. And then she had told him that he would not have dared to have acted as he had done, but that her father and her brother were careless to defend her. He had replied fiercely that a legion of brothers, ready to act on her behalf, would not have altered his conduct; but not the less did he feel that he had behaved badly to her. It could not now be altered. He could not now be untrue to Isabel. But certainly he had said a word or two to Mabel which he could not remember without regret. He had not thought that a word from him could have been so powerful. Now, when that word was recalled to his memory by the girl to whom it had been spoken, he could not quite acquit himself.
+And Mabel had declared to him that she would at once appeal to his father. There was an absurdity in this at which he could not but smile﻿—that the girl should complain to his father because he would not marry her! But even in doing this she might cause him great vexation. He could not bring himself to ask her not to tell her story to the Duke. He must take all that as it might come.
+While he was thinking of all this in his own room a servant brought him two letters. From the first which he opened he soon perceived that it contained an account of more troubles. It was from his brother Gerald, and was written from Auld Reikie, the name of a house in Scotland belonging to Lord Nidderdale’s people.
+
+> Dear Silver,
+> I have got into a most awful scrape. That fellow Percival is here, and Dolly Longstaff, and Nidderdale, and Popplecourt, and Jack Hindes, and Perry who is in the Coldstreams, and one or two more, and there has been a lot of cards, and I have lost ever so much money. I wouldn’t mind it so much but Percival has won it all﻿—a fellow I hate; and now I owe him﻿—three thousand four hundred pounds! He has just told me he is hard up and that he wants the money before the week is over. He can’t be hard up because he has won from everybody;﻿—but of course I had to tell him that I would pay him.
+> Can you help me? Of course I know that I have been a fool. Percival knows what he is about and plays regularly for money. When I began I didn’t think that I could lose above twenty or thirty pounds. But it got on from one thing to another, and when I woke this morning I felt I didn’t know what to do with myself. You can’t think how the luck went against me. Everybody says that they never saw such cards.
+> And now do tell me how I am to get out of it. Could you manage it with Mr. Moreton? Of course I will make it all right with you some day. Moreton always lets you have whatever you want. But perhaps you couldn’t do this without letting the governor know. I would rather anything than that. There is some money owing at Oxford also, which of course he must know.
+> I was thinking that perhaps I might get it from some of those fellows in London. There are people called Comfort and Criball, who let men have money constantly. I know two or three up at Oxford who have had it from them. Of course I couldn’t go to them as you could do, for, in spite of what the governor said to us up in London one day, there is nothing that must come to me. But you could do anything in that way, and of course I would stand to it.
+> I know you won’t throw me over, because you always have been such a brick. But above all things don’t tell the governor. Percival is such a nasty fellow, otherwise I shouldn’t mind it. He spoke this morning as though I was treating him badly﻿—though the money was only lost last night; and he looked at me in a way that made me long to kick him. I told him not to flurry himself, and that he should have his money. If he speaks to me like that again I will kick him.
+> I will be at Matching as soon as possible, but I cannot go till this is settled. Nid﻿—
+
+meaning Lord Nidderdale
+
+> —is a brick.
+> Your affectionate Brother,
+> Gerald.
+
+The other was from Nidderdale, and referred to the same subject.
+
+> Dear Silverbridge,
+> Here has been a terrible nuisance. Last night some of the men got to playing cards, and Gerald lost a terribly large sum to Percival. I did all that I could to stop it, because I saw that Percival was going in for a big thing. I fancy that he got as much from Dolly Longstaff as he did from Gerald;﻿—but it won’t matter much to Dolly; or if it does, nobody cares. Gerald told me he was writing to you about it, so I am not betraying him.
+> What is to be done? Of course Percival is behaving badly. He always does. I can’t turn him out of the house, and he seems to intend to stick to Gerald till he has got the money. He has taken a cheque from Dolly dated two months hence. I am in an awful funk for fear Gerald should pitch into him. He will, in a minute, if anything rough is said to him. I suppose the straightest thing would be to go to the Duke at once, but Gerald won’t hear of it. I hope you won’t think me wrong to tell you. If I could help him I would. You know what a bad doctor I am for that sort of complaint.
+> Yours always,
+> Nidderdale.
+
+The dinner-bell had rung before Silverbridge had come to an end of thinking of this new vexation, and he had not as yet made up his mind what he had better do for his brother. There was one thing as to which he was determined﻿—that it should not be done by him, nor, if he could prevent it, by Gerald. There should be no dealings with Comfort and Criball. The Duke had succeeded, at any rate, in filling his son’s mind with a horror of aid of that sort. Nidderdale had suggested that the “straightest” thing would be to go direct to the Duke. That no doubt would be straight﻿—and efficacious. The Duke would not have allowed a boy of his to be a debtor to Lord Percival for a day, let the debt have been contracted how it might. But Gerald had declared against this course﻿—and Silverbridge himself would have been most unwilling to adopt it. How could he have told that story to the Duke, while there was that other infinitely more important story of his own, which must be told at once?
+In the midst of all these troubles he went down to dinner. “Lady Mabel,” said the Duke, “tells me that you two have been to see Sir Guy’s lookout.”
+She was standing close to the Duke and whispered a word into his ear. “You said you would call me Mabel.”
+“Yes, sir,” said Silverbridge, “and I have made up my mind that Sir Guy never stayed there very long in winter. It was awfully cold.”
+“I had furs on,” said Mabel. “What a lovely spot it is, even in this weather.” Then dinner was announced. She had not been cold. She could still feel the tingling heat of her blood as she had implored him to love her.
+Silverbridge felt that he must write to his brother by the first post. The communication was of a nature that would bear no delay. If his hands had been free he would himself have gone off to Auld Reikie. At last he made up his mind. The first letter he wrote was neither to Nidderdale nor to Gerald, but to Lord Percival himself.
+
+> Dear Percival,
+> Gerald writes me word that he has lost to you at cards £3,400, and he wants me to get him the money. It is a terrible nuisance, and he has been an ass. But of course I shall stand to him for anything he wants. I haven’t got £3,400 in my pocket, and I don’t know anyone who has;﻿—that is among our set. But I send you my I.O.U. for the amount, and will promise to get you the money in two months. I suppose that will be sufficient, and that you will not bother Gerald any more about it.
+> Yours truly,
+> Silverbridge.
+
+Then he copied this letter and enclosed the copy in another which he wrote to his brother.
+
+> Dear Gerald,
+> What an ass you have been! But I don’t suppose you are worse than I was at Doncaster. I will have nothing to do with such people as Comfort and Criball. That is the sure way to the D﻿—﻿—! As for telling Moreton, that is only a polite and roundabout way of telling the governor. He would immediately ask the governor what was to be done. You will see what I have done. Of course I must tell the governor before the end of February, as I cannot get the money in any other way. But that I will do. It does seem hard upon him. Not that the money will hurt him much; but that he would so like to have a steady-going son.
+> I suppose Percival won’t make any bother about the I.O.U. He’ll be a fool if he does. I wouldn’t kick him if I were you﻿—unless he says anything very bad. You would be sure to come to grief somehow. He is a beast.
+> Your affectionate Brother,
+> Silverbridge.
+
+With these letters that special grief was removed from his mind for awhile. Looking over the dark river of possible trouble which seemed to run between the present moment and the time at which the money must be procured, he thought that he had driven off this calamity of Gerald’s to infinite distance. But into that dark river he must now plunge almost at once. On the next day, he managed so that there should be no walk with Mabel. In the evening he could see that the Duke was uneasy;﻿—but not a word was said to him. On the following morning Lady Mabel took her departure. When she went from the door, both the Duke and Silverbridge were there to bid her farewell. She smiled and was as gracious as though everything had gone according to her heart’s delight. “Dear Duke, I am so obliged to you for your kindness,” she said, as she put up her cheek for him to kiss. Then she gave her hand to Silverbridge. “Of course you will come and see me in town.” And she smiled upon them all;﻿—having courage enough to keep down all her sufferings.
+“Come in here a moment, Silverbridge,” said the father as they returned into the house together. “How is it now between you and her?”

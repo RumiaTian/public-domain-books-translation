@@ -1,0 +1,167 @@
+====================================================================================================
+### arthur-quiller-couch_on-the-art-of-writing  (15 files)
+  块: O=726 C=726 OK | 段: EN=1256 CN=1263 !!差 -7
+     [不对称] 05-on-the-capital-difficulty-of-verse.md             O=65 C=65 段EN=135 段CN=136
+     [不对称] 07-on-the-capital-difficulty-of-prose.md             O=76 C=76 段EN=178 段CN=179
+     [不对称] 09-on-the-lineage-of-english-literature-i.md         O=41 C=41 段EN=86 段CN=88
+     [不对称] 11-english-literature-in-our-universities-i.md       O=49 C=49 段EN=85 段CN=86
+     [不对称] 13-on-style.md                                       O=45 C=45 段EN=55 段CN=57
+  英文残留(剔括注) top: in×18, case×12, and×11, et×8, of×8, to×7, mid×7, the×6, de×6, as×6
+  项目说明备注: 见术语表.md。 /  / **章节文件命名说明**：原 epub 章节为「标题式」文件名（无序号），按文件名排序会错乱阅读顺序。已按 spine 阅读顺序统一加两位数字前缀（`00-`～`14-`）：`00-`献词、`01-`前言、`02-`～`13-`十二讲（依次为就职讲演、写作的实践、论诗与散文之别、论诗之大难点、插叙：论套话、论散文之大难点、重申若干原则、英国文学的谱系 I/II、英国文学与大学 I/II、论风格）、`14-`尾注。前缀即阅读顺序，前缀后的原名保留可读性。 /  / **翻译重点**：文学/修辞术语（Jargon=套话、Grand Style=宏伟风格等）须全书统一，照术语表定译；人名书名用通行中译并在首次出现时括注原文；讲座标题罗马数字照搬不译；拉丁文、希腊文引文保留原样（可加中译括注）；莎士比亚等诗剧引文参照通行译本酌情回译；尾注中的引文出处整条保留原文不译，作者自撰说明翻译。各讲开头的演讲日期（如 Wednesday, January 29, 1913）译作「1913 年 1 月 29 日，星期三」。
+  -- 术语表硬约束行 155 条:
+     Jargon                         → 套话                   源×33    译×35   
+     Journalese                     → 新闻腔                  源×1     译×1    
+     Grand Style                    → 宏伟风格                 源×2     译×3    
+     Style                          → 风格                   源×52    译×50   
+     verse                          → 诗（韵文）                源×96    译×306  
+     prose                          → 散文                   源×130   译×132  
+     Ornament                       → 藻饰                   源×3     译×5    
+     "Murder your darlings"         → 「杀死你的心头爱」            源×0     译×0     ★源0次(幽灵?)
+     metonymy                       → 转喻                   源×0     译×1     ★源0次(幽灵?)
+     circumlocution / periphrasis   → 迂说（绕弯子）              源×3     译×5    
+     concrete / abstract noun       → 具体名词 / 抽象名词          源×15    译×11   
+     euphony                        → 谐音（音韵和谐）             源×0     译×0     ★源0次(幽灵?)
+     bathos                         → 突降                   源×2     译×2    
+     pathos                         → 哀婉                   源×0     译×0     ★源0次(幽灵?)
+     conceit                        → 奇喻                   源×1     译×1    
+     elegance / propriety           → 优雅 / 得体              源×6     译×31   
+     perspicuity                    → 明晰                   源×6     译×15   
+     hortus siccus                  → 蜡叶标本园（干枯标本）          源×1     译×1    
+     literature as an Art           → 文学是艺术                源×0     译×1     ★源0次(幽灵?)
+     classical / romantic           → 古典的 / 浪漫的            源×14    译×3     落位偏低 3/14
+     the lineage of English literat → 英国文学的谱系              源×2     译×0     ★译0次(未落位?)
+     English School / English Liter → 英文学科（英国文学学科）         源×32    译×4     落位偏低 4/32
+     Chair (of English Literature)  → 讲席（教授职位）             源×16    译×23   
+     Vice-Chancellor                → 副校长                  源×2     译×2    
+     Arthur Quiller-Couch           → 阿瑟·奎勒-库奇             源×1     译×1    
+     Plato                          → 柏拉图                  源×11    译×11   
+     Socrates                       → 苏格拉底                 源×3     译×4    
+     Renan                          → 勒南                   源×1     译×1    
+     Cardinal Newman                → 纽曼枢机                 源×2     译×2    
+     Lucian / Demonax               → 琉善 / 德谟纳克斯           源×9     译×9    
+     Chaucer                        → 乔叟                   源×18    译×18   
+     Shakespeare                    → 莎士比亚                 源×52    译×52   
+     Milton                         → 弥尔顿                  源×19    译×20   
+     Bacon                          → 培根                   源×5     译×5    
+     Sir Thomas Browne              → 托马斯·布朗爵士             源×6     译×6    
+     Ben Jonson                     → 本·琼森                 源×4     译×5    
+     Herrick                        → 赫里克                  源×0     译×0     ★源0次(幽灵?)
+     Waller                         → 沃勒                   源×1     译×1    
+     Dryden                         → 德莱顿                  源×6     译×6    
+     Pope                           → 蒲柏                   源×10    译×8    
+     Addison / Steele               → 艾迪生 / 斯梯尔            源×4     译×4    
+     Swift                          → 斯威夫特                 源×1     译×1    
+     Defoe                          → 笛福                   源×1     译×1    
+     Gray                           → 格雷                   源×10    译×10   
+     Collins                        → 柯林斯                  源×2     译×2    
+     Johnson (Dr. Johnson)          → 约翰逊博士                源×16    译×3     落位偏低 3/16
+     Burke                          → 伯克                   源×26    译×26   
+     Goldsmith                      → 哥尔德斯密斯               源×0     译×0     ★源0次(幽灵?)
+     Cowper                         → 柯珀                   源×1     译×1    
+     Burns                          → 彭斯                   源×1     译×2    
+     Wordsworth                     → 华兹华斯                 源×17    译×17   
+     Coleridge                      → 柯尔律治                 源×12    译×12   
+     Lamb                           → 兰姆                   源×0     译×0     ★源0次(幽灵?)
+     De Quincey                     → 德·昆西                 源×1     译×1    
+     Shelley / Keats                → 雪莱 / 济慈              源×12    译×12   
+     Byron                          → 拜伦                   源×11    译×12   
+     Blake                          → 布莱克                  源×1     译×1    
+     Carlyle                        → 卡莱尔                  源×3     译×3    
+     Ruskin                         → 罗斯金                  源×1     译×1    
+     Pater                          → 佩特                   源×3     译×3    
+     Matthew Arnold                 → 马修·阿诺德               源×3     译×3    
+     Emerson                        → 爱默生                  源×2     译×2    
+     Hawthorne / Poe                → 霍桑 / 爱伦·坡            源×0     译×0     ★源0次(幽灵?)
+     Longfellow / Lowell / Whittier → 朗费罗 / 洛威尔 / 惠蒂埃      源×0     译×0     ★源0次(幽灵?)
+     George Eliot                   → 乔治·艾略特               源×1     译×1    
+     Henry James                    → 亨利·詹姆斯               源×0     译×0     ★源0次(幽灵?)
+     Macaulay                       → 麦考莱                  源×1     译×1    
+     Gibbon                         → 吉本                   源×3     译×3    
+     Thucydides                     → 修昔底德                 源×2     译×2    
+     Homer / Virgil                 → 荷马 / 维吉尔             源×42    译×43   
+     Malherbe                       → 马雷伯                  源×0     译×0     ★源0次(幽灵?)
+     Boileau                        → 布瓦洛                  源×2     译×2    
+     Racine / Corneille             → 拉辛 / 高乃依             源×2     译×2    
+     Molière                        → 莫里哀                  源×1     译×1    
+     Flaubert                       → 福楼拜                  源×3     译×3    
+     Anatole France                 → 阿纳托尔·法朗士             源×0     译×0     ★源0次(幽灵?)
+     Rabelais                       → 拉伯雷                  源×0     译×0     ★源0次(幽灵?)
+     Sainte-Beuve                   → 圣伯夫                  源×5     译×5    
+     Sir Joshua Reynolds            → 乔舒亚·雷诺兹爵士            源×2     译×2    
+     Whistler                       → 惠斯勒                  源×3     译×3    
+     W. P. Ker                      → W. P. 克尔             源×2     译×1    
+     Courthope                      → 库思罗普                 源×5     译×4    
+     Dr. Verrall / Mrs. Verrall     → 弗拉尔博士 / 弗拉尔夫人        源×2     译×2    
+     Skeat / Masson / Aldis Wright  → 斯基特 / 马森 / 奥尔迪斯·赖特   源×3     译×3    
+     Henry Sidgwick                 → 亨利·西奇威克              源×1     译×1    
+     Captain Scott / Captain Oates  → 斯科特上校 / 奥茨上尉         源×5     译×5    
+     Don Quixote / Sancho           → 堂吉诃德 / 桑丘            源×4     译×1     落位偏低 1/4
+     Minos / Cleinias / Megillus    → 弥诺斯 / 克莱尼亚斯 / 墨吉洛斯   源×6     译×6    
+     Alcibiades / Cleon             → 亚西比德 / 克里昂           源×2     译×2    
+     Siddons / Coquelin / Bernhardt → 西登斯 / 科克兰 / 贝尔纳      源×3     译×5    
+     The Laws                       → 《法律篇》                源×2     译×1    
+     The Republic                   → 《理想国》                源×0     译×2     ★源0次(幽灵?)
+     Don Quixote                    → 《堂吉诃德》               源×0     译×3     ★源0次(幽灵?)
+     Elegy (Gray's)                 → 《墓园挽歌》               源×2     译×2    
+     The History of English Poetry  → 《英国诗歌史》              源×1     译×3    
+     Anatomy of Melancholy          → 《忧郁的解剖》              源×0     译×0     ★源0次(幽灵?)
+     The Faerie Queene              → 《仙后》                 源×1     译×1    
+     Hudibras                       → 《休迪布拉斯》              源×0     译×0     ★源0次(幽灵?)
+     On the Sublime                 → 《论崇高》                源×0     译×0     ★源0次(幽灵?)
+     Hydriotaphia (Urn Buriall)     → 《瓮葬》                 源×0     译×0     ★源0次(幽灵?)
+     The Leiden/Glasgow 讲稿等         → 保留原文                 源×0     译×8     ★源0次(幽灵?)
+     Bible / Sermon on the Mount    → 《圣经》 / 登山宝训          源×7     译×2     落位偏低 2/7
+     Le Misanthrope 及其他法文剧名         → 首次中译括注原文             源×0     译×0     ★源0次(幽灵?)
+     appropriate / propriety        → 得体                   源×7     译×0     ★译0次(未落位?)
+     perspicuity                    → 明晰                   源×0     译×0     ★源0次(幽灵?)
+     accuracy                       → 准确                   源×10    译×18   
+     persuasiveness                 → 说服力                  源×3     译×7    
+     English School                 → 英文学科                 源×0     译×0     ★源0次(幽灵?)
+     hortus siccus                  → 蜡叶标本园                源×0     译×0     ★源0次(幽灵?)
+     Literae Humaniores             → 人文学科                 源×1     译×2    
+     Fletcher                       → 弗莱彻                  源×2     译×2    
+     Dunbar                         → 邓巴                   源×2     译×2    
+     Pheidias                       → 菲狄亚斯                 源×2     译×2    
+     Thomas à Kempis                → 托马斯·厄·肯培             源×1     译×1    
+     William Watson                 → 威廉·沃森                源×1     译×1    
+     Lascelles Abercrombie          → 拉塞尔斯·艾伯克龙比           源×1     译×1    
+     Thomas Hardy                   → 托马斯·哈代               源×1     译×1    
+     (Mr.) Barrie                   → 巴里（先生）               源×2     译×2    
+     (T. H.) Green                  → 格林                   源×13    译×4     落位偏低 4/13
+     Robert Bridges                 → 罗伯特·布里奇斯             源×1     译×1    
+     Arthur John Butler             → 阿瑟·约翰·巴特勒            源×1     译×1    
+     Parmenides                     → 巴门尼德                 源×1     译×1    
+     Reynolds                       → 雷诺兹                  源×1     译×1    
+     Tintoretto                     → 丁托列托                 源×1     译×1    
+     Titian                         → 提香                   源×1     译×1    
+     Caracci                        → 卡拉奇                  源×1     译×1    
+     Cicero                         → 西塞罗                  源×4     译×5    
+     Quintilian                     → 昆体良                  源×8     译×8    
+     Jowett                         → 乔伊特                  源×1     译×1    
+     Newman                         → 纽曼                   源×10    译×10   
+     Landor                         → 兰多                   源×2     译×2    
+     Tennyson                       → 丁尼生                  源×6     译×6    
+     Browning                       → 勃朗宁                  源×5     译×5    
+     Morris                         → 莫里斯                  源×2     译×2    
+     Rossetti                       → 罗塞蒂                  源×3     译×3    
+     Swinburne                      → 斯温伯恩                 源×2     译×2    
+     Ruskin                         → 罗斯金                  源×0     译×0     ★源0次(幽灵?)
+     John Clare                     → 约翰·克莱尔               源×1     译×1    
+     James Thomson                  → 詹姆斯·汤姆逊              源×1     译×1    
+     Benvenuto Cellini              → 本韦努托·切利尼             源×1     译×1    
+     Petrarch                       → 彼特拉克                 源×3     译×3    
+     Charles Lamb                   → 查尔斯·兰姆               源×1     译×1    
+     Philip Sidney                  → 菲利普·西德尼              源×2     译×2    
+     Gladstone                      → 格莱斯顿                 源×3     译×3    
+     Velasquez                      → 委拉斯开兹                源×2     译×2    
+     Longinus                       → 朗吉努斯                 源×2     译×2    
+     Euphues                        → 《尤弗伊斯》               源×1     译×0     ★译0次(未落位?)
+     Peter Pan                      → 《彼得·潘》               源×1     译×1    
+     Lyrical Ballads                → 《抒情歌谣集》              源×2     译×2    
+     Prolegomena to Ethics          → 《伦理学导论》              源×1     译×1    
+     Discourses（雷诺兹）                → 《讲演录》                源×3     译×1     落位偏低 1/3
+     The Idea of a University       → 《大学的理想》              源×2     译×1    
+     "Saul"（勃朗宁）                    → 《扫罗》                 源×0     译×1     ★源0次(幽灵?)
+     The Ring and the Book          → 《指环与书》               源×1     译×1    
+     Modern Painters                → 《近代画家》               源×1     译×1    
+

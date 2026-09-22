@@ -1,0 +1,36 @@
+### IV
+“Why have you been so funny all vese days?” Lord Hovenden had at last brought himself to put the long-premeditated question.
+“Funny?” Irene echoed on another note, trying to make a joke of it, as though she didn’t understand what he meant. But of course she did understand, perfectly well.
+They were sitting in the thin luminous shadow of the olive trees. The bright sky looked down at them between the sparse twi-coloured leaves. On the parched grass about the roots of the trees the sunlight scattered an innumerable golden mintage. They were sitting at the edge of a little terrace scooped out of the steep slope, their legs dangling, their backs propped against the trunk of a hoary tree.
+“You know,” said Hovenden. “Why did you suddenly avoid me?”
+“Did I?”
+“You know you did.”
+Irene was silent for a moment before she admitted: “Yes, perhaps I did.”
+“But why,” he insisted, “why?”
+“I don’t know,” she answered unhappily. She couldn’t tell him about Aunt Lilian.
+Her tone emboldened Lord Hovenden to become more insistent. “You don’t know?” he repeated sarcastically, as though he were a lawyer carrying out a cross-examination. “Perhaps you were walking in your sleep all ve time.”
+“Don’t be stupid,” she said in a weary little voice.
+“At any rate, I’m not too stupid to see vat you were running after vat fellow Chelifer.” Lord Hovenden became quite red in the face as he spoke. For the sake of his manly dignity, it was a pity that his *th*’s should sound quite so childish.
+Irene said nothing, but sat quite still, her head bent, looking down at the slanting grove of olives. Framed within the square-cut hair, her face was sad.
+“If you were so much interested in him, why did you suggest vat we should go for a walk vis afternoon?” he asked. “Perhaps you fought I was Chelifer.” He was possessed by an urgent desire to say disagreeable and hurting things. And yet he was perfectly aware, all the time, that he was making a fool of himself and being unfair to her. But the desire was irresistible.
+“Why do you try to spoil everything?” she asked with an exasperating sadness and patience.
+“I don’t try to spoil anyfing,” Hovenden answered irritably. “I merely ask a simple question.”
+“You know I don’t take the slightest interest in Chelifer,” she said.
+“Ven why do you trot after him all day long, like a little dog?”
+The boy’s stupidity and insistence began to annoy her. “I don’t,” she said angrily. “And in any case it’s no business of yours.”
+“Oh, it’s no business of mine, is it?” said Hovenden in a provocative voice. “Fanks for ve information.” And he was pointedly silent.
+For a long time neither of them spoke. Some dark brown sheep with bells round their necks came straying between the trees a little way down the slope. With set, sad faces the two young people looked at them. The bells made a tinkling as the creatures moved. The sweet thin noise sounded, for some reason, extremely sad in their ears. Sad, too, was the bright sky between the leaves; profoundly melancholy the redder, richer light of the declining sun, colouring the silver leaves, the grey trunks, the parched thin grass. It was Hovenden who at last broke silence. His anger, his desire to say hurting, disagreeable things had utterly evaporated; there remained only the conviction that he had made a fool of himself and been unfair﻿—only that and the profound aching love which had given his anger, his foolish cruel desire such force. “You know I don’t take the slightest interest in Chelifer.” He hadn’t known but now that she had said so, and in that tone of voice, now he knew. One couldn’t doubt; and even if one could, was it worth doubting?
+“Look here,” he said at last, in a muffled voice, “I made a fool of myself, I’m afraid. I’ve said stupid things. I’m sorry, Irene. Will you forgive me?”
+Irene turned towards him the little square window in her hair. Her face looked out of it smiling. She gave him her hand. “One day I’ll tell you,” she said.
+They sat there hand in hand for what seemed to them at once a very long time and a timeless instant. They said nothing, but they were very happy. The sun set. A grey half-night came creeping in under the trees. Between the black silhouetted leaves the sky looked exceedingly pale. Irene sighed.
+“I think we ought to be getting back,” she said reluctantly.
+Hovenden was the first to scramble to his feet. He offered Irene his hand. She took it and raised herself lightly up, coming forward as she rose towards him. They stood for a moment very close together. Lord Hovenden suddenly took her in his arms and kissed her again and again. Irene uttered a cry. She struggled, she pushed him away.
+“No, no,” she entreated, averting her face, leaning back, away from his kisses. “Please.” And when he let her go, she covered her face with her hands and began to cry. “Why did you spoil it again?” she asked through her tears. Lord Hovenden was overwhelmed with remorse. “We’d been so happy, such friends.” Irene dabbed her eyes with her handkerchief; but her voice still came sobbingly.
+“I’m a brute,” said Hovenden; and he spoke with such a passion of self-condemnation that Irene couldn’t help laughing. There was something positively comic about a repentance so sudden and wholehearted.
+“No, you’re not a brute,” she said. Her sobs and her laughter were getting curiously mixed up together. “You’re a dear and I like you. So much, so much. But you mustn’t do that, I don’t know why. It spoils everything. I was a goose to cry. But somehow﻿ ﻿…” She shook her head. “I like you so much,” she repeated. “But not like that. Not now. Some day, perhaps. Not now. You won’t spoil it again? Promise.”
+Lord Hovenden promised devoutly. They walked home through the grey night of the olive orchard.
+That evening at dinner the conversation turned on feminism. Under pressure from Mr. Cardan, Mrs. Aldwinkle reluctantly admitted that there *was* a considerable difference between Maud Valerie White and Beethoven and that Angelica Kauffmann compared unfavourably with Giotto. But she protested, on the other hand, that in matters of love women were, definitely, treated unfairly.
+“We claim *all* your freedom,” she said dramatically.
+Knowing that Aunt Lilian liked her to take part in the conversation, and remembering﻿—for she had a good memory﻿—a phrase that her aunt used at one time to employ frequently, but which had recently faded out of the catalogue of her favourite locutions, Irene gravely brought it out. “Contraception,” she pronounced, “has rendered chastity superfluous.”
+Mr. Cardan leaned back in his chair and roared with laughter.
+But across the prophetical face of Mr. Falx there passed a pained expression. He looked anxiously at his pupil, hoping that he had not heard, or at least had not understood what had just been said. He caught Mr. Cardan’s winking eye and frowned. Could corruption and moral laxity go further? his glance seemed to inquire. He looked at Irene; that such a youthful, innocent appearance should be wedded to so corrupt a mind appalled him. He felt glad, for Hovenden’s sake, that their stay in this bad house was not to last much longer. If it were not for the necessity of behaving politely, he would have left the place at once; like Lot, he would have shaken the dust of it from his feet.

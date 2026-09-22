@@ -1,0 +1,8361 @@
+## Book
+ II On Occasional Subjects
+## I Seasons
+#### New Year’s Hymns
+## 1 Time How Swift
+By Newton
+I
+While with ceaseless course the sun
+ 
+
+ Hasted through the former year,
+ 
+
+ Many souls their race have run,
+ 
+
+ Never more to meet us here:
+ 
+
+ Fix’d in an eternal state,
+ 
+
+ They have done with all below;
+ 
+
+ We a little longer wait,
+ 
+
+ But how little﻿—none can know.
+II
+As the winged arrow flies,
+ 
+
+ Speedily the mark to find;
+ 
+
+ As the lightning from the skies
+ 
+
+ Darts, and leaves no trace behind;
+ 
+
+ Swiftly thus our fleeting days
+ 
+
+ Bear us down life’s rapid stream;
+ 
+
+ Upwards, Lord, our spirits raise,
+ 
+
+ All below is but a dream.
+III
+Thanks for mercies past receive,
+ 
+
+ Pardon of our sins renew;
+ 
+
+ Teach us, henceforth, how to live
+ 
+
+ With eternity in view;
+ 
+
+ Bless thy word to young and old,
+ 
+
+ Fill us with a Saviour’s love;
+ 
+
+ And when life’s short tale is told,
+ 
+
+ May we dwell with thee above!
+## 2 Time How Short
+By Newton
+I
+Time, with an unwearied hand,
+ 
+
+ Pushes round the seasons past;
+ 
+
+ And in life’s frail glass the sand
+ 
+
+ Sinks apace, not long to last:
+ 
+
+ Many who, as you or I,
+ 
+
+ The last year assembled thus,
+ 
+
+ In their silent graves now lie:
+ 
+
+ Graves will open soon for us.
+II
+Daily sin and care and strife,
+ 
+
+ While the Lord prolongs our breath,
+ 
+
+ Make it but a dying life,
+ 
+
+ Or a kind of living death:
+ 
+
+ Wretched they and most forlorn,
+ 
+
+ Who no better portion know;
+ 
+
+ Better ne’er to have been born,
+ 
+
+ Than to have our all below.
+III
+When constrain’d to go alone,
+ 
+
+ Leaving all your love behind,
+ 
+
+ Ent’ring on a world unknown,
+ 
+
+ What will then support your mind?
+ 
+
+ When the Lord his summons sends,
+ 
+
+ Earthly comforts lose their power;
+ 
+
+ Honour, riches, kindred, friends,
+ 
+
+ Cannot cheer a dying hour.
+IV
+Happy souls who fear the Lord!
+ 
+
+ Time is not too swift for you;
+ 
+
+ When your Saviour gives the word.
+ 
+
+ Glad you’ll bid the world adieu:
+ 
+
+ Then he’ll wipe away your tears,
+ 
+
+ Near himself appoint your place;
+ 
+
+ Swifter fly, ye rolling years,
+ 
+
+ Lord, we long to see thy face!
+## 3 Uncertainty of Life
+By Newton
+I
+See! another year is gone!
+ 
+
+ Quickly have the seasons pass’d!
+ 
+
+ This we enter now upon
+ 
+
+ Will to many prove their last:
+ 
+
+ Mercy hitherto has spared,
+ 
+
+ But have mercies been improved?
+ 
+
+ Let us ask, Am I prepared,
+ 
+
+ Should I be this year removed?
+II
+Some we now no longer see,
+ 
+
+ Who their mortal race have run;
+ 
+
+ Seem’d as fair for life as we,
+ 
+
+ When the former year begun:
+ 
+
+ Some, but who God only knows,
+ 
+
+ Who are here assembled now,
+ 
+
+ Ere the present year shall close,
+ 
+
+ To the stroke of death must bow.
+III
+Life a field of battle is,
+ 
+
+ Thousands fall within our view:
+ 
+
+ And the next death-bolt that flies:
+ 
+
+ May be sent to me or you:
+ 
+
+ While we preach and while we hear,
+ 
+
+ Help us, Lord, each one to think
+ 
+
+ Vast eternity is near,
+ 
+
+ I am standing on the brink.
+IV
+If from guilt and sin set free
+ 
+
+ By the knowledge of thy grace,
+ 
+
+ Welcome then the call will be
+ 
+
+ To depart and see thy face:
+ 
+
+ To thy saints while here below
+ 
+
+ With new years new mercies come;
+ 
+
+ But the happiest year they know
+ 
+
+ Is the last, which leads them home.
+## 4 A New-Year’s Thought and Prayer
+By Newton
+I
+Time by moments steals away,
+ 
+
+ First the hour, and then the day;
+ 
+
+ Small the daily loss appears,
+ 
+
+ Yet it soon amounts to years:
+ 
+
+ Thus another year is flown,
+ 
+
+ Now it is no more our own,
+ 
+
+ If it brought or promised good,
+ 
+
+ Than the years before the flood.
+II
+But (may none of us forget)
+ 
+
+ It has left us much in debt;
+ 
+
+ Favours from the Lord received,
+ 
+
+ Sins that have his Spirit grieved,
+ 
+
+ Mark’d by an unerring hand,
+ 
+
+ In his book recorded stand;
+ 
+
+ Who can tell the vast amount
+ 
+
+ Placed to each of our account?
+III
+Happy the believing soul!
+ 
+
+ Christ for you has paid the whole;
+ 
+
+ While you own the debt is large,
+ 
+
+ You may plead a full discharge:
+ 
+
+ But, poor careless sinner, say,
+ 
+
+ What can you to justice pay?
+ 
+
+ Tremble, lest, when life is past,
+ 
+
+ Into prison you be cast!
+IV
+Will you still increase the score?
+ 
+
+ Still be careless as before?
+ 
+
+ Oh, forbid it, gracious Lord,
+ 
+
+ Touch their spirits by thy word!
+ 
+
+ Now, in mercy to them show
+ 
+
+ What a mighty debt they owe!
+ 
+
+ All their unbelief subdue:
+ 
+
+ Let them find forgiveness too.
+V
+Spared to see another year,
+ 
+
+ Let thy blessing meet us here;
+ 
+
+ Come, thy dying work revive,
+ 
+
+ Bid thy drooping garden thrive:
+ 
+
+ Sun of righteousness, arise!
+ 
+
+ Warm our hearts, and bless our eyes;
+ 
+
+ Let our pray’r thy bowels move,
+ 
+
+ Make this year a time of love.
+## 5 Death and War. 1778
+By Newton
+I
+Hark! how Time’s wide-sounding bell
+ 
+
+ Strikes on each attentive ear!
+ 
+
+ Tolling loud the solemn knell
+ 
+
+ Of the late departed year:
+ 
+
+ Years, like mortals, wear away,
+ 
+
+ Have their birth and dying day,
+ 
+
+ Youthful spring and wintry age,
+ 
+
+ Then to others quit the stage.
+II
+Sad experience may relate
+ 
+
+ What a year the last has been:
+ 
+
+ Crops of sorrow have been great
+ 
+
+ From the fruitful seeds of sin:
+ 
+
+ Oh! what numbers, gay and blithe,
+ 
+
+ Fell by Death’s unsparing scythe,
+ 
+
+ While they thought the world their own,
+ 
+
+ Suddenly he mow’d them down!
+III
+See how War, with dreadful stride,
+ 
+
+ Marches at the Lord’s command,
+ 
+
+ Spreading desolation wide
+ 
+
+ Through a once much-favour’d land:
+ 
+
+ War, with heart and arms of steel,
+ 
+
+ Preys on thousands at a meal;
+ 
+
+ Daily drinking human gore,
+ 
+
+ Still he thirsts and calls for more.
+IV
+If the God whom we provoke
+ 
+
+ Hither should his way direct;
+ 
+
+ What a sin-avenging stroke
+ 
+
+ May a land like this expect!
+ 
+
+ They who now securely sleep,
+ 
+
+ Quickly then would wake and weep;
+ 
+
+ And too late would learn to fear,
+ 
+
+ When they saw the danger near.
+V
+You are safe who know his love;
+ 
+
+ He will all his truth perform;
+ 
+
+ To your souls a refuge prove
+ 
+
+ From the rage of every storm:
+ 
+
+ But we tremble for the youth!
+ 
+
+ Teach them, Lord, thy saving truth;
+ 
+
+ Join them to thy faithful few,
+ 
+
+ Be to them a refuge too.
+## 6 Earthly Prospects Deceitful
+By Newton
+I
+Oft in vain the voice of truth
+ 
+
+ Solemnly and loudly warns;
+ 
+
+ Thoughtless, inexperienced youth,
+ 
+
+ Though it hears, the warning scorns:
+ 
+
+ Youth in fancy’s glass surveys
+ 
+
+ Life prolong’d to distant years,
+ 
+
+ While the vast imagined space
+ 
+
+ Fill’d with sweets and joys appears.
+II
+Awful disappointment soon
+ 
+
+ Overclouds the prospect gay;
+ 
+
+ Some their sun goes down at noon,
+ 
+
+ Torn by death’s strong hand away:
+ 
+
+ Where are then their pleasing schemes?
+ 
+
+ Where the joys they hoped to find?
+ 
+
+ Gone for ever, like their dreams,
+ 
+
+ Leaving not a trace behind.
+III
+Others, who are spared awhile,
+ 
+
+ Live to weep o’er fancy’s cheat;
+ 
+
+ Find distress and pain and toil,
+ 
+
+ Bitter things instead of sweet:
+ 
+
+ Sin has spread a curse around,
+ 
+
+ Poison’d all things here below;
+ 
+
+ On this base polluted ground
+ 
+
+ Peace and joy can never grow
+IV
+Grace alone can cure our ills,
+ 
+
+ Sweeten life with all its cares,
+ 
+
+ Regulate our stubborn wills,
+ 
+
+ Save us from surrounding snares:
+ 
+
+ Though you oft have heard in vain,
+ 
+
+ Former years in folly spent,
+ 
+
+ Grace invites you yet again,
+ 
+
+ Once more calls you to repent.
+V
+Call’d again, at length beware,
+ 
+
+ Hear the Saviour’s voice and live;
+ 
+
+ Lest he in his wrath should swear,
+ 
+
+ He no more will warning give;
+ 
+
+ Pray that you may hear and feel,
+ 
+
+ Ere the day of grace be past;
+ 
+
+ Lest your hearts grow hard as steel,
+ 
+
+ Or this year should prove your last.
+#### Before Annual Sermons to Young People on New-Year’s Evenings
+## 7 Prayer for a Blessing
+By Newton
+I
+Now, gracious Lord, thine arm reveal,
+ 
+
+ And make thy glory known;
+ 
+
+ Now let us all thy presence feel,
+ 
+
+ And soften hearts of stone!
+II
+Help us to venture near thy throne,
+ 
+
+ And plead a Saviour’s name;
+ 
+
+ For all that we can call our own
+ 
+
+ Is vanity and shame.
+III
+From all the guilt of former sin
+ 
+
+ May mercy set us free;
+ 
+
+ And let the year we now begin
+ 
+
+ Begin and end with thee.
+IV
+Send down thy Spirit from above,
+ 
+
+ That saints may love thee more;
+ 
+
+ And sinners now may learn to love
+ 
+
+ Who never loved before.
+V
+And when before thee we appear,
+ 
+
+ In our eternal home,
+ 
+
+ May growing numbers worship here,
+ 
+
+ And praise thee in our room.
+## 8 Another
+By Cowper
+I
+Bestow, dear Lord, upon our youth
+ 
+
+ The gift of saving grace;
+ 
+
+ And let the seed of sacred truth
+ 
+
+ Fall in a fruitful place.
+II
+Grace is a plant, where’er it grows,
+ 
+
+ Of pure and heav’nly root;
+ 
+
+ But fairest in the youngest shows,
+ 
+
+ And yields the sweetest fruit.
+III
+Ye careless ones, hear betimes
+ 
+
+ The voice of sovereign love!
+ 
+
+ Your youth is stain’d with many crimes,
+ 
+
+ But mercy reigns above.
+IV
+True, you are young, but there’s a stone
+ 
+
+ Within the youngest breast;
+ 
+
+ Or half the crimes which you have done
+ 
+
+ Would rob you of your rest.
+V
+For you the public prayer is made,
+ 
+
+ Oh! join the public prayer;
+ 
+
+ For you the sacred tear is shed,
+ 
+
+ Oh! shed yourselves a tear.
+VI
+We pray that you may early prove
+ 
+
+ The Spirit’s power to teach;
+ 
+
+ You cannot be too young to love
+ 
+
+ That Jesus whom we preach.
+## 9 Another
+By Newton
+I
+Now may fervent prayer arise,
+ 
+
+ Wing’d with faith, and pierce the skies;
+ 
+
+ Fervent prayer shall bring us down
+ 
+
+ Gracious answers from the throne.
+II
+Bless, O Lord, the opening year
+ 
+
+ To each soul assembled here;
+ 
+
+ Clothe the word with power divine,
+ 
+
+ Make us willing to be thine.
+III
+Shepherd of thy blood-bought sheep!
+ 
+
+ Teach the stony heart to weep;
+ 
+
+ Let the blind have eyes to see,
+ 
+
+ See themselves and look on thee!
+IV
+Let the minds of all our youth
+ 
+
+ Feel the force of sacred truth;
+ 
+
+ While the gospel call we hear,
+ 
+
+ May they learn to love and fear.
+V
+Show them what their ways have been,
+ 
+
+ Show them the desert of sin;
+ 
+
+ Then thy dying love reveal,
+ 
+
+ This shall melt a heart of steel.
+VI
+Where thou hast thy work begun,
+ 
+
+ Give new strength the race to run;
+ 
+
+ Scatter darkness, doubts, and fears,
+ 
+
+ Wipe away the mourner’s tears.
+VII
+Bless us all, both old and young;
+ 
+
+ Call forth praise from every tongue;
+ 
+
+ Let the whole assembly prove
+ 
+
+ All thy power and all thy love.
+## 10 Casting the Gospel Net
+By Newton
+I
+When Peter, through the tedious night,
+ 
+
+ Had often cast his net in vain,
+ 
+
+ Soon as the Lord appear’d in sight
+ 
+
+ He gladly let it down again.
+II
+Once more the gospel net we cast;
+ 
+
+ Do thou, O Lord, the effort own!
+ 
+
+ We learn from disappointments past
+ 
+
+ To rest our hope on thee alone.
+III
+Upheld by thy supporting hand,
+ 
+
+ We enter on another year;
+ 
+
+ And now we meet at thy command,
+ 
+
+ To seek thy gracious presence here.
+IV
+May this be a much-favour’d hour
+ 
+
+ To souls in Satan’s bondage led;
+ 
+
+ clothe thy word with sovereign power
+ 
+
+ To break the rocks and raise the dead!
+V
+Have mercy on our num’rous youth,
+ 
+
+ Who, young in years, are old in sin;
+ 
+
+ And by thy Spirit, and thy truth,
+ 
+
+ Show them the state their souls are in.
+VI
+Then by a Saviour’s dying love,
+ 
+
+ To every wounded heart reveal’d,
+ 
+
+ Temptations, fears, and guilt remove,
+ 
+
+ And be their sun and strength and shield
+VII
+To mourners speak a cheering word,
+ 
+
+ On seeking souls vouchsafe to shine;
+ 
+
+ Let poor backsliders be restored,
+ 
+
+ And all thy saints in praises join.
+VIII
+O hear our prayer, and give us hope,
+ 
+
+ That when thy voice shall call us home,
+ 
+
+ Thou still wilt raise a people up
+ 
+
+ To love and praise thee in our room.
+## 11 Pleading for and with Youth
+By Cowper
+I
+Sin has undone our wretched race.
+ 
+
+ But Jesus has restored
+ 
+
+ And brought the sinner face to face
+ 
+
+ With his forgiving Lord.
+II
+This we repeat, from year to year,
+ 
+
+ And press upon our youth;
+ 
+
+ Lord, give them an attentive ear;
+ 
+
+ Lord, save them by thy truth.
+III
+Blessings upon the rising race!
+ 
+
+ Make this a happy hour,
+ 
+
+ According to thy richest grace
+ 
+
+ And thine almighty power.
+IV
+We feel for your unhappy state,
+ 
+
+ (May you regard it too!)
+ 
+
+ And would awhile ourselves forget,
+ 
+
+ To pour out prayer for you.
+V
+We see, though you perceive it not,
+ 
+
+ Th’ approaching awful doom;
+ 
+
+ O tremble at the solemn thought,
+ 
+
+ And flee the wrath to come!
+VI
+Dear Saviour, let this new-born year
+ 
+
+ Spread an alarm abroad;
+ 
+
+ And cry in every careless ear
+ 
+
+ “Prepare to meet thy God!”
+## 12 Prayer for Children
+By Cowper
+I
+Gracious Lord, our children see!
+ 
+
+ By thy mercy we are free,
+ 
+
+ But shall these, alas! remain
+ 
+
+ Subjects still of Satan’s reign?
+ 
+
+ Isr’el’s young ones, when of old
+ 
+
+ Pharaoh threaten’d to withhold,
+ 
+
+ Then thy messenger said, “No﻿—
+ 
+
+ Let the children also go.”
+II
+When the angel of the Lord,
+ 
+
+ Drawing forth his dreadful sword,
+ 
+
+ Slew, with an avenging hand,
+ 
+
+ All the first-born of the land.
+ 
+
+ Then thy people’s door he pass’d,
+ 
+
+ Where the bloody sign was placed.
+ 
+
+ Hear us now upon our knees,
+ 
+
+ Plead the blood of Christ for these!
+III
+Lord, we tremble, for we know
+ 
+
+ How the fierce malicious foe,
+ 
+
+ Wheeling round his watchful flight,
+ 
+
+ Keeps them ever in his sight.
+ 
+
+ Spread thy pinions, King of kings!
+ 
+
+ Hide them safe beneath thy wings,
+ 
+
+ Lest the ravenous bird of prey
+ 
+
+ Stoop, and bear the brood away.
+## 13 The Shunammite
+By Newton
+2 Kings 4:31.
+I
+The Shunammite, oppressed with grief,
+ 
+
+ When she had lost the son she loved,
+ 
+
+ Went to Elisha for relief,
+ 
+
+ Nor vain her application proved.
+II
+He sent his servant on before,
+ 
+
+ To lay a staff upon his head;
+ 
+
+ This he could do, but do no more﻿—
+ 
+
+ He left him as he found him, dead.
+III
+But when the Lord’s almighty power
+ 
+
+ Wrought with the prophet’s prayer and faith
+ 
+
+ The mother saw a joyful hour﻿—
+ 
+
+ She saw her child restored from death.
+IV
+Thus, like the weeping Shunammite,
+ 
+
+ For many dead in sin we grieve.
+ 
+
+ Now, Lord, display thine arm of might,
+ 
+
+ Cause them to hear thy voice and live.
+V
+Thy preachers boar the staff in vain,
+ 
+
+ Though at thine own command we go.
+ 
+
+ Lord, we have tried and tried again,
+ 
+
+ We find them dead, and leave them so.
+VI
+Come then thyself﻿—to every heart
+ 
+
+ The glory of thy name make known.
+ 
+
+ The means are our appointed part,
+ 
+
+ The power and grace are thine alone.
+## 14 Elijah’s Prayer
+By Newton
+1 Kings 18.
+I
+Does it not grief and wonder move,
+ 
+
+ To think of Israel’s shameful fall,
+ 
+
+ Who needed miracles to prove
+ 
+
+ Whether the Lord was God or Baal?
+II
+Methinks I see Elijah stand,
+ 
+
+ His features glow with love and zeal.
+ 
+
+ In faith and prayer he lifts his hand,
+ 
+
+ And makes to Heaven his great appeal.
+III
+“O God! if I thy servant am,
+ 
+
+ If ’tis thy message fills my heart,
+ 
+
+ Now glorify thy holy name,
+ 
+
+ And show this people who thou art.”
+IV
+He spake, and lo a sudden flame
+ 
+
+ Consumed the wood, the dust, the stone.
+ 
+
+ The people struck, at once proclaim﻿—
+ 
+
+ “The Lord is God, the Lord alone.”
+V
+Like him we mourn an awful day,
+ 
+
+ When more for Baal than God appear.
+ 
+
+ Like him, believers, let us pray,
+ 
+
+ And may the God of Israel hear.
+VI
+Lord, if thy servant speak thy truth,
+ 
+
+ If he indeed is sent by thee,
+ 
+
+ Confirm the word to all our youth,
+ 
+
+ And let them thy salvation see.
+VII
+Now may the Spirit’s holy fire
+ 
+
+ Pierce every heart that hears thy word,
+ 
+
+ Consume each hurtful vain desire,
+ 
+
+ And make them know thou art the Lord!
+## 15 Preaching to the Dry Bones
+By Newton
+Ezekiel 37.
+I
+Preachers may from Ezekiel’s case
+ 
+
+ Draw hope in this declining day.
+ 
+
+ A proof like this of sovereign grace
+ 
+
+ Should chase our unbelief away.
+II
+When sent to preach to mould’ring bones,
+ 
+
+ Who could have thought he would succeed?
+ 
+
+ But well he knew the Lord from stones
+ 
+
+ Could raise up Abr’am’s chosen seed.
+III
+Can these be made a num’rous host,
+ 
+
+ And such dry bones new life receive?
+ 
+
+ The prophet answer’d﻿—“Lord, thou know’st
+ 
+
+ They shall, if thou commandment give.”
+IV
+Like him around I cast my eye,
+ 
+
+ And oh! what heaps of bones appear;
+ 
+
+ Like him, by Jesus sent I’ll try,
+ 
+
+ For he can cause the dead to hear.
+V
+Hear, ye dry bones, the Saviour’s word,
+ 
+
+ He who when dying gasp’d﻿—“Forgive,”﻿—
+ 
+
+ That gracious sinner-loving Lord
+ 
+
+ Says﻿—“Look to me, dry bones, and live.”
+VI
+Thou heav’nly wind, awake and blow,
+ 
+
+ In answer to the prayer of faith.
+ 
+
+ Now thine almighty infl’ence show,
+ 
+
+ And fill dry bones with living breath.
+VII
+O make them hear and feel and shake,
+ 
+
+ And at thy call obedient move.
+ 
+
+ The bonds of death and Satan break,
+ 
+
+ And bone to bone unite in love.
+## 16 The Rod of Moses
+By Newton
+I
+When Moses waved his mystic rod,
+ 
+
+ What wonders follow’d while he spoke!
+ 
+
+ Firm as a wall the waters stood,
+ 
+
+ Or gush’d in rivers from the rock.
+II
+At his command the thunders roll’d;
+ 
+
+ Lightning and hail his voice obey’d;
+ 
+
+ And Pharaoh trembled to behold
+ 
+
+ His land in desolation laid.
+III
+But what could Moses’ rod have done
+ 
+
+ Had he not been divinely sent?
+ 
+
+ The power was from the Lord alone,
+ 
+
+ And Moses but the instrument.
+IV
+O Lord, regard thy people’s pray’rs!
+ 
+
+ Assist a worm to preach aright;
+ 
+
+ And since thy gospel-rod he bears,
+ 
+
+ Display thy wonders in our sight.
+V
+Proclaim the thunders of thy law,
+ 
+
+ Like lightning let thine arrows fly,
+ 
+
+ That careless sinners, struck with awe,
+ 
+
+ For refuge may to Jesus fly.
+VI
+Make streams of godly sorrow flow
+ 
+
+ From rocky hearts, unused to feel;
+ 
+
+ And let the poor in spirit know
+ 
+
+ That thou art near their griefs to heal.
+VII
+But chiefly we would now look up
+ 
+
+ To ask a blessing for our youth,
+ 
+
+ The rising generation’s hope,
+ 
+
+ That they may know and love thy truth.
+VIII
+Arise, O Lord, afford a sign,
+ 
+
+ Now shall our pray’rs success obtain;
+ 
+
+ Since both the means and power are thine,
+ 
+
+ How can the rod be raised in vain?
+## 17 God Speaking from Mount Zion
+By Newton
+I
+The God who once to Isr’el spoke
+ 
+
+ From Sinai’s top in fire and smoke,
+ 
+
+ In gentler strains of gospel grace
+ 
+
+ Invites us now to seek his face.
+II
+He wears no terrors on his brow;
+ 
+
+ He speaks in love from Zion now;
+ 
+
+ It is the voice of Jesus’ blood,
+ 
+
+ Calling poor wand’rers home to God.
+III
+The holy Moses quaked and fear’d
+ 
+
+ When Sinai’s thund’ring law he heard:
+ 
+
+ But reigning grace, with accents mild,
+ 
+
+ Speaks to the sinner as a child.
+IV
+Hark! how from Calvary it sounds,
+ 
+
+ From the Redeemer’s bleeding wounds!
+ 
+
+ “Pardon and grace I freely give;
+ 
+
+ Poor sinner, look to me and live.”
+V
+What other arguments can move
+ 
+
+ The heart that slights a Saviour’s love!
+ 
+
+ Yet till almighty power constrain,
+ 
+
+ This matchless love is preach’d in vain.
+VI
+Saviour, let that power be felt,
+ 
+
+ And cause each stony heart to melt!
+ 
+
+ Deeply impress upon our youth
+ 
+
+ The light and force of gospel truth.
+VII
+With this new year may they begin
+ 
+
+ To live to thee, and die to sin;
+ 
+
+ To enter by the narrow way
+ 
+
+ Which leads to everlasting day.
+VIII
+How will they else thy presence bear
+ 
+
+ When as a Judge thou shalt appear!
+ 
+
+ When slighted love to wrath shall turn,
+ 
+
+ And the whole earth like Sinai burn!
+## 18 A Prayer for Power on the Means of Grace
+By Newton
+I
+Thou at whose almighty word
+ 
+
+ The glorious light from darkness sprung!
+ 
+
+ Thy quick’ning influence afford,
+ 
+
+ And clothe with power the preacher’s tongue.
+II
+Though ’tis thy truth he hopes to speak,
+ 
+
+ He cannot give the hearing ear;
+ 
+
+ ’Tis thine, the stubborn heart to break,
+ 
+
+ And make the careless sinner fear.
+III
+As when, of old, the water flow’d
+ 
+
+ Forth from the rock at thy command;
+ 
+
+ Moses in vain had waved his rod
+ 
+
+ Without thy wonder-working hand.
+IV
+As when the walls of Jericho
+ 
+
+ Down to the earth at once were cast;
+ 
+
+ It was thy power that brought them low,
+ 
+
+ And not the trumpet’s feeble blast.
+V
+Thus we would in the means be found,
+ 
+
+ And thus on thee alone depend;
+ 
+
+ To make the gospel’s joyful sound
+ 
+
+ Effectual to the promised end.
+VI
+Now, while we hear thy word of grace.
+ 
+
+ Let self and pride before it fall;
+ 
+
+ And rocky hearts dissolve apace,
+ 
+
+ In streams of sorrow at thy call.
+VII
+On all our youth assembled here
+ 
+
+ The unction of thy Spirit pour;
+ 
+
+ Nor let them lose another year,
+ 
+
+ Lest thou shouldst strive and call no more.
+## 19 Elijah’s Mantle
+By Newton
+2 Kings 2:11﻿–﻿14.
+I
+Elisha, struck with grief and awe,
+ 
+
+ Cried, Ah! where now is Isr’el’s stay?”
+ 
+
+ When he his honour’d master saw
+ 
+
+ Borne by a fiery car away.
+II
+But while he look’d a last adieu,
+ 
+
+ His mantle, as it fell, he caught;
+ 
+
+ The Spirit rested on him too,
+ 
+
+ And equal miracles he wrought.
+III
+“Where is Elijah’s God?” he cried,
+ 
+
+ And with the mantle smote the flood;
+ 
+
+ His word control’d the swelling tide,
+ 
+
+ Th’ obedient waters upright stood.
+IV
+The wonder-working gospel thus
+ 
+
+ From hand to hand has been convey’d;
+ 
+
+ We have the mantle still with us,
+ 
+
+ But where, O where’s the Spirit’s aid?
+V
+When Peter first his mantle waved,
+ 
+
+ How soon it melted hearts of steel!
+ 
+
+ Sinners, by thousands, then were saved,
+ 
+
+ But now how few its virtues feel!
+VI
+Where is Elijah’s God, the Lord,
+ 
+
+ Thine Isr’el’s hope and joy and boast?
+ 
+
+ Reveal thine arm, confirm thy word,
+ 
+
+ Give us another Pentecost!
+VII
+Assist thy messenger to speak,
+ 
+
+ And while he aims to lisp thy truth,
+ 
+
+ The bonds of sin and Satan break,
+ 
+
+ And pour thy blessing on our youth.
+VIII
+For them we now approach thy throne:
+ 
+
+ Teach them to know and love thy name,
+ 
+
+ Then shall thy thankful people own,
+ 
+
+ Elijah’s God is still the same.
+#### After Sermons to Young People on New-Year’s Evenings, Suited to the Subjects
+## 20 David’s Charge to Solomon
+By Newton
+1 Chronicles 28:9.
+I
+O David’s Son and David’s Lord!
+ 
+
+ From age to age thou art the same;
+ 
+
+ Thy gracious presence now afford,
+ 
+
+ And teach our youth to know thy name.
+II
+Thy people, Lord, though oft distress’d,
+ 
+
+ Upheld by thee, thus far are come;
+ 
+
+ And now we long to see thy rest,
+ 
+
+ And wait thy word to call us home.
+III
+Like David, when this life shall end,
+ 
+
+ We trust in thee sure peace to find;
+ 
+
+ Like him, to thee we now commend
+ 
+
+ The children we must leave behind.
+IV
+Ere long, we hope to be where care
+ 
+
+ And sin and sorrow never come;
+ 
+
+ But oh! accept our humble prayer,
+ 
+
+ That these may praise thee in our room
+V
+Show them how vile they are by sin,
+ 
+
+ And wash them in thy cleansing blood;
+ 
+
+ Oh, make them willing to be thine,
+ 
+
+ And be to them a cov’nant God.
+VI
+Long may thy light and truth remain
+ 
+
+ To bless this place when we are gone,
+ 
+
+ And numbers here be born again,
+ 
+
+ To dwell for ever near thy throne.
+## 21 The Lord’s Call to His Children
+By Newton
+2 Corinthians 6:17﻿–﻿18.
+I
+Let us adore the grace that seeks
+ 
+
+ To draw our hearts above!
+ 
+
+ Attend, ’tis God the Saviour speaks,
+ 
+
+ And every word is love.
+II
+Though fill’d with awe, before his throne
+ 
+
+ Each angel veils his face;
+ 
+
+ He claims a people for his own
+ 
+
+ Amongst our sinful race.
+III
+Careless, awhile, they live in sin,
+ 
+
+ Enslaved to Satan’s power;
+ 
+
+ But they obey the call divine
+ 
+
+ In his appointed hour.
+IV
+“Come forth,” He says, “no more pursue
+ 
+
+ The paths that lead to death;
+ 
+
+ Look up, a bleeding Saviour view;
+ 
+
+ Look, and be saved by faith.
+V
+“My sons and daughters you shall be
+ 
+
+ Through the atoning blood;
+ 
+
+ And you shall claim and find in me
+ 
+
+ A Father and a God.”
+VI
+Lord, speak these words to every heart,
+ 
+
+ By thine all-powerful voice;
+ 
+
+ That we may now from sin depart,
+ 
+
+ And make thy love our choice.
+VII
+If now we learn to seek thy face
+ 
+
+ By Christ the living way,
+ 
+
+ We’ll praise thee for this hour of grace,
+ 
+
+ Through an eternal day.
+## 22 The Prayer of Jabez
+By Newton
+1 Chronicles 4:9﻿–﻿10.
+I
+Jesus, who bought us with his blood,
+ 
+
+ And makes our souls his care,
+ 
+
+ Was known of old as Isr’el’s God,
+ 
+
+ And answered Jabez’ prayer.
+II
+Jabez, a child of grief! the name
+ 
+
+ Befits poor sinners well;
+ 
+
+ For Jesus bore the cross and shame,
+ 
+
+ To save our souls from hell.
+III
+Teach us, Lord, like him to plea
+ 
+
+ For mercies from above;
+ 
+
+ O come, and bless our souls indeed,
+ 
+
+ With light and joy and love.
+IV
+The gospel’s promised land is wide,
+ 
+
+ We fain would enter in:
+ 
+
+ But we are press’d on every side
+ 
+
+ With unbelief and sin.
+V
+Arise, O Lord, enlarge our coast,
+ 
+
+ Let us possess the whole,
+ 
+
+ That Satan may no longer boast
+ 
+
+ He can thy work control.
+VI
+Oh! may thy hand be with us still.
+ 
+
+ Our guide and guardian be,
+ 
+
+ To keep us safe from every ill,
+ 
+
+ Till death shall set us free.
+VII
+Help us on thee to cast our care,
+ 
+
+ And on thy word to rest;
+ 
+
+ That Isr’el’s God, who heareth pray’r
+ 
+
+ Will grant us our request.
+## 23 Waiting at Wisdom’s Gates
+By Newton
+Proverbs 8:34﻿–﻿35.
+I
+Ensnared too long my heart has been
+ 
+
+ In folly’s hurtful ways;
+ 
+
+ O may I now at length begin
+ 
+
+ To hear what Wisdom says!
+II
+’Tis Jesus, from the mercy-seat,
+ 
+
+ Invites me to his rest;
+ 
+
+ He calls poor sinners to his feet,
+ 
+
+ To make them truly blest.
+III
+Approach, my soul, to Wisdom’s gates
+ 
+
+ While it is call’d to-day;
+ 
+
+ No one who watches there and waits
+ 
+
+ Shall e’er be turn’d away.
+IV
+He will not let me seek in vain,
+ 
+
+ For all who trust his word
+ 
+
+ Shall everlasting life obtain,
+ 
+
+ And favour from the Lord.
+V
+Lord! I have hated thee too long,
+ 
+
+ And dared thee to thy face;
+ 
+
+ I’ve done my soul exceeding wrong
+ 
+
+ In slighting all thy grace.
+VI
+Now I would break my league with death,
+ 
+
+ And live to thee alone;
+ 
+
+ Oh! let thy Spirit’s seal of faith
+ 
+
+ Secure me for thine own.
+VII
+Let all the saints assembled here,
+ 
+
+ Yea, let all heaven rejoice,
+ 
+
+ That I begin with this new year
+ 
+
+ To make the Lord my choice.
+## 24 Asking the Way to Zion
+By Newton
+Jeremiah 1:5.
+I
+Zion, the city of our God,
+ 
+
+ How glorious is the place!
+ 
+
+ The Saviour there has his abode,
+ 
+
+ And sinners see his face!
+II
+Firm against every adverse shock
+ 
+
+ Its mighty bulwarks prove;
+ 
+
+ ’Tis built upon the living Rock,
+ 
+
+ And wall’d around with love.
+III
+There all the fruits of glory grow,
+ 
+
+ And joys that never die;
+ 
+
+ And streams of grace and knowledge flow,
+ 
+
+ The soul to satisfy.
+IV
+Come, set your faces Zion-ward,
+ 
+
+ The sacred road enquire;
+ 
+
+ And let a union to the Lord
+ 
+
+ Be henceforth your desire.
+V
+The gospel shines to give you light;
+ 
+
+ No longer, then, delay;
+ 
+
+ The Spirit waits to guide you right,
+ 
+
+ And Jesus is the way.
+VI
+O Lord, regard thy people’s prayer,
+ 
+
+ Thy promise now fulfill;
+ 
+
+ And young and old by grace prepare
+ 
+
+ To dwell on Zion’s hill.
+## 25 We Were Pharaoh’s Bondmen
+By Newton
+Deuteronomy 6:20﻿–﻿23.
+I
+Beneath the tyrant Satan’s yoke
+ 
+
+ Our souls were long opprest,
+ 
+
+ Till grace our galling fetters broke,
+ 
+
+ And gave the weary rest.
+II
+Jesus, in that important hour,
+ 
+
+ His mighty arm made known;
+ 
+
+ He ransom’d us by price and power,
+ 
+
+ And claim’d us for his own.
+III
+Now, freed from bondage, sin, and death,
+ 
+
+ We walk in wisdom’s ways;
+ 
+
+ And wish to spend our every breath
+ 
+
+ In wonder, love, and praise.
+IV
+Ere long, we hope with Him to dwell
+ 
+
+ In yonder world above;
+ 
+
+ And now we only live to tell
+ 
+
+ The riches of his love.
+V
+O might we, ere we hence remove,
+ 
+
+ Prevail upon our youth
+ 
+
+ To seek, that they may likewise prove
+ 
+
+ His mercy and his truth!
+VI
+Like Simeon, we shall gladly go,
+ 
+
+ When Jesus calls us home;
+ 
+
+ If they are left a seed below,
+ 
+
+ To serve him in our room.
+VII
+Lord, hear our prayer, indulge our hope.
+ 
+
+ On these thy Spirit pour,
+ 
+
+ That they may take our story up,
+ 
+
+ When we can speak no more.
+## 26 Travailing in Birth for Souls
+By Newton
+Galatians 4:19.
+I
+What contradictions meet
+ 
+
+ In ministers’ employ!
+ 
+
+ It is a bitter sweet,
+ 
+
+ A sorrow full of joy:
+ 
+
+ No other post affords a place
+ 
+
+ For equal honour or disgrace!
+II
+Who can describe the pain
+ 
+
+ Which faithful preachers feel,
+ 
+
+ Constrain’d to speak in vain
+ 
+
+ To hearts as hard as steel?
+ 
+
+ Or who can tell the pleasures felt
+ 
+
+ When stubborn hearts begin to melt!
+III
+The Saviour’s dying love,
+ 
+
+ The soul’s amazing worth,
+ 
+
+ Their utmost efforts move,
+ 
+
+ And draw their bowels forth:
+ 
+
+ They pray and strive, their rest departs,
+ 
+
+ Till Christ be form’d in sinners’ hearts.
+IV
+If some small hope appear,
+ 
+
+ They still are not content;
+ 
+
+ But, with a jealous fear,
+ 
+
+ They watch for the event:
+ 
+
+ Too oft they find their hopes deceived,
+ 
+
+ Then how their inmost souls are grieved!
+V
+But when their pains succeed,
+ 
+
+ And from the tender blade
+ 
+
+ The ripening ears proceed,
+ 
+
+ Their toils are overpaid:
+ 
+
+ No harvest joy can equal theirs,
+ 
+
+ To find the fruit of all their cares.
+VI
+On what has now been sown,
+ 
+
+ Thy blessing, Lord, bestow;
+ 
+
+ The power is thine alone,
+ 
+
+ To make it spring and grow:
+ 
+
+ Do thou the gracious harvest raise,
+ 
+
+ And thou alone shalt have the praise.
+## 27 We Are Ambassadors for Christ
+By Newton
+2 Corinthians 5:20.
+I
+Thy message by the preacher seal,
+ 
+
+ And let thy power be known,
+ 
+
+ That every sinner here may feel
+ 
+
+ The word is not his own.
+II
+Amongst the foremost of the throng
+ 
+
+ Who dare thee to thy face,
+ 
+
+ He in rebellion stood too long,
+ 
+
+ And fought against thy grace.
+III
+But grace prevail’d, he mercy found,
+ 
+
+ And now by thee is sent,
+ 
+
+ To tell his fellow-rebels round,
+ 
+
+ And call them to repent.
+IV
+In Jesus God is reconciled,
+ 
+
+ The worst may be forgiven;
+ 
+
+ Come, and he’ll own you as a child,
+ 
+
+ And make you heir of heaven.
+V
+O may the word of gospel truth
+ 
+
+ Your chief desires engage!
+ 
+
+ And Jesus be your guide in youth,
+ 
+
+ Your joy in hoary age.
+VI
+Perhaps the year that’s now begun
+ 
+
+ May prove to some their last;
+ 
+
+ The sands of life may soon be run,
+ 
+
+ The day of grace be past.
+VII
+Think, if you slight this embassy,
+ 
+
+ And will not warning take,
+ 
+
+ When Jesus in the clouds you see,
+ 
+
+ What answer will you make?
+## 28 Paul’s Farewell Charge
+By Newton
+Acts 20:26﻿–﻿27.
+I
+When Paul was parted from his friends
+ 
+
+ It was a weeping day;
+ 
+
+ But Jesus made them all amends,
+ 
+
+ And wiped their tears away.
+II
+Ere long they met again with joy
+ 
+
+ (Secure, no more to part,)
+ 
+
+ Where praises every tongue employ,
+ 
+
+ And pleasure fills each heart.
+III
+Thus all the preachers of His grace
+ 
+
+ Their children soon shall meet,
+ 
+
+ Together see their Saviour’s face,
+ 
+
+ And worship at his feet.
+IV
+But they who heard the word in vain,
+ 
+
+ Though oft and plainly warn’d,
+ 
+
+ Will tremble when they meet again
+ 
+
+ The ministers they scorn’d.
+V
+On your own heads your blood will fall
+ 
+
+ If any perish here;
+ 
+
+ The preachers who have told you all
+ 
+
+ Shall stand approved and clear.
+VI
+Yet, Lord, to save themselves alone
+ 
+
+ Is not their utmost view;
+ 
+
+ Oh! hear their prayer, thy message own,
+ 
+
+ And save their hearers too.
+## 29 How Shall I Put Thee Among the Children?
+By Newton
+Jeremiah 3:19.
+I
+Alas! by nature how depraved,
+ 
+
+ How prone to every ill!
+ 
+
+ Our lives to Satan how enslaved,
+ 
+
+ How obstinate our will!
+II
+And can such sinners be restored,
+ 
+
+ Such rebels reconciled?
+ 
+
+ Can grace itself the means afford
+ 
+
+ To make a foe a child?
+III
+Yes, grace has found the wondrous means
+ 
+
+ Which shall effectual prove,
+ 
+
+ To cleanse us from our countless sins,
+ 
+
+ And teach our hearts to love.
+IV
+Jesus for sinners undertakes,
+ 
+
+ And died that we may live;
+ 
+
+ His blood a full atonement makes,
+ 
+
+ And cries aloud, “Forgive!”
+V
+Yet one thing more must grace provide,
+ 
+
+ To bring us home to God,
+ 
+
+ Or we shall slight the Lord who died,
+ 
+
+ And trample on his blood.
+VI
+The Holy Spirit must reveal
+ 
+
+ The Saviour’s work and worth;
+ 
+
+ Then the hard heart begins to feel
+ 
+
+ A new and heav’nly birth.
+VII
+Thus bought with blood and born again,
+ 
+
+ Redeem’d and saved by grace,
+ 
+
+ Rebels in God’s own house obtain
+ 
+
+ A son’s and daughter’s place.
+## 30 Winter.19
+By Newton
+I
+See, how rude Winter’s icy hand
+ 
+
+ Has stripp’d the trees and seal’d the ground!
+ 
+
+ But Spring shall soon his rage withstand,
+ 
+
+ And spread new beauties all around.
+II
+My soul a sharper winter mourns,
+ 
+
+ Barren and fruitless I remain;
+ 
+
+ When will the gentle spring return,
+ 
+
+ And bid my graces grow again?
+III
+Jesus, my glorious sun, arise!
+ 
+
+ ’Tis thine the frozen heart to move;
+ 
+
+ Oh! hush these storms and clear my skies.
+ 
+
+ And let me feel thy vital love!
+IV
+Dear Lord, regard my feeble cry,
+ 
+
+ I faint and droop till thou appear;
+ 
+
+ Wilt thou permit thy plant to die?
+ 
+
+ Must it be winter all the year.
+V
+Be still, my soul, and wait his hour
+ 
+
+ With humble pray’r and patient faith;
+ 
+
+ Till he reveals his gracious power,
+ 
+
+ Repose on what his promise saith.
+VI
+He, by whose all-commanding word
+ 
+
+ Seasons their changing course maintain,
+ 
+
+ In every change a pledge affords,
+ 
+
+ That none shall seek his face in vain.
+## 31 Waiting for Spring
+By Newton
+I
+Though cloudy skies and northern blasts
+ 
+
+ Retard the gentle spring awhile,
+ 
+
+ The sun will conq’ror prove at last,
+ 
+
+ And nature wear a vernal smile.
+II
+The promise which from age to age
+ 
+
+ Has brought the changing seasons round,
+ 
+
+ Again shall calm the winter’s rage,
+ 
+
+ Perfume the air and paint the ground.
+III
+The virtue of that first command,
+ 
+
+ I know still does and will prevail,
+ 
+
+ That while the earth itself shall stand,
+ 
+
+ The spring and summer shall not fail.
+IV
+Such changes are for us decreed;
+ 
+
+ Believers have their winters too;
+ 
+
+ But spring shall certainly succeed,
+ 
+
+ And all their former life renew.
+V
+Winter and spring have each their use,
+ 
+
+ And each in turn his people know;
+ 
+
+ One kills the weeds their hearts produce,
+ 
+
+ The other makes their graces grow.
+VI
+Though like dead trees awhile they seem,
+ 
+
+ Yet, having life within their root,
+ 
+
+ The welcome spring’s reviving beam
+ 
+
+ Draws forth their blossoms, leaves, and fruit.
+VII
+But if the tree indeed be dead,
+ 
+
+ It feels no change though spring return;
+ 
+
+ Its leafless, naked, barren head,
+ 
+
+ Proclaims it only fit to burn.
+VIII
+Dear Lord, afford our souls a spring,
+ 
+
+ Thou know’st our winter has been long:
+ 
+
+ Shine forth, and warm our hearts to sing,
+ 
+
+ And thy rich grace shall be our song.
+## 32 Spring
+By Newton
+I
+Bleak winter is subdued at length,
+ 
+
+ And forced to yield the day;
+ 
+
+ The sun has wasted all his strength,
+ 
+
+ And driven him away.
+II
+And now long-wish’d-for spring is come,
+ 
+
+ How alter’d is the scene!
+ 
+
+ The trees and shrubs are dress’d in bloom.
+ 
+
+ The earth array’d in green.
+III
+Where’er we tread, beneath our feet
+ 
+
+ The clust’ring flowers spring;
+ 
+
+ The artless birds in concerts sweet,
+ 
+
+ Invite our hearts to sing.
+IV
+But ah! in vain I strive to join,
+ 
+
+ Oppress’d with sin and doubt;
+ 
+
+ I feel ’tis winter still within,
+ 
+
+ Though all is spring without.
+V
+Oh! would my Saviour from on high
+ 
+
+ Break through these clouds and shine!
+ 
+
+ No creature then more bless’d than I,
+ 
+
+ No song more loud than mine.
+VI
+Till then no softly warbling thrush,
+ 
+
+ Nor cowslip’s sweet perfume,
+ 
+
+ Nor beauties of each painted bush,
+ 
+
+ Can dissipate my gloom.
+VII
+To Adam, soon as he transgress’d,
+ 
+
+ Thus Eden bloom’d in vain:
+ 
+
+ Not Paradise could give him rest,
+ 
+
+ Or sooth his heart-felt pain.
+VIII
+Yet here an emblem I perceive
+ 
+
+ Of what the Lord can do:
+ 
+
+ Dear Saviour, help me to believe,
+ 
+
+ That I may nourish too.
+IX
+Thy word can soon my hopes revive,
+ 
+
+ Can overcome my foes,
+ 
+
+ And make my languid graces thrive
+ 
+
+ And blossom like the rose.
+## 33 Another
+By Newton
+I
+Pleasing spring again is here;
+ 
+
+ Trees and fields in bloom appear:
+ 
+
+ Hark! the birds with artless lays,
+ 
+
+ Warble their Creator’s praise!
+ 
+
+ Where, in winter, all was snow,
+ 
+
+ Now the flow’rs in clusters grow,
+ 
+
+ And the corn, in green array,
+ 
+
+ Promises a harvest-day.
+II
+What a change has taken place!
+ 
+
+ Emblem of the spring of grace;
+ 
+
+ How the soul in winter mourns
+ 
+
+ Till the Lord, the Sun, returns﻿—
+ 
+
+ Till the Spirit’s gentle rain
+ 
+
+ Bids the heart revive again;
+ 
+
+ Then the stone is turn’d to flesh,
+ 
+
+ And each grace springs forth afresh.
+III
+Lord, afford a spring to me!
+ 
+
+ Let me feel like what I see;
+ 
+
+ Ah! my winter has been long,
+ 
+
+ Chill’d my hopes and stopp’d my song!
+ 
+
+ Winter threaten’d to destroy
+ 
+
+ Faith and love and every joy;
+ 
+
+ If thy life was in the root,
+ 
+
+ Still I could not yield the fruit.
+IV
+Speak, and by thy gracious voice
+ 
+
+ Make my drooping soul rejoice;
+ 
+
+ O beloved Saviour haste,
+ 
+
+ Tell me all the storms are past!
+ 
+
+ On thy garden deign to smile,
+ 
+
+ Raise the plants, enrich the soil
+ 
+
+ Soon thy presence will restore
+ 
+
+ Life to what seem’d dead before.
+V
+Lord, I long to be at home,
+ 
+
+ Where these changes never come,
+ 
+
+ Where the saints no winter fear,
+ 
+
+ Where ’tis spring throughout the year:
+ 
+
+ How unlike this state below!
+ 
+
+ There the flow’rs unwith’ring blow;
+ 
+
+ There no chilling blasts annoy;
+ 
+
+ All is love and bloom and joy.
+## 34 Summer Storms.20
+By Newton
+I
+Though the morn may be serene﻿—
+ 
+
+ Not a threat’ning cloud be seen,
+ 
+
+ Who can undertake to say
+ 
+
+ ’Twill be pleasant all the day?
+ 
+
+ Tempests suddenly may rise,
+ 
+
+ Darkness overspread the skies,
+ 
+
+ Lightnings flash and thunders roar,
+ 
+
+ Ere a short-lived day be o’er.
+II
+Often thus the child of grace
+ 
+
+ Enters on his Christian race;
+ 
+
+ Guilt and fear are overborne,
+ 
+
+ ’Tis with him a summer’s morn:
+ 
+
+ While his new-felt joys abound,
+ 
+
+ All things seem to smile around;
+ 
+
+ And he hopes it will be fair
+ 
+
+ All the day and all the year.
+III
+Should we warn him of a change
+ 
+
+ He would think the caution strange;
+ 
+
+ He no change or trouble fears
+ 
+
+ Till the gath’ring storm appears;21
+ 
+
+ Till dark clouds his sun conceal,
+ 
+
+ Till temptation’s power he feel;
+ 
+
+ Then he trembles and looks pale,
+ 
+
+ All his hopes and courage fail.
+IV
+But the wonder-working Lord
+ 
+
+ Soothes the tempest by his word;
+ 
+
+ Stills the thunder, stops the rain,
+ 
+
+ And his sun breaks forth again:
+ 
+
+ Soon the cloud again returns,
+ 
+
+ Now he joys, and now he mourns;
+ 
+
+ Oft his sky is overcast
+ 
+
+ Ere the day of life be past.
+V
+Tried believers too can say,
+ 
+
+ In the course of one short day,
+ 
+
+ Though the morning has been fair,
+ 
+
+ Proved a golden hour of pray’r,
+ 
+
+ Sin and Satan, long ere night,
+ 
+
+ Have their comforts put to flight;
+ 
+
+ Ah! what heart-felt peace and joy
+ 
+
+ Unexpected storms destroy!
+VI
+Dearest Saviour, call us soon
+ 
+
+ To thy high eternal noon;
+ 
+
+ Never there shall tempest rise,
+ 
+
+ To conceal thee from our eyes:
+ 
+
+ Satan shall no more deceive,
+ 
+
+ We no more thy Spirit grieve;
+ 
+
+ But, through cloudless, endless days,
+ 
+
+ Sound to golden harps thy praise.
+## 35 Hay-Time
+By Newton
+I
+The grass and flow’rs which clothe the field,
+ 
+
+ And look so green and gay,
+ 
+
+ Touch’d by the scythe, defenceless yield,
+ 
+
+ And fall and fade away.
+II
+Fit emblem of our mortal state!
+ 
+
+ Thus, in the Scripture glass,
+ 
+
+ The young, the strong, the wise, the great,
+ 
+
+ May see themselves but grass,
+III
+Ah! trust not to your fleeting breath,
+ 
+
+ Nor call your time your own;
+ 
+
+ Around you see the scythe of death
+ 
+
+ Is mowing thousands down.
+IV
+And you, who hitherto are spared,
+ 
+
+ Must shortly yield your lives;
+ 
+
+ Your wisdom is to be prepared
+ 
+
+ Before the stroke arrives.
+V
+The grass, when dead, revives no more;
+ 
+
+ You die to live again;
+ 
+
+ But oh! if death should prove the door
+ 
+
+ To everlasting pain!
+VI
+Lord, help us to obey thy call,
+ 
+
+ That from our sins set free,
+ 
+
+ When, like the grass, our bodies fall,
+ 
+
+ Our souls may spring to thee.
+## 36 Harvest
+By Newton
+I
+See the corn again in ear!
+ 
+
+ How the fields and valleys smile!
+ 
+
+ Harvest now is drawing near,
+ 
+
+ To repay the farmer’s toil.
+ 
+
+ Gracious Lord, secure the crop,
+ 
+
+ Satisfy the poor with food:
+ 
+
+ In thy mercy is our hope;
+ 
+
+ We have sinn’d, but thou art good.
+II
+While I view the plenteous grain,
+ 
+
+ As it ripens on the stalk,
+ 
+
+ May I not instruction gain
+ 
+
+ Helpful to my daily walk?
+ 
+
+ All this plenty of the field
+ 
+
+ Was produced from foreign seeds:
+ 
+
+ For the earth itself would yield
+ 
+
+ Only crops of useless weeds.
+III
+Though when newly sown it lay
+ 
+
+ Hid awhile beneath the ground,
+ 
+
+ (Some might think it thrown away,)
+ 
+
+ Now a large increase is found;
+ 
+
+ Though conceal’d, it was not lost;
+ 
+
+ Though it died, it lives again;
+ 
+
+ Eastern storms and nipping frosts
+ 
+
+ Have opposed its growth in vain.
+IV
+Let the praise be all the Lord’s,
+ 
+
+ As the benefit is ours.
+ 
+
+ He in season still affords
+ 
+
+ Kindly heat and gentle showers.
+ 
+
+ By his care the produce thrives,
+ 
+
+ Waving o’er the furrow’d lands;
+ 
+
+ And when harvest-time arrives,
+ 
+
+ Ready for the reaper stands.
+V
+Thus in barren hearts he sows
+ 
+
+ Precious seeds of heav’nly joy;
+ 
+
+ Sin and hell in vain oppose,
+ 
+
+ None can grace’s crop destroy:
+ 
+
+ Threatened oft, yet still it blooms,
+ 
+
+ After many changes past;
+ 
+
+ Death the reaper, when he comes,
+ 
+
+ Finds it fully ripe at last.
+#### Christmas
+## 37 Praise for the Incarnation
+By Newton
+I
+Sweeter sounds than music knows
+ 
+
+ Charm me in Emmanuel’s name;
+ 
+
+ All her hopes my spirit owes
+ 
+
+ To his birth and cross and shame.
+II
+When he came the angels sung﻿—
+ 
+
+ “Glory be to God on high!”
+ 
+
+ Lord, unloose my stamm’ring tongue,
+ 
+
+ Who should louder sing than I?
+III
+Did the Lord a man become,
+ 
+
+ That he might the law fulfill,
+ 
+
+ Bleed and suffer in my room,
+ 
+
+ And canst thou, my tongue, be still?
+IV
+No, I must my praises bring,
+ 
+
+ Though they worthless are and weak;
+ 
+
+ For should I refuse to sing,
+ 
+
+ Sure the very stones would speak.
+V
+O my Saviour, Shield, and Sun,
+ 
+
+ Shepherd, Brother, Husband, Friend,
+ 
+
+ Every precious name in one,
+ 
+
+ I will love thee without end.
+## 38 Jehovah-Jesus
+By Cowper
+I
+My song shall bless the Lord of all,
+ 
+
+ My praise shall climb to his abode.
+ 
+
+ Thee, Saviour, by that name I call﻿—
+ 
+
+ The great supreme, the mighty God.
+II
+Without beginning or decline,
+ 
+
+ Object of faith and not of sense﻿—
+ 
+
+ Eternal ages saw him shine,
+ 
+
+ He shines eternal ages hence.
+III
+As much, when in the manger laid,
+ 
+
+ Almighty Ruler of the sky,
+ 
+
+ As when the six days work he made
+ 
+
+ Fill’d all the morning-stars with joy.
+IV
+Of all the crowns Jehovah bears,
+ 
+
+ Salvation is his dearest claim:
+ 
+
+ That gracious sound well pleased he hears,
+ 
+
+ And owns Emmanuel for his name.
+V
+A cheerful confidence I feel,
+ 
+
+ My well-placed hopes with joy I see;
+ 
+
+ My bosom glows with heav’nly zeal
+ 
+
+ To worship Him who died for me.
+VI
+As man he pities my complaint,
+ 
+
+ His power and truth are all divine﻿—
+ 
+
+ He will not fail, he cannot faint,
+ 
+
+ Salvation’s sure, and must be mine.
+## 39 Man Honoured Above Angels
+By Newton
+I
+Now let us join with hearts and tongues,
+ 
+
+ And emulate the angels’ songs;
+ 
+
+ Yea, sinners may address their King
+ 
+
+ In songs that angels cannot sing.
+II
+They praise the Lamb who once was slain;
+ 
+
+ But we can add a higher strain﻿—
+ 
+
+ Not only say “He suffer’d thus,
+ 
+
+ But that “He suffer’d all for us.”
+III
+When angels by transgression fell,
+ 
+
+ Justice consign’d them all to hell;
+ 
+
+ But mercy form’d a wondrous plan,
+ 
+
+ To save and honour fallen man.
+IV
+Jesus, who pass’d the angels by,
+ 
+
+ Assumed our flesh to bleed and die;
+ 
+
+ And still he makes it his abode﻿—
+ 
+
+ As man he fills the throne of God.
+V
+Our next of kin, our Brother now,
+ 
+
+ Is he to whom the angels bow;
+ 
+
+ They join with us to praise his name,
+ 
+
+ But we the nearest int’rest claim.
+VI
+But ah! how faint our praises rise!
+ 
+
+ Sure, ’tis the wonder of the skies,
+ 
+
+ That we, who share his richest love,
+ 
+
+ So cold and unconcern’d should prove.
+VII
+Oh glorious hour! it comes with speed,
+ 
+
+ When we from sin and darkness freed,
+ 
+
+ Shall see the God who died for man,
+ 
+
+ And praise him more than angels can.
+## 40 Saturday Evening
+By Newton
+I
+Safely through another week
+ 
+
+ God has brought us on our way;
+ 
+
+ Let us now a blessing seek
+ 
+
+ On th’ approaching Sabbath-day:
+ 
+
+ Day of all the week the best,
+ 
+
+ Emblem of eternal rest.
+II
+Mercies multiplied each hour
+ 
+
+ Through the week our praise demand;
+ 
+
+ Guarded by Almighty power,
+ 
+
+ Fed and guided by his hand.
+ 
+
+ Though ungrateful we have been﻿—
+ 
+
+ Only made returns of sin.
+III
+While we pray for pard’ning grace,
+ 
+
+ Through the dear Redeemer’s name,
+ 
+
+ Show thy reconciled face,
+ 
+
+ Shine away our sin and shame.
+ 
+
+ From our worldly care set free,
+ 
+
+ May we rest this night with thee.
+IV
+When the morn shall bid us rise
+ 
+
+ May we feel thy presence near!
+ 
+
+ May thy glory meet our eyes
+ 
+
+ When we in thy house appear!
+ 
+
+ There afford us, Lord, a taste
+ 
+
+ Of our everlasting feast.
+V
+May thy gospel’s joyful sound
+ 
+
+ Conquer sinners﻿—comfort saints;
+ 
+
+ Make the fruits of grace abound,
+ 
+
+ Bring relief for all complaints.
+ 
+
+ Thus may all our Sabbaths prove
+ 
+
+ Till we join the church above!
+#### The Close of the Year
+## 41 Ebenezer
+By Newton
+1 Samuel 7:12.
+I
+The Lord, our salvation and light,
+ 
+
+ The guide and the strength of our days,
+ 
+
+ Has brought us together to-night,
+ 
+
+ A new Ebenezer to raise.
+ 
+
+ The year we have now passed through
+ 
+
+ His goodness with blessings has crown’d;
+ 
+
+ Each morning his mercies were new;
+ 
+
+ Then let our thanksgivings abound.
+II
+Encompass’d with dangers and snares,
+ 
+
+ Temptations and fears and complaints,
+ 
+
+ His ear he inclined to our prayers,
+ 
+
+ His hand open’d wide to our wants,
+ 
+
+ We never besought him in vain;
+ 
+
+ When burden’d with sorrow or sin,
+ 
+
+ He help’d us again and again,
+ 
+
+ Or where before now had we been?
+III
+His gospel throughout the long year,
+ 
+
+ From Sabbath to Sabbath he gave.
+ 
+
+ How oft has he met with us here,
+ 
+
+ And shown himself mighty to save!
+ 
+
+ His candlestick has been removed
+ 
+
+ From churches once privileged thus;
+ 
+
+ But though we unworthy have proved,
+ 
+
+ It still is continued to us.
+IV
+For so many mercies received,
+ 
+
+ Alas! what returns have we made?
+ 
+
+ His Spirit we often have grieved,
+ 
+
+ And evil for good have repaid.
+ 
+
+ How well it becomes us to cry﻿—
+ 
+
+ “Oh! who is a God like to thee?
+ 
+
+ Who passest iniquities by,
+ 
+
+ And plungest them deep in the sea!”
+V
+To Jesus, who sits on the throne,
+ 
+
+ Our best hallelujahs we bring.
+ 
+
+ To thee it is owing alone
+ 
+
+ That we are permitted to sing.
+ 
+
+ Assist us, we pray, to lament
+ 
+
+ The sins of the year that is past;
+ 
+
+ And grant that the next may be spent
+ 
+
+ Far more to thy praise than the last.
+## 42 Another
+By Newton
+I
+Let hearts and tongues unite,
+ 
+
+ And loud thanksgivings raise:
+ 
+
+ ’Tis duty, mingled with delight,
+ 
+
+ To sing the Saviour’s praise.
+II
+To him we owe our breath,
+ 
+
+ He took us from the womb,
+ 
+
+ Which else had shut us up in death,
+ 
+
+ And proved an early tomb.
+III
+When on the breast we hung
+ 
+
+ Our help was in the Lord.
+ 
+
+ ’Twas he first taught our infant tongue
+ 
+
+ To form the lisping word.
+IV
+When in our blood we lay,
+ 
+
+ He would not let us die,
+ 
+
+ Because his love had fix’d a day
+ 
+
+ To bring salvation nigh.
+V
+In childhood and in youth
+ 
+
+ His eye was on us still,
+ 
+
+ Though strangers to his love and truth,
+ 
+
+ And prone to cross his will.
+VI
+And since his name we knew,
+ 
+
+ How gracious has he been,
+ 
+
+ What dangers has he led us through,
+ 
+
+ What mercies have we seen!
+VII
+Now through another year,
+ 
+
+ Supported by his care,
+ 
+
+ We raise our Ebenezer here,
+ 
+
+ “The Lord has help’d thus far.”
+VIII
+Our lot in future years
+ 
+
+ Unable to foresee,
+ 
+
+ He kindly, to prevent our fears,
+ 
+
+ Says, “Leave it all to me.”
+IX
+Yea, Lord, we wish to cast
+ 
+
+ Our cares upon thy breast.
+ 
+
+ Help us to praise thee for the past,
+ 
+
+ And trust thee for the rest.
+## II Ordinances
+## 43 On Opening a Place for Social Prayer
+By Newton
+I
+O Lord, our languid souls inspire,
+ 
+
+ For here we trust thou art;
+ 
+
+ Send down a coal of heav’nly fire
+ 
+
+ To warm each waiting heart.
+II
+Dear Shepherd of thy people, hear;
+ 
+
+ Thy presence now display:
+ 
+
+ As thou hast given a place for pray’r,
+ 
+
+ So give us hearts to pray.
+III
+Show us some token of thy love,
+ 
+
+ Our fainting hope to raise;
+ 
+
+ And pour thy blessings from above,
+ 
+
+ That we may render praise.
+IV
+Within these walls let holy peace
+ 
+
+ And love and concord dwell;
+ 
+
+ Here give the troubled conscience ease,
+ 
+
+ The wounded spirit heal.
+V
+The feeling heart, the melting eye,
+ 
+
+ The humbled mind bestow;
+ 
+
+ And shine upon us from on high,
+ 
+
+ To make our graces grow!
+VI
+May we in faith receive thy word,
+ 
+
+ In faith present our pray’rs;
+ 
+
+ And in the presence of our Lord
+ 
+
+ Unbosom all our cares!
+VII
+And may the gospel’s joyful sound,
+ 
+
+ Enforced by mighty grace,
+ 
+
+ Awaken many sinners round
+ 
+
+ To come and fill the place!
+## 44 Another
+By Cowper
+I
+Jesus, where’er thy people meet,
+ 
+
+ There they behold thy mercy-seat;
+ 
+
+ Where’er they seek thee, thou art found,
+ 
+
+ And every place is hallow’d ground.
+II
+For thou, within no walls confined,
+ 
+
+ Inhabitest the humble mind;
+ 
+
+ Such ever bring thee where they come,
+ 
+
+ And going, take thee to their home.
+III
+Dear Shepherd of thy chosen few,
+ 
+
+ Thy former mercies here renew;
+ 
+
+ Here to our waiting hearts proclaim
+ 
+
+ The sweetness of thy saving name.
+IV
+Here may we prove the power of pray’r
+ 
+
+ To strengthen faith and sweeten care﻿—
+ 
+
+ To teach our faint desires to rise,
+ 
+
+ And bring all heaven before our eyes.
+V
+Behold, at thy commanding word,
+ 
+
+ We stretch the curtain and the cord;
+ 
+
+ Come thou, and fill this wider space,
+ 
+
+ And bless us with a large increase.
+VI
+Lord, we are few, but thou art near;
+ 
+
+ Nor short thine arm, nor deaf thine ear;
+ 
+
+ O rend the heavens, come quickly down,
+ 
+
+ And make a thousand hearts thine own!
+## 45 The Lord’s Day
+By Newton
+I
+How welcome to the saints, when press’d
+ 
+
+ With six days’ noise and care and toil,
+ 
+
+ Is the returning day of rest,
+ 
+
+ Which hides them from the world awhile!
+II
+Now from the throng withdrawn away,
+ 
+
+ They seem to breathe a diff’rent air;
+ 
+
+ Composed and soften’d by the day,
+ 
+
+ All things another aspect wear.
+III
+How happy if their lot is cast
+ 
+
+ Where statedly the gospel sounds!
+ 
+
+ The word is honey to their taste,
+ 
+
+ Renews their strength, and heals their wounds!
+IV
+Though pinch’d with poverty at home,
+ 
+
+ With sharp afflictions daily fed,
+ 
+
+ It makes amends, if they can come
+ 
+
+ To God’s own house for heav’nly bread!
+V
+With joy they hasten to the place
+ 
+
+ Where they their Saviour oft have met;
+ 
+
+ And while they feast upon his grace,
+ 
+
+ Their burdens and their griefs forget.
+VI
+This favour’d lot, my friends, is ours;
+ 
+
+ May we the privilege improve,
+ 
+
+ And find these consecrated hours
+ 
+
+ Sweet earnest of the joys above.
+VII
+We thank thee for thy day, O Lord!
+ 
+
+ Here we thy promised presence seek;
+ 
+
+ Open thine hand, with blessings stored,
+ 
+
+ And give us manna for the week.
+## 46 Gospel Privileges
+By Newton
+I
+O Happy they who know the Lord,
+ 
+
+ With whom he deigns to dwell!
+ 
+
+ He feels and cheers them by his word,
+ 
+
+ His arm supports them well.
+II
+To them, in each distressing hour,
+ 
+
+ His throne of grace is near;
+ 
+
+ And when they plead his love and power,
+ 
+
+ He stands engaged to hear.
+III
+He help’d his saints in ancient days,
+ 
+
+ Who trusted in his name;
+ 
+
+ And we can witness, to his praise,
+ 
+
+ His love is still the same.
+IV
+Wand’ring in sin, our souls he found,
+ 
+
+ And bade us seek his face;
+ 
+
+ Gave us to hear the gospel sound,
+ 
+
+ And taste the gospel grace.
+V
+Oft in his house his glory shines
+ 
+
+ Before our wond’ring eyes;
+ 
+
+ We wish not then for golden mines,
+ 
+
+ Or aught beneath the skies.
+VI
+His presence sweetens all our cares,
+ 
+
+ And makes our burdens light;
+ 
+
+ A word from him dispels our fears,
+ 
+
+ And gilds the gloom of night.
+VII
+Lord, we expect to suffer here,
+ 
+
+ Nor would we dare repine;
+ 
+
+ But give us still to find thee near,
+ 
+
+ And own us still for thine.
+VIII
+Let us enjoy and highly prize
+ 
+
+ These tokens of thy love
+ 
+
+ Till thou shalt bid our spirits rise
+ 
+
+ To worship thee above.
+## 47 Another
+By Newton
+I
+Happy are they to whom the Lord
+ 
+
+ His gracious name makes known,
+ 
+
+ And by his Spirit and his word
+ 
+
+ Adopts them for his own!
+II
+He calls them to his mercy-seat,
+ 
+
+ And hears their humble pray’r;
+ 
+
+ And when within his house they meet,
+ 
+
+ They find his presence near.
+III
+The force of their united cries
+ 
+
+ No power can long withstand;
+ 
+
+ For Jesus helps them from the skies
+ 
+
+ By his almighty hand.
+IV
+Then mountains sink at once to plains,
+ 
+
+ And light from darkness springs,
+ 
+
+ Each seeming loss improves their gains,
+ 
+
+ Each trouble comfort brings.
+V
+Though men despise them, or revile,
+ 
+
+ They count the trial small;
+ 
+
+ Whoever frowns, if Jesus smile,
+ 
+
+ It makes amends for all.
+VI
+Though meanly clad, and coarsely fed,
+ 
+
+ And, like their Saviour, poor,
+ 
+
+ They would not change their gospel-bread
+ 
+
+ For all the worldling’s store.
+VII
+When cheer’d with faith’s sublimer joys,
+ 
+
+ They mount on eagles’ wings;
+ 
+
+ They can disdain, as children’s toys,
+ 
+
+ The pride and pomp of kings.
+VIII
+Dear Lord, assist our souls to pay
+ 
+
+ The debt of praise we owe,
+ 
+
+ That we enjoy a gospel-day
+ 
+
+ And heaven begun below.
+## 48 Prayer for the Continuance of the Gospel.22
+By Newton
+I
+Once, while we aim’d at Zion’s songs,
+ 
+
+ A sudden mourning check’d our tongues!
+ 
+
+ Then we were called to sow in tears
+ 
+
+ The seeds of joy for future years.
+II
+Oft as that memorable hour
+ 
+
+ The changing year brings round again,
+ 
+
+ We meet to praise the love and power
+ 
+
+ Which heard our cries and eased our pain.
+III
+Come, ye who trembled for the ark,
+ 
+
+ Unite in praise for answer’d prayer;
+ 
+
+ Did not the Lord our sorrows mark?
+ 
+
+ Did not our sighing reach his ear?
+IV
+Then smaller griefs were laid aside,
+ 
+
+ And all our cares summ’d up in one;
+ 
+
+ “Let us but have thy word,” we cried,
+ 
+
+ “In other things thy will be done.”
+V
+Since he has granted our request,
+ 
+
+ And we still hear the gospel voice;
+ 
+
+ Although by many trials press’d,
+ 
+
+ In this we can and will rejoice.
+VI
+Though to our lot temptations fall,
+ 
+
+ Though pain and want and cares annoy;
+ 
+
+ The precious gospel sweetens all,
+ 
+
+ And yields us med’cine, food, and joy.
+## 49 A Famine of the Word
+By Newton
+I
+Gladness was spread through Isr’el’s host
+ 
+
+ When first they manna view’d;
+ 
+
+ They labour’d who should gather most,
+ 
+
+ And thought it pleasant food.
+II
+But when they had it long enjoy’d,
+ 
+
+ From day to day the same,
+ 
+
+ Their hearts were by the plenty cloy’d,
+ 
+
+ Although from heav’n it came.
+III
+Thus gospel-bread at first is prized,
+ 
+
+ And makes a people glad;
+ 
+
+ But afterwards too much despised
+ 
+
+ When easy to be had.
+IV
+But should the Lord, displeased, withhold
+ 
+
+ The bread his mercy sends,
+ 
+
+ To have our houses fill’d with gold
+ 
+
+ Would make but poor amends.
+V
+How tedious would the week appear,
+ 
+
+ How dull the Sabbath prove,
+ 
+
+ Could we no longer meet to hear
+ 
+
+ The precious truths we love!
+VI
+How would believing parents bear
+ 
+
+ To leave their heedless youth
+ 
+
+ Exposed to every fatal snare,
+ 
+
+ Without the light of truth?
+VII
+The gospel, and a praying few,
+ 
+
+ Our bulwark long have proved;
+ 
+
+ But Olney sure the day will rue
+ 
+
+ When these shall be removed.
+VIII
+Then sin, in this once favour’d town,
+ 
+
+ Will triumph unrestrain’d;
+ 
+
+ And wrath and vengeance hasten down,
+ 
+
+ No more by pray’r detain’d.
+IX
+Preserve us from this judgment, Lord,
+ 
+
+ For Jesus’ sake, we plead;
+ 
+
+ A famine of the gospel-word
+ 
+
+ Would be a stroke indeed!
+## 50 Prayer for Ministers
+By Newton
+I
+Chief Shepherd of thy chosen sheep,
+ 
+
+ From death and sin set free;
+ 
+
+ May every under shepherd keep
+ 
+
+ His eye intent on thee!
+II
+With plenteous grace their hearts prepare
+ 
+
+ To execute thy will﻿—
+ 
+
+ Compassion, patience, love, and care,
+ 
+
+ And faithfulness and skill.
+III
+Inflame their minds with holy zeal
+ 
+
+ Their flocks to feed and teach;
+ 
+
+ And let them live, and let them feel
+ 
+
+ The sacred truths they preach.
+IV
+Oh, never let the sheep complain,
+ 
+
+ That toys, which fools amuse,
+ 
+
+ Ambition, pleasure, praise, or gain,
+ 
+
+ Debase the shepherd’s views.
+V
+He that for these forbears to feed
+ 
+
+ The souls whom Jesus loves,
+ 
+
+ Whate’er he may profess, or plead,
+ 
+
+ An idle shepherd proves.
+VI
+The sword of God shall break his arm,
+ 
+
+ A blast shall blind his eye;
+ 
+
+ His word shall have no power to warm,
+ 
+
+ His gifts shall all grow dry.
+VII
+Lord, avert this heavy woe!
+ 
+
+ Let all thy shepherds say;
+ 
+
+ And grace and strength on each bestow,
+ 
+
+ To labour while ’tis day.
+## 51 Prayer for a Revival
+By Newton
+I
+Saviour, visit thy plantation,
+ 
+
+ Grant us, Lord, a gracious rain!
+ 
+
+ All will come to desolation
+ 
+
+ Unless thou return again:
+ 
+
+ Keep no longer at a distance,
+ 
+
+ Shine upon us from on high,
+ 
+
+ Lest, for want of thine assistance,
+ 
+
+ Every plant should droop and die.
+II
+Surely once thy garden flourish’d,
+ 
+
+ Every part look’d gay and green;
+ 
+
+ Then thy word our spirits nourish’d,
+ 
+
+ Happy seasons we have seen!
+ 
+
+ But a drought has since succeeded,
+ 
+
+ And a sad decline we see;
+ 
+
+ Lord thy help is greatly needed,
+ 
+
+ Help can only come from thee.
+III
+Where are those We counted leaders,
+ 
+
+ Fill’d with zeal and love and truth?
+ 
+
+ Old professors, tall as cedars,
+ 
+
+ Bright examples to our youth?
+ 
+
+ Some, in whom we once delighted,
+ 
+
+ We shall meet no more below;
+ 
+
+ Some, alas! we fear are blighted﻿—
+ 
+
+ Scarce a single leaf they show.
+IV
+Younger plants﻿—the sight how pleasant﻿—
+ 
+
+ Cover’d thick with blossoms stood;
+ 
+
+ But they cause us grief at present﻿—
+ 
+
+ Frosts have nipp’d them in the bud!
+ 
+
+ Dearest Saviour, hasten hither,
+ 
+
+ Thou canst make them bloom again;
+ 
+
+ Oh permit them not to wither,
+ 
+
+ Let not all our hopes be vain!
+V
+Let our mutual love be fervent,
+ 
+
+ Make us prevalent in pray’rs:
+ 
+
+ Let each one esteem’d thy servant
+ 
+
+ Shun the world’s bewitching snares;
+ 
+
+ Break the tempter’s fatal power,
+ 
+
+ Turn the stony heart to flesh:
+ 
+
+ And begin, from this good hour,
+ 
+
+ To revive thy work afresh.
+## 52 Hoping for a Revival
+By Newton
+I
+My harp untuned, and laid aside,
+ 
+
+ (To cheerful hours the harp belongs,)
+ 
+
+ My cruel foes insulting cried,
+ 
+
+ “Come, sing us one of Zion’s songs.”
+II
+Alas! when sinners, blindly bold,
+ 
+
+ At Zion scoff, and Zion’s King;
+ 
+
+ When zeal declines, and love grows cold,
+ 
+
+ Is this a day for me to sing?
+III
+Time was, whene’er the saints I met,
+ 
+
+ With joy and praise my bosom glow’d!
+ 
+
+ But now, like Eli, sad I sit,
+ 
+
+ And tremble for the ark of God.
+IV
+While thus to grief my soul gave way
+ 
+
+ To see the work of God decline,
+ 
+
+ Methought I heard my Saviour say,
+ 
+
+ “Dismiss thy fears﻿—the ark is mine.
+V
+“Though for a time I hide my face,
+ 
+
+ Rely upon my love and power;
+ 
+
+ Still wrestle at a throne of grace,
+ 
+
+ And wait for a reviving hour.
+VI
+“Take down thy long-neglected harp;
+ 
+
+ I’ve seen thy tears, and heard thy pray’r;
+ 
+
+ The winter season has been sharp,
+ 
+
+ But spring shall all its wastes repair.”
+VII
+Lord, I obey; my hopes revive;
+ 
+
+ Come join with me, ye saints, and sing;
+ 
+
+ Our foes in vain against us strive,
+ 
+
+ For God will help and healing bring.
+#### Sacramental Hymns
+## 53 Welcome to the Table
+By Cowper
+I
+This is the feast of heav’nly wine,
+ 
+
+ And God invites to sup;
+ 
+
+ The juices of the living vine
+ 
+
+ Were press’d to fill the cup.
+II
+O bless the Saviour, ye that eat,
+ 
+
+ With royal dainties fed;
+ 
+
+ Not heaven affords a costlier treat,
+ 
+
+ For Jesus is the bread.
+III
+The vile, the lost, he calls to them,
+ 
+
+ Ye trembling souls, appear!
+ 
+
+ The righteous in their own esteem
+ 
+
+ Have no acceptance here.
+IV
+Approach, ye poor, nor dare refuse
+ 
+
+ The banquet spread for you:
+ 
+
+ Dear Saviour, this is welcome news,
+ 
+
+ Then I may venture too.
+V
+If guilt and sin afford a plea,
+ 
+
+ And may obtain a place,
+ 
+
+ Surely the Lord will welcome me.
+ 
+
+ And I shall see his face.
+## 54 Christ Crucified
+By Newton
+I
+When on the cross my Lord I see,
+ 
+
+ Bleeding to death for wretched me,
+ 
+
+ Satan and sin no more can move,
+ 
+
+ For I am all transform’d to love.
+II
+His thorns and nails pierce through my heart,
+ 
+
+ In every groan I bear a part;
+ 
+
+ I view his wounds with streaming eyes:
+ 
+
+ But see! he bows his head and dies!
+III
+Come, sinners, view the Lamb of God,
+ 
+
+ Wounded and dead and bathed in blood!
+ 
+
+ Behold his side, and venture near,
+ 
+
+ The well of endless life is here.
+IV
+Here I forget my cares and pains,
+ 
+
+ I drink﻿—yet still my thirst remains;
+ 
+
+ Only the fountain-head above
+ 
+
+ Can satisfy the thirst of love.
+V
+Oh that I thus could always feel!
+ 
+
+ Lord, more and more thy love reveal!
+ 
+
+ Then my glad tongue shall loud proclaim
+ 
+
+ The grace and glory of thy name.
+VI
+Thy name dispels my guilt and fear,
+ 
+
+ Revives my heart, and charms my ear,
+ 
+
+ Affords a balm for every wound,
+ 
+
+ And Satan trembles at the sound.
+## 55 Jesus Hasting to Suffer
+By Cowper
+I
+The Saviour, what a noble flame
+ 
+
+ Was kindled in his breast,
+ 
+
+ When, hasting to Jerusalem,
+ 
+
+ He march’d before the rest!
+II
+Good-will to men, and zeal for God,
+ 
+
+ His every thought engross;
+ 
+
+ He longs to be baptized with blood,
+ 
+
+ He pants to reach the cross.
+III
+With all his suff’rings full in view,
+ 
+
+ And woes to us unknown,
+ 
+
+ Forth to the task his spirit flew;
+ 
+
+ ’Twas love that urged him on.
+IV
+Lord, we return thee what we can!
+ 
+
+ Our hearts shall sound abroad,
+ 
+
+ Salvation to the dying Man,
+ 
+
+ And to the rising God!
+V
+And while thy bleeding glories here
+ 
+
+ Engage our wond’ring eyes,
+ 
+
+ We learn our lighter cross to bear,
+ 
+
+ And hasten to the skies.
+## 56 It Is Good to Be Here
+By Newton
+I
+Let me dwell on Golgotha,
+ 
+
+ Weep and love my life away,
+ 
+
+ While I see Him on the tree
+ 
+
+ Weep and bleed and die for me!
+II
+That dear blood for sinners spilt
+ 
+
+ Shows my sin in all its guilt;
+ 
+
+ Ah! my soul, He bore thy load﻿—
+ 
+
+ Thou hast slain the Lamb of God.
+III
+Hark! his dying word, “Forgive!
+ 
+
+ Father, let the sinner live:
+ 
+
+ Sinner, wipe thy tears away,
+ 
+
+ I thy ransom freely pay.”
+IV
+While I hear this grace reveal’d,
+ 
+
+ And obtain a pardon seal’d,
+ 
+
+ All my soft affections move,
+ 
+
+ Waken’d by the force of love.
+V
+Farewell, world, thy gold is dross,
+ 
+
+ Now I see the bleeding cross;
+ 
+
+ Jesus died to set me free
+ 
+
+ From the law and sin and thee!
+VI
+He has dearly bought my soul;
+ 
+
+ Lord, accept and claim the whole!
+ 
+
+ To thy will I all resign,
+ 
+
+ Now, no more my own, but thine.
+## 57 Looking at the Cross
+By Newton
+I
+In evil long I took delight,
+ 
+
+ Unawed by shame or fear,
+ 
+
+ Till a new object struck my sight,
+ 
+
+ And stopp’d my wild career.
+II
+I saw one hanging on a tree,
+ 
+
+ In agonies and blood,
+ 
+
+ Who fix’d his languid eyes on me
+ 
+
+ As near his cross I stood.
+III
+Sure never till my latest breath
+ 
+
+ Can I forget that look;
+ 
+
+ It seem’d to charge me with his death
+ 
+
+ Though not a word He spoke.
+IV
+My conscience felt, and own’d the guilt
+ 
+
+ And plunged me in despair;
+ 
+
+ I saw my sins his blood had spilt,
+ 
+
+ And help’d to nail Him there.
+V
+Alas! I knew not what I did:
+ 
+
+ But now my tears are vain;
+ 
+
+ Where shall my trembling soul be hid?
+ 
+
+ For I the Lord have slain.
+VI
+A second look He gave, which said,
+ 
+
+ “I freely all forgive;
+ 
+
+ This blood is for thy ransom paid,
+ 
+
+ I die, that thou may’st live.”
+VII
+Thus while his death my sin displays
+ 
+
+ In all its blackest hue,
+ 
+
+ (Such is the mystery of grace,)
+ 
+
+ It seals my pardon too.
+VIII
+With pleasing grief and mournful joy
+ 
+
+ My spirit now is fill’d,
+ 
+
+ That I should such a life destroy
+ 
+
+ Yet live by Him I kill’d.
+## 58 Supplies in the Wilderness
+By Newton
+I
+When Isr’el, by divine command,
+ 
+
+ The pathless desert trod,
+ 
+
+ They found, though ’twas a barren land,
+ 
+
+ A sure resource in God.
+II
+A cloudy pillar mark’d their road,
+ 
+
+ And screen’d them from the heat;
+ 
+
+ From the hard rocks the water flow’d,
+ 
+
+ And manna was their meat.
+III
+Like them, we have a rest in view,
+ 
+
+ Secure from adverse pow’rs;
+ 
+
+ Like them, we pass a desert too,
+ 
+
+ But Isr’el’s God is ours.
+IV
+Yes, in this barren wilderness
+ 
+
+ He is to us the same,
+ 
+
+ By his appointed means of grace,
+ 
+
+ As once he was to them.
+V
+His word a light before us spreads,
+ 
+
+ By which our path we see;
+ 
+
+ His love, a banner o’er our heads,
+ 
+
+ From harm preserves us free.
+VI
+Jesus, the bread of life, is giv’n
+ 
+
+ To be our daily food;
+ 
+
+ We drink a wondrous stream from heav’n,
+ 
+
+ ’Tis water, wine, and blood.
+VII
+Lord, ’tis enough, I ask no more;
+ 
+
+ These blessings are divine;
+ 
+
+ I envy not the worldling’s store
+ 
+
+ If Christ and heav’n are mine.
+## 59 Communion with the Saints in Glory
+By Newton
+I
+Refreshed by the bread and wine,
+ 
+
+ The pledges of our Saviour’s love,
+ 
+
+ Now let our hearts and voices join
+ 
+
+ In songs of praise with those above.
+II
+Do they sing, “Worthy is the Lamb”?
+ 
+
+ Although we cannot reach their strains,
+ 
+
+ Yet we through grace can sing the same﻿—
+ 
+
+ For us he died, for us he reigns.
+III
+If they behold him face to face,
+ 
+
+ While we a glimpse can only see,
+ 
+
+ Yet, equal debtors to his grace,
+ 
+
+ As safe and as beloved are we.
+IV
+They had, like us, a suff’ring time,
+ 
+
+ Our cares and fears and griefs they knew;
+ 
+
+ But they have conquer’d all through Him,
+ 
+
+ And we ere long shall conquer too.
+V
+Though all the songs of saints in light
+ 
+
+ Are far beneath His matchless worth,
+ 
+
+ His grace is such, He will not slight
+ 
+
+ The poor attempts of worms on earth.
+#### On Prayer
+## 60 Exhortation to Prayer
+By Cowper
+I
+What various hindrances we meet
+ 
+
+ In coming to a mercy-seat!
+ 
+
+ Yet who that knows the worth of pray’r
+ 
+
+ But wishes to be often there?
+II
+Pray’r makes the darken’d cloud withdraw
+ 
+
+ Pray’r climbs the ladder Jacob saw,
+ 
+
+ Gives exercise to faith and love,
+ 
+
+ Brings every blessing from above.
+III
+Restraining pray’r, we cease to fight:
+ 
+
+ Pray’r makes the Christian’s armour bright;
+ 
+
+ And Satan trembles when he sees
+ 
+
+ The weakest saint upon his knees.
+IV
+While Moses stood with arms spread wide,
+ 
+
+ Success was found on Isr’el’s side;
+ 
+
+ But when through weariness they fail’d,
+ 
+
+ That moment Amalek prevail’d.
+V
+Have you no words? Ah! think again;
+ 
+
+ Words flow apace when you complain,
+ 
+
+ And fill your fellow-creature’s ear
+ 
+
+ With the sad tale of all your care.
+VI
+Were half the breath thus vainly spent
+ 
+
+ To Heaven in supplication sent,
+ 
+
+ Your cheerful song would oftener be,
+ 
+
+ “Hear what the Lord has done for me.”
+## 61 Power of Prayer
+By Newton
+I
+In themselves as weak as worms,
+ 
+
+ How can poor believers stand.
+ 
+
+ When temptations, foes, and storms,
+ 
+
+ Press them close on every hand?
+II
+Weak, indeed, they feel they are,
+ 
+
+ But they know the throne of grace;
+ 
+
+ And the God who answers pray’r
+ 
+
+ Helps them when they seek his face.
+III
+Though the Lord awhile delay,
+ 
+
+ Succour they at length obtain;
+ 
+
+ He who taught their hearts to pray
+ 
+
+ Will not let them cry in vain.
+IV
+Wrestling pray’r can wonders do,
+ 
+
+ Bring relief in deepest straits;
+ 
+
+ Pray’r can force a passage through
+ 
+
+ Iron bars and brazen gates.
+V
+Hezekiah on his knees
+ 
+
+ Proud Assyria’s host subdued;
+ 
+
+ And, when smitten with disease,
+ 
+
+ Had his life by pray’r renew’d.
+VI
+Peter, though confined and chain’d,
+ 
+
+ Pray’r prevail’d and brought him out
+ 
+
+ When Elijah pray’d it rain’d,
+ 
+
+ After three long years of drought.
+VII
+We can likewise witness bear,
+ 
+
+ That the Lord is still the same;
+ 
+
+ Though we fear’d he would not hear,
+ 
+
+ Suddenly deliv’rance came.
+VIII
+For the wonders he has wrought,
+ 
+
+ Let us now our praises give;
+ 
+
+ And, by sweet experience taught,
+ 
+
+ Call upon him while we live.
+#### On the Scripture
+## 62 The Light and Glory of the Word
+By Cowper
+I
+The Spirit breathes upon the word,
+ 
+
+ And brings the truth to sight;
+ 
+
+ Precepts and promises afford
+ 
+
+ A sanctifying light.
+II
+A glory gilds the sacred page,
+ 
+
+ Majestic, like the sun;
+ 
+
+ It gives a light to every age,
+ 
+
+ It gives, but borrows none.
+III
+The hand that gave it still supplies
+ 
+
+ The gracious light and heat;
+ 
+
+ His truths upon the nations rise,
+ 
+
+ They rise, but never set.
+IV
+Let everlasting thanks be thine
+ 
+
+ For such a bright display
+ 
+
+ As makes a world of darkness shine
+ 
+
+ With beams of heav’nly day.
+V
+My soul rejoices to pursue
+ 
+
+ The steps of Him I love,
+ 
+
+ Till glory breaks upon my view
+ 
+
+ In brighter worlds above.
+## 63 The Word More Precious Than Gold
+By Newton
+I
+Precious Bible! what a treasure
+ 
+
+ Does the Word of God afford!
+ 
+
+ All I want for life or pleasure,
+ 
+
+ Food and med’cine, shield and sword;
+ 
+
+ Let the world account me poor,
+ 
+
+ Having this I need no more.
+II
+Food, to which the world’s a stranger,
+ 
+
+ Here my hungry soul enjoys;
+ 
+
+ Of excess there is no danger,
+ 
+
+ Though it fills, it never cloys:
+ 
+
+ On a dying Christ I feed﻿—
+ 
+
+ He is meat and drink indeed!
+III
+When my faith is faint and sickly,
+ 
+
+ Or when Satan wounds my mind,
+ 
+
+ Cordials to revive me quickly,
+ 
+
+ Healing med’cines, here I find:
+ 
+
+ To the promises I flee,
+ 
+
+ Each affords a remedy.
+IV
+In the hour of dark temptation,
+ 
+
+ Satan cannot make me yield;
+ 
+
+ For the word of consolation
+ 
+
+ Is to me a mighty shield:
+ 
+
+ While the Scripture truths are sure,
+ 
+
+ From his malice I’m secure.
+V
+Vain his threats to overcome me
+ 
+
+ When I take the Spirit’s sword;
+ 
+
+ Then with ease I drive him from me﻿—
+ 
+
+ Satan trembles at the word:
+ 
+
+ ’Tis a sword for conquest made,
+ 
+
+ Keen the edge and strong the blade.
+VI
+Shall I envy then the miser,
+ 
+
+ Doting on his golden store?
+ 
+
+ Sure I am, or should be, wiser:
+ 
+
+ I am rich, ’tis he is poor:
+ 
+
+ Jesus gives me, in his word,
+ 
+
+ Food and med’cine, shield and sword.
+## III Providences
+## 64 On the Commencement of Hostilities in America
+By Newton
+I
+The gath’ring clouds, with aspect dark,
+ 
+
+ A rising storm presage;
+ 
+
+ Oh! to be hid within the ark,
+ 
+
+ And shelter’d from its rage!
+II
+See the commission’d angel frown!
+ 
+
+ That vial in his hand,
+ 
+
+ Fill’d with fierce wrath, is pouring down
+ 
+
+ Upon our guilty land!
+III
+Ye saints, unite in wrestling pray’r,
+ 
+
+ If yet there may be hope;
+ 
+
+ Who knows but mercy yet may spare,
+ 
+
+ And bid the angel stop?
+IV
+Already is the plague begun,
+ 
+
+ And, fired with hostile rage,
+ 
+
+ Brethren, by blood and interest one,
+ 
+
+ With brethren now engage.
+V
+Peace spreads her wings, prepared for flight;
+ 
+
+ And war, with flaming sword
+ 
+
+ And hasty strides, draws nigh, to fight
+ 
+
+ The battles of the Lord.
+VI
+The first alarm, alas, how few,
+ 
+
+ While distant, seem to hear!
+ 
+
+ But they will hear, and tremble too,
+ 
+
+ When God shall send it near.
+VII
+So thunder o’er the distant hills
+ 
+
+ Gives but a murm’ring sound;
+ 
+
+ But as the tempest spreads, it falls
+ 
+
+ And shakes the welkin23round.
+VIII
+May we, at least, with one consent,
+ 
+
+ Fall low before the throne:
+ 
+
+ With tears the nation’s sins lament,
+ 
+
+ The church’s, and our own.
+IX
+The humble souls who mourn and pray
+ 
+
+ The Lord approves and knows;
+ 
+
+ His mark secures them in the day
+ 
+
+ When vengeance strikes his foes.
+#### Fast Day Hymns
+## 65 Confession and Prayer. Dec. 13, 1776
+By Newton
+I
+Oh may the pow’r which melts the rock
+ 
+
+ Be felt by all assembled here!
+ 
+
+ Or else our service will but mock
+ 
+
+ The God whom we profess to fear.
+II
+Lord, while thy judgments shake the land,
+ 
+
+ Thy people’s eyes are fix’d on thee!
+ 
+
+ We own thy just uplifted hand,
+ 
+
+ Which thousands cannot, will not see.
+III
+How long hast thou bestow’d thy care
+ 
+
+ On this indulged ungrateful spot,
+ 
+
+ While other nations far and near
+ 
+
+ Have envied and admired our lot!
+IV
+Here peace and liberty have dwelt,
+ 
+
+ The glorious gospel brightly shone;
+ 
+
+ And oft our enemies have felt
+ 
+
+ That God has made our cause his own.
+V
+But ah! both heaven and earth have heard
+ 
+
+ Our vile requital of his love!
+ 
+
+ We, whom like children he has rear’d,
+ 
+
+ Rebels against his goodness prove.
+VI
+His grace despised, his power defied,
+ 
+
+ And legions of the blackest crimes,
+ 
+
+ Profaneness, riot, lust, and pride,
+ 
+
+ Are signs that mark the present times.
+VII
+The Lord displeased has raised his rod:
+ 
+
+ Ah, where are now the faithful few
+ 
+
+ Who tremble for the ark of God,
+ 
+
+ And know what Isr’el ought to do?
+VIII
+Lord, hear thy people everywhere,
+ 
+
+ Who meet to mourn, confess, and pray;
+ 
+
+ The nation and thy churches spare,
+ 
+
+ And let thy wrath be turn’d away!
+## 66 Moses and Amalek
+By Newton
+Exodus 17:9. Feb. 27, 1778.
+I
+While Joshua led the armed bands
+ 
+
+ Of Israel forth to war;
+ 
+
+ Moses apart with lifted hands
+ 
+
+ Engaged in humble pray’r.
+II
+The armed bands had quickly fail’d,
+ 
+
+ And perish’d in the fight,
+ 
+
+ If Moses’ pray’r had not prevail’d
+ 
+
+ To put the foes to flight.
+III
+When Moses’ hands through weakness dropp’d
+ 
+
+ The warriors fainted too;
+ 
+
+ Isr’el’s success at once was stopp’d,
+ 
+
+ And Am’lek bolder grew.
+IV
+A people, always prone to boast,
+ 
+
+ Were taught by this suspense,
+ 
+
+ That not a num’rous armed host,
+ 
+
+ But God, was their defence.
+V
+We now of fleets and armies vaunt,
+ 
+
+ And ships and men prepare;
+ 
+
+ But men like Moses most we want,
+ 
+
+ To save the state by pray’r.
+VI
+Yet, Lord, we hope thou hast prepared
+ 
+
+ A hidden few to-day,
+ 
+
+ (The nation’s secret strength and guard,)
+ 
+
+ To weep and mourn and pray.
+VII
+Oh hear their pray’rs, and grant us aid,
+ 
+
+ Bid war and discord cease;
+ 
+
+ Heal the sad breach which sin has made,
+ 
+
+ And bless us all with peace.
+## 67 The Hiding-Place. Feb. 10, 1779
+By Newton
+I
+See the gloomy gath’ring cloud,
+ 
+
+ Hanging o’er a sinful land!
+ 
+
+ Sure the Lord proclaims aloud,
+ 
+
+ Times of trouble are at hand.
+ 
+
+ Happy they who love his name,
+ 
+
+ They shall always find him near;
+ 
+
+ Though the earth were wrapp’d in flame,
+ 
+
+ They have no just cause for fear.
+II
+Hark! his voice in accents mild,
+ 
+
+ (Oh, how comforting and sweet!)
+ 
+
+ Speaks to every humble child,
+ 
+
+ Pointing out a sure retreat!
+ 
+
+ Come and in my chambers hide,
+ 
+
+ To my saints of old well known;
+ 
+
+ There you safely may abide
+ 
+
+ Till the storm be overblown.
+III
+You have only to repose
+ 
+
+ On my wisdom, love, and care;
+ 
+
+ When my wrath consumes my foes,
+ 
+
+ Mercy shall my children spare:
+ 
+
+ While they perish in the flood,
+ 
+
+ You that bear my holy mark,
+ 
+
+ Sprinkled with atoning blood,
+ 
+
+ Shall be safe within the ark.
+IV
+Sinners, see the ark prepared!
+ 
+
+ Haste to enter while there’s room!
+ 
+
+ Though the Lord his arm has bared,
+ 
+
+ Mercy still retards your doom:
+ 
+
+ Seek him while there yet is hope,
+ 
+
+ Ere the day of grace be past,
+ 
+
+ Lest in wrath he give you up,
+ 
+
+ And this call should prove your last.
+## 68 On the Earthquake. Sept. 8, 1775
+By Newton
+I
+Although on massy pillars built,
+ 
+
+ The earth has lately shook:
+ 
+
+ It trembles under Britain’s guilt
+ 
+
+ Before its Maker’s look.
+II
+Swift as the shock amazement spreads,
+ 
+
+ And sinners tremble too;
+ 
+
+ What flight can screen their guilty heads,
+ 
+
+ If earth itself pursue?
+III
+But mercy spared us while it warn’d﻿—
+ 
+
+ The shock is felt no more:
+ 
+
+ And mercy, now, alas! is scorn’d
+ 
+
+ By sinners, as before.
+IV
+But if these warnings prove in vain,
+ 
+
+ Say, sinner, canst thou tell
+ 
+
+ How soon the earth may quake again,
+ 
+
+ And open wide to hell?
+V
+Repent before the Judge draws nigh;
+ 
+
+ Or else, when he comes down,
+ 
+
+ Thou wilt in vain for earthquakes cry,
+ 
+
+ To hide thee from his frown.
+VI
+But happy they who love the Lord,
+ 
+
+ And his salvation know;
+ 
+
+ The hope that’s founded on his word,
+ 
+
+ No change can overthrow.
+VII
+Should the deep-rooted hills be hurl’d,
+ 
+
+ And plunged beneath the seas,
+ 
+
+ And strong convulsions shake the world,
+ 
+
+ Your hearts may rest in peace.
+VIII
+Jesus, your Shepherd, Lord, and Chief,
+ 
+
+ Shall shelter you from ill,
+ 
+
+ And not a worm or shaking leaf
+ 
+
+ Can move but at his will.
+## 69 On the Fire at Olney. Sept. 22, 1777
+By Newton
+I
+Wearied by day with toils and cares,
+ 
+
+ How welcome is the peaceful night!
+ 
+
+ Sweet sleep our wasted strength repairs,
+ 
+
+ And fits us for returning light.
+II
+Yet when our eyes in sleep are closed,
+ 
+
+ Our rest may break ere well begun;
+ 
+
+ To dangers every hour exposed
+ 
+
+ We neither can foresee nor shun.
+III
+’Tis of the Lord that we can sleep
+ 
+
+ A single night without alarms;
+ 
+
+ His eye alone our lives can keep
+ 
+
+ Secure amidst a thousand harms.
+IV
+For months and years of safety past
+ 
+
+ Ungrateful we, alas! have been;
+ 
+
+ Though patient long, he spoke at last,
+ 
+
+ And bid the fire rebuke our sin.
+V
+The shout of fire! a dreadful cry,
+ 
+
+ Impress’d each heart with deep dismay,
+ 
+
+ While the fierce blaze and redd’ning sky
+ 
+
+ Made midnight wear the face of day.
+VI
+The throng and terror who can speak?
+ 
+
+ The various sounds that fill’d the air!
+ 
+
+ The infant’s wail, the mother’s shriek,
+ 
+
+ The voice of blasphemy and pray’r!
+VII
+But pray’r prevail’d, and saved the town;
+ 
+
+ The few who loved the Saviour’s name
+ 
+
+ Were heard, and mercy hasted down,
+ 
+
+ To change the wind and stop the flame.
+VIII
+Oh, may that night be ne’er forgot!
+ 
+
+ Lord, still increase thy praying few!
+ 
+
+ Were Olney left without a Lot,
+ 
+
+ Ruin like Sodom’s would ensue.
+## 70 A Welcome to Christian Friends
+By Newton
+I
+Kindred in Christ, for his dear sake,
+ 
+
+ A hearty welcome here receive;
+ 
+
+ May we together now partake
+ 
+
+ The joys which only he can give!
+II
+To you and us by grace ’tis given
+ 
+
+ To know the Saviour’s precious name,
+ 
+
+ And shortly we shall meet in heaven,
+ 
+
+ Our hope, our way, our end, the same.
+III
+May he, by whose kind care we meet,
+ 
+
+ Send his good Spirit from above,
+ 
+
+ Make our communications sweet,
+ 
+
+ And cause our hearts to burn with love!
+IV
+Forgotten be each worldly theme,
+ 
+
+ When Christians see each other thus:
+ 
+
+ We only wish to speak of Him
+ 
+
+ Who lived and died and reigns for us.
+V
+We’ll talk of all He did and said,
+ 
+
+ And suffer’d for us here below;
+ 
+
+ The path He mark’d for us to tread,
+ 
+
+ And what He’s doing for us now.
+VI
+Thus, as the moments pass away,
+ 
+
+ We’ll love and wonder and adore,
+ 
+
+ And hasten on the glorious day
+ 
+
+ When we shall meet to part no more.
+## 71 At Parting
+By Newton
+I
+As the sun’s enliv’ning eye
+ 
+
+ Shines on every place the same;
+ 
+
+ So the Lord is always nigh
+ 
+
+ To the souls that love his name.
+II
+When they move at duty’s call,
+ 
+
+ He is with them by the way;
+ 
+
+ He is ever near them all,
+ 
+
+ Those who go, and those who stay.
+III
+From his holy mercy-seat
+ 
+
+ Nothing can their souls confine;
+ 
+
+ Still in spirit they may meet,
+ 
+
+ And in sweet communion join.
+IV
+For a season call’d to part,
+ 
+
+ Let us then ourselves commend
+ 
+
+ To the gracious eye and heart
+ 
+
+ Of our ever-present Friend.
+V
+Jesus, hear our humble pray’r!
+ 
+
+ Tender Shepherd of thy sheep,
+ 
+
+ Let thy mercy and thy care
+ 
+
+ All our souls in safety keep.
+VI
+In thy strength may we be strong,
+ 
+
+ Sweeten every cross and pain;
+ 
+
+ Give us, if we live, ere long,
+ 
+
+ Here to meet in peace again.
+VII
+Then if thou thy help afford,
+ 
+
+ Ebenezers shall be rear’d;
+ 
+
+ And our souls shall praise the Lord,
+ 
+
+ Who our poor petitions heard.
+#### Funeral Hymns
+## 72 On the Death of a Believer
+By Newton
+I
+In vain our fancy strives to paint
+ 
+
+ The moment after death,
+ 
+
+ The glories that surround the saints
+ 
+
+ When yielding up their breath.
+II
+One gentle sigh their fetters breaks;
+ 
+
+ We scarce can say, “They’re gone!”
+ 
+
+ Before the willing spirit takes
+ 
+
+ Her mansion near the throne.
+III
+Faith strives, but all its efforts fail
+ 
+
+ To trace her in her flight;
+ 
+
+ No eye can pierce within the veil
+ 
+
+ Which hides that world of light
+IV
+Thus much (and this is all) we know,
+ 
+
+ They are completely bless’d﻿—
+ 
+
+ Have done with sin and care and woe,
+ 
+
+ And with their Saviour rest.
+V
+On harps of gold they praise his name,
+ 
+
+ His face they always view;
+ 
+
+ Then let us foll’wers be of them,
+ 
+
+ That we may praise him too.
+VI
+Their faith and patience, love and zeal,
+ 
+
+ Should make their mem’ry dear;
+ 
+
+ And, Lord, do thou the pray’rs fulfill
+ 
+
+ They offer’d for us here.
+VII
+While they have gain’d we losers are,
+ 
+
+ We miss them day by day:
+ 
+
+ But thou canst every breach repair,
+ 
+
+ And wipe our tears away.
+VIII
+We pray, as in Elisha’s case,
+ 
+
+ When great Elijah went﻿—
+ 
+
+ May double portions of thy grace
+ 
+
+ To us who stay be sent.
+## 73 On the Death of a Minister
+By Cowper
+I
+His master taken from his head,
+ 
+
+ Elisha saw him go;
+ 
+
+ And in desponding accents said﻿—
+ 
+
+ “Ah, what must Isr’el do?”
+II
+But he forgot the Lord who lifts
+ 
+
+ The beggar to the throne;
+ 
+
+ Nor knew that all Elijah’s gifts
+ 
+
+ Will soon be made his own.
+III
+What, when a Paul has run his course,
+ 
+
+ Or when Apollos dies,
+ 
+
+ Is Isr’el left without resource?
+ 
+
+ And have we no supplies?
+IV
+Yes, while the dear Redeemer lives,
+ 
+
+ We have a boundless store,
+ 
+
+ And shall be fed with what he gives,
+ 
+
+ Who lives for evermore.
+## 74 The Tolling Bell
+By Newton
+I
+Oft as the bell, with solemn toll,
+ 
+
+ Speaks the departure of a soul,
+ 
+
+ Let each one ask himself﻿—“Am I
+ 
+
+ Prepared, should I be call’d to die?”
+II
+Only this frail and fleeting breath
+ 
+
+ Preserves me from the jaws of death;
+ 
+
+ Soon as it fails at once I’m gone,
+ 
+
+ And plunged into a world unknown.
+III
+Then leaving all I loved below,
+ 
+
+ To God’s tribunal I must go﻿—
+ 
+
+ Must hear the Judge pronounce my fate,
+ 
+
+ And fix my everlasting state.
+IV
+4 But could I bear to hear him say,
+ 
+
+ “Depart, accursed, far away;
+ 
+
+ With Satan in the lowest hell,
+ 
+
+ Thou art for ever doom’d to dwell”?
+V
+5 Lord Jesus! help me now to flee,
+ 
+
+ And seek my hope alone in thee;
+ 
+
+ Apply thy blood, thy Spirit give,
+ 
+
+ Subdue my sin and let me live.
+VI
+6 Then when the solemn bell I hear,
+ 
+
+ If saved from guilt I need not fear;
+ 
+
+ Nor would the thought distressing be﻿—
+ 
+
+ Perhaps it next may toll for me.
+VII
+7 Rather my spirit would rejoice,
+ 
+
+ And long and wish to hear thy voice;
+ 
+
+ Glad when it bids me earth resign,
+ 
+
+ Secure of heaven if thou art mine.
+## 75 Hope Beyond the Grave
+By Newton
+I
+My soul, this curious house of clay,
+ 
+
+ Thy present frail abode,
+ 
+
+ Must quickly fall to worms a prey,
+ 
+
+ And thou return to God.
+II
+Canst thou by faith survey with joy
+ 
+
+ The change before it come?
+ 
+
+ And say﻿—“Let death this house destroy,
+ 
+
+ I have a heav’nly home?”
+III
+The Saviour, whom I then shall see
+ 
+
+ With new admiring eyes,
+ 
+
+ Already has prepared for me
+ 
+
+ A mansion in the skies.
+IV
+I feel this mud-wall cottage shake,
+ 
+
+ And long to see it fall,
+ 
+
+ That I my willing flight may take
+ 
+
+ To Him who is my all.
+V
+Burden’d and groaning then no more,
+ 
+
+ My rescued soul shall sing,
+ 
+
+ As up the shining path I soar,
+ 
+
+ “Death, thou hast lost thy sting!”
+VI
+Dear Saviour, help us now to seek,
+ 
+
+ And know thy grace’s power,
+ 
+
+ That we may all this language speak
+ 
+
+ Before the dying hour.
+## 76 There the Weary Are at Rest
+By Newton
+I
+Courage, my soul! behold the prize
+ 
+
+ The Saviour’s love provides
+ 
+
+ Eternal life beyond the skies
+ 
+
+ For all whom here he guides.
+II
+The wicked cease from troubling there,
+ 
+
+ The weary are at rest;
+ 
+
+ Sorrow and sin and pain and care
+ 
+
+ No more approach the blest.
+III
+A wicked world and wicked heart
+ 
+
+ With Satan now are join’d;
+ 
+
+ Each acts a too successful part
+ 
+
+ In harassing my mind.
+IV
+In conflict with this threefold troop,
+ 
+
+ How weary, Lord, am I!
+ 
+
+ Did not thy promise bear me up
+ 
+
+ My soul must faint and die:
+V
+But fighting in my Saviour’s strength,
+ 
+
+ Though mighty are my foes,
+ 
+
+ I shall a conq’ror be at length
+ 
+
+ O’er all that can oppose.
+VI
+Then why, my soul, complain or fear?
+ 
+
+ The crown of glory see!
+ 
+
+ The more I toil and suffer here,
+ 
+
+ The sweeter rest will be.
+## 77 The Day of Judgment
+By Newton
+I
+Day of judgment, day of wonders!
+ 
+
+ Hark! the trumpet’s awful sound,
+ 
+
+ Louder than a thousand thunders,
+ 
+
+ Shakes the vast creation round!
+ 
+
+ How the summons will the sinner’s heart confound!
+II
+See the Judge our nature wearing,
+ 
+
+ Clothed in majesty divine!
+ 
+
+ You who long for his appearing
+ 
+
+ Then shall say﻿—“This God is mine!”
+ 
+
+ Gracious Saviour, own me in that day for thine.
+III
+At his call the dead awaken,
+ 
+
+ Rise to life from earth and sea.
+ 
+
+ All the powers of nature, shaken
+ 
+
+ By his looks, prepare to flee.
+ 
+
+ Careless sinner, what will then become of thee?
+IV
+Horrors past imagination
+ 
+
+ Will surprise your trembling heart,
+ 
+
+ When you hear your condemnation,
+ 
+
+ “Hence, accursed wretch, depart!
+ 
+
+ Thou with Satan and his angels have thy part!”
+V
+Satan, who now tries to please you,
+ 
+
+ Lest you timely warning take,
+ 
+
+ When that word is past, will seize you,
+ 
+
+ Plunge you in the burning lake:
+ 
+
+ Think, poor sinner, thy eternal all’s at stake.
+VI
+But to those who have confessed,
+ 
+
+ Loved and served the Lord below,
+ 
+
+ He will say﻿—“Come near, ye blessed,
+ 
+
+ See the kingdom I bestow:
+ 
+
+ You for ever shall my love and glory know.”
+VII
+Under sorrows and reproaches,
+ 
+
+ May this thought your courage raise,
+ 
+
+ Swiftly God’s great day approaches,
+ 
+
+ Sighs shall then be changed to praise.
+ 
+
+ We shall triumph when the world is in a blaze.
+## 78 The Day of the Lord.24
+By Newton
+I
+God with one piercing glance looks through
+ 
+
+ Creation’s wide-extended frame;
+ 
+
+ The past and future in his view,
+ 
+
+ And days and ages are the same.
+II
+Sinners who dare provoke his face,
+ 
+
+ Who on his patience long presume,
+ 
+
+ And trifle out his day of grace,
+ 
+
+ Will find he has a day of doom,
+III
+As pangs the labouring woman feels,
+ 
+
+ Or as the thief in midnight sleep,
+ 
+
+ So comes that day for which the wheels
+ 
+
+ Of time their ceaseless motion keep!
+IV
+Hark! from the sky the trump proclaims
+ 
+
+ Jesus the Judge approaching nigh!
+ 
+
+ See the creation wrapt in flames,
+ 
+
+ First kindled by his vengeful eye!
+V
+When thus the mountains melt like wax;
+ 
+
+ When earth and air and sea shall burn;
+ 
+
+ When all the frame of nature breaks;
+ 
+
+ Poor sinner, whither wilt thou turn?
+VI
+The puny works which feeble men
+ 
+
+ Now boast or covet or admire;
+ 
+
+ Their pomp and arts and treasures then
+ 
+
+ Shall perish in one common fire.
+VII
+Lord, fix our hearts and hopes above,
+ 
+
+ Since all below to ruin tends;
+ 
+
+ Here may we trust, obey, and love,
+ 
+
+ And there be found amongst thy friends.
+## 79 The Great Tribunal
+By Newton
+Revelation 20:11﻿–﻿12.
+I
+John in vision saw the day
+ 
+
+ When the Judge will hasten down;
+ 
+
+ Heaven and earth shall flee away
+ 
+
+ From the terror of his frown.
+ 
+
+ Dead and living, small and great,
+ 
+
+ Raised from the earth and sea,
+ 
+
+ At his bar shall hear their fate:
+ 
+
+ What will then become of me?
+II
+Can I bear his awful looks?
+ 
+
+ Shall I stand in judgment then,
+ 
+
+ When I see the open’d books,
+ 
+
+ Written by th’Almighty’s pen?
+ 
+
+ If he to remembrance bring,
+ 
+
+ And expose to public view,
+ 
+
+ Every work and secret thing,
+ 
+
+ Ah, my soul, what canst thou do?
+III
+When the list shall be produced
+ 
+
+ Of the talents I enjoy’d,
+ 
+
+ Means and mercies how abused,
+ 
+
+ Time and strength how misemploy’d,
+ 
+
+ Conscience, then compell’d to read,
+ 
+
+ Must allow the charge is true;
+ 
+
+ Say, my soul, what canst thou plead﻿—
+ 
+
+ In that hour what wilt thou do?
+IV
+But the book of life I see;
+ 
+
+ May my name be written there:
+ 
+
+ Then from guilt and danger free,
+ 
+
+ Glad I’ll meet him in the air.
+ 
+
+ That’s the book I hope to plead﻿—
+ 
+
+ ’Tis the gospel open’d wide.
+ 
+
+ Lord, I am a wretch indeed﻿—
+ 
+
+ I have sinn’d, but thou hast died.
+V
+Now my soul knows what to do;
+ 
+
+ Thus I shall with boldness stand,
+ 
+
+ Number’d with the faithful few,
+ 
+
+ Own’d and saved at thy right hand.
+ 
+
+ If thou help a feeble worm
+ 
+
+ To believe thy promise now,
+ 
+
+ Justice will at last confirm
+ 
+
+ What thy mercy wrought below.
+## IV Creation
+## 80 The Old and New Creation
+By Newton
+I
+That was a wonder-working word
+ 
+
+ Which could the vast creation raise!
+ 
+
+ Angels, attendant on their Lord
+ 
+
+ Admired the plan, and sung his praise.
+II
+From what a dark and shapeless mass
+ 
+
+ All nature sprang at his command!
+ 
+
+ Let there be light! and light there was,
+ 
+
+ And sun and stars and sea and land.
+III
+With equal speed the earth and seas
+ 
+
+ Their mighty Maker’s voice obey’d;
+ 
+
+ He spake, and straight the plants and trees
+ 
+
+ And birds and beasts and man were made.
+IV
+But man, the lord and crown of all,
+ 
+
+ By sin his honour soon defaced,
+ 
+
+ His heart (how alter’d since the fall!)
+ 
+
+ Is dark, deform’d, and void and waste.
+V
+The new creation of the soul
+ 
+
+ Does now no less his power display,
+ 
+
+ Than when he form’d the mighty whole,
+ 
+
+ And kindled darkness into day.
+VI
+Though self-destroy’d, O Lord, we are,
+ 
+
+ Yet let us feel what thou canst do;
+ 
+
+ Thy word the ruin can repair,
+ 
+
+ And all our hearts create anew.
+## 81 The Book of Creation
+By Newton
+I
+The book of nature open lies,
+ 
+
+ With much instruction stored:
+ 
+
+ But till the Lord anoints our eyes
+ 
+
+ We cannot read a word.
+II
+Philosophers have pored in vain,
+ 
+
+ And guess’d from age to age;
+ 
+
+ For reason’s eye could ne’er attain
+ 
+
+ To understand a page.
+III
+Though to each star they give a name,
+ 
+
+ Its size and motions teach,
+ 
+
+ The truths which all the stars proclaim
+ 
+
+ Their wisdom cannot reach.
+IV
+With skill to measure earth and sea,
+ 
+
+ And weigh the subtle air,
+ 
+
+ They cannot, Lord, discover thee
+ 
+
+ Though present everywhere.
+V
+The knowledge of the saints excels
+ 
+
+ The wisdom of the schools;
+ 
+
+ To them his secrets God reveals
+ 
+
+ Though men account them fools.
+VI
+To them the sun and stars on high,
+ 
+
+ The flow’rs that paint the field,
+ 
+
+ And all the artless birds that fly,
+ 
+
+ Divine instructions yield.
+VII
+The creatures on their senses press,
+ 
+
+ As witnesses to prove
+ 
+
+ Their Saviour’s power and faithfulness,
+ 
+
+ His providence and love.
+VIII
+Thus may we study nature’s book,
+ 
+
+ To make us wise indeed!
+ 
+
+ And pity those who only look
+ 
+
+ At what they cannot read.
+## 82 The Rainbow
+By Newton
+I
+When the sun with cheerful beams
+ 
+
+ Smiles upon a low ring sky,
+ 
+
+ Soon its aspect soften’d seems,
+ 
+
+ And a rainbow meets the eye:
+ 
+
+ While the sky remains serene
+ 
+
+ This bright arch is never seen.
+II
+Thus the Lord’s supporting pow’r
+ 
+
+ Brightest to his saints appears,
+ 
+
+ When affliction’s threat’ning hour
+ 
+
+ Fills their sky with clouds and fears:
+ 
+
+ He can wonders then perform,
+ 
+
+ Paint a rainbow on the storm.
+III
+All their graces doubly shine
+ 
+
+ When their troubles press them sore;
+ 
+
+ And the promises divine
+ 
+
+ Give them joys unknown before:
+ 
+
+ As the colours of the bow
+ 
+
+ To the cloud their brightness owe.
+IV
+Favour’d John a rainbow saw,
+ 
+
+ Circling round a throne above;
+ 
+
+ Hence the saints a pledge may draw
+ 
+
+ Of unchanging cov’nant love:
+ 
+
+ Clouds awhile may intervene,
+ 
+
+ But the bow will still be seen.
+## 83 Thunder
+By Newton
+I
+When a black o’erspreading cloud
+ 
+
+ Has darken’d all the air,
+ 
+
+ And peals of thunder, roaring loud,
+ 
+
+ Proclaim the tempest near;
+II
+Then guilt and fear, the fruits of sin,
+ 
+
+ The sinner oft pursue;
+ 
+
+ A louder storm is heard within,
+ 
+
+ And conscience thunders too.
+III
+The law a fiery language speaks,
+ 
+
+ His danger he perceives;
+ 
+
+ Like Satan, who his ruin seeks,
+ 
+
+ He trembles and believes.
+IV
+But when the sky serene appears,
+ 
+
+ And thunders roll no more,
+ 
+
+ He soon forgets his vows and fears.
+ 
+
+ Just as he did before.
+V
+But whither shall the sinner flee
+ 
+
+ When nature’s mighty frame,
+ 
+
+ The pond’rous earth and air and sea,
+ 
+
+ Shall all dissolve in flame?
+VI
+Amazing day! It comes apace!
+ 
+
+ The Judge is hasting down!
+ 
+
+ Will sinners bear to see his face,
+ 
+
+ Or stand before his frown?
+VII
+Lord, let thy mercy find a way
+ 
+
+ To touch each stubborn heart,
+ 
+
+ That they may never hear thee say,
+ 
+
+ “Ye cursed ones, depart!”
+VIII
+Believers, you may well rejoice!
+ 
+
+ The thunder’s loudest strains
+ 
+
+ Should be to you a welcome voice,
+ 
+
+ That tells you, “Jesus reigns!”
+## 84 Lightning in the Night
+By Newton
+I
+A glance from heav’n with sweet effect,
+ 
+
+ Sometimes my pensive spirit cheers;
+ 
+
+ But, ere I can my thoughts collect,
+ 
+
+ As suddenly it disappears.
+II
+So lightning in the gloom of night
+ 
+
+ Affords a momentary day;
+ 
+
+ Disclosing objects full in sight,
+ 
+
+ Which, soon as seen, are snatch’d away,
+III
+Ah! what avail these pleasing scenes!
+ 
+
+ They do but aggravate my pain;
+ 
+
+ While darkness quickly intervenes,
+ 
+
+ And swallows up my joys again.
+IV
+But shall I murmur at relief?
+ 
+
+ Though short, it was a precious view.
+ 
+
+ Sent to control my unbelief,
+ 
+
+ And prove that what I read was true,
+V
+The lightning’s flash did not create
+ 
+
+ The opening prospect it reveal’d;
+ 
+
+ But only showed the real state
+ 
+
+ Of what the darkness had conceal d.
+VI
+Just so, we by a glimpse discern
+ 
+
+ The glorious things within the veil,
+ 
+
+ That, when in darkness, we may learn
+ 
+
+ To live by faith till light prevail.
+VII
+The Lord’s great day will soon advance,
+ 
+
+ Dispersing all the shades of night;
+ 
+
+ Then we no more shall need a glance,
+ 
+
+ But see by an eternal light.
+## 85 On the Eclipse of the Moon. July 30, 1776
+By Newton
+I
+The moon in silver glory shone,
+ 
+
+ And not a cloud in sight,
+ 
+
+ When suddenly a shade begun
+ 
+
+ To intercept her light
+II
+How fast across her orb it spread!
+ 
+
+ How fast her light withdrew!
+ 
+
+ A circle, tinged with languid red,
+ 
+
+ Was all appear’d in view.
+III
+While many, with unmeaning eye,
+ 
+
+ Gaze on thy works in vain,
+ 
+
+ Assist me, Lord, that I may try
+ 
+
+ Instruction to obtain.
+IV
+Fain would my thankful heart and lips
+ 
+
+ Unite in praise of thee,
+ 
+
+ And meditate on thy eclipse
+ 
+
+ In sad Gethsemane.
+V
+Thy people’s guilt, a heavy load,
+ 
+
+ (When standing in their room,)
+ 
+
+ Deprived thee of the light of God,
+ 
+
+ And fill’d thy soul with gloom.
+VI
+How punctu’lly eclipses move,
+ 
+
+ Obedient to thy will!
+ 
+
+ Thus shall thy faithfulness and love
+ 
+
+ Thy promises fulfill.
+VII
+Dark, like the moon without the sun,
+ 
+
+ I mourn thine absence, Lord!
+ 
+
+ For light or comfort I have none
+ 
+
+ But what thy beams afford.
+VIII
+But, lo! the hour draws near apace,
+ 
+
+ When changes shall be o’er;
+ 
+
+ Then I shall see thee face to face,
+ 
+
+ And be eclipsed no more.
+## 86 Moonlight
+By Newton
+I
+The moon has but a borrow’d light,
+ 
+
+ A faint and feeble ray;
+ 
+
+ She owes her beauty to the night,
+ 
+
+ And hides herself by day.
+II
+No cheering warmth her beam conveys,
+ 
+
+ Though pleasing to behold;
+ 
+
+ We might upon her brightness gaze
+ 
+
+ Till we were starved with cold.
+III
+Just such is all the light to man
+ 
+
+ Which reason can impart;
+ 
+
+ It cannot show one object plain,
+ 
+
+ Nor warm the frozen heart.
+IV
+Thus moonlight views of truth divine
+ 
+
+ To many fatal prove;
+ 
+
+ For what avail in gifts to shine,
+ 
+
+ Without a spark of love?
+V
+The gospel, like the sun at noon,
+ 
+
+ Affords a glorious light;
+ 
+
+ Then fallen reason’s boasted moon
+ 
+
+ Appears no longer bright.
+VI
+And grace, not light alone, bestows,
+ 
+
+ But adds a quick’ning power;
+ 
+
+ The desert blossoms like the rose,
+ 
+
+ And sin prevails no more.
+## 87 The Sea.25
+By Newton
+I
+If for a time the air be calm,
+ 
+
+ Serene and smooth the sea appears,
+ 
+
+ And shows no danger to alarm
+ 
+
+ Th’inexperienced landsman’s fears;
+II
+But if the tempest once arise,
+ 
+
+ The faithless water swells and raves;
+ 
+
+ Its billows foaming to the skies,
+ 
+
+ Disclose a thousand threat’ning graves.
+III
+My untried heart thus seem’d to me
+ 
+
+ (So little of myself I knew,)
+ 
+
+ Smooth as the calm unruffled sea,
+ 
+
+ But ah! it proved as treach’rous too.
+IV
+The peace of which I had a taste
+ 
+
+ When Jesus first his love reveal’d,
+ 
+
+ I fondly hoped would always last
+ 
+
+ Because my foes were then conceal’d.
+V
+But when I felt the tempter’s power
+ 
+
+ Rouse my corruptions from their sleep,
+ 
+
+ I trembled at the stormy hour,
+ 
+
+ And saw the horrors of the deep.
+VI
+Now on presumption’s billows borne,
+ 
+
+ My spirit seem’d the Lord to dare;
+ 
+
+ Now, quick as thought, a sudden turn
+ 
+
+ Plunged me in gulfs of black despair.
+VII
+Lord, save me, or I sink, I pray’d;
+ 
+
+ He heard, and bid the tempest cease;
+ 
+
+ The angry waves his word obey’ d,
+ 
+
+ And all my fears were hush’d to peace.
+VIII
+The peace is his, and not my own;
+ 
+
+ My heart (no better than before)
+ 
+
+ Is still to dreadful changes prone,
+ 
+
+ Then let me never trust it more.
+## 88 The Flood
+By Newton
+I
+Through small the drops of falling rain
+ 
+
+ If one be singly view’d,
+ 
+
+ Collected, they o’erspread the plain.
+ 
+
+ And form a mighty flood.
+II
+The house it meets with in its course
+ 
+
+ Should not be built on clay,
+ 
+
+ Lest, with a wild, resistless force,
+ 
+
+ It sweep the whole away.
+III
+Though for awhile it seem secure.
+ 
+
+ It will not bear the shock
+ 
+
+ Unless it has foundations sure,
+ 
+
+ And stands upon a rock.
+IV
+Thus sinners think their evil deeds.
+ 
+
+ Like drops of rain, are small;
+ 
+
+ But it the power of thought exceeds
+ 
+
+ To count the sum of all.
+V
+One sin can raise, though small it seem.
+ 
+
+ A flood to drown the soul;
+ 
+
+ What then, when countless million stream﻿—
+ 
+
+ Shall join to swell the whole!
+VI
+Yet, while they think the weather fair,
+ 
+
+ If warn’d they smile or frown:
+ 
+
+ But they will tremble and despair,
+ 
+
+ When the fierce flood comes down.
+VII
+Oh! then on Jesus ground your hope.
+ 
+
+ That Stone in Zion laid;
+ 
+
+ Lest your poor building quickly drop
+ 
+
+ With ruin on your head.
+## 89 The Thaw
+By Newton
+I
+The ice and snow we lately saw,
+ 
+
+ Which cover’d all the ground,
+ 
+
+ Are melted soon before the thaw,
+ 
+
+ And can no more be found.
+II
+Could all the art of man suffice
+ 
+
+ To move away the snow,
+ 
+
+ To clear the rivers from the ice,
+ 
+
+ Or make the waters flow?
+III
+No, ’tis the work of God alone;
+ 
+
+ An emblem of the power
+ 
+
+ By which he melts the heart of stone
+ 
+
+ In his appointed hour.
+IV
+All outward means, till he appears,
+ 
+
+ Will ineffectual prove;
+ 
+
+ Though much the sinner sees and hears,
+ 
+
+ He cannot learn to love.
+V
+But let the stoutest sinner feel
+ 
+
+ The soft’ning warmth of grace,
+ 
+
+ Though hard as ice or rocks or steel,
+ 
+
+ His heart dissolves apace.
+VI
+Seeing the blood which Jesus spilt
+ 
+
+ To save his soul from woe,
+ 
+
+ His hatred, unbelief, and guilt,
+ 
+
+ All melt away like snow.
+VII
+Jesus, we in thy name entreat,
+ 
+
+ Reveal thy gracious arm;
+ 
+
+ And grant thy Spirit’s kindly heat,
+ 
+
+ Our frozen hearts to warm.
+## 90 The Loadstone
+By Newton
+I
+As needles point towards the pole
+ 
+
+ When touch’d by the magnetic stone;
+ 
+
+ So faith in Jesus gives the soul
+ 
+
+ A tendency before unknown.
+II
+Till then, by blinded passions led,
+ 
+
+ In search of fancied good we range,
+ 
+
+ The paths of disappointment tread,
+ 
+
+ To nothing fix’d but love of change.
+III
+But when the Holy Ghost imparts
+ 
+
+ A knowledge of the Saviour’s love,
+ 
+
+ Our wand’ring, weary, restless hearts
+ 
+
+ Are fix’d at once, no more to move.
+IV
+Now a new principle takes place,
+ 
+
+ Which guides and animates the will;
+ 
+
+ This love, another name for grace,
+ 
+
+ Constrains to good, and bars from ill.
+V
+By love’s pure light we soon perceive
+ 
+
+ Our noblest bliss and proper end;
+ 
+
+ And gladly every idol leave,
+ 
+
+ To love and serve our Lord and Friend,
+VI
+Thus, borne along by faith and hope,
+ 
+
+ We feel the Saviour’s words are true;
+ 
+
+ “And I, if I be lifted up,
+ 
+
+ Will draw the sinner upward too.”
+## 91 The Spider and Bee
+By Newton
+I
+On the same flow’r we often see
+ 
+
+ The loathsome spider and the bee;
+ 
+
+ But what they get by working there
+ 
+
+ Is diff’rent as their natures are.
+II
+The bee a sweet reward obtains,
+ 
+
+ And honey well repays his pains;
+ 
+
+ Home to the hive he bears the store,
+ 
+
+ And then returns in quest of more.
+III
+But no sweet flow rs that grace the field
+ 
+
+ Can honey to the spider yield;
+ 
+
+ A cobweb all that he can spin,
+ 
+
+ And poison all the stores within.
+IV
+Thus in that sacred field, the Word,
+ 
+
+ With flow’rs of God’s own planting stored.
+ 
+
+ Like bees his children feed and thrive,
+ 
+
+ And bring home honey to the hive.
+V
+There, spider-like, the wicked come,
+ 
+
+ And seem to taste the sweet perfume;
+ 
+
+ But the vile venom of their hearts
+ 
+
+ To poison all their food converts.
+VI
+From the same truths believers prize
+ 
+
+ They weave vain refuges of lies;
+ 
+
+ And from the promise license draw
+ 
+
+ To trifle with the holy law.
+VII
+Lord, shall thy word of life and love
+ 
+
+ The means of death to numbers prove?
+ 
+
+ Unless thy grace our hearts renew26
+ 
+
+ We sink to hell with heaven in view.
+## 92 The Bee Saved from the Spider
+By Newton
+I
+The subtle spider often weaves
+ 
+
+ His unsuspected snares
+ 
+
+ Among the balmy flowers and leaves,
+ 
+
+ To which the bee repairs.
+II
+When in his web he sees one hang,
+ 
+
+ With a malicious joy
+ 
+
+ He darts upon it with his fang,
+ 
+
+ To poison and destroy.
+III
+How welcome then some pitying friend,
+ 
+
+ To save the threaten’d bee,
+ 
+
+ The spider’s treach’rous web to rend,
+ 
+
+ And set the captive free!
+IV
+My soul has been in such a case:
+ 
+
+ When first I knew the Lord,
+ 
+
+ I hasted to the means of grace,
+ 
+
+ Where sweets I knew were stored.
+V
+Little I thought of danger near,
+ 
+
+ That soon my joys would ebb;
+ 
+
+ But ah! I met a spider there,
+ 
+
+ Who caught me in his web.
+VI
+Then Satan raised his pois’nous sting,
+ 
+
+ And aim’d his blows at me:
+ 
+
+ While I, poor helpless trembling thing.
+ 
+
+ Could neither fight nor flee.
+VII
+But oh! the Saviour’s pitying eye
+ 
+
+ Relieved me from despair;
+ 
+
+ He saw me at the point to die,
+ 
+
+ And broke the fatal snare.
+VIII
+My case his heedless saints should warn,
+ 
+
+ Or cheer them if afraid;
+ 
+
+ May you from me your danger learn,
+ 
+
+ And where to look for aid!
+## 93 The Tamed Lion
+By Newton
+I
+A lion, though by nature wild,
+ 
+
+ The art of man can tame;
+ 
+
+ lie stands before his keeper mild
+ 
+
+ And gentle as a lamb.
+II
+He watches, with submissive eye,
+ 
+
+ The hand that gives him food,
+ 
+
+ As if he meant to testify
+ 
+
+ A sense of gratitude.
+III
+But man himself, who thus subdues
+ 
+
+ The fiercest beasts of prey,
+ 
+
+ A nature more unfeeling shows
+ 
+
+ And far more fierce than they.
+IV
+Though by the Lord preserved and fed,
+ 
+
+ He proves rebellious still;
+ 
+
+ And while he eats his Maker’s bread
+ 
+
+ Resists his holy will.
+V
+Alike in vain, of grace that saves,
+ 
+
+ Or threat’ning law, he hears;
+ 
+
+ The savage scorns, blasphemes, and raves,
+ 
+
+ But neither loves nor fears.
+VI
+O Saviour! how thy wondrous power
+ 
+
+ By angels is proclaim’d!
+ 
+
+ When in thine own appointed hour
+ 
+
+ They see this lion tamed!
+VII
+The love thy bleeding cross displays
+ 
+
+ The hardest heart subdues!
+ 
+
+ Here furious lions, while they gaze,
+ 
+
+ Their rage and fierceness lose.
+VIII
+Yet we are but renew’d in part,
+ 
+
+ The lion still remains;
+ 
+
+ Lord, drive him wholly from my heart,
+ 
+
+ Or keep him fast in chains.
+## 94 Sheep
+By Newton
+I
+The Saviour calls his people sheep,
+ 
+
+ And bids them on his love rely;
+ 
+
+ For he alone their souls can keep,
+ 
+
+ And he alone their wants supply.
+II
+The bull can fight, the hare can flee,
+ 
+
+ The ant in summer food prepare;
+ 
+
+ But helpless sheep, and such are we,
+ 
+
+ Depend upon the shepherd’s care.
+III
+Jehovah is our Shepherd’s name,
+ 
+
+ Then what have we, though weak, to fear?
+ 
+
+ Our sin and folly we proclaim
+ 
+
+ If we despond while he is near.
+IV
+When Satan threatens to devour,
+ 
+
+ When troubles press on every side,
+ 
+
+ Think on our Shepherd’s care and power,
+ 
+
+ He can defend, He will provide.
+V
+See the rich pastures of his grace,
+ 
+
+ Where in full streams salvation flows!
+ 
+
+ There he appoints our resting-place,
+ 
+
+ And we may feel secure from foes.
+VI
+There, ’midst the flock, the Shepherd dwells,
+ 
+
+ The sheep around in safety lie;
+ 
+
+ The wolf in vain with malice swells,
+ 
+
+ For he protects them with his eye.
+VII
+Dear Lord, if I am one of thine,
+ 
+
+ From anxious thoughts I would be free;
+ 
+
+ To trust and love and praise is mine,
+ 
+
+ The care of all belongs to thee.
+## 95 The Garden
+By Newton
+I
+A garden contemplation suits,
+ 
+
+ And may instruction yield
+ 
+
+ Sweeter than all the flow’rs and fruits
+ 
+
+ With which the spot is fill’d.
+II
+Eden was Adam’s dwelling-place
+ 
+
+ While blest with innocence;
+ 
+
+ But sin o’er whelm’d him with disgrace?
+ 
+
+ And drove the rebel thence.
+III
+Oft as the garden-walk we tread
+ 
+
+ We should bemoan his fall;
+ 
+
+ The trespass of our legal head
+ 
+
+ In ruin plunged us all.
+IV
+The garden of Gethsemane
+ 
+
+ The second Adam saw
+ 
+
+ Oppress’d with woe, to set us free
+ 
+
+ From the avenging law.
+V
+How stupid we, who can forget,
+ 
+
+ With gardens in our sight,
+ 
+
+ His agonies and bloody sweat
+ 
+
+ In that tremendous night!
+VI
+His church as a fair garden stands,
+ 
+
+ Which walls of love enclose;
+ 
+
+ Each tree is planted by his hands,
+ 
+
+ And by his blessing grows.
+VII
+Believing hearts are gardens too,
+ 
+
+ For grace has sown its seeds
+ 
+
+ Where once, by nature, nothing grew
+ 
+
+ But thorns and worthless weeds.
+VIII
+Such themes to those who Jesus love
+ 
+
+ May constant joys afford,
+ 
+
+ And make a barren desert prove
+ 
+
+ The garden of the Lord.
+## 96 For a Garden-Seat or Summer-House
+By Newton
+I
+A shelter, from the rain or wind,
+ 
+
+ A shade from scorching heat,
+ 
+
+ A resting-place you here may find,
+ 
+
+ To ease your weary feet,
+II
+Enter, but with a serious thought,
+ 
+
+ Consider who is near!
+ 
+
+ This is a consecrated spot﻿—
+ 
+
+ The Lord is present here!
+III
+A question of the utmost weight,
+ 
+
+ While reading, meets your eye;
+ 
+
+ May conscience witness to your state,
+ 
+
+ And give a true reply!
+IV
+Is Jesus to your heart reveal’d
+ 
+
+ As full of truth and grace?
+ 
+
+ And is his name your hope and shield,
+ 
+
+ Your rest and hiding-place?
+V
+If so, for all events prepared,
+ 
+
+ Whatever storms may rise,
+ 
+
+ He whom you love will safely guard,
+ 
+
+ And guide you to the skies.
+VI
+No burning sun or storm or rain
+ 
+
+ Will there your peace annoy;
+ 
+
+ No sin, temptation, grief, or pain,
+ 
+
+ Intrude to damp your joy.
+VII
+But if his name you have not known,
+ 
+
+ Oh, seek him while you may!
+ 
+
+ Lest you should meet his awful frown
+ 
+
+ In that approaching day.
+VIII
+When the avenging Judge you see
+ 
+
+ With terrors on his brow,
+ 
+
+ Where can you hide, or whither flee,
+ 
+
+ If you reject him now?
+## 97 The Creatures in the Lord’s Hands
+By Newton
+I
+The water stood like walls of brass,
+ 
+
+ To let the sons of Isr’el pass,
+ 
+
+ And from the rock in rivers burst,
+ 
+
+ At Moses pray’r, to quench their thirst.
+II
+The fire, restrain’d by God’s commands,
+ 
+
+ Could only burn his people’s bands;
+ 
+
+ Too faint, when he was with them there,
+ 
+
+ To singe their garments or their hair.
+III
+At Daniel’s feet the lions lay
+ 
+
+ Like harmless lambs, nor touch’d their prey;
+ 
+
+ And ravens, which on carrion fed,
+ 
+
+ Procured Elijah flesh and bread.
+IV
+Thus creatures only can fulfill
+ 
+
+ Their great Creator’s holy will;
+ 
+
+ And when his servants need their aid,
+ 
+
+ His purposes must be obey’d.
+V
+So, if his blessing he refuse,
+ 
+
+ Their pow’r to help they quickly lose;
+ 
+
+ Sure as on creatures we depend,
+ 
+
+ Our hopes in disappointment end.
+VI
+Then let us trust the Lord alone,
+ 
+
+ And creature-confidence disown:
+ 
+
+ Nor if they threaten need we fear,
+ 
+
+ They cannot hurt if he be near.
+VII
+If instruments of pain they prove,
+ 
+
+ Still they are guided by his love;
+ 
+
+ As lancets by the surgeon’s skill,
+ 
+
+ Which wound to cure, and not to kill.
+## 98 On Dreaming
+By Newton
+I
+When slumber seals our weary eyes,
+ 
+
+ The busy fancy wakeful keeps;
+ 
+
+ The scenes which then before us rise
+ 
+
+ Prove something in us never sleeps.
+II
+As in another world we seem,
+ 
+
+ A new creation of our own;
+ 
+
+ All appears real, though but a dream,
+ 
+
+ And all familiar, though unknown.
+III
+Sometimes, the mind beholds again
+ 
+
+ The past day’s business in review﻿—
+ 
+
+ Resumes the pleasure or the pain,
+ 
+
+ And sometimes all we meet is new.
+IV
+What schemes we form, what pains we take!
+ 
+
+ We fight, we run, we fly, we fall;
+ 
+
+ But all is ended when we wake,
+ 
+
+ We scarcely then a trace recall.
+V
+But though our dreams are often wild,
+ 
+
+ Like clouds before the driving storm;
+ 
+
+ Yet some important may be styled,
+ 
+
+ Sent to admonish or inform.
+VI
+What mighty agents have access,
+ 
+
+ What friends from heaven, or foes from hell,
+ 
+
+ Our minds to comfort or distress,
+ 
+
+ When we are sleeping, who can tell?
+VII
+One thing, at least, and ’tis enough,
+ 
+
+ We learn from this surprising fact﻿—
+ 
+
+ Our dreams afford sufficient proof,
+ 
+
+ The soul without the flesh can act.
+VIII
+This life, which mortals so esteem,
+ 
+
+ That many choose it for their all,
+ 
+
+ They will confess, was but a dream,
+ 
+
+ When waken’d by death’s awful call.
+## 99 The World
+By Newton
+I
+See, the world for youth prepares,
+ 
+
+ Harlot-like, her gaudy snares!
+ 
+
+ Pleasures round her seem to wait,
+ 
+
+ But ’tis all a painted cheat.
+II
+Rash and unsuspecting youth
+ 
+
+ Thinks to find thee always smooth,
+ 
+
+ Always kind, till better taught,
+ 
+
+ By experience dearly bought.
+III
+So the calm but faithless sea,
+ 
+
+ (Lively emblem, world, of thee,)
+ 
+
+ Tempts the shepherd from the shore,
+ 
+
+ Foreign regions to explore.
+IV
+While no wrinkled wave is seen,
+ 
+
+ While the sky remains serene,
+ 
+
+ Fill’d with hopes and golden schemes.
+ 
+
+ Of a storm he little dreams.
+V
+By ere long the tempest raves,
+ 
+
+ Then he trembles at the waves,
+ 
+
+ Wishes then he had been wise,
+ 
+
+ But too late﻿—he sinks and dies.
+VI
+Hapless, thus, are they, vain world,
+ 
+
+ Soon on rocks of ruin hurl’d,
+ 
+
+ Who, admiring thee untried,
+ 
+
+ Court thy pleasure, wealth, or pride.
+VII
+Such a shipwreck had been mine.
+ 
+
+ Had not Jesus (name divine!)
+ 
+
+ Saved me with a mighty hand,
+ 
+
+ And restored my soul to land.
+VIII
+Now, with gratitude I raise
+ 
+
+ Ebenezers to his praise;
+ 
+
+ Now my rash pursuits are o’er,
+ 
+
+ I can trust thee, world, no more.
+## 100 The Enchantment Dissolved
+By Newton
+I
+Blinded in youth by Satan’s arts,
+ 
+
+ The world to our unpractised hearts
+ 
+
+ A flatt’ring prospect shows;
+ 
+
+ Our fancy forms a thousand schemes
+ 
+
+ Of gay delights, and golden dreams.
+ 
+
+ And undisturb’d repose.
+II
+So in the desert’s dreary waste,
+ 
+
+ By magic power produced in haste,
+ 
+
+ (As ancient fables say,)
+ 
+
+ Castles and groves and music sweet,
+ 
+
+ The senses of the trav’ler meet,
+ 
+
+ And stop him in his way.
+III
+But while he listens with surprise,
+ 
+
+ The charm dissolves, the vision dies﻿—
+ 
+
+ ’Twas but enchanted ground.
+ 
+
+ Thus if the Lord our spirit touch,
+ 
+
+ The world, which promised us so much,
+ 
+
+ A wilderness is found.
+IV
+At first we start and feel distress’d,
+ 
+
+ Convinced we never can have rest
+ 
+
+ In such a wretched place;
+ 
+
+ But he whose mercy breaks the charm,
+ 
+
+ Reveals his own almighty arm,
+ 
+
+ And bids us seek his face.
+V
+Then we begin to live indeed,
+ 
+
+ When from our sin and bondage freed
+ 
+
+ By this beloved Friend:
+ 
+
+ We follow him from day to day,
+ 
+
+ Assured of grace through all the way,
+ 
+
+ And glory at the end.

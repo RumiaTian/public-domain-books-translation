@@ -1,0 +1,55 @@
+## VIII Undefeatable or Uncontrollable?
+Fifteen minutes after they started, they came to Shesto. They were forced to land, and explain, for their relux ship was decidedly not the popular Talsonian idea of a lifesaver.
+Shesto was defended by two of the machines, and each machine had been equipped with two fully charged accumulators. Their four possible shots were hoped to be sufficient protection, and, so far, had been. The city had been attacked twice, according to Tho Stan Drel, the Talsonian: once by a single ship which had been instantly destroyed, and once by a fleet of six ships. The interval had permitted time to recharge the discharged accumulator, and the fleet had been badly treated. Of the six ships, four had been brought down in rapid succession, and the remaining two ships had fled.
+When the first city had been wiped out, with a loss of life well in the hundreds of thousands, the other cities had, to limit of their abilities, set up the protective apparatus. Apparently the Thessians were holding off for the present.
+“In a way,” said Morey seriously, “it was distinctly fortunate that we were attacked almost at once. Their instantaneous system of destruction would have worked for the one shot needed to send the *Ancient Mariner* to eternal blazes.” He laughed, but it was a slightly nervous laugh.
+The terrestrial ship landed in a great grassy court, and out of respect for the parklike smoothness of the turf, Arcot left the ship on its power units, suspended a bit above the surface. Then he, Morey and the Talsonian left the ship. Zezdon Afthen was left with the ship and with Wade in charge, for if some difficulties were encountered, Wade would be able to help them with the ship, and Zezdon Afthen with the tremendous power of his thought locating apparatus, was busy seeking out the Thessian stronghold.
+A party of men of Talso met the terrestrians outside the ship.
+“Welcome, Men of another world, and to you go our thanks for the destruction of one of our enemies.” The clear thoughts of the spokesman evinced his ability to concentrate.
+“And to your world must go our thanks for saving of our lives, and more important, our ship,” replied Arcot. “For the ship represents a thing of enormous value to this entire star-system.”
+“I see﻿—understand﻿—your﻿—thoughts that you wish to learn more of this weapon we use. You understand that it is a question among us as to whether it is undefeatable, uncontrollable or just un-understandable. We have had fair success with it. It is not a weapon, was not developed as such; it was an experiment in the line of electric-waves. How it works, what it is, what happens﻿—we do not know.
+“But men who can create so marvelous a ship as this of yours, capable of destroying a ship of the Thessians with their own weapons must certainly be able to understand any machine we may make﻿—and you have power?” he finished eagerly.
+“Practically infinite power. I will throw into any power line you suggest, all the direct current you wish.” Arcot’s thoughts were pure reflection, but the Talsonian brightened at once.
+“I feared it might be alternating﻿—but we can handle direct current. All our transmission is done at high voltage direct current. What potential do you generate? Will we have to install changers?”
+“We generate DC at any voltage up to fifty million, any power up to that needed to lift ten trillion men through their own height in this time a second.” The power represented approximately twenty trillion horsepower.
+The Talsonian’s face went blank with amazement as he looked at the ship. “In that tiny thing you generate such power?” he asked in amazement.
+“In that tiny ship we generate more than one million times that power,” Arcot said.
+“Our power troubles are over,” declared the military man emphatically.
+“Our troubles are not over,” replied a civilian who had joined the party, with equal emphasis. “As a matter of fact, they are worse than ever. More tantalizing. What he says means that we have a tremendous power source, but it is in one spot. How are you going to transmit the power? We can’t possibly move any power anywhere near that amount. We couldn’t touch it to our lines without having them all go up in one instantaneous blaze of glory.
+“We cannot drain such a lake of power through our tiny power pipes of silver.”
+“This man is Stel Felso Theu,” said Tho Stan Drel. “The greatest of our scientists, the man who has invented this weapon which alone seems to offer us hope. And I am afraid he is right. See, there is the University. For the power requirements of their laboratories, a heavy power line has been installed, and it was hoped that you could carry leads into it.” His face showed evident despair greater than ever.
+“We can always feed some power into the lines. Let us see just what hope there is. I think that it would be wiser to investigate the power lines at once,” suggested Morey.
+Ten minutes later, with but a single officer now accompanying them, Tho Stan Drel, the terrestrial scientist, and the Talsonian scientist were inspecting the power installation.
+They had entered a large stone building, into which led numerous very heavy silver wires. The insulators were silicate glass. Their height suggested a voltage of well over one hundred thousand, and such heavy cables suggested a very heavy amperage, so that a tremendous load was expected.
+Within the building were a series of gigantic glass tubes, their walls fully three inches thick, and even so, braced with heavy platinum rods. Inside the tubes were tremendous elements such as the tiny tubes of their machine carried. Great cables led into them, and now their heating coils were glowing a somberly deep red.
+Along the walls were the switchboards, dozens of them, all sizes, all types of instruments, strange to the eyes of the terrestrians, and in practically all the light-beam indicator system was used, no metallic pointers, but tiny mirrors directing a very fine line of brilliant light acted as a needle. The system thus had practically no inertia.
+“Are these the changers?” asked Arcot gazing at the gigantic tubes.
+“They are; each tube will handle up to a hundred thousand volts,” said Stel Felso Theu.
+“But I fear, Stel Felso Theu, that these tubes will carry power only one way; that is, it would be impossible for power to be pumped from here into the power house, though the process can be reversed,” pointed out Arcot. “Radio tubes work only one way, which is why they can act as rectifiers. The same was true of these tubes. They could carry power one way only.”
+“True, of tubes in general,” replied the Talsonian, “and I see by that that you know the entire theory of our tubes, which is rather abstruse.”
+“We use them on the ship, in special form,” interrupted Arcot.
+“Then I will only say that the college here has a very complete electric power plant of its own. On special occasions, the power generated here is needed by the city, and so we arranged the tubes with switches which could reverse the flow. At present they are operating to pour power into the city.
+“If your ship can generate such tremendous power, I suspect that it would be wiser to eliminate the tubes from the circuit, for they put certain restrictions on the line. The main power plant in the city has tube banks capable of handling anything the line would. I suggest that your voltage be set at the maximum that the line will carry without breakdown, and the amperage can be made as high as possible without heat loss.”
+“Good enough. The line to the city power will stand what pressure?”
+“It is good for the maximum of these tubes,” replied the Talsonian.
+“Then get into communication with the city plant and tell them to prepare for every work-unit they can carry. I’ll get the generator.” Arcot turned, and flew on his power suit to the ship.
+In a few moments he was back, a molecular pistol in one hand, and suspended in front of him on nothing but a ray of ionized air, to all appearances, a cylindrical apparatus, with a small cubical base.
+The cylinder was about four feet long, and the cubical box about eighteen inches on a side.
+“What is that, and what supports it?” asked the Talsonian scientists in surprise.
+“The thing is supported by a ray which directs the molecules of a small bar in the top clamp, driving it up,” explained Morey, “and that is the generator.”
+“That! Why it is hardly as big as a man!” exclaimed the Talsonian.
+“Nevertheless, it can generate a billion horsepower. But you couldn’t get the power away if you did generate it.” He turned toward Arcot, and called to him.
+“Arcot﻿—set it down and let her rip on about half a million horsepower for a second or so. Air arc. Won’t hurt it﻿—she’s made of lux and relux.”
+Arcot grinned, and set it on the ground. “Make an awful hole in the ground.”
+“Oh﻿—go ahead. It will satisfy this fellow, I think,” replied Morey.
+Arcot pulled a very thin lux metal cord from his pocket, and attached one end of a long loop to one tiny switch, and the other to a second. Then he adjusted three small dials. The wire in hand, he retreated to a distance of nearly two hundred feet, while Morey warned the Talsonians back. Arcot pulled one end of his cord.
+Instantly a terrific roar nearly deafened the men, a solid sheet of blinding flame reached in a flaming cone into the air for nearly fifty feet. The screeching roar continued for a moment, then the heat was so intense that Arcot could stand no more, and pulled the cord. The flame died instantly, though a slight ionization clung briefly. In a moment it had cooled to white, and was cooling slowly through orange﻿—red deep﻿—red﻿—
+The grass for thirty feet about was gone, the soil for ten feet about was molten, boiling. The machine itself was in a little crater, half sunk in boiling rock. The Talsonians stared in amazement. Then a sort of sigh escaped them and they started forward. Arcot raised his molecular pistol, a blue green ray reached out, and the rock suddenly was black. It settled swiftly down, and a slight depression was the only evidence of the terrific action.
+Arcot walked over the now cool rock, cooled by the action of the molecular ray. In driving the molecules downward, the work was done by the heat of these molecules. The machine was frozen in the solid lava.
+“Brilliant idea, Morey,” said Arcot disgustedly. “It’ll be a nice job breaking it loose.”
+Morey stuck the lux metal bar in the top clamp, walked off some distance, and snapped on the power. The rock immediately about the machine was molten again. A touch of the molecular pistol to the lux metal bar, and the machine jumped free of the molten rock.
+Morey shut off the power. The machine was perfectly clean, and extremely hot.
+“And your ship is made of that stuff!” exclaimed the Talsonian scientist. “What will destroy it?”
+“Your weapon will, apparently.”
+“But do you believe that we have power enough?” asked Morey with a smile.
+“No﻿—it’s entirely too much. Can you tone that condensed lightning bolt down to a workable level?”

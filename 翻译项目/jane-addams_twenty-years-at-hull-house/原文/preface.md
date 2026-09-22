@@ -1,0 +1,19 @@
+## Preface
+
+Every preface is, I imagine, written after the book has been completed and now that I have finished this volume I will state several difficulties which may put the reader upon his guard unless he too postpones the preface to the very last.
+
+Many times during the writing of these reminiscences, I have become convinced that the task was undertaken all too soon. One’s fiftieth year is indeed an impressive milestone at which one may well pause to take an accounting, but the people with whom I have so long journeyed have become so intimate a part of my lot that they cannot be written of either in praise or blame; the public movements and causes with which I am still identified have become so endeared, some of them through their very struggles and failures, that it is difficult to discuss them.
+
+It has also been hard to determine what incidents and experiences should be selected for recital, and I have found that I might give an accurate report of each isolated event and yet give a totally misleading impression of the whole, solely by the selection of the incidents. For these reasons and many others I have found it difficult to make a faithful record of the years since the autumn of 1889 when without any preconceived social theories or economic views, I came to live in an industrial district of Chicago.
+
+If the reader should inquire why the book was ever undertaken in the face of so many difficulties, in reply I could instance two purposes, only one of which in the language of organized charity, is “worthy.” Because Settlements have multiplied so easily in the United States I hoped that a simple statement of an earlier effort, including the stress and storm, might be of value in their interpretation and possibly clear them of a certain charge of superficiality. The unworthy motive was a desire to start a “backfire,” as it were, to extinquish two biographies of myself, one of which had been submitted to me in outline, that made life in a Settlement all too smooth and charming.
+
+The earlier chapters present influences and personal motives with a detail which will be quite unpardonable if they fail to make clear the personality upon whom various social and industrial movements in Chicago reacted during a period of twenty years. No effort is made in the recital to separate my own history from that of Hull House during the years in which I was “launched deep into the stormy intercourse of human life” for, so far as a mind is pliant under the pressure of events and experiences, it becomes hard to detach it.
+
+It has unfortunately been necessary to abandon the chronological order in favor of the topical, for during the early years at Hull House, time seemed to afford a mere framework for certain lines of activity and I have found in writing this book, that after these activities have been recorded, I can scarcely recall the scaffolding.
+
+More than a third of the material in the book has appeared in *The American Magazine*, one chapter of it in *McClure’s Magazine*, and earlier statements of the Settlement motive, published years ago, have been utilized in chronological order because it seemed impossible to reproduce their enthusiasm.
+
+It is a matter of gratification to me that the book is illustrated from drawings made by Miss Norah Hamilton of Hull House, and the cover designed by another resident, Mr. Frank Hazenplug.1 I am indebted for the making of the index and for many other services to Miss Clara Landsberg, also of Hull House.
+
+If the conclusions of the whole matter are similar to those I have already published at intervals during the twenty years at Hull House, I can only make the defense that each of the earlier books was an attempt to set forth a thesis supported by experience, whereas this volume endeavors to trace the experiences through which various conclusions were forced upon me.

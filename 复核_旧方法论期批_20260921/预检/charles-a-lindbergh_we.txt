@@ -1,0 +1,439 @@
+ (23 files)
+  块: O=797 C=797 OK | 段: EN=874 CN=873 !!差 1
+     [不对称] dedication.md                                        O=1 C=1 段EN=12 段CN=11
+  英文残留(剔括注) top: OX-×5, DH×4, TW-×3, MB-×3, DH-×2, JN-×1, JN×1, NC-×1, J-×1
+  项目说明备注: - 本书为 20 世纪 20 年代航空文献，大量早期航空术语（barnstorming、wing-walking、double drop 等）以术语表译法为准，首次出现附原文。 / - 人名、地名（尤其纽约—巴黎航线沿线机场：罗斯福机场、勒布尔热等）严格按术语表统一。 / - 极小文件（如 author-s-note.md、a-little-of-what-the-world-thought-of-lindbergh.md）也须逐字翻译，不得省略。
+  -- 术语表硬约束行 432 条:
+     barnstorming                   → 特技巡飞 / "barnstorming 源×20    译×20   
+     wing-walking                   → 机翼行走                 源×5     译×5    
+     solo                           → 单飞                   源×12    译×16   
+     cross-country flying           → 越野飞行 / 跨州飞行          源×0     译×1     ★源0次(幽灵?)
+     parachute jump                 → 跳伞                   源×6     译×24   
+     double drop                    → 双伞连跳                 源×3     译×4    
+     cockpit                        → 座舱                   源×43    译×43   
+     wing tip                       → 翼尖                   源×5     译×6    
+     joystick / stick               → 操纵杆                  源×4     译×3    
+     rudder                         → 方向舵                  源×7     译×6    
+     elevator                       → 升降舵                  源×0     译×0     ★源0次(幽灵?)
+     aileron                        → 副翼                   源×0     译×1     ★源0次(幽灵?)
+     throttle                       → 油门                   源×12    译×25   
+     tachometer                     → 转速表                  源×0     译×0     ★源0次(幽灵?)
+     altimeter                      → 高度表                  源×4     译×4    
+     airspeed indicator             → 空速表                  源×0     译×1     ★源0次(幽灵?)
+     compass                        → 罗盘                   源×3     译×2    
+     earth-inductor compass         → 地磁感应罗盘               源×0     译×1     ★源0次(幽灵?)
+     drift indicator                → 偏流仪                  源×0     译×0     ★源0次(幽灵?)
+     horizon                        → 地平线                  源×5     译×4    
+     ceiling                        → 云幕高度 / 升限            源×4     译×1     落位偏低 1/4
+     fog                            → 雾                    源×39    译×52   
+     stall                          → 失速                   源×3     译×9    
+     tailspin / spin                → 螺旋俯冲 / 尾旋            源×7     译×2     落位偏低 2/7
+     glide                          → 滑翔                   源×2     译×4    
+     take-off                       → 起飞                   源×0     译×80    ★源0次(幽灵?)
+     landing                        → 降落 / 着陆              源×60    译×177  
+     forced landing                 → 迫降                   源×6     译×5    
+     emergency jump                 → 应急跳伞                 源×2     译×4    
+     air mail / airmail             → 航空邮政 / 航空邮件          源×21    译×6     落位偏低 6/21
+     air mail pilot                 → 航邮飞行员                源×2     译×4    
+     night flying                   → 夜航                   源×4     译×5    
+     contact flying                 → 目视飞行                 源×0     译×0     ★源0次(幽灵?)
+     blind flying                   → 盲飞 / 仪表飞行            源×1     译×3    
+     flying field                   → 飞行场                  源×6     译×9    
+     hangar                         → 机库                   源×6     译×10   
+     propeller                      → 螺旋桨                  源×22    译×27   
+     engine                         → 发动机                  源×35    译×70   
+     "Whirlwind" engine             → "旋风"发动机              源×0     译×0     ★源0次(幽灵?)
+     monoplane                      → 单翼机                  源×3     译×4    
+     biplane                        → 双翼机                  源×1     译×1    
+     fuselage                       → 机身                   源×5     译×9    
+     stabilizer                     → 水平尾翼 / 安定面           源×3     译×3    
+     wing-walker                    → 机翼行走演员               源×0     译×0     ★源0次(幽灵?)
+     plane / ship                   → 飞机                   源×295   译×330   残留「座机」×10
+     load                           → 载重 / 载荷              源×11    译×7    
+     gasoline / fuel                → 汽油 / 燃料              源×50    译×36   
+     oil gauge                      → 滑油压力表                源×0     译×0     ★源0次(幽灵?)
+     flying license                 → 飞行执照                 源×0     译×0     ★源0次(幽灵?)
+     pilot's wings                  → 飞行员翼章                源×2     译×2    
+     cadet flying                   → 学员飞行                 源×0     译×2     ★源0次(幽灵?)
+     Air Service                    → 航空队                  源×7     译×5    
+     Air Corps                      → 航空兵团                 源×4     译×3    
+     Reserve officer                → 预备役军官                源×1     译×1    
+     National Guard                 → 国民警卫队                源×6     译×6    
+     Orteig Prize                   → 奥泰格奖                 源×1     译×1    
+     transatlantic flight           → 跨大西洋飞行               源×2     译×4    
+     non-stop flight                → 不着陆飞行 / 直达飞行         源×0     译×5     ★源0次(幽灵?)
+     great-circle course            → 大圆航线                 源×0     译×4     ★源0次(幽灵?)
+     compass course                 → 罗盘航向                 源×6     译×6    
+     Longitude                      → 经度                   源×0     译×0     ★源0次(幽灵?)
+     dead reckoning                 → 航位推算                 源×1     译×1    
+     turbulence / rough air         → 颠簸 / 扰动气流            源×2     译×3    
+     altitude                       → 高度                   源×25    译×37   
+     ceiling and visibility         → 云幕与能见度               源×1     译×0     ★译0次(未落位?)
+     patrol                         → 巡逻                   源×0     译×0     ★源0次(幽灵?)
+     formation flying               → 编队飞行                 源×3     译×2    
+     gunnery                        → 射击 / 军械训练            源×3     译×10   
+     R.O.T.C.                       → 后备军官训练团（ROTC）        源×1     译×1    
+     Spirit of St. Louis            → 圣路易斯精神号              源×12    译×12   
+     Lincoln Standard               → 林肯·标准式（Lincoln Stand 源×4     译×3    
+     Curtiss JN-4 "Jenny"           → 柯蒂斯 JN-4"珍妮"（Curtiss 源×0     译×0     ★源0次(幽灵?)
+     Canuck                         → "加拿大佬"式（Canuck）      源×10    译×1     落位偏低 1/10
+     De Haviland                    → 德·哈维兰（de Havilland）  源×10    译×11   
+     Standard J-1                   → 标准 J-1 式             源×0     译×0     ★源0次(幽灵?)
+     Fokker                         → 福克式                  源×0     译×0     ★源0次(幽灵?)
+     Wright Field                   → 莱特机场                 源×0     译×0     ★源0次(幽灵?)
+     Brooks Field                   → 布鲁克斯机场               源×10    译×9    
+     Kelly Field                    → 凯利机场                 源×5     译×6    
+     Lambert Field / St. Louis fiel → 兰伯特机场                源×11    译×9    
+     Roosevelt Field                → 罗斯福机场                源×2     译×2    
+     Le Bourget                     → 勒布尔热机场               源×18    译×4     落位偏低 4/18
+     Nebraska Aircraft Corporation  → 内布拉斯加飞机公司            源×2     译×2    
+     Ryan Airlines                  → 瑞安航空公司               源×3     译×1     落位偏低 1/3
+     Robertson Aircraft Corporation → 罗伯逊飞机公司              源×1     译×2    
+     University of Wisconsin        → 威斯康星大学               源×3     译×3    
+     Camp Knox                      → 诺克斯营                 源×2     译×2    
+     Charles A. Lindbergh           → 查尔斯·A·林德伯格           源×6     译×6    
+     Evangeline Lodge Land Lindberg → 伊万杰琳·洛奇·兰德·林德伯格      源×0     译×0     ★源0次(幽灵?)
+     Ola Mansk Lindbergh            → 奥拉·曼斯克·林德伯格          源×0     译×1     ★源0次(幽灵?)
+     Otto Timm                      → 奥托·蒂姆                源×1     译×1    
+     I. O. Biffle                   → I·O·比弗尔              源×1     译×1    
+     E. G. Bahl                     → E·G·巴尔               源×1     译×1    
+     H. J. Lynch                    → H·J·林奇               源×1     译×1    
+     Charles Harden                 → 查尔斯·哈登               源×0     译×1     ★源0次(幽灵?)
+     Ray Page                       → 雷·佩奇                 源×1     译×1    
+     Myron T. Herrick               → 迈伦·T·赫里克             源×2     译×2    
+     Raymond Orteig                 → 雷蒙德·奥泰格              源×3     译×3    
+     Donald A. Hall                 → 唐纳德·A·霍尔             源×0     译×0     ★源0次(幽灵?)
+     B. F. Mahoney                  → B·F·马奥尼              源×0     译×0     ★源0次(幽灵?)
+     Frank Hawks                    → 弗兰克·霍克斯              源×0     译×0     ★源0次(幽灵?)
+     Richard E. Byrd                → 理查德·E·伯德             源×1     译×1    
+     Clarence Chamberlin            → 克拉伦斯·张伯伦             源×0     译×0     ★源0次(幽灵?)
+     Nungesser                      → 农热塞尔                 源×6     译×6    
+     Coli                           → 科利                   源×6     译×6    
+     Joan of Arc                    → 圣女贞德                 源×1     译×1    
+     Lafayette                      → 拉法耶特                 源×2     译×2    
+     Attila                         → 阿提拉                  源×1     译×1    
+     King Louis the Sixteenth       → 路易十六                 源×1     译×1    
+     Cal Coolidge / President Cooli → 柯立芝总统                源×2     译×4    
+     Detroit                        → 底特律                  源×11    译×11   
+     Little Falls                   → 利特尔福尔斯               源×8     译×8    
+     Minnesota                      → 明尼苏达（州）              源×22    译×22   
+     Michigan                       → 密歇根（州）               源×5     译×5    
+     Wisconsin                      → 威斯康星（州）              源×7     译×8    
+     Madison                        → 麦迪逊                  源×5     译×5    
+     Lincoln, Nebraska              → 林肯市（内布拉斯加）           源×2     译×21   
+     Sauk Center                    → 索克森特                 源×1     译×1    
+     Washington (D.C.)              → 华盛顿（哥伦比亚特区）          源×31    译×30   
+     New York                       → 纽约                   源×77    译×75   
+     Paris                          → 巴黎                   源×64    译×63   
+     St. Louis                      → 圣路易斯                 源×46    译×46   
+     San Diego                      → 圣迭戈                  源×12    译×11   
+     Roosevelt Field                → 罗斯福机场                源×0     译×0     ★源0次(幽灵?)
+     Le Bourget                     → 勒布尔热                 源×0     译×14    ★源0次(幽灵?)
+     Long Island                    → 长岛                   源×3     译×9    
+     Cape Cod                       → 科德角                  源×2     译×2    
+     Nova Scotia                    → 新斯科舍                 源×7     译×7    
+     Newfoundland                   → 纽芬兰                  源×8     译×8    
+     Ireland                        → 爱尔兰                  源×7     译×8    
+     Cherbourg                      → 瑟堡                   源×8     译×8    
+     Brussels                       → 布鲁塞尔                 源×10    译×9    
+     London                         → 伦敦                   源×17    译×16   
+     England                        → 英格兰 / 英国             源×28    译×37   
+     the Seine                      → 塞纳河                  源×2     译×2    
+     Notre Dame                     → 巴黎圣母院                源×1     译×1    
+     Place de la Concorde           → 协和广场                 源×2     译×2    
+     Eiffel Tower                   → 埃菲尔铁塔                源×3     译×3    
+     the Marne                      → 马恩河                  源×1     译×1    
+     Rheims / Reims                 → 兰斯                   源×1     译×1    
+     the Potomac                    → 波托马克河                源×4     译×4    
+     Atlantic Ocean                 → 大西洋                  源×1     译×21   
+     Mississippi River              → 密西西比河                源×1     译×3    
+     Panama                         → 巴拿马                  源×1     译×1    
+     Jacksonville                   → 杰克逊维尔                源×1     译×1    
+     Kansas / Colorado              → 坎萨斯（堪萨斯）/ 科罗拉多       源×14    译×0     ★译0次(未落位?)
+     Bird City                      → 伯德城                  源×1     译×1    
+     Omaha                          → 奥马哈                  源×2     译×2    
+     Chicago                        → 芝加哥                  源×12    译×12   
+     Springfield                    → 斯普林菲尔德               源×5     译×5    
+     Peoria                         → 皮奥里亚                 源×8     译×8    
+     Cleveland                      → 克利夫兰                 源×1     译×1    
+     Cincinnati                     → 辛辛那提                 源×0     译×0     ★源0次(幽灵?)
+     Indianapolis                   → 印第安纳波利斯              源×0     译×0     ★源0次(幽灵?)
+     St. Cloud                      → 圣克劳德                 源×0     译×0     ★源0次(幽灵?)
+     Ann Arbor                      → 安娜堡                  源×1     译×1    
+     Mather Field                   → 马瑟机场                 源×0     译×0     ★源0次(幽灵?)
+     Selfridge Field                → 塞尔弗里奇机场              源×0     译×0     ★源0次(幽灵?)
+     Cheyenne                       → 夏延                   源×0     译×0     ★源0次(幽灵?)
+     Salt Lake City                 → 盐湖城                  源×2     译×2    
+     Reno                           → 里诺                   源×0     译×0     ★源0次(幽灵?)
+     Vernal                         → 弗纳尔                  源×0     译×0     ★源0次(幽灵?)
+     Rock Springs                   → 罗克斯普林斯               源×0     译×0     ★源0次(幽灵?)
+     Bellefonte                     → 贝尔丰特                 源×0     译×0     ★源0次(幽灵?)
+     Cleveland Hopkins              → 克利夫兰                 源×0     译×0     ★源0次(幽灵?)
+     Hadley Field                   → 哈德利机场                源×0     译×0     ★源0次(幽灵?)
+     Coronado                       → 科罗纳多                 源×0     译×0     ★源0次(幽灵?)
+     Pacific Ocean                  → 太平洋                  源×0     译×3     ★源0次(幽灵?)
+     Dole Flight                    → 多尔飞行/多尔奖参赛机          源×0     译×0     ★源0次(幽灵?)
+     "WE" / We                      → 《我们》（"WE"）           源×388   译×2     落位偏低 2/388
+     Congressional Medal of Honor   → 国会荣誉勋章               源×0     译×0     ★源0次(幽灵?)
+     Distinguished Flying Cross     → 杰出飞行十字勋章             源×2     译×2    
+     flying circus                  → 飞行马戏团                源×2     译×3    
+     ground loop                    → 地面打转                 源×0     译×1     ★源0次(幽灵?)
+     gale / squall                  → 大风/飑                 源×0     译×2     ★源0次(幽灵?)
+     nautical mile                  → 海里                   源×0     译×0     ★源0次(幽灵?)
+     statute mile                   → 英里                   源×0     译×58    ★源0次(幽灵?)
+     knot                           → 节                    源×3     译×19   
+     horse power (h.p.)             → 马力                   源×0     译×6     ★源0次(幽灵?)
+     weather bureau                 → 气象局                  源×2     译×2    
+     barometer                      → 气压表                  源×0     译×0     ★源0次(幽灵?)
+     whipstall                      → 鞭式失速                 源×2     译×2    
+     chandelle                      → 急跃升转弯                源×0     译×1     ★源0次(幽灵?)
+     wing-over                      → 跃升倒转                 源×0     译×3     ★源0次(幽灵?)
+     split air turn                 → 分解转弯                 源×1     译×1    
+     "ground flying"                → "地面飞行"               源×0     译×2     ★源0次(幽灵?)
+     hedgehopping                   → 掠地飞行                 源×2     译×1    
+     spot landing                   → 定点降落                 源×3     译×3    
+     "three sixty"                  → "三百六"                源×0     译×2     ★源0次(幽灵?)
+     "one eighty"                   → "一百八"                源×0     译×2     ★源0次(幽灵?)
+     Lufberry circle                → 卢贝里圆阵                源×1     译×1    
+     "flip flops"                   → "翻跟头"                源×0     译×2     ★源0次(幽灵?)
+     check pilot                    → 考核飞行员                源×5     译×5    
+     "Benzine Board"                → "汽油委员会"              源×0     译×7     ★源0次(幽灵?)
+     washout / washing out          → 淘汰生 / 淘汰             源×6     译×16   
+     whip... (spreader bar/board)   → 撑杆 / 翼间撑板            源×21    译×2     落位偏低 2/21
+     mail pit                       → 邮舱                   源×3     译×4    
+     parachute flare                → 降落伞照明弹               源×2     译×0     ★译0次(未落位?)
+     gravity tank / pressure tank   → 重力油箱 / 压力油箱          源×2     译×2    
+     reversement                    → 回转                   源×0     译×1     ★源0次(幽灵?)
+     Jenny Immelman                 → "珍妮"式殷麦曼             源×2     译×2    
+     Curtiss OX-5                   → 柯蒂斯 OX-5 发动机         源×2     译×1    
+     Hispano-Suiza ("Hisso")        → 伊斯帕诺-苏莎（"希索"）发动机     源×0     译×1     ★源0次(幽灵?)
+     Liberty motor                  → "自由"式发动机             源×1     译×3    
+     S.E.5                          → S.E.5 战斗机            源×7     译×0     ★译0次(未落位?)
+     MB-3 / MB-3A                   → MB-3 / MB-3A 驱逐机     源×3     译×3    
+     Martin Bomber                  → 马丁轰炸机                源×1     译×1     残留「自由」×7
+     TW-3 / TW-5                    → TW-3 / TW-5 教练机      源×3     译×2    
+     Vought                         → 沃特式                  源×0     译×1     ★源0次(幽灵?)
+     Sperry messenger               → 斯佩里"信使"式             源×1     译×1    
+     U.S.S. Memphis                 → "孟菲斯"号               源×0     译×13    ★源0次(幽灵?)
+     Irving seat parachute          → 欧文座式降落伞              源×0     译×1     ★源0次(幽灵?)
+     Browning gun                   → 勃朗宁机枪                源×3     译×3    
+     Lewis gun                      → 刘易斯机枪                源×2     译×3    
+     Harden Chute                   → 哈登降落伞                源×1     译×1    
+     Air Service Reserve Corps      → 航空队后备军团              源×1     译×1    
+     A.E.F.                         → 美国远征军                源×1     译×1    
+     Army Air Service Training Scho → 陆军航空队训练学校            源×1     译×1    
+     Minnesota Historical Society   → 明尼苏达历史学会             源×1     译×1    
+     Grove Lake Academy             → 格罗夫湖学院               源×1     译×1    
+     Columbia University            → 哥伦比亚大学               源×1     译×1    
+     United States Flag Association → 美国国旗协会               源×1     译×1    
+     Fitzhugh Green                 → 菲茨休·格林               源×2     译×2    
+     Harry H. Knight / Harry F. Kni → 哈里·H·奈特 / 哈里·F·奈特    源×2     译×2    
+     Major William B. Robertson     → 威廉·B·罗伯逊少校           源×1     译×1    
+     Major Albert Bond Lambert      → 艾伯特·邦德·兰伯特少校         源×1     译×1    
+     J. D. Wooster Lambert          → J·D·伍斯特·兰伯特          源×1     译×1    
+     Harold M. Bixby                → 哈罗德·M·比克斯比           源×1     译×1    
+     Earl C. Thompson               → 厄尔·C·汤普森             源×1     译×1    
+     E. Lansing Ray                 → E·兰辛·雷               源×1     译×1    
+     Louisa Manson                  → 露易莎·曼森               源×1     译×1    
+     Rev. C. S. Harrison            → C·S·哈里森牧师            源×1     译×1    
+     Dr. Charles H. Land            → 查尔斯·H·兰德医生           源×1     译×1     残留「瓷牙工艺之父」×1
+     Colonel John Scott Land        → 约翰·斯科特·兰德上校          源×1     译×1    
+     Bud Gurney                     → 巴德·格尼                源×2     译×2    
+     "Banty" Rogers                 → "班蒂"·罗杰斯             源×0     译×1     ★源0次(幽灵?)
+     Reese                          → 里斯                   源×4     译×5    
+     Lloyd Lamb                     → 劳埃德·拉姆               源×1     译×1    
+     Wyche                          → 怀切                   源×2     译×2    
+     Marvin Northrop                → 马文·诺思罗普              源×1     译×1    
+     Captain René Fonck             → 勒内·丰克上尉              源×1     译×1    
+     M. Bleriot                     → 布莱里奥先生               源×4     译×4    
+     Paul Painlevé                  → 保罗·潘勒韦               源×2     译×2    
+     M. Doumerque                   → 杜梅尔格先生               源×1     译×1    
+     Crown Prince Leopold           → 利奥波德王储               源×1     译×1    
+     Lord Lonsdale                  → 朗斯代尔勋爵               源×2     译×2    
+     Charles Evans Hughes           → 查尔斯·埃文斯·休斯           源×3     译×3    
+     Colonel Scott                  → 斯科特上校                源×1     译×1    
+     Governor Smith                 → 史密斯州长                源×3     译×1     落位偏低 1/3
+     Sergeant Winston               → 温斯顿中士                源×4     译×4    
+     Lieut. Blackburn               → 布莱克本中尉               源×1     译×1    
+     Lieut. Maughan                 → 莫恩中尉                 源×1     译×1    
+     Lieut. McAllister              → 麦卡利斯特中尉              源×4     译×4    
+     Cadet Love                     → 洛夫学员                 源×2     译×2    
+     Captain Thomas Baldwin         → 托马斯·鲍德温上尉            源×1     译×1    
+     Leonardo da Vinci              → 列奥纳多·达·芬奇            源×1     译×1    
+     Wright Brothers                → 莱特兄弟                 源×1     译×1    
+     Stockholm                      → 斯德哥尔摩                源×1     译×1    
+     Simcoe, Norfolk County         → 锡姆科，诺福克县             源×1     译×0     ★译0次(未落位?)
+     Hamilton                       → 哈密尔顿                 源×1     译×1    
+     Americus, Georgia              → 阿梅里库斯（佐治亚州）          源×2     译×6     残留「珍妮」×28
+     Southern Field                 → 南方机场                 源×1     译×1    
+     Montgomery, Alabama            → 蒙哥马利（亚拉巴马州）          源×1     译×2    
+     Alabama / Arkansas / Louisiana → 亚拉巴马 / 阿肯色 / 路易斯安那 / 源×51    译×61   
+     Meridian                       → 梅里迪安                 源×5     译×5    
+     Texarkana                      → 特克萨卡纳                源×3     译×3    
+     Gulf of Mexico                 → 墨西哥湾                 源×2     译×3    
+     Maben / Mathiston              → 马本 / 马西斯顿            源×11    译×11   
+     Huntley                        → 亨特利                  源×1     译×1    
+     Lake Village                   → 莱克村                  源×3     译×3    
+     Farmerville                    → 法默维尔                 源×1     译×1    
+     Ozark mountains                → 奥扎克山脉                源×1     译×1    
+     Alma                           → 阿尔马                  源×3     译×2    
+     Forest City                    → 福雷斯特城                源×1     译×1    
+     Shakopee / Savage / Janesville → 沙科皮 / 萨维奇 / 简斯维尔     源×8     译×7    
+     Marshall / Redwood Falls       → 马歇尔 / 雷德伍德福尔斯        源×2     译×2    
+     Minneapolis                    → 明尼阿波利斯               源×5     译×5    
+     Chanute Field, Rantoul         → 沙努特机场，兰图尔            源×1     译×0     ★译0次(未落位?)
+     Carlinville                    → 卡林维尔                 源×1     译×1    
+     San Antonio                    → 圣安东尼奥                源×9     译×9    
+     Corpus Christi / Galveston / L → 科珀斯克里斯蒂 / 加尔维斯顿 / 拉雷 源×7     译×7    
+     Ellington Field                → 埃灵顿机场                源×3     译×3    
+     Houston                        → 休斯敦                  源×3     译×3    
+     Trinity Bay                    → 特里尼蒂湾                源×1     译×1    
+     Ottawa / Marseilles / South Pe → 渥太华 / 马赛利斯 / 南皮京 / 皮 源×12    译×12   
+     Illinois River / Lake Michigan → 伊利诺伊河 / 密歇根湖         源×3     译×3    
+     Kitty Hawk                     → 基蒂霍克                 源×1     译×1    
+     Big Horn Mountains             → 大角山脉                 源×1     译×1    
+     Custer's Battle Field          → 卡斯特战场                源×1     译×1    
+     Billings / Lewistown           → 比林斯 / 刘易斯敦           源×7     译×7    
+     Yellowstone River              → 黄石河                  源×3     译×4    
+     Miami / the Everglades         → 迈阿密 / 大沼泽地           源×3     译×3    
+     Force School                   → 福斯学校                 源×1     译×1    
+     "Caterpillar Club"             → "毛虫俱乐部"              源×0     译×1     ★源0次(幽灵?)
+     Pullman ticket                 → 普尔曼卧铺票               源×1     译×1    
+     Croyden Field                  → 克罗伊登机场               源×2     译×2    
+     Mitchel Field                  → 米切尔机场                源×3     译×3    
+     Prospect Park / Central Park / → 展望公园 / 中央公园 / 百老汇 /  源×18    译×17   
+     H.R.H. the Prince of Wales     → 威尔士亲王殿下              源×1     译×1    
+     Derby Ball                     → 德比舞会                 源×1     译×1    
+     breakaway                      → 断脱坠落（breakaway）      源×2     译×2    
+     plane change                   → 换机表演                 源×2     译×2    
+     entering edge                  → 前缘                   源×3     译×3    
+     center section                 → 中央翼段                 源×4     译×3    
+     front spar                     → 前梁                   源×2     译×3    
+     dope                           → 涂布油                  源×6     译×5    
+     amphibian                      → 水陆两栖机                源×1     译×1    
+     barograph                      → 自记气压计                源×1     译×1    
+     rip cord                       → 开伞索                  源×8     译×1     落位偏低 1/8
+     service-type parachute         → 军用制式降落伞              源×0     译×0     ★源0次(幽灵?)
+     night fireworks flight         → 夜间焰火飞行               源×1     译×1    
+     wind drift                     → 风致偏流                 源×1     译×1    
+     lock-stitching                 → 锁缝线                  源×1     译×1    
+     water expansion tank           → 膨胀水箱                 源×1     译×1    
+     sky writer                     → 空中写字机                源×1     译×1    
+     cushion of air                 → 气垫（地面效应）             源×1     译×2    
+     OX-5 Standard                  → OX-5"标准"式            源×2     译×2    
+     Curtiss Oriole                 → 柯蒂斯"黄鹂"式             源×2     译×2    
+     cabin Hisso Standard           → 舱式"希索"标准机            源×1     译×1    
+     Nieuport                       → 纽波特                  源×1     译×1    
+     Breguet                        → 布雷盖机                 源×1     译×1    
+     Woodcock                       → "丘鹬"式驱逐机             源×2     译×0     ★译0次(未落位?)
+     Handley Page                   → 汉德利·佩奇式              源×1     译×1    
+     U.S.S. Los Angeles             → "洛杉矶"号               源×0     译×1     ★源0次(幽灵?)
+     Wright Aeronautical Corporatio → 莱特航空公司               源×1     译×1    
+     National Aeronautic Associatio → 全国航空协会               源×1     译×2    
+     Aero Club of France            → 法国航空俱乐部              源×1     译×1    
+     Royal Air Club                 → 皇家航空俱乐部              源×2     译×2    
+     Air Council                    → 航空委员会                源×1     译×1    
+     Lafayette Escadrille           → 拉法耶特飞行中队             源×1     译×1    
+     Officers' Reserve Corps        → 军官预备队                源×2     译×2    
+     110th Observation Squadron / 3 → 第110侦察中队 / 第35师      源×3     译×0     ★译0次(未落位?)
+     Smithsonian Institute          → 史密森学会                源×1     译×1    
+     Langley "Medal of Pioneers"    → 兰利"先驱者奖章"            源×0     译×1     ★源0次(幽灵?)
+     Cross of the Legion of Honor   → 荣誉军团勋章               源×1     译×1    
+     Royal Air Force Cross          → 皇家空军十字勋章             源×1     译×1    
+     Medal of Valor / Cross of Hono → 英勇勋章 / 荣誉十字勋章 / 州荣誉勋 源×4     译×4    
+     Gold Medal of the Municipality → 巴黎市金质奖章              源×1     译×1    
+     Daily Mail                     → 《每日邮报》               源×1     译×1    
+     New York Times                 → 《纽约时报》               源×1     译×1    
+     National Press Club            → 国家新闻俱乐部              源×1     译×1    
+     Aeronautical Chamber of Commer → 航空商会 / 商人协会          源×2     译×2    
+     Postal Telegraph Company       → 邮政电报公司               源×1     译×1    
+     Cunard                         → 冠达公司                 源×1     译×1    
+     Savoy / Waldorf / Hotel Commod → 萨伏伊饭店 / 华尔道夫饭店 / 科莫多 源×6     译×6    
+     "San Francisco"                → "旧金山"号               源×0     译×2     ★源0次(幽灵?)
+     "Macom"                        → "梅科姆"号               源×0     译×3     ★源0次(幽灵?)
+     Trooping of the Colors         → 军旗敬礼分列式              源×1     译×1    
+     Derby / Derby Eve Ball / Epsom → 德比马赛 / 德比前夜舞会 / 埃普索姆 源×3     译×3    
+     Dean Blake                     → 迪安·布莱克               源×2     译×2    
+     Leon Klink                     → 利昂·克林克               源×1     译×1    
+     Capt. Berry                    → 贝里上尉                 源×2     译×2    
+     Sheldon Whitehouse             → 谢尔登·怀特豪斯             源×1     译×1    
+     General Gouraud                → 古罗将军                 源×1     译×1    
+     Marshal Foch                   → 福煦元帅                 源×1     译×1    
+     Marshal Joffre                 → 霞飞元帅                 源×1     译×1    
+     Minister Briand                → 白里安部长                源×1     译×1    
+     Madame Nungesser               → 农热塞尔夫人               源×1     译×1    
+     King Albert                    → 阿尔贝国王                源×5     译×5    
+     Queen Elizabeth                → 伊丽莎白王后               源×1     译×1    
+     Prime Minister Jasper          → 贾斯珀首相                源×1     译×1    
+     Duke of Brabant                → 布拉班特公爵               源×1     译×1    
+     Burgomaster Max                → 市长马克斯                源×2     译×1    
+     Mr. Gibson / Mr. Dunn          → 吉布森先生 / 邓恩先生         源×2     译×2    
+     Sir Samuel Hoare               → 萨缪尔·霍尔爵士             源×3     译×3    
+     Lieut.-Col. W. A. Bishop       → W·A·毕晓普中校            源×1     译×1    
+     Jabez Jrayell                  → 贾贝兹·杰雷尔              源×1     译×1    
+     King George / Queen Mary       → 乔治国王 / 玛丽王后          源×2     译×2    
+     Prime Minister Baldwin         → 鲍德温首相                源×1     译×1    
+     Lord Northcliffe               → 诺思克利夫勋爵              源×1     译×1    
+     Lord and Lady Astor            → 阿斯特勋爵夫妇              源×1     译×1    
+     Costes and Rignot              → 科斯特与里尼奥              源×1     译×1    
+     Ambassador Houghton            → 霍顿大使                 源×3     译×3    
+     Admiral Burrage / Captain Lack → 伯拉奇海军上将 / 拉基舰长       源×5     译×3     残留「孟菲斯」×15
+     Curtis D. Wilbur               → 柯蒂斯·D·威尔伯            源×1     译×1    
+     Dwight F. Davis                → 德怀特·F·戴维斯            源×1     译×1    
+     Harry S. New                   → 哈里·S·纽               源×1     译×1    
+     Edward W. Eberle               → 爱德华·W·埃伯利            源×1     译×1    
+     Mason W. Patrick               → 梅森·W·帕特里克少将          源×1     译×1    
+     William A. Moffett             → 威廉·A·莫菲特海军少将         源×1     译×1    
+     Secretary of State Kellogg     → 国务卿凯洛格               源×1     译×1    
+     Dr. Charles G. Abbott          → 查尔斯·G·阿博特博士          源×1     译×1    
+     Richard V. Oulahan             → 理查德·V·奥拉汉            源×1     译×1    
+     Orville and Wilbur Wright      → 奥维尔·莱特与威尔伯·莱特        源×1     译×1    
+     Glenn H. Curtiss               → 格伦·H·柯蒂斯             源×1     译×1    
+     Gustave Eiffel                 → 古斯塔夫·埃菲尔             源×1     译×1    
+     Benjamin Franklin              → 本杰明·富兰克林             源×1     译×1    
+     President McKinley             → 麦金莱总统                源×1     译×1    
+     Mayor Walker                   → 沃克市长                 源×2     译×2    
+     Cardinal Hayes                 → 海斯枢机主教               源×1     译×1    
+     Clarence Mackay                → 克拉伦斯·麦凯              源×1     译×1    
+     Rodman Wanamaker               → 罗德曼·沃纳梅克             源×1     译×1    
+     Charles Schwab                 → 查尔斯·施瓦布              源×1     译×1    
+     Paterson, New Jersey           → 帕特森（新泽西州）            源×1     译×2    
+     Rawlins / Evanston             → 罗林斯 / 埃文斯顿           源×10    译×10   
+     Battle Mountain / Lovelocks    → 巴特尔芒廷 / 洛夫洛克         源×3     译×3    
+     Sidney                         → 悉尼                   源×2     译×2    
+     Oakland / Crissey Field        → 奥克兰 / 克里西机场          源×3     译×3    
+     Great Salt Lake Desert / Sierr → 大盐湖沙漠 / 内华达山脉        源×2     译×2    
+     Salton Sea                     → 索尔顿湖                 源×1     译×1    
+     Camp Kearney / Dutch Flats     → 卡尼营 / 达奇弗拉茨          源×7     译×7    
+     Rockwell Field, North Island   → 北岛罗克韦尔机场             源×1     译×0     ★译0次(未落位?)
+     Coronado Strand                → 科罗纳多滩                源×1     译×1    
+     Richards Field                 → 理查兹机场                源×1     译×1    
+     Nevada, Missouri               → 内华达城（密苏里州）           源×1     译×2    
+     Wichita / Alleghenies          → 威奇托 / 阿勒格尼山脉         源×2     译×2    
+     St. Johns                      → 圣约翰斯                 源×2     译×2    
+     Cape Valentia / Dingle Bay     → 瓦伦西亚角 / 丁格尔湾         源×2     译×2    
+     Plymouth / English Channel     → 普利茅斯 / 英吉利海峡         源×4     译×4    
+     Long Island Sound / Grand Bank → 长岛海峡 / 大浅滩           源×2     译×2    
+     Gosport / the Azores           → 戈斯波特 / 亚速尔群岛         源×2     译×2    
+     Kinnerly Airdrome / Lympnel    → 金纳利机场 / 林普内尔         源×2     译×2    
+     York House / Downing Street /  → 约克府 / 唐宁街 / 威斯敏斯特教堂  源×7     译×7    
+     Evere Flying Field / Hotel de  → 埃韦尔飞行场 / 市政厅         源×2     译×5    
+     Ghent / Werington              → 根特 / 韦林顿             源×2     译×2    
+     Luxembourg Palace / Champs-Ély → 卢森堡宫 / 香榭丽舍剧院        源×2     译×2    
+     Bolling Field / Langley Field  → 博林机场 / 兰利机场          源×2     译×2    
+     Virginia Capes / Chesapeake Ba → 弗吉尼亚角 / 切萨皮克湾 / 亚历山德 源×3     译×3    
+     Pennsylvania Avenue / Dupont C → 宾夕法尼亚大道 / 杜邦圆环 / 乔治敦 源×4     译×4    
+     Walter Reed Hospital           → 沃尔特·里德医院             源×1     译×1    
+     Baltimore / Wilmington / Phila → 巴尔的摩 / 威尔明顿 / 费城     源×3     译×3    
+     the Narrows / the Battery / Ma → 纳罗斯水道 / 巴特里 / 麦迪逊广场  源×7     译×7    
+     St. Patrick's Cathedral        → 圣帕特里克大教堂             源×1     译×1    
+     Hudson-Fulton Exposition / Hud → 哈得孙—富尔顿博览会 / 哈得孙河    源×2     译×2    
+     Columbus / Dayton              → 哥伦布 / 代顿             源×3     译×3    
+     Perryville / Hickman           → 佩里维尔 / 希克曼           源×4     译×4    
+     Friar Point / Hollandale / Vic → 弗里尔波因特 / 霍兰代尔 / 维克斯堡 源×9     译×10   
+     Pensacola                      → 彭萨科拉                 源×5     译×5    
+     New Orleans / Lake Charles / R → 新奥尔良 / 莱克查尔斯 / 赖斯机场（ 源×4     译×4    
+     West Nueces River / Rio Grande → 西纽埃西斯河 / 格兰德河        源×5     译×6    
+     Camp Wood / Barksdale / Pumpvi → 坎普伍德 / 巴克斯代尔 / 普普维尔  源×8     译×8    
+     "Spanish dagger" / mesquite /  → "西班牙匕首"刺丛（丝兰）/ 牧豆树 / 源×12    译×1     落位偏低 1/12
+====================================================================================================

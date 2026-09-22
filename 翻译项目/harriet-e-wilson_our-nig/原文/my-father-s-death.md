@@ -1,0 +1,47 @@
+## II My Father’s Death
+
+> Misery! we have known each other,
+ 
+
+ Like a sister and a brother,
+ 
+
+ Living in the same lone home
+ 
+
+ Many years﻿—we must live some
+ 
+
+ Hours or ages yet to come.
+> — Shelley
+
+Jim, proud of his treasure﻿—a white wife﻿—tried hard to fulfil his promises; and furnished her with a more comfortable dwelling, diet, and apparel. It was comparatively a comfortable winter she passed after her marriage. When Jim could work, all went on well. Industrious, and fond of Mag, he was determined she should not regret her union to him. Time levied an additional charge upon him, in the form of two pretty mulattos, whose infantile pranks amply repaid the additional toil. A few years, and a severe cough and pain in his side compelled him to be an idler for weeks together, and Mag had thus a reminder of bygones. She cared for him only as a means to subserve her own comfort; yet she nursed him faithfully and true to marriage vows till death released her. He became the victim of consumption. He loved Mag to the last. So long as life continued, he stifled his sensibility to pain, and toiled for her sustenance long after he was able to do so.
+A few expressive wishes for her welfare; a hope of better days for her; an anxiety lest they should not all go to the “good place;” brief advice about their children; a hope expressed that Mag would not be neglected as she used to be; the manifestation of Christian patience; these were *all* the legacy of miserable Mag. A feeling of cold desolation came over her, as she turned from the grave of one who had been truly faithful to her.
+She was now expelled from companionship with white people; this last step﻿—her union with a black﻿—was the climax of repulsion.
+Seth Shipley, a partner in Jim’s business, wished her to remain in her present home; but she declined, and returned to her hovel again, with obstacles threefold more insurmountable than before. Seth accompanied her, giving her a weekly allowance which furnished most of the food necessary for the four inmates. After a time, work failed; their means were reduced.
+How Mag toiled and suffered, yielding to fits of desperation, bursts of anger, and uttering curses too fearful to repeat. When both were supplied with work, they prospered; if idle, they were hungry together. In this way their interests became united; they planned for the future together. Mag had lived an outcast for years. She had ceased to feel the gushings of penitence; she had crushed the sharp agonies of an awakened conscience. She had no longings for a purer heart, a better life. Far easier to descend lower. She entered the darkness of perpetual infamy. She asked not the rite of civilization or Christianity. Her will made her the wife of Seth. Soon followed scenes familiar and trying.
+“It’s no use,” said Seth one day; “we must give the children away, and try to get work in some other place.”
+“Who’ll take the black devils?” snarled Mag.
+“They’re none of mine,” said Seth; “what you growling about?”
+“Nobody will want anything of mine, or yours either,” she replied.
+“We’ll make ’em, p’r’aps,” he said. “There’s Frado’s six years old, and pretty, if she is yours, and white folks’ll say so. She’d be a prize somewhere,” he continued, tipping his chair back against the wall, and placing his feet upon the rounds, as if he had much more to say when in the right position.
+Frado, as they called one of Mag’s children, was a beautiful mulatto, with long, curly black hair, and handsome, roguish eyes, sparkling with an exuberance of spirit almost beyond restraint.
+Hearing her name mentioned, she looked up from her play, to see what Seth had to say of her.
+“Wouldn’t the Bellmonts take her?” asked Seth.
+“Bellmonts?” shouted Mag. “His wife is a right she-devil! and if﻿—”
+“Hadn’t they better be all together?” interrupted Seth, reminding her of a like epithet used in reference to her little ones.
+Without seeming to notice him, she continued, “She can’t keep a girl in the house over a week; and Mr. Bellmont wants to hire a boy to work for him, but he can’t find one that will live in the house with her; she’s so ugly, they can’t.”
+“Well, we’ve got to make a move soon,” answered Seth; “if you go with me, we shall go right off. Had you rather spare the other one?” asked Seth, after a short pause.
+“One’s as bad as t’other,” replied Mag. “Frado is such a wild, frolicky thing, and means to do jest as she’s a mind to; she won’t go if she don’t want to. I don’t want to tell her she is to be given away.”
+“I will,” said Seth. “Come here, Frado?”
+The child seemed to have some dim foreshadowing of evil, and declined.
+“Come here,” he continued; “I want to tell you something.”
+She came reluctantly. He took her hand and said: “We’re going to move, by-’m-bye; will you go?”
+“No!” screamed she; and giving a sudden jerk which destroyed Seth’s equilibrium, left him sprawling on the floor, while she escaped through the open door.
+“She’s a hard one,” said Seth, brushing his patched coat sleeve. “I’d risk her at Bellmont’s.”
+They discussed the expediency of a speedy departure. Seth would first seek employment, and then return for Mag. They would take with them what they could carry, and leave the rest with Pete Greene, and come for them when they were wanted. They were long in arranging affairs satisfactorily, and were not a little startled at the close of their conference to find Frado missing. They thought approaching night would bring her. Twilight passed into darkness, and she did not come. They thought she had understood their plans, and had, perhaps, permanently withdrawn. They could not rest without making some effort to ascertain her retreat. Seth went in pursuit, and returned without her. They rallied others when they discovered that another little colored girl was missing, a favorite playmate of Frado’s. All effort proved unavailing. Mag felt sure her fears were realized, and that she might never see her again. Before her anxieties became realities, both were safely returned, and from them and their attendant they learned that they went to walk, and not minding the direction soon found themselves lost. They had climbed fences and walls, passed through thickets and marshes, and when night approached selected a thick cluster of shrubbery as a covert for the night. They were discovered by the person who now restored them, chatting of their prospects, Frado attempting to banish the childish fears of her companion. As they were some miles from home, they were kindly cared for until morning. Mag was relieved to know her child was not driven to desperation by their intentions to relieve themselves of her, and she was inclined to think severe restraint would be healthful.
+The removal was all arranged; the few days necessary for such migrations passed quickly, and one bright summer morning they bade farewell to their Singleton hovel, and with budgets and bundles commenced their weary march. As they neared the village, they heard the merry shouts of children gathered around the schoolroom, awaiting the coming of their teacher.
+“Halloo!” screamed one, “Black, white and yeller!” “Black, white and yeller,” echoed a dozen voices.
+It did not grate so harshly on poor Mag as once it would. She did not even turn her head to look at them. She had passed into an insensibility no childish taunt could penetrate, else she would have reproached herself as she passed familiar scenes, for extending the separation once so easily annihilated by steadfast integrity. Two miles beyond lived the Bellmonts, in a large, old fashioned, two-story white house, environed by fruitful acres, and embellished by shrubbery and shade trees. Years ago a youthful couple consecrated it as home; and after many little feet had worn paths to favorite fruit trees, and over its green hills, and mingled at last with brother man in the race which belongs neither to the swift or strong, the sire became grey-haired and decrepit, and went to his last repose. His aged consort soon followed him. The old homestead thus passed into the hands of a son, to whose wife Mag had applied the epithet “she-devil,” as may be remembered. John, the son, had not in his family arrangements departed from the example of the father. The pastimes of his boyhood were ever freshly revived by witnessing the games of his own sons as they rallied about the same goal his youthful feet had often won; as well as by the amusements of his daughters in their imitations of maternal duties.
+At the time we introduce them, however, John is wearing the badge of age. Most of his children were from home; some seeking employment; some were already settled in homes of their own. A maiden sister shared with him the estate on which he resided, and occupied a portion of the house.
+Within sight of the house, Seth seated himself with his bundles and the child he had been leading, while Mag walked onward to the house leading Frado. A knock at the door brought Mrs. Bellmont, and Mag asked if she would be willing to let that child stop there while she went to the Reed’s house to wash, and when she came back she would call and get her. It seemed a novel request, but she consented. Why the impetuous child entered the house, we cannot tell; the door closed, and Mag hastily departed. Frado waited for the close of day, which was to bring back her mother. Alas! it never came. It was the last time she ever saw or heard of her mother.

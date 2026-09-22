@@ -1,0 +1,11 @@
+## The Word of God
+
+Where the bud has never blown
+Who for scent is debtor?
+Where the spirit rests unknown
+Fatal is the letter.
+
+In thee, Jesus, Godhead-stored,
+All things we inherit,
+For thou art the very Word
+And the very Spirit!

@@ -1,0 +1,19 @@
+## X Preparing for the Fray / X 备战
+
+===Original===
+The next few days were indeed bussy for Ethel and Bernard. First of all Ethel got some dainty pink note paper with silver crest on it and sent out invitations in the following terms to all their frends.
+
+> Miss Ethel Monticue will be married to Mr. Bernard Clark at Westminster Abbey on June 10th. Your company is requested there at 2﻿–﻿30 sharp and afterwards for refreshment at the Gaierty Hotel. R.S.V.P.
+
+===Chinese===
+接下来那几天，埃塞尔和伯纳德当真忙得不可开交。首先，埃塞尔弄来一些带银色纹章的雅致粉色信纸，向他们的亲朋好友发出了如下请柬。
+
+> 埃塞尔·蒙蒂丘小姐将与伯纳德·克拉克先生于 6 月 10 日在威斯敏斯特教堂（Westminster Abbey）举行婚礼。敬请诸位于 2 点 30 分整莅临观礼，随后至盖尔蒂饭店用茶点。盼赐复。
+
+===Original===
+Having posted heaps of these and got several replies Ethel began to order her wedding dress which cost a good bit. She chose a rich satin with a humped pattern of gold on the pure white and it had a long train edged with Airum lilies. Her veil was of pure lace with a crown of orange blossum. Her bouquett she ordered to be of white dog daisies St. Joseph lilies and orange blossums tied up with pale blue satin ribbon.
+You will indeed be a charming spectacle my darling gasped Bernard as they left the shop. Then they drove to the tailor where Bernard ordered an elligant black suit with coat tails lined with crimson satin and a pale lavender tie and an opera hat of the same hue and he intended to wear violets in his buttonholes also his best white spats diamond studs and a few extras of costly air. They both ordered a lot of new clothes besides and Bernard gave Ethel a very huge tara made of rubies and diamonds also two rich bracelets and Ethel gave him a brand new trunk of shiny green leather. The earl of Clincham sent a charming gift of some hem stitched sheets edged with real lace and a photo of himself in a striking attitude. Mr. Salteena sent Ethel a bible with a few pious words of advice and regret and he sent Bernard a very handy little camp stool. Ethels parents were too poor to come so far but her Mother sent her a gold watch which did not go but had been some years in the family and her father provided a cheque for £2 and promised to send her a darling little baby calf when ready. Then they ordered the most splendid refreshments they had tea and coffie and sparkling wines to drink also a lovly wedding cake of great height with a sugar angel at the top holding a sword made of almond paste. They had countless cakes besides also ices jelly merangs jam tarts with plenty of jam on each some cold tongue some ham with salid and a pig’s head done up in a wondrous manner. Ethel could hardly contain herself as she gazed at the sumpshious repast and Bernard gave her a glass of rich wine while he imbibed some whiskey before going to bed. Ethel got speedilly into her bed for the last time at the dear old Gaierty and shed a few salt tears thinking of her past life but she quickly cheerd up and began to plan about how many children she would have. I hope I shall have a good lot she thourght to herself and so saying fell into repose.
+
+===Chinese===
+发出一大摞请柬、收到若干回信之后，埃塞尔开始订做她的婚纱，花了不老少钱。她选了一袭华贵的缎子，纯白底子上凸起金花图案，裙裾长长，缀着喇叭百合的花边。头纱是纯蕾丝的，配一顶香橙花冠。捧花她定的是白雏菊、圣约瑟夫百合和香橙花，用浅蓝色缎带扎起。
+你穿上准是个迷人的景观，我的达令，他们离开店铺时，伯纳德喘着气说。随后他们驱车去了裁缝铺，伯纳德订做了一套考究的黑礼服，燕尾衬着猩红的缎子，配一条浅紫色领带和一顶同色的歌剧帽，他还打算在扣眼里插上紫罗兰，再配上他最好的白色鞋罩、钻石袖扣，以及几样贵气十足的零碎。两人另外还订了一大堆新衣裳，伯纳德送给埃塞尔一顶十分硕大的冠冕，由红宝石和钻石镶成，还有两只华贵的手镯；埃塞尔则送他一只崭新的、绿皮锃亮的大衣箱。克林查姆伯爵送来一件讨喜的贺礼：几条饰着真蕾丝的抽丝边床单，外加一张他本人姿势动人的照片。索尔蒂纳先生送给埃塞尔一部《圣经》，附了几句虔诚的忠告与遗憾；送给伯纳德的则是一只十分轻便好用的小行军凳。埃塞尔的父母太穷，来不了这么远，她母亲寄来一块金表——虽然不走了，但在家里传了好些年——她父亲则开出一张两英镑的支票，还答应等小牛生下来了，就给她送一头可爱的小牛犊。随后他们又订下最丰盛的茶点：有茶、咖啡和汽酒可喝，还有一只高耸入云的可爱结婚蛋糕，顶上立着一位糖做的天使，手持一柄杏仁膏制的宝剑。此外还有数不清的糕饼、冰品、果冻、蛋白酥皮、果酱馅饼——每只上面都堆足了果酱——冷牛舌、火腿配沙拉，还有一颗以奇妙方式烹制的猪头。埃塞尔望着这满桌盛馔，几乎按捺不住自己，伯纳德递给她一杯醇酒，自己则在就寝前灌了些威士忌。埃塞尔赶紧张罗着在亲爱的老盖尔蒂最后一次上了床，想起往昔岁月，洒下几滴咸泪，但她很快又打起了精神，开始盘算自己会有多少孩子。但愿能有一大窝，她暗自思量，想着想着便沉入了梦乡。

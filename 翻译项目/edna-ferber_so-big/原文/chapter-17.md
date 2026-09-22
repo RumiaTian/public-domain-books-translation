@@ -1,0 +1,69 @@
+## XVII
+
+Between these girls and the girls that worked in his office there existed a similarity that struck and amused Dirk. He said, “Take a letter, Miss Roach,” to a slim young creature as exquisite as the girl with whom he had danced the day before; or ridden or played tennis or bridge. Their very clothes were faultless imitations. They even used the same perfume. He wondered, idly, how they did it. They were eighteen, nineteen, twenty, and their faces and bodies and desires and natural equipment made their presence in a business office a paradox, an absurdity. Yet they were capable, too, in a mechanical sort of way. Theirs were mechanical jobs. They answered telephones, pressed levers, clicked buttons, tapped typewriters, jotted down names. They were lovely creatures with the minds of fourteen-year-old children. Their hair was shining, perfectly undulated, as fine and glossy and tenderly curling as a young child’s. Their breasts were flat, their figures singularly sexless like that of a very young boy. They were wise with the wisdom of the serpent. They wore wonderful little sweaters and flat babyish collars and ridiculously sensible stockings and oxfords. Their legs were slim and sturdy. Their mouths were pouting, soft, pink, the lower lip a little curled back, petal-wise, like the moist mouth of a baby that has just finished nursing. Their eyes were wide apart, empty, knowledgeous. They managed their private affairs like generals. They were cool, remote, disdainful. They reduced their boys to desperation. They were brigands, desperadoes, pirates, taking all, giving little. They came, for the most part, from sordid homes, yet they knew, in some miraculous way, all the fine arts that Paula knew and practised. They were corsetless, pliant, bewildering, lovely, dangerous. They ate lunches that were horrible mixtures of cloying sweets and biting acids yet their skin was like velvet and cream. Their voices were thin, nasal, vulgar; their faces like those in a Greuze or a Fragonard. They said, with a twang that racked the listener, “I wouldn’t of went if I got an invite but he could of give me a ring, anyways. I called him right. I was sore.”
+
+“Yeh? Wha’d he say?”
+
+“Oh, he laffed.”
+
+“Didja go?”
+
+“Me! No! Whatcha think I yam, anyway?”
+
+“Oh, he’s a good kid.”
+
+Among these Dirk worked immune, aloof, untouched. He would have been surprised to learn that he was known among them as Frosty. They approved his socks, his scarfs, his nails, his features, his legs in their well-fitting pants, his flat strong back in the Peel coat. They admired and resented him. Not one that did not secretly dream of the day when he would call her into his office, shut the door, and say, “Loretta” (their names were burbankian monstrosities, born of grafting the original appellation onto their own idea of beauty in nomenclature﻿—hence Loretta, Imogene, Nadine, Natalie, Ardella), “Loretta, I have watched you for a long, long time and you must have noticed how deeply I admire you.”
+
+It wasn’t impossible. Those things happen. The movies had taught them that.
+
+Dirk, all unconscious of their pitiless, all-absorbing scrutiny, would have been still further appalled to learn how fully aware they were of his personal and private affairs. They knew about Paula, for example. They admired and resented her, too. They were fair in granting her the perfection of her clothes, drew immense satisfaction from the knowledge of their own superiority in the matters of youth and colouring; despised her for the way in which she openly displayed her feeling for him (how they knew this was a miracle and a mystery, for she almost never came into the office and disguised all her telephone talks with him). They thought he was grand to his mother. Selina had been in his office twice, perhaps. On one of these occasions she had spent five minutes chatting sociably with Ethelinda Quinn who had the face of a Da Vinci cherub and the soul of a man-eating shark. Selina always talked to everyone. She enjoyed listening to street car conductors, washwomen, janitors, landladies, clerks, doormen, chauffeurs, policemen. Something about her made them talk. They opened to her as flowers to the sun. They sensed her interest, her liking. As they talked Selina would exclaim, “You don’t say! Well, that’s terrible!” Her eyes would be bright with sympathy.
+
+Selina had said, on entering Dirk’s office, “My land! I don’t see how you can work among those pretty creatures and not be a sultan. I’m going to ask some of them down to the farm over Sunday.”
+
+“Don’t, Mother! They wouldn’t understand. I scarcely see them. They’re just part of the office equipment.”
+
+Afterward, Ethelinda Quinn had passed expert opinion. “Say, she’s got ten times the guts that Frosty’s got. I like her fine. Did you see her terrible hat! But say, it didn’t look funny on her, did it? Anybody else in that getup would look comical, but she’s the kind that could walk off with anything. I don’t know. She’s got what I call an air. It beats style. Nice, too. She said I was a pretty little thing. Can you beat it! At that she’s right. I cer’nly yam.”
+
+All unconscious, “Take a letter, Miss Quinn,” said Dirk half an hour later.
+
+In the midst, then, of this fiery furnace of femininity Dirk walked unscorched. Paula, the North Shore girls, well-bred business and professional women he occasionally met in the course of business, the enticing little nymphs he encountered in his own office, all practised on him their warm and perfumed wiles. He moved among them cool and serene. Perhaps his sudden success had had something to do with this; and his quiet ambition for further success. For he really was accounted successful now, even in the spectacular whirl of Chicago’s meteoric financial constellation. North-side mammas regarded his income, his career, and his future with eyes of respect and wily speculation. There was always a neat little pile of invitations in the mail that lay on the correct little console in the correct little apartment ministered by the correct little Jap on the correct north-side street near (but not too near) the lake, and overlooking it.
+
+The apartment had been furnished with Paula’s aid. Together she and Dirk had gone to interior decorators. “But you’ve got to use your own taste, too,” Paula had said, “to give it the individual touch.” The apartment was furnished in a good deal of Italian furniture, the finish a dark oak or walnut, the whole massive and yet somehow unconvincing. The effect was sombre without being impressive. There were long carved tables on which an ash tray seemed a desecration; great chairs roomy enough for lolling, yet in which you did not relax; dull silver candlesticks; vestments; Dante’s saturnine features sneering down upon you from a correct cabinet. There were not many books. Tiny foyer, large living room, bedroom, dining room, kitchen, and a cubbyhole for the Jap. Dirk did not spend much time in the place. Sometimes he did not sit in a chair in the sitting room for days at a time, using the room only as a shortcut in his rush for the bedroom to change from office to dinner clothes. His upward climb was a treadmill, really. His office, the apartment, a dinner, a dance. His contacts were monotonous, and too few. His office was a great splendid office in a great splendid office building in LaSalle Street. He drove back and forth in a motor car along the boulevards. His social engagements lay north. LaSalle Street bounded him on the west, Lake Michigan on the east, Jackson Boulevard on the south, Lake Forest on the north. He might have lived a thousand miles away for all he knew of the rest of Chicago﻿—the mighty, roaring, sweltering, pushing, screaming, magnificent hideous steel giant that was Chicago.
+
+Selina had had no hand in the furnishing of his apartment. When it was finished Dirk had brought her in triumph to see it. “Well,” he had said, “what do you think of it, Mother?”
+
+She had stood in the centre of the room, a small plain figure in the midst of these massive sombre carved tables, chairs, chests. A little smile had quirked the corner of her mouth. “I think it’s as cosy as a cathedral.”
+
+Sometimes Selina remonstrated with him, though of late she had taken on a strange reticence. She no longer asked him about the furnishings of the houses he visited (Italian villas on Ohio Street), or the exotic food he ate at splendid dinners. The farm flourished. The great steel mills and factories to the south were closing in upon her but had not yet set iron foot on her rich green acres. She was rather famous now for the quality of her farm products and her pens. You saw “DeJong asparagus” on the menu at the Blackstone and the Drake hotels. Sometimes Dirk’s friends twitted him about this and he did not always acknowledge that the similarity of names was not a coincidence.
+
+“Dirk, you seem to see no one but just these people,” Selina told him in one of her infrequent rebukes. “You don’t get the full flavour of life. You’ve got to have a vulgar curiosity about people and things. All kinds of people. All kinds of things. You revolve in the same little circle, over and over and over.”
+
+“Haven’t time. Can’t afford to take the time.”
+
+“You can’t afford not to.”
+
+Sometimes Selina came into town for a week or ten days at a stretch, and indulged in what she called an orgy. At such times Julie Arnold would invite her to occupy one of the guest rooms at the Arnold house, or Dirk would offer her his bedroom and tell her that he would be comfortable on the big couch in the living room, or that he would take a room at the University Club. She always declined. She would take a room in a hotel, sometimes north, sometimes south. Her holiday before her she would go off roaming gaily as a small boy on a Saturday morning, with the day stretching gorgeously and adventuresomely ahead of him, sallies down the street without plan or appointment, knowing that richness in one form or another lies before him for the choosing. She loved the Michigan Boulevard and State Street shop windows in which haughty waxed ladies in glittering evening gowns postured, fingers elegantly crooked as they held a fan, a rose, a programme, meanwhile smiling condescendingly out upon an envious world flattening its nose against the plate glass barrier. A sociable woman, Selina, savouring life, she liked the lights, the colour, the rush, the noise. Her years of grinding work, with her face pressed down to the very soil itself, had failed to kill her zest for living. She prowled into the city’s foreign quarters﻿—Italian, Greek, Chinese, Jewish. She penetrated the Black Belt, where Chicago’s vast and growing Negro population shifted and moved and stretched its great limbs ominously, reaching out and out in protest and overflowing the bounds that irked it. Her serene face and her quiet manner, her bland interest and friendly look protected her. They thought her a social worker, perhaps; one of the uplifters. She bought and read the *Independent*, the Negro newspaper in which herb doctors advertised magic roots. She even sent the twenty-five cents required for a box of these, charmed by their names﻿—Adam and Eve roots, Master of the Woods, Dragon’s Blood, High John the Conqueror, Jezebel Roots, Grains of Paradise.
+
+“Look here, Mother,” Dirk would protest, “you can’t wander around like that. It isn’t safe. This isn’t High Prairie, you know. If you want to go round I’ll get Saki to drive you.”
+
+“That would be nice,” she said, mildly. But she never availed herself of this offer. Sometimes she went over to South Water Street, changed now, and swollen to such proportions that it threatened to burst its confines. She liked to stroll along the crowded sidewalks, lined with crates and boxes and barrels of fruits, vegetables, poultry. Swarthy foreign faces predominated now. Where the red-faced overalled men had been she now saw lean muscular lads in old army shirts and khaki pants and scuffed puttees wheeling trucks, loading boxes, charging down the street in huge rumbling auto vans. Their faces were hard, their talk terse. They moved gracefully, with an economy of gesture. Any one of these, she reflected, was more vital, more native, functioned more usefully and honestly than her successful son, Dirk DeJong.
+
+“Where ’r’ beans?”
+
+“In th’ ol’ beanery.”
+
+“Tough.”
+
+“Best you can get.”
+
+“Keep ’em.”
+
+Many of the older men knew her, shook hands with her, chatted a moment friendlily. William Talcott, a little more dried up, more wrinkled, his sparse hair quite gray now, still leaned up against the side of his doorway in his shirt sleeves and his neat pepper-and-salt pants and vest, a pretty good cigar, unlighted, in his mouth, the heavy gold watch chain spanning his middle.
+
+“Well, you certainly made good, Mrs. DeJong. Remember the day you come here with your first load?”
+
+Oh, yes. She remembered.
+
+“That boy of yours has made his mark, too, I see. Doing grand, ain’t he? Wa-al, great satisfaction having a son turn out well like that. Yes, sirree! Why, look at my da’ter Car’line﻿—”
+
+Life at High Prairie had its savour, too. Frequently you saw strange visitors there for a week or ten days at a time﻿—boys and girls whose city pallor gave way to a rich tan; tired-looking women with sagging figures who drank Selina’s cream and ate her abundant vegetables and tender chickens as though they expected these viands to be momentarily snatched from them. Selina picked these up in odd corners of the city. Dirk protested against this, too. Selina was a member of the High Prairie school board now. She often drove about the roads and into town in a disreputable Ford which she manipulated with imagination and skill. She was on the Good Roads Committee and the Truck Farmers’ Association valued her opinion. Her life was full, pleasant, prolific.

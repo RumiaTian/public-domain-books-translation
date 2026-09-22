@@ -1,0 +1,21 @@
+# With the Tailor
+- Can you do me a coat?
+- What cloth will you do to?
+- From a stuff what be of season.
+- How much wants the ells for coat, waist coat, and breeches?
+- Six ells.
+- What will you to double the coat?
+- From some thing of duration. I believe to you that.
+- When do you bring me my coat?
+- The rather that be possible.
+- Bring you my coat?
+- Yes, sir, there is it.
+- You have me done to expect too.
+- I did can’t to come rather.
+- It don’t are finished?
+- The lining war not sewd.
+- It is so that do one’s now.
+- Button me.
+- It pinches me too much upon stomack.
+- The sleeves have not them great deal wideness?
+- No, sir, they are well.

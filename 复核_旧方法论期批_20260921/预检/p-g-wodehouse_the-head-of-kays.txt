@@ -1,0 +1,89 @@
+ (24 files)
+  块: O=257 C=257 OK | 段: EN=1056 CN=1059 !!差 -3
+     [不对称] chapter-4.md                                         O=16 C=16 段EN=62 段CN=63
+     [不对称] chapter-8.md                                         O=10 C=10 段EN=39 段CN=40
+     [不对称] chapter-24.md                                        O=11 C=11 段EN=30 段CN=31
+  英文残留(剔括注) top: Nemo×1, me×1, impune×1, lacessit×1
+  -- 术语表硬约束行 81 条:
+     Kennedy                        → 肯尼迪                  源×354   译×356  
+     Fenn                           → 芬恩                   源×353   译×354  
+     Jimmy Silver                   → 吉米·西尔弗               源×74    译×75   
+     Billy Silver                   → 比利·西尔弗               源×14    译×14   
+     Challis                        → 查利斯                  源×17    译×17   
+     Williams                       → 威廉斯                  源×8     译×8    
+     Walton                         → 沃尔顿                  源×98    译×97   
+     Wayburn                        → 韦伯恩                  源×6     译×6    
+     Wren                           → 雷恩                   源×52    译×52   
+     Perry                          → 佩里                   源×18    译×18   
+     Callingham                     → 卡林厄姆                 源×2     译×2    
+     Mortimer                       → 莫蒂默                  源×1     译×1    
+     Leveson                        → 利维森                  源×2     译×2    
+     Curtis                         → 柯蒂斯                  源×4     译×4    
+     Lang                           → 朗                    源×1     译×4    
+     Morrell                        → 莫雷尔                  源×6     译×6    
+     Mr. Kay                        → 凯先生                  源×71    译×97   
+     Kay’s                          → 凯氏宿舍                 源×129   译×23    落位偏低 23/129
+     Mr. Blackburn                  → 布莱克本先生               源×18    译×22   
+     Blackburn’s                    → 布莱克本宿舍               源×68    译×37    落位偏低 37/68
+     Mr. Mulholland                 → 马尔霍兰先生               源×10    译×9    
+     Mulholland’s                   → 马尔霍兰宿舍               源×11    译×6     落位偏低 6/11
+     Bedell’s                       → 比德尔宿舍                源×1     译×2    
+     School House                   → 学校宿舍                 源×48    译×48   
+     Eckleton                       → 埃克尔顿                 源×42    译×44   
+     Private Jones                  → 二等兵琼斯                源×10    译×10   
+     St. Asterisk’s                 → 圣阿斯特里斯克学校            源×1     译×1    
+     the Old Man                    → 老头子                  源×13    译×12   
+     Bishop of Rumtifoo             → 拉姆蒂福主教               源×1     译×1    
+     Jasper Murgleshaw              → 贾斯珀·默格尔肖             源×1     译×1    
+     Warner / Beldam / Trott / Hear → 沃纳／贝尔达姆／特罗特／赫恩       源×4     译×4    
+     Jessop                         → 杰索普                  源×1     译×1    
+     Kubelik / Paderewski           → 库贝利克／帕岱莱夫斯基          源×2     译×2    
+     Handel                         → 亨德尔                  源×2     译×2    
+     Conan Doyle                    → 柯南·道尔                源×1     译×1    
+     Dr. Watts                      → 沃茨博士                 源×1     译×1    
+     Middlesex                      → 米德尔塞克斯               源×2     译×2    
+     Aldershot                      → 奥尔德肖特                源×5     译×5    
+     Cove Reservoir                 → 科夫水库                 源×5     译×5    
+     Laffan’s Plain                 → 拉凡平原                 源×2     译×2    
+     Brookwood                      → 布鲁克伍德                源×1     译×1    
+     Great Hall                     → 大礼堂                  源×2     译×2    
+     Masters’ Common Room           → 教师公共教研室              源×1     译×1    
+     *Wisden*                       → 《威斯登》                源×1     译×1    
+     “The Coon Band Contest”        → 《黑人乐队大赛》             源×1     译×2    
+     “Moonlight Sonata”             → 《月光奏鸣曲》              源×1     译×1    
+     “He’s a jolly good fellow”     → 《他是个大好人》             源×0     译×1     ★源0次(幽灵?)
+     “Kay Day by Day”               → 《凯氏日常》               源×0     译×1     ★源0次(幽灵?)
+     “It’s a way we have in the pub → 「这——就是咱们公——学——学——校—— 源×0     译×1     ★源0次(幽灵?)
+     head of a house                → 舍长                   源×3     译×47   
+     prefect / second prefect       → 级长／第二级长              源×11    译×28   
+     fag / fags’ room               → 跑腿生／跑腿生室             源×16    译×33   
+     preparation                    → 晚自习                  源×4     译×4    
+     lockup                         → 锁门                   源×3     译×3    
+     extra lesson                   → 留校补习                 源×0     译×4     ★源0次(幽灵?)
+     lines                          → 罚抄行                  源×15    译×1     落位偏低 1/15
+     house-match / inter-house cup  → 宿舍赛／宿舍杯              源×8     译×15   
+     first eleven                   → 一队                   源×5     译×13   
+     over                           → 一轮                   源×85    译×11    落位偏低 11/85
+     wicket                         → 三柱门                  源×11    译×5     落位偏低 5/11
+     innings                        → 一局                   源×12    译×5     落位偏低 5/12
+     slips / short slip             → 滑位区／近滑位              源×6     译×5    
+     short leg                      → 近腿位                  源×1     译×1    
+     deep field                     → 外野深处                 源×1     译×2    
+     mid-on / mid-off               → 投球侧内场                源×1     译×1    
+     cover-point                    → 掩切位                  源×0     译×1     ★源0次(幽灵?)
+     yorker                         → 约克球                  源×1     译×1    
+     century                        → 百分                   源×0     译×3     ★源0次(幽灵?)
+     bye                            → 拜伊                   源×1     译×1    
+     cakewalk                       → 步态舞曲                 源×1     译×1    
+     stump-cricket                  → 残桩板球                 源×2     译×2    
+     swagger-stick                  → 短杖                   源×0     译×4     ★源0次(幽灵?)
+     matron                         → 女管家                  源×8     译×8    
+     school shop                    → 学校小卖部                源×2     译×2    
+     school corps / camp            → 学生军／军营               源×49    译×30   
+     guard tent                     → 卫兵帐篷                 源×12    译×11   
+     sentry-go                      → 放哨／巡逻                源×6     译×14   
+     last post                      → 末班号                  源×1     译×1    
+     tent-orderly                   → 帐篷值日生                源×2     译×2    
+     canteen                        → 军营小卖部                源×2     译×0     ★译0次(未落位?)
+     brekker                        → 早餐                   源×1     译×3    
+====================================================================================================

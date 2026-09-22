@@ -1,0 +1,67 @@
+## The Raja and the Tiger
+
+There was more than one reason why Bently did not view his appointment as British Resident at Shaitanabad with enthusiasm. The climate was reported to be particularly hot even for India, the population largely composed of snakes, tigers, and wild boars, and the attitude of the natives from the Raja down unfriendly. The last Resident had died of sunstroke, so it was said, and the one before him departed suddenly for an unknown destination without taking the trouble to apply for leave of absence. But as somebody had to occupy the position, Bently went to Shaitanabad; from the nearest railway station one hundred miles by camel and bullock cart over parched hills and sandy desert.
+
+His early impressions of the place were hardly reassuring. His first glimpse of it was from the summit of a cactus-covered hill through a red haze of dust-laden heat. The principal feature which caught his eye was the Raja’s fortress-palace perched on a high rock on the northeast side and grimly overlooking the flat-roofed city. It was known as the Nahargarh, or Tiger Fort. For the rest Shaitanabad may be summed up as a place of narrow, irregular alleys, bazaars with shops little larger than dry-goods boxes, bad smells, a perpetual plague of insects, gaily clothed people, and a general Arabian Nights atmosphere. A thousand years ago it was the same, and so it will be a thousand years hence. The local temperature was 120° in the shade, sometimes more. Except the Resident, there were no other Englishmen in the place, not even a missionary. That is sufficient testimony as to Shaitanabad’s character.
+
+Bently regarded it as fortunate that the Residency was situated outside the city, and that his predecessor’s staff of Bengali and Rajput servants were waiting to receive him. A bath, a fairly well-cooked meal, and a good night’s rest, in spite of the heat, removed the exhaustion of the journey and made the outlook appear more satisfactory.
+
+His first duty being to call on the Raja, he early proceeded to the palace accompanied by his servant, Lal Das. Ascending a flight of steps cut in the towering sandstone rock, which was the only means of access to the fort, Bently passed through a great gate into a courtyard. There he was left to stand in the full rays of the Indian sun while the Raja’s attendants went in to announce the Resident’s arrival. Finally they returned and conducted him through a deep veranda into a hall, from which another room opened. This room, carpeted with Persian rugs and hung with rare kinkhab draperies, seemed cool and pleasant after the heat without.
+
+The Raja, Chumbu Singh, was seated on a cushioned *gadi*, surrounded by several attendants. He was a tall, slender man of about forty, and wore the peculiar Rajput side whiskers. His attire consisted of a pearl-embroidered coat, trousers of white tussah silk, and an elaborately embroidered turban. One hand toyed with the gem-encrusted hilt of a short sword stuck in a broad silk cummerbund.
+
+At this first meeting conversation was short and formal. The Raja asked after Bently’s health, and requested his opinion of such matters as the climate. He spoke fluent English, and seemed well educated and intelligent.
+
+“I hope you will like Shaitanabad,” he said, finally. “Sport here is good. If at any time you care to hunt tigers, I shall be glad to place all the facilities in my power at your disposal.”
+
+Bently retired on the whole rather favorably impressed with the Raja and inclined to treat certain adverse reports of his conduct as exaggerated. Native princes are always more or less prone to irritation at the ways of British Residents. Probably such was the basis of Chumbu Singh’s offense in British official quarters.
+
+During the next two or three weeks Bently thought he had reason to be pleased at his judgment of native character. Chumbu Singh fell so readily into certain administrative reforms proposed by Bently that there appeared little doubt of his earnestness to walk in the path of modern progress. So far things looked much better than he had been led to anticipate, even the temperature dropping to 98° at midnight. It was after the settlement of a land ownership case, in which Bently’s assistance had been requested, that the Raja made a proposal.
+
+“I have arranged for a tiger hunt tonight,” he said. “Would you like to go?”
+
+Bently eagerly responded in the affirmative.
+
+“This is a terrible animal, Sahib,” continued the Raja. “He has killed many people. His den is in the hills﻿—an old cave temple, haunted, my people, say, by ghosts and devils. However that may be, the tiger is many devils in himself. He stalks both cattle and villagers in broad daylight, and kills not only when hungry, but out of the devilishness of his heart. We have planned to get him at the cave.”
+
+When the last rays of the sun had faded from the hot red sandstone of the Nahargarh, and the gray veil of dusk had fallen over Shaitanabad, Chumbu Singh and several followers came to the Residency to announce that all was ready. They were armed and mounted on wiry Baluchi ponies. Bently joined them, accompanied by Lal Das, and the party set off across the rapidly darkening plain. Their destination, as indicated by Chumbu Singh, was a mass of low-lying, jungle-clad hills two miles to the northeast. The plain, or rather desert, between was barren with scarce a tree or shrub, and its monotony was broken only by a series of nasty mullahs or gulleys, which gave much trouble, necessitating careful horsemanship and slow traveling.
+
+Reaching the hills without mishaps, the horses were left near an old tomb in charge of the servants. The Raja, Bently, Lal Das, and two Rajputs continued afoot. They first followed a bullock trail, and then a narrow footpath, one of the Rajputs acting as guide. The path, winding up and down, through cactus jungle, deep ravines, and among great boulders, led well into the hills.
+
+The moon had risen, and as they emerged from a patch of jungle, Bently saw the cave temple of which Chumbu Singh had spoken. It was in a steep hillside, where the formation changed from sandstone to light granite. In front was a level space overgrown with cactus, jungle plants, and a few larger trees. There were three entrances, the central one being about fifteen feet high, and the other two smaller. The larger one was open, but the others were choked with debris.
+
+The hunters toiled up the hillside, scrambling over boulders and through the thick scrub. There was no path, and it was not pleasant travelling. A handful of cactus spines, even on a moonlit night in the presence of ancient and interesting ruins, is more productive of profanity than enthusiasm.
+
+“This is the ancient temple of Jains,” said the Raja when they at last came panting to the entrance.
+
+Bently peered within to behold the moonlight shining on huge indistinct figures, old forgotten gods carved in the solid granite. There were also great footprints in the thick dust, evidently those of the tiger. Undoubtedly he was a monster animal, for Bently had never seen pads to equal them.
+
+The two Rajputs examined the pads carefully, and gave it as their opinion that the tiger had crept forth, bent on stalking about nightfall, and would probably not return until morning. They were sure he was not in the cave. The Raja seemed annoyed at the prospect of a long wait, and abused the Rajputs for not arranging matters so that they might have arrived at the cave earlier and so intercepted the tiger.
+
+“I owe you many apologies,” he said, turning Bently. “You see what comes of trusting to these fellows. But since it is such an effort to get here, I suggest that we wait for the tiger.”
+
+“Certainly,” agreed Bently. “I am willing to wait as long as you like for a shot at that beast.”
+
+“Very well,” the Raja nodded. “In the meantime suppose we take a look at the cave temple. It is an interesting place, of its kind without equal in India.”
+
+To this Bently readily assented. Thereupon the Raja sent off one of the Rajputs and Lal Das with an order for the rest of the retainers to keep watch in case the tiger returned unexpectedly. The other Rajput then produced a torch, and the party of three entered the cave. First they passed through a sort of peristyle, or antechamber, which, thirty yards from the entrance, opened into a vast grotto. This was the main excavation. Huge stone pillars, elaborately sculptured, supported the roof, and around the sides great gods and goddesses of the Jain mythology, called Arhats, glared downward. The torch illuminated dimly, leaving much in shadow, and in the shadow imagination created strange fantasies. A narrow passage from the grotto ended in a smaller chamber littered with fallen fragments. It was more than once necessary to climb over some god whose face was in the dust. Another short passage led to an arched entrance two-thirds blocked with debris.
+
+“We cannot go any further,” said the Raja, “but if you take the torch and climb up on that pile, you will be able to see into a greater cave beyond. My superstitious retainers believe that it is the abode of ghosts and devils, the guardians of the temple.”
+
+Bently’s curiosity was stimulated. Torch in hand he surmounted the obstruction, and peered into a gulf of black darkness. He seemed on the verge of a great precipice, the limits and bottom of which the torchlight failed to reach. From far beneath he fancied he caught a splash of water tumbling over a rocky bed, and strange echoes floated upward, but he could see nothing. It was an appalling abyss, which, for all he knew, might sink into the foundations of the earth.
+
+Suddenly he received a violent push from behind, accompanied by a muttered curse hurled from the Raja’s lips. Bently tumbled forward, and, in doing so, threw out an arm wildly to save himself. It caught the barrel of the Raja’s rifle, swept it from his grasp, and hurled it clattering into the chasm beneath. Bently promptly followed the Raja’s rifle down a steep crumbling slope to what would have been certain death had his own rifle not brought him up with a jerk by becoming lodged to half its length between two rocks. As it were, there he hung in midair with the buttress of his rifle for his only support. A shower of following pebbles swept on down into nothingness.
+
+For some moments he remained almost stunned by the peril of the situation, but presently his mind began to gather in the slender chances of escape. He had apparently been brought up with his back against a sidewall of rock and with one foot resting on a narrow projection. Reaching out a hand, and groping with it, he discovered that the narrow projection was one of a flight of irregular steps cut in the rock and leading upward. If a hazardous foothold, he presumed it had been used at some period, and decided to tempt its course.
+
+He balanced himself carefully, and disengaging his rifle, crept slowly upward step by step. Once his foot slipped, and he almost fell, but throwing himself inward he found he had stumbled into the entrance of a narrow passage. That meant safety from the chasm at any rate, and he gave vent to a huge breath of relief. His next act was to test the springs of his rifle, and so far as he was able to judge in the darkness he was further gratified to find that it was uninjured. Then he went cautiously forward, guiding his progress by a hand on the sidewall. Presently he came to a broad flight of steps partly choked up with fallen debris. Climbing up this, he emerged into the grotto of the temple.
+
+Then he drew back suddenly. A coughing snarl echoed through the cavern. Bently softly moved behind the stone image of a god, and looked out from its shadow. From a cleft in the roof of the temple a stream of moonlight fell within, and toned with silver the yellow body and velvet stripes of a monster tiger. It also shone upon the prostrate forms of the Raja and his Rajput retainer, held beneath the huge paws of the Lord of the Jungle. Again the coughing snarl echoed through the temple. The eyes of the beast flashed with savage thirst for blood as it lowered its head to plunge its fangs into the throat of one of its victims.
+
+Bently raised his rifle to the shoulder, took steady aim, and fired. A terrific roar shook the stone gods, a gigantic convulsion seized upon the body of the tiger as it rolled over. Bently fired again, and then strode from his place of concealment. Another shot at closer range finished the death struggle of the tiger. Its last breath went forth in a choking growl of defiance.
+
+It took but a cursory examination to convince Bently that both the Raja and the Rajput were past rendering any account of their treachery on this earth, and a lack of response to his shouts made it plain that the Raja’s retainers had promptly bolted when the tiger unexpectedly returned. The Raja and the Rajput has thus been left to encounter the powerful beast unarmed.
+
+How Bently regained the Residency was a matter he was unable to explain except by instinct, but daylight had already broken when he reached the compound. Then he acted with swift decision.
+
+He sent orders for the Raja’s retainers to appear at the Residency for an investigation, which eventually led to a thorough exploration of the temple. By another entrance the bottom of the abyss was gained, and sundry relics discovered there proved how the Raja had relieved himself of the undesirable presence of those who had interfered with his dubious proceedings.

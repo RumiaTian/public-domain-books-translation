@@ -1,0 +1,107 @@
+## X Stella
+Michael spent a charming fortnight with Father Viner in Amiens, Chartres and Rouen. The early Masses to which they went along the cool, empty streets of the morning, and the shadowy, candle-lit Benedictions from which they came home through the deepening dusk gave to Michael at least a profound hope, if not the astonishing faith of his first religious experience. Sitting with the priest at the open window of their inn, while down below the footsteps of the wayfarers were pattering like leaves, Michael recaptured some of that emotion of universal love which with sacramental force had filled his heart during the wonder of transition from boyhood to adolescence. He did not wish to know more about these people than could be told by the sound of their progress so light, so casual, so essentially becoming to the sapphirine small world in which they hurried to and fro. The passion of hope overwhelmed Michael’s imagination with a beauty that was perfectly expressed by the unseen busy populations of a city’s waning twilight. Love, birth, death, greed, ambition, all humanity’s stress of thought and effort, were merged in a murmurous contentment of footfalls and faint-heard voices. Michael supposed that somehow to God the universe must sound much as this tall street of Rouen sounded now to him at his inn window, and he realized for the first time how God must love the world. Later, the twilight and voices and footfalls would fade together into night, and through long star-scattered silences Michael would brood with a rapture that became more than hope, if less than faith with restless, fiery heart. Then clocks would strike sonorously; the golden windowpanes would waver and expire; Mr. Viner would tap his pipe upon the sill; and Michael and he would follow their own great shadows up into bedrooms noisy in the night-wind and prophetic of sleep’s immense freedom, until with the slanting beams of dawn Michael would wake and at Mass time seek to enchain with prayers indomitable dreams.
+The gravity of Michael’s demeanour suited the grey town in which he sojourned, and though Mr. Viner used to tease him about his saintly exterior, the priest seemed to enjoy his company.
+“But don’t look so solemn when you meet your sister, or she’ll think you’re sighing for a niche in Chartres Cathedral, which for a young lady emancipated from Germany would be a most distressing thought.”
+“I’m enjoying myself,” said Michael earnestly.
+“My dear old chap, I’m not questioning that for a moment, and personally I find your attitude consorts very admirably with the mood in which these northern towns of France always throw me,” said Mr. Viner.
+The fortnight came to an end, and to commemorate this chastening interlude of a confidence and a calm whose impermanence Michael half dreaded, half desired, he bought a pair of old candlesticks for the Notting Dale Mission. Michael derived a tremendous consolation from this purchase, for he felt that, even if in the future he should be powerless to revive this healing time, its austere hours would be immortalized, mirrored somehow in the candlesticks’ bases as durably as if engraved upon a Grecian urn. There was in this impulse nothing more sentimental than in his erection last year of the small cairn to celebrate a fleeting moment of faith on the Berkshire downs.
+Stella was already settled in the bosom of the French family when Michael reached Compiègne, and as he drove towards the Pension he began for the first time to wonder what his sister would be like after these two years. He was inclined to suppose that she would be a problem, and he already felt qualms about the behaviour of her projected suddenly like this from Germany into an atmosphere of romance. For Michael, France always stood out as typically romantic to his fancy. Spain and Italy were not within his realization as yet, and Germany he conceived of as a series of towns filled with the noise of piano-scales and hoarse gutturals. He hoped that Stella was not even now plunged into a girlish love-affair with one of the idle young Frenchmen who haunted so amorously the sunshine of this gay land. He even began to rehearse, as his carriage jolted along the cobbled embankment of the Oise, a particularly scathing scene in which he coldly denounced the importunate lover, while Stella stood abashed by fraternal indignation. Then he reflected that after all Stella was only fifteen and, as he remembered her, too much wrapped up in a zest for public appreciation to be very susceptible of private admiration. Moreover, he knew that most of her time was occupied by piano-practice. An emotion of pride in his accomplished sister displaced the pessimism of his first thoughts. He took pleasure in the imagination of her swaying the whole Pension by her miraculous execution, and he began to build up the picture of his entrance upon the last crashing chords of a sonata, when after the applause had ceased he would modestly step forward as the brother of this paragon.
+The carriage was now bowling comfortably along a wide tree-shaded avenue bordered on either side by stretches of greenery which were dappled with children and nursemaids and sedate little girls with bobbing pigtails. Michael wondered if Stella was making a discreet promenade with the ladies of the family, half hoped she was, that he might reach the Pension before her and gracefully welcome her, as she, somewhat flustered by being late for his arrival, hurried up the front-door steps. Then, just as he was wondering whether there would or would not be front-door steps to the Pension, the cab drew up by a house with a green verandah and front-garden geranium-dyed to right and left of a vivid gravel path. Michael perceived, with a certain disapproval, that the verandah sheltered various ladies in wicker chairs. He disliked the notion of carrying up his bag in the range of their cool criticism, nor did he relish the conversation that would have to be embarked upon with the neat maid already hurrying to meet him. But most contrary to his preconceived idea of arrival was the affectionate ambush laid for him by Stella just when he was trying to remember whether *chambre* were masculine or feminine. Yet, even as he felt Stella’s dewy lips on his, and her slim fingers round his neck, he reproached himself for his silly shyness, although he could only say:
+“Hullo, look out for my collar.”
+Stella laughed ripplingly.
+“Oh, Michael,” she cried, “I’m most frightfully glad to see you, you darling old Michael.”
+Michael looked much alarmed at the amazing facility of her affectionate greeting, and vaguely thought how much easier existence must be to a girl who never seemed to be hampered by any feeling of what people within earshot would think of her. Yet almost immediately Stella herself relapsed into shyness at the prospect of introducing Michael to the family, and it was only the perfectly accomplished courtesy of Madame Regnier which saved Michael from summarily making up his mind that these holidays were going to be a most ghastly failure.
+The business of unpacking composed his feelings slightly, and a tap at his door, followed by Stella’s silvery demand to come in, gave him a thrill of companionship. He suddenly realized, too, that he and his sister had corresponded frequently during their absence, and that this queer shyness at meeting her in person was really absurd. Stella, wandering round the room with his ties on her arm, gave Michael real pleasure, and she for her part seemed highly delighted at the privilege of superintending his unpacking.
+He noted with a sentimental fondness that she still hummed, and he was very much impressed by the flowers which she had arranged in the cool corners of the pleasant room. On her appearance, too, as she hung over the rail of his bed chatting to him gaily, he congratulated himself. He liked the big apple-green bows in her chestnut hair; he liked her slim white hands and large eyes; and he wondered if her smile were like his, and hoped it was, since it was certainly very subtle and attractive.
+“What sort of people hang out in this place?” he asked.
+“Oh, nice people,” Stella assured him. “Madame Regnier is a darling, and she loves my playing, and Monsieur is fearfully nice, with a grey beard. We always play billiards in the evening, and drink cassis. It’s lovely. There are three darling old ladies, widows I think. They sit and listen to me playing, and when I’ve finished pay me all sorts of compliments, which sound so pretty in French. One of them said I was ‘*ravissante*.’ ”
+“Are there any kids?” asked Michael.
+Stella said there were no kids, and Michael sighed his relief.
+“Do you practise much?”
+“Oh, no, I’m having a holiday, I only practise three hours a day.”
+“How much?” asked Michael. “Good Lord, do you call that a holiday?”
+“Why, you silly old thing, of course it is,” rippled Stella.
+Presently it was time for déjeuner, and they sat down to eat in a room, of shaded sunlight, watching the green jalousies that glowed like beryls, and listening to a canary’s song. Michael was introduced to Madame Graves, Madame Lamarque and Madame Charpentier, the three old widows who lived at the Pension, and who all looked strangely alike, with their faces and hands of aged ivory and their ruffles and wristbands starched to the semblance of fretted white coral. They ate mincingly in contrast to M. Regnier who, guarded by a very large napkin, pitchforked his food into his mouth with noisy recklessness. Later in the mellow August afternoon Michael and he walked solemnly round the town together, and Michael wondered if he had ever before raised his hat so many times.
+After dinner, when the coffee and cassis had been drunk, Madame Regnier invited Stella to play to them. Dusk was falling in the florid French drawing-room, but so rich was the approach of darkness that no lamps brooded with rosy orbs, and only a lighted candle on either side of Stella stabbed the gloom in which the listeners leaned quietly back against the tropic tapestries of their chairs, without trying to occupy themselves with books or crochet-work.
+Michael sat by the scented window, watching the stars twinkle, it almost seemed, in tune with the vibrant melodies that Stella rang out. In the bewitching candlelight the keyboard trembled and shimmered like water to a low wind. Deep in the shadow the three old ladies sat in a waxen ecstasy, so still that Michael wondered whether they were alive. He did not know whose tunes they were that Stella played; he did not know what dreams they wove for the old ladies, whether of spangled opera-house or ball; he did not care, being content to watch the lissome hands that from time to time went dancing away on either side from the curve of Stella’s straight back, whether to play with raindrops in the treble or marshal thunders from the bass. The candlelight sprayed her flowing chestnut hair with a golden mist that might have been an aureole over which the apple-green bows floated unsubstantial like amazing moths.
+Michael continually tried to shape his ideas to the inspiration of the music, but every image that rose battling for expression lost itself in a peerless stupefaction.
+Then suddenly Stella stopped playing, and the enchantment was dispelled by murmurous praise and entering lamplight. Stella, slim as a fountain, stood upright in the centre of the drawing-room and, like a fountain, swayed now this way, now that, to catch the compliments so dear to her. Michael wished the three old ladies would not appeal to him to endorse their so perfectly phrased enthusiasm, and grew very conscious of the gradual decline of “oui” into “wee” as he supported their laudation. He was glad when M. Regnier proposed a game of billiards, and glad to see that Stella could romp, romp so heartily indeed that once or twice he had to check a whispered rebuke.
+But later on when he said good night to her outside his bedroom, he had an impulse to hug her close for the unimaginable artistry of this little sister.
+Michael and Stella went out next day to explore the forest of Compiègne. They wandered away from the geometrical forest roads into high glades and noble chases; they speculated upon the whereabouts of the wild-boars that were hunted often, and therefore really did exist; they lay deep in the bracken utterly remote in the ardent emerald light, utterly quiet save for the thrum of insects rising and falling. In this intimate seclusion Michael found it easy enough to talk to Stella. Somehow her face, magnified by the proportions of the surrounding vegetation, scarcely seemed to belong to her, and Michael had a sensation of a fairy fellowship, as he felt himself being absorbed into her wide and strangely magical eyes. Seen like this they were as overwhelmingly beautiful as two flowers, holding mysteries of colour and form that could never be revealed save thus in an abandonment of contemplation.
+“Why do you stare at me, Michael?” she asked.
+“Because I think it’s funny to realize that you and I are as nearly as it’s possible to be the same person, and yet we’re as different from each other as we are from the rest of people. I wonder, if you didn’t know I was your brother, and I didn’t know you were my sister, if we should have a sort of﻿—what’s the word?﻿—intuition about it? For instance, you can play the piano, and I can’t even understand the feeling of being able to play the piano. I wish we knew our father. It must be interesting to have a father and a mother, and see what part of one comes from each.”
+“I always think father and mother weren’t married,” said Stella.
+Michael blushed hotly, taken utterly aback.
+“I say, my dear girl, don’t say things like that. That’s a frightful thing to say.”
+“Why?”
+“Why? Why, because people would be horrified to hear a little girl talking like that,” Michael explained.
+“Oh, I thought you meant they’d be shocked to think of people not being married.”
+“I say, really, you know, Stella, you ought to be careful. I wouldn’t have thought you even knew that people sometimes﻿—very seldom, though, mind﻿—don’t get married.”
+“You funny old boy,” rippled Stella. “You must think I’m a sort of doll just wound up to play the piano. If I didn’t know that much after going to Germany, why﻿—oh, Michael, I do think you’re funny.”
+“I was afraid these beastly foreigners would spoil you,” muttered Michael.
+“It’s not the foreigners. It’s myself.”
+“Stella!”
+“Well, I’m fifteen and a half.”
+“I thought girls were innocent,” said Michael with disillusion in his tone.
+“Girls grow older quicker than boys.”
+“But I mean always innocent,” persisted Michael. “I don’t mean all girls, of course. But﻿—well﻿—a girl like you.”
+“Very innocent girls are usually very stupid girls,” Stella asserted.
+Michael made a resolution to watch his sister’s behaviour when she came back to London next year to make her first public appearance at a concert. For the moment, feeling overmatched, he changed the trend of his reproof.
+“Well, even if you do talk about people not being married, I think it’s rotten to talk about mother like that.”
+“You stupid old thing, as if I should do it with anyone but you, and I only talked about her to you because you look so sort of cosy and confidential in these ferns.”
+“They’re not ferns﻿—they’re bracken. If I thought such a thing was possible,” declared Michael, “I believe I’d go mad. I don’t think I could ever again speak to anybody I knew.”
+“Why not, if they didn’t know?”
+“How like a girl! Stella, you make me feel uncomfortable, you do really.”
+Stella stretched her full length in the luxurious greenery.
+“Well, mother never seems unhappy.”
+“Exactly,” said Michael eagerly. “Therefore, what you think can’t possibly be true. If it were, she’d always look miserable.”
+“Well, then who *was* our father?”
+“Don’t ask me,” said Michael gloomily. “I believe he’s in prison﻿—or perhaps he’s in an asylum, or deformed.”
+Stella shuddered.
+“Michael, what a perfectly horrible idea. Deformed!”
+“Well, wouldn’t you sooner he were deformed than that you were﻿—than that﻿—than the other idea?” Michael stammered.
+“No, I wouldn’t,” Stella cried. “I’d much, much, much rather that mother was never married.”
+Michael tried to drag his mind towards the comprehension of this unnatural sentiment, but the longer he regarded it the worse it seemed, and with intense irony he observed to Stella:
+“I suppose you’ll be telling me next that you’re in love.”
+“I’m not in love just at the moment,” said Stella blandly.
+“Do you mean to say you have been in love?”
+“A good deal,” she admitted.
+Michael leaped to his feet, and looked down on her recumbent in the bracken.
+“But only in a stupid schoolgirly way?” he gasped.
+“Yes, I suppose it was,” Stella paused. “But it was fearfully thrilling all the same﻿—especially in duets.”
+“Duets?”
+“I used to read ahead, and watch where our hands would come together, and then the notes used to get quite slippery with excitement.”
+“Look here,” Michael demanded, drawing himself up, “are you trying to be funny?”
+“No,” Stella declared, rising to confront Michael. “He was one of my masters. He was only about thirty, and he was killed in Switzerland by an avalanche.”
+Michael was staggered by the confession of this shocking and precocious child, as one after another his chimeras rose up to leer at him triumphantly.
+“And did he make love to you? Did he try to kiss you?” Michael choked out.
+“Oh, no,” said Stella. “That would have spoilt it all.”
+Michael sighed under a faint lightening of his load, and Stella came up to him engagingly to slip her arm into his.
+“Don’t be angry with me, Michael, because I have wanted so dreadfully to be great friends with you and tell you all my secrets. I want to tell you what I think about when I’m playing; and, Michael, you oughtn’t to be angry with me, because you were simply just made to be told secrets. That’s why I played so well last night. I was telling you a secret all the time.”
+“Do you know what it is, Stella?” said Michael, with a certain awe in his voice. “I believe our father is in an asylum, and I believe you and I are both mad﻿—not raving mad, of course﻿—but slightly mad.”
+“All geniuses are,” said Stella earnestly.
+“But we aren’t geniuses.”
+“I am,” murmured Stella in a strangely quiet little voice that sounded in Michael’s ears like the song of a furtive melodious bird.
+“Are you?” he whispered, half frightened by this assertion, delivered under huge overarching trees in the burning silence of the forest. “Who told you so?”
+“I told myself so. And when I tell myself something very solemnly, I can’t be anything but myself, and I must be speaking the truth.”
+“But even if you’re a genius﻿—and I suppose you might be﻿—I’m not a genius. I’m clever, but I’m not a genius.”
+“No, but you’re the nearest person to being me, and if you’re not a genius, I think you can understand. Oh, Michael,” Stella cried, clasping his arm to her heart, “you do understand, because you never laughed when I told you I was a genius. I’ve told lots of girlfriends, and they laugh and say I’m conceited.”
+“Well, you are,” said Michael, feeling bound not to lose the opportunity of impressing Stella with disapproval as well as comprehension.
+“I know I am. But I must be to go on being myself. Oh, you darling brother, you do understand me. I’ve longed for someone to understand me. Mother’s only proud of me.”
+“I’m not at all proud of you,” said Michael crushingly.
+“I don’t want you to be. If you were proud of me, you’d think I belonged to you, and I don’t ever want to belong to anybody.”
+“I shouldn’t think you ever would,” said Michael encouragingly, as they paced the sensuous mossy path in a rapture of avowals. “I should think you’d frighten anybody except me. But why do you fall in love, then?”
+“Oh, because I want to make people die with despair.”
+“Great Scott, you are an unearthly kid.”
+“Oh, I’m glad I’m unearthly,” said Stella. “I’d like to be a sort of Undine. I think I am. I don’t think I’ve got a soul, because when I play I go rushing out into the darkness to look for my soul, and the better I play the nearer I get.”
+Michael stopped beneath an oak-tree and surveyed this extraordinary sister of his.
+“Well, I always thought I was a mystic, but, good Lord, you’re fifty times as much of a mystic as I am,” he exclaimed with depressed conviction.
+Suddenly Stella gave a loud scream.
+“What on earth are you yelling at?” said Michael.
+“Oh, Michael, look﻿—a most enormous animal. Oh, look, oh, let me get up a tree. Oh, help me up. Push me up this tree.”
+“It’s a wild-boar,” declared Michael in a tone of astonished interest.
+Stella screamed louder than ever and clung to Michael, sobbing. The boar, however, went on its way, routing among the herbage.
+“Well, you may be a genius,” said Michael, “but you’re an awful little funk.”
+“But I was frightened.”
+“Wild-boars aren’t dangerous except when they’re being hunted,” Michael asserted positively.
+Stella soon became calm under the influence of her brother’s equanimity. Arm-in-arm they sauntered back towards Compiègne, and so for a month of serene weather they sauntered every day, and every day Michael pondered more and more deeply the mystery of woman. He was sorry to say goodbye to Stella when she went back to Germany, and longed for the breathless hour of her first concert, wishful that all his life he might stand between her and the world, the blundering wild-boar of a world.

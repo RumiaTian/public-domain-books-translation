@@ -1,0 +1,75 @@
+====================================================================================================
+### william-congreve_the-way-of-the-world  (12 files)
+  块: O=312 C=312 OK | 段: EN=2334 CN=1394 !!差 940
+     [不对称] act-i.md                                             O=35 C=35 段EN=420 段CN=219
+     [不对称] act-ii.md                                            O=45 C=45 段EN=439 段CN=228
+     [不对称] act-iii.md                                           O=49 C=49 段EN=434 段CN=239
+     [不对称] act-iv.md                                            O=30 C=30 段EN=425 段CN=246
+     [不对称] act-v.md                                             O=18 C=18 段EN=338 段CN=184
+     [不对称] dedication.md                                        O=14 C=14 段EN=16 段CN=17
+     [不对称] epigraph.md                                          O=2 C=2 段EN=5 段CN=4
+  英文残留(剔括注) top: the×18, of×12, in×9, like×9, Scene×7, and×7, II×5, The×5, you×5, upon×4
+  -- 术语表硬约束行 62 条:
+     Mirabell                       → 米兰芒特                 源×235   译×234  
+     Millamant                      → 米勒曼特                 源×19    译×113  
+     Mrs. Fainall / Marwood / Wishf → 费诺夫人／玛伍德夫人／威什福特夫人    源×379   译×362  
+     Fainall                        → 费诺                   源×148   译×148  
+     Witwoud                        → 威特伍德                 源×126   译×126  
+     Petulant                       → 佩特兰特                 源×84    译×84   
+     Sir Wilfull Witwoud            → 威尔福·威特伍德爵士           源×8     译×8    
+     Waitwell                       → 韦特韦尔                 源×47    译×47   
+     Foible                         → 福伊布尔                 源×115   译×115  
+     Mincing                        → 明辛                   源×30    译×30   
+     Peg                            → 佩格                   源×11    译×11   
+     Sir Rowland                    → 罗兰爵士                 源×50    译×50   
+     Betty                          → 贝蒂                   源×17    译×17   
+     St. James's Park               → 圣詹姆斯公园               源×3     译×3    
+     Locket's                       → 洛克特馆                 源×2     译×2    
+     Mrs. Engine                    → 机关太太                 源×1     译×1    
+     Footman                        → 男仆                   源×12    译×15   
+     The Way of the World           → 《如此世道》               源×4     译×1     落位偏低 1/4
+     Ralph, Earl of Mountague       → 拉尔夫·蒙塔古伯爵            源×1     译×1    
+     Will Congreve                  → 威尔·康格里夫              源×1     译×1    
+     Richard Steele                 → 理查德·斯蒂尔              源×1     译×1    
+     Arabella                       → 阿拉贝拉                 源×2     译×3    
+     Pastora                        → 帕斯托拉                 源×2     译×2    
+     The Mourning Bride             → 《悼亡的新娘》              源×0     译×1     ★源0次(幽灵?)
+     Truewit                        → 真才子                  源×1     译×1    
+     Terence                        → 泰伦提乌斯                源×4     译×4    
+     Scipio                         → 西庇阿                  源×3     译×3    
+     Lelius                         → 莱利乌斯                 源×3     译×3    
+     Plautus                        → 普劳图斯                 源×1     译×1    
+     Horace                         → 贺拉斯                  源×1     译×3    
+     Menander                       → 米南德                  源×3     译×3    
+     Theophrastus                   → 泰奥弗拉斯托斯              源×2     译×2    
+     Aristotle                      → 亚里士多德                源×1     译×1    
+     Parnassus                      → 帕纳索斯山                源×1     译×1    
+     Mrs. Millamant                 → 米勒曼特小姐               源×104   译×10    落位偏低 10/104
+     St. Pancras in the Fields      → 田野圣潘克拉斯教堂            源×1     译×1    
+     Duke's Place                   → 杜克广场                 源×1     译×4    
+     Fleet marriages                → 弗利特式婚事               源×1     译×1    
+     Rosamond's Pond                → 罗莎蒙德池                源×2     译×1    
+     Pall Mall                      → 蓓尔美尔街                源×1     译×1    
+     Ben Jonson                     → 本·琼森                 源×1     译×1    
+     Volpone                        → 《伏尔蓬涅》（《狐狸》）         源×2     译×1    
+     Caliban                        → 凯列班                  源×1     译×1    
+     Jeremy Collier                 → 杰里米·科利尔              源×1     译×1    
+     Sir John Suckling              → 萨克林爵士                源×2     译×2    
+     Thyrsis                        → 瑟西斯                  源×2     译×1    
+     Phoebus / Daphne               → 福玻斯／达佛涅              源×3     译×2    
+     l’étourdi                      → 冒失鬼                  源×1     译×1    
+     Lady Fadler / Sir Francis      → 法德勒夫人／弗朗西斯爵士         源×2     译×2    
+     Baldwin                        → 鲍德温                  源×2     译×2    
+     Hyde Park                      → 海德公园                 源×2     译×2    
+     Borachio                       → 酒皮囊                  源×6     译×4     残留「酒鬼」×2
+     Salopian                       → 萨洛普人                 源×2     译×1    
+     Tantony                        → 圣安东尼                 源×2     译×2    
+     Sir Jonathan Wishfort          → 乔纳森·威什福特爵士           源×1     译×1    
+     Languish / Arabella Languish   → 兰圭什／阿拉贝拉·兰圭什         源×2     译×2    
+     Edward Mirabell                → 爱德华·米兰芒特             源×1     译×1    
+     Pylades and Orestes            → 皮拉得斯同俄瑞斯忒斯           源×1     译×1    
+     Bridewell                      → 毕狱                   源×3     译×2    
+     Messalina’s poems              → 《梅萨利纳诗集》             源×1     译×1    
+     Doomsday Book                  → 《末日审判书》              源×2     译×2    
+     quorum                         → 治安推事名单               源×1     译×0     ★译0次(未落位?)
+

@@ -1,0 +1,20 @@
+# For the Comedy
+- Were you go to the theatre yesterday?
+- Yes, sir; I won’t to see the new play in which did owed to play and actress which has not appeared on any theatre.
+- How you think her?
+- She has very much grace in the deeds great deal of exactness on the declamation, a constitution very agreable, and a delightful voice.
+- What you say of the comedy? Have her succeded? It was a drama; it was whistted to the third scene of the last act.
+- Because that?
+- It whant the vehicle, and the intrigue it was bad conducted.
+- So that they won’t waited even the upshot?
+- No, it was divined. In the mean time them did diliver justice to the players which generaly have play very well.
+- At the exception by a one’s self, who had land very much hir’s part.
+- It want to have not any indulgence towards the bat buffoons.
+- Have you seen already the new tragedy? They praise her very much.
+- It is multitude already.
+- Never I had seen the parlour so full.
+- This actor he make very well her part.
+- That piece is full of interest.
+- It have wondered the spectadors.
+- The curtains let down.
+- Go out us.

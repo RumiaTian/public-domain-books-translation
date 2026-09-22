@@ -1,0 +1,78 @@
+## VII
+Darkness closed in while they waited for Nymani’s return. There had been no further attack from the blaster wielder; perhaps he was only trying to pin them down where they were. Out over the swamp, weird patches of phosphorescence moved in small ghostly clouds, and bright dots of insects with their own built-in lighting systems flashed spark-fashion or sailed serenely on regular flight plans. At night the wonder of the place was far removed from the squalid reality of the day. They chewed on their rations, drank sparingly of the water, and tried to keep alert to any sight or sound.
+That monotonous undertone, which might or might not be drums, continued as a basic hum to the noises of the night, drowned out at intervals by a splash, a mutter or cry from some swamp creature. Beside Dane, Jellico stiffened, moved his blaster, as someone wriggled through the brush, trilling softly.
+“Off-worlders,” Nymani reported in gasps to Asaki, “and outlaws, too. They make a hunting sing﻿—tomorrow they march for a killing.”
+Asaki rested his chin on his broad forearm. “Outlaws?”
+“They show no lord’s badge. But each I saw wears a bracelet of three, five, or ten tails. They are Trackers indeed, and Hunters of the best!”
+“They have huts?”
+“Not so. There are no dwellers in the inners courts here.” Out of habit Nymani used the polite term for the women of his race. “I would say they tarry only for the space of a hunt. And on the boots of one I saw salt crust.”
+“Salt crust!” Asaki snapped and half arose. “So that is the type of lure they use. There must be a saline mire near here to pull game﻿—”
+“How many off-worlders?” Jellico broke in.
+“Three who are Hunters, one who is different.”
+“How different?” questioned Asaki.
+“He wears upon his body garments which are strange; on his head a round covering such as we see upon the off-worlders of the ships﻿—”
+“A spaceman!”
+Asaki laughed harshly. “Why not? They must have some method of transporting their hides.”
+“You can’t tell me,” Jellico returned, “that anyone is able to set a ship down in this muck. It would simply be buried for all time.”
+“But, Captain, what type of a spaceport does a Free Trader need? Do you not planet your own ship on worlds where there are no waiting cradles, no fitter shops, none of the conveniences such as mark the field Combine maintains on Xecho?”
+“Of course I do. But one does need a reasonably smooth stretch of territory, open enough so the tail flames won’t start a forest fire. You don’t ever ride a tail push down in a swamp!”
+“Which testifies to a trail out of here, fairly well-traveled, and some kind of a usable landing space not too far away,” Asaki replied. “And that could very well serve us.”
+“But they know we are here,” Tau pointed out.
+It was Nymani’s turn to laugh. “Man from the stars, there is no trail so well-hidden that a Ranger of the preserves cannot nose it out, nor any Hunter﻿—be he a two or five bracelet veteran﻿—who can keep pinned down a determined man of the forest service!”
+Dane lost interest in the argument at that moment. He was at the edge of their line, the nearest to the swamp, and he had been watching patches of ghostly light flitting above the rank water-weeds. For the past few moments those wisps of faded radiance had been gathering into a growing anthropomorphic blot hanging over the morass several yards away. And the misty outlines were now assuming more concrete shape. He watched, unable to believe in what he was seeing. At first the general outline, non-defined as it was, made him think of a rock ape. But there were no pointed ears above the round skull, no snout on the visage turned in profile toward him.
+More and more patches of swamp luminescence were drawn to that glowing figure. What balanced there now, as if walking the treacherous surface of the swampland, was no animal. It was a man, or the semblance of one, a small, thin man﻿—a man he had seen once before, on the terrace of Asaki’s mountain fortress.
+The thing stood almost complete, its head cocked in what was an attitude of listening.
+“Lumbrilo!” Dane identified it, still knowing that the witch doctor could not be standing there listening for them. But, to shake him still farther, the head turned at his cry. Only there were no eyes, no features on the white expanse which should have been a face. And somehow that made the monster more menacing, convincing Dane against sane logic that the thing *was* spying on them.
+“Demon!” That was Nymani; and over his sudden quaver, robbed of all the confidence which had been there only moments earlier, came Asaki’s demand:
+“What stands there, Medic? Tell us that!”
+“A whip to drive us out of hiding, sir. As you know as well as I. If Nymani spied upon them, then they have spied upon us in turn. And this, I think, also answers another question. If there is a canker of trouble on Khatka, then Lumbrilo is close to its root.”
+“Nymani!” The Chief Ranger’s voice was the crack of a lash. “Will you forget again that you are a man, and run crying for shelter against a shaft of light? As this off-world Medic says, Lumbrilo fashions such as that to drive us into our enemies’ hands!”
+The shadow thing in the swamp moved, putting its foot forward on surface which would not bear the weight of a human body, taking a deliberate step and then another, heading for the concealing brush where the fugitives lay.
+“Can you get rid of it, Tau?” Jellico asked in his usual crisp voice. He might have been inquiring about some problem aboard the *Queen*.
+“I’d rather get at the source.” There was a grim note in the Medic’s reply. “And to do that I want to look at their camp.”
+“Well enough!” Asaki crept back in the brush.
+The ghost of that which was not a man had reached the shore of the island, stood there, its blank head turned toward them. Weird as it was, now that the first shock of sighting it was over, the spacemen could accept and dismiss it as they had not been so able to dismiss the phantom rock ape.
+“If that thing was sent to drive us,” Dane ventured, “wouldn’t we be playing their game by going inland now?”
+The Chief Ranger did not pause in his crawl to the left. “I think not. They do not expect us to arrive with our wits about us. Panic-stricken men are easy to pull down. This time Lumbrilo has overreached himself. Had he not played that game with the rock ape, he might have been able to stampede us now.”
+Though the white thing continued to move inland, it did not change course to fall in behind them on the new route. Whatever it was, it did not possess a mind.
+There was a rustling, faint but distinguishable. Then Dane caught Nymani’s whisper.
+“The one left to watch the inland trail does so no longer. We need not fear an alarm from *him*. Also, here is another blaster for our use.”
+Away from the open by the swamp, the gloom was deeper. Dane was guided only by the noises of the less-experienced Jellico and Tau made in their progress.
+They edged down into a small cut, floored with reeds and mud, where some of the moisture from the soggy land about them gathered into a half pool. Straight through this swale the Khatkans set course.
+The drum beat grew louder. Now there was a glow against the dark﻿—fire ahead? Dane squirmed forward and at last gained a vantage point from which to survey the poachers’ camp.
+There were shelters erected there, three of them, but they were mainly roofs of leaves and branches. In two of them were stored bales of hides sewn into plastic cloth, ready to ship. Before the third hut lounged four off-worlders. And Nymani was very right; one of them wore ship’s uniform.
+To the right of the fire was a ring of natives and another man, slightly apart, who beat the drum. But of the witch doctor there was no sign. And Dane, thinking of that mist-born thing at the swamp’s edge, shivered. He could believe Tau’s explanation of the drug which produced hallucinations back on the mountain side. But how that likeness fashioned of phosphorescence had been sent by an absent man to hunt his enemies was a eerie puzzle.
+“Lumbrilo is not here.” Nymani’s thoughts must have been moving along the same path.
+Dane could hear movements in the dark beside him.
+“There’s a long-distance com unit in that third hut,” Tau observed.
+“So I see,” Jellico snapped. “Could you reach your men over the mountain with that, sir?”
+“I do not know. But if Lumbrilo is not here, how can he make his image walk the night?” the Chief Ranger demanded impatiently.
+“We shall see. If Lumbrilo is not here﻿—he shall come.” And the promise in Tau’s tone was sure. “Those off-worlders will have to be out of action first. And with that walking thing sent to drive us in, they must be waiting for us.”
+“If they have sentries out, I will silence them!” promised Nymani.
+“You have a plan?” Asaki’s wide shoulders and upheld head showed for an instant against the light from the camp.
+“You want Lumbrilo,” Tau replied. “Very well, sir, I believe I can give him to you, and in the doing discredit him with your Khatkans. But not with the off-worlders free to move.”
+The program was not going to be easy, Dane decided. Every one of the poachers was armed with a Patrol blaster of the latest type, and a small part of his mind speculated as to what would be the result of that information conveyed to official quarters. Free Traders and Patrolmen did not always see eye-to-eye over the proper action to be taken on the galactic frontier. The *Queen*’s crew had had one such brush with authority in the immediate past. But each realized that the other had an important role in the general scheme of things, and if it came to a clash between the law and outlaws, Free Traders fought beside the Patrol.
+“Why not give them what they expect﻿—with reservations?” inquired Jellico. “They’ve set us up to be stampeded into camp, flying ahead of that tame ghost of theirs. Suppose we do stampede﻿—after Nymani has removed any sentries﻿—stampede so well we sweep right over them? I want to get at that com unit.”
+“You don’t think they’ll just mow us down as we come in?”
+“You delivered a blow to Lumbrilo’s pride; he won’t be satisfied with just your burning,” the captain answered Tau, “not if I’m any judge of character. And we’d furnish hostages of a sort﻿—especially the Chief Ranger. No, if they had wanted to kill us they would have shot us off those islands when we came here. There would have been no playing around with ghosts and goblins.”
+“There is reason in your words. And it is true they would like to have me, those outlaws down there,” Asaki commented. “I am of the Magawaya and we have pressed always for stronger security methods to be used against such as they. But I do not see how we can take the camp.”
+“We won’t go in from the front﻿—as they expect us to do. But a try from the north, getting at the off-worlders first.﻿ ﻿… Three men causing enough disturbance to cover operations of the other two.﻿ ﻿…”
+“So?” There was a moment of silence as the Chief Ranger evaluated that. Then he added a few comments of his own.
+“That off-worlder who wears spaceman’s clothing, his weapon is not drawn, though the others are ready. But I believe that you are right in thinking they expect to be warned by sentries. Those we can see to. Suppose then, Captain, you and I play the fear-crazed men running from demons. Nymani will cover us from the dark and your two men﻿—”
+Tau spoke up, “Give me leave to flush out our other quarry, sir. I believe I can keep him occupied. Dane, you’ll take the drum.”
+“Drum?” With his mind on blasters, it was startling to be offered a noisemaker.
+“It’s your business to get that drum. And when you get it I want you to beat out ‘Terra Bound.’ You certainly can play that, can’t you?”
+“I don’t understand,” Dane began and then swallowed the rest of his protest, knowing that Tau was not going to explain why he needed to have the hackneyed popular song of the spaceways played in a Khatkan swamp. As a Free Trader he had had quite a few odd jobs handed him during the past couple of years, but this was the first time he had been ordered to serve as a musician.
+They waited for Nymani through dragging minutes. Surely those in the camp would expect their arrival soon now? Dane’s fire ray was in his hand as he measured the distance to the drummer’s stand.
+“It is done,” Nymani whispered from the darkness behind them. Jellico and the Chief Ranger moved to the left; Tau crept to the right and Dane pushed level with the medic.
+“When they move,” Tau’s lips were beside his ear, “jump for that drum. I don’t care how you get it, but get it and keep it!”
+“Yes, sir!”
+There was a wailing cry from the north, a howl of witless fear. The singers stopped in mid-note, the drummer paused, his hand uplifted. Dane darted forward in a plunge which carried him to that man. The Khatkan did not have time to rise from his knees as the barrel of the fire rod struck his head, sending him spinning. Then the drum was cradled in the spaceman’s arm, close to his chest, his weapon aimed across it at the startled natives.
+The crackle of blaster fire, the shrill whine of needlers in action, raised a bedlam from the other end of the camp. Backing up a little, Dane went down on one knee, his weapon ready to sweep over the bewildered natives, the drum resting on the earth against his body. Keeping the fire rod steady, his left hand went to work, not in the muted cadence the Khatkan drummer had chosen, but in hard and vigorous thumps which rolled across the clamor of the fight. There was no forgetting the beat of “Terra Bound” and he delivered it with force, so that the familiar *dadah-dada* droned loud enough to awaken the whole camp.
+Dane’s move appeared to completely baffle the Khatkan outlaws. They stared at him, the whites of their eyes doubly noticeable in their dark faces, their mouths a little agape. As usual the unexpected had driven them off guard. He dared not look away from that gathering to see how the fight at the other end of the camp was progressing. But he did see Tau’s advance.
+The medic came into the light of the fire, not with his ordinary loose-limbed spaceman’s stride, but mincingly, with a dancing step, and he was singing to the drum beat of “Terra Bound.” Dane could not understand the words, but he knew that they patterned in and out of the drum beats, weaving a net between singer and listeners as Lumbrilo had woven his net on the mountain terrace.
+Tau had them! Had every one of the native outlaws ensnared, so that Dane rested his weapon across his knee and took up the lower beat with the fingers of his right hand as well.
+*Da-dah-dada*.﻿ ﻿… The innocuous repetitive refrain of the original song which had been repeating itself in his mind faded, and somehow he caught the menace in the new words Tau was mouthing.
+Twice the medic shuffled about a circle of his own making. Then he stooped, took a hunting knife from the belt of the nearest Khatkan and held it point out toward the dark east. Dane would not have believed the medic knew the drill he now displayed, for with no opponent save the dancing firelight he fought a knife duel, feinting, striking, twisting, retreating, attacking, all in time to the beat of the drum Dane was no longer conscious of playing. And as he strove it was very easy to picture another fighting against him. So that when the knife came up in a vicious thrust which was the finish of his last attack, Dane stared stupidly at the ground, half expecting to see a body lying there.
+Once more Tau ceremoniously saluted with his blade to the east. Then he laid it on the ground and stood astride its gleaming length.
+“Lumbrilo!” His confident voice arose above the call of the drum. “Lumbrilo﻿—I am waiting.”

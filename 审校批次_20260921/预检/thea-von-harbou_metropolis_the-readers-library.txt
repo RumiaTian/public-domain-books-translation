@@ -1,0 +1,107 @@
+====================================================================================================
+### thea-von-harbou_metropolis_the-readers-library  (26 files)
+  块: O=610 C=610 OK | 段: EN=2612 CN=2615 !!差 -3
+     [不对称] 11-xi.md                                             O=29 C=29 段EN=98 段CN=99
+     [不对称] 15-xv.md                                             O=47 C=47 段EN=161 段CN=162
+     [不对称] 18-xviii.md                                          O=30 C=30 段EN=144 段CN=145
+  英文残留(剔括注) top: 无
+  项目说明备注: - 书名定为《大都会》，沿用 1927 年弗里茨·朗同名电影与小说的通行中译名（备选：《繁华大都市》，不取）。 / - 原文为 Standard Ebooks / Reader's Library 制作，正文已按 spine 顺序分章提取：00-preface（作者题词）+ 01-i 至 25-xxv（罗马数字章节）。原文件名为小写罗马数字（i.md … xxv.md），无阿拉伯数字，会导致自然排序错乱（i, ii, iii, iv, ix, v…）；故已统一加两位数字前缀（00–25）以保证阅读顺序，罗马数字原貌保留在前缀之后（如 `09-ix.md`）。 / - 章节内标题为 `## I` … `## XXV`（大写罗马），译时按通用引擎规则合并为「英文 / 中文」标题（如 `## I / 一` 或保留罗马 `## I / I`，见术语表策略——罗马数字章号照搬不译，故章号 I–XXV 不译，标题作 `## I / I`）。 / - 德语专名（Joh Fredersen、Rotwang、Yoshiwara 等）及机器人命名（Futura / Parody）、主题意象（大脑—双手—心
+  -- 术语表硬约束行 97 条:
+     Master over/of Metropolis      → 大都会的主宰               源×80    译×25    落位偏低 25/80
+     Rotwang process                → 罗特旺工艺                源×1     译×0     ★译0次(未落位?)
+     trans-ocean trumpets           → 越洋号角                 源×1     译×1    
+     brainpan                       → 颅腔                   源×10    译×10   
+     Paternoster（电梯义）               → 帕特诺斯特（Paternoster）电梯 源×26    译×14    落位偏低 14/26
+     Ganesha                        → 伽内什                  源×9     译×9    
+     Danae                          → 达那厄                  源×1     译×1    
+     Eternal Gardens                → 永恒花园                 源×5     译×5    
+     House of the Sons              → 子弟之家                 源×6     译×6    
+     Major Domo                     → 总管                   源×2     译×2    
+     Behemoth                       → 贝希摩斯                 源×5     译×5    
+     the Gothics / Desertus         → 哥特派 / 德瑟图斯           源×19    译×21   
+     the Brain of Metropolis        → 大都会的「大脑」             源×9     译×0     ★译0次(未落位?)
+     seal of Solomon                → 所罗门的印玺               源×11    译×10   
+     pentagram                      → 五角星符                 源×7     译×7    
+     magician                       → 术士                   源×11    译×11   
+     the Geyser machine             → 「间歇泉」机器              源×1     译×0     ★译0次(未落位?)
+     city of graves                 → 坟墓之城                 源×2     译×2    
+     the being                      → 造物                   源×27    译×50   
+     Tower of Babel                 → 巴别塔                  源×6     译×4    
+     mediatress                     → 女调停者                 源×2     译×2    
+     pointed devil's-ear            → 尖顶魔鬼之耳               源×4     译×5    
+     Phantasus                      → 范塔苏斯                 源×6     译×6    
+     City of the Dead               → 死者之城                 源×13    译×13   
+     Antichrist                     → 敌基督                  源×1     译×1    
+     Babylon                        → 巴比伦                  源×13    译×13   
+     witches sabbath                → 巫魔会                  源×1     译×1    
+     Jan / Rainer / Tora / Marinus  → 扬 / 莱纳 / 托拉 / 马里努斯   源×23    译×41   
+     Dies Irae                      → 震怒之日                 源×1     译×1    
+     spirit（怪谈语境）                   → 精魂                   源×9     译×6     残留「造物」×50
+     masters of the machines        → 机器的老爷们               源×7     译×4     落位偏低 4/7
+     the multitude / the mob / the  → 人堆 / 暴众 / 人堆         源×70    译×72   
+     Juggernaut                     → 贾格纳特                 源×3     译×3    
+     Baal / Moloch                  → 巴力 / 摩洛              源×13    译×13   
+     Huitzilopochtli                → 维齐洛波奇特利              源×5     译×4    
+     Durgha                         → 杜尔迦                  源×8     译×8    
+     Towers of Silence              → 寂静之塔                 源×4     译×4    
+     Golgotha                       → 各各他                  源×5     译×5    
+     Asa Thor                       → 阿萨·托尔                源×3     译×3    
+     Jethro works                   → 叶忒罗工厂                源×1     译×1    
+     the shining Lords              → 光辉的众主                源×1     译×1    
+     the great whore of Babylon     → 巴比伦的大淫妇              源×1     译×1    
+     sevenfold death                → 七重之死                 源×1     译×1    
+     dome-room                      → 穹顶大厅                 源×1     译×1    
+     gargoyle                       → 滴水兽                  源×3     译×3    
+     pocket-torch                   → 手电筒                  源×2     译×4    
+     cockle hat                     → 缀扇贝壳的朝圣帽             源×1     译×0     ★译0次(未落位?)
+     Day of Judgment                → 审判之日                 源×1     译×1    
+     Jordan                         → 约旦河                  源×1     译×1    
+     Freder                         → 弗雷德尔                 源×395   译×395  
+     Maria                          → 玛丽亚                  源×182   译×183  
+     Joh Fredersen                  → 约·弗雷德森               源×287   译×287   残留「脑」×75
+     Hel                            → 赫尔                   源×59    译×59   
+     Rotwang                        → 罗特旺                  源×73    译×78   
+     Josaphat                       → 约沙法                  源×127   译×127  
+     Grot                           → 格罗特                  源×50    译×51   
+     Georgi                         → 格奥尔基                 源×51    译×51   
+     Slim                           → 斯利姆                  源×128   译×126  
+     September                      → 九月                   源×38    译×38   
+     Metropolis                     → 大都会                  源×115   译×166  
+     Yoshiwara                      → 吉原                   源×34    译×34   
+     the New Tower of Babel         → 新巴别塔                 源×57    译×59   
+     the Cathedral                  → 大教堂                  源×84    译×88   
+     Club of the Sons               → 子弟俱乐部                源×8     译×9    
+     the Machine Halls / machine-ro → 机器大厅                 源×6     译×8    
+     the Workers' City              → 工人之城                 源×0     译×2     ★源0次(幽灵?)
+     machine-man                    → 机器人                  源×2     译×3    
+     Futura                         → 未来                   源×4     译×5    
+     Parody                         → 戏仿                   源×12    译×12   
+     the Heart-Machine              → 心脏机器                 源×10    译×11   
+     Maohee                         → 毛希                   源×27    译×27   
+     mediator                       → 调停者                  源×14    译×14   
+     brain and hands (and heart)    → 大脑与双手（与心）            源×7     译×8    
+     Paternoster                    → 主祷文                  源×0     译×14    ★源0次(幽灵?)
+     Yuki                           → 雪儿                   源×1     译×1     残留「小雪花」×1
+     Plum Blossom                   → 梅花                   源×1     译×1    
+     Miss Rainbow                   → 彩虹小姐                 源×1     译×1    
+     Hotei                          → 布袋                   源×1     译×1    
+     St. Elmo's fire                → 圣艾尔摩之火               源×1     译×1    
+     Maelstrom                      → 大漩涡                  源×3     译×3    
+     Kyrie Eleison                  → 上主垂怜                 源×1     译×1    
+     Te Deum Laudamus               → 赞美主                  源×1     译×1    
+     De Profundis                   → 自深渊                  源×1     译×1    
+     Jubilate                       → 欢乐颂赞                 源×1     译×1    
+     machine-Titan                  → 机器泰坦                 源×0     译×1     ★源0次(幽灵?)
+     Foxy Fox                       → 狐狸福克西                源×4     译×4    
+     Mr. / Mrs. Hedgehog            → 刺猬先生 / 刺猬太太          源×32    译×7     落位偏低 7/32
+     Mrs. Mole                      → 鼹鼠太太                 源×2     译×3    
+     Saint Peter                    → 圣彼得                  源×6     译×6    
+     tower-house                    → 塔楼                   源×1     译×2    
+     the guard（工人之城值守义）             → 卫队                   源×10    译×3     落位偏低 3/10
+     mustering-ground               → 集合场                  源×1     译×1    
+     Archangel Michael              → 大天使米迦勒               源×4     译×3    
+     Azrael                         → 亚兹拉尔                 源×1     译×1    
+     drink-mixer                    → 小调酒女                 源×6     译×2     落位偏低 2/6
+     the Mother of Abominations     → 可憎之物的母亲              源×2     译×2     残留「大巴比伦」×6
+     St. Vitus’ dance               → 圣维特斯之舞               源×1     译×1    
+

@@ -1,0 +1,78 @@
+====================================================================================================
+### clifford-d-simak_short-fiction  (10 files)
+  块: O=242 C=242 OK | 段: EN=1288 CN=1321 !!差 -33
+     [不对称] mr-meek-plays-polo.md                                O=9 C=9 段EN=49 段CN=50
+     [不对称] project-mastodon.md                                  O=11 C=11 段EN=70 段CN=72
+     [不对称] second-childhood.md                                  O=40 C=40 段EN=213 段CN=228
+     [不对称] the-call-from-beyond.md                              O=22 C=22 段EN=88 段CN=90
+     [不对称] the-shipshape-miracle.md                             O=34 C=34 段EN=133 段CN=139
+     [不对称] the-street-that-wasn-t-there.md                      O=40 C=40 段EN=171 段CN=178
+  英文残留(剔括注) top: Press×2
+  -- 术语表硬约束行 66 条:
+     Dr. Silas White                → 塞拉斯·怀特博士（Dr. Silas W 源×6     译×6    
+     Henry Woods                    → 亨利·伍兹（Henry Woods）   源×12    译×12   
+     Terry Masters                  → 特里·马斯特斯（Terry Master 源×1     译×1    
+     George                         → 乔治（George）           源×10    译×10   
+     Mr. Jonathon Chambers          → 乔纳森·钱伯斯先生（Jonathon C 源×1     译×1    
+     Dr. Edmund Harcourt            → 埃德蒙·哈考特博士（Dr. Edmund 源×1     译×1    
+     Carl Jacobi                    → 卡尔·雅各比（Carl Jacobi）  源×1     译×1    
+     Steven Alexander               → 史蒂文·亚历山大（Steven Alex 源×1     译×1    
+     Scott Nixon                    → 斯科特·尼克松（Scott Nixon） 源×2     译×2    
+     Jerry Palmer                   → 杰里·帕尔默（Jerry Palmer） 源×1     译×1    
+     Jack Riley                     → 杰克·赖利（Jack Riley）    源×4     译×4    
+     Hugh Nixon                     → 休·尼克松（Hugh Nixon）    源×1     译×1    
+     Harry Decker                   → 哈里·德克尔（Harry Decker） 源×1     译×1    
+     Jimmy Baldwin                  → 吉米·鲍德温（Jimmy Baldwin 源×2     译×2    
+     Oliver Meek                    → 奥利弗·米克（Oliver Meek）  源×10    译×10   
+     Mr. Richard Belmont            → 理查德·贝尔蒙特先生（Richard B 源×1     译×1    
+     Oliver Meek                    → 奥利弗·米克（Oliver Meek）  源×0     译×0     ★源0次(幽灵?) 残留「米克先生」×1
+     Frederick West                 → 弗雷德里克·韦斯特（Frederick  源×1     译×1    
+     Andrew Young                   → 安德鲁·扬（Andrew Young）  源×23    译×23   
+     John Riggs                     → 约翰·里格斯（John Riggs）   源×1     译×1    
+     Commissioner Stanford          → 斯坦福委员（Commissioner S 源×2     译×2    
+     Mr. Hudson                     → 哈德森先生（Mr. Hudson）    源×5     译×5    
+     Wesley Adams                   → 韦斯利·亚当斯（Wesley Adams 源×1     译×1    
+     the chief of protocol          → 礼宾司长                 源×1     译×4    
+     the secretary of state         → 国务卿                  源×1     译×10   
+     Gavin Duncan                   → 加文·邓肯（Gavin Duncan）  源×2     译×2    
+     Zikkara                        → 济卡拉（Zikkara）         源×7     译×7    
+     Cheviot Sherwood               → 切维厄特·舍伍德（Cheviot She 源×1     译×1    
+     the Ship                       → 「飞船」                 源×41    译×12    落位偏低 12/41
+     Mars                           → 火星                   源×17    译×20   
+     Saturn                         → 土星                   源×6     译×6    
+     Pluto                          → 冥王星                  源×13    译×13   
+     Pluto's moon                   → 冥王星之卫星               源×4     译×4    
+     Earth                          → 地球                   源×31    译×32   
+     Solar System                   → 太阳系                  源×10    译×9    
+     the Inner Ring (Saturn)        → 内环（土星）               源×1     译×1    
+     Six Corners                    → 六角镇                  源×1     译×1    
+     Pennsylvania                   → 宾夕法尼亚州               源×1     译×1    
+     Amazon Valley                  → 亚马逊河谷                源×1     译×1    
+     State University               → 州立大学                 源×1     译×1    
+     Lancaster, Maine               → 缅因州兰开斯特              源×1     译×1    
+     Lunar Exports, Inc.            → 月球出口公司（Lunar Exports 源×2     译×3    
+     Galactic Pharmaceutical Corpor → 银河制药公司               源×1     译×1    
+     Solar Health and Welfare Depar → 太阳系卫生福利署             源×1     译×1    
+     space patrol                   → 太空巡逻队                源×3     译×4    
+     Mastodonia                     → 乳齿象国（Mastodonia）     源×2     译×2    
+     immortality commission         → 永生委员会                源×1     译×1    
+     the Horror / Black Horror      → 「恐怖」／「黑色恐怖」          源×19    译×8     落位偏低 8/19
+     hellhounds (of the cosmos)     → 地狱犬（宇宙地狱犬）           源×3     译×2    
+     fourth dimension / fourth-dime → 第四维度／四维的             源×32    译×30   
+     dimension                      → 维度                   源×31    译×51   
+     evolution (downward)           → 演化（逆向/下行）            源×8     译×13   
+     mass suggestion                → 群体暗示                 源×1     译×1    
+     space port / spaceship         → 太空港／宇宙飞船             源×5     译×6    
+     space hut                      → 太空棚屋                 源×1     译×1    
+     space patrol                   → 太空巡逻队                源×0     译×0     ★源0次(幽灵?)
+     immortality                    → 永生                   源×4     译×9    
+     Martian code                   → 火星电码                 源×1     译×1    
+     bridge of bones                → 白骨之桥                 源×2     译×2    
+     the Cytha                      → 赛萨（the Cytha）        源×6     译×16   
+     vua (plants)                   → 伏瓦（植物）               源×4     译×4    
+     hula-tree / hula-scrub         → 胡拉树／胡拉灌丛             源×1     译×2    
+     sawmill bird                   → 锯木鸟                  源×1     译×1    
+     chatterers                     → 咕噪鸟                  源×1     译×1    
+     bush-runner                    → 丛林追踪者                源×1     译×1    
+     skun (season)                  → 斯昆季（skun season）     源×1     译×1    
+

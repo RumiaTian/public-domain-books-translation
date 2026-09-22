@@ -1,0 +1,373 @@
+## Endnotes
+1. There is a passage in Werter which contains a very pleasing illustration of this doctrine, and is as follows:﻿—
+ 
+ “About a league from the town is a place called Walheim. It is very agreeably situated on the side of a hill: from one of the paths which leads out of the village, you have a view of the whole country; and there to a good old woman who sells wine, coffee, and tea there: but better than all this are two lime-trees before the church, which spread their branches over a little green, surrounded by barns and cottages. I have seen few places more retired and peaceful. I send for a chair and table from the old woman’s, and there I drink my coffee and read Homer. It was by accident that I discovered this place one fine afternoon: all was perfect stillness; everybody was in the fields, except a little boy about four years old, who was sitting on the ground, and holding between his knees a child of about six months; he pressed it to his bosom with his little arms, which made a sort of great chair for it; and notwithstanding the vivacity which sparkled in his eyes, he sat perfectly still. Quite delighted with the scene, I sat down on a plough opposite, and had great pleasure in drawing this little picture of brotherly tenderness. I added a bit of the hedge, the barn-door, and some broken cartwheels, without any order, just as they happened to lie; and in about an hour I found I had made a drawing of great expression and very correct design without having put in anything of my own. This confirmed me in the resolution I had made before, only to copy Nature for the future. Nature is inexhaustible, and alone forms the greatest masters. Say what you will of rules, they alter the true features and the natural expression.”
+ 
+ 
+ ↩︎
+2. It is at present covered with a thick slough of oil and varnish (the perishable vehicle of the English school), like an envelope of goldbeaters’ skin, so as to be hardly visible. ↩︎
+3. Men in business, who are answerable with their fortunes for the consequences of their opinions, and are therefore accustomed to ascertain pretty accurately the grounds on which they act, before they commit themselves on the event, are often men of remarkably quick and sound judgements. Artists in like manner must know tolerably well what they are about, before they can bring the result of their observations to the test of ocular demonstration. ↩︎
+4. The famous Schiller used to say, that he found the great happiness of life, after all, to consist in the discharge of some mechanical duty. ↩︎
+5. The rich “impasting” of Titian and Giorgione combines something of the advantages of both these styles, the felicity of the one with the carefulness of the other, and is perhaps to be preferred to either. ↩︎
+6. Leonardo da Vinci. ↩︎
+7. Titian. ↩︎
+8. Michelangelo. ↩︎
+9. Correggio. ↩︎
+10. Annibal Caracci. ↩︎
+11. Rubens. ↩︎
+12. Raphael. ↩︎
+13. If we take away from *the present* the moment that is just by and the moment that is next to come, how much of it will be left for this plain, practical theory to rest upon? Their solid basis of sense and reality will reduce itself to a pin’s point, a hair line, on which our moral balance-masters will have some difficulty to maintain their footing without falling over on either side. ↩︎
+14. A treatise on the Millennium is dull; but who was ever weary of reading the fables of the Golden Age? On my once observing I should like to have been Claude, a person said, “they should not, for that then by this time it would have been all over with them.” As if it could possibly signify when we live (save and excepting the present minute), or as if the value of human life decreased or increased with successive centuries. At that rate, we had better have our life still to come at some future period, and so postpone our existence century after century *ad infinitum*. ↩︎
+15. In like manner, though we know that an event must have taken place at a distance, long before we can hear the result, yet as long as we remain in ignorance of it, we irritate ourselves about it, and suffer all the agonies of suspense, as if it was still to come; but as soon as our uncertainty is removed, our fretful impatience vanishes, we resign ourselves to fate, and make up our minds to what has happened as well as we can. ↩︎
+16. Discourse XIII, volume II, pp. 113﻿–﻿117. ↩︎
+17. Sentiment has the same source as that here pointed out. Thus the “Ranz des Vaches,” which has such an effect on the minds of the Swiss peasantry, when its well-known sound is heard, does not merely recall to them the idea of their country, but has associated with it a thousand nameless ideas, numberless touches of private affection, of early hope, romantic adventure and national pride, all which rush in (with mingled currents) to swell the tide of fond remembrance, and make them languish or die for home. What a fine instrument the human heart is! Who shall touch it? Who shall fathom it? Who shall “sound it from its lowest note to the top of its compass?” Who shall put his hand among the strings, and explain their wayward music? The heart alone, when touched by sympathy, trembles and responds to their hidden meaning! ↩︎
+18. I do not here speak of the figurative or fanciful exercise of the imagination, which consists in finding out some striking object or image to illustrate another. ↩︎
+19. Mr. Wordsworth himself should not say this, and yet I am not sure he would not. ↩︎
+20. The only good thing I have ever heard come of this man’s singular faculty of memory was the following. A gentleman was mentioning his having been sent up to London from the place where he lived to see Garrick act. When he went back into the country he was asked what he thought of the player and the play. “Oh!” he said, “he did not know: he had only seen a little man strut about the stage and repeat 7,956 words.” We all laughed at this, but a person in one corner of the room, holding one hand to his forehead, and seeming mightily delighted, called out, “Ay, indeed! And pray, was he found to be correct?” This was the supererogation of literal matter-of-fact curiosity. Jedediah Buxton’s counting the number of words was idle enough; but here was a fellow who wanted someone to count them over again to see if he was correct.
+ 
+ “The force of *dullness* could no farther go!”
+ 
+ 
+ ↩︎
+21. Sir Joshua Reynolds, being asked how long it had taken him to do a certain picture, made answer, “All my life!” ↩︎
+22. The late Lord Thurlow used to say that Cobbett was the only writer that deserved the name of a political reasoner. ↩︎
+23. Mr. Cobbett speaks almost as well as he writes. The only time I ever saw him he seemed to me a very pleasant man﻿—easy of access, affable, clearheaded, simple and mild in his manner, deliberate and unruffled in his speech, though some of his expressions were not very qualified. His figure is tall and portly. He has a good, sensible face﻿—rather full, with little grey eyes, a hard, square forehead, a ruddy complexion, with hair grey or powdered; and had on a scarlet broadcloth waistcoat with the flaps of the pockets hanging down, as was the custom for gentlemen-farmers in the last century, or as we see it in the pictures of Members of Parliament in the reign of George I. I certainly did not think less favourably of him for seeing him. ↩︎
+24. Quarto poetry, as well as quarto metaphysics, does not always sell. Going one day into a shop in Paternoster Row to see for some lines in Mr. Wordsworth’s *Excursion* to interlard some prose with, I applied to the constituted authorities, and asked if I could look at a copy of the *Excursion*? The answer was, “Into which country, sir?” ↩︎
+25. These fantastic poets are like a foolish ringer at Plymouth that Northcote tells the story of. He was proud of his ringing, and the boys who made a jest of his foible used to get him in the belfry and ask him, “Well now, John, how many good ringers are there in Plymouth?”
+ “Two,” he would say, without any hesitation.
+ “Ay, indeed! and who are they?”
+ “Why, first, there’s myself, that’s one; and﻿—and﻿—”
+ “Well, and who’s the other?”
+ “Why, there’s﻿—there’s﻿—Ecod, I can’t think of any other but myself.”
+ *Talk we of one Master Launcelot.* The story is of ringers: it will do for any vain, shallow, self-satisfied egotist of them all. ↩︎
+26. The celebrated Peter Pindar (Dr. Wolcot) first discovered and brought out the talents of the late Mr. Opie the painter. He was a poor Cornish boy, and was out at work in the fields when the poet went in search of him. “Well, my lad, can you go and bring me your very best picture?” The other flew like lightning, and soon came back with what he considered as his masterpiece. The stranger looked at it, and the young artist, after waiting for some time without his giving any opinion, at length exclaimed eagerly, “Well, what do you think of it?”
+ “Think of it?” said Wolcot; “Why, I think you ought to be ashamed of it﻿—that you, who might do so well, do no better!” The same answer would have applied to this artist’s latest performances, that had been suggested by one of his earliest efforts. ↩︎
+27. If two persons play against each other at any game, one of them necessarily fails. ↩︎
+28. Written at Winterslow Hut, January 18﻿–﻿19, 1821. ↩︎
+29. Webster’s *Duchess of Malfy*. ↩︎
+30. Shenstone and Gray were two men, one of whom pretended live to himself, and the other really did so. Gray shrunk from the public gaze (he did not even like his portrait to be prefixed to his works) into his own thoughts and indolent musings; Shenstone affected privacy that he might be sought out by the world; the one courted retirement in order to enjoy leisure and repose, as the other coquetted with it merely to be interrupted with the importunity of visitors and the flatteries of absent friends. ↩︎
+31. Plutarch, “Of Banishment.” He compares those who cannot live out of their own country to the simple people who fancied the moon of Athens was a finer moon than that of Corinth.
+ 
+ “*Labentem coelo quae ducitis annum.*”
+ —﻿Virgil, *Georgics*
+ 
+ 
+ ↩︎
+32. When Bonaparte left the Chamber of Deputies to go and fight his last fatal battle, he advised them not to be debating the forms of Constitutions when the enemy was at their gates. Benjamin Constant thought otherwise. He wanted to play a game at cat’s-cradle between the Republicans and Royalists, and lost his match. He did not care, so that he hampered a more efficient man than himself. ↩︎
+33. A thorough fitness for any end implies the means. Where there is a will, there is a way. A real passion, an entire devotion to any object, always succeeds. The strong sympathy with what we wish and imagine realises it, dissipates all obstacles, and removes all scruples. The disappointed lover may complain as much as he pleases. He was himself to blame. He was a half-witted, wishy-washy fellow. His love might be as great as he makes it out; but it was not his ruling passion. His fear, his pride, his vanity was greater. Let anyone’s whole soul be steeped in this passion; let him think and care for nothing else; let nothing divert, cool, or intimidate him; let the *ideal* feeling become an actual one and take possession of his whole faculties, looks, and manner; let the same voluptuous hopes and wishes govern his actions in the presence of his mistress that haunt his fancy in her absence, and I will answer for his success. But I will not answer for the success of “a dish of skimmed milk” in such a case.﻿—I could always get to see a fine collection of pictures myself. The fact is, I was set upon it. Neither the surliness of porters nor the impertinence of footmen could keep me back. I had a portrait of Titian in my eye, and nothing could put me out in my determination. If that had not (as it were) been looking on me all the time I was battling my way, I should have been irritated or disconcerted, and gone away. But my liking to the end conquered my scruples or aversion to the means. I never understood the Scotch character but on these occasions. I would not take “No” for an answer. If I had wanted a place under government or a writership to India, I could have got it from the same importunity, and on the same terms. ↩︎
+34. A poor woman at Plymouth who did not like the formality, or could not afford the expense of a will, thought to leave what little property she had in wearing apparel and household moveables to her friends and relations, *viva voce*, and before Death stopped her breath. She gave and willed away (of her proper authority) her chair and table to one, her bed to another, an old cloak to a third, a nightcap and petticoat to a fourth, and so on. The old crones sat weeping round, and soon after carried off all they could lay their hands upon, and left their benefactress to her fate. They were no sooner gone than she unexpectedly recovered, and sent to have her things back again; but not one of them could she get, and she was left without a rag to her back, or a friend to condole with her. ↩︎
+35. The law of primogeniture has its origin in the principle here stated, the desire of perpetuating some one palpable and prominent proof of wealth and power. ↩︎
+36. It is as follows:
+ 
+ 
+ “The Will of a Virtuoso.
+ 
+ “I, Nicholas Gimcrack, being in sound health of mind, but in great weakness of body, do by this my Last Will and Testament bequeath my worldly goods and chattels in manner following:﻿—
+ “Imprimis, to my dear wife,
+ 
+ 
+ One box of butterflies,
+ 
+ 
+ One drawer of shells,
+ 
+ 
+ A female skeleton,
+ 
+ 
+ A dried cockatrice.
+ 
+ 
+ “Item, to my Daughter Elizabeth,
+ 
+ 
+ My receipt for preserving dead caterpillars,
+ 
+ 
+ As also my preparations of winter may-dew, and embrio pickle.
+ 
+ 
+ “Item, to my little daughter Fanny,
+ 
+ 
+ Three crocodiles’ eggs.
+ 
+ 
+ “And upon the birth of her first child, if she marries with her mother’s consent,
+ 
+ 
+ The nest of a hummingbird.
+ 
+ 
+ “Item, to my eldest brother, as an acknowledgment for the lands he has vested in my son Charles, I bequeath
+ 
+ 
+ My last year’s collection of grasshoppers.
+ 
+ 
+ “Item, to his daughter Susanna, being his only child, I bequeath my
+ 
+ 
+ English weeds pasted on royal paper,
+ 
+ 
+ With my large folio of Indian cabbage.
+ 
+ 
+ 
+ “Having fully provided for my nephew Isaac, by making over to him some years since
+ 
+ 
+ A horned scarabaeus,
+ 
+ 
+ The skin of a rattlesnake, and
+ 
+ 
+ The mummy of an Egyptian king,
+ 
+ 
+ “I make no further provision for him in this my will.
+ “My eldest son John having spoken disrespectfully of his little sister, whom I keep by me in spirits of wine, and in many other instances behaved himself undutifully towards me, I do disinherit, and wholly cut off from any part of this my personal estate, by giving him a single cockleshell.
+ “To my second son Charles, I give and bequeath all my flowers, plants, minerals, mosses, shells, pebbles, fossils, beetles, butterflies, caterpillars, grasshoppers, and vermin, not above specified: As also my monsters, both wet and dry, making the said Charles whole and sole executor of this my Last Will and Testament, he paying or causing to be paid the aforesaid legacies within the space of six months after my decease. And I do hereby revoke all other wills whatsoever by me formerly made.”
+ —﻿*Tatler* volume IV, No. 216
+ 
+ 
+ ↩︎
+37. Kellerman lately left his heart to be buried in the field of Valmy, where the first great battle was fought in the year 1792, in which the Allies were repulsed. Oh! might that heart prove the root from which the tree of Liberty may spring up and flourish once more, as the basil tree grew and grew from the cherished head of Isabella’s lover! ↩︎
+38. How careful is Sir Joshua, even in a parenthesis, to insinuate the obligations of this great genius to others, as if he would have been nothing without them. ↩︎
+39. If Sir Joshua had an offer to exchange a Luca Giordano in his collection for a Claude Lorraine, he would not have hesitated long about the preference. ↩︎
+40. Written in 1788. ↩︎
+41. Gainsborough. ↩︎
+42. Sir Joshua himself wanted academic skill and patience in the details of his profession. From these defects he seems to have been alternately repelled by each theory and style of art, the simply natural and elaborately scientific, as it came before him; and in his impatience of each, to have been betrayed into a tissue of inconsistencies somewhat difficult to unravel. ↩︎
+43. He had been before speaking of Boucher, director of the French Academy, who told him that “when he was young, studying his art, he found it necessary to use models, but that he had left them off for many years.” ↩︎
+44. The Fifth Discourse. ↩︎
+45. These are Sir Joshua’s words. ↩︎
+46. I do not know that; but I do not think the two passions could be expressed by expressing neither or something between both. ↩︎
+47. “As for politics, I think poets are *tories* by nature, supposing them to be by nature poets. The love of an individual person or family, that has worn a crown for many successions, is an inclination greatly adapted to the fanciful tribe. On the other hand, mathematicians, abstract reasoners of no manner of attachment to persons, at least to the visible part of them, but prodigiously devoted to the ideas of virtue, liberty, and so forth, are generally *whigs*. It happens agreeably enough to this maxim, that the whigs are friends to that wise, plodding, unpoetical people, the Dutch.” —﻿*Shenstone’s Letters*, p. 105 ↩︎
+48. To give the modern reader *un petit apercu* of the tone of literary conversation about five or six and twenty years ago, I remember being present in a large party composed of men, women, and children, in which two persons of remarkable candour and ingenuity were labouring (as hard as if they had been paid for it) to prove that all prayer was a mode of dictating to the Almighty, and an arrogant assumption of superiority. A gentleman present said, with great simplicity and naivete, that there was one prayer which did not strike him as coming exactly under this description, and being asked what that was made answer, “The Samaritan’s﻿—‘Lord, be merciful to me, a sinner!’ ” This appeal by no means settled the sceptical dogmatism of the two disputants, and soon after the proposer of the objection went away; on which one of them observed with great marks of satisfaction and triumph﻿—“I am afraid we have shocked that gentleman’s prejudices.” This did not appear to me at that time quite the thing and this happened in the year 1794.﻿—Twice has the iron entered my soul. Twice have the dastard, vaunting, venal crew gone over it: once as they went forth, conquering and to conquer, with reason by their side, glittering like a falchion, trampling on prejudices and marching fearlessly on in the work of regeneration; once again when they returned with retrograde steps, like Cacus’s oxen dragged backward by the heels, to the den of Legitimacy, “rout on rout, confusion worse confounded,” with places and pensions and the *Quarterly Review* dangling from their pockets, and shouting, “Deliverance for mankind,” for “the worst, the second fall of man.” Yet I have endured all this marching and countermarching of poets, philosophers, and politicians over my head as well as I could, like “the camomile that thrives, the more ’tis trod upon.” By Heavens, I think, I’ll endure it no longer! ↩︎
+49. *Troja fuit.*
+ ↩︎
+50. *Mr. Canning’s Speech at the Liverpool Dinner, Given in Celebration of His Reelection*, March 18, 1820. Fourth edition, revised and corrected. ↩︎
+51. “If a European, when he has cut off his beard and put false hair on his head, or bound up his own natural hair in regular hard knots, as unlike nature as he could possibly make it; and after having rendered them immovable by the help of the fat of hogs, has covered the whole with flour, laid on by a machine with the utmost regularity; if when thus attired he issues forth, and meets with a Cherokee Indian, who has bestowed as much time at his toilet, and laid on with equal care and attention his yellow and red ocher on particular parts of his forehead or cheeks, as he judges most becoming; whoever of these two despises the other for this attention to the fashion of his country, whichever first feels himself provoked to laugh, is the barbarian.” —﻿Sir Joshua Reynolds’s *Discourses*, Volume I, pp. 231﻿–﻿232 ↩︎
+52. This name was originally spelt “Braughton” in the manuscript, and was altered to “Branghton” by a mistake of the printer. Branghton, however, was thought a good name for the occasion and was suffered to stand. “Dip it in the ocean,” as Sterne’s barber says of the buckle, “and it will stand!” ↩︎
+53. A lady of quality, in allusion to the gallantries of a reigning prince, being told, “I suppose it will be your turn next?” said, “No, I hope not; for you know it is impossible to refuse!” ↩︎
+54. Gertrude
+ 
+ For the passion of patience, look if Sir Petronel approach. That sweet, that fine, that delicate, that﻿—for love’s sake, tell me if he come. Oh, sister Mill, though my father be a low-capt tradesman, yet I must be a lady, and I praise God my mother must call me madam. Does he come? Off with this gown for shame’s sake, off with this gown! Let not my knight take me in the city cut, in any hand! Tear’t! Pox on’t (does he come?), tear’t off! *Thus while she sleeps, I sorrow for her sake.* *Sings.*
+ 
+ 
+ 
+ Mildred
+ 
+ Lord, sister, with what an immodest impatiency and disgraceful scorn do you put off your city-tire! I am sorry to think you imagine to right yourself in wronging that which hath made both you and us.
+ 
+ 
+ 
+ Gertrude
+ 
+ I tell you, I cannot endure it: I must be a lady: do you wear your coif with a London licket! your stamel petticoat with two guards! the buffin gown with the tuftafitty cap and the velvet lace! I must be a lady, and I will be a lady. I like some humours of the city dames well; to eat cherries only at an angel a pound; good: to dye rich scarlet black; pretty: to line a grogram gown clean through with velvet; tolerable: their pure linen, their smocks of three pound a smock, are to be borne withal: but your mincing niceries, taffity pipkins, durance petticoats, and silver bodkins﻿—God’s my life! as I shall be a lady, I cannot endure it.
+ 
+ 
+ 
+ Mildred
+ 
+ Well, sister, those that scorn their nest oft fly with a sick wing.
+ 
+ 
+ 
+ Gertrude
+ 
+ Bow-bell! Alas! poor Mill, when I am a lady, I’ll pray for thee yet i’faith; nay, and I’ll vouchsafe to call thee sister Mill still; for thou art not like to be a lady as I am, yet surely thou art a creature of God’s making, and may’st peradventure be saved as soon as I (does he come?). *And ever and anon she doubled in her song.*
+ 
+ 
+ 
+ Mildred
+ 
+ Now (lady’s my comfort), what a profane ape’s here!
+ 
+ 
+ 
+ 
+ 
+ *Enter **Sir Petronel Flash**, **Mr. Touchstone**, and **Mrs. Touchstone**.*
+ 
+ 
+ 
+ Gertrude
+ 
+ Is my knight come? O the lord, my band! Sister, do my cheeks look well? Give me a little box o’ the ear, that I may seem to blush. Now, now! so, there, there! here he is! O my dearest delight! Lord, lord! and how does my knight?
+ 
+ 
+ 
+ Touchstone
+ 
+ Fie, with more modesty.
+ 
+ 
+ 
+ Gertrude
+ 
+ Modesty! why, I am no citizen now. Modesty! am I not to be married? You’re best to keep me modest, now I am to be a lady.
+ 
+ 
+ 
+ Sir Petronel
+ 
+ Boldness is a good fashion and court-like.
+ 
+ 
+ 
+ Gertrude
+ 
+ Aye, in, a country lady I hope it is, as I shall be. And how chance ye came no sooner, knight?
+ 
+ 
+ 
+ Sir Petronel
+ 
+ Faith, I was so entertained in the progress with one Count Epernoun, a Welsh knight: we had a match at baloon too with my Lord Whackum for four crowns.
+ 
+ 
+ 
+ Gertrude
+ 
+ And when shall’s be married, my knight?
+ 
+ 
+ 
+ Sir Petronel
+ 
+ I am come now to consummate: and your father may call a poor knight son-in-law.
+ 
+ 
+ 
+ Mrs. Touchstone
+ 
+ Yes, that he is a knight: I know where he had money to pay the gentlemen ushers and heralds their fees. Aye, that he is a knight: and so might you have been too, if you had been aught else but an ass, as well as some of your neighbours. An I thought you would not ha’ been knighted, as I am an honest woman, I would ha’ dubbed you myself. I praise God, I have wherewithal. But as for you, daughter﻿—
+ 
+ 
+ 
+ Gertrude
+ 
+ Aye, mother, I must be a lady tomorrow; and by your leave, mother (I speak it not without my duty, but only in the right of my husband), I must take place of you, mother.
+ 
+ 
+ 
+ Mrs. Touchstone
+ 
+ That you shall, lady-daughter; and have a coach as well as I.
+ 
+ 
+ 
+ Gertrude
+ 
+ Yes, mother; but my coach-horses must take the wall of your coach-horses.
+ 
+ 
+ 
+ Touchstone
+ 
+ Come, come, the day grows low; ’tis supper time: and, sir, respect my daughter; she has refused for you wealthy and honest matches, known good men.
+ 
+ 
+ 
+ Gertrude
+ 
+ Body o’ truth, citizen, citizens! Sweet knight, as soon as ever we are married, take me to thy mercy, out of this miserable city. Presently: carry me out of the scent of Newcastle coal and the hearing of Bow-bell, I beseech thee; down with me, for God’s sake.
+ 
+ 
+ 
+ 
+ —﻿Act I, Scene 1
+ 
+ This dotage on sound and show seemed characteristic of that age (see *New Way to Pay Old Debts*, etc.)﻿—as if in the grossness of sense, and the absence of all intellectual and abstract topics of thought and discourse (the thin, circulating medium of the present day) the mind was attracted without the power of resistance to the tinkling sound of its own name with a title added to it, and the image of its own person tricked out in old-fashioned finery. The effect, no doubt, was also more marked and striking from the contrast between the ordinary penury and poverty of the age and the first and more extravagant demonstrations of luxury and artificial refinement. ↩︎
+55. Gertrude
+ 
+ Good lord, that there are no fairies nowadays, Syn.
+ 
+ 
+ 
+ Syndefy
+ 
+ Why, Madam?
+ 
+ 
+ 
+ Gertrude
+ 
+ To do miracles, and bring ladies money. Sure, if we lay in a cleanly house, they would haunt it, Synne? I’ll sweep the chamber soon at night, and set a dish of water o’ the hearth. A fairy may come and bring a pearl or a diamond. We do not know, Synne: or there may be a pot of gold hid in the yard, if we had tools to dig for’t. Why may not we two rise early i’ the morning, Synne, afore anybody is up, and find a jewel i’ the streets worth a hundred pounds? May not some great court-lady, as she comes from revels at midnight, look out of her coach, as ’tis running, and lose such a jewel, and we find it? ha!
+ 
+ 
+ 
+ Syndefy
+ 
+ They are pretty waking dreams, these.
+ 
+ 
+ 
+ Gertrude
+ 
+ Or may not some old usurer be drunk overnight with a bag of money, and leave it behind him on a stall? For God’s sake, Syn, let’s rise tomorrow by break of day, and see. I protest, la, if I had as much money as an alderman, I would scatter some on’t i’ the streets for poor ladies to find when their knights were laid up. And now I remember my song of the Golden Shower, why may not I have such a fortune? I’ll sing it, and try what luck I shall have after it.
+ 
+ 
+ 
+ 
+ —﻿Act V, Scene 1
+ 
+ 
+ ↩︎
+56. Everything tends to show the manner in which a great artist is formed. If any person could claim an exemption from the careful imitation of individual objects, it was Nicolas Poussin. He studied the antique, but he also studied nature. “I have often admired,” says Vignuel do Marville, who knew him at a late period of his life, “the love he had for his art. Old as he was, I frequently saw him among the ruins of ancient Rome, out in the Campagna, or along the banks of the Tiber, sketching a scene that had pleased him; and I often met him with his handkerchief full of stones, moss, or flowers, which he carried home, that he might copy them exactly from nature. One day I asked him how he had attained to such a degree of perfection as to have gained so high a rank among the great painters of Italy? He answered, ‘*I have neglected nothing.*’ ”﻿—See his *Life* lately published. It appears from this account that he had not fallen into a recent error, that Nature puts the man of genius out. As a contrast to the foregoing description, I might mention, that I remember an old gentleman once asking Mr. West in the British Gallery if he had ever been at Athens? To which the President made answer, No; nor did he feel any great desire to go; for that he thought he had as good an idea of the place from the Catalogue as he could get by living there for any number of years. What would he have said, if anyone had told him he could get as good an idea of the subject of one of his great works from reading the Catalogue of it, as from seeing the picture itself? Yet the answer was characteristic of the genius of the painter. ↩︎
+57. Poussin has repeated this subject more than once, and appears to have revelled in its witcheries. I have before alluded to it, and may again. It is hard that we should not be allowed to dwell as often as we please on what delights us, when things that are disagreeable recur so often against our will. ↩︎
+58. Near Nether-Stowey, Somersetshire, where the author of this essay visited Coleridge in 1798. He was there again in 1803. ↩︎
+59. Fletcher’s *Faithful Shepherdess*, I, 3 (Dyce’s *Beaumont and Fletcher*, II 38, 39). ↩︎
+60. It is not very long ago that I saw two Dissenting Ministers (the *Ultima Thud* of the sanguine, visionary temperament in politics) stuffing their pipes with dried currant-leaves, calling it “Radical Tobacco,” lighting it with a lens in the rays of the sun, and at every puff fancying that they undermined the Boroughmongers, as Trim blew up the army opposed to the Allies! They had *deceived the Senate.* Methinks I see them now, smiling as in scorn of Corruption.
+ 
+ 
+ “Dream on, blest pair:
+ 
+
+ Yet happier if you knew your happiness,
+ 
+
+ And knew to know no more!”
+ 
+ 
+ The world of Reform that you dote on, like Berkeley’s material world, lives only in your own brain, and long may it live there! Those same Dissenting Ministers throughout the country (I mean the descendants of the old Puritans) are to this hour a sort of Fifth-monarchy men: very turbulent fellows, in my opinion altogether incorrigible, and according to the suggestions of others, should be hanged out of the way without judge or jury for the safety of church and state. Marry, hang them! they may be left to die a natural death: the race is nearly extinct of itself, and can do little more good or harm! ↩︎
+61. William, our waiter, is dressed neatly in black, takes in the **tickler** (which many of the gentlemen like to look into), wears, I am told, a diamond pin in his shirt-collar, has a music-master to teach him to play on the flageolet two hours before the maids are up, complains of confinement and a delicate constitution, and is a complete Master Stephen in his way. ↩︎
+62. His account of Dr. Whittle was prodigious﻿—of his occult sagacity, of his eyes prominent and wild like a hare’s, fugacious of followers, of the arts by which he had left the City to lure the patients that he wanted after him to the West End, of the ounce of tea that he purchased by stratagem as an unusual treat to his guest, and of the narrow winding staircase, from the height of which he contemplated in security the imaginary approach of duns. He was a large, plain, fair-faced Moravian preacher, turned physician. He was an honest man, but vain of he knew not what. He was once sitting where Sarratt was playing a game at chess without seeing the board; and after remaining for some time absorbed in silent wonder, he turned suddenly to me and said, “Do you know, Mr. Hazlitt, that I think there is something I could do?”
+ “Well, what is that?”
+ “Why, perhaps you would not guess, but I think I could dance, I’m sure I could; ay, I could dance like Vestris!”
+ Sarratt, who was a man of various accomplishments (among others one of the Fancy), afterwards bared his arm to convince us of his muscular strength, and Mrs. Sarratt going out of the room with another lady said, “Do you know, Madam, the Doctor is a great jumper!” Molière could not outdo this. Never shall I forget his pulling off his coat to eat beefsteaks on equal terms with Martin Burney. Life is short, but full of mirth and pastime, did we not so soon forget what we have laughed at, perhaps that we may not remember what we have cried at! Sarratt, the chess-player, was an extraordinary man. He had the same tenacious, epileptic faculty in other things that he had at chess, and could no more get any other ideas out of his mind than he could those of the figures on the board. He was a great reader, but had not the least taste. Indeed the violence of his memory tyrannised over and destroyed all power of selection. He could repeat (all) Ossian by heart, without knowing the best passage from the worst; and did not perceive he was tiring you to death by giving an account of the breed, education, and manners of fighting-dogs for hours together. The sense of reality quite superseded the distinction between the pleasurable and the painful. He was altogether a mechanical philosopher. ↩︎
+63. “*Ils ne pouvoient croire qu’un corps de cette beaute fut de quelque chose au visage de Mademoiselle Churchill.*” —﻿*Memoires de Grammont*, Volume II, p. 254 ↩︎
+64. When I was young I spent a good deal of my time at Manchester and Liverpool; and I confess I give the preference to the former. There you were oppressed only by the aristocracy of wealth; in the latter by the aristocracy of wealth and letters by turns. You could not help feeling that some of their great men were authors among merchants and merchants among authors. Their bread was buttered on both sides, and they had you at a disadvantage either way. The Manchester cotton-spinners, on the contrary, set up no pretensions beyond their looms, were hearty good fellows, and took any information or display of ingenuity on other subjects in good part. I remember well being introduced to a distinguished patron of art and rising merit at a little distance from Liverpool, and was received with every mark of attention and politeness; till, the conversation turning on Italian literature, our host remarked that there was nothing in the English language corresponding to the severity of the Italian ode﻿—except perhaps Dryden’s “Alexander’s Feast” and Pope’s “St. Cecilia”! I could no longer contain my desire to display my smattering in criticism, and began to maintain that Pope’s “Ode” was, as it appeared to me, far from an example of severity in writing. I soon perceived what I had done, but here am I writing *Table-Talk* in consequence. Alas! I knew as little of the world then as I do now. I never could understand anything beyond an abstract definition. ↩︎
+65. Lord Holland had made a diary (in the manner of Boswell) of the conversation held at his house, and read it at the end of a week *pro bono publico*. Sir James Mackintosh made a considerable figure in it, and a celebrated poet none at all, merely answering Yes and No. With this result he was by no means satisfied, and talked incessantly from that day forward. At the end of the week he asked, with some anxiety and triumph, if his Lordship had continued his diary, expecting himself to shine in “the first row of the rubric.” To which his noble patron answered in the negative, with an intimation that it had not appeared to him worth while. Our poet was thus thrown again into the background, and Sir James remained master of the field! ↩︎
+66. A Mr. Rose and the Rev. Dr. Kippis were for many years its principal support. Mrs. Rose (I have heard my father say) contributed the *Monthly Catalogue*. There is sometimes a certain tartness and the woman’s tongue in it. It is said of Gray’s “Elegy,” “This little poem, however humble its pretensions, is not without elegance or merit.” The characters of prophet and critic are not always united. ↩︎
+67. There are some splendid exceptions to this censure. His comparison between Ovid and Virgil and his character of Shakespeare are masterpieces of their kind. ↩︎
+68. We have critics in the present day (1821 —﻿Ed.) who cannot tell what to make of the tragic writers of Queen Elizabeth’s age (except Shakespeare, who passes by prescriptive right), and are extremely puzzled to reduce the efforts of their “great and irregular” power to the standard of their own slight and showy commonplaces. The truth is, they had better give up the attempt to reconcile such contradictions as an artificial taste and natural genius; and repose on the admiration of verses which derive their odour from the scent of rose leaves inserted between the pages, and their polish from the smoothness of the paper on which they are printed. They, and such writers as Decker, and Webster, Beaumont and Fletcher, Ford and Marlowe, move in different orbits of the human intellect, and need never jostle. ↩︎
+69. The intelligent reader will be pleased to understand that there is here a tacit allusion to Squire Western’s significant phrase of “Hanover Rats.” ↩︎
+70. Of the two the latter alternative is more likely to happen. We abuse and imitate them. They laugh at, but do not imitate us. ↩︎
+71. The title of “Ultra-Crepidarian critics” has been given to a variety of this species. ↩︎
+72. This essay was written in January 1821. ↩︎
+73. Losing gamesters thus become desperate, because the continued and violent irritation of the will against a run of ill luck drives it to extremity, and makes it bid defiance to common sense and every consideration of prudence or self-interest. ↩︎
+74. Some of the poets in the beginning of the last century would often set out on a simile by observing, “So in Arabia have I seen a Phoenix!” I confess my illustrations are of a more homely and humble nature. ↩︎
+75. I beg the reader to consider this passage merely as a specimen of the mock-heroic style, and as having nothing to do with any real facts or feelings. ↩︎
+76. Pliny’s *Natural History*, Book 36. ↩︎
+77. I have heard of such a thing as an author who makes it a rule never to admit a monosyllable into his vapid verse. Yet the charm and sweetness of Marlowe’s lines depended often on their being made up almost entirely of monosyllables. ↩︎
+78. See Wilkie’s *Blind Fiddler*. ↩︎
+79. *Essay on Consciousness*, p. 303. ↩︎
+80. We sometimes see a whole playhouse in tears. But the audience at a theatre, though a public assembly, are not a public body. They are not Incorporated into a framework of exclusive, narrow-minded interests of their own. Each individual looks out of his own insignificance at a scene, *ideal* perhaps, and foreign to himself, but true to nature; friends, strangers, meet on the common ground of humanity, and the tears that spring from their breasts are those which “sacred pity has engendered.” They are a mixed multitude melted into sympathy by remote, imaginary events, not a combination cemented by petty views, and sordid, selfish prejudices. ↩︎
+81. Mr. Munden and Mr. Claremont went one Sunday to Windsor to see the king. They passed with other spectators once or twice: at last, his late majesty distinguished Munden in the crowd and called him to him. After treating him with much cordial familiarity, the king said, “And, pray, who is that with you?” Munden, with many congees, and contortions of face, replied, “An please your majesty, it’s Mr. Claremont of the Theatre Royal Drury Lane.” “Oh! yes,” said the king, “I know him well﻿—a bad actor, a bad actor, a bad actor!” Why kings should repeat what they say three times is odd: their saying it once is quite enough. I have always liked Mr. Claremont’s face since I heard this anecdote, and perhaps the telling it may have the same effect on other people. ↩︎
+82. The trunk-maker, I grant, in the *Spectator*’s time, sat in the two-shilling gallery. But that was in the *Spectator*’s time, and not in the days of Mr. Smirke and Mr. Wyatt. ↩︎
+83. Jack Cade’s salutation to one who tries to recommend himself by saying he can write and read﻿—see *Henry VI* Part Second. ↩︎
+84. It is calculated that West cleared some hundred pounds by the catalogues that were sold of his great picture of Death riding on the Pale Horse. ↩︎
+85. I cannot say how in this respect it might have fared if a Mr. Mudford, a fat gentleman, who might not have “liked yon lean and hungry Roscius,” had continued in the theatrical department of Mr. Perry’s paper at the time of this actor’s first appearance; but I had been put upon this duty just before, and afterwards Mr. Mudford’s *spare* talents were not in much request. This, I believe, is the reason why he takes pains every now and then to inform the readers of the *Courier* that it is impossible for anyone to understand a word that I write. ↩︎
+86. I (not very long ago) had the pleasure of spending an evening with Mr. Betty, when we had some “good talk” about the good old times of acting. I wanted to insinuate that I had been a sneaking admirer, but could not bring it in. As, however, we were putting on our greatcoats downstairs, I ventured to break the ice by saying, “There is one actor of that period of whom we have not made honourable mention, I mean Master Betty.” “Oh!” he said, “I have forgot all that.” I replied, that he might, but that I could not forget the pleasure I had had in seeing him. On which he turned off, and, shaking his sides heartily, and with no measured demand upon his lungs, called out, “Oh, memory! memory!” in a way that showed he felt the full force of the allusion. I found afterwards that the subject did not offend, and we were to have drunk some Burton ale together the following evening, but were prevented. I hope he will consider that the engagement still stands good. ↩︎
+87. Sir Joshua, who was not a vain man, purchased a tawdry sheriff’s carriage, soon after he took his house in Leicester Fields, and desired his sister to ride about in it, in order that people might ask, “Whose it was?” and the answer would be, “It belongs to the great painter!” ↩︎
+88. Sharp became a great favourite of the king on the following occasion. It was the custom, when the king went through the lobbies of the palace, for those who preceded him to cry out, “Sharp, sharp, look sharp!” in order to clear the way. Mr. Sharp, who was waiting in a room just by (preparing some colours), hearing his name repeated so urgently, ran out in great haste, and came up with all his force against the king, who was passing the door at the time. The young artist was knocked down in the encounter, and the attendants were in the greatest consternation; but the king laughed heartily at the adventure, and took great notice of the unfortunate subject of it from that time forward. ↩︎
+89. “It is not a year or two shows us a man.” —﻿Aemilia, in *Othello* ↩︎
+90. The bones of the murdered man were dug up in an old hermitage. On this, as one instance of the acuteness which he displayed all through the occasion, Aram remarks, “Where would you expect to find the bones of a man sooner than in a hermit’s cell, except you were to look for them in a cemetery?” —﻿See *Newgate Calendar* for the year 1758 or 1759 ↩︎
+91. “And surely Mandricardo was no baby.” —﻿Harrington’s *Ariosto* ↩︎
+92. “All men think all men mortal but themselves.” —﻿Young ↩︎
+93. I remember once, in particular, having this feeling in reading Schiller’s *Don Carlos*, where there is a description of death, in a degree that almost stifled me. ↩︎
+94. It has been usual to raise a very unjust clamour against the enormous salaries of public singers, actors, and so on. This matter seems reducible to a moral equation. They are paid out of money raised by voluntary contributions in the strictest sense; and if they did not bring certain sums into the treasury, the managers would not engage them. These sums are exactly in proportion to the number of individuals to whom their performance gives an extraordinary degree of pleasure. The talents of a singer, actor, etc., are therefore worth just as much as they will fetch. ↩︎

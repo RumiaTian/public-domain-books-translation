@@ -1,0 +1,2 @@
+During the next nine days I worked with a fever on me, and a map of London before me.
+There were places in that city!﻿—secrets, vastnesses, horrors! In the wine-vaults at London Docks was a vat which must certainly have contained between twenty and thirty thousand gallons: and with dancing heart I laid a train there; the tobacco-warehouse must have covered eighty acres: and there I laid a fuse. In a house near Regent’s Park, standing in a garden, and shut from the street by a high wall, I saw a thing﻿ ﻿… ! and what shapes a great city hid I now first know.

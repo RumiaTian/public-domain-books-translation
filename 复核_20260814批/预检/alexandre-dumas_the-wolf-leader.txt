@@ -1,0 +1,88 @@
+====================================================================================================
+### alexandre-dumas_the-wolf-leader  (25 files)
+  块: O=770 C=770 OK | 段: EN=1940 CN=1949 !!差 -9
+     [不对称] my-lady-s-lady.md                                    O=11 C=11 段EN=63 段CN=64
+     [不对称] who-mocquet-was-and-how-this-tale-became-known-to-the-narrator.md O=336 C=336 段EN=342 段CN=350
+  英文残留(剔括注) top: preux×1, chevalier×1, vin×1, ordinaire×1, instinct×1, apostroph×1, Optim×1, clarinet×1, con×1, pignolet×1
+  项目说明备注: - 此书是大仲马"恐惧三部曲"之一，与《黑郁金香》《铁面人》齐名的哥特作品，译笔须带 19 世纪法国浪漫主义的华丽与阴郁交织的气质。 / - Alfred Allinson 英译本保留了法语原名（如 Maître Magloire、Madame Polet），翻译时还原为中文译名，首次附原文。 / - 引言部分是大仲马第一人称回忆童年（Les Fossés 别墅、看林人 Mocquet 讲鬼故事），风格抒情，与正篇第三人称叙事有别，翻译时把握语体切换。 / - 章节标题用罗马数字编号（I-XXIV），翻译时保留罗马数字。 / - 某些章名较长（如 XIII "Where It Is Demonstrated That a Woman Never Speaks More Eloquently Than When She Holds Her Tongue"），照译全名。
+  -- 术语表硬约束行 79 条:
+     Thibault                       → 蒂博                   源×830   译×844   残留「蒂博（Thibault）」×10
+     Mocquet                        → 莫凯                   源×122   译×121  
+     Agnelette                      → 阿涅莱特                 源×177   译×177  
+     Landry                         → 朗德里                  源×60    译×61   
+     Madame Polet                   → 波莱太太                 源×19    译×22   
+     Maître Magloire                → 马格卢瓦师傅               源×13    译×13   
+     Jean                           → 让                    源×4     译×85   
+     Marcotte                       → 马尔科特                 源×48    译×49   
+     Mother Durand                  → 杜朗大妈                 源×7     译×7    
+     the Baron (de Vauparfond)      → （沃帕丰的）男爵             源×161   译×0     ★译0次(未落位?)
+     the Baron de Mont-Gobert       → 蒙-戈贝尔男爵              源×1     译×0     ★译0次(未落位?)
+     the Lord of Vez                → 韦兹领主                 源×39    译×42   
+     Duke of Orleans                → 奥尔良公爵                源×13    译×15   
+     Madame de Montesson            → 蒙特森夫人                源×4     译×4    
+     the Montbretons / Montesquious → 蒙布雷东家 / 孟德斯鸠家 / 库瓦尔家 源×3     译×3    
+     Villers-Cotterets              → 维莱-科特雷               源×30    译×31   
+     Haramont                       → 阿拉蒙                  源×8     译×8    
+     Longpré                        → 龙普雷                  源×5     译×5    
+     Les Fossés                     → 莱福塞                  源×5     译×5     残留「壕沟」×1
+     Aisne / Oise                   → 埃纳省 / 瓦兹省            源×3     译×2    
+     Gondreville                    → 贡德勒维尔                源×2     译×2    
+     Pisseleu                       → 皮瑟勒                  源×4     译×5    
+     Vauparfond                     → 沃帕丰                  源×19    译×20   
+     Vez                            → 韦兹                   源×19    译×16   
+     Oigny                          → 瓦尼                   源×15    译×15   
+     Longpont                       → 龙蓬                   源×4     译×4    
+     Saint Gobain                   → 圣戈班                  源×1     译×2    
+     Boule-d'Or                     → 金球客栈                 源×4     译×4    
+     Wolf's Heath                   → 狼荒原                  源×1     译×1    
+     Witches' Sabbath               → 巫魔会                  源×1     译×1    
+     Truffe                         → 特吕夫                  源×1     译×1    
+     Hippolyte                      → 伊波利特                 源×2     译×2    
+     Ourcq                          → 乌尔克河                 源×4     译×4    
+     Noroy                          → 诺鲁瓦                  源×1     译×2    
+     Troesne                        → 特雷斯纳                 源×1     译×1    
+     Vienne                         → 维埃纳                  源×1     译×1    
+     Dauphiné                       → 多菲内                  源×1     译×2     残留「快活鞋匠公会」×1
+     Engoulevent                    → 昂古勒旺                 源×32    译×34    残留「昂古勒旺师傅」×1
+     Marcassino                     → 马尔卡西诺                源×5     译×5    
+     boar-spear                     → 野猪矛                  源×24    译×24   
+     billhook                       → 钩镰                   源×4     译×4    
+     Marcotte                       → 马尔科特                 源×0     译×0     ★源0次(幽灵?)
+     Pierre                         → 皮埃尔                  源×3     译×5    
+     Marie                          → 玛丽                   源×1     译×2    
+     Hippolyte                      → 伊波利特                 源×0     译×0     ★源0次(幽灵?)
+     Brunel                         → 布鲁内尔                 源×0     译×1     ★源0次(幽灵?)
+     M. Lécosse                     → 勒科斯先生                源×0     译×4     ★源0次(幽灵?)
+     M. Destournelles               → 德图尔内勒先生              源×3     译×4    
+     M. Collard                     → 科拉尔先生                源×2     译×2    
+     M. Deviolaine                  → 德维奥莱纳先生              源×1     译×1    
+     Danré                          → 当雷                   源×1     译×2    
+     Dulauloy                       → 迪洛卢瓦                 源×1     译×2    
+     Moynat                         → 穆瓦纳                  源×5     译×5    
+     Mildet                         → 米尔德                  源×5     译×5    
+     Vatrin (keeper)                → 瓦特兰                  源×3     译×3    
+     Lafeuille                      → 拉弗耶                  源×1     译×1    
+     M. Charpentier                 → 卡尔庞捷先生               源×0     译×1     ★源0次(幽灵?)
+     M. Hochedez                    → 奥什德先生                源×0     译×1     ★源0次(幽灵?)
+     Princess Borghese              → 博尔盖塞公主               源×1     译×1    
+     Herminie                       → 埃尔米妮                 源×1     译×1    
+     Caroline                       → 卡罗琳                  源×1     译×1    
+     Rocador                        → 罗卡多尔                 源×1     译×1    
+     Tombelle                       → 通贝尔                  源×1     译×1    
+     Villers-Hellon                 → 维莱-埃隆                源×2     译×2    
+     Vouty                          → 武蒂                   源×1     译×1    
+     Antilly                        → 昂蒂伊                  源×3     译×3    
+     Chavigny                       → 沙维尼                  源×2     译×2    
+     Tillet                         → 蒂莱                   源×2     译×2    
+     Largny                         → 拉尔尼                  源×3     译×3    
+     Vallue                         → 瓦吕                   源×3     译×5    
+     Taille-Fontaine                → 塔耶-丰丹                源×2     译×2    
+     Three Oaks Covert              → 三橡林                  源×3     译×3    
+     pignolet                       → 皮尼奥酒                 源×4     译×3    
+     cutty-pipe                     → 短烟斗                  源×1     译×3    
+     grain（火药）                      → 格令                   源×5     译×1     落位偏低 1/5
+     wily beast                     → 狡兽                   源×9     译×9    
+     trarp                          → 陷夹                   源×10    译×10   
+     nightmared                     → 被魇住了                 源×4     译×2     落位偏低 2/4
+     old mole                       → 老鼹鼠                  源×3     译×3    
+

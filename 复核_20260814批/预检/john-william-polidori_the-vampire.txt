@@ -1,0 +1,55 @@
+====================================================================================================
+### john-william-polidori_the-vampire  (3 files)
+  块: O=34 C=34 OK | 段: EN=97 CN=97 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: - 此书是吸血鬼题材的源头作品，译笔须带 19 世纪初英国哥特文学的典雅与阴郁。 / - Lord Ruthven 这个姓氏最早就是 Polidori 在本作中创造的（拜伦曾以此名作诗中人物），后世的吸血鬼小说多有效仿。 / - 日内瓦来信引用拜伦《恰尔德·哈罗德游记》第三歌中"the sky is changed"等段落，需保持诗句译文的节奏感。 / - 导言含大量东欧地名（匈牙利、波兰、奥地利、洛林）与历史考据，地名用通行译名。 / - the-vampire.md 为 46.1KB 长文，>50KB 阈值未达，但接近，翻译时注意结尾完整不截断。
+  -- 术语表硬约束行 48 条:
+     Lord Ruthven                   → 鲁思文勋爵                源×30    译×30   
+     Aubrey                         → 奥布里                  源×56    译×57   
+     Ianthe                         → 伊安忒                  源×8     译×9    
+     Lady Mercer                    → 默瑟夫人                 源×1     译×1    
+     Marsden / Earl of Marsden      → 马斯登 / 马斯登伯爵          源×1     译×1    
+     Lord Byron                     → 拜伦勋爵                 源×4     译×6    
+     Arnold Paul                    → 阿诺德·保罗               源×2     译×2    
+     Rousseau                       → 卢梭                   源×1     译×1    
+     Voltaire                       → 伏尔泰                  源×1     译×1    
+     Madame de Stael                → 斯塔尔夫人                源×1     译×1    
+     Heloise                        → 爱洛伊丝                 源×2     译×2    
+     Abeilard / M. Schlegel         → 阿伯拉尔 / 施莱格尔先生        源×2     译×2    
+     Gibbon                         → 吉本                   源×1     译×1    
+     Bonnivard                      → 博尼瓦尔                 源×1     译×1    
+     Bradshaw                       → 布拉德肖                 源×1     译×1    
+     Diodati                        → 迪奥达蒂                 源×2     译×2    
+     Milton                         → 弥尔顿                  源×1     译×1    
+     Shakespeare                    → 莎士比亚                 源×1     译×1    
+     Geneva                         → 日内瓦                  源×2     译×2    
+     Ferney                         → 费尔奈                  源×2     译×2    
+     Jura                           → 汝拉山                  源×2     译×2    
+     the Alps                       → 阿尔卑斯山                源×0     译×1     ★源0次(幽灵?)
+     Hungary                        → 匈牙利                  源×2     译×2    
+     Poland                         → 波兰                   源×1     译×1    
+     Austria                        → 奥地利                  源×1     译×1    
+     Lorraine                       → 洛林                   源×1     译×1    
+     Madreyga                       → 马德雷加                 源×1     译×1    
+     Cassovia                       → 卡绍维亚                 源×1     译×1    
+     Turkish Serbia                 → 土耳其辖塞尔维亚             源×1     译×1    
+     Calistria                      → 卡利斯特里亚               源×0     译×0     ★源0次(幽灵?)
+     Epirus                         → 伊庇鲁斯                 源×0     译×0     ★源0次(幽灵?)
+     Athens                         → 雅典                   源×3     译×3    
+     Childe Harold                  → 恰尔德·哈罗德              源×1     译×1    
+     the Giaour                     → 异教徒                  源×0     译×1     ★源0次(幽灵?)
+     Heyduke                        → 海杜克                  源×1     译×1    
+     Hadagni                        → 哈达格尼                 源×1     译×1    
+     Brussels                       → 布鲁塞尔                 源×1     译×1    
+     Rome                           → 罗马                   源×3     译×3    
+     Smyrna                         → 士麦那                  源×2     译×2    
+     Otranto                        → 奥特朗托                 源×1     译×1    
+     Naples                         → 那不勒斯                 源×1     译×1    
+     Calais                         → 加来                   源×1     译×1    
+     Pausanias                      → 保萨尼亚斯                源×1     译×1    
+     Kashmere                       → 克什米尔                 源×1     译×1    
+     yataghan                       → 亚塔罕弯刀                源×0     译×1     ★源0次(幽灵?)
+     faro table                     → 法罗赌局                 源×1     译×1    
+     the ton                        → 上流社交界                源×1     译×1    
+     ennui                          → 倦怠                   源×1     译×1    
+

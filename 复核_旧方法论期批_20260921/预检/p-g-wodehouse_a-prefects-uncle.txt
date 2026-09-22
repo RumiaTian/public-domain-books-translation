@@ -1,0 +1,176 @@
+ (18 files)
+  块: O=293 C=293 OK | 段: EN=1149 CN=1149 OK
+  英文残留(剔括注) top: deny×1, her×1, U-n×1, un×1, c-l-e×1, kle×1, Uncle×1
+  -- 术语表硬约束行 171 条:
+     Fenn                           → 芬恩                   源×0     译×0     ★源0次(幽灵?)
+     G. P. Rutland? no—             → （弃用占位）               源×0     译×0     ★源0次(幽灵?)
+     Gethryn                        → 盖斯林                  源×181   译×181  
+     Tony Gethryn                   → 托尼·盖斯林               源×0     译×0     ★源0次(幽灵?)
+     Farnie                         → 法尼                   源×111   译×110  
+     Marriott                       → 马里奥特                 源×116   译×117  
+     Reece                          → 里斯                   源×71    译×71   
+     Pringle                        → 普林格尔                 源×119   译×121  
+     Lorimer                        → 洛里默                  源×61    译×61   
+     Norris                         → 诺里斯                  源×149   译×147  
+     Monk                           → 蒙克                   源×103   译×101  
+     Danvers                        → 丹弗斯                  源×35    译×35   
+     Wilson                         → 威尔逊                  源×59    译×58   
+     the Bishop                     → 主教                   源×108   译×117  
+     Leicester                      → 莱斯特                  源×54    译×54   
+     Jephson                        → 杰夫森                  源×36    译×36   
+     School House                   → 学校宿舍                 源×14    译×13   
+     Beckford College               → 贝克福德学院               源×1     译×2    
+     the Rev. James Beckett         → 詹姆斯·贝克特牧师            源×1     译×1    
+     William                        → 威廉                   源×9     译×9    
+     Miss Jones                     → 琼斯小姐                 源×1     译×1    
+     Reynolds                       → 雷诺兹                  源×7     译×7    
+     Waterford                      → 沃特福德                 源×13    译×13   
+     Baynes                         → 贝恩斯                  源×16    译×16   
+     Mr. Lawrie                     → 劳里先生                 源×9     译×8    
+     Mortimer Wells / Mr. Wells     → 莫蒂默·威尔斯／威尔斯先生        源×10    译×10   
+     Mr. Sims                       → 西姆斯先生                源×1     译×0     ★译0次(未落位?)
+     The Dark Horse                 → 《黑马》                 源×9     译×8    
+     The Rajah of Seltzerpore       → 塞尔泽普尔王公              源×3     译×2    
+     Charchester                    → 查彻斯特                 源×23    译×21   
+     house                          → 宿舍                   源×96    译×126  
+     prefect                        → 级长                   源×4     译×5    
+     the School Eleven / First Elev → 校队／一队                源×15    译×67   
+     wicket                         → 三柱门                  源×32    译×25   
+     innings                        → 一局                   源×22    译×9     落位偏低 9/22
+     extra lesson                   → 留校补习                 源×3     译×3    
+     Baker                          → 贝克                   源×35    译×92   
+     Gosling                        → 戈斯林                  源×38    译×38   
+     Skinner                        → 斯金纳                  源×17    译×17    残留「犯罪界的拿破仑」×1
+     Lee                            → 李                    源×8     译×9    
+     Jennings                       → 詹宁斯                  源×3     译×3    
+     Adams                          → 亚当斯                  源×5     译×5    
+     Burgess                        → 伯吉斯                  源×8     译×8    
+     Carstairs                      → 卡斯泰尔斯                源×4     译×4    
+     Baynes                         → 贝恩斯                  源×0     译×0     ★源0次(幽灵?)
+     Watson (the ground-man)        → 沃森                   源×3     译×3    
+     Langdale                       → 兰代尔                  源×2     译×3    
+     Mr. Strudwick                  → 斯特拉德威克先生             源×1     译×1    
+     Mr. Somerville Smith           → 萨默维尔·史密斯先生           源×1     译×1    
+     Matthews                       → 马修斯                  源×3     译×3    
+     J. R. Smith                    → J. R. 史密斯            源×1     译×1     残留「主人」×4
+     Colonel Ashby                  → 阿什比上校                源×2     译×2    
+     James Ashby / John Ashby       → 詹姆斯·阿什比／约翰·阿什比       源×1     译×1    
+     Miss Mabel Lorimer             → 玛贝尔·洛里默小姐            源×2     译×2    
+     Webster's                      → 韦伯斯特宿舍               源×9     译×6    
+     Cooke's                        → 库克宿舍                 源×1     译×1    
+     Browning's                     → 布朗宁宿舍                源×1     译×1    
+     Anfield / Anfield Junction     → 安菲尔德／安菲尔德枢纽站         源×15    译×15   
+     Horton                         → 霍顿                   源×6     译×9    
+     Pudford                        → 帕德福德                 源×6     译×6    
+     Little Bindlebury              → 小宾德尔伯里               源×6     译×6    
+     Biddlehampton                  → 比德尔汉普顿               源×2     译×2    
+     Old Inns                       → 老客栈村                 源×9     译×6    
+     Harrow / Clifton / Wellington  → 哈罗／克利夫顿／惠灵顿          源×13    译×13   
+     Rugby                          → 拉格比                  源×2     译×2    
+     Heidelberg                     → 海德堡                  源×1     译×1    
+     Ollendorf                      → 奥伦多夫                 源×1     译×1    
+     Jessop / Tyldesley             → 杰索普／蒂尔兹利             源×4     译×3    
+     John Roberts                   → 约翰·罗伯茨               源×1     译×1    
+     Old Beckfordians               → 老贝克福德人               源×3     译×5    
+     the Emeriti                    → 元老队                  源×1     译×1    
+     Upper Fourth / Lower Fourth    → 上四年级／下四年级            源×3     译×2    
+     Upper Fifth / the Remove       → 上五年级／移级班             源×16    译×12   
+     stump-cricket                  → 残桩板球                 源×5     译×4    
+     exeat                          → 外宿假                  源×2     译×2    
+     colours                        → 色帽                   源×8     译×2     落位偏低 2/8
+     fag                            → 学仆                   源×7     译×4     落位偏低 4/7
+     yorker                         → 贴地球                  源×4     译×4    
+     slip(s)                        → 滑位区                  源×14    译×8     落位偏低 8/14
+     the Kindergarten / the Kids' H → 幼儿园／快乐儿童联盟           源×3     译×3    
+     Comic Blitherings              → 《瞎扯漫画》               源×1     译×1     残留「喜剧」×2
+     Heart Foam                     → 《心之泡沫》               源×1     译×1    
+     Gosling / Sammy                → 戈斯林／萨米               源×7     译×7    
+     Miles                          → 迈尔斯                  源×12    译×1     落位偏低 1/12
+     Saunders                       → 桑德斯                  源×1     译×1    
+     Twiss                          → 特威斯                  源×2     译×2    
+     Birch                          → 伯奇                   源×1     译×1    
+     Gregson                        → 格雷格森                 源×3     译×3    
+     Lee                            → 李                    源×0     译×0     ★源0次(幽灵?)
+     Adams                          → 亚当斯                  源×0     译×0     ★源0次(幽灵?)
+     Bond                           → 邦德                   源×1     译×1    
+     Burgess                        → 伯吉斯                  源×0     译×0     ★源0次(幽灵?)
+     Crowinshaw                     → 克劳因肖                 源×2     译×2    
+     Chamberlain / Joseph           → 张伯伦／约瑟夫              源×2     译×2    
+     Carstairs                      → 卡斯泰尔斯                源×0     译×0     ★源0次(幽灵?)
+     Webster's                      → 韦伯斯特宿舍               源×0     译×0     ★源0次(幽灵?)
+     Millett                        → 米利特                  源×1     译×1    
+     Smith / Markham's              → 史密斯／马克姆宿舍            源×10    译×10   
+     Horton                         → 霍顿                   源×0     译×0     ★源0次(幽灵?)
+     Biddlehampton                  → 比德尔汉普顿               源×0     译×0     ★源0次(幽灵?)
+     “Cow and Cornflower”           → 「母牛与矢车菊」             源×1     译×2    
+     The Sportsman                  → 《体育人报》               源×1     译×2    
+     the Incogniti                  → 「无名氏队」               源×1     译×1    
+     the Authentics                 → 「正宗队」                源×3     译×2    
+     O.B.s                          → O.B.（老贝克福德校友）        源×7     译×3     落位偏低 3/7
+     Robertson                      → 罗伯森                  源×10    译×9    
+     Mr. Hurry Bungsho Jabberjee    → 赫里·邦格舒·贾伯吉           源×1     译×1    
+     Tyldesley                      → 蒂尔德斯利                源×0     译×1     ★源0次(幽灵?)
+     Macaulay                       → 麦考莱                  源×1     译×1    
+     The Ingoldsby Legends          → 《英戈尔兹比传奇》            源×1     译×1    
+     Round the Red Lamp             → 《红灯周围》               源×1     译×1    
+     Upper Fourth                   → 高四班                  源×0     译×1     ★源0次(幽灵?)
+     Upper Fifth                    → 高五班                  源×0     译×3     ★源0次(幽灵?)
+     the Remove                     → 低年级班                 源×0     译×2     ★源0次(幽灵?)
+     the Mob                        → 「乌合之众」               源×6     译×1     落位偏低 1/6
+     round-robin                    → 联署书                  源×4     译×3    
+     fag                            → 跑腿                   源×0     译×6     ★源0次(幽灵?)
+     Black Monday                   → 黑色星期一                源×2     译×2    
+     Blue                           → 「蓝」                  源×3     译×0     ★译0次(未落位?)
+     colours                        → 队色                   源×0     译×6     ★源0次(幽灵?)
+     yorker                         → 约克球                  源×0     译×3     ★源0次(幽灵?)
+     leg-break                      → 腿转球                  源×0     译×2     ★源0次(幽灵?)
+     slips                          → 滑区                   源×0     译×2     ★源0次(幽灵?)
+     Hill                           → 希尔                   源×10    译×8    
+     Bruce                          → 布鲁斯                  源×4     译×4    
+     Kynaston                       → 基纳斯顿                 源×1     译×1    
+     Grainger                       → 格兰杰                  源×2     译×2    
+     Wogan                          → 沃根                   源×6     译×6    
+     Philips                        → 菲利普斯                 源×1     译×1    
+     Perkins                        → 珀金斯                  源×6     译×6    
+     Bates                          → 贝茨                   源×2     译×2    
+     the Nomads                     → 游牧人队                 源×6     译×11   
+     the Butterflies                → 蝴蝶队                  源×1     译×1    
+     Sandhurst                      → 桑德赫斯特                源×1     译×1    
+     Hove                           → 霍夫                   源×1     译×1    
+     Ranjitsinhji                   → 兰吉辛吉                 源×1     译×1    
+     Palairet                       → 帕莱雷特                 源×0     译×1     ★源0次(幽灵?)
+     J. Douglas / Braund            → 杰·道格拉斯／布劳恩德          源×2     译×2    
+     Slogbury and Whangham's Sussex → 斯洛格伯里与王汉姆家「萨塞克斯重炮」   源×1     译×0     ★译0次(未落位?)
+     Pollock / the Porroh Man       → 波洛克／「波罗人」            源×3     译×2    
+     Mr. Phil May                   → 菲尔·梅                 源×1     译×1    
+     Captain Kettle                 → 凯特尔船长                源×1     译×1    
+     Pooh-Bah                       → 扑-巴                  源×0     译×1     ★源0次(幽灵?)
+     "Down South"                   → 《南下》                 源×0     译×1     ★源0次(幽灵?)
+     Solomon Eagle                  → 所罗门·伊格尔              源×1     译×1    
+     Punch                          → 《笨拙》                 源×1     译×1    
+     Professor Moriarty             → 莫里亚蒂教授               源×2     译×2    
+     square leg                     → 方腿位                  源×2     译×2    
+     point / cover-point            → 切位／掩切位               源×35    译×5     落位偏低 5/35
+     mid-off / mid-on               → 投球侧内场                源×5     译×2     落位偏低 2/5
+     short leg                      → 近腿位                  源×2     译×2    
+     deep field                     → 外野深处                 源×0     译×4     ★源0次(幽灵?)
+     line-out                       → 争边球                  源×1     译×1    
+     scrum                          → 并列争球                 源×8     译×1     落位偏低 1/8
+     try                            → 达阵                   源×10    译×1     落位偏低 1/10
+     dropkick                       → 落踢                   源×1     译×1    
+     mark                           → 「马克」定位踢              源×1     译×0     ★译0次(未落位?)
+     half / halfback                → 前卫                   源×46    译×7     落位偏低 7/46
+     three-quarter                  → 三分卫                  源×4     译×7    
+     fullback                       → 最后卫                  源×2     译×2    
+     over                           → 一轮                   源×61    译×13    落位偏低 13/61
+     bails                          → 横木                   源×2     译×2    
+     century / half-century         → 百分／半百分               源×14    译×22   
+     senior / junior day-room       → 高年级／低年级活动室           源×17    译×17   
+     study                          → 书房                   源×44    译×43   
+     study brew                     → 书房茶会                 源×1     译×2    
+     lockup                         → 锁门                   源×3     译×3    
+     Pavilion                       → 看台                   源×11    译×6     落位偏低 6/11
+     The Beckfordian                → 《贝克福德人》              源×1     译×1    
+     sovereign                      → 金镑                   源×4     译×6    
+     bob / quid                     → 先令（俚）／镑（俚）           源×12    译×9    
+====================================================================================================

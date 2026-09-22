@@ -1,0 +1,58 @@
+## XI Sergeant Forrest
+The Brownbie party returned, after their midnight raid, in great discomfiture to Boolabong. Their leader, Jerry, was burned about his hands and face in a disagreeable and unsightly manner. Joe had hardly made good that character for “fighting it out to the end,” for which he was apt to claim credit; Boscobel was altogether disconcerted by his fall; and Nokes, who had certainly shown no aptitude for the fray, was abused by them all as having caused their retreat by his cowardice; while Sing Sing, the runaway cook, who knew that he had forfeited his wages at Gangoil, was forced to turn over in his heathenish mind the ill effects of joining the losing side. “You big fool, Bos,” he said more than once to his friend the woodsman, who had lured him away from the comforts of Gangoil. “I’ll punch your head, John, if you don’t hold your row,” Boscobel would reply. But Sing Sing went on with his reproaches, and, before they had reached Boolabong, Boscobel had punched the Chinaman’s head.
+“You’re not coming in here,” Jerry said to Nokes, when they reached the yard gate.
+“Who wants to come in? I suppose you’re not going to send a fellow on without a bit of grub after such a night’s work?”
+“Give him some bread and meat, Jack, and let him go on. There’ll be somebody here after him before long. He can’t hurt us; but I don’t want people to think that we are so fond of him that we can’t do without harbouring him here. Georgie, you’ll go too, if you take my advice. That young cur will send the police here as sure as my name is Brownbie, and, if they once get hold of you, they’ll have a great many things to talk to you about.”
+Georgie grumbled when he heard this, but he knew that the advice given him was good, and he did not attempt to enter the house. So Nokes and he vanished, away into the bush together﻿—as such men do vanish﻿—wandering forth to live as the wild beasts live. It was still a dark night when they went, and the remainder of the party took themselves to their beds.
+On the following afternoon they were lying about the house, sometimes sleeping, and sometimes waking up to smoke, when the two policemen, who had already been at Gangoil, appeared in the yard. These men were dressed in flat caps, with short blue jackets, hunting breeches, and long black boots, very unlike any policemen in the old country, and much more picturesque. They leisurely tied their horses up, as though they had been in the habit of making weekly visits to the place, and walked round to the veranda.
+“Well, Mr. Brownbie, and how are you?” said the sergeant to the old man.
+The head of the family was gracious, and declared himself to be pretty well, considering all things. He called the sergeant by his name, and asked the men whether they’d take a bit of something to eat. Joe also was courteous, and, after a little delay in getting a key from his brother, brought out the jar of spirits﻿—which, in the bush, is regarded as the best sign known of thorough good-breeding. The sergeant said that he didn’t mind if he did; and the other man, of course, followed his officer’s example.
+So far everything was comfortable, and the constables seemed in no hurry to allude to disagreeable subjects. They condescended to eat a bit of cold meat before they proceeded to business. And at last the matter to be discussed was first introduced by one of the Brownbie family.
+“I suppose you’ve heard that there was a scrimmage here last night,” said Joe.
+The Brownbie party present consisted of the old man, Joe and Jack Brownbie, and Boscobel﻿—Jerry keeping himself in the background because of his disfigurement. The sergeant, as he swallowed his food, acknowledged that he had heard something about it.
+“And that’s what brings you here,” continued Joe.
+“There ain’t nothing wrong here,” said old Brownbie.
+“I hope not, Mr. Brownbie,” said the sergeant. “I hope not. We haven’t got anything against you, at any rate.”
+Sergeant Forrest was a graduate of Oxford, the son of an English clergyman, who, having his way to make in the world, had thought that an early fortune would be found in the colonies. He had come out, had failed, had suffered some very hard things, and now, at the age of thirty-five, enjoyed life thoroughly as a sergeant of the colonial police.
+“You haven’t got anything against anybody here, I should think?” said Joe.
+“If you want to get them as begun it,” said Jack, “and them as ought to be took up, you’ll go to Gangoil.”
+“Hold your tongue, Jack,” said his brother. “Sergeant Forrest knows where to go better than you can tell him.”
+Then the sergeant asked a string of questions as to the nature of the fight; who had been hurt; and how badly had anybody been hurt; and what other harm had been done. The answers to all these questions were given with a fair amount of truth, except that the little circumstance of the origin of the fire was not explained. Both Boscobel and Joe had seen the torch put down, but it could hardly have been expected that they should have been explicit as to such a detail as that. Nor did they mention the names of either their brother George or Nokes.
+“And who was there in the matter?” asked the sergeant.
+“There was young Heathcote, and a boy he has got there, and the two chaps as he calls boundary riders, and Medlicot, the sugar fellow from the mill, and a chap of Medlicot’s I never set eyes on before. They must have expected something to be up, or Heathcote would not have been going about at night with a tribe of men like that.”
+“And who were your party?”
+“Well, there were just ourselves, four of us, for Georgie was here, and this fellow Boscobel. Georgie never stays long, and he wouldn’t be welcome if he did. He turned up just by chance like, and now he’s off again.”
+“That was all, eh?”
+Of course they all knew that the sergeant knew that Nokes had been with them.
+“Well, then, that wasn’t all,” said old Brownbie. “Bill Nokes was here, whom Heathcote dismissed ever so long ago, and that Chinese cook of his. He dismissed him too, I suppose. And he dismissed Boscobel here.”
+“No one can live at Gangoil any time,” said Jack. “Everybody knows that. He wants to be lord a’mighty over everything. But he ain’t going to be lord a’mighty at Boolabong.”
+“And he ain’t going to burn our grass either,” said Joe. “It’s like his impudence coming on to our run and burning everything before him. He calls hisself a magistrate, but he’s not to do just as he pleases because he’s a magistrate. I suppose we can swear against him for lighting our grass, sergeant? There isn’t one of us that didn’t see him do it.”
+“And where is Nokes?” asked the sergeant, paying no attention to the application made by Mr. Brownbie, junior, for redress to himself.
+“Well,” said Joe, “Nokes isn’t anywhere about Boolabong.”
+“He’s away with your brother George?”
+“I shouldn’t wonder,” said Joe.
+“It’s a serious matter lighting a fire, you know,” said the sergeant. “A man would have to swing for it.”
+“Then why isn’t young Heathcote to swing?” demanded Jack.
+“There is such a thing as intent, you know. When Heathcote lighted the fire, where would the fire have gone if he hadn’t kept putting it out as fast as he kept lighting it? On to his own run, not to yours. And where would the other fire have gone which somebody lit, and which nobody put out, if he hadn’t been there to stop it? The less you say against Heathcote the better. So Nokes is off, is he?”
+“He ain’t here, anyways,” said Joe. “When the row was over, we wouldn’t let him in. We didn’t want him about here.”
+“I dare say not,” said the sergeant. “Now let me go and see the spot where the fight was.”
+So the two policemen, with the two young Brownbies, rode away, leaving Boscobel with the old man.
+“He knows everything about it,” said old Brownbie.
+“If he do,” said Boscobel, “it ain’t no odds.”
+“Not a ha’porth of odds,” said Jerry, coming out of his hiding-place. “Who cares what he knows? A man may do what he pleases on his own run, I suppose.”
+“He mayn’t light a fire as’ll spread,” said the old man.
+“Bother! Who’s to prove what’s in a man’s mind? If I’d been Nokes, I’d have stayed and seen it out. I’d never be driven about the colony by such a fellow as Heathcote, with all the police in the world to back him.”
+Sergeant Forrest inspected the ground on which the fire had raged, and the spot on which the men had met; but nothing came of his inspection, and he had not expected that anything would come of it. He could see exactly where the fire had commenced, and could trace the efforts that had been made to stop it. He did not in the least doubt the way in which it had been lit; but he did very much doubt whether a jury could find Nokes guilty, even if he could catch Nokes. Jacko’s evidence was worth nothing, and Mr. Medlicot might be easily mistaken as to what he had seen at a distance in the middle of the night.
+All this happened on Christmas Day. At about nine o’clock the same evening the two constables reappeared at Gangoil, and asked for hospitality for the night. This was a matter of course, and also the reproduction of the Christmas dinner. Mrs. Medlicot was now there; and her son, with his collarbone set, had been allowed to come out on to the veranda. The house had already been supposed to be full; but room, as a matter of course, was made for Sergeant Forrest and his man.
+“It’s a queer sort of Christmas we’ve all been having, Mr. Heathcote,” said the sergeant, as the remnant of a real English plum-pudding was put between him and his man by Mrs. Growler.
+“A little hotter than it is at home, eh?”
+“Indeed it is. You must have had it hot last night, sir?”
+“Very hot, sergeant. We had to work uncommonly hard to do it as well as we did.”
+“It was not a nice Christmas game, sir, was it?”
+“Eh, me!” said Mrs. Medlicot. “There’s nae Christmas games or ony games here at all, except just worrying and harrying, like sae many dogs at each other’s throats.”
+“And you think nothing more can be done?” Harry asked.
+“I don’t think we shall catch the men. When they get out backward, it’s very hard to trace them. He’s got a horse of his own with him, and he’ll be beyond reach of the police by this time tomorrow. Indeed, he’s beyond their reach now. However, you’ll have got rid of him.”
+“But there are others as bad as he left behind. I wouldn’t trust that fellow Boscobel a yard.”
+“He won’t stir, sir. He belongs to this country, and does not want to leave it. And when a thing has been tried like that and has failed, the fellows don’t try it again. They are cowed like by their own failure. I don’t think you need fear fire from the Boolabong side again this summer.”
+After this the sergeant and his man discreetly allowed themselves to be put to bed in the back cottage; for in truth, when they arrived, things had come to such a pass at Gangoil that the two additional visitors were hardly welcome. But hospitality in the bush can be stayed by no such considerations as that. Let their employments or enjoyments on hand be what they may, everything must yield to the entertainment of strangers. The two constables were in want of their Christmas dinner, and it was given to them with no grudging hand.
+As to Nokes, we may say that he has never since appeared in the neighbourhood of Gangoil, and that none thereabouts ever knew what was his fate. Men such as he wander away from one colony into the next, passing from one station to another, or sleeping on the ground, till they become as desolate and savage as solitary animals. And at last they die in the bush, creeping, we may suppose, into hidden nooks, as the beasts do when the hour of death comes on them.

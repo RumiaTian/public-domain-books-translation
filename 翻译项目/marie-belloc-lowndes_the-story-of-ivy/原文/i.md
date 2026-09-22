@@ -1,0 +1,129 @@
+## I
+The July sun shone slantwise into the ugly, almost sordid-looking bedroom where Ivy Lexton, still only half dressed, had just begun making up her lovely face in front of a tarnished, dust-powdered toilet-glass.
+It was nine o’clock in the morning; an hour ago she had had her cup of tea and﻿—mindful of her figure﻿—the hard biscuit which was the only thing she allowed herself by way of breakfast. Her husband, hopelessly idle, easy-natured, well-bred Jervis Lexton, was still fast asleep in the little back bedroom his wife called his dressing-room, but which was their box-room and general “glory-hole.”
+Everything that had been of any real value there had gradually disappeared in the last few weeks, for Ivy and Jervis Lexton, to use their own rueful expression, were indeed stony-broke.
+Yet they had started their married life, six years before, with a capital of sixty-eight thousand pounds. Now they were almost penniless. Indeed, what Ivy called to herself with greater truth than was usual “her little all,” that is, a pound note, and twelve shillings and sixpence in silver, lay on the stained, discoloured mahogany dressing-table before which she was now standing.
+How amazed would her still large circle of friends and acquaintances have been had they learnt how desperate and how hopeless was her own and her husband’s financial position. Yesterday she had even tried to sell two charming frocks brought back for her by a good-natured friend from Paris. But she had only been offered a few shillings for the two, so she had brought them home again.
+And now, as her eyes fell on the pound note and tiny heap of silver, they filled with angry tears. How she loathed these sordid, hateful lodgings! What a terrible, even a terrifying thing, it was to have fallen so low as to have to live here, in two shabby, ill-kept bedrooms, where there wasn’t even a hanging cupboard for her pretty clothes, and where the drawers of the painted deal chest of drawers would neither shut nor open.
+The Lextons had come there for two reasons. One, a stupid reason, because their landlady was the widow of a man who had been employed as a lad in the stables of Jervis Lexton’s father. A better reason was that, owing to there being no bathroom in the house, the rooms were amazingly, fantastically cheap. The Lextons had already been camping here, as Ivy’s husband put it, for some months, but they rarely gave any of their friends their address. Jervis still belonged to a famous club to which some of his rich men acquaintances would have given much to belong; and Ivy had a guinea subscription to a small bridge club from which her letters were forwarded each day.
+There came a knock at the bedroom door. It was a funny, fumbling knock, and she knew it for that of the landlady’s little boy.
+Flinging a pale pink lace-trimmed wrapper round her, “Come in,” she called out sharply.
+The child came in, holding in his grubby hand two letters.
+She took them from him, and quickly glanced at the envelopes. The one, inscribed in a firm masculine handwriting to her present, Pimlico, address, she put down on the dressing-table unopened. She knew, or thought she knew, so well what it contained.
+There had been a time, not so very long ago, when Ivy Lexton’s beautiful eyes would have shone at the sight of that handwriting. A time when she would have torn that envelope open at once, so that her senses could absorb with delight the ardent protestations of love written on the large plain sheet of paper that envelope contained.
+But she no longer felt “like that” towards her daily correspondent, Roger Gretorex. Also she was going to see him this morning in the hope, nay, the certainty, that he would help to tide over this horrid moment of difficulty, by giving her whatever money he could put his hands on.
+Gretorex was of a very different stamp from the men who had up to now fallen in love with her. He worshipped her with all his heart and soul, while yet conscious that he was now doing what, before he had been tempted, he would have unhesitatingly condemned in another man. As to that, and other matters of less moment, he was what Ivy Lexton felt to be ludicrously old-fashioned, and she had soon become weary of him, and satiated with the jealous devotion he lavished on her.
+Also, Roger Gretorex was poor; not poor as Ivy’s husband had become, largely through his own fault and hers, but through that of his father, a great Sussex squire, who had gambled and muddled away his only son’s inheritance. That was why Gretorex was a doctor, and not what the woman he loved would have liked him to be, an idle young man of means.
+The other envelope was addressed in a woman’s flowing hand, and it had been sent on from Ivy’s bridge club.
+The writer of the many sheets this thick, cream-laid envelope contained was named Rose Arundell. She was a well-to-do, generous, rather foolish young widow, who had taken a great fancy to lovely Mrs. Jervis Lexton. Mrs. Arundell had been, nay, was, a most useful friend, and a look of dismay shadowed Ivy Lexton’s face as she read on and on, till she reached the end of the long letter.
+
+> Ivy, darling, I have the most *astounding* news to tell you!
+> I’ll begin at the beginning. Besides, I can’t help thinking﻿—for I know you’re rather worried just now, poor dear﻿—that it may be of help to *you*. D’you remember my telling you last time we met at that tiresome fête where we couldn’t see each other for a moment alone, that I’d had a *wonderful* adventure? That I’d been to a fortune-teller? Her name is Mrs. Thrawn. She lives at No. 1 Ranelagh Reach on the Embankment. Her fee is a pound﻿—and I feel inclined to send her a thousand pounds when I think of what she has done for me!
+> I don’t mind telling you *now* that I was on the point of taking that silly boy, Ronny. No one knows but myself how *horribly* lonely I’ve been. Well, I thought I’d go and see this Mrs. Thrawn and hear what she’d got to say; for, after all, I didn’t *love* Ronny, and I always had a dreadful suspicion it was my *money* he liked, rather than *me*.
+> Well, my dear, I went off *trembling*. But I can’t tell you how wonderful she was! She described Ronny and *warned me* against him. Then she said that an extraordinary change was coming over my life, and that if I would only be patient and *wait*, everything I had most longed for would come to pass. She was most awfully kind﻿—*really* kind. She said that if I was sensible and did what she said﻿—I mean *refuse* Ronny﻿—I should take a long journey very soon to a place that she, Mrs. Thrawn, knew well and loved; and that I should be very, *very* happy there. That place was India, as I knew, for the woman who first told me about Mrs. Thrawn said she was the widow of a *missionary*!
+> And then, oh, Ivy, what do you think happened? I wonder if you remember all I told you about the soldier who was my first love? The man whom my mother would not let me marry and who did so splendidly in the war? He’s home on leave from India, where he has a *splendid* appointment. We ran across one another in the street, and I asked him to come and see me. You can guess the rest!
+> His leave is up *by the end of next week*. We shall be married very quietly on Thursday, and sail for *India on Friday*.
+> I’m in a whirl, as you can imagine. I’d love to have *you* at my wedding, darling, for you really *are* my dearest friend. But *he* doesn’t want anyone there who didn’t know us both in the *old* days, before the war. He hasn’t a bean, but, thank God, I’ve *plenty* for us both!
+> Your *devoted*
+> Rose.
+
+Ivy Lexton put the long letter she had just read down on the dressing-table. Then she took up the other, still unopened, envelope, and stuffed it into her bag. After all she could read the letter it contained in the omnibus, on her way to see Roger Gretorex. He had taken over for a friend a slum practice in Westminster, and he lived in what Ivy called a horrid little street named Ferry Place.
+She turned again towards the looking-glass, and began once more making up her face at the point where she had been interrupted. She was so used to the process that she worked quickly, mechanically, though taking a great deal of intelligent care, far more care than did most of her young married women friends.
+With regard to everything that concerned herself, Ivy Lexton was quick, uncannily shrewd, and instinctively clever. She knew how to exploit to the very best advantage her exceptional physical beauty, her natural charm of manner, and, above all, her extraordinary allure for men.
+And yet, so unsuspicious is human nature in that stratum of the financially, easy, agreeably self-absorbed, and pleasure-loving world in which Ivy played a not unimportant part, that all the men, and many of the women, who came across her in that world, would have told you that Ivy Lexton was “a dear little thing,” “a regular sport,” “a good plucked one,” and “a splendid wife to that rotter Lexton.”
+When she had finished what was always to her an interesting and pleasant task, she stood still, and did nothing, for a moment. She longed to get away from this hateful room and this horrible house, yet Roger Gretorex would not be free of his poorer patients for quite a long while. This was the more tiresome as she always went into his tiny mid-Victorian house by the back way, through the surgery, which gave into a blind alley.
+Suddenly her eyes fell on “her little all.” Why shouldn’t she take that pound note, and call on Rose Arundell’s wonderful fortune-teller on her way to Ferry Place? After all, she, too, might have an unexpected bit of luck waiting for her round the corner.
+She slipped on a cool pale-pink cotton frock given her by that same generous friend who was now, to her regret, going out of her life. Then she jammed a little brown straw hat on her fair, naturally wavy, shingled head, and, tiptoeing down the carpetless stairs, she hurried through the dirty hall into the sunshiny street.
+---
+Ranelagh Reach consisted of a row of six early nineteenth-century houses on that part of the Embankment which forms a link between Westminster and Chelsea. Two of the houses had evidently been taken over lately by well-to-do people, for they had been repainted, and their window-boxes were now filled with ivy-leaved geraniums. The four other houses were shabby-looking and dilapidated, and it was in one of these that there dwelt the woman who had taken as her professional name that of Janet Thrawn. The blinds of No. 1 were down, the brown paint on the front door had peeled, and the steps had evidently not been “done” for days. Everything looked so poverty-stricken that Ivy felt surprised when a very neat and capable-looking maid opened the door in answer to her pull at the old-fashioned bell. She had expected to see a slatternly little girl.
+“I’ve come to see Mrs. Thrawn; Mrs. Arundell sent me.”
+“I’m not sure that Mrs. Thrawn can see you, miss, unless you’ve made an appointment. But please come in, while I go and see.”
+The inside of the little house was in its way as much of a surprise as the maid; it was very different from what the outside would have led the visitor to expect. There was a fine Persian rug on the floor of the narrow hall, and plenty of light came in from a window halfway up the staircase. Affixed to the red walls were plaster casts of hands, forming a curious, uncanny kind of decoration.
+After the maid had gone upstairs Ivy Lexton felt a sudden impulse “to cut and run.” A pound note meant a great deal to her just now. But as she was turning towards the front door, the woman came down the steep stairs of the old house.
+“Mrs. Thrawn will see you,” she said. Then she turned and preceded the visitor up the staircase.
+As they reached the landing the maid murmured:
+“Mrs. Thrawn won’t be a moment.”
+Ivy Lexton looked round her nervously. There were evidently two rooms on this floor﻿—the front room, of which the blinds were down, and a back room, of which the door was masked by a heavy embroidered green silk curtain. On the patch of wall which formed the third side of the landing was a dark oil painting, bearing on its tarnished gold frame the inscription in black letters, “The Witch.” The subject was that of a white-haired woman being burnt alive, while an evil-looking crowd gloated over the hideous sight.
+There came the tinkle of a bell.
+“Mrs. Thrawn will see you now,” said the woman shortly, drawing back the curtain to show a door already ajar.
+“Come in!” called a full, resonant voice.
+Feeling excited and curious, for this was the first time she had ever been to a fortune-teller, Ivy brushed past the maid.
+Then she felt a pang of disappointment. The room before her was so very ordinary﻿—just an old-fashioned back drawing-room, containing one or two good pieces of furniture, while on the chimneypiece stood a row of silver-gilt Indian ornaments.
+Even the soothsayer, the obvious owner of this room, impressed her client as being almost commonplace. At any rate there was nothing mysterious or romantic about her appearance. She was a tall, powerful-looking woman, nearer sixty than fifty. Her grey hair was cut short, and she was clad in an old-fashioned tea-gown, of bright blue cashmere, which fell from her neck to her feet in heavy folds.
+The most remarkable feature of Mrs. Thrawn’s face was her eyes. They were light hazel, luminous, compelling eyes, and as Ivy Lexton advanced rather timidly towards her they became dilated, as if with a sudden shock of gripping, overwhelming surprise.
+Yet nothing could have appeared at once more simple and more attractive than this lovely girl who wanted to take a peep into the future. Ivy Lexton looked almost a child in her flesh-coloured cotton frock and the simple pull-on brown hat which framed her exquisite little face.
+Making a determined effort over herself, Mrs. Thrawn withdrew her astonished and, indeed, affrighted, glance from her visitor, and said coldly, “I cannot give you long this morning, for I have an appointment”﻿—she looked at her wristwatch﻿—“in twenty minutes. I suppose you know my fee is a pound, paid in advance?”
+Ivy felt a touch of resentment. Only twenty minutes for a whole pound? Yet she was beginning to feel the compelling power of the woman, and so, slowly, she took the one-pound note that remained to her out of her bag.
+Mrs. Thrawn slipped the note into one of the patch pockets of her gown, and motioned her visitor to a low stool, while she sat down, herself, in a big armchair opposite. For a moment Ivy felt as she had felt when as a little girl she was going to be scolded.
+“We will begin with your hands. No! Not like that. Your left hand first, please, and the back to start with.”
+As she took Ivy’s hand in her cool firm grasp Mrs. Thrawn said quietly, “I need not tell you that you have amazing powers of﻿—well, keeping your own counsel, when it suits you to do so.”
+Then she turned the hand she held over, and taking a small lens out of the pocket where now lay Ivy’s one-pound note, she closely scrutinised the lines crisscrossing the rosy palm.
+“You’ve the most extraordinary fate-line that I’ve ever seen﻿—and that’s saying a very great deal,” she observed.
+“What I want to know,” began Ivy eagerly, “is﻿—”
+“Whether there is going to be any change for the better in your life?”
+The fortune-teller waited a moment, and, lifting her head, she gave her client a long measuring look. “Yes, there is going to be a great change in your life. But as to whether it will be for the better or for the worse﻿—?”
+Mrs. Thrawn hesitated for what seemed to the other a long time. But at last she exclaimed, “From your point of view I should say ‘for the better,’ for I see money, a great deal of money, coming your way.”
+Ivy turned crimson, so great were her surprise and joy.
+“Will it be soon?” she asked eagerly.
+“Very soon﻿—in a few hours from now.”
+“Are you sure?”
+“Quite sure.”
+Mrs. Thrawn lifted her great head, and again she looked at her visitor fixedly.
+“May I speak plainly? Will you try not to be offended at what I’m going to say?”
+“Nothing you say could offend me,” cried Ivy in her prettiest manner. “You don’t know how happy you’ve made me!”
+“I do know. But, though I don’t suppose you will ever believe it, money is not everything, Mrs.﻿—”
+“﻿—Lexton.”
+The name slipped out. After all, why shouldn’t she tell Mrs. Thrawn her name? Yet she was sorry she had done so a few moments later, for the fortune-teller, leaning forward, exclaimed harshly:
+“Now for the powder after the jam! I sense that you are engaged in an illicit love affair fraught to you, and to others also, with frightful danger.”
+Once more Ivy’s face crimsoned under her clever makeup, but this time with fear and dismay. Her eyes fell before the other woman’s hard scrutiny.
+“Wrong is, of course, a matter of conscience, and I know you think you have nothing to be ashamed of. But you are leading a fine soul astray, and evil influences are gathering round you.”
+“I know that I’ve done wrong,” faltered Ivy, frightened and perplexed by Mrs. Thrawn’s manner, rather than by her warning.
+The other said sharply, “You know nothing of the sort! You’ve not got what I call a conscience, Mrs. Lexton. But a conscience nowadays is a very old-fashioned attribute. Many a young woman would hardly know what to do with one if she had it!”
+Ivy did not know what to answer, and felt sorry indeed that she had let this censorious, disagreeable person know her name.
+“For your own sake,” went on Mrs. Thrawn earnestly, “break with this man who loves you. For one thing, ‘it’s well to be off with the old love before you are on with the new.’ ”
+“Then there is going to be another man in my life?” Ivy asked eagerly.
+“I see a stranger coming into your life within a few hours from now. Whether his valuable friendship for you endures will entirely depend on yourself.”
+Mrs. Thrawn got up from her chair.
+“As we haven’t much time, I will now look into the crystal.”
+She drew down the blind of the one window in the room, and, going across to the writing-table, she took off it a heavy, round glass ball which looked like, and might indeed have been sold for, a paperweight. Then, moving forward a small, low table, she put it between herself and her visitor.
+“Don’t speak,” she said quickly. “Try to empty your mind of all thought.”
+Bending her head, she gazed into the crystal, and what seemed to Ivy Lexton a long time went by.
+In reality, it might have been as long as two minutes before Mrs. Thrawn began speaking again, this time in a quick, muffled voice.
+“I see you both now, you and the dark young man on whom you will bring unutterable misery and shame, and who will bring you distress and disappointment, if you do not break with him now, today. The safe way is still open to you, Mrs. Lexton, but soon it will be closed, and you will find yourself in a prison of your own making, and trapped﻿—trapped like a rat in a sinking ship.”
+Again there was a long, tense silence, and again Ivy began to feel vaguely frightened.
+The prediction of shame and misery to another meant very little, if indeed anything, to her. But distress and disappointment to herself? Ah! that was another thing altogether. Ivy very much disliked meeting with even trifling disappointments.
+Mrs. Thrawn looked up. All the brilliance had gone out of her curious, luminous eyes.
+“I fear you will not follow the better way,” she said slowly. “Indeed, I sense that you are making up your mind not to follow it, unless the doing so falls in with your other plans. I see this dark young man’s destiny closely intertwined with your life. He will bear the scars you are about to inflict on him to his grave, and that whether he lives but a few months, or a long lifetime. You do not what you call love him any more. But he loves you as you have never yet been loved, and never will be.”
+Her voice softened and became low and pitiful, for the girl who was now gazing at her with a surprised, frightened expression on her exquisite face looked too young to be what the soothsayer believed her to be, that is, already doomed, unless she altered her whole way of life, to suffer terrible things.
+“As woman to woman, let me give you a word of advice, Mrs. Lexton. For your own sake try to follow it.”
+“I will!” cried Ivy sincerely.
+“Do not be afraid of poverty﻿—” And then, as she saw the other’s instinctive recoil, “Poverty does not touch the likes of you with its cold finger,” and Mrs. Thrawn gave an eerie laugh. “If you are wise, if you do what is still open to you to do, you will have ups and downs, but the ups will predominate, and there will always be some man, even when you become what I should call an old woman, who will be proud, yes, proud, to be your banker.”
+“Do you see something nice coming for me soon in that glass ball?” asked Ivy nervously.
+She longed, secretly, to be told something more of the new man who was coming into her life.
+Mrs. Thrawn bent over the cloudy crystal. Then she muttered:
+“The pictures are forming. They are coming thick and fast. And﻿—but no, I will not tell you what I see, for what I am seeing may not concern you at all. It may concern the future of the woman who is now on my doorstep﻿—”
+And, as she said the word “doorstep,” the old-fashioned house-bell pealed through the house.
+Mrs. Thrawn rose and put her crystal back on the writing-table. Then she pulled up the blind.
+“We’ve only a few moments left. But I’m going, for my own satisfaction,” she interjected in a singular tone, “to tell your fortune by the cards.”
+As she spoke she took a pack of cards out of the drawer of her writing-table, and sank down again into her chair.
+“Now, cut.”
+After Ivy had obeyed, the soothsayer rapidly dealt out the cards. Then she put down her finger on the queen of hearts.
+“This card stands for you,” she dragged her finger along. “And here is the king of diamonds, the man who is coming into your life, and who will give you money, much money. Even so﻿—” she shook her head, “you will never be able to count on him as you can count on the man who is still bound to you, and whom I bid you cast out of your life at once﻿—at once.”
+She swept the cards together and rose from her chair.
+“I saw trouble in your hand; I saw trouble in the crystal; I saw great trouble in the cards. Yet, Mrs. Lexton, you are not a woman who troubles trouble before trouble troubles you. Even so, unless you follow my advice about your present lover, I see misfortune galloping towards you like a riderless horse.”
+“But you do still believe that I’m going to get a lot of money?” Ivy asked pleadingly. “Did the cards tell you that also?”
+“Yes, the cards told me that also.”
+From outside the door came the sound of footsteps.
+“One last word﻿—one last warning. When you came into this room you were not alone, Mrs. Lexton.”
+Ivy stared at her. What could Mrs. Thrawn mean? Of course she had been alone!
+“You were accompanied, surrounded, by a huge mob of men and women, invisible to you, but visible to me. Are you an actress?”
+“I was an actress, for a little while, before I married,” said Ivy, smiling. “And I’d love to go back on the stage, but only as a leading lady, of course.”
+“Given certain eventualities, you will become of great moment, of absorbing interest, to hundreds of thousands of people. Men and women will fight over you﻿—the newspapers will record your every movement.”
+Ivy smiled self-consciously. This last unexpected prediction gave her a thrill of pleasurable excitement. What could it mean but a triumphant return to the stage, of which she had been hitherto only a humble and transient ornament?
+“There is a woman already in your life﻿—I see her now standing behind you. She is a grey-haired, worn-looking old woman. If you fail to do what I advise you to do, she will play an overwhelming part in your destiny. Indeed it is she who may determine your fate.”
+Then she turned, and taking a tiny silver-gilt bell off the mantelpiece she rang it sharply.
+The door opened, and the maid pulled aside the heavy curtain. There was no stranger waiting on the landing. Ivy looked so surprised that the woman smiled. “Mrs. Thrawn doesn’t like her clients to cross one another. The lady who has just come in is waiting in the front room.”
+As Mrs. Thrawn’s late visitor walked quickly down the Embankment towards the place for which she was bound, she felt more really lighthearted than she had felt for, oh! such a long time. Money coming her way﻿—and a new man in her life? That was all Ivy Lexton really remembered of that curious interview. The warnings Mrs. Thrawn had given her she put down to the soothsayer’s conventional outlook on life.
+As for the woman’s advice concerning Roger Gretorex, she ought to have known, being a fortune-teller, that she, Ivy, had already made up her mind to break with her secret lover. She could not, however, break with him today, for two reasons. First, she was going to ask him for a little money, and secondly, he was giving a theatre-party this evening. She, Ivy, her friend Rose Arundell, and Jervis Lexton were to be Gretorex’s guests, and he was taking them on, after the play, to supper at the Savoy. That had been settled days ago.
+Rose Arundell? She told herself vexedly that Rose would certainly “chuck.” In fact it was plain that Rose had forgotten all about tonight’s engagement, or she would have mentioned it in her letter. They would be three instead of four. But perhaps, after all, that didn’t really matter, for Jervis was quite fond of Roger.
+There was, however, a fly, albeit a small fly, in the ointment. There was no such person, there never had been, or, it seemed to her, could be, in her life, as a worn-looking, grey-haired woman. This fact made her feel a little doubtful, a little anxious, as to the truth of the fortune-teller’s other predictions.

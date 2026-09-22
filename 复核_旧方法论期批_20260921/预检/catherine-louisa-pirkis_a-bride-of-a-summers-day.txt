@@ -1,0 +1,135 @@
+ (24 files)
+  块: O=329 C=329 OK | 段: EN=1248 CN=1250 !!差 -2
+     [不对称] 16-xvi.md                                            O=14 C=14 段EN=46 段CN=47
+     [不对称] 24-xxiv.md                                           O=16 C=16 段EN=79 段CN=80
+  英文残留(剔括注) top: Sub×3, signo×3, et×3, sub×3, rosa×3, M'sieu×2, chapeau×2, comme×2, huepe×2, Auricomus×1
+  项目说明备注: - 原书章节标题为罗马数字（## I … ## XXIV），源文文件已加两位数字前缀（01-i.md … 24-xxiv.md）保证队列顺序=阅读顺序；**标题中的罗马数字照搬不译**。 / - 文中夹杂法语（*Mais oui, M'sieu* 等）与意大利语，为原作风味：**保留原文斜体，首次出现处可加简短中译注**，全书统一。 / - 度量衡（英里、英镑/法郎等）保留原单位，必要时括注公制换算，全书统一。
+  -- 术语表硬约束行 127 条:
+     Ida                            → 艾达                   源×205   译×209  
+     Juliet                         → 朱莉叶                  源×213   译×213  
+     George, fifth Baron Culvers /  → 乔治，第五代卡尔弗斯男爵 / 卡尔弗斯勋 源×141   译×143  
+     Captain Sefton Culvers         → 塞夫顿·卡尔弗斯上尉           源×1     译×1    
+     Lady Culvers / Miss Pigott / " → 卡尔弗斯夫人（娘家皮戈特，绰号「佩吉」） 源×38    译×30   
+     Clive Redway                   → 克莱夫·雷德韦              源×7     译×7    
+     Joshua Redway                  → 约书亚·雷德韦              源×3     译×3    
+     Arthur Glynde                  → 亚瑟·格林德               源×11    译×11   
+     Mrs. Glynde                    → 格林德太太                源×22    译×22   
+     Miss Skinner / John Skinner    → 斯金纳小姐 / 约翰·斯金纳       源×6     译×6    
+     the MacNamaras / Lily MacNamar → 麦克纳马拉家 / 莉莉·麦克纳马拉    源×3     译×3    
+     the Adeanes                    → 阿迪恩家                 源×1     译×1    
+     Marie Schira                   → 玛丽·希拉                源×12    译×12   
+     Madame Verdi                   → 维尔迪夫人                源×4     译×4    
+     Father Baldwin                 → 鲍德温神父                源×2     译×2    
+     The Prefect                    → 警察总监                 源×13    译×13   
+     Violante                       → 薇奥兰特                 源×26    译×26   
+     The Marchese da Nava           → 达·纳瓦侯爵               源×1     译×2    
+     Francesca Xardez               → 弗朗切斯卡·沙尔德兹           源×3     译×3    
+     Giorno                         → 焦尔诺                  源×7     译×7    
+     Pippo                          → 皮波                   源×10    译×10   
+     "Peter the Calabrian"          → 「卡拉布里亚人彼得」           源×0     译×1     ★源0次(幽灵?) 残留「山中之皇、林中之王」×1
+     Jehu                           → 耶户                   源×3     译×3    
+     Stacy                          → 斯泰西                  源×4     译×4    
+     "Goody" / Margaret Pearson     → 「古迪」／本名玛格丽特·皮尔逊      源×1     译×0     ★译0次(未落位?) 残留「圣所」×2
+     the Bethunes                   → 贝休恩一家                源×1     译×1    
+     the Murrays                    → 默里一家                 源×2     译×1    
+     the Conroys                    → 康罗伊一家                源×1     译×1    
+     the St. Johns                  → 圣约翰夫妇                源×1     译×1    
+     the St. Maurs                  → 圣莫尔家                 源×1     译×1    
+     the Gordons                    → 戈登家                  源×1     译×1    
+     Aunt Sefton（Sefton's mother）   → 塞夫顿伯母（塞夫顿之母）         源×1     译×1    
+     Ditta Capelli / Andrea Capelli → 迪塔·卡佩利 / 安德烈亚·卡佩利    源×1     译×2    
+     Hastings                       → 黑斯廷斯                 源×8     译×8    
+     All Saints (church/churchyard) → 诸圣教堂（墓园）             源×17    译×6     落位偏低 6/17
+     Saint Clement's                → 圣克莱门特教堂              源×1     译×1    
+     Belgrave Square                → 贝尔格雷夫广场              源×3     译×3    
+     Chancery Lane                  → 大法官巷                 源×2     译×2    
+     Rue Vervien                    → 韦尔维安街                源×14    译×14   
+     Rue Bellarmine / Rue Corot     → 贝拉尔米纳街 / 科罗街         源×8     译×8    
+     Avenue de l'Opéra              → 歌剧大道                 源×1     译×1    
+     Naples                         → 那不勒斯                 源×11    译×13   
+     Florence                       → 佛罗伦萨                 源×11    译×12   
+     Calabria                       → 卡拉布里亚                源×6     译×8    
+     La Sila / the Sila Mountains   → 拉锡拉高原 / 锡拉山地         源×6     译×4    
+     Alta Lauria                    → 阿尔塔·劳里亚              源×21    译×21   
+     Cosenza                        → 科森扎                  源×4     译×4    
+     Dering / Dering station        → 迪林 / 迪林站             源×10    译×10   
+     the Hall                       → 府邸                   源×5     译×8    
+     Glynde Lodge                   → 格林德小筑                源×5     译×5    
+     Central Africa                 → 中部非洲                 源×4     译×4    
+     Albert Hall                    → 阿尔伯特音乐厅              源×2     译×2    
+     The Abruzzi                    → 阿布鲁齐                 源×2     译×2    
+     Magna Græcia                   → 大希腊                  源×1     译×1    
+     Ore                            → 奥尔                   源×1     译×1    
+     Tackleway                      → 塔克尔韦                 源×1     译×1    
+     Marina                         → 海滨步道                 源×1     译×1    
+     Saint Leonard's railway-statio → 圣伦纳德火车站              源×1     译×2    
+     Deeside                        → 迪河畔                  源×1     译×1    
+     Henley                         → 亨利                   源×1     译×1    
+     Westminster Abbey              → 威斯敏斯特教堂              源×1     译×1    
+     Northamptonshire               → 北安普敦郡                源×1     译×1    
+     Goodwood                       → 古德伍德                 源×1     译×1    
+     Hôtel Bristol                  → 布里斯托尔旅馆              源×2     译×2    
+     Devon                          → 德文郡                  源×4     译×4    
+     Lombard Street                 → 朗巴德街                 源×1     译×1    
+     The Cape                       → 好望角                  源×4     译×4    
+     West End                       → （伦敦）西区               源×1     译×0     ★译0次(未落位?)
+     Biarritz                       → 比亚里茨                 源×1     译×1    
+     Caréno                         → 卡雷诺                  源×2     译×2    
+     Buffaloria                     → 布法洛里亚                源×1     译×1    
+     Madeira                        → 马德拉                  源×1     译×1    
+     Bethnal Green                  → 贝斯纳尔格林               源×1     译×1    
+     “Saint Mary, Star of the Sea”  → 「海星圣母」教堂             源×0     译×2     ★源0次(幽灵?)
+     Royal Hussars                  → 皇家骠骑兵团               源×1     译×1    
+     Horse Guards                   → 近卫骑兵队（伦敦陆军部所在地）      源×2     译×2    
+     Carabinieri                    → （意大利）宪兵              源×1     译×0     ★译0次(未落位?)
+     Salvation Army                 → 救世军                  源×2     译×3    
+     Scotch reel                    → 苏格兰里尔舞               源×1     译×1    
+     baccarat / brandy（the two B's） → 巴卡拉纸牌 / 白兰地          源×4     译×4    
+     fly（出租马车）                      → 单马小马车                源×1     译×1    
+     dowager                        → （守寡的）老夫人             源×1     译×0     ★译0次(未落位?)
+     governess / chaperon           → 家庭女教师 / 陪护人          源×5     译×8    
+     Lady Clara Vere de Vere        → 克拉拉·维尔·德·维尔小姐        源×1     译×1    
+     Gaze's / Cook's                → 盖兹旅行社 / 库克旅行社        源×2     译×2    
+     Stanley and Livingstone        → 斯坦利 / 利文斯通           源×1     译×2    
+     Camberwell Beauty              → 「坎伯韦尔美人」蝶（黄缘蛱蝶）      源×1     译×0     ★译0次(未落位?)
+     Condy's fluid                  → 康迪药水                 源×0     译×1     ★源0次(幽灵?)
+     Messrs. Hunt and Locke         → 亨特与洛克律师事务所           源×3     译×2    
+     Carmelite Friars（教堂）           → 加尔默罗会教堂              源×1     译×2    
+     *Red Cotton Nightcap Country*  → 《红棉睡帽之乡》             源×1     译×1    
+     Phillips                       → 菲利普斯                 源×3     译×3    
+     Ivanoff                        → 伊万诺夫                 源×1     译×1    
+     patient Griselda               → 隐忍的格丽泽尔达             源×1     译×1    
+     *un fait accompli*             → 既成事实                 源×1     译×1    
+     Mr. Redway（克莱夫之父）              → 雷德韦先生                源×10    译×11   
+     Palais de Justice              → 司法宫                  源×2     译×2    
+     Commissaire of Police          → 警察分局局长               源×1     译×1    
+     *Sub signo et sub rosa*        → 凭此记号，且守秘密            源×3     译×3    
+     de trop                        → 多余的人                 源×1     译×1    
+     Champs Élysées                 → 香榭丽舍大街               源×1     译×1    
+     Bois de Boulogne               → 布洛涅林苑                源×1     译×1    
+     *Figaro*                       → 《费加罗报》               源×1     译×1    
+     Alpine Club                    → 阿尔卑斯俱乐部              源×1     译×1    
+     Porte Saint Martin             → 圣马丁门                 源×1     译×1    
+     Théâtre Beaumarchais           → 博马舍剧院                源×2     译×2    
+     Chantilly                      → 尚蒂伊                  源×1     译×1    
+     Johnson                        → 约翰逊                  源×2     译×2    
+     Martha / Mattie                → 马大 / 玛蒂              源×3     译×3    
+     Mary Skinner                   → 玛丽·斯金纳               源×0     译×0     ★源0次(幽灵?)
+     nom de guerre                  → 假名                   源×1     译×1    
+     café chantant                  → 咖啡音乐厅                源×1     译×1    
+     *chapeau comme ça*             → 「这样的帽子」              源×2     译×0     ★译0次(未落位?)
+     Garibaldi's Hymn               → 《加里波第颂歌》             源×1     译×1    
+     Sapphira                       → 撒非喇                  源×1     译×1    
+     Iris                           → 伊里斯                  源×1     译×1    
+     Browning（诗人）                   → 布朗宁                  源×1     译×1    
+     sprite Puck                    → 精灵帕克                 源×1     译×1    
+     Mars / Hector / Achilles       → 玛尔斯 / 赫克托耳 / 阿喀琉斯    源×3     译×3    
+     à la Marie Antoinette          → 照玛丽·安托瓦内特（发式）        源×1     译×1    
+     Ave Maria                      → 晚祷（Ave Maria）时分      源×1     译×1    
+     *fiumara*                      → 菲乌马拉（干涸的山洪河道）        源×1     译×1    
+     Calabrese                      → 「卡拉布雷斯」土话            源×1     译×1    
+     *albergo*                      → 客栈                   源×2     译×8    
+     granita                        → 意式刨冰                 源×1     译×1    
+     *Army List* / *Burke’s Peerage → 《陆军名录》/《伯克贵族谱系》      源×2     译×2    
+     vendetta                       → 血族仇杀                 源×2     译×1    
+====================================================================================================

@@ -1,0 +1,58 @@
+## VIII Open Warfare
+Breakfast that morning showed every promise of being a gloomy and uncomfortable meal.
+Wyatt had discreetly announced his uncle’s death, and the news had circulated amongst the guests with inevitable speed.
+The general opinion was that a tactful farewell and a speedy departure was the obvious procedure of the day. The story of the old man’s last wish had not tended greatly to alter anyone’s decision, as it was clear that no party was likely to be a success, or even bearable in such circumstances. The wishes of the dead seemed more kindly in intention than in fact.
+Wyatt seemed very crestfallen, and a great deal of sympathy was felt for him; events could not well have turned out more unfortunately for him. He sat at the end of the table, a little paler than usual, but otherwise the same graceful, courteous scholar as ever. He wore the coloured tie of one of the more obscure Oxford clubs, and had not attempted to show any outward signs of mourning.
+Albert Campion, looking none the worse for his nocturnal adventure, sat next to Anne Edgeware. They were talking quietly together, and from the sullen look upon Chris Kennedy’s handsome face it was evident to anybody who cared to see that the irrepressible young lady was indulging in the harmless feminine sport of encouraging one admirer in order to infuriate and thereby gain the interest of another more valued suitor﻿—even though the occasion was so inauspicious. Mr. Campion was amazingly suited to his present role, and in low tones they planned their journey back to town together. Coming departures were indeed a subject for the general conversation of the rather dispirited assembly in the big sunlit hall.
+Michael Prenderby was late for breakfast, and he came in, a trifle flushed and hurried, and took his place at the table between little Jeanne Dacre, his fiancée, and Martin Watt, the black-haired beaky youngster whom Meggie had described as “Just a stray young man.” He was, in point of fact, a chartered accountant in his father’s office, a pleasing youth with more brains than energy.
+Neither Gideon nor Dawlish had appeared, nor had places been set for them, but the moment that Prenderby sat down and the number of the guests was completed, the door opened and the two men who most interested Abbershaw in the house that day walked into the room.
+Dawlish came first, and in the sunlight his face appeared more unprepossessing than it had seemed on the evening before. For the first time it became apparent what an enormous man he was.
+He was fat to the point of grossness, but tall with it, and powerfully built. The shock of long grey hair, brushed straight back from the forehead, hung almost to his shoulders, and the eyes, which seemed to be the only live thing in his face, were bright now and peculiarly arresting.
+Gideon, who came in behind him, looked small and insignificant by comparison. He was languid and sinuous as before, and he glanced over the group of young people round the table with a thoughtful, mildly appraising eye, as if he were estimating their combined weight﻿—or strength.
+Wyatt looked up as they came in and bade them a polite “Good morning.” To everyone’s surprise they ignored him.
+Dawlish moved ponderously to the top of the table, where he stood looking round at the astonished faces, with no expression on his own.
+“Let there be silence,” he said.
+The words were so utterly unexpected and out of keeping with the situation that it is probable that a certain amount of amusement would have greeted them had not the tone in his deep Teutonic voice been singularly menacing.
+As it was, the silence was complete, and the German went on, his expression still unchanged so that it seemed that his voice came to them through a mask.
+“Something has been lost,” he said, dividing the words up as he uttered them and giving equal emphasis to each. “It must be returned to me. There is no need to explain what it is. Whoever has stolen it will know of what I speak.”
+At this colossal piece of impudence a sensation ran round the table, and Wyatt sprang to his feet. He was livid with anger, but he kept his voice under perfect control, and the polished intensity of his icy tone contrasted sharply with the other’s heavy rudeness.
+“Mr. Dawlish,” he said, “I think your anxiety to recover your property has upset your sense of proportion. Perhaps you are aware that you are a guest in a house that is mine, and that the people that you have just insulted are my guests also. If you will come to me after breakfast﻿—before you go﻿—I will do all I can to institute a proper search for the thing you have mislaid.”
+The German did not move. He stood at the head of the table and stared unblinkingly at the man before him.
+“Until it is returned to me nobody leaves this house,” he said, the same solid force behind his tone. Wyatt’s snub he did not appear to have heard. A faint wave of colour passed over the young man’s pale face, and he turned to the others, who were staring from one to the other in frank astonishment.
+“I must apologize,” he said. “I ask you to forgive this extraordinary display. My uncle’s death appears to have turned this unfortunate man’s brain.”
+Dawlish turned.
+“That young man,” he said. “Let him sit down and be quiet.”
+Gideon smiled at Wyatt, and the look on his grey decadent face was an insult in itself.
+“My dear Mr. Petrie,” he said, and his peculiarly oily voice was suave and ingratiating, “I don’t think you quite realize the position you are in, you and your friends. Consider: this house is two miles from the public road. There is no telephone. We have two women servants and six men and a gatekeeper. All of these people are in Mr. Dawlish’s employ. Your cars have been drained of petrol. I am afraid you are entirely helpless.” He paused, and allowed his glance to take in the amazed expressions round the table.
+“It would be better,” he continued, “to listen rationally, for I must warn you, my friend Mr. Dawlish is not a man who is accustomed to any opposition to his wishes.”
+Wyatt remained on his feet; his face had grown slowly paler, and he was now rigid with barely controlled fury.
+“Gentlemen, this farce has gone on long enough,” he said, in a voice which quivered in spite of himself. “If you will please go away we will get on with our breakfast.”
+“Sit down!”
+The words were uttered in a sudden titanic bellow, though but for the obvious fact that Gideon was incapable of producing so much noise there was nothing upon Benjamin Dawlish’s face to betray that it was he who had shouted.
+Wyatt started; the limit of his patience had come. He opened his mouth to speak, to assert his authority. Then, quite suddenly, he dropped back into his chair, his eyes dilating with as much surprise as fear. He was looking into the black barrel of a revolver.
+The German stood stolidly, absolutely immobile, the dangerous little weapon levelled in one ponderous hand. “Here,” he said in his unwieldy English, “there is one who has what I seek. To him I speak. When he returns to me what he has taken you shall all go free. Until then no one leaves this house﻿—no one at all.”
+In the silence which followed this extraordinary announcement Jesse Gideon moved forward.
+“If Mr. Dawlish were to receive his property immediately it would save us all a great deal of inconvenience,” he murmured.
+For several seconds there was no movement in the room, and the singing of the birds in the greenery outside the windows became suddenly very noticeable.
+Then Albert Campion coughed discreetly and handed something wrapped up in his table napkin to the girl who sat next him.
+She passed it to her neighbour, and in utter stillness it went the whole length of the table until Gideon pounced on it avidly and set it before the German on the table. With a grunt of satisfaction the big man thrust the revolver into his coat pocket and threw aside the white napery. Then an exclamation of anger escaped him, and he drew back so that Mr. Campion’s offering lay exposed.
+It was a breakfast egg, the very one, in fact, which the fatuous young man had been on the verge of broaching when the extraordinary interruptions had occurred.
+The effect was instantaneous; the reaction from the silent tension of a moment before complete.
+The entire table shook with laughter.
+The German stood stiffly as before. There was still no expression of any sort upon his face, and his little eyes became dull and lifeless.
+Gideon, on the other hand, betrayed his anger vividly. His eyes were narrowed with fury and his long thin lips were drawn back over his teeth like an angry dog’s. Gradually the laughter subsided. Benjamin Dawlish’s personality was one that could not be ignored for long. When at last there was perfect silence in the room he put his hand in his pocket and drew out his revolver again.
+“You laugh,” he said heavily. “I do not laugh. And she, the little one,” he tossed the gun in his hand with incredible delicacy for one who looked so clumsy, “*she does not laugh either*.”
+The last words were uttered with such amazing ferocity that his hearers started involuntarily, and for an instant there appeared upon the heavy face, which hitherto had seemed immovable, an expression of such animalic violence that not one at that table looked him in the eyes.
+A moment later his features had relapsed into their usual stolidity, and followed by Jesse Gideon he walked slowly from the room.
+As the door closed behind them, the silence became painful, and at last a fitful, uneasy conversation broke out.
+“What an unpleasant old bird!” said Prenderby, looking at Abbershaw. He spoke lightly, but there was a worried expression in his eyes; one hand rested over his fiancée’s, who sat very pale by his side apparently on the verge of tears. Even Anne Edgeware’s magnificent sangfroid seemed a little shaken, and Meggie, although the least alarmed of the three girls, looked very white.
+Wyatt was still angry. He gave up trying to apologize for the incident, however, and joined with the others in discussing it.
+“He’s loony, of course,” said Martin Watt lazily. “Campion got his goat beautifully, I thought.”
+“Still, even if he is potty, if what he says is true, things are going to be pretty sportive,” remarked Chris Kennedy cheerfully. “I fear I may be called upon to bash his head in.”
+Abbershaw rose to his feet.
+“I don’t know what you think, Wyatt,” he said, “but it occurs to me that it might be an idea if we all went into the other room and talked this thing over. The servants won’t disturb us there. I don’t think there’s any real danger,” he went on reassuringly, “but perhaps we ought to find out if what Gideon says about the cars is true.”
+Chris Kennedy got up eagerly.
+“I’ll toddle down and discover, shall I?” he said. “Really﻿—I should like to,” he added, as Wyatt regarded him doubtfully, and he went off whistling.
+The party adjourned to the next room as Abbershaw had suggested. They still talked lightly, but there was a distinctly constrained atmosphere amongst them. Jeanne was frankly scared, Anne Edgeware out of her depth, and the rest apprehensive.
+Abbershaw was the last to step into the enormous hall that was now a blaze of sunlight. It poured in through long diamond-paned windows, glinted on the polished floor, and shone softly on Tudor rose and linenfold. But it was not these which caught his eye and made him start back with a half-concealed exclamation.
+Over the far fireplace, set in the circle of lance-heads, its clear blade dazzling in the sun and gleaming as brightly as if it had never left its plaque, sinister and beautiful, was the Black Dudley Dagger.

@@ -1,0 +1,206 @@
+### The Cowboys’ Christmas Ball
+Way out in Western Texas, where the Clear Fork’s waters flow,
+ 
+
+ Where the cattle are “a-browzin’ ” and the Spanish ponies grow;
+ 
+
+ Where the Norther “comes a-whistlin’ ” from beyond the Neutral strip
+ 
+
+ And the prairie dogs are sneezin’, as if they had “the Grip”;
+ 
+
+ Where the coyotes come a-howlin’ round the ranches after dark,
+ 
+
+ And the mocking-birds are singin’ to the lovely “medder lark”;
+ 
+
+ Where the possum and the badger, and rattle-snakes abound,
+ 
+
+ And the monstrous stars are winkin’ o’er a wilderness profound;
+ 
+
+ Where lonesome, tawny prairies melt into airy streams,
+ 
+
+ While the Double Mountains slumber in heavenly kinds of dreams;
+ 
+
+ Where the antelope is grazin’ and the lonely plovers call﻿—
+ 
+
+ It was there that I attended “The Cowboys’ Christmas Ball.”
+The town was Anson City, old Jones’s county seat,
+ 
+
+ Where they raise Polled Angus cattle, and waving whiskered wheat;
+ 
+
+ Where the air is soft and “bammy,” an’ dry an’ full of health,
+ 
+
+ And the prairies is explodin’ with agricultural wealth;
+ 
+
+ Where they print the *Texas Western*, that Hec. McCann supplies,
+ 
+
+ With news and yarns and stories, of most amazin’ size;
+ 
+
+ Where Frank Smith “pulls the badger,” on knowin’ tender feet,
+ 
+
+ And Democracy’s triumphant, and mighty hard to beat;
+ 
+
+ Where lives that good old hunter, John Milsap from Lamar,
+ 
+
+ Who “used to be the sheriff, back East, in Paris, sah!”
+ 
+
+ ’Twas there, I say, at Anson, with the lively “Widder Wall,”
+ 
+
+ That I went to that reception, “The Cowboys’ Christmas Ball.”
+The boys had left the ranches and come to town in piles;
+ 
+
+ The ladies﻿—“kinder scatterin’ ”﻿—had gathered in for miles.
+ 
+
+ And yet the place was crowded, as I remember well,
+ 
+
+ ’Twas got for the occasion at “The Morning Star Hotel.”
+ 
+
+ The music was a fiddle and a lively tambourine,
+ 
+
+ And a “viol come imported,” by stage from Abilene.
+ 
+
+ The room was togged out gorgeous﻿—with mistletoe and shawls,
+ 
+
+ And candles flickered frescoes around the airy walls.
+ 
+
+ The “wimmin folks” looked lovely﻿—the boys looked kinder treed,
+ 
+
+ Till their leader commenced yellin’: “Whoa, fellers, let’s stampede.”
+ 
+
+ The music started sighin’ and a-wailin’ through the hall,
+ 
+
+ As a kind of introduction to “The Cowboys’ Christmas Ball.”
+The leader was a fellow that came from Swenson’s Ranch,
+ 
+
+ They called him “Windy Billy,” from “little Dead-man’s Branch.”
+ 
+
+ His rig was “kinder keerless,” big spurs and high-heeled boots;
+ 
+
+ He had the reputation that comes when “fellers shoots.”
+ 
+
+ His voice was like the bugle upon the mountain’s height;
+ 
+
+ His feet were animated, an’ a *mighty movin’ sight*,
+ 
+
+ When he commenced to holler, “Neow, fellers, stake yer pen!
+ 
+
+ Lock horns to all them heifers, an’ russle ’em like men.
+ 
+
+ Saloot yer lovely critters; neow swing an’ let ’em go,
+ 
+
+ Climb the grape vine round ’em﻿—all hands do‑ce‑do!
+ 
+
+ You Mavericks, jine the round-up﻿—Jest skip her waterfall,”
+ 
+
+ Huh! hit wuz gittin’ happy, “The Cowboys’ Christmas Ball!”
+The boys were tolerable skittish, the ladies powerful neat,
+ 
+
+ That old bass viol’s music *just got there with both feet*.
+ 
+
+ That wailin’ frisky fiddle, I never shall forget;
+ 
+
+ And Windy kept a singin’﻿—I think I hear him yet﻿—
+ 
+
+ “O Xes, chase your squirrels, an’ cut ’em to one side,
+ 
+
+ Spur Treadwell to the center, with Cross P. Charley’s bride,
+ 
+
+ Doc. Hollis down the middle, an’ twine the ladies’ chain,
+ 
+
+ Varn Andrews pen the fillies in big T. Diamond’s train.
+ 
+
+ All pull yer freight tergether, neow swallow fork an’ change,
+ 
+
+ ’Big Boston’ lead the trail herd, through little Pitchfork’s range.
+ 
+
+ Purr round yer gentle pussies, neow rope ’em! Balance all!”
+ 
+
+ Huh! hit wuz gittin’ active﻿—“The Cowboys’ Christmas Ball!”
+The dust riz fast an’ furious, we all just galloped round,
+ 
+
+ Till the scenery got so giddy, that Z Bar Dick was downed.
+ 
+
+ We buckled to our partners, an’ told ’em to hold on,
+ 
+
+ Then shook our hoofs like lightning until the early dawn.
+ 
+
+ Don’t tell me ’bout cotillions, or germans. No sir ’ee!
+ 
+
+ That whirl at Anson City just takes the cake with me.
+ 
+
+ I’m sick of lazy shufflin’s, of them I’ve had my fill,
+ 
+
+ Give me a fronteer breakdown, backed up by Windy Bill.
+ 
+
+ McAllister ain’t nowhere! when Windy leads the show,
+ 
+
+ I’ve seen ’em both in harness, an’ so I sorter know﻿—
+ 
+
+ Oh, Bill, I shan’t forget yer, and I’ll oftentimes recall,
+ 
+
+ That lively-gaited sworray﻿—“The Cowboys’ Christmas Ball.”
+Larry Chittenden in “Ranch Verses.”

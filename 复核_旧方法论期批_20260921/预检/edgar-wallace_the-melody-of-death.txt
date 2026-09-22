@@ -1,0 +1,133 @@
+ (16 files)
+  块: O=405 C=405 OK | 段: EN=1839 CN=1845 !!差 -6
+     [不对称] the-fourth-man.md                                    O=27 C=27 段EN=102 段CN=104
+     [不对称] the-melody-in-f.md                                   O=24 C=24 段EN=117 段CN=118
+     [不对称] the-place-where-the-loot-was-stored.md               O=31 C=31 段EN=183 段CN=184
+     [不对称] the-wife-who-did-not-love.md                         O=31 C=31 段EN=189 段CN=191
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 124 条:
+     Commissioner of Police         → 警察总监                 源×0     译×1     ★源0次(幽灵?)
+     Chief Commissioner of Police   → 警察总监                 源×1     译×0     ★译0次(未落位?)
+     Gilbert Standerton             → 吉尔伯特·斯坦德顿            源×27    译×27   
+     General Sir John Standerton    → 约翰·斯坦德顿爵士将军          源×2     译×2    
+     George Wallis                  → 乔治·沃利斯               源×18    译×18   
+     Leslie Frankfort               → 莱斯利·弗兰克福特            源×13    译×13   
+     Jack Frankfort                 → 杰克·弗兰克福特             源×15    译×15   
+     Edith                          → 伊迪丝                  源×86    译×85   
+     Mrs. Cathcart                  → 卡思卡特夫人               源×77    译×77   
+     Inspector Goldberg             → 戈德堡探长                源×5     译×5    
+     Chief Inspector Goldberg       → 戈德堡总探长               源×1     译×1    
+     Smith                          → 史密斯                  源×11    译×11   
+     Persh                          → 佩什                   源×18    译×18   
+     Callidino                      → 卡利迪诺                 源×16    译×16   
+     Tomlins                        → 汤林斯                  源×1     译×1    
+     Springs                        → 斯普林斯                 源×4     译×4    
+     Dr. Barclay-Seymour            → 巴克利-西摩医生             源×4     译×4    
+     Rahbat                         → 拉巴特                  源×1     译×1    
+     Warrell                        → 沃雷尔                  源×37    译×35   
+     Messrs. Warrell & Bird         → 沃雷尔-伯德律师事务所          源×1     译×2    
+     Foreign Office                 → 外交部                  源×16    译×16   
+     Scotland Yard                  → 苏格兰场                 源×3     译×4    
+     C.I.D.                         → 刑事部                  源×1     译×2    
+     Bank of the Northern Provinces → 北方诸省银行               源×2     译×3    
+     The Residency                  → 官邸                   源×4     译×4    
+     Charing Cross Road             → 查令十字路                源×5     译×5    
+     Charing Cross Station          → 查令十字车站               源×1     译×1    
+     Haymarket                      → 海马克                  源×1     译×1    
+     Oxford Street                  → 牛津街                  源×1     译×1    
+     Hampstead                      → 汉普斯特德                源×1     译×1    
+     Belsize Park                   → 贝尔塞斯公园               源×1     译×1    
+     Chalk Farm Station             → 乔克法姆车站               源×1     译×1    
+     Huntingdon                     → 亨廷登                  源×2     译×2    
+     Mayfair                        → 梅费尔                  源×1     译×1    
+     Aldershot                      → 奥尔德肖特                源×1     译×1    
+     Southwark                      → 萨瑟克                  源×1     译×1    
+     Yorkshire                      → 约克郡                  源×2     译×2    
+     Fleet Street                   → 舰队街                  源×1     译×1    
+     King’s Cross                   → 国王十字车站               源×2     译×1    
+     St. John’s Wood                → 圣约翰林                 源×7     译×7    
+     Harrogate                      → 哈罗盖特                 源×1     译×1    
+     Brighton                       → 布莱顿                  源×1     译×1    
+     Leeds                          → 利兹                   源×4     译×4    
+     Montecatini                    → 蒙特卡蒂尼                源×1     译×1    
+     Lake Maggiore                  → 马焦雷湖                 源×1     译×1    
+     Hatton Garden                  → 哈顿花园                 源×8     译×8    
+     the old Jewry                  → 老朱瑞                  源×1     译×1    
+     Daily Monitor                  → 《每日监察报》              源×1     译×1    
+     City Proscenium Club           → 普罗西尼恩俱乐部             源×1     译×1    
+     Junior Terriers                → 小猎犬俱乐部               源×1     译×1    
+     Safe Agency                    → 保险柜商行                源×7     译×6    
+     St. Bride’s Safe Company       → 圣布莱德保险柜公司            源×2     译×2    
+     “Melody in F”                  → 《F大调旋律》              源×4     译×11   
+     Gilbert                        → 吉尔伯特                 源×197   译×197  
+     Standerton                     → 斯坦德顿                 源×43    译×43   
+     Cathcart                       → 卡思卡特                 源×3     译×3    
+     Wallis                         → 沃利斯                  源×95    译×97   
+     Wallis gang                    → 沃利斯匪帮                源×1     译×0     ★译0次(未落位?)
+     Calli                          → 卡利                   源×2     译×2    
+     Smithy                         → 史密西                  源×2     译×2    
+     George Smith                   → 乔治·史密斯               源×1     译×1    
+     Thomas Black                   → 托马斯·布莱克              源×1     译×1    
+     Mr. Brown                      → 布朗先生                 源×1     译×1    
+     Sir John                       → 约翰爵士                 源×21    译×16   
+     May Wing                       → 梅·温                  源×1     译×1    
+     Mrs. Gamage                    → 加米奇太太                源×2     译×2    
+     Dr. Cassylis                   → 卡西利斯医生               源×3     译×3    
+     Cole                           → 科尔                   源×3     译×3    
+     Tuppy Jones                    → 塔皮·琼斯                源×1     译×1    
+     Lady Perkinton                 → 珀金顿夫人                源×1     译×1    
+     Signor Villimicci              → 维利米奇先生               源×1     译×1    
+     Sergeant Colebrook             → 科尔布鲁克巡佐              源×1     译×1    
+     Inspector Whitling             → 惠特林探长                源×1     译×1    
+     Mrs. Skard                     → 斯卡德太太                源×3     译×3    
+     City Police                    → 伦敦市警察                源×3     译×4    
+     Sunstar                        → 太阳星                  源×2     译×1    
+     Derby / Derby Day              → 德比大赛／德比大赛日           源×5     译×4    
+     Epsom                          → 埃普索姆                 源×4     译×4    
+     Epsom Downs                    → 埃普索姆岗地               源×1     译×1    
+     Ascot                          → 阿斯科特                 源×1     译×1    
+     Portland Square                → 波特兰广场                源×3     译×3    
+     Hoxton                         → 霍克斯顿                 源×4     译×4    
+     Pexton Street                  → 佩克斯顿街                源×1     译×1    
+     Little Hatton Garden           → 小哈顿花园街               源×2     译×2    
+     Holborn                        → 霍尔本                  源×2     译×2    
+     Wardour Street                 → 沃德街                  源×1     译×1    
+     Regent Street                  → 摄政街                  源×1     译×1    
+     St. James's Street             → 圣詹姆斯街                源×1     译×1    
+     Harley Street                  → 哈利街                  源×1     译×1    
+     Sutton                         → 萨顿                   源×1     译×1    
+     Balham                         → 巴勒姆                  源×2     译×2    
+     Banstead                       → 班斯特德                 源×1     译×1    
+     Huntingdonshire                → 亨廷登郡                 源×1     译×1    
+     Doncaster                      → 唐卡斯特                 源×2     译×2    
+     Amsterdam                      → 阿姆斯特丹                源×1     译×1    
+     Devil's Island                 → 魔鬼岛                  源×2     译×2    
+     Alhambra                       → 阿罕布拉剧院               源×1     译×1    
+     Battersea Dogs' Home           → 巴特西狗之家               源×1     译×1    
+     Goldsmiths' Guild              → 金匠公会                 源×1     译×1    
+     Bond Guarantees                → 邦德担保公司               源×1     译×1    
+     Gilderheim, Pascoe and Company → 吉尔德海姆-帕斯科公司          源×1     译×1    
+     Bradshaw                       → 布拉德肖                 源×2     译×1    
+     Rubenstein                     → 鲁宾斯坦                 源×1     译×1    
+     Cheapside                      → 奇普赛德                 源×1     译×1    
+     St. Bride Street               → 圣布莱德街                源×1     译×1    
+     the City of London             → 伦敦金融城                源×4     译×5    
+     Throgmorton Street             → 斯罗格莫顿街               源×1     译×1    
+     Tinley                         → 廷利                   源×1     译×1    
+     Mr. Timmings                   → 蒂明斯先生                源×3     译×3    
+     Birmingham                     → 伯明翰                  源×2     译×2    
+     the Midlands                   → 中部地区                 源×1     译×2    
+     Chubb                          → 查布                   源×1     译×1    
+     the Embankment                 → 河滨大道                 源×1     译×1    
+     Canadian Pacifics              → 加拿大太平洋铁路股            源×3     译×3    
+     Stock Exchange                 → 证券交易所                源×9     译×8    
+     Lady Dynshird                  → 丁舍德夫人                源×1     译×1    
+     the Wings                      → 温家                   源×2     译×1    
+     Persia                         → 波斯                   源×1     译×1    
+     Arabia                         → 阿拉伯                  源×1     译×1    
+     Plato                          → 柏拉图                  源×1     译×1    
+     “Spring Song”                  → 《春之歌》                源×0     译×1     ★源0次(幽灵?)
+     Encyclopaedia Britannica       → 《不列颠百科全书》            源×1     译×1    
+     Ruff’s Guide to the Turf       → 《拉夫赛马指南》             源×1     译×1    
+     safe                           → 保险柜                  源×64    译×65   
+====================================================================================================

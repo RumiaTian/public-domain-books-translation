@@ -1,0 +1,154 @@
+====================================================================================================
+### anna-katharine-green_the-sword-of-damocles  (53 files)
+  块: O=905 C=905 OK | 段: EN=2463 CN=2469 !!差 -6
+     [不对称] blue-beard-s-chamber.md                              O=14 C=14 段EN=17 段CN=16
+     [不对称] departure.md                                         O=20 C=20 段EN=65 段CN=67
+     [不对称] in-mr-stuyvesant-s-parlors.md                        O=28 C=28 段EN=88 段CN=87
+     [不对称] miss-belinda-makes-conditions-2.md                   O=21 C=21 段EN=66 段CN=67
+     [不对称] sunshine-on-the-hills.md                             O=17 C=17 段EN=78 段CN=79
+     [不对称] the-man-cummins.md                                   O=18 C=18 段EN=50 段CN=52
+     [不对称] the-sword-of-damocles.md                             O=16 C=16 段EN=80 段CN=82
+  英文残留(剔括注) top: fuss×8, charm×1, delicate×1, quotations×1, of×1, fusses×1, fortune×1, Genius×1
+  项目说明备注: 见术语表.md。
+  -- 术语表硬约束行 140 条:
+     Mandeville                     → 曼德维尔                 源×18    译×19   
+     Selby                          → 塞尔比                  源×1     译×1    
+     Briggs                         → 布里格斯                 源×2     译×2    
+     Farrar                         → 法拉尔                  源×7     译×7    
+     Preston                        → 普雷斯顿                 源×24    译×24   
+     Forsyth                        → 福赛斯                  源×1     译×2    
+     Ensign                         → 恩赛                   源×55    译×52   
+     Cicely                         → 西塞莉                  源×66    译×54   
+     Cicely Stuyvesant              → 西塞莉·斯泰弗森特            源×2     译×2    
+     Edward Sylvester               → 爱德华·西尔维斯特            源×11    译×11   
+     Mrs. Sylvester / Ona           → 西尔维斯特夫人 / 奥娜         源×142   译×141  
+     Paula                          → 宝拉                   源×423   译×427  
+     Sarah                          → 莎拉                   源×12    译×9    
+     Count de Frassac               → 德·弗拉萨克伯爵             源×1     译×1    
+     Mrs. Forsyth Jones             → 福赛特·琼斯夫人             源×1     译×0     ★译0次(未落位?)
+     Lorenzo                        → 洛伦佐                  源×1     译×1    
+     Mrs. Fairchild                 → 费尔柴尔德夫人              源×5     译×6    
+     Roger Holt                     → 罗杰·霍尔特               源×14    译×14   
+     Jacqueline Japha               → 雅克琳·雅法               源×17    译×15   
+     Bertram (Sylvester)            → 伯特兰（·西尔维斯特）          源×207   译×210  
+     Tom                            → 汤姆                   源×2     译×3    
+     Elsie                          → 埃尔西                  源×3     译×3    
+     Sonsie                         → 桑西                   源×2     译×2    
+     Jack                           → 杰克                   源×1     译×1    
+     Jocko                          → 乔科                   源×2     译×2    
+     Colonel Japha                  → 杰法上校                 源×22    译×18   
+     Mr. Phelps                     → 费尔普斯先生               源×3     译×3    
+     Mr. Robert Holt                → 罗伯特·霍尔特先生            源×4     译×4    
+     Philip Longtree                → 菲利普·朗特里              源×1     译×1    
+     Mr. Turner                     → 特纳先生                 源×7     译×7    
+     Bird                           → 伯德                   源×12    译×1     落位偏低 1/12
+     Princess Louise                → 路易丝公主                源×1     译×1    
+     Queen Victoria                 → 维多利亚女王               源×1     译×1    
+     Miss Belinda / Aunt Belinda    → 贝琳达小姐 / 贝琳达姨母        源×95    译×88   
+     Miss Abby / Aunt Abby          → 阿比小姐 / 阿比姨母          源×14    译×15   
+     Mr. Wheelock                   → 威洛克先生                源×6     译×5    
+     Samuel                         → 塞缪尔                  源×8     译×8    
+     Michael                        → 迈克尔                  源×1     译×1    
+     Cummins                        → 库明斯                  源×5     译×4    
+     Fanning                        → 法宁                   源×6     译×6    
+     Squire                         → 乡绅                   源×2     译×2    
+     Beaufort (Sir Beaufort)        → 博福尔（博福尔爵士）           源×3     译×3    
+     Germain (brothers of / sons of → 日耳曼（兄弟/子嗣）           源×14    译×7     落位偏低 7/14
+     Hugh                           → 休                    源×2     译×15   
+     Enguerrand                     → 昂盖兰                  源×8     译×8    
+     Sassard (of the Mountains)     → 萨萨尔（山中萨萨尔）           源×9     译×9    
+     Morency                        → 莫朗西                  源×1     译×1    
+     Raoul                          → 拉乌尔                  源×1     译×1    
+     Maurice                        → 莫里斯                  源×1     译×1    
+     Clement                        → 克莱门                  源×1     译×1    
+     Jaspar                         → 雅斯帕                  源×1     译×1    
+     Clarence                       → 克拉伦斯                 源×9     译×9    
+     Sessamine                      → 塞萨敏                  源×1     译×1    
+     Henri                          → 亨利                   源×1     译×1    
+     Stephen                        → 司蒂文                  源×2     译×2    
+     Thaddeus Stuyvesant            → 撒迪厄斯·斯泰弗森特           源×3     译×3    
+     Geraldine                      → 杰拉尔丁                 源×7     译×7    
+     Mrs. Fitzgerald                → 菲茨杰拉德夫人              源×4     译×4    
+     Mrs. Walker                    → 沃克夫人                 源×1     译×1    
+     Mrs. Kittredge                 → 基特里奇夫人               源×1     译×1    
+     Dubufe                         → 迪比夫                  源×1     译×1    
+     Bertram Mandeville             → 伯特兰·曼德维尔             源×3     译×2    
+     Miss Carey / Mrs. Japha        → 凯里小姐 / 雅法夫人          源×2     译×2    
+     Margery                        → 玛乔丽                  源×6     译×2     落位偏低 2/6
+     Walton                         → 沃尔顿                  源×3     译×3    
+     New York East Side             → 纽约东区                 源×0     译×0     ★源0次(幽灵?)
+     Broadway                       → 百老汇                  源×3     译×3    
+     Madison Avenue                 → 麦迪逊大道                源×3     译×3    
+     Fifth Avenue                   → 第五大道                 源×6     译×6    
+     Albemarle                      → 阿尔伯马尔                源×1     译×1    
+     Worth monument                 → 沃斯纪念碑                源×1     译×0     ★译0次(未落位?)
+     Baltimore                      → 巴尔的摩                 源×1     译×1    
+     Handel Club                    → 亨德尔俱乐部               源×2     译×2    
+     Worth                          → 沃斯                   源×21    译×2     落位偏低 2/21
+     Grotewell                      → 格罗特韦尔                源×23    译×23   
+     Margery Hamlin / Mrs. Hamlin   → 玛乔丽·哈姆林 / 哈姆林夫人      源×32    译×34   
+     Boston                         → 波士顿                  源×7     译×7    
+     Alhambra                       → 阿尔罕伯拉                源×1     译×1    
+     Wall Street                    → 华尔街                  源×10    译×10   
+     Tiffany's                      → 蒂芙尼                  源×1     译×1    
+     Macy's                         → 梅西                   源×1     译×1    
+     Holton's                       → 霍尔顿                  源×1     译×1    
+     downtown                       → 下城                   源×11    译×3     落位偏低 3/11
+     Madison Bank                   → 麦迪逊银行                源×17    译×17   
+     Brooklyn                       → 布鲁克林                 源×2     译×2    
+     Japha mansion                  → 雅法宅邸                 源×6     译×3     落位偏低 3/6
+     Morency                        → 莫朗西                  源×0     译×0     ★源0次(幽灵?)
+     Providence                     → 普罗维登斯                源×3     译×1     落位偏低 1/3
+     Southmore road                 → 绍斯莫尔路                源×1     译×1    
+     Etna                           → 埃特纳                  源×1     译×1    
+     Connecticut                    → 康涅狄格（Connecticut）    源×1     译×1    
+     Washington                     → 华盛顿（Washington）      源×1     译×1    
+     Gettysburg                     → 葛底斯堡（Gettysburg）     源×1     译×1    
+     Knoedler's                     → 克诺德勒画廊（Knoedler's）   源×0     译×0     ★源0次(幽灵?)
+     Schaus'                        → 绍斯画廊（Schaus'）        源×0     译×0     ★源0次(幽灵?)
+     Baxter Street                  → 巴克斯特街（Baxter Street） 源×2     译×2    
+     Dey Street                     → 戴伊街（Dey Street）      源×6     译×6    
+     Mrs. Smith                     → 史密斯太太（Mrs. Smith）    源×4     译×4    
+     Solomon                        → 所罗门                  源×1     译×1    
+     Saint Catherine                → 圣凯瑟琳（Saint Catherine 源×1     译×1    
+     Pluto                          → 普路托（Pluto）           源×1     译×1    
+     Norse chivalry                 → 北欧骑士（的旧事）            源×1     译×1    
+     Aeolian airs                   → 风神之曲                 源×1     译×1    
+     Job                            → 约伯（Job）              源×1     译×1    
+     Bluebeard                      → 蓝胡子（Bluebeard）       源×1     译×1    
+     German                         → 德国舞会                 源×2     译×2    
+     dolman                         → 多尔曼外套                源×1     译×1    
+     The Defence of the Bride       → 《新娘的护卫》              源×1     译×1    
+     ballad                         → 歌谣 / 民谣              源×1     译×2    
+     church fair                    → 教堂游艺会                源×1     译×1    
+     heliotrope                     → 浅紫色（天芥菜紫）            源×2     译×2    
+     Prodigal Son                   → 《浪子回头》               源×1     译×1    
+     cloissone                      → 景泰蓝                  源×1     译×1    
+     mon cher                       → 亲爱的（mon cher）        源×1     译×26   
+     parvenue                       → 暴发户（parvenue）        源×1     译×1    
+     Mendelssohn                    → 门德尔松                 源×4     译×5    
+     Chopin                         → 肖邦                   源×2     译×2    
+     Seventh Regiment               → 第七团                  源×1     译×1    
+     Governments                    → 国债（Governments）      源×1     译×1    
+     Irving                         → 欧文                   源×1     译×1    
+     Japanese ware                  → 日本器物                 源×1     译×0     ★译0次(未落位?)
+     Meissonier                     → 梅索尼埃（Meissonier）     源×1     译×1    
+     fuss                           → 小折腾（fuss）            源×9     译×1     落位偏低 1/9
+     legitimate operations          → 正当营生（legitimate oper 源×1     译×1     残留「投机」×17
+     Luxury（bronze statue）          → 『奢华』铜像               源×10    译×1     落位偏低 1/10
+     Geraldine                      → 杰拉尔丁（Geraldine）      源×0     译×0     ★源0次(幽灵?)
+     Damocles                       → 达摩克利斯（Damocles）      源×5     译×1     落位偏低 1/5
+     Vulcan                         → 武尔坎（Vulcan）          源×1     译×1    
+     Circassian                     → 切尔克斯（Circassian）     源×2     译×0     ★译0次(未落位?)
+     Sultana                        → 苏丹王妃（Sultana）        源×1     译×0     ★译0次(未落位?)
+     upas tree                      → 见血封喉树（upas tree）     源×1     译×1    
+     Napoleon                       → 拿破仑（Napoleon）        源×1     译×1    
+     Grand Duke                     → 大公（Grand Duke）       源×1     译×3    
+     Mr. Gryce                      → 格莱斯先生（Mr. Gryce）     源×12    译×12   
+     Jessup                         → 杰萨普（Jessup）          源×5     译×3    
+     Watson                         → 沃森（Watson）           源×3     译×4    
+     Hicks, Saltzer and Co.         → 希克斯、萨尔泽公司（Hicks, Sal 源×3     译×4    
+     Harrington                     → 哈灵顿（Harrington）      源×4     译×4    
+     Constantia Maria               → 康斯坦蒂娅·玛丽亚（Constantia 源×7     译×7     残留「稍差一些」×1
+     Mr. A—                         → A—先生（Mr. A—）         源×0     译×1     ★源0次(幽灵?)
+

@@ -1,0 +1,99 @@
+## XX
+
+===Original===
+With dawn Theodore and a stolid companion, appointed by the headman, set out on their journey to the camp where Ada awaited them. They reached it only after weatherbound delays; as they towed their boat against a current that was almost too strong for their paddling they were overtaken by a blinding snowstorm and escaped from it barely with their lives. They made fast their boat to the stump of a tree and groped through the smother to a shed near the river’s edge; and there, for the better part of a day, they sheltered while the storm lasted. When it moderated and they pushed on through the dead village, a thick sheet of snow had obliterated the minor landmarks whereby Theodore had been wont to guide his way. It was close upon sunset on the third day of their journey when they trudged into the hidden valley and the familiar tree-clump came in sight—and dusk was thickening into moonless dark when Ada, hearing voices, ran forward with a scream of welcome. She sobbed and laughed incoherently as she clung round her husband’s neck; hysterical, perhaps near insanity, through loneliness and the terror of loneliness.
+In the intensity of her relief at the ending of her ordeal she forgot, at first, to be greatly disappointed because the world of Theodore’s discovery was a world without a cinema or charabanc; with her craving for company, it was sheer delight to know that in a few days more she would be in the midst of some two score human beings, whatever their manner of living. It took time and explanation to make her understand that the desire for charabanc and cinema must no longer be openly expressed; she stared uncomprehendingly when Theodore strove to make clear to her the religious, as well as the practical, idea that lay behind the prohibition.
+
+===Chinese===
+黎明时分，西奥多（Theodore）和一个由头领指派的沉默同伴动身前往艾达（Ada）等待的营地。他们抵达时已是天气耽搁之后；当他们逆着几乎难以划动的水流拖行小船时，一场令人目盲的暴风雪袭来，他们九死一生才逃脱。他们将船拴在树桩上，在弥漫的雪雾中摸索到河边的一处棚屋；在那里，他们躲避了整整大半天，直到暴风雪过去。雪势稍缓后，他们穿过死寂的村庄继续前行，厚厚的积雪已掩盖了西奥多平日赖以辨别方向的那些小地标。旅程第三天日落时分，他们跋涉进入隐蔽的山谷，熟悉的树丛映入眼帘——暮色渐浓，化为无月的黑暗，艾达听到人声，尖叫着迎上前来。她语无伦次地哭着、笑着，紧紧搂住丈夫的脖子；因孤独和对孤独的恐惧，她几近歇斯底里，或许已濒临疯狂。
+她从磨难中解脱，欣慰之情如此强烈，以至于起初忘了因西奥多所发现的世界没有电影院和游览车而深感失望；以她对同伴的渴望，得知再过几天就能置身于大约四十个人中间，无论他们过着怎样的生活，已是纯粹的喜悦。西奥多花了好一番功夫和解释，才让她明白对游览车和电影院的渴望再也不能公开表露；当西奥多竭力向她阐明这一禁令背后的宗教以及实际的考量时，她茫然地瞪着眼，毫无理解。
+
+===Original===
+The need for caution was the more urgent since he had learned in the course of the return journey that his appointed companion was a fanatic in the new faith, a penitent who groaned to his offended Deity; savagely pure-hearted in the cult of ignorance and savagely suspicious of the backslider.
+The religious temperament was something so far removed from Ada’s experience that he found it impossible at a first hearing to convince her of the unknown danger of intolerant and distorted faith. His mention of a religious aspect to their new difficulties brought the vague rejoinder that her mother was a Baptist but her aunt had been married in a Catholic church to an Irishman; and in the end he gave up his attempt at explanation and snapped out an order instead.
+
+===Chinese===
+谨慎的需要变得更加迫切，因为他在回程途中得知，他这位被指派的同伴是新信仰的狂热信徒，一个在被冒犯的神灵面前呻吟的忏悔者；在对无知的崇拜中保持着野蛮般的纯洁之心，对背教者则怀有野蛮般的猜疑。
+宗教气质是艾达经验中从未接触过的东西，以至于西奥多发现，在她初次听闻时就让她明白偏执和扭曲信仰中潜藏的未知危险是不可能的。他提及新困境的宗教层面，得到的回应含糊不清：她母亲是浸信会教徒，但她姑妈是在一座天主教堂里嫁给一个爱尔兰人的；最后他放弃了解释的努力，转而厉声下达了一道命令。
+
+===Original===
+"You're to be careful how you talk to them. Until you get to know them, you'd better say nothing about what you used to do in the old times. Nothing at all—do you hear? …"
+She stared, uncomprehending, but realized the order was an order. What she did understand and tremble at was the lack of provision for her coming ordeal of childbirth, and there was a burst of loud weeping and terrified protest when Theodore admitted, in answer to her questions, that he had found no trace of either hospitals, nurses or doctors. For the time being he soothed her with a hurried promise of seeking them further afield—pushing on to find them (they were sure to be found) when she was settled in comfort and safety with other women to look after her. … For the time being, he told himself, the soothing deceit was a necessity; she would understand later—see for herself what was possible—settle down and accept the inevitable.
+
+===Chinese===
+“你跟他们说话要小心。在你了解他们之前，最好别提你过去在旧时光里做过的事。什么都别提——听见了吗？……”
+她茫然地瞪着眼，但意识到这是一道命令。她确实理解并为之颤抖的是她即将面临的分娩之苦无人照应，当西奥多在她追问下承认没有找到任何医院、护士或医生的踪迹时，她爆发出一阵大声的哭泣和惊恐的抗议。眼下他用一个匆忙的承诺安抚她——等她安顿好、平安无事、有其他女人照料时，他会到更远的地方去寻找（一定能找到的）。……眼下，他告诉自己，这种安抚性的欺骗是必要的；她日后会明白的——会亲眼看到什么才是可能的——会安下心来接受不可避免的事。
+
+===Original===
+She was all eagerness to start, but it took two full days before the requisite number of journeys had been made to the river—their stores packed on an improvised sled, dragged heavily across the miles of frozen snow and stowed in the flat-bottomed boat. Then, on the third day, Ada herself made the journey; helped along by the men who, when the ground was smooth enough, set her on the sled and dragged her. In spite of their help she needed many halts for rest, and the distance between camp and river took most of the hours of daylight to accomplish; hence they sheltered for the night in a cottage not far from the river’s bank, and with morning dropped downstream in the boat—paddling cautiously as they rounded each bend and always on their guard against the possibility of unfriendly meetings. The long desolation they passed through was a no-man’s land; any stray hunter, therefore, might deem himself at liberty to attack whom he saw and seize what he found in their possession. But throughout the short day was neither sight nor sound of man and by sunset the current, running swollen and rapidly, had brought them to their destined landing. … After that came the mooring of the boat in the reeds and the hiding, on the bank of the river, of the stores they could not carry; then the long uphill tramp over snow, in the gathering darkness—with Ada shivering, crying from weariness and clinging to her husband’s arm. And—at last—the glow of fires, through tree-trunks; with figures moving round them, shaggy men and unkempt women. … Their home!
+
+===Chinese===
+她急切地想要出发，但过了整整两天才完成了到河边所需的往返次数——他们的补给装上临时拼凑的雪橇，沉重地拖过冰封的雪地数英里，再装进平底船里。第三天，艾达自己也上了路；男人们在地面足够平坦时把她扶上雪橇拖行，帮她前行。尽管有人帮忙，她仍需要频繁停下来休息，从营地到河边的距离耗费了大部分白天的时光；于是他们夜里在离河岸不远的一间小屋里避寒，天亮后乘船顺流而下——每过一个弯道都小心翼翼地划桨，时刻提防着可能遭遇的不友好相遇。他们穿越的漫长荒凉地带是一片无人之境；因此，任何路过的猎人都可能认为自己有权攻击所见之人并夺走其财物。但整个短暂的白天既无人影也无人声，日落时分，汹涌湍急的水流已将他们送到了预定的登陆点。……之后是把船拴在芦苇丛中，将无法带走的补给藏在河岸上；然后是在渐浓的暮色中踏着积雪长途上坡跋涉——艾达瑟瑟发抖，因疲倦而哭泣，紧紧抓住丈夫的手臂。终于——透过树干看到了火光；人影在火光周围移动，毛发蓬乱的男人和衣衫不齐的女人。……他们的家！
+
+===Original===
+The unkempt women met their fellow not unkindly. They drew her to the fire and rubbed her frozen hands; then, while one brought a bowl of steaming mess, another laid dry moss and heather in the bed-place of her unfinished dwelling. A protesting baby was wakened from its sleep and dandled for her comfort and inspection—its mother giving frank and loud-voiced details concerning the manner of its birth. There was a rough and good-natured attempt to raise her drooping spirits, and Ada, fed and warmed, brightened visibly and responded to the clack of tongues. This, at least, the new world had restored to her—the blessing of loud voices raised in chatter. … All the same, on the second night of their new life Theodore, awake in the darkness, heard her sniffing and swallowing her tears.
+
+===Chinese===
+那些衣衫不齐的女人接待她这位同胞时并非不友善。她们把她拉到火边，揉搓她冻僵的双手；然后，一人端来一碗热气腾腾的糊状食物，另一人在她尚未完工的住处铺上干苔藓和石楠。一个哭闹的婴儿被从睡梦中唤醒，在她面前摇晃着哄她开心、供她查看——孩子的母亲坦率而大声地描述着分娩的经过。她们粗犷而善意地试图提振她低落的情绪，艾达吃饱穿暖后明显精神好转，也回应起那些喋喋不休的闲聊。新世界至少还给了她一样东西——大声聊天的幸福。……然而，在他们新生活的第二晚，西奥多在黑暗中醒着，听到她抽泣着吞咽泪水的声音。
+
+===Original===
+"What is it?" he asked and she clung to him miserably and wept her forebodings on his shoulder. Not only forebodings of her coming ordeal in the absence of hospitals and doctors, but—was this, in truth, to be the world? These people—so they told her—knew of no other existing; but what had become of all the towns? The trams, the shops, the life of the towns—her life—where was it? It must be somewhere—a little way off—where was it? … He soothed her with difficulty, repeating his warnings on the danger of open regrets for the past and reminding her that tomorrow she also would be called on for the oath.
+
+===Chinese===
+“怎么了？”他问道，她痛苦地依偎着他，将满心的预感哭诉在他肩头。不仅是对缺少医院和医生的分娩之苦的预感，而且——这真的就是世界了吗？这些人——他们这样告诉她——不知道还有其他世界存在；但是所有的城镇都去了哪里？有轨电车、商店、城镇的生活——她的生活——在哪里？一定在某个地方——离这儿不远——它在哪里？……他艰难地安抚她，反复告诫她公开悔恨过去的危险，并提醒她明天她也要宣誓。
+
+===Original===
+"I know," she whimpered. "Of course I'll take an oath if I must. But you can't 'elp thinking—if you swear yourself black in the faice, you can't 'elp thinking."
+"Whatever you think," he insisted, "you mustn't say it—to anyone."
+"I know," she snuffled obediently, "I shan't say nothing … but, oh Gawd, oh Gawd—aren't we ever going to be 'appy again?"
+He knew what she was weeping for—shaking with miserable sobs; the evenings at the pictures, the little bits of machine-made finery, the petty products of "devil's knowledge" that had made up her daily life. The cry to her "Gawd" was a prayer for the return of these things and the hope of them had so far sustained her in peril, hardship and loneliness. Pictures and finery had always been there, just a mile or two beyond the horizon—awaiting her enjoyment so soon as it was safe to reach them. Now, in her overpowering misery and darkness of soul, she was facing the dread possibility that they no longer awaited her, that the horizon was immeasurable, infinite. … Guns and bombs and poisons—nobody wanted them and she understood people making up their minds to do without 'em. But the other things—you couldn't go on living without the other things—shops and proper houses and railways. …
+
+===Chinese===
+“我知道，”她呜咽着说。“当然，如果我必须的话，我会宣誓。但你没法子不去想——就算你把脸赌咒发黑，你也没法子不去想。”
+“无论你怎么想，”他坚持说，“你都不能说出来——对任何人都不行。”
+“我知道，”她顺从地吸着鼻子说，“我什么都不会说的……可是，哦天哪，哦天哪——我们就再也不会快乐了吗？”
+他知道她为何哭泣——因痛苦的啜泣而浑身颤抖；那些在电影院度过的夜晚，那些小件的机器制造的华丽服饰，那些构成她日常生活的"魔鬼知识"的微末产物。她对"天哪"的哭喊是祈求这些东西的回归，对它们的希望迄今支撑着她度过危险、艰辛和孤独。电影院和华服总是在那里，就在地平线以外一两英里处——只要安全到达就能享受它们。如今，在她难以承受的痛苦和灵魂的黑暗中，她正面对着一个可怕的可能性：它们不再在等着她了，地平线是无边无际、无穷无尽的。……枪炮、炸弹和毒气——没人想要它们，她理解人们决定不再需要它们。但其他的东西——没有其他的东西你就没法继续活下去——商店、像样的房子和铁路。……
+
+===Original===
+"It can't be for always," she persisted, "it can't be"—and was cheered by the sudden heat of his agreement, the sudden note of protest in his voice. The knowledge that he sympathized encouraged her and, with her head on his shoulder, sniffing, but comforted, she began to plan out their deliverance.
+"They must be somewhere—the people that live like they used to. Keepin' quiet, I dessay, till things gets more settled. When things is settled they'll get a move on and come along and find us. It stands to reason they can't be so very far off, because I remember the teacher tellin' us when we 'ad our jography lesson that England's quite a small country. So they 'aven't got so very far to come. … I expect an aeroplane'll come first."
+He felt her thrill in expectation of the moment when she sighted the swiftly moving speck aloft, the bearer of deliverance drawing nigh. Wouldn't it be heavenly when they saw one at last—after all these awful months and years! … In the war they were beastly, but, now that the war was over, what had become of all the passenger planes and the airships? She was always looking out for one—always; every morning when she came out of the hut the first thing she did was to look up at the sky. … And some day one was bound to come. When things had settled down and got straight, it was bound to. …
+
+===Chinese===
+“不会永远这样的，”她坚持说，“不会的”——而他突然热切的赞同、他声音中突然流露的抗议，让她感到振奋。知道他与她同心，她受到了鼓舞，头靠在他肩上，抽泣着，却得到了安慰，开始筹划他们的解救之道。
+“他们一定在某个地方——那些过着过去生活的人。我想，他们大概是安安静静的，等局势更安定一些。局势安定后他们就会动身前来找到我们。按理说他们不会离得太远，因为我记得老师在上地理课时告诉我们，英格兰是个很小的国家。所以他们不必走很远。……我估计先来的会是一架飞机。”
+他感觉到她因期待着发现天空中那个快速移动的小点而激动，那是带来解救的使者。等他们终于看到一架飞机——在经历了这可怕的数月数年之后——那该是多么美妙啊！……在战争中它们很可怕，但战争结束了，所有的客机和飞艇都去了哪里？她总是望着天空找它们——总是；每天早上她走出小屋，第一件事就是抬头望天。……总有一天会有一架飞来的。等局势安定、一切恢复秩序，那架飞机一定会来的。……
+
+===Original===
+But it never did; and in the end she ceased to look for it.
+---
+His attempts—they were many in the first few years—to break away from his world and his bondage of ignorance were made always with cunning precaution and subterfuge; not even the pitiable need of his wife would have served as excuse for the backsliding which was search after the forbidden. To a fanaticism dominated by the masculine element the pains of childbirth were once more an ordinance of God; and when, a few weeks before Ada's time of trial, Theodore absented himself from the camp for a night or two, he gave no one (save Ada) warning of his journey, and later accounted for his absence by a plausible story of straying and a hunter's misfortunes. He had ceased, since he took up his dwelling with the tribe, to believe in the neighbourhood of a civilization in being; all he hoped for was the neighbourhood, not too distant, of men who had not acquiesced in ruin and put hope of recovery behind them. What he sought primarily was that aid and comfort in childbirth for which his wife appealed to him with insistence that grew daily more terrified; what he sought fundamentally was escape from a people vowed to ignorance.
+
+===Chinese===
+但它从未出现；最终她不再寻找了。
+---
+他的尝试——在最初几年里有很多次——要脱离他的世界、摆脱无知的枷锁，每次都伴随着狡猾的预防和伪装；即便是妻子可怜的需要，也不能成为他寻找禁忌之物这一背教行为的借口。在一个被男性主导的狂热信仰中，分娩之痛再次被视为上帝的旨意；因此，当艾达分娩前几周，西奥多离开营地一两天时，他没有告知任何人（除了艾达）他的行踪，后来则用一个貌似合理的迷路和猎人遭遇不幸的故事来解释他的缺席。自从他在部落中定居以来，他已不再相信附近有现存的文明；他所希望的，只是在不太远的地方，有那些没有默许毁灭、没有将复兴的希望弃之不顾的人们。他首要寻找的是他妻子日益惊恐地向他恳求的分娩时的救助和安慰；他根本寻求的是从一个誓守无知的民族中逃脱。
+
+===Original===
+The goal of his first journey was the town lying lower down the river, the forbidden city which had once bred pestilence and flies. He approached it deviously, keeping to the hills and avoiding districts he knew to be inhabited; hoping against hope, that, in spite of report, he might find some rebuilding of a civic existence and human life as he had known it. … What he found when he came down from the foothills and trudged through its outskirts was the customary silent desolation; a desolation flooded and smelling of foul water—untenanted streets that were channels and backwaters, and others where the slime of years lay thick and scum bred rank vegetation.
+Silent streets and empty houses had long been familiar to him, but until that day he had not known how swiftly nature, left to herself, could take hold of them. The river and the life that sprang from it was overwhelming what man had deserted. Three winters of neglect in a low-lying, well-watered country had wrought havoc with the work of the farmer and the engineer; streams which had been channelled and guided for centuries had already burst their way back to freedom. With every flooded winter more banks were undermined, more channels silted up and shifted; and that which had been ploughland, copse or water-meadow was relapsing into bog undrained. The valley above and below the town was a green swamp studded with reedy little pools; a refuge for the waterbird where a man would set foot at his peril. Buildings here and there stood rotting, forlorn and inaccessible—barns, sheds and farmhouses, their walls leaning drunkenly as foundations shifted in the mud; and in the town itself, as surely, if more slowly, the waters were taking possession. … Towns had vanished, he knew—vanished so completely that their very sites had been matter of dispute to antiquarians—but never till today had he visualized the process; the rising of layer on layer of mud, the sapping of foundations by water. The forces that made ruin and the forces that buried it; flood and frost and the persistent thrust of vegetation. As the waterlogged ground slid beneath them, rows of jerry-built houses were sagging and cracking to their fall; here and there one had crumbled and lay in a rubble heap, the water curdling at its base. … How many lifetimes, he wondered, till the river had the best of it and the houses where men had gone out in were one and all of them a rubble heap—under water and mud and rank greenery? He saw them, decades or centuries ahead, as a waste, a stretch of bogland where the river idled; bogland, now flooded, now drying and cracked in the sun; and with broken green islets still thrusting through the swamp—broken green islets of moss-covered rock that underneath was brick and mortar. In time it might be—with more decades or centuries—the islets also would sink lower in the swamp, disappear. …
+
+===Chinese===
+他第一次旅程的目标是河流下游的那座城镇，那座曾滋生瘟疫和苍蝇的禁城。他迂回地接近它，沿着山脊行进，避开他知道有人居住的区域；抱着一线希望，尽管传闻如此，他或许能找到某种公民生活和他所熟悉的人类生活的重建迹象。……当他从山脚下来、跋涉穿过城镇郊区时，发现的是惯常的静默荒凉；一片被洪水淹没、散发着恶臭的荒凉——街道无人居住，成了水道和死水，其他地方则淤积着厚厚的泥浆，浮渣滋生着茂盛的杂草。
+寂静的街道和空荡的房屋对他来说早已熟悉，但直到那天他才知道，放任自然接管这一切时，自然的行动有多么迅速。河流及其衍生的生命正在吞噬人类遗弃的一切。低洼多水之地的三个冬季的忽视，已对农民和工程师的成果造成了巨大的破坏；数百年来被引导和规束的溪流已经冲破束缚，重获自由。每个洪水泛滥的冬天，更多的河岸被侵蚀，更多的河道淤塞改道；曾经是耕地、矮林或水草牧场的地方正在退化为未排水的沼泽。城镇上下的山谷是一片长满芦苇小潭的绿色沼泽；是水鸟的避难所，人涉足其中则有性命之忧。各处的建筑在腐烂，孤寂而难以接近——谷仓、棚屋和农舍，墙壁因泥中地基的移动而倾斜欲倒；在城镇本身，水流同样在占据领地，只是更为缓慢。……他知道城镇消失了——消失得如此彻底，以至于它们的确切位置曾是考古学家争论的话题——但直到今天他才真正想象出这一过程：一层层淤泥的堆积，水流对地基的侵蚀。造成毁灭的力量和掩埋毁灭的力量；洪水、霜冻和植被持续的推进。当浸透水的地面在他们身下滑动时，一排排偷工减料的房屋正倾斜开裂，即将倒塌；有些已经坍塌，化为一堆瓦砾，水在废墟底部翻涌。……他想知道，要多少代人的时间，河流才能彻底获胜，那些人们曾经进进出出的房屋全部变成一堆瓦砾——沉没在水、淤泥和茂盛的绿意之下？他看到它们，在数十年或数百年之后，成为一片荒原，一条河流蜿蜒其间的沼泽地；这片沼泽，时而被洪水淹没，时而在阳光下干涸龟裂；断裂的绿色小岛依然从沼泽中探出——那是覆盖着苔藓的岩石，底下却是砖石和灰浆。再过数十年或数百年，这些小岛或许也会沉入沼泽，消失不见。……
+
+===Original===
+The process, unhindered, was certain as sunrise; the important little streets that humanity had built for its vanished needs and its vanished business would be absorbed into an indifferent wilderness, in all things sufficient to itself. The rigid important little streets had been no more than an episode in the ceaseless life of the wilderness; an episode ending in failure, to be decently buried and forgotten.
+He plodded aimlessly through street after street that was fordable till the shell of a "County Infirmary" mocked at Ada's hopes and recalled the first purpose of his journey; a gaunt sodden building, the name yet visible on walls that sweated fungi and mould. Then, that he might leave nothing undone in the way of help and search, he trudged and waded to the lower outskirts of the town; where the roads lost themselves in grass and flooded water, and there stretched to the limit of his eyesight a dull winter landscape without sign of living care or habitation. In end—having strained his eyes after that which was not—he turned to slink back to his own place; skirting alien territory where the sight of a stranger might mean an alarm and a manhunt, and sheltering at night where his fire might be hidden from the watcher.
+
+===Chinese===
+这一过程未受阻碍，确如日出般必然；人类为已消逝的需求和已消逝的事务而建造的那些看似重要的小街道，将被一片自给自足的冷漠荒野所吞噬。那些严整的重要小街道，不过是荒野无尽生命中的一个片段；一个以失败告终的片段，注定被体面地掩埋和遗忘。
+他漫无目的地跋涉过一条又一条可以涉水而过的街道，直到一座"县立医院"的空壳嘲弄着艾达的希望，也唤起了他此行的最初目的；一座阴冷潮湿的建筑，名字依然可见于渗出真菌和霉斑的墙壁上。然后，为了在救助和搜寻方面不遗余力，他跋涉和趟水来到城镇的外围低地；那里的道路消失在草丛和洪水中，他目力所及之处是一片沉闷的冬日景象，毫无生命照料或居留的迹象。最终——在徒劳地张望之后——他转身悄悄溜回自己的住处；绕过陌生人的领地，在那里被陌生人看见可能意味着警报和搜捕，夜间则在火光能被看守者遮蔽的地方栖身。
+
+===Original===
+"You 'aven't found nothin'?" Ada whimpered, when he had told his necessary lies to the curious and they were out of earshot in their hut. Her eyes had grown piteous when he stumbled in alone; she had dreamt in his absence of sudden and miraculous deliverance—following him in fancy through streets with tramlines, where dwelt women who wore corsets—also doctors. Who, perhaps, when they knew the greatness of her need, would send a motor-ambulance—to fetch her to a bed with sheets on it.
+"Nothing," he told her almost roughly, afraid to show pity. "No doctors, no houses fit to live in. Wherever I've been and as far as I could see—it's like this."
+
+===Chinese===
+“你什么都没找到？”艾达在他对好奇的人们说了必要的谎话、两人回到小屋不再有人能听见时，呜咽着问道。他独自踉跄进来时，她的眼神已变得可怜巴巴；在他离开期间，她梦想着突然而来的奇迹般的拯救——在想象中跟随他穿过铺着电车轨道的街道，那里住着穿紧身胸衣的女人——还有医生。医生们或许在得知她需求之迫切后，会派出一辆机动救护车——把她送到一张铺着床单的床上。
+“什么都没有，”他几乎粗暴地对她说，不敢流露怜悯。“没有医生，没有适合居住的房屋。无论我去过哪里、目力所及之处——都是这副模样。”

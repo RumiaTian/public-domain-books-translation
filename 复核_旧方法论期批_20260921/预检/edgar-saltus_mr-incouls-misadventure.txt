@@ -1,0 +1,64 @@
+ (20 files)
+  块: O=156 C=156 OK | 段: EN=657 CN=657 OK
+  英文残留(剔括注) top: en×7, de×6, ses×5, et×4, bi×3, Grenade×3, ce×2, soir×2, chapeau×2, il×2
+  项目说明备注: - 文件名已加两位数字前缀（01–20），前缀顺序 = spine 顺序 = 阅读顺序；`translation_queue.csv` 按文件名自然排序即得正确章序。 / - 原文中大量法语/德语/意大利语/西班牙语插词（如 *disinvoltura*、*frühstück*、*bagou*、*bains de mer*）为世纪末世态小说的文体特色，处理策略见术语表「翻译策略」节。 / - `01-epigraph.md`（申命记题记）与 `02-dedication.md`（献词）极短，可与其后任一章合并派单或单独成批。
+  -- 术语表硬约束行 58 条:
+     Harmon Incoul / Mr. Incoul     → 哈蒙·因库尔（Harmon Incoul 源×131   译×3     落位偏低 3/131
+     Mrs. Incoul                    → 因库尔太太                源×10    译×10   
+     Maida Barhyte / Miss Barhyte   → 玛伊达·巴海特（Maida Barhyt 源×24    译×1     落位偏低 1/24
+     May                            → 梅                    源×45    译×17    落位偏低 17/45
+     Mrs. Barhyte                   → 巴海特太太                源×7     译×7    
+     Mr. Blydenburg                 → 布莱登堡先生（Blydenburg）   源×25    译×26   
+     Miss Blydenburg                → 布莱登堡小姐               源×5     译×5    
+     Lenox Leigh / Mr. Leigh        → 伦诺克斯·利（Lenox Leigh）  源×25    译×22   
+     Mrs. Manhattan                 → 曼哈顿夫人（Mrs. Manhattan 源×3     译×3    
+     Karl                           → 卡尔（Karl）             源×17    译×17   
+     Mirette / Mlle. Mirette        → 米蕾特（Mirette）         源×32    译×32   
+     Wainwaring（Mr./Mrs./Miss）      → 韦恩韦林（Wainwaring）一家   源×10    译×9    
+     Duc de la Dèche / De la Dèche  → 德·拉·德什公爵（Duc de la D 源×6     译×1     落位偏低 1/6
+     Mrs. Bachelor                  → 巴切勒太太（Mrs. Bachelor） 源×2     译×2    
+     Archibald                      → 阿奇博尔德（Archibald）     源×3     译×3    
+     MacDermotts                    → 麦克德莫特一家（the MacDermo 源×2     译×1    
+     Miss Van Tromp                 → 范·特龙普小姐（Miss Van Tro 源×1     译×1    
+     Salvini                        → 萨尔维尼（Salvini）        源×1     译×1    
+     Mrs. Hildred / Mrs. Bunker / L → 希尔德雷德太太 / 邦克太太 / 格伦维 源×12    译×7     落位偏低 7/12
+     Isabel / Rosa / Paquita / Adel → 伊莎贝尔 / 罗莎 / 帕基塔 / 阿德 源×13    译×13   
+     Madison Avenue                 → 麦迪逊大道                源×3     译×3    
+     Fifth Avenue                   → 第五大道                 源×2     译×2    
+     the Park                       → （中央）公园               源×2     译×0     ★译0次(未落位?)
+     Biarritz                       → 比亚里茨                 源×22    译×21   
+     Baden                          → 巴登                   源×12    译×12   
+     Bayonne                        → 巴约讷                  源×2     译×2    
+     Saint-Jean-de-Luz              → 圣让-德吕兹（Saint-Jean-de 源×2     译×2    
+     San Sebastián                  → 圣塞巴斯蒂安               源×5     译×6    
+     Luchon                         → 吕雄                   源×1     译×1    
+     Trouville / Ostend / Schevenin → 特鲁维尔 / 奥斯坦德 / 斯海弗宁恩  源×5     译×6    
+     Paris / the boulevard          → 巴黎 / 林荫大道            源×38    译×48   
+     Parc Monceau                   → 蒙梭公园（Parc Monceau）   源×9     译×8    
+     the Grand Hôtel                → 大饭店（Grand Hôtel）     源×4     译×6    
+     the Meurice                    → 默里斯旅馆（the Meurice）   源×1     译×1    
+     Cercle des Capucines           → 嘉布遣会俱乐部（Cercle des C 源×3     译×3    
+     the Opéra                      → 歌剧院（the Opéra）       源×4     译×8    
+     foyer de la danse              → 舞蹈休息室（foyer de la da 源×1     译×1    
+     Rue de la Paix / Colonne Vendô → 和平街 / 旺多姆圆柱          源×3     译×3    
+     Sorbonne / Heidelberg          → 索邦 / 海德堡             源×2     译×2    
+     Côte des Basques / Chambre d’A → 巴斯克海岸 / 爱情小屋（Chambre 源×7     译×4     落位偏低 4/7
+     Bay of Biscay                  → 比斯开湾                 源×1     译×1    
+     the Pyrenees                   → 比利牛斯山                源×1     译×2    
+     San Francisco                  → 旧金山                  源×2     译×2    
+     New York                       → 纽约                   源×15    译×15   
+     Mr. Incoul’s Misadventure      → 《因库尔先生的不幸遭遇》         源×0     译×0     ★源0次(幽灵?)
+     Edgar Saltus                   → 埃德加·索尔图斯（Edgar Saltu 源×0     译×0     ★源0次(幽灵?)
+     bonanza people                 → 波南扎豪富/bonanza 新贵     源×1     译×0     ★译0次(未落位?)
+     courier                        → 随行侍从                 源×8     译×7    
+     baccarat / talon / croupier /  → 巴卡拉牌局 / 牌堆（talon）/ 荷 源×23    译×4     落位偏低 4/23
+     Course Landaise                → 兰德斯斗牛（Course Landais 源×1     译×1    
+     palco                          → 包厢（palco）            源×2     译×21   
+     greenroom                      → 后台化妆休息室              源×1     译×0     ★译0次(未落位?)
+     Urbaine                        → 「乌尔班」马车（Urbaine）     源×2     译×0     ★译0次(未落位?)
+     Privas                         → 普里瓦药水（Privas）        源×1     译×1    
+     Mylitta / Psyche               → 米利塔 / 普赛克            源×4     译×4    
+     Chiron / the Hyperboreans / Bi → 喀戎 / 极北族人 / 比顿与克利奥比斯 源×7     译×7    
+     Joan of Arc                    → 圣女贞德                 源×1     译×1    
+     Deuteronomy 19:21              → 《申命记》19:21           源×1     译×1    
+====================================================================================================

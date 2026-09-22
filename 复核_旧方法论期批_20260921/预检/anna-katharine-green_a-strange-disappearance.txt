@@ -1,0 +1,56 @@
+ (20 files)
+  块: O=213 C=213 OK | 段: EN=925 CN=925 OK
+  英文残留(剔括注) top: vous×5, et×2, Calmez×1, mon×1, amie×1, Il×1, aime×1, il×1, cherche×1, Dans×1
+  项目说明备注: - 本书与已完成的《利文沃斯案》（anna-katharine-green_the-leavenworth-case）共享主角格赖斯先生，术语译法沿用该项目（Mr. Gryce=格赖斯先生，The Leavenworth Case=《利文沃斯案》）。 / - 章节标题保留罗马数字与英文原题，按「英文 / 中文」合并标题（如 `I A Novel Case / 一 一桩新奇案件`）。 / - 原文文件名已加两位数字前缀（01-…20-），队列顺序即阅读顺序。 / - 原文以破折号隐匿的地名/人名（如 — — — Street）照原样保留，不补全。 / - 叙述者只用字母「Q」指称，照搬不译。
+  -- 术语表硬约束行 50 条:
+     Mr. (Ebenezer) Gryce           → 格赖斯先生                源×112   译×114  
+     Harris                         → 哈里斯                  源×2     译×2    
+     Mr. Holman Blake               → 霍尔曼·布莱克先生            源×0     译×0     ★源0次(幽灵?)
+     Mrs. Daniels                   → 丹尼尔斯太太               源×64    译×63   
+     Emily                          → 艾米丽                  源×11    译×11   
+     Fanny                          → 范妮                   源×15    译×16   
+     Luttra                         → 卢特拉                  源×26    译×27   
+     the Schoenmakers (father and s → 舍恩马克父子（Schoenmakers） 源×6     译×6    
+     the elder / younger Schoenmake → 老舍恩马克 / 小舍恩马克        源×3     译×2    
+     Evelyn Blake                   → 伊芙琳·布莱克              源×8     译×8    
+     the Countess De Mirac          → 德·米拉克伯爵夫人            源×8     译×9    
+     Count De Mirac                 → 德·米拉克伯爵              源×2     译×2    
+     Thompson                       → 汤普森                  源×6     译×5    
+     Amy                            → 艾米                   源×1     译×1    
+     Madame Dudevant                → 杜德凡太太                源×1     译×0     ★译0次(未落位?)
+     Lulu Chittenden                → 露露·奇滕登               源×1     译×1    
+     the Superintendent             → 局长                   源×4     译×1     落位偏低 1/4
+     New York                       → 纽约                   源×13    译×13   
+     Second Avenue                  → 第二大道                 源×4     译×4    
+     Broadway                       → 百老汇                  源×1     译×1    
+     Fourteenth Street              → 十四街                  源×1     译×1    
+     Chatham Square                 → 查塔姆广场                源×1     译×1    
+     the East side                  → 东区                   源×1     译×1    
+     Windsor House                  → 温莎旅馆                 源×1     译×2    
+     the Academy                    → 学院剧场                 源×2     译×0     ★译0次(未落位?)
+     Charity Ball                   → 慈善舞会                 源×1     译×1    
+     Hudson River Railroad          → 哈德逊河铁路               源×1     译×1    
+     Vermont                        → 佛蒙特州                 源×7     译×1     落位偏低 1/7
+     Putney                         → 帕特尼                  源×5     译×3    
+     Granby Cross Roads             → 格兰比十字路口              源×0     译×0     ★源0次(幽灵?)
+     Melville                       → 梅尔维尔                 源×6     译×6    
+     Rutland bank                   → 拉特兰银行                源×2     译×2    
+     the red cross                  → 红十字（记号）              源×2     译×3    
+     the Leavenworth case           → 利文沃斯案                源×0     译×0     ★源0次(幽灵?)
+     a few golden hairs             → 几根金发                 源×1     译×0     ★译0次(未落位?)
+     photograph / portrait          → 照片 / 画像              源×9     译×12   
+     Mr. (Holman) Blake             → （霍尔曼·）布莱克先生          源×165   译×0     ★译0次(未落位?)
+     Mr. Gryce                      → 格赖斯先生（探长）            源×0     译×0     ★源0次(幽灵?)
+     Q                              → Q（叙述者、年轻探员，保留字母不译）   源×2     译×2    
+     Mrs. Daniels                   → 丹尼尔斯太太（管家）           源×0     译×0     ★源0次(幽灵?)
+     Luttra（Luttra Blake / Luttra S → 卢特拉（·布莱克／·舍恩马克）      源×1     译×0     ★译0次(未落位?)
+     Mrs. Blake                     → 布莱克太太                源×15    译×16   
+     the Schoenmakers               → 舍恩马克家／舍恩马克父子（父＋子 Kar 源×0     译×8     ★源0次(幽灵?)
+     Evelyn Blake（表妹，即德·米拉克伯爵夫人）    → 伊芙琳·布莱克              源×0     译×0     ★源0次(幽灵?)
+     Count(ess) De Mirac            → 德·米拉克伯爵（夫人）          源×1     译×0     ★译0次(未落位?)
+     Fanny                          → 范妮（漂亮女仆）             源×0     译×0     ★源0次(幽灵?)
+     Emily                          → 艾米丽（裁缝）              源×0     译×0     ★源0次(幽灵?)
+     Abner Blake（老布莱克，遗嘱署名）         → 阿布纳·布莱克              源×1     译×1    
+     the Granby Cross Roads         → 格兰比岔口                源×1     译×0     ★译0次(未落位?)
+     the Leavenworth case / Hannah  → 利文沃思案／汉娜             源×1     译×2    
+====================================================================================================

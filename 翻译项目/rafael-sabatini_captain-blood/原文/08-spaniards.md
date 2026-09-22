@@ -1,0 +1,65 @@
+## VIII Spaniards
+The stately ship that had been allowed to sail so leisurely into Carlisle Bay under her false colours was a Spanish privateer, coming to pay off some of the heavy debt piled up by the predaceous Brethren of the Coast, and the recent defeat by the *Pride of Devon* of two treasure galleons bound for Cadiz. It happened that the galleon which escaped in a more or less crippled condition was commanded by Don Diego de Espinosa y Valdez, who was own brother to the Spanish Admiral Don Miguel de Espinosa, and who was also a very hasty, proud, and hot-tempered gentleman.
+Galled by his defeat, and choosing to forget that his own conduct had invited it, he had sworn to teach the English a sharp lesson which they should remember. He would take a leaf out of the book of Morgan and those other robbers of the sea, and make a punitive raid upon an English settlement. Unfortunately for himself and for many others, his brother the Admiral was not at hand to restrain him when for this purpose he fitted out the *Cinco Llagas* at San Juan de Puerto Rico. He chose for his objective the island of Barbados, whose natural strength was apt to render her defenders careless. He chose it also because thither had the *Pride of Devon* been tracked by his scouts, and he desired a measure of poetic justice to invest his vengeance. And he chose a moment when there were no ships of war at anchor in Carlisle Bay.
+He had succeeded so well in his intentions that he had aroused no suspicion until he saluted the fort at short range with a broadside of twenty guns.
+And now the four gaping watchers in the stockade on the headland beheld the great ship creep forward under the rising cloud of smoke, her mainsail unfurled to increase her steering way, and go about close-hauled to bring her larboard guns to bear upon the unready fort.
+With the crashing roar of that second broadside, Colonel Bishop awoke from stupefaction to a recollection of where his duty lay. In the town below drums were beating frantically, and a trumpet was bleating, as if the peril needed further advertising. As commander of the Barbados Militia, the place of Colonel Bishop was at the head of his scanty troops, in that fort which the Spanish guns were pounding into rubble.
+Remembering it, he went off at the double, despite his bulk and the heat, his negroes trotting after him.
+Mr. Blood turned to Jeremy Pitt. He laughed grimly. “Now that,” said he, “is what I call a timely interruption. Though what’ll come of it,” he added as an afterthought, “the devil himself knows.”
+As a third broadside was thundering forth, he picked up the palmetto leaf and carefully replaced it on the back of his fellow-slave.
+And then into the stockade, panting and sweating, came Kent followed by best part of a score of plantation workers, some of whom were black and all of whom were in a state of panic. He led them into the low white house, to bring them forth again, within a moment, as it seemed, armed now with muskets and hangers and some of them equipped with bandoleers.
+By this time the rebels-convict were coming in, in twos and threes, having abandoned their work upon finding themselves unguarded and upon scenting the general dismay.
+Kent paused a moment, as his hastily armed guard dashed forth, to fling an order to those slaves.
+“To the woods!” he bade them. “Take to the woods, and lie close there, until this is over, and we’ve gutted these Spanish swine.”
+On that he went off in haste after his men, who were to be added to those massing in the town, so as to oppose and overwhelm the Spanish landing parties.
+The slaves would have obeyed him on the instant but for Mr. Blood.
+“What need for haste, and in this heat?” quoth he. He was surprisingly cool, they thought. “Maybe there’ll be no need to take to the woods at all, and, anyway, it will be time enough to do so when the Spaniards are masters of the town.”
+And so, joined now by the other stragglers, and numbering in all a round score﻿—rebels-convict all﻿—they stayed to watch from their vantage-ground the fortunes of the furious battle that was being waged below.
+The landing was contested by the militia and by every islander capable of bearing arms with the fierce resoluteness of men who knew that no quarter was to be expected in defeat. The ruthlessness of Spanish soldiery was a byword, and not at his worst had Morgan or L’Ollonais ever perpetrated such horrors as those of which these Castilian gentlemen were capable.
+But this Spanish commander knew his business, which was more than could truthfully be said for the Barbados Militia. Having gained the advantage of a surprise blow, which had put the fort out of action, he soon showed them that he was master of the situation. His guns turned now upon the open space behind the mole, where the incompetent Bishop had marshalled his men, tore the militia into bloody rags, and covered the landing parties which were making the shore in their own boats and in several of those which had rashly gone out to the great ship before her identity was revealed.
+All through the scorching afternoon the battle went on, the rattle and crack of musketry penetrating ever deeper into the town to show that the defenders were being driven steadily back. By sunset two hundred and fifty Spaniards were masters of Bridgetown, the islanders were disarmed, and at Government House, Governor Steed﻿—his gout forgotten in his panic﻿—supported by Colonel Bishop and some lesser officers, was being informed by Don Diego, with an urbanity that was itself a mockery, of the sum that would be required in ransom.
+For a hundred thousand pieces of eight and fifty head of cattle, Don Diego would forbear from reducing the place to ashes. And what time that suave and courtly commander was settling these details with the apoplectic British Governor, the Spaniards were smashing and looting, feasting, drinking, and ravaging after the hideous manner of their kind.
+Mr. Blood, greatly daring, ventured down at dusk into the town. What he saw there is recorded by Jeremy Pitt to whom he subsequently related it﻿—in that voluminous log from which the greater part of my narrative is derived. I have no intention of repeating any of it here. It is all too loathsome and nauseating, incredible, indeed, that men however abandoned could ever descend such an abyss of bestial cruelty and lust.
+What he saw was fetching him in haste and white-faced out of that hell again, when in a narrow street a girl hurtled into him, wild-eyed, her unbound hair streaming behind her as she ran. After her, laughing and cursing in a breath, came a heavy-booted Spaniard. Almost he was upon her, when suddenly Mr. Blood got in his way. The doctor had taken a sword from a dead man’s side some little time before and armed himself with it against an emergency.
+As the Spaniard checked in anger and surprise, he caught in the dusk the livid gleam of that sword which Mr. Blood had quickly unsheathed.
+“*Ah, perro ingles!*” he shouted, and flung forward to his death.
+“It’s hoping I am ye’re in a fit state to meet your Maker,” said Mr. Blood, and ran him through the body. He did the thing skilfully: with the combined skill of swordsman and surgeon. The man sank in a hideous heap without so much as a groan.
+Mr. Blood swung to the girl, who leaned panting and sobbing against a wall. He caught her by the wrist.
+“Come!” he said.
+But she hung back, resisting him by her weight. “Who are you?” she demanded wildly.
+“Will ye wait to see my credentials?” he snapped. Steps were clattering towards them from beyond the corner round which she had fled from that Spanish ruffian. “Come,” he urged again. And this time, reassured perhaps by his clear English speech, she went without further questions.
+They sped down an alley and then up another, by great good fortune meeting no one, for already they were on the outskirts of the town. They won out of it, and white-faced, physically sick, Mr. Blood dragged her almost at a run up the hill towards Colonel Bishop’s house. He told her briefly who and what he was, and thereafter there was no conversation between them until they reached the big white house. It was all in darkness, which at least was reassuring. If the Spaniards had reached it, there would be lights. He knocked, but had to knock again and yet again before he was answered. Then it was by a voice from a window above.
+“Who is there?” The voice was Miss Bishop’s, a little tremulous, but unmistakably her own.
+Mr. Blood almost fainted in relief. He had been imagining the unimaginable. He had pictured her down in that hell out of which he had just come. He had conceived that she might have followed her uncle into Bridgetown, or committed some other imprudence, and he turned cold from head to foot at the mere thought of what might have happened to her.
+“It is I﻿—Peter Blood,” he gasped.
+“What do you want?”
+It is doubtful whether she would have come down to open. For at such a time as this it was no more than likely that the wretched plantation slaves might be in revolt and prove as great a danger as the Spaniards. But at the sound of her voice, the girl Mr. Blood had rescued peered up through the gloom.
+“Arabella!” she called. “It is I, Mary Traill.”
+“Mary!” The voice ceased above on that exclamation, the head was withdrawn. After a brief pause the door gaped wide. Beyond it in the wide hall stood Miss Arabella, a slim, virginal figure in white, mysteriously revealed in the gleam of a single candle which she carried.
+Mr. Blood strode in followed by his distraught companion, who, falling upon Arabella’s slender bosom, surrendered herself to a passion of tears. But he wasted no time.
+“Whom have you here with you? What servants?” he demanded sharply.
+The only male was James, an old negro groom.
+“The very man,” said Blood. “Bid him get out horses. Then away with you to Speightstown, or even farther north, where you will be safe. Here you are in danger﻿—in dreadful danger.”
+“But I thought the fighting was over﻿ ﻿…” she was beginning, pale and startled.
+“So it is. But the deviltry’s only beginning. Miss Traill will tell you as you go. In God’s name, madam, take my word for it, and do as I bid you.”
+“He﻿ ﻿… he saved me,” sobbed Miss Traill.
+“Saved you?” Miss Bishop was aghast. “Saved you from what, Mary?”
+“Let that wait,” snapped Mr. Blood almost angrily. “You’ve all the night for chattering when you’re out of this, and away beyond their reach. Will you please call James, and do as I say﻿—and at once!”
+“You are very peremptory﻿ ﻿…”
+“Oh, my God! I am peremptory! Speak, Miss Traill, tell her whether I’ve cause to be peremptory.”
+“Yes, yes,” the girl cried, shuddering. “Do as he says﻿—Oh, for pity’s sake, Arabella.”
+Miss Bishop went off, leaving Mr. Blood and Miss Traill alone again.
+“I﻿ ﻿… I shall never forget what you did, sir,” said she, through her diminishing tears. She was a slight wisp of a girl, a child, no more.
+“I’ve done better things in my time. That’s why I’m here,” said Mr. Blood, whose mood seemed to be snappy.
+She didn’t pretend to understand him, and she didn’t make the attempt.
+“Did you﻿ ﻿… did you kill him?” she asked, fearfully.
+He stared at her in the flickering candlelight. “I hope so. It is very probable, and it doesn’t matter at all,” he said. “What matters is that this fellow James should fetch the horses.” And he was stamping off to accelerate these preparations for departure, when her voice arrested him.
+“Don’t leave me! Don’t leave me here alone!” she cried in terror.
+He paused. He turned and came slowly back. Standing above her he smiled upon her.
+“There, there! You’ve no cause for alarm. It’s all over now. You’ll be away soon﻿—away to Speightstown, where you’ll be quite safe.”
+The horses came at last﻿—four of them, for in addition to James who was to act as her guide, Miss Bishop had her woman, who was not to be left behind.
+Mr. Blood lifted the slight weight of Mary Traill to her horse, then turned to say goodbye to Miss Bishop, who was already mounted. He said it, and seemed to have something to add. But he did not.
+The horses started, and receded into the sapphire starlit night, leaving him standing there before Colonel Bishop’s door. The last he heard of them was Mary Traill’s childlike voice calling back on a quavering note﻿—
+“I shall never forget what you did, Mr. Blood. I shall never forget.”
+But as it was not the voice he desired to hear, the assurance brought him little satisfaction. He stood there in the dark watching the fireflies amid the rhododendrons, till the hoofbeats had faded. Then he sighed and roused himself. He had much to do. His journey into the town had not been one of idle curiosity to see how the Spaniards conducted themselves in victory. It had been inspired by a very different purpose, and he had gained in the course of it all the information he desired. He had an extremely busy night before him, and must be moving.
+He went off briskly in the direction of the stockade, where his fellow-slaves awaited him in deep anxiety and some hope.

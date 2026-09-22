@@ -1,0 +1,863 @@
+====================================================================================================
+### robert-louis-stevenson_poetry  (14 files)
+  块: O=593 C=593 OK | 段: EN=9214 CN=9691 !!差 -477
+     [不对称] poems-001-015.md                                     O=27 C=27 段EN=643 段CN=671
+     [不对称] poems-016-030.md                                     O=15 C=15 段EN=208 段CN=222
+     [不对称] poems-031-045.md                                     O=15 C=15 段EN=210 段CN=224
+     [不对称] poems-046-060.md                                     O=17 C=17 段EN=293 段CN=313
+     [不对称] poems-061-075.md                                     O=15 C=15 段EN=413 段CN=427
+     [不对称] poems-076-090.md                                     O=16 C=16 段EN=447 段CN=464
+     [不对称] poems-091-105.md                                     O=18 C=18 段EN=392 段CN=409
+     [不对称] poems-106-120.md                                     O=230 C=230 段EN=1852 段CN=1915
+     [不对称] poems-121-135.md                                     O=18 C=18 段EN=633 段CN=657
+     [不对称] poems-136-150.md                                     O=18 C=18 段EN=459 段CN=486
+     [不对称] poems-151-165.md                                     O=33 C=33 段EN=758 段CN=790
+     [不对称] poems-166-180.md                                     O=59 C=59 段EN=1052 段CN=1109
+     [不对称] poems-181-195.md                                     O=61 C=61 段EN=842 段CN=933
+     [不对称] poems-196-210.md                                     O=51 C=51 段EN=1012 段CN=1071
+  英文残留(剔括注) top: the×111, The×77, of×58, and×49, To×44, in×34, to×31, My×31, Is×20, Love×15
+  -- 术语表硬约束行 843 条:
+     Alison Cunningham              → 艾莉森·坎宁安              源×0     译×0     ★源0次(幽灵?)
+     Alison Cunningham ("Cummy")    → 卡米（艾莉森·坎宁安）          源×0     译×0     ★源0次(幽灵?)
+     H. F. Brown                    → H. F. 布朗             源×1     译×1    
+     W. E. Henley                   → W. E. 亨利             源×0     译×0     ★源0次(幽灵?)
+     S. R. Crockett                 → S. R. 克罗克特           源×0     译×0     ★源0次(幽灵?)
+     Leerie                         → 利里                   源×4     译×4    
+     Robin / Rob / Bob              → 罗宾 / 罗伯 / 鲍勃         源×16    译×16   
+     Ben                            → 本                    源×8     译×72   
+     Doctor Pill                    → 皮尔大夫                 源×1     译×1    
+     Miss Trevanion                 → 特雷文尼安小姐              源×1     译×1    
+     Deacon Thin                    → 执事锡恩                 源×1     译×1    
+     Cortez                         → 科尔特斯                 源×1     译×1    
+     Alaric                         → 阿拉里克                 源×1     译×1    
+     Apollo (Palinurus)             → 阿波罗（帕利努鲁斯）           源×5     译×7    
+     Bruce                          → 布鲁斯                  源×2     译×2    
+     Stanley                        → 斯坦利                  源×1     译×1    
+     Amphion                        → 安菲翁                  源×1     译×1    
+     Uncle Jim                      → 吉姆舅舅                 源×1     译×1    
+     William Tell                   → 威廉·泰尔                源×1     译×1    
+     Ali Baba                       → 阿里巴巴                 源×1     译×1    
+     Willie                         → 威利                   源×1     译×1    
+     Henrietta                      → 亨丽埃塔                 源×0     译×0     ★源0次(幽灵?)
+     Minnie                         → 明妮                   源×1     译×1    
+     Louis Sanchez / Little Louis   → 路易·桑切斯 / 小路易         源×2     译×3    
+     Ori A Ori / Teriitera          → 奥利·阿·奥利 / 特里蒂拉       源×2     译×2    
+     Támatéa                        → 塔马蒂亚                 源×19    译×19   
+     Rahéro                         → 拉埃罗                  源×34    译×35   
+     Honoura                        → 奥努拉                  源×2     译×2    
+     Ahupu                          → 阿胡普                  源×1     译×1    
+     Hiopa                          → 希奥帕                  源×10    译×10   
+     Taheia                         → 塔希娅                  源×33    译×36   
+     Rua                            → 鲁阿                   源×49    译×48   
+     Hoka                           → 霍卡                   源×2     译×2    
+     Stewart / Cameron              → 斯图亚特 / 卡梅隆           源×13    译×16   
+     Dr. Hake                       → 黑克博士                 源×0     译×0     ★源0次(幽灵?)
+     Felix                          → 菲利克斯                 源×1     译×1     残留「完美之友」×1
+     Jackson                        → 杰克逊                  源×2     译×2    
+     Horatio F. Brown               → 霍雷肖·F. 布朗            源×0     译×0     ★源0次(幽灵?)
+     Albert Dew-Smith               → 阿尔伯特·杜-史密斯           源×0     译×0     ★源0次(幽灵?)
+     Aeneas William Mackintosh      → 埃涅阿斯·威廉·麦金托什         源×1     译×1    
+     Virgil Williams                → 维吉尔·威廉斯              源×0     译×0     ★源0次(幽灵?)
+     Dora Williams                  → 多拉·威廉斯               源×0     译×0     ★源0次(幽灵?)
+     Mrs. A. Baker                  → A. 贝克夫人              源×1     译×1    
+     Adela Chart                    → 阿德拉·查特               源×4     译×4    
+     A. Tusher                      → 啐者（A. Tusher）        源×1     译×1    
+     Goethe                         → 歌德                   源×1     译×1    
+     Alcestis                       → 阿尔刻斯提斯               源×1     译×1    
+     Jenny                          → 珍妮                   源×2     译×2    
+     Sydney                         → 西德尼                  源×0     译×0     ★源0次(幽灵?)
+     Marcus                         → 马库斯                  源×0     译×0     ★源0次(幽灵?)
+     Ottilie                        → 奥蒂莉                  源×0     译×0     ★源0次(幽灵?)
+     Grandam Grundy / Mrs. Grundy   → 格兰迪老奶奶 / 格兰迪夫人       源×2     译×2    
+     Chatterton                     → 查特顿                  源×1     译×1    
+     Rousseau                       → 卢梭                   源×1     译×1    
+     Martial                        → 马提雅尔                 源×6     译×7    
+     Maximus                        → 马克西穆斯                源×1     译×2    
+     Olus                           → 奥卢斯                  源×0     译×0     ★源0次(幽灵?)
+     Mica                           → 米卡                   源×0     译×1     ★源0次(幽灵?)
+     Erotion                        → 埃罗提翁                 源×1     译×4    
+     Priapus                        → 普里阿普斯                源×2     译×3    
+     Merlin                         → 梅林                   源×1     译×1    
+     Maclean                        → 麦克莱恩                 源×1     译×1    
+     Kingston                       → 金士顿                  源×2     译×2    
+     Ballantyne                     → 巴兰坦                  源×2     译×2    
+     Cooper                         → 库珀                   源×2     译×2    
+     Voltaire                       → 伏尔泰                  源×0     译×0     ★源0次(幽灵?) 残留「伏尔泰式的微笑」×1
+     Rosabelle                      → 罗莎贝尔                 源×1     译×1    
+     Swinburne                      → 斯温伯恩                 源×0     译×2     ★源0次(幽灵?)
+     Robert Burns                   → 罗伯特·彭斯               源×0     译×1     ★源0次(幽灵?)
+     Wordsworth                     → 华兹华斯                 源×1     译×2    
+     Horace                         → 贺拉斯                  源×1     译×1    
+     Montaigne                      → 蒙田                   源×1     译×1    
+     Pepys                          → 佩皮斯                  源×1     译×1    
+     Lazil                          → 拉齐尔                  源×1     译×1    
+     Peden                          → 佩登                   源×1     译×1    
+     Prince Charlie                 → 查理王子                 源×1     译×1    
+     Phaeton                        → 法厄同                  源×1     译×1    
+     Daniel                         → 但以理                  源×1     译×1    
+     Elijah                         → 以利亚                  源×2     译×2    
+     Napier                         → 纳皮尔                  源×1     译×1     残留「魔法之地梅奇斯顿」×1
+     Aladdin                        → 阿拉丁                  源×1     译×1     残留「不可思议的阿拉丁」×1
+     Nepos                          → 内波斯                  源×2     译×2    
+     Charidemus                     → 查里德穆斯                源×1     译×1    
+     Ligurra                        → 利古拉                  源×1     译×1    
+     Lupus                          → 卢普斯                  源×0     译×0     ★源0次(幽灵?)
+     Quintilian                     → 昆体良                  源×1     译×2    
+     Antoninus                      → 安东尼尼                 源×1     译×2    
+     A Child's Garden of Verses     → 《儿童诗园》               源×1     译×0     ★译0次(未落位?)
+     Bed in Summer                  → 夏日的床                 源×1     译×1    
+     My Shadow                      → 我的影子                 源×2     译×2    
+     The Lamplighter                → 点灯人                  源×1     译×1    
+     The Land of Counterpane        → 棉被王国                 源×1     译×2    
+     The Land of Nod                → 瞌睡乡                  源×4     译×4    
+     System                         → 规矩                   源×1     译×2    
+     A Good Boy                     → 好孩子                  源×1     译×2    
+     Escape at Bedtime              → 临睡前的逃奔               源×1     译×1    
+     Marching Song                  → 行军歌                  源×1     译×1    
+     The Cow                        → 奶牛                   源×1     译×2    
+     Happy Thought                  → 快乐的想法                源×1     译×1    
+     The Wind                       → 风                    源×67    译×231  
+     Keepsake Mill                  → 纪念磨坊                 源×1     译×1    
+     Good and Bad Children          → 好孩子和坏孩子              源×1     译×1    
+     Foreign Children               → 外国的小孩                源×1     译×1    
+     The Sun's Travels              → 太阳的旅行                源×1     译×1    
+     My Bed Is a Boat               → 我的床是条小船              源×1     译×1    
+     The Moon                       → 月亮                   源×21    译×14   
+     The Swing                      → 秋千                   源×4     译×4    
+     Young Night Thought            → 小小夜思                 源×1     译×0     ★译0次(未落位?)
+     Whole Duty of Children         → 孩子的本分                源×1     译×1    
+     Rain                           → 雨                    源×59    译×93   
+     Pirate Story                   → 海盗的故事                源×1     译×1    
+     Foreign Lands                  → 异乡                   源×3     译×9    
+     Windy Nights                   → 风之夜                  源×1     译×1    
+     Travel                         → 远行                   源×9     译×6    
+     Singing                        → 歌声                   源×24    译×33   
+     Looking Forward                → 向往                   源×1     译×5    
+     A Good Play                    → 一场好玩的游戏              源×1     译×1    
+     Where Go the Boats?            → 小船驶向何方？              源×1     译×1    
+     Auntie's Skirts                → 姑姑的裙子                源×1     译×1    
+     Not I                          → 非我也                  源×7     译×2     落位偏低 2/7
+     Here, Perfect to a Wish        → 尽如人意                 源×2     译×2    
+     As Seamen on the Seas          → 宛若水手航行海上             源×2     译×1    
+     The Pamphlet Here Presented    → 此处呈献之小册              源×2     译×1    
+     See How the Children in the Pr → 看画中孩童                源×2     译×1    
+     Reader, Your Soul Upraise to S → 读者，且高扬你的心灵来看         源×2     译×1    
+     A Peak in Darien               → 达连之巅                 源×1     译×1    
+     See in the Print, How Moved by → 看画中，因一时兴起            源×2     译×1    
+     Mark, Printed on the Opposing  → 且看对面页上所印             源×2     译×2    
+     With Storms A-Weather, Rocks A → 上风狂飙，下风暗礁            源×2     译×1    
+     The Careful Angler Chose His N → 细心的钓客择了佳处            源×2     译×2    
+     The Abbot for a Walk Went Out  → 院长出门散步               源×2     译×1    
+     The Frozen Peaks He Once Explo → 他曾踏勘冰封群峰             源×2     译×1    
+     Industrious Pirate! See Him Sw → 勤勉的海盗！看他纵横           源×2     译×2    
+     A Martial Elegy for Some Lead  → 致若干铅制士兵的军阵挽歌         源×1     译×1    
+     Proem                          → 序诗                   源×1     译×1    
+     The Precarious Mill            → 摇摇欲坠的磨坊              源×1     译×1    
+     The Disputatious Pines         → 爱争吵的松树               源×1     译×1    
+     The Tramps                     → 流浪汉                  源×2     译×4    
+     The Foolhardy Geographer       → 鲁莽的地理学家              源×1     译×1    
+     The Angler & The Clown         → 钓客与小丑                源×1     译×1    
+     Robin and Ben                  → 罗宾与本                 源×2     译×2    
+     The Builder's Doom             → 建筑者的报应               源×1     译×1    
+     To Alison Cunningham           → 致艾莉森·坎宁安             源×1     译×1    
+     A Thought                      → 一个念头                 源×3     译×6    
+     At the Sea-Side                → 在海滨                  源×1     译×2    
+     Time to Rise                   → 起床啦                  源×1     译×0     ★译0次(未落位?)
+     Looking-Glass River            → 镜面河                  源×1     译×1    
+     Fairy Bread                    → 仙童面包                 源×2     译×2    
+     From a Railway Carriage        → 火车车厢里                源×1     译×1    
+     Winter-Time                    → 冬日                   源×2     译×18   
+     The Hayloft                    → 干草阁                  源×2     译×3    
+     Farewell to the Farm           → 别了，农庄                源×1     译×1    
+     North-West Passage             → 西北航程                 源×1     译×1    
+     Good Night                     → 晚安                   源×2     译×2    
+     Shadow March                   → 影子行军                 源×1     译×1    
+     In Port                        → 入港                   源×1     译×2    
+     The Unseen Playmate            → 看不见的玩伴               源×1     译×1    
+     My Ship and I                  → 我的小船和我               源×1     译×1    
+     My Kingdom                     → 我的王国                 源×1     译×1    
+     Picture-Books in Winter        → 冬日的图画书               源×1     译×1    
+     My Treasures                   → 我的宝贝                 源×2     译×2    
+     Block City                     → 积木城                  源×1     译×1    
+     The Land of Story-Books        → 故事书的国度               源×1     译×2    
+     Armies in the Fire             → 火中的军队                源×1     译×0     ★译0次(未落位?)
+     The Little Land                → 小小国                  源×1     译×1    
+     Night and Day                  → 夜与昼                  源×2     译×1    
+     Nest Eggs                      → 巢中的蛋                 源×1     译×1    
+     The Flowers                    → 花                    源×13    译×170  
+     Summer Sun                     → 夏日的太阳                源×2     译×1    
+     The Dumb Soldier               → 沉默的士兵                源×1     译×1    
+     Autumn Fires                   → 秋天的篝火                源×1     译×2    
+     The Gardener                   → 园丁                   源×3     译×6    
+     Historical Associations        → 历史的联想                源×1     译×1    
+     To Willie and Henrietta        → 致威利和亨丽埃塔             源×1     译×1    
+     To My Mother                   → 致母亲                  源×1     译×1    
+     To Auntie                      → 致姑姑                  源×1     译×1    
+     To Minnie                      → 致明妮                  源×2     译×2    
+     To My Name-Child               → 致与我同名的小家伙            源×1     译×1    
+     To Any Reader                  → 致读者                  源×1     译×0     ★译0次(未落位?)
+     Envoy                          → 跋诗                   源×2     译×2    
+     A Song of the Road             → 行路之歌                 源×1     译×1    
+     The Canoe Speaks               → 独木舟的诉说               源×1     译×1    
+     It Is the Season Now to Go     → 此正出游好时节              源×2     译×1    
+     The House Beautiful            → 美哉此居                 源×1     译×1    
+     A Visit from the Sea           → 海的造访                 源×1     译×1    
+     To a Gardener                  → 致园丁                  源×1     译×1    
+     To K. de M.                    → 致 K. 德 M.            源×1     译×1    
+     To N. V. de G. S.              → 致 N. V. 德 G. S.      源×1     译×1    
+     To Will. H. Low                → 致威尔·H. 洛             源×1     译×1    
+     To Mrs. Will. H. Low           → 致威尔·H. 洛夫人           源×1     译×1    
+     To Andrew Lang                 → 致安德鲁·朗               源×1     译×1    
+     Et Tu in Arcadia Vixisti       → 你也曾居于阿卡迪亚            源×1     译×1    
+     To W. E. Henley                → 致 W. E. 亨利           源×1     译×0     ★译0次(未落位?)
+     Henry James                    → 亨利·詹姆斯               源×3     译×3    
+     The Mirror Speaks              → 镜子的诉说                源×1     译×1    
+     Katharine                      → 凯瑟琳                  源×1     译×1    
+     To F. J. S.                    → 致 F. J. S.           源×1     译×1    
+     Requiem                        → 安魂曲                  源×1     译×1    
+     The Celestial Surgeon          → 天上之外科医               源×1     译×1    
+     Our Lady of the Snows          → 雪之圣母                 源×1     译×1    
+     Not Yet, My Soul, These Friend → 我的灵魂啊，莫急着离开这些亲切的田野   源×2     译×1    
+     It Is Not Yours, O Mother, to  → 母亲啊，不是你来抱怨           源×2     译×2    
+     The Sick Child                 → 病中的孩子                源×2     译×1    
+     In Memoriam F. A. S.           → 悼 F. A. S.           源×1     译×1    
+     To My Father                   → 致父亲                  源×1     译×1    
+     In the States                  → 在合众国                 源×1     译×1    
+     A Portrait                     → 一幅肖像                 源×1     译×1    
+     Sing Clearlier, Muse, or Everm → 唱得更清澈些吧，缪斯，否则就永远噤声   源×4     译×2     落位偏低 2/4
+     A Camp                         → 一处营地                 源×1     译×1    
+     The Country of the Camisards   → 卡米撒派的故乡              源×1     译×1    
+     If This Were Faith             → 倘若这便是信仰              源×2     译×0     ★译0次(未落位?)
+     My Wife                        → 我的妻子                 源×5     译×3    
+     To the Muse                    → 致缪斯                  源×2     译×1    
+     To an Island Princess          → 致一位岛上的公主             源×1     译×1    
+     To Kalakaua                    → 致卡拉卡瓦                源×1     译×1    
+     To Princess Kaiulani           → 致卡伊乌拉尼公主             源×1     译×1    
+     To Mother Maryanne             → 致玛丽安嬷嬷               源×1     译×1    
+     In Memoriam E. H.              → 悼 E. H.              源×1     译×1    
+     To My Wife                     → 致妻子                  源×1     译×1    
+     To My Old Familiars            → 致故交老友                源×1     译×1    
+     The Tropics Vanish, and Meseem → 热带消隐，我恍觉自己           源×2     译×1    
+     To S. C.                       → 致 S. C.              源×1     译×1    
+     The House of Tembinoka         → 坦比诺卡之家               源×1     译×1    
+     The Woodman                    → 伐木人                  源×1     译×1    
+     Tropic Rain                    → 热带的雨                 源×1     译×1    
+     An End of Travel               → 旅行的尽头                源×1     译×1    
+     We Uncommiserate Pass Into the → 我们无人怜惜地没入长夜          源×2     译×1    
+     Sing Me a Song of a Lad That I → 为我唱一首那远去少年的歌         源×4     译×4    
+     Skerryvore                     → 斯凯里沃尔                源×3     译×2    
+     "My House," I Say. But Hark to → "我的房子，"我说。且听那阳光下的鸽子  源×0     译×1     ★源0次(幽灵?)
+     My Body Which My Dungeon Is    → 我的身体，我的牢狱            源×2     译×1    
+     Say Not of Me That Weakly I De → 莫说我怯懦地推卸             源×2     译×2    
+     The Song of Rahéro             → 拉埃罗之歌                源×1     译×1    
+     The Feast of Famine            → 饥荒之宴                 源×1     译×1    
+     Ticonderoga                    → 提康德罗加                源×4     译×5    
+     Heather Ale                    → 石楠花酿                 源×3     译×3    
+     Christmas at Sea               → 海上的圣诞节               源×1     译×1    
+     The Vagabond                   → 流浪者                  源×1     译×2    
+     Youth and Love—I               → 青春与爱——之一             源×0     译×1     ★源0次(幽灵?)
+     Youth and Love—II              → 青春与爱——之二             源×0     译×1     ★源0次(幽灵?)
+     In Dreams, Unhappy, I Behold Y → 梦中不乐，我见你伫立           源×2     译×2    
+     She Rested by the Broken Brook → 她在断流的小溪旁歇息           源×2     译×2    
+     The Infinite Shining Heavens   → 无垠璀璨的诸天              源×2     译×2    
+     Plain as the Glistering Planet → 明如闪耀的行星辉光            源×2     译×2    
+     To You, Let Snow and Roses     → 愿雪与玫瑰归属于你            源×2     译×1    
+     Let Beauty Awake in the Morn f → 愿美在清晨自美梦中醒来          源×2     译×2    
+     I Know Not How It Is with You  → 不知你是如何               源×2     译×2    
+     I Will Make You Brooches and T → 我要为你做胸针与玩物，博你欢喜      源×2     译×2    
+     We Have Loved of Yore          → 我们昔日曾爱               源×2     译×2    
+     Mater Triumphans               → 凯旋之母                 源×1     译×1    
+     Bright Is the Ring of Words    → 字句之环何其明亮             源×2     译×2    
+     In the Highlands, in the Count → 在高地，在乡野之地            源×2     译×2    
+     Home No More Home to Me, Whith → 家不再是家，我该漂向何方？        源×2     译×2    
+     Winter                         → 冬                    源×35    译×24   
+     The Stormy Evening Closes Now  → 风雨之夜此时徒然地合拢          源×2     译×2    
+     To Dr. Hake                    → 致黑克博士                源×1     译×1    
+     To —⁠—⁠—                       → 致——                  源×0     译×1     ★源0次(幽灵?)
+     The Morning Drum-Call on My Ea → 晨鼓之声叩我热切的耳           源×2     译×2    
+     I Have Trod the Upward and the → 我已踏过上行与下行的坡          源×2     译×2    
+     He Hears with Gladdened Heart  → 他怀着欣喜之心听见雷声          源×2     译×1    
+     Farewell, Fair Day and Fading  → 别了，良辰与将逝的光！          源×2     译×2    
+     To Mesdames Zassetsky and Gars → 致扎塞茨基夫人和加尔申夫人        源×1     译×0     ★译0次(未落位?)
+     To Madame Garschine            → 致加尔申夫人               源×1     译×1    
+     Music at the Villa Marina      → 海滨别墅的音乐              源×1     译×1    
+     Fear Not, Dear Friend, but Fre → 亲爱的朋友，莫惧，尽情地活过你的日子吧  源×2     译×2    
+     Let Love Go, if Go She Will    → 让爱走吧，若她执意要走          源×2     译×2    
+     I Do Not Fear to Own Me Kin    → 我不怕认下我的亲族            源×2     译×2    
+     I Am Like One That for Long Da → 我就像一个人，曾久久地坐着        源×2     译×1    
+     Voluntary                      → 即兴曲                  源×1     译×1    
+     On Now, Although the Year Be D → 往前走吧，纵然这一年已终了        源×2     译×2    
+     In the Green and Gallant Sprin → 在葱茏而英姿勃发的春天          源×2     译×2    
+     Death, to the Dead for Evermor → 死亡啊，对死者永远如此          源×1     译×2    
+     I Who All the Winter Through   → 我，整个冬天               源×2     译×2    
+     Love, What Is Love?            → 爱，爱是什么？              源×1     译×1    
+     Soon Our Friends Perish        → 不久，我们的友人便逝去了         源×2     译×2    
+     As One Who Having Wandered All → 如同一个人，在整夜的迷途跋涉之后     源×2     译×2    
+     Strange Are the Ways of Men    → 人的行径何其离奇             源×2     译×2    
+     The Wind Blew Shrill and Smart → 风儿尖厉而凛冽地吹            源×2     译×2    
+     Man Sails the Deep Awhile      → 人啊，在深海之上航行片刻         源×2     译×2    
+     The Cock's Clear Voice Into th → 雄鸡清亮的嗓音传入更清朗的空中      源×2     译×2    
+     Now When the Number of My Year → 如今，当我的岁数             源×2     译×2    
+     What Man May Learn, What Man M → 人所能学、人所能做的           源×2     译×2    
+     Small Is the Trust When Love I → 当爱尚青涩，信任便微薄          源×2     译×2    
+     Know You the River Near to Gre → 你可知道格雷附近的那条河         源×2     译×2    
+     It's Forth Across the Roaring  → 跨过那咆哮的浪沫，往西而去        源×2     译×2    
+     An English Breeze              → 英格兰的一阵风              源×1     译×1    
+     As in Their Flight the Birds o → 如同歌禽在飞翔之中            源×2     译×2    
+     The Piper                      → 吹笛人                  源×1     译×3    
+     To Mrs. Macmarland             → 致麦克马兰夫人              源×1     译×1    
+     To Miss Cornish                → 致科尼什小姐               源×1     译×1    
+     Tales of Arabia                → 阿拉伯的故事               源×2     译×2    
+     Behold, as Goblins Dark of Mie → 看哪，正如那面目阴沉的妖怪        源×2     译×2    
+     Still I Love to Rhyme          → 我依然热爱押韵              源×2     译×2    
+     Long Time I Lay in Little Ease → 我长久地卧病在不安之中          源×2     译×2    
+     Flower God, God of the Spring  → 花神啊，春天之神             源×2     译×2    
+     Come, My Beloved, Hear from Me → 来吧，我的爱人，听我说          源×2     译×2    
+     Since Years Ago for Evermore   → 自许多年前，永远地            源×1     译×2    
+     Envoy for "A Child's Garden of → 《儿童诗园》跋诗             源×0     译×1     ★源0次(幽灵?)
+     For Richmond's Garden Wall     → 为里士满的花园墙             源×1     译×1    
+     Hail, Guest, and Enter Freely! → 欢迎，客人，请自由地进来吧！       源×2     译×2    
+     Lo, Now, My Guest              → 看哪，如今，我的客人           源×2     译×2    
+     So Live, So Love, So Use That  → 如此生活，如此爱，如此度过那脆弱的一小时 源×2     译×2    
+     Ad Se Ipsum                    → 致自己                  源×1     译×1    
+     Before This Little Gift Was Co → 在这件小小的礼物到来之前         源×2     译×2    
+     Go, Little Book—The Ancient Ph → 去吧，小书——那句古老的辞语       源×0     译×1     ★源0次(幽灵?)
+     My Love Was Warm               → 我的爱曾是炽热的             源×2     译×2    
+     Dedicatory Poem for "Underwood → 《林之下》献辞诗             源×0     译×1     ★源0次(幽灵?)
+     Farewell                       → 别了                   源×15    译×13   
+     The Far-Farers                 → 远行人                  源×3     译×1     落位偏低 1/3
+     Come, My Little Children, Here → 来吧，我的小小孩，这里有歌给你们     源×2     译×2    
+     Home from the Daisied Meadows  → 从雏菊盛开的草甸回家吧          源×2     译×2    
+     Early in the Morning I Hear on → 清晨，我听见你的钢琴           源×2     译×1    
+     Fair Isle at Sea               → 海上的仙岛                源×2     译×2    
+     Loud and Low in the Chimney    → 烟囱里忽高忽低              源×2     译×1    
+     I Love to Be Warm by the Red F → 我爱在火红的炉边取暖           源×2     译×1    
+     At Last She Comes              → 她终于来了                源×2     译×2    
+     Mine Eyes Were Swift to Know T → 我的眼曾敏捷地认出你           源×2     译×2    
+     Fixed Is the Doom              → 命运已定                 源×2     译×2    
+     Men Are Heaven's Piers         → 人是上天的支柱              源×2     译×2    
+     The Angler Rose, He Took His R → 钓客起身，拿起钓竿            源×2     译×2    
+     To S. R. Crockett              → 致 S. R. 克罗克特         源×1     译×0     ★译0次(未落位?)
+     Evensong                       → 晚祷                   源×2     译×2    
+     The Light-Keeper               → 灯塔守护人                源×2     译×3    
+     A Familiar Epistle             → 一封家常书信               源×1     译×1    
+     Rondels                        → 回旋诗                  源×1     译×2    
+     Far Have You Come, My Lady, fr → 夫人，你远道自城中而来          源×4     译×4    
+     Nous N’Irons Plus Au Bois      → 我们不再去林中              源×2     译×5    
+     Since I Am Sworn to Live My Li → 既然我已发誓要过我的人生         源×8     译×8    
+     Of His Pitiable Transformation → 论他可悲的蜕变              源×1     译×1    
+     The Susquehannah and the Delaw → 萨斯奎哈纳与特拉华            源×1     译×2    
+     Epistle to Albert Dew-Smith    → 致阿尔伯特·杜-史密斯          源×1     译×1    
+     Alcaics to Horatio F. Brown    → 致霍雷肖·F. 布朗的阿尔凯奥斯体诗   源×1     译×1    
+     A Lytle Jape of Tusherie       → 一则关于「啐」的小趣剧          源×1     译×1    
+     To Virgil and Dora Williams    → 致维吉尔与多拉·威廉斯          源×1     译×1    
+     Burlesque Sonnet               → 谐谑十四行诗               源×1     译×1    
+     The Fine Pacific Islands       → 美丽的太平洋群岛             源×1     译×1    
+     The Lesson of the Master       → 大师的教诲                源×1     译×1    
+     The Consecration of Braille    → 布莱叶盲文的祝圣             源×1     译×1    
+     Song                           → 歌                    源×66    译×154  
+     Prayer                         → 祈祷                   源×6     译×4    
+     Lo! In Thine Honest Eyes I Rea → 看哪！在你真诚的眼中我读到        源×2     译×2    
+     Though Deep Indifference Shoul → 纵然深深的冷漠昏昏欲睡          源×2     译×1    
+     My Heart, When First the Black → 我的心，当画眉初啼            源×2     译×2    
+     I Dreamed of Forest Alleys Fai → 我梦见林间的小径秀美           源×2     译×2    
+     St. Martin's Summer            → 圣马丁的小阳春              源×1     译×1    
+     Dedication                     → 献辞                   源×2     译×2    
+     The Old Chimaeras, Old Receipt → 旧的幻象，旧的方剂            源×2     译×1    
+     Prelude                        → 序曲                   源×1     译×1    
+     The Vanquished Knight          → 落败的骑士                源×1     译×1    
+     To the Commissioners of Northe → 致北方灯塔委员会的委员们         源×1     译×1    
+     The Relic Taken, What Avails t → 圣物既失，神龛何用？           源×2     译×1    
+     About the Sheltered Garden Gro → 在这避风的园子周围            源×2     译×2    
+     After Reading "Antony and Cleo → 读《安东尼与克莉奥佩特拉》之后      源×0     译×1     ★源0次(幽灵?)
+     I Know Not How, but as I Count → 我不知为何，但当我一一数算        源×2     译×2    
+     Spring Song                    → 春之歌                  源×1     译×4    
+     The Summer Sun Shone Round Me  → 夏日的太阳照在我四周           源×2     译×2    
+     You Looked So Tempting in the  → 你在教堂座席上看着如此诱人        源×2     译×2    
+     Love's Vicissitudes            → 爱的盛衰                 源×1     译×1    
+     Duddingstone                   → 达丁斯通                 源×1     译×1    
+     Stout Marches Lead to Certain  → 坚定的行军通向确然的终点         源×2     译×2    
+     Away with Funeral Music        → 去吧，葬礼的哀乐             源×2     译×2    
+     To Sydney                      → 致西德尼                 源×1     译×1    
+     Had I the Power That Have the  → 假若我有那意愿所具的力量         源×2     译×2    
+     O Dull Cold Northern Sky       → 噢，阴沉冰冷的北方天空          源×2     译×2    
+     Apologetic Postscript of a Yea → 一年之后的致歉附笔            源×1     译×1    
+     To Marcus                      → 致马库斯                 源×1     译×1    
+     To Ottilie                     → 致奥蒂莉                 源×1     译×1    
+     This Gloomy Northern Day       → 这阴郁的北方之日             源×2     译×2    
+     The Wind Is Without There and  → 风外面，在树间呼啸            源×2     译×0     ★译0次(未落位?)
+     A Valentine's Song             → 一首情人节的歌              源×1     译×1    
+     Hail! Childish Slaves of Socia → 喂！社会规矩的幼稚奴仆们         源×2     译×2    
+     Swallows Travel to and Fro     → 燕子南来北往               源×2     译×2    
+     Ad Martialem                   → 致马提雅尔                源×1     译×1    
+     In Maximum                     → 致马克西穆斯               源×1     译×2    
+     Ad Olum                        → 致奥卢斯                 源×1     译×2    
+     De Cœnatione Micæ              → 论米卡的晚餐               源×1     译×1     残留「论米卡的小晚餐」×1
+     De Erotio Puella               → 论少女埃罗提翁              源×1     译×2    
+     Ad Piscatorem                  → 致钓客                  源×1     译×2    
+     The Mill-House                 → 磨坊小屋                 源×1     译×2    
+     The Well-Head                  → 泉源                   源×1     译×7    
+     A Summer Night                 → 夏夜                   源×1     译×2    
+     Take Not My Hand as Mine Alone → 莫只当作我的手来牵            源×2     译×2    
+     All Influences Were in Vain    → 一切影响都属徒然             源×2     译×2    
+     Death                          → 死神                   源×78    译×16    落位偏低 16/78
+     The Moon Is Sinking—The Tempes → 月正西沉——风雨愈烈           源×0     译×2     ★源0次(幽灵?)
+     The Whole Day Thro', in Contem → 整日里，带着蔑视与怜悯          源×2     译×2    
+     The Old World Moans and Topes  → 旧世界呻吟纵饮              源×2     译×1    
+     I Am Like One That Has Sat Alo → 我就像一个独坐终日的人          源×2     译×2    
+     I Sit Up Here at Midnight      → 我在午夜枯坐于此             源×2     译×2    
+     Link Your Arm in Mine, My Lad  → 挽起手臂，我的小伙子           源×2     译×1    
+     I Have a Friend; I Have a Stor → 我有一位朋友；我有一段往事        源×2     译×2    
+     Hopes                          → 希望                   源×19    译×65   
+     To a Youth                     → 致一位少年                源×1     译×1    
+     Here He Comes, Big with Statis → 他来了，肚里装满统计数据         源×2     译×1    
+     In Autumn When the Woods Are R → 秋日当林木尽赤              源×3     译×2    
+     The Look of Death Is Both Seve → 死神的面容既严厉又温和          源×4     译×4    
+     Her Name Is as a Word of Old R → 她的名字宛如一个古老传奇的字眼      源×3     译×3    
+     Light as My Heart Was Long Ago → 昔日我心轻如许              源×3     译×3    
+     Gather Ye Roses While Ye May   → 有花堪折直须折              源×3     译×3    
+     Since I Am Sworn to Live My Li → 既然我已发誓要过我的人生         源×0     译×0     ★源0次(幽灵?)
+     Poem for a Class Re-Union      → 同班重聚诗                源×1     译×1    
+     I Saw Red Evening Through the  → 我透过雨幕看见猩红的黄昏         源×2     译×2    
+     Last Night We Had a Thundersto → 昨夜来了一场像样的雷暴          源×3     译×3    
+     O Lady Fair and Sweet          → 啊，温婉甜美的小姐            源×4     译×4    
+     If I Had Wings, My Lady, Like  → 小姐啊，若我有鸽子般的翅膀        源×7     译×7    
+     All Night Through, Raves or Br → 整夜不止，狂啸或郁伏           源×5     译×2     落位偏低 2/5
+     The Rain Is Over and Done      → 雨既过而止                源×2     译×2    
+     There Where the Land of Love   → 在那片爱之国度              源×2     译×1    
+     Love Is the Very Heart of Spri → 爱情正是春天的真正心脏          源×4     译×4    
+     At Morning on the Garden Seat  → 清晨在花园的长椅上            源×2     译×1    
+     If I Could Arise and Travel Aw → 若我能起身远行              源×2     译×2     残留「十诫」×4
+     Good Old Ale, Mild or Pale     → 好啤酒啊，柔和的或淡色的         源×19    译×2     落位偏低 2/19
+     Nay, but I Fancy Somehow, Year → 不，但我总隐约觉得，年复一年       源×2     译×2    
+     My Wife and I, in One Romantic → 我妻与我，同栖一处浪漫小屋        源×2     译×2    
+     Yes, I Remember, and Still Rem → 是的，我记得，至今仍记得那呼啸      源×2     译×2    
+     Of Schooners, Islands and Maro → 论纵帆船、海岛与逃亡黑奴         源×2     译×1    
+     Here Lies Erotion              → 此处长眠埃罗提翁             源×2     译×1    
+     To Priapus                     → 致普里阿普斯               源×1     译×1    
+     Far Over Seas an Island Is     → 远隔重洋有一座岛             源×2     译×2    
+     On the Gorgeous Hills of Morni → 在那绚丽的晨山之上            源×2     译×2    
+     Rivers and Winds Among the Twi → 河川与风穿梭于扭曲的群山之间       源×2     译×1    
+     I Am a Hunchback, Yellow Faced → 我是个驼背，面黄肌瘦           源×2     译×2    
+     I Look Across the Ocean        → 我眺望大洋                源×2     译×2    
+     Spring Carol                   → 春之颂歌                 源×1     译×0     ★译0次(未落位?)
+     To What Shall I Compare Her?   → 我拿什么来比她？             源×1     译×1    
+     When the Sun Comes After Rain  → 当太阳在雨后降临             源×2     译×2    
+     Late, O Miller                 → 迟了，磨坊主啊              源×2     译×2    
+     To Friends at Home             → 致故乡的友人               源×2     译×2    
+     I, Whom Apollo Sometime Visite → 我，曾被阿波罗眷顾            源×2     译×1    
+     Tempest Tossed and Sore Afflic → 风暴颠沛、苦受折磨            源×2     译×2    
+     Variant Form of the Preceding  → 前诗之变体                源×1     译×1    
+     I Now, O Friend, Whom Noiseles → 如今，朋友啊，雪花无声地落向你      源×2     译×1    
+     Since Thou Hast Given Me This  → 上帝啊，你既赐我这美好盼望        源×2     译×2    
+     God Gave to Me a Child in Part → 上帝曾部分地赐我一个孩子         源×2     译×2    
+     Over the Land Is April         → 四月降临大地               源×2     译×1    
+     Light as the Linnet on My Way  → 我上路了，轻巧如红雀           源×2     译×2    
+     Come, Here Is Adieu to the Cit → 来吧，就此告别城市            源×2     译×2    
+     It Blows a Snowing Gale        → 刮起一场暴风雪              源×2     译×2    
+     Ne Sit Ancillæ Tibi Amor Pudor → 莫让爱女仆成为你的羞耻          源×1     译×1    
+     To All That Love the Far and B → 致所有热爱远方与蔚蓝的人         源×2     译×2    
+     Thou Strainest Through the Mou → 你穿过山间的蕨丛奔流           源×2     译×2    
+     To Rosabelle                   → 致罗莎贝尔                源×1     译×1    
+     Now Bare to the Beholder’s Eye → 此刻，在观者眼前袒露           源×2     译×2    
+     Sonnets                        → 十四行诗                 源×3     译×4    
+     Air of Diabelli’s              → 迪亚贝利的一支曲调            源×1     译×1    
+     Epitaphium Erotii              → 埃罗提翁的墓志铭             源×1     译×2    
+     De M. Antonio                  → 论安东尼                 源×1     译×2    
+     Ad Magistrum Ludi              → 致校长                  源×1     译×2    
+     Ad Nepotem                     → 致内波斯                 源×1     译×2    
+     In Charidemum                  → 斥查里德穆斯               源×1     译×2    
+     De Ligurra                     → 论利古拉                 源×1     译×2    
+     In Lupum                       → 斥卢普斯                 源×1     译×2    
+     Ad Quintilianum                → 致昆体良                 源×1     译×2    
+     De Hortis Julii Martialis      → 论尤利乌斯·马提阿利斯的花园       源×1     译×2    
+     Skerryvore                     → 斯凯里沃尔                源×0     译×0     ★源0次(幽灵?)
+     Ticonderoga                    → 提康德罗加                源×0     译×0     ★源0次(幽灵?)
+     Heather Ale                    → 石楠花酿 / 石楠酒           源×0     译×0     ★源0次(幽灵?)
+     Sioux                          → 苏族                   源×2     译×2    
+     Crow                           → 克劳族                  源×3     译×2    
+     Eskimo                         → 爱斯基摩人                源×2     译×2    
+     Africa                         → 非洲                   源×1     译×1    
+     Providence                     → 普罗维登斯                源×1     译×1    
+     Babylon                        → 巴比伦                  源×3     译×3    
+     Malabar                        → 马拉巴尔                 源×1     译×1    
+     Crusoe                         → 鲁滨孙                  源×0     译×1     ★源0次(幽灵?)
+     bazaar                         → 集市                   源×1     译×2    
+     mosque                         → 清真寺                  源×1     译×1    
+     minaret                        → 尖塔（宣礼塔）              源×1     译×5    
+     the Great Wall (of China)      → （中国的）长城              源×1     译×0     ★译0次(未落位?)
+     England                        → 英格兰                  源×3     译×5    
+     the Nile                       → 尼罗河                  源×1     译×1    
+     palanquin                      → 轿子                   源×1     译×1    
+     Egypt / Egyptian               → 埃及 / 古埃及的            源×1     译×1    
+     Japan                          → 日本                   源×1     译×3    
+     Spain                          → 西班牙                  源×3     译×3    
+     buttercup                      → 毛茛                   源×1     译×1    
+     india-rubber ball              → 皮球（橡皮球）              源×1     译×1    
+     nursie                         → 保姆                   源×4     译×13   
+     counterpane                    → 棉被                   源×1     译×0     ★译0次(未落位?)
+     cockatoo                       → 鹦鹉（葵花鹦鹉）             源×0     译×3     ★源0次(幽灵?)
+     Davos                          → 达沃斯                  源×5     译×5    
+     Hatteras                       → 哈特拉斯                 源×1     译×1    
+     Matapan                        → 马塔潘                  源×1     译×1    
+     Darien                         → 达连                   源×0     译×0     ★源0次(幽灵?)
+     Araby                          → 阿拉伯                  源×1     译×2    
+     Bithynian                      → 比提尼亚                 源×1     译×1    
+     Barbados                       → 巴巴多斯                 源×1     译×1    
+     Bristol Swallow                → 布里斯托尔「燕子号」           源×1     译×0     ★译0次(未落位?)
+     Crown and Anchor               → 王冠与船锚                源×1     译×1    
+     Jolly Flag                     → 骷髅旗（快乐之旗）            源×1     译×1    
+     Wesleyan                       → 卫斯理宗（循道宗）            源×1     译×1    
+     Dodona                         → 多多纳                  源×1     译×1    
+     Siloam                         → 西罗亚                  源×1     译×1    
+     Caveat emptor                  → 货品售出，概不退换            源×1     译×1    
+     Shoddy                         → 劣质再生毛（以次充好的货）        源×3     译×1     落位偏低 1/3
+     piastre                        → 皮阿斯特（银币）             源×1     译×0     ★译0次(未落位?)
+     Jumbo                          → 詹波                   源×1     译×1    
+     Ibis                           → 朱鹭（圣鹮）               源×1     译×1    
+     Ounce                          → 雪豹                   源×1     译×1    
+     stingo                         → 烈酒                   源×1     译×3    
+     guinea                         → 几尼（金币）               源×0     译×1     ★源0次(幽灵?)
+     toddy                          → 热潘趣酒                 源×2     译×1    
+     Delirium tremens               → 震颤性谵妄                源×1     译×1    
+     pully-hauly                    → 吆五喝六（水手号子）           源×1     译×1    
+     Moral Emblems                  → 《道德徽记》               源×0     译×0     ★源0次(幽灵?)
+     Bogie                          → 妖怪                   源×1     译×1    
+     gorse                          → 荆豆                   源×3     译×4    
+     heather                        → 石楠花                  源×16    译×7     落位偏低 7/16
+     plane (tree)                   → 梧桐（悬铃木）              源×1     译×1    
+     minnow                         → 小鱼苗（鿕鱼）              源×0     译×1     ★源0次(幽灵?)
+     rook                           → 秃鼻鸦                  源×0     译×3     ★源0次(幽灵?)
+     divie-divie-dive               → 一蹦一蹦往下栽              源×1     译×0     ★译0次(未落位?)
+     Siberia                        → 西伯利亚                 源×1     译×1    
+     Tartary                        → 鞑靼里                  源×1     译×1    
+     Sebastopol                     → 塞瓦斯托波尔               源×1     译×1    
+     Monterey                       → 蒙特雷                  源×2     译×2    
+     Scotland / Scottish            → 苏格兰 / 苏格兰的           源×6     译×10   
+     India                          → 印度                   源×2     译×5    
+     currant                        → 茶藿子（茶藨子）             源×1     译×1    
+     hollyhock                      → 蜀葵                   源×1     译×2    
+     Shepherd's purse               → 牧人的钱包（荠菜）            源×1     译×1    
+     Bachelor's buttons             → 单身汉的纽扣               源×1     译×1    
+     Lady's smock                   → 淑女的罩衫                源×1     译×1    
+     Gardener's garters             → 园丁的绑带                源×1     译×1    
+     clover                         → 三叶草                  源×2     译×2    
+     sorrel                         → 酸模                   源×1     译×1    
+     jointed grass                  → 节节草                  源×1     译×1     残留「高草」×1
+     ladybird                       → 瓢虫                   源×2     译×2    
+     forget-me-not                  → 勿忘草                  源×1     译×1    
+     whins                          → 荆豆（=gorse）           源×1     译×0     ★译0次(未落位?)
+     glow-worm                      → 萤火虫                  源×1     译×1    
+     grenadier                      → 掷弹兵                  源×2     译×3    
+     barrow                         → 手推车（独轮车）             源×2     译×3    
+     antelope                       → 羚羊                   源×1     译×1    
+     albatross                      → 信天翁                  源×1     译×1    
+     junks                          → 中国式帆船（东方小船）          源×1     译×0     ★译0次(未落位?)
+     bangles                        → 手镯                   源×1     译×1    
+     Underwoods                     → 《林之下》                源×1     译×0     ★译0次(未落位?)
+     gauger                         → 税务官（税务稽查员）           源×4     译×3    
+     Over the Hills and Far Away    → 《翻山越岭去远方》            源×2     译×1    
+     Montargis (Forest of)          → 蒙塔日（森林）              源×1     译×1    
+     pinnace                        → 小艇（小舟）               源×1     译×2    
+     mavis                          → 画眉                   源×1     译×3    
+     linnet                         → 朱雀（红雀）               源×2     译×2    
+     thyme                          → 百里香                  源×2     译×2    
+     watercress                     → 水田芥（水芹）              源×0     译×1     ★源0次(幽灵?)
+     artichoke                      → 洋蓟（朝鲜蓟）              源×1     译×1    
+     asparagus                      → 芦笋                   源×1     译×1    
+     Hyères (La Solitude)           → 耶尔（拉·索利图德）           源×4     译×4    
+     Hand-Glass                     → 手镜                   源×1     译×0     ★译0次(未落位?)
+     the Bois                       → 布洛涅森林（Bois de Boulog 源×1     译×1    
+     Rue Vernier (12, Paris)        → 韦尔尼耶街 12 号，巴黎        源×1     译×0     ★译0次(未落位?)
+     Alma Genetrix                  → 《生育之母》               源×1     译×1    
+     Styx                           → 斯提克斯河                源×1     译×1    
+     cis-Elysian                    → 幽冥此岸（冥河此岸）           源×1     译×0     ★译0次(未落位?)
+     gondolier                      → 贡多拉船夫                源×2     译×1    
+     Friulan                        → 弗留利的                 源×1     译×1    
+     felze                          → 贡多拉船篷（船舱）            源×1     译×0     ★译0次(未落位?)
+     Paron Piero                    → 帕龙·皮耶罗               源×1     译×1    
+     Andrew Lang                    → 安德鲁·朗                源×0     译×0     ★源0次(幽灵?)
+     Ale / Kail                     → 艾尔河 / 凯尔河            源×3     译×2    
+     Till / Tweed                   → 蒂尔河 / 特威德河           源×67    译×3     落位偏低 3/67
+     sanhedrin                      → 公会                   源×1     译×1    
+     Hebrides                       → 赫布里底群岛               源×1     译×1    
+     Helicon                        → 赫利孔山                 源×1     译×1    
+     Arcadia / Arcady               → 阿卡迪亚                 源×1     译×1    
+     Blatant Beast                  → 大噪怪兽                 源×1     译×1    
+     Roland                         → 罗兰                   源×1     译×3    
+     Achilles                       → 阿喀琉斯                 源×1     译×1    
+     aegis                          → 神盾（宙斯之盾）             源×1     译×1    
+     Tristram                       → 特里斯坦                 源×1     译×1    
+     Bedevere                       → 贝德维尔                 源×1     译×1    
+     Lyonesse                       → 里昂内斯                 源×1     译×1    
+     Samarkand                      → 撒马尔罕                 源×1     译×1    
+     Magians                        → 东方博士（麻葛）             源×1     译×1    
+     Afreet                         → 妖灵（伊弗里特）             源×1     译×1    
+     Aral Mount                     → 阿拉尔山                 源×1     译×1    
+     Balsorah                       → 巴尔索拉（巴士拉）            源×1     译×1    
+     Chiron                         → 喀戎                   源×1     译×1    
+     Pelethronian                   → 珀利翁的                 源×1     译×1    
+     Pan                            → 潘神                   源×2     译×2    
+     Dakota                         → 达科他                  源×1     译×1    
+     Idaho                          → 爱达荷                  源×1     译×1    
+     Apollo                         → 阿波罗                  源×0     译×0     ★源0次(幽灵?)
+     Venus                          → 维纳斯                  源×3     译×3    
+     Henry James                    → 亨利·詹姆斯               源×0     译×0     ★源0次(幽灵?)
+     Katharine                      → 凯瑟琳                  源×0     译×0     ★源0次(幽灵?)
+     Consuelo                       → 孔塞洛                  源×1     译×1    
+     Orpheus                        → 俄耳甫斯                 源×1     译×1    
+     Heracles                       → 赫拉克勒斯                源×1     译×1    
+     Pharos                         → 法罗斯灯塔                源×3     译×1     落位偏低 1/3
+     De Mauves                      → 德·莫芙                 源×1     译×1    
+     Gressie                        → 格蕾西                  源×1     译×1    
+     Daisy / Barb / Chancellor      → 黛西 / 芭布 / 钱塞勒        源×6     译×3     落位偏低 3/6
+     melancholy Jaques              → 忧郁的杰奎斯               源×1     译×1    
+     linnet                         → 红雀（朱雀）               源×0     译×2     ★源0次(幽灵?)
+     Memory-Hold-the-door           → 坚守记忆之门               源×1     译×1    
+     Camisards                      → 卡米撒派                 源×0     译×0     ★源0次(幽灵?)
+     San Francisco                  → 旧金山                  源×1     译×1    
+     smiler with the knife          → 含笑操刀之人               源×1     译×0     ★译0次(未落位?)
+     farthing dip                   → 廉价油烛芯                源×1     译×0     ★译0次(未落位?)
+     caravanserai                   → 旅店（客店）               源×1     译×1    
+     Kalakaua                       → 卡拉卡瓦                 源×0     译×0     ★源0次(幽灵?)
+     Princess Kaiulani              → 卡伊乌拉尼公主              源×0     译×0     ★源0次(幽灵?)
+     Princess Moë                   → 莫埃公主                 源×1     译×0     ★译0次(未落位?) 残留「仙国公主」×2
+     Mother Maryanne                → 玛丽安嬷嬷                源×0     译×0     ★源0次(幽灵?)
+     Tembinok' / Tembinoka          → 坦比诺卡                 源×0     译×1     ★源0次(幽灵?)
+     Golgotha                       → 各各他                  源×2     译×1    
+     Khartoum                       → 喀土穆                  源×1     译×1    
+     Tantira                        → 坦蒂拉                  源×1     译×1    
+     Tahiti                         → 塔希提                  源×4     译×4    
+     Honolulu                       → 火奴鲁鲁（檀香山）            源×3     译×3    
+     Waikiki                        → 威基基                  源×1     译×1    
+     banyan                         → 榕树                   源×4     译×3    
+     Molokai                        → 莫洛凯岛                 源×1     译×1    
+     Kalawao                        → 卡拉瓦奥                 源×1     译×1    
+     Apemama                        → 阿皮马马                 源×4     译×4    
+     Vailima                        → 瓦伊利马                 源×7     译×7    
+     Schooner Equator               → 纵帆船「赤道号」             源×0     译×0     ★源0次(幽灵?)
+     Halkerside                     → 霍克赛德                 源×1     译×1    
+     Allermuir                      → 阿勒缪尔                 源×1     译×1    
+     Caerketton                     → 凯尔凯顿                 源×1     译×1    
+     the Forth                      → 福斯河                  源×1     译×1    
+     Fife                           → 法夫                   源×7     译×1     落位偏低 1/7
+     Childeric                      → 希尔德里克                源×1     译×1    
+     Lady of Shalott                → 沙洛特夫人                源×1     译×1    
+     Hooghly                        → 胡格利河                 源×1     译×1    
+     Mull / Rum / Eigg / Skye       → 马尔岛 / 拉姆岛 / 埃格岛 / 斯凯 源×8     译×6    
+     réveillé                       → 起床号                  源×2     译×2    
+     levin light                    → 电光（雷火之光）             源×1     译×1    
+     suffumigating blaze            → 熏烟之火                 源×1     译×1    
+     wizard leaf                    → 神叶（施法之叶）             源×1     译×1    
+     spud                           → 除草铲（小锄）              源×1     译×1    
+     liana                          → 藤子（木质藤本）             源×1     译×1    
+     orchid                         → 兰花                   源×1     译×1     残留「癌肿」×1
+     chanticleer                    → 雄鸡（公鸡）               源×3     译×4    
+     chimera                        → 幻象（嵌合怪兽）             源×0     译×7     ★源0次(幽灵?)
+     Silver Ship                    → 银色之船                 源×2     译×2    
+     Tahiti                         → 塔希提                  源×0     译×0     ★源0次(幽灵?)
+     Taiárapu                       → 塔亚拉普                 源×10    译×10   
+     Vaiau                          → 维亚乌                  源×10    译×10   
+     Tevas                          → 特瓦斯                  源×5     译×5    
+     Námunu-úra                     → 纳穆努-úra              源×5     译×0     ★译0次(未落位?)
+     Paea                           → 帕埃阿                  源×7     译×7    
+     Pápara                         → 帕帕拉                  源×1     译×1    
+     Nateva                         → 纳特瓦                  源×1     译×1    
+     Pai                            → 帕伊                   源×1     译×2    
+     Oro                            → 奥罗                   源×1     译×1    
+     aito                           → 艾托                   源×3     译×5    
+     ómare                          → 奥马雷                  源×4     译×4    
+     yottowa                        → 约托瓦                  源×0     译×3     ★源0次(幽灵?)
+     tapu / tabu                    → 塔布                   源×7     译×8    
+     kava                           → 卡瓦                   源×6     译×6    
+     taro                           → 芋头                   源×1     译×1     残留「百根之王」×1
+     féi / féis                     → 费伊                   源×2     译×2    
+     Trotéa                         → 特罗蒂阿木                源×1     译×1    
+     tikis                          → 蒂基神像                 源×3     译×1     落位偏低 1/3
+     haka-iki                       → 哈卡-伊基                源×0     译×1     ★源0次(幽灵?) 残留「酋长」×9
+     popoi                          → 波波伊                  源×1     译×1    
+     one-stringed harp              → 一弦琴                  源×2     译×2    
+     Vais                           → 瓦伊族                  源×4     译×1     落位偏低 1/4
+     Appin                          → 阿平                   源×4     译×4    
+     Mamore                         → 马莫尔                  源×3     译×3    
+     Sault-Marie                    → 索特-玛丽                源×1     译×1    
+     Cathay                         → 华夏                   源×0     译×1     ★源0次(幽灵?)
+     Picts                          → 皮克特人                 源×1     译×2    
+     Galloway                       → 加洛韦                  源×1     译×1    
+     Saranac Lake                   → 萨拉纳克湖                源×1     译×1    
+     Cytherea                       → 库忒瑞亚                 源×1     译×1    
+     Hero                           → 希罗                   源×9     译×1     落位偏低 1/9
+     Eli                            → 以利                   源×1     译×1    
+     Schubert                       → 舒伯特                  源×1     译×1    
+     Diabelli                       → 迪亚贝利                 源×1     译×1    
+     Wandering Willie               → 《流浪的威利》              源×1     译×1    
+     Kosmos                         → 宇宙                   源×1     译×2    
+     broom                          → 金雀花                  源×3     译×5    
+     brake                          → 灌丛/蕨丛                源×5     译×3    
+     Nimrod                         → 宁录                   源×1     译×1    
+     Joan and Darby                 → 琼与德比                 源×3     译×2    
+     Zassetsky                      → 扎塞茨基                 源×0     译×0     ★源0次(幽灵?)
+     Garschine                      → 加尔申                  源×0     译×0     ★源0次(幽灵?)
+     Villa Marina                   → 海滨别墅                 源×0     译×0     ★源0次(幽灵?)
+     Melampus                       → 墨兰普斯                 源×2     译×2    
+     Grez                           → 格雷                   源×1     译×1    
+     Rhine                          → 莱茵河                  源×3     译×3    
+     Penzance                       → 彭赞斯                  源×1     译×1    
+     Maidenhead                     → 梅登黑德                 源×1     译×1    
+     Mrs. Macmarland                → 麦克马兰夫人               源×0     译×0     ★源0次(幽灵?)
+     Miss Cornish                   → 科尼什小姐                源×1     译×1    
+     Australia                      → 澳大利亚                 源×0     译×1     ★源0次(幽灵?)
+     Camaralzaman                   → 卡马拉尔佐曼               源×1     译×1    
+     Ayoub (Slave of Love)          → 阿尤布（"爱之奴"）           源×1     译×1    
+     Calendars                      → 卡兰达                  源×1     译×1    
+     houris                         → 仙女（伊斯兰天堂处女）          源×1     译×9    
+     Marseilles                     → 马赛                   源×1     译×1    
+     Turanian                       → 图兰人                  源×1     译×1    
+     Mediterranean                  → 地中海                  源×1     译×1    
+     Algerian                       → 阿尔及尔的                源×1     译×1    
+     golden virgin of the guard     → 金色圣母守望像              源×1     译×0     ★译0次(未落位?)
+     If (Château d'If)              → 伊夫堡                  源×82    译×1     落位偏低 1/82
+     crocuses                       → 番红花                  源×1     译×1    
+     wren                           → 鹪鹩                   源×1     译×1    
+     hawthorn brake                 → 山楂树丛                 源×1     译×1    
+     Giant Adulpho                  → 巨人阿道尔福               源×1     译×1    
+     Balzac                         → 巴尔扎克                 源×1     译×1    
+     Webster (of the west)          → 韦伯斯特（西部）             源×1     译×1    
+     Shakespeare                    → 莎士比亚                 源×1     译×1    
+     Calderon                       → 卡尔德隆                 源×1     译×1    
+     The Spectator                  → 《观察家》                源×1     译×1     残留「老祖母」×2
+     Otto                           → 奥托                   源×2     译×2    
+     Nelly                          → 内莉                   源×3     译×3    
+     hoary policy                   → 苍老的世故                源×1     译×1    
+     caryatides                     → 女像柱                  源×2     译×2    
+     Non nobis, domine              → 主啊，不要归与我们            源×1     译×1    
+     Crusoe couple                  → 鲁滨孙夫妇                源×1     译×1    
+     hooded ruin                    → 蒙兜帽的毁灭               源×1     译×0     ★译0次(未落位?)
+     Alpine ether                   → 阿尔卑斯灵气               源×1     译×0     ★译0次(未落位?)
+     I to the hills will lift mine  → 我要向群山举目              源×1     译×1    
+     Alice                          → 爱丽丝                  源×1     译×1    
+     Gerda / Little Ray             → 格尔达 / 小光线            源×2     译×2    
+     Thomas (Richmond)              → 托马斯（里士满）             源×1     译×1    
+     whaups                         → 麻鹬                   源×1     译×3    
+     peewees                        → 田凫                   源×1     译×1    
+     pharos                         → 灯塔                   源×0     译×6     ★源0次(幽灵?)
+     Boulogne-sur-Mer               → 滨海布洛涅                源×1     译×1    
+     deray                          → 纵乐（狂欢乐）              源×1     译×1    
+     Utilitarian / Millenarian      → 功利主义者 / 千禧年信徒        源×2     译×2    
+     Pereunt et imputantur          → 时日逝去，皆记于账上           源×1     译×1    
+     amourettes                     → 小恋曲（小恋爱）             源×1     译×1    
+     tierce and carte               → 剑术的第三式与第四式           源×2     译×1    
+     Château Renard                 → 沙托-勒纳尔               源×1     译×1    
+     Susquehannah                   → 萨斯奎哈纳                源×3     译×2    
+     Delaware                       → 特拉华                  源×3     译×2    
+     lotus of the air               → 空气中的忘忧果              源×1     译×1    
+     Platz                          → 普拉茨（广场/地方）           源×1     译×1    
+     Alcaics                        → 阿尔凯奥斯体诗              源×0     译×0     ★源0次(幽灵?)
+     polysyllables                  → 多音节词                 源×1     译×1    
+     By ’r la’kin                   → 老天爷作证                源×1     译×1     残留「啐」×16
+     Promethean                     → 普罗米修斯般的（盗火者）         源×1     译×1    
+     Yellowboy                      → 「黄小子」金币              源×1     译×0     ★译0次(未落位?)
+     Double-eagle                   → 「双鹰」金币               源×1     译×0     ★译0次(未落位?)
+     Hislands                       → 「岛子」                 源×6     译×0     ★译0次(未落位?)
+     broached to                    → 烂醉如泥                 源×1     译×1    
+     'Evving                        → 「天庭」                 源×0     译×0     ★源0次(幽灵?)
+     Rotherhithe                    → 罗瑟希斯                 源×1     译×1    
+     Braille                        → 布莱叶（盲文）              源×0     译×0     ★源0次(幽灵?)
+     Jenny                          → 珍妮                   源×0     译×0     ★源0次(幽灵?)
+     Northern Lights                → 北方灯塔（北方灯塔委员会）        源×0     译×0     ★源0次(幽灵?)
+     Dagon                          → 大衮                   源×0     译×1     ★源0次(幽灵?)
+     Chatterton                     → 查特顿                  源×0     译×0     ★源0次(幽灵?)
+     Rousseau                       → 卢梭                   源×0     译×0     ★源0次(幽灵?)
+     Social-Contract                → 《社会契约论》              源×1     译×1    
+     marsh-fire                     → 鬼火（磷火）               源×1     译×1    
+     Grandam Grundy / Mrs. Grundy   → 格兰迪老奶奶 / 格兰迪夫人       源×0     译×0     ★源0次(幽灵?)
+     Antony and Cleopatra           → 安东尼与克莉奥佩特拉           源×1     译×0     ★译0次(未落位?)
+     Holy Grail                     → 圣杯                   源×1     译×1    
+     Sydney                         → 西德尼                  源×0     译×0     ★源0次(幽灵?)
+     Marcus                         → 马库斯                  源×0     译×0     ★源0次(幽灵?)
+     Ottilie                        → 奥蒂莉                  源×0     译×0     ★源0次(幽灵?)
+     cantineer                      → 随军卖酒人                源×1     译×1    
+     Philistian                     → 非利士人（庸俗之徒）           源×1     译×1    
+     Noah's raven                   → 挪亚的乌鸦                源×1     译×1    
+     publican and harlot            → 税吏与娼妓                源×1     译×0     ★译0次(未落位?)
+     steading-yard                  → 农家庭院                 源×1     译×0     ★译0次(未落位?)
+     weeg                           → 假发                   源×1     译×2    
+     neophite                       → 新手                   源×1     译×1    
+     obligato                       → 助奏                   源×1     译×1    
+     limber-hipped Indiff’rence     → 腰肢柔软的「冷漠」            源×1     译×0     ★译0次(未落位?)
+     Duddingstone                   → 达丁斯通                 源×0     译×0     ★源0次(幽灵?)
+     St. Martin's Summer            → 圣马丁的小阳春              源×0     译×0     ★源0次(幽灵?)
+     Curine oyster                  → 库林牡蛎                 源×1     译×1    
+     Erythraean pearls              → 红海珍珠                 源×1     译×0     ★译0次(未落位?)
+     Lybian                         → 利比亚人                 源×2     译×1    
+     Broceliande                    → 布罗塞利安德               源×1     译×1    
+     Ayrshire                       → 艾尔郡                  源×1     译×1    
+     phylactery                     → 经文护符                 源×1     译×1    
+     juniper                        → 杜松                   源×0     译×2     ★源0次(幽灵?)
+     Inchcape                       → 印奇凯普                 源×1     译×1    
+     curlew                         → 麻鹜（杓鹬）               源×1     译×1    
+     plover                         → 鸻（鸻鸟）                源×1     译×1    
+     topes / tope                   → 纵饮（痛饮）               源×1     译×0     ★译0次(未落位?)
+     Avatar                         → 化身（天神降世）             源×1     译×1    
+     émeute                         → 暴动（起义）               源×1     译×1    
+     René                           → 勒内                   源×1     译×1    
+     posset                         → 热牛奶酒                 源×0     译×1     ★源0次(幽灵?)
+     pottle                         → 大罐（半加仑）              源×1     译×2    
+     tawse                          → 皮鞭                   源×1     译×2    
+     clackan                        → 石笔（石板笔）              源×1     译×1    
+     Burton                         → 伯顿（伯顿麦酒）             源×1     译×1    
+     Burton's ale                   → 伯顿的麦酒                源×1     译×1    
+     India ale                      → 印度麦酒                 源×1     译×1    
+     Voltairean                     → 伏尔泰式的                源×1     译×1    
+     Nessus-shirt                   → 涅索斯毒衣                源×1     译×1    
+     Stoic                          → 斯多葛式的（斯多葛派）          源×1     译×1    
+     haugh                          → 溪谷（河畔洼地）             源×2     译×2    
+     Olympus                        → 奥林波斯（圣山）             源×2     译×1    
+     muster roll                    → 点名簿（点名调子）            源×1     译×1    
+     bandog                         → 猛犬（恶犬）               源×1     译×1    
+     gondolier                      → 贡多拉船夫                源×0     译×0     ★源0次(幽灵?)
+     filly                          → 小牝马（小牝驹）             源×1     译×1    
+     subter-ocean                   → 海底的（海下洞穴）            源×1     译×1    
+     pullulates                     → 熙攘（繁生）               源×1     译×3    
+     America                        → 美利坚（美国）              源×1     译×1    
+     burn                           → 溪流                   源×5     译×29   
+     quarto                         → 四开本                  源×1     译×1    
+     inurn                          → 埋葬（收殓）               源×1     译×8    
+     well-a-day                     → 呜呼哀哉                 源×1     译×1    
+     exiguously                     → 细微地（纤细地）             源×1     译×0     ★译0次(未落位?)
+     stoker                         → 司炉                   源×1     译×1    
+     Tintern Abbey                  → 丁登寺                  源×0     译×1     ★源0次(幽灵?)
+     kebbock                        → 苏格兰干酪                源×1     译×1    
+     chartered heart                → 自由的心                 源×1     译×1    
+     top-knot                       → 发结（顶髻）               源×1     译×1    
+     coquettishly                   → 卖弄风情地                源×1     译×1    
+     fallows                        → 休耕地                  源×2     译×1    
+     vane                           → 风向标                  源×2     译×1    
+     Utah                           → 犹他                   源×1     译×1    
+     Pamere                         → 帕米尔                  源×1     译×1    
+     shallows                       → 浅滩                   源×2     译×4     残留「我们之爱的浅滩」×1
+     shallop                        → 小舟                   源×8     译×20   
+     berried brake                  → 浆果丛生的灌木              源×4     译×3    
+     halcyon days                   → 翠鸟般的好日子（太平日子）        源×1     译×1    
+     faggot                         → 柴捆                   源×1     译×4    
+     Lotu                           → 礼拜（祷告）               源×2     译×7    
+     Marsyas                        → 玛耳绪阿斯                源×1     译×1    
+     Scythian hides                 → 西徐亚皮革                源×1     译×0     ★译0次(未落位?)
+     October ides                   → 十月望日（十月十五日）          源×1     译×0     ★译0次(未落位?)
+     Falernian                      → 法勒那酒                 源×1     译×2    
+     rue                            → 芸香                   源×2     译×1     残留「一簇被阉过的芸香」×1
+     cicada                         → 蝉                    源×1     译×1     残留「一只聒噪的蝉」×1
+     gill                           → 吉耳                   源×1     译×1    
+     atrium                         → 中庭                   源×1     译×1    
+     Hesperides                     → 赫斯珀里得斯               源×1     译×1    
+     Janiculum                      → 雅尼库卢姆山               源×1     译×2    
+     Alban hills / Tuscan hills     → 阿尔巴山 / 托斯卡纳山         源×1     译×2    
+     Rubre Fidenae                  → 鲁布尔·菲德奈              源×1     译×1    
+     Perenna                        → 佩伦娜                  源×1     译×1    
+     Flaminian / Salarian way       → 弗拉米尼亚 / 萨拉里亚大道       源×2     译×2    
+     Mulvian Bridge                 → 马尔维乌斯桥               源×1     译×2    
+     Tiber                          → 台伯河                  源×1     译×2    
+     Atlantean                      → 阿特拉斯般的               源×1     译×0     ★译0次(未落位?)
+     Merchiston                     → 梅奇斯顿                 源×1     译×1     残留「魔法之地梅奇斯顿」×1
+     German clerk                   → 德国书记员                源×1     译×1    
+

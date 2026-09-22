@@ -1,0 +1,39 @@
+## XIII The Settlement
+Laura had been married three weeks and a day, and the new year was just three weeks old. It was a very ailing and ungenial year in this infantine stage of its existence. There had been hardly a day of pleasant weather since its birth, nothing but rain and sleet, and damp raw cold, and morning mists and evening fogs. It was not a good, honest, old-fashioned winter, such as we read of in story books, and enjoy about once in a decade. It was simply obnoxious, ill-conditioned weather, characteristic of no particular season.
+It was just a day after the anniversary of Jasper Treverton’s death, and Tom Sampson was meditating in a lazy, comfortable way, on his former client, as he sat by the office fire sipping his tea, which he had desired to be brought to him in his den, as he was so terribly busy. He had not dipped a pen in the ink yet, and it was half-past nine o’clock; but it was not for Eliza Sampson to know this. She was always taught to believe that when her brother spent his evenings in the office he was working severely﻿—“double tides,” he called it. If she came in to look at him she found him scratching away violently with a quill that tore shrieking along the paper, like an express train rushing through a village station; and it was not for her to know that Thomas snatched up his pen and put on this appearance of industry when he heard her gentle footfall at his door. Domestic life is made up of such small secrets.
+Tonight Tom Sampson was in a particularly lazy humour. He was getting a rich man, not by large earnings but by small expenditure, and life, which is an insoluble problem for many, was as easy for him as one of those nine elementary axioms in Euclid that seem too foolishly obvious to engage the reasoning power of the smallest schoolboy, such as﻿—“if equals be taken from equals the remainders are equal,” and so on. Tom was thinking that he ought to be thinking about marrying. He was not in love, and never had been since he exchanged his schoolboy jacket for a tailcoat; but he told himself that the time had come when he might prudently allow himself to fall in love. He would love not too well, but wisely.
+“Lizzie is a good girl, and she knows my ways,” he said to himself, “but she’s getting old maidish, and that’s a fault which will grow upon her. Yes, decidedly, it is time I thought of a wife. A man’s choice is confoundedly limited in such a hole as this. I don’t want to marry a farmer’s daughter, though I might get a fine, healthy young women, and a tidy little bit of money, if I could please myself among the agricultural class; but Tom Sampson has his failings, and pride is one of ’em. I should like my wife to be a cut above me. There’s Celia Clare, now. She’s more the kind of thing I should fancy; plump and pretty, with nice, lively ways. I’ve had a little too much of the sentimental from poor Lizzie. Yes, I might do worse than marry Celia. And I think she likes me.”
+Mr. Sampson’s meditations were interrupted at this point by the sound of a footstep on the sloshy gravel walk outside his office door. There was a half-glass door opening into the garden, as well as the door opening from the passage, which was the formal approach for Mr. Sampson’s clients. Only his intimates entered by the garden door, and he was unable to imagine who his late visitor could be.
+“Ten o’clock,” he said to himself. “It must be something particular. Old Pulsby has got another attack of gout in the stomach, perhaps, and wants to alter his will. He always alters his will when he gets a sharp attack. The pain makes him so savage that it’s a relief to him to disinherit somebody.”
+Mr. Sampson speculated thus as he undrew the bolt and opened the glass door. The man who stood before him was no messenger from old Pulsby, but John Treverton, clad in a white mackintosh, from which the water ran in little rills.
+“Is it yourself or your ghost?” asked Sampson, falling back to let his client enter.
+The question was not without reason. John Treverton’s face was as white as his raiment, and the combined effect of the pale, haggard face and the long white coat was altogether spectral.
+“Flesh and blood, my dear Sampson, I assure you,” replied the other coolly, as he divested himself of his mackintosh, and took up his stand in front of the comfortable fire, “flesh and blood frozen to the bone.”
+“I thought you were in the south of France.”
+“It doesn’t matter what you thought, you see I am here. Yesterday put me in legal possession of my cousin’s estate. I have come to execute the deed of settlement. It’s all ready, of course.”
+“It’s ready, yes; but I didn’t think you’d be in such a hurry. I should have thought you would have stopped to finish your honeymoon.”
+“My honeymoon is of very little importance compared with my wife’s future welfare. Come, Sampson, look sharp. Who’s to witness my signature?”
+“My sister and one of the servants can do that.”
+“Call them in, then. I’m ready to sign.”
+“Hadn’t you better read the deed first?”
+“Well, yes, perhaps. One can’t be too careful. I want my wife’s position to be unassailable as the summit of Mount Everest. You have taken counsel’s opinion, and the deed will hold water?”
+“It would hold the Atlantic. Your gift is so entirely simple, that there could be no difficulty in wording the deed. You give your wife everything. I think you a fool, so did the advising counsel; but that makes no difference.”
+“Not a whit.”
+John Treverton sat down at the office table and read the deed of settlement from the first word to the last. He gave to his dear wife, Laura Treverton, all the property, real and personal, of which he stood possessed, for her sole and separate use. There was a good deal of legal jargon, but the drift of the deed was clear enough.
+“I am ready,” said John.
+Mr. Sampson rang the bell for the servant, and shouted into the passage for his sister. Eliza came running in, and at sight of John Treverton’s pale, face, screamed, and made as if she would have fainted.
+“Gracious, Mr. Treverton,” she gasped, “I thought there were oceans between us. What in mercy’s name has happened?”
+“Nothing alarming. I have only come to execute my marriage settlement, which I was not in a position to make till yesterday.”
+“How dreadful for poor Mrs. Treverton to be left alone in a foreign land!”
+John Treverton did not notice this speech. He dipped his pen in the ink, and signed the paper, while Miss Sampson and Sophia, the housemaid, looked on wonderingly.
+“Sophia, run and get a pair of sheets aired, and get the spare room ready,” cried Eliza, when she had affixed her signature as witness. “Of course you are going to stop with us, Mr. Treverton?”
+“You are very kind. No, I must get away immediately. I have a trap waiting to take me back to the station. Oh, by-the-way, Sampson, about that money you kindly advanced to me. It must come out of the estate somehow; I suppose you can manage that?”
+“Yes, I think I can manage that,” answered Sampson modestly. “Do you want any further advance?”
+“No, the estate belongs to my wife, now. I must not tamper with it.”
+“And what’s hers is yours of course. Well, I congratulate you with all my heart. You are the luckiest fellow I ever knew, bar none. A handsome wife, and a handsome fortune. What more can a man ask from Fate?”
+“Not much, certainly,” said John Treverton, “but I must catch the last up-train. Good night.”
+“Going back to the South of France?”
+John Treverton did not wait to answer the question. He shook hands hastily with Eliza, and dashed out into the garden. A minute afterwards Mr. Sampson and his sister heard the crack of a whip, and the sound of wheels upon the high road.
+“Did you ever see such a volcanic individual?” exclaimed the solicitor, folding up the deed of settlement.
+“I am afraid he is not happy,” sighed Eliza.
+“I am afraid he is mad,” said Tom.

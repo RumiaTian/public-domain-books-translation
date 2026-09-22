@@ -1,0 +1,12 @@
+# The Hunting
+- There is it some game in this wood?
+- Another time there was plenty some black beasts and thin game, but the poachers have killed almost all.
+- Look a hare who run! let do him to pursue for the hounds! it go one’s self in the ploughed land.
+- Here that it rouse. Let aim it! let make fire him!
+- I have put down killed.
+- Me, I have failed it; my gun have miss fixe.
+- I see a hind.
+- Let leave to pass away, don’t disturte it.
+- I have heard that it is plenty pardridges this year.
+- Have you killed also some thrushes.
+- Here certainly a very good hunting.

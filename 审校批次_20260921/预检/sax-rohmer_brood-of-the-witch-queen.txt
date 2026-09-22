@@ -1,0 +1,16 @@
+====================================================================================================
+### sax-rohmer_brood-of-the-witch-queen  (33 files)
+  块: O=541 C=541 OK | 段: EN=2238 CN=2248 !!差 -10
+     [不对称] anthropomancy.md                                     O=17 C=17 段EN=75 段CN=76
+     [不对称] flowering-of-the-lotus.md                            O=22 C=22 段EN=85 段CN=86
+     [不对称] lair-of-the-spiders.md                               O=17 C=17 段EN=93 段CN=94
+     [不对称] the-book-of-thoth.md                                 O=6 C=6 段EN=29 段CN=30
+     [不对称] the-ivory-hand.md                                    O=22 C=22 段EN=88 段CN=92
+     [不对称] the-polish-jewess.md                                 O=12 C=12 段EN=55 段CN=56
+     [不对称] the-thug-s-cord.md                                   O=14 C=14 段EN=64 段CN=65
+  英文残留(剔括注) top: arab×5, yeh×5, es-sel×1, aleyk×1, de×1, luxe×1, Imshi×1, imshi×1, Collectanea×1, Hermetica×1
+  -- 术语表硬约束行 3 条:
+     Dr. Bruce Cairn / Cairn        → 布鲁斯·凯恩博士             源×742   译×7     落位偏低 7/742
+     Antony Ferrara                 → 安东尼奥·费拉拉             源×117   译×115  
+     Marjory                        → 玛乔丽                  源×0     译×0     ★源0次(幽灵?)
+

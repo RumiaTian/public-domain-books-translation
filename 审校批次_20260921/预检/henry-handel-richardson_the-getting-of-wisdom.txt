@@ -1,0 +1,346 @@
+====================================================================================================
+### henry-handel-richardson_the-getting-of-wisdom  (27 files)
+  块: O=406 C=406 OK | 段: EN=1459 CN=1459 OK
+  英文残留(剔括注) top: amare×2, malheur×2, reservoir×1, coudre×1, BFC×1, BFG×1, eleemosynary×1, Gallia×1, est×1, omnis×1
+  -- 术语表硬约束行 340 条:
+     Laura Rambotham                → 劳拉·拉姆博瑟姆             源×13    译×13   
+     the Presbyterian Ladies' Colle → 长老会女子学院              源×0     译×0     ★源0次(幽灵?)
+     Proverbs                       → 《箴言》                 源×1     译×2    
+     Pin                            → 萍                    源×137   译×139  
+     Sarah                          → 萨拉                   源×47    译×48   
+     Mother                         → 妈妈                   源×177   译×164  
+     Wondrous Fair                  → 奇妙佳人                 源×4     译×4    
+     Laura's sulks                  → 劳拉的赌气                源×1     译×1    
+     Leppie                         → 莱皮                   源×7     译×7    
+     Frank                          → 弗兰克                  源×10    译×6    
+     Maggy                          → 玛吉                   源×4     译×5    
+     Napoleon                       → 拿破仑                  源×1     译×1    
+     Garibaldi                      → 加里波第                 源×1     译×1    
+     Patrick O'Donnell              → 帕特里克·奥唐奈             源×1     译×1    
+     Cobb's Royal Mail Coaches      → 科布皇家邮车               源×1     译×1    
+     Shire Gardens                  → 郡花园                  源×1     译×1    
+     Tweedle                        → 特威德尔                 源×3     译×7    
+     State School                   → 州立学校                 源×1     译×1    
+     native bear                    → 树袋熊                  源×1     译×1    
+     res’vor                        → 雷索沃                  源×3     译×2    
+     high-stomached                 → 心高气傲                 源×1     译×1    
+     parrakeets                     → 长尾鹦鹉                 源×2     译×2    
+     blue-gum                       → 蓝桉                   源×1     译×1    
+     jessamine                      → 素馨                   源×1     译×1    
+     Miss Perrotet                  → 佩罗特小姐                源×2     译×2    
+     Commercial Hotel               → 商业旅馆                 源×1     译×1    
+     National Bank                  → 国民银行                 源×1     译×1    
+     Royal Mail Hotel               → 皇家邮车旅馆               源×1     译×1    
+     Mrs. Paget                     → 佩吉太太                 源×1     译×1    
+     Peter                          → 彼得                   源×9     译×8    
+     Sam MacFarlane                 → 山姆·麦克法兰              源×1     译×1    
+     Halfway House                  → 中途客栈                 源×1     译×1    
+     Ah Chow                        → 阿周                   源×1     译×1    
+     larrikins                      → 小混混                  源×1     译×1    
+     half-crown                     → 半克朗                  源×2     译×4    
+     guard                          → 列车员                  源×3     译×2    
+     all bunged up                  → 鼻子眼睛全哭堵了             源×1     译×1    
+     stuck-up                       → 傲气得很                 源×1     译×1    
+     Godmother                      → 教母                   源×53    译×55   
+     Prahran                        → 普拉兰                  源×3     译×3    
+     Cousin Grace                   → 格雷斯表姐                源×14    译×14   
+     Mrs. Gurley                    → 格利太太                 源×71    译×77   
+     Lady Superintendent            → 女学监                  源×2     译×2    
+     Lilith Gordon                  → 莉莉丝·戈登               源×15    译×14   
+     Jane                           → 简                    源×1     译×38   
+     amare                          → 保留拉丁文 *amare*        源×2     译×0     ★译0次(未落位?) 残留「爱」×133
+     deponents                      → 异态动词                 源×1     译×1    
+     Episcopalian                   → 英国国教徒                源×2     译×3    
+     dissenter                      → 不奉国教的那一派             源×2     译×1    
+     Prayer Book                    → 《公祷书》                源×1     译×2    
+     gels                           → 小姑娘们                 源×4     译×4    
+     Old Brimstone Beast            → 老硫磺畜生                源×1     译×1    
+     goggle-eyes                    → 金鱼眼                  源×1     译×1    
+     Miss Chapman                   → 查普曼小姐                源×41    译×41   
+     Miss Day                       → 戴小姐                  源×23    译×23   
+     Miss Zielinski                 → 齐林斯基小姐               源×15    译×15   
+     Maria Morell                   → 玛丽亚·莫雷尔              源×13    译×13   
+     Kate Horner                    → 凯特·霍纳                源×6     译×6    
+     Jessie                         → 杰西                   源×1     译×1    
+     Maggie（第 V 章人名）                → 玛吉                   源×1     译×0     ★译0次(未落位?)
+     Mr. and Mrs. Strachey          → 斯特雷奇先生和太太            源×1     译×1    
+     the Principal                  → 校长                   源×10    译×11   
+     Tweedledum and Tweedledee      → 特威德尔当和特威德尔迪          源×1     译×0     ★译0次(未落位?)
+     First/Second Principia         → 《初级拉丁读本》第一部／第二部      源×42    译×3     落位偏低 3/42
+     the study                      → 自习室                  源×4     译×3    
+     “stew”                         → 『熬功课』                源×1     译×1    
+     Kid                            → 小家伙                  源×11    译×24   
+     stays                          → 紧身褡                  源×3     译×3    
+     long division                  → 长除法                  源×2     译×2    
+     tip top                        → 顶呱呱                  源×1     译×1     残留「顶刮刮」×2
+     Inez                           → 伊内兹                  源×20    译×20   
+     Bertha                         → 伯莎                   源×22    译×22   
+     Warrenega                      → 沃里内加                 源×4     译×4    
+     day scholers                   → 走读生                  源×1     译×5    
+     Mrs. Girly                     → 格莉太太                 源×1     译×1     残留「利」×113
+     the first/second class         → 第一班／第二班              源×31    译×11    落位偏低 11/31
+     Marina                         → 玛丽娜                  源×29    译×29   
+     Mary                           → 玛丽                   源×32    译×57   
+     Georgina                       → 乔治娜                  源×3     译×3    
+     Georgy                         → 乔吉                   源×11    译×12   
+     Joey                           → 乔伊                   源×11    译×11   
+     Erwin                          → 欧文                   源×4     译×4    
+     Marmaduke                      → 马默杜克                 源×3     译×3    
+     Graves                         → 格雷夫斯                 源×1     译×1    
+     Petersen                       → 彼得森                  源×1     译×1    
+     East Melbourne                 → 东墨尔本                 源×2     译×2    
+     Fitzroy Gardens                → 菲茨罗伊花园               源×1     译×1    
+     Roman Catholic Cathedral       → 罗马天主教大教堂             源×1     译×1    
+     Marlborough Tower              → 马尔伯勒塔                源×1     译×1    
+     Brock's Fireworks              → 布罗克烟花会               源×1     译×1    
+     cable-tramway                  → 缆索电车                 源×1     译×1    
+     The Giant Cities of Bashan and → 《巴珊的巨城与叙利亚的圣地》       源×1     译×1    
+     Miss Snodgrass                 → 斯诺德格拉斯小姐             源×31    译×31   
+     Carrie Isaacs                  → 卡丽·艾萨克斯              源×1     译×1    
+     Bertha Ramsey                  → 伯莎·拉姆齐               源×1     译×2    
+     Dr. Pughson                    → 普夫森博士                源×11    译×12   
+     the Headmaster                 → 教务长                  源×2     译×2    
+     Vaucluse                       → 沃克吕兹                 源×1     译×1    
+     Stafford                       → 斯塔福德                 源×2     译×2    
+     weekly boarder                 → 每周回家的寄宿生             源×1     译×0     ★译0次(未落位?)
+     Chinese Camps                  → 华人营                  源×2     译×2    
+     eleemosynary                   → 保留原文『eleemosynary』（施 源×1     译×0     ★译0次(未落位?) 残留「灰蓝色」×1
+     Rule Britannia                 → 《统治吧，不列颠尼亚》          源×1     译×1    
+     Punch and Judy show            → 潘趣和朱迪木偶戏             源×1     译×1    
+     Scott                          → 司各特                  源×7     译×5    
+     Canute                         → 克努特                  源×1     译×1    
+     “Not Angles but Angels”        → 『不是盎格鲁人，是天使』         源×0     译×1     ★源0次(幽灵?)
+     “Tom Fool’s colours”           → 『大傻瓜的颜色』             源×1     译×1    
+     “rum stick”                    → 『怪家伙』                源×0     译×1     ★源0次(幽灵?)
+     merry-andrew                   → 活宝                   源×1     译×2    
+     early practice                 → 清晨练琴                 源×1     译×2    
+     Tilly Macnamara                → 蒂莉·麦克纳马拉             源×1     译×1    
+     squatter                       → 大牧场主                 源×1     译×1    
+     St. Stephen's-on-the-Hill      → 山上圣斯蒂芬教堂             源×3     译×3     残留「英国国教徒」×3
+     Easter Fair                    → 复活节集市                源×1     译×1    
+     nanny-goat                     → 骚山羊                  源×1     译×1    
+     Paradise birds                 → 极乐鸟                  源×1     译×1    
+     Paisley shawl                  → 佩斯利披肩                源×1     译×0     ★译0次(未落位?)
+     Clunes                         → 克卢恩斯                 源×1     译×1    
+     The Family Herald              → 《家庭先驱》               源×1     译×1    
+     Tennyson’s “Lady Clare”        → 丁尼生的《克莱尔小姐》          源×1     译×1    
+     maid-of-all-work               → 什么活计都揽的女佣            源×1     译×1    
+     Miss Hicks                     → 希克斯小姐                源×7     译×7     残留「女人脑子」×2
+     visiting governess             → 外聘女教师                源×1     译×2    
+     Nelly Bristow                  → 内莉·布里斯托              源×1     译×1    
+     Gulf Stream                    → 墨西哥湾流                源×1     译×1     残留「事实」×25
+     Mount Kosciuszko               → 科西阿斯科山               源×1     译×1    
+     Thalberg                       → 塔尔贝格                 源×3     译×3    
+     “Home, Sweet Home”             → 《家，甜蜜的家》             源×0     译×1     ★源0次(幽灵?)
+     Dante Alighieri                → 但丁·阿利吉耶里             源×1     译×1    
+     Faust                          → 《浮士德》                源×2     译×2    
+     Air in G with Variations       → 《G 大调咏叹调与变奏》         源×1     译×1    
+     “quite the thing”              → 『像模像样』               源×1     译×1    
+     Lucy                           → 露西                   源×5     译×5     残留「图拉克的露西」×2
+     Toorak                         → 图拉克                  源×3     译×3    
+     Brisbane                       → 布里斯班                 源×3     译×3    
+     Ouida                          → 奥依达                  源×1     译×1    
+     Ziely                          → 齐莉                   源×3     译×3    
+     Thekla                         → 特克拉                  源×1     译×1    
+     “Mr. Kayser, do you vant to bu → 『凯泽先生，您想不想买条狗哇？』     源×0     译×0     ★源0次(幽灵?)
+     G.o.k.                         → 只有老天知道               源×1     译×1    
+     matric                         → 升学考试                 源×1     译×3    
+     *Gallia est omnis divisa in pa → 保留拉丁文原文              源×1     译×0     ★译0次(未落位?) 残留「蓝色小书」×1
+     Genesis 51:32                  → 《创世记》第 51 章第 32 节    源×1     译×1    
+     Euclid                         → 欧几里得                 源×2     译×2    
+     the blacks                     → 原住民                  源×1     译×3    
+     back-blocker                   → 荒僻内地的老住户             源×1     译×1    
+     “By dad!”                      → 「好家伙！」               源×1     译×2    
+     savvy                          → 听不出门道                源×2     译×1    
+     the Book of Books              → 书中之书                 源×1     译×1    
+     “silly”                        → 『傻气』                 源×1     译×1    
+     mount two forms                → 连跳两级                 源×0     译×0     ★源0次(幽灵?) 残留「年级」×7
+     Miss Blount                    → 布朗特小姐                源×2     译×2    
+     Number One                     → 一号教室                 源×2     译×2    
+     Mr. Repton                     → 雷普顿先生                源×3     译×3    
+     elocution                      → 演讲术                  源×1     译×1    
+     Handy Andy                     → 《机灵的安迪》              源×2     译×2    
+     Annie Johns                    → 安妮·约翰斯               源×10    译×10    残留「约翰斯小姐」×2
+     Sandy                          → 桑迪                   源×11    译×3     落位偏低 3/11
+     Puggy                          → 普吉                   源×1     译×1    
+     “old blubber”                  → 老哭包                  源×0     译×1     ★源0次(幽灵?)
+     lubra                          → 土著女人                 源×1     译×1    
+     Riverina                       → 里弗赖纳                 源×2     译×2    
+     Catholic Seminary              → 天主教神学院               源×1     译×1    
+     “Little Jo”                    → 『小乔』                 源×1     译×1    
+     honest Injun                   → 『印第安人的老实话』           源×1     译×1    
+     Peeping Tom                    → 『偷窥的汤姆』              源×1     译×1    
+     Ballarat                       → 巴拉腊特                 源×1     译×1    
+     Laertes                        → 雷欧提斯                 源×1     译×1    
+     Bob                            → 鲍勃                   源×36    译×36   
+     the Aunt                       → 姨妈                   源×2     译×8    
+     the Uncle (Tom)                → 姨父（汤姆）               源×4     译×5    
+     Thumbby / Thumbkin             → 汤比／汤姆金               源×9     译×8    
+     Woodward / May                 → 伍德沃德（家的姑娘）／梅         源×11    译×3     落位偏低 3/11
+     Trinity / Ormond               → 三一学院／奥蒙德学院           源×7     译×6    
+     Collins Street                 → 科林斯街                 源×2     译×2    
+     Bourke Street                  → 伯克街                  源×1     译×1    
+     the block / “do the block”     → 街区／『逛街区』             源×1     译×3    
+     Eastern Market                 → 东市场                  源×1     译×1    
+     Chinky                         → 中国眼                  源×24    译×25   
+     bustle                         → 腰垫                   源×5     译×3    
+     lady-killer                    → 姑娘杀手                 源×1     译×1    
+     “let’s call in the cats!”      → 『把猫都唤进来吧！』           源×0     译×0     ★源0次(幽灵?)
+     “humping his bluey”            → 『背起蓝包袱去流浪』           源×0     译×1     ★源0次(幽灵?)
+     appledavy                      → 苹果誓                  源×1     译×1    
+     D.T.’s                         → 酒癫疯（D.T.）            源×1     译×1    
+     hansom                         → 双轮马车                 源×1     译×1    
+     the curate                     → 副牧师                  源×5     译×5    
+     Mr. Shepherd                   → 谢泼德先生                源×16    译×16   
+     Miss Isabella Shepherd         → 伊莎贝拉·谢泼德小姐           源×1     译×1    
+     Mrs. Shepherd                  → 谢泼德太太                源×12    译×12   
+     Robby                          → 罗比                   源×21    译×21   
+     Maisie                         → 梅茜                   源×7     译×7    
+     Aunt Sally                     → 木头婆子                 源×1     译×1    
+     confirmation-class             → 坚振班                  源×1     译×1    
+     shovel-hat                     → 铲形帽                  源×1     译×1    
+     stole                          → 圣带                   源×7     译×1     落位偏低 1/7
+     King Solomon’s Mines           → 《所罗门王的宝藏》            源×1     译×1    
+     *Infandum, Regina, jubes renov → 保留拉丁文原文              源×1     译×0     ★译0次(未落位?)
+     *Trojanas ut opes et lamentabi → 保留拉丁文原文              源×1     译×0     ★译0次(未落位?)
+     mousmés                        → 日本小姑娘（mousmés）       源×1     译×1    
+     port                           → 波特酒                  源×1     译×1    
+     the Seventh Proposition        → 第七命题                 源×1     译×1    
+     Ananias and Sapphira           → 亚拿尼亚和撒非喇             源×1     译×1    
+     gin                            → 土著婆子                 源×1     译×1     残留「老土著婆子」×1
+     scrumptious                    → 『妙得不得了』              源×3     译×2    
+     slowcoach                      → 磨蹭鬼                  源×1     译×1    
+     Kiddy                          → 小家伙                  源×9     译×0     ★译0次(未落位?)
+     “O ki, John!”                  → 「哦开，约翰！」             源×1     译×1    
+     *Semper eadem*                 → 保留拉丁文，首现括注（拉丁文：始终如一） 源×1     译×0     ★译0次(未落位?)
+     vestry                         → 法衣室                  源×2     译×2    
+     surplice                       → 白法衣                  源×1     译×1    
+     verger                         → 教堂司事                 源×1     译×1    
+     Virgil                         → 维吉尔                  源×1     译×1    
+     Aladdin’s oranges              → 阿拉丁的橘子               源×1     译×0     ★译0次(未落位?)
+     “Holy Moses!”                  → 「我的摩西爷！」             源×1     译×1    
+     “Snakes-alive-oh!”             → 「嗬哟，活见蛇了！」           源×0     译×0     ★源0次(幽灵?)
+     old Day                        → 老戴                   源×1     译×1    
+     Chink                          → 中国眼                  源×2     译×0     ★译0次(未落位?)
+     as poor as a church-mouse      → 穷得跟教堂里的老鼠一个样         源×1     译×1    
+     “dull as ditchwater”           → 『乏味得像沟里的死水』          源×0     译×1     ★源0次(幽灵?)
+     mash                           → 意中人／相好               源×3     译×2    
+     Monsieur Legros                → 勒格罗先生                源×1     译×1    
+     old Shepherd                   → 老谢泼德                 源×1     译×1    
+     Scots' Church                  → 苏格兰教堂                源×2     译×2    
+     Emerald Hill                   → 绿宝石山                 源×1     译×1    
+     malheur                        → 保留原文「malheur」（法语『祸事』 源×2     译×0     ★译0次(未落位?)
+     sloe                           → 黑刺李                  源×1     译×2    
+     string to her bow              → 『弓弦』                 源×1     译×0     ★译0次(未落位?)
+     Grand Stand                    → 大看台                  源×1     译×1    
+     M. P. / Mary Pidwall           → M. P.／玛丽·皮德沃尔        源×66    译×57   
+     Cupid                          → 丘比特                  源×39    译×40   
+     Jim Chapman                    → 吉姆·查普曼               源×1     译×1    
+     Mr. Worldly-Wiseman            → 世俗智者先生               源×1     译×1    
+     *Nana*                         → 《娜娜》                 源×1     译×1    
+     “not the thing”                → 『不像样儿』               源×1     译×1    
+     crams                          → 『瞎话』                 源×3     译×0     ★译0次(未落位?)
+     out-heroded Herod              → 比希律王还要希律王            源×1     译×1    
+     Wantabadgery                   → 旺塔巴德里                源×1     译×1    
+     Uncle Tom（劳拉的）                 → 汤姆叔                  源×4     译×4    
+     Evelyn                         → 伊芙琳                  源×79    译×79   
+     wallaby                        → 沙袋鼠                  源×1     译×1     残留「像一只沙袋鼠」×1
+     *Pamela*                       → 《帕梅拉》                源×1     译×1    
+     pupil-teacher                  → 见习教师                 源×1     译×1    
+     chicken                        → 小鸡仔                  源×3     译×2    
+     egg-dancer                     → 走蛋艺人                 源×1     译×1    
+     Dutch courage                  → 借酒壮胆                 源×1     译×1    
+     nose out of joint              → 『鼻子要给人挤歪啦』           源×0     译×0     ★源0次(幽灵?)
+     Coventry / send to Coventry    → 考文垂／被「送去了考文垂」        源×2     译×2    
+     Lady Godiva                    → 戈黛娃夫人                源×1     译×1    
+     Jacob                          → 雅各                   源×2     译×2    
+     half-a-sovereign               → 半镑金币                 源×1     译×1    
+     sandy blight                   → 沙眼                   源×1     译×1    
+     speech day                     → 结业典礼                 源×2     译×2    
+     *Silver Star*                  → 「银星号」                源×1     译×1    
+     old Anne                       → 老安妮                  源×10    译×10   
+     shandrydan                     → 哐啷作响的旧马车             源×1     译×1    
+     ti-tree                        → 茶树                   源×1     译×3    
+     within cooee                   → 一声「库伊」喊得应            源×1     译×0     ★译0次(未落位?)
+     the Heads                      → 海口                   源×2     译×2    
+     “Half-Moon Hole”               → 「半月潭」                源×1     译×1    
+     crayfish                       → 龙虾                   源×2     译×4    
+     leatherjackets                 → 剥皮鱼                  源×1     译×1    
+     swagmen                        → 背蓝包袱的流浪汉             源×1     译×2    
+     bushrangers                    → 丛林悍匪                 源×1     译×1    
+     mopokes                        → 闷葫芦                  源×1     译×1    
+     Evelyn Souttar                 → 伊芙琳·苏塔               源×2     译×2    
+     Evvy                           → 伊薇                   源×6     译×6    
+     Infant                         → 小娃娃                  源×7     译×9    
+     chickabiddy                    → 小乖乖                  源×1     译×1     残留「聪明的小乖乖」×1
+     Robinson Crusoe                → 《鲁滨逊漂流记》             源×1     译×1    
+     The Mikado                     → 《日本天皇》               源×0     译×1     ★源0次(幽灵?)
+     Jim                            → 吉姆                   源×2     译×2    
+     the mater                      → 老妈                   源×2     译×1    
+     the (boarders’) Literary Socie → 文学社                  源×3     译×7    
+     *A Doll’s House*               → 《玩偶之家》               源×3     译×2    
+     Ibsen                          → 易卜生                  源×1     译×1    
+     realism                        → 写实主义                 源×1     译×1    
+     Longfellow                     → 朗费罗                  源×1     译×1    
+     *Hyperion*                     → 《许佩里翁》               源×1     译×1    
+     Shakespeare                    → 莎士比亚                 源×0     译×1     ★源0次(幽灵?)
+     Venice                         → 威尼斯                  源×2     译×2    
+     gondola                        → 贡多拉                  源×1     译×1    
+     the Doge’s palace              → 总督府                  源×1     译×1    
+     macaroons                      → 杏仁饼                  源×0     译×1     ★源0次(幽灵?)
+     “don’t blow!”                  → 『可别吹！』               源×0     译×0     ★源0次(幽灵?)
+     “Oh, Jehoshaphat!”             → 「哦，约沙法王！」            源×0     译×0     ★源0次(幽灵?)
+     whacker                        → 天大的瞎话                源×1     译×1    
+     “A Day at School”              → 《学校的一天》              源×0     译×1     ★源0次(幽灵?)
+     “Magnanimity”                  → 『宽宏大量』               源×1     译×1    
+     “Beneficence”                  → 『仁善』                 源×1     译×1    
+     billies                        → 铁皮罐                  源×1     译×1    
+     blackfellows                   → 原住民                  源×1     译×0     ★译0次(未落位?)
+     Poppet                         → 小宝贝                  源×4     译×4    
+     Lolo                           → 洛洛                   源×4     译×4    
+     *The Tempest*                  → 《暴风雨》                源×1     译×2    
+     moon-calf                      → 『月犊』                 源×1     译×1    
+     cipher                         → 零                    源×2     译×40   
+     playing the billy-ass          → 充那头蠢公驴               源×1     译×1    
+     “mostly fools”                 → 『大多是傻瓜』              源×1     译×0     ★译0次(未落位?)
+     Matriculation Class            → 升学考试班                源×1     译×1    
+     ‘tests’ / test-examinations    → 『模考』／模拟考试            源×1     译×3    
+     Miss C.                        → 查小姐                  源×1     译×1    
+     screw                          → 薪水                   源×2     译×1    
+     “world without end, amen”      → 『世世无尽，阿们』            源×0     译×0     ★源0次(幽灵?)
+     wagonette                      → 四轮马车                 源×4     译×3    
+     public examination             → 公开考试                 源×2     译×2    
+     B.A.                           → 文学学士                 源×1     译×1    
+     Oliver Cromwell                → 奥利弗·克伦威尔             源×3     译×3    
+     Atropos                        → 阿特罗波斯                源×1     译×1    
+     square peg / round holes       → 方榫／圆眼                源×2     译×2    
+     the bush                       → 丛林荒野                 源×4     译×1     落位偏低 1/4
+     went a-governessing            → 出去做家庭女教师             源×1     译×0     ★译0次(未落位?)
+     By gum                         → 乖乖                   源×1     译×14   
+     play second fiddle             → 当配角                  源×1     译×1    
+     nincompoop                     → 小傻瓜                  源×1     译×3    
+     “stuff and nonsense”           → 『纯属胡闹』               源×0     译×0     ★源0次(幽灵?)
+     chicken-heartedness            → 胆小如鸡                 源×1     译×1    
+     spaniel                        → 长耳猎犬                 源×3     译×1     落位偏低 1/3
+     hook a millionaire             → 钓上个百万富翁              源×1     译×0     ★译0次(未落位?)
+     bandicoot                      → 袋狸                   源×0     译×1     ★源0次(幽灵?)
+     “new chum”                     → 『新客』                 源×1     译×0     ★译0次(未落位?)
+     Nietzsche                      → 尼采                   源×8     译×8    
+     the Fourteenth Chapter of St.  → 《约翰福音》第十四章           源×1     译×1    
+     mercy-seat                     → 施恩座                  源×1     译×1    
+     the Litany                     → 《连祷文》                源×1     译×0     ★译0次(未落位?)
+     the Creed                      → 信经                   源×2     译×3    
+     sign of the Cross              → 画十字                  源×1     译×2    
+     Michelangelesque               → 米开朗琪罗式的              源×1     译×0     ★译0次(未落位?)
+     Green / History of the English → 格林的《英国人民史》           源×14    译×0     ★译0次(未落位?)
+     Greece / Rome（历史课本）            → 《希腊》／《罗马》            源×2     译×2    
+     Monsieur Boehmer               → 博梅先生                 源×2     译×2    
+     Bourke and Wills               → 伯克与威尔斯               源×1     译×1    
+     Eureka Stockade                → 尤里卡栅垒                源×1     译×1    
+     Captain Cook                   → 库克船长                 源×1     译×1    
+     Retreat of the Ten Thousand    → 万人军大撤退               源×1     译×1    
+     Hannibal                       → 汉尼拔                  源×1     译×1    
+     Punch                          → 《笨拙》杂志               源×1     译×1    
+     “crack” girls                  → 『王牌』姑娘               源×1     译×1    
+     cloakroom                      → 衣帽间                  源×1     译×2    
+

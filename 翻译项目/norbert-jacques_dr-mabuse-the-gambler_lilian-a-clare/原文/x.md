@@ -1,0 +1,74 @@
+## X
+Next evening Dr. Mabuse was invited to spend the evening at the house of Privy Councillor Wendel, who was interested in hypnotism. After an early supper an interesting medium would appear. In her trances memories were awakened within her which referred to her very earliest days﻿ ﻿… to a time when the mind was not developed enough to be able to record or describe the physical existence of the moment.
+Mabuse had made the Privy Councillor’s acquaintance through a patient of his, an aristocratic and wealthy dame, who had suffered from severe neurosis and whom Mabuse had very successfully treated by hypnotic suggestion. In the company were to be found not only professors, but also authors, artists and the reputed friends of art, such as frequent the society of the wealthy and fashionable nowadays.
+Mabuse’s neighbour at the supper-table was a lady whom he recognized with astonishment and perplexity. In the gambling-dens she was known to his accomplices by the nickname of “the dummy.” The lady was Countess Told.
+Throughout the meal he devoted himself to her, paying her every possible attention, and relating to her eager ears tales of strange and wonderful experiences in hazardous places, of the chase of wild animals or of human beings in parts of the world that are little frequented. He spoke with a grim earnestness, a savage unrestraint, enjoying once more in recollection the powers he had exercised in such circumstances. He realized what it was that drove this woman to the gambling-dens, and it seemed as if this sudden disclosure gave him a pang, as if there opened up within him a chasm and a gulf so deep that only a palpitating human heart could fill it. With his imagination and with his bold recital he was pursuing such a heart, as in the jungle he had pursued the tiger. The hope of conquest inflamed his blood; he felt he must make it his own.
+It was this woman’s heart he wished to subjugate. He was consumed with passionate desire as he read in her eyes how his recital fired her blood. That was the kind of life she craved, and her nature understood and responded to it. He painted wild scenes for her; he showed himself struggling for conquest with body, soul and spirit pitted against unrestrained nature, and he desired her to believe that this wild and unrestrained nature was within her.
+She trembled at his words, and, swayed by his ardour, a longing for support and tenderness overcame her. The recitals by which he sought to enchain her interest aroused so forceful an impression of human power that it seemed, in tearing herself away from them, she was actually tearing a fragment of living, bleeding flesh when she sought out her husband with an almost supplicating gesture, as if desirous of protection from a force too powerful to endure.
+Mabuse saw her gesture, and the blood mounted to his forehead. He was flushed with passionate desire, and could no longer bear to see the glances of others rest upon her﻿ ﻿… other strangers address her﻿ ﻿… the lips of other men pressed to her hand﻿ ﻿… or the thought that any other will should impose itself on her. His was the call of blood that should reach her, and inflamed with passion and desire, he left the house and drove home.
+All his thoughts were centred on her, however, and as he rapidly increased the distance between them, and as it were tore the bleeding flesh from his body, he called out to the image which filled the yearning gulf within him, “Death and desire! death and desire!”
+At home he drank until all around him had dissolved in the mists of intoxication, and he no longer saw anything but her heart, her bleeding heart, snatched by his hand from her lovely body, held in his grasp, enticing and inflaming his passion.
+---
+At length came the day when Countess Told should enter upon her prison experiences. She repaired to Wenk’s chambers, and he took her to the building, making the governor au courant of the whole story. Before being led to the cell, she asked, “How long am I to stay there?”
+“As long as you like, Countess,” replied Wenk. “It all depends upon your skill, but of course you have but to say the word and you are free in an instant, even if you have not achieved your object.”
+“I have plenty of time,” she answered, “but I should like to ask for leave next Monday, so that I can keep an appointment.”
+“Most certainly, we can easily arrange that. With your permission, I will come and fetch you. Besides, you are sure to have something to report by then!”
+“Finally, Dr. Wenk,” said the Countess, “I want you to know that my husband is in the secret, and you will go and see him, won’t you? Promise me!”
+Wenk assented. A warder took possession of the Countess, and as she went with him she smiled back at Wenk. “Good luck!” cried he, ere she vanished along the corridor.
+---
+The Countess had left the Privy Councillor’s house in a strange tumult of feeling. The stranger who had so impressed her had suddenly disappeared, but his forceful personality had left its mark, and she could not free herself of it. This mysterious and compelling power of his effaced the image of Wenk, and the latter receded into the background.
+When the door of the cell opened before her, it seemed as if the time she had to spend in this narrow space, this strange, cold chamber, so far removed from the world, would be a period of probation, a time of testing for herself.
+She was to see the stranger again on Monday. “I am asking your neighbour at the supper-table next Monday for another sitting with our medium,” the old Councillor had said to her with a mischievous smile. “He must make up for lost time, because he was called away unexpectedly. But if he did not see the medium asleep, at any rate he found Countess Told awake!”
+“All right! I shall be pleased to meet him again,” she had answered in a friendly and noncommittal tone.
+The door of the cell closed behind her, and she saw a figure seated on a stool, but it did not turn round. “Well?” it said growlingly.
+“Good morning,” said the Countess.
+The dancer turned round slowly. When she at length faced the Countess, the latter uttered a little cry, and with well-feigned astonishment hastened to Cara, exclaiming, “What, *you* here, my dear! But we know each other! What a strange coincidence!”
+She began chattering at once, as if quite oblivious of Cara’s sullen mood. “Just imagine, they actually caught us all﻿—at Schramm’s﻿—the most noted resort of them all! I can tell you there was a fine to-do, my dear. One man sobbed, another tried to jump out of the window, and you know they are all shut up tight! Somebody sat down and wailed, ‘Oh my wife, my four children, I am disgraced forever!’ There was a tremendous fluttering in the dovecot. I could not slip away in time, and so they got me too! Tell me what is the best thing for me to do? There’s nothing wrong in entering a gaming-house, and I have never once played!”
+But Cara only eyed her gloomily.
+“Do say something. Is there anything the matter?” pleaded the Countess.
+“The matter is that I want you to leave me alone,” answered the other. “Was the young gentleman with the fair sandy beard there?”
+“The one who played against Basch, you mean? No, he wasn’t there. I have never seen him since that night.”
+“Was the old Professor there?”
+“No, I didn’t see him either.”
+“Then you needn’t tell me any more about it; it doesn’t interest me. The whole world isn’t worth a pin. I am miserable, for I am forsaken and betrayed. There’s no interest left in life for me. I am lost and undone, and no one troubles any more about me than if I were a frozen field-mouse. What dirty dogs they are!”
+Suddenly she sprang from her stool and seized the Countess by the shoulders. “You were with the rest of us. I want to drum it into your head,” she continued with increasing vehemence, “that there never was anybody so treacherously betrayed as I have been. And there was no reason for doing it, for I was an artiste, a well-known and admired artiste, and here I am now, forsaken and betrayed! Cast aside like a squeezed-out orange!”
+“Why did he forsake you?” asked the Countess shyly. In her own mind she seemed but a simple child in the presence of this wild and passionate personality. Yes, he had forsaken her, left her forever, she reflected, and she shuddered at the thought. And now he was dead. At the moment she felt doubtful of the enterprise she had undertaken. “He is dead,” she said in a low voice which vibrated.
+“Who?” cried Cara.
+“Your friend﻿ ﻿… Hull!” answered the Countess, preparing to enter sympathetically into the girl’s feelings, the image of Wenk growing yet fainter in her subconscious mind.
+But the other exclaimed passionately, “What are you saying? The man I mean is not dead; he is alive, and yet I sit here in prison. Yonder in the town outside he stands, strong as a tower, firm as a rock, I tell you! How can a puny thing like you know what he was? All others were as dirt beneath his feet, and their faithlessness too small a trifle to consider! Hull is dead, but what does *that* matter? Who cares an atom about *him*? But that other, the master, the lord, he lives there in the free air, where there is light and love and life﻿ ﻿… where he might bear to have me lying at his feet, like a rug that only serves to warm his toes. He is the great man, the lord, the master! He is a bear, a lion, a royal Bengal tiger, do you hear? He does not belong to this cold and frosty land; he comes from Bengal, from paradise, from a place I shall never see again! And I﻿—I﻿—am left to linger in this dungeon!”
+Suddenly she said, quite calmly and seriously, “Tell me, do you think there are men whose will is so strong that they can break down even these walls when they know how passionately I desire it?”
+“There are no such men outside, but within us there are!” answered the Countess, carried away by the vehemence of that passionate storm of feeling which had so lately broken over her. How contemptible it was of her, she thought, to have desired to outwit a human being. She felt mean in her own estimation, and casting all projects and promises to the winds, she began to glow in the presence of this strange personality like the spark of an electric current. “Yes, they are to be found in us!” she repeated.
+“He! he! the conqueror!” sang Cara, with a sound of passion in her tone, and in the Countess’s heart, too, there sprang up, like a marble image, the form of the man she had met a few evenings before. On her heart this image was sculptured, and she allowed its impress to recur again and again and remain there.
+“Do you love him?” she asked the dancer.
+But the other answered, as if brushing away an unconsidered trifle, “I﻿ ﻿… love? I *adore* him!”
+“I do not love him!” hastily asseverated the Countess, pursuing the mental image she had conjured up. “But yet he is great, superhuman. He is a world in himself. In the midst of this tame and quiet existence he is as a jungle and primeval forest. It seems to me as if he must have both the tiger and the serpent within him, as well as all that is boldest in Nature, its gigantic trees, its wild and impenetrable forests. Do you know, one can creep within them, never coming to an end, and yet be in him!”
+She broke off suddenly. She dared not put into words the fancies evoked within her. For the husband whose eccentricities she tolerated was no more to her than a brother﻿—nay, a father. They were bound together by one voluptuous hour of which no human being knew or even suspected. It was such an hour as that in which two human personalities melted into one to create a new being that later on might emerge and begin a life bound by invisible ties to that mysterious hour. The threads might be torn from their place, snapped, distorted, yet they remained entwined. No other desire now possessed her than to yield her senses once more unrestrainedly to that consciousness of the depths of her being which enfolded her as in a dream, and which she nevertheless continually thrust aside.
+The two women sat close together, the Countess on the ground. Both seemed alike to be struck down by an invisible and imperious fist, striking at these centres of abandonment and yearning and self-betrayal. After the hasty and intimate avowals forced from them, the shadow of silence fell upon them.
+“Say something!” pleaded the Countess timidly.
+“Be silent, or I shall strangle you﻿ ﻿… with my own hands!” cried the dancer.
+The Countess shrank back, feeling herself, beside the other, to resemble a hare in the claws of a mighty and powerful bird of prey.
+Food was pushed into the cell, but neither of the women perceived it. It grew dark, and the dancer lay down, fully dressed, upon one of the plank beds. The Countess imitated her and stretched herself on the other straw pallet. The night passed by, and in the long sleepless hours their fancies flowed into a dark and turgid stream.
+Suddenly in the gloom Cara’s voice was heard: “Are you asleep?”
+“No.”
+“Why are you here?”
+The Countess had not the courage to repeat her tissue of lies, and she remained silent. Cara, too, kept silent for a while, then she said suddenly:
+“You were sent here to pump me! Have I told you anything?”
+“Yes.”
+“About *him*?”
+“Yes.”
+“Did I tell you his name?”
+“No.”
+“That’s all right then, otherwise you would never leave this place alive. But if you are lying, and I had told it you, I tell you now, he *has* no name. He is a thousand men, a whole nation, a part of the universe!”
+“Just like the man I have been thinking of,” reflected the Countess, but an instant later she did not know whether she had not spoken her thought aloud.
+“When are you going away again?”
+“When you want me to.”
+“Then go at once, and tell everything I have told you!”
+“No,” answered the Countess resolutely.
+“Why don’t you, when that is what you came here for?”
+“Things are different now.”
+“Nothing is different,” asserted the dancer vehemently. “Everything is as it was and will ever be. He is out there, free as the air; I am here like a carcass rotting on the ground. Tell everything you know.”
+“I shall say nothing!”
+“Why not, you﻿—you cursed hussy!” she shrieked.
+“Because you love him so!”
+Then the dancer grew calm again, but a few moments later she burst into tears and sobbed wildly and unrestrainedly.
+The Countess lay still on her pallet. She felt as if a naked soul with claws, whence the skin and tissues had been withdrawn, were clutching at her heart and holding it within its grasp. She felt her own blood shudder and leap up beneath the claws and mingle with that of the other. This naked soul that clutched at her was her sister. She was akin in blood to the criminal yonder, but neither of the women knew that he who had thus caused their hearts to beat in unison during this night in prison was one and the same mysterious being.

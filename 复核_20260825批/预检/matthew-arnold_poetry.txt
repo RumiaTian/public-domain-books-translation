@@ -1,0 +1,153 @@
+====================================================================================================
+### matthew-arnold_poetry  (2 files)
+  块: O=97 C=97 OK | 段: EN=338 CN=376 !!差 -38
+     [不对称] alaric-at-rome.md                                    O=39 C=39 段EN=231 段CN=269
+  英文残留(剔括注) top: II×1, III×1, IV×1, VI×1, VII×1, VIII×1, IX×1, XI×1, XII×1, XIII×1
+  -- 术语表硬约束行 146 条:
+     Alaric                         → 阿拉里克                 源×1     译×0     ★译0次(未落位?)
+     Rome                           → 罗马                   源×7     译×6    
+     Capitol                        → 卡皮托山                 源×2     译×2    
+     Goth                           → 哥特人                  源×2     译×2    
+     Caesar                         → 凯撒                   源×1     译×2    
+     Scipio                         → 西庇阿                  源×1     译×1    
+     Venice                         → 威尼斯                  源×1     译×1    
+     Childe Harold                  → 恰尔德·哈罗德              源×1     译×1    
+     Herodotus                      → 希罗多德                 源×1     译×1    
+     Chephren                       → 凯夫伦                  源×1     译×1    
+     Cheops                         → 奇阿普斯                 源×1     译×1    
+     Mycerinus                      → 米凯里诺斯                源×1     译×1    
+     Buto                           → 布托                   源×1     译×1    
+     Aurora                         → 奥罗拉                  源×1     译×1    
+     Orion                          → 俄里翁                  源×2     译×2    
+     Tiresias                       → 提瑞西阿斯                源×1     译×1    
+     Hercules                       → 赫拉克勒斯                源×5     译×5    
+     Eurystheus                     → 欧律斯透斯                源×1     译×1    
+     Erytheia                       → 厄律提亚                 源×1     译×1    
+     Alcmena                        → 阿尔克墨涅                源×1     译×1    
+     A. H. Clough                   → A. H. 克拉夫            源×1     译×1    
+     Homer                          → 荷马                   源×1     译×2    
+     Epictetus                      → 爱比克泰德                源×1     译×1    
+     Sophocles                      → 索福克勒斯                源×1     译×1    
+     Domitian                       → 图密善                  源×1     译×1    
+     Cayster                        → 卡伊斯托斯河               源×1     译×1    
+     Maeander                       → 迈安德河                 源×1     译×1    
+     Obermann                       → 《奥伯曼》                源×5     译×5    
+     Senancour                      → 塞南古                  源×5     译×5    
+     George Sand                    → 乔治·桑                 源×1     译×1    
+     Sainte-Beuve                   → 圣伯夫                  源×1     译×1    
+     Rousseau                       → 卢梭                   源×1     译×1    
+     Chateaubriand                  → 夏多布里昂                源×1     译×1    
+     Madame de Staël                → 斯塔尔夫人                源×1     译×1    
+     Thetis                         → 忒提斯                  源×1     译×1    
+     Achilles                       → 阿喀琉斯                 源×1     译×2    
+     Lycaon                         → 吕卡翁                  源×1     译×1    
+     Cato                           → 加图                   源×1     译×1    
+     Utica                          → 乌提卡                  源×1     译×1    
+     Mount Haemus                   → 埃穆斯山                 源×1     译×1    
+     Typho                          → 提丰                   源×1     译×1    
+     Apollodorus                    → 阿波罗多洛斯               源×1     译×1    
+     Marsyas                        → 玛尔叙阿斯                源×2     译×2    
+     Pan                            → 潘                    源×1     译×1    
+     Apollo                         → 阿波罗                  源×3     译×4    
+     Pytho                          → 皮同                   源×1     译×1    
+     Deucalion                      → 丢卡利翁                 源×1     译×1    
+     Parmenides                     → 巴门尼德                 源×1     译×1    
+     Tristram                       → 特里斯坦                 源×6     译×6    
+     Iseult                         → 伊索尔德                 源×4     译×5    
+     Marc                           → 马克                   源×3     译×3    
+     Cornwall                       → 康沃尔                  源×5     译×5    
+     Tyntagel                       → 廷塔杰尔                 源×1     译×1    
+     Iseult with the White Hands    → "白手"伊索尔德             源×1     译×0     ★译0次(未落位?)
+     Arthur                         → 亚瑟                   源×2     译×1    
+     Dunlop                         → 邓洛普                  源×1     译×1    
+     Goethe                         → 歌德                   源×2     译×2    
+     Byron                          → 拜伦                   源×2     译×2    
+     Missolonghi                    → 迈索隆吉翁                源×1     译×1    
+     Virgil                         → 维吉尔                  源×3     译×2    
+     Wordsworth                     → 华兹华斯                 源×2     译×2    
+     Rhea                           → 瑞亚                   源×1     译×1    
+     Sohrab                         → 苏赫拉布                 源×9     译×9    
+     Rostam                         → 鲁斯塔姆                 源×7     译×7    
+     Afrasiab                       → 阿弗拉西亚布               源×1     译×1    
+     Sistan                         → 锡斯坦                  源×1     译×1    
+     Turan                          → 图兰                   源×1     译×1    
+     Oxus                           → 乌浒河                  源×1     译×1    
+     James Burnes                   → 詹姆斯·伯恩斯              源×1     译×1    
+     Carlyle                        → 卡莱尔                  源×1     译×1    
+     Pandion                        → 潘狄翁                  源×1     译×1    
+     Tereus                         → 特柔斯                  源×3     译×3    
+     Procne                         → 普洛克涅                 源×3     译×3    
+     Philomela                      → 菲洛墨拉                 源×1     译×1    
+     Itys                           → 伊提斯                  源×1     译×1    
+     Baldur                         → 巴尔德尔                 源×27    译×30   
+     Aesir                          → 阿萨神族                 源×9     译×6    
+     Frigga                         → 弗丽嘉                  源×7     译×7    
+     Loki                           → 洛基                   源×5     译×5    
+     Laufey                         → 劳菲                   源×1     译×1    
+     Fensalir                       → 芬萨里尔                 源×1     译×1    
+     Valhalla                       → 瓦尔哈拉                 源×1     译×1    
+     Mistletoe                      → 槲寄生                  源×3     译×3    
+     Hödur                          → 霍德尔                  源×3     译×3    
+     Hel                            → 赫尔                   源×7     译×7    
+     Hela                           → 海拉                   源×4     译×4    
+     Odin                           → 奥丁                   源×6     译×6    
+     Asgard                         → 阿斯加德                 源×2     译×2    
+     Hermod                         → 赫尔莫德                 源×8     译×8     残留「捷足者」×1
+     Sleipner                       → 斯莱普尼尔                源×1     译×1    
+     Hringhorn                      → 赫灵霍恩                 源×1     译×1    
+     Jötunheim                      → 约顿海姆                 源×1     译×1    
+     Hyrrokin                       → 希罗金                  源×2     译×2    
+     Thor                           → 托尔                   源×1     译×1    
+     Nanna                          → 娜娜                   源×2     译×2    
+     Nep                            → 尼普                   源×1     译×1    
+     Valkyrjor                      → 瓦尔基里                 源×1     译×1    
+     Frey                           → 弗雷                   源×1     译×1    
+     Gullinbursti                   → 金鬃                   源×1     译×1    
+     Slidrugtanni                   → 锯獠                   源×1     译×1    
+     Heimdall                       → 海姆达尔                 源×1     译×1    
+     Gulltop                        → 金顶                   源×1     译×1    
+     Freyja                         → 弗蕾亚                  源×1     译×1    
+     Draupnir                       → 德罗普尼尔                源×2     译×2    
+     Gjöll                          → 基奥尔河                 源×2     译×1    
+     Modgudur                       → 莫德古德                 源×1     译×1    
+     Fulla                          → 芙拉                   源×1     译×1    
+     Thaukt                         → 索克特                  源×2     译×2    
+     Snorri Sturleson               → 斯诺里·斯图鲁松             源×1     译×1    
+     Charlotte Brontë               → 夏洛蒂·勃朗特              源×1     译×1    
+     Harriet Martineau              → 哈丽雅特·马蒂诺             源×1     译×1    
+     Poias                          → 波伊阿斯                 源×1     译×1    
+     Philoctetes                    → 菲罗克忒忒斯               源×1     译×1    
+     William Delafield Arnold       → 威廉·德拉菲尔德·阿诺德         源×2     译×2    
+     Punjab                         → 旁遮普                  源×2     译×2    
+     Gibraltar                      → 直布罗陀                 源×2     译×2    
+     St. Augustine                  → 圣奥古斯丁                源×1     译×1    
+     Cordyon                        → 科里冬                  源×1     译×1    
+     Thyrsis                        → 提尔西斯                 源×2     译×2    
+     Daphnis                        → 达佛涅斯                 源×3     译×3    
+     Lityerses                      → 利提尔塞斯                源×4     译×4    
+     Linus                          → 利诺斯                  源×1     译×1    
+     Mercury                        → 墨丘利                  源×1     译×1    
+     Servius                        → 塞尔维乌斯                源×1     译×1    
+     Vevey                          → 沃韦                   源×2     译×2    
+     Glion                          → 格里永                  源×2     译×2    
+     Chillon                        → 希永城堡                 源×1     译×1    
+     Col de Jaman                   → 雅曼山口                 源×1     译×1    
+     Montbovon                      → 蒙博沃                  源×2     译×2    
+     Saane                          → 萨讷河                  源×1     译×1    
+     Sarine                         → 萨里讷河                 源×1     译×1    
+     Sebert                         → 塞伯特                  源×1     译×1    
+     Ethelbert                      → 埃塞尔伯特                源×1     译×1    
+     Mellitus                       → 梅利特斯                 源×2     译×2    
+     Dugdale                        → 达格代尔                 源×1     译×1    
+     Montalembert                   → 蒙塔朗贝尔                源×1     译×1    
+     Demophoön                      → 得摩丰                  源×1     译×1    
+     Celeus                         → 刻琉斯                  源×1     译×1    
+     Eleusis                        → 埃莱夫西斯                源×1     译×1    
+     Demeter                        → 得墨忒耳                 源×1     译×1    
+     Agamedes                       → 阿伽墨得斯                源×1     译×1    
+     Trophonius                     → 特罗福尼乌斯               源×1     译×1    
+     Delphi                         → 德尔斐                  源×1     译×1    
+     Plutarch                       → 普鲁塔克                 源×1     译×1    
+     Aristophanes                   → 阿里斯托芬                源×1     译×1    
+     Burns                          → 彭斯                   源×1     译×1    
+

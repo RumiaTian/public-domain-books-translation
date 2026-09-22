@@ -1,0 +1,982 @@
+## V
+
+Difference Engine No. I
+
+“Oh no! we never mention it,
+						
+
+						Its name is never heard.”
+
+Difference Engine No. 1﻿—First Idea at Cambridge, 1812﻿—Plan for Dividing Astronomical Instruments﻿—Idea of a Machine to calculate Tables by Differences﻿—Illustrations by Piles of Cannonballs.
+
+Calculating Machines comprise various pieces of mechanism for assisting the human mind in executing the operations of arithmetic. Some few of these perform the whole operation without any mental attention when once the given numbers have been put into the machine.
+
+Others require a moderate portion of mental attention: these latter are generally of much simpler construction than the former, and it may also be added, are less useful.
+
+The simplest way of deciding to which of these two classes any calculating machine belongs is to ask its maker﻿—Whether, when the numbers on which it is to operate are placed in the instrument, it is capable of arriving at its result by the mere motion of a spring, a descending weight, or any other constant force? If the answer be in the affirmative, the machine is really automatic; if otherwise, it is not self-acting.
+
+Of the various machines I have had occasion to examine, many of those for Addition and Subtraction have been found to be automatic. Of machines for Multiplication and Division, which have fully come under my examination, I cannot at present recall one to my memory as absolutely fulfilling this condition.
+
+The earliest idea that I can trace in my own mind of calculating arithmetical Tables by machinery arose in this manner:﻿—
+
+One evening I was sitting in the rooms of the Analytical Society, at Cambridge, my head leaning forward on the Table in a kind of dreamy mood, with a Table of logarithms lying open before me. Another member, coming into the room, and seeing me half asleep, called out, “Well, Babbage, what are you dreaming about?” to which I replied, “I am thinking that all these Tables (pointing to the logarithms) might be calculated by machinery.”
+
+I am indebted to my friend, the Rev. Dr. Robinson, the Master of the Temple, for this anecdote. The event must have happened either in 1812 or 1813.
+
+About 1819 I was occupied with devising means for accurately dividing astronomical instruments, and had arrived at a plan which I thought was likely to succeed perfectly. I had also at that time been speculating about making machinery to compute arithmetical Tables.
+
+One morning I called upon the late Dr. Wollaston, to consult him about my plan for dividing instruments. On talking over the matter, it turned out that my system was exactly that which had been described by the Duke de Chaulnes, in the Memoirs of the French Academy of Sciences, about fifty or sixty years before. I then mentioned my other idea of computing Tables by machinery, which Dr. Wollaston thought a more promising subject.
+
+I considered that a machine to execute the mere isolated operations of arithmetic, would be comparatively of little value, unless it were very easily set to do its work, and unless it executed not only accurately, but with great rapidity, whatever it was required to do.
+
+On the other hand, the method of differences supplied a general principle by which *all* Tables might be computed through limited intervals, by one uniform process. Again, the method of differences required the use of mechanism for Addition only. In order, however, to insure accuracy in the printed Tables, it was necessary that the machine which computed Tables should also set them up in type, or else supply a mould in which stereotype plates of those Tables could be cast.
+
+I now began to sketch out arrangements for accomplishing the several partial processes which were required. The arithmetical part must consist of two distinct processes﻿—the power of adding one digit to another, and also of carrying the tens to the next digit, if it should be necessary.
+
+The first idea was, naturally, to add each digit successively. This, however, would occupy much time if the numbers added together consisted of many places of figures.
+
+The next step was to add all the digits of the two numbers each to each at the same instant, but reserving a certain mechanical memorandum, wherever a carriage became due. These carriages were then to be executed successively.
+
+Having made various drawings, I now began to make models of some portions of the machine, to see how they would act. Each number was to be expressed upon wheels placed upon an axis; there being one wheel for each figure in the number operated upon.
+
+Having arrived at a certain point in my progress, it became necessary to have teeth of a peculiar form cut upon these wheels. As my own lathe was not fit for this job, I took the wheels to a wheel-cutter at Lambeth, to whom I carefully conveyed my instructions, leaving with him a drawing as his guide.
+
+These wheels arrived late one night, and the next morning I began putting them in action with my other mechanism, when, to my utter astonishment, I found they were quite unfit for their task. I examined the shape of their teeth, compared them with those in the drawings, and found they agreed perfectly; yet they could not perform their intended work. I had been so certain of the truth of my previous reasoning, that I now began to be somewhat uneasy. I reflected that, if the reasoning about which I had been so certain should prove to have been really fallacious, I could then no longer trust the power of my own reason. I therefore went over with my wheels to the artist who had formed the teeth, in order that I might arrive at some explanation of this extraordinary contradiction.
+
+On conferring with him, it turned out that, when he had understood fully the peculiar form of the teeth of wheels, he discovered that his wheel-cutting engine had not got amongst its divisions that precise number which I had required. He therefore had asked me whether another number, which his machine possessed, would not equally answer my object. I had inadvertently replied in the affirmative. He then made arrangements for the precise number of teeth I required; and the new wheels performed their expected duty perfectly.
+
+The next step was to devise means for printing the tables to be computed by this machine. My first plan was to make it put together moveable type. I proposed to make metal boxes, each containing 3,000 types of one of the ten digits. These types were to be made to pass out one by one from the bottom of their boxes, when required by the computing part of the machine.
+
+But here a new difficulty arose. The attendant who put the types into the boxes might, by mistake, put a wrong type in one or more of them. This cause of error I removed in the following manner:﻿—There are usually certain notches in the side of the type. I caused these notches to be so placed that all the types of any given digit possessed the same characteristic notches, which no other type had. Thus, when the boxes were filled, by passing a small wire down these peculiar notches, it would be impeded in its passage, if there were included in the row a single wrong figure. Also, if any digit were accidentally turned upside down, it would be indicated by the stoppage of the testing wire.
+
+One notch was reserved as common to every species of type. The object of this was that, before the types which the Difference Engine had used for its computation were removed from the iron platform on which they were placed, a steel wire should be passed through this common notch, and remain there. The tables, composed of moveable types, thus interlocked, could never have any of their figures drawn out by adhesion to the inking-roller, and then by possibility be restored in an inverted order. A small block of such figures tied together by a bit of string, remained unbroken for several years, although it was rather roughly used as a plaything by my children. One such box was finished, and delivered its type satisfactorily.
+
+Another plan for printing the tables, was to place the ordinary printing type round the edges of wheels. Then, as each successive number was produced by the arithmetical part, the type-wheels would move down upon a plate of soft composition, upon which the tabular number would be impressed. This mould was formed of a mixture of plaster-of-Paris with other materials, so as to become hard in the course of a few hours.
+
+The first difficulty arose from the impression of one tabular number on the mould being distorted by the succeeding one.
+
+I was not then aware that a very slight depth of impression from the type would be quite sufficient. I surmounted the difficulty by previously passing a roller, having longitudinal wedge-shaped projections, over the plastic material. This formed a series of small depressions in the matrix between each line. Thus the expansion arising from the impression of one line partially filled up the small depression or ditch which occurred between each successive line.
+
+The various minute difficulties of this kind were successively overcome; but subsequent experience has proved that the depth necessary for stereotype moulds is very small, and that even thick paper, prepared in a peculiar manner, is quite sufficient for the purpose.
+
+Another series of experiments were, however, made for the purpose of punching the computed numbers upon copper plate. A special machine was contrived and constructed, which might be called a coordinate machine, because it moved the copper plate and steel punches in the direction of three rectangular coordinates. This machine was afterwards found very useful for many other purposes. It was, in fact, a general shaping machine, upon which many parts of the Difference Engine were formed.
+
+Several specimens of surface and copperplate printing, as well as of the copper plates, produced by these means, were exhibited at the Exhibition of 1862.
+
+I have proposed and drawn various machines for the purpose of calculating a series of numbers forming Tables by means of a certain system called “The Method of Differences,” which it is the object of this sketch to explain.
+
+The first Difference Engine with which I am acquainted comprised a few figures, and was made by myself, between 1820 and June 1822. It consisted of from six to eight figures. A much larger and more perfect engine was subsequently commenced in 1823 for the Government.
+
+It was proposed that this latter Difference Engine should have six orders of differences, each consisting of about twenty places of figures, and also that it should print the Tables it computed.
+
+The small portion of it which was placed in the International Exhibition of 1862 was put together nearly thirty years ago. It was accompanied by various parts intended to enable it to print the results it calculated, either as a single copy on paper﻿—or by putting together moveable types﻿—or by stereotype plates taken from moulds punched by the machine﻿—or from copper plates impressed by it. The parts necessary for the execution of each of these processes were made, but these were not at that time attached to the calculating part of the machine.
+
+A considerable number of the parts by which the printing was to be accomplished, as also several specimens of portions of tables punched on copper, and of stereotype moulds, were exhibited in a glass case adjacent to the Engine.
+
+In 1834 Dr. Lardner published, in the *Edinburgh Review*,12 a very elaborate description of this portion of the machine, in which he explained clearly the method of Differences.
+
+It is very singular that two persons, one resident in London, the other in Sweden, should both have been struck, on reading this review, with the simplicity of the mathematical principle of differences as applied to the calculation of Tables, and should have been so fascinated with it as to have undertaken to construct a machine of the kind.
+
+Mr. Deacon, of Beaufort House, Strand, whose mechanical skill is well known, made, for his own satisfaction, a small model of the calculating part of such a machine, which was shown only to a few friends, and of the existence of which I was not aware until after the Swedish machine was brought to London.
+
+Mr. Scheutz, an eminent printer at Stockholm, had far greater difficulties to encounter. The construction of mechanism, as well as the mathematical part of the question, was entirely new to him. He, however, undertook to make a machine having four differences, and fourteen places of figures, and capable of printing its own Tables.
+
+After many years’ indefatigable labour, and an almost ruinous expense, aided by grants from his Government, by the constant assistance of his son, and by the support of many enlightened members of the Swedish Academy, he completed his Difference Engine. It was brought to London, and some time afterwards exhibited at the great Exhibition at Paris. It was then purchased for the Dudley Observatory at Albany by an enlightened and public-spirited merchant of that city, John F. Rathbone, Esq.
+
+An exact copy of this machine was made by Messrs. Donkin and Co., for the English Government, and is now in use in the Registrar-General’s Department at Somerset House. It is very much to be regretted that this specimen of English workmanship was not exhibited in the International Exhibition.
+
+### Explanation of the Difference Engine
+
+Those who are only familiar with ordinary arithmetic may, by following out with the pen some of the examples which will be given, easily make themselves acquainted with the simple principles on which the Difference Engine acts.
+
+It is necessary to state distinctly at the outset, that the Difference Engine is not intended to answer special questions. Its object is to calculate and print a *series* of results formed according to given laws. These are called Tables﻿—many such are in use in various trades. For example﻿—there are collections of Tables of the amount of any number of pounds from 1 to 100lbs. of butchers’ meat at various prices per lb. Let us examine one of these Tables: viz.﻿—the price of meat 5d. per lb., we find
+
+Number.
+
+							Lbs.
+							Table.
+
+							Price.
+						
+						
+							
+								s.
+							
+							
+								d.
+							
+						
+					
+					
+						
+							1
+							0
+							5
+						
+						
+							2
+							0
+							10
+						
+						
+							3
+							1
+							3
+						
+						
+							4
+							1
+							8
+						
+						
+							5
+							2
+							1
+						
+					
+				
+				
+
+There are two ways of computing this Table:﻿—
+
+- 
+						
+
+1st. We might have multiplied the number of lbs. in each line by 5, the price per lb., and have put down the result in £ s. d., as in the 2nd column: or,
+
+- 
+						
+
+2nd. We might have put down the price of 1lb., which is 5d., and have added five pence for each succeeding lb.
+
+Let us now examine the relative advantages of each plan. We shall find that if we had multiplied each number of lbs. in the Table by 5, and put down the resulting amount, then every number in the Table would have been computed independently. If, therefore, an error had been committed, it would not have affected any but the single tabular number at which it had been made. On the other hand, if a single error had occurred in the system of computing by adding five at each step, any such error would have rendered the whole of the rest of the Table untrue.
+
+Thus the system of calculating by differences, which is the easiest, is much more liable to error. It has, on the other hand, this great advantage: viz., that when the Table has been so computed, if we calculate its last term directly, and if it agree with the last term found by the continual addition of 5, we shall then be quite certain that every term throughout is correct. In the system of computing each term directly, we possess no such check upon our accuracy.
+
+Now the Table we have been considering is, in fact, merely a Table whose first difference is constant and equal to five. If we express it in pence it becomes﻿—
+
+Table.
+							1st Difference.
+						
+					
+					
+						
+							1
+							5
+							5
+						
+						
+							2
+							10
+							5
+						
+						
+							3
+							15
+							5
+						
+						
+							4
+							20
+							5
+						
+						
+							5
+							25
+							
+						
+					
+				
+				
+
+Any machine, therefore, which could add one number to another, and at the same time retain the original number called the first difference for the next operation, would be able to compute all such Tables.
+
+Let us now consider another form of Table which might readily occur to a boy playing with his marbles, or to a young lady with the balls of her solitaire board.
+
+The boy may place a row of his marbles on the sand, at equal distances from each other, thus﻿—
+
+He might then, beginning with the second, place two other marbles under each, thus﻿—
+
+He might then, beginning with the third, place three other marbles under each group, and so on; commencing always one group later, and making the addition one marble more each time. The several groups would stand thus arranged﻿—
+
+He will not fail to observe that he has thus formed a series of triangular groups, every group having an equal number of marbles in each of its three sides. Also that the side of each successive group contains one more marble than that of its preceding group.
+
+Now an inquisitive boy would naturally count the numbers in each group and he would find them thus﻿—
+
+- 
+						
+
+1,
+
+- 
+						
+
+3,
+
+- 
+						
+
+6,
+
+- 
+						
+
+10,
+
+- 
+						
+
+15,
+
+- 
+						
+
+21
+
+He might also want to know how many marbles the thirtieth or any other distant group might contain. Perhaps he might go to papa to obtain this information; but I much fear papa would snub him, and would tell him that it was nonsense﻿—that it was useless﻿—that nobody knew the number, and so forth. If the boy is told by papa, that he is not able to answer the question, then I recommend him to pay careful attention to whatever that father may at any time say, for he has overcome two of the greatest obstacles to the acquisition of knowledge﻿—inasmuch as he possesses the consciousness that he does not know﻿—and he has the moral courage to avow it.13
+
+If papa fail to inform him, let him go to mamma, who will not fail to find means to satisfy her darling’s curiosity. In the meantime the author of this sketch will endeavour to lead his young friend to make use of his own common sense for the purpose of becoming better acquainted with the triangular figures he has formed with his marbles.
+
+In the case of the Table of the price of butchers’ meat, it was obvious that it could be formed by adding the same *constant* difference continually to the first term. Now suppose we place the numbers of our groups of marbles in a column, as we did our prices of various weights of meat. Instead of adding a certain difference, as we did in the former case, let us subtract the figures representing each group of marbles from the figures of the succeeding group in the Table. The process will stand thus:﻿—
+
+Number of the Group.
+							Table.
+							1st Difference.
+							2nd Difference.
+						
+						
+							Number of Marbles in each Group.
+							Difference between the number of Marbles in each Group and that in the next.
+						
+					
+					
+						
+							1
+							1
+							1
+							1
+						
+						
+							2
+							3
+							2
+							1
+						
+						
+							3
+							6
+							3
+							1
+						
+						
+							4
+							10
+							4
+							1
+						
+						
+							5
+							15
+							5
+							1
+						
+						
+							6
+							21
+							6
+							
+						
+						
+							7
+							28
+							7
+							
+						
+					
+				
+				
+
+It is usual to call the third column thus formed *the column of first differences*. It is evident in the present instance that that column represents the natural numbers. But we already know that the first difference of the natural numbers is constant and equal to unity. It appears, therefore, that a Table of these numbers, representing the group of marbles, might be constructed to any extent by mere addition﻿—using the number 1 as the first number of the Table, the number 1 as the first Difference, and also the number 1 as the second Difference, which last always remains constant.
+
+Now as we could find the value of any given number of pounds of meat directly, without going through all the previous part of the Table, so by a somewhat different rule we can find at once the value of any group whose number is given.
+
+Thus, if we require the number of marbles in the fifth group, proceed thus:﻿—
+
+Take the number of the group
+							5
+						
+						
+							Add 1 to this number, it becomes
+							6
+						
+						
+							Multiply these numbers together
+							2)30
+						
+						
+							Divide the product by 2
+							1
+						
+					
+				
+				
+
+This gives 15, the number of marbles in the 5th group.
+
+If the reader will take the trouble to calculate with his pencil the five groups given above, he will soon perceive the general truth of this rule.
+
+We have now arrived at the fact that this Table﻿—like that of the price of butchers’ meat﻿—can be calculated by two different methods. By the first, each number of the Table is calculated independently: by the second, the truth of each number depends upon the truth of all the previous numbers.
+
+Perhaps my young friend may now ask me, What is the use of such Tables? Until he has advanced further in his arithmetical studies, he must take for granted that they are of some use. The very Table about which he has been reasoning possesses a special name﻿—it is called a Table of Triangular Numbers. Almost every general collection of Tables hitherto published contains portions of it of more or less extent.
+
+Above a century ago, a volume in small quarto, containing the first 20,000 triangular numbers, was published at the Hague by E. De Joncourt, A.M., and Professor of Philosophy.14 I cannot resist quoting the author’s enthusiastic expression of the happiness he enjoyed in composing his celebrated work:
+
+“The Trigonals here to be found, and nowhere else, are exactly elaborate. Let the candid reader make the best of these numbers, and feel (if possible) in perusing my work the pleasure I had in composing it.
+
+“That sweet joy may arise from such contemplations cannot be denied. Numbers and lines have many charms, unseen by vulgar eyes, and only discovered to the unwearied and respectful sons of Art. In features the serpentine line (who starts not at the name) produces beauty and love; and in numbers, high powers, and humble roots, give soft delight.
+
+“Lo! the raptured arithmetician! Easily satisfied, he asks no Brussels lace, nor a coach and six. To calculate, contents his liveliest desires, and obedient numbers are within his reach.”
+
+I hope my young friend is acquainted with the fact﻿—that the product of any number multiplied by itself is called the square of that number. Thus 36 is the product of 6 multiplied by 6, and 36 is called the square of 6. I would now recommend him to examine the series of square numbers:
+
+- 
+						
+
+1,
+
+- 
+						
+
+4,
+
+- 
+						
+
+9,
+
+- 
+						
+
+16,
+
+- 
+						
+
+25,
+
+- 
+						
+
+36,
+
+- 
+						
+
+49,
+
+- 
+						
+
+64,
+
+- 
+						
+
+etc.,
+
+and to make, for his own instruction, the series of their first and second differences, and then to apply to it the same reasoning which has been already applied to the Table of Triangular Numbers.
+
+When he feels that he has mastered that Table, I shall be happy to accompany mamma’s darling to Woolwich or to Portsmouth, where he will find some practical illustrations of the use of his newly-acquired numbers. He will find scattered about in the Arsenal various heaps of cannon balls, some of them triangular, others square or oblong pyramids.
+
+Looking on the simplest form﻿—the triangular pyramid﻿—he will observe that it exactly represents his own heaps of marbles placed each successively above one another until the top of the pyramid contains only a single ball.
+
+The new series thus formed by the addition of his own triangular numbers is﻿—
+
+Number.
+							Table.
+							1st Difference.
+							2nd Difference.
+							3rd Difference.
+						
+					
+					
+						
+							1
+							1
+							3
+							3
+							1
+						
+						
+							2
+							4
+							6
+							4
+							1
+						
+						
+							3
+							10
+							10
+							5
+							1
+						
+						
+							4
+							20
+							15
+							6
+							
+						
+						
+							5
+							35
+							21
+							
+							
+						
+						
+							6
+							56
+							
+							
+							
+						
+					
+				
+				
+
+He will at once perceive that this Table of the number of cannon balls contained in a triangular pyramid can be carried to any extent by simply adding successive differences, the third of which is constant.
+
+The next step will naturally be to inquire how any number in this Table can be calculated by itself. A little consideration will lead him to a fair guess; a little industry will enable him to confirm his conjecture.
+
+It will be observed at the start of this section that in order to find independently any number of the Table of the price of butchers’ meat, the following rule was observed:﻿—
+
+Take the number whose tabular number is required.
+
+Multiply it by the first difference.
+
+This product is equal to the required tabular number.
+
+Again, the rule for finding any triangular number was:﻿—
+
+Take the number of the group
+							5
+						
+						
+							Add 1 to this number, it becomes
+							6
+						
+						
+							Multiply these numbers together
+							2)30
+						
+						
+							Divide the product by 2
+							15
+						
+					
+				
+				
+
+This is the number of marbles in the 5th group.
+
+Now let us make a bold conjecture respecting the Table of cannon balls, and try this rule:﻿—
+
+Take the number whose tabular number is required, say
+							5
+						
+						
+							Add 1 to that number
+							6
+						
+						
+							Add 1 more to that number
+							7
+						
+						
+							Multiply all three numbers together
+							2)210
+						
+						
+							Divide by 2
+							105
+						
+					
+				
+				
+
+The real number in the 5th pyramid is 35. But the number 105 at which we have arrived is exactly three times as great. If, therefore, instead of dividing by 2 we had divided by 2 and also by 3, we should have arrived at a true result in this instance.
+
+The amended rule is therefore﻿—
+
+Take the number whose tabular number is required, say
+							
+								n
+							
+						
+						
+							Add 1 to it
+							n + 1
+						
+						
+							Add 1 to this
+							n + 2
+						
+						
+							Multiply these three numbers together
+							n ×(n + 1) ×(n + 2)
+						
+						
+							Divide by 1 × 2 × 3. The result is
+							
+								
+							
+						
+					
+				
+				
+
+This rule will, upon trial, be found to give correctly every tabular number.
+
+By similar reasoning we might arrive at the knowledge of the number of cannon balls in square and rectangular pyramids. But it is presumed that enough has been stated to enable the reader to form some general notion of the method of calculating arithmetical Tables by differences which are constant.
+
+It may now be stated that mathematicians have discovered that all the Tables most important for practical purposes, such as those relating to Astronomy and Navigation, can, although they may not possess any constant differences, still be calculated in detached portions by that method.
+
+Hence the importance of having machinery to calculate by differences, which, if well made, cannot err; and which, if carelessly set, presents in the last term it calculates the power of verification of every antecedent term.
+
+### Of the Mechanical Arrangements Necessary for Computing Tables by the Method of Differences
+
+From the preceding explanation it appears that all Tables may be calculated, to a greater or less extent, by the method of Differences. That method requires, for its successful execution, little beyond mechanical means of performing the arithmetical operation of Addition. Subtraction can, by the aid of a well-known artifice, be converted into Addition.
+
+The process of Addition includes two distinct parts﻿—1st. The first consists of the addition of any one digit to another digit; 2nd. The second consists in carrying the tens to the next digit above.
+
+Let us take the case of the addition of the two following numbers, in which no carriages occur:﻿—
+
+6023
+						
+						
+							1970
+						
+						
+							7993
+						
+					
+				
+				
+
+It will be observed that, in making this addition, the mind acts by successive steps. The person adding says to himself﻿—
+
+- 
+						
+
+0 and 3 make three,
+
+- 
+						
+
+7 and 2 make nine,
+
+- 
+						
+
+9 and 0 make nine,
+
+- 
+						
+
+1 and 6 make seven.
+
+In the following addition there are several carriages:﻿—
+
+2648
+						
+						
+							4564
+						
+						
+							7212
+						
+					
+				
+				
+
+The person adding says to himself﻿—
+
+4 and 8 make 12:
+							put down 2 and carry one.
+						
+						
+							1 and 6 are 7 and 4 make 11:
+							put down 1 and carry one.
+						
+						
+							1 and 5 are 6 and 6 make 12:
+							put down 2 and carry one.
+						
+						
+							1 and 4 are 5 and 2 make 7:
+							put down 7.
+						
+					
+				
+				
+
+Now, the length of time required for adding one number to another is mainly dependent upon the number of figures to be added. If we could tell the average time required by the mind to add two figures together, the time required for adding any given number of figures to another equal number would be found by multiplying that average time by the number of digits in either number.
+
+When we attempt to perform such additions by machinery we might follow exactly the usual process of the human mind. In that case we might take a series of wheels, each having marked on its edges the digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. These wheels might be placed above each other upon an axis. The lowest would indicate the units’ figure, the next above the tens, and so on, as in the Difference Engine at the Exhibition, a woodcut of which faces the title-page.
+
+Several such axes, with their figure wheels, might be placed around a system of central wheels, with which the wheels of any one or more axes might at times be made to gear. Thus the figures on any one axis might, by means of those central wheels, be added to the figure wheels of any other axis.
+
+But it may fairly be expected, and it is indeed of great importance that calculations made by machinery should not merely be exact, but that they should be done in a much shorter time than those performed by the human mind. Suppose there were no tens to carry, as in the first of the two cases; then, if we possessed mechanism capable of adding any one digit to any other in the units’ place of figures, a similar mechanism might be placed above it to add the tens’ figures, and so on for as many figures as might be required.
+
+But in this case, since there are no carriages, each digit might be added to its corresponding digit at the same time. Thus, the time of adding by means of mechanism, any two numbers, however many figures they might consist of, would not exceed that of adding a single digit to another digit. If this could be accomplished it would render additions and subtractions with numbers having ten, twenty, fifty, or any number of figures, as rapid as those operations are with single figures.
+
+Let us now examine the case in which there were several carriages. Its successive stages may be better explained, thus﻿—
+
+Stages
+							
+						
+					
+					
+						
+							
+							2
+							6
+							4
+							8
+						
+						
+							
+							4
+							5
+							8
+							4
+						
+						
+							1 Add units’ figure = 4
+							2
+							6
+							4
+							2
+						
+						
+							2 Carry
+							
+							
+							1
+							
+						
+						
+							2
+							6
+							5
+							2
+						
+						
+							3 Add tens’ figure = 8
+							
+							
+							8
+							
+						
+						
+							2
+							6
+							3
+							2
+						
+						
+							4 Carry
+							
+							1
+							
+							
+						
+						
+							2
+							7
+							3
+							2
+						
+						
+							5 Add hundreds’ figure = 5
+							
+							5
+							
+							
+						
+						
+							2
+							2
+							3
+							2
+						
+						
+							6 Carry
+							1
+							
+							
+							
+						
+						
+							3
+							2
+							3
+							2
+						
+						
+							7 Add thousands’ figure = 4
+							4
+							
+							
+							
+						
+						
+							7
+							2
+							3
+							2
+						
+						
+							8 Carry 0. There is no carr.
+						
+					
+				
+				
+
+Now if, as in this case, all the carriages were known, it would then be possible to make all the additions of digits at the same time, provided we could also record each carriage as it became due. We might then complete the addition by adding, at the same instant, each carriage in its proper place. The process would then stand thus:﻿—
+
+Stages
+							
+						
+					
+					
+						
+							
+							2
+							6
+							4
+							8
+							
+						
+						
+							
+							4
+							5
+							6
+							4
+							
+						
+						
+							1
+							6
+							1
+							0
+							2
+							Add each digit to the digit above.
+						
+						
+							1
+							1
+							1
+							
+							Record the carriages.
+						
+						
+							2
+							7
+							2
+							1
+							2
+							Add the above carriages.
+						
+					
+				
+				
+
+Now, whatever mechanism is contrived for adding any one digit to any other must, of course, be able to add the largest digit, nine, to that other digit. Supposing, therefore, one unit of number to be passed over in one second of time, it is evident that any number of pairs of digits may be added together in nine seconds, and that, when all the consequent carriages are known, as in the above case, it will cost one second more to make those carriages. Thus, addition and carriage would be completed in ten seconds, even though the numbers consisted each of a hundred figures.
+
+But, unfortunately, there are multitudes of cases in which the carriages that become due are only known in successive periods of time. As an example, add together the two following numbers:﻿—
+
+Stages
+							
+						
+					
+					
+						
+							
+							
+							8
+							4
+							7
+							3
+						
+						
+							
+							
+							1
+							5
+							2
+							8
+						
+						
+							1 Add all the digits
+							
+							9
+							9
+							9
+							1
+						
+						
+							2 Carry on tens and warn next car.
+							
+							
+							
+							1
+							
+						
+						
+							
+							9
+							9
+							0
+							1
+						
+						
+							3 Carry on hundreds, and ditto
+							
+							
+							1
+							
+							
+						
+						
+							
+							9
+							0
+							0
+							1
+						
+						
+							4 Carry on thousands, and ditto
+							
+							1
+							
+							
+							
+						
+						
+							0
+							0
+							0
+							0
+							1
+						
+						
+							5 Carry on ten thousands
+							1
+							
+							
+							
+							
+						
+						
+							1
+							0
+							0
+							0
+							1
+						
+					
+				
+				
+
+In this case the carriages only become known successively, and they amount to the number of figures to be added; consequently, the mere addition of two numbers, each of fifty places of figures, would require only nine seconds of time, whilst the possible carriages would consume fifty seconds.
+
+The mechanical means I employed to make these carriages bears some slight analogy to the operation of the faculty of memory. A toothed wheel had the ten digits marked upon its edge; between the nine and the zero a projecting tooth was placed. Whenever any wheel, in receiving addition, passed from nine to zero, the projecting tooth pushed over a certain lever. Thus, as soon as the nine seconds of time required for addition were ended, every carriage which had *become due* was indicated by the altered position of its lever. An arm now went round, which was so contrived that the act of replacing that lever caused the carriage which its position indicated to be made to the next figure above. But this figure might be a nine, in which case, in passing to zero, it would put over its lever, and so on. By placing the arms spirally round an axis, these successive carriages were accomplished.
+
+Multitudes of contrivances were designed, and almost endless drawings made, for the purpose of economizing the time and simplifying the mechanism of carriage. In that portion of the Difference Engine in the Exhibition of 1862 the time of carriage has been reduced to about one-fourth part of what was at first required.
+
+At last having exhausted, during years of labour, the principle of successive carriages, it occurred to me that it might be possible to teach mechanism to accomplish another mental process, namely﻿—to foresee. This idea occurred to me in October, 1834. It cost me much thought, but the principle was arrived at in a short time. As soon as that was attained, the next step was to teach the mechanism which could foresee to act upon that foresight. This was not so difficult: certain mechanical means were soon devised which, although very far from simple, were yet sufficient to demonstrate the possibility of constructing such machinery.
+
+The process of simplifying this form of carriage occupied me, at intervals, during a long series of years. The demands of the Analytical Engine, for the mechanical execution of arithmetical operations, were of the most extensive kind. The multitude of similar parts required by the Analytical Engine, amounting in some instances to upwards of fifty thousand, rendered any, even the simplest, improvement of each part a matter of the highest importance, more especially as regarded the diminished amount of expenditure for its construction.
+
+### Description of the Existing Portion of Difference Engine No. 1
+
+That portion of Difference Engine, No. 1, which during the last twenty years has been in the museum of King’s College, at Somerset House, is represented in the woodcut opposite the title page.
+
+It consists of three columns; each column contains six cages; each cage contains one figure-wheel.
+
+The column on the right hand has its lowest figure-wheel covered by a shade which is never removed, and to which the reader’s attention need not be directed.
+
+The figure-wheel next above may be placed by hand at any one of the ten digits. In the woodcut it stands at zero.
+
+The third, fourth, and fifth cages are exactly the same as the second.
+
+The sixth cage contains exactly the same as the four just described. It also contains two other figure-wheels, which with a similar one above the frame, may also be dismissed from the reader’s attention. Those wheels are entirely unconnected with the moving part of the engine, and are only used for memoranda.
+
+It appears, therefore, that there are in the first column on the right hand five figure-wheels, each of which may be set by hand to any of the figures 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+
+The lowest of these figure-wheels represents the unit’s figure of any number; the next above the ten’s figure, and so on. The highest figure-wheel will therefore represent tens of thousands.
+
+Now, as each of these figure-wheels may be set by hand to any digit, it is possible to place on the first column any number up to 99999. It is on these wheels that the Table to be calculated by the engine is expressed. This column is called the Table column, and the axis of the wheels the Table axis.
+
+The second or middle column has also six cages, in each of which a figure-wheel is placed. It will be observed that in the lowest cage, the figure on the wheel is concealed by a shade. It may therefore be dismissed from the attention. The five other figure-wheels are exactly like the figure-wheels on the Table axis, and can also represent any number up to 99999.
+
+This column is called the First Difference column, and the axis is called the First Difference axis.
+
+The third column, which is that on the left hand, has also six cages, in each of which is a figure-wheel capable of being set by hand to any digit.
+
+The mechanism is so contrived that whatever may be the numbers placed respectively on the figure-wheels of each of the three columns, the following succession of operations will take place as long as the handle is moved:﻿—
+
+- 
+						
+
+1st. Whatever number is found upon the column of first differences will be added to the number found upon the Table column.
+
+- 
+						
+
+2nd. The same first difference remaining upon its own column, the number found upon the column of second differences will be added to that first difference.
+
+It appears, therefore, that with this small portion of the Engine any Table may be computed by the method of differences, provided neither the Table itself, nor its first and second differences, exceed five places of figures.
+
+If the whole Engine had been completed it would have had six orders of differences, each of twenty places of figures, whilst the three first columns would each have had half a dozen additional figures.
+
+This is the simplest explanation of that portion of the Difference Engine No. 1, at the Exhibition of 1862. There are, however, certain modifications in this fragment which render its exhibition more instructive, and which even give a mechanical insight into those higher powers with which I had endowed it in its complete state.
+
+As a matter of convenience in exhibiting it, there is an arrangement by which the *three* upper figures of the second difference are transformed into a small engine which counts the natural numbers.
+
+By this means it can be set to compute any Table whose second difference is constant and less than 1000, whilst at the same time it thus shows the position in the Table of each tabular number.
+
+In the existing portion there are three bells; they can be respectively ordered to ring when the Table, its first difference and its second difference, pass from positive to negative. Several weeks after the machine had been placed in my drawing-room, a friend came by appointment to test its power of calculating Tables. After the Engine had computed several Tables, I remarked that it was evidently finding the root of a quadratic equation; I therefore set the bells to watch it. After some time the proper bell sounded twice, indicating, and giving the two positive roots to be 28 and 30. The Table thus calculated related to the barometer and really involved a quadratic equation, although its maker had not previously observed it. I afterwards set the Engine to tabulate a formula containing impossible roots, and of course the other bell warned me when it had attained those roots. I had never before used these bells, simply because I did not think the power it thus possessed to be of any practical utility.
+
+Again, the lowest cages of the Table, and of the first difference, have been made use of for the purpose of illustrating three important faculties of the finished engine.
+
+- 
+						
+
+1st. The portion exhibited can calculate any Table whose third difference is constant and less than 10.
+
+- 
+						
+
+2nd. It can be used to show how much more rapidly astronomical Tables can be calculated in an engine in which there is no constant difference.
+
+- 
+						
+
+3rd. It can be employed to illustrate those singular laws which might continue to be produced through ages, and yet after an enormous interval of time change into other different laws; each again to exist for ages, and then to be superseded by new laws. These views were first proposed in the *Ninth Bridgewater Treatise*.
+
+Amongst the various questions which have been asked respecting the Difference Engine, I will mention a few of the most remarkable:﻿—One gentleman addressed me thus: “Pray, Mr. Babbage, can you explain to me in two words what is the principle of this machine?” Had the querist possessed a moderate acquaintance with mathematics I might in four words have conveyed to him the required information by answering, “The method of differences.” The question might indeed have been answered with six characters thus﻿—
+
+Δ7ux = 0
+
+but such information would have been unintelligible to such inquirers.
+
+On two occasions I have been asked﻿—“Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?” In one case a member of the Upper, and in the other a member of the Lower, House put this question. I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question. I did, however, explain the following property, which might in some measure approach towards an answer to it.
+
+It is possible to construct the Analytical Engine in such a manner that after the question is once communicated to the engine, it may be stopped at any turn of the handle and set on again as often as may be desired. At each stoppage every figure-wheel throughout the Engine, which is capable of being moved without breaking, may be moved on to any other digit. Yet after each of these apparent falsifications the engine will be found to make the next calculation with perfect truth.
+
+The explanation is very simple, and the property itself useless. The whole of the mechanism ought of course to be enclosed in glass, and kept under lock and key, in which case the mechanism necessary to give it the property alluded to would be useless.

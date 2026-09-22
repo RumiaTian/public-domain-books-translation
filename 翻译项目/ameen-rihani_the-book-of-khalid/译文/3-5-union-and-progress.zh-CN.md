@@ -1,0 +1,129 @@
+## V / V
+
+Union and Progress / 联合与进步
+
+===Original===
+Had not Khalid in his retirement touched his philosophic raptures with a little local colouring, had he not given an account of his tramping tour in the Lebanons, the hiatus in Shakib’s *Histoire Intime* could not have been bridged. It would have remained, much to our vexation and sorrow, somewhat like the ravine in which Khalid almost lost his life. But now we return, after a year’s absence, to our Scribe, who at this time in Baalbek is soldering and hammering out rhymes in praise of Niazi and Enver, Abdul Hamid and the *Dustur* (Constitution).
+
+“When Khalid, after his cousin’s marriage, suddenly disappeared from Baalbek,” writes he, “I felt that something had struck me violently on the brow, and everything around me was dark. I could not withhold my tears: I wept like a child, even like Khalid’s mother. I remember he would often speak of suicide in those days. And on the evening of that fatal day we spent many hours discussing the question. ‘Why is not one free to kill himself,’ he finally asked, ‘if one is free to become a Jesuit?’ But I did not believe he was in earnest. Alas, he was. For on the morning of the following day, I went up to his tent on the roof and found nothing of Khalid’s belongings but a pamphlet on the subject, ‘Is Suicide a Sin?’ and right under the title the monosyllable **la** (no) and his signature. The frightfulness of his intention stood like a spectre before me. I clapped one hand upon the other and wept. I made inquiries in the city and in the neighbouring places, but to no purpose. Oh, that dreadful, dismal day, when everywhither I went something seemed to whisper in my heart, ‘Khalid is no more.’ It was the first time in my life that I felt the pangs of separation, the sting of death and sorrow. The days and months passed, heartlessly confirming my conjecture, my belief.
+
+“One evening, when the last glimmer of hope passed away, I sat down and composed a threnody in his memory. And I sent it to one of the newspapers of Beirut, in the hope that Khalid, if he still lived, might chance to see it. It was published and quoted by other journals here and in Egypt, who, in their eulogies, spoke of Khalid as the young Baalbekian philosopher and poet. One of these newspapers, whose editor is a dear friend of mine, and of comely ancient virtue, did not mention, from a subtle sense of tender regard for my feelings, the fact that Khalid committed suicide. ‘He died,’ the Notice said, ‘of a sudden and violent defluxion of rheums,5 which baffled the physician and resisted his skill and physic.’ Another journal, whose editor’s religion is of the Jesuitical pattern, spoke of him as a miserable God-abandoned wretch who was not entitled to the right of Christian burial; and fulminated at its contemporaries for eulogising the youthful infidel and moaning his death, thus spreading and justifying his evil example.
+
+“And so, the days passed, and the months, and Khalid was still dead. In the summer of this year, when the Constitution was proclaimed, and the country was rioting in the saturnalia of Freedom and Equality, my sorrow was keener, deeper than ever. Not I alone, but the cities and the deserts of Syria and Arabia, missed my loving friend. How gloriously he would have filled the tribune of the day, I sadly mused.﻿ ﻿… O Khalid, I can never forgive this crime of thine against the sacred rites of Friendship. Such heartlessness, such inexorable cruelty, I have never before observed in thee. No matter how much thou hast profited by thy retirement to the mountains, no matter how much thy solitude hath given thee of health and power and wisdom, thy cruel remissness can not altogether be drowned in my rejoicing. To forget those who love thee above everything else in the world﻿—thy mother, thy cousin, thine affectionate brother﻿—”
+
+===Chinese===
+倘若哈立德在隐居之时，不曾为他那哲学的狂喜染上一点当地的风色，倘若他不曾把他在黎巴嫩（Lebanon）群山间徒步漫游的经过记述一番，那么沙基布《私密史》（Histoire Intime）中的那段脱漏便无从弥缝了。它本会——令人既恼且痛地——留存下来，有几分像那道险些夺去哈立德性命的深涧。如今我们终于在阔别一年之后，回到我们的抄写人身边；此时他正在巴勒贝克（Baalbek），一面焊着、敲着，拼凑出赞美尼亚济（Niazi）与恩维尔（Enver）、阿卜杜勒·哈米德（Abdul Hamid）与《宪法》（Dustur）的韵文。
+
+「当哈立德在其表亲婚礼之后，忽然从巴勒贝克销声匿迹之时，」他写道，「我觉得仿佛有什么东西猛地击在我的额上，我周遭一切尽成黑暗。我止不住泪水：我哭得像个孩子，甚至像哈立德的母亲。我记得那些日子里，他常常谈到自杀。就在那要命的一日的傍晚，我们花了好多钟头讨论这个问题。『一个人若是有自由去做一个耶稣会士（Jesuit），』他终于问道，『为何就没有自由了结自己呢？』可我并不相信他是当真的。唉，他竟是当真的。因为第二天早晨，我上到他屋顶上的帐篷里，在哈立德的遗物之中，只寻见一本论此题目的小册子——『自杀是罪么？』——而就在题目底下，写着那个单音节的 **la**（不），以及他的签名。他那一念之险，如幽灵一般立在我眼前。我把一只手按在另一只手上，痛哭失声。我在城中、在四邻各处打听，全然徒劳。啊，那可怕而阴惨的一日，无论我走到何处，心里总像有什么在低语：『哈立德不在了。』那是我平生头一遭尝到别离之痛、尝到死亡与悲伤的蛰刺。日子一月一月地过去，无情地印证了我的揣测、我的信念。
+
+「一天傍晚，当最后一丝希望也消逝之时，我坐下来，为他作了一首挽歌。我把它寄到贝鲁特（Beirut）的一家报纸去，指望哈立德倘若尚在人世，或许碰巧能看见它。它刊了出来，又被此地和埃及的其他报刊转载；在他们的颂词里，都把哈立德称作那位年轻的巴勒贝克哲学家与诗人。其中有一家报纸，其编辑是我的一位挚友，为人有着古风的可亲美德，他出于对我感受的一种细腻体贴，对哈立德自杀一事只字未提。讣告里写道：『他死于一场突然而剧烈的风湿黏液倒流，这病令医生束手，抗拒着他的医术与药石。』另有一家报纸，其编辑的宗教信仰属于耶稣会式的那一类，则把他说成一个被真主弃绝的可怜恶人，不配享基督教的葬礼；并对同行们大肆抨击，责其颂扬这个年轻的不信者、哀悼他的死，从而传播并为其恶行范例张目。
+
+「于是，日子一天天过，一月月过，哈立德仍旧是死了。今年夏天，当宪法颁布、举国狂欢于自由与平等的酒神祭典之时，我的哀痛反而比以往更锐利、更深沉。不只我一人，便是叙利亚（Syria）与阿拉伯（Arabia）的诸城与诸沙漠，也都思念着我这位亲爱的朋友。他本会何等辉煌地登上今日的演讲坛啊——我悲伤地冥想着。……哈立德啊，你这桩对友谊之神圣仪典的罪愆，我永远不能宽恕。如此狠心，如此不留余地的心狠，我从前在你身上从未见过。无论你退隐山中得了多少益处，无论你的独处给了你多少健康、力量与智慧，你这份无情的疏懒，总不能全然淹没在我的欢喜之中。你竟忘却了这世上比一切都更爱你的那些人——你的母亲、你的表亲、你亲爱的兄弟——」
+
+===Original===
+And our Scribe goes on, blubbering like a good Syrian his complaint and joy, gushing now in verse, now in what is worse, in rhymed prose, until he reaches the point which is to us of import. Khalid, in the winter of the first year of the *Dustur* (Constitution) writes to him many letters from Beirut, of which he gives us not less than fifty! And of these, the following, if not the most piquant and interesting, are the most indispensable to our History.
+
+===Chinese===
+我们的抄写人就这样一路写下去，像一位地道的叙利亚人那样，又哭又笑地倾吐他的怨与乐；时而迸作诗句，时而更糟——迸作押韵的散文；直写到那个于我们至关紧要的转折处。《宪法》元年之冬，哈立德从贝鲁特给他写了许多信，他抄给我们的竟不下五十封！这些信里头，下面这几封，纵然不是最辛辣、最有趣的，却也是我们的这部史书所最不可缺的。
+
+===Original===
+Letter I (As numbered in the Original)
+
+My loving Brother Shakib:
+
+To whom, if not to you, before all, should I send the first word of peace, the first sign of the resurrection? To my mother? To my cousin Najma? Well, yes. But if I write to them, my letters will be brought to you to be read and answered. So I write now direct, hoping that you will convey to them these tidings of joy. ’Tis more than a year now since I slinked out of Baalbek, leaving you in the dark about me. Surely, I deserve the chastisement of your bitterest thoughts. But what could I do? Such is the rigour of the sort of life I lived that any communication with the outside world, especially with friends and lovers, would have marred it. So, I had to be silent as the pines in which I put up, until I became as healthy as the swallows, my companions there. When we meet, I shall recount to you the many curious incidents of my solitude and my journey in the sacred hills of Lebanon. To these auspicious mountains, my Brother, I am indebted for the health and joy and wisdom that are now mine; and yours, too, if you consider.
+
+Strange, is it not, that throughout my journey, and I have passed in many villages, nothing heard I of this great political upheaval in the Empire. Probably the people of the Lebanons cherish not the Revolution. There is so much in common, I find, between them and the Celtic races, who always in such instances have been more royalists than the king. And I think Mt. Lebanon is going to be the Vendée of the Turks.
+
+I have been in Beirut but a few days. And truly, I could not believe my eyes, when in the Place de la Concorde (I hope the Turks are not going to follow in the steps of the French Revolutionists in all things), I could not believe my eyes, when, in this muddy Square, on the holy Stump of Liberty, I beheld my old friend the Spouter dispensing to the turbaned and tarboushed crowd, among which were cameleers and muleteers with their camels and mules, of the blessing of that triple political abracadabra of the France of more than a century passed. Liberty, Fraternity, Equality!﻿—it’s a shame that the show has been running for six months now and I did not know it. I begin by applauding the Spouters of Concord Square, the donkey that I am. But how, with my cursed impulsiveness, can I always keep on the sidewalk of reason? I, who have suckled of the milk of freedom and broke the bottle, too, on my Nurse’s head, I am not to blame, if from sheer joy, I cheer those who are crowning her on a dunghill with wreaths of stable straw. It’s better, *billah*, than breaking the bottle on her head, is it not? And so, let the Spouters spout. And let the sheikh and the priest and the rabbi embrace on that very Stump and make up. Live the Era of Concord and peace and love! Live the *Dustur*! Hurrah for the Union and Progress Heroes! Come down to Beirut and do some shouting with your fellow citizens.
+
+===Chinese===
+第一封信（依原稿编号）
+
+我亲爱的兄弟沙基布：
+
+这头一句平安的话、这头一个复活的信号，我不先寄给你、还能寄给谁呢？寄给我母亲？寄给我表亲娜吉玛（Najma）？也罢，是该寄给她们。可我若写给她们，我的信末了还是要送到你那里，由你拆读、由你作复。所以我现在径直写给你，指望你把这份喜讯转告她们。我当初悄悄溜出巴勒贝克、把你们都蒙在鼓里，至今已一年有余。诚然，你们尽可用最刻毒的话来责罚我，我也罪有应得。可我又能如何？我所过的那种生活，其苛刻正在于此：与外间世界——尤其是与朋友和情人——的任何往来，都会坏了它。所以我不得不像我所栖身的那片松林一般沉默，直到我变得像那里的燕子——我的同伴们——一样健康。等我们相见之时，我再向你细述我独处之中、以及我在黎巴嫩神圣群山中行旅之际的种种奇遇。兄弟，我如今所有的健康、喜乐与智慧，皆拜这几座吉样之山所赐；你若肯想，这些也同样是你的。
+
+岂不奇怪么？我一路行来，走过不少村庄，竟一点也没听闻帝国内这场巨大的政治动荡。大概黎巴嫩的百姓并不衷心拥护这场革命罢。我发觉，他们与凯尔特诸族颇多相通之处——后者在这种事上向来比国王还要保王党。我思忖，黎巴嫩山（Mt. Lebanon）怕是要成了土耳其人的旺代（Vendée）了。
+
+我到贝鲁特不过几天。说实话，我不能相信自己的眼睛——在协和广场（Place de la Concorde，但愿土耳其人不会事事都去学法国革命党），我不能相信自己的眼睛——就在这片泥泞的广场上、在那神圣的「自由树桩」（Stump of Liberty）之上，我竟看见我的老友那位「喷子」（Spouter），正给那群裹头巾的、戴塔布什帽的人群——其中还有赶骆驼的、赶骡子的，带着他们的骆驼和骡子——分发着一个多世纪前法兰西那套三重政治咒语所赐的福。自由、博爱、平等！——这出戏已经上演了六个月，我竟一无所知，真是憾事。我这个蠢驴，竟一开始还为协和广场上那群「喷子」鼓掌叫好。可我这份该死的冲动，叫我怎能始终站在理性的便道上？我这吮过自由之乳、又把奶瓶在奶娘头上砸碎了的人——我若纯粹出于欢喜，去为那些在粪堆上用马厩稻草编的花环给她加冕的人们喝彩，也不可全然怪我罢？这总比把奶瓶砸在她头上要好，*billah*（凭真主起誓），不是么？所以，让「喷子」们喷个够罢。让沙伊赫（sheikh）、让神父、让拉比在那同一根树桩上相拥言和罢。协和、和平与博爱的时代万岁！《宪法》万岁！联合与进步的英雄们万岁！你也到贝鲁特来，与你的同胞们一同呐喊一番罢。
+
+===Original===
+Letter V
+
+No; I do not approve of your idea of associating with that young Mohammedan editor. You know what is said about the tiger and its spots. Besides, I had another offer from a Christian oldtimer; but you might as well ask me to become a Jesuit as to became a Journalist. I wrote last week a political article, in which I criticised Majesty’s Address to the Parliament, and mauled those oleaginous, palavering, mealymouthed Representatives, who would not dare point out the lies in it. They hear the Chief Clerk read of “the efforts made by the Government during the past thirty years in the interest of education,” and applaud; while at the Royal Banquet they jostle and hustle each other to kiss the edge of Majesty’s frock-coat. The abject slaves!
+
+The article was much quoted and commented upon; I was flouted by many, defended by a few, these asked: “Was the Government of Abdul Hamid, committing all its crimes in the interest of education, were we being trained by the Censorship and the Bosphorus Terror for the *Dustur*?” “But the person of Majesty, the sacredness of the Caliphate,” cried the others. And a certain one, in the course of his attack, denies the existence of Khalid, who died, said he, a year ago. And what matters it if a dead man can stir a whole city and blow into the nostrils of its walking spectres a breath of life?
+
+I spoke last night in one of the music halls and gave the Mohammedans a piece of my mind. The poor Christians!﻿—they feared the Government in the old regime; they cower before the boatmen in this. For the boatmen of Beirut have not lost their prestige and power. They are a sort of commune and are yet supreme. Yes, they are always riding the whirlwind and directing the storm. And who dares say a word against them? Every one of them, in his swagger and bluster, is an Abdul Hamid. Alas, everything is yet in a chaotic state. The boatman’s shriek can silence the Press and make the Spouters tremble.
+
+I am to lecture in the Public Hall of one of the Colleges here on the “Moral Revolution.” Believe me, I would not utter a word or write a line if I were not impelled to it. And just as soon as someone comes to the front to champion in this land spiritual and moral freedom, I’ll go “way back and sit down.” For why should I then give myself the trouble? And the applause of the multitude, mind you, brings me not a single olive.
+
+===Chinese===
+第五封信
+
+不；我并不赞同你那个与那位年轻的穆罕默德（Mohammed）裔编辑结交的主意。老虎身上的斑纹如何，你也知道那句老话。况且，另有一位基督教的老前辈向我招手；可你要我去做一个记者，无殊于叫我去做一个耶稣会士。上星期我写了一篇政论，在里面批评了陛下对议会的演说辞，并把那一群油腔滑调、满嘴空话、吞吞吐吐的代表们痛加挞伐——他们竟不敢指出其中的谎话。他们听见首席书记官念到「政府过去三十年来为教育利益所作的种种努力」，便鼓掌叫好；而在御宴之上，他们又你推我挤，争着去亲吻陛下礼服的下摆。这一群卑贱的奴才！
+
+这篇文章被广泛引用、议论；许多人讥嘲我，少数人为我辩护，这些人质问：「阿卜杜勒·哈米德的政府，以教育之名犯下它一切的罪，难道我们之受书报检查（Censorship）与博斯普鲁斯恐怖（Bosphorus Terror）的调教，正是为了这部《宪法》么？」另一些人则嚷道：「可陛下的人身、哈里发之位的神圣呢。」其中有一位，在攻讦之中，竟否认哈立德的存在，说哈立德一年前就死了。然而，一个死人竟能搅动整座城池、能把生气吹进城中那些行走的幽灵的鼻孔里——这又有什么要紧呢？
+
+昨晚我在一家音乐厅里讲了话，把穆罕默德裔的人痛痛快快训了一顿。可怜的基督徒们啊！——他们在旧政权之下畏惧政府；如今在新政权之下，却要畏惧那些船夫。因为贝鲁特的船夫们并未失去他们的威风与权势。他们自成一种公社，至今仍雄踞其上。是的，他们向来是乘风驾雾、呼风唤雨。又有谁敢说他们半个不字？他们里头随便哪一个，在他那副昂首阔步、大呼小叫的派头上，都是一个阿卜杜勒·哈米德。唉，万事万物仍在一团混乱之中。船夫的一声尖叫，便能让报界噤声、叫那群「喷子」们发抖。
+
+我要在此间一所学院的公共大厅里演讲，讲题是「道德革命」。请相信我，若非为势所迫，我半个字也不愿说、半行字也不愿写。而一旦有人在这片土地上挺身而出，为精神与道德的自由仗义执言，我便「退到后面，坐下来」。因为到那时我又何必自讨苦吃？况且，大众的喝彩，你听明白了，并不能给我带来一颗橄榄。
+
+===Original===
+Letter XXII
+
+I had made up my mind to go to Cairo, and I was coming up to say farewell to you and mother. For I like not Beirut, where one in winter must go about in top-boots, and in a dust-coat in summer. I wonder what Rousseau, who called Paris the city of mud, would have said of this? Besides, a city ruled by boatmen is not a city for gentlemen to live in. So, I made up my mind to get out of it, and quickly. But yesterday morning, before I had taken my coffee, someone knocked at my door. I open, and lo, a policeman in shabby uniform, makes inquiry about Khalid. What have I done, I thought, to deserve this visit? And before I had time to imagine the worst, he delivers a card from the Deputy to Syria of the Union and Progress Society of Salonique. I am desired in this to come at my earliest convenience to the Club to meet this gentleman. There, I am received by an Army Officer and a certain Ahmed Bey. And after the coffee and the formalities of civility are over, I am asked to accompany them on a tour to the principal cities of upper Syria﻿—to Damascus, Homs, Hama, and Aleppo. The young Army Officer is to speechify in Turkish, I, in Arabic, and Ahmed Bey, who is as oleaginous as a Turk could be, will take up, I think, the collection. Seeing in this a chance to spread the Idea among our people, I accept, and in a fortnight we shall be in Damascus. You must come there, for I am burning to meet and embrace you.
+
+===Chinese===
+第二十二封信
+
+我已决意要去开罗（Cairo），正要上你们那里去，与你和母亲辞行。因为我不喜欢贝鲁特——在这里，冬天非得蹬着高统靴出门，夏天又非得披着挡尘的外衣。我不知道那位把巴黎称作「泥城」的卢梭（Rousseau），对贝鲁特又会作何话说？况且，一座由船夫做主的城市，原不是君子所宜居之所。所以我铁了心要脱身，而且要快。可昨天早晨，我咖啡尚未下肚，就有人敲门。我开了门，哎哟，一个穿着寒酸制服的警察，前来查问哈立德。我心想，我做了什么事，竟劳他大驾光临？我还没来得及往最坏处想，他便递上一张名片——来自萨洛尼卡（Salonique）「联合与进步协会」驻叙利亚副代表。名片里要我尽早到俱乐部去见这位先生。在那里，由一位陆军军官和一位艾哈迈德·贝伊（Ahmed Bey）接待我。咖啡饮罢、客套叙过，他们便邀我陪同他们巡视上叙利亚（Upper Syria）各主要城市——大马士革（Damascus）、霍姆斯（Homs）、哈马（Hama）和阿勒颇（Aleppo）。那位年轻的陆军军官要用土耳其语演说，我用阿拉伯语，至于那位油腔滑调得无以复加的艾哈迈德·贝伊——我看——大约是负责收款的。我见这是一个把那个「理念」播撒到我同胞中间的机会，便应承下来；半月之后我们便到大马士革。你务必到那里去，因为我心如火焚，急于与你相见相拥。
+
+===Original===
+Letter XXV
+
+Whom do you think I met yesterday? Why, nothing gave me greater pleasure ever since I have been here than this: I was crossing the Square on my way to the Club, when someone plucking at my jubbah angrily greets me. I look back, and behold our dear old Im-Hanna, who has just returned from New York. She stood there waving her hand wildly and rating me for not returning her salaam. “You know no one any more, O Khalid,” she said plaintively; “I call to you three times and you look not, hear not. No matter, O Khalid.” Thereupon, she embraces me as fondly as my mother. “And why,” she inquired, “do you wear this black jubbah? Are you now a monk? Were it not for that long hair and that cap of yours, I would not have known you. Let me see, isn’t that the cap I bought you in New York?” And she takes it off my head to examine it. “Yes, that’s it. How good of you to keep it. Well, how are you now? Do you cough any more? Are you still crazy about books? I don’t think so, for you have rosy cheeks now.” And sobbing for joy, she embraces me again and again.
+
+She is neatly dressed, wears a silk fiché, and is as alert as ever. In the afternoon, I visit her at the Hotel, and she asks me to accompany her to the Bank, where she cashes three bills of exchange for three hundred pounds each! I ask her what she is going to do with all this money, and she tells me that she is going to build a little home for her grandson and send him to the College of the Americans here.
+
+“And is there like America in all the world?” she exclaims. “Ah, my heart for America!” And on asking her why she did not remain there: “Fear not; just as soon as I build my house and place my son in the College I am going back to New York. What, O Khalid, will you return with me?” She then takes some gold pieces in her hand, and lowering her voice: “May be you need some money; take, take these.” Dear old Im-Hanna, I would not refuse her favour, and I would not accept one such. What was I to do? Coming through the Jewellers’ bazaar I hit upon an idea, and with the money she slipped into my pocket, I bought a gold watch in one of the stores and charged her to present it to her grandson. “Say it is from his brother, your other grandson Khalid.” She protests, scolds, and finally takes the watch, saying, “Well, nothing is changed in you: still the same crazy Khalid.”
+
+Tomorrow she is coming to see my room, and to cook for me a dish of *mujaddara*! Ah, the old days in the cellar!
+
+===Chinese===
+第二十五封信
+
+你猜我昨日遇见了谁？哎呀，自我到此地以来，再没有比这件事更叫我快活的了：我正穿过广场往俱乐部去，忽然有人拽住我的长袍（jubbah），气呼呼地与我打招呼。我回头一看，竟是我们亲爱的老伊姆-汉娜（Im-Hanna），她刚从纽约（New York）回来。她站在那里，疯了似地挥着手，数落我不还她的色兰（salaam）。「你如今谁都不认得了，哈立德啊，」她哀声说道，「我唤了你三声，你看也不看，听也不听。罢了，哈立德。」说罢，她像母亲一般亲热地搂住我。「你为什么，」她问，「要穿这身黑长袍？你如今做和尚了么？要不是凭你那一头长发、那一顶帽子，我可认不出你。让我瞧瞧，那帽子不是我在纽约给你买的么？」说着她便从我头上摘下来端详。「对，就是这顶。难为你还留着。哎，你近来可好？还咳不咳？还痴不痴地迷着书？我看不大像了，你这会儿脸上倒有了红晕呢。」她喜极而泣，把我搂了又搂。
+
+她穿得齐齐整整，颈间系一方丝巾，人还是从前那般麻利。下午我到旅馆去看她，她叫我陪她去银行，在那里她把三张汇票兑成了现款——每张三百镑！我问她拿这么多钱做什么，她告诉我说，她要给孙子盖一所小房子，还要送他到这里的美国人办的学院去念书。
+
+「这世上还有哪里比得上美国呢？」她嚷道，「啊，我这颗心是向着美国的！」我问她为何不留在那边，她说：「别担心；等我把房子盖好、把儿子送进学院，我就回纽约去。怎么着，哈立德，你跟我一块儿回去么？」说着她把几枚金币攥在手里，压低了嗓子：「许是你缺钱使；拿着，拿着这些。」亲爱的老伊姆-汉娜啊，我不便却她的好意，又不能收她一枚。我该怎么办呢？走过珠宝匠的巴扎（Bazaar）时，我忽然得了个主意；我用她偷偷塞进我口袋里的钱，在一家铺子里买了一只金表，托她拿去送给她的孙子。「你就说是他哥哥——你那另一位孙子哈立德——送的。」她又推辞、又嗔骂，末了还是收下了表，说道：「也罢，你是一点儿没变：还是那个痴头怪脑的哈立德。」
+
+明日她要来看我的房间，还要给我做一道穆贾达拉（mujaddara）！啊，在地窖里的那些老日子啊！
+
+===Original===
+In the thirtieth Letter, one of considerable length, dated March, is an exceedingly titillating divagation on the *gulma* (oustraation of animals), called forth, we are told, “by the rut of the d﻿—﻿–﻿d cats in the yard.” Poor Khalid can not sleep. One night he jumps out of bed and chases them away with his skillet, saying, “Why don’t I make such a row, ye wantons?” They come again the following night, and Khalid on the following morning moves to a Hotel which, by good or ill chance, is adjacent to the lupanars of the city. His window opens on another yard in which other cats, alas!﻿—of the human species this time﻿—are caterwauling, harrowing the soul of him and the night. He makes a second remove, but finds himself disturbed this time by the rut of a certain roebuck within. Nature, O Khalid, will not be cheated, no more than she will be abused, without retaliating soon or late. True, you got out of many ruts heretofore; but this you can not get out of except you go deeper into it. Your anecdotes from Ad-Damiry and your quotations from Montaigne shall not help you. And your allusions to March-cats and March-Khalids are too pitiful to be humorous. Indeed, were not the tang of lubricity in this Letter too strong, we would have given in full the confession it contains.
+
+===Chinese===
+第三十封信，日期为三月，篇幅颇长，其中有一段极其撩人的题外之论，专谈 *gulma*（禽兽的发情期），据说是「由院子里那群该死的猫的发情所引出」。可怜的哈立德睡不成觉。某夜他从床上一跃而起，拿着煎锅把它们赶跑，一边说道：「我为何不也这样大闹一场呢，你们这群浪货？」第二夜它们又来了，于是哈立德第二天早晨便搬到了一家旅馆——孰吉孰凶且不论——恰好紧挨着城里的妓寮（lupanars）。他的窗子正对着另一个院子，院子里另有一些猫——唉！这回是人种的猫——在叫春，搅得他灵魂俱裂、长夜难明。他再搬一次，这回却发觉扰他的，是自己内里一只狍子的春情。哈立德啊，造化是不会被人欺瞒的，一如不会被人作践，迟早总要报复。不错，你从前曾躲过许多次春情；可这一回，你除非更深地扎进去，否则休想走出来。你从达米里（Ad-Damiry）那里搬来的那些轶事、从蒙田（Montaigne）那里引来的那些引文，都救不了你。至于你关于「三月的猫」与「三月的哈立德」的那种种影射，未免可怜，不足以为幽默。倘若这封信里那股淫冶之气不是太浓，我们原可以把其中所含的告白全本照录的。
+
+===Original===
+We now come to the last of this Series, in which Khalid speaks of a certain American lady, a Mrs. Goodfree, or Gotfry, who is a votary of Abbas Effendi, the Pope of Babism at Haifa. Mrs. Gotfry may not be a Babist in the strict sense of the word; but she is a votary and worshipper of the Bab. To her the personal element in a creed is of more importance than the ism. Hence, her pilgrimage every year to Haifa. She comes with presents and gold; and Abbas Effendi, who is not impervious to the influence of other gods than his own, permits her into the sanctuary, where she shares with him the light of divine revelation and returns to the States, as the Priestess of the Cult, to bless and console the Faithful. Khalid was dining with Ahmed Bey at the Grand Hotel﻿—but here is a portion of the Letter.
+
+By a devilish mischance she occupied the seat opposite to mine. And in this trap of Iblis was decoy enough for a poor mouse like me. It is an age since I beheld such an Oriental gem in an American setting; or such a strange Southern beauty in an exotic frame. For one would think her from the South, or further down from Mexico. Nay, of Andalusian, and consequently of Arabian, origin she must be. Her hair and her eyes are of the richest jet; her glance, voluptuous, mysterious; her complexion, neither white nor olive, but partakes of both﻿—a gauze-like shade of heliotrope, as it were, over a pink and straw surface, if you can imagine that; and her expression, a play between devotion and diabolism﻿—now a question mark to love, now an exclamation to sorrow, and at times a dash between both. By what mysterious medium of romance and adventure did America produce such a beauty, I can not tell. Perhaps she, too, can not. If you saw her, O Shakib, you’d do nothing for months but dedicate odes to her eyes﻿—to the deep, dark infinity of their luring, devouring beauty﻿—which seem to drop honey and poison from every arched hair of their fulsome lashes. Withal﻿—another devilish mischance﻿—she was dressed in black and wore a white silk ruffle, like myself. And her age? Well, she can not have passed her sixth lustrum. And really, as the Novelist would say in his Novel, she looks ten years younger.﻿ ﻿… To say we were attracted to each other were presumptuous: but *I was* taken.﻿ ﻿… Near her sat a Syrian gentleman of my acquaintance, with whom she was conversing when we entered. That is the lady whose beauty, when she was sitting, I described to you: but when she got up to leave the table﻿—alas, and *ay me*, and all the other expressions of regret and sorrow. That such a beautiful face should be denied a corresponding beauty of figure. And what is more pitiable about her, she is lame in the right leg. Poor dear Misfortune, I wish it were in my power to add an inch of my limb to hers.
+
+===Chinese===
+我们现在来到这一系列的最后一封。在这一封里，哈立德谈起某位美国太太，一位古德弗里太太（Mrs. Goodfree，抑或 Gotfry），她是阿巴斯·埃芬迪（Abbas Effendi）的信徒——阿巴斯·埃芬迪便是海法（Haifa）巴布教（Babism）的教皇。古德弗里太太严格说来未必是个巴布派；但她确是巴布（the Bab）的信徒与崇拜者。在她看来，一个教义之中，「人」的要素比那个「主义」更要紧。故而她每年都要到海法去朝圣。她带着礼物与金子前来；而阿巴斯·埃芬迪——他对自家之外的其他诸神的影响也并非无动于衷——便准她进入内殿，在那里与她共享神圣启示之光，然后她便以本教女祭司的身份回到合众国去，为信众们祝福、抚慰。哈立德那日正与艾哈迈德·贝伊在大旅馆（Grand Hotel）用晚餐——但这里且看此信的一节：
+
+由于一场魔鬼般的凑巧，她恰好坐在我对面的位子上。而伊布力斯（Iblis）这只捕鼠笼里的诱饵，于我这样一只可怜老鼠而言，已是绰绰有余。好久以来，我不曾见过这样一颗嵌在美式镶座里的东方宝石；也不曾见过这样一副镶在异国画框里的奇异南方美人。因为看她的模样，你会以为她来自南方，或者更南，来自墨西哥（Mexico）。不，她必是安达卢西亚（Andalusian）血统，因而也是阿拉伯血统。她的头发与眼睛是那种最浓的漆黑；她的目光，冶艳而神秘；她的肤色，既非纯白，亦非橄榄，而是两者兼而有之——仿佛在粉红与麦秆的底色之上，罩一层薄纱般的紫罗兰色阴影，你能想象那种样子么；而她的神情，在虔敬与魔性之间游移——忽而是向爱情提出的一个问号，忽而是向悲伤发出的一声惊叹，有时又是在两者之间的一道破折号。借由怎样神秘的浪漫与奇遇的媒介，美国竟造出这样一位美人，我说不上来。也许她自己亦说不上来。沙基布啊，你若见了她，怕是数月之内除了为她那双眼睛——为那双眼睛的诱人、吞噬一切的幽深黑暗之美——作颂诗之外，什么也别想做了；那双眼，仿佛从它那浓密睫毛的每一根弧线上，都要滴下蜜与毒来。况且——又一个魔鬼般的凑巧——她那一日也着一身黑，胸前一道白色丝褶，与我如出一辙。至于她的年纪？嗯，她总不超过她的第六个五年——便是说不满三十罢。说真的，倘使那位小说家在他的小说里来讲，她看上去要年轻十岁。……说我们彼此互相吸引，未免僭妄：可 *我* 确是被迷住了。……她身旁坐着一位我相识的叙利亚先生，我们进去时，她正与之攀谈。这位太太坐着的时候，她的美我已向你描摹过了：可待她起身离席之时——唉，*悲哉*，以及一切表示遗憾与伤恸的话。这样一张美丽的脸，竟不得一副与之相称的美妙身段。而更可悯的是，她的右腿微跛。可怜的亲爱的「苦命人」啊，但愿我能把我的一条腿分一寸给她。
+
+===Original===
+And Khalid goes on limping, drooling, alassing, to the end. After dinner he is introduced to his “poor dear Misfortune” by his Syrian friend. But being with Ahmed Bey he can not remain this evening. On the following day, however, he is invited to lunch; and on the terrace facing the sea, they pass the afternoon discussing various subjects. Mrs. Gotfry is surprised how a Syrian of Khalid’s mind can not see the beauties of Babism, or Bahaism, as it is now called, and the lofty spirituality of the Bab. But she forgives him his lack of faith, gives him her card, and invites him to her home, if he ever returns to the United States.
+
+Now, maugre the fact that, in a postscript to this Letter, Khalid closes with these words, “And what have I to do with priests and priestesses?” we can not but harbour a suspicion that his “Union and Progress” tour is bound to have more than a political significance. By ill or good hap those words are beginning to assume a double meaning; and maugre all efforts to the contrary, the days must soon unfold the twofold tendency and result of the “Union and Progress” ideas of Khalid.
+
+===Chinese===
+哈立德就这样一路跛着、流着涎、叹着「唉」，一直写到末了。晚餐之后，经那位叙利亚朋友引见，他认识了他那位「可怜的亲爱的苦命人」。但因与艾哈迈德·贝伊同来，这一晚他不能多留。然而第二天，他受邀去吃午餐；在面海的那道露台上，他们消磨了一个下午，讨论种种话题。古德弗里太太大感诧异：像哈立德这样一位心思深邃的叙利亚人，竟看不出巴布教——如今也叫巴哈教（Bahaism）——之美，看不出巴布那崇高的灵性。但她宽恕了他的无信，给了他一张名片，并邀他若重返合众国，请务必到她府上拜访。
+
+如今，尽管哈立德在这封信的附言里，是这样收尾的：「我同那些男女祭司又有什么相干？」——我们却不能不心存一丝疑窦：他这趟「联合与进步」之旅，注定要有不止一层的政治意义。或吉或凶，这些字眼已开始显出双关之意；并且任凭怎样设法抵制，时日无多，终将彰显出哈立德那些「联合与进步」理念的双重趋向与双重结局。

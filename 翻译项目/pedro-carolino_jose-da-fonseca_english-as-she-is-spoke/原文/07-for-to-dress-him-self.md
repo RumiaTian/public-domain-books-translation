@@ -1,0 +1,17 @@
+# For to Dress Him Self
+- John, make haste, lighted the fire and dress-me.
+- Give me my shirt.
+- There is it sir.
+- Is it no hot, it is too cold yet.
+- If you like, I will hot it.
+- No, no, bring me my silk stocking’s.
+- Its are make holes.
+- Make its a point, or make to mend them.
+- Comb me, take another comb. Give me my handkarchief.
+- There is a clean, sir.
+- What coat dress you to day?
+- Those that I had yesterday.
+- The tailor do owe to bring soon that of cloth.
+- Have you wexed my shoes?
+- I go wex its now.
+- It must that I may wash my hands, the mouth and my face.

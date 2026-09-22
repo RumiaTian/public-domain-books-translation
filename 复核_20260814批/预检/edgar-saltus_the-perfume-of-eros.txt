@@ -1,0 +1,105 @@
+====================================================================================================
+### edgar-saltus_the-perfume-of-eros  (22 files)
+  块: O=281 C=281 OK | 段: EN=1252 CN=1253 !!差 -1
+     [不对称] enchantment.md                                       O=12 C=12 段EN=62 段CN=63
+  英文残留(剔括注) top: segreto×4, young×4, de×3, est×3, lady×2, mon×2, Ruinart×2, il×2, mademoiselle×2, faute×2
+  项目说明备注: - 作者风格：精致、世故、带冷峻的讽刺与心理刻画。译文要传达世纪末纽约的浮华与颓废气息，避免过于口语化。 / - 全书分两卷：Part I「The Facts in the Case」（案情始末，叙事部分）、Part II「The General Sessions」（法庭审判）。卷名页（the-facts-in-the-case.md / the-general-sessions.md）只有一行标题，译为分卷标题即可。 / - 人物名、地名以术语表为准，新词首次出现附原文。 / - 19 世纪英语用法、法庭术语（如 defendant、bail、jury）需准确。 / - 罗马数字章节序号照搬不译。
+  -- 术语表硬约束行 97 条:
+     Royal Loftus                   → 罗伊尔·洛夫特斯             源×7     译×7    
+     Mrs. Loftus                    → 洛夫特斯太太               源×15    译×15   
+     Fanny Price                    → 范妮·普莱斯               源×13    译×13   
+     Annandale                      → 安南代尔                 源×248   译×249  
+     Orr                            → 奥尔                   源×182   译×187  
+     Sylvia                         → 西尔维娅                 源×136   译×137  
+     Marie                          → 玛丽                   源×77    译×77   
+     Peacock                        → 皮科克                  源×42    译×42   
+     Waldron                        → 沃尔德伦                 源×9     译×10   
+     Harris                         → 哈里斯                  源×33    译×32   
+     Arthur                         → 阿瑟                   源×23    译×23   
+     (the) yellow fay               → 黄衣仙子                 源×4     译×2     落位偏低 2/4
+     Gramercy Park                  → 格拉默西公园               源×13    译×13   
+     Madison Avenue                 → 麦迪逊大道                源×0     译×0     ★源0次(幽灵?)
+     New York                       → 纽约                   源×22    译×22   
+     Mayfair                        → 梅费尔                  源×1     译×1    
+     Irving Place                   → 欧文广场                 源×9     译×9    
+     Union Square                   → 联合广场                 源×1     译×1    
+     Third Avenue                   → 第三大道                 源×1     译×1    
+     Fifth Avenue                   → 第五大道                 源×9     译×9    
+     Sherry's                       → 谢里餐厅                 源×6     译×6    
+     Narragansett                   → 纳拉甘西特                源×5     译×5    
+     Tuxedo                         → 塔克西多                 源×1     译×1    
+     Westchester                    → 韦斯特切斯特               源×1     译×1    
+     Mrs. Waldron                   → 沃尔德伦太太               源×9     译×9    
+     Mrs. Price                     → 普莱斯太太                源×31    译×30   
+     Marie Leroy                    → 玛丽·勒鲁瓦               源×6     译×6    
+     the Casino                     → 卡西诺                  源×8     译×6    
+     Christian Endeavorers          → 基督教奋进会会员             源×1     译×0     ★译0次(未落位?)
+     Rockingham                     → 罗金厄姆                 源×2     译×2    
+     Lowell                         → 洛厄尔                  源×1     译×1    
+     lemon squash                   → 柠檬汽水                 源×2     译×1    
+     Hobson                         → 霍布森                  源×1     译×1    
+     Fred                           → 弗雷德                  源×2     译×2    
+     Lenox                          → 莱诺克斯                 源×1     译×1    
+     Narragansett Pier              → 纳拉甘西特码头              源×1     译×1    
+     Leonidas at Thermopylae        → 温泉关的列奥尼达             源×1     译×1    
+     Roosevelt at San Juan          → 圣胡安的罗斯福              源×1     译×0     ★译0次(未落位?)
+     Arthur                         → 阿瑟                   源×0     译×0     ★源0次(幽灵?)
+     Il segreto                     → 那秘密                  源×2     译×1    
+     Elysian Fields                 → 香榭丽舍                 源×1     译×1    
+     Havre                          → 勒阿弗尔                 源×1     译×1    
+     the Hudson                     → 哈德逊河                 源×2     译×2    
+     Central Park                   → 中央公园                 源×3     译×3    
+     Blanche                        → 布兰奇                  源×13    译×13   
+     Mrs. Annandale                 → 安南代尔太太               源×9     译×10   
+     Miss Waldron                   → 沃尔德伦小姐               源×16    译×14   
+     Mr. Skitt                      → 斯基特先生                源×3     译×3    
+     ticker                         → 行情机/股票行情自动报价机        源×2     译×2    
+     drag                           → 四马大马车                源×2     译×1    
+     Annette / Juliette             → 阿内特 / 朱丽叶特           源×7     译×4     落位偏低 4/7
+     opal                           → 欧泊                   源×0     译×2     ★源0次(幽灵?)
+     Atchison / Steel               → 艾奇逊 / 钢铁             源×3     译×4    
+     congé                          → 解约/辞退书               源×1     译×1    
+     dot                            → 嫁妆                   源×1     译×2    
+     faute de mieux, faute de toi   → 退而求其次，因失去了你          源×1     译×1    
+     objet de luxe                  → 奢侈品                  源×1     译×1    
+     Tambourini                     → 坦布里尼                 源×4     译×3    
+     Pasta / Alboni / Malibran      → 帕斯塔 / 阿尔博尼 / 玛莉布兰    源×3     译×3    
+     Dakota                         → 达科他                  源×2     译×2    
+     Canary                         → Canary 黄             源×1     译×1    
+     sapphire                       → 蓝宝石                  源×1     译×1    
+     Melanchthon Orr                → 梅兰希顿·奥尔              源×3     译×1     落位偏低 1/3
+     Harris                         → 哈里斯                  源×0     译×0     ★源0次(幽灵?)
+     the Yellow Fay                 → 黄衣仙子                 源×0     译×0     ★源0次(幽灵?)
+     sherry and bitters             → 雪利苦味酒                源×1     译×1    
+     étagère                        → 陈设架                  源×1     译×1    
+     Atch. / U.P. / St. Paul / Stee → 艾奇逊 / 联合太平洋 / 圣保罗 /  源×80    译×2     落位偏低 2/80
+     Irving Place                   → 欧文广场                 源×0     译×0     ★源0次(幽灵?)
+     Hugo                           → 雨果                   源×1     译×1    
+     prima facie case               → 表面证据案件               源×1     译×0     ★译0次(未落位?)
+     Marie Durand                   → 玛丽·杜朗                源×3     译×3    
+     Miranda                        → 米兰达                  源×4     译×4    
+     Ferdinand                      → 费迪南                  源×2     译×2    
+     Ardebil                        → 阿尔达比勒                源×1     译×1    
+     Morris Park                    → 莫里斯公园                源×1     译×1    
+     Gay Street                     → 盖伊街                  源×7     译×7    
+     Jefferson Market               → 杰斐逊市场                源×2     译×2    
+     Washington Square              → 华盛顿广场                源×1     译×1    
+     Sixth Avenue                   → 第六大道                 源×2     译×2    
+     Broadway                       → 百老汇                  源×1     译×1    
+     Mme. Machin                    → 马尚夫人                 源×7     译×7    
+     Cohen（Abraham/Rebecca）         → 科恩（亚伯拉罕/丽贝卡）         源×11    译×9    
+     bel canto                      → 美声唱法                 源×1     译×1    
+     Lucrezia Borgia                → 《卢克雷齐亚·博尔贾》          源×1     译×1    
+     Aïda                           → 《阿依达》                源×3     译×2    
+     the General Sessions           → 一般刑事法庭               源×4     译×3    
+     defendant                      → 被告                   源×12    译×15   
+     bail                           → 保释                   源×0     译×0     ★源0次(幽灵?)
+     without bail                   → 不准保释                 源×2     译×1    
+     jury                           → 陪审团                  源×23    译×22   
+     juror                          → 陪审员                  源×2     译×7    
+     the bar                        → 律师席 / 法庭围栏           源×5     译×1     落位偏低 1/5
+     the twelfth juror              → 第十二位陪审员              源×3     译×2    
+     Mrs.                           → 太太                   源×0     译×10    ★源0次(幽灵?)
+     Miss                           → 小姐                   源×10    译×21   
+     Mr.                            → 先生                   源×32    译×80   
+

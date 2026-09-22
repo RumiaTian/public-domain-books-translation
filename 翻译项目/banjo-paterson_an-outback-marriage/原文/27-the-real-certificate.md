@@ -1,0 +1,31 @@
+## XXVII The Real Certificate
+As the day of the great case approached Blake got more and more restless and irritable. He had heard of Hugh’s going away to look for a witness; but Peggy and Red Mick, in their ignorance, had thought it best to keep all knowledge of the Considine flaw from their lawyer﻿—a mistake that wiser people than they sometimes make. Blake suspected nothing. He had more than once seen Mary Grant and Ellen Harriott in Tarrong, but he was again an outcast, relegated to the society of such as Isaacstein.
+Well, he would see it out, and would yet make these people glad to crawl to him. Ellen Harriott he never spoke to. However the case went and whoever won, she could be of no use to him, so he decided to include her among his enemies; and though she went deathly white when she saw him she made no sign of recognition. There was one thing, however, which he had to do before taking the case into Court, and that was to secure a fair share of the spoil for himself. He had no intention of slaving at the case, perhaps for years, for what he would get as costs. So, a week or two before the case was due to come on, he sent for Peggy and Red Mick.
+It was a hot summer day when Peggy came in. Out of doors there was a blinding glare, and the heat had drawn the scent out of the unseasoned pine with which Tarrong was mostly built, till the air was filled with a sort of incense. Peggy came in hot and short-tempered. The strain was beginning to tell on her nerves, and, from a remark or two she let fall, Blake saw that she might be inclined to give trouble if not promptly brought into subjection.
+“I’ve sent for you,” he said.
+“Yis, and the fust thing﻿—”
+He interrupted her sharply.
+“The first thing is, how much am I going to get out of this case if I win it? That is the first thing. You don’t suppose I am going to spend time and money and fight this case through all the Courts in the land, and get nothing out of it, do you? How much am I to get? We’ll settle that before we go any further.”
+“Well, I’ll ask Mick.”
+“You’ll ask nobody. Mick isn’t Grant’s widow, and you are of age, goodness knows. How much?”
+“How much d’ye want?”
+“I want one-third of what you get. That’ll leave you nearly a million of money. There will be well over a million to divide. There will be a big lawsuit, and lots of appeals, and if I am to see it through it will cost a great lot of money; so if I win I mean to make it pay me. That’s my figure. One-third. Take it or leave it.”
+Peggy wriggled about, but knew that she would have to give in. It was a reasonable proposal, as things stood; but she did not like the way in which she had been bullied. She looked at Blake queerly.
+“If we have to give ye a third, ye may as well know all about it. Ye’ll be a partner like.”
+Blake stared at her. He could not guess what she was driving at. Peggy slowly drew out of a handbag a faded piece of paper and handed it to him without a word. It was the original marriage certificate, the same that Ellen Harriott had seen at Red Mick’s. He unfolded it and spread it out on the table.
+“What’s this?”
+“Read it.”
+“I certify that I, Thomas Nettleship,” he mumbled through the formula, then, sharply “What’s this name doing here? Who is Patrick Henry Keogh? Is there such a person?”
+“Yis,” said Peggy, boiling up. “A long slab-sided useless feller. He’s gone to live wid the blacks. He’ll never come back no more. Most like he’s dead by this time, speared or the like of that!”
+For a few seconds Blake, the cool, audacious gambler, was dazed, in spite of his natural self-confidence. He saw how he had been duped. Peggy had married this other man, whoever he was, and had used the facts of the real marriage to give her the details for her imaginary one, while in copying the certificate she had, with considerable foresight, filled in Grant’s name instead of that of Keogh.
+All Blake’s castles in the air, his schemes for revenge, his hopes of wealth, had vanished at one fell swoop. “Patrick Henry Keogh” seemed to grin up at him out of the paper. His case had crumbled about his ears; his defeat would be known all over the district, and nothing could much longer stave off the inevitable exposure of his misappropriations. But he was a fighter all over, and he still saw a chance to pull things through.
+He wasted no words on Peggy. “Go and get Mick to come here,” he said, and Mick, still somewhat lopsided about the face from his accident, was soon in the room.
+“Mick,” said Blake, “your sister has told me something very important that ought to have been told me before. It’s no good crying over spilt milk. There’s still a chance. If Peggy and Martin tell the same story they told me at first, they will win the case. This Keogh must be dead, or too frightened to show up. If you stick to your story you will win. It’s a million of money. Will you chance it?”
+“What about the sertiffykit?” said Mick.
+“Leave that to me,” said Blake. “I’ll see to that. I suppose no one knows the rights of this but you and Peggy!”
+“Never a soul.”
+“Well, it’s a million of money. Will you chance it?”
+Mick and his sister rose. “We’ll go on wid the case,” said Mick. “But supposin’ Keogh turns up﻿—”
+“You’ve got to take chances in this life,” said Blake, “if you’re after a million that doesn’t belong to you. Will you chance it? Share and share alike?”
+“A million,” said Mick. “Of course we’ll go on wid the case. I daresay William Grant took the name of Keogh that day he was married,” and with this ingenious suggestion Mick took his sister home, leaving Blake alone in the office.
+After his clients were gone Blake looked at the certificate for a long time, asking himself, “Shall I take the risk or not?” He was about to do a criminal act, and though it was not his first, he flinched every time he crossed the borderline. He lifted his hand, and hesitated; then he remembered his dismissal from Kuryong, and caught sight of a dunning letter lying on his table. That decided him. The risk was worth taking. The danger was great, but the stake was worth it. He took an eraser, made a few swift light strokes on the paper over the almost illegible writing, and “Patrick Henry Keogh” disappeared; on the space that it had occupied he wrote “William Grant,” in faint strokes of a pencil. He had crossed the borderline of crime once more.

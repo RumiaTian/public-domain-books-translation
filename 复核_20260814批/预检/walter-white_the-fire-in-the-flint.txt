@@ -1,0 +1,370 @@
+====================================================================================================
+### walter-white_the-fire-in-the-flint  (23 files)
+  块: O=318 C=318 OK | 段: EN=991 CN=1157 !!差 -166
+     [不对称] chapter-1.md                                         O=25 C=25 段EN=60 段CN=72
+     [不对称] chapter-10.md                                        O=9 C=9 段EN=45 段CN=49
+     [不对称] chapter-11.md                                        O=29 C=29 段EN=71 段CN=75
+     [不对称] chapter-12.md                                        O=11 C=11 段EN=31 段CN=39
+     [不对称] chapter-13.md                                        O=17 C=17 段EN=29 段CN=39
+     [不对称] chapter-14.md                                        O=13 C=13 段EN=42 段CN=56
+     [不对称] chapter-15.md                                        O=15 C=15 段EN=60 段CN=70
+     [不对称] chapter-16.md                                        O=16 C=16 段EN=34 段CN=40
+     [不对称] chapter-17.md                                        O=12 C=12 段EN=41 段CN=48
+     [不对称] chapter-18.md                                        O=8 C=8 段EN=34 段CN=46
+     [不对称] chapter-19.md                                        O=14 C=14 段EN=56 段CN=62
+     [不对称] chapter-20.md                                        O=10 C=10 段EN=48 段CN=68
+     [不对称] chapter-22.md                                        O=15 C=15 段EN=58 段CN=66
+     [不对称] chapter-23.md                                        O=6 C=6 段EN=11 段CN=16
+     [不对称] chapter-4.md                                         O=17 C=17 段EN=47 段CN=51
+     [不对称] chapter-6.md                                         O=13 C=13 段EN=32 段CN=36
+     [不对称] chapter-7.md                                         O=16 C=16 段EN=57 段CN=65
+     [不对称] chapter-8.md                                         O=13 C=13 段EN=33 段CN=37
+     [不对称] chapter-9.md                                         O=11 C=11 段EN=36 段CN=56
+  英文残留(剔括注) top: nigger×18, Negro×6, NAACP×5, Cracker×4, of×4, wench×4, Knights×3, chlo×3, form×3, Invisible×3
+  项目说明备注: - **种族用语分级处理**（与杜波依斯项目同原则，保留批判冲击力）： /   - **Negro** → 黑人（叙述与黑人角色用语，首现附原文加译注说明历史语境） /   - **coloured** → 有色人（时期拼写，指美国黑人） /   - **nigger / niggers** → 黑鬼（白人种族主义贬语，**保留其贬义冲击力**，不软化，首现加译注） /   - **nigra** → 黑鬼（介于「Negro」与「nigger」之间的南方白人轻蔑读法；小说中有元语言注释「不说 Negro 也不说 nigger，而取中间的 nigra」——译注说明） /   - **darky** → 黑佬（轻蔑旧称） /   - **Ku Klux Klan / the Klan** → 三K党 / - **黑人乡村方言**（Hiram Tucker、Mrs. Tucker 等）→ 中文乡土口吻，不用怪异拼写。 / - **白人密谋者方言** → 中文粗鄙口吻。 / - 主人公 Kenneth Harper → 肯尼思·哈珀；地名 Central City → 中央城（佐治亚州虚构）。
+  -- 术语表硬约束行 344 条:
+     Kenneth Harper                 → 肯尼思·哈珀               源×7     译×8    
+     Dr. Williams                   → 威廉斯医生                源×29    译×28   
+     Mamie                          → 玛米                   源×59    译×58   
+     Bob                            → 鲍勃                   源×129   译×137  
+     Jane Phillips                  → 简·菲利普斯               源×5     译×5    
+     Rev. Richard Young             → 理查德·杨牧师              源×0     译×1     ★源0次(幽灵?)
+     Herbert Phillips               → 赫伯特·菲利普斯             源×1     译×1    
+     Hiram Tucker                   → 海勒姆·塔克               源×11    译×12   
+     Mrs. Tucker                    → 塔克太太                 源×7     译×9    
+     Tom Tracy                      → 汤姆·特雷西               源×11    译×12   
+     Bud Ware                       → 巴德·韦尔                源×7     译×7    
+     Sheriff Parker                 → 帕克警长                 源×9     译×18   
+     Judge Stevenson                → 史蒂文森法官               源×24    译×26   
+     Henry Lane                     → 亨利·莱恩                源×6     译×8    
+     Ed Stewart                     → 埃德·斯图尔特              源×11    译×11   
+     Roy Ewing                      → 罗伊·尤因                源×30    译×31   
+     George Baird                   → 乔治·贝尔德               源×3     译×3    
+     Fred Griswold                  → 弗雷德·格里斯沃德            源×3     译×2    
+     Ralph Minor                    → 拉尔夫·迈纳               源×2     译×2     残留「好时光」×3
+     Tom Watson                     → 汤姆·沃森                源×1     译×1    
+     Hoke Smith                     → 霍克·史密斯               源×1     译×1    
+     Tom Hardwick                   → 汤姆·哈德威克              源×1     译×1    
+     Joe Harper                     → 乔·哈珀                 源×5     译×5    
+     Mrs. Harper                    → 哈珀太太                 源×11    译×13   
+     Bill Van Vleet                 → 比尔·范·弗利特             源×2     译×2    
+     Dr. Bennett                    → 贝内特医生                源×56    译×57   
+     Dr. Cox                        → 考克斯医生                源×2     译×2    
+     Old Man Mygatt                 → 迈加特老先生               源×1     译×1    
+     Mrs. Amos                      → 阿莫斯太太                源×8     译×9    
+     Booker Washington              → 布克·华盛顿               源×1     译×1    
+     Mrs. Emma Bradley              → 埃玛·布拉德利太太            源×2     译×2    
+     Jim Bradley                    → 吉姆·布拉德利              源×7     译×7    
+     Mrs. Johnson                   → 约翰逊太太                源×7     译×7    
+     Professor Fuller（"Pop." Fuller → 富勒教授（「老爹」富勒）         源×1     译×1    
+     Central City                   → 中央城                  源×110   译×111  
+     Smith County                   → 史密斯县                 源×5     译×5    
+     South Georgia                  → 南佐治亚                 源×6     译×6    
+     Atlanta                        → 亚特兰大                 源×43    译×50   
+     Auburn Infirmary               → 奥本医院                 源×1     译×1    
+     Cambridge                      → 坎布里奇                 源×2     译×2    
+     Boston                         → 波士顿                  源×1     译×1    
+     Macon                          → 梅肯                   源×5     译×5    
+     Savannah                       → 萨凡纳                  源×1     译×1    
+     Lee Street                     → 李街                   源×25    译×28   
+     Oglethorpe Avenue              → 奥格尔索普大道              源×3     译×3    
+     Georgia Avenue                 → 乔治亚大道                源×4     译×5    
+     State Street                   → 州街                   源×8     译×9    
+     Harris Street / Butler Street  → 哈里斯街 / 巴特勒街          源×9     译×13    残留「黑镇」×13
+     "Darktown"                     → 「黑镇」（Darktown）       源×0     译×10    ★源0次(幽灵?)
+     "Factoryville"                 → 「工厂镇」（Factoryville）  源×0     译×2     ★源0次(幽灵?)
+     Central of Georgia Railroad    → 中央佐治亚铁路              源×2     译×2    
+     Georgia, Southern and Florida  → 佐治亚南方佛罗里达铁路          源×1     译×1    
+     Central City Cotton Spinning-M → 中央城棉纺厂               源×1     译×1    
+     Confederate Dead               → 邦联阵亡将士               源×1     译×1    
+     Ashland                        → 阿什兰                  源×7     译×9    
+     Des Moines                     → 迪莫伊纳斯                源×1     译×1    
+     Camp Upton                     → 厄普顿营                 源×1     译×1    
+     Rochester, Minnesota           → 罗切斯特（明尼苏达）           源×1     译×1    
+     Detroit                        → 底特律                  源×2     译×2    
+     Cleveland                      → 克利夫兰                 源×1     译×1    
+     Philadelphia                   → 费城                   源×3     译×3    
+     Harlem                         → 哈莱姆                  源×2     译×2    
+     Florida                        → 佛罗里达                 源×1     译×1    
+     Alabama                        → 阿拉巴马                 源×2     译×2    
+     Ashley Street                  → 阿什利街                 源×1     译×1    
+     Meuse                          → 默兹                   源×2     译×2    
+     the Argonne                    → 阿尔贡                  源×2     译×2    
+     Metz                           → 梅斯                   源×1     译×1    
+     France                         → 法国                   源×19    译×25   
+     Belgium                        → 比利时                  源×2     译×2    
+     92nd Division                  → 第九十二师                源×1     译×1    
+     367th Regiment                 → 三六七团                 源×0     译×1     ★源0次(幽灵?)
+     Atlanta University             → 亚特兰大大学               源×4     译×5    
+     Bellevue (Hospital)            → 贝尔维尤医院               源×5     译×0     ★译0次(未落位?)
+     Sorbonne                       → 巴黎大学（Sorbonne）       源×2     译×2    
+     Mayo Brothers                  → 梅奥兄弟                 源×1     译×1    
+     Bank of Central City           → 中央城银行                源×5     译×5    
+     Negro                          → 黑人（Negro）            源×116   译×277  
+     coloured                       → 有色人（coloured）        源×123   译×121  
+     nigger / niggers               → 黑鬼（nigger）           源×113   译×123  
+     nigra                          → 黑鬼（nigra）            源×4     译×0     ★译0次(未落位?)
+     darky                          → 黑佬（darky）            源×1     译×1    
+     Cracker(s)                     → 穷白佬（Cracker）         源×10    译×19   
+     sharecropper                   → 佃农                   源×1     译×10   
+     Ku Klux Klan / the Klan        → 三K党                  源×35    译×62   
+     Jim Crow                       → 吉姆·克劳（种族隔离制度）        源×4     译×7    
+     lynching                       → 私刑                   源×21    译×50   
+     poll tax                       → 人头税                  源×0     译×0     ★源0次(幽灵?)
+     AME (Church)                   → 非洲卫理公会（AME）          源×0     译×0     ★源0次(幽灵?)
+     Ewing's General Merchandise Em → 尤因百货商行               源×1     译×5    
+     Bank of Central City           → 中央城银行                源×0     译×0     ★源0次(幽灵?)
+     Smith County Farmers' Bank     → 史密斯县农民银行             源×2     译×2    
+     Bon Ton Store                  → 「好时光」百货店             源×3     译×1     落位偏低 1/3
+     Odell's Drug Store             → 奥德尔药房                源×1     译×1    
+     Idle Hour Moving Picture Palac → 「闲暇时光」影剧院            源×2     译×2    
+     Central City Hotel             → 中央城旅馆                源×1     译×1    
+     boll weevil                    → 棉铃象甲                 源×1     译×1    
+     "white mule"                   → 「白骡子」                源×0     译×1     ★源0次(幽灵?)
+     moonshine                      → 私酿（酒）                源×3     译×3    
+     bootlegging                    → 私酒买卖                 源×1     译×1    
+     still                          → 蒸馏器                  源×12    译×2     落位偏低 2/12
+     corncob pipe                   → 玉米芯烟斗                源×2     译×2    
+     snuff-stick                    → 鼻烟枝                  源×1     译×1    
+     turpentine camps               → 松节油营地                源×1     译×2    
+     Victrola                       → 维克多拉留声机              源×1     译×1    
+     "po' whites"                   → 「穷白人」                源×0     译×1     ★源0次(幽灵?)
+     Yiddish                        → 意第绪语                 源×1     译×1    
+     "furriners"                    → 「外路人」                源×0     译×1     ★源0次(幽灵?)
+     Grand United Order of Heavenly → 大联合天国会（Grand United  源×1     译×1    
+     Exalted Knights of Damon       → 达蒙崇高骑士团（Exalted Knig 源×1     译×1    
+     Madame Walker's Hair Straighte → 「沃克夫人生发水」（Madame Wal 源×1     译×1    
+     Emancipation Proclamation      → 《解放黑人奴隶宣言》           源×1     译×1    
+     "morning coat" / "Jim-swingers → 晨礼服 / 「吉姆大摆」（"Jim-sw 源×0     译×2     ★源0次(幽灵?)
+     Methodist (church)             → 卫理公会                 源×2     译×2    
+     "Beau Brummel"                 → 美男子布鲁梅尔（Beau Brummel 源×0     译×1     ★源0次(幽灵?)
+     William Jennings Bryan         → 威廉·詹宁斯·布莱恩           源×1     译×1    
+     appendicitis                   → 阑尾炎                  源×5     译×6    
+     ether (anaesthesia)            → 乙醚（麻醉）               源×3     译×3    
+     105 degrees (Fahrenheit)       → 105 华氏度              源×1     译×1    
+     *Jean Christophe*              → 《约翰·克利斯朵夫》（*Jean Chr 源×1     译×1    
+     *My Antonia*                   → 《我的安东尼亚》（*My Antonia 源×1     译×1    
+     *Hunger* / *Growth of the Soil → 《饥饿》/《大地的生长》（*Hunger 源×3     译×2    
+     *beaucoup vin blanc*           → *成桶的白葡萄酒*（beaucoup v 源×1     译×1    
+     mademoiselles                  → 法国姑娘（mademoiselles）  源×1     译×1    
+     Jerry Bird                     → 杰里·伯德                源×1     译×1     残留「工厂镇」×4
+     Bill Jackson                   → 比尔·杰克逊               源×1     译×1    
+     Minnie Baxter                  → 明妮·巴克斯特              源×2     译×2    
+     Jim Archer                     → 吉姆·阿切尔               源×9     译×10   
+     Reverend Wilson                → 威尔逊牧师                源×14    译×16   
+     Mr. Graham                     → 格雷厄姆先生               源×1     译×1    
+     Mr. Adams                      → 亚当斯先生                源×1     译×1    
+     Reverend Adams（old）            → 老亚当斯牧师               源×1     译×1    
+     Nat Phelps                     → 纳特·费尔普斯              源×2     译×2    
+     Forsyth                        → 福尔瑟斯                 源×1     译×1    
+     First Methodist (Church)       → 第一卫理公会               源×2     译×2    
+     Baptist Church                 → 浸礼会                  源×1     译×1    
+     Central City Chamber of Commer → 中央城商会                源×1     译×1    
+     Coloured Protective League     → 有色人保护同盟（Coloured Pro 源×1     译×1    
+     Central City Dispatch          → 《中央城快报》（Central City 源×2     译×2    
+     venereal diseases              → 性病                   源×1     译×1    
+     Atlas                          → 阿特拉斯（Atlas）          源×1     译×1    
+     "jealousy is cruel as the grav → 「嫉妒残忍如坟墓」            源×0     译×0     ★源0次(幽灵?)
+     "Thou shalt not kill"          → 「不可杀人」               源×0     译×0     ★源0次(幽灵?)
+     nigger bucks                   → 年轻气盛的黑鬼（nigger bucks 源×1     译×1    
+     Fisk University                → 菲斯克大学（Fisk Universit 源×1     译×1    
+     Oberlin                        → 奥伯林（Oberlin）         源×2     译×2    
+     North Carolina                 → 北卡罗来纳（North Carolina 源×2     译×2    
+     Place de la Concorde           → 协和广场（Place de la Con 源×1     译×1    
+     Rue de la Paix                 → 和平街（Rue de la Paix）  源×1     译×1    
+     Negro spirituals               → 黑人灵歌（Negro spiritual 源×1     译×1    
+     "Deep River"                   → 《深河》（Deep River）     源×0     译×1     ★源0次(幽灵?)
+     "Nobody Knows the Trouble I've → 《无人知我见过的苦难》（Nobody K 源×0     译×1     ★源0次(幽灵?)
+     Saint-Saëns / "My Heart at Thy → 圣桑（Saint-Saëns）/《我心在 源×0     译×1     ★源0次(幽灵?)
+     "Memphis Blues"                → 《孟菲斯蓝调》（Memphis Blue 源×0     译×1     ★源0次(幽灵?)
+     Reverend Ezekiel Wilson        → 以西结·威尔逊牧师            源×1     译×1    
+     George Parker                  → 乔治·帕克                源×10    译×12   
+     Nancy Ware                     → 南希·韦尔                源×11    译×11   
+     Bud Ware                       → 巴德·韦尔                源×0     译×0     ★源0次(幽灵?)
+     Mount Zion Baptist Church      → 锡安山浸信会教堂             源×2     译×2    
+     Notre Dame Cathedral           → 巴黎圣母院                源×1     译×1    
+     St. Paul's (Cathedral)         → 圣保罗大教堂               源×1     译×1    
+     Pullman porter                 → 普尔曼卧铺车乘务员            源×1     译×0     ★译0次(未落位?)
+     Ford runabout                  → 福特轻型小汽车              源×1     译×1    
+     chain gang                     → 苦役队                  源×1     译×1    
+     "Black Maria"                  → 「黑玛丽」                源×0     译×1     ★源0次(幽灵?)
+     Amen corner                    → 「阿们」席                源×1     译×1    
+     Doxology                       → 《荣耀颂》                源×1     译×1    
+     "peg-top" trousers             → 「陀螺裤」                源×0     译×1     ★源0次(幽灵?)
+     kimono / boudoir cap           → 和服式晨衣 / 梳妆帽          源×2     译×2    
+     First Corinthians 13:1         → 《哥林多前书》第十三章第一节       源×0     译×1     ★源0次(幽灵?)
+     Henry Lane                     → 亨利·莱恩                源×0     译×0     ★源0次(幽灵?) 残留「委员」×9
+     Sheriff Robert Parker（"She’f B → 罗伯特·帕克警长（「鲍勃警长」She’f 源×1     译×1     残留「盯着」×15
+     Columbia University            → 哥伦比亚大学（Columbia Univ 源×1     译×1    
+     Harvard                        → 哈佛（Harvard）          源×4     译×5    
+     Valdosta                       → 瓦尔多斯塔（Valdosta）      源×2     译×2    
+     County Court House             → 县法院                  源×1     译×1    
+     chameleon                      → 变色龙                  源×2     译×4     残留「变换肤色以迁就环境」×1
+     "white man's nigger"           → 「白人的黑鬼」（white man's  源×0     译×1     ★源0次(幽灵?)
+     "co't day" / "She’f Bob"       → 「开庭日」/「鲍勃警长」         源×0     译×1     ★源0次(幽灵?)
+     Will Hutchinson                → 威尔·哈奇森               源×1     译×0     ★译0次(未落位?)
+     Governor Slaton                → 斯莱顿州长                源×1     译×3    
+     Leo Frank                      → 利奥·弗兰克               源×1     译×3    
+     Ku Klux Klan / the Klan / Klux → 三K党 / 三K党徒（Kluxers）  源×9     译×25   
+     Central City Klan              → 中央城三K党（Central City  源×4     译×5    
+     Knights of the Ku Klux Klan, R → 三K党佐治亚州分部骑士团         源×2     译×2    
+     Exalted Cyclops                → 崇高独眼巨人（Exalted Cyclo 源×5     译×9    
+     Kligrapp                       → 纪录官（Kligrapp）        源×5     译×12   
+     Imperial Klan Palace           → 帝国党宫（Imperial Klan P 源×1     译×3    
+     Invisible Empire               → 无形帝国（Invisible Empir 源×2     译×9    
+     "the eye that never sleeps"    → 「永不阖眼的眼睛」            源×0     译×0     ★源0次(幽灵?)
+     "preservation of white suprema → 「捍卫白人至上」             源×0     译×0     ★源0次(幽灵?)
+     "white, Gentile, Protestant"   → 「白人、新教徒、纯种（Gentile,  源×0     译×1     ★源0次(幽灵?)
+     nigger wench                   → 黑鬼娘们（nigger wench）   源×2     译×4    
+     Nawth                          → 北边（Nawth）            源×3     译×6     残留「North（北方）」×2 残留「在北边读的书」×1
+     Reverend Richard Young         → 理查德·杨牧师              源×1     译×0     ★译0次(未落位?)
+     James Swann                    → 詹姆斯·斯旺               源×2     译×2    
+     Joe Todd                       → 乔·托德                 源×1     译×1     残留「侮辱白人女人」×1
+     old man Stanton                → 老斯坦顿                 源×0     译×1     ★源0次(幽灵?)
+     Mr. Taylor                     → 泰勒先生                 源×4     译×4     残留「结欠」×2
+     Jeff Anderson                  → 杰夫·安德森               源×1     译×1    
+     Bethel African Methodist Episc → 伯特利非洲卫理公会（Bethel AME 源×2     译×2    
+     Tuskegee                       → 塔斯基吉（Tuskegee）       源×3     译×3    
+     Washington                     → 华盛顿                  源×3     译×3    
+     share-cropping / tenant-farmin → 分成制 / 佃农制            源×4     译×6    
+     "Balance Due"                  → 「结欠若干」（Balance Due）  源×0     译×0     ★源0次(幽灵?)
+     Federal Government loans to fa → 联邦农场贷款               源×0     译×0     ★源0次(幽灵?)
+     gin (cotton gin)               → 轧花厂                  源×2     译×1    
+     "uppity" / "uppishness"        → 「不知天高地厚」             源×0     译×1     ★源0次(幽灵?)
+     "sassy young nigger"           → 「放肆的小黑鬼」             源×0     译×0     ★源0次(幽灵?)
+     Reverend Stewart               → 斯图尔特牧师               源×1     译×2    
+     The National Negro Farmers’ Co → 全国黑人农户合作保护同盟（The Nat 源×1     译×4    
+     Odd Fellows (Independent Order → 奇异兄弟会（Odd Fellows）   源×0     译×3     ★源0次(幽灵?)
+     Masons (Freemasons)            → 共济会（Masons）          源×1     译×3    
+     Knights of Pythias             → 毕达哥拉斯骑士团（Knights of  源×1     译×3    
+     bungalow apron                 → 家常围裙罩衣               源×2     译×1    
+     mourner’s bench                → 慕道席                  源×1     译×1    
+     Klan rides (of the seventies)  → （十九世纪）七十年代三K党夜骑      源×1     译×0     ★译0次(未落位?)
+     Atlantic City                  → 大西洋城（Atlantic City）  源×2     译×2    
+     Chicago                        → 芝加哥（Chicago）         源×3     译×3    
+     Washington, U Street           → 华盛顿 U 街（U Street, Wa 源×0     译×0     ★源0次(幽灵?)
+     Seventh Avenue, New York       → 纽约第七大道（Seventh Avenu 源×0     译×1     ★源0次(幽灵?)
+     Bronx Park                     → 布朗克斯公园（Bronx Park）   源×1     译×1    
+     Central Park                   → 中央公园（Central Park）   源×0     译×1     ★源0次(幽灵?)
+     Fifth Avenue (bus)             → 第五大道（公共汽车）           源×1     译×1    
+     Christian Science              → 基督教科学派（Christian Sci 源×1     译×1    
+     Matthew, Andrew, Peter, John   → 马太、安得烈、彼得、约翰         源×0     译×1     ★源0次(幽灵?) 残留「新时代的使徒」×1
+     the Czar (of Russia)           → （俄国）沙皇               源×1     译×0     ★译0次(未落位?)
+     "superior race"                → 「优越种族」               源×0     译×2     ★源0次(幽灵?)
+     Elysian fields                 → 极乐世界（Elysian fields） 源×1     译×1    
+     cooperative society / cooperat → 合作社（cooperative soci 源×13    译×23    残留「全国黑人农户合作保护同盟」×4
+     wholesale / distribute at cost → 批发进货 / 按成本价分发        源×1     译×2    
+     fraternal organizations        → 兄弟会（fraternal organi 源×1     译×5    
+     test case                      → 判例案子（test case）      源×2     译×1    
+     State Supreme Court            → 州最高法院（State Supreme  源×1     译×1    
+     United States Supreme Court    → 美国最高法院（United States 源×2     译×2    
+     Pullman (car)                  → 普尔曼卧铺车（Pullman）      源×1     译×2    
+     Judge Stevenson（Richard P. Ste → 史蒂文森法官（理查德·P. 史蒂文森）  源×0     译×0     ★源0次(幽灵?) 残留「好时光」×3 残留「石墙」×2
+     Dr. J. C. Carpenter            → J. C. 卡彭特医生（牙医）      源×1     译×1    
+     Henry Watterson（“Marse Henry”） → 亨利·沃特森（「亨利老爷」Marse H 源×1     译×1    
+     “Stonewall” Jackson            → 「石墙」杰克逊              源×1     译×1    
+     Roy Ewing                      → 罗伊·尤因                源×0     译×0     ★源0次(幽灵?)
+     Bon Ton Store                  → 「好时光」百货店（Bon Ton Sto 源×0     译×0     ★源0次(幽灵?)
+     Lee Street                     → 李街（Lee Street）       源×0     译×0     ★源0次(幽灵?)
+     Confederate army               → 邦联军（Confederate army 源×1     译×1    
+     Confederate veterans           → 邦联老兵（Confederate vet 源×1     译×1     残留「北佬党」×1
+     “unreconstructed” veterans     → 至死不肯服输的邦联老兵          源×0     译×1     ★源0次(幽灵?)
+     the battle of Atlanta          → 亚特兰大战役               源×1     译×1    
+     Civil War                      → 内战                   源×4     译×3    
+     “Yankee-lover”                 → 北佬党（Yankee-lover）    源×0     译×1     ★源0次(幽灵?)
+     Democratic ticket / Democratic → 民主党（Democratic）      源×1     译×1    
+     Republican / Socialist         → 共和党（Republican）/ 社会党 源×2     译×1    
+     Virgin Birth                   → 童贞女生子（Virgin Birth）  源×1     译×1    
+     lake of fire and brimstone     → 地狱的硫磺火湖（a lake of fi 源×1     译×1    
+     smallpox                       → 天花                   源×1     译×4    
+     po’ white trash                → 穷白人渣（po’ white trash 源×1     译×1    
+     blind tiger                    → 地下酒窑（blind tiger）    源×1     译×1    
+     labour agents                  → 招工的人（labour agents）  源×1     译×1    
+     Frankenstein monster           → 弗兰肯斯坦怪物（Frankenstein 源×1     译×0     ★译0次(未落位?)
+     A Daniel                       → 但以理（A Daniel）        源×1     译×4     残留「智慧卓越之裁断者/领袖」×1
+     Macedonian cry                 → 马其顿人的呼声（Macedonian c 源×1     译×2    
+     mockingbird                    → 反舌鸟（mockingbird）     源×1     译×2    
+     “de ’rousements” / ’rousements → 「鼓动劲儿」（’rousements）  源×1     译×1    
+     Schopenhauer                   → 叔本华（Schopenhauer）    源×1     译×1    
+     Garibaldi                      → 加里波第（Garibaldi）      源×1     译×1    
+     Joan of Arc                    → 圣女贞德（Joan of Arc）    源×1     译×1    
+     Moses（"a new Moses"）           → 摩西（Moses）/「新摩西」      源×5     译×7     残留「应许之地」×3
+     *esprit cordial*               → *由衷的亲睦*（*esprit cord 源×1     译×1    
+     paralysis                      → 瘫痪（paralysis）        源×1     译×3    
+     chlo’form（chloroform）          → 氯仿（chlo’form）        源×1     译×7    
+     "walking on air"               → 「如履云端」（walking on ai 源×0     译×3     ★源0次(幽灵?)
+     Peck                           → 佩克佬（Peck）            源×2     译×2     残留「Cracker（穷白佬）」×4
+     No’th                          → 北边（No’th）            源×8     译×0     ★译0次(未落位?) 残留「North（北方）」×2 残留「乖觉黑人」×1
+     "social equality"              → 「社会平等」               源×0     译×3     ★源0次(幽灵?)
+     fumed oak                      → 烟熏橡木（fumed oak）      源×1     译×1    
+     mission (furniture)            → 「传教会」式（mission）      源×1     译×1    
+     señorita                       → 西班牙姑娘（señorita）      源×2     译×1    
+     revival services / camp-meetin → 奋兴布道 / 营帐聚会          源×1     译×3    
+     *Mirabile dictu*               → 说来也奇（*Mirabile dictu 源×1     译×2     残留「说来令人惊奇」×1 残留「忠诚、勇敢、慎言」×2
+     "nigger-lover"                 → 「黑鬼佬」（nigger-lover）  源×0     译×0     ★源0次(幽灵?)
+     "white, Protestant, Gentile"   → 「白人、新教徒、纯种」（white, P 源×0     译×2     ★源0次(幽灵?) 残留「非犹太裔白人」×1
+     Bob (killing Jim Archer)       → 鲍勃（杀吉姆·阿切尔）          源×0     译×0     ★源0次(幽灵?) 残留「住在火山口上」×1
+     Charley Allen                  → 查利·艾伦（Charley Allen） 源×4     译×4    
+     Peck                           → 穷白佬（Peck）            源×0     译×0     ★源0次(幽灵?) 残留「雅化」×1
+     posse                          → 追捕队（posse）           源×2     译×6    
+     bloodhound(s)                  → 寻血猎犬                 源×2     译×2    
+     Ford delivery truck            → 福特送货卡车               源×1     译×1    
+     Confederate Monument           → 邦联纪念碑                源×3     译×3    
+     Dr. Scott                      → 斯科特医生                源×25    译×27    残留「心智上的变色龙」×1
+     John Anthony                   → 约翰·安东尼               源×8     译×8    
+     David Gordon                   → 大卫·戈登                源×4     译×4    
+     Peachtree Street               → 桃树街（Peachtree Street 源×1     译×2    
+     Lee / Jackson / Johnston / Gor → 李 / 杰克逊 / 约翰斯顿 / 戈登  源×15    译×20    残留「石墙」×2
+     Garrison（William Lloyd Garriso → 加里森（Garrison）        源×1     译×1    
+     Sumner（Charles Sumner）         → 萨姆纳（Sumner）          源×1     译×1    
+     John Brown                     → 约翰·布朗（John Brown）    源×1     译×1    
+     Abraham Lincoln                → 亚伯拉罕·林肯              源×1     译×1    
+     Anglo-Saxonism                 → 盎格鲁-撒克逊优越论（Anglo-Sax 源×1     译×1     残留「道德上的懦弱」×1
+     “new South”                    → 「新南方」                源×1     译×1    
+     mental chameleon               → 心智上的变色龙              源×1     译×1    
+     disfranchisement               → 剥夺选举权                源×1     译×1    
+     “When men shall persecute and  → 「人若因我辱骂你们、逼迫你们」      源×0     译×0     ★源0次(幽灵?)
+     “live so close to the trees, t → 「离树太近，反倒看不见林子」       源×1     译×1    
+     breeding-ground                → 繁殖场                  源×1     译×1    
+     stake（burned at the stake）     → 柱上烧死                 源×3     译×2    
+     Mary Ewing                     → 玛丽·尤因                源×6     译×5    
+     Rachel                         → 雷切尔                  源×2     译×1    
+     Uncle Will（Harper）             → 威尔叔叔（哈珀）             源×1     译×1    
+     Uncle Jim（Harper）              → 吉姆叔叔（哈珀）             源×1     译×1    
+     "sonny"                        → 「乖乖」（sonny）          源×0     译×0     ★源0次(幽灵?) 残留「早点回来呀，乖乖」×1
+     reincarnation                  → 轮回转世（reincarnation）  源×1     译×1    
+     Georgia Avenue（重申）             → 乔治亚大道                源×0     译×0     ★源0次(幽灵?)
+     Bob（私刑烧死）/ Mamie（遭强暴）          → 鲍勃（被私刑烧死）/ 玛米（遭强暴）   源×0     译×0     ★源0次(幽灵?) 残留「乖乖」×2
+     Dr. Scott                      → 斯科特医生                源×0     译×0     ★源0次(幽灵?)
+     John Anthony                   → 约翰·安东尼               源×0     译×0     ★源0次(幽灵?)
+     Gordon                         → 戈登                   源×0     译×0     ★源0次(幽灵?)
+     Mary Ewing                     → 玛丽·尤因                源×0     译×0     ★源0次(幽灵?)
+     Dr. Johnson                    → 约翰逊医生                源×1     译×1     残留「约翰逊太太」×7
+     Mrs. Roy Ewing                 → 尤因太太                 源×1     译×21   
+     *Atlanta Constitution*         → 《亚特兰大宪法报》（Atlanta Co 源×1     译×1    
+     Vidalia                        → 维达利亚（Vidalia）        源×1     译×1    
+     Hoopersville                   → 胡珀斯维尔（Hoopersville）  源×1     译×1    
+     Pontius Pilate                 → 本丢·彼拉多（Pontius Pilat 源×1     译×2     残留「洗手」×2
+     sword of Damocles              → 达摩克利斯之剑（sword of Dam 源×1     译×2     残留「荣华之下随时降临的灾祸」×1
+     Rachel                         → 拉结（Rachel）           源×0     译×3     ★源0次(幽灵?)
+     Berseker（原文如此，Berserker）       → 狂战士（Berserker）       源×1     译×3    
+     the Huns                       → 匈人（the Huns）         源×0     译×5     ★源0次(幽灵?) 残留「匈人暴行」×1
+     Gethsemane                     → 客西马尼（Gethsemane）     源×1     译×3    
+     Peter denying his Lord, the co → 彼得不认主，鸡叫三遍（Peter…coc 源×0     译×0     ★源0次(幽灵?)
+     Booth / Tree / Barrymore       → 布斯 / 特尔 / 巴里摩尔（Booth 源×7     译×3     落位偏低 3/7
+     "casting pearls before swine"  → 「明珠暗投」（casting pearl 源×0     译×0     ★源0次(幽灵?)
+     vials of wrath                 → 满盛怒火的瓶（vials of wrat 源×1     译×1    
+     beakers of gall                → 斟满苦胆的杯（beakers of ga 源×1     译×1    
+     Old Vardaman                   → 老瓦尔达曼（Old Vardaman）  源×0     译×1     ★源0次(幽灵?)
+     Browning gun                   → 勃朗宁机关枪（Browning gun） 源×1     译×1     残留「像勃朗宁机关枪的子弹」×1
+     三K党徒围守尤因家                      → 三K党徒围守尤因家            源×0     译×0     ★源0次(幽灵?)
+     肯尼思魔鬼诱惑与救赎                     → 肯尼思魔鬼诱惑与救赎           源×0     译×0     ★源0次(幽灵?)
+     罗伊·尤因赴亚特兰大求州长保护肯尼思             → 罗伊·尤因赴亚特兰大求州长保护肯尼思   源×0     译×0     ★源0次(幽灵?)
+     Marquis of Queensberry rules   → 昆斯伯里侯爵拳规（Marquis of  源×1     译×1    
+     dervish of the deserts         → 沙漠托钵僧（dervish）       源×1     译×0     ★译0次(未落位?)
+     cream charmeuse                → 奶油色软缎（cream charmeus 源×1     译×0     ★译0次(未落位?)
+     Kenneth（被三K党伏击私刑烧死）            → 肯尼思（被三K党伏击私刑烧死）      源×555   译×568  
+     简抱婚纱哀恸                         → 简抱婚纱哀恸               源×0     译×0     ★源0次(幽灵?)
+     美联社栽赃电讯                        → 美联社栽赃电讯              源×0     译×0     ★源0次(幽灵?)
+     全书叙事弧收束                        → 全书叙事弧收束              源×0     译×0     ★源0次(幽灵?)
+

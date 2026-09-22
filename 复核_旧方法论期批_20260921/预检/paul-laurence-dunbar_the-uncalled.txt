@@ -1,0 +1,16 @@
+ (17 files)
+  块: O=214 C=214 OK | 段: EN=1019 CN=1019 OK
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 11 条:
+     Frederick Brent? no—           → （弃用占位）               源×0     译×0     ★源0次(幽灵?)
+     Frederick Brent（童年 Freddie／成年  → 弗雷德里克·布伦特／弗雷迪／弗雷德    源×14    译×184  
+     Margaret Brent（母）／Tom Brent, o → 玛格丽特·布伦特／老汤姆·布伦特     源×0     译×11    ★源0次(幽灵?)
+     Miss Hester                    → 海斯特小姐（Aunt Hester 儿童 源×81    译×78   
+     Miss Prime                     → 普赖姆小姐                源×65    译×68   
+     Eliphalet / ’Liphalet / Liphal → 埃利法莱特·霍奇斯；昵称 Liph →  源×59    译×0     ★译0次(未落位?)
+     Mrs. Hodges                    → 霍奇斯太太                源×32    译×36   
+     Mr. Simpson／Elizabeth Simpson／ → 辛普森先生／伊丽莎白·辛普森／辛普森小姐 源×0     译×20    ★源0次(幽灵?)
+     Daniel Hastings / Dan'l（方言拼法）  → 丹尼尔·黑斯廷斯／丹尼尔         源×24    译×30   
+     Dexter（俄亥俄小镇）／Dexter View      → 德克斯特／德克斯特景           源×0     译×25    ★源0次(幽灵?)
+     old Bess（老马）                   → 老贝斯                  源×18    译×18   
+====================================================================================================

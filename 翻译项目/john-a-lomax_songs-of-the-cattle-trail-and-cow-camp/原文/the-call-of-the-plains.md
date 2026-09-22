@@ -1,0 +1,90 @@
+### The Call of the Plains
+Ho! wind of the far, far prairies!
+ 
+
+ Free as the waves of the sea!
+ 
+
+ Your voice is sweet as in alien street
+ 
+
+ The cry of a friend to me!
+ 
+
+ You bring me the breath of the prairies,
+ 
+
+ Known in the days that are sped,
+ 
+
+ The wild geese’s cry and the blue, blue sky
+ 
+
+ And the sailing clouds o’er head!
+My eyes are weary with longing
+ 
+
+ For a sight of the sage grass gray,
+ 
+
+ For the dazzling light of a noontide bright
+ 
+
+ And the joy of the open day!
+ 
+
+ Oh, to hear once more the clanking
+ 
+
+ Of the noisy cowboy’s spur,
+ 
+
+ And the south wind’s kiss like a mild caress
+ 
+
+ Making the grasses stir.
+I dream of the wide, wide prairies
+ 
+
+ Touched with their glistening sheen,
+ 
+
+ The coyotes’ cry and the wind-swept sky
+ 
+
+ And the waving billows of green!
+ 
+
+ And oh, for a night in the open
+ 
+
+ Where no sound discordant mars,
+ 
+
+ And the marvelous glow, when the sun is low,
+ 
+
+ And the silence under the stars!
+Ho, wind from the western prairies!
+ 
+
+ Ho, voice from a far domain!
+ 
+
+ I feel in your breath what I’ll feel till death,
+ 
+
+ The call of the plains again!
+ 
+
+ The call of the Spirit of Freedom
+ 
+
+ To the spirit of freedom in me;
+ 
+
+ My heart leaps high with a jubilant cry
+ 
+
+ And I answer in ecstasy!
+Ethel MacDiarmid.

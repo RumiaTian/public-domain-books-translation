@@ -1,0 +1,11 @@
+## To Lady Noel Byron
+
+Men sought, ambition’s thirst to slake,
+The lost elixir old
+Whose magic touch should instant make
+The meaner metals gold.
+
+A nobler alchymy is thine
+Which love from pain doth press:
+Gold in thy hand becomes divine,
+Grows truth and tenderness.

@@ -1,0 +1,62 @@
+====================================================================================================
+### harry-harrison_short-fiction  (8 files)
+  块: O=309 C=309 OK | 段: EN=1091 CN=1167 !!差 -76
+     [不对称] An-Artists-Life.md                                   O=31 C=31 段EN=140 段CN=170
+     [不对称] Arm-of-the-Law.md                                    O=49 C=49 段EN=171 段CN=174
+     [不对称] Down-to-Earth.md                                     O=36 C=36 段EN=177 段CN=192
+     [不对称] Navy-Day.md                                          O=27 C=27 段EN=48 段CN=50
+     [不对称] The-K-Factor.md                                      O=80 C=80 段EN=217 段CN=229
+     [不对称] The-Repairman.md                                     O=31 C=31 段EN=118 段CN=129
+     [不对称] The-Velvet-Glove.md                                  O=43 C=43 段EN=174 段CN=179
+     [不对称] Toy-Shop.md                                          O=12 C=12 段EN=46 段CN=44
+  英文残留(剔括注) top: Mark×5, III×5, B-×2, XPO×1, Hande×1, hoch×1, kraftwagen×1, Oberst×1, Ich×1, tte×1
+  -- 术语表硬约束行 48 条:
+     Earth                          → 地球                   源×33    译×37   
+     the Moon / Moon                → 月球                   源×23    译×26    残留「月亮」×1
+     Mars                           → 火星                   源×2     译×3    
+     the sun                        → 太阳                   源×4     译×7    
+     Himmel                         → 希梅尔（Himmel）          源×5     译×7     残留「天空」×1
+     Metropolitan Museum of Art     → 大都会艺术博物馆             源×1     译×1    
+     New York                       → 纽约                   源×5     译×5    
+     Congress / Congress of the Uni → 国会 / 美国国会            源×10    译×10   
+     Societics                      → 社会工程学（Societics）     源×18    译×19   
+     k-factor / K-factor            → K 因子                 源×19    译×20   
+     k-factor equations             → K 因子方程               源×2     译×2    
+     robot                          → 机器人                  源×66    译×98   
+     mech                           → 机械人                  源×2     译×3    
+     atomic generator               → 原子能发电机               源×1     译×1    
+     thermocouple                   → 热电偶                  源×1     译×1    
+     infrared rays                  → 红外线                  源×1     译×3    
+     molecular disruptor            → 分子分解器                源×1     译×1    
+     Solar                          → 索拉枪（Solar）           源×6     译×3     落位偏低 3/6
+     the Bug                        → 「甲虫号」（the Bug）       源×6     译×0     ★译0次(未落位?)
+     Atomic Wonder Space Wave Tappe → 原子奇迹太空波捕捉器           源×1     译×1    
+     Space Wave / space wave        → 太空波                  源×5     译×6    
+     unified-field theory           → 统一场论                 源×1     译×1    
+     age-retarding drugs            → 抗衰老药物                源×1     译×1    
+     General                        → 将军                   源×17    译×14   
+     Admiral                        → 海军上将                 源×8     译×9    
+     Colonel                        → 上校                   源×21    译×22   
+     Major                          → 少校                   源×10    译×8    
+     Chief                          → 局长 / 警长              源×41    译×42   
+     Senator                        → 参议员                  源×1     译×1    
+     Dr.                            → 博士                   源×1     译×1    
+     Mr. / Mrs.                     → 先生 / 女士              源×28    译×58   
+     Colonel "Biff" Hawton          → 「比夫」霍顿上校（Colonel "Bi 源×0     译×1     ★源0次(幽灵?)
+     U.S. Army / the Army           → 美国陆军 / 陆军            源×8     译×15   
+     U.S. Navy / the Navy           → 美国海军 / 海军            源×11    译×17   
+     General Staff                  → 总参谋部                 源×1     译×1    
+     credit                         → 信用点                  源×3     译×10   
+     mile                           → 英里                   源×2     译×6    
+     yard                           → 码                    源×1     译×15   
+     foot / feet                    → 英尺                   源×47    译×23    落位偏低 23/47
+     inch                           → 英寸                   源×3     译×4    
+     pound                          → 磅                    源×0     译×0     ★源0次(幽灵?)
+     spaceship / rocketship         → 宇宙飞船 / 火箭飞船          源×1     译×1    
+     spacesuit                      → 宇航服 / 太空服            源×1     译×6    
+     space                          → 太空 / 空间              源×13    译×22   
+     lunar                          → 月球的                  源×10    译×5     落位偏低 5/10
+     Martian                        → 火星的                  源×1     译×0     ★译0次(未落位?)
+     radiation sickness             → 辐射病                  源×1     译×1    
+     gravity weakness               → 失重性肌无力               源×1     译×1    
+

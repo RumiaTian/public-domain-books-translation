@@ -1,0 +1,56 @@
+## XIX Jérôme Fandor
+Whistling a quickstep, sure sign with him of a light heart, Juve opened the door of the little room where he had left Charles Rambert, and looked at the sleeping lad.
+“It’s a fine thing to be young,” he remarked to the man he had left on guard; “that boy plunges into the wildest adventures and shaves the scaffold by an inch, and yet after one late night he sleeps as peacefully as any chancellor of the Legion of Honour!” He shook the lad with a friendly hand. “Get up, lazybones! It’s ten o’clock: high time for me to carry you off.”
+“Where to?” the unhappy boy asked, rubbing his eyes.
+“There’s no doubt about inquisitiveness being your besetting sin,” Juve replied cryptically. “Well, we’ve got a quarter of an hour’s drive in front of us. But you’re not going to prison; I’m going to take you home with me!”
+---
+Juve had taken off his collar and tie and put on an old jacket, had set a great bowl of bread and milk in front of Charles Rambert, and was leisurely enjoying his own breakfast.
+“I didn’t want to answer any questions just now,” he said, “because I hate talking in cabs where I have to sit by a man’s side, and can’t see him or hear half he says. But now that we are snug and comfortable here, I’ve no right to keep you waiting any longer, and I’ll give you a bit of good news.”
+“Snug” and “comfortable” were the right words with which to describe Juve’s private abode. The detective had attained an honourable and lucrative position in his profession, and, exposed as he was in the course of his work to all manner of dangers and privations, had compensated himself by making an entirely satisfactory, if not luxurious, nest where he could rest after his labours.
+When he had finished his breakfast he lighted a big cigar and sank into an easy chair, crossing his hands behind his head. He turned a steady gaze upon Charles Rambert, who was still completely puzzled, and half frightened by this sudden amiability, and did not know whether he was a prisoner or not.
+“I will give you a bit of good news; that is, that you are innocent of the Langrune affair when you were Charles Rambert, and innocent also of the Danidoff affair, when you were Mademoiselle Jeanne. I need not say anything about the scrap last night, in which you played a still more distinguished part.”
+“Why tell me that?” asked Charles Rambert nervously. “Of course I know I did not rob Princess Sonia Danidoff; but how did you recognise me last night, and how did you find out that I was Mademoiselle Jeanne?”
+Juve smiled, and shook back a lock of hair that was falling over his eyes.
+“Listen, my boy: do you suppose that thundering blow you dealt the excellent Henri Verbier when he was making love to Mademoiselle Jeanne, could fail to make me determined to find out who that young lady was who had the strength of a man?”
+The allusion made Charles Rambert most uneasy.
+“But that does not explain how you recognised me in Paul tonight. I recognised you in Henri Verbier at the hotel, but I had no idea that it was you last night.”
+“That’s nothing,” said Juve with a shake of the head. “And you may understand once for all that when I have once looked anybody square in the face, he needs to be an uncommonly clever fellow to escape me afterwards by means of any disguise. You don’t know how to make up, but I do; and that’s why I took you in and you did not take me in.”
+“What makes you believe I did not rob Princess Sonia Danidoff?” Charles Rambert asked after a pause. “I am quite aware that everything points to my having been the thief.”
+“Not quite everything,” Juve answered gently. “There are one or two things you don’t know, and I’ll tell you one of them. The Princess was robbed by the same man who robbed Mme. Van den Rosen, wasn’t she? Well, Mme. Van den Rosen was the victim of a burglary: some of the furniture in her room was broken into, and the tests I made this morning with the dynamometer proved to me that you are not strong enough to have caused those fractures.”
+“Not strong enough?” Charles Rambert ejaculated.
+“No. I told you at the time that your innocence would be proved if you were strong enough, but I said that to prevent you from playing tricks and not putting out all your strength. As a matter of fact it was your comparative weakness that saved you. The dynamometer tests and the figures I obtained just now prove absolutely that you are innocent of the Van den Rosen robbery and, consequently, of the robbery from Sonia Danidoff.”
+Again the lad reflected for a minute or two.
+“But you didn’t know who I was when you came to the hotel, did you? And therefore had no suspicion that I was Charles Rambert? That’s true, isn’t it? How did you find out? I was supposed to be dead.”
+“That was a child’s job,” Juve replied. “I got the anthropometric records of the body that had been buried as yours, and I planned to get symmetrical photographs of you in your character of Mademoiselle Jeanne, as I did of you today at headquarters. My first job was to lay hands upon Mademoiselle Jeanne, and I very soon found her, as I expected, turned into a man again, and living in the most disreputable company. I made any number of enquiries, and when I went to the Saint-Anthony’s Pig last evening I knew that it was some unknown person who had been buried in your stead; that Paul was Mademoiselle Jeanne; and that Mademoiselle Jeanne was Charles Rambert. It was my intention to arrest you, and to ascertain definitely by means of the dynamometer that you were innocent of the Langrune and the Danidoff crimes.”
+“What you tell me about the dynamometer explains how you know I am not the man who committed the robbery at the hotel, but what clears me in your eyes of the Langrune murder?”
+“Bless my soul!” Juve retorted, “you are arguing as if you wanted to prove you were guilty. Well, my boy, it’s the same story as the other. The man who murdered the Marquise de Langrune smashed things, and the dynamometer has proved that you are not strong enough to have been the man.”
+“And suppose I had been mad at the time,” Charles Rambert said, his hesitation and his tone betraying his anxiety about the answer, “could I have been strong enough then? Might I have committed these crimes without knowing anything about it?”
+But Juve shook his head.
+“I know: you are referring to your mother, and are haunted by an idea that through some hereditary taint you might be a somnambulist and have done these things in your sleep. Come, Charles Rambert, finish your breakfast and put all that out of your head. To begin with, you would not have been strong enough, even then; and in the next place there is nothing at present to show that you are mad, nor even that your poor mother﻿—But I need not go on: I’ve got some rather odd notions on that subject.”
+“Then, M. Juve﻿—”
+“Drop the ‘monsieur’; call me ‘Juve.’ ”
+“Then, if you know that I am innocent, you can go and tell my father? I have nothing to fear? I can reappear in my own name?”
+Juve looked at the lad with an ironical smile.
+“How you go ahead!” he exclaimed. “Please understand that although I do believe you are innocent, I am almost certainly the only person who does. And unfortunately I have not yet got any evidence that would be sufficiently convincing and certain to put the persuasion of your guilt out of your father’s head, or anybody else’s. This is not the time for you to reappear: it would simply mean that you would be arrested by some detective who knows less than I do, and thrown into prison as you confidently expected to be this morning.”
+“Then what is to become of me?”
+“What do you think of doing yourself?”
+“Going to see my father.”
+“No, no,” Juve protested once more. “I tell you not to go. It would be stupid and utterly useless. Wait a few days, a few weeks if need be. When I have put my hand on Fantômas’ shoulder, I will be the very first to take you to your father, and proclaim your innocence.”
+“Why wait until Fantômas is arrested?” Charles Rambert asked, the mere sound of the name seeming to wake all his former enthusiasm on the subject of that famous criminal.
+“Because if you are innocent of the charge brought against you, it is extremely likely that Fantômas is the guilty party. When he is laid by the heels you will be able to protest your innocence without any fear.”
+Charles Rambert sat silent for some minutes, musing on the odd chance of destiny which required him to make his own return to normal life contingent on the arrest of a mysterious criminal, who was merely suspected, and had never been seen nor discovered.
+“What do you advise me to do?” he asked presently.
+The detective got up and began to pace the room.
+“Well,” he began, “the first fact is that I am interested in you, and the next is, that while I was having that rough-and-tumble last night with that scoundrel in the supper-room, I thought for a minute or two that it was all up with me: your chipping in saved my life. On the other hand I may be said to have saved your life now by ascertaining your innocence and preventing your arrest. So we are quits in a way. But you began the delicate attentions, and I have only paid you back, so it’s up to me to start a new series and not turn you out into the street where you would inevitably get into fresh trouble. So this is what I propose: change your name and go and take a room somewhere; get into proper clothes and then come back to me, and I’ll give you a letter to a friend of mine who is on one of the big evening papers. You are well educated, and I know you are energetic. You are keen on everything connected with the police, and you’ll get on splendidly as a reporter. You will be able to earn an honest and respectable name that way. Would you like to try that idea?”
+“It’s awfully good of you,” Charles Rambert said gratefully. “I should love to be able to earn my living by work so much to my taste.”
+Juve cut his thanks short, and held out some banknotes.
+“There’s some money; now clear out; it’s high time we both got a little sleep. Get busy settling into rooms, and in a fortnight I shall expect you to be editor of *La Capitale*.”
+“Under what name shall you introduce me to your friend?” Charles Rambert asked, after a little nervous pause.
+“H’m!” said Juve with a smile: “it will have to be an alias of course.”
+“Yes; and as it will be the name I shall write under it ought to be an easy one to remember.”
+“Something arresting, like Fantômas!” said Juve chaffingly, amused by the curious childishness of this lad, who could take keen interest in such a trifle when he was in so critical a situation. “Choose something not too common for the first name; and something short for the other. Why not keep the first syllable of Fantômas? Oh, I’ve got it﻿—Fandor; what about Jérôme Fandor?”
+Charles Rambert murmured it over.
+“Jérôme Fandor! Yes, you are right, it sounds well.”
+Juve pushed him out of the door.
+“Well, Jérôme Fandor, leave me to my slumbers, and go and rig yourself out, and get ready for the new life that I’m going to open up for you!”
+Bewildered by the amazing adventures of which he had just been the central figure, Charles Rambert, or Jérôme Fandor, walked down Juve’s staircase wondering. “Why should he take so much trouble about me? What interest or what motive can he have? And how on earth does he find out such a wonderful lot of things?”

@@ -1,0 +1,174 @@
+====================================================================================================
+### edison-marshall_shepherds-of-the-wild  (31 files)
+  块: O=294 C=294 OK | 段: EN=978 CN=980 !!差 -2
+     [不对称] i.md                                                 O=8 C=8 段EN=20 段CN=21
+     [不对称] vii.md                                               O=10 C=10 段EN=37 段CN=38
+  英文残留(剔括注) top: cougar×1
+  -- 术语表硬约束行 166 条:
+     Hugh                           → 休                    源×367   译×382  
+     Hugh Gaylord                   → 休·盖洛德                源×21    译×21   
+     Gaylord                        → 盖洛德                  源×10    译×10   
+     Smoky Land                     → 烟之乡                  源×33    译×33   
+     Spread Horn                    → 阔角                   源×11    译×11   
+     Broken Fang                    → 断牙                   源×46    译×46   
+     Pete                           → 皮特                   源×27    译×27   
+     the Colonel                    → 上校                   源×13    译×11    残留「试验」×1
+     Idaho                          → 爱达荷                  源×9     译×9    
+     Upper Salmon mountains         → 萨蒙河上游山区              源×2     译×3    
+     camp-robber                    → 劫营鸟                  源×11    译×11   
+     elk                            → 马鹿                   源×9     译×9    
+     tenderfoot                     → 生手                   源×5     译×8    
+     Old Colonel                    → 老上校                  源×21    译×24   
+     Greenwood Club                 → 格林伍德俱乐部              源×10    译×10   
+     Silver Creek                   → 银溪                   源×11    译×11   
+     Upper Salmon country           → 萨蒙河上游山区              源×1     译×0     ★译0次(未落位?)
+     Hughey                         → 休吉                   源×1     译×1    
+     Hughey Gaylord                 → 休吉·盖洛德               源×1     译×1    
+     cougar / puma                  → 美洲狮                  源×49    译×60   
+     grizzly                        → 灰熊                   源×7     译×9    
+     coyote                         → 郊狼                   源×24    译×47   
+     fly rod                        → 毛钩钓竿                 源×1     译×1     残留「虫」×7
+     Gray Thief                     → 灰贼                   源×1     译×1    
+     Old Argali                     → 老盘羊                  源×5     译×10   
+     the Rockies / Rocky Mountains  → 落基山（落基山脉）            源×3     译×8    
+     Kamchatka                      → 堪察加                  源×1     译×1    
+     bull elk                       → 公马鹿                  源×5     译×5    
+     cow elk                        → 母马鹿                  源×2     译×2    
+     salmon                         → 鲑鱼                   源×8     译×8    
+     trout                          → 鳟鱼                   源×8     译×8    
+     steelhead                      → 钢头鳟                  源×1     译×3    
+     bighorn                        → 大角羊                  源×18    译×21   
+     Rocky Mountain goat            → 落基山白山羊               源×1     译×1    
+     merganser                      → 秋沙鸭                  源×0     译×1     ★源0次(幽灵?)
+     marmot                         → 旱獭                   源×0     译×1     ★源0次(幽灵?)
+     lynx                           → 猞猁                   源×6     译×6    
+     black bear                     → 黑熊                   源×4     译×5    
+     weasel                         → 鼬                    源×1     译×1    
+     otter / mink                   → 水獭／水貂                源×4     译×4    
+     chipmunk                       → 花栗鼠                  源×3     译×5    
+     huckleberry                    → 越橘                   源×0     译×1     ★源0次(幽灵?)
+     frontiersman                   → 拓荒者                  源×2     译×2    
+     wireless telephone             → 无线电话                 源×1     译×2    
+     quart                          → 夸脱                   源×3     译×1     落位偏低 1/3
+     Running Feet                   → 疾足                   源×17    译×18   
+     camp-tender                    → 送补人                  源×10    译×10   
+     sheep camp                     → 牧羊营                  源×19    译×27   
+     herder                         → 牧羊人                  源×80    译×91   
+     buzzard                        → 秃鹫                   源×3     译×12   
+     marten                         → 貂                    源×1     译×1    
+     Judea                          → 犹地亚                  源×1     译×1    
+     grub-box                       → 干粮箱                  源×1     译×1    
+     God's country                  → 上帝的国度                源×1     译×1    
+     Growl-in-the-throat            → 喉吼                   源×2     译×2    
+     Woof                           → 呜吼                   源×3     译×2    
+     fire water                     → 火水                   源×1     译×1    
+     dago                           → 拉丁佬                  源×0     译×1     ★源0次(幽灵?)
+     the Kingdom of the Wild        → 荒野之国                 源×1     译×1     残留「野生生命的王国」×1
+     cattlemen                      → 牧牛人                  源×15    译×18   
+     mallard                        → 绿头鸭                  源×1     译×1    
+     mountain grouse                → 山地松鸡                 源×2     译×2    
+     skunk                          → 臭鼬                   源×1     译×1    
+     fir                            → 冷杉                   源×6     译×6    
+     varmints                       → 害兽                   源×3     译×3    
+     shepherd dog                   → 牧羊犬                  源×20    译×34   
+     wolf                           → 狼                    源×22    译×48   
+     gray squirrel                  → 灰松鼠                  源×1     译×1    
+     black sheep                    → 黑羊                   源×4     译×4    
+     half-breed                     → 混血儿                  源×1     译×1    
+     German police dog              → 德国警犬                 源×1     译×1    
+     Little Death                   → 小死神                  源×1     译×1    
+     Lethe                          → 忘川                   源×1     译×1    
+     germ plasm                     → 种质                   源×2     译×2    
+     death-feast                    → 死亡盛宴                 源×3     译×6    
+     Manitou                        → 马尼图                  源×4     译×4    
+     Innuits                        → 因纽特人                 源×1     译×1    
+     Indian summer                  → 印第安夏                 源×1     译×1    
+     Rambouillets                   → 朗布依埃羊                源×1     译×1    
+     pika                           → 鼠兔                   源×2     译×4    
+     slide-rock                     → 岩屑坡                  源×5     译×4    
+     Lost Land                      → 失落的土地                源×6     译×4    
+     Anglo-Saxon                    → 盎格鲁-撒克逊人             源×4     译×4    
+     Sir Walter Raleigh             → 沃尔特·雷利爵士             源×1     译×1    
+     Spot                           → 斑点                   源×74    译×76   
+     Landy Fargo                    → 兰迪·法戈                源×12    译×12   
+     José Mertos                    → 何塞·梅托斯               源×6     译×6    
+     Cry-in-the-night               → 夜嗥                   源×6     译×6    
+     Quill-back                     → 针背                   源×3     译×3    
+     death-stick                    → 夺命棍                  源×1     译×2    
+     porcupine                      → 豪猪                   源×5     译×8    
+     ewe                            → 母羊                   源×14    译×41   
+     lamb                           → 羔羊                   源×33    译×33   
+     cataract                       → 急瀑                   源×3     译×1     落位偏低 1/3
+     bellwether                     → 头羊                   源×1     译×5    
+     wether                         → 阉羊                   源×1     译×2    
+     the Barking One                → 吠者                   源×1     译×1    
+     poison people                  → 毒族                   源×2     译×2    
+     Dan                            → 丹                    源×14    译×14   
+     Seven Mile                     → 七英里                  源×1     译×1    
+     Horse Creek                    → 马溪                   源×3     译×3    
+     Alice Crowson                  → 爱丽丝·克劳森              源×3     译×3    
+     Alice                          → 爱丽丝                  源×56    译×56   
+     Crowson                        → 克劳森                  源×21    译×21   
+     Ezra Crowson                   → 埃兹拉·克劳森              源×1     译×1    
+     Boise                          → 博伊西                  源×1     译×1    
+     sheepman                       → 羊主                   源×4     译×11   
+     range                          → 草场                   源×38    译×27   
+     public domain                  → 公有土地                 源×7     译×7    
+     school lands                   → 学田                   源×1     译×1    
+     National Forest                → 国家森林                 源×2     译×2    
+     forest ranger                  → 护林员                  源×3     译×8    
+     marker                         → 记号羊                  源×1     译×5    
+     black ewe                      → 黑母羊                  源×1     译×1    
+     yearling ram                   → 一岁公羊                 源×8     译×5    
+     grouse                         → 松鸡                   源×1     译×1    
+     shepherdess                    → 牧羊女                  源×5     译×5    
+     Little People                  → 小小部族                 源×5     译×5    
+     gopher                         → 囊鼠                   源×4     译×6    
+     buckbush                       → 鹿灌木                  源×1     译×1    
+     Newt Hillguard                 → 纽特·希尔加德              源×2     译×2    
+     Shropshires                    → 什罗普郡羊                源×2     译×2    
+     Ben                            → 本                    源×2     译×184  
+     Grizzly Peak                   → 灰熊峰                  源×1     译×1    
+     Naptha                         → 纳普撒                  源×1     译×1    
+     sheep-killing dog              → 杀羊狗                  源×1     译×3     残留「杀羊凶手」×1
+     woollies                       → 毛团子                  源×3     译×3    
+     blood-madness                  → 嗜血疯魔                 源×1     译×1    
+     Gates of Darkness              → 黑暗之门                 源×1     译×1    
+     bear dog                       → 猎熊犬                  源×2     译×2    
+     Old Urson                      → 老乌尔森                 源×1     译×0     ★译0次(未落位?)
+     digger squirrel                → 地松鼠                  源×1     译×1    
+     silver people                  → 银色部族                 源×1     译×1    
+     Cold-Eye                       → 冷眼                   源×2     译×2    
+     Surefoot                       → 稳足                   源×1     译×1    
+     box canyon                     → 箱谷                   源×1     译×1    
+     Land of Mighty Men             → 勇士之地                 源×1     译×1    
+     Old Ben                        → 老本                   源×2     译×2    
+     hound                          → 猎犬                   源×1     译×15    残留「狗群」×26
+     Swift Wing                     → 快翅                   源×1     译×1    
+     Lurk-in-the-trail              → 伏道                   源×1     译×1    
+     Shep                           → 谢普                   源×36    译×36   
+     Death Flint                    → 死亡燧石                 源×1     译×1    
+     Bill Elkins                    → 比尔·埃尔金斯              源×3     译×3    
+     golden eagle                   → 金雕                   源×1     译×1    
+     rut                            → 发情期                  源×1     译×1    
+     Eagle Ridge                    → 鹰岭                   源×1     译×1    
+     Bear Canyon                    → 熊谷                   源×4     译×4    
+     cowboy                         → 牛仔                   源×0     译×1     ★源0次(幽灵?)
+     rock rabbit                    → 石兔                   源×1     译×1    
+     fire madness                   → 纵火疯魔                 源×2     译×2    
+     forest-demons                  → 森林诸魔                 源×2     译×2    
+     forest gods                    → 森林诸神                 源×5     译×4    
+     Little Things                  → 小小之物                 源×2     译×1    
+     quirt                          → 短马鞭                  源×1     译×1    
+     Dark Canyon                    → 暗谷                   源×2     译×3    
+     Two Pines                      → 双松                   源×1     译×1    
+     Lost River                     → 失落河                  源×2     译×2    
+     Viking                         → 维京人                  源×1     译×1    
+     ranger station                 → 护林员站                 源×1     译×1    
+     bird dog                       → 猎鸟犬                  源×1     译×1    
+     Inferno                        → 地狱                   源×2     译×3    
+     backfire                       → 逆燃火                  源×1     译×1    
+     the lesser folk                → 卑下的族类                源×2     译×1     残留「细小的族类」×1
+     the lame child of Hamlin town  → 哈默尔恩镇的跛脚孩子           源×1     译×0     ★译0次(未落位?)
+     shepherd of my heart           → 我心上的牧人               源×1     译×1    
+

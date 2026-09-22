@@ -1,0 +1,65 @@
+## IX
+
+===Original===
+It was somewhere towards the end of autumn that Theodore Savage realized that the war had come to an end so far, at least, as his immediate England was concerned. What was happening elsewhere he and his immediate England had no means of knowing and were long past caring to know. There was no definite ending but a leaving-off, a slackening; the attacks the burnings and panics by degrees were fewer and not only fewer but less devastating, because carried out with smaller forces; there were days and nights without alarm, without smoke cloud or glow on the horizon. Then yet longer intervals and so on to complete cessation. By the time the nights had grown long and frosty the war that was organized and alien had ended; there remained only the daily, personal and barbaric form of war wherein every man's hand was raised against his neighbour and enemy. That warfare ceased not and could not cease until the human herd had reduced itself to the point at which the bare earth could support it.
+
+It seemed to him later a wonder almost a miracle that he had come alive through the months of war and after; at times he stood amazed that any had lived in the waste of hunger and violence, of pestilence and rotting bodies which for months was the world as he knew it. He was near death not once nor a score of times, but daily; death from exhaustion or the envy of men who were starved and reckless as himself. The mockery of peace brought no plenty or hope of it, no sign of reconstruction or dawn of new order; reconstruction and order were rank impossibilities so long as human creatures preyed on each other in a land swept bare, and prowled after the manner of wolves. No revival of common life, no system was possible until earth once more brought forth her fruits.
+
+He judged, by the length of the nights, that it was somewhere about the middle of November when the first snow came suddenly and thickly; the harbinger and onslaught of a fiercely hard winter that killed in their thousands the gaunt human beasts who tore at each other for the refuse and vermin that was food. In the all-pervading dearth and starvation there was only one form of animal life that increased and flourished mightily; the rat overran empty buildings, found dreadful sustenance in street and field and, in turn, was hunted, trapped and fed on.
+
+With the coming of winter the human remnant was perforce less vagrant and migratory, and Theodore, driven by weather to shelter, lived for weeks in what once had been a country town, a cluster of dead houses with, here and there, a silent factory. Only the buildings, the semblance of a township, remained; the befouled and neglected body whence the life of a community had fled; and he never knew what its living name had been or what was the manner of industry or commerce whereby it had supported its inhabitants. It lay in a flattish agricultural country and a railway had run through its outskirts; the rusted metals stretched north and south and the remnants of a station still existed platforms, charred buildings and trucks and locomotives in sidings. Perhaps the charred buildings had been burned in a fury of drunken and insane destruction, perhaps shivering destitution had set light to them for the sake of a few hours' warmth.
+
+===Chinese===
+大约在秋末的某个时候，西奥多·萨维奇（Theodore Savage）意识到战争已经结束了——至少，就他所在的英格兰而言是如此。其他地方发生了什么，他和他所在的英格兰既无从得知，也早已不愿知道。没有明确的终结，只是停止、松弛；攻击——焚烧与恐慌——逐渐减少，不仅数量减少，破坏力也减弱，因为实施攻击的兵力更小了；出现了没有警报、没有烟云或地平线上光芒的日夜。然后间隔越来越长……直到完全停止。当夜晚变得漫长而寒冷时，那场有组织的、外来的战争已经结束；留下的只是日常的、个人的、野蛮形式的战争，每个人的拳头都指向邻居和敌人。那种战争不会停止，也不可能停止——直到人类畜群缩减到贫瘠的大地所能供养的程度。
+
+后来他觉得这几乎是一个奇迹——他竟然在战争期间和之后活了下来；有时他惊异于竟然有人能在饥饿与暴力、瘟疫与腐烂尸体的废墟中存活数月，而这就是他所知的世界。他不是一次、也不是二十次濒临死亡，而是每天如此；死于力竭，或死于像他一样饥饿而鲁莽之人的嫉妒。和平的嘲弄没有带来丰饶或希望，没有重建或新秩序曙光的迹象；只要人类在被扫荡一空的土地上相互捕食，像狼一样游荡，重建和秩序就是绝对不可能的。除非大地再次结出果实，否则公共生活的复兴、任何制度都不可能出现。
+
+他根据夜晚的长度判断，大约在十一月中旬，第一场雪突然而厚重地降临；这预示着一个严酷寒冬的到来，它杀死了成千上万为争夺残羹和害虫般食物而相互撕扯的瘦骨嶙峋的人形野兽。在普遍的匮乏和饥饿中，只有一种动物形式大量繁殖并茁壮成长；老鼠充斥空荡的建筑，在街道和田野中找到可怕的食物来源，反过来也被猎杀、诱捕和食用。
+
+随着冬天的到来，人类残余被迫减少了流浪和迁徙，西奥多被天气驱赶到庇护所，在一个曾经是乡村小镇的地方住了数周，那里是一簇死寂的房屋，间或有一座寂静的工厂。只剩下建筑，一个小镇的空壳；被玷污和忽视的躯体，社区的生命早已逃离；他从不知道它曾经的名字是什么，也不知道它曾经以何种工业或商业方式养活居民。它坐落在一片平坦的农业区，一条铁路曾穿过其郊区；锈蚀的铁轨向南北延伸，车站的残迹依然存在——站台、烧焦的建筑、侧线上的货车和机车。也许烧焦的建筑是在醉酒和疯狂破坏的狂怒中被焚烧的，也许是颤抖的赤贫者为了几小时的温暖而点燃的。
+
+---
+
+===Original===
+The shell of the town its brickwork and stone was still practically intact; it was anarchy, pillage and starvation, not the violence of an enemy, that had reduced it to a city of the dead. The means of supporting life were absent, but certain forms of what had once been luxury remained and were counted as nothing. At a corner of the main street stood a jeweller's premises which, time and again, had been entered and ransacked; the dwelling-house behind it contained not so much as a fragment of dried crust but in the shop itself rings, brooches and pendants were still lying for any man to take disordered, scattered and trampled underfoot, because worthless to those who craved for bread. The only item of jeweller's stock that still had value to starving men was a watch if it furnished a burning-glass, a means of lighting a fire when other means were unavailable.
+
+Theodore lived through the winter as all his fellows lived destructively, on the legacy and remnant of other men's savings and makings; scraping and grubbing in other men's ground, burning furniture and woodwork, the product of other men's labours, and taking no thought for the morrow. At the beginning of winter some four or five score of human shadows, men and women, crept about the dead streets and the fields beyond them in their daily quest for the means to keep life in their bodies; but, as the weeks drew on and the winter hardened, starvation and the sickness born of starvation reduced their numbers by a half. Those lived best who were most skilful at the trapping of vermin; and they had long been existing on little but rat-flesh, when some hunters of rats, on the track of their prey, discovered a treasure beyond price a godsend in the shape of sacks of grain in the cellar of an empty brewery.
+
+The discovery meant more than a supply of food and the staving-off of death by starvation; with the possession of resources that, with care, might last for weeks there came into being a common interest, the fellowship that makes a social system. After the first wild struggle the rush to fill their hands and cram their gnawing stomachs the shadows and skeletons of men controlled their instincts and took counsel; the fact that their stomachs were full and their craving satisfied gave back to them the power of construction, of forethought and restraint; they ceased to be instinctively inimical and wholly animal and took common measures for the preservation and rationing of their heaven-sent windfall. They advised, consulted, heard opinion and gave it, were reasonable; counted their numbers in relation to the size of their hoard; and in the end decided, by common consent, on the amount of the daily portion which was to be allotted to each in return for his share in the duty of guarding it against the cravings of their own hunger as well as against the inroads of rats and mice. With food with property they were human again; capable of plans for the morrow, of concerted and intelligent action. The enmity they had hitherto felt against each other was suddenly transferred to the stranger the foreigner who might force his way in and acquire a share in their treasure. Hence they took precautions against the arrival of the stranger, kept watch and ward on the outskirts of the town and drove away the chance newcomer, so that the knowledge of their good fortune should not spread. With duties shared, the dead sense of comradeship revived; they began to recognize and greet each other as they came for their daily portion. And if some were restrained only by the common watchfulness from appropriating more than their share of the common stock, there were others in whom stirred the sense of honour.
+
+For a week or more they lived under the beginnings of a social system which was rendered possible by their certainty of a daily mess; and then came what, perhaps, was inevitable discovery of pilfering from the store that gave life to them all. The pilferers, detected by the night guard, fled on the instant, well knowing that their sin against the very existence of the little community was a sin beyond hope of forgiveness; they eluded pursuit in the darkness and by morning had vanished from the neighbourhood. For the time only; since they took with them the knowledge of the hoarded grain they had forfeited a knowledge which was power and a weapon to themselves, a danger to those they had fled from. Two days later, after nightfall, a skeleton rabble, armed with knives, clubs and stones, was led into the town by the renegades; and there was fought out a fierce, elementary battle, a struggle of starved men for the prize of life itself. From the first the case of the defenders was hopeless; outnumbered and taken by surprise, they were beaten in detail, overwhelmed and in less than five minutes the survivors were flying for their lives, the darkness their only hope of safety.
+
+===Chinese===
+小镇的外壳——砖石结构——实际上仍然完好无损；是无政府、掠夺和饥饿，而非敌人的暴力，将其变成了死城。维持生命的手段已经消失，但某些曾经的奢侈形式仍然存在，却被视作无物。在主街的一角，有一家珠宝店，一次又一次地被闯入和洗劫；后面的住宅里连一块干面包皮都没有，但店铺本身，戒指、胸针和吊坠仍然躺在那里，供任何人取走——凌乱、散落、被践踏在脚下，因为对渴望面包的人来说一文不值。珠宝店库存中唯一对饥饿者仍有价值的物品是一块手表——如果它能提供一个凸透镜，一种在其他手段不可用时点燃火焰的方式。
+
+西奥多熬过了冬天——像他所有的同伴一样——以破坏性的方式，靠他人积蓄和劳作的遗产与残余过活；在别人的土地上刮挖，在别人的劳动成果——家具和木制品——上燃烧，不考虑明天。冬初，大约四五十个男女的影子，每天在死寂的街道和远处的田野中爬行，寻找维系生命的手段；但随着一周周过去，冬天变得严酷，饥饿和饥饿带来的疾病使他们的人数减少了一半。那些最擅长诱捕害虫的人活得最好；他们长期以鼠肉为食，直到一些追踪猎物的捕鼠者发现了一笔无价之宝——天赐之物——在一个空酿酒厂的地窖里，成袋的谷物。
+
+这一发现不仅仅意味着食物供应和暂缓饿死；拥有可以小心维持数周的资源后，一种共同利益产生了，那种构成社会制度的同志情谊。在最初的疯狂争抢——填满双手和塞满饥饿的胃——之后，这些人的影子和骷髅控制了本能，开始商议；胃已填满、渴望已满足的事实，赋予了他们建设、预见和克制的能力；他们不再本能地敌对和完全兽性，采取共同措施保存和配给这份天降的恩赐。他们建议、协商、听取意见并发表意见，变得理性；根据囤积的大小清点人数；最终共同决定每日配额的数量，以换取每个人在守卫职责中——对抗自己饥饿的渴望以及老鼠的侵入——的份额。有了食物——有了财产——他们重新成为了人；能够为明天制定计划，能够协调而明智地行动。他们此前感受到的对彼此的敌意突然转移到了可能强行闯入并分享他们宝藏的陌生人——外国人——身上。因此他们采取预防措施防止陌生人到来，在城镇外围警戒，赶走偶然的来访者，以免他们好运的消息传开。随着职责的分担，死去的同志情谊复苏了；他们开始在领取每日口粮时互相认出和问候。如果说有些人仅仅因为共同的警戒才没有挪用超过自己份额的共同储备，那么另一些人则被荣誉感所唤醒。
+
+一个多星期，他们生活在一种社会制度的雏形之下，这种制度因他们对每日口粮的确信而成为可能；然后发生了也许不可避免的事情——从维持他们生命的仓库中偷窃被发现。偷窃者被夜间警卫发现后立刻逃跑了，深知他们对这个小小社区存在的背叛是不可饶恕的罪过；他们在黑暗中逃脱了追捕，到早上已从附近消失。只是暂时的；因为他们带走了他们所背叛的囤积谷物的知识——这种知识对他们自己来说是力量和武器，对他们逃离的人来说是危险。两天后，夜幕降临后，一群骨瘦如柴的暴民，手持刀、棍棒和石头，被叛徒带进了小镇；一场激烈而原始的战斗展开了，饥饿的人们为生命本身的奖赏而搏斗。从一开始，防御者的处境就毫无希望；人数处于劣势且措手不及，他们被各个击破，被压倒——不到五分钟，幸存者就为保命而逃窜，黑暗是他们安全的唯一希望。
+
+---
+
+===Original===
+Theodore Savage was of the remnant who owed their lives to darkness and the speed with which they fled. As he neared the outskirts of the town and slackened, exhausted, to draw breath, he heard the patter of running steps behind him and for a moment believed himself pursued till a passing burst of moonlight showed the runner as a woman, like himself seeking safety in flight. A young woman, with a sobbing open mouth, who clutched at his arm and besought him not to leave her to be killed to save her, to get her away! He knew her by sight as he knew all the members of the destitute little community a girl with a face once plump, now hollowed, whom he had seen daily when she came, in stupid wretchedness, to hold out her bowl for her share of the common ration; one of a squalid company of three or four women who herded together and whose habit of instinctive fellowship was broken by the sudden onslaught which had driven them apart in flight.
+
+"I don't know where they've all gone," she wailed. "Don't leave me for Gawd's saike don't leave me. Ow, whatever shall I do? I dunno where to go for Gawd's sake."
+
+He would gladly have been rid of her lamenting helplessness but she clung to him in a panic that would not be gainsaid, as fearful almost of the lonely dark ahead as of the bloody brawl she had fled from.
+
+"Hold your tongue," he ordered as he pulled her along. "Don't make that noise or they'll hear us. And keep close to me keep in the shadow."
+
+She obeyed and stilled her sobbing to gasps and whimpers holding tightly to his arm while he hurried her through by-streets to the open country. He knew no more than she where they were going when they left the silent outskirts of the town behind them, and, pressing against each other for warmth, bent their heads to a January wind.
+
+===Chinese===
+西奥多·萨维奇是那些因黑暗和逃亡速度而保住性命的幸存者之一。当他接近城镇边缘，筋疲力尽地放慢脚步喘息时，他听到身后有奔跑的脚步声，一度以为自己被追赶——直到一束月光照亮了奔跑者，是一个女人，和他一样在逃亡中寻求安全。一个年轻女人，张着哭泣的嘴，抓住他的手臂，恳求他不要丢下她被杀——救救她，带她离开！他认得她，就像他认得这个赤贫小社区的所有成员一样——一个曾经圆润、如今凹陷的女孩，他每天都能看到她愚蠢而悲惨地伸出手碗领取她的公共配给份额；她是三四个聚在一起的肮脏女人之一——她们本能的同志情谊习惯被突如其来的袭击打破，使她们在逃亡中分散。
+
+"我不知道他们都去哪儿了，"她哀号道。"别丢下我——看在上帝的份上别丢下我。噢，我该怎么办？我不知道该去哪儿——看在上帝的份上。"
+
+他本想摆脱她哀号的无助，但她惊恐地抓住他不放，那惊恐不容否认，她几乎和逃离血腥斗殴一样害怕前方孤独的黑暗。
+
+"闭嘴，"他一边拉她走一边命令道。"别发出那种声音，否则他们会听到我们。紧跟着我——躲在阴影里。"
+
+她服从了，将哭泣止息为喘息和呜咽——紧紧抓住他的手臂，而他则带着她穿过小巷来到空旷的乡间。当他们离开城镇寂静的郊区时，他和她一样不知道要去哪里，他们互相依偎取暖，低头迎着一月的寒风。
+
+---

@@ -1,0 +1,11 @@
+## To the Same
+
+Dead, why defend thee, who in life
+For thy worst foe hadst died;
+Who, thy own name a word of strife,
+Didst silent stand aside?
+
+Grand in forgiveness, what to thee
+The big world’s puny prate!
+Or thy great heart hath ceased to be
+Or loveth still its mate!

@@ -1,0 +1,1 @@
+I could have made short work, and landed at Hull: but I would not: I was so afraid. For I was used to the silence of the ice: and I was used to the silence of the sea: but I was afraid of the silence of England.

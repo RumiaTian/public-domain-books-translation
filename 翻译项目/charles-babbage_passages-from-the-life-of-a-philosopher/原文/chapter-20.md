@@ -1,0 +1,119 @@
+## XX
+
+Theatrical Experience
+
+The Philosopher in a Tableau at the Feet of Beauty﻿—Tableau encored﻿—Philosopher at the Opera of *Don Juan*﻿—Visits the Waterworks above and the dark expanse below the Stage﻿—Seized by two Devils on their way up to fetch Juan﻿—Cheated the Devils by springing off to a beam at an infinite distance, just as his head appeared to the Audience through the trapdoor﻿—The Philosopher writes a Ballet﻿—Its rehearsal﻿—Its high moral tone﻿—Its rejection on the ground of the probable combustion of the Opera-house.
+
+I was never particularly devoted to theatrical representations. Tragedy I disliked, and comedy, which I enjoyed, frequently excited my feelings more than the dignity of the philosophic character sanctioned. In fact, I could not stand the reconciliation scenes.
+
+I did, however, occasionally, in one or two rare instances, *assist* in a tableau. I still remember my delight when personating a dead body, with my head towards the audience, I lay motionless at the feet of three angels, entranced by their beauty, and whose charms still fascinate my imagination, and still retain their wonted power over my own sex.
+
+We enacted the scene so admirably that our performance was twice encored. But though thus “thrice slain,” the near proximity of beauty speedily revived the *caput mortuum* at its feet.
+
+On one occasion having joined a party of friends in their box at the opera of *Don Juan*, I escaped, by half a second, a marvellous adventure. Somewhat fatigued with the opera, I went behind the scenes to look at the mechanism. One of the scene-shifters of whom I had made an inquiry, found out that I, like himself, was a workman. He immediately offered to take me all over the theatre, and show me every part.
+
+We ascended to the roof to examine the ventilation, by which, if stopped, the spectators, in case of accident or of a row, might be suffocated. Also, the vast water-tanks by which, in case of fire, they might be drowned. After long rambling and descending endless steps, I found myself in a vast dark and apparently boundless area; the flat wooden roof high above my head was supported by upright timbers, some having intermediate stages like large dissecting-tables. Here and there three lamps, rivalling rushlights, made the obscurity more visible, and the carpentry more incomprehensible.
+
+Suddenly a little bell rang﻿—the signal for my scene-shifting friend to take his post. He pointed to one of the dismal imitations of a rushlight, and said: “You see that light; on its left is a door, go through that, and straight on until you arrive at daylight.” Instantly my friend became invisible in the surrounding gloom.
+
+My first step when thus suddenly abandoned, was to mount on a large oblong platform about six feet above the floor. Here I was philosophically contemplating the surrounding obscure vacuity, in order that I might fully “comprehend the situation.”
+
+Suddenly a flash of lightning occurred. On looking up, high above my head I saw an opening as large as the platform on which I stood. All there was brightness. Whilst I was admiring this new light, and seeking my way to the upper and outer world, two devils with long forked tails jumped upon the platform, one at each end.
+
+“What do you do here?” said Devil No. 1.
+
+Before I could invent a decent excuse, Devil No. 2 exclaimed:
+
+“You must not come with us.”
+
+This was consolatory and reassuring, so I replied﻿—
+
+“Heaven forbid.”
+
+During this colloquy, the table, the philosopher, and the devils, were all slowly moving upward to the open trapdoor of the stage above. Seeing a beam some feet higher at a moderate distance, I inquired whether it was fixed and would bear my weight? “Yes,” said Devil No. 1.
+
+“But you cannot reach it at a jump,” added Devil No. 2.
+
+“Trust that to me,” said I, “to get out of your clutches.”
+
+We had now reached the level of the desired beam, though not near enough for a jump. However, still ascending, we passed it: then stooping my head and bending my body to avoid the floor of the stage, which we were fast approaching, I sprang down on the beam of refuge. My two missionary companions continued their course to the world above in order to convey the wicked Juan to the realms below. My transit through the dark, subterranean abyss to my own world above was rapid. I soon rejoined my companions, who congratulated me on what they represented as my “undeserved escape:” kindly hoping that I might be equally fortunate upon some future occasion.
+
+Presence of mind frequently arises from having previously considered a variety of possible events. I had never contemplated such a situation, and have often asked myself and others what should have been my conduct, in case I had not escaped from my satanic companions; but no satisfactory conclusion has yet presented itself.
+
+During one season, I had a stall at the German Opera. One evening, in the cloister scene by moonlight, in the convent, I observed that the white bonnet of my companion had a pink tint: so also had the paper of our books and every white object around us.
+
+This contrast of colour suggested to me the direct use of coloured lights. The progress of science in producing intense lights by the oxy-hydrogen blowpipe, and by electricity under its various forms, enabled me to carry out the idea of producing coloured lights for theatrical representations. I made many experiments by filling cells formed by pieces of parallel plate glass with solutions of various salts of chrome of copper, and of other substances.
+
+The effects were superb. I then devised a dance, in which they might be splendidly exhibited. This was called the rainbow dance. I proposed to abolish the footlights, and instead of them to substitute four urns with flowers. These urns would each conceal from the audience an intense light of one of the following colours: blue, yellow, red, or any others which might be preferable.
+
+The rays of light would be projected from the vases towards the stage, and would form four cones of red, blue, yellow, and purple light passing to its further end.
+
+Four groups, each of fifteen danseuses in pure white, would now enter on the stage. Each group would assume the colour of the light in which it was placed. Thus four dances each of a different colour would commence. Occasionally, a damsel from a group of one colour would spring into another group, thus resembling a shooting star.
+
+After a time, the coloured lights would expand laterally and overlap each other, thus producing all the colours of the rainbow. In the meantime the sixty damsels in pure white forming one vast ellipse, would dance round, each in turn assuming, as it passed through them, all the prismatic colours.
+
+I had mentioned these experiments and ideas to a few of my friends, one of whom spoke of it to Mr. Lumley, the lessee of the Italian Opera House. He thought it promised well, and ultimately I made a series of experiments in the great concert-room.
+
+Ropes were stretched across the room, on which were hung in innumerable forms large sheets of patent net. The various folds and bendings displayed the lights under endless modifications. Some brilliant greens, some fiery reds, blues of the brightest hue. Another of these was an almost perfect resemblance of the dead purple powdery coating of the finest grapes.
+
+Things being thus prepared, I had a consultation with the eminent *chef-de-ballet* as to the kind of dance and the nature of the steps to be adapted to these gorgeous colours. Thus having invented the “Rainbow Dance” I became still more ambitious, and even thought of writing a story to introduce it, and to give it a moral character. Hence arose the beautiful ballet of “Alethes and Iris.”
+
+Alethes, a priest of the Sun, surrounded by every luxury that earth can lay at the feet of its god, feels, like all before him, that the most glorious life is sad without a companion to sympathize with his feelings and share in his enjoyments. He makes, therefore, a magnificent sacrifice to the god of this visible creation, and prays for the gratification of his solitary desire.
+
+Apart from all the inferior orders of his class, in the midst of clouds of incense, the high priest himself becomes entranced.
+
+He beholds in a vision a distant and lonely spot of bright light. Advancing towards him, it assumes a circular form, having a small yellow centre surrounded by a deep blue confined within a brilliant red circle.
+
+Retaining its shape, but slowly enlarging in size, it becomes a circular rainbow, out of which emerges a form of beauty more resplendent than mortal eyes might bear. Approaching the Book of Fate, which lies closed upon a golden pedestal in this the deepest and most sacred portion of the Temple of the Sun, she opens it and inscribes in purple symbols these mystic signs.
+
+· · · · · · · ·
+
+				· · · · · · ·
+
+				· · · · · · · ·
+
+				· · · · · · ·
+
+Then waving her graceful arm over the entranced high priest, she reenters the aerial circle: it closes and retires.
+
+Alethes, recovering from the magic spells his powerful art had wrought, rushes to the Book of Fate, opens, and reads the revelation it unfolds.
+
+Through ocean’s depths to southern ice-fields roam,
+					
+
+					Through solid strata seek earth’s central fire,
+					
+
+					Cull from each wondrous field, each distant home,
+					
+
+					An offering meet for her thy soul’s desire.
+
+This gives rise to a series of moving and most instructive dioramas, in which the travels of Alethes are depicted.
+
+- 
+					
+
+A representation of all the inhabitants of the ocean, comprising big fishes, lobsters, and various crustacea, mollusca, coralines, etc.
+
+- 
+					
+
+A view of the antarctic regions﻿—a continent of ice with an active volcano and a river of boiling water, supplied by geysers cutting their way through cliffs of blue ice.
+
+- 
+					
+
+A diorama representing the animals whose various remains are contained in each successive layer of the earth’s crust. In the lower portions symptoms of increasing heat show themselves until the centre is reached, which contains a liquid transparent sea, consisting of some fluid at a white heat, which, however, is filled up with little infinitesimal eels, all of one sort, wriggling eternally.
+
+This would have produced a magnificent spectacle considered merely as a show, but the moralist might, if he pleased, have discovered in it a profound philosophy.
+
+The ennui and lassitude felt by the priest of the Sun arose from the want of occupation for his powerful mind. The remedy proposed in the ballet was﻿—look into all the works of creation.
+
+The central ocean of frying eels was added to assist the teaching of those ministers who prefer the doctrine of the eternity of bodily torments.39
+
+The night proposed for the experiment of the dance at length arrived. Two fire-engines duly prepared were placed on the stage under the care of a portion of the fire brigade.
+
+About a dozen danseuses in their white dresses danced and attitudinized in the rays of powerful oxy-hydrogen blowpipes. The various brilliant hues of coloured light had an admirable effect on the lovely fireflies, especially as they flitted across from one region of coloured light to another.
+
+A few days after I called on Mr. Lumley, to inquire what conclusion he had arrived at. He expressed great admiration at the brilliancy of the colours and the effect of the Rainbow Dance, but much feared the danger of fire. I tried to reassure him; and to show that I apprehended no danger from fire, added, that I should myself be present every night. Mr. Lumley remarked that if the house were burnt his customers would also be burnt with it. This certainly was a valid objection, for though he could have insured the building, he could not have insured his audience.

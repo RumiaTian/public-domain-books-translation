@@ -1,0 +1,74 @@
+## V Brother and Sister
+The verger on guard at the west door had quietly dropped to sleep. He did not wake apparently when Jongejuffrouw Beresteyn slipped past him and out through the door.
+Beresteyn followed close on his sister’s heels. He touched her shoulder just as she stood outside the portal, wrapping her fur cloak more snugly over her shoulders and looking round her, anxious where to find her servants.
+“ ’Tis late for you to be out this night, Gilda,” he said, “and alone.”
+“I am only alone for the moment,” she replied quietly. “Maria and Jakob and Piet are waiting for me at the north door. I did not know it would be closed.”
+“But why are you so late?”
+“I stayed in church after the service.”
+“But why?” he insisted more impatiently.
+“I could not pray during service,” she said. “My thoughts wandered. I wanted to be alone for a few moments with God.”
+“Did you not know then that you were not alone?”
+“No. Not at first.”
+“But﻿ ﻿… afterwards﻿ ﻿… ?”
+“Your voice, Nicolaes, struck on my ear. I did not want to hear. I wanted to pray.”
+“Yet you listened?”
+“No. I did not wish to listen.”
+“But you heard?”
+She gave no actual reply, but he could see her profile straight and white, the curved lips firmly pressed together, the brow slightly puckered, and from the expression of her face and of her whole attitude, he knew that she had heard.
+He drew in his breath, like one who has received a blow and has not yet realized how deeply it would hurt. His right hand which was resting on his hip tore at the cloth of his doublet, else mayhap it would already have wandered to the hilt of his sword.
+He had expected it of course. Already when he saw Gilda gliding out of the shadows with that awed, tense expression on her face, he knew that she must have heard﻿ ﻿… something at least﻿ ﻿… something that had horrified her to the soul.
+But now of course there was no longer any room for doubt. She had heard everything and the question was what that knowledge, lodged in her brain, might mean to him and to his friends.
+Just for a moment the frozen, misty atmosphere took on a reddish hue, his tongue clove to the roof of his mouth, a cold sweat broke out upon his forehead.
+He looked around him furtively, fearfully, wondering whence came that hideous, insinuating whisper which was freezing the marrow in his bones. No doubt that had she spoken then, had she reproached or adjured, he would have found it impossible to regain mastery over himself. But she looked so unimpassioned, so still, so detached, that self-control came back to him, and for the moment she was safe.
+“Will you tell me what you did hear?” he asked after awhile, with seeming calm, though he felt as if his words must choke him, and her answer strike him dead.
+“I heard,” she said, speaking very slowly and very quietly, “that the Lord of Stoutenburg has returned, and is trying to drag you and others into iniquity to further his own ambitious schemes.”
+“You wrong him there, Gilda. The Lord of Stoutenburg has certain wrongs to avenge which cry aloud to Heaven.”
+“We will not argue about that, Nicolaes,” she said coldly. “Murder is hideous, call it what you will. The brand of Cain doth defame a man and carries its curse with it. No man can justify so dastardly a crime. ’Tis sophistry to suggest it.”
+“Then in sending Barneveld to the scaffold did the Prince of Orange call that curse upon himself, a curse which﻿—please the God of vengeance!﻿—will come home to him now at last.”
+“ ’Tis not for you, Nicolaes, to condemn him, who has heaped favours, kindness, bounties upon our father and upon us. ’Tis not for you, the Stadtholder’s debtor for everything you are, for everything that you possess, ’tis not for you to avenge Barneveld’s wrongs.”
+“ ’Tis not for you, my sister,” he retorted hotly, “to preach to me your elder brother. I alone am responsible for mine actions, and have no account to give to anyone.”
+“You owe an account of your actions to your father and to me, Nicolaes, since your dishonour will fall upon us too.”
+“Take care, Gilda, take care!” he exclaimed hoarsely, “you speak of things which are beyond your ken, but in speaking them you presume on my forebearance﻿ ﻿… and on your sex.”
+“There is no one in sight,” she said calmly, “you may strike me without fear. One crime more or less on your conscience will soon cease to trouble you.”
+“Gilda!” he cried with sudden passionate reproach.
+At this involuntary cry﻿—in which the expression of latent affection for her struggled with that of his rage and of his burning anxiety﻿—all her own tender feelings for him, her womanliness, her motherly instincts were reawakened in an instant. They had only been dormant for awhile, because of her horror of what she had heard. And that horror of a monstrous deed, that sense of shame that he﻿—her brother﻿—should be so ready to acquiesce in a crime had momentarily silenced the call of sisterly love. But this love once reawakened was strong enough to do battle in her heart on his behalf: the tense rigidity of her attitude relaxed, her mouth softened, her eyes filled with tears. The next moment she had turned fully to him and was looking pleadingly into his face.
+“Little brother,” she murmured gently, “tell me that it is not true. That it was all a hideous dream.”
+He looked down on her for a moment. It pleased him to think that her affection for him was still there, that at any rate his personal safety might prove a potent argument against the slightest thought of indiscretion on her part. She tried to read his thoughts, but everything was dark around them both, the outline of his brow and mouth alone stood clearly out from the gloom: the expression of his eyes she could not fathom. But womanlike she was ready to believe that he would relent. It is so difficult for a woman to imagine that one whom she loves is really prone to evil. She loved this brother dearly, and did not grasp the fact that he had reached a point in his life when a woman’s pleading had not the power to turn him from his purpose. She did not know how deeply he had plunged into the slough of conspiracy, and that the excitement of it had fired his blood to the exclusion of righteousness and of loyalty. She hoped﻿—in the simplicity of her heart﻿—that he was only misled, that evil counsels had only temporarily prevailed. Like a true woman she still saw the child in this brother who had grown to manhood by her side.
+Therefore she appealed and she pleaded, she murmured tender words and made fond suggestions, all the while that his heart was hard to everything except to the one purpose which she was trying to thwart.
+Not unkindly but quite firmly he detached her clinging arms from round his neck.
+“Let us call it a dream, little sister,” he said firmly, “and do you try and forget it.”
+“That I cannot, Nicolaes,” she replied, “unless you will promise me.﻿ ﻿…”
+“To betray my friends?” he sneered.
+“I would not ask you to do that: but you can draw back﻿ ﻿… it is not too late.﻿ ﻿… For our father’s sake, and for mine, Nicolaes,” she pleaded once more earnestly. “Oh think, little brother, think! It cannot be that you could countenance such a hideous crime, you who were always so loyal and so brave! I remember when you were quite a tiny boy what contempt you had for little Jakob Steyn because he told lies, and how you thrashed Frans van Overstein because he ill-treated a dog.﻿ ﻿… Little brother, when our father was ruined, penniless, after that awful siege of Haarlem, which is still a hideous memory to him, the Prince of Orange helped him with friendship and money to reestablish his commerce, he stood by him loyally, constantly, until more prosperous days dawned upon our house. Little brother, you have oft heard our father tell the tale, think﻿ ﻿… oh, think of the blow you would be dealing him if you lent a hand to conspiracy against the Prince. Little brother, for our father’s sake, for mine, do not let yourself be dragged into the toils of that treacherous Stoutenburg.”
+“You call him treacherous now, but you loved him once.”
+“It is because I loved him once,” she rejoined earnestly, “that I call him treacherous now.”
+He made no comment on this, for he knew in his heart of hearts that what she said was true. He knew nothing of course of the events of that night in the early spring of the year when Gilda had sheltered and comforted the man who had so basely betrayed her; but for her ministration to him then, when exhausted and half-starved he sought shelter under her roof, in her very room﻿—he would not have lived for this further plotting and this further infamy, nor yet to drag her brother down with him into the abyss of his own disgrace.
+Of this nocturnal visit Gilda had never spoken to anyone, not even to Nicolaes who she knew was Stoutenburg’s friend, least of all to her father, whose wrath would have fallen heavily on her had he known that she had harboured a traitor in his house.
+“Stoutenburg lied to me, Nicolaes,” she now said, seeing that still her brother remained silent and morose, “he lied to me when he stole my love, only to cast it away from him as soon as ambition called him from my side. And as he lied then, so will he lie to you, little brother, he will steal your allegiance, use you for his own ends and cast you ruthlessly from him if he find you no longer useful. Yes, I did love him once,” she continued earnestly, “when he thought of staining his hands with murder my love finally turned to contempt. This new infamy which he plots hath filled the measure of my hate. Turn from him, little brother, I do entreat you with my whole soul. He has been false to his God, false to his prince, false to me! he will be false to you!”
+“It is too late, Gilda,” he retorted sombrely, “even if I were so minded, which please God! I am not.”
+“It is never too late to draw back from such an abyss of shame.”
+“Be silent, girl,” he said more roughly, angered that he was making no headway against her obstinacy. “God-*verdomme*! but I am a fool indeed to stand and parley here with you, when grave affairs wait upon my time. You talk at random and of things you do not understand: I had no mind to argue this matter out with you.”
+“I do not detain you, Nicolaes,” she said simply, with a sigh of bitter disappointment. “If you will but call Maria and the men who wait at the north door, I can easily relieve you of my presence.”
+“Yes, and you can go home to your pots and pans, to your sewing and your linen-chest, and remember to hold your tongue, as a woman should do, for if you breathe of what you have heard, if you betray Stoutenburg who is my friend, it is me﻿—your only brother﻿—whom you will be sending to the scaffold.”
+“I would not betray you, Nicolaes,” she said.
+“Or any of my friends?”
+“Or any of your friends.”
+“You swear it?” he urged.
+“There is no need for an oath.”
+“Yes, there is a pressing need for an oath, Gilda,” he retorted sternly. “My friends expect it of you, and you must pledge yourself to them, to forget all that you heard tonight and never to breathe of it to any living soul.”
+“I cannot swear,” she replied, “to forget that which my memory will retain in spite of my will: nor would I wish to forget, because I mean to exert all the power I possess to dissuade you from this abominable crime, and because I mean to pray to God with all my might that He may prevent the crime from being committed.”
+“You may pray as much as you like,” he said roughly, “but I’ll not have you breathe a word of it to any living soul.”
+“My father has the right to know of the disgrace that threatens him.”
+“You would not tell him?” he exclaimed hoarsely.
+“Not unless.﻿ ﻿…”
+“Unless what?”
+“I cannot say. ’Tis all in God’s hands and I do not know yet what my duty is. As you say I am only a woman, and my place is with my pots and pans, my sewing and my spindle. I have no right to have thoughts of mine own. Perhaps you are right, and in that case my father must indeed be the one to act. But this I do swear to you, Nicolaes, that before you stain your hand with the blood of one who, besides being your sovereign lord, is your father’s benefactor and friend, I will implore God above, that my father and I may both die ere we see you and ourselves so disgraced.”
+Before he could detain her by word or gesture she had slipped past him and turned to walk quickly toward the façade of the cathedral. An outstanding piece of masonry soon hid her from his view. For the moment he had thoughts of following her. Nicolaes Beresteyn was not a man who liked being thwarted, least of all by a woman, and there was a sense of insecurity for him in what she had said at the last. His life and that of his friends lay in the hands of that young girl who had spoken some very hard words to him just now. He loved her as a brother should, and would not for his very life have seen her in any danger, but he had all a man’s desire for mastery and hatred of dependence: she had angered and defied him, and yet remained in a sense his master.
+He and his friends were dependent on her whim﻿—he would not call it loyalty or sense of duty to be done﻿—it was her whim that would hold the threads of a conspiracy which he firmly believed had the welfare of Holland and of religion for its object, and it was her whim that would hold the threat of the scaffold over himself and Stoutenburg and the others. The situation was intolerable.
+He ground his heel upon the stone and muttered an oath under his breath. If only Gilda had been a man how simple would his course of action have been. A man can be coerced by physical means, but a woman﻿ ﻿… and that woman his own sister!
+It was hard for Nicolaes Beresteyn, to have to think the situation out calmly, dispassionately, to procrastinate, to let the matter rest at any rate until the next day. But this he knew that he must do. He felt that he had exhausted all the arguments, all the reasonings that were consistent with his own pride; and how could he hope to coerce her into oaths or promises of submission here in the open street and with Maria and Jakob and Piet close by﻿—eavesdropping mayhap?
+Gilda was obstinate and had always been allowed more latitude in the way of thinking things out for herself than was good for any woman; but Nicolaes knew that she would not take any momentous step in a hurry. She would turn the whole of the circumstances over in her mind and as she said do some praying too. What she would do afterwards he dared not even conjecture.
+For the moment he was forced to leave her alone, and primarily he decided to let his friends know at once how the matter stood.
+He found them waiting anxiously for his return. I doubt if they had spoken much during his absence. A chorus of laconic inquiry greeted him as soon as his firm step rang out upon the flagstones.
+“Well?”
+“She has heard everything,” he said quietly, “but, she will not betray us. To this I pledge ye my word.”

@@ -1,0 +1,5 @@
+## Letter
+ LXXI Evelina in Continuation
+Clifton, October 1st.
+I have only time, my dearest Sir, for three words, to overtake my last letter, and prevent your expecting me immediately; for, when I communicated my intention to Mrs. Selwyn, she would not hear of it, and declared it would be highly ridiculous for me to go before I received an answer to my intelligence concerning the journey from Paris. She has, therefore, insisted upon my waiting till your next letter arrives. I hope you will not be displeased at my compliance, though it is rather against my own judgment: but Mrs. Selwyn quite overpowered me with the force of her arguments. I will, however, see very little of Lord Orville; I will never come downstairs before breakfast; give up all my walks in the garden; seat myself next to Mrs. Selwyn; and not merely avoid his conversation, but shun his presence. I will exert all the prudence and all the resolution in my power, to prevent this short delay from giving you any further uneasiness.
+Adieu, my dearest Sir. I shall not now leave Clifton till I have your directions.

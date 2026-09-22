@@ -1,0 +1,6 @@
+## A Birthday-Wish
+
+Who know thee, love: thy life be such
+That, ere the year be o’er,
+Each one who loves thee now so much,
+Even God, may love thee more!

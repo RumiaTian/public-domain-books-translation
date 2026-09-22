@@ -1,0 +1,61 @@
+## XXX 7:11 a.m.﻿—The Criminal and Weapon of the Crime
+Lieutenant Valcour was once more in his shoes. Even in their laceless condition they restored his confidence in the relative fitness of things.
+Mrs. Endicott preceded him down two flights of stairs and to the door of her husband’s room, which Lieutenant Valcour opened. He looked inside and saw Cassidy sound asleep, seated on the large mahogany chest by the window. And he did not blame Cassidy so much as he envied him.
+“Cassidy.”
+Cassidy’s sharp return to consciousness would have reflected credit upon the hero of any Western drama.
+“Sir?”
+“Put your gun back, Cassidy.”
+“Yes, Lieutenant. I must have dropped off for a cat nap.”
+“We can discuss that later. I want you to take Mrs. Endicott down to the entrance hall with you and leave her there in charge of O’Brian. She is under arrest.”
+“Yes, sir.”
+“After that, warn the men on the servants’ entrance and garden door to keep on their toes. If anyone tries to get past them on any pretext whatever they are to stop him. Look up Hansen﻿—he may still be in the backyard﻿—and then both of you come back here. We will then search the house.”
+“Yes, sir.”
+Lieutenant Valcour went into Endicott’s room and closed the door. It was getting to be a mechanical action with him that caused him to go to the desk and sit down. The perfumed sheet of notepaper, which he had twice been prevented through interruptions from reading, caught his attention at once. He read the letter through.
+
+> I don’t believe you [it began, without any preliminaries], and right from the start I tell you I think you are a liar and a louse. Harry never wrote your wife no such thing, and even if he did it proves nothing anyway. Nobody can prove a *thing*. You think it is funny to scare me and if you do it any more I am going to show you just how damn funny it is. I am through with you just the same way that your wife is through with you and you are a nasty rat.
+> Marge.
+
+Not really, Lieutenant Valcour decided, an essentially nice person. He folded the letter and put it in his pocket to keep company with the postscript forged by Mrs. Endicott. It would serve ably in establishing a motive and help the prosecuting attorney to clinch the case. Just as soon, he added unhappily, as he had unearthed the criminal and the weapon of the crime. That criminal, he repeated softly to himself, who with her weapon was still at large about the house, unless his theory of the case was basically wrong.
+And therein lay the danger, the source of that curious presentiment of impending menace which had gripped him at odd intervals throughout the night. Strange that it should possess him most strongly in this silent room. But wasn’t that just the association of ideas? Endicott, dead on the bed over there, and the path of that death-dealing bullet cutting through that corner over by the other window. He sought relief from a return of it by a mental mopping up. It didn’t do to linger on presentiments.﻿ ﻿…
+There were those few little side issues to think about; issues that had puzzled him, but which did not bear any direct reference to the main theme. He felt that they were explainable without any further personal investigation.
+It seemed obvious to him, for example, that the reason why Mrs. Siddons had gone downstairs with her bonnet on, when the sight of O’Brian by the front door had turned her back, was a desire on her part to get in touch with Maizie’s sailor husband and warn him that the crime she thought he had committed had been discovered and that the police were in the house. She had told Mrs. Endicott that she believed that she had seen him loitering about the street during the afternoon. And Mrs. Siddons would never have questioned her own ability to walk right out and find him because, if it so desired, Providence would have prearranged a suitable rendezvous.
+… They came from that corner, really: those definitely significant waves of warning, as insistent as the scent that had led him to find the letter from Marge Myles in the desk. But they weren’t a scent, nor were they anything so definite as a letter. They were (the astonishing thought thrilled him disagreeably) *Marge Myles*﻿—her personality﻿—herself﻿—inimical.﻿ ﻿… Nonsense, nonsense﻿—the room was empty.﻿ ﻿…
+He forced himself to think of the two little bewilderments that had troubled him in connection with the thoroughly bewildering Roberts. That pregnant look she had given him﻿—what had it really meant, more or less, than an intense urge on her part to erase any spell of fascination which Mrs. Endicott might have cast upon him, and to plant in its place the seeds of suspicion of Roberts’s own sowing. It had been nothing more, really, than that.
+Now of greater inconsistency had been Roberts’s suggestion of Hollander as the proper friend to stay with Endicott; for Roberts assuredly had held a fantastic passion for Endicott﻿—fantastic in that there was this abnormal interrelationship of his personality with that of her war-killed brother﻿—and she had just as assuredly been convinced that a liaison existed between Hollander and Endicott’s wife. There was but one solution: Roberts had never observed Hollander and Mrs. Endicott together, and she had hoped, should morning bring a meeting, that under the natural dramatic effect of the setting there might be some betrayal. A look, perhaps, was all she wanted to confirm her suspicions. And there could have been in her mind no thought of any real danger to Endicott from Hollander, for had there not been a nurse and two policemen close by on guard? Then later, when Endicott was well again, Roberts could have told him the thing which she had seen.
+… Mental fingers, that’s what they were, plucking at his nerves and forming dissonances that chilled him queerly. He *wasn’t* alone﻿—but he must be﻿—the room was empty.﻿ ﻿…
+He would think of that Mr. “Smith” who lived with Hollander. Did he fit in﻿—beyond one solid thump on the head? Only as one of the myriad side issues that cling like parasites to the trunk of each major crime. One could suppose (with reasonable assurance that the supposition would later prove to be fact) that Hollander was in some genteelly illicit profession such as bootlegging, and that Mr. Smith drummed up Hollander’s customers for him among the night clubs﻿—incidentally relieving some of the more foolish of them of their jewels. Mr. Smith might well have believed, at that moment when Lieutenant Valcour went to the telephone in their apartment, that if Hollander’s goose was cooked his own might be cooked, too, and a blackjack had then seemed the simplest expedient that would insure his fading swiftly out of the picture.
+… The room was empty﻿—the room was empty.﻿ ﻿…
+As for the emotional jungle of warped and sunless growths through which Endicott, his wife, Marge Myles, and Hollander had all groped their illusion-drugged way to this unhappy end﻿—that lay beyond the punishment or acquittal of earthbound law. The proper tribunal for that must be found seated within their separate souls. Lies﻿—evasions﻿—fetid depths﻿ ﻿…
+But *had* she lied?
+Had there truly been no one on the balcony, as Mrs. Endicott had said?
+The shot had assuredly been fired from the direction of that window above the large mahogany chest.
+Above?
+Presentiments were banished before the lash of fact. The lid of that chest was *not quite closed*. And the object that was holding it open, for the space of perhaps a half of an inch, was the small black muzzle of a gun.
+Lieutenant Valcour’s hand moved indolently toward the upper left pocket of his vest, in which there rested a flat, efficient little automatic of small calibre. He knew what had happened﻿—that owing to his stillness for the last five minutes the murderer had thought the room was empty and was attempting to escape. His hand moved more quickly, but not quickly enough. The lid opened wider﻿—eyes﻿—a face﻿—a little shock of alarm, of terror﻿—all ever so much more quickly accomplished than told. The lid slammed up.
+“Quit it, Lieutenant, and put your hands down flat on the top of that desk.”
+“You’re Marge Myles, of course,” he said.
+He flattened his hands on the desk’s mahogany surface and stared curiously at her sultry beauty as she sat on the rim of the open chest. Flamboyant, that’s what she was, and terribly bizarre from the effect of a shingled ripple of bleached blonde hair above her Spanish night-filled eyes.
+“You have put yourself in my way, Lieutenant”﻿—her voice was as disagreeable as the clash of dishes in a cheap restaurant﻿—“and I am going to kill you and escape.”
+“I see,” Lieutenant Valcour said politely, “that you believe in threes.”
+“How?”
+“Your husband, Mrs. Endicott’s husband, and now myself. One﻿—two﻿—three. For the sake of symmetry it is a pity that I am a bachelor.”
+She enjoyed for a full moment of silence﻿—luxuriated in it, really﻿—the sense of power which she held over this man. She had always enjoyed the power exerted by her body, and it was refreshing to drink quietly for a while of this different sort of power, which, through the medium of the pistol held unwaveringly in her hand, controlled the services of life and death. She would shoot him soon.﻿ ﻿…
+Lieutenant Valcour hoped that Hansen would not blunder.
+He could see Hansen quite clearly now, all but pressed against the outside of the window just behind Marge Myles. So Hansen, he reflected, had found that there *was* a way to climb up onto the balcony from the garden down below. What a handy thing it was, at times, to have been a sailor. Lieutenant Valcour fervently hoped that﻿—the usefulness of the rule having been accomplished﻿—Hansen would promptly stop being a sailor and become a policeman. He couldn’t, and didn’t, expect that Hansen would shoot a woman down in cold blood, nor would Hansen dare to startle her by throwing open the window or crashing through its glass. Could Hansen shoot through the glass and knock the pistol from her hand? Maybe once, Lieutenant Valcour thought unhappily, out of every twenty times. And she certainly wouldn’t refrain from pulling the trigger while Hansen practised twenty times.
+“Tell me,” he said, “how you ever managed to breathe inside of that chest.”
+“The back of it is broken.” The casualness of the question had startled her into an answer.
+“Your own back must be pretty well broken, too.” Was Hansen, the idiot, going to smash the glass after all with the butt of his gun? Hansen was staring very intently at him, seeking advice. He all but imperceptibly shook his head in negation. “And what did you have in the paper bag you carried when you came here and from which you tore that scrap of paper upon which you wrote the misleading note?”
+“This gun.”
+“You carried the gun in a paper bag?”
+“I was smart, was I not? Who would think that in a cheap paper bag there was a gun?”
+“Not even a disciple of the fourth dimension.” Hansen was aiming now at her wrist. It was absurd﻿—he faintly shook his head again. No﻿—no! “How did it happen that Mr. Endicott had his overcoat on but you had his hat?”
+“I wear it for a better disguise. I have the dust on my face﻿—there is the hat﻿—it fits well over my cloche. The effect is astonishing.”
+“I see, and so when Endicott came back into the room to get it he couldn’t find it and thought he must have left it in the cupboard?”
+“Yes﻿—yes﻿—you are a smart man, too.”
+“And you entered the house with a duplicate key which you had had made from one of Endicott’s?”
+“Dear heaven, yes﻿—how else?”
+It did not please her that her climax should come at a commonplace moment, when inconsequential questions were being asked and equally inconsequential answers being given. It was not bravura: the man was genuinely unafraid. And she wanted him to be afraid. One shouldn’t just dribble from the world: there should be a blaze, a scene.
+Then Hansen rapped, quite gently, upon the panes.
+Inspiration? Genius? Perhaps. Lieutenant Valcour’s Gallic blood swept back to the nation of its source and he could have kissed that dear, that brilliant Hansen upon both of his ruddy, his intelligent, his Nordic cheeks.
+She whirled as if something had flicked her. Blue serge﻿—brass buttons﻿—a glinting shield. She pulled the trigger.
+But the muzzle of the gun was in her mouth.

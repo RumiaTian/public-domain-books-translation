@@ -1,0 +1,168 @@
+====================================================================================================
+### d-l-moody_the-way-to-god-and-how-to-find-it  (9 files)
+  块: O=175 C=175 OK | 段: EN=372 CN=372 OK
+  英文残留(剔括注) top: Landing×1, burn×1
+  项目说明备注: - 每章开首有经文题引（blockquote），照译，保留章节出处（如 Ephesians 3:19 → 以弗所书 3:19）。 / - 圣经引文众多，统一用中文《和合本》风格译法（神、耶稣基督、圣灵、十字架、救赎、重生、称义等），并与术语表一致。 / - 19 世纪英语大写惯例（Saviour、Word of God、Spirit、Repentance、the Atonement）→ 中文无须大写，但译名须庄重一致。 / - 慕迪口吻质朴恳切，多用第二人称「你」、反问、劝勉；译文保持布道现场感，避免学术腔。 / - 章序罗马数字照搬不译。
+  -- 术语表硬约束行 161 条:
+     God                            → 神                    源×390   译×427  
+     the Lord                       → 主                    源×77    译×113  
+     Jesus Christ / Christ          → 耶稣基督 / 基督            源×216   译×258  
+     the Saviour                    → 救主                   源×8     译×31   
+     the Holy Spirit / the Spirit   → 圣灵                   源×24    译×21   
+     the Word of God                → 神的道 / 神的话语           源×12    译×17   
+     the Bible / the Scripture(s)   → 圣经 / 圣经话语            源×25    译×42   
+     the Gospel                     → 福音                   源×8     译×11   
+     the cross / Calvary            → 十字架 / 各各他            源×23    译×27   
+     the Atonement                  → 赎罪                   源×1     译×2    
+     Regeneration                   → 重生                   源×7     译×55   
+     Repentance                     → 悔改                   源×42    译×91   
+     Restitution                    → 赔偿 / 补偿              源×4     译×5    
+     Faith                          → 信心                   源×41    译×39   
+     Assurance (of salvation)       → （得救的）确据              源×15    译×0     ★译0次(未落位?)
+     Backsliding / backslider       → 退后 / 退后之人            源×23    译×40   
+     the kingdom (of heaven)        → （天国的）国度              源×32    译×0     ★译0次(未落位?)
+     justification                  → 称义                   源×4     译×4    
+     sin / sinner                   → 罪 / 罪人               源×92    译×187  
+     the prodigal                   → 浪子                   源×3     译×3    
+     Enquirer                       → 慕道者 / 寻求者            源×2     译×8    
+     brethren                       → 弟兄们                  源×3     译×1     落位偏低 1/3
+     Divinity (of Christ) / divine  → （基督的）神性 / 神圣的        源×18    译×1     落位偏低 1/18
+     God-Man                        → 神而人                  源×2     译×2    
+     blasphemy / blasphemer         → 亵渎 / 亵渎者             源×8     译×14   
+     idolatry                       → 拜偶像                  源×2     译×2    
+     worship                        → 敬拜                   源×9     译×11   
+     the Son of Man                 → 人子                   源×7     译×7    
+     the only-begotten Son          → 独生子                  源×0     译×4     ★源0次(幽灵?)
+     all-atoning work               → 全然赎罪之功               源×1     译×1    
+     offscouring and refuse         → 万物的渣滓                源×1     译×1    
+     the Enquiry-room / Inquiry-mee → 询道室 / 询道聚会           源×3     译×3    
+     salvation                      → 救恩                   源×33    译×24   
+     conversion（sudden / instantane → 归主（顷刻 / 霎时 / 渐进）     源×20    译×29   
+     to hold out / to keep          → 坚持到底 / 保守            源×14    译×27   
+     self-surrender                 → 完全降服                 源×1     译×1    
+     self-conceit                   → 自恃                   源×2     译×3    
+     sceptic / scepticism           → 怀疑者 / 怀疑             源×5     译×20   
+     conviction of sin              → 为罪自责                 源×3     译×3    
+     fruits meet for repentance     → 与悔改相称的果子             源×1     译×1    
+     restitution                    → 赔偿                   源×0     译×0     ★源0次(幽灵?)
+     the Sun of Righteousness       → 公义的日头                源×3     译×3    
+     Christ All and in All          → 基督是一切，又住在一切之内        源×1     译×0     ★译0次(未落位?)
+     blazing the way                → 开辟路标                 源×1     译×1    
+     Mediator                       → 中保                   源×1     译×9    
+     Sanctifier                     → 使我们成圣者               源×1     译×1    
+     Justifier                      → 称我们为义者               源×1     译×1    
+     Redeemer                       → 救赎主                  源×3     译×3    
+     Deliverer                      → 拯救者                  源×1     译×1    
+     Keeper                         → 保守者                  源×3     译×2    
+     Shepherd                       → 牧者                   源×23    译×9     落位偏低 9/23
+     Advocate                       → 中保                   源×8     译×0     ★译0次(未落位?)
+     sanctification                 → 成圣                   源×2     译×2    
+     Triune God                     → 三位一体之神               源×1     译×0     ★译0次(未落位?)
+     the Rock of Ages               → 万古磐石                 源×1     译×2    
+     Doubting Castle                → 疑惑堡                  源×1     译×1    
+     the Captain of (our) salvation → （我们）救恩的元帅            源×1     译×0     ★译0次(未落位?)
+     Author and Finisher of (our) f → （我们）信心的创始成终者         源×1     译×0     ★译0次(未落位?)
+     the new birth / born of God /  → 重生 / 由神而生 / 从圣灵而生    源×19    译×0     ★译0次(未落位?)
+     first love                     → 起初的爱心                源×4     译×1     落位偏低 1/4
+     the Fountain of living waters  → 活水的泉源                源×1     译×1    
+     broken cisterns                → 破裂不能存水的池子            源×2     译×2    
+     the fleshpots of Egypt         → 埃及的肉锅                源×1     译×1    
+     family altar                   → 家庭祭坛                 源×1     译×1    
+     closet devotion                → 内室的灵修                源×1     译×1    
+     the old paths / the good way   → 古道 / 善道              源×3     译×3    
+     backsliding / backslider       → 退后 / 退后之人            源×0     译×0     ★源0次(幽灵?) 残留「退后的儿女」×2
+     D. L. Moody                    → 慕迪                   源×0     译×4     ★源0次(幽灵?)
+     Paul                           → 保罗                   源×19    译×18   
+     Peter                          → 彼得                   源×26    译×26   
+     John                           → 约翰                   源×64    译×11    落位偏低 11/64
+     Judas                          → 犹大                   源×4     译×5    
+     Luther                         → 路德                   源×0     译×0     ★源0次(幽灵?)
+     John the Baptist               → 施洗约翰                 源×3     译×3    
+     Barnabas                       → 巴拿巴                  源×1     译×1    
+     Moses                          → 摩西                   源×15    译×16   
+     Elijah                         → 以利亚                  源×3     译×3    
+     Elisha                         → 以利沙                  源×2     译×2    
+     Abraham                        → 亚伯拉罕                 源×14    译×13   
+     Gabriel                        → 加百列                  源×1     译×1    
+     Michael                        → 米迦勒                  源×1     译×1    
+     Jairus                         → 睚鲁                   源×1     译×1    
+     Lazarus                        → 拉撒路                  源×4     译×4    
+     Zaccheus                       → 撒该                   源×3     译×3    
+     Levi (Matthew)                 → 利未（马太）               源×1     译×2    
+     Cornelius                      → 哥尼流                  源×1     译×1    
+     Philip                         → 腓利                   源×3     译×3    
+     Candace                        → 干大基                  源×1     译×1    
+     Ananias                        → 亚拿尼亚                 源×1     译×1    
+     Joseph                         → 约瑟                   源×2     译×2    
+     Daniel                         → 但以理                  源×2     译×1    
+     Ahab                           → 亚哈                   源×1     译×1    
+     Melchisedec                    → 麦基洗德                 源×1     译×1    
+     Jude                           → 犹大                   源×3     译×0     ★译0次(未落位?)
+     Timothy                        → 提摩太                  源×2     译×5    
+     Titus                          → 提多                   源×1     译×0     ★译0次(未落位?)
+     Absalom                        → 押沙龙                  源×4     译×4    
+     Brooks (Dr.)                   → 布鲁克斯博士               源×1     译×1    
+     Gotthold                       → 戈特霍尔德                源×1     译×1    
+     George Fox                     → 乔治·福克斯               源×1     译×1    
+     Queen Victoria                 → 维多利亚女王               源×1     译×1    
+     Mr. Spurgeon                   → 司布真先生                源×1     译×1    
+     Bishop Ryle                    → 莱尔主教                 源×1     译×1    
+     Dr. Watts                      → 华兹博士                 源×1     译×1    
+     Stephen                        → 司提反                  源×1     译×1    
+     Lot                            → 罗得                   源×2     译×1    
+     Nebuchadnezzar                 → 尼布甲尼撒                源×1     译×1    
+     Ephraim                        → 以法莲                  源×1     译×1    
+     Judah（支派/国）                    → 犹大                   源×1     译×0     ★译0次(未落位?)
+     James（使徒）                      → 雅各                   源×3     译×2    
+     Chicago                        → 芝加哥                  源×1     译×1    
+     Lystra                         → 路司得                  源×1     译×2    
+     Nain                           → 拿因                   源×1     译×1    
+     Baltimore                      → 巴尔的摩                 源×1     译×1    
+     Newfoundland                   → 纽芬兰                  源×1     译×1    
+     St. Louis (Missouri)           → 圣路易斯（密苏里州）           源×1     译×1    
+     Colorado                       → 科罗拉多                 源×1     译×1    
+     Vermont                        → 佛蒙特                  源×3     译×3    
+     Athens                         → 雅典                   源×1     译×1    
+     Ohio                           → 俄亥俄                  源×1     译×1    
+     Kadesh Barnea                  → 加低斯·巴尼亚              源×1     译×1    
+     Bull Run                       → 牛奔河                  源×1     译×1    
+     Syria                          → 叙利亚                  源×1     译×1    
+     the Tower of London            → 伦敦塔                  源×1     译×2    
+     the Wilderness (battle)        → 莽原之役                 源×12    译×1     落位偏低 1/12
+     the Mississippi                → 密西西比河                源×3     译×3    
+     Damascus                       → 大马士革                 源×2     译×2    
+     Sodom                          → 所多玛                  源×3     译×3    
+     Babylon                        → 巴比伦                  源×2     译×2    
+     Edinburgh                      → 爱丁堡                  源×1     译×1    
+     Cornwall                       → 康沃尔                  源×1     译×1    
+     Genesis                        → 创世记                  源×3     译×3    
+     Exodus                         → 出埃及记                 源×1     译×1    
+     Psalms                         → 诗篇                   源×0     译×7     ★源0次(幽灵?)
+     Isaiah                         → 以赛亚书                 源×11    译×8    
+     Ezekiel                        → 以西结书                 源×1     译×1    
+     Matthew                        → 马太福音                 源×29    译×26   
+     Mark                           → 马可福音                 源×13    译×7     落位偏低 7/13
+     Luke                           → 路加福音                 源×15    译×14   
+     John                           → 约翰福音                 源×0     译×38    ★源0次(幽灵?)
+     Acts                           → 使徒行传                 源×14    译×12   
+     Romans                         → 罗马书                  源×14    译×14   
+     1/2 Corinthians                → 哥林多前/后书              源×214   译×11    落位偏低 11/214
+     Galatians                      → 加拉太书                 源×2     译×2    
+     Ephesians                      → 以弗所书                 源×4     译×3    
+     Philippians                    → 腓立比书                 源×2     译×2    
+     Hebrews                        → 希伯来书                 源×3     译×3    
+     James                          → 雅各书                  源×0     译×1     ★源0次(幽灵?)
+     1/2 Timothy                    → 提摩太前/后书              源×3     译×0     ★译0次(未落位?)
+     Titus                          → 提多书                  源×0     译×1     ★源0次(幽灵?)
+     Jude                           → 犹大书                  源×0     译×3     ★源0次(幽灵?)
+     Revelation                     → 启示录                  源×5     译×5    
+     Deuteronomy                    → 申命记                  源×3     译×3    
+     Daniel                         → 但以理书                 源×0     译×1     ★源0次(幽灵?)
+     Hosea                          → 何西阿书                 源×3     译×2    
+     Numbers                        → 民数记                  源×2     译×2    
+     1/2 Kings                      → 列王纪上/下               源×1     译×151  
+     1 Kings                        → 列王纪上                 源×1     译×0     ★译0次(未落位?)
+     Song of Solomon                → 雅歌                   源×1     译×1    
+     1/2 Peter                      → 彼得前/后书               源×1     译×1    
+     1/2/3 John                     → 约翰一书/二书/三书           源×129   译×12    落位偏低 12/129
+

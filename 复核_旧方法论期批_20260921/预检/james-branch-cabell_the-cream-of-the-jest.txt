@@ -1,0 +1,35 @@
+ (47 files)
+  块: O=195 C=195 OK | 段: EN=726 CN=748 !!差 -22
+     [不对称] chapter-14.md                                        O=14 C=14 段EN=60 段CN=61
+     [不对称] chapter-15.md                                        O=9 C=9 段EN=29 段CN=30
+     [不对称] chapter-23.md                                        O=5 C=5 段EN=14 段CN=16
+     [不对称] chapter-25.md                                        O=6 C=6 段EN=21 段CN=23
+     [不对称] chapter-26.md                                        O=4 C=4 段EN=14 段CN=15
+     [不对称] chapter-27.md                                        O=8 C=8 段EN=18 段CN=19
+     [不对称] chapter-29.md                                        O=9 C=9 段EN=40 段CN=43
+     [不对称] chapter-30.md                                        O=5 C=5 段EN=20 段CN=22
+     [不对称] chapter-34.md                                        O=6 C=6 段EN=18 段CN=19
+     [不对称] chapter-35.md                                        O=8 C=8 段EN=32 段CN=33
+     [不对称] chapter-37.md                                        O=3 C=3 段EN=9 段CN=10
+     [不对称] chapter-38.md                                        O=4 C=4 段EN=14 段CN=15
+     [不对称] chapter-39.md                                        O=5 C=5 段EN=13 段CN=16
+     [不对称] chapter-40.md                                        O=8 C=8 段EN=25 段CN=27
+  英文残留(剔括注) top: Quan×1, vey×1, la×1, laudeta×1, mover×1, Pus×1, ab×1, mi×1, dons×1, no×1
+  -- 术语表硬约束行 16 条:
+     Charicles                      → 查里克勒斯                源×5     译×5    
+     Amrou                          → 阿姆鲁                  源×4     译×4    
+     the Koran                      → 《古兰经》                源×3     译×3    
+     Parrhasius                     → 帕拉西乌斯                源×1     译×1    
+     Atalanta                       → 阿塔兰忒                 源×1     译×1    
+     Spintriae                      → 斯宾特里亚                源×1     译×1    
+     Caligula（尊号）                   → 盖乌斯·凯撒·卡里古拉（军营之子、众军之 源×2     译×1    
+     Cybele                         → 库柏勒                  源×1     译×1    
+     Heliogabalus                   → 埃拉伽巴路斯               源×1     译×1    
+     Hero of Alexandria             → 亚历山大城的希罗             源×1     译×1    
+     John the Grammarian            → 文法家约翰                源×1     译×1    
+     Homerus                        → 荷马鲁斯                 源×1     译×1    
+     the Pleiad                     → 七星诗派                 源×1     译×1    
+     Sosipater                      → 索西帕特洛斯               源×1     译×1    
+     Herodas《Mimes》                 → 赫罗达斯《拟曲》             源×0     译×0     ★源0次(幽灵?)
+     Prior Park                     → 普赖尔庄园                源×1     译×1    
+====================================================================================================

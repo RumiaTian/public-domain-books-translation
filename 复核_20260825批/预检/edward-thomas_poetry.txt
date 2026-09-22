@@ -1,0 +1,46 @@
+====================================================================================================
+### edward-thomas_poetry  (2 files)
+  块: O=139 C=139 OK | 段: EN=3307 CN=3444 !!差 -137
+     [不对称] poetry.md                                            O=138 C=138 段EN=3305 段CN=3442
+  英文残留(剔括注) top: The×42, the×10, and×5, When×4, That×4, Two×3, You×3, of×3, Rain×3, Home×3
+  项目说明备注: 诗集：每首一块逐行对应、空行同位、标题「英 / 中」合并（循 maria-lowell 先例）；诗集按短篇集体例逐首成篇。 各篇独立成篇，仅共享术语。
+  -- 术语表硬约束行 38 条:
+     Adlestrop                      → 阿德尔斯罗普               源×3     译×3    
+     Wiltshire                      → 威尔特郡                 源×4     译×5    
+     Kent / Herefordshire / Lincoln → 肯特郡 / 赫里福德郡 / 林肯郡 /  源×7     译×5    
+     Gloucestershire / Oxfordshire  → 格洛斯特郡 / 牛津郡          源×2     译×2    
+     South Downs / North Downs      → 南丘 / 北丘              源×2     译×3     残留「丘陵」×11
+     Salisbury (Plain)              → 索尔兹伯里（平原）            源×2     译×2    
+     Westbury (White Horse)         → 韦斯特伯里（白马）            源×2     译×2    
+     Banbury Cross                  → 班伯里十字架               源×1     译×1    
+     Alton / Chilgrove / Froxfield  → 奥尔顿 / 奇尔格罗夫 / 弗罗克斯菲尔 源×12    译×8    
+     Kennington                     → 肯宁顿                  源×3     译×3    
+     Canterbury / Exeter / Leeds    → 坎特伯雷 / 埃克塞特 / 利兹     源×3     译×3    
+     Shrewsbury / Severn / the Wrek → 什鲁斯伯里 / 文河 / 雷金山 / 厄 源×4     译×4    
+     Newcastle-on-Tyne / Southampto → 泰恩河畔纽卡斯尔 / 南安普顿 / 克莱 源×4     译×4    
+     Waterloo / Hastings / Agincour → 滑铁卢 / 黑斯廷斯 / 阿金库尔 /  源×4     译×4    
+     Blenheim / Ramillies / Malplaq → 布伦海姆 / 拉米伊 / 马尔普拉凯   源×4     译×4    
+     Samarkand / Amsterdam          → 撒马尔罕 / 阿姆斯特丹         源×3     译×3    
+     Lob / Lob-lie-by-the-fire      → 洛布 / 炉边懒汉洛布          源×6     译×6    
+     Jack Noman / Bob Hayward / Job → 杰克·诺曼 / 鲍勃·海沃德 / 乔布· 源×4     译×4    
+     Helen / Emily                  → 海伦 / 艾米莉             源×5     译×5    
+     Romany / Gypsy                 → 罗姆人 / 吉卜赛人           源×3     译×3    
+     the Mabinogion                 → 《马比诺吉昂》              源×1     译×1    
+     the Kaiser                     → 德皇                   源×1     译×1    
+     the British Grenadiers         → 《英国掷弹兵》              源×1     译×1    
+     Clare / Cobbett / Morland / Cr → 克莱尔 / 科贝特 / 莫兰 / 克罗姆 源×4     译×4    
+     Gerard                         → 杰拉德                  源×1     译×1    
+     Caesar / Shakespeare / Alcibia → 恺撒 / 莎士比亚 / 亚西比德 / 马 源×8     译×8    
+     Elysium                        → 极乐净土                 源×1     译×1    
+     pewit                          → 田凫                   源×2     译×4    
+     missel-thrush / stormcock      → 槲鸫 / 风暴鸫             源×2     译×2    
+     stone-curlew / sedge-warbler / → 石鸻 / 苇莺 / 鹡鸰         源×3     译×5    
+     starling / jackdaw / rook / ch → 椋鸟 / 寒鸦 / 白嘴鸦 / 红嘴山鸦 源×4     译×12   
+     swede                          → 芜菁甘蓝                 源×1     译×2    
+     celandine / charlock / tall ne → 白屈菜 / 田芥草 / 高高的荨麻    源×4     译×6    
+     traveller’s-joy                → 铁线莲                  源×2     译×2    
+     Old Man / Lad’s-love           → “老人”/“少年之爱”          源×14    译×6     落位偏低 6/14
+     burnet rose / damson           → 地榆蔷薇 / 西洋李           源×2     译×4    
+     down                           → 丘陵                   源×43    译×11    落位偏低 11/43
+     copse / combe                  → 杂树林 / 山坳             源×8     译×8    
+

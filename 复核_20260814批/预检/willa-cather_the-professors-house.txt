@@ -1,0 +1,56 @@
+====================================================================================================
+### willa-cather_the-professors-house  (34 files)
+  块: O=357 C=357 OK | 段: EN=911 CN=918 !!差 -7
+     [不对称] chapter-1-14.md                                      O=14 C=14 段EN=30 段CN=32
+     [不对称] chapter-1-15.md                                      O=8 C=8 段EN=28 段CN=29
+     [不对称] chapter-1-9.md                                       O=16 C=16 段EN=61 段CN=63
+     [不对称] chapter-3-1.md                                       O=10 C=10 段EN=10 段CN=11
+     [不对称] chapter-3-4.md                                       O=17 C=17 段EN=23 段CN=24
+  英文残留(剔括注) top: Infandum×1, jubes×1, renovare×1, dolorem×1, cher×1, Papa×1, ish×1, syndicate×1, taupe×1, ruins×1
+  项目说明备注: - Cather 文风：简洁、克制、含蓄、富于诗意与感官细节（尤其对自然景物的描写）。译笔须沉稳内敛，避免华丽辞藻，追求"少即是多"的力量感。 / - 卷二《Tom Outland's Story》转为第一人称叙事（Tom 的口吻），与卷一卷三的第三人称有别——Tom 的语气更年轻、更热烈、带西部拓荒者的质朴，翻译时把握语体切换。 / - Mesa / Blue Mesa / Cliff City 等新墨西哥台地考古遗址的描写是全书最美的段落之一，译笔要传达台地高原的苍茫与古城遗迹的神秘。 / - 献词 "For Jan, because he likes narrative"（致 Jan，因为他喜欢故事）——Jan 是 Cather 的伴侣 Edith Lewis 的昵称（一说是 Yehudi Menuhin 之父），简短照译即可。 / - 题词 "A turquoise set in silver..."（一块镶嵌在银里的绿松石）是全书核心意象，Tom 送 Rosamond 的礼物，象征纯粹之美。 / - 章节用罗马数字编号（I-XX 等），保留。 / - dedication.m
+  -- 术语表硬约束行 44 条:
+     Professor Godfrey St. Peter    → 戈弗雷·圣彼得教授            源×0     译×0     ★源0次(幽灵?)
+     Lillian St. Peter              → 莉莲·圣彼得               源×0     译×0     ★源0次(幽灵?)
+     Rosamond St. Peter / Rosamond  → 罗莎蒙德                 源×0     译×70    ★源0次(幽灵?)
+     Kathleen St. Peter             → 凯瑟琳                  源×0     译×43    ★源0次(幽灵?)
+     Louis Marsellus                → 路易斯·马塞勒斯             源×0     译×1     ★源0次(幽灵?)
+     Tom Outland                    → 汤姆·奥特兰               源×20    译×19   
+     Rodney Blake                   → 罗德尼·布雷克              源×4     译×4    
+     Father Duchene                 → 迪谢纳神父                源×17    译×17   
+     Henry Atkins                   → 亨利·阿特金斯              源×1     译×1    
+     John Rapp                      → 约翰·拉普                源×1     译×1    
+     Appelhoff                      → 阿佩尔霍夫                源×3     译×5    
+     Augusta                        → 奥古斯塔                 源×64    译×66   
+     Dr. Duke / Professor Crane     → 杜克医生 / 克兰教授          源×2     译×3    
+     Mephistopheles                 → 梅菲斯托费勒斯              源×1     译×1    
+     Louie / Marsellus              → 路易 / 马塞勒斯            源×155   译×164  
+     Hamilton                       → 汉密尔顿                 源×22    译×22   
+     Lake Michigan                  → 密歇根湖                 源×4     译×5    
+     Hamilton University            → 汉密尔顿大学               源×0     译×0     ★源0次(幽灵?)
+     Versailles                     → 凡尔赛                  源×4     译×4    
+     the Thierault family           → 蒂罗一家                 源×1     译×4    
+     Monsieur Bergeret              → 贝热雷先生                源×1     译×1    
+     Van Dyke                       → 范戴克式                 源×1     译×1    
+     John Fiske                     → 约翰·菲斯克               源×1     译×1    
+     Kansas                         → 堪萨斯                  源×7     译×7    
+     Brittany / Languedoc           → 布列塔尼 / 朗格多克          源×2     译×2    
+     Spain                          → 西班牙                  源×11    译×26   
+     Colorado                       → 科罗拉多                 源×4     译×4    
+     New Mexico                     → 新墨西哥                 源×12    译×12   
+     Santa Fe                       → 圣菲                   源×5     译×5    
+     Mesa Verde                     → 梅萨维德                 源×0     译×0     ★源0次(幽灵?)
+     the Blue Mesa                  → 蓝色台地                 源×4     译×5    
+     the Cliff City                 → 崖城                   源×18    译×18   
+     the mesa                       → 台地                   源×58    译×76   
+     Cow Canyon                     → 牛峡                   源×8     译×8    
+     box canyon                     → 匣子峡谷                 源×4     译×4    
+     Tarpin                         → 塔平                   源×15    译×16   
+     Cruzados river                 → 克鲁萨多斯河               源×4     译×4    
+     Acoma                          → 阿科马                  源×2     译×2    
+     Grand Canyon                   → 大峡谷                  源×1     译×1    
+     Rio Grande                     → 格兰德河                 源×2     译×2    
+     Sitwell Company                → 西特韦尔公司               源×2     译×4    
+     Anchor Line                    → 锚行                   源×2     译×2    
+     Parthenon                      → 帕特农神庙                源×1     译×1    
+     Spanish Adventurers in North A → 《北美的西班牙冒险家》          源×1     译×4    
+

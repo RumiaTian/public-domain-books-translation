@@ -1,0 +1,180 @@
+====================================================================================================
+### catherine-louisa-pirkis_the-experiences-of-loveday-brooke-lady-detective  (7 files)
+  块: O=364 C=364 OK | 段: EN=1189 CN=1189 OK
+     [不对称] the-ghost-of-fountain-lane.md                        O=47 C=47 段EN=148 段CN=149
+     [不对称] the-murder-at-troytes-hill.md                        O=58 C=58 段EN=189 段CN=188
+  英文残留(剔括注) top: hush'×4, whish'×2, whush'×2, Moi×1, je×1, suis×1, fatigu×1, Hush'×1, whist'×1, equally×1
+  项目说明备注: 七篇均独立成案，仅共享贯穿人物（洛芙迪·布鲁克、埃比尼泽·戴尔）与事务所（林奇大院、舰队街、苏格兰场）等术语，适合委派模式逐篇译。术语表已预置贯穿人物与各篇人物/地名，翻译时遇表内源词须用指定译法；新词首次出现以「中文（English）」标注，译完补入术语表。详见术语表.md。
+  -- 术语表硬约束行 171 条:
+     Loveday Brooke                 → 洛芙迪·布鲁克              源×4     译×4    
+     Ebenezer Dyer                  → 埃比尼泽·戴尔              源×2     译×2    
+     Sir George Cathrow             → 乔治·卡斯罗爵士             源×0     译×3     ★源0次(幽灵?)
+     Lady Cathrow                   → 卡斯罗夫人                源×10    译×9    
+     Stephanie Delcroix             → 斯特凡妮·德尔克鲁瓦           源×1     译×1    
+     Bates / Jeremiah Bates         → 贝茨 / 杰里迈亚·贝茨         源×15    译×16   
+     Harry Emmett                   → 哈里·埃米特               源×6     译×6    
+     Mrs. Williams                  → 威廉斯太太                源×15    译×15   
+     Holt（young Holt）               → 霍尔特（小霍尔特）            源×6     译×6    
+     Colonel James                  → 詹姆斯上校                源×3     译×3    
+     Griffiths                      → 格里菲思                 源×36    译×36   
+     Alexander Henderson / old Sand → 亚历山大·亨德森 / 老桑迪       源×8     译×8    
+     Mr. Craven                     → 克雷文先生                源×40    译×36   
+     Mrs. Craven                    → 克雷文夫人                源×8     译×9    
+     Harry Craven（young Mr. Craven） → 哈里·克雷文（小克雷文）         源×7     译×7    
+     Wells and Sugden（Messrs.）      → 韦尔斯与萨格登（律师行）         源×1     译×1    
+     Miss Craven / Nina             → 克雷文小姐 / 妮娜           源×11    译×11   
+     John Hales                     → 约翰·黑尔斯               源×2     译×2    
+     Moggie                         → 莫吉                   源×3     译×3    
+     Captain                        → 队长                   源×7     译×7    
+     Waters                         → 沃特斯                  源×3     译×3    
+     McQueen                        → 麦克奎恩                 源×3     译×3    
+     Harold Cousins                 → 哈罗德·卡曾斯              源×3     译×3    
+     Inspector Gunning              → 冈宁巡官                 源×8     译×9    
+     John Murray                    → 约翰·默里                源×6     译×6    
+     Sister Monica                  → 莫妮卡嬷嬷                源×7     译×7    
+     Mr. Jameson                    → 詹姆森先生                源×5     译×5    
+     Mrs. Druce                     → 德鲁斯太太                源×27    译×27   
+     Major Druce                    → 德鲁斯少校                源×14    译×14   
+     Lucie Cunier / Mdlle. Cunier   → 露西·屈尼耶 / 屈尼耶小姐       源×11    译×11   
+     Princess Dullah-Veih           → 杜拉-维公主               源×4     译×4    
+     Hafiz Cassimi                  → 哈菲兹·卡西米              源×4     译×4    
+     Lady Gwynne                    → 格温夫人                 源×16    译×17   
+     Rev. Anthony Hawke             → 安东尼·霍克牧师             源×1     译×1    
+     Miss Monroe                    → 门罗小姐                 源×52    译×52   
+     Sir George Monroe              → 乔治·门罗爵士              源×2     译×2    
+     Inspector Clampe               → 克兰普巡官                源×1     译×1    
+     Rev. Charles Turner            → 查尔斯·特纳牧师             源×1     译×2    
+     Mrs. Turner                    → 特纳太太                 源×15    译×14   
+     Martha Watts                   → 玛莎·沃茨                源×3     译×3    
+     Freer（shoemaker）               → 弗里尔（鞋匠）              源×4     译×9    
+     Richard Golding                → 理查德·戈尔丁              源×2     译×2    
+     Irené / René Golding           → 伊雷娜 / 蕾妮·戈尔丁         源×11    译×11   
+     Mrs. Greenhow / Clare          → 格林豪太太 / 克莱尔          源×20    译×20   
+     Lord Guilleroy                 → 吉勒罗伊勋爵               源×23    译×23   
+     Gordon Cleeve / Sir Gordon Cle → 戈登·克利夫 / 戈登·克利夫爵士    源×9     译×9    
+     Inspector Ramsay               → 拉姆齐巡官                源×9     译×9    
+     Maddalena / Lena               → 马达莱娜 / 莉娜            源×35    译×38   
+     Irené Mascagni（Mrs. Golding）   → 伊雷娜·马斯卡尼（戈尔丁夫人）      源×2     译×3    
+     Count Mascagni                 → 马斯卡尼伯爵               源×3     译×3    
+     Antonia                        → 安东妮娅                 源×4     译×4    
+     M. Dulau                       → 迪洛先生                 源×1     译×1    
+     Dr. Godwin                     → 戈德温医生                源×5     译×6    
+     Dryad                          → 德里亚德                 源×9     译×9    
+     Pierre Lebrun / Lebrun         → 皮埃尔·勒布伦 / 勒布伦        源×21    译×21   
+     Madame Céline                  → 赛琳夫人                 源×10    译×10   
+     Cuénin                         → 屈南                   源×3     译×3    
+     Charlie                        → 查理                   源×1     译×1    
+     Lynch Court                    → 林奇大院                 源×14    译×14   
+     Fleet Street                   → 舰队街                  源×1     译×2    
+     Scotland Yard                  → 苏格兰场                 源×8     译×8    
+     Craigen Court                  → 克雷根苑                 源×10    译×10   
+     Craigen Wood                   → 克雷根树林                源×1     译×1    
+     Huxwell                        → 赫克斯韦尔                源×5     译×5    
+     Wreford                        → 雷福德                  源×13    译×13   
+     Easterbrook                    → 伊斯特布鲁克               源×2     译×2    
+     Bishopsgate                    → 主教门                  源×2     译×2    
+     Great Eastern line             → 大东铁路线                源×1     译×1    
+     Reigate                        → 雷盖特                  源×6     译×6    
+     Dover Straits                  → 多佛海峡                 源×1     译×1    
+     King’s Head                    → “国王头”旅馆              源×2     译×1    
+     St. Omer                       → 圣奥梅尔                 源×1     译×1    
+     Troyte’s Hill                  → 特罗伊特山                源×22    译×21   
+     Cumberland                     → 坎伯兰                  源×2     译×2    
+     Grenfell                       → 格伦费尔                 源×6     译×6    
+     Newcastle                      → 纽卡斯尔                 源×9     译×9    
+     Natal                          → 纳塔尔                  源×9     译×9    
+     Oxford                         → 牛津                   源×4     译×4    
+     Station Hotel                  → 车站旅馆                 源×1     译×1    
+     Pembroke                       → 彭布罗克                 源×1     译×1    
+     Bonnie Dundee                  → 邦妮·邓迪                源×4     译×4    
+     London Docks                   → 伦敦码头                 源×1     译×2    
+     Grenfell High Road             → 格伦费尔大路               源×1     译×1    
+     Redhill                        → 雷德希尔                 源×17    译×16   
+     Paved Court                    → 铺石巷                  源×4     译×4    
+     Merstham                       → 默斯塔姆                 源×3     译×3    
+     Three Bridges                  → 三桥                   源×2     译×2    
+     Victoria（station）              → 维多利亚（车站）             源×3     译×5    
+     Horley                         → 霍利                   源×1     译×1    
+     Purley                         → 珀利                   源×1     译×1    
+     Wootton Hall                   → 伍顿庄                  源×11    译×12   
+     North Cape                     → 北角                   源×8     译×8    
+     Surrey Hills                   → 萨里丘陵                 源×1     译×1    
+     London and Brighton coach road → 伦敦至布莱顿驿道             源×1     译×1    
+     Echallets                      → 埃沙莱                  源×2     译×2    
+     Geneva                         → 日内瓦                  源×2     译×4    
+     Cairo                          → 开罗                   源×4     译×4    
+     Turkey                         → 土耳其                  源×1     译×7    
+     Peking                         → 北京                   源×11    译×8    
+     Cork                           → 科克                   源×10    译×10   
+     Ireland                        → 爱尔兰                  源×1     译×5    
+     Brighton                       → 布赖顿                  源×21    译×21   
+     Fountain Lane                  → 喷泉巷                  源×6     译×5    
+     Ship Street                    → 船街                   源×1     译×1    
+     East Downes                    → 东唐斯                  源×11    译×11   
+     West Sussex Bank               → 西萨塞克斯银行              源×2     译×2    
+     Sussex                         → 萨塞克斯                 源×0     译×0     ★源0次(幽灵?)
+     Métropole                      → 大都会饭店                源×2     译×2    
+     Langford Hall                  → 朗福德庄                 源×9     译×9    
+     Langford Cross                 → 朗福德克罗斯               源×9     译×9    
+     Leicestershire                 → 莱斯特郡                 源×2     译×2    
+     Alguida                        → 阿尔圭达                 源×5     译×5    
+     Château Mascagni               → 马斯卡尼城堡               源×1     译×1    
+     Naples                         → 那不勒斯                 源×8     译×10   
+     Brindisi                       → 布林迪西                 源×3     译×3    
+     Florence                       → 佛罗伦萨                 源×1     译×1    
+     Alexandria                     → 亚历山大                 源×1     译×1    
+     Paris                          → 巴黎                   源×25    译×25   
+     Champs Élysées                 → 香榭丽舍                 源×1     译×1    
+     Gare du Midi                   → 南方车站                 源×1     译×1    
+     Folkestone / Dover             → 福克斯通 / 多佛            源×5     译×5    
+     Boulogne / Calais              → 布洛涅 / 加来             源×2     译×2    
+     Charing Cross Hotel            → 查令十字饭店               源×6     译×6    
+     Roebuck Inn                    → 雄鹿旅馆                 源×1     译×2    
+     The United Kingdom Cabdrivers’ → 联合王国马车夫慈善协会          源×1     译×1    
+     Sisterhood                     → 修女会 / 姐妹会            源×15    译×13   
+     Harem Mission                  → 内闱传教团                源×3     译×3    
+     Zenana Mission                 → 闺阁传教团                源×1     译×1    
+     Portland Place                 → 波特兰广场                源×5     译×5    
+     South Savile Street            → 南萨维尔街                源×5     译×5    
+     Old Bond Street                → 老庞德街                 源×1     译×1    
+     Gower Street                   → 高尔街                  源×4     译×4    
+     French / Swiss Protestant chur → 法国/瑞士新教教堂            源×15    译×11   
+     lady detective                 → 女侦探                  源×4     译×7    
+     detective agency               → 侦探事务所                源×2     译×2    
+     amanuensis                     → 抄书人 / 文书助手           源×7     译×6     残留「秘书」×1
+     *The Reciter’s Treasury*       → 《朗诵者宝库》              源×2     译×2    
+     Chubb lock                     → 查布锁                  源×1     译×1    
+     sovereign                      → 索维林                  源×2     译×3    
+     guinea                         → 几尼                   源×1     译×2    
+     marquise ring                  → 椭圆戒 / 椭圆主石戒指         源×2     译×2    
+     Newfoundland dog               → 纽芬兰犬                 源×1     译×2    
+     *Buckingham*                   → "白金汉号"（*Buckingham*） 源×3     译×0     ★译0次(未落位?)
+     *felo de se*                   → 自杀罪（*felo de se*）    源×1     译×1    
+     Jane Smith                     → 简·史密斯                源×1     译×1    
+     ‘The Suicide’s Farewell’       → 《自杀者的告别》             源×0     译×2     ★源0次(幽灵?)
+     ‘The Noble Convict’            → 《高贵的囚犯》              源×0     译×3     ★源0次(幽灵?)
+     ‘To be Let, Unfurnished’       → 《招租，不配家具》            源×2     译×2    
+     Magna Charta                   → 《大宪章》                源×1     译×1    
+     Virgil                         → 维吉尔                  源×1     译×1    
+     Davenport                      → 达文波特小写字台             源×5     译×2     落位偏低 2/5
+     Magdalen                       → 麦格达伦学院               源×1     译×1    
+     *Mia Madre*                    → 我的母亲（*Mia Madre*）    源×1     译×1    
+     *con amore*                    → 热心地（*con amore*）     源×2     译×3    
+     *vero Capri*                   → 维罗卡普里（*vero Capri*）  源×0     译×0     ★源0次(幽灵?)
+     Eglacé                         → 埃格拉斯                 源×3     译×3    
+     hansom                         → 双轮马车                 源×6     译×4    
+     claret-cup                     → 红酒潘趣酒                源×5     译×5    
+     Iago                           → 伊阿古                  源×2     译×2    
+     Fair Rosamond                  → 美丽的罗莎蒙德（Fair Rosamon 源×1     译×1    
+     Queen of Sheba                 → 示巴女王（Queen of Sheba） 源×1     译×1    
+     Hottentots / Kaffirs           → 霍屯督人 / 卡菲尔人          源×2     译×2    
+     Choctaw Indians                → 乔克托印第安人（Choctaw Indi 源×1     译×1    
+     *seule sur la terre*           → 孑然一身（*seule sur la t 源×1     译×1    
+     *Moi, je suis fatiguée*        → 我累了（*Moi, je suis fa 源×1     译×1    
+     border keep                    → 边塞古堡                 源×1     译×1    
+     Druid stronghold               → 德鲁伊据点                源×1     译×0     ★译0次(未落位?)
+     geological hammer              → 地质锤                  源×1     译×1    
+     Virginia creeper               → 五叶地锦                 源×1     译×1    
+     assizes                        → 巡回法庭                 源×1     译×1    
+     *au revoir*                    → 再会（*au revoir*）      源×1     译×1    
+

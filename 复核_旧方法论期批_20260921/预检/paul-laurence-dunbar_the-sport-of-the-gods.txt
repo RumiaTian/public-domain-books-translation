@@ -1,0 +1,64 @@
+ (18 files)
+  块: O=231 C=231 OK | 段: EN=1007 CN=1008 !!差 -1
+     [不对称] what-berry-found.md                                  O=9 C=9 段EN=50 段CN=51
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 58 条:
+     Berry Hamilton                 → 贝里·汉密尔顿              源×16    译×16   
+     the Oakley                     → 奥克利家                 源×6     译×5    
+     Fannie                         → 范妮                   源×49    译×49   
+     Joe                            → 乔                    源×171   译×171  
+     Kit                            → 基特                   源×45    译×42   
+     Maurice Oakley                 → 莫里斯·奥克利              源×25    译×25   
+     Francis Oakley                 → 弗朗西斯·奥克利             源×2     译×2    
+     Kitty                          → 基蒂                   源×60    译×63   
+     Mrs. Jones                     → 琼斯太太                 源×18    译×21   
+     Mr. Thomas                     → 托马斯先生                源×14    译×15   
+     Sadness                        → 忧伤                   源×37    译×36   
+     Claire Lessing                 → 克莱尔·莱辛               源×6     译×6    
+     the Banner                     → 《旗帜报》                源×5     译×1     落位偏低 1/5
+     the A.M.E. church              → 非洲卫理公会               源×2     译×2    
+     the Tribe of Benjamin          → 便雅悯会                 源×2     译×2    
+     Cooney Island                  → 康尼岛                  源×1     译×1    
+     ragtime                        → 拉格泰姆                 源×6     译×6    
+     Jack                           → 杰克                   源×8     译×7    
+     Esterton                       → 埃斯特顿                 源×7     译×7    
+     Mrs. Oakley                    → 奥克利太太                源×18    译×20   
+     Isaac Brown                    → 艾萨克·布朗               源×1     译×1    
+     Minty Brown                    → 明蒂·布朗                源×9     译×9    
+     Aunt Chloe                     → 克洛伊大娘                源×1     译×1    
+     Horace Talbot                  → 霍勒斯·塔尔博特             源×3     译×3    
+     Beachfield Davis               → 比奇菲尔德·戴维斯            源×2     译×2    
+     Continental Hotel              → 大陆饭店                 源×5     译×10   
+     Jerry                          → 杰里                   源×1     译×1    
+     Dodson                         → 多德森                  源×2     译×2    
+     Hiram Gaskins                  → 海勒姆·加斯金斯             源×1     译×1    
+     Colonel Saunders               → 桑德斯上校                源×3     译×3    
+     Grand Jury                     → 大陪审团                 源×2     译×2    
+     Leslie                         → 莱斯利                  源×17    译×17   
+     Mis' Jedge Hill                → 希尔法官太太               源×1     译×1    
+     de “house” / the “house”       → 大宅                   源×0     译×5     ★源0次(幽灵?)
+     Jones                          → 琼斯                   源×5     译×1     落位偏低 1/5
+     New York                       → 纽约                   源×33    译×43   
+     Tonsorial Parlours             → 理发厅                  源×1     译×1    
+     Mercury                        → 墨丘利                  源×0     译×1     ★源0次(幽灵?)
+     Legion of Honour               → 荣誉军团勋章               源×1     译×1    
+     the Salon                      → 沙龙                   源×1     译×1    
+     Mrs. Davis                     → 戴维斯太太                源×1     译×1    
+     absinthe                       → 苦艾酒                  源×1     译×1    
+     the Banner Club                → 旗帜报俱乐部               源×3     译×4    
+     Mr. Turner                     → 特纳先生                 源×2     译×1    
+     Mr. Williams                   → 威廉斯先生                源×1     译×0     ★译0次(未落位?) 残留「忧伤」×36
+     Mr. Skaggs                     → 斯卡格斯先生               源×8     译×8    
+     Skaggsy                        → 斯卡格西                 源×15    译×15   
+     the Universe                   → 《宇宙报》                源×0     译×15    ★源0次(幽灵?)
+     Hattie Sterling                → 哈蒂·斯特林               源×15    译×17   
+     Maudie                         → 莫迪                   源×9     译×9     残留「女友」×1
+     Maudie                         → 莫迪                   源×0     译×0     ★源0次(幽灵?)
+     Mamie Lacey                    → 玛米·莱西                源×1     译×1    
+     Mr. Meriweather                → 梅里韦瑟先生               源×1     译×0     ★译0次(未落位?)
+     Hattie Sterling                → 哈蒂·斯特林               源×0     译×0     ★源0次(幽灵?)
+     Vermont                        → 佛蒙特州                 源×1     译×0     ★译0次(未落位?)
+     coon song                      → 浣熊歌                  源×1     译×1    
+     possum                         → 负鼠                   源×3     译×4    
+     Gibson                         → 吉布森                  源×8     译×8    
+====================================================================================================

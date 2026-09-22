@@ -1,0 +1,4 @@
+## Part
+ II The Book of His Fate
+
+> “O ye men, it is not the great king, nor the multitude of men, neither is it wine that excelleth; who is it then that ruleth them, or hath the lordship over them? Are they not women?”

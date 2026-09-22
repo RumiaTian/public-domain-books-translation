@@ -1,0 +1,83 @@
+====================================================================================================
+### h-c-mcneile_the-black-gang  (18 files)
+  块: O=370 C=370 OK | 段: EN=1572 CN=1574 !!差 -2
+     [不对称] chapter-18.md                                        O=8 C=8 段EN=118 段CN=119
+     [不对称] chapter-4.md                                         O=28 C=28 段EN=74 段CN=75
+  英文残留(剔括注) top: pericoloso×3, mon×3, Danger×2, de×2, mort×2, ami×2, hall×1, cara×1, mia×1, ch×1
+  项目说明备注: 惊险冒险小说，对话口语化、动作描写利落。注意 1920 年代英国上流社会用语与战间期政治语境（反布尔什维克色彩为时代产物，照译不评论）。
+  -- 术语表硬约束行 74 条:
+     Hugh Drummond                  → 休·德拉蒙德               源×23    译×17   
+     Bulldog Drummond               → 斗牛犬德拉蒙德              源×0     译×0     ★源0次(幽灵?)
+     Algy Longworth                 → 阿尔吉·朗沃思              源×4     译×4    
+     Zaboleff                       → 扎博列夫                 源×37    译×37   
+     Waldok/Waldock                 → 沃尔多克                 源×26    译×25   
+     Flash Jim / Jim                → 闪电吉姆 / 吉姆            源×30    译×30   
+     Inspector McIver               → 麦克艾弗督察               源×9     译×7    
+     Petrovitch                     → 彼得罗维奇                源×2     译×2    
+     Miss Farreydale                → 法雷戴尔小姐               源×3     译×3    
+     Dorothy / Lady Manton / Julia  → 多萝西 / 曼顿夫人 / 朱莉娅·曼顿  源×20    译×20   
+     Sir John Manton                → 约翰·曼顿爵士 / 约翰爵士       源×1     译×20   
+     Lord Staveley                  → 斯特夫利勋爵               源×2     译×2    
+     Denny                          → 丹尼                   源×40    译×39   
+     Mr. Darrell                    → 达雷尔先生                源×3     译×3    
+     Count Zadowa / the Count       → 扎多瓦伯爵 / 伯爵           源×82    译×62   
+     William Atkinson               → 威廉·阿特金森先生            源×4     译×4    
+     Charles Latter, M.P.           → 查尔斯·拉特（下院议员）         源×3     译×17   
+     Sir Bryan Johnstone            → 布莱恩·约翰斯通爵士           源×17    译×17   
+     Delmorlick                     → 德尔莫利克                源×17    译×17   
+     Cohen                          → 科恩                   源×7     译×7    
+     Archibald                      → 阿奇博尔德                源×1     译×1    
+     Lewer Brothers                 → 卢尔兄弟                 源×1     译×1    
+     Peterson / Carl Peterson       → 彼得森 / 卡尔·彼得森         源×107   译×78   
+     Reverend Theodosius Longmoor   → 西奥多修斯·朗摩尔牧师          源×17    译×4     落位偏低 4/17 残留「朗穆尔」×14
+     Irma                           → 伊尔玛                  源×12    译×12   
+     Janet                          → 珍妮特                  源×23    译×19   
+     Henry Lakington                → 亨利·拉金顿               源×1     译×1    
+     Snooks                         → 史努克斯                 源×19    译×19   
+     Tum-tum                        → 老邓邓                  源×16    译×14   
+     Phyllis Benton / Mrs. Drummond → 菲莉丝·本顿 / 德拉蒙德太太      源×10    译×9    
+     Number 13 / Number 10          → 十三号 / 十号             源×6     译×6    
+     Franz                          → 弗朗茨                  源×9     译×7    
+     Adolph                         → 阿道夫                  源×1     译×1    
+     Barking Creek / Barking        → 巴金溪 / 巴金             源×6     译×4    
+     Soho                           → 苏荷区                  源×1     译×1    
+     Hoxton                         → 霍克斯顿                 源×11    译×11   
+     Green Street                   → 格林街                  源×9     译×9    
+     Whitechapel                    → 白教堂区                 源×2     译×1    
+     Cowdenheath                    → 考登希思                 源×1     译×1    
+     Scotland Yard                  → 苏格兰场                 源×9     译×6    
+     Parliament                     → 议会                   源×8     译×3     落位偏低 3/8
+     City                           → 伦敦城                  源×2     译×1    
+     Whitehall                      → 白厅                   源×2     译×2    
+     Trafalgar Square               → 特拉法加广场               源×1     译×1    
+     Carlton                        → 卡尔顿饭店                源×4     译×3    
+     Sheffield                      → 谢菲尔德                 源×30    译×30   
+     West End                       → 伦敦西区                 源×1     译×1    
+     Edinburgh                      → 爱丁堡                  源×1     译×1    
+     Manchester                     → 曼彻斯特                 源×4     译×4    
+     Timbuktu                       → 廷巴克图                 源×1     译×1    
+     Holland                        → 荷兰                   源×1     译×1    
+     Russia                         → 俄国                   源×10    译×39   
+     the Ritz                       → 丽兹饭店                 源×29    译×16    落位偏低 16/29
+     Piccadilly                     → 皮卡迪利（大街）             源×8     译×8    
+     Brook Street                   → 布鲁克街                 源×5     译×5    
+     Berkeley Street                → 伯克利街                 源×1     译×1    
+     Berkeley Square                → 伯克利广场                源×1     译×1    
+     Bloomsbury / South Surrey Hote → 布卢姆斯伯里 / 南萨里饭店       源×7     译×7    
+     Austria / Vienna               → 奥地利 / 维也纳            源×7     译×9    
+     Mayfair                        → 梅费尔                  源×2     译×2    
+     The Black Gang                 → 黑帮                   源×63    译×79   
+     the Chief                      → 首领                   源×7     译×29   
+     the cat                        → 九尾鞭                  源×5     译×2     落位偏低 2/5
+     Woodbine                       → 「木莲」牌廉价烟             源×0     译×1     ★源0次(幽灵?)
+     the Great Master               → 大首长                  源×1     译×1    
+     Communism                      → 共产主义                 源×3     译×5    
+     M.P. (Member of Parliament)    → 下院议员 / 国会议员          源×3     译×3    
+     Cocker (according to Cocker)   → 老规矩 / 按规矩            源×1     译×2    
+     the Red International          → 红色国际                 源×1     译×1    
+     Charlie Chaplin                → 查理·卓别林               源×1     译×1    
+     Bridge                         → 桥牌                   源×19    译×1     落位偏低 1/19
+     *Alice in Wonderland*          → 《爱丽丝漫游奇境记》           源×2     译×1     残留「威廉神父」×1
+     Father William                 → 威廉神父                 源×1     译×1    
+     rhinoceros-hide whip           → 犀牛皮鞭                 源×1     译×1    
+

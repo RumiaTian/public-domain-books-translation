@@ -1,0 +1,105 @@
+ (20 files)
+  块: O=361 C=361 OK | 段: EN=2722 CN=2740 !!差 -18
+     [不对称] chapter-2.md                                         O=23 C=23 段EN=113 段CN=114
+     [不对称] chapter-8.md                                         O=14 C=14 段EN=116 段CN=117
+     [不对称] chapter-9.md                                         O=16 C=16 段EN=135 段CN=137
+     [不对称] chapter-10.md                                        O=19 C=19 段EN=103 段CN=104
+     [不对称] chapter-11.md                                        O=19 C=19 段EN=145 段CN=147
+     [不对称] chapter-12.md                                        O=15 C=15 段EN=109 段CN=112
+     [不对称] chapter-13.md                                        O=15 C=15 段EN=126 段CN=127
+     [不对称] chapter-14.md                                        O=31 C=31 段EN=275 段CN=276
+     [不对称] chapter-16.md                                        O=25 C=25 段EN=272 段CN=275
+     [不对称] chapter-17.md                                        O=10 C=10 段EN=150 段CN=152
+     [不对称] chapter-19.md                                        O=6 C=6 段EN=105 段CN=106
+  英文残留(剔括注) top: madame×5, bien×4, rie×4, cher×4, de×4, Philippe×4, petit×4, Et×3, la×3, ch×3
+  -- 术语表硬约束行 89 条:
+     Philip / Philippe              → 菲利普                  源×765   译×768  
+     Philip Jettan                  → 菲利普·杰坦               源×8     译×7    
+     Cleone                         → 克莱奥妮                 源×420   译×420  
+     Bancroft                       → 班克罗夫特                源×180   译×177  
+     Maurice                        → 莫里斯                  源×50    译×51   
+     Saint-Dantin (M. le Comte de / → 圣丹坦（伯爵/路易）           源×40    译×37   
+     M. de Chatelin (Henri)         → 德·夏特兰（亨利）            源×1     译×6    
+     Paul de Vangrisse              → 保罗·德·旺格里塞            源×2     译×2    
+     De Bergeret (Jules)            → 德·贝尔热雷（朱尔）           源×26    译×26   
+     the Vicomte / De Ravel (Charle → 德·拉维尔子爵（夏尔）          源×10    译×0     ★译0次(未落位?)
+     Julie de Marcherand            → 朱莉·德·马尔什朗            源×3     译×3    
+     Jeanne de Fontenay             → 让娜·德·丰特奈             源×1     译×1    
+     la Salévier                    → 萨尔维埃                 源×3     译×3    
+     De Graune                      → 德·格罗恩                源×1     译×1    
+     Mardry                         → 马尔德里                 源×1     译×1    
+     François                       → 弗朗索瓦                 源×77    译×77   
+     (Little) Fittledean            → （小）费蒂尔迪安             源×12    译×0     ★译0次(未落位?)
+     Malmerstoke                    → 马尔默斯托克               源×6     译×6    
+     Moggat                         → 莫加特                  源×46    译×47   
+     rondeau / ballade / sonnet     → 回旋诗 / 谣曲 / 十四行诗      源×23    译×23   
+     Tom                            → 汤姆                   源×156   译×155  
+     James                          → 詹姆斯                  源×63    译×63   
+     Jennifer                       → 珍妮弗                  源×56    译×56   
+     Brenderby                      → 布伦德比                 源×52    译×52   
+     Charteris                      → 查特里斯                 源×24    译×25   
+     Deryk                          → 德里克                  源×46    译×46   
+     Thomas (Jettan) / Tom          → 托马斯·杰坦 / 汤姆          源×23    译×2     落位偏低 2/23 残留「老汤姆」×4
+     Sir Maurice                    → 莫里斯爵士                源×196   译×196  
+     Maurry                         → 莫里                   源×24    译×24   
+     Mr. Winton                     → 温顿先生                 源×5     译×4    
+     Maria Marchant                 → 玛丽亚·马钱特              源×1     译×1    
+     Lucy Farmer                    → 露西·法默                源×1     译×1    
+     Marianne Tempest               → 玛丽安娜·坦皮斯特            源×1     译×1    
+     Jane Butterfield               → 简·巴特菲尔德              源×1     译×1    
+     Harry Besham                   → 哈里·贝沙姆               源×1     译×1    
+     Jettan’s Pride                 → 杰坦之傲                 源×2     译×15    残留「汤姆之傲」×1
+     Midhurst                       → 米德赫斯特                源×1     译×1    
+     Brighthelmstone                → 布赖特赫尔姆斯通             源×1     译×1    
+     the Downs / Sussex             → 唐斯丘陵 / 苏塞克斯          源×3     译×2    
+     Half-Moon Street               → 半月街                  源×3     译×3    
+     Newmarket                      → 纽马基特                 源×1     译×1    
+     the Jettan adage               → 杰坦家训                 源×2     译×2    
+     Society                        → 社交界                  源×15    译×11   
+     guinea                         → 几尼                   源×0     译×2     ★源0次(幽灵?)
+     Grand Tour                     → 壮游                   源×1     译×1    
+     squire                         → 乡绅                   源×2     译×1    
+     chocolate                      → 巧克力                  源×4     译×4    
+     unpolished cub                 → 没打磨过的粗坯              源×1     译×1    
+     Charteris / Sharley House      → 查特里斯（先生/太太）/ 沙利宅     源×9     译×0     ★译0次(未落位?)
+     Sir Matthew Trelawney          → 马修·特雷劳尼爵士            源×1     译×1    
+     Frederick King                 → 弗雷德里克·金              源×1     译×1    
+     Bancroft / Sir Harold / Henry  → 班克罗夫特 / 哈罗德爵士 / 亨利·班 源×28    译×7     落位偏低 7/28
+     Lady (Dolly) Marchand / Lord M → 马尔尚夫人（多莉）/ 马尔尚勋爵     源×4     译×3    
+     Ipswich                        → 伊普斯威奇                源×1     译×1    
+     Jenkins                        → 詹金斯                  源×1     译×1    
+     Hazard                         → 哈扎德                  源×3     译×1     落位偏低 1/3
+     Mistress/Madam                 → 小姐 / 太太              源×54    译×138  
+     Lady Malmerstoke               → 马尔默斯托克夫人             源×47    译×47   
+     Sarah / Sally                  → 萨拉 / 萨莉              源×28    译×28   
+     Clo / Jenny / Jamie            → 克洛 / 珍妮 / 杰米         源×55    译×62   
+     Mr. Winton / Winton            → 温顿（先生）               源×13    译×15   
+     Sir Deryk Brenderby            → 德里克·布伦德比爵士           源×2     译×2    
+     Mistress Ann Nutley            → 安·纳特利小姐              源×2     译×2    
+     M. de Foli-Martin              → 德·福利-马丁先生            源×3     译×3    
+     Lady Dering                    → 德林夫人                 源×1     译×1    
+     White’s                        → 怀特俱乐部                源×2     译×2    
+     Gregory’s card-party           → 格雷戈里家的牌局             源×1     译×1    
+     old Fotheringham               → 老福瑟林厄姆               源×1     译×1    
+     Sambo                          → 桑波                   源×1     译×1    
+     Guillaume Corvoisier           → 纪尧姆·科尔瓦西耶            源×1     译×1    
+     Jermyn Street                  → 杰明街                  源×2     译×2    
+     Hotel Cleone                   → 克莱奥妮公馆               源×2     译×2    
+     Duchesse (Madame) de Sauverin  → 德·索弗林公爵夫人            源×1     译×1    
+     Clothilde de Chaucheron        → 克洛蒂尔德·德·肖什龙          源×3     译×3    
+     Jacques                        → 雅克                   源×21    译×21   
+     Julie de Marcherand            → 朱莉·德·马尔什朗            源×0     译×0     ★源0次(幽灵?)
+     ratafia                        → 拉塔菲亚酒                源×1     译×1    
+     quarte / quinte                → 第四式 / 第五式            源×2     译×2    
+     sonnet                         → 十四行诗                 源×0     译×0     ★源0次(幽灵?)
+     法语对白                           → 保留原文并括注中译            源×0     译×0     ★源0次(幽灵?)
+     Le Marquis de Château-Banvau ( → 德·夏托-班沃侯爵（让）         源×1     译×1    
+     M. de Chambert                 → 德·尚贝尔先生              源×2     译×1    
+     Duchesse de Maugry             → 德·莫格里公爵夫人            源×1     译×1    
+     De Salmy                       → 德·萨尔米                源×1     译×1    
+     la Pompadour                   → 蓬帕杜夫人                源×3     译×3    
+     Versailles                     → 凡尔赛                  源×4     译×4    
+     le jeune Anglais               → 英国小郎君                源×1     译×1    
+     Mechlin cravat                 → 梅希纳花边领巾              源×1     译×1    
+     haresfoot                      → 兔脚刷                  源×4     译×1     落位偏低 1/4
+====================================================================================================

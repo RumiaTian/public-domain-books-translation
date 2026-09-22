@@ -1,0 +1,6 @@
+## XXXII A Trivial Incident
+The Angel came thoughtfully by the hedge across the field towards the Vicarage. The rays of the setting sun shone on his shoulders, and touched the Vicarage with gold, and blazed like fire in all the windows. By the gate, bathed in the sunlight, stood little Delia, the waiting maid. She stood watching him under her hand. It suddenly came into the Angel’s mind that she, at least, was beautiful, and not only beautiful but alive and warm.
+She opened the gate for him and stood aside. She was sorry for him, for her elder sister was a cripple. He bowed to her, as he would have done to any woman, and for just one moment looked into her face. She looked back at him and something leapt within her.
+The Angel made an irresolute movement. “Your eyes are very beautiful,” he said quietly, with a remote wonder in his voice.
+“Oh, sir!” she said, starting back. The Angel’s expression changed to perplexity. He went on up the pathway between the Vicar’s flowerbeds, and she stood with the gate held open in her hand, staring after him. Just under the rose-twined verandah he turned and looked at her.
+She still stared at him for a moment, and then with a queer gesture turned round with her back to him, shutting the gate as she did so, and seemed to be looking down the valley towards the church tower.

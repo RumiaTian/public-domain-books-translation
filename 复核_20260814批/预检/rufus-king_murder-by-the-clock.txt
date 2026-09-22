@@ -1,0 +1,52 @@
+====================================================================================================
+### rufus-king_murder-by-the-clock  (31 files)
+  块: O=335 C=334 !!不对称 | 段: EN=2073 CN=2071 !!差 2
+     [不对称] 12-06-a-m-the-stillness-of-a-grave.md                O=10 C=9 段EN=55 段CN=51
+     [不对称] 2-13-a-m-time-versus-death.md                        O=7 C=7 段EN=81 段CN=83
+  英文残留(剔括注) top: desk×1, shed×1, shedded×1
+  项目说明备注: 见术语表.md。
+  -- 术语表硬约束行 43 条:
+     Mrs. Endicott / Mrs. Herbert E → 恩迪科特夫人 / 赫伯特·恩迪科特夫人  源×251   译×248  
+     Herbert Endicott / Mr. Endicot → 赫伯特·恩迪科特 / 恩迪科特先生    源×85    译×84   
+     Lieutenant Valcour             → 瓦尔考中尉                源×319   译×317  
+     Marge Myles                    → 玛吉·迈尔斯               源×39    译×39   
+     Jane                           → 简                    源×5     译×31   
+     Maxfield Parrish               → 麦克斯菲尔德·帕里什           源×1     译×0     ★译0次(未落位?)
+     East Sixty-third Street        → 东六十三街                源×1     译×1    
+     Fifth Avenue                   → 第五大道                 源×2     译×3    
+     Madison Avenue                 → 麦迪逊大道                源×1     译×1    
+     Centre Street                  → 中央街                  源×1     译×1    
+     the Drive                      → 滨河大道                 源×6     译×3     落位偏低 3/6
+     St. Regis                      → 瑞吉酒店                 源×1     译×4    
+     Wall Street                    → 华尔街                  源×2     译×2    
+     New York                       → 纽约                   源×4     译×4    
+     Copenhagen                     → 哥本哈根                 源×1     译×1    
+     Trollhättan                    → 特罗尔海坦                源×1     译×1    
+     Sweden                         → 瑞典                   源×1     译×1    
+     McGill University              → 麦吉尔大学                源×1     译×2    
+     Spring 3100                    → 春局 3100 号分机          源×3     译×0     ★译0次(未落位?)
+     police headquarters            → 警察总部                 源×2     译×2    
+     precinct station               → 辖区分局                 源×4     译×4    
+     detective department           → 侦探部门                 源×1     译×1    
+     private investigator / private → 私家侦探 / 私家调查员         源×2     译×2    
+     the “fund”                     → “基金”                 源×1     译×1    
+     lieutenant                     → 中尉                   源×186   译×187  
+     patrolman                      → 巡警                   源×1     译×2    
+     inspector                      → 探长                   源×6     译×6    
+     tweed                          → 花呢                   源×1     译×1    
+     chiffon                        → 雪纺                   源×4     译×4    
+     pier glass                     → 穿衣镜                  源×1     译×1    
+     modernistic                    → 现代派                  源×1     译×1    
+     Dr. Sanford Worth              → 桑福德·沃思医生             源×1     译×2    
+     Calumet 8769                   → 卡卢梅特 8769 号          源×1     译×0     ★译0次(未落位?)
+     Roberts                        → 罗伯茨                  源×78    译×77   
+     Homicide Bureau                → 凶杀科                  源×1     译×5    
+     medical examiner               → 法医                   源×24    译×25   
+     Central Office                 → 总局                   源×11    译×13   
+     sergeant                       → 警佐                   源×4     译×4    
+     Exhibit A / B / C              → 甲 / 乙 / 丙号证物         源×4     译×9    
+     Heart of Buddha                → 佛心                   源×1     译×1    
+     Russian crown jewels           → 俄国皇室珠宝               源×1     译×1    
+     Lon Chaney                     → 朗·钱尼                 源×1     译×1    
+     Mayflower                      → 五月花号                 源×1     译×1    
+

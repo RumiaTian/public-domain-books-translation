@@ -1,0 +1,63 @@
+====================================================================================================
+### arthur-conan-doyle_the-maracot-deep  (7 files)
+  块: O=259 C=259 OK | 段: EN=497 CN=497 OK
+  英文残留(剔括注) top: Gastrostomus×1, globulus×1, cystoma×1, glaucus×1, Chimoera×1, mirabilis×1, lepidion×1, macrurus×1, Plumbus×1, longicaudatus×1
+  项目说明备注: 见术语表.md。本书为单一叙事弧中篇，主 agent 连续模式直译以保跨章连贯；注意斯坎伦美式口语腔与黑德利英式叙述腔的区分。
+  -- 术语表硬约束行 56 条:
+     Dr. Maracot / Professor Maraco → 马拉科特博士               源×30    译×27   
+     Cyrus Headley / Mr. Headley    → 赛勒斯·黑德利              源×20    译×5     落位偏低 5/20
+     Bill Scanlan                   → 比尔·斯坎伦               源×30    译×31   
+     Captain Howie                  → 豪伊船长                 源×3     译×3     残留「斯特拉特福德」×17
+     Sir James Talbot               → 詹姆斯·塔尔博特爵士           源×3     译×3    
+     MacLaren                       → 麦克拉伦                 源×1     译×1     残留「斯特拉特福德」×17
+     Mona                           → 莫娜                   源×17    译×17   
+     Manda                          → 曼达                   源×38    译×38   
+     Berbix                         → 伯布里克斯                源×0     译×8     ★源0次(幽灵?)
+     Warda                          → 沃达                   源×3     译×3    
+     Somerville                     → 萨默维尔                 源×1     译×2    
+     the *Stratford*                → 「斯特拉特福德」号            源×12    译×15   
+     the *Arabella Knowles*         → 「阿拉贝拉·诺尔斯」号          源×2     译×2    
+     the *Challenger*               → 「挑战者」号               源×1     译×1    
+     Merribank Works / Merribanks   → 梅里班克工厂               源×4     译×3    
+     Zoological Institute of Cambri → 剑桥动物学研究所             源×1     译×0     ★译0次(未落位?)
+     Trinity College, Oxford        → 牛津三一学院               源×1     译×1    
+     Albert Dock                    → 阿尔伯特码头               源×1     译×1    
+     Hunter and Company of West Har → 西哈特尔浦亨特公司            源×1     译×0     ★译0次(未落位?)
+     Grand Canary                   → 大加那利岛                源×3     译×3    
+     Porta de la Luz                → 卢斯港                  源×3     译×3    
+     Cape Juba                      → 朱比角                  源×1     译×1    
+     the Faroes                     → 法罗群岛                 源×1     译×1    
+     Wyville-Thomson Ridge          → 怀维尔-汤姆森海岭            源×1     译×1    
+     the Continental Slope          → 大陆坡                  源×1     译×1    
+     the Maracot Deep               → 马拉科特深渊               源×5     译×6    
+     Atlantis / Atlantean           → 亚特兰蒂斯 / 亚特兰蒂斯人       源×25    译×37   
+     the Refuge                     → 庇护所                  源×2     译×6    
+     the buried city                → 沉没之城                 源×1     译×1    
+     vitreous bell / vitrine bell   → 琉璃潜水钟                源×7     译×9    
+     vitreous ball / vitrine ball   → 琉璃球                  源×5     译×3    
+     levigen                        → 莱维根                  源×3     译×3    
+     oxygen apparatus               → 氧气装置                 源×1     译×1    
+     blanket fish                   → 毯子鱼                  源×1     译×1    
+     Peterson otter trawl           → 彼得森式拖网               源×1     译×1    
+     donkey-engine                  → 辅助蒸汽机                源×1     译×1    
+     sounding-line                  → 测深索                  源×1     译×4    
+     bathymetric chart              → 海深图                  源×1     译×1    
+     fathom                         → 英寻                   源×1     译×3    
+     the demon / the evil presence  → 魔王 / 邪灵 / 黑暗之君       源×4     译×5    
+     Marax                          → 马拉克斯                 源×2     译×2     残留「魔王」×2
+     Moloch / Baal                  → 摩洛 / 巴力              源×9     译×9    
+     Athena                         → 雅典娜                  源×2     译×2     残留「女神」×2
+     Solon                          → 梭伦                   源×2     译×2    
+     Sais                           → 赛斯                   源×2     译×2    
+     silica works                   → 硅石工坊                 源×1     译×2    
+     black magic / occult arts      → 黑魔法 / 神秘术            源×3     译×4    
+     materialist                    → 唯物论者                 源×2     译×2    
+     the spirit                     → 灵体 / 精灵              源×2     译×4    
+     *Plankton-Studien*             → 《浮游生物研究》             源×1     译×1    
+     the Lord(s) of the Dark Face   → 暗面之主 / 众暗面之主         源×6     译×2     落位偏低 2/6
+     Praxa                          → 普拉克萨                 源×1     译×1    
+     Krixchok                       → 克里克斯乔克               源×1     译×1    
+     *Hydrops ferox*                → 凶悍水兽                 源×1     译×1    
+     lamellaria                     → 片螺                   源×2     译×2    
+     thought cinema / thought refle → 思想影戏 / 思想投影屏         源×2     译×2    
+

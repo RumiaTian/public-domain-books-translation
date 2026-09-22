@@ -1,0 +1,25 @@
+## XXIII
+
+Kenneth did not see the dark forms that crouched like tigers in the shrubbery on either side of the long walk that led to the gate. But as he reached the ground, he turned just in time to see a shadowy body hurl itself upon him. Instinctively his right arm shot outwards and upwards. His clenched fist met flush on the point of the jaw the man who had attempted to hurl him to the ground. His would-be assailant gave a deep grunt and fell to the ground at Kenneth’s feet.
+
+Before he hit the ground, however, Kenneth found himself surrounded by a cursing, howling crowd. He lashed out blindly﻿—hitting wherever he saw what seemed to be a form. Madly, desperately, gloriously he fought! For a time he was more than a match for the fifteen that assailed him. He did not know that they had expected to take him by surprise. The surprise was now theirs. He heard a voice shout at him in rage: “Sleepin’ with a white woman, eh! You dirty black bastard!” With superhuman strength born of hatred, bitterness, and despair, he lunged at the speaker. Almost at the same time that his fist landed in the man’s face, his foot went into his stomach with a vengeance. He put into the blow and the kick all the repressed hatred and passion the day’s revelations had brought forth.
+
+It seemed to him he had been fighting there for hours, days, months! The odds fifteen to one against him﻿—his strength was as of the fifteen combined. No Marquis of Queensberry rules here! He knew it was a fight to the death, and he yelled aloud for sheer joy of the combat! In the darkness his assailants could not lay hands on him, for he was here, there, everywhere﻿—hitting, kicking, whirling, ducking blows, jumping this way and that﻿—a veritable dervish of the deserts in his gyrations! One after another his opponents went down at his feet! Windows began to be raised at the tumult. Shouts and cries of inquiry filled the air. But still Kenneth fought on.
+
+At last he saw an opening. Out went his fist! Down went the man who met it with his face! Shaking off one who sought to grasp him from behind, Kenneth stepped over the body of the one who had just gone down before him, and, like an expert halfback running in a broken field, darted out to the sidewalk. Fifty﻿—forty﻿—thirty﻿—twenty﻿—ten﻿—five more yards and he’d be in his car and away! At last, he reached it! Feverishly he wrenched open the door! He started to spring in! They’d never get him now!
+
+A shot rang out! Another! Another! Kenneth’s arm flew up. With a low moan he sank to the street beneath the car. He tried to rise. He couldn’t. The bullet had shattered his leg! On they came, howling, gloating fiendishly﻿—their rage increased by the mess they’d made of what was intended should be an easy job! Kenneth saw them come! He groaned and tried to draw the gun from his hip pocket. It hung in his clothing, pinned down as he was! If I only can get one or two of them, he thought, before they get me! On they came! The gun stuck! They had him! They pulled him out from beneath the car!﻿ ﻿…
+
+The next morning, in a house in the coloured section of Central City, there sat a girl.﻿ ﻿… Her eyes were dry.﻿ ﻿… Her face was that of despair.﻿ ﻿… Her grief was too deep for tears.﻿ ﻿… In her lap there lay a soft, white, lustrous, fluffy mass.﻿ ﻿… It looked like cream charmeuse﻿ ﻿… looked like a wedding-gown.﻿ ﻿… A woman entered the room.﻿ ﻿… Her eyes were haggard.﻿ ﻿… Around her shoulders an apron.﻿ ﻿… She’d put it on, thinking it a shawl.﻿ ﻿…
+
+“Honey! Honey!” she cried. “Mamie was sleeping﻿ ﻿… so I ran over a minute.”﻿ ﻿… She put her arms around the younger woman tenderly.﻿ ﻿… The dam broke.﻿ ﻿… The relief of tears came.﻿ ﻿… Hot, blinding, scalding tears rained down on the soft mass that now would never be used.﻿ ﻿… And the women cried together.﻿ ﻿…
+
+In the newspapers of the country there appeared the same day an Associated Press dispatch. It was sent out by Nat Phelps, editor of the *Central City Dispatch* and local agent for the Associated Press. It read:
+
+Another Negro Lynched in Georgia
+
+**Central City, GA**, Sept. 15.﻿—“Doc” Harper, a negro, was lynched here tonight, charged with attempted criminal assault on a white woman, the wife of a prominent citizen of this city. The husband was away from the city on business at the time, his wife and young daughter, who is seriously ill, being alone in the house. Harper evidently became frightened before accomplishing his purpose and was caught as he ran from the house. He is said to have confessed before being put to death by a mob which numbered five thousand. He was burned at the stake.
+
+This is the second lynching in Central City this week. On Thursday morning Bob Harper, a brother of the Negro lynched today, was killed by a posse after he had run amuck and killed two young white men. No reason could be found for their murder at the hands of the Negro, as they had always borne excellent reputations in the community. It is thought the Negro had become temporarily insane.
+
+In a telegram to the Governor today, Sheriff Parker reported that all was quiet in the city and he anticipated no further trouble.

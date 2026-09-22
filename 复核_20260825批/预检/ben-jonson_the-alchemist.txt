@@ -1,0 +1,59 @@
+====================================================================================================
+### ben-jonson_the-alchemist  (10 files)
+  块: O=116 C=116 OK | 段: EN=1726 CN=1732 !!差 -6
+     [不对称] 08-act-3.md                                          O=14 C=14 段EN=219 段CN=220
+     [不对称] 09-act-4.md                                          O=20 C=20 段EN=491 段CN=494
+     [不对称] 10-act-5.md                                          O=16 C=16 段EN=357 段CN=359
+  英文残留(剔括注) top: se×9, que×7, Scene×6, ores×5, de×5, Be×4, Se×4, Por×4, ora×4, mi×4
+  项目说明备注: - **格式**：剧本对话，提取后为 `**人物名**：台词`；舞台说明为整段斜体或行内 `*（动作）*`；幕/场标题 `## Act I`、`### Scene I`；人物名在对话行首与舞台说明中必须一致。前言部分（献词、致读者、本事、开场诗）为散文/诗体段落。 / - **幕/场标题**：合并格式 `## Act I / 第一幕`、`### Scene I / 第一场`（英文罗马数字保留，中文用汉字数字）。 / - **早期现代英语**：台词多为素体诗转散文，句法倒装与古拼（'Slight、'Slid、trow、sirrah、coz、an't、i'faith 等）密集，语气词译法按术语表策略统一。 / - **拉丁语/西班牙语**：炼金术语（aurum potabile、lapis philosophicus 等）与伪西班牙语（Señor、casa 等）照搬原文，首次出现括注中文。 / - **货币**：angel（安琪尔金币）、crown、pound、shilling、half-crown 等，音译/通行译名并保留数字。 / - **宗教背景**：惠尔萨姆与亚拿尼亚为阿姆斯特丹再
+  -- 术语表硬约束行 49 条:
+     Subtle                         → 萨特尔                  源×424   译×422   残留「博士」×56
+     Face                           → 费斯                   源×538   译×530   残留「队长」×45
+     Jeremy                         → 杰里米                  源×10    译×10   
+     Dol Common                     → 多尔·康门                源×110   译×110  
+     Dapper                         → 达珀                   源×81    译×81   
+     Abel Drugger                   → 亚伯·德拉格               源×2     译×2     残留「肺哥」×15
+     Lovewit                        → 洛维特                  源×83    译×83   
+     Sir Epicure Mammon             → 伊壁鸠鲁·玛蒙爵士            源×178   译×178  
+     Pertinax Surly                 → 珀蒂纳克斯·瑟利             源×94    译×94    残留「堂迭戈」×1
+     Tribulation Wholesome          → 特里比尤莱申·惠尔萨姆          源×33    译×33   
+     Ananias                        → 亚拿尼亚                 源×70    译×70   
+     Kastril                        → 卡斯特里尔                源×86    译×88    残留「好斗的少年」×1
+     Dame Pliant                    → 普莉恩特夫人               源×11    译×12   
+     Neighbours                     → 邻人们                  源×8     译×1     落位偏低 1/8
+     Officers / Attendants          → 官差们 / 仆从们            源×5     译×2     落位偏低 2/5
+     London                         → 伦敦                   源×4     译×5    
+     Amsterdam                      → 阿姆斯特丹                源×2     译×2    
+     the Friars                     → 修士区（黑衣修士区）           源×2     译×3    
+     Pimlico                        → 皮姆利科                 源×2     译×2    
+     Heidelberg                     → 海德堡                  源×2     译×2    
+     Scotland / Flanders 等          → 苏格兰 / 佛兰德斯 等         源×1     译×1    
+     the philosopher's stone / the  → 哲人石 / 石头             源×15    译×32   
+     elixir                         → 灵药                   源×7     译×7    
+     projection                     → 投射（点金）               源×9     译×12   
+     multiplication                 → 倍增                   源×0     译×0     ★源0次(幽灵?)
+     transmutation                  → 嬗变                   源×0     译×1     ★源0次(幽灵?)
+     casting figures                → 排盘起数                 源×1     译×1    
+     horoscope / genethliacal       → 星命盘                  源×1     译×1    
+     familiar (spirit)              → 侍灵                   源×3     译×7    
+     Queen of Fairy                 → 仙后                   源×4     译×6    
+     humours                        → 癖性                   源×2     译×4    
+     the Brethren                   → 弟兄会                  源×14    译×5     落位偏低 5/14
+     silenced saints                → 被禁声的圣徒               源×1     译×1    
+     the menstruous cloth and rag o → 罗马的污秽抹布              源×1     译×1    
+     Anabaptist                     → 再洗礼派                 源×1     译×3    
+     angel                          → 安琪尔金币                源×1     译×3     残留「天使」×1
+     Don Diego                      → 堂迭戈                  源×1     译×1    
+     Señor                          → 塞尼奥尔（阁下）             源×10    译×0     ★译0次(未落位?)
+     casa                           → 卡萨（宅子）               源×2     译×0     ★译0次(未落位?)
+     humours of the blood / choler  → 血中癖性 / 胆汁质           源×0     译×1     ★源0次(幽灵?)
+     hecatomb                       → 百牛大祭                 源×1     译×1    
+     aurum potabile                 → 可饮之金                 源×1     译×1    
+     lapis philosophicus            → 哲人石                  源×1     译×0     ★译0次(未落位?)
+     lapis mineralis                → 矿石                   源×1     译×1    
+     lunary                         → 月精（炼金物料名）            源×1     译×1    
+     lutum sapientis                → 智者之泥                 源×1     译×1    
+     menstruum simplex              → 单纯溶剂                 源×1     译×1    
+     equi clibanum                  → 马炉之热（炉温等级）           源×1     译×1    
+     terra filius / terrae fili     → 乡土之子（学子弄臣角色）         源×1     译×1    
+

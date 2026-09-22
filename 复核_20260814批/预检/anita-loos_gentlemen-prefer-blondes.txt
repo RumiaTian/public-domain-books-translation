@@ -1,0 +1,64 @@
+====================================================================================================
+### anita-loos_gentlemen-prefer-blondes  (7 files)
+  块: O=103 C=103 OK | 段: EN=286 CN=286 OK
+  英文残留(剔括注) top: kunst×11, paste×4, Lady×3, advocat×3, Honourable×2, bangle×2, Sharmant×2, Lord×1, solicitor×1, elles×1
+  项目说明备注: - 原文有大量故意的拼写/用词错误（如 tempermental、proffessor、senchure、senario、"for instants"），是刻画叙述者的关键手法；中文以天真絮叨、用词不当的语感对应，不逐一机械还原。 / - 日记日期条目（如 "March 16th:"）保留并译作「3月16日：」。 / - "I mean" 是罗蕾莱的高频口头禅，译法需全篇统一（建议「我是说」），保留絮叨节奏。
+  -- 术语表硬约束行 57 条:
+     Lorelei Lee                    → 罗蕾莱·李（Lorelei Lee）   源×0     译×0     ★源0次(幽灵?)
+     Dorothy                        → 多萝西（Dorothy）         源×344   译×335  
+     Gus Eisman / Mr. Eisman        → 格斯·艾斯曼（Gus Eisman）   源×109   译×4     落位偏低 4/109 残留「纽扣大王」×2 残留「受教育」×12
+     the Button King                → 纽扣大王                 源×2     译×2    
+     Gerald Lamson / Gerry          → 杰拉尔德·拉姆森（Gerald Lams 源×39    译×2     落位偏低 2/39
+     Lord Cooksleigh / Coocoo       → 库克斯利勋爵（Lord Cookslei 源×10    译×2     落位偏低 2/10
+     Mr. Bartlett                   → 巴特利特先生（Mr. Bartlett） 源×27    译×28   
+     Major Falcon                   → 福尔肯少校（Major Falcon）  源×40    译×42   
+     Mr. Mountginz                  → 芒特金兹先生（Mr. Mountginz 源×5     译×4    
+     Henry Spoffard                 → 亨利·斯波福德（Henry Spoffa 源×4     译×4    
+     Lulu                           → 露露（Lulu）             源×19    译×18   
+     Willie Gwynn                   → 威利·格温（Willie Gwynn）  源×12    译×12   
+     Joe Sanguinetti                → 乔·桑吉内蒂（Joe Sanguinet 源×3     译×3    
+     Judge Schultzmeyer             → 舒尔茨迈耶法官（Judge Schult 源×6     译×6    
+     Gilbertson Montrose            → 吉尔伯森·蒙特罗斯（Gilbertson 源×2     译×2    
+     Judge Hibbard                  → 希巴德法官（Judge Hibbard） 源×2     译×2    
+     Mr. Jennings                   → 詹宁斯先生（Mr. Jennings）  源×7     译×7    
+     Mr. Chaplin                    → 卓别林先生（Mr. Chaplin）   源×3     译×3    
+     Mr. Goldmark                   → 戈德马克先生（Mr. Goldmark） 源×2     译×2    
+     Eddie Goldmark                 → 埃迪·戈德马克（Eddie Goldma 源×2     译×2    
+     Dolly Madison                  → 多莉·麦迪逊（Dolly Madison 源×5     译×5    
+     Madame Recamier                → 雷卡米耶夫人（Madame Recami 源×1     译×1    
+     Florence Mills                 → 弗洛伦斯·米尔斯（Florence Mi 源×1     译×1    
+     Mr. Mencken                    → 门肯先生（Mr. Mencken）    源×1     译×1    
+     Helen of Troy                  → 特洛伊的海伦               源×1     译×1    
+     Little Rock                    → 小石城                  源×19    译×19   
+     Arkansas                       → 阿肯色州                 源×6     译×6    
+     New York                       → 纽约                   源×36    译×36   
+     the Ritz                       → 丽兹酒店                 源×37    译×22    落位偏低 22/37
+     the Colony                     → 科洛尼餐厅                源×4     译×1     落位偏低 1/4
+     the Trocadero                  → 特罗卡德罗                源×4     译×4    
+     the Follies                    → 《福利斯》歌舞团（the Follies 源×7     译×4     落位偏低 4/7
+     London                         → 伦敦                   源×55    译×54   
+     Paris                          → 巴黎                   源×50    译×51   
+     Vienna                         → 维也纳                  源×23    译×27   
+     Buda Pest                      → 布达佩斯                 源×4     译×4    
+     Hollywood                      → 好莱坞                  源×3     译×3    
+     Chicago                        → 芝加哥                  源×4     译×4    
+     Pennsylvania                   → 宾夕法尼亚                源×14    译×14   
+     Philadelphia                   → 费城                   源×7     译×7    
+     Central Europe                 → 中欧                   源×0     译×13    ★源0次(幽灵?)
+     Harlem                         → 哈莱姆                  源×1     译×1    
+     Long Beach / Long Island       → 长滩/长岛                源×3     译×3    
+     the cinema                     → 电影界                  源×8     译×9    
+     photoplay                      → 影片                   源×2     译×8    
+     photoplays / censor            → 审查影片/审查              源×3     译×9    
+     senario                        → 剧本（scenario 的故意错拼）   源×8     译×12   
+     bootlegger                     → 私酒贩子                 源×3     译×8    
+     debut / debutant               → 初入社交界/初入社交界的少女       源×36    译×33   
+     fate                           → 命运                   源×8     译×7    
+     brains                         → 头脑/脑子                源×32    译×50   
+     educating / improve my mind    → 受教育/增进心智             源×12    译×17   
+     gentleman / gentleman friend   → 绅士/绅士朋友              源×144   译×199  
+     "Shopper"                      → 「购物郎」                源×0     译×1     ★源0次(幽灵?)
+     Masonic ring                   → 共济会戒指                源×1     译×1    
+     social register                → 《社交名人录》              源×1     译×1    
+     Temperament(tempermental)      → 艺术家脾气                源×0     译×4     ★源0次(幽灵?)
+

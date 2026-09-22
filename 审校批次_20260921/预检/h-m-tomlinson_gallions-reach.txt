@@ -1,0 +1,489 @@
+====================================================================================================
+### h-m-tomlinson_gallions-reach  (41 files)
+  块: O=419 C=419 OK | 段: EN=1324 CN=1325 !!差 -1
+     [不对称] chapter-3.md                                         O=12 C=12 段EN=36 段CN=35
+     [不对称] chapter-38.md                                        O=20 C=20 段EN=43 段CN=45
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 481 条:
+     Colet                          → 科利特                  源×445   译×452  
+     Perriam                        → 佩里亚姆                 源×77    译×89   
+     Billiter Avenue                → 比利特大道                源×9     译×10   
+     Fenchurch Street               → 芬乔奇街                 源×1     译×2    
+     Leadenhall Street              → 利德贺街                 源×6     译×6    
+     Sinbad                         → 辛巴德                  源×3     译×3    
+     Memphis                        → 孟菲斯                  源×1     译×1    
+     Jesus of Nazareth              → 拿撒勒的耶稣               源×1     译×1    
+     Moloch                         → 摩洛                   源×2     译×2    
+     Baal                           → 巴力                   源×2     译×2    
+     Kuan-yin                       → 观音                   源×13    译×13   
+     Nankin jar                     → 南京瓷罐                 源×1     译×1    
+     The Ship                       → 「船」酒馆                源×76    译×1     落位偏低 1/76
+     opium clipper                  → 鸦片飞剪船                源×2     译×2    
+     vestals                        → 维斯塔贞女（喻清洁妇）          源×1     译×2    
+     gambir                         → 黑儿茶                  源×1     译×1    
+     myrobalans                     → 诃子                   源×1     译×1    
+     mace                           → 肉豆蔻衣                 源×1     译×1    
+     annatto                        → 胭脂树红                 源×1     译×1    
+     Iliad                          → 《伊利亚特》               源×1     译×1    
+     Jim                            → 吉姆                   源×8     译×8    
+     Jim Colet                      → 吉姆·科利特               源×2     译×2    
+     London                         → 伦敦                   源×35    译×38   
+     Kent                           → 肯特                   源×1     译×1    
+     Essex                          → 埃塞克斯                 源×1     译×1    
+     Princess Alice                 → 爱丽丝公主号               源×1     译×1    
+     Gallions Reach                 → 加利恩斯河段               源×3     译×3    
+     steamer                        → 汽船                   源×15    译×16   
+     bridge                         → 驾驶台                  源×17    译×17   
+     bows                           → 船首                   源×6     译×12   
+     foredeck                       → 前甲板                  源×9     译×10   
+     officer                        → 驾驶员                  源×11    译×8    
+     tide                           → 潮水                   源×11    译×6     落位偏低 6/11
+     Helen Denny                    → 海伦·丹尼                源×3     译×3    
+     Lamb                           → 兰姆                   源×8     译×7    
+     Gentle Elia                    → 「温厚的伊利亚」             源×1     译×1    
+     South Sea House                → 南海公司大楼               源×1     译×1    
+     Kipling                        → 吉卜林                  源×1     译×1    
+     "Mary Gloster"                 → 「玛丽·格洛斯特号」           源×0     译×0     ★源0次(幽灵?)
+     Wells                          → 威尔斯                  源×1     译×1    
+     Ballantyne                     → 巴兰坦                  源×2     译×2    
+     Harmsworth                     → 哈姆斯沃思                源×1     译×1    
+     Charley                        → 查利                   源×1     译×1    
+     Silenus                        → 西勒诺斯                 源×1     译×1    
+     Christ                         → 基督                   源×1     译×3    
+     the Caesars                    → 恺撒们                  源×1     译×1    
+     Buddha                         → 佛陀                   源×4     译×3    
+     Lohan                          → 罗汉                   源×3     译×3    
+     Crusoe                         → 克鲁索                  源×2     译×2    
+     the angel Gabriel              → 加百列天使                源×1     译×1    
+     Wren                           → 雷恩                   源×1     译×1    
+     John Company                   → 约翰公司                 源×1     译×1    
+     Hudson's Bay Company           → 哈德逊湾公司               源×1     译×1    
+     Rupert's Land                  → 鲁珀特地                 源×1     译×1    
+     P. & O.                        → P.&O.（半岛东方轮船公司）      源×1     译×1    
+     Lime Street                    → 莱姆街                  源×1     译×1    
+     Gracechurch Street             → 格雷丘奇街                源×1     译×1    
+     Cannon Street                  → 坎农街                  源×2     译×2    
+     East India Avenue              → 东印度大道                源×1     译×1    
+     London Bridge                  → 伦敦桥                  源×2     译×2    
+     Blackfriars Bridge             → 黑衣修士桥                源×1     译×1    
+     Ludgate Circus                 → 勒德盖特圆环               源×2     译×2    
+     Theydon Bois                   → 泰斯登布瓦                源×1     译×1    
+     London Stone                   → 伦敦石                  源×1     译×1    
+     Surrey                         → 萨里郡                  源×1     译×1    
+     British and Foreign Wharf      → 「不列颠与海外」码头           源×1     译×1    
+     St. Paul's                     → 圣保罗大教堂               源×2     译×1    
+     British Museum                 → 大英博物馆                源×3     译×3    
+     the Abbey                      → 威斯敏斯特教堂              源×1     译×1    
+     Amaravati                      → 阿马拉瓦蒂                源×1     译×1    
+     Samian ware                    → 萨摩斯陶器                源×1     译×1    
+     Burma                          → 缅甸                   源×4     译×4    
+     Hampstead                      → 汉普斯特德                源×1     译×1    
+     Bond Street                    → 邦德街                  源×1     译×1    
+     Burgundy                       → 勃艮第葡萄酒               源×1     译×1    
+     shove-ha'penny                 → 「推半便士」               源×3     译×0     ★译0次(未落位?)
+     Past and Present               → 《过去与现在》              源×1     译×1    
+     Evensong                       → 晚祷                   源×1     译×1    
+     Brixton                        → 布里克斯顿                源×2     译×2    
+     Manchester                     → 曼彻斯特                 源×1     译×1    
+     St. Mary Axe                   → 圣玛丽斧街                源×1     译×1    
+     Jerusalem                      → 耶路撒冷                 源×1     译×1    
+     Chrysolite                     → 『克里索利特号』             源×1     译×1    
+     Axminster                      → 阿克斯明斯特               源×2     译×2    
+     Aldgate                        → 奥德门                  源×3     译×3    
+     Ratcliffe Highway              → 拉德克利夫大道              源×1     译×1    
+     Stepney Station                → 斯特普尼车站               源×1     译×1    
+     Erebus                         → 厄瑞玻斯                 源×1     译×1    
+     Cyclopean                      → 库克罗普斯式巨石             源×1     译×0     ★译0次(未落位?)
+     Hades                          → 哈得斯                  源×1     译×1    
+     Apollyon                       → 亚玻伦                  源×2     译×2    
+     Belial                         → 彼列                   源×1     译×1    
+     Charon                         → 卡戎                   源×2     译×2    
+     the valley of the shadow       → 死荫的幽谷                源×1     译×1    
+     Southern Cross                 → 南十字号                 源×1     译×1    
+     Wu Fu Li                       → 吴福利                  源×1     译×1    
+     Bill                           → 比尔                   源×3     译×1     落位偏低 1/3
+     Gallions（单独出现）                 → 加利恩斯                 源×3     译×3     残留「加利恩斯河段」×3
+     lascar                         → 拉斯卡尔水手               源×0     译×2     ★源0次(幽灵?)
+     potman                         → 酒馆伙计                 源×2     译×1    
+     guv'nor                        → 长官                   源×1     译×1     残留「先生」×156
+     by cripes                      → 老天在上                 源×1     译×3    
+     the Gridiron                   → 「烤架」                 源×6     译×6    
+     Soho                           → 苏荷区                  源×2     译×2    
+     Suvretta                       → 苏弗雷塔                 源×3     译×3    
+     Doris Oliver                   → 多丽丝·奥利弗              源×1     译×1    
+     Saffron Hill                   → 萨弗伦山                 源×1     译×1    
+     'Twelfth Mass'                 → 『第十二弥撒』              源×1     译×1    
+     Walcott                        → 沃尔科特                 源×4     译×4    
+     Princess Olga                  → 奥尔加公主                源×1     译×1     残留「烤架」×6
+     Brynhild                       → 布伦希尔德                源×1     译×1    
+     Bloomsbury                     → 布卢姆斯伯里               源×2     译×2    
+     Tanagra figurine               → 塔纳格拉陶俑               源×1     译×0     ★译0次(未落位?)
+     tonka beans                    → 零陵香豆                 源×1     译×1    
+     dogfish                        → 狗鲨                   源×2     译×3    
+     protozoa                       → 原生动物                 源×1     译×1    
+     dado                           → 墙裙                   源×2     译×2    
+     taxicab                        → 出租汽车                 源×1     译×1    
+     opal                           → 蛋白石                  源×2     译×3    
+     Quakeress                      → 贵格会女子                源×1     译×1    
+     Dickens                        → 狄更斯                  源×1     译×1    
+     Sinclair                       → 辛克莱尔                 源×96    译×94   
+     Altair                         → 牵牛星号                 源×18    译×18   
+     chief officer / mate           → 大副                   源×13    译×14   
+     boatswain（Bo'sun）              → 水手长                  源×4     译×5    
+     weather-cloth                  → 防浪帆布                 源×1     译×1    
+     Captain Hale                   → 黑尔船长                 源×6     译×5    
+     Plymouth                       → 普利茅斯                 源×3     译×3    
+     Gravesend                      → 格雷夫森德                源×2     译×2    
+     the old man                    → 老头子                  源×23    译×16   
+     steward                        → 服务员                  源×13    译×14   
+     pilot                          → 引水员                  源×5     译×5    
+     launch                         → 汽艇                   源×5     译×4    
+     gangway                        → 舷梯                   源×2     译×3    
+     protoplasmic reef / polyp      → 原生质礁石／珊瑚虫            源×3     译×3    
+     Mr. Gillespie                  → 吉莱斯皮先生               源×1     译×1    
+     Wilson                         → 威尔逊                  源×22    译×22   
+     chief engineer                 → 轮机长                  源×4     译×11   
+     chart-room                     → 海图室                  源×1     译×1    
+     skipper                        → 船长                   源×4     译×93   
+     dividers                       → 分规                   源×2     译×2    
+     the first of the ebb           → 落潮之初                 源×1     译×1    
+     Altair                         → 牵牛星号                 源×0     译×0     ★源0次(幽灵?)
+     Harlow                         → 哈洛号                  源×3     译×3    
+     Bennett                        → 贝内特                  源×6     译×6    
+     Hale                           → 黑尔                   源×53    译×54   
+     Sinclair                       → 辛克莱                  源×0     译×1     ★源0次(幽灵?) 残留「大副」×14
+     Rip van Winkle                 → 瑞普·凡·温克尔             源×1     译×1    
+     Greenwich                      → 格林尼治                 源×1     译×1    
+     China Sea                      → 中国海                  源×5     译×6    
+     Singapore                      → 新加坡                  源×3     译×3    
+     Angkor                         → 吴哥                   源×1     译×1    
+     Bangkok                        → 曼谷                   源×3     译×3    
+     Cambodia                       → 柬埔寨                  源×1     译×1    
+     the Derby                      → 德比大赛                 源×1     译×1    
+     Oxford Street                  → 牛津街                  源×1     译×1    
+     Cardiff                        → 加的夫                  源×1     译×1    
+     Noah's Ark / Noah              → 挪亚方舟／挪亚              源×5     译×5    
+     Staffordshire ware             → 斯塔福德郡陶器              源×1     译×1    
+     Limehouse                      → 莱姆豪斯                 源×1     译×1    
+     Woolwich                       → 伍利奇                  源×1     译×1    
+     Kings of Memphis               → 孟菲斯的列王               源×1     译×1    
+     chronometer                    → 天文钟                  源×1     译×1    
+     gin and bitters                → 金酒加苦精                源×1     译×1    
+     bumboatman                     → 靠舷兜售的小贩船主            源×1     译×1    
+     launch                         → 交通艇                  源×0     译×1     ★源0次(幽灵?)
+     gimbals                        → 平衡环                  源×1     译×1    
+     eight bells                    → 八击钟                  源×3     译×3     残留「一切平安」×2
+     settee                         → 舱室长椅                 源×4     译×4    
+     oilskins                       → 油布衣裤                 源×3     译×3    
+     bunk                           → 铺位                   源×11    译×10   
+     Devon                          → 德文郡                  源×2     译×2    
+     bowler hat                     → 圆顶硬礼帽                源×1     译×1    
+     lee-rail                       → 下风栏杆                 源×1     译×1    
+     amidships                      → 船腰                   源×6     译×6    
+     cheroot                        → 方头雪茄                 源×1     译×1    
+     saloon                         → 餐厅                   源×7     译×6    
+     log（动词）                        → 记入航海日志               源×1     译×0     ★译0次(未落位?)
+     the Scots / Scotch             → 苏格兰人／苏格兰话            源×4     译×7    
+     Shakespeare                    → 莎士比亚                 源×3     译×3    
+     Burns                          → 彭斯                   源×2     译×2    
+     macadam                        → 马克当碎石路               源×1     译×0     ★译0次(未落位?)
+     Aberdonian                     → 阿伯丁人                 源×1     译×0     ★译0次(未落位?)
+     bloater                        → 熏鲱鱼                  源×1     译×2    
+     Pidgin-English                 → 洋泾浜英语                源×1     译×1    
+     Chinese Number One             → 华人一号                 源×1     译×1    
+     Chink                          → 中国佬                  源×7     译×7    
+     Bay of Biscay                  → 比斯开湾                 源×1     译×1    
+     Tangier                        → 丹吉尔                  源×2     译×2    
+     Africa                         → 非洲                   源×3     译×3    
+     Odyssey                        → 《奥德赛》                源×1     译×1    
+     weather dodger                 → 上风防浪挡板               源×1     译×0     ★译0次(未落位?)
+     wheelhouse                     → 操舵室                  源×1     译×1    
+     forecastle                     → 艏楼                   源×6     译×7    
+     Queen's Palace of Varieties    → 女王杂耍宫                源×1     译×1    
+     Poplar High Street             → 波普勒大街                源×1     译×1    
+     South Dock                     → 南船坞                  源×1     译×1    
+     barque                         → 三桅帆船                 源×2     译×2    
+     Jenny Hill                     → 珍妮·希尔                源×1     译×1    
+     the Vital Spark                → 「生命的火花」              源×1     译×0     ★译0次(未落位?)
+     The Great Macdermott           → 伟大的麦克德莫特             源×1     译×1    
+     by jingo                       → 天老爷在上                源×1     译×1    
+     clippers                       → 飞剪船                  源×1     译×1    
+     chipping hammer                → 敲锈锤                  源×2     译×2    
+     wake                           → 尾流                   源×4     译×2     落位偏低 2/4
+     Circe                          → 喀耳刻                  源×2     译×2    
+     Port Said                      → 塞得港                  源×2     译×2    
+     Suez                           → 苏伊士                  源×1     译×1    
+     Syria                          → 叙利亚                  源×1     译×1    
+     Moses                          → 摩西                   源×1     译×1    
+     Red Sea                        → 红海                   源×1     译×1    
+     Socotra                        → 索科特拉岛                源×4     译×4     残留「锯齿纷乱的地平线」×1
+     monsoon                        → 季风                   源×2     译×3    
+     hatch covers                   → 舱盖                   源×1     译×2    
+     stanchion                      → 立柱                   源×3     译×5    
+     cabin port                     → 舷窗                   源×1     译×13   
+     one bell                       → 头一声钟                 源×3     译×1     落位偏低 1/3
+     messmates                      → 同席伙伴                 源×1     译×0     ★译0次(未落位?)
+     Arabian Gulf                   → 阿拉伯湾                 源×1     译×1    
+     engine-room                    → 机舱                   源×5     译×5     残留「文明和机器」×1
+     Rotterdam                      → 鹿特丹                  源×1     译×1    
+     Indian Ocean                   → 印度洋                  源×3     译×3     残留「像它的名字一样招人」×1
+     cutwater                       → 艏刃                   源×2     译×2    
+     hawsepipes                     → 锚链筒                  源×2     译×2    
+     rollers                        → 涌浪                   源×2     译×7    
+     crescent valves                → 新月形气孔                源×1     译×0     ★译0次(未落位?)
+     familiars of the deep          → 深海的精灵                源×1     译×1    
+     beam sea                       → 横浪                   源×1     译×2    
+     third officer                  → 三副                   源×2     译×2    
+     the glass                      → 气压计                  源×5     译×3    
+     high-pressure cylinder         → 高压汽缸                 源×1     译×1    
+     packing                        → 填料                   源×2     译×1    
+     purser                         → 事务长                  源×18    译×18    残留「客串的事务长」×1
+     stowage plan                   → 积载图                  源×1     译×1    
+     pantry                         → 配膳室                  源×1     译×1    
+     cyclone                        → 气旋                   源×1     译×2    
+     steering-gear                  → 操舵装置                 源×2     译×2     残留「好像是操舵装置」×1
+     rudder                         → 舵                    源×6     译×28    残留「舵没了」×1
+     sea-boots                      → 长筒雨靴                 源×1     译×1    
+     sou'wester                     → 油布帽                  源×2     译×2     残留「显出几分女人相」×1
+     Casabianca                     → 卡萨比安卡                源×1     译×1    
+     companion                      → 升降口                  源×21    译×3     落位偏低 3/21
+     quarterdeck                    → 后甲板                  源×1     译×2    
+     bridge-deck                    → 驾驶台甲板                源×1     译×1    
+     cubbyhole                      → 小鸽子笼                 源×1     译×1    
+     wire noose                     → 铁丝活套                 源×1     译×1    
+     antiphon of doom               → 末日的应答轮唱              源×1     译×1    
+     Norrie                         → 诺里                   源×162   译×165  
+     Collins                        → 柯林斯                  源×28    译×28   
+     Lycett                         → 莱塞特                  源×17    译×17    残留「那孩子」×4
+     Rangoon                        → 仰光                   源×13    译×13   
+     Siam / Siamese                 → 暹罗／暹罗的               源×5     译×5    
+     Wat Chinareth                  → 奇纳雷寺                 源×1     译×1    
+     Royal School of Mines          → 皇家矿业学校               源×1     译×1    
+     Glasgow                        → 格拉斯哥                 源×1     译×1    
+     liner                          → 班轮                   源×9     译×9    
+     surgeon                        → 船医                   源×10    译×10   
+     smoke-room                     → 吸烟室                  源×1     译×1    
+     road metalling                 → 筑路碎石                 源×3     译×3    
+     prospector                     → 探矿的                  源×1     译×2    
+     metallurgist                   → 冶金学家                 源×1     译×1    
+     briar                          → 石楠木烟斗                源×2     译×2    
+     troy weight                    → 金衡                   源×1     译×1    
+     destitute seaman               → 一文不名的海员              源×2     译×2    
+     quinine                        → 奎宁                   源×3     译×3    
+     pick-me-up                     → 提神酒                  源×1     译×0     ★译0次(未落位?)
+     purgatory                      → 那座炼狱                 源×2     译×2    
+     Lycett                         → 莱塞特                  源×0     译×0     ★源0次(幽灵?)
+     Collins                        → 柯林斯                  源×0     译×0     ★源0次(幽灵?)
+     second officer                 → 二副                   源×2     译×2    
+     greaser                        → 机舱加油工                源×1     译×2    
+     speaking-tube                  → 传话管                  源×1     译×1    
+     Chanticleer                    → 尚提克利尔                源×1     译×1    
+     liner                          → 班轮                   源×0     译×0     ★源0次(幽灵?)
+     bridge-house                   → 驾驶台                  源×3     译×0     ★译0次(未落位?) 残留「操舵室」×1
+     furnace footplates             → 锅炉前的踏板               源×1     译×1    
+     by the head                    → 头重                   源×1     译×1     残留「她的头沉了」×1
+     bulkhead                       → 舱壁                   源×3     译×5    
+     engine-room casing             → 机舱围壁                 源×1     译×1    
+     gratings                       → 格栅                   源×1     译×1    
+     davits / falls                 → 吊艇架／吊艇索              源×3     译×2    
+     block                          → 滑车                   源×1     译×1    
+     coaming                        → 舱口围板                 源×1     译×0     ★译0次(未落位?)
+     stoker                         → 司炉                   源×2     译×2    
+     flimsies                       → 薄衫                   源×1     译×1    
+     japanned dispatch box          → 漆面公文箱                源×1     译×1    
+     man rope                       → 扶手绳                  源×1     译×1    
+     con（动词）                        → 端详                   源×1     译×24    残留「把这条船细细端详了一遍」×1
+     galley                         → 厨房                   源×5     译×5    
+     forecastle deck                → 艏楼甲板                 源×1     译×2    
+     funnel                         → 烟囱                   源×7     译×10   
+     propeller                      → 螺旋桨                  源×4     译×4    
+     abeam                          → 正横                   源×2     译×2     残留「班轮差不多正横了」×1
+     tow（名词／动词）                     → 拖带                   源×3     译×3    
+     couplings                      → 联结节                  源×1     译×1    
+     Percy                          → 珀西                   源×1     译×1    
+     Alf                            → 阿尔夫                  源×1     译×1     残留「绅士盥洗室」×1
+     Dave                           → 戴夫                   源×3     译×3     残留「那件衬衫」×1
+     Alec                           → 亚历克                  源×2     译×2    
+     Jim（水手）                        → 吉姆                   源×0     译×0     ★源0次(幽灵?)
+     lug(sail)                      → 斜桁帆                  源×1     译×1    
+     stern-sheets                   → 艇尾座                  源×1     译×1    
+     gunwale                        → 舷缘                   源×2     译×2    
+     halyards                       → 升降索                  源×1     译×1    
+     thwarts                        → 横座板                  源×1     译×1    
+     bottom-boards                  → 艇底板                  源×1     译×2    
+     breaker                        → 淡水桶                  源×1     译×1    
+     featherbeds                    → 羽绒床                  源×1     译×1    
+     widder                         → 寡妇                   源×1     译×1     残留「又暖和又舒服的小店」×1
+     brass monkeys                  → 黄铜铸的猴子               源×1     译×1    
+     put a stopper in it            → 别作声                  源×1     译×1    
+     gentlemen’s room               → 绅士盥洗室                源×1     译×1    
+     balmy / loonies                → 发疯／疯子                源×2     译×7     残留「疯子一律扔下海去」×1
+     the way of traffic             → 船舶来往的道上              源×1     译×1    
+     domesday                       → 末日审判                 源×2     译×2    
+     Styx                           → 斯提克斯（冥河）             源×1     译×1    
+     Helicon                        → 赫利孔山                 源×1     译×1    
+     the Last Hope                  → 「最后的希望」              源×1     译×1    
+     Pleiades                       → 昴星团                  源×1     译×1     残留「正挨着正横」×1
+     Sphinx                         → 斯芬克斯                 源×1     译×1    
+     double-reefed / goose-winged   → 收两道缩帆／张成蝴蝶帆          源×2     译×1    
+     luff（名词）                       → 帆前缘                  源×1     译×0     ★译0次(未落位?)
+     luff（动词）                       → 抢风转向上风               源×0     译×1     ★源0次(幽灵?)
+     Sail-ho!                       → 见船喽！                 源×1     译×1    
+     light / lifted（望见）             → 望见                   源×95    译×23    落位偏低 23/95
+     “That’s all, Colet. Time to go → 「就这些了，科利特。该走了。」      源×2     译×1    
+     Gulf of Martaban               → 马达班湾                 源×1     译×1    
+     Martaban                       → 马达班                  源×1     译×1    
+     Irrawaddy                      → 伊洛瓦底江                源×1     译×1    
+     Nibong                         → 『尼邦号』                源×4     译×4    
+     coaster                        → 近海轮                  源×3     译×3    
+     Brompton Road                  → 布朗普顿路                源×1     译×1    
+     Moulmein                       → 毛淡棉                  源×2     译×2    
+     Tavoy                          → 土瓦                   源×1     译×1    
+     Mergui                         → 丹老                   源×2     译×2    
+     Mergui Islands                 → 丹老群岛                 源×1     译×1    
+     lapis-lazuli                   → 青金石                  源×1     译×1    
+     carnelian                      → 红玉髓                  源×1     译×1    
+     oboe                           → 双簧管                  源×1     译×1    
+     Babylon                        → 巴比伦                  源×1     译×1    
+     Senang                         → 「瑟南」                 源×1     译×1     残留「安逸」×2
+     Clovelly                       → 克洛弗利                 源×1     译×1    
+     Bella Vista                    → 贝拉维斯塔                源×1     译×1    
+     Ah Loi                         → 阿洛伊                  源×21    译×21   
+     chit                           → 条子                   源×1     译×2    
+     Sikh                           → 锡克                   源×1     译×1    
+     sibyl                          → 西比尔                  源×0     译×2     ★源0次(幽灵?)
+     Cathay                         → 古中国                  源×1     译×1    
+     coolie                         → 苦力                   源×2     译×5    
+     rajah                          → 拉贾                   源×5     译×6    
+     jinrickshaw / rickshaw         → 人力车                  源×3     译×4    
+     Riviera                        → 里维埃拉                 源×1     译×1    
+     Strait of Malacca              → 马六甲海峡                源×1     译×2    
+     Ah Loi                         → 阿洛伊                  源×0     译×0     ★源0次(幽灵?)
+     Penang                         → 槟城                   源×17    译×17   
+     Malaya / Malayan               → 马来亚／马来亚的             源×8     译×7    
+     Sumatra                        → 苏门答腊                 源×2     译×2    
+     Marco Polo                     → 马可·波罗                源×1     译×1    
+     junk                           → 中国帆船                 源×2     译×2    
+     rickshaw                       → 人力车                  源×0     译×0     ★源0次(幽灵?)
+     genie                          → 精灵                   源×2     译×8    
+     kowtow                         → 磕头                   源×1     译×1    
+     stengah                        → 『司登加』                源×3     译×4     残留「半」×97
+     tiffin                         → 午餐                   源×2     译×2    
+     Pahang                         → 彭亨                   源×1     译×1    
+     Cantonese                      → 广东人                  源×1     译×1    
+     Kubla                          → 忽必烈                  源×1     译×1    
+     sarong                         → 纱笼                   源×4     译×4    
+     the communion                  → 圣餐                   源×1     译×1     残留「不叫出名字」×1
+     Dutch wife                     → 「荷兰妻子」               源×1     译×1    
+     meat safe                      → 食品纱橱                 源×2     译×2    
+     the Little People              → 小人族                  源×1     译×1    
+     mantid                         → 螳螂                   源×2     译×2    
+     chee-chak                      → 『唧喀』                 源×2     译×0     ★译0次(未落位?)
+     boggarts and kobolds           → 家妖地精                 源×1     译×1    
+     Plato                          → 柏拉图                  源×1     译×1    
+     Aphrodite                      → 阿芙罗狄忒                源×1     译×1    
+     crotons                        → 变叶木                  源×1     译×1    
+     Ithaca                         → 伊萨卡                  源×1     译×1    
+     Argo                           → 阿尔戈号                 源×1     译×1    
+     coolie                         → 苦力                   源×0     译×0     ★源0次(幽灵?)
+     hopscotch                      → 跳房子                  源×1     译×1    
+     workhouse / skilly             → 济贫院／稀粥               源×2     译×2    
+     prahu                          → 普拉胡帆船                源×0     译×1     ★源0次(幽灵?)
+     sampan                         → 舢板                   源×0     译×2     ★源0次(幽灵?)
+     parang                         → 帕兰刀                  源×2     译×3    
+     durian                         → 榴莲                   源×0     译×2     ★源0次(幽灵?) 残留「太平间里漏出的煤气」×1
+     Homer                          → 荷马                   源×1     译×1    
+     Chelsea                        → 切尔西                  源×1     译×1    
+     Clapham Junction               → 克拉彭枢纽站               源×1     译×1     残留「上帝保佑克拉彭枢纽站」×1
+     Leicester Square               → 莱斯特广场                源×1     译×1     残留「还立在老地方吗」×1
+     orang puteh / orang blanda     → 『奥朗布特』白人／『奥朗布兰达』黄种人  源×2     译×0     ★译0次(未落位?)
+     corkscrew                      → 开塞钻                  源×2     译×3    
+     commercial traveller           → 旅行推销员                源×1     译×1    
+     monocle                        → 单片眼镜                 源×2     译×4    
+     hardware / ironmongery         → 五金／五金器皿              源×3     译×3     残留「不。五金。」×1
+     saloon passenger               → 头等舱乘客                源×1     译×1    
+     derrick                        → 起重吊杆                 源×1     译×1    
+     lighter                        → 驳船                   源×1     译×2    
+     mangrove swamp                 → 红树林沼泽                源×2     译×2    
+     bungalow                       → 平房                   源×1     译×1    
+     water-bottle                   → 水瓶                   源×3     译×4    
+     singlet                        → 汗衫                   源×2     译×2    
+     running amok                   → 发狂乱杀                 源×0     译×1     ★源0次(幽灵?)
+     Parsell                        → 帕塞尔                  源×78    译×77   
+     Berching / Gunong Berching / M → 贝尔钦山                 源×6     译×6    
+     Perak                          → 霹雳                   源×2     译×2    
+     Holy Grail                     → 圣杯                   源×1     译×1    
+     ha'porth                       → 半便士                  源×1     译×4     残留「半便士的事实」×1
+     ethnologist                    → 民族学家                 源×7     译×7    
+     gajah                          → 『加贾』                 源×1     译×1     残留「象」×58
+     Handel                         → 亨德尔                  源×2     译×2    
+     the Tower dungeons             → 伦敦塔的地牢               源×1     译×0     ★译0次(未落位?)
+     hammock                        → 吊床                   源×9     译×10   
+     cicadas                        → 蝉                    源×3     译×3     残留「日落时分的喝彩」×1
+     packing box                    → 货箱                   源×1     译×1    
+     trumpet                        → 号角长鸣                 源×2     译×0     ★译0次(未落位?)
+     cracker                        → 爆竹                   源×1     译×3     残留「还存着爆竹，吓那些小妖精」×1
+     Sungei Buloh                   → 双溪布洛                 源×1     译×1     残留「河」×45
+     Mon-Khmer Influence in Southea → 《东南亚的孟-高棉影响》         源×1     译×1    
+     hantus                         → 『汉图』                 源×4     译×6    
+     Sekais                         → 塞凯人                  源×1     译×6    
+     Semangs                        → 塞芒人                  源×1     译×1    
+     gnome                          → 老地精                  源×1     译×1    
+     helmet                         → 盔式遮阳帽                源×6     译×4    
+     Mat                            → 马特                   源×48    译×47   
+     puttees                        → 绑腿                   源×2     译×2    
+     leeches                        → 蚂蟥                   源×7     译×5    
+     carbolic soap                  → 石炭酸皂                 源×1     译×1     残留「小恶魔」×2
+     sladang                        → 斯拉当野牛                源×1     译×1    
+     pawang                         → 『帕旺』                 源×3     译×3    
+     sandflies                      → 蠓虫                   源×1     译×2    
+     have the hump                  → 闷闷不乐                 源×1     译×2    
+     tin                            → 锡矿                   源×6     译×1     落位偏低 1/6
+     mantras                        → 曼特罗                  源×3     译×3    
+     shaman                         → 萨满                   源×2     译×2    
+     sorcerer                       → 巫师                   源×1     译×2    
+     Gothamites                     → 哥谭傻子                 源×1     译×0     ★译0次(未落位?)
+     bearded damask                 → 蓄了胡须的锦缎              源×1     译×1    
+     callipers                      → 卡钳                   源×1     译×1    
+     amoebic dysentery              → 阿米巴痢疾                源×1     译×1    
+     blowflies                      → 绿头苍蝇                 源×1     译×1    
+     cataract                       → 急流                   源×2     译×2    
+     China Sea coast                → 中国海海岸                源×1     译×0     ★译0次(未落位?)
+     medicine chest                 → 药箱                   源×1     译×1    
+     keeper                         → 看护人                  源×1     译×1    
+     ethnology                      → 民族学                  源×3     译×3    
+     rakit / rakits                 → 『拉基特』                源×3     译×3     残留「木筏」×3
+     jerams                         → 『哲拉姆』                源×1     译×1     残留「湍滩」×2 残留「湍滩」×2
+     mastodons                      → 乳齿象                  源×1     译×1    
+     palimpsest                     → 重写本                  源×1     译×1    
+     freeboard                      → 干舷                   源×1     译×1    
+     “For he on honeydew hath fed”  → 「因为他曾以甘露为食」          源×0     译×0     ★源0次(幽灵?)
+     honeydew                       → 甘露                   源×1     译×1    
+     arum leaf                      → 海芋叶                  源×1     译×1    
+     Allah                          → 安拉                   源×1     译×1    
+     the vernacular                 → 马来土话                 源×1     译×1    
+     purgatory（泛指）                  → 炼狱                   源×0     译×0     ★源0次(幽灵?) 残留「那座炼狱」×2
+     land of promise                → 应许之地                 源×1     译×1    
+     Land ho!                       → 见陆地喽！                源×1     译×1     残留「见船喽！」×1
+     Areca palms                    → 槟榔树                  源×2     译×3    
+     ague (fits)                    → 打摆子                  源×1     译×2    
+     blighter                       → 浑蛋                   源×1     译×1    
+     canoe                          → 独木舟                  源×3     译×3    
+     lounge                         → 休息厅                  源×1     译×1    
+     open boat                      → 无篷小艇                 源×4     译×1     落位偏低 1/4
+     steady the helm                → 把定舵                  源×1     译×1     残留「稳住」×7
+     my son                         → 老弟                   源×3     译×2    
+     loose tile                     → 松动的瓦                 源×0     译×1     ★源0次(幽灵?)
+     Charles E. Hands               → 查尔斯·E·汉兹             源×1     译×1    
+     Paternoster                    → 主祷文                  源×1     译×1    
+     gully                          → 冲沟                   源×3     译×2    
+     rattans                        → 藤条                   源×4     译×3    
+     jackass                        → 蠢驴                   源×3     译×2    
+     moonstruck                     → 中了月魔                 源×1     译×1    
+     spirited away                  → 摄去了                  源×1     译×1    
+     the liver is sick              → 肝里有病                 源×1     译×1    
+     forbidden / the forbidden land → 禁地                   源×3     译×3    
+     translated                     → 蒙召升天                 源×3     译×1     落位偏低 1/3
+     visiting card                  → 名片                   源×1     译×1    
+     bayonet                        → 刺刀                   源×1     译×1    
+

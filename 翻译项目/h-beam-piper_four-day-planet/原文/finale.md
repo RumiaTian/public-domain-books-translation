@@ -1,0 +1,111 @@
+## Finale
+They had Tom Kivelson in a private room at the hospital; he was sitting up in a chair, with a lot of pneumatic cushions around him, and a lunch tray on his lap. He looked white and thin. He could move one arm completely, but the bandages they had loaded him with seemed to have left the other free only at the elbow. He was concentrating on his lunch, and must have thought I was one of the nurses, or a doctor, or something of the sort.
+“Are you going to let me have a cigarette and a cup of coffee, when I’m through with this?” he asked.
+“Well, I don’t have any coffee, but you can have one of my cigarettes,” I said.
+Then he looked up and gave a whoop. “Walt! How’d you get in here? I thought they weren’t going to let anybody in to see me till this afternoon.”
+“Power of the press,” I told him. “Bluff, blarney, and blackmail. How are they treating you?”
+“Awful. Look what they gave me for lunch. I thought we were on short rations down on Hermann Reuch’s Land. How’s Father?”
+“He’s all right. They took the splint off, but he still has to carry his arm in a sling.”
+“Lucky guy; he can get around on his feet, and I’ll bet he isn’t starving, either. You know, speaking about food, I’m going to feel like a cannibal eating carniculture meat, now. My whole back’s carniculture.” He filled his mouth with whatever it was they were feeding him and asked, through it: “Did I miss Steve Ravick’s hanging?”
+I was horrified. “Haven’t these people told you anything?” I demanded.
+“Nah; they wouldn’t even tell me the right time. Afraid it would excite me.”
+So I told him; first who Bish Ware really was, and then who Ravick really was. He gaped for a moment, and then shoveled in more food.
+“Go on; what happened?”
+I told him how Bish had smuggled Gerrit and Leo Belsher out on Second Level Down and gotten them to the spaceport, where Courtland’s men had been waiting for them.
+“Gerrit’s going to Terra, and from there to Loki. They want the natives to see what happens to a Terran who breaks Terran law; teach them that our law isn’t just to protect us. Belsher’s going to Terra, too. There was a big ship captains’ meeting; they voted to reclaim their wax and sell it individually to Murell, but to retain membership in the Coop. They think they’ll have to stay in the Coop to get anything that’s gettable out of Gerrit’s and Belsher’s money. Oscar Fujisawa and Cesário Vieira are going to Terra on the *Cape Canaveral* to start suit to recover anything they can, and also to petition for reclassification of Fenris. Oscar’s coming back on the next ship, but Cesário’s going to stay on as the Coop representative. I suppose he and Linda will be getting married.”
+“Natch. They’ll both stay on Terra, I suppose. Hey, whattaya know! Cesário’s getting off Fenris without having to die and reincarnate.”
+He finished his lunch, such as it was and what there was of it, and I relieved him of the tray and set it on the floor beyond his chair. I found an ashtray and lit a cigarette for him and one for myself, using the big lighter. Tom looked at it dubiously, predicting that sometime I’d push the wrong thing and send myself bye-byes for a couple of hours. I told him how Bish had used it.
+“Bet a lot of people wanted to hang him, too, before they found out who he was and what he’d really done. What’s my father think of Bish, now?”
+“Bish Ware is a great and good man, and the savior of Fenris,” I said. “And he was real smart, to keep an act like that up for five years. Your father modestly admits that it even fooled him.”
+“Bet Oscar Fujisawa knew it all along.”
+“Well, Oscar modestly admits that he suspected something of the sort, but he didn’t feel it was his place to say anything.”
+Tom laughed, and then wanted to know if they were going to hang Mort Hallstock. “I hope they wait till I can get out of here.”
+“No, Odin Dock & Shipyard claim he’s a political refugee and they won’t give him up. They did loan us a couple of accountants to go over the city books, to see if we could find any real evidence of misappropriation, and whattaya know, there were no city books. The city of Port Sandor didn’t keep books. We can’t even take that three hundred thousand sols away from him; for all we can prove, he saved them out of his five-thousand-sol-a-year salary. He’s shipping out on the *Cape Canaveral*, too.”
+“Then we don’t have any government at all!”
+“Are you fooling yourself we ever had one?”
+“No, but﻿—”
+“Well, we have one now. A temporary dictatorship; Bish Ware is dictator. Fieschi loaned him Ranjit Singh and some of his men. The first thing he did was gather up the city treasurer and the chief of police and march them to the spaceport; Fieschi made Hallstock buy them tickets, too. But there aren’t going to be any unofficial hangings. This is a law-abiding planet, now.”
+A nurse came in, and disapproved of Tom smoking and of me being in the room at all.
+“Haven’t you had your lunch yet?” she asked Tom.
+He looked at her guilelessly and said, “No; I was waiting for it.”
+“Well, I’ll get it,” she said. “I thought the other nurse had brought it.” She started out, and then she came back and had to fuss with his cushions, and then she saw the tray on the floor.
+“You did so have your lunch!” she accused.
+Tom looked at her as innocently as ever. “Oh, you mean these samples? Why, they were good; I’ll take all of them. And a big slab of roast beef, and brown gravy, and mashed potatoes. And how about some ice cream?”
+It was a good try; too bad it didn’t work.
+“Don’t worry, Tom,” I told him. “I’ll get my lawyer to spring you out of this jug, and then we’ll take you to my place and fill you up on Mrs. Laden’s cooking.”
+The nurse sniffed. She suspected, quite correctly, that whoever Mrs. Laden was, she didn’t know anything about scientific dietetics.
+---
+When I got back to the *Times*, Dad and Julio had had their lunch and were going over the teleprint edition. Julio was printing corrections on blank sheets of plastic and Dad was cutting them out and cementing them over things that needed correcting on the master sheets. I gave Julio a short item to the effect that Tom Kivelson, son of Captain and Mrs. Joe Kivelson, one of the *Javelin* survivors who had been burned in the tallow-wax fire, was now out of all danger, and recovering. Dad was able to scrounge that onto the first page.
+There was a lot of other news. The T.F.N. destroyer *Simón Bolivar*, en route from Gimli to pick up the notorious Anton Gerrit, alias Steve Ravick, had come out of hyperspace and into radio range. Dad had talked to the skipper by screen and gotten interviews, which would be telecast, both with him and Detective-Major MacBride of the Colonial Constabulary. The *Simón Bolivar* would not make landing, but go into orbit and send down a boat. Detective-Major MacBride (alias Dr. John Watson) would remain on Fenris to take over local police activities.
+More evidence had been unearthed at Hunters’ Hall on the frauds practiced by Leo Belsher and Gerrit-alias-Ravick; it looked as though a substantial sum of money might be recovered, eventually, from the bank accounts and other holdings of both men on Terra. Acting Resident-Agent Gonzalo Ware﻿—Ware, it seemed, really was his right name, but look what he had in front of it﻿—had promulgated more regulations and edicts, and a crackdown on the worst waterfront dives was in progress. I’ll bet the devoted flock was horrified at what their beloved bishop had turned into. Bish would leave his diocese in a lot healthier condition than he’d found it, that was one thing for sure. And most of the gang of thugs and plug-uglies who had been used to intimidate and control the Hunters’ Cooperative had been gathered up and jailed on vagrancy charges; prisoners were being put to work cleaning up the city.
+And there was a lot about plans for a registration of voters, and organization of election boards, and a local electronics-engineering firm had been awarded a contract for voting machines. I didn’t think there had ever been a voting machine on Fenris before.
+“The commander of the *Bolivar* says he’ll take your story to Terra with him, and see that it gets to Interworld News,” Dad told me as we were sorting the corrected master sheets and loading them into the photoprint machine, to be sent out on the air. “The *Bolivar*’ll make Terra at least two hundred hours ahead of the *Cape Canaveral*. Interworld will be glad to have it. It isn’t often they get a story like that with the first news of anything, and this’ll be a big story.”
+“You shouldn’t have given me the exclusive by-line,” I said. “You did as much work on it as I did.”
+“No, I didn’t, either,” he contradicted, “and I knew what I was doing.”
+With the work done, I remembered that I hadn’t had anything to eat since breakfast, and I went down to take inventory of the refrigerator. Dad went along with me, and after I had assembled a lunch and sat down to it, he decided that his pipe needed refilling, lit it, poured a cup of coffee and sat down with me.
+“You know, Walt, I’ve been thinking, lately,” he began.
+*Oh-oh*, I thought. When Dad makes that remark, in just that tone, it’s all hands to secure ship for diving.
+“We’ve all had to do a lot of thinking, lately,” I agreed.
+“Yes. You know, they want me to be mayor of Port Sandor.”
+I nodded and waited till I got my mouth empty. I could see a lot of sense in that. Dad is honest and scrupulous and public-spirited; too much so, sometimes, for his own good. There wasn’t any question of his ability, and while there had always been antagonism between the hunter-ship crews and waterfront people and the uptown business crowd, Dad was well liked and trusted by both parties.
+“Are you going to take it?” I asked.
+“I suppose I’ll have to, if they really want me. Be a sort of obligation.”
+That would throw a lot more work on me. Dad could give some attention to the paper as mayor, but not as much as now.
+“What do you want me to try to handle for you?” I asked.
+“Well, Walt, that’s what I’ve been thinking about,” he said. “I’ve been thinking about it for a long time, and particularly since things got changed around here. I think you ought to go to school some more.”
+That made me laugh. “What, back to Hartzenbosch?” I asked. “I could teach him more than he could teach me, now.”
+“I doubt that, Walt. Professor Hartzenbosch may be an old maid in trousers, but he’s really a very sound scholar. But I wasn’t thinking about that. I was thinking about your going to Terra to school.”
+“Huh?” I forgot to eat, for a moment. “Let’s stop kidding.”
+“I didn’t start kidding; I meant it.”
+“Well, think again, Dad. It costs money to go to school on Terra. It even costs money to go to Terra.”
+“We have a little money, Walt. Maybe more than you think we do. And with things getting better, we’ll lease more teleprinters and get more advertising. You’re likely to get better than the price of your passage out of that story we’re sending off on the *Bolivar*, and that won’t be the end of it, either. Fenris is going to be in the news for a while. You may make some more money writing. That’s why I was careful to give you the by-line on that Gerrit story.” His pipe had gone out again; he took time out to relight it, and then added: “Anything I spend on this is an investment. The *Times* will get it back.”
+“Yes, that’s another thing; the paper,” I said. “If you’re going to be mayor, you won’t be able to do everything you’re doing on the paper now, and then do all my work too.”
+“Well, shocking as the idea may be, I think we can find somebody to replace you.”
+“Name one,” I challenged.
+“Well, Lillian Arnaz, at the Library, has always been interested in newspaper work,” he began.
+“A girl!” I hooted. “You have any idea of some of the places I have to go to get stories?”
+“Yes. I have always deplored the necessity. But a great many of them have been closed lately, and the rest are being run in a much more seemly manner. And she wouldn’t be the only reporter. I hesitate to give you any better opinion of yourself than you have already, but it would take at least three people to do the work you’ve been doing. When you get back from Terra, you’ll find the *Times* will have a very respectable reportorial staff.”
+“What’ll I be, then?” I wondered.
+“Editor,” Dad told me. “I’ll retire and go into politics full time. And if Fenris is going to develop the way I believe it will, the editor of the *Times* will need a much better education than I have.”
+I kept on eating, to give myself an excuse for silence. He was right, I knew that. But college on Terra; why, that would be at least four years, maybe five, and then a year for the round trip.﻿ ﻿…
+“Walt, this doesn’t have to be settled right away,” Dad said. “You won’t be going on the *Simón Bolivar*, along with Ravick and Belsher. And that reminds me. Have you talked to Bish lately? He’d be hurt if you didn’t see him before he left.”
+---
+The truth was, I’d been avoiding Bish, and not just because I knew how busy he was. My face felt like a tallow-wax fire every time I thought of how I’d been trying to reform him, and I didn’t quite know what I’d be able to say to him if I met him again. And he seemed to me to be an entirely different person, as though the old Bish Ware, whom I had liked in spite of what I’d thought he was, had died, and some total stranger had taken his place.
+But I went down to the Municipal Building. It didn’t look like the same place. The walls had been scrubbed; the floors were free from litter. All the drove of loafers and hangers-on had been run out, or maybe jailed and put to work. I looked into a couple of offices; everybody in them was busy. A few of the old police force were still there, but their uniforms had been cleaned and pressed, they had all shaved recently, and one or two looked as though they liked being able to respect themselves, for a change.
+The girl at the desk in the mayor’s outside office told me Bish had a delegation of uptown merchants, who seemed to think that reform was all right in its place but it oughtn’t to be carried more than a few blocks above the waterfront. They were protesting the new sanitary regulations. Then she buzzed Bish on the handphone, and told me he’d see me in a few minutes. After a while, I heard the delegation going down the hall from the private office door. One of them was saying:
+“Well, this is what we’ve always been screaming our heads off for. Now we’ve got it good and hard; we’ll just have to get used to it.”
+When I went in, Bish rose from his desk and came to meet me, shaking my hand. He looked and was dressed like the old Bish Ware I’d always known.
+“Glad you dropped in, Walt. Find a seat. How are things on the *Times*?”
+“You ought to know. You’re making things busy for us.”
+“Yes. There’s so much to do, and so little time to do it. Seems as though I’ve heard somebody say that before.”
+“Are you going back to Terra on the *Simón Bolivar*?”
+“Oh, Allah forbid! I made a trip on a destroyer, once, and once is enough for a lifetime. I won’t even be able to go on the *Cape Canaveral*; I’ll take the *Peenemünde* when she gets in. I’m glad MacBride﻿—Dr. Watson﻿—is going to stop off. He’ll be a big help. Don’t know what I’d have done without Ranjit Singh.”
+“That won’t be till after the *Cape Canaveral* gets back from Terra.”
+“No. That’s why I’m waiting. Don’t publish this, Walt, I don’t want to start any premature rumors that might end in disappointments, but I’ve recommended immediate reclassification to Class III, and there may be a Colonial Office man on the *Cape Canaveral* when she gets in. Resident-Agent, permanent. I hope so; he’ll need a little breaking in.”
+“I saw Tom Kivelson this morning,” I said. “He seems to be getting along pretty well.”
+“Didn’t anybody at the hospital tell you about him?” Bish asked.
+I shook my head. He cursed all hospital staffs.
+“I wish military security was half as good. Why, Tom’s permanently injured. He won’t be crippled, or anything like that, but there was considerable unrepairable damage to his back muscles. He’ll be able to get around, but I doubt it he’ll ever be able to work on a hunter-ship again.”
+I was really horrified. Monster-hunting was Tom’s whole life. I said something like that.
+“He’ll just have to make a new life for himself. Joe says he’s going to send him to school on Terra. He thinks that was his own idea, but I suggested it to him.”
+“Dad wants me to go to school on Terra.”
+“Well, that’s a fine idea. Tom’s going on the *Peenemünde*, along with me. Why don’t you come with us?”
+“That would be great, Bish. I’d like it. But I just can’t.”
+“Why not?”
+“Well, they want Dad to be mayor, and if he runs, they’ll all vote for him. He can’t handle this and the paper both alone.”
+“He can get help on both jobs.”
+“Yes, but﻿ ﻿… Why, it would be years till I got back. I can’t sacrifice the time. Not now.”
+“I’d say six years. You can spend your voyage time from here cramming for entrance qualifications. Schools don’t bother about academic credits any more; they’re only interested in how much you know. You take four years’ regular college, and a year postgrading, and you’ll have all the formal education you’ll need.”
+“But, Bish, I can get that here, at the Library,” I said. “We have every book on film that’s been published since the Year Zero.”
+“Yes. And you’d die of old age before you got a quarter through the first film bank, and you still wouldn’t have an education. Do you know which books to study, and which ones not to bother with? Or which ones to read first, so that what you read in the others will be comprehensible to you? That’s what they’ll give you on Terra. The tools, which you don’t have now, for educating yourself.”
+I thought that over. It made sense. I’d had a lot of the very sort of trouble he’d spoken of, trying to get information for myself in proper order, and I’d read a lot of books that duplicated other books I’d read, and books I had trouble understanding because I hadn’t read some other book first. Bish had something there. I was sure he had. But six years!
+I said that aloud, and added: “I can’t take the time. I have to be doing things.”
+“You’ll do things. You’ll do them a lot better for waiting those six years. You aren’t eighteen yet. Six years is a whole third of your past life. No wonder it seems long to you. But you’re thinking the wrong way; you’re relating those six years to what has passed. Relate them to what’s ahead of you, and see how little time they are. You take ordinary care of yourself and keep out of any more civil wars, and you have sixty more years, at least. Your six years at school are only one-tenth of that. I was fifty when I came here to this Creator’s blunder of a planet. Say I had only twenty more years; I spent a quarter of them playing town drunk here. I’m the one who ought to be in a rush and howling about lost time, not you. I ought to be in such a hurry I’d take the *Simón Bolivar* to Terra and let this place go to﻿—to anywhere you might imagine to be worse.”
+“You know, I don’t think you like Fenris.”
+“I don’t. If I were a drinking man, this planet would have made a drunkard of me. Now, you forget about these six years chopped out of your busy life. When you get back here, with an education, you’ll be a kid of twenty-four, with a big long life ahead of you and your mind stocked with things you don’t have now that will help you make something﻿—and more important, something enjoyable﻿—out of it.”
+---
+There was a huge crowd at the spaceport to see us off, Tom and Bish Ware and me. Mostly, it was for Bish. If I don’t find a monument to him when I get back, I’ll know there is no such thing as gratitude. There had been a big banquet for us the evening before, and I think Bish actually got a little tipsy. Nobody can be sure, though; it might have been just the old actor back in his role. Now they were all crowding around us, as many as could jam in, in the main lounge of the *Peenemünde*. Joe Kivelson and his wife. Dad and Julio and Mrs. Laden, who was actually being cordial to Bish, and who had a bundle for us that we weren’t to open till we were in hyperspace. Lillian Arnaz, the girl who was to take my place as star reporter. We were going to send each other audiovisuals; advice from me on the job, and news from the *Times* from her. Glenn Murell, who had his office open by now and was grumbling that there had been a man from Interstellar Import-Export out on the *Cape Canaveral*, and if the competition got any stiffer the price of tallow-wax would be forced up on him to a sol a pound. And all the *Javelin* hands who had been wrecked with us on Hermann Reuch’s Land, and the veterans of the Civil War, all but Oscar and Cesário, who will be at the dock to meet us when we get to Terra.
+I wonder what it’ll be like, on a world where you go to bed every time it gets dark and get up when it gets light, and can go outdoors all the time. I wonder how I’ll like college, and meeting people from all over the Federation, and swapping tall stories about our home planets.
+And I wonder what I’ll learn. The long years ahead, I can’t imagine them now, will be spent on the *Times*, and I ought to learn things to fit me for that. But I can’t get rid of the idea about carniculture growth of tallow-wax. We’ll have to do something like that. The demand for the stuff is growing, and we don’t know how long it’ll be before the monsters are hunted out. We know how fast we’re killing them, but we don’t know how many there are or how fast they breed. I’ll talk to Tom about that; maybe between us we can hit on something, or at least lay a foundation for somebody else who will.
+The crowd pushed out and off the ship, and the three of us were alone, here in the lounge of the *Peenemünde*, where the story started and where it ends. Bish says no story ends, ever. He’s wrong. Stories die, and nothing in the world is deader than a dead news story. But before they do, they hatch a flock of little ones, and some of them grow into bigger stories still. What happens after the ship lifts into the darkness, with the pre-dawn glow in the east, will be another, a new, story.
+But to the story of how the hunters got an honest cooperative and Fenris got an honest government, and Bish Ware got Anton Gerrit the slaver, I can write1

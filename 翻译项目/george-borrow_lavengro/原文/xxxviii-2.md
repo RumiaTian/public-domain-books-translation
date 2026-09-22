@@ -1,0 +1,22 @@
+### XXXVIII
+It was evening, and myself and the two acquaintances I had made in the fair﻿—namely, the jockey and the tall foreigner﻿—sat in a large upstairs room, which looked into a court; we had dined with several people connected with the fair at a long *table d’hôte*; they had now departed, and we sat at a small side-table with wine and a candle before us; both my companions had pipes in their mouths﻿—the jockey a common pipe, and the foreigner one, the syphon of which, made of some kind of wood, was at least six feet long, and the bowl of which, made of a white kind of substance like porcelain, and capable of holding nearly an ounce of tobacco, rested on the ground. The jockey frequently emptied and replenished his glass; the foreigner sometimes raised his to his lips, for no other purpose seemingly than to moisten them, as he never drained his glass. As for myself, though I did not smoke, I had a glass before me, from which I sometimes took a sip. The room, notwithstanding the window was flung open, was in general so filled with smoke, chiefly that which was drawn from the huge bowl of the foreigner, that my companions and I were frequently concealed from each other’s eyes. The conversation, which related entirely to the events of the fair, was carried on by the jockey and myself, the foreigner, who appeared to understand the greater part of what we said, occasionally putting in a few observations in broken English. At length the jockey, after the other had made some ineffectual attempts to express something intelligibly which he wished to say, observed: “Isn’t it a pity that so fine a fellow as meinheer, and so clever a fellow too, as I believe him to be, is not a little better master of our language?”
+“Is the gentleman a German?” said I; “if so, I can interpret for him anything he wishes to say.”
+“The deuce you can,” said the jockey, taking his pipe out of his mouth, and staring at me through the smoke.
+“Ha! you speak German,” vociferated the foreigner in that language. “By Isten,283 I am glad of it! I wanted to say﻿—” And here he said in German what he wished to say, and which was of no great importance, and which I translated into English.
+“Well, if you don’t put me out,” said the jockey; “what language is that﻿—Dutch?”
+“High Dutch,” said I.
+“High Dutch, and you speak High Dutch﻿—why I had booked you for as great an ignoramus as myself, who can’t write﻿—no, nor distinguish in a book a great A from a bull’s foot.”
+“A person may be a very clever man,” said I﻿—“no, not a clever man, for clever signifies clerkly, and a clever man one who is able to read and write, and entitled to the benefit of his clergy or clerkship; but a person may be a very acute person without being able to read or write. I never saw a more acute countenance than your own.”
+“No soft soap,” said the jockey, “for I never uses any. However, thank you for your information; I have hitherto thought myself a ’nition clever fellow, but from henceforth shall consider myself just the contrary, and only﻿—what’s the word?﻿—confounded ’cute.”
+“Just so,” said I.
+“Well,” said the jockey, “as you say you can speak High Dutch, I should like to hear you and master six foot six fire away at each other.”
+“I cannot speak German,” said I, “but I can understand tolerably well what others say in it.”
+“Come, no backing out,” said the jockey; “let’s hear you fire away for the glory of Old England.”
+“Then you are a German?” said I in German to the foreigner.
+“That will do,” said the jockey, “keep it up.”
+“A German!” said the tall foreigner. “No, I thank God that I do not belong to the stupid, sluggish Germanic race, but to a braver, taller and handsomer people;” here taking the pipe out of his mouth, he stood up proudly erect, so that his head nearly touched the ceiling of the room, then reseating himself, and again putting the syphon to his lips, he added, “I am a Magyar.”284
+“What is that?” said I.
+The foreigner looked at me for a moment somewhat contemptuously, through the smoke, then said, in a voice of thunder, “A Hungarian!”
+“What a voice the chap has when he pleases!” interposed the jockey; “what is he saying?”
+“Merely that he is a Hungarian,” said I; but I added, “the conversation of this gentleman and myself in a language which you can’t understand must be very tedious to you, we had better give it up.”
+“Keep on with it,” said the jockey; “I shall go on listening very contentedly till I fall asleep, no bad thing to do at most times.”

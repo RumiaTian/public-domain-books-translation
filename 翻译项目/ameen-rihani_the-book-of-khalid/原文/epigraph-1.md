@@ -1,0 +1,5 @@
+### To Man
+
+No matter how good thou art, O my Brother, or how bad thou art, no matter how high or how low in the scale of being thou art, I still would believe in thee, and have faith in thee, and love thee. For do I not know what clings to thee, and what beckons to thee? The claws of the one and the wings of the other, have I not felt and seen? Look up, therefore, and behold this World-Temple, which, to us, shall be a resting-place, and not a goal. On the borderline of the Orient and Occident it is built, on the mountain-heights overlooking both. No false gods are worshipped in it﻿—no philosophic, theologic, or anthropomorphic gods. Yea, and the god of the priests and prophets is buried beneath the Fountain, which is the altar of the Temple, and from which flows the eternal spirit of our Maker﻿—our Maker who blinketh when the Claws are deep in our flesh, and smileth when the Wings spring from our Wounds. Verily, we are the children of the God of Humour, and the Fountain in His Temple is ever flowing. Tarry, and refresh thyself, O my Brother, tarry, and refresh thyself.
+
+> Khalid

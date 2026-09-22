@@ -1,0 +1,13 @@
+## The Lark and the Wind
+
+In the air why such a ringing?
+On the earth why such a droning?
+
+In the air the lark is singing;
+On the earth the wind is moaning.
+
+“I am blest, in sunlight swinging!”
+“Sad am I: the world lies groaning!”
+
+In the sky the lark kept singing;
+On the earth the wind kept moaning.

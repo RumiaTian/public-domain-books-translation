@@ -1,0 +1,75 @@
+## XIX The 9th of November 1896
+The Prince of Wales’s birthday up the country was celebrated as usual thereaway by the annual horse-races on the Wyambeet course, about fourteen miles from Caddagat.
+The holding of these races was an elderly institution, and was followed at night by a servants’ ball given by one of the squatters. Last year it had been Beecham’s ball, the year before Bossier’s, and this year it was to take place in the woolshed of James Grant of Yabtree. Our two girls, the gardener, and Joe Slocombe the groom, were to be present, as also were all the other employees about. Nearly everyone in the district﻿—masters and men﻿—attended the races. We were going, Frank Hawden volunteering to stay and mind the house.
+We started at nine o’clock. Grannie and uncle Boss sat in the front seat of the buggy, and aunt Helen and I occupied the back. Uncle always drove at a good round gallop. His idea was to have good horses, not donkeys, and not to spare them, as there were plenty more to be had any day. On this morning he went off at his usual pace. Grannie urged as remonstrance that the dust was fearful when going at that rate. I clapped my hands and exclaimed, “Go it, Mr. Bossier! Well done, uncle Jay-Jay! Hurrah for Clancy!”
+Uncle first said he was glad to see I had the spirit of an Australian, and then threatened to put my nose above my chin if I failed to behave properly. Grannie remarked that I might have the spirit of an Australian, but I had by no means the manners of a lady; while aunt Helen ventured a wish that I might expend all my superfluous spirits on the way, so that I would be enabled to deport myself with a little decorum when arrived at the racecourse.
+We went at a great pace; lizards and goannas scampered out of the way in dozens, and, clambering trees, eyed us unblinkingly as we passed. Did we see a person or vehicle a tiny speck ahead of us﻿—in a short time they were as far away in the background.
+“Please, uncle, let me drive,” I requested.
+“Couldn’t now. Your grannie can’t sit in the backseat﻿—neither could I﻿—and look like a tame cockatoo while you sat in front. You ask Harry to let you drive him. I bet he’ll consent; he’s sure to be in a sulky with a spare seat on spec. We’re sure to overtake him in a few minutes.”
+There was a vehicle in the distance which proved to be from Five-Bob Downs, but as we overhauled it, it was the drag, and not a sulky. Harold occupied the driver’s seat, and the other occupants were all ladies. I noticed the one beside him was wearing a very big hat, all ruffles, flowers, and plumes.
+“Shall I pull up and get you a seat?” inquired uncle Jay-Jay.
+“No, no, no.”
+The boss of Five-Bob drew to his side of the road, and when we had passed uncle began to tease:
+“Got fainthearted, did you? The flower-garden on that woman’s hat corked your chances altogether. Never mind, don’t you funk; I’ll see that you have a fair show. I’ll get you a regular cartwheel next time I go to town, and we’ll trim it up with some of old Barney’s tail. If that won’t fetch him, I’m sure nothing will.”
+Before we got to the racecourse Barney went lame through getting a stone in his hoof; this caused a delay which enabled the Five-Bob trap to catch us, and we pulled rein a little distance apart at the same time, to alight.
+Mr. Beecham’s groom went to his horses’ heads while Harold himself assisted his carriageful of ladies to set foot on the ground. Aunt Helen and grannie went to talk to them, but I stayed with uncle Jay-Jay while he took the horses out. Somehow I was feeling very disappointed. I had expected Harold Beecham to be alone. He had attended on me so absolutely everywhere I had met him lately, that I had unconsciously grown to look upon him as mine exclusively; and now, seeing he would belong to his own party of ladies for the day, things promised to be somewhat flat without him.
+“I told that devil of a Joe to be sure and turn up as soon as I arrived. I wanted him to water the horses, but I can’t see him anywhere﻿—the infernal, crawling, doosed idiot!” ejaculated uncle Julius.
+“Never mind, uncle, let him have his holiday. I suppose he’d like to have time to spoon with his girl. I can easily water the horses.”
+“That would suit Joe, I have no doubt; but I don’t pay him to let you water the horses. I’ll water ’em myself.”
+He led one animal, I took the other, and we went in the direction of water a few hundred yards away.
+“You run along to your grannie and the rest of them, and I’ll go by myself,” said uncle, but I kept on with the horse.
+“You mustn’t let a five-guinea hat destroy your hopes altogether,” he continued, with a mischievous twinkle in his eyes. “If you stick to your guns you have a better show than anyone to bag the boss of Five-Bob.”
+“I am at a loss to interpret your innuendo, Mr. Bossier,” I said stiffly.
+“Now, little woman, you think you are very smart, but you can’t deceive me. I’ve seen the game you and Harry have been up to this last month. If it had been any other man, I would have restricted your capers long ago.”
+“Uncle﻿—” I began.
+“Now, Sybylla, none of your crammers. There is no harm in being a bit gone on Harry. It’s only natural, and just what I’d expect. I’ve known him since he was born, and he’s a good all-round fellow. His head is screwed on the right way, his heart is in the right place, and his principles are tip-top. He could give you fal-de-rals and rubbish to no end, and wouldn’t be stingy either. You’ll never get a better man. Don’t you be put out of the running so cheaply: hold your own and win, that’s my advice to you. There is nothing against him, only temper﻿—old Nick himself isn’t a patch on him for temper.”
+“Temper!” I exclaimed. “He is always so quiet and pleasant.”
+“Yes, he controls it well. He’s a fellow with a will like iron, and that is what you want, as I find you have none of your own. But be careful of Harry Beecham in a temper. He is like a raging lion, and when his temper dies away is a sulking brute, which is the vilest of all tempers. But he is not vindictive, and is easy managed, if you don’t mind giving in and coaxing a little.”
+“Now, uncle, you have had your say, I will have mine. You seem to think I have more than a friendly regard for Mr. Beecham, but I have not. I would not marry him even if I could. I am so sick of everyone thinking I would marry any man for his possessions. I would not stoop to marry a king if I did not love him. As for trying to win a man, I would scorn any action that way; I never intend to marry. Instead of wasting so much money on me in presents and other ways, I wish you would get me something to do, a profession that will last me all my life, so that I may be independent.”
+“No mistake, you’re a rum youngster. You can be my companion till further orders. That’s a profession that will last you a goodish while.”
+With this I had to be contented, as I saw he considered what I had said as a joke.
+I left uncle and went in quest of grannie, who, by this, was beyond the other side of the course, fully a quarter of a mile away. Going in her direction I met Joe Archer, one of the Five-Bob jackeroos, and a great chum of mine. He had a taste for literature, and we got on together like one o’clock. We sat on a log under a stringybark-tree and discussed the books we had read since last we met, and enjoyed ourselves so much that we quite forgot about the races or the flight of time until recalled from book-land by Harold Beecham’s voice.
+“Excuse me, Miss Melvyn, but your grannie has commissioned me to find you as we want to have lunch, and it appears you are the only one who knows the run of some of the tucker bags.”
+“How do you do, Mr. Beecham? Where are they going to have lunch?”
+“Over in that clump of box-trees,” he replied, pointing in the direction of a little rise at a good distance.
+“How are you enjoying yourself?” he asked, looking straight at me.
+“Treminjous intoirely, sor,” I replied.
+“I suppose you know the winner of every race,” he remarked, quizzically watching Joe Archer, who was blushing and as uneasy as a schoolgirl when nabbed in the enjoyment of an illicit love-letter.
+“Really, Mr. Beecham, Mr. Archer and I have been so interested in ourselves that we quite forgot there was such a thing as a race at all,” I returned.
+“You’d better see where old Boxer is. He might kick some of the other horses if you don’t keep a sharp lookout,” he said, turning to his jackeroo.
+“Ladies before gentlemen,” I interposed. “I want Mr. Archer to take me to grannie, then he can go and look after old Boxer.”
+“I’ll escort you,” said Beecham.
+“Thank you, but I have requested Mr. Archer to do so.”
+“In that case, I beg your pardon, and will attend to Boxer while Joe does as you request.”
+Raising his hat he walked swiftly away with a curious expression on his usually pleasant face.
+“By Jove, I’m in for it!” ejaculated my escort. “The boss doesn’t get that expression on his face for nothing. You take my tip for it, he felt inclined to seize me by the scruff of the neck and kick me from here to Yabtree.”
+“Go on!”
+“It’s a fact. He did not believe in me not going to do his bidding immediately. He has a roaring derry on disobedience. Everyone has to obey him like winkie or they can take their beds up and trot off quick and lively.”
+“Mr. Beecham has sufficient sense to see I was the cause of your disobedience,” I replied.
+“That’s where it is. He would not have cared had it been some other lady, but he gets mad if anyone dares to monopolize you. I don’t know how you are going to manage him. He is a pretty hot member sometimes.”
+“Mr. Archer, you presume! But throwing such empty banter aside, is Mr. Beecham really bad-tempered?”
+“Bad-tempered is a tame name for it. You should have seen the dust he raised the other day with old Benson. He just did perform.”
+I was always hearing of Harold Beecham’s temper, and wished I could see a little of it. He was always so imperturbably calm, and unfailingly good-tempered under the most trying circumstances, that I feared he had no emotions in him, and longed to stir him up.
+Grannie greeted me with, “Sybylla, you are such a tiresome girl. I don’t know how you have packed these hampers, and we want to have lunch. Where on earth have you been?”
+Miss Augusta Beecham saluted me warmly with a kiss, and presented me to her sister Sarah, who also embraced me. I went through an introduction to several ladies and gentlemen, greeted my acquaintances, and then set to work in dead earnest to get our provisions laid out﻿—the Five-Bob Downs party had theirs in readiness. Needless to say, we were combining forces. I had my work completed when Mr. Beecham appeared upon the scene with two young ladies. One was a bright-faced little brunette, and the other a tall light blonde, whom, on account of her much trimmed hat, I recognized as the lady who had been sitting on the box-seat of the Beecham drag that morning.
+Joe Archer informed me in a whisper that she was Miss Blanche Derrick from Melbourne, and was considered one of the greatest beauties of that city.
+This made me anxious to examine her carefully, but I did not get an opportunity of doing so. In the hurry to attend on the party, I missed the honour of an introduction, and when I was at leisure she was sitting at some distance on a log, Harold Beecham shading her in a most religious manner with a dainty parasol. In the afternoon she strolled away with him, and after I had attended to the remains of the feast, I took Joe Archer in tow. He informed me that Miss Derrick had arrived at Five-Bob three days before, and was setting her cap determinedly at his boss.
+“Was she really very handsome?” I inquired.
+“By Jove, yes!” he replied. “But one of your disdainful haughty beauties, who wouldn’t deign to say good day to a chap with less than six or seven thousand a year.”
+I don’t know why I took no interest in the races. I knew nearly all the horses running. Some of them were uncle’s; though he never raced horses himself, he kept some swift stock which he lent to his men for the occasion.
+Of more interest to me than the races was the pair strolling at a distance. They were fit for an artist’s models. The tall, broad, independent figure of the bushman with his easy gentlemanliness, his jockey costume enhancing his size. The equally tall majestic form of the city belle, whose self-confident fashionable style spoke of nothing appertaining to girlhood, but of the full-blown rose﻿—indeed, a splendid pair physically!
+Then I thought of my lack of beauty, my miserable five-feet-one-inch stature, and I looked at the man beside me, small and round-shouldered, and we were both dependent children of indigence. The contrast we presented to the other pair struck me hard, and I laughed a short bitter laugh.
+I excused myself to my companion, and acceded to the request of several children to go on a flower- and gum-hunting expedition. We were a long time absent, and returning, the little ones scampered ahead and left me alone. Harold Beecham came to meet me, looking as pleasant as ever.
+“Am I keeping grannie and uncle waiting?” I inquired.
+“No. They have gone over an hour,” he replied.
+“Gone! How am I to get home? She must have been very angry to go and leave me. What did she say?”
+“On the contrary, she was in great fiddle. She said to tell you not to kill yourself with fun, and as you are not going home, she left me to say good night. I suppose she kisses you when performing that ceremony,” he said mischievously.
+“Where am I going tonight?”
+“To Five-Bob Downs, the camp of yours truly,” he replied.
+“I haven’t got a dinner dress, and am not prepared. I will go home.”
+“We have plenty dinner dresses at Five-Bob without any more. It is Miss Melvyn we want,” he said.
+“Oh, bother you!” I retorted. “Men are such stupid creatures, and never understand about dress or anything. They think you could go to a ball in a wrapper.”
+“At all events, they are cute enough to know when they want a young lady at their place, no matter how she’s dressed,” he said good-humouredly.
+On reaching the racecourse I was surprised to see aunt Helen there. From her I learnt that grannie and uncle Jay-Jay had really gone home, but Mr. Beecham had persuaded them to allow aunt Helen and me to spend the night at Five-Bob Downs, our host promising to send or take us home on the morrow. Now that I was to have aunt Helen with me I was delighted at the prospect, otherwise I would have felt a little out of it. With aunt Helen, however, I was content anywhere, and built a castle in the air, wherein one day she and I were always to live together﻿—forever! Till death!
+Going home aunt Helen occupied a front seat with Harold and Miss Derrick, and I was crammed in at the back beside Miss Augusta, who patted my hand and said she was delighted to see me.
+A great concourse of young men and women in vehicles and on horseback, and in expectation of great fun, were wending their way to Yabtree﻿—nearly every trap containing a fiddle, concertina, flute, or accordion in readiness for the fray.

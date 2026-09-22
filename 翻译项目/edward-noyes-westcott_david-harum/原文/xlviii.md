@@ -1,0 +1,3 @@
+## XLVIII
+A fortnight later Mr. Harum sat at his desk in the office of Harum & Co. There were a number of letters for him, but the one he opened first bore a foreign stamp, and was postmarked “Napoli.” That he was deeply interested in the contents of this epistle was manifest from the beginning, not only from the expression of his face, but from the frequent “wa’al, wa’als” which were elicited as he went on; but interest grew into excitement as he neared the close, and culminated as he read the last few lines.
+“Scat my **cats**!” he cried, and, grabbing his hat and the letter, he bolted out of the back door in the direction of the house, leaving the rest of his correspondence to be digested﻿—any time.

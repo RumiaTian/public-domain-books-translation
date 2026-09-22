@@ -1,0 +1,56 @@
+====================================================================================================
+### katharine-a-carl_with-the-empress-dowager-of-china  (37 files)
+  块: O=398 C=398 OK | 段: EN=554 CN=562 !!差 -8
+     [不对称] peking-beginning-the-portrait-for-st-louis.md        O=6 C=6 段EN=10 段CN=11
+     [不对称] peking-the-sea-palace.md                             O=9 C=9 段EN=19 段CN=20
+     [不对称] personal-appearance-of-her-majesty-a-chinese-repast-boating.md O=15 C=15 段EN=15 段CN=17
+     [不对称] return-to-the-summer-palace.md                       O=8 C=8 段EN=8 段CN=9
+     [不对称] some-characteristics-of-her-majesty-second-visit-to-the-sea-palace.md O=13 C=13 段EN=13 段CN=14
+     [不对称] the-chinese-new-year-official-audience.md            O=6 C=6 段EN=15 段CN=16
+     [不对称] the-great-audience-hall-some-official-customs.md     O=13 C=13 段EN=13 段CN=14
+  英文残留(剔括注) top: the×7, of×3, Peking×2, The×2, On×2, Summer×2, Palace×2, Prince×1, Ching×1, At×1
+  项目说明备注: 见术语表.md。
+  -- 术语表硬约束行 42 条:
+     Hsien-Feng                     → 咸丰帝                  源×7     译×5    
+     Tung-Chih                      → 同治帝                  源×9     译×5     落位偏低 5/9
+     Kwang-Hsu                      → 光绪                   源×14    译×12   
+     Eastern Palace / She of the Ea → 东宫（慈安太后）             源×9     译×9    
+     Li Hung-Chang                  → 李鸿章                  源×0     译×2     ★源0次(幽灵?)
+     Lady Yu-Keng / the Yu-kengs    → 裕庚夫人 / 裕庚一家          源×7     译×11   
+     Li Lien Ying                   → 李莲英                  源×2     译×3    
+     Sui                            → 隋                    源×1     译×1    
+     Duke Chow                      → 桂祥公爵                 源×1     译×1    
+     Prince Ching                   → 庆亲王                  源×6     译×6    
+     Sih-Gerga                      → 四格格                  源×4     译×3    
+     Whar-Mou-Lahn                  → 花木兰                  源×1     译×1    
+     Temple of the Ten Thousand Bud → 万佛寺                  源×4     译×5    
+     Western Hills                  → 西山                   源×3     译×3    
+     Flowery Mountain               → 花山                   源×2     译×2    
+     Coal Hill                      → 煤山（景山）               源×2     译×1    
+     Temple of Heaven               → 天坛                   源×5     译×10   
+     the Grain-bearing Canal        → 运粮河                  源×1     译×1    
+     Old Summer Palace              → 旧日夏宫 / 旧宫            源×1     译×3    
+     pai-lou                        → 牌楼                   源×7     译×9    
+     pagoda                         → 宝塔                   源×2     译×5    
+     Ker-Gunia Fu                   → 克姑娘府                 源×1     译×1    
+     Haverstock Hill 等伦敦地名          → 见 he-stolen-bacillus 源×0     译×0     ★源0次(幽灵?)
+     Ye-Ho-Na-Lah                   → 叶赫那拉氏                源×1     译×1    
+     Princess Imperial / First Lady → 长公主                  源×9     译×2     落位偏低 2/9
+     Secondary Wife of the Emperor  → 皇上的侧室                源×6     译×5    
+     Chief Eunuch                   → 总管太监                 源×23    译×9     落位偏低 9/23
+     reader                         → 侍读太监                 源×4     译×1     落位偏低 1/4
+     Lao-Tzu-Tzung Chee-Siang       → 老祖宗吉祥                源×2     译×2    
+     Festival of the Harvest Moon   → 中秋节                  源×3     译×2    
+     Sacred Picture                 → 圣容                   源×9     译×13   
+     Elixir of Immortality          → 长生不老金丹               源×1     译×0     ★译0次(未落位?)
+     spirit-stairway                → 御路（石雕螭龙御路）           源×5     译×8    
+     Throne-room                    → 宝座殿                  源×91    译×76   
+     Throne-table                   → 御案                   源×2     译×9    
+     India ink                      → 墨汁                   源×2     译×3    
+     Mandarin Chinese               → 官话                   源×1     译×2    
+     sleeve-dog                     → 袖犬                   源×2     译×4    
+     China Aster                    → 翠菊                   源×1     译×1    
+     top button / buttons           → 顶珠                   源×8     译×7    
+     Son Eminence Grise             → 灰衣大老                 源×1     译×1    
+     auto da fe                     → 火焚（焚化供品）             源×1     译×1    
+

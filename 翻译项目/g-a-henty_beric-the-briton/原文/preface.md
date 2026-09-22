@@ -1,0 +1,9 @@
+## Preface
+
+My Dear Lads,
+
+My series of stories dealing with the wars of England would be altogether incomplete did it not include the period when the Romans were the masters of the country. The valour with which the natives of this island defended themselves was acknowledged by the Roman historians, and it was only the superior discipline of the invaders that enabled them finally to triumph over the bravery and the superior physical strength of the Britons. The Roman conquest for the time was undoubtedly of immense advantage to the people﻿—who had previously wasted their energies in perpetual tribal wars﻿—as it introduced among them the civilization of Rome. In the end, however, it proved disastrous to the islanders, who lost all their military virtues. Having been defended from the savages of the north by the soldiers of Rome, the Britons were, when the legions were recalled, unable to offer any effectual resistance to the Saxons, who, coming under the guise of friendship, speedily became their masters, imposing a yoke infinitely more burdensome than that of Rome, and erasing almost every sign of the civilization that had been engrafted upon them. How far the British population disappeared under the subsequent invasion and the still more oppressive yoke of the Danes is uncertain; but as the invaders would naturally desire to retain the people to cultivate the land for them, it is probable that the great mass of the Britons were not exterminated. It is at any rate pleasant to believe that with the Saxon, Danish, and Norman blood in our veins, there is still a large admixture of that of the valiant warriors who fought so bravely against Caesar, and who rose under Boadicea in a desperate effort to shake off the oppressive rule of Rome.
+
+Yours truly,
+
+				**G. A. Henty**

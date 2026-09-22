@@ -1,0 +1,249 @@
+====================================================================================================
+### edgar-wallace_the-crimson-circle  (45 files)
+  块: O=617 C=617 OK | 段: EN=2357 CN=2367 !!差 -10
+     [不对称] chapter-13.md                                        O=13 C=13 段EN=45 段CN=46
+     [不对称] chapter-16.md                                        O=18 C=18 段EN=70 段CN=72
+     [不对称] chapter-18.md                                        O=9 C=9 段EN=39 段CN=40
+     [不对称] chapter-21.md                                        O=10 C=10 段EN=33 段CN=34
+     [不对称] chapter-23.md                                        O=13 C=13 段EN=44 段CN=45
+     [不对称] chapter-25.md                                        O=16 C=16 段EN=61 段CN=62
+     [不对称] chapter-30.md                                        O=29 C=29 段EN=109 段CN=110
+     [不对称] chapter-40.md                                        O=13 C=13 段EN=40 段CN=41
+     [不对称] chapter-43.md                                        O=16 C=16 段EN=42 段CN=43
+  英文残留(剔括注) top: amours×1
+  -- 术语表硬约束行 234 条:
+     The Crimson Circle（书名）         → 《红圈》                 源×160   译×0     ★译0次(未落位?)
+     Crimson Circle（组织名）            → 红圈                   源×16    译×196  
+     Inspector                      → 探长                   源×183   译×186   残留「帕尔探长」×79
+     Chief Inspector                → 总探长                  源×2     译×2     残留「帕尔总探长」×2
+     Commissioner                   → 总监                   源×47    译×49   
+     Prime Minister                 → 首相                   源×25    译×27   
+     Parr                           → 帕尔                   源×409   译×413   残留「帕尔探长」×79
+     Yale                           → 耶尔                   源×321   译×325  
+     Derrick                        → 德里克                  源×134   译×133  
+     Thalia                         → 塔莉娅                  源×208   译×207  
+     Drummond                       → 德拉蒙德                 源×140   译×140  
+     Marl                           → 马尔                   源×168   译×169  
+     Froyant                        → 弗鲁瓦扬                 源×148   译×147  
+     Harvey                         → 哈维                   源×36    译×36   
+     Beardmore                      → 比德莫尔                 源×119   译×120  
+     Jack                           → 杰克                   源×213   译×216  
+     Brabazon                       → 布拉巴宗                 源×88    译×87   
+     Brab                           → 布拉布                  源×5     译×4    
+     Johnson                        → 约翰逊                  源×8     译×8    
+     Barnet                         → 巴尼特                  源×52    译×52    残留「“弗拉什」×33
+     Flush                          → “弗拉什”                源×56    译×32    落位偏低 32/56
+     Macroy                         → 麦克罗伊                 源×43    译×43   
+     Milly / Millie                 → 米莉                   源×30    译×30   
+     Willings                       → 威林斯                  源×43    译×43   
+     Morton                         → 莫顿                   源×4     译×4    
+     Philip Bassard                 → 菲利普·巴萨尔              源×1     译×1    
+     Jacques Rizzi                  → 雅克·里齐                源×1     译×1    
+     Benson                         → 本森                   源×2     译×2    
+     Jane Higgins                   → 简·希金斯                源×1     译×1    
+     Sibly                          → 西布利                  源×10    译×10   
+     Ambrose Sibly                  → 安布罗斯·西布利             源×3     译×3    
+     Harry Hobbs                    → 哈里·霍布斯               源×2     译×2     残留「奥里蒂安加」×1
+     Bella                          → 贝拉                   源×1     译×1    
+     Mrs. Boled                     → 博莱德太太                源×1     译×1    
+     Martha                         → 玛莎                   源×1     译×1    
+     Pindle                         → 平德尔                  源×1     译×1    
+     Ferdinand Walter Lightman      → 费迪南德·沃尔特·利特曼         源×2     译×2    
+     Macdonald                      → 麦克唐纳                 源×1     译×1     残留「牧场主」×1
+     Stamford Avenue                → 斯坦福德大道               源×3     译×3    
+     Scotland Yard / headquarters   → 苏格兰场／警察总部            源×46    译×35   
+     Tower House                    → 塔楼宅                  源×2     译×4    
+     Penton Hill                    → 彭顿山                  源×1     译×1    
+     Diana                          → 狄安娜                  源×1     译×1     残留「笑声朗朗的狄安娜」×1
+     summer house                   → 小凉亭                  源×2     译×3    
+     Yareside                       → 亚尔赛德                 源×1     译×1    
+     Vale River                     → 瓦尔河                  源×1     译×1    
+     Kalahari                       → 卡拉哈里                 源×1     译×1    
+     Klondyke                       → 克朗代克                 源×1     译×1    
+     Tribune                        → 《论坛报》                源×1     译×1    
+     Black Hand                     → 黑手帮                  源×2     译×2    
+     psychometry / psychometrical p → 触物感应                 源×4     译×8    
+     Morning Monitor                → 《晨哨报》                源×1     译×2    
+     aura                           → 灵光                   源×1     译×1     残留「火会把灵光毁掉」×1
+     Block B                        → B区                   源×3     译×4    
+     Graft                          → 贪赃                   源×2     译×2    
+     Park Gate                      → 帕克门                  源×1     译×1    
+     Buddha                         → 佛像                   源×4     译×9    
+     Beardmore tragedy              → 比德莫尔惨案               源×1     译×1    
+     Isaacs                         → 艾萨克斯                 源×1     译×1    
+     police court                   → 警务法庭                 源×4     译×5    
+     magistrate                     → 治安法官                 源×5     译×4     残留「法官大人」×1
+     bind over                      → 具结                   源×0     译×1     ★源0次(幽灵?)
+     the statuette                  → 佛像                   源×1     译×0     ★译0次(未落位?) 残留「那尊佛像」×2
+     Holloway Gaol                  → 霍洛韦监狱                源×1     译×3    
+     Lexington Street               → 莱克星顿街                源×4     译×4    
+     Fleet Street                   → 舰队街                  源×1     译×1    
+     Steyne Square                  → 斯泰恩广场                源×6     译×6    
+     still-room                     → 食品配制室                源×1     译×1    
+     Toulouse                       → 图卢兹                  源×8     译×8    
+     Beardmore murder               → 比德莫尔凶杀案              源×1     译×1     残留「比德莫尔惨案」×1
+     Derby hat                      → 圆顶硬礼帽                源×1     译×1    
+     terrace                        → 露台                   源×7     译×9    
+     grounds                        → 宅园                   源×5     译×4    
+     secretaire                     → 写字台                  源×1     译×12   
+     chalk dust                     → 白垩粉                  源×1     译×1    
+     Clarges Street                 → 克拉杰斯街                源×1     译×1    
+     Marylebone Police Court        → 玛丽勒本警务法庭             源×1     译×1    
+     Brabazon’s Bank                → 布拉巴宗银行               源×7     译×9    
+     Oritianga                      → “奥里蒂安加”号             源×1     译×0     ★译0次(未落位?)
+     Newport News                   → 纽波特纽斯                源×1     译×1    
+     Wapping                        → 瓦平                   源×1     译×1     残留「海员之家」×1
+     East End                       → 伦敦东区                 源×1     译×1    
+     able-seaman                    → 熟练水手                 源×1     译×1    
+     hydrocyanic acid               → 氢氰酸                  源×1     译×1    
+     guv’nor                        → 长官                   源×1     译×8    
+     Seller’s Bank                  → 塞勒银行                 源×2     译×3    
+     Mildred Street                 → 米尔德丽德街               源×7     译×7    
+     Marisburg Place                → 马里斯堡广场               源×7     译×7    
+     City                           → 伦敦城                  源×18    译×7     落位偏低 7/18
+     The Moulin Gris                → “灰磨坊”                源×1     译×2    
+     Hooligans Fish Parlour         → “流氓鱼馆”               源×1     译×0     ★译0次(未落位?)
+     Ritz-Carlton                   → 丽思卡尔顿                源×2     译×2    
+     Bayswater Road                 → 贝斯沃特路                源×2     译×2    
+     Sellinger Corporation          → 塞林格公司                源×1     译×1    
+     Bilbury’s                      → 比尔伯里                 源×1     译×1    
+     the Strand                     → 斯特兰德街                源×2     译×2    
+     Foreign Exchange desk          → 外汇柜台                 源×1     译×1    
+     Reeder Street                  → 里德街                  源×2     译×2     残留「灰磨坊」×3
+     l’origan                       → 牛至香水                 源×1     译×1    
+     Bank of England                → 英格兰银行                源×1     译×1    
+     Kensington                     → 肯辛顿                  源×1     译×1    
+     Darlington Cooperative         → 达灵顿合作社               源×1     译×1    
+     Regent Street                  → 摄政街                  源×2     译×2    
+     Burlington Arcade              → 伯灵顿拱廊                源×1     译×1    
+     Piccadilly                     → 皮卡迪利                 源×1     译×1    
+     Marylebone Road                → 玛丽勒本路                源×2     译×2    
+     Waltham’s Garage               → 沃尔瑟姆车行               源×1     译×1    
+     pieces of eight                → 八块银元                 源×1     译×1    
+     Thorough-Bad Thalia            → 纯种的坏种塔莉娅             源×2     译×2     残留「弗拉什」×54
+     Mills bomb                     → 米尔斯手榴弹               源×3     译×3    
+     Morne & Gillingsworth          → 莫恩-吉林斯沃思             源×1     译×1    
+     Winter Palace                  → 冬宫剧院                 源×1     译×1    
+     The Boys and the Girls         → 《小伙子与姑娘们》            源×1     译×1    
+     Kingside                       → 金赛德                  源×1     译×1    
+     ventilator                     → 通风口                  源×6     译×6    
+     Western Exchange               → 西区电话局                源×1     译×1    
+     station-sergeant               → 警局警长                 源×1     译×1    
+     fire escape                    → 太平梯                  源×1     译×1    
+     kleptomania                    → 偷窃癖                  源×1     译×1     残留「生性如此」×1
+     River House / riverside house  → 河畔宅／河边宅子             源×7     译×7     残留「河畔宅的钥匙」×1
+     river property                 → 河畔产业                 源×1     译×1    
+     ether and chloroform           → 乙醚和氯仿                源×1     译×1    
+     district messenger             → 本区信差                 源×2     译×2    
+     The Associated Merchants Bank  → 联合商业银行               源×1     译×1    
+     Crimson Circle Gang            → 红圈帮                  源×2     译×1    
+     Secretary of State             → 国务大臣                 源×3     译×3    
+     Heggitts’ / Heggitt            → 赫吉特事务所／赫吉特           源×8     译×10   
+     fence / fencing                → 窝主／窝赃                源×5     译×3    
+     Mrs. Marl                      → 马尔太太                 源×1     译×1    
+     Lightman                       → 利特曼                  源×21    译×21   
+     guillotine / went to the knife → 断头台／上了铡刀             源×4     译×4    
+     turn King’s / State’s evidence → 倒戈作国王的证人             源×2     译×0     ★译0次(未落位?)
+     Pall Mall                      → 蓓尔美尔街                源×1     译×1    
+     maisonette                     → 独门小公寓                源×2     译×2     残留「帕尔探长那套独门小公寓」×2
+     Parr’s aunt / auntie           → 帕尔的姑母／姑妈             源×3     译×3    
+     Parr’s grandmother             → 帕尔的祖母                源×1     译×0     ★译0次(未落位?) 残留「她是您的母亲吗」×1 残留「不是，是我的祖母」×1
+     Cannon Street police station   → 坎农街警察局               源×1     译×1     残留「妈妈」×18
+     the Ripper murders             → 开膛手凶案                源×1     译×1    
+     bulletproof waistcoat          → 防弹背心                 源×2     译×2    
+     mother（帕尔／姑母语）                 → ‘妈妈’                 源×29    译×18   
+     Deal                           → 迪尔                   源×16    译×1     落位偏低 1/16
+     motor-launch                   → 汽艇                   源×1     译×1    
+     Monsieur Brassard              → 布拉萨尔                 源×1     译×3     残留「巴萨尔」×1
+     Jules                          → 儒勒                   源×4     译×4    
+     Nimes Bank                     → 尼姆银行                 源×1     译×1    
+     Thiep                          → 蒂普                   源×1     译×1    
+     Hotel Anglaise                 → 英吉利旅馆                源×1     译×1    
+     island settlements             → 海岛流放地                源×1     译×1    
+     the Red Circle（利特曼诨名）          → 红圈                   源×6     译×0     ★译0次(未落位?)
+     bombproof shelter / bombproof  → 防炸密室                 源×3     译×3    
+     underground room               → 地下密室                 源×2     译×2    
+     trapdoor                       → 活板门                  源×6     译×9    
+     Steere                         → 斯蒂尔                  源×3     译×3    
+     Yeomanry                       → 义勇骑兵队                源×1     译×1    
+     Chief Commissioner / Police Co → 警察总监                 源×2     译×2     残留「上校」×11
+     thought transference           → 传心术                  源×1     译×1     残留「您怎么知道他去了图卢兹」×1
+     West End                       → 伦敦西区                 源×1     译×1     残留「伦敦东区」×1
+     Jacobean                       → 詹姆斯一世时代              源×1     译×1    
+     gauntlet                       → 护腕手套                 源×7     译×7    
+     The Silencing of Froyant       → 弗鲁瓦扬遭灭口              源×1     译×1    
+     foolscap                       → 大裁纸                  源×1     译×1     残留「一张大裁纸」×1
+     Gladstone bag                  → 格拉德斯通旅行袋             源×1     译×1    
+     shorthand writer               → 速记员                  源×1     译×6     残留「官方速记员」×2
+     jailer                         → 狱卒                   源×3     译×4    
+     tin / tin mug                  → 锡皮水勺                 源×5     译×2     落位偏低 2/5 残留「盛了半勺水的锡皮水勺」×2 残留「半勺水」×2
+     poster                         → 告示                   源×6     译×13    残留「贴告示的人」×1
+     Sedgwood House                 → 塞奇伍德宅                源×1     译×1    
+     picquet                        → 皮克牌                  源×1     译×1    
+     pince-nez                      → 夹鼻眼镜                 源×1     译×1    
+     acetylene-gas plant            → 乙炔气照明装置              源×1     译×1    
+     station gate                   → 车站便门                 源×1     译×1    
+     drive                          → 车道                   源×2     译×3    
+     Cabinet                        → 内阁                   源×15    译×14    残留「入阁」×1
+     Whitehall                      → 白厅                   源×2     译×2    
+     Brixton                        → 布里克斯顿                源×2     译×2    
+     Marsden                        → 马斯登                  源×2     译×2     残留「马斯登（Marsden）」×1
+     Samuel Heggitt                 → 塞缪尔·赫吉特              源×1     译×1     残留「詹姆斯·赫吉特」×1
+     Commissioners                  → 警务委员会                源×1     译×1    
+     Photograph of Execution        → ‘行刑照片’               源×1     译×1    
+     free pardon in blank           → 空白特赦令                源×1     译×1    
+     French agency                  → 法国征信所                源×1     译×1    
+     Cabinet Minister               → 内阁大臣                 源×2     译×2    
+     the Honourable                 → 阁下                   源×1     译×1     残留「拉斐尔·威林斯阁下」×1
+     bodyguard of the Cabinet       → 内阁卫队                 源×1     译×1    
+     Devil’s Island                 → 魔鬼岛                  源×1     译×1     残留「死在了那儿」×1
+     Cayenne                        → 卡宴                   源×2     译×2     残留「卡宴（Cayenne）」×1
+     Merros Club                    → 梅罗斯俱乐部               源×3     译×3    
+     church of St. Agnes on Powder  → 粉山圣阿格尼斯教堂            源×1     译×0     ★译0次(未落位?)
+     the Great Fire                 → 伦敦大火                 源×1     译×1    
+     John Beardmore                 → 约翰·比德莫尔              源×1     译×1    
+     Onslow Gardens                 → 昂斯洛花园                源×4     译×4    
+     Barnet（地名）                     → 巴尼特                  源×0     译×0     ★源0次(幽灵?) 残留「“弗拉什」×33
+     Hatfield                       → 哈特菲尔德                源×3     译×3     残留「哈特菲尔德路」×1
+     Hertfordshire                  → 赫特福德郡                源×1     译×1    
+     Sir Thomas Summers             → 托马斯·萨默斯爵士            源×1     译×1    
+     Assyrian dagger                → 亚述匕首                 源×2     译×2    
+     Marylebone Police Station      → 玛丽勒本警察局              源×1     译×1     残留「坎农街警察局」×1
+     Thetfield                      → 蒂特菲尔德                源×1     译×1     残留「哈特菲尔德」×3 残留「哈特菲尔德」×3
+     Truland                        → 特鲁兰                  源×1     译×1     残留「特鲁兰（Truland）」×1
+     Lothario                       → 洛萨里奥                 源×1     译×1    
+     Turkish room                   → 土耳其式房间               源×1     译×1    
+     muff                           → 皮手筒                  源×3     译×3    
+     stop-press columns             → 截稿快讯栏                源×1     译×1    
+     wardress                       → 女看守                  源×3     译×3    
+     A Prison Diet                  → 监狱伙食                 源×1     译×1     残留「监狱的伙食很合我的胃口」×1
+     Downing Street                 → 唐宁街                  源×1     译×1    
+     inner Cabinet                  → 内阁核心                 源×1     译×1    
+     motor-glove                    → 驾车手套                 源×1     译×1     残留「护腕手套」×7
+     The Escape                     → 越狱                   源×3     译×8    
+     Dartmoor                       → 达特穆尔监狱               源×1     译×0     ★译0次(未落位?)
+     Mrs. Hardy                     → 哈代太太                 源×1     译×0     ★译0次(未落位?) 残留「哈代（Hardy）太太」×1
+     observation hole               → 观察孔                  源×1     译×1    
+     gatekeeper’s lodge             → 门房                   源×1     译×4    
+     Melbourne                      → 墨尔本                  源×1     译×1    
+     Webley                         → 韦伯利左轮手枪              源×1     译×1     残留「大口径」×1
+     modus operandi                 → 作案手法                 源×1     译×1    
+     Who Is the Crimson Circle?     → 红圈究竟是谁？              源×1     译×1    
+     Mother                         → ‘妈妈’                 源×0     译×0     ★源0次(幽灵?)
+     Ferdinand Walter Lightman      → 费迪南德·沃尔特·利特曼         源×0     译×0     ★源0次(幽灵?)
+     governor（监狱）                   → 典狱长                  源×5     译×2     落位偏低 2/5
+     The Story Continued            → 故事续篇                 源×1     译×1    
+     psychometric detective         → 触物感应侦探               源×1     译×1    
+     Toulouse Gaol / Toulouse Priso → 图卢兹监狱                源×2     译×2    
+     letter-chute                   → 投信滑槽                 源×1     译×1    
+     assistant-commissionership     → 助理总监                 源×1     译×1    
+     Detective-Inspector            → 探长                   源×1     译×0     ★译0次(未落位?) 残留「帕尔探长」×79
+     M. Pallion                     → 帕利翁先生                源×6     译×5    
+     governor（监狱）                   → 典狱长                  源×0     译×0     ★源0次(幽灵?) 残留「法国办得讲究」×1
+     chaplain / padre               → 监狱牧师／教士              源×3     译×2    
+     scaffold / noose / steel lever → 绞架／绞索／钢制扳杆           源×3     译×8    
+     Coq d’Or                       → “金鸡”饭店               源×1     译×1    
+     ‘red lady’                     → ‘红夫人’                源×1     译×1    
+     The Nail                       → 铁钉                   源×2     译×1    
+     Bryan                          → 布莱恩                  源×1     译×1    
+

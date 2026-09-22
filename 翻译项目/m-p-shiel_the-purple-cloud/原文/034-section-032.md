@@ -1,0 +1,1 @@
+I could have come to land a long time before I did: but I would not: I was so afraid. For I was used to the silence of the ice: and I was used to the silence of the sea: but, God knows it, I was afraid of the silence of the land.

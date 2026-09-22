@@ -1,0 +1,4 @@
+## Endnotes
+1. I have no right to introduce the public to the house of Mr. C﻿—﻿—. But that has already been done. Many tourists, and last and most unreservedly of all, Miss Bremer, in her *Homes of the New World*, have already given it such publicity, that I have thought my lighter step would not be felt on the beaten way. ↩︎
+2. While these sheets are in press, the newspapers report that a fire has spread over a section of country between Matanzas and Cardenas, not only destroying the standing cane, but burning up houses, sugar mills, and the sugar and molasses stored for the market. Several lives were lost by the conflagration, which affected, more or less above twenty plantations. ↩︎
+3. Since my return, it has been officially announced that a commission is to be appointed to revise and reduce the tariffs of duties. ↩︎

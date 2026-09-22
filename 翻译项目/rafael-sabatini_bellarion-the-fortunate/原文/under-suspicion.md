@@ -1,0 +1,65 @@
+## XI Under Suspicion
+At Barbaresco’s a surprise awaited Messer Bellarion. The whole company of plotters swarmed about him as he entered the long dusty room of the mezzanine, and he found himself gripped at once between the fierce Casella and the reckless Spigno. He did not like their looks, nor those of any man present. Least of all did he like the looks of Barbaresco who confronted him, oily and falsely suave of manner.
+“Where have you been, Master Bellarion?”
+He realised that he had need of his wits.
+He looked round with surprise and contempt in his stare.
+“Oh, yes, you’re conspirators to the life,” he told them. “You see a spy in every neighbour, a betrayal in every act. Oh, you have eyes; but no wit to inform your vision. God help those who trust you! God help you all!” He wrenched at the arms that held him. “Let me go, fools.”
+Barbaresco licked his lips. His right hand was held behind his back. Stealthily almost he came a step nearer, so that he was very close.
+“Not until you tell us where you have been. Not then, unless you tell us more.”
+Bellarion’s sneer became more marked; but no fear showed in his glance. “Where I have been, you know. Hence these tragical airs. I’ve been to court.”
+“To what end, Bellarion?” Barbaresco softly questioned. The others preserved a frozen, watchful silence.
+“To betray you, of course.” He was boldly ironical. “Having done so, I return so that you may slit my throat.”
+Spigno laughed, and released the arm he held.
+“I for one am answered. I told you from the first I did not believe it.”
+Casella, however, hung on fiercely. “I’ll need a clear answer before I﻿ ﻿…”
+“Give me air, man,” cried Bellarion impatiently, and wrenched his arm free. “No need to maul me. I’ll not run. There are seven of you to prevent me, and reflection may cool your humours. Reflect, for instance, that, if I were for running, I should not have come back.”
+“You tell us what you would not or did not do. We ask you what you did,” Barbaresco insisted.
+“I’ll tell you yet another thing I would not have done if my aim had been betrayal. I should not have gone openly to court so that you might hear of my presence there.”
+“The very argument I employed,” Spigno reminded them, with something of Bellarion’s own scorn in his manner now. “Let the boy tell his tale.”
+They muttered among themselves. Bellarion crossed the room under their black looks, moving with the fearless air of a man strong in the sense of his own integrity. He slid into a chair.
+“There is nothing to tell that is not self-evident already. I went to carry your message to the Princess Valeria; to point out to her the position of checkmate in which you hold her; to make her realize that being committed to this enterprise, she cannot now either draw back or dictate to us the means by which our aims are to be reached. All this, I rejoice to tell you, I have happily accomplished.”
+Again it was Barbaresco who was their spokesman. “All this we may believe when you tell us why you chose to go to court to do it, and how, being what you represent yourself to be, you succeeded in gaining admission.”
+“God give me patience with you, dear Saint Thomas!” said Bellarion, sighing. “I went to court because the argument I foresaw with the Princess was hardly one to be conducted furtively behind a hedge. It threatened to be protracted. Besides, for furtive dealing, sirs, bold and open approaches are best when they are possible. They were possible to me. It happens, sirs, that I am indeed the adoptive son of Facino Cane, and I perceived how I might use that identity to present myself at court and there move freely.”
+A dozen questions rained upon him. He answered them all in a phrase.
+“The Ambassador of Milan, Messer Aliprandi, was there to sponsor me.”
+There was a silence, broken at last by Barbaresco. “Aliprandi may have been your sponsor there. He cannot be your sponsor here, and you know it.”
+“Aye,” growled white-haired Lungo. “An impudent tale!”
+“And a lame one,” added Casella. “If you had this means of going to court, why did you wait so long to seize it?”
+“Other ways were open on former occasions. You forget that Madonna Valeria was not expecting me; the garden-gate would not be ajar. And I could not this time go as a painter, which was the disguise I adopted on the last occasion. Besides, it is too expensive. It cost me five ducats.”
+Again their questions came together, for it was the first they had heard of the disguise which he had used. He told them at last the story. And he saw that it pleased them.
+“Why did you not tell us this before?” quoth one.
+Bellarion shrugged. “Is it important? So that I was your Mercury, did it matter in what shape I went? Why should I trouble you with trivial things? Besides, let me remind you﻿—since you can’t perceive it for yourselves﻿—that if I had betrayed you to the Marquis Theodore, the Captain of Justice would now be here in my place.”
+“That, at least, is not to be denied,” said Spigno, and in his vehemence carried two or three others with him.
+But the fierce Casella was not of those, nor Lungo, nor Barbaresco.
+The latter least of all, for a sudden memory had stirred in him. His blue eyes narrowed until they were almost hidden in his great red cheeks.
+“How does it happen that none at court recognized in you the palace amanuensis?”
+Bellarion perceived his danger, and learnt the lesson that a lie may become a clumsy obstacle to trip a man. But of the apprehension he suddenly felt, no trace revealed itself upon his countenance.
+“It is possible some did. What then? Neither identity contradicts the other. And remember, pray, that Messer Aliprandi was there to avouch me.”
+“But he cannot avouch you here,” Barbaresco said again, and sternly asked: “Who can?”
+Bellarion looked at him, and from him to the others who seemed to await almost in breathlessness his answer.
+“Do you demand of me proof that I am the adoptive son of Facino Cane?” he asked.
+“So much do we demand it that unless you can afford it your sands are run, my cockerel,” Casella answered him, his fingers on his dagger as he spoke.
+It was a case for bold measures if he would gain time. Given this, he knew that all things may become possible, and there was one particular thing his shrewd calculations accounted probable here if only he could induce them to postpone until tomorrow the slitting of his throat.
+“So be it. From here to Cigliano it is no more than a day’s ride on a good horse. Let one of you go ask the Abbot of the Grazie the name of him Facino left in the convent’s care.”
+“A name?” cried Casella, sneering. “Is that all the proof?”
+“All if the man who goes is a fool. If not he may obtain from the Abbot a minute description of this Bellarion. If more is needed I’ll give you a note of the clothes I wore and the gear and money with which I left the Grazie that you may obtain confirmation of that, too.”
+But Barbaresco was impatient. “Even so, what shall all this prove? It cannot prove you true. It cannot prove that you are not a spy sent hither to betray and sell us.”
+“No,” Bellarion agreed. “But it will prove that the identity on which I won to court is what I represent it, and that will be something as a beginning. The rest﻿—if there is more﻿—can surely wait.”
+“And meanwhile﻿ ﻿… ?” Casella was beginning.
+“Meanwhile I am in your hands. You’re never so bloodthirsty that you cannot postpone murdering me until you’ve verified my tale?”
+That was what they fell to discussing among themselves there in his very presence, affording him all the excitement of watching the ball of his fate tossed this way and that among the disputants.
+In the end the game might have gone against him but for Count Spigno, who laboured Bellarion’s own argument that if he had betrayed them he would never have incurred the risk of returning amongst them.
+In the end they deprived Bellarion of the dagger which was his only weapon, and then Barbaresco, Casella, and Spigno jointly conducted him above-stairs to a shabby chamber under the roof. It had no windows, whence an evasion might be attempted, and was lighted by a glazed oblong some ten feet overhead at the highest part of the sharply sloping ceiling. It contained no furniture, nor indeed anything beyond some straw and sacking in a corner which he was bidden to regard as his bed for that night and probably for the next.
+They pinioned his wrists behind him for greater safety, and Casella bade him be thankful that the cord was not being tightened about his neck instead. Upon that they went out, taking the light with them, locking the door, and leaving him a prisoner in the dark.
+He stood listening to their footsteps receding down the stairs, then he looked up at the oblong of moonlight in his ceiling. If the glass were removed, there would be room for a man to pass through and gain the roof. But considering the slope of it, the passage might as easily lead to a broken neck as to liberty, and in any case he had neither the power nor the means to reach it.
+He squatted upon the meagre bedding, with his chin almost upon his knees, in an attitude of extreme discomfort, making something in the nature of an assessment of his mental and emotional equipment. Seen now from the point of view of cold reason to which danger had sharply brought him, his career since leaving the peace of the Grazie a week ago seemed fantastic and incredible. Destiny had made sport with him. Sentimentality had led him by the nose. He had mixed himself in the affairs of a state through which he was no more than a wayfarer, because moved to interest in the fortunes of a young woman of exalted station who would probably dismiss his memory with a sigh when she came to learn how his throat had been cut by the self-seeking fools with whom so recklessly she had associated herself. It was, he supposed, a manifestation of that romantic and unreasonable phenomenon known as chivalry. If he extricated himself alive from this predicament, he would see to it that whatever follies he committed in the future, chivalry would certainly not be found amongst them. Experience had cured him of any leanings in that direction. It had also inspired doubts of the infallibility of his syllogism on the subject of evil. He suspected a flaw in it somewhere. For evil most certainly existed. His respect for the value of experience was rapidly increasing.
+He shifted his position, stretched himself out, and lay on his side, contemplating the patch of moonlight on the floor, and speculating upon his chances of winning out of this deathtrap. Of these he took an optimistic view. The assistance upon which Bellarion chiefly counted was that of the traitor amongst the conspirators, whom he strove vainly to identify in the light of their behaviour that evening. Spigno had been the only one who by advocating Bellarion’s cause had procured him this respite. Yet Spigno was one of the first to spring upon him dagger in hand, on his return from court. But the traitor, whoever he might be, would probably report the event to the Marquis Theodore, and the Marquis should take steps directly or indirectly to procure the release of one whom he must now regard as a valuable agent.
+That, thought Bellarion, was the probability. Meanwhile he would remember that probabilities are by no means certainties, and he would be watchful for an opportunity to help himself.
+On these reflections he must have fallen asleep, and he must have slept for some time, for, when suddenly he awakened, the patch of moonlight was gone from the floor. That was his first conscious observation; his second what that something was stirring near at hand. He raised himself on his elbow, an operation by no means easy with pinioned wrists, and turned his head in the direction of the sound, to perceive a faint but increasing rhomb of light from the direction of the doorway, and to understand with the next heartbeat that the door was being slowly and stealthily pushed open.
+That was, he afterwards confessed, his first real acquaintance with the emotion of fear; fear that roughened his skin and chilled his spine; fear inspired by the instantaneous conviction that here came someone to murder him as he lay there bound and helpless.
+The suspense was but of seconds, yet in those seconds Bellarion seemed to live an age as he watched that slowly widening gap and the faint light which increased in area but hardly in illumination. Then the shadowy form of a man slipped through, darkly discernible in the faint glow from the veiled light he carried.
+Very softly came his voice: “Sh! Quiet! Make no sound!”
+The note of warning partially calmed the tumult of Bellarion’s heart, which was thudding in his throat as if to suffocate him.
+As quietly as it had been opened the door was closed again, a thin and partially translucent mantle was pulled from the lantern it had been muffling, and the light beating through the horn panes was reflected from the floor and walls upon the lean, aquiline features of Count Spigno.
+Bellarion uttered something that sounded like a chuckle.
+“I was expecting you,” said he.

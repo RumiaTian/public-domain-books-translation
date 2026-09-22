@@ -1,0 +1,86 @@
+====================================================================================================
+### langston-hughes_zora-neale-hurston_the-mule-bone  (5 files)
+  块: O=51 C=51 OK | 段: EN=850 CN=850 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: 剧本：对白按「**人物名**：台词」块对照、舞台指示斜体保留（循 shaw/hamlin 剧本体例）。
+  -- 术语表硬约束行 79 条:
+     Jim Weston                     → 吉姆·韦斯顿（吉他手，卫理公会）     源×4     译×4    
+     Dave Carter                    → 戴夫·卡特（舞者，浸信会）        源×4     译×4    
+     Daisy Taylor／Daisy Bailey      → 黛西·泰勒／黛西·贝利（原文两见，照原文 源×0     译×5     ★源0次(幽灵?)
+     Joe Clark                      → 乔·克拉克（市长，杂货铺老板兼邮政所长； 源×22    译×22   
+     Mrs. (Mattie) Clark            → （玛蒂·）克拉克太太；夫称 Jody→乔 源×7     译×0     ★译0次(未落位?)
+     Deacon Hambo                   → 执事汉博                 源×1     译×1    
+     Deacon Goodwin                 → 执事古德温                源×1     译×1    
+     Matt Brazzle                   → 马特·布拉齐尔              源×2     译×2    
+     Joe Lindsay                    → 乔·林赛                 源×4     译×4    
+     Lum Boger                      → 拉姆·博格（绰号哥伦布斯 Columbu 源×22    译×22   
+     Lige Mosely                    → 莱奇·莫斯利               源×3     译×3    
+     Sam Mosely                     → 萨姆·莫斯利               源×1     译×1    
+     Walter Thomas                  → 沃尔特·托马斯              源×5     译×5    
+     Tom Nixon                      → 汤姆·尼克松               源×1     译×1    
+     Tony Taylor                    → 托尼·泰勒；妻 Lucy→露西      源×1     译×0     ★译0次(未落位?)
+     Mrs. Jake Roberts              → 杰克·罗伯茨太太             源×1     译×1    
+     Mrs. Mosely (Sister Mattie)    → 莫斯利太太（玛蒂姊妹）          源×1     译×2    
+     Elder/Rev. Simms               → 西姆斯长老／牧师（卫理公会）       源×15    译×30   
+     Rev./Elder Childers            → 奇尔德斯牧师／长老（浸信会）       源×4     译×7    
+     Sister Thomas                  → 托马斯姊妹                源×18    译×20   
+     Sister Jones (Ida)             → 琼斯姊妹（艾达）             源×7     译×7    
+     Hoyt                           → 霍伊特                  源×1     译×1    
+     Mrs. Blunt                     → 布伦特太太（黛西之母）          源×8     译×9    
+     Sister Lewis                   → 刘易斯姊妹                源×1     译×1    
+     Teet (Miller)                  → 蒂特                   源×9     译×18   
+     Bootsie Pitts                  → 布茜·皮茨                源×1     译×1    
+     Katie Carter                   → 凯蒂·卡特                源×1     译×1    
+     Ada Lewis                      → 阿达·刘易斯               源×1     译×1    
+     Della Lewis                    → 德拉·刘易斯               源×1     译×1    
+     Mrs. Dilcie Anderson           → 迪尔茜·安德森太太            源×1     译×1    
+     Mrs. Hattie Clark              → 哈蒂·克拉克太太             源×1     译×1    
+     Will Cody                      → 威尔·科迪                源×2     译×2    
+     Sykes Jones                    → 赛克斯·琼斯               源×2     译×2    
+     Marthy                         → 玛莎                   源×1     译×1    
+     Jessie                         → 杰茜                   源×1     译×1    
+     Matilda                        → 玛蒂尔达                 源×4     译×4    
+     Mary Ella                      → 玛丽·埃拉                源×4     译×4    
+     Willie Nixon                   → 威利·尼克松               源×1     译×1    
+     Nunkie                         → 努基                   源×1     译×1    
+     old lady Jackson               → 杰克逊老太太               源×1     译×0     ★译0次(未落位?)
+     Eatonville                     → 伊顿维尔                 源×4     译×4    
+     Maitland                       → 梅特兰                  源×4     译×4    
+     Winter Park                    → 温特帕克                 源×1     译×1    
+     Park Lake                      → 帕克湖                  源×1     译×1    
+     Apopka                         → 阿波普卡                 源×1     译×1    
+     Altamont                       → 阿尔塔蒙特                源×1     译×1    
+     Sanford                        → 桑福德                  源×3     译×3    
+     Jacksonville                   → 杰克逊维尔                源×2     译×2    
+     Key West                       → 基韦斯特                 源×1     译×1    
+     West Tampa                     → 西坦帕                  源×1     译×1    
+     Orlando                        → 奥兰多                  源×1     译×1    
+     Orange County                  → 奥兰治县                 源×1     译×1    
+     Georgia (Georgy)               → 佐治亚                  源×3     译×7    
+     Florida                        → 佛罗里达                 源×5     译×5    
+     Cincinnatti                    → 辛辛那提                 源×1     译×1    
+     Chattahoochee                  → 查塔胡奇                 源×1     译×1    
+     Macedonia Baptist Church       → 马其顿浸信会教堂             源×1     译×1    
+     River Jurdon                   → 约旦河                  源×1     译×1    
+     West Tampa                     → 西坦帕                  源×0     译×0     ★源0次(幽灵?)
+     Methodist                      → 卫理公会（教徒）             源×12    译×21   
+     Baptist                        → 浸信会（教徒）              源×17    译×29   
+     Booker T. Washington           → 布克·T·华盛顿             源×1     译×1    
+     Mr. Hoover                     → 胡佛先生                 源×1     译×0     ★译0次(未落位?)
+     Gabriel                        → 加百列                  源×1     译×1    
+     Albert Johnson                 → 艾伯特·约翰逊              源×1     译×1    
+     Jimmy Cox                      → 吉米·考克斯               源×1     译×1    
+     Shake That Thing（曲名）           → 《摇那个东西》              源×2     译×2    
+     chick-me-chick-me-cranie-crow（ → 「小鸡小鸡灰鹤鸦」            源×0     译×2     ★源0次(幽灵?)
+     parse-me-la（舞）                 → 「帕斯梅拉」舞              源×1     译×1    
+     mule bone／hock-bone            → 骡骨／后腿关节骨             源×0     译×5     ★源0次(幽灵?)
+     Lawd／Lawdy                     → 主啊                   源×0     译×15    ★源0次(幽灵?)
+     I God（克拉克口头禅）                  → 我的上帝                 源×23    译×23   
+     nigger                         → 黑鬼（时代用语，中性直译）        源×10    译×26   
+     darky                          → 老黑                   源×1     译×0     ★译0次(未落位?)
+     jig                            → 黑小子                  源×0     译×1     ★源0次(幽灵?)
+     Haitians（骂孩子）                  → 小海地佬                 源×2     译×2    
+     perlow（chicken perlow）         → 鸡肉焖饭                 源×1     译×1    
+     collard greens                 → 羽衣甘蓝                 源×2     译×2    
+     turnip greens                  → 萝卜缨子                 源×1     译×1    
+

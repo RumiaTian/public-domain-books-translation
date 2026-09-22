@@ -1,0 +1,17 @@
+## Epitaph on a Child
+Here freed from pain, secure from misery, lies
+ 
+
+ A Child, the darling of his parents’ eyes;
+ 
+
+ A gentler lamb ne’er sported on the plain,
+ 
+
+ A fairer flower will never bloom again!
+ 
+
+ Few were the days allotted to his breath;
+ 
+
+ Here let him sleep in peace his night of death.

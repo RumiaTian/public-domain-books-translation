@@ -1,0 +1,77 @@
+====================================================================================================
+### mary-p-hamlin_george-arliss_hamilton  (7 files)
+  块: O=264 C=264 OK | 段: EN=1256 CN=1255 !!差 1
+     [不对称] act-iv.md                                            O=36 C=36 段EN=136 段CN=135
+  英文残留(剔括注) top: Je×1, l'adore×1
+  项目说明备注: - **格式**：原文为剧本对话，提取后格式为 `**人物名**：台词`，舞台说明为整段正文或行内 `*（动作）*`；每幕开头有 Scene. 场景描写段。 / - **双语块对照策略**：每个块含若干对白回合 + 舞台说明；译文块结构对应（人物名照译、台词照译、舞台说明照译）。注意人物名在对话行首与舞台说明中保持一致。 / - **历史人物**：剧中绝大多数人物为真实历史人物（汉密尔顿、杰斐逊、门罗、杰伊、塔列朗等），译名取通行译法，详见术语表。 / - **政争背景**：核心冲突围绕"财政承担州债法案"（the Bill）与雷诺兹勒索案，翻译时注意 Treasury/Bill/administration/securities 等政治术语的统一译法。 / - **货币/价格**：台词与布景中出现的先令、便士、美元及价格（如 sixpence、two shillings、fifty cents）照译并保留数字。 / - **剧本拼写**：剧中将 Talleyrand 拼作 Tallyrand，统一译"塔列朗"，不改回史拼。 / - **服装表 / 场景表**：costumes.md 
+  -- 术语表硬约束行 69 条:
+     Alexander Hamilton             → 亚历山大·汉密尔顿            源×33    译×33   
+     Betsy Hamilton                 → 贝特西·汉密尔顿             源×4     译×4    
+     General Philip Schuyler        → 菲利普·斯凯勒将军            源×1     译×1    
+     Angelica Church                → 安杰莉卡·丘奇              源×2     译×2    
+     Thomas Jefferson               → 托马斯·杰斐逊              源×6     译×6    
+     James Monroe                   → 詹姆斯·门罗               源×3     译×3    
+     William B. Giles               → 威廉·B·贾尔斯             源×1     译×1    
+     Count Tallyrand                → 塔列朗伯爵                源×5     译×7    
+     John Jay                       → 约翰·杰伊                源×2     译×2    
+     James Reynolds                 → 詹姆斯·雷诺兹              源×3     译×3    
+     Mrs. Reynolds                  → 雷诺兹夫人                源×78    译×78   
+     Colonel Lear                   → 利尔上校                 源×4     译×4    
+     Zekiel                         → 泽基尔                  源×92    译×92   
+     Melissa                        → 梅利莎                  源×19    译×20   
+     First Man / Second Citizen     → 男甲 / 市民乙             源×9     译×9    
+     Soldier's Wife                 → 士兵之妻                 源×1     译×1    
+     Quaker                         → 贵格会教徒                源×1     译×2    
+     Marshall                       → 马歇尔                  源×3     译×3    
+     Morris                         → 莫里斯                  源×4     译×4    
+     Livingston                     → 利文斯顿                 源×4     译×8    
+     Muhlenburg                     → 米伦伯格                 源×2     译×3    
+     Washington (President)         → 华盛顿（总统）              源×29    译×29   
+     Tom Paine                      → 汤姆·潘恩                源×3     译×3    
+     Zackery Whalen                 → 扎克里·惠伦               源×1     译×1    
+     Mrs. Whalen                    → 惠伦太太                 源×3     译×3     残留「妇人」×15
+     Mr. Lewis                      → 刘易斯先生                源×1     译×0     ★译0次(未落位?)
+     James Madison                  → 詹姆斯·麦迪逊              源×0     译×0     ★源0次(幽灵?)
+     Cabinet                        → 内阁                   源×1     译×1    
+     the West Indies                → 西印度群岛                源×1     译×1    
+     Mary P. Hamlin                 → 玛丽·P·哈姆林             源×0     译×0     ★源0次(幽灵?)
+     George Arliss                  → 乔治·阿利斯               源×0     译×0     ★源0次(幽灵?)
+     Gilbert Stuart                 → 吉尔伯特·斯图尔特            源×1     译×1    
+     John Trumbull                  → 约翰·特朗布尔              源×1     译×1    
+     Senator Lodge                  → 洛奇参议员                源×1     译×1    
+     Nicholas Murray Butler         → 尼古拉斯·默里·巴特勒          源×1     译×1    
+     Philadelphia                   → 费城                   源×7     译×7    
+     Exchange Coffee House          → 交易咖啡馆                源×4     译×4    
+     79 South Third Street          → 南第三街 79 号            源×1     译×1    
+     New York                       → 纽约                   源×16    译×16   
+     South Carolina                 → 南卡罗来纳                源×4     译×4     残留「州证券」×4
+     Germantown                     → 杰曼敦                  源×1     译×1    
+     Potomac                        → 波托马克河                源×4     译×4    
+     France                         → 法国                   源×12    译×6     落位偏低 6/12
+     England                        → 英格兰                  源×5     译×7    
+     Lenox Library                  → 伦诺克斯图书馆              源×1     译×1     残留「雷诺兹小册子」×1
+     Albany                         → 奥尔巴尼                 源×16    译×15   
+     Valley Forge                   → 福吉谷                  源×2     译×2    
+     Yorktown                       → 约克镇                  源×3     译×3    
+     Hudson                         → 哈得孙河                 源×3     译×3    
+     Secretary of the Treasury      → 财政部长                 源×11    译×11   
+     Chief Justice                  → 首席大法官                源×3     译×3    
+     the Federalist                 → 《联邦党人文集》             源×0     译×0     ★源0次(幽灵?)
+     Reynolds Pamphlet              → 《雷诺兹小册子》             源×1     译×0     ★译0次(未落位?)
+     Bill (for Congress)            → 国会法案                 源×28    译×0     ★译0次(未落位?)
+     States' securities             → 各州证券                 源×2     译×4    
+     Washington's first administrat → 华盛顿首届政府              源×1     译×1    
+     Residence Bill                 → 定居法案                 源×2     译×2    
+     National Bank                  → 国家银行                 源×2     译×2    
+     Assumption Bill                → 州债承担法案               源×2     译×2    
+     Anti-Federalists               → 反联邦党人                源×3     译×3    
+     Federalist Party               → 联邦党                  源×1     译×1     残留「联邦党到此完了」×1
+     liberty cap                    → 自由帽                  源×1     译×1    
+     "Sacred to Liberty"            → "献给自由"               源×0     译×0     ★源0次(幽灵?)
+     Chippendale                    → 齐彭代尔（式）              源×2     译×2    
+     Wedgewood                      → 韦奇伍德                 源×1     译×1    
+     harpsichord                    → 拨弦古钢琴                源×1     译×1    
+     three-cornered hat             → 三角帽                  源×1     译×4    
+     wig (tie wig / dark tie wig)   → 假发（束发式）              源×8     译×8    
+     stock and fall                 → 领巾与胸饰                源×3     译×2    
+

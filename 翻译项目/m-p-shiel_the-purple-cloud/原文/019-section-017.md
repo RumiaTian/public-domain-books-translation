@@ -1,0 +1,1 @@
+Alone that same day I began my way southward, and for five days made good progress. On the eighth day I noticed, stretched right across the southeastern horizon, a region of purple vapour which luridly obscured the face of the sun: and day after day I saw it steadily brooding there. But what it could be I did not understand.

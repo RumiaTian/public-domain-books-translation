@@ -1,0 +1,40 @@
+ (20 files)
+  块: O=142 C=142 OK | 段: EN=425 CN=425 OK
+  英文残留(剔括注) top: 无
+  -- 术语表硬约束行 35 条:
+     Lop-Ear                        → 垂耳                   源×133   译×134   残留「我」×2065
+     Red-Eye                        → 红眼                   源×103   译×103  
+     Swift One                      → 飞毛腿                  源×51    译×51   
+     Folk                           → 族人                   源×92    译×99   
+     horde                          → 族群                   源×50    译×46   
+     Fire People                    → 火族                   源×47    译×45   
+     Tree People                    → 树族                   源×18    译×20   
+     Younger World                  → 年轻世界                 源×11    译×11   
+     Mid-Pleistocene                → 中更新世                 源×2     译×2    
+     Saber-Tooth                    → 剑齿虎                  源×22    译×22   
+     Hairless One                   → 无毛人                  源×10    译×11   
+     Chatterer                      → 喋喋                   源×23    译×23   
+     Marrow-Bone                    → 啃骨髓                  源×24    译×24   
+     the tawny one                  → 黄褐色的家伙               源×5     译×5    
+     Pictures                       → 幻象                   源×6     译×8    
+     Fire-man / Fire-men            → 火人                   源×39    译×43   
+     Broken-Tooth                   → 断牙                   源×18    译×19   
+     Long-Lip                       → 长唇                   源×5     译×5    
+     Singing One                    → 唱唱                   源×4     译×4    
+     Crooked-Leg                    → 弯腿                   源×4     译×5    
+     Big-Face / Big Face            → 大脸                   源×5     译×5    
+     hee-hee council                → 嘻嘻会                  源×5     译×5    
+     Tree-Man                       → 树族人                  源×2     译×2    
+     Big-Tooth                      → 大牙                   源×13    译×14    残留「我」×2065
+     Hair-Face                      → 毛脸                   源×6     译×6    
+     other-self                     → 另一个自我                源×7     译×8    
+     the atavism                    → 返祖者                  源×3     译×1     落位偏低 1/3
+     double-cave                    → 双洞                   源×4     译×6    
+     blueberry swamp                → 蓝莓沼泽                 源×9     译×9    
+     slough                         → 汊口                   源×13    译×8     残留「学航海」×1
+     old home-tree                  → 老家树                  源×3     译×3    
+     wizened old hunter             → 干瘪瘦小的老猎人             源×5     译×4    
+     catamaran                      → 双体筏                  源×7     译×4     落位偏低 4/7
+     stringy-rooted carrots         → 粗筋胡萝卜                源×3     译×2     残留「粗筋多渣的胡萝卜」×1
+     Bluebeard                      → 蓝胡子                  源×1     译×1    
+====================================================================================================

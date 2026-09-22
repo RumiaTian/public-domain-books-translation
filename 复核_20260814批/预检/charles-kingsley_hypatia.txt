@@ -1,0 +1,562 @@
+====================================================================================================
+### charles-kingsley_hypatia  (30 files)
+  块: O=564 C=564 OK | 段: EN=3577 CN=3589 !!差 -12
+     [不对称] chapter-6.md                                         O=12 C=12 段EN=83 段CN=82
+     [不对称] chapter-7.md                                         O=12 C=12 段EN=132 段CN=133
+     [不对称] chapter-8.md                                         O=15 C=15 段EN=166 段CN=168
+     [不对称] chapter-13.md                                        O=29 C=29 段EN=177 段CN=179
+     [不对称] chapter-21.md                                        O=15 C=15 段EN=192 段CN=193
+     [不对称] chapter-26.md                                        O=15 C=15 段EN=98 段CN=99
+     [不对称] chapter-27.md                                        O=30 C=30 段EN=182 段CN=183
+     [不对称] chapter-28.md                                        O=17 C=17 段EN=68 段CN=69
+     [不对称] chapter-30.md                                        O=28 C=28 段EN=99 段CN=103
+  英文残留(剔括注) top: nicor×4, parabolani×2, Abba×1, Vanitas×1, vanitatum×1, omnia×1, vanitas×1, morbidezza×1, Video×1, meliora×1
+  项目说明备注: - 罗马数字章节序号照搬不译；章名照译。 / - 古代历史背景：5 世纪亚历山大城的基督教（Cyril 派）/异教（Hypatia 新柏拉图学派）/犹太人三方冲突，术语以术语表为准。 / - 古希腊罗马宗教、哲学名词（Neoplatonism、pagan、Mithras 等）用学术通行译名。 / - 长章（多章 >40KB，最大 62.5KB）按通用翻译引擎第七节分段处理。 / - 金斯利文风雄浑、古典气息浓厚，译文求典雅而不佶屈聱牙。
+  -- 术语表硬约束行 546 条:
+     Philammon                      → 菲拉蒙                  源×421   译×429  
+     Hypatia                        → 希帕蒂娅                 源×290   译×290  
+     Cyril                          → 区利罗（居里尔）             源×134   译×136  
+     Orestes                        → 俄瑞斯忒斯                源×131   译×132  
+     Raphael Aben-Ezra              → 拉斐尔·阿本-以斯拉           源×30    译×32   
+     Pelagia                        → 佩拉吉娅                 源×162   译×162  
+     the Amal                       → 阿玛尔                  源×64    译×80   
+     Miriam                         → 米利暗                  源×105   译×103  
+     Synesius                       → 叙内西乌斯                源×67    译×69   
+     Arsenius                       → 阿尔塞尼乌斯               源×69    译×69   
+     Theon                          → 提昂                   源×21    译×20   
+     Pambo                          → 庞波                   源×33    译×33   
+     Abbot                          → 院长                   源×34    译×30   
+     Aufugus                        → 奥弗古斯                 源×14    译×14   
+     Theophilus                     → 提奥菲鲁斯                源×5     译×5    
+     Alaric                         → 阿拉里克                 源×3     译×3    
+     Arcadius                       → 阿卡迪乌斯                源×1     译×1    
+     Ptolemy Philadelphus           → 托勒密·斐拉德尔甫斯           源×1     译×1    
+     Euclid                         → 欧几里得                 源×2     译×2    
+     Theocritus                     → 忒奥克里托斯               源×1     译×1    
+     Callimachus                    → 卡利马科斯                源×1     译×1    
+     Lycophron                      → 吕科弗隆                 源×1     译×1    
+     Pythagoras                     → 毕达哥拉斯                源×2     译×2    
+     Apollonius (of Perga)          → 阿波罗尼奥斯（佩尔加的）         源×2     译×2    
+     Plato                          → 柏拉图                  源×15    译×18   
+     Homer                          → 荷马                   源×19    译×22   
+     Socrates                       → 苏格拉底                 源×7     译×7    
+     Porphyry                       → 波菲利                  源×5     译×7    
+     Philo the Jew                  → 斐洛（犹太人斐洛）            源×1     译×7    
+     Peter                          → 彼得                   源×81    译×81   
+     Andronicus                     → 安德洛尼库斯               源×1     译×1    
+     Heraclian                      → 赫拉克利安                源×26    译×28   
+     Stilicho                       → 斯提里科                 源×2     译×2    
+     Attalus                        → 阿塔卢斯                 源×1     译×1    
+     Pulcheria                      → 普尔凯丽娅                源×4     译×4    
+     Titus                          → 提图斯                  源×1     译×1    
+     Amalric the Amal               → 阿玛尔里克（阿玛尔王族）         源×2     译×9    
+     Wulf the son of Ovida          → 沃尔夫·奥维达之子            源×4     译×9    
+     Smid the son of Troll          → 斯密德·特罗尔之子            源×2     译×9    
+     Itho                           → 伊托                   源×1     译×1    
+     Adolf (the Balth)              → 阿道夫（巴尔王族）            源×10    译×10   
+     Alexandria                     → 亚历山大城                源×120   译×128  
+     the Nile                       → 尼罗河                  源×8     译×15   
+     Scetis                         → 塞提斯                  源×11    译×11   
+     the Laura                      → 劳拉                   源×27    译×35   
+     Cyrene                         → 昔兰尼加                 源×8     译×10   
+     Museum                         → 博物院                  源×28    译×29   
+     Genoa                          → 热那亚                  源×0     译×0     ★源0次(幽灵?)
+     Nitria                         → 尼特拉                  源×15    译×18   
+     the Thebaid                    → 底比斯荒漠                源×4     译×4    
+     Byzantium                      → 拜占庭                  源×8     译×13   
+     Rome                           → 罗马                   源×26    译×69   
+     Constantinople                 → 君士坦丁堡                源×13    译×13   
+     Athens                         → 雅典                   源×22    译×56   
+     Thebes                         → 底比斯                  源×1     译×3    
+     Carthage                       → 迦太基                  源×12    译×12   
+     Ostia                          → 奥斯提亚                 源×16    译×16   
+     Atlas                          → 阿特拉斯                 源×1     译×1    
+     the Caesareum                  → 凯撒里乌姆                源×19    译×20   
+     the Serapeium                  → 塞拉匹斯神庙               源×10    译×11   
+     the Pharos                     → 法罗斯                  源×3     译×5    
+     the Menagerie                  → 御兽园                  源×1     译×2    
+     Asgard                         → 阿斯加德                 源×18    译×18   
+     the Caucasus                   → 高加索                  源×2     译×3    
+     Aethiopia                      → 埃塞俄比亚                源×1     译×2    
+     India                          → 印度                   源×5     译×9    
+     the Moon mountains             → 月亮山脉                 源×1     译×1    
+     Ravenna                        → 拉文纳                  源×3     译×3    
+     Messina                        → 墨西拿                  源×1     译×1    
+     Sicily                         → 西西里                  源×2     译×2    
+     Gaul                           → 高卢                   源×1     译×1    
+     the Mediterranean              → 地中海                  源×5     译×9    
+     the Delta                      → 三角洲                  源×2     译×3    
+     Hyperboreans                   → 极北族人                 源×1     译×1    
+     pagan / heathen                → 异教徒                  源×72    译×57   
+     Christian                      → 基督徒                  源×95    译×116  
+     monk                           → 修士                   源×110   译×205  
+     nun                            → 修女                   源×13    译×19   
+     bishop                         → 主教                   源×38    译×93   
+     patriarch                      → 宗主教                  源×46    译×49   
+     prefect                        → 总督                   源×78    译×93   
+     Neoplatonism                   → 新柏拉图主义               源×0     译×6     ★源0次(幽灵?)
+     the Atonement                  → 救赎                   源×0     译×1     ★源0次(幽灵?)
+     the Cross                      → 十字架                  源×13    译×34   
+     Mithras                        → 密特拉神                 源×0     译×0     ★源0次(幽灵?)
+     Serapis                        → 塞拉匹斯                 源×2     译×2    
+     Isis                           → 伊西斯                  源×5     译×5    
+     oracle                         → 神谕                   源×1     译×5    
+     gymnasium                      → 体育馆                  源×0     译×0     ★源0次(幽灵?)
+     Nazarite                       → 拿细耳人                 源×1     译×1    
+     St. Anthony                    → 圣安东尼                 源×1     译×4    
+     the Scriptures                 → 《圣经》                 源×5     译×15   
+     Satan                          → 撒但                   源×20    译×19   
+     Tertullian                     → 德尔图良                 源×1     译×1    
+     Origen                         → 奥利金                  源×2     译×2    
+     Clement                        → 克莱门特                 源×4     译×5    
+     Cyprian                        → 居普良                  源×1     译×1    
+     Donatist                       → 多纳图斯派                源×2     译×5    
+     Nisaean (horse)                → 倪萨（骏马）               源×1     译×3    
+     Athene Polias                  → 雅典娜·波利亚斯             源×2     译×2    
+     Venus Pandemos                 → 维纳斯·潘德莫斯             源×1     译×1     残留「全民众」×1
+     Erictho                        → 埃里克托                 源×1     译×1    
+     Falernian                      → 法勒那                  源×1     译×1    
+     Lybian                         → 利比亚                  源×1     译×11   
+     Odin                           → 奥丁                   源×27    译×27   
+     Thor                           → 托尔                   源×2     译×2    
+     Valhalla                       → 瓦尔哈拉（英灵殿）            源×6     译×6    
+     Valkyrs (Valkyries)            → 瓦尔基里                 源×2     译×2    
+     Hela                           → 海拉                   源×3     译×3    
+     the Aesir                      → 阿萨神族                 源×3     译×4    
+     the Yngling                    → 英陵（英格林王裔）            源×1     译×0     ★译0次(未落位?)
+     Snake Midgard                  → 尘世巨蛇                 源×1     译×1    
+     the twilight of the gods       → 众神的黄昏                源×1     译×1    
+     Aphrodite                      → 阿佛洛狄忒                源×22    译×22   
+     Attic                          → 阿提卡（希腊语）             源×2     译×3    
+     satyr                          → 萨提尔                  源×0     译×4     ★源0次(幽灵?)
+     the phoenix                    → 不死鸟（凤凰）              源×2     译×2    
+     Augustus / Augusta             → 奥古斯都 / 奥古斯塔          源×6     译×6    
+     Caesar                         → 凯撒                   源×5     译×17   
+     Messalina                      → 梅莎琳娜                 源×3     译×3    
+     the Gordian knot               → 戈尔迪之结                源×2     译×3    
+     Julian                         → 尤利安                  源×15    译×16   
+     Honorius                       → 霍诺留                  源×4     译×4    
+     Plotinus                       → 波菲利                  源×3     译×0     ★译0次(未落位?)
+     Placidia                       → 普拉西迪娅                源×4     译×4    
+     Prometheus                     → 普罗米修斯                源×2     译×2    
+     Iphigenia                      → 伊菲革涅亚                源×3     译×3    
+     Agamemnon                      → 阿伽门农                 源×7     译×6    
+     Dionusos (Dionysus)            → 狄俄倪索斯                源×7     译×8    
+     Ariadne                        → 阿里阿德涅                源×1     译×1    
+     Ares                           → 阿瑞斯                  源×3     译×3    
+     Zeus                           → 宙斯                   源×12    译×13   
+     Hera                           → 赫拉                   源×3     译×4    
+     Artemis                        → 阿尔忒弥斯                源×2     译×2    
+     Endymion                       → 恩底弥翁                 源×1     译×1    
+     Hephaestus                     → 赫淮斯托斯                源×6     译×7    
+     Eros                           → 厄洛斯                  源×4     译×4    
+     Solomon                        → 所罗门                  源×26    译×26   
+     the Pillars of Hercules        → 赫拉克勒斯之柱              源×2     译×2    
+     the upper cataract             → 上游大瀑布                源×1     译×0     ★译0次(未落位?)
+     Numidian (lion)                → 努米底亚（狮）              源×1     译×1    
+     Armenia                        → 亚美尼亚                 源×1     译×3    
+     Hypocorisma                    → 许珀科里斯玛               源×2     译×1    
+     Canidia                        → 卡尼迪娅                 源×1     译×1    
+     Bran                           → 布朗                   源×46    译×45   
+     Babel                          → 巴别城                  源×6     译×2     落位偏低 2/6
+     Jove (Jupiter)                 → 朱庇特                  源×3     译×3    
+     Gentile                        → 外邦人                  源×5     译×9    
+     Abraham's bosom                → 亚伯拉罕的怀里              源×2     译×1    
+     Cabbala                        → 卡巴拉                  源×1     译×2    
+     Exodus                         → 出埃及                  源×3     译×3    
+     Maccabee                       → 马加比                  源×1     译×1    
+     Jeremiah                       → 《耶利米书》/耶利米           源×2     译×2    
+     Esther                         → 以斯帖                  源×1     译×1    
+     Ahasuerus                      → 亚哈随鲁                 源×2     译×2    
+     Mordecai                       → 末底改                  源×1     译×1    
+     Achan                          → 亚干                   源×2     译×2    
+     Iscariot                       → （加略人）犹大              源×2     译×0     ★译0次(未落位?)
+     Elias                          → 以利亚                  源×1     译×2    
+     Jezebel                        → 耶洗别                  源×2     译×2    
+     Abraham, Isaac, Jacob          → 亚伯拉罕、以撒、雅各           源×0     译×1     ★源0次(幽灵?)
+     Paul of Tarsus                 → 大数的保罗                源×4     译×2     落位偏低 2/4
+     Zenobia                        → 芝诺比娅                 源×2     译×2    
+     Odenatus                       → 奥登纳图斯                源×2     译×2    
+     Longinus                       → 朗基努斯                 源×3     译×3    
+     Phoebus Apollo                 → 福玻斯·阿波罗              源×2     译×2    
+     Dioscuri                       → 狄俄斯库里                源×1     译×1    
+     the mountains of Kaf           → 卡夫山                  源×1     译×2    
+     Eos                            → 伊俄斯                  源×1     译×1    
+     Eudaimon                       → 欧代蒙                  源×13    译×13   
+     Hera                           → 赫拉                   源×0     译×0     ★源0次(幽灵?)
+     Neith                          → 奈特                   源×1     译×1    
+     Macedonia                      → 马其顿                  源×6     译×13   
+     Doric / Ionic                  → 多立克式 / 爱奥尼亚式         源×4     译×3    
+     Ptolemies                      → 托勒密诸王                源×4     译×4    
+     Lake Mareotis                  → 马里奥蒂斯湖               源×1     译×2    
+     Cleopatra's Needle             → 克娄巴特拉之针              源×1     译×1    
+     Timonium                       → 提蒙宅                  源×1     译×1    
+     Antony                         → 安东尼                  源×1     译×3    
+     Actium                         → 亚克兴                  源×1     译×1    
+     Antirrhodus                    → 安提罗得斯岛               源×1     译×1    
+     Pompey's Pillar                → 庞培柱                  源×1     译×1    
+     Hierax                         → 希拉克斯                 源×3     译×7    
+     Judith                         → 犹滴                   源×4     译×4    
+     Theopompus                     → 提奥庞普斯                源×1     译×1    
+     Cleitophon                     → 克莱托丰                 源×1     译×1     残留「火爆的圣徒」×1
+     Ezekiel                        → 以西结                  源×2     译×3    
+     Thammuz (Tammuz)               → 搭模斯                  源×1     译×1    
+     Barak (son of Abinoam)         → 巴拉（亚比挪庵之子）           源×2     译×2    
+     Gideon                         → 基甸                   源×2     译×2    
+     Samson                         → 参孙                   源×1     译×2    
+     Jephtha                        → 耶弗他                  源×1     译×1    
+     Judas Maccabeus                → 犹大·马加比               源×1     译×1    
+     Augean stable                  → 奥吉亚斯牛圈               源×2     译×2    
+     parabolani                     → 抚慰弟兄会                源×11    译×8    
+     Boanerges                      → 半尼刻（雷子）              源×1     译×1    
+     the Stationaries               → 守备兵团                 源×4     译×4    
+     Eucharist                      → 圣餐                   源×2     译×4    
+     the beatific vision            → 荣福异象                 源×1     译×0     ★译0次(未落位?)
+     Gnosis                         → 灵知                   源×1     译×3     残留「知识」×9
+     Coenobites                     → 独居修士团体               源×1     译×1    
+     Nubian (desert)                → 努比亚（沙漠）              源×1     译×1    
+     chryselephantine statue        → 黄金象牙神像               源×1     译×1    
+     meads of Asphodel              → 常春花草地                源×1     译×1    
+     Augustine                      → 奥古斯丁                 源×48    译×48   
+     Chrysostom                     → 屈梭多模（约翰·屈梭多模）        源×1     译×1    
+     Dioscuros                      → 狄奥斯科鲁斯               源×2     译×2    
+     the Count of Africa            → 非洲伯爵                 源×4     译×6    
+     archdeacon                     → 会吏长                  源×13    译×4     落位偏低 4/13
+     lictor                         → 扈从（扈卫）               源×0     译×6     ★源0次(幽灵?)
+     the Sun-gate                   → 日城门                  源×2     译×2    
+     the Esplanade                  → 大游廊                  源×2     译×5    
+     Gnosis (heathen / Christian)   → 灵知（异教 / 基督教）         源×0     译×0     ★源0次(幽灵?)
+     Circumcelliones (Circumcellion → 流浪暴徒                 源×0     译×1     ★源0次(幽灵?)
+     Diogenes                       → 第欧根尼                 源×3     译×2    
+     Cynic (school)                 → 犬儒派                  源×5     译×5    
+     Stoic (school)                 → 斯多葛派                 源×2     译×5    
+     Academic (school)              → 学园派                  源×3     译×4    
+     Zeno                           → 芝诺                   源×1     译×1    
+     Aristotle                      → 亚里士多德                源×4     译×4    
+     Silenus                        → 西勒诺斯                 源×2     译×2    
+     Parnassus                      → 帕纳索斯山                源×1     译×1    
+     Aetna                          → 埃特纳火山                源×1     译×1    
+     Semele                         → 塞墨勒                  源×1     译×1    
+     Circe                          → 喀耳刻                  源×1     译×1    
+     Orphic                         → 俄耳甫斯教                源×2     译×1    
+     Abamnon                        → 阿巴姆农                 源×7     译×7    
+     Syrianus                       → 叙利亚努                 源×1     译×1    
+     Plutarch of Athens             → 雅典的普卢塔克              源×1     译×0     ★译0次(未落位?)
+     Athanasius                     → 阿塔纳修                 源×1     译×1    
+     Hector / Priam / Helen / Achil → 赫克托耳 / 普里阿摩斯 / 海伦 /  源×30    译×31   
+     Osiris                         → 奥西里斯                 源×2     译×2    
+     Aether (the fire)              → 以太（火）                源×2     译×2    
+     the Rainbow of Solomon         → 所罗门的彩虹               源×3     译×3    
+     Heraclian's Circumcellions     → 赫拉克利安手下的流浪暴徒         源×1     译×0     ★译0次(未落位?)
+     Siricius (of Rome)             → 西里修（罗马的）             源×1     译×1    
+     Jerome                         → 耶柔米                  源×1     译×1    
+     Ambrose of Milan               → 米兰的安布罗斯              源×1     译×1    
+     Basil of Caesarea              → 凯撒利亚的巴西略             源×2     译×2    
+     Pelusium                       → 佩卢西乌姆                源×6     译×6    
+     Pentapolis                     → 彭塔波利斯                源×4     译×8    
+     Dioclesian                     → 戴克里先                 源×2     译×2    
+     Decius                         → 德西乌斯                 源×1     译×1    
+     Valens                         → 瓦伦斯                  源×1     译×1    
+     Council of Nice                → 尼西亚公会议               源×1     译×1    
+     Council of Antioch             → 安提阿公会议               源×1     译×1    
+     Novatianism                    → 诺瓦替安派                源×1     译×1    
+     Origenism                      → 奥利金派                 源×1     译×2    
+     Iron (the pleader)             → 伊隆（辩护士）              源×11    译×1     落位偏低 1/11
+     Isidore (Abbot of Pelusium)    → 伊西多院长（佩卢西乌姆的）        源×9     译×5     落位偏低 5/9
+     Marc / Zosimus / Martinian     → 马克 / 佐西穆斯 / 马丁尼安     源×4     译×4    
+     Olympiodorus                   → 奥林匹奥多鲁斯              源×2     译×2    
+     St. Stephen                    → 司提反                  源×1     译×1    
+     St. Telemachus                 → 提勒马库斯                源×1     译×2    
+     Ramoth Gilead                  → 拉末·基列                源×1     译×1    
+     Baal-peor                      → 巴力·毗珥                源×0     译×1     ★源0次(幽灵?)
+     Midian                         → 米甸                   源×3     译×4    
+     Canaanites                     → 迦南人                  源×1     译×3    
+     Dives and Lazarus              → 财主与拉撒路               源×1     译×1    
+     Job                            → 约伯                   源×2     译×1    
+     Arabia                         → 阿拉伯                  源×2     译×4    
+     anathema maranatha             → 受咒诅、被主弃绝             源×1     译×0     ★译0次(未落位?)
+     Magdalen                       → 抹大拉的马利亚              源×1     译×5    
+     the Bower of Acrasia           → 阿克拉霞的乐园              源×1     译×0     ★译0次(未落位?)
+     Amalric the Amal               → 阿玛尔里克（阿玛尔王族）         源×0     译×0     ★源0次(幽灵?)
+     Goderic the son of Ermenric    → 戈德里克·厄门里克之子          源×1     译×4    
+     Agilmund the son of Cniva      → 阿吉蒙德·克尼瓦之子           源×1     译×2    
+     Hebe                           → 赫柏                   源×1     译×1    
+     Hercules-Dionysos              → 赫拉克勒斯—狄俄倪索斯          源×1     译×1    
+     Hesione                        → 赫西俄涅                 源×1     译×1    
+     Chosroos                       → 科斯罗埃斯                源×2     译×2    
+     Maesogoths                     → 麦索哥特人                源×1     译×1    
+     Freya                          → 弗蕾雅                  源×9     译×9    
+     Alruna-wife / Alruna-maiden    → 阿尔鲁娜女巫 / 阿尔鲁娜少女      源×6     译×9    
+     saga                           → 萨迦                   源×6     译×11   
+     fidel                          → 菲德尔琴                 源×1     译×1    
+     Longbeards (the Lombards)      → 伦巴第人（长须者）            源×5     译×4    
+     Winil men (the Winils)         → 威尼尔人                 源×1     译×4    
+     Gambara                        → 甘巴腊                  源×2     译×2    
+     Ayo / Ibor                     → 阿约 / 伊博              源×4     译×4    
+     Wendel men                     → 文德尔人                 源×1     译×5    
+     Ambri and Assi                 → 安布理与阿西               源×1     译×0     ★译0次(未落位?)
+     Scanland / Scoring             → 斯堪之地 / 斯科林           源×4     译×4    
+     Donau                          → 多瑙河                  源×2     译×3    
+     the Alps                       → 阿尔卑斯山                源×1     译×1    
+     Vala                           → 瓦拉                   源×2     译×3    
+     Elfin-home                     → 精灵之乡                 源×2     译×2    
+     nicor                          → 海妖（*nicor*）          源×2     译×2    
+     ogre                           → 食人魔                  源×0     译×2     ★源0次(幽灵?)
+     firedrake                      → 喷火龙                  源×0     译×1     ★源0次(幽灵?)
+     runes                          → 卢恩文字                 源×1     译×1    
+     mead-horn                      → 蜜酒角杯                 源×0     译×1     ★源0次(幽灵?)
+     Cupid                          → 丘比特                  源×2     译×4    
+     Pallas Athene                  → 帕拉斯·雅典娜              源×3     译×3    
+     Indian Rajahs                  → 印度王公                 源×1     译×1    
+     Parthian                       → 帕提亚                  源×2     译×2    
+     Troe                           → 特罗伊                  源×1     译×1    
+     Canopus                        → 卡诺帕斯                 源×2     译×2    
+     Sinai                          → 西奈（山）                源×1     译×1    
+     Babylon                        → 巴比伦                  源×4     译×5    
+     Absalom                        → 押沙龙                  源×1     译×1    
+     jerboa                         → 跳鼠                   源×2     译×3    
+     Antinous                       → 安提诺乌斯                源×1     译×1    
+     Cave of Trophonius             → 特洛孚尼乌斯的神洞            源×1     译×1    
+     Nereids                        → 涅瑞伊得斯                源×3     译×3    
+     Tritons                        → 特里同们                 源×3     译×2    
+     Erebus                         → 厄瑞玻斯                 源×1     译×1    
+     Hylic Borboros                 → 欲质泥沼                 源×1     译×1    
+     Pentelicus                     → 彭忒利科斯                源×1     译×1    
+     obol (obolus)                  → 俄玻罗斯                 源×2     译×2    
+     Here (Hera)                    → 赫拉                   源×208   译×0     ★译0次(未落位?)
+     Python                         → 皮同                   源×1     译×3    
+     Arachne                        → 阿剌克涅                 源×1     译×0     ★译0次(未落位?)
+     Hipparchus (Astronomics)       → 喜帕恰斯（《天文学》）          源×1     译×1    
+     petitiones principii           → 窃取论点（丐题）             源×1     译×1    
+     ποῦ στῶ                        → 立足点（「给我一个立足点，我将推动地球」 源×1     译×1    
+     Margites                       → 《马耳吉忒斯》              源×3     译×3    
+     Ate                            → 阿忒                   源×6     译×1     落位偏低 1/6
+     Lais                           → 拉伊斯                  源×1     译×1    
+     Thais                          → 泰伊斯                  源×1     译×1    
+     Psyche                         → 普赛克                  源×2     译×2     残留「灵魂」×109
+     catasta                        → 奴隶展台（*catasta*）      源×1     译×0     ★译0次(未落位?)
+     Apage                          → 去你的（Apage）           源×1     译×3    
+     Cynic (school) / Cynic         → 犬儒派 / 犬儒             源×0     译×0     ★源0次(幽灵?)
+     Stoicism                       → 斯多葛派（斯多葛主义）          源×2     译×0     ★译0次(未落位?)
+     Achilles                       → 阿喀琉斯                 源×0     译×0     ★源0次(幽灵?)
+     Styx (shores of Styx)          → 斯提克斯河（斯提克斯河畔）        源×1     译×1    
+     Augustine of Hippo             → 希波的奥古斯丁              源×2     译×2    
+     Socratic (dialogue)            → 苏格拉底式（问答）            源×2     译×2     残留「正经的苏格拉底式问答」×1
+     Caesar                         → 凯撒                   源×0     译×0     ★源0次(幽灵?)
+     Antiochus                      → 安提阿古                 源×1     译×1    
+     Tiglath-Pileser                → 提革拉毗列色               源×1     译×1    
+     Arrian                         → 阿里安                  源×1     译×1    
+     Polybius                       → 波利比乌斯                源×1     译×1    
+     the Campagna (of Rome)         → 罗马坎帕尼亚               源×1     译×1    
+     Heraclian's defeat (Italian ca → 赫拉克利安的兵败（意大利之役）      源×2     译×1    
+     Majoricus (the Prefect)        → 马约里库斯（总督）            源×9     译×9    
+     Victoria                       → 维多利亚                 源×30    译×30   
+     the young Tribune              → 年轻的护民官               源×4     译×5    
+     Tribune                        → 护民官                  源×14    译×8     落位偏低 8/14
+     the Sirens (Rocks of the Siren → 塞壬（塞壬的礁石）            源×1     译×1    
+     Parmenides                     → 《巴门尼德斯》              源×1     译×1     残留「一」×6074 残留「多」×447
+     liberal sciences               → 自由学问                 源×1     译×1     残留「七艺」×1
+     Academus                       → 阿卡德穆                 源×1     译×1    
+     Titan                          → 提坦                   源×1     译×1    
+     Tartarean                      → 塔耳塔洛斯式               源×1     译×0     ★译0次(未落位?)
+     Helios                         → 赫利俄斯                 源×1     译×1    
+     Goliath the Philistine         → 非利士人歌利亚              源×1     译×1    
+     communion of saints            → 圣徒相通                 源×3     译×3    
+     Iamblichus                     → 杨布里库                 源×1     译×2    
+     Maximus (of Ephesus)           → 马克西穆斯（以弗所的）          源×1     译×1    
+     Libanius                       → 利巴尼乌斯                源×1     译×1    
+     the Poet of the Sun            → 太阳诗人                 源×1     译×1    
+     the last true Caesar           → 末代真正的凯撒              源×1     译×0     ★译0次(未落位?)
+     sophist                        → 智辩家                  源×5     译×3    
+     the Divine Ineffable           → 神圣不可言说者              源×0     译×1     ★源0次(幽灵?)
+     conic sections                 → 圆锥曲线                 源×4     译×4    
+     heathen (Peter's coarse term)  → 异教徒                  源×0     译×0     ★源0次(幽灵?)
+     Nephelococcugia                → 涅斐罗科库吉亚              源×1     译×0     ★译0次(未落位?)
+     Timaeus                        → 《蒂迈欧篇》               源×1     译×1    
+     Hesperid gardens               → 赫斯珀里得斯花园             源×1     译×1    
+     Gnostic                        → 灵知派                  源×1     译×1    
+     Platonist                      → 柏拉图派                 源×8     译×9    
+     Galileans                      → 加利利人                 源×3     译×14   
+     religiones licitas             → 合法宗教（*religiones lic 源×1     译×1    
+     Aben-Ezra                      → 阿本-以斯拉               源×13    译×13   
+     the Four Angels                → 四位天使                 源×1     译×1    
+     Victorius                      → 维克托里乌斯               源×2     译×2    
+     Euodius                        → 欧多修                  源×1     译×1    
+     Berenice                       → 贝勒尼切                 源×8     译×8    
+     Alcibiades                     → 亚西比德                 源×2     译×1     残留「轻狂少年亚西比德」×1
+     Hesiod                         → 赫西俄德                 源×2     译×2    
+     Sardinia                       → 撒丁岛                  源×1     译×1    
+     Hippo                          → 希波                   源×7     译×7    
+     Neapolitan (fleet)             → 那不勒斯（舰队）             源×1     译×1    
+     Epistle to the Hebrews         → 《希伯来书》               源×1     译×1    
+     the mystic beast               → 奥秘的兽                 源×1     译×1    
+     Philip (drunk/sober)           → 腓力（醉酒/清醒）            源×13    译×2     落位偏低 2/13
+     Ammonius                       → 阿摩尼乌斯                源×7     译×7    
+     Atticus (Bishop of Constantino → 阿提库（君士坦丁堡主教）         源×1     译×1    
+     Sisera                         → 西西拉                  源×1     译×2    
+     Jael the Kenite                → 基尼人雅亿                源×1     译×1    
+     Hylas                          → 许拉斯                  源×1     译×1    
+     Weser (the Weser-stream)       → 威悉河                  源×1     译×1    
+     Wesel                          → 威塞尔                  源×1     译×1    
+     the Teutonic waltz             → 条顿华尔兹                源×0     译×1     ★源0次(幽灵?)
+     the gray beast of the wood     → 林中灰兽                 源×1     译×1     残留「洛基」×1
+     Galatia                        → 迦拉太                  源×1     译×1    
+     Treves (Augusta Treverorum)    → 特里尔                  源×1     译×1    
+     Pylades / Bathyllus            → 皮拉得斯 / 巴提卢斯          源×2     译×2    
+     Venus Anadyomene               → 维纳斯·阿娜狄俄墨涅（升海之维纳斯）   源×6     译×4    
+     Venus Urania / the celestial A → 天上维纳斯（天上的阿佛洛狄忒）      源×2     译×1    
+     the Pandemic (Aphrodite)       → 「全民众」（潘德莫斯）阿佛洛狄忒     源×0     译×0     ★源0次(幽灵?) 残留「天上」×27
+     Andromeda                      → 安德洛墨达                源×2     译×2    
+     Juvenal ('Panem and Circenses' → 尤维纳利斯（「面包与竞技」）       源×1     译×1    
+     Apuleius of Madaura            → 马达乌拉的阿普列尤斯           源×1     译×1     残留「识字的驴」×1
+     Annaeus Seneca                 → 安奈乌斯·塞涅卡             源×1     译×1    
+     Horace (the Epicurean / Ars Po → 贺拉斯（伊壁鸠鲁派 /《诗艺》）     源×4     译×3     残留「美狄亚不可当众屠戮孩童」×1
+     Aeschylus                      → 埃斯库罗斯                源×5     译×5    
+     Sophocles                      → 索福克勒斯                源×3     译×6    
+     Euripides                      → 欧里庇得斯                源×1     译×1    
+     the Eumenides                  → 《报仇神》                源×1     译×1    
+     Philoctetes                    → 《菲罗克忒忒斯》             源×2     译×1    
+     the Prometheus                 → 《普罗米修斯》              源×1     译×1    
+     Agamemnon (the play)           → 《阿伽门农》               源×0     译×1     ★源0次(幽灵?)
+     Daphne                         → 达佛涅                  源×2     译×2    
+     Olympus                        → 奥林波斯山                源×2     译×2    
+     Aristophanes                   → 阿里斯托芬                源×2     译×2    
+     Thaumasius the Wonderful       → 奇异的塔乌马修              源×1     译×1    
+     Sisera at the brook Kishon     → 基顺河边的西西拉             源×1     译×0     ★译0次(未落位?)
+     Sennacherib in the house of Ni → 尼斯罗庙里的西拿基立           源×1     译×0     ★译0次(未落位?)
+     Constantine                    → 君士坦丁                 源×1     译×1    
+     Nero                           → 尼禄                   源×1     译×1    
+     Mark Antony                    → 马克·安东尼               源×1     译×1    
+     Julius Caesar                  → 尤利乌斯·凯撒              源×2     译×2    
+     the Vestals                    → 维斯塔贞女                源×1     译×3    
+     drachma (drachmas)             → 德拉克马                 源×0     译×1     ★源0次(幽灵?)
+     consul                         → 执政官                  源×1     译×2    
+     Imperator                      → 大将军（统帅）              源×2     译×2    
+     Galilaean                      → 加利利人                 源×3     译×0     ★译0次(未落位?)
+     Epicurean                      → 伊壁鸠鲁派                源×1     译×2    
+     pandemonium                    → 群魔之窟                 源×3     译×1     落位偏低 1/3
+     Sibylline oracle               → 西比尔神谕                源×1     译×1     残留「意外之卷」×1
+     the Chapter of Accidents       → 意外之卷（意外之章）           源×1     译×1    
+     Misopogon                      → 《蓄须怨》（《胡子憎恨者》）       源×1     译×1    
+     Taprobane                      → 塔普罗巴内                源×1     译×1    
+     Tabenne                        → 塔本涅                  源×1     译×2    
+     Xantippe                       → 赞提佩                  源×1     译×1    
+     Tarentum                       → 塔兰托                  源×2     译×2    
+     Brundusium                     → 布伦迪西乌姆               源×1     译×1    
+     Liburnian (galley)             → 利布尔尼船（桨帆船）           源×1     译×1    
+     trireme                        → 三列桨船（*trireme*）      源×1     译×1    
+     Jonadab Bar-Zebudah            → 约拿达·巴尔-泽布达           源×1     译×1    
+     Ehud                           → 以笏                   源×1     译×1    
+     Joab                           → 约押                   源×1     译×1    
+     Asahel                         → 亚撒黑                  源×1     译×1    
+     Rabbi Ezekiel                  → 以西结拉比                源×1     译×0     ★译0次(未落位?)
+     Pharaoh (and his host)         → 法老（和他的全军）            源×2     译×4    
+     Leviathan                      → 利维坦                  源×1     译×1    
+     teraphim (teraph)              → 家神像（*teraphim*/*tera 源×1     译×6    
+     the Chaldee                    → 迦勒底人                 源×2     译×6    
+     Ethan the Chaldee              → 迦勒底人以探               源×1     译×0     ★译0次(未落位?)
+     Basilica                       → 巴西利卡                 源×1     译×1    
+     Defender of the Plebs          → 平民护民官                源×3     译×3    
+     gladiator                      → 角斗士                  源×4     译×16   
+     Messiah                        → 弥赛亚                  源×1     译×1     残留「受膏者」×1
+     the Nazarene                   → 拿撒勒人                 源×4     译×6    
+     Song of Songs (the Song)       → 《雅歌》（雅歌）             源×2     译×3    
+     Tephilim (phylacteries)        → 经文匣（Tephilim）        源×1     译×1     残留「左手」×3
+     Mezuzah                        → 门框经文匣（mezuzah）       源×1     译×0     ★译0次(未落位?) 残留「右手」×10
+     Heshbon (pools of Heshbon)     → 希实本（希实本的水池）          源×1     译×1    
+     Cabbalism (Cabbalisms)         → 卡巴拉（卡巴拉式寓言）          源×0     译×0     ★源0次(幽灵?)
+     son of Belial                  → 比列之子                 源×1     译×1     残留「叛教者」×3
+     Gennadius                      → 根纳丢                  源×1     译×1    
+     Innocent                       → 英诺森                  源×11    译×1     落位偏低 1/11
+     Ausurians                      → 奥苏里亚人                源×10    译×11   
+     the Syrtis                     → 叙尔提斯                 源×1     译×1    
+     Argonauts                      → 阿尔戈英雄们               源×1     译×1    
+     jerboa                         → 跳鼠                   源×0     译×0     ★源0次(幽灵?)
+     Manichees (Manichean)          → 摩尼教（摩尼教徒）            源×1     译×2    
+     the cursing of the fig-tree    → 咒诅无花果树               源×1     译×1    
+     Faustus (the deacon)           → 浮士都（执事）              源×1     译×1    
+     Myrsinitis                     → 穆西尼提斯                源×2     译×2    
+     Markmen                        → 马克人                  源×4     译×4    
+     Syphax                         → 西法克斯                 源×1     译×1    
+     Commodus                       → 康茂德                  源×1     译×1    
+     crescent-headed arrow          → 月牙箭头                 源×1     译×1    
+     Chedorlaomer                   → 基大老玛                 源×1     译×1    
+     Laestrygons                    → 莱斯特律戈涅斯人             源×1     译×1    
+     John the Baptist               → 施洗约翰                 源×1     译×1    
+     e Machinâ (deus ex machina)    → 舞台机械降神（*e Machinâ*）  源×1     译×0     ★译0次(未落位?)
+     E nihilo nihil                 → 无中不能生有（*E nihilo nih 源×1     译×1    
+     Tophet                         → 陀斐特（地狱）              源×3     译×2    
+     Nebuchadnezzar                 → 尼布甲尼撒                源×1     译×2    
+     Daniel (book of)               → 《但以理书》               源×2     译×1    
+     Sennacherib                    → 西拿基立                 源×1     译×2    
+     Queen of Sheba                 → 示巴女王                 源×1     译×1    
+     Jehovah                        → 耶和华                  源×3     译×6    
+     Logos                          → 逻各斯                  源×1     译×1    
+     Calvary (the Cross of Calvary) → 各各他（各各他十字架）          源×2     译×2    
+     Edomites                       → 以东人                  源×1     译×0     ★译0次(未落位?)
+     Ammonites                      → 亚扪人                  源×1     译×1    
+     Amalekites                     → 亚玛力人                 源×4     译×4    
+     Moab                           → 摩押                   源×1     译×1     残留「战歌」×2
+     Palestine                      → 巴勒斯坦                 源×1     译×1    
+     Hercules (the sons of Hercules → 赫拉克勒斯（赫拉克勒斯之子孙 / 赫拉克 源×8     译×8    
+     Ulysses                        → 尤利西斯                 源×2     译×2    
+     Cyclop (the Cyclops)           → 独眼巨人                 源×1     译×5    
+     Neptune (Earth-shaker)         → 波塞冬（撼地神）             源×2     译×1    
+     cestus                         → 爱神腰带（*cestus*）       源×3     译×2    
+     catechumen                     → 慕道者                  源×3     译×3    
+     Arian (heretic)                → 阿里乌派（异端）             源×6     译×6     残留「阿里乌派异端」×1
+     Gehenna                        → 欣嫩子谷（地狱）             源×3     译×3    
+     Pharisee (Pharisaism)          → 法利赛人（法利赛人的自义）        源×2     译×6    
+     Catholic Church                → 大公教会                 源×11    译×10   
+     philtre                        → 媚药（*philtre*）        源×1     译×1    
+     Pyrrhonic (school)             → 皮罗派（怀疑派）             源×1     译×1    
+     Lucretius                      → 卢克莱修                 源×1     译×1    
+     Hecate                         → 赫卡忒                  源×1     译×1    
+     Hecatic sphere                 → 赫卡忒法球                源×1     译×1    
+     nepenthe                       → 忘忧草                  源×3     译×3    
+     Belvedere Apollo               → 观景楼的阿波罗              源×0     译×1     ★源0次(幽灵?) 残留「众神之室」×1
+     Cassandra                      → 卡珊德拉                 源×3     译×3    
+     Clytia                         → 克吕提亚                 源×2     译×2    
+     Theodosius the Great           → 伟大的狄奥多西              源×1     译×1    
+     Pygmalion                      → 皮格马利翁                源×1     译×1    
+     aegis                          → 神盾（*aegis*）          源×2     译×2    
+     Medusa                         → 美杜莎                  源×1     译×1    
+     Moses                          → 摩西                   源×5     译×5    
+     Antaeus                        → 安泰俄斯                 源×1     译×1    
+     Beelzebub                      → 别西卜                  源×1     译×1    
+     Book of the Preacher           → 《传道书》                源×1     译×1     残留「虚空的虚空」×1
+     sistrum                        → 叉铃                   源×1     译×1    
+     double flute                   → 双管笛                  源×2     译×2    
+     Greek fanatic                  → 希腊式狂热分子              源×1     译×1    
+     Gadara                         → 格拉森（格拉森）             源×1     译×1    
+     Lucian (of Alexandria)         → 卢奇安（亚历山大城的卢奇安）       源×1     译×1    
+     Tartarus                       → 塔耳塔洛斯                源×3     译×4    
+     Glaucon                        → 格劳孔                  源×4     译×4    
+     Republic                       → 《国家篇》                源×3     译×1     落位偏低 1/3
+     Autanthropos                   → 原人（*Autanthropos*）   源×1     译×1    
+     Tiberias                       → 提比哩亚                 源×1     译×1    
+     Isaiah                         → 以赛亚                  源×1     译×1    
+     Ormuzd                         → 奥尔穆兹德                源×1     译×1    
+     Ahriman                        → 阿赫里曼                 源×1     译×1    
+     Nicaeus                        → 尼开乌斯                 源×1     译×1    
+     Philolaus                      → 斐洛劳斯                 源×1     译×1    
+     Coryphaeus                     → 领班（合唱队长）             源×1     译×2    
+     Et tu, Brute!                  → 你也有份，布鲁图！（*Et tu, Br 源×1     译×0     ★译0次(未落位?)
+     Quem Deus vult perdere         → 上帝要毁灭谁（*Quem Deus vu 源×1     译×1    
+     simoom (wind)                  → 西蒙风                  源×1     译×1    
+     metempsychosis                 → 轮回转世（灵魂转生）           源×1     译×1     残留「再生」×2 残留「体面的轮回」×1
+     Pharisees (as philosophers)    → 法利赛人（哲学家的自义）         源×3     译×0     ★译0次(未落位?)
+     bruised reed                   → 压伤的芦苇                源×1     译×0     ★译0次(未落位?)
+     Sufficient for the day is the  → 一日之恶已自够受             源×1     译×0     ★译0次(未落位?)
+     Goth                           → 哥特人                  源×18    译×54   
+     Vandal                         → 汪达尔人                 源×3     译×4    
+     Moor                           → 摩尔人                  源×1     译×11   
+     Spaniard                       → 西班牙人                 源×1     译×1    
+     Jew                            → 犹太人                  源×43    译×101  
+     Markmen                        → 马克人                  源×0     译×0     ★源0次(幽灵?)
+     Dacian                         → 达契亚人                 源×0     译×1     ★源0次(幽灵?)
+     Thracian                       → 色雷斯人                 源×1     译×5    
+     Hun                            → 匈奴人                  源×1     译×2    
+     Gaul                           → 高卢人                  源×0     译×3     ★源0次(幽灵?)
+     Latin                          → 拉丁人                  源×6     译×1     落位偏低 1/6
+

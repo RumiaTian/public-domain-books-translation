@@ -1,0 +1,286 @@
+====================================================================================================
+### p-g-wodehouse_indiscretions-of-archie  (27 files)
+  块: O=634 C=634 OK | 段: EN=2655 CN=2655 OK
+  英文残留(剔括注) top: M-o-f-f-a-m×1
+  -- 术语表硬约束行 280 条:
+     Archie Moffam / Archie         → 阿奇·莫法姆               源×846   译×7     落位偏低 7/846
+     Mr. Brewster                   → 布鲁斯特先生               源×164   译×166  
+     Lucille                        → 露西尔                  源×177   译×178  
+     B. W. King-Hall                → B. W. 金-霍尔           源×1     译×0     ★译0次(未落位?)
+     Buddy                          → 巴迪                   源×1     译×1    
+     P. G. Wodehouse                → P. G. 沃德豪斯           源×1     译×1    
+     Piccadilly                     → 皮卡迪利（大街）             源×1     译×1    
+     Hotel Cosmopolis               → 环球大饭店                源×17    译×58   
+     James B. Wheeler / J. B. Wheel → 詹姆斯·B·惠勒             源×27    译×2     落位偏低 2/27
+     Reggie van Tuyl                → 雷吉·范·图尔              源×24    译×24   
+     Pen-and-Ink Club               → 笔墨俱乐部                源×2     译×3    
+     the Lambs’ / the Players’ / th → 羔羊俱乐部 / 演员俱乐部 / 修士俱乐 源×4     译×4    
+     Fifth Avenue                   → 第五大道                 源×8     译×8    
+     Simon Legree                   → 西蒙·勒格里               源×1     译×1    
+     Uncle Tom                      → 汤姆叔叔                 源×1     译×1    
+     Daniel Brewster                → 丹尼尔·布鲁斯特             源×25    译×25   
+     Professor Binstead             → 宾斯特教授                源×18    译×18   
+     Parker                         → 帕克                   源×33    译×32   
+     Cosmopolis                     → 环球大饭店                源×41    译×0     ★译0次(未落位?) 残留「头生子」×1
+     Mawson                         → 莫森                   源×2     译×2    
+     Miami                          → 迈阿密                  源×5     译×5    
+     Bill Brewster / Bill           → 比尔·布鲁斯特 / 比尔         源×130   译×123  
+     Mabel Winchester / Mabel       → 梅布尔·温彻斯特 / 梅布尔       源×15    译×15   
+     Beale’s Auction Rooms          → 比勒拍卖行                源×1     译×1     残留「比尔」×126
+     Billington                     → 比灵顿                  源×1     译×1    
+     The Personality That Wins      → 《制胜的个性》              源×4     译×6    
+     Nicholson                      → 尼科尔森                 源×1     译×1    
+     chorus / chorus-girl           → 歌舞队 / 歌舞队姑娘          源×14    译×15   
+     Mrs. van Tuyl                  → 范·图尔太太               源×1     译×1    
+     Moom                           → 穆姆                   源×3     译×3    
+     Bluffinghame                   → 布拉芬厄姆                源×1     译×1     残留「穆姆」×3
+     Lu                             → 露                    源×5     译×28   
+     Bradstreet                     → 布雷德斯特里特              源×1     译×1    
+     Napoo                          → 没戏了                  源×2     译×2    
+     Salvatore                      → 萨尔瓦托雷                源×20    译×19   
+     Lu                             → 露露                   源×0     译×2     ★源0次(幽灵?)
+     Archibald / Uncle Archibald    → 阿奇博尔德 / 阿奇博尔德叔叔      源×6     译×6    
+     wop                            → 意大利佬                 源×1     译×1    
+     Rigoletto                      → 《弄臣》                 源×1     译×1    
+     pieces of eight / doubloons    → 八里亚尔银币 / 达布隆金币       源×4     译×4    
+     Absolutely!                    → 没错！                  源×25    译×24   
+     I mean to say                  → 我是说                  源×49    译×68   
+     old top                        → 老兄                   源×11    译×101  
+     laddie                         → 小老弟                  源×29    译×31   
+     uncle Edgar                    → 埃德加叔叔                源×2     译×0     ★译0次(未落位?)
+     Bloomingdale                   → 布卢明代尔                源×1     译×1    
+     Miss Alice Wigmore             → 爱丽丝·威格莫尔小姐           源×1     译×0     ★译0次(未落位?)
+     the Wigmore Venus              → 威格莫尔的维纳斯             源×7     译×6    
+     old thing                      → 老兄                   源×41    译×0     ★译0次(未落位?)
+     what-ho                        → 哎呀喂                  源×1     译×11   
+     old bean                       → 老伙计                  源×27    译×29   
+     Simmons                        → 西蒙斯                  源×1     译×1    
+     Pongo / the Pongo              → 蓬戈                   源×24    译×26   
+     Brookport                      → 布鲁克波特                源×3     译×3    
+     Black Hand                     → 黑手党                  源×1     译×1    
+     Job                            → 约伯                   源×31    译×3     落位偏低 3/31
+     Dante                          → 但丁                   源×1     译×1    
+     Mohammed’s coffin              → 穆罕默德的棺材              源×1     译×1    
+     grillroom                      → 烤肉餐厅                 源×10    译×11   
+     head-waiter                    → 领班                   源×0     译×5     ★源0次(幽灵?)
+     Herbert Parker                 → 赫伯特·帕克               源×5     译×5    
+     Herb                           → 老赫布                  源×2     译×1    
+     Beale’s Art Galleries          → 比勒美术馆                源×1     译×2    
+     Invitation Handicap            → 邀请让杆赛                源×1     译×1    
+     Mrs. Moffam                    → 莫法姆太太                源×2     译×3    
+     Mr. William                    → 威廉先生                 源×2     译×2    
+     Yale                           → 耶鲁                   源×2     译×2    
+     Seventh Avenue                 → 第七大道                 源×1     译×1    
+     objay dar                      → 奥勃惹-达尔               源×2     译×2    
+     connoozer(s)                   → 鉴藏行家                 源×2     译×4    
+     the guv’nor                    → 老爷                   源×3     译×14   
+     Broadway                       → 百老汇                  源×8     译×8    
+     The Hermitage / Hotel Hermitag → 隐士居 / 隐士居大饭店         源×6     译×6    
+     Vera Silverton / Silverton     → 薇拉·西尔弗顿 / 西尔弗顿       源×30    译×30    残留「明眸」×2
+     George Benham                  → 乔治·贝纳姆               源×6     译×6    
+     room clerk                     → 客房账台职员               源×4     译×3    
+     stage manager                  → 舞台监督                 源×1     译×1    
+     promptscript                   → 提词本                  源×1     译×1    
+     Pongo                          → 蓬戈                   源×0     译×0     ★源0次(幽灵?)
+     Cleopatra                      → 克娄巴特拉                源×1     译×1    
+     Helen of Troy                  → 特洛伊的海伦               源×1     译×1    
+     Job                            → 约伯                   源×0     译×0     ★源0次(幽灵?)
+     Elmer M. Moon / Mr. Moon       → 埃尔默·M·穆恩 / 穆恩先生      源×15    译×15   
+     Henry Babcock                  → 亨利·巴布科克              源×1     译×1    
+     Eighteenth Amendment           → 第十八修正案               源×1     译×1    
+     Minnesota                      → 明尼苏达州                源×1     译×1    
+     Belial                         → 彼列                   源×2     译×2     残留「彼列之子」×1
+     right-o                        → 好嘞                   源×21    译×21   
+     vaudeville song-hit            → 杂耍名曲                 源×1     译×1    
+     J. B. Wheeler（缩写式）             → J. B. 惠勒             源×0     译×25    ★源0次(幽灵?)
+     The Sausage Chappie            → 香肠家伙                 源×28    译×26   
+     St. Mihiel                     → 圣米耶勒                 源×4     译×4    
+     Reginald van Tuyl / Reginald   → 雷金纳德·范·图尔 / 雷金纳德     源×2     译×2    
+     Vincent Astor                  → 文森特·阿斯特              源×2     译×2    
+     Thirty-Ninth Street            → 三十九街                 源×1     译×1    
+     old chap / old man             → 老兄                   源×17    译×0     ★译0次(未落位?)
+     old lad                        → 老弟                   源×10    译×10   
+     the old Cosmop                 → 老环球                  源×2     译×2    
+     the Sausage Chappie            → 香肠家伙                 源×0     译×0     ★源0次(幽灵?)
+     John Smith                     → 约翰·史密斯               源×0     译×0     ★源0次(幽灵?)
+     Lancelot                       → 兰斯洛特                 源×2     译×2    
+     James J. Gossett               → 詹姆斯·J·戈塞特            源×1     译×1    
+     Springfield, Ohio              → 俄亥俄州斯普林菲尔德           源×2     译×2    
+     Buffet Froid                   → 冷餐台                  源×2     译×2    
+     huckleberry pie                → 越橘馅饼                 源×1     译×1    
+     Fatty Arbuckle                 → 法蒂·阿巴克尔              源×1     译×1    
+     Mack Sennett                   → 麦克·塞内特               源×1     译×1    
+     Charlie Chaplin                → 查理·卓别林               源×1     译×1    
+     Stinker                        → 臭蛋                   源×1     译×1    
+     Washington Square              → 华盛顿广场                源×2     译×2    
+     Day Dreams / When the Heart is → 《白日梦》/《当心还年轻》        源×2     译×2    
+     Tishbite                       → 提斯比人                 源×1     译×1    
+     Sir Philip What's-his-name     → 菲利普什么来着爵士            源×1     译×1    
+     Boy Scouts                     → 童子军                  源×1     译×2    
+     Squiffy / dear old Squiffy     → 斯奎菲 / 亲爱的老斯奎菲        源×30    译×29   
+     Lord Seacliff                  → 西克利夫勋爵               源×5     译×5    
+     Peter                          → 彼得                   源×21    译×21   
+     Mme. Brudowska                 → 布鲁多夫斯卡夫人             源×4     译×4     残留「悲剧女王」×1 残留「情感戏剧的女皇」×1
+     The Adventures of Sherlock Hol → 《福尔摩斯冒险史》            源×1     译×1    
+     “The Speckled Band”            → 《斑点带子案》              源×1     译×1    
+     Doctor Grimesby Rylott         → 格里姆斯比·罗伊洛特医生         源×1     译×1    
+     Eton                           → 伊顿                   源×2     译×2    
+     transom                        → 气窗                   源×2     译×2    
+     Mother’s Knee                  → 《母亲的膝头》              源×9     译×5     落位偏低 5/9
+     It’s a Long Way Back to Mother → 《回到母亲的膝头路漫漫》         源×5     译×1     落位偏低 1/5
+     Wilson Hymack                  → 威尔逊·海马克              源×9     译×9    
+     Armentières                    → 阿尔芒蒂耶尔               源×1     译×1    
+     Washy                          → 沃希                   源×18    译×17   
+     Tetrazzini                     → 泰特拉齐尼                源×1     译×1    
+     Tin-Pan Alley                  → 叮砰巷                  源×1     译×1    
+     Blumenthal / Maxie Blumenthal  → 布卢门撒尔 / 马克西·布卢门撒尔    源×12    译×12   
+     Greenwich Village              → 格林尼治村                源×4     译×4    
+     Middle West                    → 中西部                  源×3     译×3    
+     Hicks Corners                  → 乡下角落                 源×1     译×1    
+     Snake Bite, Michigan           → 密歇根州蛇咬村              源×2     译×1    
+     Nether Wallop                  → 下瓦洛普                 源×1     译×1    
+     Brigham Young                  → 布里格姆·扬               源×1     译×1    
+     Spectatia Huskisson            → 斯佩克塔西娅·哈基森           源×4     译×4    
+     Pootles / Tootles              → 普特尔斯 / 图特尔斯          源×5     译×5    
+     Maeterlinck                    → 梅特林克                 源×1     译×1    
+     Carl Steinburg                 → 卡尔·斯坦伯格              源×1     译×1    
+     Tennessee                      → 田纳西                  源×1     译×1    
+     Borneo                         → 婆罗洲                  源×1     译×1    
+     Potomac                        → 波托马克河                源×1     译×1    
+     the seven-three                → 七点零三（的车）             源×1     译×1    
+     ball of fire                   → 一团烈火                 源×2     译×2    
+     lallapaloosa                   → 绝了                   源×2     译×3    
+     old bird                       → 老兄                   源×5     译×0     ★译0次(未落位?)
+     old crumpet                    → 老烤饼老兄                源×1     译×1    
+     young-feller-me-lad            → 小哥儿我的老弟              源×1     译×2    
+     my dear old better four-fifths → 我亲爱的、更优的那五分之四        源×1     译×1    
+     Officer Cassidy / Mr. Cassidy  → 卡西迪警员 / 卡西迪先生        源×16    译×15   
+     Officer Donahue                → 多纳休警员                源×17    译×16   
+     Tim / Timmy                    → 蒂姆 / 蒂米              源×2     译×2    
+     the Mastermind                 → 大主脑                  源×3     译×4    
+     the Shannon                    → 香农河                  源×1     译×1    
+     police captain / Cap.          → 警长                   源×3     译×33   
+     pinched                        → 逮住了                  源×4     译×2     落位偏低 2/4 残留「被捕」×1
+     squealed                       → 招了                   源×2     译×0     ★译0次(未落位?)
+     God save Ireland               → 上帝保佑爱尔兰              源×1     译×1    
+     Roscoe Sherriff                → 罗斯科·谢里夫              源×6     译×5    
+     General Mannister              → 曼尼斯特将军               源×3     译×3    
+     press agent                    → 新闻宣传员                源×8     译×6    
+     Her Nibs                       → 她老人家                 源×3     译×4    
+     the East Side                  → 东区                   源×2     译×2    
+     Niobe                          → 尼俄伯                  源×1     译×1    
+     the pip                        → 腻味                   源×6     译×2     落位偏低 2/6
+     Long Vacation                  → 长假                   源×1     译×1    
+     British Legation               → 英国驻华盛顿公使馆            源×1     译×1    
+     Prohibition enactment          → 禁酒法令                 源×1     译×1    
+     wassail bowl                   → 欢宴酒碗                 源×1     译×1    
+     Pandora                        → 潘多拉                  源×1     译×1    
+     Bluebeard                      → 蓝胡子                  源×1     译×1    
+     Mr. Connolly / Aloysius Connol → 康诺利 / 阿洛伊修斯·康诺利      源×25    译×28   
+     Dan                            → 丹                    源×5     译×6    
+     old companion                  → 老伙伴                  源×10    译×8    
+     cabaret                        → 卡巴莱歌舞                源×3     译×2    
+     Mrs. Cora Bates McCall / Mrs.  → 科拉·贝茨·麦考尔太太 / 麦考尔太太  源×15    译×15    残留「合理饮食」×5
+     Lindsay McCall / Mr. McCall    → 林赛·麦考尔 / 麦考尔先生       源×21    译×22   
+     Washington McCall              → 华盛顿·麦考尔              源×5     译×5    
+     Washy                          → 沃希                   源×0     译×0     ★源0次(幽灵?)
+     Rational Eating                → 合理饮食                 源×4     译×5    
+     Health Bread                   → 保健面包                 源×4     译×4    
+     anti-caffeine                  → 抗咖啡因                 源×2     译×2    
+     imitation coffee               → 仿咖啡                  源×3     译×3     残留「抗咖啡因」×2
+     New York Chronicle             → 《纽约纪事报》              源×1     译×1    
+     Butterfly Club                 → 蝴蝶俱乐部                源×1     译×1    
+     West Side                      → 西区                   源×2     译×2    
+     Spike O’Dowd                   → 斯派克·奥多德              源×2     译×2    
+     Blake’s Unknown                → 布莱克的无名氏              源×2     译×2    
+     Homer / *Iliad*                → 荷马 / 《伊利亚特》          源×3     译×3    
+     Sixth Avenue                   → 第六大道                 源×4     译×4    
+     Dan Brewster                   → 丹·布鲁斯特               源×1     译×1    
+     pie-eating contest / Pie Champ → 吃馅饼大赛 / 馅饼锦标赛        源×2     译×3    
+     Looney Biddle                  → 「疯子」洛尼·比德尔           源×6     译×1     落位偏低 1/6
+     Gus Biddle / Gus               → 加斯·比德尔 / 加斯          源×10    译×10   
+     New York Giants / the Giants   → 纽约巨人队 / 巨人队          源×7     译×8    
+     Pirates of Pittsburg / the Pir → 匹兹堡海盗队 / 海盗队         源×5     译×6    
+     cigar-stand girl               → 雪茄柜台的姑娘              源×8     译×7    
+     the Girl Friend                → 女朋友                  源×11    译×19   
+     Uncle Sigsbee                  → 西格斯比叔叔               源×1     译×1    
+     Bryant Washburn                → 布莱恩特·沃什伯恩            源×2     译×2    
+     Rockefeller                    → 洛克菲勒                 源×2     译×2    
+     a pill                         → 闷蛋                   源×2     译×3    
+     double or quits                → 翻倍或清账                源×4     译×1     落位偏低 1/4
+     They never come back           → 这种投手，再也回不来了          源×1     译×1    
+     walkover                       → 一边倒地赢                源×2     译×1    
+     sound egg                      → 过硬的好蛋                源×2     译×1    
+     boy brigand                    → 寄存衣帽的小强盗             源×1     译×1    
+     Willie                         → 威利                   源×14    译×13    残留「辅祭童子」×1
+     Jo-Jo the dog-faced boy        → 狗脸男孩乔-乔              源×3     译×3    
+     Brother Bill                   → 比尔弟弟                 源×8     译×3     落位偏低 3/8
+     Ming Dynasty                   → 明朝                   源×2     译×2    
+     Christie’s                     → 佳士得                  源×1     译×1    
+     Sotheby’s                      → 苏富比（拍卖行）             源×1     译×1    
+     New York Stock Exchange        → 纽约证券交易所              源×1     译×1    
+     the Holy Grail                 → 圣杯                   源×1     译×1    
+     twiddle                        → 捻手指                  源×8     译×8    
+     Percy                          → 珀西                   源×13    译×13   
+     Urrf!                          → 呜呋！                  源×2     译×2    
+     muzzer / mamma’s               → 麻麻 / 妈妈的             源×3     译×5    
+     desk clerk                     → 账台职员                 源×4     译×3    
+     table d’hôte                   → 客饭                   源×1     译×1    
+     Auld Lang Syne                 → 旧日情谊                 源×1     译×1    
+     Fate’s gumbo                   → 命运的秋葵浓汤              源×1     译×1    
+     bally linnet                   → 该死的红雀                源×1     译×1    
+     mustang of the prairie         → 草原野马                 源×1     译×0     ★译0次(未落位?)
+     distemper                      → 犬瘟热                  源×3     译×3    
+     snifting / snuffling           → 抽鼻子 / 嗅鼻子            源×6     译×10   
+     salicylate of soda             → 水杨酸钠                 源×1     译×1    
+     grains / ounce                 → 格令 / 盎司              源×2     译×3    
+     embrocation                    → 搽剂                   源×1     译×1    
+     rheumatism                     → 风湿                   源×2     译×2     残留「亲爱的老风湿」×1
+     vet.                           → 兽医                   源×2     译×3    
+     Guard him!                     → 看住他！                 源×1     译×1    
+     Jane Murchison                 → 简·默奇森                源×2     译×2    
+     Westchester                    → 威斯特彻斯特               源×1     译×1    
+     Jno. Blake / Mr. Blake         → 约翰·布莱克 / 布莱克先生       源×14    译×15   
+     Eighth Avenue                  → 第八大道                 源×1     译×1     残留「合理饮食」×5
+     poulet en casserole            → 砂锅焖鸡                 源×2     译×2    
+     Rockies / east of the Rockies  → 落基山脉                 源×1     译×1    
+     desk clerk                     → 账台职员                 源×0     译×0     ★源0次(幽灵?) 残留「客房账台职员」×3
+     the knock                      → 闷棍                   源×2     译×3     残留「挨了一记闷棍」×1
+     the good old feedbag           → 光荣的老草料袋              源×1     译×1    
+     miss-in-baulk                  → 开球区空杆                源×1     译×1    
+     browsing and sluicing          → 吃草与灌酒                源×3     译×1     落位偏低 1/3 残留「吃喝」×1
+     bring home the bacon           → 把咸肉赢回家               源×1     译×1    
+     Blake’s cousin                 → 布莱克的表侄               源×0     译×0     ★源0次(幽灵?) 残留「布莱克的无名氏」×2
+     the long boy                   → 瘦长男孩                 源×10    译×12   
+     Ninth Avenue                   → 第九大道                 源×2     译×2    
+     Elevated Railroad              → 高架铁路                 源×1     译×1    
+     Augustus Biddle                → 奥古斯塔斯·比德尔            源×1     译×1    
+     Dempsey                        → 登普西                  源×1     译×1    
+     Carpentier                     → 卡尔庞捷                 源×1     译×1    
+     Sargasso Sea of serge          → 哔叽的马尾藻海              源×1     译×0     ★译0次(未落位?)
+     Homburg hat                    → 霍姆堡毡帽                源×1     译×1    
+     waukeesis                      → 老腿                   源×1     译×1    
+     ribstons                       → 打翻的苹果堆               源×1     译×1    
+     trailing arbutus               → 野蔓花                  源×1     译×1     残留「死缠人的野蔓花」×1
+     “Say!”                         → 「喂！」                 源×4     译×5    
+     rain-check                     → 雨票                   源×0     译×1     ★源0次(幽灵?)
+     Polo Grounds                   → 波洛球场                 源×1     译×1    
+     black as the pit from pole to  → 从极到极的深渊／不可征服的灵魂      源×2     译×1    
+     Jack Dempsey                   → 杰克·登普西               源×1     译×1    
+     Miss Pauline Preston           → 波琳·普雷斯顿              源×1     译×2    
+     Timothy O’Neill / Pie-Face     → 蒂莫西·奥尼尔 / 馅饼脸        源×2     译×2    
+     “Bobbie” St. Clair             → 「波比」·圣克莱尔            源×1     译×1    
+     the Frivolities                → 《欢闹团》                源×1     译×1    
+     the Singer Building            → 辛格大厦                 源×1     译×1    
+     Woodrow Wilson / David Lloyd-G → 伍德罗·威尔逊 / 戴维·劳合-乔治 / 源×3     译×3    
+     Palm Beach                     → 棕榈滩                  源×1     译×1    
+     the Ritz                       → 丽兹饭店                 源×2     译×2    
+     Tongue-tied Thomas / Silent Sa → 张口结舌托马斯 / 沉默萨米       源×3     译×3    
+     spat(s)                        → 鞋罩                   源×2     译×3    
+     elephantiasis of the bankroll  → 钞票象皮病                源×1     译×1    
+     Dynamic Voice / Tone of Author → 动感嗓音 / 权威声调          源×2     译×2    
+     transportation for life        → 终身流放                 源×1     译×1    
+     old son                        → 老兄                   源×4     译×0     ★译0次(未落位?)
+     old lady                       → 老婆大人                 源×1     译×1    
+     Toodle-oo / Pip-pip            → 回见 / 再会，再会           源×7     译×12   
+

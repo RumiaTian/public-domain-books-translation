@@ -1,0 +1,162 @@
+====================================================================================================
+### dorothy-canfield-fisher_the-homemaker  (22 files)
+  块: O=386 C=386 OK | 段: EN=1336 CN=1388 !!差 -52
+     [不对称] chapter-01.md                                        O=23 C=23 段EN=74 段CN=77
+     [不对称] chapter-02.md                                        O=42 C=42 段EN=134 段CN=136
+     [不对称] chapter-03.md                                        O=15 C=15 段EN=51 段CN=52
+     [不对称] chapter-04.md                                        O=19 C=19 段EN=69 段CN=70
+     [不对称] chapter-08.md                                        O=16 C=16 段EN=64 段CN=66
+     [不对称] chapter-09.md                                        O=16 C=16 段EN=54 段CN=57
+     [不对称] chapter-10.md                                        O=11 C=11 段EN=30 段CN=34
+     [不对称] chapter-11.md                                        O=17 C=17 段EN=63 段CN=66
+     [不对称] chapter-14.md                                        O=19 C=19 段EN=70 段CN=71
+     [不对称] chapter-15.md                                        O=27 C=27 段EN=94 段CN=99
+     [不对称] chapter-16.md                                        O=16 C=16 段EN=46 段CN=48
+     [不对称] chapter-17.md                                        O=29 C=29 段EN=90 段CN=93
+     [不对称] chapter-19.md                                        O=22 C=22 段EN=71 段CN=75
+     [不对称] chapter-20.md                                        O=16 C=16 段EN=51 段CN=53
+     [不对称] chapter-21.md                                        O=30 C=30 段EN=120 段CN=132
+     [不对称] chapter-22.md                                        O=7 C=7 段EN=25 段CN=29
+  英文残留(剔括注) top: II×1, Kinder×1, che×1, Kirche×1
+  项目说明备注: - 原书为 Standard Ebooks 版 epub，章节以罗马数字编号；本项目已统一改名为 `chapter-01.md` … `chapter-22.md`（罗马数字↔数字对应：I=1 … XXII=22），保证队列顺序=阅读顺序。每部（Part I–IV）的部题已并入该部第一章文件开头（chapter-01/07/11/18）。 / - 文件内的 `### I` 为章号、`#### I` 为章内小节号，翻译时章号数字保留并附中文（如「### I / 第一章」按小说文学配置的标题合并规则处理）。 / - 大量对话与自由间接引语，注意人物语气区分：伊娃的急躁紧迫、莱斯特的内省讽刺、孩子们的童言。
+  -- 术语表硬约束行 139 条:
+     Eva Knapp / Evangeline Knapp   → 伊娃·纳普（正式场合/全名：伊万杰琳·纳 源×6     译×0     ★译0次(未落位?)
+     Lester Knapp                   → 莱斯特·纳普               源×30    译×30   
+     Stephen / Stevie               → 斯蒂芬 / 斯蒂维（爱称）        源×338   译×337  
+     Helen                          → 海伦                   源×144   译×150  
+     Henry                          → 亨利                   源×130   译×130  
+     Mattie Farnham / Aunt Mattie   → 玛蒂·法纳姆 / 玛蒂姨妈        源×32    译×32   
+     Mr. Farnham                    → 法纳姆先生                源×1     译×1    
+     Aunt Emma                      → 埃玛姨妈                 源×2     译×2    
+     Jerome Willing                 → 杰罗姆·威灵               源×15    译×15   
+     Mrs. Willing                   → 威灵太太                 源×26    译×25   
+     Harvey Bronson                 → 哈维·布朗森               源×13    译×13   
+     Miss Flynn                     → 弗琳小姐                 源×30    译×29   
+     Margaret Donahue               → 玛格丽特·多诺霍             源×3     译×3    
+     Ellen O'Hern                   → 埃伦·奥赫恩               源×3     译×3    
+     Jim McCarthy                   → 吉姆·麦卡锡               源×1     译×1    
+     Gramma Houghton / Grampa Hough → 霍顿外婆 / 霍顿外公          源×3     译×4    
+     Cousin Celia                   → 西莉亚表姐                源×1     译×1    
+     Uncle Charley                  → 查理叔叔                 源×7     译×7    
+     Brandville                     → 布兰德维尔                源×5     译×5    
+     Angelotti's Ice-Cream Parlor   → 安杰洛蒂冰淇淋店             源×1     译×1    
+     the State University           → 州立大学                 源×3     译×5    
+     New York                       → 纽约                   源×5     译×6    
+     Maine                          → 缅因州                  源×3     译×3    
+     Cleveland                      → 克利夫兰                 源×1     译×1    
+     Cloak-and-Suits                → 女装外套部                源×8     译×11   
+     Parish House / High School     → 教区会所 / 中学            源×4     译×5    
+     Part I / II / III / IV         → 第一部 / 第二部 / 第三部 / 第四 源×10    译×0     ★译0次(未落位?)
+     the store / Willing's store    → 威灵百货 / 商店            源×67    译×51   
+     homemaker                      → 当家人 / 主内的人           源×3     译×2    
+     Teddy-bear                     → 泰迪熊                  源×7     译×7    
+     whist                          → 惠斯特牌                 源×7     译×6    
+     roller-towel                   → 滚筒毛巾                 源×1     译×1    
+     Mrs. Anderson                  → 安德森太太                源×24    译×25   
+     Mrs. Elmore                    → 埃尔莫尔太太               源×1     译×1    
+     Harry                          → 哈里                   源×2     译×1    
+     Molly                          → 莫莉                   源×1     译×1    
+     railroad yards                 → 铁路调车场                源×3     译×1     落位偏低 1/3
+     rompers                        → 连体裤                  源×4     译×4    
+     health-flour biscuits          → 保健面粉饼干               源×1     译×0     ★译0次(未落位?)
+     the shingle method             → 板子伺候                 源×1     译×1    
+     Mr./Mrs. Prouty                → 普劳蒂先生/太太             源×113   译×196  
+     Mrs. Merritt / Dr. Merritt     → 梅里特太太 / 梅里特医生        源×21    译×21   
+     Miss Jelliffe                  → 杰利夫小姐                源×1     译×1    
+     Hunt's Hall                    → 亨特会堂                 源×1     译×1    
+     Union Street                   → 联合街                  源×1     译×1    
+     St. Peter's                    → 圣彼得堂                 源×6     译×6    
+     Knights of Pythias             → 派西亚骑士会               源×1     译×1    
+     Wertheimer's                   → 沃特海默商店               源×4     译×4    
+     Ladies' Guild                  → 妇女公会                 源×7     译×9    
+     visiting nurse                 → 访视护士                 源×3     译×3    
+     Evie                           → 伊薇                   源×2     译×2    
+     Young Mr. Willing              → 小威灵先生                源×2     译×2    
+     River Street                   → 河街                   源×1     译×1    
+     fireless cooker                → 无火焖烧锅                源×1     译×1    
+     biscuit / cookie               → 面饼 / 饼干              源×6     译×22   
+     The Walrus and the Carpenter   → 《海象与木匠》              源×0     译×1     ★源0次(幽灵?)
+     Yubbers 类斯蒂维儿语                 → 唔嗯                   源×0     译×1     ★源0次(幽灵?)
+     Mr. Emmet / the Emmets         → 埃米特先生 / 埃米特家         源×4     译×3    
+     Aunt Esther                    → 埃丝特姨妈                源×1     译×1    
+     fire engine / fire department  → 救火车 / 消防队 / 水龙带      源×5     译×6    
+     soda-mints                     → 苏打薄荷片                源×1     译×1    
+     Nell (Willing)                 → 内尔（·威灵）              源×39    译×39   
+     salesbook                      → 售货簿                  源×3     译×3    
+     Mrs. Hennessy                  → 亨尼西太太                源×10    译×10   
+     Camp's Drug Store              → 坎普药店                 源×1     译×2    
+     Mrs. Warner                    → 沃纳太太                 源×5     译×5    
+     Grade A                        → 甲级                   源×1     译×1    
+     Burnham Brothers               → 伯纳姆兄弟公司              源×1     译×1    
+     J. P. Burnham                  → 老J.P.伯纳姆             源×1     译×1    
+     McKenzie and Blair             → 麦肯齐-布莱尔              源×1     译×1    
+     Jordan Marsh's                 → 乔丹马什                 源×1     译×1    
+     Crawford                       → 克劳福德                 源×3     译×3    
+     Ritchie                        → 里奇                   源×1     译×1    
+     Kate                           → 凯特                   源×1     译×1    
+     First Congo Church             → 第一公理会教堂              源×1     译×1    
+     A. T. Stewart                  → A.T.斯图尔特             源×1     译×1    
+     The Homelike Store             → 家一般的商店               源×1     译×1    
+     store superintendent           → 店务总管                 源×1     译×1    
+     near-beer                      → 无醇啤酒                 源×1     译×1    
+     Miss Atkinson                  → 阿特金森小姐               源×1     译×1    
+     Boardman girl                  → 博德曼家姑娘               源×1     译×0     ★译0次(未落位?)
+     Mrs. Peterson                  → 佩特森太太                源×3     译×3    
+     Evelyn (Peterson)              → 伊芙琳                  源×3     译×3    
+     Mrs. Hemingway                 → 海明威太太                源×1     译×1    
+     velours-de-laine               → 羊毛天鹅绒                源×2     译×2    
+     homespun                       → 手织粗呢                 源×1     译×1    
+     mauve                          → 雪青色                  源×2     译×1    
+     rubbers                        → 套鞋                   源×2     译×3    
+     store-book                     → 店务记事本                源×1     译×1    
+     pepsin                         → 胃蛋白酶                 源×3     译×3    
+     janitor                        → 看门人                  源×1     译×2    
+     wheel chair                    → 轮椅                   源×8     译×24   
+     furnace                        → 炉子                   源×6     译×12   
+     Valley of Humiliation          → 卑微谷                  源×2     译×2    
+     Apollyon                       → 亚玻伦                  源×5     译×5    
+     Christian                      → 基督徒                  源×6     译×6    
+     Mr. Greatheart                 → 大心先生                 源×1     译×1    
+     Mr. Valiant                    → 勇士先生                 源×1     译×1    
+     the Dark River                 → 幽暗之河                 源×2     译×2    
+     Valley of Death                → 死荫谷                  源×1     译×1    
+     heart's ease                   → 心安草                  源×1     译×1    
+     Bunyan / Bedford               → 班扬 / 贝德福德            源×2     译×2    
+     the army of unalterable law    → 不可更易之法则的大军           源×3     译×1     落位偏低 1/3
+     Rex                            → 雷克斯                  源×1     译×1    
+     Laura                          → 劳拉                   源×3     译×3    
+     Methuselah                     → 玛土撒拉                 源×1     译×1    
+     Blake / Wordsworth             → 布莱克 / 华兹华斯           源×3     译×3    
+     trick / rubber                 → 墩 / 一盘               源×9     译×3     落位偏低 3/9
+     cribbage                       → 克里比奇牌                源×1     译×1    
+     ten-cent store                 → 十美分商店                源×2     译×2    
+     baking-powder can              → 发酵粉罐                 源×1     译×1    
+     cream sauce                    → 奶油沙司                 源×2     译×2    
+     grade-crossing                 → 平交道口                 源×1     译×1    
+     homemaking                     → 持家                   源×5     译×14   
+     Tir na n'Og                    → 提尔纳诺                 源×1     译×1    
+     cookbook                       → 食谱                   源×4     译×5    
+     sandpile settlement            → 沙堆垦殖场                源×1     译×1    
+     Hasenheimer's                  → 哈森海默商行               源×1     译×1    
+     mail-order houses              → 邮购商店                 源×1     译×1    
+     Morris chair                   → 莫里斯椅                 源×0     译×1     ★源0次(幽灵?)
+     golden oak                     → 金橡木                  源×0     译×1     ★源0次(幽灵?)
+     best room                      → 上房                   源×1     译×1    
+     inferiority-complex            → 自卑情结                 源×1     译×1    
+     Life Work                      → 毕生事业                 源×2     译×1    
+     Margaret / Ellen / Loren / Jim → 玛格丽特 / 埃伦 / 洛伦 / 吉姆  源×16    译×16   
+     Morton Cummings / Sadie Bennet → 莫顿·卡明斯 / 萨迪·贝内特 / 玛丽 源×3     译×3    
+     Lourdes / Coué                 → 卢尔德 / 库埃             源×2     译×2    
+     heliotherapy                   → 日光疗法                 源×1     译×1    
+     Uncle Lester                   → 莱斯特姨父                源×1     译×1    
+     Mrs. Hemp / Judd               → 亨普太太 / 贾德            源×2     译×2    
+     Mrs. Russell / Margery         → 拉塞尔太太 / 玛杰丽          源×2     译×2    
+     Miss Pelman                    → 佩尔曼小姐                源×1     译×1    
+     Ladies' Waist and Sweater Depa → 女式衬衫与毛衣部             源×1     译×1    
+     crutches                       → 拐杖                   源×6     译×5    
+     juggernaut                     → 扎格纳特神车               源×1     译×1    
+     The Little Boy Lost            → 《迷失的小男孩》             源×1     译×1    
+     Terence                        → 特伦斯                  源×1     译×1    
+     valet                          → 贴身侍从                 源×1     译×1    
+     dummy                          → 明手                   源×1     译×1    
+

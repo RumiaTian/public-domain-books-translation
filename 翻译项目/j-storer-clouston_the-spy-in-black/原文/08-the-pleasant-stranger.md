@@ -1,0 +1,50 @@
+## I The Pleasant Stranger
+It was in July of that same year that the Rev. Alexander Burnett was abashed to find himself inadvertently conspicuous. He had very heartily permitted himself to be photographed in the centre of a small group of lads from his parish who had heard their country’s call and were home in their khaki for a last leave-taking. Moreover, the excellence of the photograph and the undeniably close resemblance of his own portrait to the reflection he surveyed each morning when shaving, had decidedly pleased him. But the appearance of this group, first as an illustration in a local paper and then in one that enjoyed a very wide circulation indeed, embarrassed him not a little. For he was a modest, publicity-avoiding man, and also he felt he ought to have been in khaki too.
+Not that Mr. Burnett had anything really to reproach himself with, for he was in the forties, some years above military age. But he was a widower without a family, who had already spent fifteen years in a sparsely inhabited parish in the southeast of Scotland not very far from the Border; and ever since he lost his wife had been uneasy in mind and a little morbid, and anxious for change of scene and fresh experiences. He was to get them, and little though he dreamt it, that group was their beginning. Indeed, it would have taken as cunning a brain to scent danger in the trifling incidents with which his strange adventure began as it took to arrange them. And Mr. Burnett was not at all cunning, being a simple, quiet man. In appearance he was rather tall, with a clean-shaven, thoughtful face, and hair beginning to turn grey.
+A few days later a newspaper arrived by post. He had received several already from well-meaning friends, each with that group in it, and he sighed as he opened this one. It was quite a different paper, however, with no illustrations, but with a certain page indicated in blue pencil, and a blue pencil mark in the margin of that page. What his attention was called to was simply the announcement that the Rev. Mr. Maxwell, minister of the parish of Myredale, had been appointed to another charge, and that there was now a vacancy there.
+Mr. Burnett looked at the wrapper, but his name and address had been typewritten and gave him no clue. He wondered who had sent him the paper, and then his thoughts naturally turned to the vacant parish. He knew that it lay in a certain group of northern islands, which we may call here the Windy Isles, and he presumed that the stipend would not be great. Still, it was probably a better living than his own small parish, and as for its remoteness, well, he liked quiet, out-of-the-way places, and it would certainly be a complete change of scene. He let the matter lie in the back of his mind, and there it would very likely have remained but for a curious circumstance on the following Sunday.
+His little parish church was seldom visited by strangers, and when by any chance one did appear, the minister was very quickly conscious of the fact. He always took stock of his congregation during the first psalm, and on this Sabbath his experienced eye had noted a stranger before the end of the opening verse. A pleasant-looking gentleman in spectacles he appeared to be, and of a most exemplary and devout habit of mind. In fact, he hardly once seemed to take his spectacled gaze off the minister’s face during the whole service; and Mr. Burnett believed in giving his congregation good measure.
+It was a fine day, and when service was over the minister walked back to his manse at a very leisurely pace, enjoying the sunshine after a week of showery weather. The road he followed crossed the river, and as he approached the bridge he saw the same stranger leaning over the parapet, smoking a cigar, and gazing at the brown stream. Near him at the side of the road was drawn up a large dark-green touring car, which apparently the gentleman had driven himself, for there was no sign of a chauffeur.
+“Good day, sir!” said the stranger affably, as the minister came up to him. “Lovely weather!”
+Mr. Burnett, nothing loath to hear a fresh voice, stopped and smiled and agreed that the day was fine. He saw now that the stranger was a middle-sized man with a full fair moustache, jovial eyes behind his gold-rimmed spectacles, and a rosy healthy colour; while his manner was friendliness itself. The minister felt pleasantly impressed with him at once.
+“Any trout in this stream?” inquired the stranger.
+Mr. Burnett answered that it was famed as a fishing river, at which the stranger seemed vastly interested and pleased, and put several questions regarding the baskets that were caught. Then he grew a little more serious and said﻿—
+“I hope you will pardon me, sir, for thanking you for a very excellent sermon. As I happened to be motoring past just as church was going in I thought I’d look in too. But I assure you I had no suspicion I should hear so good a discourse. I appreciated it highly.”
+Though a modest man, Mr. Burnett granted the stranger’s pardon very readily. Indeed, he became more favourably impressed with him than ever.
+“I am very pleased to hear you say so,” he replied, “for in an out-of-the-way place like this one is apt to get very rusty.”
+“I don’t agree with you at all, sir,” said the stranger energetically, “if you’ll pardon my saying so. In my experience﻿—which is pretty wide, I may add﻿—the best thinking is done in out-of-the-way places. I don’t say the showiest, mind you, but the *best*!”
+Again the minister pardoned him without difficulty.
+“Of course, one needs a change now and then, I admit,” continued the stranger. “But, my dear sir, whatever you do, don’t go and bury yourself in a crowd!”
+This struck Mr. Burnett as a novel and very interesting way of putting the matter. He forgot all about the dinner awaiting him at the manse, and when the stranger offered him a very promising-looking cigar, he accepted it with pleasure, and leaned over the parapet beside him. There, with his eyes on the running water, he listened and talked for some time.
+The stranger began to talk about the various charming out-of-the-way places in Scotland. It seemed he was a perfervid admirer of everything Scottish, and had motored or tramped all over the country from Berwick to the Pentland Firth. In fact, he had even crossed the waters, for he presently burst forth into a eulogy of the Windy Islands.
+“The most delightful spot, sir, I have ever visited!” he said enthusiastically. “There is a peacefulness and charm, and at the same time something stimulating in the air I simply can’t describe. In body and mind I felt a new man after a week there!”
+The minister was so clearly struck by this, and his interest so roused, that the stranger pursued the topic and added a number of enticing details.
+“By the way,” he exclaimed presently, “do you happen to know a fellow-clergyman there called Maxwell? His parish is﻿—let me see﻿—Ah, Myredale, that’s the name.”
+This struck Mr. Burnett as quite extraordinary.
+“I don’t know him personally,” he began.
+“A very sensible fellow,” continued the stranger impetuously. “He told me his parish was as like heaven as anything on this mortal earth!”
+“He has just left it,” said Mr. Burnett.
+The stranger seemed surprised and interested.
+“What a chance for someone!” he exclaimed.
+Mr. Burnett gazed thoughtfully through the smoke of his cigar into the brown water of the river below him.
+“I have had thoughts of making a change myself,” he said slowly. “But of course they might not select me even if I applied for Myredale.”
+“In the Scottish Church the custom is to go to the vacant parish to preach a trial sermon, isn’t it?” inquired the stranger.
+The minister nodded. “A system I disapprove of, I may say,” said he.
+“I quite agree with you,” said the stranger sympathetically. “Still, so long as that is the system, why not try your luck? Mind you, I talk as one who knows the place, and knows Mr. Maxwell and his opinion of it. You’ll have an enviable visit, whatever happens.”
+“It is a very long way,” said Mr. Burnett.
+“Don’t they pay your expenses?”
+“Yes,” admitted the minister. “But then I understand that those islands are very difficult for a stranger to enter at present. The naval authorities are extremely strict.”
+The stranger laughed jovially.
+“My dear sir,” he cried, “can you imagine even the British Navy standing between a Scotch congregation and its sermon! You are the one kind of stranger who will be admitted. All you have to do is to get a passport﻿—and there you are!”
+“Are they difficult to get?”
+The stranger laughed again.
+“I know nothing about that kind of thing,” said he. “I’m a Lancashire lad, and the buzz of machinery is my game; but I can safely say this: that *you* will have no difficulty in getting a passport.”
+Mr. Burnett again gazed at the water in silence.
+Then he looked up and said with a serious face﻿—
+“I must really tell you, sir, of a very remarkable coincidence. Only a few days ago some unknown friend sent me a copy of a newspaper with a notice of this very vacancy marked in it!”
+The Lancashire lad looked almost thunderstruck by this extraordinary disclosure.
+“Well, I’m hanged!” he cried﻿—adding hurriedly, “if you’ll forgive my strong language, sir.”
+“It seems to me to be providential,” said Mr. Burnett in a low and very serious voice.
+With equal solemnity the stranger declared that though not an unusually good man himself, this solution had already struck him forcibly.
+At this point the minister became conscious of the distant ringing of a bell, and recognised with a start the strident note of his own dinner bell swung with a vigorous arm somewhere in the road ahead. He shook hands cordially with the stranger, thanked him for the very interesting talk he had enjoyed, and hurried off towards his overcooked roast.
+The stranger remained for a few moments still leaning against the parapet. His jovial face had been wreathed in smiles throughout the whole conversation; he still smiled now, but with rather a different expression.

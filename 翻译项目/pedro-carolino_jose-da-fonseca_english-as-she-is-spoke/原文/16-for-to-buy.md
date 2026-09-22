@@ -1,0 +1,12 @@
+# For to Buy
+- I won’t have a good and fine cloth to make a coat.
+- How much do you sell it the ell?
+- We thout overcharge you from a halfpenny, it cost twenty franks.
+- Sir, I am not accustomed to cheapen: tell me the last price.
+- I have told you, sir, it is valuable in that.
+- It is too much dear, I give at it, eighteen franks.
+- You shall not have what you have wished.
+- You did beg me my last word, I told you them.
+- Well, well, cut them two ells.
+- Don’t you will not more?
+- No, at present.

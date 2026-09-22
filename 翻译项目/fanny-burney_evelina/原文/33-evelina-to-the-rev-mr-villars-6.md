@@ -1,0 +1,9 @@
+## Letter
+ XXX Evelina to the Rev. Mr. Villars
+Howard Grove, May 6.
+The die is thrown, and I attend the event in trembling! Lady Howard has written to Paris, and sent her letter to town, to be forwarded in the ambassador’s packet; and, in less than a fortnight, therefore, she expects an answer. O, Sir, with what anxious impatience shall I wait its arrival! upon it seems to depend the fate of my future life. My solicitude is so great, and my suspense so painful, that I cannot rest a moment in peace, or turn my thoughts into any other channel.
+Deeply interested as I now am in the event, most sincerely do I regret that the plan was ever proposed. Methinks it *cannot* end to my satisfaction: for either I must be torn from the arms of my *more* than father﻿—or I must have the misery of being finally convinced, that I am cruelly rejected by him who has the natural claim to that dear title, which to write, mention, or think of, fills my whole soul with filial tenderness.
+The subject is discussed here eternally. Captain Mirvan and Madame Duval, as usual, quarrel whenever it is started: but I am so wholly engrossed by my own reflections, that I cannot even listen to them. My imagination changes the scene perpetually: one moment, I am embraced by a kind and relenting parent, who takes me to that heart from which I have hitherto been banished, and supplicates, through me, peace and forgiveness from the ashes of my mother!﻿—at another, he regards me with detestation, considers me as the living image of an injured saint, and repulses me with horror!﻿—But I will not afflict you with the melancholy phantasms of my brain; I will endeavour to compose my mind to a more tranquil state, and forbear to write again till I have in some measure succeeded.
+May Heaven bless you, my dearest Sir! and long, long may it continue you on earth, to bless
+Your grateful
+Evelina.

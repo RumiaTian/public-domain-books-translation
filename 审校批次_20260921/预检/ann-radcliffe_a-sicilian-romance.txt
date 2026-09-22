@@ -1,0 +1,84 @@
+====================================================================================================
+### ann-radcliffe_a-sicilian-romance  (17 files)
+  块: O=207 C=207 OK | 段: EN=592 CN=591 !!差 1
+     [不对称] 03-iii.md                                            O=34 C=34 段EN=119 段CN=118
+  英文残留(剔括注) top: 无
+  项目说明备注: - 章节文件名原为纯罗马数字（i.md…xvi.md，natural sort 会乱序），已统一加两位数字前缀：`00-preface.md`、`01-i.md` … `16-xvi.md`，前缀顺序即阅读顺序（epub spine 顺序，与章内罗马编号一致）。 / - 书中有两代同名人物：老侯爵 Ferdinand 与其子 Ferdinand（后为第六代侯爵），翻译时依语境区分（子常称 young marquis／小费迪南德）。 / - 第 03-iii.md 最大（65KB，>50KB），翻译时按通用翻译引擎第七节分段处理。 / - 源文含 18 世纪拼写（fabrick、intendered、every day 的旧式用法等）与长破折号（﻿—）、星号斜体（*Abate* 等），译文用规范现代中文表达，斜体标记与标点风格保留。 / - 第 02-ii.md 起 Madame de Menon 的长篇插叙（其身世与朱莉娅生母往事）为书中核心「哥特插叙」，人名（Orlando、chevalier de Menon 等）见术语表。 / - 诗行（第 09-ix.md 起 Hippolit
+  -- 术语表硬约束行 76 条:
+     Julia                          → 朱莉娅                  源×413   译×430  
+     Emilia                         → 埃米莉娅                 源×61    译×61   
+     Ferdinand, fifth marquis of Ma → 费迪南德（马齐尼第五代侯爵）       源×1     译×80   
+     Ferdinand (the young marquis)  → 小费迪南德（年轻的子爵/后为第六代侯爵） 源×187   译×110   落位偏低 110/187
+     Louisa (de) Bernini            → 路易莎·德·贝尔尼尼           源×2     译×1    
+     Maria de Vellorno              → 玛丽亚·德·韦洛尔诺           源×11    译×11   
+     Madame de Menon                → 德·梅农夫人               源×39    译×41   
+     Hippolitus, Count de Vereza    → 希波利图斯·德·韦雷萨伯爵（文中多单称「 源×1     译×2    
+     the Duke de Luovo              → 卢奥沃公爵                源×12    译×14   
+     the Abate (of the abbey of St. → 院长（圣奥古斯丁修道院院长）       源×67    译×90   
+     Cornelia                       → 科尔内莉娅                源×19    译×19    残留「姊妹」×7
+     Count Muriani                  → 穆里亚尼伯爵               源×1     译×1    
+     Vincent, third marquis of Mazz → 文森特（马齐尼第三代侯爵）        源×1     译×29    残留「南楼闹鬼」×1
+     Orlando                        → 奥兰多                  源×4     译×5    
+     the chevalier de Menon         → 德·梅农骑士               源×3     译×4    
+     the Count de Bernini           → 贝尔尼尼伯爵               源×2     译×2    
+     Robert                         → 罗伯特                  源×16    译×17   
+     Peter                          → 彼得                   源×12    译×13   
+     the Superior                   → 住持／修道院住持             源×12    译×8     残留「院长」×90
+     the castle of Mazzini          → 马齐尼城堡                源×18    译×19   
+     Sicily                         → 西西里                  源×16    译×25   
+     Palermo                        → 巴勒莫                  源×10    译×11   
+     Naples                         → 那不勒斯                 源×19    译×23   
+     Messina / the straits of Messi → 墨西拿 / 墨西拿海峡          源×3     译×3    
+     Calabria                       → 卡拉布里亚                源×7     译×7    
+     Mount Etna                     → 埃特纳火山                源×2     译×2    
+     the Val di Demona              → 德莫纳山谷                源×0     译×1     ★源0次(幽灵?)
+     Catania                        → 卡塔尼亚                 源×1     译×1    
+     the abbey of St. Augustin      → 圣奥古斯丁修道院             源×5     译×10   
+     the forest of Marentino        → 马伦蒂诺森林               源×5     译×5    
+     Italy                          → 意大利                  源×14    译×18   
+     marquis / marchioness          → 侯爵 / 侯爵夫人            源×356   译×379  
+     banditti                       → 匪徒／匪帮                源×35    译×40   
+     take the veil / the veil       → 入修道院／圣纱              源×10    译×5     落位偏低 5/10 残留「领纱出家」×2
+     friar                          → 修士                   源×9     译×15   
+     madame / madam                 → 夫人                   源×145   译×175  
+     the lute                       → 琵琶／鲁特琴               源×4     译×9    
+     harpsichord                    → 羽管键琴                 源×2     译×2    
+     the southern buildings / the s → 南楼／南塔                源×19    译×32   
+     the marquis’s people           → 侯爵的仆从/手下             源×8     译×20   
+     尊称 Signor / Signora / Excellen → 先生／夫人／阁下             源×0     译×1     ★源0次(幽灵?)
+     旧拼写字（fabrick, shew, intendered → 规范现代译法               源×0     译×0     ★源0次(幽灵?)
+     convent                        → 修道院                  源×16    译×79   
+     order / a brother of our order → 修会 / 修会弟兄            源×14    译×8     落位偏低 8/14
+     the Count della Salario        → 德拉·萨拉里奥伯爵            源×1     译×1    
+     the convent of St. Nicholas /  → 圣尼古拉修道院              源×2     译×2    
+     Tasso                          → 塔索                   源×1     译×1    
+     the lady Matilda Constanza     → 玛蒂尔达·康斯坦扎小姐          源×1     译×1    
+     the young Marquis della Fazell → 德拉·法泽利小侯爵            源×1     译×0     ★译0次(未落位?)
+     Lisette                        → 莉赛特                  源×1     译×1    
+     Anthony / Gregory / Richard    → 安东尼 / 格雷戈里 / 理查德     源×5     译×5    
+     Riccardo                       → 里卡尔多                 源×5     译×5    
+     Bacchus                        → 巴克斯                  源×1     译×1    
+     league                         → 里格                   源×3     译×13   
+     the Marquis de Lomelli         → 洛梅利侯爵                源×1     译×2    
+     della Campo / Henry della Camp → 德拉·坎波家 / 亨利·德拉·坎波    源×5     译×3    
+     Caterina                       → 卡泰丽娜                 源×8     译×8    
+     Carlo                          → 卡洛                   源×1     译×1    
+     Nicolo                         → 尼科洛                  源×3     译×3    
+     Farrini                        → 法里尼                  源×2     译×0     ★译0次(未落位?)
+     Calini                         → 卡利尼                  源×1     译×1    
+     Marcy                          → 马尔西                  源×1     译×1    
+     Azulia                         → 阿祖利亚                 源×1     译×1    
+     Marquis Murani                 → 穆拉尼侯爵                源×1     译×2    
+     Angelo                         → 安杰洛                  源×7     译×7    
+     the Marquis Marinelli          → 马里内利侯爵               源×1     译×1    
+     Alverna                        → 阿尔维纳                 源×1     译×1    
+     Paulo                          → 保罗                   源×2     译×2    
+     long boat                      → 大艇                   源×1     译×5    
+     cavalier                       → 绅士                   源×18    译×3     落位偏低 3/18
+     the grate                      → 铁栅                   源×4     译×6    
+     noviciation                    → 初学期                  源×2     译×2    
+     Palini                         → 帕利尼                  源×3     译×3    
+     the palace at Naples / palace  → （那不勒斯的）马齐尼府邸         源×2     译×0     ★译0次(未落位?)
+     Baptista                       → 巴蒂斯塔                 源×5     译×5    
+     the Cavalier de Vincini        → 德·温奇尼骑士              源×4     译×4    
+

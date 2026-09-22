@@ -1,0 +1,102 @@
+ (8 files)
+  块: O=156 C=156 OK | 段: EN=520 CN=520 OK
+  英文残留(剔括注) top: Cactus×3, grandiflorus×3, pas×1, seul×1, rou×1, petit-ma×1, tre×1, Fata×1, Morgana×1, caput×1
+  项目说明备注: - 本书为 1822 年德语小说的 19 世纪英译本：人名多为德语名（Tyss、Dörtje、Pepusch），按术语表音译并全文统一；「Alina / Dörtje Elverdink / Princess Gamaheh」为同一人三重身份，「George Pepusch / the Thistle Zeherit」为同一精灵双重身份，译名须严格对应术语表，避免读者混淆。 / - 章节标题保留罗马数字与英文原题，格式「英文 / 中文」合并标题（如 `I First Adventure / 一 第一奇遇`）。 / - 文中拉丁学名（*Cactus grandiflorus*）、法语/德语外来语（*petit-maître*、*roué*、*in medias res*）保留原文斜体，按通用引擎规则处理。 / - 第 1 章脚注标记（Blocksberg;1）对应 08-endnotes.md 中的译者注；08-endnotes.md 一并翻译。 / - 原文文件名已加两位数字前缀（01-…08-…），队列顺序即阅读顺序。
+  -- 术语表硬约束行 96 条:
+     Peregrine Tyss                 → 佩雷格林·蒂斯              源×18    译×20   
+     Mr. Balthasar Tyss             → 巴尔塔萨·蒂斯先生            源×1     译×1    
+     Alina                          → 阿莉娜                  源×49    译×50    残留「戈尔康达女王」×5
+     Dörtje Elverdink               → 多尔特耶·埃尔弗丁克           源×45    译×45    残留「阿莉娜」×52 残留「加玛赫公主」×22
+     Princess Gamaheh / Gamaheh     → 加玛赫公主 / 加玛赫          源×69    译×70   
+     George Pepusch                 → 乔治·佩普施               源×39    译×39   
+     the Thistle Zeherit            → 蓟草精泽赫里特              源×2     译×24   
+     Master Flea                    → 跳蚤大师                 源×89    译×86   
+     Leeuwenhoek                    → 列文虎克                 源×81    译×82   
+     Swammerdam                     → 斯瓦默丹                 源×48    译×49   
+     Rose (Lemmerhirt)              → 罗泽（·莱默希特）            源×34    译×29   
+     Lemmerhirt                     → 莱默希特                 源×10    译×11   
+     King Sekakis                   → 塞卡基斯王                源×10    译×13   
+     Queen Mab                      → 麦布女王                 源×1     译×1    
+     the Little Tailor of Sachsenha → 萨克森豪森的小裁缝            源×2     译×2    
+     the clockmaker Degen           → 钟表匠德根                源×1     译×1    
+     Pontifer                       → 庞提菲尔                 源×1     译×1    
+     Antonie van Leeuwenhoek        → 安东尼·范·列文虎克           源×4     译×4    
+     the Flower-Queen               → 花后                   源×2     译×2    
+     the Leech-Prince               → 水蛭王子                 源×12    译×16   
+     the genius Thetel / Thetel     → 精灵忒特尔                源×13    译×12   
+     Lindhorst                      → 档案保管人林德霍斯特           源×1     译×1    
+     Mr. Swammer / Swammer          → 斯瓦默先生 / 斯瓦默          源×34    译×35   
+     Jan Swammerdam                 → 扬·斯瓦默丹               源×2     译×2    
+     Mistress Alina                 → 阿莉娜太太                源×2     译×2    
+     Sergeant Drumstick             → 鼓槌中士                 源×1     译×1    
+     the Greek Philo                → 希腊人斐洛                源×1     译×1    
+     Hieronymus Rorarius            → 希罗尼穆斯·罗拉里乌斯          源×1     译×1    
+     Lipsius                        → 利普修斯                 源×1     译×1    
+     Leibnitz                       → 莱布尼茨                 源×1     译×1    
+     Rabbi Maimonides               → 拉比迈蒙尼德               源×1     译×1    
+     Gomez Pereira                  → 戈麦斯·佩雷拉              源×1     译×1    
+     the Flea King                  → 跳蚤国王                 源×0     译×1     ★源0次(幽灵?)
+     Legénie / Monsieur Legénie     → 勒热尼（先生）              源×6     译×6    
+     Monsieur Leech / Mr. Leech     → 水蛭先生                 源×4     译×5    
+     rabbi Isaac Ben Harravad       → 拉比伊萨克·本·哈拉瓦德         源×2     译×2    
+     Frankfurt am Main              → 美因河畔法兰克福             源×1     译×1    
+     the Horse Market               → 马市                   源×2     译×2    
+     Sachsenhausen                  → 萨克森豪森                源×3     译×3    
+     Blocksberg / Brocken           → 布罗肯山                 源×3     译×2    
+     Golconda                       → 戈尔康达                 源×6     译×6     残留「戈尔康达女王」×5
+     Jena                           → 耶拿                   源×2     译×2    
+     Hamburg                        → 汉堡                   源×4     译×4    
+     Madras                         → 马德拉斯                 源×2     译×2    
+     Vienna                         → 维也纳                  源×1     译×1    
+     the Hesperides                 → 赫斯珀里得斯               源×1     译×1    
+     the Hanseatic League           → 汉萨同盟                 源×1     译×1    
+     Beijing                        → 北京                   源×5     译×5    
+     the Kalbecher Street           → 卡尔贝歇街                源×1     译×2    
+     Delft                          → 代尔夫特                 源×3     译×3    
+     Famagusta                      → 法马古斯塔                源×8     译×8    
+     Samarkand                      → 撒马尔罕                 源×4     译×4    
+     Berlin                         → 柏林                   源×7     译×7    
+     the Hague                      → 海牙                   源×1     译×1    
+     Maintz                         → 美因茨                  源×1     译×1    
+     Master Flea（书名）                → 《跳蚤大师》               源×0     译×3     ★源0次(幽灵?)
+     the flea-tamer                 → 驯蚤人                  源×24    译×25   
+     the microscopic glass          → 显微镜片                 源×18    译×20   
+     adventure（章节题）                 → 奇遇                   源×14    译×10   
+     *Cactus grandiflorus*          → *Cactus grandiflorus 源×3     译×3    
+     *in medias res*                → *in medias res*（直入主题 源×1     译×1    
+     *petit-maître*                 → *petit-maître*（浮华公子） 源×1     译×1    
+     *roué*                         → *roué*（放荡子）          源×1     译×1    
+     Oppenbacher                    → 奥彭巴赫（鼻烟）             源×1     译×1    
+     hock                           → 莱茵白酒                 源×2     译×2    
+     calimanco                      → 羽纱                   源×1     译×1    
+     the night-microscope / sun-mic → 夜用显微镜 / 日光显微镜        源×1     译×3    
+     mandragora                     → 曼德拉草                 源×2     译×2    
+     Pantagruel                     → 潘塔格吕埃                源×1     译×1    
+     the Three Pomegranates         → 《三颗石榴》               源×1     译×1    
+     El Dorado                      → 黄金国                  源×1     译×1    
+     *Biblia Naturae*               → 《自然圣经》（*Biblia Natur 源×1     译×1    
+     the microscopic exhibitions    → 显微镜展演                源×0     译×1     ★源0次(幽灵?)
+     the council                    → 市政会                  源×2     译×2     残留「市政长官」×1
+     crown / sixpence               → 克朗（值五先令）／六便士         源×3     译×1     落位偏低 1/3
+     a flea in one's ear            → 耳朵里落了一只跳蚤            源×0     译×0     ★源0次(幽灵?)
+     bluestockings                  → 蓝袜女 / 女学究            源×1     译×0     ★译0次(未落位?) 残留「蓝袜才女」×1
+     Ariadne clue                   → 阿里阿德涅的引线             源×1     译×0     ★译0次(未落位?)
+     daybook                        → 日记簿                  源×2     译×2    
+     tarantula                      → 塔兰图拉毒蛛               源×1     译×1    
+     *Quod Animalia Bruta Ratione U → 《动物运用理性甚于人类》         源×1     译×1    
+     *Pro Muribus*                  → 《为鼠辩护》               源×1     译×1    
+     watchman                       → 更夫                   源×3     译×4    
+     St. Vitus' dance               → 圣维特斯舞蹈病（St. Vitus' d 源×1     译×1    
+     basilisk                       → 巴西利斯克                源×1     译×1    
+     entrechat / pirouette          → 交叉跳／单足旋转             源×1     译×3    
+     *pas seul*                     → *pas seul*（独舞）       源×1     译×1    
+     siren                          → 塞壬                   源×2     译×1    
+     tissue / silver tissue         → 银纱                   源×6     译×5    
+     horoscope                      → 天宫图                  源×17    译×17   
+     carbuncle                      → 贵榴石                  源×13    译×4     落位偏低 4/13
+     talisman                       → 护符                   源×18    译×19   
+     *Fata Morgana*                 → *Fata Morgana*（海市蜃楼） 源×1     译×1    
+     Burgundy                       → 勃艮第酒                 源×1     译×1    
+     the Amateur                    → 业余大师                 源×14    译×16    残留「税关官」×9
+     the Douanier                   → 税关官                  源×7     译×9    
+====================================================================================================

@@ -1,0 +1,12 @@
+# For to Travel
+- Where you go so?
+- I am going to Cadiz.
+- Have you already arrested a coach?
+- Yes, sir, and very cheap.
+- There is it some danger on the highway?
+- It is not spoken that.
+- They speak not that may have some robbers on the woods?
+- It have nothing to fear, or in day neither the night.
+- Don’t we does pass for a﻿—﻿—?
+- No, sir, they leave it to left.
+- Let us take patience, still some o’clock, and we shall be in the end of our voyage.

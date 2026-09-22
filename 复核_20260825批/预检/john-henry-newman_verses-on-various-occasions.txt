@@ -1,0 +1,91 @@
+====================================================================================================
+### john-henry-newman_verses-on-various-occasions  (5 files)
+  块: O=121 C=121 OK | 段: EN=1106 CN=1112 !!差 -6
+     [不对称] endnotes.md                                          O=42 C=42 段EN=89 段CN=87
+     [不对称] the-dream-of-gerontius.md                            O=68 C=68 段EN=976 段CN=984
+  英文残留(剔括注) top: Subvenite×4, et×4, Ele×3, son×3, in×3, Kyrie×2, Agios×2, Sanctus×2, Gloria×2, miglior×2
+  -- 术语表硬约束行 83 条:
+     Edward Badeley                 → 爱德华·巴德利              源×1     译×1    
+     The Oratory                    → 奥拉托利会                源×2     译×2    
+     Gerontius                      → 日耳曼纽斯                源×8     译×10   
+     The Dream of Gerontius         → 《日耳曼纽斯之梦》            源×2     译×1    
+     Jesu                           → 耶稣                   源×13    译×16   
+     Maria / Mary                   → 玛利亚                  源×8     译×7    
+     Holy Mary                      → 圣玛利亚                 源×2     译×3    
+     God                            → 天主                   源×32    译×34   
+     Lord                           → 主；祷文语气中作「上主／主」       源×28    译×1     落位偏低 1/28
+     Holy Ghost / Holy Spirit       → 圣神                   源×3     译×5    
+     Angel                          → 天使                   源×36    译×57   
+     Guardian Angel / Angel-guardia → 护守天使                 源×2     译×2    
+     Assistants                     → 侍立者们                 源×5     译×5    
+     The Priest                     → 司铎                   源×6     译×7    
+     Demons                         → 群魔                   源×5     译×4    
+     Soul (of Gerontius)            → （日耳曼纽斯之）灵魂           源×49    译×0     ★译0次(未落位?)
+     Purgatory                      → 炼狱                   源×6     译×6    
+     Alleluia                       → 阿肋路亚                 源×4     译×4    
+     Kyrie eleïson                  → 求主垂怜                 源×4     译×2     落位偏低 2/4
+     Christe eleïson                → 求基督垂怜                源×2     译×1    
+     Sanctus fortis, Sanctus Deus   → 圣哉大能者，圣哉天主           源×3     译×4    
+     De profundis oro te            → 我自深渊向祢哀求             源×3     译×4    
+     Miserere, Judex meus           → 我的审判者，求祢垂怜           源×3     译×3    
+     Parce mihi, Domine             → 主啊，求祢宽恕我             源×2     译×3    
+     Mortis in discrimine           → 在生死存亡之际              源×1     译×1    
+     Proficiscere, anima Christiana → 基督徒的灵魂，请启程吧          源×2     译×1    
+     Subvenite, Sancti Dei          → 众圣者，请来相助             源×1     译×3    
+     Novissima hora est             → 最后时刻已至               源×2     译×2    
+     Emmanuel                       → 厄玛奴耳                 源×1     译×1    
+     Zion                           → 熙雍                   源×1     译×1    
+     Beatific Vision                → 荣福直观                 源×1     译×1    
+     Michaelmas Term                → 米迦勒节学期               源×1     译×1    
+     St. Joseph                     → 圣若瑟                  源×1     译×1    
+     St. John Baptist               → 圣若翰洗者                源×1     译×1    
+     St. Peter                      → 圣伯多禄                 源×1     译×1    
+     St. Paul                       → 圣保禄                  源×1     译×1    
+     St. Andrew                     → 圣安德肋                 源×1     译×1    
+     St. John                       → 圣若望                  源×2     译×2    
+     Abraham                        → 亚巴郎                  源×2     译×2    
+     Enoch                          → 哈诺客                  源×1     译×1    
+     Elias                          → 厄里亚                  源×1     译×1    
+     Noe                            → 诺厄                   源×1     译×1    
+     Job                            → 约伯                   源×2     译×2    
+     Isaac                          → 依撒格                  源×1     译×1    
+     Lot                            → 罗特                   源×4     译×1     落位偏低 1/4
+     Sodom                          → 索多玛                  源×1     译×1    
+     Moses                          → 梅瑟                   源×1     译×1    
+     Daniel                         → 达尼尔                  源×1     译×1    
+     Susanna                        → 苏撒纳                  源×1     译×1    
+     David                          → 达味                   源×2     译×2    
+     Golia                          → 哥肋雅                  源×1     译×1    
+     Saul                           → 撒乌耳                  源×1     译×1    
+     Thecla                         → 德克拉                  源×1     译×1    
+     Satan                          → 撒殚                   源×1     译×1    
+     Lucifer                        → 路济弗尔                 源×1     译×1    
+     Cherubim                       → 革鲁宾（普智天使）            源×1     译×1    
+     Seraphim                       → 色辣芬（炽爱天使）            源×1     译×3    
+     Thrones / Dominations / Prince → 上座／宰制／统领／异能天使        源×9     译×4     落位偏低 4/9
+     Choir of Angelicals            → 天神歌队（第一至第五天神歌队）      源×5     译×5    
+     Angel of the Agony             → 山园痛苦天使               源×2     译×2    
+     Angels of the Sacred Stair     → 圣阶众天使                源×1     译×1    
+     Souls in Purgatory             → 炼狱中的灵魂               源×1     译×1    
+     Apostles                       → 宗徒                   源×3     译×3    
+     Evangelists                    → 圣史                   源×2     译×2    
+     Martyrs                        → 殉道者                  源×2     译×2    
+     Confessors                     → 精修者                  源×2     译×2    
+     Hermits                        → 隐修者                  源×2     译×3    
+     Virgins                        → 童贞女                  源×2     译×2    
+     Innocents                      → 圣婴孩                  源×1     译×1    
+     St. Michael                    → 圣弥额尔                 源×1     译×1    
+     St. Francis d’Assisi           → 亚西西的圣方济各             源×1     译×1    
+     Mount Alvernus                 → 拉韦尔纳山（Mount Alvernus 源×1     译×1    
+     Philip                         → 圣斐理（内利）              源×1     译×1    
+     Jeroboam                       → 雅洛贝罕                 源×1     译×1    
+     Apocalypse                     → 《默示录》                源×1     译×1    
+     Tobias                         → 《多俾亚书》               源×1     译×1    
+     Psalm(s)                       → 圣咏                   源×4     译×6    
+     Roman Breviary                 → 《罗马日课经》              源×1     译×1    
+     Parisian Breviary              → 《巴黎日课经》              源×1     译×2    
+     Litany (for the Dying)         → 连祷文（《临终连祷文》）         源×5     译×5    
+     Gloria in Excelsis / Greater D → 《光荣颂》／大荣耀颂           源×3     译×2    
+     Lesser Doxology                → 《圣三光荣颂》（小荣耀颂）        源×1     译×1    
+     Good Friday                    → 圣周五                  源×1     译×1    
+

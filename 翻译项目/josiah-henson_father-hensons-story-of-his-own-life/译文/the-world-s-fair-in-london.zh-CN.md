@@ -1,0 +1,41 @@
+## XXI The World’s Fair in London / 伦敦万国博览会
+
+===Original===
+My Contribution to the Great Exhibition﻿—Difficulty with the American Superintendent﻿—Happy Release﻿—The Great Crowd﻿—A Call from the Queen﻿—Medal Awarded to Me.
+I have already mentioned that the first idea which suggested to me the plan of going to England, was to exhibit, at the Great World’s Fair, in London, some of the best specimens of our black walnut lumber, in the hope that it might lead to some sales in England. For this purpose I selected some of the best boards out of the cargo which I had brought to Boston, which Mr. Chickering was kind enough to have properly packed in boxes, and sent to England in the American ship which carried the American products for exhibition. The boards which I selected were four in number, excellent specimens, about seven feet in length and four feet in width, of beautiful grain and texture. On their arrival in England, I had them planed and perfectly polished, in French style, so that they actually shone like a mirror.
+The history of my connection with the World’s Fair is a little amusing. Because my boards happened to be carried over in the American ship, the superintendent of the American Department, who was from Boston, (I think his name was Riddle), insisted that my lumber should be exhibited in the American department. To this I objected. I was a citizen of Canada, and my boards were from Canada, and there was an apartment of the building appropriated to Canadian products. I therefore insisted that my boards should be removed from the American Department, to the Canadian. But, said the American, “You cannot do it. All these things are under my control. You can exhibit what belongs to you if you please, but not a single thing here must be moved an inch without my consent.”
+This was rather a damper to me. I thought his position was rather absurd, but how to move him or my boards seemed just then beyond my control.
+
+===Chinese===
+我对万国博览会的贡献——与美国部总监的纠纷——愉快的解脱——巨大的人潮——女王的驾临——授给我的奖章。
+我已经提过，最初使我起意赴英的，是想在伦敦的万国博览会上展出我们黑胡桃木的几件上好样品，盼着能在英国打开些销路。为此，我从运到波士顿的那船货里挑出几块最好的板材，奇克林先生好意替我妥当装箱，随运送美国展品的美国船发往英国。我选的板材共四块，都是极好的样品，约长七英尺、宽四英尺，纹理和质地十分美观。运到英国后，我请人刨光，又照法国式样精磨上光，居然亮得能照见人影。
+我同万国博览会的一段因缘颇有些好笑。只因我的板材恰好由美国船运来，美国部的总监——他是波士顿人，名字我记得多半是里德尔（Riddle）——便执意要我的木材陈列在美国部里。对此我表示反对。我是加拿大公民，我的板材产自加拿大，博览会里又有专辟的一区陈列加拿大产品。因此我坚持要把我的板材从美国部挪到加拿大部去。可是那美国人说：「你办不到。这一切都归我管。你自己的东西，你愿意展就展；但这里的一件一物，没有我的许可，一寸也不许动。」
+这真叫人泄气。我觉得他的立场未免荒唐，可是怎样搬动他、或搬动我的板材，当时看来都不在我的力量之内。
+
+===Original===
+A happy thought, however, occurred to me. Thought I, if this Yankee wants to retain my furniture, the world shall know who it belongs to. I accordingly hired a painter to paint in good large white letters on the tops of my boards: “**This is the product of the industry of a Fugitive Slave from the United States, whose residence is Dawn, Canada**.” This was done early in the morning. In due time the American superintendent came around, and found me at my post. The gaze of astonishment with which he read my inscription, was laughable to witness. His face was black as a thundercloud. “Look here, Sir,” said he; “What, under heaven, have you got up there?”﻿—“O, that is only a little information to let the people know who I am.”﻿—“But don’t you know better than that. Do you suppose I am going to have that insult up there?” The English gentlemen began to gather around, chuckling with half-suppressed delight, to see the wrath of the Yankee. This only added fuel to the fire. “Well, Sir,” said he, “do you suppose I am going to bring that stuff across the Atlantic for nothing?”﻿—“I have never asked you to bring it for nothing. I am ready to pay you, and have been from the beginning.”﻿—“Well, Sir, you may take it away, and carry it where you please.”﻿—“O,” said I, “I think, as you wanted it very much, I will not disturb it. You can have it now.”﻿—“No, Sir; take it away!”﻿—“I beg your pardon, Sir,” said I, “when I wanted to remove it you would not allow it, and now, for all me, it shall remain.” In the meantime the crowd enjoyed it and so did I. The result was, that by the next day the boards were removed to their proper place at no expense to me, and no bill was ever presented against me for carrying the lumber across the Atlantic.
+I may be permitted to say that in that immense exhibition, my humble contribution received its due share of attention. Many conversations did I have with individuals of that almost innumerable multitude from every nation under heaven. Perhaps my complexion attracted attention, but nearly all who passed, paused to look at me, and at themselves as reflected in my large black walnut mirrors.
+Among others the Queen of England, Victoria, preceded by her guide, and attended by her cortége, paused to view me and my property. I uncovered my head and saluted her as respectfully as I could, and she was pleased with perfect grace to return my salutation. “Is he indeed a fugitive slave?” I heard her inquire; and the answer was, “He is indeed, and that is his work.”
+
+===Chinese===
+不过我灵机一动，有了主意。我想，这扬基人既想扣下我的家什，那就叫天下人都知道它属于谁。于是我雇了个油漆匠，在我的板材顶端用醒目的大号白字漆上：「**这是一个来自美国的逃亡奴隶的勤劳产品，他的居地在加拿大黎明镇**」。这是清早干的事。到时辰，美国总监转了过来，见我守在自己的位子上。他读我那行题字时那种惊愕的神色，看了真叫人好笑。他的脸黑得像雷雨云。「听着，先生，」他说，「你到底在天上搞了些什么名堂摆在那儿？」——「噢，那不过是一点小告示，让人们知道我是谁。」——「你难道这点常识都没有？你以为我会容得下那上面的侮辱？」英国的绅士们渐渐围拢来，憋着半肚子的得意咯咯直笑，看这扬基人动怒。这更加火上浇油。「哼，先生，」他说，「你以为我肯白把这些东西运过大西洋吗？」——「我从来没叫你白运。我随时可以付你钱，从一开头就准备好了。」——「那好，先生，你可以把它搬走，爱搬哪儿搬哪儿。」——「噢，」我说，「您既然这样想要它，我就不挪动它了。现在它是您的了。」——「不，先生；搬走！」——「对不起，先生，」我说，「先前我要搬，您不许；如今在我看来，它是留定了。」围看的人群乐不可支，我也一样。结果，第二天板材就搬到了它该在的地方，我一个钱没破费；后来也始终没有人向我讨要横渡大西洋的运费。
+请容我说一句：在那盛大的博览会上，我微薄的贡献受到了应得的一份关注。同那几乎数不清的、来自天底下各国的男女人等，我攀谈过不知多少回。也许是我的肤色引人注目，但凡从那里经过的人，几乎没有不驻足看看我，并照照我这几面黑胡桃木大镜子的。
+其中，英国女王维多利亚（Victoria）由向导引路、随从簇拥，也驻足观看了我本人和我的产业。我脱帽尽可能恭敬地向她行礼，她也以十足的雍容欣然答礼。「他真是个逃亡奴隶吗？」我听见她问；回答是：「确实是的，这便是他的作品。」
+
+===Original===
+But notwithstanding such pleasant occurrences, the time wore heavily away. The immense crowd, kept in as perfect order as a single family, became wearisome to me, and I was not sorry, as related in a preceding chapter, to return to Canada, leaving my boards on exhibition.
+On going again to England the exhibition was still in progress. There seemed no diminution of the crowd. Like the waters of the great Mississippi, the channel was still full, though the individuals were changed.
+But among all the exhibitors from every nation in Europe, and from Asia, and America, and the Isles of the Sea, there was not a single black man but myself. There were negroes there from Africa, brought to be exhibited, but no exhibitors but myself. Though my condition was wonderfully changed from what it was in my childhood and youth, yet it was a little saddening to reflect that my people were not more largely represented there. The time will yet come, I trust, when such a state of things will no longer exist.
+
+===Chinese===
+然而虽有这些快意的遭遇，日子还是过得沉闷。那像一大家子人般秩序井然的巨大人潮，叫我厌倦；如前一章所述，我并不遗憾地返回加拿大去了，把板材留在会上展览。
+再度赴英时，博览会仍在进行。人潮似乎未见减少。像伟大的密西西比的流水，河床依旧满涨，只是流水已换了一批又一批。
+然而，在来自欧洲各国、亚洲、美洲和海上诸岛的全体参展人当中，除了我，没有一个黑人。那里有从非洲运来供展览的黑人，但做参展人的只有我一个。我的境况虽然比起童年少年时代已天翻地覆，可是想到我的族人在那里代表得如此寥寥，仍不免有些黯然。我信这样的光景，终有不复存在的一天。
+
+===Original===
+At the close of the exhibition, on my return to Canada, I received from England a large quarto bound volume containing a full description of all the objects presented at the exhibition, the names of officers of all the committees, juries, exhibitors, prizes, etc., etc. Among others I found my own name recorded; and there were in addition awarded to me a bronze medal, a beautiful picture of the Queen and royal family, of the size of life, and several other objects of interest.
+These things I greatly prize. After having fully succeeded in my mission to England, having released myself from the voluntarily-assumed debt in behalf of the manual-labor school, and having received these testimonials of honor, I returned home to Canada, contented and happy. While in England I was permitted to enjoy some excellent opportunities to witness its best society, which I propose to relate in the following chapter.
+
+===Chinese===
+博览会闭幕，我回加拿大之后，收到英国寄来的一大册四开精装书，里面完整记载了会上展出的全部物品，以及各委员会、评审团全体人员的姓名、参展人、奖项等等。其中我找到了自己的名字；此外还授给我一枚铜质奖章、一幅同真人一般大小的女王与王室全家画像，还有几件别的有意思的东西。
+这些东西我极为珍视。我在英国的使命圆满成功之后，卸下了为劳动学校自愿担下的债务，又得了这些荣誉的凭证，便怀着满足和幸福回到了加拿大家中。在英格兰期间，我还得以享有几回绝好的机会，领略它最好的社会——这我打算在下一章里讲述。

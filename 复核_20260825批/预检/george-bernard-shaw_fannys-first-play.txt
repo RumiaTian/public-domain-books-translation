@@ -1,0 +1,27 @@
+====================================================================================================
+### george-bernard-shaw_fannys-first-play  (8 files)
+  块: O=147 C=147 OK | 段: EN=1010 CN=1010 OK
+  英文残留(剔括注) top: Comment×1, vieux×1, jeu×1
+  项目说明备注: 剧本：对白按「**人物名**：台词」块对照、舞台指示斜体保留（循 shaw/hamlin 剧本体例）。
+  -- 术语表硬约束行 20 条:
+     Holy Joe                       → 圣乔（Joseph Grenfell 约 源×9     译×9    
+     squiffer                       → 斯奎弗琴（六角手风琴的俚称）       源×9     译×7    
+     Holloway Gaol                  → 霍洛韦监狱                源×3     译×3    
+     Wormwood Scrubbs               → 沃姆伍德·斯克拉布斯监狱         源×4     译×0     ★译0次(未落位?)
+     Denmark Hill                   → 丹麦山                  源×4     译×4    
+     Camberwell                     → 坎伯韦尔                 源×1     译×2    
+     Stepney                        → 斯特普尼                 源×1     译×1    
+     the old cowshed                → 老牛棚（音乐厅绰号）           源×2     译×3    
+     Lloyd's Weekly                 → 《劳埃德周报》              源×2     译×2    
+     Suffragette / Fabian Society   → 妇女参政论者 / 费边社（Cambrid 源×10    译×11   
+     the Stagirite                  → 斯塔基拉人（亚里士多德）         源×5     译×6    
+     the Guards                     → 近卫军                  源×2     译×2    
+     Billy Burjoyce                 → 比利·伯乔伊斯（导演）          源×2     译×2    
+     Mrs. William Tinkler           → 威廉·廷克勒太太             源×1     译×1    
+     Florence Towers                → 弗洛伦斯堡                源×1     译×1    
+     Pinero / Jones / Barrie / Gran → 皮尼罗 / 琼斯 / 巴里 / 格兰维尔 源×10    译×10   
+     The Madras House / The Admirab → 《马德拉斯大厦》/《可敬的克莱顿》    源×2     译×2    
+     Lady Constance Lytton          → 康斯坦斯·利顿夫人            源×1     译×1    
+     Ayot St. Lawrence              → 阿约特圣劳伦斯              源×1     译×1    
+     Little Theatre in the Adelphi  → 河岸区小剧院               源×1     译×0     ★译0次(未落位?)
+

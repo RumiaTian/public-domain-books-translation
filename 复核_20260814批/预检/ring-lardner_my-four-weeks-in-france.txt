@@ -1,0 +1,97 @@
+====================================================================================================
+### ring-lardner_my-four-weeks-in-france  (8 files)
+  块: O=182 C=182 OK | 段: EN=1070 CN=1078 !!差 -8
+     [不对称] 06-how-i-didn-t-drive-major-blank-s-car-to-camp-such-and-such.md O=32 C=32 段EN=192 段CN=199
+     [不对称] 08-back-in-old-o-say-i-start-answering-questions.md  O=19 C=19 段EN=103 段CN=104
+  英文残留(剔括注) top: oui×11, de×6, photophie×6, Je×5, vous×5, je×5, une×5, Non×4, non×4, nuit×3
+  项目说明备注: - 风格与译名对齐本库已有 ring-lardner_* 项目（《轻信者的游记》等）：口语体、冷面幽默。 / - 日期行照录翻译（如「7 月 18 日，星期三」）；军中化名（某某少校、某某营地）为作者故意的匿名手法，照「某某」处理。 / - 法语插词保留原文并括注，讹拼讹音是笑点，须在译文中再现。
+  -- 术语表硬约束行 88 条:
+     Ring Lardner                   → 林·拉德纳                源×0     译×0     ★源0次(幽灵?) 残留「我」×1305
+     the Gentleman from Louisiana   → 路易斯安那绅士              源×8     译×8    
+     Yale / Harvard                 → 耶鲁小子 / 哈佛小子          源×18    译×6     落位偏低 6/18
+     Mr. Creel                      → 克里尔先生                源×3     译×3    
+     Mark Sullivan                  → 马克·沙利文               源×1     译×1    
+     George W. Gloom                → 乔治·W·格鲁姆             源×1     译×1     残留「阴沉」×1
+     Auguste                        → 奥古斯特                 源×6     译×5    
+     Svengali                       → 斯文加利                 源×5     译×5    
+     Rabbit Maranville              → 「兔子」马拉维尔             源×1     译×1    
+     Hanson of Washington and Peori → 汉森（华盛顿—皮奥里亚的）        源×1     译×10   
+     Peter James                    → 彼得·詹姆斯               源×3     译×3    
+     Ring Once                      → 响铃一次                 源×6     译×6     残留「名字」×13
+     Captain Jones                  → 琼斯上尉（化名）             源×6     译×6    
+     Gibbons                        → 吉本斯                  源×19    译×19   
+     Kiley                          → 基利                   源×23    译×23   
+     Joe / Howard                   → 乔 / 霍华德              源×26    译×32   
+     O'Flaherty                     → 奥弗莱厄蒂                源×15    译×15   
+     Captain Finch                  → 芬奇上尉                 源×2     译×2    
+     Captain Vandervelde            → 范德维尔德上尉              源×3     译×3    
+     Major Noname                   → 无名少校                 源×2     译×2    
+     Colonel Anonymous              → 匿名上校                 源×2     译×2    
+     Major Blank / Camp Such-and-Su → 某某少校 / 某某营地          源×2     译×1    
+     The Doctor                     → 「博士」                 源×9     译×8    
+     General Sibert                 → 西伯特将军                源×3     译×3    
+     Jess Willard                   → 杰斯·威拉德               源×2     译×2    
+     O'Grady / Simon                → 奥格雷迪 / 西蒙            源×7     译×6    
+     Monsieur Laudanum              → 「洛丹纳姆先生」             源×2     译×0     ★译0次(未落位?)
+     the Kaiser                     → 德皇                   源×6     译×6    
+     Von Hindenburg                 → 冯·兴登堡                源×1     译×1    
+     William Burns                  → 威廉·伯恩斯               源×1     译×1    
+     Miller of Dowagiac             → 道瓦吉亚克的米勒             源×1     译×1    
+     Corey / Bowron / Grady（零散）     → 科里 / 鲍伦 / 格雷迪        源×8     译×10   
+     Paris                          → 巴黎                   源×67    译×75   
+     Bordeaux                       → 波尔多                  源×8     译×8    
+     Le Havre                       → 勒阿弗尔                 源×5     译×6    
+     Le Vallois-Perret              → 勒瓦卢瓦-佩雷              源×5     译×5    
+     Rue Croix Nivert               → 克鲁瓦尼韦街               源×3     译×3    
+     Passage de Haynau              → 阿约通道                 源×2     译×3    
+     Rue François Premier           → 弗朗索瓦一世街              源×2     译×2    
+     the Savoy                      → 萨伏伊饭店                源×3     译×1     落位偏低 1/3
+     Hôtel Continental              → 大陆饭店                 源×0     译×1     ★源0次(幽灵?)
+     Grande Bretagne                → 大不列颠饭店               源×2     译×0     ★译0次(未落位?)
+     the Seine                      → 塞纳河                  源×2     译×2    
+     Waterloo（车站）                   → 滑铁卢车站                源×1     译×1    
+     Bow Street                     → 弓街                   源×2     译×2    
+     Westminster Abbey              → 威斯敏斯特教堂              源×1     译×1    
+     London                         → 伦敦                   源×22    译×26   
+     Coney Island / Staten Island   → 科尼岛 / 史泰登岛           源×4     译×4    
+     Chicago / New York / Detroit   → 芝加哥 / 纽约 / 底特律       源×36    译×40   
+     Somewhere in Connecticut       → 康涅狄格某地               源×1     译×1    
+     Lake Michigan / a Potomac port → 密歇根湖畔 / 波托马克河畔港口     源×2     译×1    
+     Rockford / Dowagiac / Niles    → 罗克福德 / 道瓦吉亚克 / 奈尔斯   源×10    译×11   
+     Kansas City / Yonkers / Baltim → 堪萨斯城 / 扬克斯 / 巴尔的摩    源×7     译×7    
+     Wilhelmstrasse                 → 威廉街                  源×1     译×1    
+     Belgium                        → 比利时                  源×6     译×7    
+     the War Department             → 陆军部                  源×2     译×3    
+     American Ambulance             → 美国救护队                源×1     译×1    
+     American Field Service         → 美国战地服务队              源×1     译×1    
+     the Y.M.C.A.                   → 基督教青年会               源×0     译×3     ★源0次(幽灵?)
+     Foreign Legion                 → 外籍军团                 源×1     译×1    
+     Standard Oil                   → 标准石油公司               源×2     译×2    
+     Secours National de France     → 法国国家救济会              源×1     译×1    
+     Maison de la Guerre            → 陆军部（法国）              源×1     译×0     ★译0次(未落位?)
+     Maison de la Presse            → 新闻部                  源×5     译×5    
+     British Military Control       → 英国军事管制处              源×2     译×2    
+     Le Cri de Paris                → 《巴黎呐喊》               源×1     译×2    
+     Le Cri de la Presse            → 《报界呐喊》               源×0     译×0     ★源0次(幽灵?)
+     Chu Chin Chow                  → 《朱清周》                源×3     译×3    
+     *fumoir*                       → 吸烟室（fumoir）          源×6     译×6    
+     *salle à manger*               → 餐厅（salle à manger）   源×1     译×3    
+     *garçon de cabine*             → 舱房侍者（garçon de cabin 源×1     译×2    
+     *allumette* / allumay          → 火柴 / 「阿吕梅」（讹音要柠檬水）   源×2     译×6    
+     *préfet*                       → 省长（préfet）           源×6     译×4    
+     *clef à vis*                   → 扳手（clef à vis）       源×3     译×6    
+     *Comme beaucoup?*              → 多少钱？                 源×1     译×2    
+     *Bière Ritten*                 → 「里滕啤酒」               源×1     译×0     ★译0次(未落位?)
+     oofs / café                    → 「鸡蛋」（oeufs 讹音）/ 所谓咖啡 源×6     译×1     落位偏低 1/6
+     *Bon pour …*                   → 「准予前往……」             源×0     译×0     ★源0次(幽灵?)
+     *Bonne nuit!*                  → 晚安！                  源×2     译×1    
+     *oui, oui*                     → 好好，先生                源×1     译×1    
+     boche / Fritz / Huns           → 德国佬 / 弗里茨 / 匈奴兵      源×33    译×35   
+     Sammies                        → 美国大兵（Sammies）        源×2     译×3    
+     Yank                           → 美国佬                  源×1     译×1    
+     Chink / Chinks                 → 中国佬                  源×7     译×10   
+     Wop                            → 意大利佬                 源×1     译×1    
+     Hoosier                        → 印第安纳乡巴佬              源×0     译×0     ★源0次(幽灵?)
+     the Old Fall River Line        → 老 fall river 航线      源×1     译×0     ★译0次(未落位?)
+     dum-dum                        → 达姆弹                  源×0     译×0     ★源0次(幽灵?)
+

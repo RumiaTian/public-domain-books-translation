@@ -1,0 +1,10 @@
+## Hope and Patience
+
+An unborn bird lies crumpled and curled,
+A-dreaming of the world.
+
+Round it, for castle-wall, a shell
+Is guarding it well.
+
+Hope is the bird with its dim sensations;
+The shell that keeps it alive is Patience.

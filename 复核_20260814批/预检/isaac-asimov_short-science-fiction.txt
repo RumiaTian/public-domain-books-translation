@@ -1,0 +1,77 @@
+====================================================================================================
+### isaac-asimov_short-science-fiction  (5 files)
+  块: O=637 C=637 OK | 段: EN=963 CN=990 !!差 -27
+     [不对称] everest.md                                           O=45 C=45 段EN=45 段CN=47
+     [不对称] the-magnificent-possession.md                        O=46 C=46 段EN=197 段CN=209
+     [不对称] youth.md                                             O=495 C=495 段EN=495 段CN=508
+  英文残留(剔括注) top: Night×1, of×1, Trouble×1, An×1, Unexpected×1, Surprise×1, NH×1, OH×1, II×1, III×1
+  -- 术语表硬约束行 68 条:
+     Walter Sills                   → 沃尔特·西尔斯（Walter Sills 源×5     译×5    
+     Eugene Taylor / Gene           → 尤金·泰勒（Eugene Taylor） 源×12    译×3     落位偏低 3/12
+     J. Throgmorton Bankhead        → J·思罗格莫顿·班克黑德（J. Thro 源×5     译×5     残留「工业巨头」×1
+     Peter Q. Hornswoggle           → 彼得·Q·霍恩斯沃格（Peter Q.  源×6     译×6    
+     Michael Maguire / Mike the Slu → 迈克尔·马奎尔（Michael Magu 源×6     译×1     落位偏低 1/6
+     "Slappy" Egan                  → 「滑头」埃根（Slappy Egan）  源×0     译×1     ★源0次(幽灵?)
+     Staples                        → 斯特普尔斯（Staples）       源×9     译×9     残留「钢铁大王」×1
+     Bragoni                        → 布拉戈尼（Bragoni）        源×1     译×1    
+     the Industrialist              → 实业家                  源×42    译×42   
+     the Astronomer                 → 天文学家                 源×37    译×43   
+     the Explorer                   → 探险家                  源×21    译×22   
+     the Merchant                   → 商人                   源×20    译×22   
+     the Pilot                      → 飞行员                  源×5     译×6    
+     James Abram Robbons / Jimmy    → 詹姆斯·艾布拉姆·罗本斯（James A 源×11    译×1     落位偏低 1/11
+     "boss" / narrator              → 「老板」                 源×0     译×0     ★源0次(幽灵?)
+     Elias Lynn                     → 伊莱亚斯·林恩（Elias Lynn）  源×2     译×2    
+     Breckenridge                   → 布雷肯里奇（Breckenridge）  源×44    译×44   
+     Humphrey Carl Laszlo           → 汉弗莱·卡尔·拉兹洛（Humphrey  源×1     译×1    
+     Professor Manuelo              → 曼努埃洛教授（Professor Man 源×1     译×0     ★译0次(未落位?)
+     Auguste Marin                  → 奥古斯特·马兰（Auguste Mari 源×1     译×1    
+     Herman Liebowitz               → 赫尔曼·莱博维茨（Herman Lieb 源×1     译×1    
+     Naron                          → 纳伦（Naron）            源×9     译×9    
+     Acme Chromium and Silver Plati → 顶尖镀铬银器公司             源×3     译×3    
+     Eagle Steel                    → 鹰牌钢铁                 源×1     译×1    
+     Bureau of Robotics             → 机器人事务局               源×4     译×6    
+     Planetary Survey / Planetary S → 行星勘测局                源×1     译×1    
+     Galactic Federation            → 银河联邦                 源×1     译×1    
+     Hudson River                   → 哈德逊河                 源×1     译×2    
+     Mt. Everest                    → 珠穆朗玛峰                源×6     译×13   
+     Cheyenne                       → 夏延                   源×8     译×8    
+     Arcturus                       → 大角星                  源×0     译×2     ★源0次(幽灵?)
+     Rigel                          → 参宿七                  源×0     译×0     ★源0次(幽灵?)
+     Moon / Mars                    → 月球／火星                源×2     译×2    
+     Amazon Valley                  → 亚马逊河谷                源×1     译×1    
+     East Germany                   → 东德                   源×1     译×1    
+     Institut Nucléaire             → 核研究所（Institut Nucléa 源×0     译×1     ★源0次(幽灵?)
+     Ammonaline                     → 氨莫林（Ammonaline）      源×8     译×8    
+     ammonium                       → 铵                    源×23    译×23    残留「氨」×13
+     ammonium amalgam               → 铵汞齐                  源×5     译×5    
+     sodium amalgam / sodium-mercur → 钠汞齐／钠汞混合物            源×3     译×3    
+     ammonium oxide (NH₄₂O)         → 氧化铵                  源×2     译×2    
+     Hydrazine                      → 联氨（肼）                源×1     译×1    
+     ammonium radical (NH₄)         → 铵根（NH₄）              源×1     译×1    
+     mercury                        → 汞                    源×2     译×3    
+     argon                          → 氩                    源×2     译×2    
+     chlorine                       → 氯                    源×1     译×1    
+     nitrogen                       → 氮                    源×1     译×1    
+     oxygen                         → 氧                    源×7     译×11   
+     nitroglycerine                 → 硝化甘油                 源×1     译×1    
+     calcium chloride               → 氯化钙                  源×1     译×1    
+     ammonium chloride              → 氯化铵                  源×1     译×1    
+     robot(s)                       → 机器人                  源×4     译×5    
+     humanoid robot(s)              → 人形机器人                源×2     译×30   
+     robotics                       → 机器人学                 源×29    译×27   
+     positronic (brain)             → 正电子（脑）               源×4     译×4    
+     mentalics                      → 心智能学（mentalics）      源×2     译×3    
+     force-field                    → 力场                   源×1     译×2    
+     hyper-atomics                  → 超原子学                 源×1     译×1    
+     atomic power                   → 原子能                  源×3     译×4     残留「核能」×2
+     thermonuclear power            → 热核能                  源×2     译×2    
+     T.C. bomb                      → T.C. 炸弹              源×6     译×6    
+     space travel / space station   → 太空航行／空间站             源×2     译×2    
+     Rigellian race                 → 参宿七人（Rigellian）      源×1     译×1    
+     Arcturian                      → 大角星人（Arcturian）      源×2     译×0     ★译0次(未落位?)
+     Galactic records               → 银河记录                 源×1     译×1    
+     telepathy                      → 心电感应                 源×1     译×2    
+     Martians                       → 火星人                  源×1     译×1    
+     Beforethewars                  → 战前时代（Beforethewars）  源×7     译×7    
+

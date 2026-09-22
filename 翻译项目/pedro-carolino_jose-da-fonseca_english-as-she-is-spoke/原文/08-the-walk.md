@@ -1,0 +1,12 @@
+# The Walk
+- Will you and take a walk with me?
+- Wait for that the warm be out.
+- Go through that meadow. Who the country is beautiful! who the trees are thick!
+- Take the bloom’s perfume.
+- It seems me that the corn does push alredy.
+- You hear the bird’s gurgling?
+- Which pleasure! which charm!
+- The field has by me a thousand charms.
+- Are you hunter? will you go to the hunting in one day this week?
+- Willingly; I have not a most pleasure in the world. There is some game on they cantons?
+- We have done a great walk.

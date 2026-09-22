@@ -1,0 +1,78 @@
+====================================================================================================
+### william-hope-hodgson_the-house-on-the-borderland  (30 files)
+  块: O=282 C=282 OK | 段: EN=745 CN=749 !!差 -4
+     [不对称] chapter-14.md                                        O=9 C=9 段EN=18 段CN=19
+     [不对称] chapter-23.md                                        O=3 C=3 段EN=5 段CN=6
+     [不对称] chapter-26.md                                        O=5 C=5 段EN=10 段CN=12
+  英文残留(剔括注) top: The×1, Fragments×1
+  项目说明备注: - 全书 30 个正文文件（前言 + 作者导言 + 第 1—27 章 + 终章诗《哀痛》），单一叙事弧但章数多（27 章），按长篇走委派模式。 / - 前言（foreword）与作者导言（introduction）虽列 frontmatter，实为 `z3998:fiction` 的框套叙事组成部分，须作正文译出。 / - 第 27 章后另有一首诗 'Grief'（《哀痛》），为隐士手稿的收束，已清理诗行排版，照译并保留 blockquote 诗体。 / - 章节标题为罗马数字＋副标题（如 '## XXVII / Conclusion'），合并标题时罗马数字照搬、副标题照译。 / - 详见术语表.md 的人物、地名、超自然术语与翻译策略。
+  -- 术语表硬约束行 68 条:
+     Tonnison                       → 通尼森（Tonnison）        源×42    译×42   
+     Berreggnog                     → 贝雷格诺格（Berreggnog）    源×1     译×1     残留「我」×2939
+     the Recluse / the old Recluse  → 隐士（the Recluse）      源×1     译×1     残留「我」×2939
+     my sister                      → 妹妹（my sister）        源×31    译×43    残留「我妹妹」×5
+     Mary (my sister Mary)          → 玛丽（Mary）             源×10    译×10   
+     Pepper                         → 佩珀（Pepper）           源×81    译×81   
+     Tip                            → 蒂普（Tip）              源×3     译×3    
+     the carrier / the man (charter → 那个送货人                源×14    译×2     落位偏低 2/14
+     the driver                     → 车夫                   源×3     译×5    
+     the ancient man (of the villag → 村里那位老人               源×1     译×0     ★译0次(未落位?)
+     Kraighten                      → 克雷滕（Kraighten）       源×5     译×5    
+     the Ruins                      → 废墟（the Ruins）        源×4     译×10   
+     Ardrahan                       → 阿德拉汗（Ardrahan）       源×4     译×4    
+     the House / the House on the B → 边境之屋（the House）      源×78    译×1     落位偏低 1/78
+     the pit / the chasm / the abys → 巨坑／深渊（the pit）       源×72    译×69   
+     the garden(s) / the old garden → 旧花园（the old garden）  源×49    译×5     落位偏低 5/49
+     the Plain / the Plain of Silen → 寂静之原（the Plain of Si 源×10    译×7    
+     the Sea of Sleep               → 沉睡之海（the Sea of Slee 源×14    译×15   
+     the amphitheatre               → 圆形剧场（the amphitheatr 源×0     译×3     ★源0次(幽灵?)
+     the Borderland                 → 边境之地（the Borderland） 源×1     译×0     ★译0次(未落位?) 残留「边境之屋」×1
+     the Manuscript / the MS.       → 手稿（the Manuscript）   源×11    译×9    
+     the Swine-things / the Pig-peo → 猪怪（the Swine-things） 源×10    译×24   
+     the Swine-creatures / the Thin → 猪怪／怪物／畜生             源×32    译×80   
+     the copingstone / coping       → 压顶石                  源×5     译×7    
+     the buttery                    → 酒窖                   源×2     译×2    
+     the ring-shaped sun / green su → 环形太阳（the ring-shaped 源×21    译×20   
+     the Celestial Globes           → 天界巨球（the Celestial G 源×2     译×3    
+     the Evil / the Evil Influence  → 邪恶之力（the Evil）       源×26    译×0     ★译0次(未落位?)
+     the world-noise                → 世界之噪（the world-noise 源×3     译×3    
+     the Juggernaut-like force      → 如战车般的巨力              源×0     译×0     ★源0次(幽灵?)
+     Quiet / the Quiet              → 寂静（the Quiet）        源×25    译×24   
+     the land of shadows            → 幽冥之国（the land of sha 源×1     译×1    
+     the dear love / she（指妹妹）       → 妹妹                   源×109   译×0     ★译0次(未落位?)
+     MS.                            → 手稿                   源×0     译×0     ★源0次(幽灵?)
+     the cellars                    → 地窖（the cellars）      源×9     译×23   
+     the trap door / the trap       → 活板门（the trap door）   源×12    译×13   
+     the rift / the cleft / the rav → 裂隙／裂缝（the rift）      源×15    译×18   
+     the passage                    → 甬道（the passage）      源×16    译×12   
+     the subterranean pit           → 地下巨坑（the subterranea 源×1     译×1    
+     ghouls                         → 食尸鬼（ghouls）          源×1     译×2    
+     the Formless Thing             → 无形之物（the Formless Th 源×1     译×1    
+     kalpas                         → 劫（kalpas）            源×1     译×2    
+     the river of flame             → 火焰之河（the river of fl 源×2     译×3    
+     the sun-stream                 → 太阳之流（the sun-stream） 源×6     译×7    
+     the moon-stream                → 月亮之流（the moon-stream 源×0     译×1     ★源0次(幽灵?)
+     the Outer Worlds               → 外方诸界（the Outer World 源×1     译×1    
+     the green star / the star of g → 绿星（the green star）   源×4     译×12   
+     the Central Sun                → 中央太阳（the Central Sun 源×4     译×4    
+     the White Orb                  → 白色巨球（the White Orb）  源×4     译×5    
+     the Sun of Darkness            → 黑暗太阳（the Sun of Dark 源×2     译×2    
+     the Dark Sun / the Dead Sun    → 黑太阳／死太阳（the Dark Sun 源×11    译×11   
+     a dead star                    → 死星（dead star）        源×1     译×2    
+     the Unnamable                  → 不可名状者（the Unnamable） 源×1     译×1    
+     the violet rays / Messengers   → 紫晕射线／信使              源×4     译×3    
+     window-seat                    → 窗座（window-seat）      源×1     译×1    
+     the dark nebula                → 暗星云（the dark nebula） 源×2     译×2    
+     the great Beast-god            → 巨大的兽神（the great Beas 源×1     译×0     ★译0次(未落位?)
+     the dread goddess              → 可畏女神                 源×1     译×1     残留「死亡女神」×1
+     the Eyeless-Thing              → 无眼之物（the Eyeless-Thi 源×0     译×1     ★源0次(幽灵?)
+     the Ghoul-Shape                → 食尸鬼之形（the Ghoul-Shap 源×0     译×1     ★源0次(幽灵?)
+     the dread Specter of the Place → 那地方的可畏幽影（the dread S 源×1     译×1    
+     the Pit-creatures              → 巨坑怪物（the Pit-creatur 源×1     译×2    
+     the Thing from the arena       → 来自圆形剧场的怪物（the Thing  源×2     译×1    
+     *en rapport*                   → 通感契合（en rapport）     源×1     译×1    
+     mile(s)                        → 英里                   源×8     译×8    
+     fathom(s)                      → 英寻                   源×3     译×5    
+     feet / foot                    → 英尺                   源×52    译×14    落位偏低 14/52
+     yard(s)                        → 码                    源×14    译×18   
+

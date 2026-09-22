@@ -1,0 +1,31 @@
+# Operating System & Sync Conflicts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.Identifier
+*MacBookAir*
+*MacBook Air*
+
+# Temporary & Cache Directories
+__pycache__/
+*.pyc
+*.pyo
+.tmp/
+temp/
+%TEMP%/
+u7ffb/
+
+# Temporary & Ad-hoc Scratch Files
+_tmp*
+tmp_*
+.tmp*
+zb_*.txt
+*.bak
+*.swp
+*.swo
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

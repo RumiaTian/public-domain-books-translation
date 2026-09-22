@@ -1,0 +1,18 @@
+## Endnotes
+1. I am out of patience when anything is blamed, not because it is thought coarsely and inelegantly composed, but because it is new: when for the ancients not indulgence, but honour and rewards are demanded. —﻿Epist. II i 76﻿–﻿8 ↩︎
+2. Charles Hart, grandson of Shakespeare’s sister, Joan Hart, was one of the most distinguished actors of his time. He excelled chiefly in tragedy, and it was said of him that he “might teach any king on earth how to comport himself.” He retired from the stage in 1682, and died in the following year. ↩︎
+3. A character in Ben Jonson’s comedy, *The Alchemist*. ↩︎
+4. *Sir Martin Mar-all* is the title of a comedy by Dryden, first produced in 1667. In the scene referred to, Sir Martin serenades his mistress, going through the motions of singing and accompanying himself with the lute, while the actual performance is that of his man, who is concealed behind him. The lady discovers the imposition, through Sir Martin’s failing to leave off at the right time. ↩︎
+5. Chatelain’s was a famous French ordinary in Covent Garden, much frequented by wits and men of fashion. It is mentioned by Pepys, and often referred to by Shadwell in his plays. The Cock Tavern was in Bow Street, near where Wycherley and his first wife, the Countess of Drogheda, lodged; and it was here that the windows had to be left open when Wycherley frequented it, that the countess might see there were no ladies in the company. ↩︎
+6. I.e. The New Exchange, a long building, erected upon the site of the stables of Durham House, on the south side of the Strand, and nearly opposite Bedford Street. Opened in 1609, it became a fashionable lounge after the Restoration, and was pulled down in 1737. “It was erected partly on the plan of the Royal Exchange, with vaults beneath, over which was an open paved arcade; and above were walks of shops, occupied by perfumers and publishers, milliners and sempstresses.” —﻿*Timbs’ Curiosities of London* ↩︎
+7. “*Covent Garden Drolery, Or a Colection of all the Choice Songs, Poems, Prologues, and Epilogues (Sung and Spoken at Courts and Theaters) never in Print before. Written by the refined’st Witts of the Age*. And Collected by R[ichard] B[rome] Servant to His Majestie. London, Printed for James Magnes neer the Piazza in Russel-Street, 1672.”﻿—*Tarugo’s Wiles, or the Coffee House*; a comedy by Sir Thomas St. Serle, produced in 1668.﻿—*The Slighted Maid*, a comedy by Sir Robert Stapleton, produced in 1663. ↩︎
+8. A sweet-scented powder. ↩︎
+9. Carefully. ↩︎
+10. Succeeds. ↩︎
+11. Romp; tomboy. ↩︎
+12. A well frequented ordinary near Charing Cross, on the site of Drummond’s Bank. ↩︎
+13. In Wycherley’s time the square of Covent Garden must have presented an elegant appearance. The Piazza, designed by Inigo Jones, extended, like the modern piazza, along the northern and eastern sides; on the west stood St. Paul’s Church, built by the same famous architect, and on the south the square was bordered by the gardens of Bedford House. “The area was enclosed with railings, at sixty feet from the buildings; and in the centre was a dial, with a gilt ball, raised upon a column.” *Timbs’ Curiosities of London*. In 1671 the market was established, but was held, originally, only on the southern side of the square, under the wall of Bedford Gardens. The houses within the Piazza were then occupied by persons of rank and fashion. ↩︎
+14. Paw, adj. naughty. An affected word fashionable in the latter half of the seventeenth century. —﻿Wright ↩︎
+15. “Lanterloo” or “langteraloo” was the name of a game at cards. ↩︎
+16. The glasses. ↩︎
+17. Or Knipp, the friend of Mr. Pepys. She played the part of Lady Fidget. ↩︎

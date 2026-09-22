@@ -1,0 +1,54 @@
+ (2 files)
+  块: O=73 C=73 OK | 段: EN=291 CN=291 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: - 篇目清单：① dedication.md（献词「To Duncan Grant」，极短）；② lady-into-fox.md（全书正文，125KB 长文，翻译时按通用翻译引擎第七节分段处理，但不可在分段处截断段落）。 / - 叙述者伪称「此事为十余名证人确证的事实」，译文须保持这种一本正经的「考据腔」与反讽距离。 / - 男主对化狐妻子的称呼在「Silvia（西尔维娅）」「my vixen（我的雌狐）」「Puss（小猫咪）」之间切换，是情感层次的重要标记，须按术语表区分译出。
+  -- 术语表硬约束行 48 条:
+     Mr. Richard Tebrick            → 理查德·特布里克先生           源×1     译×1    
+     Mrs. Silvia Tebrick (née Fox)  → 西尔维娅·特布里克（娘家姓福克斯）    源×0     译×0     ★源0次(幽灵?) 残留「他的雌狐」×31
+     Miss Silvia / Silvia           → 西尔维娅                 源×43    译×43   
+     Puss                           → 小猫咪                  源×5     译×5    
+     Nanny                          → 南妮（老奶妈）              源×10    译×10   
+     Janet                          → 珍妮特                  源×3     译×3    
+     Mrs. Brant                     → 布兰特太太                源×1     译×1    
+     James                          → 詹姆斯                  源×1     译×1    
+     Mrs. Cork                      → 科克太太                 源×15    译×15   
+     Polly                          → 波莉                   源×9     译×11   
+     Hopkins                        → 霍普金斯                 源×1     译×1    
+     西尔维娅的舅舅（a minor canon at Oxfor → 舅舅（牛津的座堂助理牧师）        源×0     译×6     ★源0次(幽灵?)
+     Selwyn                         → 塞尔温                  源×5     译×5     残留「小哲学家」×1
+     Kasper                         → 卡斯帕                  源×4     译×4    
+     Esther                         → 埃丝特                  源×8     译×8    
+     Angelica                       → 安杰莉卡                 源×7     译×7    
+     Sorel                          → 索雷尔                  源×3     译×3    
+     Nelly                          → 内莉                   源×3     译×3    
+     Duncan Grant                   → 邓肯·格兰特               源×1     译×1    
+     Simon                          → 西蒙                   源×2     译×2    
+     Askew                          → 阿斯丘                  源×1     译×1    
+     Major Solmes                   → 索尔姆斯少校               源×1     译×1    
+     the Rev. Canon Fox             → 福克斯座堂牧师              源×2     译×2    
+     Rylands                        → 瑞兰兹                  源×8     译×8    
+     Stokoe                         → 斯托克                  源×7     译×7    
+     Tangley Hall                   → 坦利庄园                 源×6     译×7    
+     Oxford / Oxfordshire / Oxon    → 牛津 / 牛津郡             源×4     译×4    
+     London                         → 伦敦                   源×5     译×5    
+     Wantage                        → 万蒂奇                  源×1     译×1    
+     Timbuktu                       → 廷巴克图                 源×1     译×1    
+     vixen                          → 雌狐                   源×63    译×63   
+     Lady Into Fox（书名）              → 《贵妇变狐》               源×0     译×0     ★源0次(幽灵?)
+     blooded / blooded at hunting   → 猎血礼（初次猎杀后以血涂面的仪式）    源×1     译×1    
+     Clarissa Harlowe / Lovelace    → 《克拉丽莎·哈洛》/ 拉夫雷斯      源×3     译×3    
+     Reynard                        → 列那狐                  源×1     译×1    
+     Aesop                          → 伊索                   源×2     译×2    
+     Paracelsus                     → 帕拉塞尔苏斯               源×1     译×1    
+     Handel                         → 亨德尔                  源×1     译×1    
+     Mendelssohn's Songs Without Wo → 门德尔松《无词歌》            源×1     译×1    
+     "The Diver"                    → 《潜水者》                源×0     译×1     ★源0次(幽灵?)
+     Gilbert and Sullivan           → 吉尔伯特与沙利文             源×1     译×1    
+     Boxing Day                     → 节礼日                  源×1     译×1    
+     Noah's dove                    → 挪亚的鸽子                源×1     译×1    
+     Eton / Harrow / Winchester / R → 伊顿 / 哈罗 / 温彻斯特 / 拉格比 源×4     译×4    
+     piquet                         → 皮克牌                  源×4     译×2     落位偏低 2/4
+     cribbage                       → 克里比奇牌                源×2     译×1    
+     the Lord's Prayer              → 主祷文                  源×1     译×1    
+     make the sign of the cross     → 画十字                  源×0     译×2     ★源0次(幽灵?)
+====================================================================================================

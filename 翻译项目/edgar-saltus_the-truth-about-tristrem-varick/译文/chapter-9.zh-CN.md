@@ -1,0 +1,55 @@
+## IX / 九
+
+===Original===
+The morning after the funeral Tristrem received a letter from Mrs. Raritan, and a little later a small package by express. The letter was not long, and its transcription is unnecessary. It was to the effect that on maturer consideration Viola had decided that the engagement into which she had entered was untenable. To this decision Mrs. Raritan felt herself reluctantly obliged to concur. It was not that Mr. Varick was one whom she would be unwilling to welcome as her daughter’s husband. On the contrary, he was in many respects precisely what she most desired. But Viola was young; she felt that she had a vocation to which marriage would be an obstacle, and in the circumstances Viola was the better judge. In any event, Mr. Varick was requested to consider the decision as irrevocable. Then followed a few words of sympathy and a line of condolence expressive of Mrs. Raritan’s regret that the breaking of the engagement should occur at a time when Tristrem was in grievous affliction.
+In the package were the jewels.
+Tristrem read the letter as though he were reading some accusation of felony levelled at him in the public press. If it had been a meteor which had fallen at his feet he could not have wondered more. Indeed, it was surprise that he felt. It was not anger or indignation; they were after-comers. For the moment he was merely bewildered. It seemed to him incredible that such a thing could be. He read the letter again, and even examined the postmark. At first he was for starting at once for Narragansett. If he could but see Viola! The excuse about a vocation was nonsense. Had he not told her that if she insisted on going on the stage, he would sit in the stalls and applaud. No, it was not that; it was because﻿—After all, it was his own fault; if he had been unable to make himself beloved, why should the engagement continue? But had an opportunity been given him? He had not had speech with her since that evening when she had drawn his face to hers. No, it could not be that.
+===Chinese===
+葬礼之后的那个上午，特里斯特雷姆收到拉里坦太太（Mrs. Raritan）的一封信，稍后又收到一件快递寄来的小包裹。信不长，也不必全文抄录。大意是说：经过更成熟的考虑，薇奥拉认定她缔结的这门婚约难以为继。对这一决定，拉里坦太太感到自己不得不勉为其难地表示同意。这倒不是说瓦里克先生是那种她不愿接纳为女婿的人。恰恰相反，他在许多方面正是她最中意的。只是薇奥拉还年轻；她觉得自己负有一种使命，而婚姻将是这使命的障碍——在此事上，薇奥拉自己是更好的裁判。无论如何，请瓦里克先生将这一决定视为不可更改。随后是几句同情的话和一行吊唁，表达拉里坦太太的遗憾：婚约的解除，恰逢特里斯特雷姆深居丧痛之际。
+包裹里是那些珠宝。
+特里斯特雷姆读这封信，仿佛在读报上公开指控他重罪的檄文。纵然是一颗陨石落在他脚边，他也不能更惊奇了。的确，他感到的是惊讶。不是愤怒，也不是义愤；那些都是后来的事。此刻他只是茫然。这样的事竟然可能发生，在他看来难以置信。他把信又读了一遍，甚至查看起邮戳来。起初他主张立刻动身去纳拉甘西特（Narragansett）。只要能见薇奥拉一面！什么使命的托词，全是胡说。他不是告诉过她么：倘若她执意登台，他就坐进正厅前排为她鼓掌。不，不是那缘故；是因为——说到底，是他自己的错；倘若他没能让自己被人爱，婚约又何必延续？可给过他机会吗？自那晚她把他的脸拉向自己之后，他再不曾与她交谈过一句。不，不会是那缘故。
+
+===Original===
+He bowed his head, and then Anger came and sat at his side. What had he done to Destiny that he should be to it the plaything that he was? But she; she was more voracious even than Fate. No, it was damnable. Why should she take his heart and torment it? Why, having given love, should she take it away? He was contented enough until he saw her. Why had she come to him as the one woman in the world, luring him on; yes, for she had lured him on? Why had she made him love her as he could never love again, and just when she placed her hand in his﻿—a mist, a phantom, a reproach? Why had she done so? Why was the engagement untenable? Untenable, indeed, why was it untenable? Why﻿—why﻿—why? And in the increasing exasperation of the moment, Tristrem did a thing that, with him, was unusual. He rang the bell, and bade the servant bring him drink.
+It was on the afternoon of that day that he learned the tenor of his father’s will. It affected him as a chill affects a man smitten with fever. He accepted it as a matter of course. It was not even the last drop; the cup was full as it stood. What was it to him that he had missed being one of the richest men in New York in comparison to the knowledge that even had he the mines of Ormuz and of Ind, the revenue would be as useless to him as the hands of the dead? Was she to be bought? Had she not taken herself away before the contents of the will were reported? He might be able to call the world his own, and it would avail him nothing.
+The will left him strangely insensible, though, after all, one may wonder whether winter is severer than autumn to a flower once dead.
+===Chinese===
+他低下头，随后愤怒走来，坐在了他身边。他究竟对命运做过什么，竟要这样被它玩弄于股掌？可她；她比命运还要贪婪。不，这太可恨了。她凭什么拿走他的心去折磨它？凭什么给了爱，又要收回？在见到她之前，他本来够知足的了。她为什么作为世上唯一的女人来到他面前，一路引诱着他；是的，她引诱了他！她为什么让他爱上了她——爱得此生不能再爱——而偏偏在她把手放进他手里的那一刻，化作一阵雾、一个幽灵、一道责备？她为什么这样？婚约为什么难以为继？难以为继，好一个难以为继，它为什么难以为继？为什么——为什么——为什么？在愈演愈烈的狂怒里，特里斯特雷姆做了一件于他不常见的事。他按铃叫仆人给他拿酒来。
+就在那天下午，他得知了父亲遗嘱的要旨。它之作用于他，如一阵寒栗之于高烧中的人。他把它当作理所当然的事接受了。这甚至不是压垮他的最后一滴；杯子原本就是满的。错失了纽约数一数二的豪富之列，于他又算得了什么——比起这样一种明知：即便他坐拥奥尔穆兹（Ormuz）与印度（Ind）的全部矿山，那岁入于他也如死者之手一般无用。她是能买来的么？遗嘱内容公布之前，她不是已经抽身走了么？他或许能把整个世界称为己有，而那于他毫无用处。
+这份遗嘱留给他的感觉出奇地淡漠，不过说到底，人们也难免要问：对于一朵已死的花，冬天可比秋天更严酷么？
+
+===Original===
+But if the will affected Tristrem but little, it stirred Dirck Van Norden to paroxysms of wrath. “He ought to have his ghost kicked,” he said, in confidential allusion to Erastus Varick. “It’s a thing that cries out to heaven. And don’t you tell me, sir, that nothing can be done.”
+The lawyer with whom he happened to be in consultation said there were many things that could be done. Indeed, he was reassuringly fecund in resources. In the first place, the will was holographic. That, of course, mattered nothing; it only pointed a moral. Laymen should not draw up their own wills. For that matter, even professionals should be as wary of so doing as physicians are of doctoring themselves. And the lawyer instanced legal luminaries, judges whose obiter dicta and opinions *in banco* were cited and received with the greatest respect, and yet through whose wills, drawn up, mark you, by their own skilled hands, coaches and tandems had been driven full speed. In regard to the will of the deceased there was this to be said, it would not hold water. Chapter 360, Laws of 1860, declares that no person having a husband, wife, child, or parent, shall by his or her last will and testament, devise or bequeath to any benevolent, charitable, scientific, literary, religious, or missionary society, association, or corporation, in trust or otherwise, more than one-half part of his or her estate.
+“But he devised the whole.”
+===Chinese===
+可遗嘱虽没怎么触动特里斯特雷姆，它却把德克·范诺登（Dirck Van Norden）激得怒不可遏。「该有人把这老东西的鬼魂踹出去。」私下里提到伊拉斯图斯·瓦里克（Erastus Varick）时，他这样说。「这是件嚷到天上的事。还有，先生，你别跟我说毫无办法。」
+与他恰好磋商的那位律师说，能做的事多着呢。的确，他的点子多得叫人安心。首先，这遗嘱是亲笔的。那当然无关紧要；只是点明一个道理：外行人不该自拟遗嘱。说到这个，就连行家也该如医生不敢自医那样慎之又慎。这位律师还举了法律界的名流做例——那些法官，世人引用他们的附带意见（obiter dicta）与*in banco*（全庭）判决时备极尊崇，而他们那些遗嘱——请注意，是出自他们本人娴熟之手的——却漏洞大开，尽可让人赶着四轮马车与双马并辔车全速穿行。至于逝者的这份遗嘱，可以这么说：它站不住脚。 1860 年法律第 360 章规定：凡有配偶、子女或父母在世之人，其临终遗嘱中，以信托或其他方式遗赠给任何慈善、公益、科学、文学、宗教或传教团体、协会或法团的财产，不得超过其遗产之半。
+「可他遗赠了全部。」
+
+===Original===
+“Yes, so he did; but in devising it he overlooked that very wise law. My opinion in the matter is this. When, may I ask, was your grandson born?”
+“He was born on the 10th of June, 1859.”
+“Exactly. The late Mr. Varick determined, on the birth of your grandson, that the property should go over. His reasons for so determining are immaterial. Rufus K. Taintor, the ablest man, sir, that ever sat on the bench or addressed it, drew up the will at that time in accordance with instructions received. Some years later, Taintor died of apoplexy, and he died, too, as you doubtless remember, after the delivery of that famous speech in the Besalul divorce case. Well, sir, what I make of the matter is this. The late Mr. Varick, relying on Taintor’s ability, and possessing possibly some smattering of law of his own, recopied the will every time the fancy took him to make minor alterations in the general distribution of the trust. Consequently his last will and testament, having been made since the passage of the law of 1860, is nugatory and void as to one-half the bequest, and your grandson may still come in for a very pretty sum.”
+===Chinese===
+「是的，全给了；但他在处置时忽略了那条非常明智的法律。我对此案的见解是这样。容我问一句，令孙是何时出生的？」
+「他生于 1859 年 6 月 10 日。」
+「正是。令孙降生之时，已故的瓦里克先生就定下主意，要让这份财产旁落。他为何如此决定，无关宏旨。鲁弗斯·K·泰因特（Rufus K. Taintor）——先生，那是坐上审判席或在庭前陈词的人里最能干的一位——当时依照指示拟定了遗嘱。若干年后，泰因特中风去世；而且，您无疑记得，他是在贝萨卢尔离婚案（Besalul divorce case）那篇著名陈词发表之后死的。那么，先生，我对这案子的看法是这样：已故的瓦里克先生倚仗着泰因特的才干，自己或许又有一星半点的法律皮毛，每逢兴起要对信托的总分配略作更改，便把遗嘱重抄一遍。结果，他这份临终遗嘱既订立于 1860 年那条法律通过之后，其遗赠之半数即属无效，令孙仍可以继承相当可观的一笔。」
+
+===Original===
+“He ought to have it all,” said Mr. Van Norden, decidedly.
+“I don’t dispute that, sir, in the least﻿—and my opinion is that he will get it. This will is dated five days previous to Mr. Varick’s demise. Now, according to the law of 1848, Chapter 319, and, if I remember rightly, Section 6, no such bequest as the deceased’s is valid in any will which shall not have been made and executed at least two months before the death of the testator. That, sir, I consider an extremely wise bit of legislation. The law of 1860, which I quoted, vitiates the will as to one-half the bequest; the law of 1848 does away with the will altogether. Practically speaking, your son-in-law might just as well have died intestate. Though, between ourselves, if Mr. Varick had not been ignorant of these laws, and had not, in consequence of his ignorance, made a disposition of certain private documents the contents of which are easily guessed, your grandson would have merely a prima facie right to have the will set aside; for, if you remember, these laws were passed only to provide for the possible interests of a surviving husband, wife, or *child*.”
+He emphasized the last word, and, as his meaning grew clear to Mr. Van Norden, that gentleman got very red in the face. He rang the bell.
+===Chinese===
+「他应当得到全部。」范诺登先生斩钉截铁地说。
+「这一点我毫无异议，先生——而且我的看法是：他拿得到。这份遗嘱的日期，在瓦里克先生去世之前五天。而依照 1848 年法律第 319 章——如果我没记错，是第 6 节——凡立遗嘱人亡故前两个月内订立并签署的遗嘱，此类遗赠一概无效。先生，我认为这是一条极其明智的立法。我方才引的 1860 年那条法律，使遗嘱的半数遗赠失效； 1848 年这条则干脆把遗嘱整个取消。实际上说起来，令婿不如不立遗嘱死了倒也罢了。只是咱们私下说说：倘若瓦里克先生不是对这些法律一无所知，没有因这无知而把某些私人文件作了那样一处置——其内容不难猜到——令孙便只有一项初见的（prima facie）申请废止遗嘱的权利；因为您记得，这些法律的通过，原只为保障尚存的丈夫、妻子或*子女*可能有的利益。」
+他把最后那个词咬得很重，而当他的意思在范诺登先生脑子里明朗起来时，那位先生的脸涨得通红。他按了铃。
+
+===Original===
+“Thank you, sir,” he said. “I shall be indebted if you will send me your account. And I shall be particularly indebted if you will send it at your very earliest convenience. Henry, get this﻿—this﻿—get this gentleman his hat and see him to the street.”
+Unfortunately for those that practise, there are a great many more lawyers in New York than one. And before the last will and testament of Erastus Varick came up for probate, Mr. Van Norden experienced slight difficulty in retaining another attorney to defend Tristrem’s interests. The matter, of course, was set down for a hearing, and came up on the calendar three months later.
+Of the result of that hearing the reader has been already informed, and then it was that Tristrem was taxed with old-world folly.
+===Chinese===
+「谢谢您，先生。」他说，「请把您的账单送来，我将感激不尽。而倘若您能尽早尽快送来，我尤其感激。亨利，把这位——这位——把这位先生的帽子取来，送他到街上去。」
+于执业诸君不幸的是，纽约的律师远不止一位。而在伊拉斯图斯·瓦里克那份临终遗嘱提交验证之前，范诺登先生没费什么周折，便另聘了一位律师来维护特里斯特雷姆的权益。此案照例排定听审，三个月后依日程开审。
+那次听审的结果，读者已经获知；也正是那时，特里斯特雷姆被人指为犯了旧大陆式的痴愚。

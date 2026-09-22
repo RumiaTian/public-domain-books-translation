@@ -1,0 +1,1 @@
+This book is dedicated to all Caucasians in the Great Republic who can trace their ancestry back ten generations and confidently assert that there are no black leaves, twigs, limbs or branches on their family trees.

@@ -1,0 +1,55 @@
+====================================================================================================
+### beatrix-potter_short-fiction  (20 files)
+  块: O=449 C=448 !!不对称 | 段: EN=1429 CN=1424 !!差 5
+     [不对称] the-tale-of-samuel-whiskers.md                       O=21 C=21 段EN=129 段CN=130
+     [不对称] the-tale-of-squirrel-nutkin.md                       O=9 C=8 段EN=88 段CN=83
+     [不对称] the-tale-of-tom-kitten.md                            O=16 C=16 段EN=41 段CN=40
+  英文残留(剔括注) top: unmistakable×1
+  项目说明备注: - 儿童文学经典，译笔须：① 童话的清新可爱，不失波特文字的典雅；② 适合朗读的节奏感；③ 动物角色的拟人化称呼与语气。 / - 角色名已有大量通行中文译名（彼得兔、松鼠纳特金、杰里米·青蛙先生等），术语表已收录，务必用通行译名保证全书一致与读者识别度。 / - 原文是绘本，插图描述（img alt）已在提取时去除，只译正文文字。 / - 几篇较长（《托德先生的故事》26.9KB、《小猪布兰德》20KB、《格洛斯特的裁缝》16KB），翻译时注意结尾完整不截断。 / - the-tale-of-samuel-whiskers.md = 《塞缪尔·威斯克斯的故事》（又名 The Roly-Poly Pudding），是卷中较长的一篇。
+  -- 术语表硬约束行 45 条:
+     Peter Rabbit                   → 彼得兔                  源×13    译×13   
+     Mrs. Rabbit / old Mrs. Rabbit  → 兔妈妈                  源×6     译×6    
+     Mr. McGregor                   → 麦格雷戈先生               源×36    译×36   
+     Mrs. McGregor                  → 麦格雷戈太太               源×7     译×7    
+     Flopsy                         → 弗洛普西                 源×31    译×31   
+     Mopsy                          → 莫普西                  源×4     译×4    
+     Cottontail                     → 棉尾巴                  源×11    译×11   
+     Benjamin Bunny                 → 本杰明兔                 源×17    译×19   
+     Old Mr. Bunny                  → 兔老伯                  源×3     译×3    
+     Squirrel Nutkin                → 松鼠纳特金                源×2     译×1    
+     Old Brown                      → 老布朗（猫头鹰）             源×11    译×16   
+     Mrs. Tiggy-Winkle              → 提姬·温克尔太太             源×15    译×14   
+     Lucie                          → 露西                   源×30    译×30   
+     Jemima Puddle-Duck             → 杰迈玛鸭妈妈               源×16    译×14   
+     Mr. Jeremy Fisher              → 杰里米·费舍尔先生            源×10    译×9    
+     Tom Kitten                     → 汤姆小猫                 源×30    译×29   
+     Mrs. Tittlemouse               → 提特尔茅斯太太              源×27    译×27   
+     Timmy Tiptoes                  → 蒂米·蒂普托斯              源×18    译×17   
+     Goody Tiptoes / Timothy        → 古迪·蒂普托斯 / 蒂莫西        源×15    译×14   
+     Silvertail                     → 银尾巴                  源×2     译×2    
+     the Chipmunk / Chippy Hackee   → 花栗鼠 / 奇皮·哈基          源×12    译×15   
+     Johnny Town-Mouse              → 城里鼠约翰尼               源×13    译×12   
+     Timmy Willie                   → 蒂米·威利                源×25    译×25   
+     Ginger                         → 金杰                   源×21    译×20   
+     Pickles                        → 皮克尔斯                 源×26    译×25   
+     Samuel Whiskers                → 塞缪尔·威斯克斯             源×11    译×10   
+     Anna Maria                     → 安娜·玛丽亚               源×18    译×18   
+     Tom Thumb                      → 汤姆大拇哥                源×13    译×13   
+     Hunca Munca                    → 汉卡·蒙卡                源×17    译×17   
+     Mr. Tod                        → 托德先生                 源×67    译×65   
+     Tommy Brock                    → 汤米·布罗克               源×54    译×56   
+     Pigling Bland                  → 小猪布兰德                源×47    译×46   
+     Pig-wig                        → 猪小卷                  源×28    译×28   
+     Miss Moppet                    → 莫佩特小姐                源×12    译×11   
+     the Fierce Bad Rabbit          → 凶巴巴的坏兔子              源×0     译×1     ★源0次(幽灵?)
+     the good Rabbit                → 好兔子                  源×3     译×4    
+     carrot                         → 胡萝卜                  源×2     译×3    
+     Mrs. Rebeccah Puddle-duck      → 丽贝卡鸭太太               源×1     译×1    
+     Kep / the collie-dog Kep       → 柯利 / 牧羊犬柯利           源×3     译×5    
+     the sandy-whiskered / bushy lo → 那位长着沙色胡子 / 毛茸茸长尾巴的绅士 源×2     译×0     ★译0次(未落位?)
+     foxhound puppies               → 猎狐小犬                 源×1     译×1    
+     the Lake District              → 湖区                   源×0     译×0     ★源0次(幽灵?)
+     Sawrey                         → 索里                   源×2     译×2    
+     Gloucester                     → 格洛斯特                 源×22    译×21   
+     the Fir-tree                   → 大枞树                  源×1     译×3    
+

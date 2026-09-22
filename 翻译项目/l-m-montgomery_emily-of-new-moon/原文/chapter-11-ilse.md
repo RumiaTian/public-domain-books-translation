@@ -1,0 +1,76 @@
+## XI Ilse
+Emily was locked in the spare-room and told that she must stay there until bedtime. She had pleaded against such a punishment in vain. She had tried to give the Murray look but it seemed that﻿—in her case at any rate﻿—it did not come at will.
+“Oh, don’t shut me up alone there, Aunt Elizabeth,” she implored. “I know I was naughty﻿—but don’t put me in the spare-room.”
+Aunt Elizabeth was inexorable. She knew that it was a cruel thing to shut an oversensitive child like Emily in that gloomy room. But she thought she was doing her duty. She did not realize and would not have for a moment believed that she was really wreaking her own smothered resentment with Emily for her defeat and fright on the day of the threatened hair-cutting. Aunt Elizabeth believed she had been stampeded on that occasion by a chance family resemblance coming out under stress, and she was ashamed of it. The Murray pride had smarted under that humbling, and the smart ceased to annoy her only when she turned the key of the spare-room on the white-faced culprit.
+Emily, looking very small and lost and lonely, her eyes full of such fear as should have no place in a child’s eyes, shrank close against the door of the spare-room. It was better that way. She could not imagine things behind her then. And the room was so big and dim that a dreadful number of things could be imagined in it. Its bigness and dimness filled her with a terror against which she could not strive. Ever since she could remember she had had a horror of being shut up alone in semidarkness. She was not frightened of twilight out-of-doors, but this shadowy, walled gloom made of the spare-room a place of dread.
+The window was hung with heavy, dark-green material, reinforced by drawn slat-blinds. The big canopied bed, jutting out from the wall into the middle of the floor, was high and rigid and curtained also with dark draperies. *Anything* might jump at her out of such a bed. What if some great black hand should suddenly reach out of it﻿—reach right across the floor﻿—and pluck at her? The walls, like those of the parlour, were adorned with pictures of departed relatives. There *was* such a large connection of dead Murrays. The glasses of their frames gave out weird reflections of the spectral threads of light struggling through the slat blinds. Worst of all, right across the room from her, high up on the top of the black wardrobe, was a huge, stuffed white Arctic owl, staring at her with uncanny eyes. Emily shrieked aloud when she saw it, and then cowered down in her corner aghast at the sound she had made in the great, silent, echoing room. She wished that something *would* jump out of the bed and put an end to her.
+“I wonder what Aunt Elizabeth would feel like if I was found here *dead*,” she thought, vindictively.
+In spite of her fright she began to dramatize it and felt Aunt Elizabeth’s remorse so keenly that she decided only to be unconscious and come back to life when everybody was sufficiently scared and penitent. But people *had* died in this room﻿—dozens of them. According to Cousin Jimmy it was a New Moon tradition that when any member of the family was near death he or she was promptly removed to the spare-room, to die amid surroundings of proper grandeur. Emily could *see* them dying, in that terrible bed. She felt that she was going to scream again, but she fought the impulse down. A Starr must not be a coward. Oh, that owl! Suppose, when she looked away from it and then looked back she would find that it had silently hopped down from the wardrobe and was coming towards her. Emily dared not look at it for fear that was just what had happened. *Didn’t* the bed curtains stir and waver! She felt beads of cold perspiration on her forehead.
+Then something did happen. A beam of sunlight struck through a small break in one of the slats of the blind and fell directly athwart the picture of Grandfather Murray hanging over the mantelpiece. It was a crayon “enlargement” copied from the old daguerreotype in the parlour below. In that gleam of light his face seemed veritably to leap out of the gloom at Emily with its grim frown strangely exaggerated. Emily’s nerve gave way completely. In an ungovernable spasm of panic she rushed madly across the room to the window, dashed the curtains aside, and caught up the slat blind. A blessed flood of sunshine burst in. Outside was a wholesome, friendly, human world. And, of all wonders, there, leaning right against the windowsill was a ladder! For a moment Emily almost believed that a miracle had been worked for her escape.
+Cousin Jimmy had tripped that morning over the ladder, lying lost among the burdocks under the balm-of-gileads behind the dairy. It was very rotten and he decided it was time it was disposed of. He had shouldered it up against the house so that he would be sure to see it on his return from the hayfield.
+In less time than it takes to write of it Emily had got the window up, climbed out on the sill, and backed down the ladder. She was too intent on escaping from that horrible room to be conscious of the shakiness of the rotten rungs. When she reached the ground she bolted through the balm-of-gileads and over the fence into Lofty John’s bush, nor did she stop running till she reached the path by the brook.
+Then she paused for breath, exultant. She was full of a fearful joy with an elfin delight running through it. Sweet was the wind of freedom that was blowing over the ferns. She had escaped from the spare-room and its ghosts﻿—she had got the better of mean old Aunt Elizabeth.
+“I feel as if I was a little bird that had just got out of a cage,” she told herself; and then she danced with joy of it all along her fairy path to the very end, where she found Ilse Burnley huddled up on the top of a fence panel, her pale-gold head making a spot of brilliance against the dark young firs that crowded around her. Emily had not seen her since that first day of school and again she thought she had never seen or pretended anybody just like Ilse.
+“Well, Emily of New Moon,” said Ilse, “where are you running to?”
+“I’m running away,” said Emily frankly. “I was bad﻿—at least, I was a little bad﻿—and Aunt Elizabeth locked me in the spare-room. I hadn’t been bad enough for *that*﻿—it wasn’t fair﻿—so I got out of the window and down the ladder.”
+“You little cuss! I didn’t think you’d gimp enough for that,” said Ilse.
+Emily gasped. It seemed very dreadful to be called a little cuss. But Ilse had said it quite admiringly.
+“I don’t think it was gimp,” said Emily, too honest to take a compliment she didn’t deserve. “I was too scared to stay in that room.”
+“Well, where are you going now?” asked Ilse. “You’ll have to go somewhere﻿—you can’t stay outdoors. There’s a thunderstorm coming up.”
+So there was. Emily did not like thunderstorms. And her conscience smote her.
+“Oh,” she said, “do you suppose God is bringing up that storm to punish me because I’ve run away?”
+“No,” said Ilse scornfully. “If there is any God he wouldn’t make such a fuss over nothing.”
+“Oh, Ilse, don’t you believe there is a God?”
+“I don’t know. Father says there isn’t. But in that case how did things happen? Some days I believe there’s a God and some days I don’t. You’d better come home with me. There’s nobody there. I was so dod-gastedly lonesome I took to the bush.”
+Ilse sprang down and held out her sunburned paw to Emily. Emily took it and they ran together over Lofty John’s pasture to the old Burnley house which looked like a huge grey cat basking in the warm late sunshine, that had not yet been swallowed up by the menacing thunderheads. Inside, it was full of furniture that must have been quite splendid once; but the disorder was dreadful and the dust lay thickly over everything. Nothing was in the right place apparently, and Aunt Laura would certainly have fainted with horror if she had seen the kitchen. But it was a good place to play. You didn’t have to be careful not to mess things up. Ilse and Emily had a glorious game of hide and seek all over the house until the thunder got so heavy and the lightning so bright that Emily felt she must huddle on the sofa and nurse her courage.
+“Aren’t you ever afraid of thunder?” she asked Ilse.
+“No, I ain’t afraid of anything except the devil,” said Ilse.
+“I thought you didn’t believe in the devil either﻿—Rhoda said you didn’t.”
+“Oh, there’s a devil all right, Father says. It’s only God he doesn’t believe in. And if there *is* a devil and no God to keep him in order, is it any wonder I’m scared of him? Look here, Emily Byrd Starr, I like you﻿—heaps. I’ve always liked you. I knew you’d soon be good and sick of that little, white-livered, lying sneak of a Rhoda Stuart. *I* never tell lies. Father told me once he’d kill me if he ever caught me telling a lie. I want you for *my* chum. I’d go to school regular if I could sit with you.”
+“All right,” said Emily offhandedly. No more sentimental Rhodian vows of eternal devotion for her. *That* phase was over.
+“And you’ll tell me things﻿—nobody ever tells me things. And let *me* tell *you* things﻿—I haven’t anybody to tell things to,” said Ilse. “And you won’t be ashamed of me because my clothes are always queer and because I don’t believe in God?”
+“No. But if you knew Father’s God you’d believe in *Him*.”
+“I wouldn’t. Besides, there’s only one God if there is any at all.”
+“I don’t know,” said Emily perplexedly. “No, it can’t be like that. Ellen Greene’s God isn’t a bit like Father’s, and neither is Aunt Elizabeth’s. I don’t think I’d *like* Aunt Elizabeth’s, but He is a *dignified* God at least, and Ellen’s isn’t. And I’m sure Aunt Laura’s is another one still﻿—nice and kind but not wonderful like Father’s.”
+“Well never mind﻿—I don’t like talking about God,” said Ilse uncomfortably.
+“*I* do,” said Emily. “I think God is a very interesting subject, and I’m going to pray for you, Ilse, that you can believe in Father’s God.”
+“Don’t you dast!” shouted Ilse, who for some mysterious reason did not like the idea. “I won’t be prayed for!”
+“Don’t you ever pray yourself, Ilse?”
+“Oh, now and then﻿—when I feel lonesome at night﻿—or when I’m in a scrape. But I don’t want anyone else to pray for me. If I catch you doing it, Emily Starr, I’ll tear your eyes out. And don’t you go sneaking and praying for me behind my back either.”
+“All right, I won’t,” said Emily sharply, mortified at the failure of her well-meant offer. “I’ll pray for every single soul I know, but I’ll leave you out.”
+For a moment Ilse looked as if she didn’t like this either. Then she laughed and gave Emily a volcanic hug.
+“Well, anyway, please like me. Nobody likes me, you know.”
+“Your father *must* like you, Ilse.”
+“He doesn’t,” said Ilse positively. “Father doesn’t care a hoot about me. I think there’s times when he hates the sight of me. I wish he *did* like me because he can be awful nice when he likes anyone. Do you know what I’m going to be when I grow up? I’m going to be an elo-cu-tion-ist.”
+“What’s that?”
+“A woman who recites at concerts. I can do it dandy. What are you going to be?”
+“A poetess.”
+“Golly!” said Ilse, apparently overcome. “I don’t believe *you* can write poetry,” she added.
+“I can so, too,” cried Emily. “I’ve written three pieces﻿—‘Autumn’ and ’Lines to Rhoda’﻿—only I burned *that*﻿—and ’An Address to a Buttercup.’ I composed it today and it is my﻿—my masterpiece.”
+“Let’s hear it,” ordered Ilse.
+Nothing loth, Emily proudly repeated her lines. Somehow she did not mind letting Ilse hear them.
+“Emily Byrd Starr, you *didn’t* make that out of your own head?”
+“I did.”
+“Cross your heart?”
+“Cross my heart.”
+“Well”﻿—Ilse drew a long breath﻿—“I guess you *are* a poetess all right.”
+It was a very proud moment for Emily﻿—one of the great moments of life, in fact. Her world had conceded her standing. But now other things had to be thought of. The storm was over and the sun had set. It was twilight﻿—it would soon be dark. She must get home and back into the spare-room before her absence was discovered. It was dreadful to think of going back but she must do it lest a worse thing come upon her at Aunt Elizabeth’s hands. Just now, under the inspiration of Ilse’s personality, she was full of Dutch courage. Besides, it would soon be her bedtime and she would be let out. She trotted home through Lofty John’s bush, that was full of the wandering, mysterious lamps of the fireflies, dodged cautiously through the balm-of-gileads﻿—and stopped short in dismay. The ladder was gone!
+Emily went around to the kitchen door, feeling that she was going straight to her doom. But for once the way of the transgressor was made sinfully easy. Aunt Laura was alone in the kitchen.
+“Emily dear, where on earth did you come from?” she exclaimed. “I was just going up to let you out. Elizabeth said I might﻿—she’s gone to prayer-meeting.”
+Aunt Laura did not say that she had tiptoed several times to the spare-room door and had been racked with anxiety over the silence behind it. Was the child unconscious from fright? Not even while the thunderstorm was going on would relentless Elizabeth allow that door to be opened. And here was Miss Emily walking unconcernedly in out of the twilight after all this agony. For a moment even Aunt Laura was annoyed. But when she heard Emily’s tale her only feeling was thankfulness that Juliet’s child had not broken her neck on that rotten ladder.
+Emily felt that she had got off better than she deserved. She knew Aunt Laura would keep the secret; and Aunt Laura let her give Saucy Sal a whole cupful of strippings, and gave her a big plummy cooky and put her to bed with kisses.
+“You oughtn’t to be so good to me because I *was* bad today,” Emily said, between delicious mouthfuls. “I suppose I disgraced the Murrays going barefoot.”
+“If I were you I’d hide my boots every time I went out of the gate,” said Aunt Laura. “But I wouldn’t forget to put them on before I came back. What Elizabeth doesn’t know will never hurt her.”
+Emily reflected over this until she had finished her cooky. Then she said,
+“That would be nice, but I don’t mean to do it any more. I guess I must obey Aunt Elizabeth because she’s the head of the family.”
+“Where do you get such notions?” said Aunt Laura.
+“Out of my head. Aunt Laura, Ilse Burnley and I are going to be chums. I like her﻿—I’ve always felt I’d like her if I had a chance. I don’t believe I can ever *love* any girl again, but I *like* her.”
+“Poor Ilse!” said Aunt Laura, sighing.
+“Yes, her father doesn’t like her. Isn’t it dreadful?” said Emily. “Why doesn’t he?”
+“He does﻿—really. He only thinks he doesn’t.”
+“But *why* does he think it?”
+“You are too young to understand, Emily.”
+Emily hated to be told she was too young to understand. She felt that she could understand perfectly well if only people would take the trouble to explain things to her and not be so mysterious.
+“I wish I could pray for her. It wouldn’t be fair, though, when I know how she feels about it. But I’ve always asked God to bless all my friends so she’ll be in *that* and maybe some good will come of it. Is ’golly’ a proper word to say, Aunt Laura?”
+“No﻿—no!”
+“I’m sorry for that,” said Emily, seriously, “because it’s very striking.”

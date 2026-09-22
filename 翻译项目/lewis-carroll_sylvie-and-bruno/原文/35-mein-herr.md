@@ -1,0 +1,78 @@
+## VII Mein Herr
+So I went on my lonely way, and, on reaching the Hall, I found Lady Muriel standing at the garden-gate waiting for me.
+“No need to *give* you joy, or to *wish* you joy?” I began.
+“None *whatever*!” she replied, with the joyous laugh of a child. “We *give* people what they haven’t got: we *wish* for something that is yet to come. For *me*, it’s all *here*! It’s all *mine*! Dear friend,” she suddenly broke off, “do you think Heaven ever begins on *Earth*, for any of us?”
+“For *some*,” I said. “For some, perhaps, who are simple and childlike. You know He said ‘of such is the Kingdom of Heaven.’ ”
+Lady Muriel clasped her hands, and gazed up into the cloudless sky, with a look I had often seen in Sylvie’s eyes. “I feel as if it had begun for *me*,” she almost whispered. “I feel as if *I* were one of the happy children, whom He bid them bring near to Him, though the people would have kept them back. Yes, He has seen me in the throng. He has read the wistful longing in my eyes. He has beckoned me to Him. They have *had* to make way for me. He has taken me up in His arms. He has put His hands upon me and blessed me!” She paused, breathless in her perfect happiness.
+“Yes,” I said. “I think He has!”
+“You must come and speak to my father,” she went on, as we stood side by side at the gate, looking down the shady lane. But, even as she said the words, the “eerie” sensation came over me like a flood: I saw the dear old Professor approaching us, and also saw, what was stranger still, that he was visible to *Lady Muriel*!
+What was to be done? Had the fairy-life been merged in the real life? Or was Lady Muriel “eerie” also, and thus able to enter into the fairy-world along with me? The words were on my lips (“I see an old friend of mine in the lane: if you don’t know him, may I introduce him to you?”) when the strangest thing of all happened: Lady Muriel spoke.
+“I see an old friend of mine in the lane,” she said: “if you don’t know him, may I introduce him to you?”
+I seemed to wake out of a dream: for the “eerie” feeling was still strong upon me, and the figure outside seemed to be changing at every moment, like one of the shapes in a kaleidoscope: now he was the *Professor*, and now he was somebody else! By the time he had reached the gate, he certainly was somebody else: and I felt that the proper course was for *Lady Muriel*, not for *me*, to introduce him. She greeted him kindly, and, opening the gate, admitted the venerable old man﻿—a German, obviously﻿—who looked about him with dazed eyes, as if *he*, too, had but just awaked from a dream!
+No, it was certainly *not* the Professor! My old friend *could* not have grown that magnificent beard since last we met: moreover, he would have recognised *me*, for I was certain that *I* had not changed much in the time.
+As it was, he simply looked at me vaguely, and took off his hat in response to Lady Muriel’s words “Let me introduce Mein Herr to you”; while in the words, spoken in a strong German accent, “proud to make your acquaintance, Sir!” I could detect no trace of an idea that we had ever met before.
+Lady Muriel led us to the well-known shady nook, where preparations for afternoon tea had already been made, and, while she went in to look for the Earl, we seated ourselves in two easy-chairs, and “Mein Herr” took up Lady Muriel’s work, and examined it through his large spectacles (one of the adjuncts that made him so provokingly like the Professor). “Hemming pocket-handkerchiefs?” he said, musingly. “So *that* is what the English miladies occupy themselves with, is it?”
+“It is the one accomplishment,” I said, “in which Man has never yet rivaled Woman!”
+Here Lady Muriel returned with her father; and, after he had exchanged some friendly words with “Mein Herr,” and we had all been supplied with the needful “creature-comforts,” the newcomer returned to the suggestive subject of Pocket-handkerchiefs.
+“You have heard of Fortunatus’s Purse, Miladi? Ah, so! Would you be surprised to hear that, with three of these leetle handkerchiefs, you shall make the Purse of Fortunatus, quite soon, quite easily?”
+“Shall I indeed?” Lady Muriel eagerly replied, as she took a heap of them into her lap, and threaded her needle. “*Please* tell me how, Mein Herr! I’ll make one before I touch another drop of tea!”
+“You shall first,” said Mein Herr, possessing himself of two of the handkerchiefs, spreading one upon the other, and holding them up by two corners, “you shall first join together these upper corners, the right to the right, the left to the left; and the opening between them shall be the *mouth* of the Purse.”
+A very few stitches sufficed to carry out *this* direction. “Now, if I sew the other three edges together,” she suggested, “the bag is complete?”
+“Not so, Miladi: the *lower* edges shall *first* be joined﻿—ah, not so!” (as she was beginning to sew them together). “Turn one of them over, and join the *right* lower corner of the one to the *left* lower corner of the other, and sew the lower edges together in what you would call *the wrong way*.”
+“*I* see!” said Lady Muriel, as she deftly executed the order. “And a very twisted, uncomfortable, uncanny-looking bag it makes! But the *moral* is a lovely one. Unlimited wealth can only be attained by doing things *in the wrong way*! And how are we to join up these mysterious﻿—no, I mean *this* mysterious opening?” (twisting the thing round and round with a puzzled air.) “Yes, it *is* one opening. I thought it was *two*, at first.”
+“You have seen the puzzle of the Paper Ring?” Mein Herr said, addressing the Earl. “Where you take a slip of paper, and join its ends together, first twisting one, so as to join the *upper* corner of *one* end to the *lower* corner of the *other*?”
+“I saw one made, only yesterday,” the Earl replied. “Muriel, my child, were you not making one, to amuse those children you had to tea?”
+“Yes, I know that Puzzle,” said Lady Muriel. “The Ring has only *one* surface, and only *one* edge. It’s very mysterious!”
+“The *bag* is just like that, isn’t it?” I suggested. “Is not the *outer* surface of one side of it continuous with the *inner* surface of the other side?”
+“So it is!” she exclaimed. “Only it *isn’t* a bag, just yet. How shall we fill up this opening, Mein Herr?”
+“Thus!” said the old man impressively, taking the bag from her, and rising to his feet in the excitement of the explanation. “The edge of the opening consists of *four* handkerchief-edges, and you can trace it continuously, round and round the opening: down the right edge of *one* handkerchief, up the left edge of the *other*, and then down the left edge of the *one*, and up the right edge of the *other*!”
+“So you can!” Lady Muriel murmured thoughtfully, leaning her head on her hand, and earnestly watching the old man. “And that *proves* it to be only *one* opening!”
+She looked so strangely like a child, puzzling over a difficult lesson, and Mein Herr had become, for the moment, so strangely like the old Professor, that I felt utterly bewildered: the “eerie” feeling was on me in its full force, and I felt almost *impelled* to say “Do you understand it, Sylvie?” However I checked myself by a great effort, and let the dream (if indeed it *was* a dream) go on to its end.
+“Now, this *third* handkerchief,” Mein Herr proceeded, “has *also* four edges, which you can trace continuously round and round: all you need do is to join its four edges to the four edges of the opening. The Purse is then complete, and its outer surface﻿—”
+“*I* see!” Lady Muriel eagerly interrupted. “Its *outer* surface will be continuous with its *inner* surface! But it will take time. I’ll sew it up after tea.” She laid aside the bag and resumed her cup of tea. “But why do you call it Fortunatus’s Purse, Mein Herr?”
+The dear old man beamed upon her, with a jolly smile, looking more exactly like the Professor than ever. “Don’t you see, my child﻿—I should say Miladi? Whatever is *inside* that Purse, is *outside* it; and whatever is *outside* it, is *inside* it. So you have all the wealth of the world in that leetle Purse!”
+His pupil clapped her hands, in unrestrained delight. “I’ll certainly sew the third handkerchief in﻿—*some* time,” she said: “but I won’t take up your time by trying it now. Tell us some more wonderful things, please!” And her face and her voice so *exactly* recalled Sylvie, that I could not help glancing round, half-expecting to see *Bruno* also!
+Mein Herr began thoughtfully balancing his spoon on the edge of his teacup, while he pondered over this request. “Something wonderful﻿—like Fortunatus’s Purse? *That* will give you﻿—when it is made﻿—wealth beyond your wildest dreams: but it will not give you *Time*!”
+A pause of silence ensued﻿—utilised by Lady Muriel for the very practical purpose of refilling the teacups.
+“In *your* country,” Mein Herr began with a startling abruptness, “what becomes of all the wasted Time?”
+Lady Muriel looked grave. “Who can tell?” she half-whispered to herself. “All one knows is that it is gone﻿—past recall!”
+“Well, in *my*﻿—I mean in a country *I* have visited,” said the old man, “they store it up: and it comes in *very* useful, years afterwards! For example, suppose you have a long tedious evening before you: nobody to talk to: nothing you care to do: and yet hours too soon to go to bed. How do *you* behave then?”
+“I get *very* cross,” she frankly admitted: “and I want to throw things about the room!”
+“When that happens to﻿—to the people I have visited, they never act *so*. By a short and simple process﻿—which I cannot explain to you﻿—they store up the useless hours: and, on some *other* occasion, when they happen to *need* extra time, they get them out again!”
+The Earl was listening with a slightly incredulous smile. “Why cannot you *explain* the process?” he enquired.
+Mein Herr was ready with a quite unanswerable reason. “Because you have no *words*, in *your* language, to convey the ideas which are needed. I could explain it in﻿—in﻿—but you would not understand it!”
+“No indeed!” said Lady Muriel, graciously dispensing with the *name* of the unknown language. “I never learnt it﻿—at least, not to speak it *fluently*, you know. *Please* tell us some more wonderful things!”
+“They run their railway-trains without any engines﻿—nothing is needed but machinery to *stop* them with. Is *that* wonderful enough, Miladi?”
+“But where does the *force* come from?” I ventured to ask.
+Mein Herr turned quickly round, to look at the new speaker. Then he took off his spectacles, and polished them, and looked at me again, in evident bewilderment. I could see he was thinking﻿—as indeed *I* was also﻿—that we *must* have met before.
+“They use the force of *gravity*,” he said. “It is a force known also in *your* country, I believe?”
+“But that would need a railway going *downhill*,” the Earl remarked. “You can’t have *all* your railways going downhill?”
+“They *all* do,” said Mein Herr.
+“Not from *both* ends?”
+“From *both* ends.”
+“Then I give it up!” said the Earl.
+“Can you explain the process?” said Lady Muriel. “Without using that language, that I can’t speak fluently?”
+“Easily,” said Mein Herr. “Each railway is in a long tunnel, perfectly straight: so of course the *middle* of it is nearer the centre of the globe than the two ends: so every train runs halfway *down*-hill, and that gives it force enough to run the *other* half *up*-hill.”
+“Thank you. I understand that perfectly,” said Lady Muriel. “But the velocity, in the *middle* of the tunnel, must be something *fearful*!”
+“Mein Herr” was evidently much gratified at the intelligent interest Lady Muriel took in his remarks. At every moment the old man seemed to grow more chatty and more fluent. “You would like to know our methods of *driving*?” he smilingly enquired. “To us, a runaway horse is of no import at all!”
+Lady Muriel slightly shuddered. “To *us* it is a very real danger,” she said.
+“That is because your carriage is wholly *behind* your horse. Your horse runs. Your carriage follows. Perhaps your horse has the bit in his teeth. Who shall stop him? You fly, ever faster and faster! Finally comes the inevitable upset!”
+“But suppose *your* horse manages to get the bit in his teeth?”
+“No matter! We would not concern ourselves. Our horse is harnessed in the very centre of our carriage. Two wheels are in front of him, and two behind. To the roof is attached one end of a broad belt. This goes under the horse’s body, and the other end is attached to a leetle﻿—what you call a ‘windlass,’ I think. The horse takes the bit in his teeth. He runs away. We are flying at ten miles an hour! We turn our little windlass, five turns, six turns, seven turns, and﻿—poof! Our horse is off the ground! *Now* let him gallop in the air, as much as he pleases: our *carriage* stands still. We sit round him, and watch him till he is tired. Then we let him down. Our horse is glad, very much glad, when his feet once more touch the ground!”
+“Capital!” said the Earl, who had been listening attentively. “Are there any other peculiarities in your carriages?”
+“In the *wheels*, sometimes, my Lord. For your health, *you* go to sea: to be pitched, to be rolled, occasionally to be drowned. *We* do all that on land: we are pitched, as you; we are rolled, as you; but *drowned*, no! There is no water!”
+“What are the wheels like, then?”
+“They are *oval*, my Lord. Therefore the carriages rise and fall.”
+“Yes, and pitch the carriage backwards and forwards: but how do they make it *roll*?”
+“They do not match, my Lord. The *end* of one wheel answers to the *side* of the opposite wheel. So first one side of the carriage rises, then the other. And it pitches all the while. Ah, you must be a good sailor, to drive in our boat-carriages!”
+“I can easily believe it,” said the Earl.
+Mein Herr rose to his feet. “I must leave you now, Miladi,” he said, consulting his watch. “I have another engagement.”
+“I only wish we had stored up some extra time!” Lady Muriel said, as she shook hands with him. “Then we could have kept you a little longer!”
+“In *that* case I would gladly stay,” replied Mein Herr. “As it is﻿—I fear I must say goodbye!”
+“Where did you first meet him?” I asked Lady Muriel, when Mein Herr had left us. “And where does he live? And what is his real name?”
+“We first﻿—met﻿—him﻿—” she musingly replied, “really, I can’t remember *where*! And I’ve no idea where he lives! And I never heard any other name! It’s very curious. It never occurred to me before to consider what a mystery he is!”
+“I hope we shall meet again,” I said: “he interests me very much.”
+“He will be at our farewell-party, this day fortnight,” said the Earl. “Of course you will come? Muriel is anxious to gather all our friends around us once more, before we leave the place.”
+And then he explained to me﻿—as Lady Muriel had left us together﻿—that he was so anxious to get his daughter away from a place full of so many painful memories connected with the now-canceled engagement with Major Lindon, that they had arranged to have the wedding in a months time, after which Arthur and his wife were to go on a foreign tour.
+“Don’t forget Tuesday week!” he said as we shook hands at parting. “I only wish you could bring with you those charming children, that you introduced to us in the summer. Talk of the mystery of Mein Herr! That’s *nothing* to the mystery that seems to attend *them*! I shall never forget those marvellous flowers!”
+“I will bring them if I possibly can,” I said. But how to *fulfil* such a promise, I mused to myself on my way back to our lodgings, was a problem entirely beyond my skill!

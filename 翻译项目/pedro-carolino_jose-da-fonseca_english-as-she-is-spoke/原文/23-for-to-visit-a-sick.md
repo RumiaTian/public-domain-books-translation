@@ -1,0 +1,13 @@
+# For to Visit a Sick
+- How have you passed the night?
+- Very bad. I have not sleeped; I have had the fever during all night. I fell some pain every where body.
+- Live me see your tongue. Have you pain to the heart?
+- Are you altered?
+- Yes, I have thursty often.
+- Your stat have nothing from trouble some.
+- What I may to eat?
+- You can take a broth.
+- Can I to get up my self?
+- Yes, during a hour or two.
+- Let me have another thing to do?
+- Take care to hold you warme ly, and in two or three days you shall be cured.

@@ -1,0 +1,83 @@
+ (16 files)
+  块: O=188 C=188 OK | 段: EN=878 CN=884 !!差 -6
+     [不对称] iii.md                                               O=17 C=17 段EN=90 段CN=96
+  英文残留(剔括注) top: Shto×3, Nyet×3, Los×2, Angeles×2, Zdrastvoi×2, Rosie×2, Kto×2, Tri-Pacer×2, Andrei×2, Da×2
+  -- 术语表硬约束行 77 条:
+     the Pythons                    → 蟒                    源×1     译×2    
+     Maddox? no—                    → （弃用占位）               源×0     译×0     ★源0次(幽灵?)
+     Chandler                       → 钱德勒                  源×452   译×452  
+     Margot                         → 玛戈                   源×5     译×5    
+     Jack Souther                   → 杰克·萨瑟                源×3     译×3    
+     Judge Ellithorp                → 埃利索普法官               源×8     译×8    
+     Peggy/Margaret Flershem        → 佩吉／玛格丽特·弗勒舍姆         源×7     译×7    
+     hoaxer / hoaxing               → 骗子／行骗；H 印记           源×10    译×7    
+     possessed / possession         → 被附身／附身               源×49    译×47   
+     the Exec(s)                    → 执政者（们）               源×48    译×84    残留「蟒」×2
+     the Executive Committee        → 执行委员会                源×1     译×1    
+     coronet                        → 头冠                   源×28    译×38   
+     the Monument                   → 纪念碑                  源×5     译×7    
+     the Society of Slaves          → 奴隶协会                 源×5     译×6    
+     Koitska                        → 科伊茨卡                 源×79    译×78   
+     Tripler / Tripler General Hosp → 特里普勒／特里普勒总医院         源×14    译×14   
+     Rosalie Pan                    → 罗莎莉·潘                源×9     译×9    
+     Kalman                         → 卡尔曼                  源×2     译×1    
+     Hsi / John Hsi                 → 徐／约翰·徐               源×65    译×67    残留「零件多多」×4
+     Bert                           → 伯特                   源×5     译×5    
+     the Orphalese                  → 奥法利斯人                源×12    译×18   
+     Gibran’s *The Prophet*         → 纪伯伦《先知》              源×2     译×0     ★译0次(未落位?)
+     Honolulu                       → 檀香山                  源×23    译×22   
+     Oahu                           → 瓦胡岛                  源×5     译×5    
+     Waikiki                        → 威基基                  源×2     译×2    
+     Diamond Head                   → 钻石山                  源×1     译×1    
+     Punahou School                 → 普纳荷学校                源×2     译×2    
+     Ala Wai Canal                  → 阿拉维运河                源×1     译×1    
+     Kapiolani Boulevard            → 卡皮奥拉尼大道              源×1     译×1    
+     Fort Street                    → 福特街                  源×1     译×1    
+     King Street                    → 国王街                  源×2     译×2    
+     Hawaii (Islands)               → 夏威夷（群岛）              源×3     译×8    
+     Los Angeles International Airp → 洛杉矶国际机场              源×2     译×2    
+     Parts ’n Plenty                → “零件多多”商店             源×4     译×0     ★译0次(未落位?)
+     Mother Chee’s                  → “齐妈妈”餐馆              源×1     译×0     ★译0次(未落位?)
+     Luigi the Wharf Rat            → “码头鼠路易吉”餐馆           源×3     译×0     ★译0次(未落位?)
+     T.W.A.                         → 环球航空                 源×7     译×7    
+     Winter Garden                  → 冬园剧场                 源×1     译×1    
+     *Hi There*                     → 《嗨，你好》               源×2     译×2    
+     Gay Pay Oo                     → 格伯乌                  源×1     译×1    
+     the Freeze                     → 大冻结                  源×2     译×2    
+     the January Push               → 一月夺权                 源×2     译×2    
+     Donbas Electrical Workshop     → 顿巴斯电气工厂              源×1     译×1    
+     Stalinites / Neo-Krushchevists → 斯大林分子／新赫鲁晓夫分子        源×5     译×6    
+     malihini                       → 外来客                  源×0     译×2     ★源0次(幽灵?)
+     mauka                          → 朝山那头                 源×1     译×0     ★译0次(未落位?)
+     lei                            → 夏威夷花环                源×0     译×2     ★源0次(幽灵?)
+     luau                           → 卢奥宴                  源×1     译×1    
+     **Kapu, Walihini!**            → **卡普，瓦利希尼！（禁忌，外来人止步！ 源×1     译×1    
+     Statehood Day                  → 建州日                  源×1     译×1    
+     Ellen Braisted                 → 艾伦·布雷斯特德             源×11    译×11   
+     Meg / Meggie                   → 梅格／梅吉                源×15    译×15   
+     Guy                            → 盖伊                   源×38    译×37   
+     Walter                         → 沃尔特                  源×6     译×6    
+     Else                           → 埃尔斯                  源×29    译×1     落位偏低 1/29
+     Ada                            → 埃达                   源×2     译×2    
+     flame spirits / imps           → 火焰精灵／小鬼              源×10    译×19    残留「蟒」×2
+     wanderers                      → 流浪者                  源×1     译×3     残留「蟒」×2
+     Kahlil Gibran                  → 哈利勒·纪伯伦              源×2     译×1    
+     McGuire’s Mountain             → 麦圭尔山                 源×1     译×2    
+     Lehigh County                  → 利哈伊县                 源×1     译×1    
+     Hilo                           → 希洛                   源×7     译×7    
+     Molokai                        → 莫洛凯岛                 源×2     译×1    
+     Dole                           → 都乐                   源×1     译×1    
+     Linton                         → 林顿                   源×3     译×3    
+     Hanrahan                       → 汉拉汉                  源×1     译×1    
+     Bradley                        → 布拉德利                 源×3     译×3    
+     Juan Simoa                     → 胡安·西莫亚               源×1     译×1    
+     Lord Acton                     → 阿克顿勋爵                源×1     译×1    
+     Piper Tri-Pacer                → 派珀Tri-Pacer          源×1     译×1    
+     gilikopter                     → 吉利直升机                源×1     译×1    
+     pau                            → 帕乌（完事）               源×1     译×1    
+     pilikia                        → 麻烦                   源×1     译×10   
+     huhu                           → 冒烟（气恼）               源×1     译×1    
+     Hansen’s disease               → 汉森氏病                 源×1     译×1    
+     querencia                      → 恋守角                  源×1     译×1    
+     Andrei                         → 安德烈                  源×8     译×6    
+====================================================================================================

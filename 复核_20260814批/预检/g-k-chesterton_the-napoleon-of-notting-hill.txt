@@ -1,0 +1,238 @@
+====================================================================================================
+### g-k-chesterton_the-napoleon-of-notting-hill  (5 files)
+  块: O=498 C=498 OK | 段: EN=1112 CN=1125 !!差 -13
+     [不对称] book-1.md                                            O=193 C=193 段EN=197 段CN=200
+     [不对称] book-2.md                                            O=43 C=43 段EN=243 段CN=245
+     [不对称] book-3.md                                            O=145 C=145 段EN=245 段CN=249
+     [不对称] book-4.md                                            O=61 C=61 段EN=263 段CN=265
+     [不对称] book-5.md                                            O=56 C=56 段EN=164 段CN=166
+  英文残留(剔括注) top: The×8, Se×8, or×8, II×5, III×5, of×5, the×2, Mr×2, Man×1, in×1
+  项目说明备注: 全书 5 卷（book-1 至 book-5），每卷含若干章，单一连贯叙事弧。每卷作为一个原文文件输出（不拆章）。译名见术语表：伦敦西区地名一律通行中文译名（地名即"角色"）；第一章戏仿的预言家中真实历史人物（威尔斯、罗得斯、托尔斯泰等）用通行译名，切斯特顿虚构的滑稽预言家（奎尔普、皮基、佐皮等）统一音译。拉丁/西班牙文夹句保留原文并首次出现处注中译。
+  -- 术语表硬约束行 226 条:
+     Auberon Quin                   → 奥伯伦·奎因               源×11    译×11   
+     Adam Wayne                     → 亚当·韦恩                源×42    译×41   
+     James Barker / the Honourable  → 詹姆斯·巴克（巴克先生）         源×13    译×41   
+     Wilfrid Lambert                → 威尔弗里德·兰伯特            源×6     译×6    
+     Juan del Fuego                 → 胡安·德尔·富埃戈            源×1     译×1     残留「绿衣人」×1
+     Buck                           → 巴克                   源×149   译×295   残留「大马路」×7
+     Wilson / Red Wilson            → 威尔逊 / 红发威尔逊          源×61    译×62   
+     Turnbull                       → 特恩布尔                 源×35    译×35   
+     Mr. Mead                       → 米德先生                 源×9     译×9    
+     Mr. Bowles                     → 鲍尔斯先生                源×7     译×7    
+     Chiffy                         → 奇菲                   源×2     译×2    
+     Captain Bowler                 → 鲍勒上尉                 源×3     译×3    
+     Old Prout                      → 老普劳特                 源×1     译×1    
+     Dr. Polycarp                   → 波利卡普博士               源×2     译×2    
+     James Wilson                   → 詹姆斯·威尔逊              源×1     译×1    
+     Mr. H. G. Wells                → 威尔斯先生                源×1     译×1    
+     Mr. Edward Carpenter           → 爱德华·卡本特先生            源×1     译×1    
+     Cecil Rhodes                   → 塞西尔·罗得斯              源×1     译×1    
+     Mr. Benjamin Kidd              → 本杰明·基德先生             源×1     译×1    
+     Mr. Stead                      → 斯特德先生                源×1     译×1    
+     Mr. Sidney Webb                → 西德尼·韦布先生             源×1     译×1    
+     Tolstoy                        → 托尔斯泰                 源×1     译×1    
+     Mr. Max Beerbohm               → 马克斯·比尔博姆先生           源×1     译×1    
+     Mr. W. W. Jacobs               → W.W.雅各布斯先生           源×1     译×1    
+     Dr. Zoppi                      → 佐皮博士                 源×1     译×1    
+     Dr. Quilp                      → 奎尔普博士                源×1     译×1    
+     James Pickie, D.D.             → 詹姆斯·皮基博士（神学博士）       源×1     译×1    
+     Mr. Mick                       → 米克先生                 源×1     译×1    
+     William Borker                 → 威廉·博克                源×1     译×1    
+     Graham Podge                   → 格雷厄姆·波杰              源×1     译×1    
+     Fipps                          → 菲普斯                  源×1     译×1    
+     Dr. Pellkins                   → 佩尔金斯博士               源×1     译×1    
+     Sir Paul Swiller               → 保罗·斯威勒爵士             源×1     译×1    
+     Notting Hill                   → 诺丁山                  源×147   译×145   残留「城邦」×12
+     Bayswater                      → 贝斯沃特                 源×38    译×41   
+     Hammersmith                    → 哈默史密斯                源×13    译×11   
+     Hammersmith Broadway           → 哈默史密斯大马路             源×2     译×3    
+     Kensington                     → 肯辛顿                  源×13    译×12   
+     South Kensington               → 南肯辛顿                 源×19    译×20   
+     North Kensington               → 北肯辛顿                 源×28    译×28   
+     West Kensington                → 西肯辛顿                 源×22    译×22   
+     Knightsbridge                  → 骑士桥                  源×4     译×4    
+     Shepherd's Bush                → 牧羊人丛                 源×6     译×6    
+     Paddington Green               → 帕丁顿格林                源×1     译×1    
+     Battersea                      → 巴特西                  源×3     译×3     残留「迷途之犬」×1
+     Putney                         → 帕特尼                  源×2     译×2     残留「白公猪上的汉子」×1
+     Ravenscourt Park               → 雷文斯考特公园              源×1     译×1    
+     Westbourne Grove               → 韦斯特伯恩格罗夫             源×7     译×7    
+     Chepstow Place                 → 切普斯托广场               源×2     译×2    
+     Pump Street                    → 泵街                   源×47    译×49   
+     Kensington Gardens             → 肯辛顿花园                源×5     译×5    
+     Kensington Palace              → 肯辛顿宫                 源×3     译×3    
+     Marble Arch                    → 大理石拱门                源×1     译×1    
+     High Street, Kensington        → 肯辛顿高街                源×2     译×5    
+     Bond Street                    → 邦德街                  源×1     译×1    
+     Soho                           → 苏荷区                  源×1     译×1    
+     Blackfriars Road               → 布莱克弗赖尔斯路             源×1     译×1    
+     Cicconani's                    → 奇科卡尼餐厅               源×4     译×4    
+     Nicaragua                      → 尼加拉瓜                 源×19    译×28   
+     London                         → 伦敦                   源×48    译×54   
+     Shropshire                     → 什罗普郡                 源×1     译×1     残留「骗过预言家」×4
+     Wimbledon                      → 温布尔登                 源×2     译×2    
+     Maidstone                      → 梅德斯通                 源×1     译×1    
+     Cheshire                       → 柴郡                   源×1     译×1    
+     Hong Kong                      → 香港                   源×1     译×1    
+     Rock of Gibraltar              → 直布罗陀巨岩               源×1     译×1    
+     British Guiana                 → 英属圭亚那                源×1     译×1    
+     Oregon                         → 俄勒冈                  源×1     译×1    
+     Pocohontas College             → 波卡洪塔斯学院              源×1     译×1    
+     Royal Society                  → 皇家学会                 源×1     译×1    
+     the Charter of the Cities      → 城市宪章                 源×9     译×8     残留「自由城市」×2
+     the Great Proclamation of the  → 自由城市宪章大诏书            源×1     译×1    
+     Charter of King Auberon        → 奥伯伦国王宪章              源×1     译×1    
+     the Charter of the Cities（最终）  → 城市宪章 / 城市特许状         源×0     译×0     ★源0次(幽灵?)
+     Provost                        → 区督                   源×66    译×70    残留「城市」×24
+     Lord High Provost              → 高级区督                 源×14    译×15   
+     the Council of the Provosts    → 区督议会                 源×1     译×4    
+     the Great War / the great war  → 诺丁山大战                源×3     译×0     ★译0次(未落位?)
+     the (Great) Battle of the Lamp → 灯之战                  源×2     译×1    
+     the Feast of the Lamps         → 灯节                   源×1     译×1    
+     the Last Battle                → 最后一战                 源×2     译×2    
+     the Great Road                 → 大马路                  源×1     译×4    
+     the Hill                       → 山城（诺丁山）              源×9     译×1     落位偏低 1/9
+     halberdier                     → 戟兵                   源×2     译×25   
+     herald                         → 传令官                  源×19    译×20   
+     Groom of the Stole             → 御前近侍（掌榻官）            源×1     译×1    
+     tocsin                         → 警钟                   源×2     译×4    
+     the Red Lion                   → 红狮旗                  源×10    译×9    
+     the Golden Birds               → 金鸟旗                  源×1     译×2    
+     the Purple Eagle               → 紫鹰                   源×2     译×2    
+     the Lost Dog                   → 迷途之犬                 源×1     译×1    
+     the Man on the White Boar      → 白公猪上的汉子              源×1     译×1    
+     Society of the Red Star of Cha → 红星慈善会                源×1     译×1    
+     the Blue Argosy                → 蓝色商船队                源×0     译×1     ★源0次(幽灵?)
+     Colman's Mustard               → 科尔曼芥末                源×1     译×1    
+     the Proviso                    → （本作无此词）              源×0     译×0     ★源0次(幽灵?) 残留「城市宪章」×9
+     Señor                          → 阁下 / 先生              源×10    译×193  
+     *Quis tulerit Gracchos de sedi → （格拉古兄弟竟抱怨有人谋反，谁能忍？）  源×1     译×0     ★译0次(未落位?)
+     *in articulo mortis*           → （在临终之际）              源×0     译×0     ★源0次(幽灵?)
+     Swindon                        → 斯温顿                  源×9     译×1     落位偏低 1/9
+     Mr. Mead                       → 米德先生                 源×0     译×0     ★源0次(幽灵?)
+     Mr. Bowles                     → 鲍尔斯先生                源×0     译×0     ★源0次(幽灵?)
+     Turnbull                       → 特恩布尔                 源×0     译×0     ★源0次(幽灵?)
+     Captain Bowler / Bowler        → 鲍勒上尉 / 鲍勒            源×7     译×7    
+     Francis                        → 弗朗西斯                 源×1     译×1    
+     Elizabeth                      → 伊丽莎白                 源×1     译×2    
+     Holland Walk                   → 荷兰道                  源×2     译×1    
+     Holland Lane                   → 荷兰巷                  源×1     译×1    
+     Holland Park                   → 荷兰园                  源×1     译×1    
+     Fulham                         → 富勒姆                  源×4     译×4    
+     Westbourne Grove               → 韦斯特伯恩格罗夫             源×0     译×0     ★源0次(幽灵?)
+     Pump Street                    → 泵街                   源×0     译×0     ★源0次(幽灵?)
+     Picardy                        → 皮卡第                  源×1     译×1    
+     Northumberland                 → 诺森伯兰                 源×1     译×1    
+     Cumberland hills               → 坎伯兰群山                源×1     译×1    
+     Essex flats                    → 埃塞克斯滩地               源×1     译×1    
+     Barbary                        → 巴巴里                  源×1     译×1    
+     Ceylon                         → 锡兰                   源×1     译×1    
+     Tunis                          → 突尼斯                  源×1     译×1    
+     Demerara                       → 德梅拉拉                 源×1     译×1    
+     the central Dervish city       → 中部德尔维希之城             源×1     译×0     ★译0次(未落位?) 残留「上一场战争」×1
+     Hymns on the Hill              → 《山丘颂歌》               源×7     译×7    
+     the Hammock School             → 吊床学派                 源×2     译×2    
+     Straight from the Stables      → 《马厩快讯》               源×1     译×1    
+     Daisy Daydream                 → 雏菊·白日梦               源×3     译×3    
+     Thunderbolt                    → 雷霆                   源×5     译×7    
+     To the Inventor of The Hansom  → 《致汉瑟马车发明者》           源×1     译×1    
+     The Last Omnibus               → 《末班公共马车》             源×1     译×1    
+     Mandeville                     → 曼德维尔                 源×1     译×1    
+     Munchausen                     → 明希豪森                 源×1     译×1    
+     Lancelot                       → 兰斯洛特                 源×1     译×1    
+     St. George                     → 圣乔治                  源×1     译×1    
+     the Iliad                      → 《伊利亚特》               源×0     译×1     ★源0次(幽灵?)
+     hansom cab                     → 双轮马车（hansom cab）     源×6     译×5    
+     omnibus                        → 公共马车                 源×14    译×15   
+     halberd                        → 戟                    源×18    译×32   
+     partisan                       → 戟（长柄武器）              源×0     译×0     ★源0次(幽灵?)
+     crossbow                       → 弩                    源×0     译×1     ★源0次(幽灵?)
+     blunderbuss                    → 老式大口径短枪              源×0     译×1     ★源0次(幽灵?)
+     culverin                       → 蛇炮                   源×1     译×1    
+     mace                           → 权杖 / 钉头锤             源×1     译×2    
+     sal-volatile                   → 嗅盐（sal-volatile）     源×4     译×4    
+     quinine                        → 奎宁                   源×1     译×1    
+     alum                           → 明矾                   源×1     译×1    
+     jujubes                        → 止咳糖                  源×1     译×1    
+     Gregory powder                 → 格雷戈里散                源×1     译×1    
+     magnesia                       → 镁乳                   源×1     译×1    
+     Noah's Arks                    → 诺亚方舟（玩具）             源×1     译×1    
+     the Garter                     → 嘉德勋章                 源×2     译×2    
+     the Club of Old Clipper's Best → 老克利珀铁哥们俱乐部           源×1     译×1    
+     equerry                        → 副官                   源×3     译×3    
+     bandana                        → 印花大帕                 源×2     译×1    
+     the Bayswater Town Council     → 贝斯沃特市议会              源×1     译×1    
+     mad as a hatter                → 疯得像帽匠                源×2     译×2    
+     like a captured bride          → 像一个被掳的新娘             源×1     译×1    
+     a man about town               → 混迹城中的男人              源×1     译×1    
+     Swindon                        → 斯温登                  源×0     译×8     ★源0次(幽灵?) 残留「驴」×3
+     Hoskins                        → 霍斯金斯                 源×3     译×3     残留「帕利」×5
+     Pally / Paladium of our Libert → 帕利 / 我们自由的帕拉第昂       源×6     译×6    
+     Pinker                         → 平克                   源×3     译×3    
+     Perkins                        → 珀金斯                  源×1     译×1     残留「再弄一杯酒」×1
+     Wilfred Jarvis                 → 威尔弗雷德·贾维斯            源×1     译×1     残留「灯之战」×1
+     Captain Bruce / Brace          → 布鲁斯上尉                源×3     译×2    
+     Portobello Road                → 波多贝罗路                源×4     译×4    
+     Pump Street                    → 泵街                   源×0     译×0     ★源0次(幽灵?) 残留「心脏」×8
+     Holland Walk / Holland Park Av → 荷兰步道 / 荷兰公园大道        源×1     译×2    
+     Ladbroke Grove                 → 拉德布罗克格罗夫             源×1     译×1    
+     Ossington Street               → 奥辛顿街                 源×1     译×1    
+     Clanricarde Gardens            → 克兰里卡德花园              源×1     译×1    
+     Pembridge Road                 → 彭布里奇路                源×10    译×10   
+     Queen's Road                   → 王后街                  源×4     译×4    
+     Notting Hill High Street       → 诺丁山高街                源×1     译×3    
+     Notting Hill Gate Station      → 诺丁山门站                源×1     译×1    
+     St. Luke's Church              → 圣路加教堂                源×1     译×1    
+     Gaslight & Coke Co. / Gas Work → 煤气灯与焦炭公司 / 煤气厂       源×2     译×5    
+     Uxbridge Road                  → 乌克斯桥路                源×1     译×1    
+     Bayswater Road                 → 贝斯沃特路                源×1     译×1    
+     Campden Hill                   → 坎普登山                 源×8     译×8    
+     Campden Hill Road              → 坎普登山公路               源×1     译×1    
+     Waterworks Tower               → 水塔（坎普登山水塔）           源×6     译×8    
+     Silver Street                  → 银街                   源×1     译×1    
+     Aubrey Road                    → 奥布里路                 源×4     译×4    
+     Tower Creçy                    → 克雷西塔                 源×1     译×1    
+     Church Street                  → 教堂街                  源×3     译×3    
+     Kensington Church              → 肯辛顿教堂                源×1     译×1    
+     Brompton                       → 布朗普顿                 源×2     译×2    
+     Fulham                         → 富勒姆                  源×0     译×0     ★源0次(幽灵?)
+     Addison Road Bridge            → 艾迪森路桥                源×1     译×1    
+     Court Journal                  → 《宫廷杂志》               源×11    译×11   
+     1st Decadents Green            → 第一"颓废绿"团             源×1     译×0     ★译0次(未落位?)
+     Factory Acts                   → 工厂法                  源×2     译×2    
+     hansom cab                     → 双轮马车                 源×0     译×0     ★源0次(幽灵?)
+     omnibus                        → 公共马车                 源×0     译×0     ★源0次(幽灵?)
+     the Three Birds                → 三只鸟（金鸟旗纹章）           源×1     译×1    
+     *Vicisti Galilaee!*            → （加利利人啊，你胜了！）         源×1     译×1    
+     mot juste                      → 恰当的词                 源×1     译×2    
+     Moltke / Achilles              → 毛奇 / 阿喀琉斯            源×2     译×2    
+     Maeterlinck                    → 梅特林克                 源×1     译×1    
+     Rabelaisian                    → 拉伯雷式                 源×1     译×1    
+     Cromwell                       → 克伦威尔                 源×1     译×1    
+     Charles I                      → 查理一世                 源×1     译×1    
+     Walt Whitman                   → 惠特曼                  源×1     译×1    
+     Gaffer Auberon                 → 老奥伯伦                 源×1     译×1    
+     Prince Albert                  → 阿尔伯特亲王               源×1     译×1    
+     Socrates                       → 苏格拉底                 源×1     译×1     残留「两声对话」×1
+     Charlemagne                    → 查理曼                  源×1     译×1    
+     the Nazarene                   → 拿撒勒人                 源×1     译×1    
+     Snobs                          → 势利鬼                  源×1     译×1    
+     Ossington Gate                 → 奥辛顿门                 源×1     译×1    
+     Natural History Museum         → 自然历史博物馆              源×1     译×1     残留「神圣的」×9
+     Asia Minor                     → 小亚细亚                 源×1     译×1    
+     Jerusalem                      → 耶路撒冷                 源×4     译×4    
+     Athens / Romans / Florentines  → 雅典 / 罗马人 / 佛罗伦萨人     源×11    译×11   
+     "Nothing Ill"                  → "百无邪厄"               源×0     译×0     ★源0次(幽灵?)
+     chlamys                        → 希腊披风（chlamys）        源×1     译×1    
+     hemlock                        → 鸩毒（hemlock，毒芹汁）      源×1     译×0     ★译0次(未落位?)
+     the crack of doom              → 末日（the crack of doom 源×1     译×2    
+     "As the tree falleth, so shall → 树倒何处，便卧何处            源×0     译×2     ★源0次(幽灵?)
+     the Notting Hill anthem        → 诺丁山颂歌                源×1     译×1    
+     the battle of the Tower        → 水塔之战（即坎普登山水塔之战）      源×1     译×1    
+     Crusade / a Crusade            → 十字军东征                源×3     译×2    
+     Dutch garden                   → 荷兰式花园                源×1     译×1     残留「怪诞的荷兰式花园」×1
+     the nine gates of Notting Hill → 诺丁山九门                源×0     译×0     ★源0次(幽灵?)
+     Southern Gate of Notting Hill  → 诺丁山南门                源×1     译×0     ★译0次(未落位?)
+     the Blue Argosy (cut in turquo → 蓝色商船队（绿松石雕）          源×1     译×0     ★译0次(未落位?)
+     the old guard of God           → 上帝的老近卫军              源×3     译×3    
+

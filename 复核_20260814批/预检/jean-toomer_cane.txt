@@ -1,0 +1,140 @@
+====================================================================================================
+### jean-toomer_cane  (32 files)
+  块: O=124 C=124 OK | 段: EN=498 CN=498 OK
+  英文残留(剔括注) top: 无
+  项目说明备注: - **诗歌翻译策略（重要）**：本书大量篇目为诗歌或散文中嵌入诗行/歌谣（如 Karintha 篇首尾的歌谣、Reapers、Cotton Song、Song of the Son、Georgia Dusk、Harvest Song、Prayer 等）。译诗**必须保留原诗行结构与分行**：一行对一行，不合并、不散文化；引文块（>）与缩进保持原样；叠句重复处译文同样重复；韵脚无法兼顾时优先保住意象与节奏。 / - 全书三部分（南方 1–19 篇、北方 20–31 篇、剧本 Kabnis）语调不同：南方篇抒情浓烈、意象绵密；北方篇句子碎裂、都市节奏急促；Kabnis 为剧本体，对话与舞台指示分明。译文应随之分调。 / - 方言与口语策略见术语表"方言与语言策略"节：黑人南方口语用简短粗粝的汉语口语再现，不逐字硬仿、不丑化；白人蔑称按语境保留残酷性。 / - 人物名、地名以术语表为准；新确定的译法请回填术语表。
+  -- 术语表硬约束行 133 条:
+     Karintha                       → 卡琳莎                  源×14    译×13   
+     Becky                          → 贝琪                   源×12    译×11   
+     Carma                          → 卡玛                   源×4     译×3    
+     Fern                           → 费恩                   源×7     译×6    
+     Esther                         → 埃丝特                  源×5     译×5    
+     Louisa                         → 路易莎                  源×2     译×2     残留「血烧月」×1
+     Tom Burwell                    → 汤姆·伯韦尔               源×1     译×1     残留「大男孩」×1
+     Bob Stone                      → 鲍勃·斯通                源×1     译×1    
+     Rhobert                        → 罗伯特                  源×5     译×4    
+     Avey                           → 艾薇                   源×17    译×16   
+     Kabnis                         → 卡布尼斯                 源×17    译×17   
+     Halsey                         → 哈尔西                  源×2     译×2    
+     Lewis                          → 刘易斯                  源×0     译×0     ★源0次(幽灵?)
+     Bona                           → 博娜                   源×14    译×14   
+     Paul                           → 保罗                   源×5     译×5    
+     Dan Moore                      → 丹·穆尔                 源×4     译×4    
+     Muriel                         → 穆里尔                  源×32    译×32   
+     Fred Douglass / Frederick Doug → 弗雷德里克·道格拉斯           源×0     译×0     ★源0次(幽灵?)
+     Ralph Kabnis                   → 拉尔夫·卡布尼斯             源×2     译×2    
+     Hanby                          → 汉比                   源×2     译×2    
+     Layman                         → 莱曼                   源×1     译×1    
+     Old Chromo                     → 老彩印婆                 源×1     译×1    
+     John                           → 约翰                   源×27    译×27   
+     Dorris                         → 多丽丝                  源×30    译×30   
+     Mame                           → 梅姆                   源×3     译×3    
+     Ned                            → 内德                   源×11    译×11   
+     Doc                            → 多克                   源×1     译×1    
+     Mush-Head                      → 浆糊脑袋                 源×1     译×1    
+     Bubs Sanborn                   → 巴布斯·桑伯恩              源×1     译×1    
+     Mrs. Pribby                    → 普里比太太                源×10    译×10   
+     Bernice                        → 伯妮斯                  源×2     译×2    
+     Harry                          → 哈里                   源×1     译×1    
+     Miss Hale                      → 黑尔小姐                 源×1     译×1    
+     Mr. Boynton                    → 博因顿先生                源×1     译×1    
+     Bane                           → 班恩                   源×3     译×3    
+     King Barlo / Barlo             → 金·巴洛 / 巴洛            源×12    译×12   
+     Cloine                         → 克洛茵                  源×4     译×4    
+     Fernie May Rosen               → 费妮·梅·罗森              源×1     译×1    
+     Waldo Frank                    → 沃尔多·弗兰克              源×1     译×1    
+     Jean Toomer / Toomer           → 让·图默 / 图默            源×3     译×3    
+     Hugh Jourdon                   → 休·乔登                 源×1     译×1    
+     Lonnie Deacon                  → 朗尼·迪肯                源×1     译×1    
+     John Stone                     → 约翰·斯通                源×1     译×1    
+     Old David Georgia              → 老戴维·乔治亚              源×1     译×1    
+     Limp Underwood                 → 老瘸子安德伍德              源×1     译×1    
+     Banker Warply                  → 银行家沃普利               源×1     译×1    
+     Old Goodlow                    → 老古德洛                 源×1     译×1    
+     Old McGregor                   → 老麦格雷戈                源×1     译×1    
+     old Dan                        → 老丹                   源×1     译×1    
+     Foxie                          → 福克西                  源×1     译×1    
+     Georgia                        → 佐治亚                  源×14    译×15   
+     Sempter                        → 森普特                  源×0     译×0     ★源0次(幽灵?)
+     Macon                          → 梅肯                   源×2     译×2    
+     Augusta                        → 奥古斯塔                 源×2     译×2    
+     Chicago                        → 芝加哥                  源×4     译×4    
+     Seventh Street                 → 第七街                  源×3     译×2    
+     Thirteenth Street              → 第十三街                 源×1     译×1    
+     U Street / V Street            → U街 / V街              源×2     译×2    
+     Washington                     → 华盛顿                  源×11    译×11   
+     Harpers Ferry                  → 哈珀斯渡口                源×1     译×1    
+     Riverview                      → 里弗维尤                 源×1     译×1    
+     Soldier's Home                 → 军人之家                 源×2     译×2    
+     Howard Theater                 → 霍华德剧院                源×1     译×1    
+     Lincoln (Theater)              → 林肯剧院                 源×1     译×1    
+     Howard Glee Club               → 霍华德合唱团               源×1     译×1    
+     Jane Mosely                    → 简·莫斯利号               源×1     译×1    
+     Potomac                        → 波托马克河                源×1     译×1    
+     Camp Ground                    → 营地                   源×2     译×2    
+     Deep River                     → 《深深的河》               源×5     译×3    
+     cane                           → 甘蔗                   源×23    译×31   
+     cane-bow / rainbow             → 甘蔗弓 / 彩虹             源×0     译×0     ★源0次(幽灵?)
+     pines / pine-needles           → 松林 / 松针              源×19    译×18   
+     sawmill                        → 锯木厂                  源×5     译×5    
+     dinner horn                    → 开饭号 / 晚饭号角           源×0     译×0     ★源0次(幽灵?)
+     God, Jesus, Lord               → 上帝、耶稣、主              源×0     译×0     ★源0次(幽灵?)
+     Dixie Pike                     → 迪克西大道                源×4     译×5    
+     Pulverton                      → 普尔弗顿                 源×1     译×1    
+     Ebenezer Church                → 以便以谢教堂               源×1     译×1    
+     Broad (Street) / Maple Street  → 布罗德街 / 梅普尔街          源×4     译×2     落位偏低 2/4
+     State Street                   → 斯泰特街                 源×1     译×1    
+     Harlem                         → 哈莱姆                  源×1     译×1    
+     Atlanta / Pasadena / Madison / → 亚特兰大 / 帕萨迪纳 / 麦迪逊 /  源×5     译×5    
+     boll-weevil                    → 棉铃象甲                 源×1     译×3    
+     sweet-gum (tree)               → 枫香树                  源×3     译×2    
+     guinea (fowl)                  → 珍珠鸡                  源×3     译×3    
+     Jim Crow / Pullman             → "吉姆·克劳"黑人车厢 / 普尔曼卧车  源×2     译×1    
+     chain gang / the gang          → 劳役队                  源×3     译×2    
+     Jewish cantor                  → 犹太领唱                 源×3     译×3    
+     juju men / greegree / witch-do → 巫公 / 格里格里符咒 / 巫医     源×3     译×4    
+     mazda                          → 马自达灯                 源×1     译×1    
+     cassava / palabra              → 木薯 / "帕拉布拉"（palabra） 源×2     译×1    
+     Foreword                       → 序言                   源×1     译×0     ★译0次(未落位?)
+     Karintha                       → 卡琳莎                  源×0     译×0     ★源0次(幽灵?)
+     Reapers                        → 收割者                  源×3     译×0     ★译0次(未落位?)
+     November Cotton Flower         → 十一月的棉花               源×2     译×1    
+     Becky                          → 贝琪                   源×0     译×0     ★源0次(幽灵?)
+     Face                           → 脸                    源×28    译×39   
+     Cotton Song                    → 棉花歌                  源×1     译×0     ★译0次(未落位?)
+     Carma                          → 卡玛                   源×0     译×0     ★源0次(幽灵?)
+     Song of the Son                → 之子歌                  源×1     译×0     ★译0次(未落位?)
+     Georgia Dusk                   → 佐治亚暮色                源×1     译×0     ★译0次(未落位?)
+     Fern                           → 费恩                   源×0     译×0     ★源0次(幽灵?)
+     Nullo                          → 空无                   源×1     译×0     ★译0次(未落位?)
+     Evening Song                   → 晚歌                   源×1     译×0     ★译0次(未落位?)
+     Esther                         → 埃丝特                  源×0     译×0     ★源0次(幽灵?)
+     Conversion                     → 皈依                   源×1     译×0     ★译0次(未落位?)
+     Portrait in Georgia            → 佐治亚肖像                源×1     译×0     ★译0次(未落位?)
+     Blood-Burning Moon             → 血烧月                  源×1     译×1    
+     Seventh Street                 → 第七街                  源×0     译×0     ★源0次(幽灵?)
+     Rhobert                        → 罗伯特                  源×0     译×0     ★源0次(幽灵?)
+     Avey                           → 艾薇                   源×0     译×0     ★源0次(幽灵?)
+     Beehive                        → 蜂巢                   源×1     译×2    
+     Storm Ending                   → 风暴止息                 源×1     译×0     ★译0次(未落位?)
+     Theater                        → 剧场                   源×2     译×4    
+     Her Lips Are Copper Wire       → 她的嘴唇是铜丝              源×1     译×0     ★译0次(未落位?)
+     Calling Jesus                  → 呼唤耶稣                 源×1     译×0     ★译0次(未落位?)
+     Box Seat                       → 包厢座                  源×0     译×0     ★源0次(幽灵?)
+     Prayer                         → 祈祷                   源×1     译×0     ★译0次(未落位?)
+     Harvest Song                   → 收获之歌                 源×1     译×0     ★译0次(未落位?)
+     Bona and Paul                  → 博娜与保罗                源×0     译×0     ★源0次(幽灵?)
+     Kabnis                         → 卡布尼斯                 源×0     译×0     ★源0次(幽灵?)
+     eoho                           → 哦吼                   源×7     译×7    
+     shimmy                         → 希美舞                  源×2     译×2    
+     Dictie                         → 装腔的（装腔作势的主儿）         源×2     译×1    
+     stage-door johnny              → 剧场后门的浪荡子             源×1     译×1    
+     Black dialect (Southern vernac → 口语化汉语，保留粗粝感          源×0     译×0     ★源0次(幽灵?)
+     White Southern speech          → 带优越感的官话口语            源×0     译×0     ★源0次(幽灵?)
+     O cant you see it              → 哦，你难道看不见             源×5     译×5    
+     double vocatives (O...)        → 哦……                  源×0     译×0     ★源0次(幽灵?)
+     yassur / nassur                → 是哩，老爷 / 不哩，老爷        源×4     译×1     落位偏低 1/4
+     hant                           → 阴魂                   源×1     译×1    
+     Gedap                          → 得儿驾                  源×1     译×1    
+     agwine t / Ise gwine t         → 俺要……                 源×4     译×0     ★译0次(未落位?)
+

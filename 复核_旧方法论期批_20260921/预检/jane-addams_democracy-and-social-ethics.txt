@@ -1,0 +1,106 @@
+ (9 files)
+  块: O=299 C=299 OK | 段: EN=299 CN=298 !!差 1
+     [不对称] 2-introduction.md                                    O=18 C=18 段EN=18 段CN=17
+  英文残留(剔括注) top: 无
+  项目说明备注: 见术语表.md。正文标题自带罗马数字章号（如 `## II Charitable Effort`），罗马数字照搬不译；人名、地名、刊物译法以术语表为准。
+  -- 术语表硬约束行 99 条:
+     social ethics                  → 社会伦理                 源×11    译×11   
+     Democracy                      → 民主                   源×33    译×62   
+     social morality                → 社会道德                 源×13    译×14   
+     the social claim               → 社会性诉求                源×6     译×9    
+     social obligation              → 社会义务                 源×6     译×7    
+     the democratic impulse         → 民主冲动                 源×1     译×1    
+     social compunction             → 社会良知之刺痛              源×2     译×2    
+     settlement house / social sett → 睦邻公社                 源×0     译×4     ★源0次(幽灵?)
+     Hull House / Hull-House        → 赫尔会所                 源×7     译×7    
+     settler / resident（睦邻公社语境）     → 驻舍居民                 源×5     译×5    
+     charitable effort              → 慈善活动                 源×3     译×2    
+     benefactor                     → 施惠者                  源×4     译×4    
+     beneficiary                    → 受惠者                  源×1     译×6    
+     philanthropy                   → 慈善事业                 源×5     译×2     落位偏低 2/5
+     philanthropist                 → 慈善家                  源×4     译×8    
+     trades-union / trade union     → 工会                   源×4     译×10   
+     trades-unionist                → 工会会员                 源×0     译×2     ★源0次(幽灵?)
+     industrial amelioration        → 产业改良                 源×2     译×1    
+     associated effort / associated → 联合努力／联合行动            源×9     译×8    
+     model town                     → 模范城镇                 源×3     译×3    
+     nonunion shop                  → 非工会工厂                源×3     译×3    
+     sympathetic strike             → 同情罢工                 源×2     译×2    
+     arbitration                    → 仲裁                   源×3     译×5    
+     public trust                   → 公众信托                 源×1     译×1    
+     mutual benefit association     → 互济会                  源×1     译×1    
+     factory legislation            → 工厂立法                 源×1     译×1    
+     child-labor law                → 童工法                  源×2     译×3    
+     "industrial betterment"        → 「产业改善」               源×0     译×1     ★源0次(幽灵?) 残留「产业改良」×1
+     University Extension           → 大学推广教育               源×2     译×2    
+     industrial education           → 产业教育                 源×1     译×1    
+     padrone                        → 包工头                  源×7     译×10   
+     mechanic institute             → 机械工人讲习所              源×1     译×1    
+     stereopticon                   → 立体幻灯                 源×1     译×1    
+     normal school                  → 师范学校                 源×1     译×1    
+     Child Study                    → 儿童研究                 源×1     译×1    
+     the boss / political boss      → 政治「老板」               源×0     译×2     ★源0次(幽灵?)
+     the gang                       → 帮派                   源×0     译×3     ★源0次(幽灵?)
+     ward                           → 选区                   源×14    译×14   
+     alderman                       → 市议员                  源×49    译×56   
+     municipal ownership            → 市有制                  源×0     译×0     ★源0次(幽灵?)
+     civil service                  → 文官制度                 源×9     译×7    
+     political machine              → 政治机器                 源×3     译×3    
+     reform movement                → 改革运动                 源×3     译×3     残留「帮派」×3
+     constituents                   → 选民                   源×23    译×35   
+     franchise                      → 特许权                  源×2     译×5    
+     city council                   → 市议会                  源×4     译×4    
+     boodler                        → 贪贿者                  源×2     译×1     残留「贪贿大王」×1
+     Great Experience               → 「大经验」                源×2     译×1    
+     household employee / domestic  → 家务劳动者                源×21    译×20   
+     household employer / employer  → 家务雇主                 源×4     译×11   
+     domestic service               → 家务服务                 源×3     译×2    
+     personal service / personal mi → 人身侍奉                 源×4     译×4    
+     tenement house                 → 廉租公寓                 源×3     译×5    
+     esprit de corps                → 团体精神                 源×2     译×2    
+     Jane Addams                    → 简·亚当斯                源×0     译×0     ★源0次(幽灵?)
+     Tolstoy                        → 托尔斯泰                 源×2     译×2    
+     George Eliot                   → 乔治·艾略特               源×1     译×1    
+     Ibsen's "Nora"                 → 易卜生笔下的「娜拉」           源×0     译×1     ★源0次(幽灵?)
+     King Lear                      → 李尔王                  源×2     译×2    
+     Cordelia                       → 考狄利娅                 源×8     译×9    
+     St. Francis                    → 圣方济各                 源×1     译×1    
+     Samuel Johnson                 → 塞缪尔·约翰逊              源×1     译×1    
+     Benjamin Franklin              → 本杰明·富兰克林             源×1     译×1    
+     Jay Gould                      → 杰伊·古尔德               源×1     译×1    
+     Count Rumford                  → 拉姆福德伯爵               源×1     译×1    
+     Peter Cooper                   → 彼得·库珀                源×1     译×1    
+     Carlyle                        → 卡莱尔                  源×1     译×1     残留「布丁与权力」×1
+     Mr. Lincoln                    → 林肯先生                 源×1     译×1     残留「可能中的最好」×1
+     Ruskin                         → 罗斯金                  源×2     译×2     残留「无艺术的劳动使人野蛮」×1
+     Robin Hood                     → 罗宾汉                  源×1     译×1    
+     Garibaldi                      → 加里波第                 源×1     译×1    
+     Mill                           → 密尔                   源×1     译×1    
+     Chapman                        → 查普曼                  源×1     译×1    
+     Chicago                        → 芝加哥                  源×12    译×12   
+     Cook County                    → 库克县                  源×2     译×2    
+     Lincoln Park                   → 林肯公园                 源×1     译×1    
+     Nineteenth Ward                → 第十九选区                源×0     译×0     ★源0次(幽灵?)
+     East London                    → 伦敦东区                 源×2     译×2    
+     Whitechapel                    → 白教堂区                 源×1     译×1    
+     Assisi                         → 阿西西                  源×1     译×1    
+     Hong Kong                      → 香港                   源×1     译×1    
+     Ohio                           → 俄亥俄                  源×2     译×2    
+     Zurich                         → 苏黎世                  源×1     译×1    
+     South Italy / the South Italia → 南意大利／南意大利人           源×3     译×3    
+     Reform School                  → 教养院                  源×1     译×1    
+     Athenaeum                      → 雅典娜馆                 源×1     译×1    
+     Dayton                         → 代顿                   源×1     译×1    
+     Constantinople                 → 君士坦丁堡                源×1     译×1    
+     Berlin                         → 柏林                   源×1     译×1    
+     Rome                           → 罗马                   源×1     译×2    
+     Naples / Neapolitan            → 那不勒斯／那不勒斯人           源×0     译×2     ★源0次(幽灵?)
+     Calabria                       → 卡拉布里亚                源×0     译×1     ★源0次(幽灵?)
+     Sicily                         → 西西里                  源×0     译×1     ★源0次(幽灵?)
+     Woman's Clubs                  → 妇女俱乐部                源×1     译×2    
+     Roman Catholic                 → 天主教                  源×1     译×1    
+     The Atlantic Monthly           → 《大西洋月刊》              源×1     译×1    
+     The International Journal of E → 《国际伦理学杂志》            源×1     译×1    
+     The American Journal of Sociol → 《美国社会学杂志》            源×1     译×1    
+     The Commons                    → 《公地》                 源×1     译×1    
+====================================================================================================

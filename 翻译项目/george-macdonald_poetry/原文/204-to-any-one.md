@@ -1,0 +1,8 @@
+## To Any One
+
+Go not forth to call Dame Sorrow
+From the dim fields of Tomorrow;
+Let her roam there all unheeded,
+She will come when she is needed;
+Then, when she draws near thy door,
+She will find God there before.

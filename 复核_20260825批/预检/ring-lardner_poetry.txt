@@ -1,0 +1,47 @@
+====================================================================================================
+### ring-lardner_poetry  (4 files)
+  块: O=40 C=40 OK | 段: EN=278 CN=278 OK
+  英文残留(剔括注) top: OK×1
+  项目说明备注: 56MB 原书为插图版，正文仅 29KB；glossary.md 为残根标题页；棒球员俚语按民国译诗界惯例意译加注味。 /  / ## 篇目清单 /  / 由 `translation_queue.csv` 管理（4 篇，约 29KB）。
+  -- 术语表硬约束行 40 条:
+     Ring Lardner                   → 林·拉德纳                源×1     译×1    
+     In the Wake of the News        → 「新闻余波」专栏             源×1     译×0     ★译0次(未落位?)
+     Chicago Tribune                → 《芝加哥论坛报》             源×1     译×1    
+     Chicago                        → 芝加哥                  源×4     译×4    
+     Uncle Sam                      → 山姆大叔                 源×2     译×3    
+     Grace                          → 格蕾丝                  源×1     译×1    
+     Blanche                        → 布兰奇                  源×1     译×1    
+     Alice                          → 爱丽丝                  源×1     译×1    
+     Lena                           → 莉娜                   源×1     译×1    
+     Belle                          → 贝尔                   源×1     译×1    
+     Anna                           → 安娜                   源×1     译×1    
+     Ruth                           → 露丝                   源×1     译×1     残留「斯帕克斯」×1
+     Will                           → 威尔                   源×4     译×1     落位偏低 1/4 残留「朱布」×1 残留「意志」×1
+     Clayt                          → 克莱特                  源×1     译×1     残留「乔伊」×1 残留「欢喜」×1
+     Gertie                         → 格蒂                   源×1     译×1    
+     Bertha                         → 伯莎                   源×1     译×1    
+     Bess                           → 贝丝                   源×1     译×1     残留「索托雷」×1
+     Lawrence                       → 劳伦斯                  源×1     译×1     残留「奥帕尔」×1
+     Genevieve                      → 吉纳维芙                 源×1     译×1     残留「邓」×1
+     John                           → 约翰                   源×2     译×2    
+     Western Union                  → 西联                   源×1     译×1    
+     North Shore                    → 北岸                   源×1     译×1    
+     Canadian Rockies               → 加拿大落基山脉              源×1     译×1    
+     White Socks / Chicago White So → 白袜／芝加哥白袜队            源×2     译×2    
+     The Old Roman                  → 老罗马人                 源×1     译×1    
+     Cincinnati Reds                → 辛辛那提红人队              源×1     译×1     残留「红腿子」×1
+     Portage Tire                   → 波蒂奇轮胎                源×2     译×2    
+     Blackstone                     → 布莱克斯通                源×1     译×1    
+     Firestone                      → 火石牌                  源×1     译×1    
+     Planters Hotel                 → 种植园主酒店               源×1     译×1    
+     Congress Hotel                 → 国会酒店                 源×1     译×1    
+     Edgewater Beach Hotel          → 埃奇沃特海滩酒店             源×1     译×1    
+     Blackhawk Hotel                → 黑鹰酒店                 源×1     译×1    
+     Jackson Park                   → 杰克逊公园                源×1     译×1    
+     Joliet                         → 乔利埃特                 源×1     译×1    
+     Gene Greene                    → 吉恩·格林                源×1     译×1    
+     Parmelee Transfer Co.          → 帕米利转运公司              源×1     译×1    
+     Lakeside Petroleum Co.         → 湖滨石油公司               源×1     译×1    
+     C.P.R.                         → C.P.R.（加拿大太平洋铁路）     源×1     译×1    
+     Woods                          → 伍兹剧院                 源×1     译×1    
+

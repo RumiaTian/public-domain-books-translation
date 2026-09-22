@@ -1,0 +1,62 @@
+### XII
+It was long, very long, before Elsa could sleep. As soon as she closed her eyes the bed changed to a ship that rocked up and down in the waves, and when she raised her weary eyelids more and more wonderful shadows flitted between the heavy folds of the curtains in the dim light of her night-lamp. The events of the day passed through her mind in the most varied form and in the utmost confusion. She was sitting by the sickbed of the children in the close farmhouse room; but near her sat, not the farmer’s wife, but Meta, who had let her loosened hair fall over her face, and told her with sobs how ashamed she was of being in love with a merchant captain whom she had never seen before. And then, again, it was the farmer’s wife who sat upon the side of her bed and begged her to forget what she had said about the Count, who had sent for the doctor the moment she asked him, and who was certainly a kind gentleman in his own way, although he did not care about children and poor people, and looked sometimes so proud, and would be very angry if he knew that she always kept the little compass concealed in her pocket, which she must return to its owner tomorrow, for she had promised it by her friendship.
+That must have been the last flickering thread of the half-waking thoughts with which her dreams now played the most grotesquely painful tricks. Through narrow passages on board ship, and magnificent saloons, through dark forests, over foaming waves, now in a rocking boat, now in a shaking carriage, then again running hastily across the sandhills, where the ground at every step gave way under her eager feet, as she vainly endeavoured to hold by the waving grasses﻿—always and everywhere she hastened after the Captain, to whom she must speak, she knew not why, to whom she must give something, she knew not what; she only knew that her happiness depended upon her speaking to him, upon her giving this thing to him. But she could not find him, and when she was certain that he was only hidden behind a curtain, behind which she could even see his figure, and called to him to come forward﻿—she knew very well that he was there, and at last wanted, laughingly, to lift the curtain﻿—someone always held her back, sometimes her father shaking his head with displeasure, then the President, who put up his eyeglass and assured her that he could see through the thickest curtains, but there was nobody there. It was not a red silk curtain either, but thick dark smoke, which only shone so red from the blood which had been shed behind it; but that blood was the lifeblood of the Captain, who had just fallen in the battle of Gravelotte, half an hour before midday. She could do nothing to help him now.
+“But I must see him again. He gave me his heart; I have it in my pocket, and it is always quivering and wanting to get back to him. I cannot give it back to him, but I will give him my own instead, and then his will be at rest again.”
+“If that is the case,” said the President, “just put your heart here upon his tombstone.”
+And he drew back the red smoke as if it had been a curtain. There she saw a great iron cross, flooded with bright morning light; and at the foot of the cross, on the green turf, sat he whom she sought, in dress-coat and fisherman’s boots, and by his side Meta von Strummin; and they had a casket in their hands, in which lay a heart. She could not see it, but she knew that it was a heart.
+“You must not give that away,” said she.
+“Why not?” cried Meta. “I can give away my heart as often as I please, you know; I have given it away twenty times already.”
+“But that is my heart﻿—my heart!”
+Meta would not give her the heart, and then she grew so anxious and fearful. She caught Meta’s hands, and struggled with her.
+“Do wake up!” said Meta. “You are sighing and groaning so that you quite woke me.”
+“I thought the cross was red!” said Elsa.
+“You are dreaming still. That is the shadow of the window frame; I have drawn back the curtains to let in the light. The sun must rise soon, the sky is quite red now. It looks beautiful! Do just sit up, and that will rouse you altogether.”
+Elsa sat up. The whole room was filled with a red glow.
+“What have you been dreaming about?” asked Meta.
+“I do not know,” said Elsa.
+“How pretty you are,” said Meta; “much prettier even than you were yesterday evening. Did your dream give you such rosy cheeks, or is it the morning glow!”
+“The morning glow,” said Elsa. “How I should like to see the sun rise! I have never yet seen it.”
+“No!” cried Meta, clasping her hands together; “never yet seen the sun rise! Is it possible! Oh, you town people! Come! it never rises more beautifully than here at Golmberg, but we must make haste. I am half-dressed already. I will come and help you directly.”
+Meta came back in a few minutes and began to help Elsa to dress.
+“I was born to be a lady’s-maid,” said she. “Will you have me? I will dress and undress you all day long, and be as faithful as a lapdog to you; for one’s heart must cling to something, you know, and my heart has nothing now to cling to, you know. There now, just a veil over your beautiful hair, and this lovely shawl round you﻿—you will want them; it will be quite cold enough.”
+But a soft warm air met them as they stepped from the glass door on to the little balcony, from which a small iron staircase led down into a strip of garden which had been laid out between the two wings of the building.
+“The gate is never locked,” said Meta; “we can get straight into the forest, you know, and be there in five minutes; but we must make haste if we want to see anything.”
+She dragged her faintly-resisting companion quickly on. “Don’t be afraid,” she cried, “I know every step of the way; we shall not meet a soul, at the utmost only a roedeer﻿—look!”
+She held Elsa back by the arm and pointed to the broad path.
+There stood a deer not a hundred yards from them. It seemed to see nothing alarming in their two figures, but bent its delicate head, which it had raised for a moment, and quietly went on grazing.
+“That is what I delight in,” said Meta, as they quickly pursued the narrow path.
+“So do I,” said Elsa.
+“Then you must marry the Count.”
+“You must not say that again if we are to remain friends,” said Elsa, standing still.
+“Your eyes look as solemn as the deer’s,” said Meta. “Now you are laughing again, and that is much more becoming. But now shut your beautiful eyes tight, give me your hand, and don’t be afraid to walk on; but do not open your eyes. Mind you do not open them till I say, Now!”
+Elsa did as she was bid. A low rustling sound which she had perceived for some time past became louder and louder, the wind blew more and more strongly against her, a rosy light shone through her closed eyelids.
+“Now!”
+Elsa uttered a cry.
+“Do not be afraid; the railing is strong, and I am holding you,” said Meta.
+Elsa was startled, but only with delight at the wonderful picture which was spread before her. Below her, far below, a sea of rustling, rosy, glowing boughs, and beyond the forest billows, the real sea, as far as the eye could reach, tossing in waves whose foaming crests shone here and there in a crimson glow, answering to that which overspread the heavens. And a crimson glow was on the shore, which swept in graceful curves out to the right hand as far as the rugged promontory, against whose steep cliffs, plainly seen notwithstanding the great distance, the surf leapt high up in foam and froth.
+“Well, what do you say?” cried Meta.
+Elsa could not answer; her soul was too full of the wonderful sight, and yet, as she repeated to herself, “How beautiful! oh, how beautiful!” her heart, which had been so light, grew sadder and more sad. With the impetuous music of the wind through the rustling branches at her feet, in the sullen thunder of the waves as, unseen by her eyes they broke upon the level shore, there mingled a melancholy tone﻿—the reverberation of the dream from which she had awoke in such terror. Was not that crimson cloud, paling momentarily before the trembling light in the horizon, like the crimson curtain which had been drawn aside to show her that wonderful picture at the foot of the cross as it shone in the morning light; that picture of the two who were playing with her heart and laughing, while she was breaking it in grief and pain?
+Lighter and lighter grew the horizon, their eyes could hardly bear the glory. At last the sun leapt up﻿—a mass of light, a sheaf of rays, a ball of flame, before which the glow on sky and sea and earth as if in terror fled and vanished. Elsa was forced to close her eyes; she turned away, and when she opened them again﻿—good heavens! what did she see?
+They were standing a few paces from her, holding each other’s hands and smiling, with the golden light of the sun shining full upon them. Was she dreaming again? or was it a delusion of her bewildered senses!
+“This is too delightful!” cried Meta.
+“Good morning, Fräulein von Werben!” said Reinhold, as he withdrew his hand from Meta, who in her surprise had kept it a most indecorously long time, and came up to Elsa. “I must apologise again for disturbing you here. But how could I suppose that I should meet you in the forest at sunrise?”
+“And may I ask what you are doing in the forest at sunrise. Captain Schmidt?” asked Meta.
+Reinhold pointed with his hand over the sea, to a ship which had just rounded the promontory, and now seemed to be steering straight across the bay, leaving behind it a long straight streak of dark smoke:
+“That is our steamer,” said Reinhold, turning to Elsa. “She has been lying all night at anchor, behind Wissow Head, and is coming now, I suppose, to pick up our fellow-passengers. There, in the centre of the bay, you can just see the roofs over the edge of the dunes, lies Ahlbeck, the village where they were landed. The farmhouse, where we were yesterday evening, lies much nearer, and more to our right; but the spurs of the hill on which we now stand come between us and conceal it. I must make haste now to be able at least to signal to her from the shore. They will be surprised to see me come on board alone.”
+“Why should not we also go on board, if it would be so easy?” asked Elsa.
+“You will get to Neuenfähr almost as quickly, and much more comfortably, by road,” answered Reinhold. “That was settled yesterday by the gentlemen, after the ladies had retired, and I could only agree with them.”
+“And you?” asked Meta.
+“I belong to the ship. There, she has just turned, and is coming in shore now. Besides, I have a commission from the President to execute. But it is high time for me to be off.”
+“Goodbye, Captain Schmidt,” said Meta; “we shall meet again, I hope.”
+“You are very kind,” said Reinhold. “Goodbye.”
+He had turned to Elsa. Something like a shadow dimmed his blue eyes, and they did not look at her, but beyond her, perhaps towards the ship.
+“Goodbye, Captain Schmidt.”
+At the sound of her voice the shadow vanished; the blue eyes that now turned towards her shone brightly, brightly and joyfully as the sun, only that she had no need or desire now to close her eyes, but answered the deep earnest look frankly and earnestly, as her heart prompted her.
+And then he disappeared.
+The two girls retraced their steps, but without talking as they had done on their way out. They walked silently side by side, till, at the spot where the two paths crossed, and where they had before seen the deer, Meta suddenly threw her arms round Elsa’s neck, and kissed her passionately and repeatedly.
+“What is the matter, Meta?”
+“Nothing﻿—nothing at all! Only you have such beautiful eyes!”
+Reinhold, meanwhile, hastened down the narrow woodland path, which led from the place where he had found them, by a sharp descent over the side of the hill, between tall beeches and thick underwood, down to the seashore. He had not felt so gay and lighthearted since the days of his childhood. He could have sung and shouted for joy; and yet he was silent﻿—quite silent, that he might not disturb the echo of her voice.
+Only, as at a turn of the path the forest suddenly opened out, and the sea, his beloved sea, appeared in the bright morning sunshine between the trees that sloped down to the shore, he spread out his arms and cried:
+“I will be always true to you﻿—always!”
+Then he laughed at the double meaning of his words, laughed like a schoolboy, and ran down the steep path as if he had wings to his feet.

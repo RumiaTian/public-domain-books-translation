@@ -1,0 +1,111 @@
+## XXXIX That Night
+Their night was a troubled one, and they brought a strange report of it into the day. Whether the fear of their sleep came out into their waking, or their waking fear sank with them into their dreams, awake or asleep they were never at rest from it. All night something seemed going on in the house﻿—something silent, something terrible, something they were not to know. Never a sound awoke; the darkness was one with the silence, and the silence was the terror.
+Once, a frightful wind filled the house, and shook its inside, they said, so that it quivered and trembled like a horse shaking himself; but it was a silent wind that made not even a moan in their chamber, and passed away like a soundless sob.
+They fell asleep. But they woke again with a great start. They thought the house was filling with water such as they had been drinking. It came from below, and swelled up until the garret was full of it to the very roof. But it made no more sound than the wind, and when it sank away, they fell asleep dry and warm.
+The next time they woke, all the air, they said, inside and out, was full of cats. They swarmed﻿—up and down, along and across, everywhere about the room. They felt their claws trying to get through the nightgowns lady Mara had put on them, but they could not; and in the morning not one of them had a scratch. Through the dark suddenly, came the only sound they heard the night long﻿—the far-off howl of the huge great-grandmother-cat in the desert: she must have been calling her little ones, they thought, for that instant the cats stopped, and all was still. Once more they fell fast asleep, and did not wake till the sun was rising.
+Such was the account the children gave of their experiences. But I was with the veiled woman and the princess all through the night: something of what took place I saw; much I only felt; and there was more which eye could not see, and heart only could in a measure understand.
+As soon as Mara left the room with the children, my eyes fell on the white leopardess: I thought we had left her behind us, but there she was, cowering in a corner. Apparently she was in mortal terror of what she might see. A lamp stood on the high chimneypiece, and sometimes the room seemed full of lamp-shadows, sometimes of cloudy forms. The princess lay on the settle by the wall, and seemed never to have moved hand or foot. It was a fearsome waiting.
+When Mara returned, she drew the settle with Lilith upon it to the middle of the room, then sat down opposite me, at the other side of the hearth. Between us burned a small fire.
+Something terrible was on its way! The cloudy presences flickered and shook. A silvery creature like a slowworm came crawling out from among them, slowly crossed the clay floor, and crept into the fire. We sat motionless. The something came nearer.
+But the hours passed, midnight drew nigh, and there was no change. The night was very still. Not a sound broke the silence, not a rustle from the fire, not a crack from board or beam. Now and again I felt a sort of heave, but whether in the earth or in the air or in the waters under the earth, whether in my own body or in my soul﻿—whether it was anywhere, I could not tell. A dread sense of judgment was upon me. But I was not afraid, for I had ceased to care for aught save the thing that must be done.
+Suddenly it was midnight. The muffled woman rose, turned toward the settle, and slowly unwound the long swathes that hid her face: they dropped on the ground, and she stepped over them. The feet of the princess were toward the hearth; Mara went to her head, and turning, stood behind it. Then I saw her face. It was lovely beyond speech﻿—white and sad, heart-and-soul sad, but not unhappy, and I knew it never could be unhappy. Great tears were running down her cheeks: she wiped them away with her robe; her countenance grew very still, and she wept no more. But for the pity in every line of her expression, she would have seemed severe. She laid her hand on the head of the princess﻿—on the hair that grew low on the forehead, and stooping, breathed on the sallow brow. The body shuddered.
+“Will you turn away from the wicked things you have been doing so long?” said Mara gently.
+The princess did not answer. Mara put the question again, in the same soft, inviting tone.
+Still there was no sign of hearing. She spoke the words a third time.
+Then the seeming corpse opened its mouth and answered, its words appearing to frame themselves of something else than sound.﻿—I cannot shape the thing further: sounds they were not, yet they were words to me.
+“I will not,” she said. “I will be myself and not another!”
+“Alas, you are another now, not yourself! Will you not be your real self?”
+“I will be what I mean myself now.”
+“If you were restored, would you not make what amends you could for the misery you have caused?”
+“I would do after my nature.”
+“You do not know it: your nature is good, and you do evil!”
+“I will do as my Self pleases﻿—as my Self desires.”
+“You will do as the Shadow, overshadowing your Self inclines you?”
+“I will do what I will to do.”
+“You have killed your daughter, Lilith!”
+“I have killed thousands. She is my own!”
+“She was never yours as you are another’s.”
+“I am not another’s; I am my own, and my daughter is mine.”
+“Then, alas, your hour is come!”
+“I care not. I am what I am; no one can take from me myself!”
+“You are not the Self you imagine.”
+“So long as I feel myself what it pleases me to think myself, I care not. I am content to be to myself what I would be. What I choose to seem to myself makes me what I am. My own thought makes me me; my own thought of myself is me. Another shall not make me!”
+“But another has made you, and can compel you to see what you have made yourself. You will not be able much longer to look to yourself anything but what he sees you! You will not much longer have satisfaction in the thought of yourself. At this moment you are aware of the coming change!”
+“No one ever made me. I defy that Power to unmake me from a free woman! You are his slave, and I defy you! You may be able to torture me﻿—I do not know, but you shall not compel me to anything against my will!”
+“Such a compulsion would be without value. But there is a light that goes deeper than the will, a light that lights up the darkness behind it: that light can change your will, can make it truly yours and not another’s﻿—not the Shadow’s. Into the created can pour itself the creating will, and so redeem it!”
+“That light shall not enter me: I hate it!﻿—Begone, slave!”
+“I am no slave, for I love that light, and will with the deeper will which created mine. There is no slave but the creature that wills against its creator. Who is a slave but her who cries, ‘I am free,’ yet cannot cease to exist!”
+“You speak foolishness from a cowering heart! You imagine me given over to you: I defy you! I hold myself against you! What I choose to be, you cannot change. I will not be what you think me﻿—what you say I am!”
+“I am sorry: you must suffer!”
+“But be free!”
+“She alone is free who would make free; she loves not freedom who would enslave: she is herself a slave. Every life, every will, every heart that came within your ken, you have sought to subdue: you are the slave of every slave you have made﻿—such a slave that you do not know it!﻿—See your own self!”
+She took her hand from the head of the princess, and went two backward paces from her.
+A soundless presence as of roaring flame possessed the house﻿—the same, I presume, that was to the children a silent wind. Involuntarily I turned to the hearth: its fire was a still small moveless glow. But I saw the worm-thing come creeping out, white-hot, vivid as incandescent silver, the live heart of essential fire. Along the floor it crawled toward the settle, going very slow. Yet more slowly it crept up on it, and laid itself, as unwilling to go further, at the feet of the princess. I rose and stole nearer. Mara stood motionless, as one that waits an event foreknown. The shining thing crawled on to a bare bony foot: it showed no suffering, neither was the settle scorched where the worm had lain. Slowly, very slowly, it crept along her robe until it reached her bosom, where it disappeared among the folds.
+The face of the princess lay stonily calm, the eyelids closed as over dead eyes; and for some minutes nothing followed. At length, on the dry, parchment-like skin, began to appear drops as of the finest dew: in a moment they were as large as seed-pearls, ran together, and began to pour down in streams. I darted forward to snatch the worm from the poor withered bosom, and crush it with my foot. But Mara, Mother of Sorrow, stepped between, and drew aside the closed edges of the robe: no serpent was there﻿—no searing trail; the creature had passed in by the centre of the black spot, and was piercing through the joints and marrow to the thoughts and intents of the heart. The princess gave one writhing, contorted shudder, and I knew the worm was in her secret chamber.
+“She is seeing herself!” said Mara; and laying her hand on my arm, she drew me three paces from the settle.
+Of a sudden the princess bent her body upward in an arch, then sprang to the floor, and stood erect. The horror in her face made me tremble lest her eyes should open, and the sight of them overwhelm me. Her bosom heaved and sank, but no breath issued. Her hair hung and dripped; then it stood out from her head and emitted sparks; again hung down, and poured the sweat of her torture on the floor.
+I would have thrown my arms about her, but Mara stopped me.
+“You cannot go near her,” she said. “She is far away from us, afar in the hell of her self-consciousness. The central fire of the universe is radiating into her the knowledge of good and evil, the knowledge of what she is. She sees at last the good she is not, the evil she is. She knows that she is herself the fire in which she is burning, but she does not know that the Light of Life is the heart of that fire. Her torment is that she is what she is. Do not fear for her; she is not forsaken. No gentler way to help her was left. Wait and watch.”
+It may have been five minutes or five years that she stood thus﻿—I cannot tell; but at last she flung herself on her face.
+Mara went to her, and stood looking down upon her. Large tears fell from her eyes on the woman who had never wept, and would not weep.
+“Will you change your way?” she said at length.
+“Why did he make me such?” gasped Lilith. “I would have made myself﻿—oh, so different! I am glad it was he that made me and not I myself! He alone is to blame for what I am! Never would I have made such a worthless thing! He meant me such that I might know it and be miserable! I will not be made any longer!”
+“Unmake yourself, then,” said Mara.
+“Alas, I cannot! You know it, and mock me! How often have I not agonised to cease, but the tyrant keeps me being! I curse him!﻿—Now let him kill me!”
+The words came in jets as from a dying fountain.
+“Had he not made you,” said Mara, gently and slowly, “you could not even hate him. But he did not make you such. You have made yourself what you are.﻿—Be of better cheer: he can remake you.”
+“I will not be remade!”
+“He will not change you; he will only restore you to what you were.”
+“I will not be aught of his making.”
+“Are you not willing to have that set right which you have set wrong?”
+She lay silent; her suffering seemed abated.
+“If you are willing, put yourself again on the settle.”
+“I will not,” she answered, forcing the words through her clenched teeth.
+A wind seemed to wake inside the house, blowing without sound or impact; and a water began to rise that had no lap in its ripples, no sob in its swell. It was cold, but it did not benumb. Unseen and noiseless it came. It smote no sense in me, yet I knew it rising. I saw it lift at last and float her. Gently it bore her, unable to resist, and left rather than laid her on the settle. Then it sank swiftly away.
+The strife of thought, accusing and excusing, began afresh, and gathered fierceness. The soul of Lilith lay naked to the torture of pure interpenetrating inward light. She began to moan, and sigh deep sighs, then murmur as holding colloquy with a dividual self: her queendom was no longer whole; it was divided against itself. One moment she would exult as over her worst enemy, and weep; the next she would writhe as in the embrace of a friend whom her soul hated, and laugh like a demon. At length she began what seemed a tale about herself, in a language so strange, and in forms so shadowy, that I could but here and there understand a little. Yet the language seemed the primeval shape of one I knew well, and the forms to belong to dreams which had once been mine, but refused to be recalled. The tale appeared now and then to touch upon things that Adam had read from the disparted manuscript, and often to make allusion to influences and forces﻿—vices too, I could not help suspecting﻿—with which I was unacquainted.
+She ceased, and again came the horror in her hair, the sparkling and flowing alternate. I sent a beseeching look to Mara.
+“Those, alas, are not the tears of repentance!” she said. “The true tears gather in the eyes. Those are far more bitter, and not so good. Self-loathing is not sorrow. Yet it is good, for it marks a step in the way home, and in the father’s arms the prodigal forgets the self he abominates. Once with his father, he is to himself of no more account. It will be so with her.”
+She went nearer and said,
+“Will you restore that which you have wrongfully taken?”
+“I have taken nothing,” answered the princess, forcing out the words in spite of pain, “that I had not the right to take. My power to take manifested my right.”
+Mara left her.
+Gradually my soul grew aware of an invisible darkness, a something more terrible than aught that had yet made itself felt. A horrible Nothingness, a Negation positive infolded her; the border of its being that was yet no being, touched me, and for one ghastly instant I seemed alone with Death Absolute! It was not the absence of everything I felt, but the presence of Nothing. The princess dashed herself from the settle to the floor with an exceeding great and bitter cry. It was the recoil of Being from Annihilation.
+“For pity’s sake,” she shrieked, “tear my heart out, but let me live!”
+With that there fell upon her, and upon us also who watched with her, the perfect calm as of a summer night. Suffering had all but reached the brim of her life’s cup, and a hand had emptied it! She raised her head, half rose, and looked around her. A moment more, and she stood erect, with the air of a conqueror: she had won the battle! Dareful she had met her spiritual foes; they had withdrawn defeated! She raised her withered arm above her head, a paean of unholy triumph in her throat﻿—when suddenly her eyes fixed in a ghastly stare.﻿—What was she seeing?
+I looked, and saw: before her, cast from unseen heavenly mirror, stood the reflection of herself, and beside it a form of splendent beauty. She trembled, and sank again on the floor helpless. She knew the one what God had intended her to be, the other what she had made herself.
+The rest of the night she lay motionless altogether.
+With the gray dawn growing in the room, she rose, turned to Mara, and said, in prideful humility, “You have conquered. Let me go into the wilderness and bewail myself.”
+Mara saw that her submission was not feigned, neither was it real. She looked at her a moment, and returned:
+“Begin, then, and set right in the place of wrong.”
+“I know not how,” she replied﻿—with the look of one who foresaw and feared the answer.
+“Open thy hand, and let that which is in it go.”
+A fierce refusal seemed to struggle for passage, but she kept it prisoned.
+“I cannot,” she said. “I have no longer the power. Open it for me.”
+She held out the offending hand. It was more a paw than a hand. It seemed to me plain that she could not open it.
+Mara did not even look at it.
+“You must open it yourself,” she said quietly.
+“I have told you I cannot!”
+“You can if you will﻿—not indeed at once, but by persistent effort. What you have done, you do not yet wish undone﻿—do not yet intend to undo!”
+“You think so, I dare say,” rejoined the princess with a flash of insolence, “but I *know* that I cannot open my hand!”
+“I know you better than you know yourself, and I know you can. You have often opened it a little way. Without trouble and pain you cannot open it quite, but you *can* open it. At worst you could beat it open! I pray you, gather your strength, and open it wide.”
+“I will not try what I know impossible. It would be the part of a fool!”
+“Which you have been playing all your life! Oh, you are hard to teach!”
+Defiance reappeared on the face of the princess. She turned her back on Mara, saying, “I know what you have been tormenting me for! You have not succeeded, nor shall you succeed! You shall yet find me stronger than you think! I will yet be mistress of myself! I am still what I have always known myself﻿—queen of Hell, and mistress of the worlds!”
+Then came the most fearful thing of all. I did not know what it was; I knew myself unable to imagine it; I knew only that if it came near me I should die of terror! I now know that it was *life in death*﻿—life dead, yet existent; and I knew that Lilith had had glimpses, but only glimpses of it before: it had never been with her until now.
+She stood as she had turned. Mara went and sat down by the fire. Fearing to stand alone with the princess, I went also and sat again by the hearth. Something began to depart from me. A sense of cold, yet not what we call cold, crept, not into, but out of my being, and pervaded it. The lamp of life and the eternal fire seemed dying together, and I about to be left with naught but the consciousness that I had been alive. Mercifully, bereavement did not go so far, and my thought went back to Lilith.
+Something was taking place in her which we did not know. We knew we did not feel what she felt, but we knew we felt something of the misery it caused her. The thing itself was in her, not in us; its reflex, her misery, reached us, and was again reflected in us: she was in the outer darkness, we present with her who was in it! We were not in the outer darkness; had we been, we could not have been *with* her; we should have been timelessly, spacelessly, absolutely apart. The darkness knows neither the light nor itself; only the light knows itself and the darkness also. None but God hates evil and understands it.
+Something was gone from her, which then first, by its absence, she knew to have been with her every moment of her wicked years. The source of life had withdrawn itself; all that was left her of conscious being was the dregs of her dead and corrupted life.
+She stood rigid. Mara buried her head in her hands. I gazed on the face of one who knew existence but not love﻿—knew nor life, nor joy, nor good; with my eyes I saw the face of a live death! She knew life only to know that it was dead, and that, in her, death lived. It was not merely that life had ceased in her, but that she was consciously a dead thing. She had killed her life, and was dead﻿—and knew it. She must *death it* forever and ever! She had tried her hardest to unmake herself, and could not! she was a dead life! she could not cease! she must *be*! In her face I saw and read beyond its misery﻿—saw in its dismay that the dismay behind it was more than it could manifest. It sent out a livid gloom; the light that was in her was darkness, and after its kind it shone. She was what God could not have created. She had usurped beyond her share in self-creation, and her part had undone His! She saw now what she had made, and behold, it was not good! She was as a conscious corpse, whose coffin would never come to pieces, never set her free! Her bodily eyes stood wide open, as if gazing into the heart of horror essential﻿—her own indestructible evil. Her right hand also was now clenched﻿—upon existent Nothing﻿—her inheritance!
+But with God all things are possible: He can save even the rich!
+Without change of look, without sign of purpose, Lilith walked toward Mara. She felt her coming, and rose to meet her.
+“I yield,” said the princess. “I cannot hold out. I am defeated.﻿—Not the less, I cannot open my hand.”
+“Have you tried?”
+“I am trying now with all my might.”
+“I will take you to my father. You have wronged him worst of the created, therefore he best of the created can help you.”
+“How can *he* help me?”
+“He will forgive you.”
+“Ah, if he would but help me to cease! Not even that am I capable of! I have no power over myself; I am a slave! I acknowledge it. Let me die.”
+“A slave thou art that shall one day be a child!” answered Mara.﻿—“Verily, thou shalt die, but not as thou thinkest. Thou shalt die out of death into life. Now is the Life for, that never was against thee!”
+Like her mother, in whom lay the motherhood of all the world, Mara put her arms around Lilith, and kissed her on the forehead. The fiery-cold misery went out of her eyes, and their fountains filled. She lifted, and bore her to her own bed in a corner of the room, laid her softly upon it, and closed her eyes with caressing hands.
+Lilith lay and wept. The Lady of Sorrow went to the door and opened it.
+Morn, with the Spring in her arms, waited outside. Softly they stole in at the opened door, with a gentle wind in the skirts of their garments. It flowed and flowed about Lilith, rippling the unknown, upwaking sea of her life eternal; rippling and to ripple it, until at length she who had been but as a weed cast on the dry sandy shore to wither, should know herself an inlet of the everlasting ocean, henceforth to flow into her forever, and ebb no more. She answered the morning wind with reviving breath, and began to listen. For in the skirts of the wind had come the rain﻿—the soft rain that heals the mown, the many-wounded grass﻿—soothing it with the sweetness of all music, the hush that lives between music and silence. It bedewed the desert places around the cottage, and the sands of Lilith’s heart heard it, and drank it in. When Mara returned to sit by her bed, her tears were flowing softer than the rain, and soon she was fast asleep.

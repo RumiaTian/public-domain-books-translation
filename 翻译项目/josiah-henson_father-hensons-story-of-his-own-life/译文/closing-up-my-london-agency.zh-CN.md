@@ -1,0 +1,35 @@
+## XXIII Closing Up My London Agency / 结束我在伦敦的代理事务
+
+===Original===
+My Narrative Published﻿—Letter from Home Apprising Me of the Sickness of My Wife﻿—Departure from London﻿—Arrival at Home﻿—Meeting with My Family﻿—The Great Sorrow of My Life, the Death of My Wife.
+The dinner at Lord John Russell’s, as detailed in the previous chapter, was in the month of June, 1852; from that time to the first of August I was busily employed in finishing up all matters connected with my agency, in which I was very successful, having accomplished the objects of my mission. During the month of August, I was engaged in publishing a narrative of incidents in my slave-life, which I had been urgently requested to do by some of the noblest men and women in England. Just as I had completed the work, and issued an edition of two thousand copies, I received, on the third of September, a letter from my family in Canada, stating that my beloved wife, the companion of my life, the sharer of my joys and sorrows, lay at the point of death, and that she earnestly desired me to return immediately, that she might see me once more before she bid adieu to earth. This was a trying hour for me. I was in England, four thousand miles from my home. I had just embarked in an enterprise which I had every reason to suppose would be a very profitable undertaking. The first edition of my book was ready for sale, and now What shall I do? was the question which I asked myself. Shall I remain here and sell ten thousand copies of my book, and make a handsome sum of money for myself and family, or shall I leave all and hasten to the bedside of my dying wife? I was not long in deciding the question. I will leave my books and stereotype plates, and all my property behind, and go. And on the morning of the fourth of September, having received the letter from home at four o’clock on the afternoon of the third, I was on my way from London to Liverpool, and embarked from Liverpool on the fifth, in the steamer Canada, bound for Boston. On the twentieth of the same month I arrived at my own Canadian home. Those who have been placed in similar situations, can realize what must have been my feelings as I drew near my humble dwelling. I had heard nothing since the information contained in the letter which reached me at Liverpool. I knew not whether my dear wife, the mother of my children, she who had travelled with me, sad and solitary, and footsore, from the land of bondage; who had been to me a kind, and affectionate, and dutiful wife, for forty years, I knew not whether she was still alive, or whether she had entered into rest.
+A merciful Father had, however, kindly prolonged her life, and we were permitted once more to meet. And oh! such a meeting; it was worth more to me than all the fancied gains from my English book. I was met in the yard by four of my daughters, who rushed to my arms, delighted at my unexpected return. They begged me not to go in to see mother, until they should first go and prepare her for it, thinking very wisely that the shock would be too great for her poor shattered nerves to bear. I consented that they should precede me. They immediately repaired to her sick room, and by gradual stages prepared her mind for our meeting. When I went to her bedside, she received and embraced me with the calmness and fortitude of a Christian, and even chided me for the strong emotions of sorrow which I found it utterly impossible to suppress. I found her perfectly calm and resigned to the will of God, awaiting with Christian firmness the hour for her summons. She was rejoiced to see me once more, while at the same time she said that perhaps she had done wrong in allowing me to be sent for to return, leaving my business behind, with all its flattering prospects. I told her that I was more than satisfied, that I was truly thankful to my Heavenly Father for granting us this interview, no matter what the pecuniary sacrifice might be. We talked over our whole past life as far as her strength would permit, reviewing the many scenes of sorrow and trouble, as well as the many bright and happy days of our pilgrimage, until exhausted nature sought repose, and she sunk into a quiet sleep.
+
+===Chinese===
+我的自述出版——家书告知妻子病重——离伦敦——抵家——与家人相聚——我此生最大的悲痛：妻子的死亡。
+前一章详述的约翰·罗素勋爵（Lord John Russell）府上的宴会，是在 1852 年 6 月；从那时到 8 月 1 日，我忙着收束与我代理事务有关的一切事宜，成绩斐然，此行的目的都已达成。8 月间，我忙于出版一部记述我奴隶生涯中种种遭际的自述——英国一些最高贵的男女曾恳切地敦促我这样做。作品刚刚完成，两千册的第一版刚刚印出，9 月 3 日，我便收到加拿大家里的来信，说我挚爱的妻子、我终身的伴侣、忧乐与共的人，已卧病垂危，急盼我即刻回去，好在她辞世之前再见我一面。这于我是一个难熬的时刻。我在英格兰，离家四千英里。我刚刚着手一项事业，有十足的理由指望它十分有利可图。我的书的第一版已待售，这时「我该怎么办？」成了我自问的问题。是留在这里卖出上万册书，为自己和家里挣一大笔钱，还是抛下一切，赶到垂危的妻子的病榻旁？我没有犹豫多久。我要把书、纸型版和全部财产留下，走。9 月 3 日下午 4 点接到家书，9 月 4 日早晨，我已在从伦敦赴利物浦的路上，并于 5 日在利物浦登上开往波士顿的「加拿大号」轮船。当月 20 日，我回到了我在加拿大的家。凡处于类似境况的人，都能体会我走近自己那所简朴住屋时的心情。自从在利物浦收到那封信之后，我再没有听到任何消息。我不知道我亲爱的妻子、我孩子们的母亲——她曾陪我一同从那为奴之地凄凉孤单、双脚磨破地走过来，四十年来一直是我善良、深情、尽本分的妻子——是还活着，还是已经进入安息。
+然而仁慈的天父恩准延长了她的生命，我们得以再见一面。啊！这样的重逢；它比我从英文书里设想的一切收益加起来还宝贵。四个女儿在院子里迎住我，扑进我的怀抱，为我突然归来而欢天喜地。她们求我先不要进去看母亲，让她们先去为她作好准备——她们很有见地，认为这打击对母亲那衰弱可怜的神经来说太重了。我答应让她们先进去。她们立刻到病房里去，一步步使她的心准备好这次相见。我走到她床前，她以一个基督徒的镇静与坚忍迎接我、拥抱我，甚至嗔怪我不该流露那样强烈的悲伤——我实在无法抑制。我见她完全平静，顺服上帝的旨意，以基督徒的坚毅等候蒙召的时刻。她很高兴再见到我，同时又说自己或许做错了，不该叫人捎信让我撇下前景大好的事业赶回来。我对她说，我无比满足，真心感谢天父赐给我们这次相见，无论金钱上牺牲多大。我们尽她的气力所许，把过去的一生细细谈了一遍，重温了种种忧患困苦，也重温了我们人生旅途上许多光明快乐的日子，直到耗尽的自然之力寻求歇息，她沉入了安静的睡眠。
+
+===Original===
+The day following she revived; my return seeming to inspire her with the hope that possibly she might again be restored to health. It was not, however, so to be; but God in his mercy granted her a reprieve, and her life was prolonged a few weeks. I thus had the melancholy satisfaction of watching day and night by her bed of languishing and pain, and was permitted to close her eyes when the final summons came. She blessed me, and blessed her children, commending us to the ever watchful care of that Saviour who had sustained her in so many hours of trial; and finally, after kissing me and each one of the children, she passed from earth to heaven without a pang or a groan, as gently as the falling to sleep of an infant on its mother’s breast.
+> “Who would not wish to die like those
+ 
+
+ Whom God’s own spirit deigns to bless?
+ 
+
+ To sink into that soft repose,
+ 
+
+ Then wake to perfect happiness?”
+I can truly and from an overflowing heart say, that she was a sincere and devoted Christian, and a faithful and kind wife to me, even up to the day of her death arranging all our domestic matters in such a manner as to contribute as largely as possible to my comfort and happiness.
+Rest in peace, dear wife. If I am faithful to the end, as thou wert, we shall ere long meet again in that world where the sorrows of life shall not be remembered or brought into mind.
+
+===Chinese===
+第二天她精神了一阵；我的归来似乎使她生出了或许还能恢复健康的希望。然而天意不然；但上帝发怜悯，宽限了她，把她的生命又延长了几个星期。我便得了那凄凉的满足，日夜守在她那病苦的床旁，并在最后的召唤来到时，得以为她合上眼睛。她为我祝福，为她的孩子们祝福，把我们交托给那位在她多次试炼中扶持她的救主时时看顾；最后，她吻过我和每一个孩子，便毫无痛苦、毫无呻吟地离开尘世进入天堂，恬然如婴儿在母亲怀中睡去。
+「谁不愿像他们那样死去——
+蒙上帝亲自赐福的人？
+安然沉入那柔和的安息，
+再醒来便是完全的幸福？」
+我可以发自满溢的真心实实在在地说：她是一个真诚而虔敬的基督徒，是我忠实而仁爱的妻子，直到去世的那一天，还把我们的家务安排得尽可能有助于我的舒适与幸福。
+安息吧，亲爱的妻子。我若能像你一样忠诚到底，我们不久就必在那个世界里重逢——在那里，今生的忧愁不再被记念，也不再想起。

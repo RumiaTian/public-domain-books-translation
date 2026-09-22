@@ -1,0 +1,6 @@
+## To My Lord and Master
+
+Imagination cannot rise above thee;
+Near and afar I see thee, and I love thee;
+My misery away from me I thrust it,
+For thy perfection I behold, and trust it.

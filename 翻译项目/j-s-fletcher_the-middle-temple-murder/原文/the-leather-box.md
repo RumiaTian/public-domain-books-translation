@@ -1,0 +1,60 @@
+## X The Leather Box
+Whether Spargo was sanguine enough to expect that his staring headline would bring him information of the sort he wanted was a secret which he kept to himself. That a good many thousands of human beings must have set eyes on John Marbury between the hours which Spargo set forth in that headline was certain; the problem was﻿—What particular owner or owners of a pair or of many pairs of those eyes would remember him? Why should they remember him? Walters and his wife had reason to remember him; Criedir had reason to remember him; so had Myerst; so had William Webster. But between a quarter past three, when he left the London and Universal Safe Deposit, and a quarter past nine, when he sat down by Webster’s side in the lobby of the House of Commons, nobody seemed to have any recollection of him except Mr. Fiskie, the hatter, and he only remembered him faintly, and because Marbury had bought a fashionable cloth cap at his shop. At any rate, by noon of that day, nobody had come forward with any recollection of him. He must have gone West from seeing Myerst, because he bought his cap at Fiskie’s; he must eventually have gone Southwest, because he turned up at Westminster. But where else did he go? What did he do? To whom did he speak? No answer came to these questions.
+“That shows,” observed young Mr. Ronald Breton, lazing an hour away in Spargo’s room at the *Watchman* at that particular hour which is neither noon nor afternoon, wherein even busy men do nothing, “that shows how a chap can go about London as if he were merely an ant that had strayed into another ant-heap than his own. Nobody notices.”
+“You’d better go and read up a little elementary entomology, Breton,” said Spargo. “I don’t know much about it myself, but I’ve a pretty good idea that when an ant walks into the highways and byways of a colony to which he doesn’t belong he doesn’t survive his intrusion by many seconds.”
+“Well, you know what I mean,” said Breton. “London’s an ant-heap, isn’t it? One human ant more or less doesn’t count. This man Marbury must have gone about a pretty tidy lot during those six hours. He’d ride on a bus﻿—almost certain. He’d get into a taxicab﻿—I think that’s much more certain, because it would be a novelty to him. He’d want some tea﻿—anyway, he’d be sure to want a drink, and he’d turn in somewhere to get one or the other. He’d buy things in shops﻿—these Colonials always do. He’d go somewhere to get his dinner. He’d﻿—but what’s the use of enumeration in this case?”
+“A mere piling up of platitudes,” answered Spargo.
+“What I mean is,” continued Breton, “that piles of people must have seen him, and yet it’s now hours and hours since your paper came out this morning, and nobody’s come forward to tell anything. And when you come to think of it, why should they? Who’d remember an ordinary man in a grey tweed suit?”
+“ ‘An ordinary man in a grey tweed suit,’ ” repeated Spargo. “Good line. You haven’t any copyright in it, remember. It would make a good cross-heading.”
+Breton laughed. “You’re a queer chap, Spargo,” he said. “Seriously, do you think you’re getting any nearer anything?”
+“I’m getting nearer something with everything that’s done,” Spargo answered. “You can’t start on a business like this without evolving something out of it, you know.”
+“Well,” said Breton, “to me there’s not so much mystery in it. Mr. Aylmore’s explained the reason why my address was found on the body; Criedir, the stamp-man, has explained﻿—”
+Spargo suddenly looked up.
+“What?” he said sharply.
+“Why, the reason of Marbury’s being found where he was found,” replied Breton. “Of course, I see it all! Marbury was mooning around Fleet Street; he slipped into Middle Temple Lane, late as it was, just to see where old Cardlestone hangs out, and he was set upon and done for. The thing’s plain to me. The only thing now is to find who did it.”
+“Yes, that’s it,” agreed Spargo. “That’s it.” He turned over the leaves of the diary which lay on his desk. “By the by,” he said, looking up with some interest, “the adjourned inquest is at eleven o’clock tomorrow morning. Are you going?”
+“I shall certainly go,” answered Breton. “What’s more, I’m going to take Miss Aylmore and her sister. As the gruesome details were over at the first sitting, and as there’ll be nothing but this new evidence tomorrow, and as they’ve never been in a coroner’s court﻿—”
+“Mr. Aylmore’ll be the principal witness tomorrow,” interrupted Spargo. “I suppose he’ll be able to tell a lot more than he told﻿—me.”
+Breton shrugged his shoulders.
+“I don’t see that there’s much more to tell,” he said. “But,” he added, with a sly laugh, “I suppose you want some more good copy, eh?”
+Spargo glanced at his watch, rose, and picked up his hat. “I’ll tell you what I want,” he said. “I want to know who John Marbury was. That would make good copy. Who he was﻿—twenty﻿—twenty-five﻿—forty years ago. Eh?”
+“And you think Mr. Aylmore can tell?” asked Breton.
+“Mr. Aylmore,” answered Spargo as they walked towards the door, “is the only person I have met so far who has admitted that he knew John Marbury in the﻿—past. But he didn’t tell me﻿—much. Perhaps he’ll tell the coroner and his jury﻿—more. Now, I’m off, Breton﻿—I’ve an appointment.”
+And leaving Breton to find his own way out, Spargo hurried away, jumped into a taxicab and speeded to the London and Universal Safe Deposit. At the corner of its building he found Rathbury awaiting him.
+“Well?” said Spargo, as he sprang out: “How is it?”
+“It’s all right,” answered Rathbury. “You can be present: I got the necessary permission. As there are no relations known, there’ll only be one or two officials and you, and the Safe Deposit people, and myself. Come on﻿—it’s about time.”
+“It sounds,” observed Spargo, “like an exhumation.”
+Rathbury laughed. “Well, we’re certainly going to dig up a dead man’s secrets,” he said. “At least, we may be going to do so. In my opinion, Mr. Spargo, we’ll find some clue in this leather box.”
+Spargo made no answer. They entered the office, to be shown into a room where were already assembled Mr. Myerst, a gentleman who turned out to be the chairman of the company, and the officials of whom Rathbury had spoken. And in another moment Spargo heard the chairman explaining that the company possessed duplicate keys to all safes, and that the proper authorization having been received from the proper authorities, those present would now proceed to the safe recently tenanted by the late Mr. John Marbury, and take from it the property which he himself had deposited there, a small leather box, which they would afterwards bring to that room and cause to be opened in each other’s presence.
+It seemed to Spargo that there was an unending unlocking of bolts and bars before he and his fellow-processionists came to the safe so recently rented by the late Mr. John Marbury, now undoubtedly deceased. And at first sight of it, he saw that it was so small an affair that it seemed ludicrous to imagine that it could contain anything of any importance. In fact, it looked to be no more than a plain wooden locker, one amongst many in a small strong room: it reminded Spargo irresistibly of the locker in which, in his school days, he had kept his personal belongings and the jam tarts, sausage rolls, and hardbake smuggled in from the tuck-shop. Marbury’s name had been newly painted upon it; the paint was scarcely dry. But when the wooden door﻿—the front door, as it were, of this temple of mystery, had been solemnly opened by the chairman, a formidable door of steel was revealed, and expectation still leapt in the bosoms of the beholders.
+“The duplicate key, Mr. Myerst, if you please,” commanded the chairman, “the duplicate key!”
+Myerst, who was fully as solemn as his principal, produced a curious-looking key: the chairman lifted his hand as if he were about to christen a battleship: the steel door swung slowly back. And there, in a two-foot square cavity, lay the leather box.
+It struck Spargo as they filed back to the secretary’s room that the procession became more funereal-like than ever. First walked the chairman, abreast with the high official, who had brought the necessary authorization from the all-powerful quarter; then came Myerst carrying the box: followed two other gentlemen, both legal lights, charged with watching official and police interests; Rathbury and Spargo brought up the rear. He whispered something of his notions to the detective; Rathbury nodded a comprehensive understanding.
+“Let’s hope we’re going to see﻿—something!” he said.
+In the secretary’s room a man waited who touched his forelock respectfully as the heads of the procession entered. Myerst set the box on the table: the man made a musical jingle of keys: the other members of the procession gathered round.
+“As we naturally possess no key to this box,” announced the chairman in grave tones, “it becomes our duty to employ professional assistance in opening it. Jobson!”
+He waved a hand, and the man of the keys stepped forward with alacrity. He examined the lock of the box with a knowing eye; it was easy to see that he was anxious to fall upon it. While he considered matters, Spargo looked at the box. It was pretty much what it had been described to him as being; a small, square box of old cowhide, very strongly made, much worn and tarnished, fitted with a handle projecting from the lid, and having the appearance of having been hidden away somewhere for many a long day.
+There was a click, a spring: Jobson stepped back.
+“That’s it, if you please, sir,” he said.
+The chairman motioned to the high official.
+“If you would be good enough to open the box, sir,” he said. “Our duty is now concluded.”
+As the high official laid his hand on the lid the other men gathered round with craning necks and expectant eyes. The lid was lifted: somebody sighed deeply. And Spargo pushed his own head and eyes nearer.
+The box was empty!
+Empty, as anything that can be empty is empty! thought Spargo: there was literally nothing in it. They were all staring into the interior of a plain, timeworn little receptacle, lined out with old-fashioned chintz stuff, such as our Mid-Victorian forefathers were familiar with, and containing﻿—nothing.
+“God bless my soul!” exclaimed the chairman. “This is﻿—dear me!﻿—why, there is nothing in the box!”
+“That,” remarked the high official, drily, “appears to be obvious.”
+The chairman looked at the secretary.
+“I understood the box was valuable, Mr. Myerst,” he said, with the half-injured air of a man who considers himself to have been robbed of an exceptionally fine treat. “Valuable!”
+Myerst coughed.
+“I can only repeat what I have already said, Sir Benjamin,” he answered. “The﻿—er late Mr. Marbury spoke of the deposit as being of great value to him; he never permitted it out of his hand until he placed it in the safe. He appeared to regard it as of the greatest value.”
+“But we understand from the evidence of Mr. Criedir, given to the *Watchman* newspaper, that it was full of papers and﻿—and other articles,” said the chairman. “Criedir saw papers in it about an hour before it was brought here.”
+Myerst spread out his hands.
+“I can only repeat what I have said, Sir Benjamin,” he answered. “I know nothing more.”
+“But why should a man deposit an empty box?” began the chairman. “I﻿—”
+The high official interposed.
+“That the box is empty is certain,” he observed. “Did you ever handle it yourself, Mr. Myerst?”
+Myerst smiled in a superior fashion.
+“I have already observed, sir, that from the time the deceased entered this room until the moment he placed the box in the safe which he rented, the box was never out of his hands,” he replied.
+Then there was silence. At last the high official turned to the chairman.
+“Very well,” he said. “We’ve made the enquiry. Rathbury, take the box away with you and lock it up at the Yard.”
+So Spargo went out with Rathbury and the box; and saw excellent, if mystifying, material for the article which had already become the daily feature of his paper.

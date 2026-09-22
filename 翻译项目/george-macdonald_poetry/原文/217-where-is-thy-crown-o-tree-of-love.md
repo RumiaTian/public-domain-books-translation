@@ -1,0 +1,13 @@
+## Hope Deferred
+
+*Where Is Thy Crown, O Tree of Love?*
+
+“Where is thy crown, O tree of Love?
+Flowers only bears thy root!
+Will never rain drop from above
+Divine enough for fruit?”
+
+“I dwell in hope that gives good cheer,
+Twilight my darkest hour;
+For seest thou not that every year
+I break in better flower?”

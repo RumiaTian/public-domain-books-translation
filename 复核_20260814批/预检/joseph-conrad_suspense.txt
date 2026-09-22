@@ -1,0 +1,61 @@
+====================================================================================================
+### joseph-conrad_suspense  (19 files)
+  块: O=236 C=236 OK | 段: EN=1324 CN=1324 OK
+  英文残留(剔括注) top: mon×5, signorino×3, Si×2, enfant×2, jeune×2, ami×2, facchini×1, sbirri×1, si×1, dieu×1
+  项目说明备注: - 卷名页（part-1/2/3/4.md）只有标题，照卷名页处理。 / - 各卷章节序号独立（每卷从 Chapter I 起），文件名前缀卷号（1-1, 2-1...）。 / - 第 4 卷唯一章（4-1.md，86.3KB）为最长，按通用翻译引擎第七节分段处理。 / - 康拉德文风：氛围浓重、长句、心理刻画细腻；译文求保留其沉郁绵密的节奏。 / - 历史/外交人物、意大利地名、拿破仑时代术语以术语表为准。 / - 主人公 Cosmo Latham → 科斯莫·莱瑟姆；Adèle d'Armand / Countess de Montevesso → 阿黛勒·达蒙 / 蒙特韦索伯爵夫人。
+  -- 术语表硬约束行 54 条:
+     Cosmo Latham                   → 科斯莫·莱瑟姆              源×6     译×6    
+     Adèle d'Armand                 → 阿黛勒·达蒙               源×12    译×12   
+     Countess de Montevesso         → 蒙特韦索伯爵夫人             源×10    译×20   
+     Count de Montevesso            → 蒙特韦索伯爵               源×28    译×35   
+     Napoleon                       → 拿破仑                  源×14    译×15   
+     Latham family                  → 莱瑟姆一家                源×0     译×0     ★源0次(幽灵?)
+     Spire                          → 斯帕尔                  源×104   译×72   
+     Doctor Martel                  → 马泰尔医生                源×12    译×12   
+     Signor Cantelucci              → 坎泰洛奇先生               源×7     译×7    
+     Sir Charles Latham             → 查尔斯·莱瑟姆爵士            源×3     译×2    
+     Lord Nelson                    → 纳尔逊勋爵                源×2     译×2    
+     Duke of Wellington             → 威灵顿公爵                源×2     译×2    
+     Admiral Keith                  → 基思海军上将               源×1     译×1    
+     Marquis d'Armand               → 达尔芒侯爵                源×7     译×0     ★译0次(未落位?)
+     Bernard                        → 贝尔纳                  源×57    译×57   
+     Count Helion of Montevesso     → 蒙特韦索的埃利翁伯爵           源×1     译×1    
+     Henrietta Latham               → 亨利埃塔·莱瑟姆             源×3     译×1     落位偏低 1/3
+     Count Bubna                    → 布布纳伯爵                源×4     译×3    
+     Lady William Bentick           → 威廉·本蒂克夫人             源×1     译×1    
+     Lord William                   → 威廉勋爵                 源×1     译×1    
+     Louise Durazzo                 → 路易丝·杜拉佐              源×1     译×1    
+     Madame Ferrati                 → 费拉蒂夫人                源×1     译×1    
+     Mr. Wycherley                  → 威彻利先生                源×4     译×4    
+     M. de Talleyrand               → 塔列朗先生                源×2     译×2    
+     Sir Charles Stewart            → 查尔斯·斯图尔特爵士           源×1     译×1    
+     Genoa                          → 热那亚                  源×37    译×43   
+     the Gulf of Genoa              → 热那亚湾                 源×2     译×2    
+     Elba                           → 厄尔巴岛                 源×17    译×19   
+     England                        → 英格兰                  源×12    译×10   
+     Paris                          → 巴黎                   源×32    译×32   
+     Naples                         → 那不勒斯                 源×2     译×4    
+     Florence                       → 佛罗伦萨                 源×5     译×7    
+     Yorkshire                      → 约克郡                  源×14    译×14   
+     Switzerland                    → 瑞士                   源×2     译×4    
+     Russia                         → 俄罗斯                  源×2     译×5    
+     Turin                          → 都灵                   源×8     译×8    
+     Madrid                         → 马德里                  源×2     译×2    
+     Vienna                         → 维也纳                  源×10    译×11   
+     Leghorn                        → 里窝那                  源×3     译×13   
+     India                          → 印度                   源×9     译×12   
+     Mediterranean                  → 地中海                  源×4     译×4    
+     the Emperor                    → 皇帝                   源×8     译×13   
+     Imperial                       → 帝国的                  源×6     译×2     落位偏低 2/6
+     Royalist                       → 保皇党                  源×9     译×12   
+     Bonapartist                    → 波拿巴派                 源×0     译×0     ★源0次(幽灵?)
+     intrigue                       → 阴谋 / 密谋              源×1     译×23   
+     émigré                         → 流亡贵族                 源×1     译×6    
+     Jacobin                        → 雅各宾派                 源×1     译×4    
+     the siege of Genoa             → 热那亚之围                源×1     译×1    
+     vaccine                        → 牛痘疫苗                 源×2     译×2    
+     Guards                         → 禁卫军                  源×2     译×2    
+     the Revolution                 → 大革命                  源×12    译×4     落位偏低 4/12
+     the Man of Elba                → 厄尔巴岛上那个人             源×1     译×1    
+     Palazzo Brignoli               → 布林约利宫                源×2     译×1    
+

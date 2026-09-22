@@ -1,0 +1,10 @@
+## Editor’s Preface
+The *Suspiria* have a complex publication history. De Quincey originally published them in *Blackwood’s Magazine* in 1845, intending them to be a kind of sequel to his *Confessions of an English Opium-Eater*. In their first incarnation, “Dreaming” was presented as an “Introductory Notice,” and “Vision of Life” and “Memorial Suspiria” were joined as a single “Part 2.”
+De Quincey later edited and released an updated version of the *Suspiria* in his *Collected Works*, with the exception of “The Affliction of Childhood,” which he merged into his larger *Autobiographic Sketches*. The *Collected Works* versions are the versions presented here, along with the initial, independent version of “The Affliction of Childhood.” Several *Suspiria* appeared as posthumous publications, and they’re included here as well.
+De Quincey ultimately planned for the *Suspiria* to be published together in a single volume. Unfortunately he didn’t live to see his plan completed, and today only those *Suspiria* remain that escaped time, fire, and addiction. They’re presented in this edition not in the order in which they were originally published, but in the order suggested by Alexander H. Japp in his *The Posthumous Works of Thomas De Quincey*, Volume I.
+Of the *Suspiria* published during De Quincey’s life, to date only the *Blackwood’s* editions have been available as digital transcriptions. The edition you’re reading now is, to the editor’s knowledge, the first digital transcription of the later *Collected Works* versions.
+“Dreaming,” “The Palimpsest of the Human Brain,” “Vision of Life,” “Memorial Suspiria,” “Levana and Our Ladies of Sorrow,” and “Savannah-La-Mer” were transcribed from *De Quincey’s Collected Writings* Volume XIII, edited by David Masson. A paragraph at the end of “The Affliction of Childhood,” which is duplicated in “Dreaming,” has been removed.
+“Daughter of Lebanon” was transcribed from Volume III of the same set.
+“The Apparition of the Brocken” was transcribed from *Confessions of an English Opium-Eater, and Kindred Papers*.
+Alex Cabal
+Chicago, December 2016

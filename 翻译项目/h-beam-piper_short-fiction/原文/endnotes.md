@@ -1,0 +1,2 @@
+## Endnotes
+1. There’s an uncorrected error here: the third element is “Sarfalddavas” above but “tirfalddavas” below. This wasn’t changed in later versions of the text, so it’s not clear which is correct. The capitalized one would be consistent with the other names, and the “Sar﻿—” implies a relationship with the first element, which *is* in the same group. Or maybe the character misspoke, in her excitement? —﻿Transcriber ↩︎

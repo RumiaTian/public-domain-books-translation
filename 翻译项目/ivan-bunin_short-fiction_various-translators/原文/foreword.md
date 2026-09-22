@@ -1,0 +1,4 @@
+## Foreword
+This edition of Ivan Bunin’s *Short Fiction* was produced from various translations. “Figures” and “Elijah, the Prophet” were translated by *The Russian Review* and originally published in 1916. “The Gentleman from San Francisco” was translated by D. H. Lawrence and S. S. Koteliansky, and originally published in 1923. “Son,” “Gentle Breathing,” and “Kasimir Stanislavovitch” were translated by S. S. Koteliansky and Leonard Woolf, and originally published in 1923. “Death,” “A Goodly Life,” “A Night Conversation,” “ ‘I Say Nothing,’ ” “An Evening in Spring,” “Brethren,” “The Grammar of Love,” “Aglaia,” “The Dreams of Chang,” “A Compatriot,” and “Gautami” were translated by Bernard Guilbert Guerney and originally published in 1923. “An Unknown Friend” was translated by Natalie A. Duddington and originally published in 1925.
+Robin Whittleton
+Malmö, Sweden, March 2021

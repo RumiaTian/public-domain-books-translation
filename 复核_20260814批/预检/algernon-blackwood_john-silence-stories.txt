@@ -1,0 +1,133 @@
+====================================================================================================
+### algernon-blackwood_john-silence-stories  (6 files)
+  块: O=529 C=529 OK | 段: EN=1997 CN=2015 !!差 -18
+     [不对称] a-psychical-invasion.md                              O=76 C=76 段EN=361 段CN=363
+     [不对称] ancient-sorceries.md                                 O=83 C=83 段EN=259 段CN=264
+     [不对称] secret-worship.md                                    O=46 C=46 段EN=219 段CN=220
+     [不对称] the-camp-of-the-dog.md                               O=128 C=128 段EN=495 段CN=502
+     [不对称] the-nemesis-of-fire.md                               O=146 C=146 段EN=523 段CN=526
+  英文残留(剔括注) top: cause×10, Opfer×9, II×8, III×8, IV×6, du×5, sommeil×5, et×5, des×5, chats×5
+  项目说明备注: 六篇故事各自独立成篇，仅共享框定人物约翰·寂静医生与通灵/心灵研究的术语体系，详见术语表.md。篇目依原书 spine 顺序（Case I–VI）。各篇篇幅偏长（多在 70–155KB），属长篇短篇/中篇规模，委派子代理逐篇翻译，长文分段见通用翻译引擎第七节。
+  -- 术语表硬约束行 121 条:
+     Dr. John Silence               → 约翰·寂静医生              源×3     译×5     残留「灵异医生」×4
+     Barker                         → 巴克                   源×19    译×19   
+     Mrs. Sivendson                 → 西文森夫人                源×4     译×4    
+     Felix Pender                   → 费利克斯·彭德尔             源×3     译×3    
+     Mrs. Pender                    → 彭德尔夫人                源×4     译×4    
+     Racine Mudge                   → 雷辛·马奇                源×8     译×8    
+     Sir William                    → 威廉爵士                 源×1     译×1    
+     Harris                         → 哈里斯                  源×61    译×63   
+     Joan Maloney                   → 琼·马洛尼                源×2     译×2     残留「异教徒」×2
+     Rev. Timothy Maloney           → 蒂莫西·马洛尼牧师            源×0     译×1     ★源0次(幽灵?)
+     Mrs. Maloney                   → 马洛尼夫人                源×18    译×18   
+     Peter Sangree                  → 彼得·桑格里               源×3     译×3    
+     Hubbard                        → 哈伯德                  源×14    译×14    残留「我」×3265
+     Colonel Wragge (Horace)        → 拉格上校（霍勒斯）            源×70    译×69   
+     Miss Wragge                    → 拉格小姐 / 拉格老太太         源×11    译×11   
+     Stride                         → 斯特赖德                 源×2     译×2    
+     Captain Anderson               → 安德森上尉                源×2     译×2    
+     Levi                           → 利维                   源×1     译×1    
+     Putney Heath                   → 帕特尼荒原                源×1     译×1    
+     Putney Hill                    → 帕特尼山                 源×6     译×6    
+     Ireland                        → 爱尔兰                  源×1     译×2    
+     Clapham Junction               → 克拉珀姆交汇站              源×2     译×2    
+     Ludgate Circus                 → 拉德门马戏广场              源×1     译×1    
+     Essex                          → 埃塞克斯                 源×2     译×2    
+     Bordeaux                       → 波尔多                  源×1     译×1    
+     Normandy                       → 诺曼底                  源×1     译×1    
+     Bombay                         → 孟买                   源×1     译×1    
+     North Pole                     → 北极                   源×1     译×1    
+     Strasbourg                     → 斯特拉斯堡                源×2     译×2    
+     St. Paul’s Churchyard          → 圣保罗教堂墓地              源×2     译×2    
+     Stockholm                      → 斯德哥尔摩                源×4     译×4    
+     Waxholm                        → 瓦克斯霍尔姆               源×6     译×6    
+     Skägård                        → 斯凯戈德                 源×1     译×1    
+     Baltic Sea                     → 波罗的海                 源×1     译×8    
+     Finland                        → 芬兰                   源×2     译×2    
+     Berlin                         → 柏林                   源×2     译×2    
+     Hungary                        → 匈牙利                  源×2     译×2    
+     Victoria (Station)             → 维多利亚（站）              源×2     译×2    
+     the Manor House                → 庄园宅邸                 源×3     译×3    
+     Twelve Acre Plantation / Wood  → 十二英亩林地               源×59    译×4     落位偏低 4/59
+     Waterloo (Station)             → 滑铁卢（站）               源×1     译×1    
+     Piccadilly                     → 皮卡迪利                 源×1     译×1    
+     Thebes                         → 底比斯                  源×1     译×1    
+     D—— / S—— Bay                  → D—— / S—— 湾          源×0     译×2     ★源0次(幽灵?)
+     psychic doctor / “Psychic Doct → 灵异医生                 源×4     译×4    
+     psychical afflictions / cases  → 心灵病患 / 心灵病例          源×24    译×4     落位偏低 4/24
+     psychic（直觉/感知）                 → 通灵的                  源×22    译×5     落位偏低 5/22
+     clairvoyance / clairvoyant     → 透视力 / 透视者            源×14    译×15   
+     occultism                      → 神秘学                  源×1     译×2    
+     Higher Space                   → 高维空间                 源×18    译×18   
+     four-dimensional / fourth dime → 四维 / 第四维             源×4     译×10   
+     tessaract                      → 超立方体                 源×3     译×3    
+     aura / atmosphere（心灵意义）        → 气场                   源×39    译×9     落位偏低 9/39 残留「氛围」×12
+     vibrations                     → 振动                   源×10    译×17   
+     thought transference           → 思想传感                 源×0     译×1     ★源0次(幽灵?)
+     multiple personality           → 多重人格                 源×1     译×1    
+     disintegrated personality      → 解体的人格                源×0     译×0     ★源0次(幽灵?)
+     continuous consciousness       → 连续意识                 源×1     译×1    
+     discarnate being               → 离体之灵                 源×1     译×3    
+     incarnate                      → 具肉身的                 源×1     译×1    
+     passage of matter through matt → 穿物（物质穿过物质）           源×2     译×1    
+     The Great Heresy of Separatene → 分离之大异端               源×1     译×1    
+     former lives / previous existe → 前世 / 前生              源×2     译×5    
+     self-hypnotism                 → 自我催眠                 源×0     译×0     ★源0次(幽灵?)
+     Cannabis indica                → 印度大麻                 源×2     译×3    
+     hashish                        → 大麻 / 哈希什             源×2     译×3    
+     Smoke                          → 烟                    源×83    译×128  
+     Flame                          → 焰                    源×38    译×50   
+     Dark Powers                    → 黑暗势力                 源×2     译×2    
+     glamour                        → 迷障                   源×8     译×5    
+     sigils                         → 符印                   源×1     译×1    
+     astral region                  → 星界                   源×1     译×2    
+     limbo                          → 林波                   源×1     译×1    
+     spiritual alchemy              → 心灵炼金术                源×2     译×1    
+     Newgate Calendar               → 纽盖特刑案录               源×1     译×1    
+     Bocklin                        → 伯克林                  源×1     译×1    
+     Wagner                         → 瓦格纳                  源×5     译×5    
+     Tannhäuser                     → 《唐豪瑟》                源×2     译×2    
+     Bolyai                         → 波尔约                  源×1     译×1    
+     Gauss                          → 高斯                   源×1     译×1    
+     Beltrami                       → 贝尔特拉米                源×1     译×1    
+     Lobatchewsky                   → 罗巴切夫斯基               源×1     译×1    
+     Thomas Cook & Sons             → 托马斯·库克父子公司           源×1     译×1    
+     guinea                         → 几尼                   源×2     译×2    
+     green study                    → 绿色书房                 源×3     译×3     残留「心灵病例」×1
+     the tube                       → 通话管                  源×1     译×1    
+     spyhole / peephole             → 窥孔                   源×11    译×12   
+     narcotic buttons               → 麻醉按钮                 源×1     译×1    
+     German band                    → 德国乐队                 源×5     译×5    
+     stable mews                    → 马厩巷                  源×1     译×2    
+     brandy                         → 白兰地                  源×1     译×1    
+     Double                         → 二重身                  源×24    译×20   
+     astral body                    → 星光体                  源×3     译×3    
+     Body of Desire / Passion Body  → 欲望之身 / 情欲之身 / 微妙之身   源×8     译×9    
+     etheric body                   → 以太体                  源×0     译×0     ★源0次(幽灵?)
+     lycanthropy                    → 变狼术 / 变狼症            源×4     译×4    
+     werewolf                       → 狼人                   源×6     译×6    
+     Wehr Wolf                      → 维尔狼                  源×1     译×1    
+     repercussion                   → 反噬                   源×3     译×3    
+     cataleptic / catalepsy         → 僵厥的 / 强直性昏厥          源×2     译×2    
+     somnambulism / somnambulistic  → 梦游症 / 梦游的            源×3     译×1     落位偏低 1/3
+     Bo'sun's Mate                  → 副水手长                 源×12    译×12   
+     Red Indian                     → 红皮肤印第安人              源×3     译×3    
+     fire elemental                 → 火元素灵                 源×10    译×10   
+     Elemental                      → 元素灵                  源×11    译×9    
+     psychometry                    → 触物感知                 源×1     译×2    
+     materialisation                → 显形                   源×2     译×6    
+     mummy                          → 木乃伊                  源×23    译×26   
+     Ka                             → 卡                    源×3     译×28   
+     scarabaeus / scarab            → 圣甲虫                  源×5     译×5    
+     pentagrams                     → 五芒星                  源×1     译×1    
+     Book of the Dead               → 《死者之书》               源×2     译×2    
+     Osiris                         → 奥西里斯                 源×3     译×3     残留「世上第一具木乃伊」×1
+     Horus                          → 荷鲁斯                  源×2     译×2     残留「永恒的守望者」×1
+     Thoth                          → 托特                   源×1     译×1    
+     Set                            → 塞特                   源×33    译×1     落位偏低 1/33
+     Anubis                         → 阿努比斯                 源×1     译×1    
+     Ra                             → 拉                    源×1     译×32    残留「金舟」×1
+     Druid stones                   → 德鲁伊之石                源×2     译×2    
+     Seven Halls of Death           → 死亡之七殿                源×1     译×1    
+     Baal / Yezidis / Emperor Julia → 巴力 / 雅兹迪 / 尤利安皇帝     源×3     译×3    
+
