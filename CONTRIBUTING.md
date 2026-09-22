@@ -25,11 +25,15 @@
 
 ---
 
-### 第二步：提交 Issue 认领锁定
-为避免重复翻译与劳动撞车，请在 GitHub 仓库的 **[Issues](https://github.com/RumiaTian/public-domain-books-translation/issues)** 中发帖登记认领：
-- **标题示例**：`[认领翻译] <书名目录名> - <章节名称或整本>`
-- **内容说明**：预计完成周期、认领的具体篇目列表。
-- 维护者会在 Issue 中回复确认并打上认领标签，锁定该任务。
+### 第二步：提交 Issue 认领锁定（一键自动上锁）
+
+为避免重复翻译与劳动撞车，请直接使用仓库内置的结构化认领表单发起认领：
+
+👉 **[【点击一键发起认领 (Claim Issue Form)】](https://github.com/RumiaTian/public-domain-books-translation/issues/new?template=claim.yml)**
+
+- **表单填写**：在结构化表单中选择/填写书目目录名、中文书名、认领范围（整本 / 分章清单）与预计周期；
+- **自动化上锁**：提交后 GitHub 会**自动为此任务打上 `claimed` 标签**，任务即刻完成锁定，无需等待维护者人工回复，您即可直接 Fork 仓库开工！
+- **查重避撞**：挑选书目时，可前往 **[已认领任务列表](https://github.com/RumiaTian/public-domain-books-translation/issues?q=is%3Aissue+is%3Aopen+label%3Aclaimed)** 检索该书是否已被他人认领。
 
 ---
 

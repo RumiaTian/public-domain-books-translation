@@ -9,7 +9,7 @@
 > 本项目精选 647 本国内确认无正式中译本的优质公版经典，目前已有 **346 本** 100% 译完并完成独立精读审校，仍有 **294 本** 经典待翻译！无论整本还是单章，热忱欢迎大家认领！
 > 
 > 👉 **详细指引请点击查阅：[【如何加入翻译与认领指南 (How to Contribute)】](CONTRIBUTING.md)**
-> *(内含：挑书指引、Issue 发帖认领、双语块标记契约规范、提示词 SOP、本地卡点自动化自检 `python scripts/check_bilingual.py` 与 PR 提交流程)*
+> *(内含：一键 Issue 自动认领表单、双语块标记契约规范、提示词 SOP、本地卡点自动化自检 `python scripts/check_bilingual.py` 与 PR 提交流程)*
 
 ---
 
