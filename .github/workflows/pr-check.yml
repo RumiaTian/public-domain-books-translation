@@ -1,0 +1,81 @@
+name: 🔍 PR 自动化格式与隔离门禁 (PR Quality Gate)
+
+on:
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+
+jobs:
+  check-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码 (Checkout)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 配置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 1. 检查根目录隔离纪律 (Check Root Isolation)
+        run: |
+          echo "=== 正在检查 PR 变更文件清单 ==="
+          CHANGED_FILES=$(git diff --name-only origin/${{ github.base_ref }} HEAD)
+          echo "$CHANGED_FILES"
+
+          FORBIDDEN_FILES=("Plan.md" "translation_queue.csv" "README.md")
+          HAS_VIOLATION=0
+
+          for file in "${FORBIDDEN_FILES[@]}"; do
+            if echo "$CHANGED_FILES" | grep -qx "$file"; then
+              echo "❌ 违规：检测到 PR 修改了全局根文件: $file"
+              HAS_VIOLATION=1
+            fi
+          done
+
+          if [ $HAS_VIOLATION -eq 1 ]; then
+            echo ""
+            echo "================================================================================"
+            echo "🚨 CI 门禁拦截：严禁贡献者修改根目录的 Plan.md、translation_queue.csv 或 README.md！"
+            echo "这些全局文件由系统在 PR 合并后根据各项目目录自动生成。"
+            echo "请从您的 PR 中撤销对这些文件的修改，仅保留您认领的书目目录下的改动。"
+            echo "================================================================================"
+            exit 1
+          fi
+          echo "✅ 根目录隔离检查通过！未篡改全局看板与台账。"
+
+      - name: 2. 检查双语格式成对标记契约 (Check Bilingual Formatting)
+        run: |
+          echo "=== 正在检索本次 PR 改动的译文文件 (*.zh-CN.md) ==="
+          CHANGED_TRANS=$(git diff --name-only origin/${{ github.base_ref }} HEAD | grep -E '^翻译项目/.+/译文/.+\.zh-CN\.md$' || true)
+
+          if [ -z "$CHANGED_TRANS" ]; then
+            echo "ℹ️ 本次 PR 未包含任何新译文文件，跳过格式卡点校验。"
+            exit 0
+          fi
+
+          FAILED=0
+          for f in $CHANGED_TRANS; do
+            if [ -f "$f" ]; then
+              echo ">>> 正在校验: $f"
+              python scripts/check_bilingual.py "$f" || FAILED=1
+            fi
+          done
+
+          if [ $FAILED -ne 0 ]; then
+            echo ""
+            echo "================================================================================"
+            echo "❌ 双语格式卡点失败！请根据上方报错信息修复对应章节的双语对照标记或标题格式。"
+            echo "规则提示："
+            echo "1. ===Original=== 与 ===Chinese=== 必须成对出现、对称闭合；"
+            echo "2. 标题必须单行合并为: '## English Title / 中文标题'；"
+            echo "3. 检查是否有空块或漏译段落。"
+            echo "================================================================================"
+            exit 1
+          fi
+
+          echo "🎉 所有译文章节格式契约与卡点校验 100% 通过！"

@@ -678,7 +678,6 @@
 | [American Indian Stories](翻译项目/zitkala-sa_american-indian-stories/) | Zitkála-Šá | 美国印第安故事 | [✅ 100%](翻译项目/zitkala-sa_american-indian-stories/译文) · [已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | 苏族作家齐特卡拉-萨 1921 年：传教学校创伤与保留地记忆的自传性故事与政论。 | American Indian Stories is the second story collection by Dakota author Zitkála-Šá. In contrast to her earlier collection Old Indian Legends, which is a coll... |
 | [Old Indian Legends](翻译项目/zitkala-sa_old-indian-legends/) | Zitkála-Šá | 古老印第安传说 | [✅ 100%](翻译项目/zitkala-sa_old-indian-legends/译文) · [已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | 齐特卡拉-萨（Zitkála-Šá，苏族达科他作家）重述的老印第安民间传说集《老印第安传说》（Old Indian Legends, 1901）。共 15 篇独立故事（序言 + 14 篇传说），多以蜘蛛骗子精伊克托米（Iktomi）为主角，源自达科他（苏族）口头传说，文笔是... | Old Indian Legends is a collection of Dakota legends, retold by the 19th and early 20th-century Dakota author Zitkála-Šá. The collection was compiled in 1901... |
 | [Women](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/) | Zofia Nałkowska | 女人们 | [✅ 100%](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) · [已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | 纳乌科夫斯卡 1932 波兰现代主义（DZIEWICKI 英译）：三部中篇《爱之颂》《红花园》《冰原》中的女性欲望与困境。 | Janka has emerged from her “ice-plains,” her cerebral realms of pure thought, to bask in the strong sunshine of life. A summer with a friend has introduced h... |
-
 ---
 
 ## ⚖️ 版权与开源许可 (License & Copyright)

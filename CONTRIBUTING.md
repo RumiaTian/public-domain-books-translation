@@ -73,9 +73,19 @@ python scripts/check_bilingual.py 翻译项目/<项目名>/译文/<章节>.zh-CN
 ---
 
 ### 第五步：提交 Pull Request
-1. 将当前项目下的 `translation_queue.csv` 中对应章节的状态从 `todo` 改为 `done`；
+
+> [!IMPORTANT]
+> **⚠️ 核心隔离纪律（极重要）：严禁修改根目录文件！**
+> 贡献者在提交 PR 时，**仅允许修改所认领书目的子目录**：
+> - ✅ **允许新增/修改**：`翻译项目/<书名>/译文/<章节>.zh-CN.md`
+> - ✅ **允许修改**：`翻译项目/<书名>/translation_queue.csv`（将您翻译的章节状态从 `todo` 改为 `done`）
+> - ❌ **严禁修改**：根目录下的 `Plan.md`、根 `translation_queue.csv`、`README.md` 等全局文件！
+> 
+> *说明：根目录的总控看板与全局台账由 GitHub Actions CI 在 PR 合并后自动扫描全库生成。若 PR 中包含根目录全局文件的修改，CI 门禁会自动报错拦截并要求撤销。*
+
+1. 确保仅在所认领的 `翻译项目/<书名>/` 下做了改动；
 2. 提交分支并向主仓库发起 Pull Request；
-3. PR 合并后，全库看板将自动同步你的成果与贡献者荣誉！
+3. PR 提交后，GitHub Actions 会自动对您的译文运行格式卡点检查；通过后由维护者合并入库，全库看板将自动同步您的成果！
 
 ---
 

@@ -1,0 +1,50 @@
+name: 📊 Merge 自动刷新全库看板 (Auto-Refresh Board on Merge)
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '翻译项目/**'
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码 (Checkout)
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 配置 Python 环境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 1. 扫描全库并重建 Plan.md 与 translation_queue.csv
+        run: |
+          python scripts/refresh_progress.py --snapshot "$(date +'%Y-%m-%d')，PR合并自动同步"
+
+      - name: 2. 刷新 README.md 全量书目索引表
+        run: |
+          python scripts/refresh_readme.py
+
+      - name: 3. 检测变更并自动提交推送回 main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet Plan.md translation_queue.csv README.md; then
+            echo "ℹ️ 看板与任务队列已是最新，无需提交。"
+          else
+            echo ">>> 检测到看板状态变更，正在自动提交推送..."
+            git add Plan.md translation_queue.csv README.md
+            git commit -m "chore(ci): auto-refresh Plan.md and README index [skip ci]"
+            git push origin main
+            echo "✅ 远端看板已自动同步最新进度！"
+          fi

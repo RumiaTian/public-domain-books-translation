@@ -1,0 +1,67 @@
+name: 📖 认领书籍翻译 (Claim Translation)
+description: 登记认领公版书目或单章节翻译任务，避免撞车
+title: "[认领] <项目英文名> - <整本/单章节>"
+labels: ["claimed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢参与公版书共享翻译计划！在认领前，请确保您已查阅 [README.md](README.md) 或 [Plan.md](Plan.md) 确认该书目/章节尚未被他人认领（未标为翻译中）。
+
+  - type: input
+    id: book_dir
+    attributes:
+      label: 认领书目目录名 (项目英文名)
+      description: 对应仓库中 `翻译项目/<目录名>`（例如 `a-p-herbert_the-house-by-the-river`）
+      placeholder: e.g. a-p-herbert_the-house-by-the-river
+    validations:
+      required: true
+
+  - type: input
+    id: zh_title
+    attributes:
+      label: 中文书名
+      description: 书目的中文译名（例如 《河边小屋》）
+      placeholder: e.g. 《河边小屋》
+    validations:
+      required: true
+
+  - type: dropdown
+    id: claim_scope
+    attributes:
+      label: 认领范围
+      options:
+        - 整本认领 (适合单篇较少或短篇专著)
+        - 单篇 / 部分章节认领 (适合长篇或短篇故事集)
+    validations:
+      required: true
+
+  - type: textarea
+    id: chapters
+    attributes:
+      label: 认领章节明细
+      description: 若选择单篇/部分章节认领，请列出您要认领的具体章节文件名（查看该书目录下的 `translation_queue.csv`）
+      placeholder: "e.g. 01-i.md, 02-ii.md（若是整本认领，可填：全书全部章节）"
+    validations:
+      required: true
+
+  - type: input
+    id: estimated_time
+    attributes:
+      label: 预计完成周期
+      description: 建议预留充足但合理的周期（如 7 天、14 天）。若超时未提交 PR，该书目将被自动释放以供他人认领。
+      placeholder: e.g. 7天内
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 规范与契约确认
+      options:
+        - label: 我已阅读 [CONTRIBUTING.md](CONTRIBUTING.md)，并同意严格遵守 `===Original===` 与 `===Chinese===` 成对标记及标题合并规范
+          required: true
+        - label: 我承诺翻译时遵守该书目录下的《术语表.md》硬约束
+          required: true
+        - label: 我承诺提 PR 时不修改根目录的 Plan.md、translation_queue.csv 或 README.md，仅修改认领书籍目录下的文件
+          required: true
