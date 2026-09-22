@@ -42,7 +42,11 @@ def generate_index_table(projects, reviews):
         if p["total"] == 0:
             t_str = "空项目"
         elif p["todo"] == 0 and p["doing"] == 0:
-            t_str = f"[✅ 100%]({trans_dir_link})"
+            if p.get("epub_files"):
+                epub_rel = f"翻译项目/{pname}/{p['epub_files'][0][0]}"
+                t_str = f"[✅ 100%]({trans_dir_link}) · [📦 下载]({epub_rel})"
+            else:
+                t_str = f"[✅ 100%]({trans_dir_link})"
         elif p["done"] > 0:
             rate = p["done_kb"] / p["tot_kb"] * 100 if p["tot_kb"] else 0
             t_str = f"[🟡 {rate:.1f}%]({trans_dir_link})"

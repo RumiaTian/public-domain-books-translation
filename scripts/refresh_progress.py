@@ -264,8 +264,54 @@ def extract_project_info(name, proj_path, catalog_map):
         pass
 
     cat_meta = catalog_map.get(name, {})
-    title = cat_meta.get("title", name)
+    title = cat_meta.get("title", "")
     author = cat_meta.get("authors", "")
+
+    # 如果 catalog 中无数据，从项目说明或审核报告中智能补全
+    if not title:
+        rev_path = os.path.join(proj_path, "审核报告.md")
+        if os.path.isfile(rev_path):
+            try:
+                with open(rev_path, "r", encoding="utf-8") as f:
+                    for l in f:
+                        m = re.search(r"#\s*审[核校]报告[：:]\s*《([^》]+)》", l)
+                        if m:
+                            title = m.group(1).strip()
+                            break
+            except Exception:
+                pass
+    if not title:
+        pm_path = os.path.join(proj_path, "项目说明.md")
+        if os.path.isfile(pm_path):
+            try:
+                with open(pm_path, "r", encoding="utf-8") as f:
+                    pm_txt = f.read()
+                m = re.search(r"#\s*项目说明[：:]\s*《([^》]+)》", pm_txt)
+                if m:
+                    title = m.group(1).strip()
+                if not title:
+                    m = re.search(r"#\s*项目说明[（\(]([^）\)]+)[）\)]", pm_txt)
+                    if m:
+                        title = m.group(1).strip()
+                if not title:
+                    m = re.search(r"-\s*\*\*项目名称\*\*：.*?《([^》]+)》", pm_txt)
+                    if m:
+                        title = m.group(1).strip()
+                if not title:
+                    m = re.search(r"《([^》\n]{2,30})》", pm_txt[:400])
+                    if m:
+                        title = m.group(1).strip()
+                if not author:
+                    m_a = re.search(r"-\s*\*\*(?:原作者|作者)\*\*：([^\n]+)", pm_txt)
+                    if m_a:
+                        author = m_a.group(1).strip()
+            except Exception:
+                pass
+
+    if not title:
+        title = name
+    if not author:
+        author = name.split("_")[0].replace("-", " ").title()
 
     # 判断原书 EPUB 状态
     epub_filename = cat_meta.get("file", f"{name}.epub")
@@ -524,10 +570,29 @@ def generate_plan_markdown(projects, catalog_map, reviews_meta, epubs_meta, snap
     lines.append("| 书名 | 作者 | 项目目录 | EPUB 大小 | 块对数 | EPUB 产物路径 |")
     lines.append("|:---|:---|:---|---:|---:|:---|")
 
-    for pname, ep in sorted(epubs_meta.items()):
-        epub_rel = f"翻译项目/{pname}/{pname}.epub"
+    all_epubs = dict(epubs_meta)
+    for p in projects:
+        if p.get("epub_files"):
+            pname = p["name"]
+            ep_file, ep_size = p["epub_files"][0]
+            if pname not in all_epubs:
+                all_epubs[pname] = {
+                    "title": p.get("title", pname),
+                    "author": p.get("author", "-"),
+                    "size": f"{ep_size:.0f}KB",
+                    "blocks": "-",
+                    "filename": ep_file,
+                }
+            else:
+                all_epubs[pname]["filename"] = ep_file
+                if not all_epubs[pname].get("size") or all_epubs[pname]["size"] == "-":
+                    all_epubs[pname]["size"] = f"{ep_size:.0f}KB"
+
+    for pname, ep in sorted(all_epubs.items()):
+        ep_file = ep.get("filename", f"{pname}.epub")
+        epub_rel = f"翻译项目/{pname}/{ep_file}"
         lines.append(
-            f"| {ep.get('title', '-')} | {ep.get('author', '-')} | `{pname}` | {ep.get('size', '-')} | {ep.get('blocks', '-')} | [`{pname}.epub`]({epub_rel}) |"
+            f"| {ep.get('title', '-')} | {ep.get('author', '-')} | `{pname}` | {ep.get('size', '-')} | {ep.get('blocks', '-')} | [`{ep_file}`]({epub_rel}) |"
         )
 
     lines.append("")

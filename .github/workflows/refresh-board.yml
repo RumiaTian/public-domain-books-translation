@@ -1,4 +1,4 @@
-name: 📊 Merge 自动刷新全库看板 (Auto-Refresh Board on Merge)
+name: 📊 Merge 自动刷新全库看板与打包 (Auto-Package & Refresh Board on Merge)
 
 on:
   push:
@@ -26,25 +26,34 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 1. 扫描全库并重建 Plan.md 与 translation_queue.csv
+      - name: 安装 Pandoc (用于打包双语 EPUB)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: 1. 自动打包已完成翻译的书籍 (Package Finished Books)
+        run: |
+          python scripts/package_finished_books.py --all-finished
+
+      - name: 2. 扫描全库并重建 Plan.md 与 translation_queue.csv
         run: |
           python scripts/refresh_progress.py --snapshot "$(date +'%Y-%m-%d')，PR合并自动同步"
 
-      - name: 2. 刷新 README.md 全量书目索引表
+      - name: 3. 刷新 README.md 全量书目索引表
         run: |
           python scripts/refresh_readme.py
 
-      - name: 3. 检测变更并自动提交推送回 main
+      - name: 4. 检测变更并自动提交推送回 main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          if git diff --quiet Plan.md translation_queue.csv README.md; then
-            echo "ℹ️ 看板与任务队列已是最新，无需提交。"
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "ℹ️ 看板、任务队列与出版产物已是最新，无需提交。"
           else
-            echo ">>> 检测到看板状态变更，正在自动提交推送..."
-            git add Plan.md translation_queue.csv README.md
-            git commit -m "chore(ci): auto-refresh Plan.md and README index [skip ci]"
+            echo ">>> 检测到变更（新产物或看板更新），正在自动提交推送..."
+            git add -A
+            git commit -m "chore(ci): auto-package finished books & refresh board [skip ci]"
             git push origin main
-            echo "✅ 远端看板已自动同步最新进度！"
+            echo "✅ 远端产物与看板已自动同步最新进度！"
           fi
