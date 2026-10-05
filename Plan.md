@@ -525,7 +525,7 @@
 | 500 | `p-g-wodehouse_piccadilly-jim` | ✅ 已入库 | ⚪ 待译 (26篇) | — | — |  |
 | 501 | `p-g-wodehouse_psmith-in-the-city` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_psmith-in-the-city/译文) (32篇) | [✅ 已审(A)](翻译项目/p-g-wodehouse_psmith-in-the-city/审核报告.md) | [📦 267KB](翻译项目/p-g-wodehouse_psmith-in-the-city/皮史密斯进城记.epub) | A 优秀 |
 | 502 | `p-g-wodehouse_psmith-journalist` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_psmith-journalist/译文) (31篇) | [✅ 已审(B)](翻译项目/p-g-wodehouse_psmith-journalist/审核报告.md) | [📦 293KB](翻译项目/p-g-wodehouse_psmith-journalist/普史密斯记者.epub) | B 良好 |
-| 503 | `p-g-wodehouse_school-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_school-stories/译文) (23篇) | [✅ 已审(A)](翻译项目/p-g-wodehouse_school-stories/审核报告.md) | [📦 392KB](翻译项目/p-g-wodehouse_school-stories/沃德豪斯校园故事集.epub) | A 优秀（出版预备级） | 全书 23 篇名篇与随笔（含 165KB 中篇《… |
+| 503 | `p-g-wodehouse_school-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_school-stories/译文) (23篇) | [✅ 已审(A)](翻译项目/p-g-wodehouse_school-stories/审核报告.md) | [📦 392KB](翻译项目/p-g-wodehouse_school-stories/沃德豪斯校园故事集.epub) | A 优秀（出版预备级） |
 | 504 | `p-g-wodehouse_short-fiction` | ✅ 已入库 | ⚪ 待译 (40篇) | — | — |  |
 | 505 | `p-g-wodehouse_something-new` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_something-new/译文) (12篇) | [✅ 已审(B)](翻译项目/p-g-wodehouse_something-new/审核报告.md) | [📦 380KB](翻译项目/p-g-wodehouse_something-new/新鲜事.epub) | B 良好 |
 | 506 | `p-g-wodehouse_the-coming-of-bill` | ✅ 已入库 | ⚪ 待译 (30篇) | — | — |  |
@@ -586,7 +586,7 @@
 | 561 | `robert-w-service_songs-of-a-sourdough` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-w-service_songs-of-a-sourdough/译文) (35篇) | [✅ 已审(A)](翻译项目/robert-w-service_songs-of-a-sourdough/审核报告.md) | [📦 75KB](翻译项目/robert-w-service_songs-of-a-sourdough/酸面团之歌.epub) | A 优秀 |
 | 562 | `robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/译文) (4篇) | [✅ 已审(A)](翻译项目/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/审核报告.md) | [📦 35KB](翻译项目/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/如何区分鸟与花.epub) | A 优秀 |
 | 563 | `rolf-boldrewood_robbery-under-arms` | ✅ 已入库 | ⚪ 待译 (59篇) | — | — |  |
-| 564 | `romain-rolland_clerambault_katherine-miller` | ✅ 已入库 | ⚪ 待译 (8篇) | [✅ 已审(B)](翻译项目/romain-rolland_clerambault_katherine-miller/审核报告.md) | ⏳ 待打包 | B 良好（合格可出版，需微调跨块滑动错位） | 全书 8 篇大部头共 281… |
+| 564 | `romain-rolland_clerambault_katherine-miller` | ✅ 已入库 | ⚪ 待译 (8篇) | [✅ 已审(B)](翻译项目/romain-rolland_clerambault_katherine-miller/审核报告.md) | ⏳ 待打包 | B 良好（合格可出版，需微调跨块滑动错位） |
 | 565 | `rose-macaulay_dangerous-ages` | ✅ 已入库 | [✅ **100%**](翻译项目/rose-macaulay_dangerous-ages/译文) (19篇) | [✅ 已审(B)](翻译项目/rose-macaulay_dangerous-ages/审核报告.md) | [📦 329KB](翻译项目/rose-macaulay_dangerous-ages/Dangerous Ages.epub) | B 良好 |
 | 566 | `rose-wilder-lane_diverging-roads` | ✅ 已入库 | ⚪ 待译 (25篇) | — | — |  |
 | 567 | `roswitha-of-gandersheim_plays_christopher-st-john` | ✅ 已入库 | [✅ **100%**](翻译项目/roswitha-of-gandersheim_plays_christopher-st-john/译文) (12篇) | [✅ 已审(B)](翻译项目/roswitha-of-gandersheim_plays_christopher-st-john/审核报告.md) | [📦 175KB](翻译项目/roswitha-of-gandersheim_plays_christopher-st-john/罗斯维塔戏剧集.epub) | B 良好 |
@@ -644,7 +644,7 @@
 | 619 | `wilkie-collins_man-and-wife` | ✅ 已入库 | ⚪ 待译 (79篇) | — | — |  |
 | 620 | `wilkie-collins_the-dead-secret` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
 | 621 | `wilkie-collins_the-haunted-hotel` | ✅ 已入库 | [✅ **100%**](翻译项目/wilkie-collins_the-haunted-hotel/译文) (34篇) | [✅ 已审(B)](翻译项目/wilkie-collins_the-haunted-hotel/审核报告.md) | [📦 295KB](翻译项目/wilkie-collins_the-haunted-hotel/The Haunted Hotel.epub) | B 良好 |
-| 622 | `will-james_smoky-the-cowhorse` | ✅ 已入库 | [✅ **100%**](翻译项目/will-james_smoky-the-cowhorse/译文) (16篇) | [✅ 已审(A)](翻译项目/will-james_smoky-the-cowhorse/审核报告.md) | [📦 346KB](翻译项目/will-james_smoky-the-cowhorse/Smoky the Cowhorse.epub) | A 优秀（出版预备级） | 全书 16 篇共 943 对双语块经分卷（Par… |
+| 622 | `will-james_smoky-the-cowhorse` | ✅ 已入库 | [✅ **100%**](翻译项目/will-james_smoky-the-cowhorse/译文) (16篇) | [✅ 已审(A)](翻译项目/will-james_smoky-the-cowhorse/审核报告.md) | [📦 346KB](翻译项目/will-james_smoky-the-cowhorse/Smoky the Cowhorse.epub) | A 优秀（出版预备级） |
 | 623 | `willa-cather_the-professors-house` | ✅ 已入库 | [✅ **100%**](翻译项目/willa-cather_the-professors-house/译文) (34篇) | [✅ 已审(A)](翻译项目/willa-cather_the-professors-house/审核报告.md) | [📦 311KB](翻译项目/willa-cather_the-professors-house/教授之屋.epub) | A 优秀（个别 B 级小问题应修，见下） |
 | 624 | `william-beckford_vathek_samuel-henley` | ✅ 已入库 | [✅ **100%**](翻译项目/william-beckford_vathek_samuel-henley/译文) (3篇) | [✅ 已审](翻译项目/william-beckford_vathek_samuel-henley/审核报告.md) | [📦 196KB](翻译项目/william-beckford_vathek_samuel-henley/瓦提克.epub) | - |
 | 625 | `william-congreve_the-way-of-the-world` | ✅ 已入库 | [✅ **100%**](翻译项目/william-congreve_the-way-of-the-world/译文) (12篇) | [✅ 已审(A)](翻译项目/william-congreve_the-way-of-the-world/审核报告.md) | [📦 167KB](翻译项目/william-congreve_the-way-of-the-world/如此世道.epub) | A 优秀 |
@@ -1009,10 +1009,10 @@
 | 327 | `anthony-trollope_dr-wortles-school` | 407.9 | 24 | - | 1 | 已完成 | 2026-09-16 | [`审核报告.md`](翻译项目/anthony-trollope_dr-wortles-school/审核报告.md) | B 良好 |
 | 328 | `james-branch-cabell_figures-of-earth` | 409.3 | 48 | - | 1 | 已完成 | - | [`审核报告.md`](翻译项目/james-branch-cabell_figures-of-earth/审核报告.md) | A 优秀（出版预备级） | 全书 48 篇章节文件 100% 逐章逐段完成双语精读对照，数据层标记与原文无损对齐（异常数为 0），A级重大错漏为 0，核心术语高度统一，译笔完美复现卡贝尔中古罗曼史反讽风格，仅检出 3 处细微瑕疵，整体达到出版预备级水准。 |
 | 329 | `thea-von-harbou_metropolis_the-readers-library` | 412.2 | 26 | - | 1 | 已完成 | 2026-09-21 | [`审核报告.md`](翻译项目/thea-von-harbou_metropolis_the-readers-library/审核报告.md) | B 良好 |
-| 330 | `p-g-wodehouse_school-stories` | 413.6 | 23 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/p-g-wodehouse_school-stories/审核报告.md) | A 优秀（出版预备级） | 全书 23 篇名篇与随笔（含 165KB 中篇《查特里斯的谋略》）共 574 对双语块经分卷（Part A/B）100% 逐段对照全景精读，A 级重大缺陷为 0，英文对照块词级零损坏，英式公学行话、板球运动与沃氏反讽幽默汉译极其精到传神，达到出版预备级高标准。 |
+| 330 | `p-g-wodehouse_school-stories` | 413.6 | 23 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/p-g-wodehouse_school-stories/审核报告.md) | A 优秀（出版预备级） |
 | 331 | `p-g-wodehouse_the-small-bachelor` | 414.5 | 18 | - | 1 | 已完成 | 2026-09-16 | [`审核报告.md`](翻译项目/p-g-wodehouse_the-small-bachelor/审核报告.md) | B 良好 |
 | 332 | `p-g-wodehouse_indiscretions-of-archie` | 414.5 | 27 | - | 1 | 已完成 | 2026-09-21 | [`审核报告.md`](翻译项目/p-g-wodehouse_indiscretions-of-archie/审核报告.md) | B 良好 |
-| 333 | `will-james_smoky-the-cowhorse` | 415.8 | 16 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/will-james_smoky-the-cowhorse/审核报告.md) | A 优秀（出版预备级） | 全书 16 篇共 943 对双语块经分卷（Part A/B）100% 逐段对照全景精读，A 级重大缺陷为 0，英文对照块词级零损坏，威尔·詹姆斯独特的西部牛仔口语俚语、荒野马匹心理视角及人马生死羁绊传神入化，达到出版预备级高标准。 |
+| 333 | `will-james_smoky-the-cowhorse` | 415.8 | 16 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/will-james_smoky-the-cowhorse/审核报告.md) | A 优秀（出版预备级） |
 | 334 | `john-w-campbell_the-black-star-passes` | 418.5 | 4 | - | 1 | 已完成 | - | [`审核报告.md`](翻译项目/john-w-campbell_the-black-star-passes/审核报告.md) | A 级（优秀 / Excellent） |
 | 335 | `p-g-wodehouse_something-new` | 418.6 | 12 | - | 1 | 已完成 | 2026-09-21 | [`审核报告.md`](翻译项目/p-g-wodehouse_something-new/审核报告.md) | B 良好 |
 | 336 | `p-g-wodehouse_a-damsel-in-distress` | 430.3 | 28 | - | 1 | 已完成 | 2026-09-16 | [`审核报告.md`](翻译项目/p-g-wodehouse_a-damsel-in-distress/审核报告.md) | B 良好 |
@@ -1021,7 +1021,7 @@
 | 339 | `thornton-w-burgess_green-forest-stories` | 441.0 | 5 | - | 1 | 已完成 | 2026-09-16 | [`审核报告.md`](翻译项目/thornton-w-burgess_green-forest-stories/审核报告.md) | D 严重 |
 | 340 | `joseph-conrad_suspense` | 444.5 | 19 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/joseph-conrad_suspense/审核报告.md) | B 良好 |
 | 341 | `j-s-fletcher_the-paradise-mystery` | 446.5 | 27 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/j-s-fletcher_the-paradise-mystery/审核报告.md) | B 良好 |
-| 342 | `romain-rolland_clerambault_katherine-miller` | 449.6 | 8 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/romain-rolland_clerambault_katherine-miller/审核报告.md) | B 良好（合格可出版，需微调跨块滑动错位） | 全书 8 篇大部头共 281 对双语块经分卷 100% 逐段对照全景精读，文学译笔沉雄透彻、心灵剖白荡气回肠，术语遵循率 100%，无大面积漏译截断；惟第二部开头存在 1 处跨块段落推移错配（A级）及个别称谓典故微瑕，靶向微调后即可直达 A 级出版预备级。 |
+| 342 | `romain-rolland_clerambault_katherine-miller` | 449.6 | 8 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/romain-rolland_clerambault_katherine-miller/审核报告.md) | B 良好（合格可出版，需微调跨块滑动错位） |
 | 343 | `james-hogg_the-private-memoirs-and-confessions-of-a-justified-sinner` | 452.5 | 3 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/james-hogg_the-private-memoirs-and-confessions-of-a-justified-sinner/审核报告.md) | B 良好 |
 | 344 | `katharine-a-carl_with-the-empress-dowager-of-china` | 455.4 | 37 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/katharine-a-carl_with-the-empress-dowager-of-china/审核报告.md) | B 良好 |
 | 345 | `robert-hugh-benson_the-necromancers` | 459.4 | 19 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/robert-hugh-benson_the-necromancers/审核报告.md) | B 良好 |
