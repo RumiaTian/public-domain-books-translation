@@ -1,0 +1,49 @@
+## LXIII / 六十三
+
+===Original===
+
+They Escape from the Chapmen by the Carline’s Wizardry
+
+The next night after, they were come to but a little way from the end of the mountains, and could see the tilled and peopled lands lying down before them, and this had been no very long day’s journey. The three merchant masters had ridden much apart from each other all day, and there was little feasting between them at even, and all men laid them down early to sleep. The Carline had spoken a word to the Maiden as they were a-riding, so that none might hear: “Sweetling,” she said, “the thing thou hast to do tonight is to give heed to my least word or beckoning, and obey it, and then will all be well.” So they two lay down somewhat away from the carle-folk. Amidst of the night then, awoke the Maiden, and the moon was high and very bright, and looking to her left side she saw the Carline was not there where she ought to have been; but nought scared was she thereat, since she wotted well that something would betide. But moving as little as she might, she let her eyes go round the campment, and even therewith saw the said Carline coming out of the tent of the masters, who slept all together there, whereas their serving-men lay as they might, under cloaks and suchlike, beneath the naked heavens, the weather being fine and dry as at that time. Stole the Carline then and went up to each one of the said men and made unked signs over him, and when all that was done stood up by herself amidst them all and laughed aloud. Then she called out: “O sweetling that I am preserving as a pearl of all price for the greatest warrior of the world, wakest thou or sleepest? Speak out and fear not, for these now will lie here like logs long after the moon is gone out and the sun is shining. These carles thou seest, and two of the masters lie therein in their tent; but the third, the old one, I lured away far into the thicket and laid him asleep there; so that his being away, and the others hunting for him, might breed delay and quarrels amongst these runagates.”
+
+The Maiden lightly arose and spake in a clear voice: “My mother, I am verily awake and ready for the road.” So she came down to the Carline, and they went together to the horses and dight their own, which were the best of the company’s, and without more delay gat to saddle and rode quietly down along the pass.
+
+===Chinese===
+
+二女赖老妪巫术，脱身于众行商
+
+到了次夜，他们离山地的尽头已不过一小段路，望得见耕垦人聚的土地在前方铺展开来；这一日走的路程并不算长。三位行商主人白日里彼此远远分开而行，晚间也很少聚饮作乐，众人早早躺下睡了。骑行途中，老妪趁旁人听不见，对少女叮嘱了一句：“心肝儿，”她说，“你今夜要做的，就是留心我最细微的一句话、一个手势，一概遵行，那么万事都会妥帖。”于是她们两个在离那伙汉子稍远之处躺下。夜半时分，少女醒来了，月亮高悬，分外明亮；她朝左边一望，老妪不在她本该在的地方；但她并不因此惊惶，因为她深知必有什么事要发生。她竭力少动身子，只把目光在营地里四下扫视，恰在此时，看见那位老妪正从主人们的帐篷里出来——三位主人都在那帐篷里同睡，他们的仆役则随遇而安，披着斗篷之类，露宿在天穹之下，只因那时节天气晴燥。老妪蹑手蹑脚，走到那些仆役每一个跟前，在他们头顶画了些怪异难解的符记；诸事办完，她独自站在他们中间，放声大笑。随后她扬声唤道：“哦，我的心肝儿，我把你当作无价之珠一般珍藏着，要留给世间最伟大的武士——你是醒着还是睡着？大声答话，不要害怕，因为这些人如今要像木头一样躺在此地，直躺到月亮沉没、太阳高照，还长久不醒呢。你瞧见的这些汉子都睡在此地，两位主人躺在他们的帐篷里；至于第三个，那年老的一个，被我诱到密林深处远远的地方，叫他睡倒在那里了；如此一来，他这一失踪，再加上旁人寻他的折腾，便会在这些流窜匪徒中间生出耽搁和争吵来。”
+
+少女轻捷地起身，朗声说道：“母亲大人，我确然醒着，已备好上路了。”于是她走到老妪跟前，两人一同来到马匹那里，收拾停当她们自己的两匹马——那是全队中最好的马——便不再耽搁，扳鞍上马，沿着山道悄然下行而去。
+
+===Original===
+
+So rode they till it was the afternoon, and they were come out of the mountains into the first of the meadows. Then they drew rein in a fair little ingle amidst goodly trees, and gat off their horses and tethered them amongst the sweet grass. Then spake the Carline: “I must now look along the ways of sleep and see what is betiding.” Therewith she drew from her hardes a goatskin bag, which she did over her head, and then laid herself face downwards on the grass; but the Maiden sat by her and watched.
+
+Thus she lay for an hour, and tumbled and routed in her slumber, and thereafter she awoke and sat up, and was much besweated and worn; and she spake in a weak voice: “I have seen what lieth behind and what lieth before; now therefore I can do, and all will be well. For the chapmen have awakened and have striven, the two young ones together, and then the two young with the old because of his bitter mocks. But now they be got to the road again, and though we be most like to prevent them at a place of refuge, yet wise will it be to leave as little as may be to chance-hap. As to what lieth before, I have seen our way that it turneth somewhat east tomorrow, and will bring us to a goodly Abbey that hath a noble guesthouse, and there, by the help of the Prior’s safe-conduct and the gifts I shall give to the saints and the stewards, we shall be put well upon our way. But now will I do; and when thou seest me fall down and lie like to one dead, be not afeard, but when I come to myself again then sprinkle my face with water and put a cup of wine to my lips, and thereafter shall I be whole, and we shall eat and drink and go on our way.”
+
+Then the Carline went about the way and gathered handfuls of the dust and small stones and laid them in the bag, and then lay down on the way and put the bag under her bosom and brooded it, as a hen broodeth her eggs, moaning and muttering the while, and thus she was a long hour. Then she arose and let her hair loose, and it was long and white and not scanty. In this guise she walked to and fro athwart the road, keeping her face turned toward the mountains, and kept taking handfuls of that dust and casting it up toward that quarter; and ever and anon she cried out: “Be mist and mirk, and bewilderment and fear, before those faces of our foemen! Be a wall behind us that they may not pierce through! Mirk behind us, light before us!” So she went on till she had emptied the said bag, and then she fell aback and lay on the road as one dead. And the Maiden did as she had bidden and meddled not with her. But at last, and it was another hour, she began to come to herself, and the Maiden sprinkled her with water and gave her wine to drink, and the old woman arose and was herself again and of good cheer; and she stowed away her bag, and they drew forth victual and ate and drank kindly and merrily together.
+
+===Chinese===
+
+她们一路骑行，直到午后，已走出山地，来到最初一片草场。于是她们在一处好树环抱、宜人可爱的隐蔽小角落里勒住缰绳，下了马，把马拴在香草之间。老妪随即开口：“如今我须循着睡眠之路去看一看，瞧瞧正有什么事情发生。”说着，她从衣怀里取出一只山羊皮袋，套在头上，随即脸朝下伏在草地上；少女坐在她身旁守望。
+
+她这样伏了一个钟头，睡梦中翻腾叫喊；随后醒来坐起，浑身是汗，疲惫不堪。她声音虚弱地说道：“身后之事与身前之事，我都看见了；如今我可以动手了，一切都会妥帖。因为众行商已经醒来，彼此争闹了一场——先是两个年轻的吵作一团，随后两个年轻的又与那老的争执，为的是他那些刻毒的讥诮。但如今他们又上了路；虽然我们多半能抢在他们前头，先赶到一处可以避难的所在，可凡事少留给运气为妙，能少多少便少多少。至于身前的事，我已看清了我们的路径：明日路途稍转向东，会引我们到一座堂皇的大修道院，那里有一所华美的客舍；到了那里，仰仗副院长的安全通行之证，再加上我要献给诸圣徒与众管事的礼物，我们便能妥妥帖帖地再登前程。但现在我要作法了；你见我倒下、像死人一般躺着时，不要害怕；待我再缓醒过来，你就往我脸上洒些清水，把一杯酒送到我唇边，此后我便会复原，我们且吃且喝，再继续赶路。”
+
+于是老妪在道路上各处走动，捧起一把把尘土和碎石装进袋中，然后横躺在道上，把袋子压在胸口底下伏着，像母鸡孵蛋一般孵它，一面呻吟，一面喃喃念咒；这样过了长长一个钟头。随后她站起身来，散开头发——那头发又长又白，并不稀疏。她就这般模样，在道路上来回横行，脸始终朝着山地的方向，不住捧起那尘土，朝那一方扬撒上去；且时时高声喊道：“愿浓雾与黑暗、迷乱与恐惧，布在我们仇人的面前！愿我们身后立起一堵墙，叫他们无法穿透！身后黑暗，身前光明！”她如此作法不休，直到把那袋子撒空，便向后一倒，直挺挺躺在道上，如死人一般。少女依着她先前的嘱咐行事，并不搅扰她。但最后——那又过了一个钟头——她开始缓醒过来，少女便给她洒水，喂她喝酒；老妇人站起身来，神色如常，兴致甚好。她把袋子收好，两人取出干粮，亲亲热热、高高兴兴地一同吃喝。
+
+===Original===
+
+So they gat to the road again when it yet lacked three hours of sunset, but rode not after night had fallen lest they should miss their way. And no shelter they had that night but the grass and the trees and the well-bedecked heavens, and all that was sweet enough for them.
+
+On the morrow they gat to the road early enough, and soon began to come amongst the cots and the homesteads, and saw the folk labouring afield, and none were otherwise than friendly to them; and a company of husbandmen, carles and queans, hailed them from the ingle of an acre where they were eating their dinner and bade light down and share, and they did so with a good will; and the upland folk looked with wonder on the Maiden and her beauty, and gave her much worship. But the Carline talked with them, and asked them much of their land and how it sped with them; and they said it was well with them, for that they dwelt in good peace, whereas they were under the dominion of the great Abbey, which dealt mildly with them, and would not suffer them to be harried; and they pointed out to the newcomers a fair white castle lying on a spur of the hills which went up to the waste mountains, and did them to wit that that was the bit and the bridle of any wild men who might get it into their heads to break out on to the wealth of the Holy Fathers. And there be many such, said they, about our land, and especially a good way east and south hence where the land marcheth on the Great Forest, which is haunted by the worst of men, who will not be refrained but by great might and great heed. “And now,” said they, “we here tell of that mighty and good lord, the Knight of Longshaw, that he hath of late prevailed against his foes, who be tyrants and oppressors; and if that be sooth, he shall do as much or more on the east side of the Forest as my Lord Abbot hath done in the west, and peace and good days shall abide with us.” Much those twain heeded this talk, and they prayed for that good lord, him and his.
+
+So they thanked that good folk and went their ways, and in an hour’s time they found the path which would do their eastering for them toward the Abbey; and shortly to say it, they came to the guesthouse thereof two hours before it began to dusk, and were well-served by the brethren whose office it was.
+
+===Chinese===
+
+于是，离日落还有三个钟头时，她们重又上路；但夜幕降临后便不再骑行，唯恐迷了路途。那一夜她们别无遮蔽，唯有青草、树木和缀满星辰的天穹，而这一切对她们来说已足够甘美。
+
+次日清早，她们便上了路，不久便走进村舍田庄之间，见人们在地里劳作，人人待她们友好亲善。一伙庄稼人——汉子们和妇人们——正在一块田的田角上吃饭，望见她们便打招呼，请她们下马同吃，她们也欣然从命；这些高地人瞧着少女和她的美貌，个个称奇，对她十分敬重。老妪却与他们攀谈起来，细细问起他们的土地，问他们日子过得如何；他们说过得不错，因为安居无事——他们归那座大修道院管辖，修道院待他们宽厚，不容他们受人劫掠；他们又指给两位新来的客人看一座美好的白色城堡，它坐落在一道直上荒山的山嘴上，并让她们知道，那便是给那些起了歹心、要出来劫掠圣父们财富的狂徒们预备的嚼口和缰绳。他们说，这般狂徒，我们这一带地方四围多得很，尤其是由此往东南走好一程、国土与大森林相接之处——那林中盘踞着人间最坏的恶徒，非用大力严防，制服不住。“如今，”他们说，“我们这里都在传扬那位威武仁善的领主、朗肖骑士，说他新近战胜了他的仇敌——那班暴君和压迫者；倘若这是实话，他必能在森林以东成就院长大人在西边所成就的，或者更有过之，太平和好日子便会常驻我们这里了。”这两个女子听了这番话，深为在意，便为那位好领主祈祷祝福——为他本人和他的亲眷。
+
+于是她们谢过那些善良的人们，自去赶路。过一个钟头的工夫，她们找到了那条能替她们折向东行、通往大修道院的小径；长话短说，在天色开始向晚之前两个钟头，她们到了修道院的客舍，受到司职此务的修士弟兄们的殷勤款待。
