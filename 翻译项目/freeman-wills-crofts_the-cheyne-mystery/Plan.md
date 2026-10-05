@@ -136,3 +136,29 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-10-02 12:02｜批次3直启子代理｜01-the-episode-in-the-plymouth-hotel.md 完成，check_bilingual 通过
+- 2026-10-02 12:15｜批次3直启子代理｜02-burglary.md 完成，check_bilingual 通过
+- 2026-10-02 12:25｜批次3直启子代理｜03-the-launch-enid.md 完成，check_bilingual 通过
+- 2026-10-02 12:32｜批次3直启子代理｜04-concerning-a-peerage.md 完成，check_bilingual 通过
+- 2026-10-02 14:05｜批次3直启子代理｜05-an-amateur-sleuth.md 完成，check_bilingual 通过
+- 2026-10-03 06:25｜批次3直启子代理｜06-the-house-in-hopefield-avenue.md 完成，check_bilingual 通过
+- 2026-10-03 06:33｜批次3直启子代理｜07-miss-joan-merrill.md 完成，check_bilingual 通过
+- 2026-10-03 06:40｜批次3直启子代理｜08-a-council-of-war.md 完成，check_bilingual 通过
+- 2026-10-03 06:48｜批次3直启子代理｜09-mr-speedwell-plays-his-hand.md 完成，check_bilingual 通过
+- 2026-10-03 07:08｜批次3直启子代理｜10-the-new-firm-gets-busy.md 完成，check_bilingual 通过
+- 2026-10-03 07:15｜批次3直启子代理｜11-otto-schulz-s-secret.md 完成，check_bilingual 通过
+- 2026-10-03 07:28｜批次3直启子代理｜12-in-the-enemy-s-lair.md 完成，check_bilingual 通过
+- 2026-10-03 23:27｜批次3直启子代理｜13-inspector-french-takes-charge.md 完成，check_bilingual 通过
+- 2026-10-03 23:35｜批次3直启子代理｜14-the-clue-of-the-clay-marked-shoe.md 完成，check_bilingual 通过
+- 2026-10-04 05:10｜批次3直启｜15-the-torn-hotel-bill.md 完成，check_bilingual 通过（[1308] 断点核验回填，中断前已完成）
+
+- 2026-10-04 05:17｜批次3直启子代理｜16-a-tale-of-two-cities.md 完成，check_bilingual 通过
+- 2026-10-04 05:25｜批次3直启子代理｜17-on-the-flood-tide.md 完成，check_bilingual 通过
+- 2026-10-04 05:32｜批次3直启子代理｜18-a-visitor-from-india.md 完成，check_bilingual 通过
+- 2026-10-04 05:43｜批次3直启子代理｜19-the-message-of-the-tracing.md 完成，check_bilingual 通过
+- 2026-10-04 05:48｜批次3直启子代理｜20-the-goal-of-the-l-escaut.md 完成，check_bilingual 通过
+
+## 完书纪要
+- 2026-10-04 05:49｜批次3直启｜全书 20/20 章完成，check_bilingual 全部通过，锁已删除。第二十本完工。
+

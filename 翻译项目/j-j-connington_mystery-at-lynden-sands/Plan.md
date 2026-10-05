@@ -30,4 +30,31 @@
 
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
-| - | - | - | （尚未运行） |
+| 2026-10-02 | chapter-1.md | 完成 | 首译定名并回填术语表（系列专名沿用《迷宫谋杀案》既定译名） |
+
+- 2026-10-02 07:20｜批次3直启子代理｜chapter-1.md 完成，check_bilingual 通过
+- 2026-10-02 07:33｜批次3直启子代理｜chapter-2.md 完成，check_bilingual 通过
+- 2026-10-02 07:42｜批次3直启子代理｜chapter-3.md 完成，check_bilingual 通过
+
+- 2026-10-02 11:20｜批次3直启子代理｜chapter-4.md 完成，check_bilingual 通过
+
+- 2026-10-02 11:28｜批次3直启子代理｜chapter-5.md 完成，check_bilingual 通过
+- 2026-10-02 11:38｜批次3直启子代理｜chapter-6.md 完成，check_bilingual 通过
+- 2026-10-02 11:48｜批次3直启子代理｜chapter-7.md 完成，check_bilingual 通过
+- 2026-10-02 12:05｜批次3直启子代理｜chapter-8.md 完成，check_bilingual 通过
+- 2026-10-02 12:25｜批次3直启子代理｜chapter-9.md 完成，check_bilingual 通过
+
+- 2026-10-02 12:22｜批次3直启子代理｜chapter-10.md 完成，check_bilingual 通过（[1308]中断后分支①回填：107 对块、覆盖率 0 缺失、103 锚点实存属误报）
+- 2026-10-02 14:05｜批次3直启子代理｜chapter-11.md 完成，check_bilingual 通过
+- 2026-10-03 06:33｜批次3直启子代理｜chapter-12.md 完成，check_bilingual 通过
+- 2026-10-03 06:45｜批次3直启子代理｜chapter-13.md 完成，check_bilingual 通过
+- 2026-10-03 07:03｜批次3直启子代理｜chapter-14.md 完成，check_bilingual 通过
+- 2026-10-03 07:12｜批次3直启子代理｜chapter-15.md 完成，check_bilingual 通过
+- 2026-10-03 07:20｜批次3直启子代理｜chapter-16.md 完成，check_bilingual 通过
+- 2026-10-03 23:17｜批次3直启｜endnotes.md 完成，check_bilingual 通过
+
+- 2026-10-03 23:31｜批次3直启子代理｜chapter-17.md 完成，check_bilingual 通过
+
+## 完书纪要
+- 2026-10-03 23:33｜批次3直启｜全书 18/18 项完成（17 章＋尾注），check_bilingual 全部通过，锁已删除。第十九本完工。
+

@@ -154,3 +154,41 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-09-27 06:42｜批次3直启子代理｜00-dedication.md 完成，check_bilingual 通过
+- 2026-09-27 06:51｜批次3直启子代理｜01-i.md 完成，check_bilingual 通过
+- 2026-09-27 06:59｜批次3直启子代理｜02-ii.md 完成，check_bilingual 通过
+- 2026-09-27 07:07｜批次3直启子代理｜03-iii.md 完成，check_bilingual 通过
+- 2026-09-28 06:16｜批次3直启｜04-iv.md 断点验收：昨晨[1308]中断，本轮核验译文已完整（逐行0缺失，check 退出码0），回填 done（5/34）
+- 2026-09-28 06:24｜批次3直启子代理｜05-v.md 完成，check_bilingual 通过
+- 2026-09-28 06:31｜批次3直启子代理｜06-vi.md 完成，check_bilingual 通过
+- 2026-09-28 06:39｜批次3直启子代理｜07-vii.md 完成，check_bilingual 通过
+- 2026-09-28 06:45｜批次3直启子代理｜08-viii.md 完成，check_bilingual 通过
+- 2026-09-28 06:52｜批次3直启子代理｜09-ix.md 完成，check_bilingual 通过
+- 2026-09-28 06:57｜批次3直启子代理｜10-x.md 完成，check_bilingual 通过
+- 2026-09-28 07:02｜批次3直启子代理｜11-xi.md 完成，check_bilingual 通过
+- 2026-09-28 07:14｜批次3直启子代理｜12-xii.md 完成，check_bilingual 通过
+- 2026-09-28 07:14｜批次3直启子代理｜13-xiii.md 完成，check_bilingual 通过
+- 2026-09-28 07:23｜批次3直启子代理｜14-xiv.md 完成，check_bilingual 通过
+- 2026-09-28 07:32｜批次3直启子代理｜15-xv.md 完成，check_bilingual 通过
+- 2026-09-28 07:41｜批次3直启子代理｜16-xvi.md 完成，check_bilingual 通过
+- 2026-09-28 12:13｜批次3直启子代理｜17-xvii.md 缺段补插修复完成，check_bilingual 通过
+
+- 2026-09-28 12:41｜批次3直启子代理｜18-xviii.md 完成，check_bilingual 通过
+- 2026-09-28 12:58｜批次3直启子代理｜19-xix.md 完成，check_bilingual 通过
+- 2026-09-28 13:21｜批次3直启子代理｜20-xx.md 完成，check_bilingual 通过
+- 2026-09-28 12:49｜批次3直启子代理｜21-xxi.md 完成，check_bilingual 通过
+- 2026-09-28 13:02｜批次3直启子代理｜22-xxii.md 完成，check_bilingual 通过
+- 2026-09-28 13:11｜批次3直启子代理｜23-xxiii.md 完成，check_bilingual 通过
+
+- 2026-09-28 13:22｜批次3直启子代理｜24-xxiv.md 完成，check_bilingual 通过
+- 2026-09-28 13:27｜批次3直启子代理｜25-xxv.md 完成，check_bilingual 通过
+- 2026-09-28 13:37｜批次3直启子代理｜26-xxvi.md 完成，check_bilingual 通过
+- 2026-09-29 06:22｜批次3直启子代理｜27-xxvii.md 完成，check_bilingual 通过
+- 2026-09-29 06:31｜批次3直启子代理｜28-xxviii.md 完成，check_bilingual 通过
+- 2026-09-29 06:40｜批次3直启子代理｜29-xxix.md 完成，check_bilingual 通过
+- 2026-09-29 06:49｜批次3直启子代理｜30-xxx.md 完成，check_bilingual 通过
+- 2026-09-29 06:55｜批次3直启子代理｜31-xxxi.md 完成，check_bilingual 通过
+- 2026-09-29 07:02｜批次3直启子代理｜32-xxxii.md 完成，check_bilingual 通过
+- 2026-09-29 07:08｜批次3直启子代理｜33-xxxiii.md 完成，check_bilingual 通过
+
+- 2026-09-29 07:08｜批次3直启｜全书完结流转：34/34 篇全部 done（09-27 开书跨四轮接续，含 17-xvii 缺段修复、ch19/04-iv 两次断点验收），认领锁已删除，移交审核阶段。

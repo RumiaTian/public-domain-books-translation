@@ -25,3 +25,5 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+| 2026-10-02 | dedication.md | done | 摘要：1 块 2 段（To/My Mother 两行题献），check_bilingual 与 check_coverage 双退出码 0；新术语 0 条（题献对象无专名；标题体例 Dedication/题献 定为全书基准） |
+| 2026-10-02 | ii.md | done | 摘要：6 块对照共 18 段（3+3+4+4+3+1），标题「## II / 第二章」，源文 --- 场景分隔保留为游离行；check_bilingual.py 与 check_coverage.py 均退出码 0；新增术语 4 条（Helen Simpson、Hughie、Surrey、going together），与既有定名 Hugh/Carl 无冲突 |

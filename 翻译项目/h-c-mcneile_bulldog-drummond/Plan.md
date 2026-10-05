@@ -28,3 +28,21 @@
 
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
+- 2026-09-30 07:47｜批次3直启子代理｜00-prologue.md 完成，check_bilingual 通过
+- 2026-09-30 07:50｜批次3直启子代理｜01-in-which-he-takes-tea-at-the-carlton-and-is-surprised.md 完成，check_bilingual 通过
+- 2026-09-30 11:21｜批次3直启子代理｜02-in-which-he-journeys-to-godalming-and-the-game-begins.md 完成，check_bilingual 通过
+- 2026-10-01 06:50｜批次3直启子代理｜03-in-which-things-happen-in-half-moon-street.md 完成，check_bilingual 通过（[1301]后带免责声明重派成功）
+- 2026-10-01 06:55｜批次3直启子代理｜04-in-which-he-spends-a-quiet-night-at-the-elms.md 完成，check_bilingual 通过
+- 2026-10-01 07:05｜批次3直启子代理｜05-in-which-there-is-trouble-at-goring.md 完成，check_bilingual 通过
+- 2026-10-01 07:20｜批次3直启子代理｜06-in-which-a-very-old-game-takes-place-on-the-hog-s-back.md 完成，check_bilingual 通过
+- 2026-10-01 07:40｜批次3直启子代理｜07-in-which-he-spends-an-hour-or-two-on-a-roof.md 完成，check_bilingual 通过
+- 2026-10-01 07:45｜批次3直启子代理｜08-in-which-he-goes-to-paris-for-a-night.md 完成，check_bilingual 通过
+- 2026-10-01 11:20｜批次3直启子代理｜09-in-which-he-has-a-near-shave.md 完成，check_bilingual 通过
+- 2026-10-02 06:32｜批次3直启子代理｜10-in-which-the-hun-nation-decreases-by-one.md 完成，check_bilingual 通过
+- 2026-10-02 06:42｜批次3直启子代理｜11-in-which-lakington-plays-his-last-coup.md 完成，check_bilingual 通过
+- 2026-10-02 06:50｜批次3直启子代理｜12-in-which-the-last-round-takes-place.md 完成，check_bilingual 通过
+
+- 2026-10-02 07:12｜批次3直启子代理｜13-epilogue.md 完成，check_bilingual 通过（尾声内联完成）
+
+## 完书纪要
+- 2026-10-02 07:13｜批次3直启｜全书 14/14 队列项完成（序幕+12章+尾声），check_bilingual 全部通过，锁已删除。第十六章完工。第III章曾 [1301] 拦截一次，免责重派成功。

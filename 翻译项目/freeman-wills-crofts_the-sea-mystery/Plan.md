@@ -31,3 +31,27 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-09-29 07:22｜批次3直启子代理｜chapter-1.md 完成，check_bilingual 通过
+- 2026-09-29 12:38｜批次3直启子代理｜chapter-2.md 完成，check_bilingual 通过
+- 2026-09-29 12:46｜批次3直启子代理｜chapter-3.md 完成，check_bilingual 通过
+- 2026-09-29 12:53｜批次3直启子代理｜chapter-4.md 完成，check_bilingual 通过
+- 2026-09-29 12:59｜批次3直启子代理｜chapter-5.md 完成，check_bilingual 通过
+- 2026-09-29 13:07｜批次3直启子代理｜chapter-6.md 完成，check_bilingual 通过
+- 2026-09-29 13:17｜批次3直启子代理｜chapter-7.md 完成，check_bilingual 通过
+- 2026-09-29 13:24｜批次3直启子代理｜chapter-8.md 完成，check_bilingual 通过
+- 2026-09-29 13:35｜批次3直启子代理｜chapter-9.md 完成，check_bilingual 通过
+- 2026-09-30 06:15｜批次3直启子代理｜chapter-10.md 完成，check_bilingual 通过
+- 2026-09-30 06:23｜批次3直启子代理｜chapter-11.md 完成，check_bilingual 通过
+- 2026-09-30 06:31｜批次3直启子代理｜chapter-12.md 完成，check_bilingual 通过
+- 2026-09-30 06:40｜批次3直启子代理｜chapter-13.md 完成，check_bilingual 通过
+- 2026-09-30 06:49｜批次3直启子代理｜chapter-14.md 完成，check_bilingual 通过
+- 2026-09-30 06:54｜批次3直启子代理｜chapter-15.md 完成，check_bilingual 通过
+- 2026-09-30 06:59｜批次3直启子代理｜chapter-16.md 完成，check_bilingual 通过
+- 2026-09-30 07:05｜批次3直启子代理｜chapter-17.md 完成，check_bilingual 通过
+- 2026-09-30 07:17｜批次3直启子代理｜chapter-18.md 完成，check_bilingual 通过
+- 2026-09-30 07:22｜批次3直启子代理｜chapter-19.md 完成，check_bilingual 通过
+- 2026-09-30 07:35｜批次3直启子代理｜chapter-20.md 完成，check_bilingual 通过
+
+## 完书纪要
+- 2026-09-30 07:42｜批次3直启｜全书 20/20 章完成，check_bilingual 全部通过，锁已删除。第十三本完工。

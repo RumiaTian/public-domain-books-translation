@@ -316,3 +316,108 @@ Nothing within those Gothic walls ever changed. Imperceptibly the furniture grew
 
 ===Chinese===
 那几堵哥特式围墙之内，从无任何变动。家具不知不觉地见老；墙纸和椅套用它们不置可否的黄褐和灰绿，追怀着另一个时代的雅致。而我母亲本人，苍白而灰发，裹在她一向穿的那种不随时令的鸽灰色衣裙里，还是老样子。微笑还是那样微弱而温柔的笑容；嗓音还是那样轻柔地转调，像一首深谙教养的乐曲，从一个键滑到另一个键。她的头发几乎不比我记忆中一直的那样更白——因为早就白得早，而我是个晚生的孩子。她的脸几乎不比从前更有皱纹。她走路挺直，人似乎还同以往一样利落，不比从前瘦，也不比从前胖。
+===Original===
+And she was still surrounded by those troops of derelict dogs, so dreadfully profuse, poor beasts! in their smelly gratitude. There were still the same moth-eaten cats picked up starving at a street corner to be harboured in luxury﻿—albeit on a diet that was, on principle, strictly vegetarian﻿—in the best rooms of the house. Poor children still came for buns and tea and traditional games in the garden﻿—so traditional, very often, that nobody but my mother had ever heard of them; still came, when the season happened to be winter, for gloves and woolly stockings and traditional games indoors. And the writing-table in the drawing-room was piled high, as it had always been piled, with printed appeals for some deserving charity. And still in her beautiful calligraphy my mother addressed the envelopes that were to contain them, slowly, one after another﻿—and each a little work of art, like a page from a medieval missal, and each destined, without reprieve, to the wastepaper basket.
+
+All was just as it had always been. Ah, but not quite, all the same! For though the summer term was in full swing and the afternoon bright, the little garden behind the house was deserted and unmelodious. Where were the morris dancers, where the mixolydian strains? And remembering that music, those dances, those distant afternoons, I could have wept.
+
+In one corner of the lawn my mother used to sit at the little harmonium; I sat beside her to turn the pages of the music. In the opposite corner were grouped the dancers. My mother looked up over the top of the instrument; melodiously she inquired:
+
+“Which dance shall we have next, Mr. Toft? ‘Trenchmore’? Or ‘Omnium Gatherum’? Or ‘John Come Kiss Me Now’? Or what do you say to ‘Up Tails All’? Or ‘Rub Her Down with Straw’? Or ‘An Old Man’s a Bed Full of Bones’? Such an *embarras de richesse*, isn’t there?”
+
+===Chinese===
+她身边照旧簇拥着那一队队无家可归的狗，多得骇人，可怜的畜生！个个怀着它们臭烘烘的感激。还是那些虫蛀的猫，当初在街角捡到时饿得奄奄一息，如今被供养在豪奢里——虽说按原则吃的是严格的素餐——占的是宅中最好的房间。穷孩子们照旧来吃小圆面包、喝茶、在花园里玩传统游戏——那些游戏往往传统得除了我母亲谁也没听说过；碰上时令恰是冬天，还照旧来领手套和毛线袜，在屋里玩传统游戏。客厅的写字台上照旧堆得高高的、一如既往地堆着，全是为某项值得赞助的慈善事业印发的募捐函。而我母亲还在用她那一笔漂亮的书法，给装它们的信封写地址，慢慢地，一封又一封——每一封都是一件小小的艺术品，像中世纪祈祷书里的一页，而每一封都注定绝无宽免，径赴废纸篓。
+
+一切都同向来一样。啊，可到底又不尽然！因为尽管夏季学期正开得热火，午后天色明亮，屋后的小花园却空空落落，悄无乐声。莫里斯舞的人们都在哪儿，密克索吕底亚调的曲调又都在哪儿？想起那音乐、那些舞蹈、那些遥远的午后，我险些落下泪来。
+
+草坪的一角，我母亲惯常坐在那架小簧风琴前；我坐在她身旁替她翻乐谱。对面一角聚着跳舞的人们。我母亲从琴身上方抬起目光，婉转地问：
+
+「下一支跳什么舞，托夫特先生？『特伦奇莫』？还是『大杂烩』？还是『约翰快来吻我』？还是您看『全体翘尾巴』怎么样？还是『拿稻草给她擦身』？还是『老头儿是一床骨头』？真是*琳琅得叫人难挑*（*embarras de richesse*），可不是吗？
+
+===Original===
+And Mr. Toft would break away from his little company of dancers and come across the lawn wiping his face﻿—for “Hoite-cum-Toite” a moment before had been a most furious affair. It was a grey face with vague indeterminate features and a bright almost clerical smile in the middle of it. When he spoke it was in a very rich voice.
+
+“Suppose we try ‘Fading,’ Mrs. Chelifer,” he suggested. “ ‘Fading Is a Fine Dance’﻿—you remember the immortal words of the Citizen’s Wife in the *Knight of the Burning Pestle*? Ha ha!” And he gave utterance to a little laugh, applausive of his own wit. For to Mr. Toft every literary allusion was a joke, and the obscurer the allusion the more exquisite the waggery. It was rarely, alas, that he found anyone to share his merriment. My mother was one of the few people who always made a point of smiling whenever Mr. Toft laughed at himself. She smiled even when she could not track the allusion to its source. Sometimes she even went so far as to laugh. But my mother had no facility for laughter; by nature she was a grave and gentle smiler.
+
+And so “Fading” it would be. My mother touched the keys and the gay, sad mixolydian air came snoring out of the harmonium like a strangely dissipated hymn tune. “One, two, three﻿ ﻿…” called Mr. Toft richly. And then in unison all five﻿—the don, the two undergraduates, the two young ladies from North Oxford﻿—would beat the ground with their feet, would prance and stamp till the garters of little bells round the gentlemen’s grey flannel trousers (it went without saying, for some reason, that the ladies should not wear them) jingled like the bells of a runaway hansom-cab horse. One, two, three.﻿ ﻿… The Citizen’s Wife (ha ha!) was right. Fading is a fine dance indeed. Everybody dances Fading. Poor Mr. Toft had faded out of Oxford, had danced completely out of life, like Lycidas (tee-hee!) before his prime. Influenza had faded him. And of the undergraduates who had danced here, first and last, with Mr. Toft﻿—how many of them had danced Fading under the German barrage? Young Flint, the one who used always to address his tutor as “Mr. Toft﻿—oh, I mean Clarence” (for Mr. Toft was one of those genial boyish dons who insisted on being called by their Christian names), young Flint was dead for certain. And Ramsden too, I had a notion that Ramsden too was dead.
+
+And then there were the young women from North Oxford. What, for example, of Miss Dewball’s cheeks? How had those cabbage roses weathered the passage of the years? But for Miss Higlett, of course, there could be no more fading, no further desiccation. She was already a harebell baked in sand. Unwithering Higlett, blowsy Dewball.﻿ ﻿…
+
+And I myself, I too had faded. The Francis Chelifer who, standing by the dissipated harmonium, had turned the pages of his mother’s music, was as wholly extinct as Mr. Toft. Within this Gothic tomb reposed his mummy. My weekend visits were archaeological expeditions.
+
+===Chinese===
+于是托夫特先生便从他那一小队舞侣中脱出身来，擦着脸横穿草坪走过来——因为方才那一曲『蹦跳撒欢』（Hoite-cum-Toite）实在是场火爆的营生。那是一张灰脸，五官模糊、没个定形，脸盘正中亮着一抹近乎牧师气的微笑。他一开口，嗓音十分浑厚。
+
+「咱们试试『淡出』怎么样，切利弗太太？」他建议道。「『淡出是支好舞』——您总记得《燃烧的杵骑士》（*Knight of the Burning Pestle*）里市民太太那句不朽的话吧？哈哈！」说着他发出一小串笑声，以示对自己机智的喝彩。因为对托夫特先生来说，每一处文学典故都是一个笑话，而且典故越冷僻，诙谐越精妙。可惜呀，他难得遇上一个能分享这份快活的人。我母亲是少数人中的一个：每逢托夫特先生自笑，她必定报以微笑。哪怕追踪不出典故的出处，她也照样微笑。有时她甚至肯进一步笑出声来。只是我母亲素来不善笑；她天生是个庄重而温柔的微笑的人。
+
+于是，跳的便该是『淡出』了。我母亲按下琴键，那支又欢又愁的密克索吕底亚调便像一支古怪地放荡了的圣咏，从簧风琴里打着呼噜涌出来。「一、二、三……」托夫特先生用浑厚的嗓音喊着。随后，五个人齐刷刷地——那位导师、两名大学生、两位北牛津来的年轻小姐——跺脚、腾跳、踏步，直跺到绅士们灰色法兰绒裤子上那一圈圈缀着小铃铛的袜带（不知怎的，不言自明，小姐们是不兴戴的）叮当作响，像一匹拉着双轮马车脱缰狂奔的马身上的铃铛。一、二、三。……市民太太（哈哈！）说得不错。淡出确确实实是支好舞。人人都在跳淡出。可怜的托夫特先生已经从牛津淡出，已经彻头彻尾从人生里跳了出去，像利西达斯（嘻嘻！）一样未及盛年。流感把他淡没了。而那些先先后后随托夫特先生在这园子里跳过舞的大学生里——又有多少人在德国人的弹幕底下跳过淡出呢？小弗林特——就是那个老是把导师唤作「托夫特先生——啊，我是说克拉伦斯」的（因为托夫特先生正是那种和蔼可亲、孩子气十足、坚持要人叫教名的导师）——小弗林特是准死无疑了。还有拉姆斯登，我有个印象，拉姆斯登也死了。
+
+还有北牛津来的那些年轻女子们呢。比如，迪尤博尔小姐的两颊如今怎样了？那两朵甘蓝玫瑰，可还经得住这些年月的销磨？至于希格利特小姐，不用说，再没有淡出的余地，再没有干缩的余地了。她已经是一株烤干在沙里的风铃草。永不凋萎的希格利特，开得臃肿的迪尤博尔。……
+
+还有我自己，我也淡出了。那个站在那架放荡的簧风琴旁、替母亲翻过乐谱的弗朗西斯·切利弗，已经同托夫特先生一样整个儿地绝灭了。这座哥特式陵墓里，安卧着他的木乃伊。我的周末探访，便是一次次考古发掘。
+
+===Original===
+“Now that poor Mr. Toft’s dead,” I asked as we walked, my mother and I, that afternoon, up and down the little garden behind the house, “isn’t there anyone else here who’s keen on morris dancing?” Or were those folky days, I wondered, forever past?
+
+My mother shook her head. “The enthusiasm for it is gone,” she said sadly. “This generation of undergraduates doesn’t seem to take much interest in that kind of thing. I don’t really know,” she added, “what it *is* interested in.”
+
+What indeed, I reflected. In my young days it had been Social Service and Fabianism; it had been long hearty walks in the country at four and a half miles an hour, with draughts of Five X beer at the end of them, and Rabelaisian song and conversations with yokels in incredibly picturesque little wayside inns; it had been reading parties in the Lakes and climbing in the Jura; it had been singing in the Bach Choir and even﻿—though somehow I had never been able quite to rise to that﻿—even morris dancing with Mr. Toft.﻿ ﻿… But Fading is a fine dance, and all these occupations seemed now a little queer. Still, I caught myself envying the being who had lived within my skin and joined in these activities.
+
+“Poor Toft!” I meditated. “Do you remember the way he had of calling great men by little pet names of his own? Just to show that he was on terms of familiarity with them, I suppose. Shakespeare was always Shake-bake, which was short, in its turn, for Shake-Bacon. And Oven, *tout court*, was Beethoven.”
+
+===Chinese===
+「可怜的托夫特先生既然去世了，」那天下午，母亲同我在屋后的小花园里来回踱着，我问她，「这里可还有旁人热心莫里斯舞么？」抑或那些民风古趣的日子，已是一去不返？我暗自思忖。
+
+我母亲摇了摇头。「那股热乎劲儿过去了，」她怅然说。「这一代大学生，似乎对这一类事情没有多大兴致。我实在不知道，」她补了一句，「他们*到底*对什么有兴致。」
+
+可不是，我思忖。在我年轻的时候，时兴的是社会服务和费边主义；是乡间每小时四英里半的长而痛快的远足，走完了灌下几大口 Five X 啤酒，是拉伯雷式的歌子，是在美得难以置信的小路边酒店里同乡巴佬攀谈；是湖区的读书营和汝拉山的登山；是在巴赫合唱团里唱诗，甚至是——也不知怎么，我始终不大提得起那股劲——甚至是同托夫特先生跳莫里斯舞。……可是淡出是支好舞，而这一切营生如今看来都有点古怪了。话虽如此，我仍发觉自己羡慕起那个曾住在我这身皮囊里、参加过这些活动的人来。
+
+「可怜的托夫特！」我沉吟道。「你还记得他惯用的那套么——给大人物们起他自家的小名？我想，无非是要显得他同人家过从甚密。莎士比亚永远是『炒莎』（Shake-bake），而『炒莎』究起根来，又是『炒培根莎』（Shake-Bacon）的简称。还有『烤炉』（Oven），*干脆一句话*（*tout court*），就是贝多芬。」
+
+===Original===
+“And always J. S. B. for Bach,” my mother continued, smiling elegiacally.
+
+“Yes, and Pee Em for Philipp Emanuel Bach. And Madame Dudevant for George Sand, or, alternatively, I remember, ‘The Queen’s Monthly Nurse’﻿—because Dickens thought she looked like that the only time he saw her.” I recalled the long-drawn and delighted laughter which used to follow that allusion.
+
+“You were never much of a dancer, dear boy.” My mother sadly shook her head over the past.
+
+“Ah, but at any rate,” I answered, “at any rate I was a Fabian. And I went for hearty long walks in the country. I drank my pint of Five X at the Red Lion.”
+
+“I wish you could have gone without the beer,” said my mother. That I had not chosen to be a total abstainer had always a little distressed her. Moreover, I had a taste for beefsteaks.
+
+“It was my substitute for morris dancing, if you follow me.”
+
+===Chinese===
+「还有巴赫，永远是 J. S. B.，」我母亲接着说，含着挽歌式的微笑。
+
+「是啊，还有『皮-埃姆』（Pee Em），指菲利普·伊曼纽尔·巴赫。还有管乔治·桑叫杜德万夫人，或者——我记得——换个叫法，『王后的月子保姆』，因为狄更斯唯一一次见到她，觉得她那副模样正像这么个人物。」我回想得起，这个典故从前总是引来一阵悠长而欢畅的笑声。
+
+「亲爱的孩子，你从来就算不上会跳舞的。」我母亲对着逝去的岁月，黯然摇了摇头。
+
+「嗳，可不管怎么说，」我回答，「不管怎么说，我是个费边主义者。乡间那些长而痛快的远足我也走过。红狮酒店那一品脱 Five X，我也喝过。」
+
+「你要是能不喝那啤酒就好了，」我母亲说。我没有选择做一名绝对戒酒者，这事一向让她有点难过。何况，我还有吃牛排的口福之好。
+
+「那是我用来顶替莫里斯舞的，你若明白我的意思。」
+
+===Original===
+But I don’t think she did follow me. We took two or three turns up and down the lawn in silence.
+
+“How is your paper doing?” she asked at last.
+
+I told her with a great show of enthusiasm about the cross between Angoras and Himalayans which we had just announced.
+
+“I often wish,” she said after a pause, “that you had accepted the college’s offer. It would have been so good to have you here, filling the place your dear father occupied.”
+
+She looked at me sadly. I smiled back at her as though from across a gulf. The child, I thought, grows up to forget that he is of the same flesh with his parents; but they do not forget. I wished, for her sake, that I were only five years old.
+
+===Chinese===
+可我想她并不明白。我们默默地沿草坪来回走了两三圈。
+
+「你那份报纸办得怎么样了？」她终于开口问。
+
+我装出极大的一番热情，向她讲起我们刚刚宣布的安哥拉兔同喜马拉雅兔的杂交。
+
+「我常常巴望，」她停了片刻说，「当初你接受了学院的聘约就好了。有你在这里，坐上你亲爱的父亲坐过的位置，那该有多好。」
+
+她哀伤地望着我。我朝她报以微笑，仿佛是隔着一条鸿沟。孩子，我想，长大成人，便会忘记自己与父母本是同一副血肉；父母却不忘记。为了她的缘故，我但愿自己只有五岁。

@@ -1,0 +1,39 @@
+## XXXI. The Barrister's Fee / 三十一　出庭律师的酬金
+
+===Original===
+Six months later, on a fine evening which came as the fitting close of a perfect May afternoon, Brereton got out of a London express at Norcaster and entered the little train which made its way by a branch line to the very heart of the hills. He had never been back to these northern regions since the tragedies of which he had been an unwilling witness, and when the little train came to a point in its winding career amongst the fell-sides and valleys from whence Highmarket could be seen, with the tree-crowned Shawl above it, he resolutely turned his face and looked in the opposite direction. He had no wish to see the town again; he would have been glad to cut that chapter out of his book of memories. Nevertheless, being so near to it, he could not avoid the recollections which came crowding on him because of his knowledge that Highmarket's old gables and red roofs were there, within a mile or two, had he cared to look at them in the glint of the westering sun. No﻿—he would never willingly set foot in that town again!﻿—there was nobody there now that he had any desire to see. Bent, when the worst was over, and the strange and sordid story had come to its end, had sold his business, quietly married Lettie and taken her away for a long residence abroad, before returning to settle down in London. Brereton had seen them for an hour or two as they passed through London on their way to Paris and Italy, and had been more than ever struck by young Mrs. Bent's philosophical acceptance of facts. Her father, in Lettie's opinion, had always been a deeply-wronged and much injured man, and it was his fate to have suffered by his lifelong connection with that very wicked person, Mallalieu: he had unfortunately paid the penalty at last﻿—and there was no more to be said about it. It might be well, thought Brereton, that Bent's wife should be so calm and equable of temperament, for Bent, on his return to England, meant to go in for politics, and Lettie would doubtless make an ideal helpmeet for a public man. She would face situations with a cool head and a well-balanced judgment﻿—and so, in that respect, all was well. All the same, Brereton had a strong notion that neither Mr. nor Mrs. Bent would ever revisit Highmarket.
+
+As for himself, his thoughts went beyond Highmarket﻿—to the place amongst the hills which he had never seen. After Harborough's due acquittal Brereton, having discharged his task, had gone back to London. But ever since then he had kept up a regular correspondence with Avice, and he knew all the details of the new life which had opened up for her and her father with the coming of Mr. Wraythwaite of Wraye. Her letters were full of vivid descriptions of Wraye itself, and of the steward's house in which she and Harborough﻿—now appointed steward and agent to his foster-brother's estate﻿—had taken up their residence. She had a gift of description, and Brereton had gained a good notion of Wraye from her letters﻿—an ancient and romantic place, set amongst the wild hills of the Border, lonely amidst the moors, and commanding wide views of river and sea. It was evidently the sort of place in which a lover of open spaces, such as he knew Avice to be, could live an ideal life. But Brereton had travelled down from London on purpose to ask her to leave it.
+
+===Chinese===
+六个月后，五月里一个晴美的傍晚——恰好给那个完美的下午收了个相称的尾——布里尔顿在诺卡斯特下了伦敦快车，换乘那趟沿支线一路驶进群山腹地的小火车。自打那几桩他极不情愿亲历的惨剧之后，他再没有回过北部这方水土。小火车在山坡与谷地之间蜿蜒行进，来到一处能望见海马基特、望见镇子上方那座覆满林木的肖山的地方，他断然扭过脸，朝相反的方向望去。他不愿再见到那座镇子；若能把那一章从他记忆的书册里裁掉，他才乐意。可是离得这样近，往事仍不由分说地纷至沓来——因为他知道，海马基特的老山墙和红屋顶就在一两英里外，只要他愿意，本可以在西斜落日的余辉里望上它们一眼。不——他绝不愿再踏进那座镇子一步了！——如今镇上已经没有他渴望一见的人。待到最坏的日子过去、那段离奇而卑污的故事终告了结，本特把自己的事务所盘了出去，悄悄娶了莱蒂，带她出国长住了一段，才回伦敦定居。两人取道伦敦前往巴黎和意大利时，布里尔顿同他们相聚了一两个钟头，年轻的本特太太对既成事实那般达观的承受，令他比以往更深有触动。在莱蒂看来，她父亲从来就是个蒙受奇冤、饱受伤害的人，命中注定要因同马拉柳那个大恶人纠缠终生而遭殃：他不巧到头来付出了代价——这事也就不必再多说了。布里尔顿暗想，本特的太太性情这般恬静平和，未尝不是好事，因为本特一回英格兰便有意投身政治，而莱蒂无疑会成为一位公众人物的理想贤内助。她面对种种局面总能头脑冷静、判断持平——就这一层而言，一切都不错。尽管如此，布里尔顿仍深深觉得，本特先生也罢、本特太太也罢，往后都绝不会重访海马基特。
+
+至于他自己，他的心思则越过了海马基特——飞向群山之中那个他从未到过的地方。哈伯勒依法获判无罪之后，布里尔顿交割了差事，便回了伦敦。但自那以后，他同艾维丝一直保持着定期通信，对于雷伊的雷思韦特先生到来之后为她父女俩开启的那番新生活，桩桩件件都了然于心。她的信里满是对雷伊本宅的生动描摹，也写到她和哈伯勒住下的那座管家宅子——哈伯勒如今已受聘为奶兄弟庄园的管家兼经理人。她天生一支善写之笔，布里尔顿凭这些信对雷伊有了清晰的印象——那是一处古老而罗曼蒂克的地方，坐落在边境的莽莽群山之间，孤悬于荒原之中，河海苍茫尽收眼底。显而易见，这样的地方，正宜于他深知的那种热爱开阔天地的人——如艾维丝——在此过上理想的生活。然而布里尔顿此番特意从伦敦赶来，为的却是求她离开这里。
+
+===Original===
+He had come at last on a sudden impulse, unknown to anyone, and therefore unexpected. Leaving his bag at the little station in the valley at which he left the train just as the sun was setting behind the surrounding hills, he walked quickly up a winding road between groves of fir and pine towards the great grey house which he knew must be the place into which the man from Australia had so recently come under romantic circumstances. At the top of a low hill he paused and looked about him, recognizing the scenes from the descriptions which Avice had given him in her letters. There was Wraye itself﻿—a big, old-world place, set amongst trees at the top of a long park-like expanse of falling ground; hills at the back, the sea in the far distance. The ruins of an ancient tower stood near the house; still nearer to Brereton, in an old-fashioned flower garden, formed by cutting out a plateau on the hillside, stood a smaller house which he knew﻿—also from previous description﻿—to be the steward's. He looked long at this before he went nearer to it, hoping to catch the flutter of a gown amongst the rose-trees already bright with bloom. And at last, passing through the rose-trees he went to the stone porch and knocked﻿—and was half-afraid lest Avice herself should open the door to him. Instead, came a strapping, redcheeked North-country lass who stared at this evident traveller from far-off parts before she found her tongue. No﻿—Miss Avice wasn't in, she was down the garden, at the far end.
+
+Brereton hastened down the garden; turned a corner; they met unexpectedly. Equally unexpected, too, was the manner of their meeting. For these two had been in love with each other from an early stage of their acquaintance, and it seemed only natural now that when at last they touched hands, hand should stay in hand. And when two young people hold each other's hands, especially on a Springtide evening, and under the most romantic circumstances and surroundings, lips are apt to say more than tongues﻿—which is as much as to say that without further preface these two expressed all they had to say in their first kiss.
+
+===Chinese===
+他这一趟终于是乘兴而来，没有告知任何人，因而谁也不曾料到。太阳正落到四周群山背后时，他在谷中那座小站下了车，把旅行包留在站上，便沿着一条蜿蜒的路快步而上，穿行在杉林与松林之间，朝那座灰色大宅走去——他知道，那必是那位来自澳大利亚的人新近在一段传奇际遇中住进的地方。登上一座矮丘的丘顶，他驻足四望，凭艾维丝信中的描述认出了眼前景物。那便是雷伊本宅——一大座古旧气派的宅邸，坐落在长长一片园林般的下斜坡地顶端，掩映于树木之间；背后倚山，极目处是海。宅子近旁矗立着一座古塔的残迹；离布里尔顿更近处，有一座老式花园，就着山坡削平一方高地辟成，园中立着一座较小的宅子——同样凭先前的描述，他知道那便是管家的宅子。他久久地望着那座房子，才移步走近，盼着能在已开得灼灼明艳的玫瑰花树间，捕捉到一角飘动的裙影。终于，他穿过玫瑰花树，走到石门廊前叩门——心里竟有几分发怯，生怕来应门的正是艾维丝本人。结果开门的是个身板壮实、红扑扑脸蛋的北方乡下姑娘，她直勾勾打量着这位显然远道而来的客人，好半天才回过神开口。不——艾维丝小姐不在屋里，她在花园里，在最远的那一头。
+
+布里尔顿快步下了花园；转过一道弯；两人不期而遇。同样出乎意料的，还有他们相遇的方式。原来这两人打相识之初便已互种情根，此刻终于执手相触，手便自然而然地留在手中，再不分开。而一对年轻人彼此握着手的时候——尤其是在春日的黄昏，又置身于最罗曼蒂克的境况与景致之中——嘴唇往往比舌头说得更多——这也就是说，无需再作铺垫，两人用第一个吻，把要说的话一齐道尽了。
+
+===Original===
+Nevertheless, Brereton found his tongue at last. For when he had taken a long and searching look at the girl and had found in her eyes what he sought, he turned and looked at wood, hill, sky, and sea.
+
+"This is all as you described it," he said, with his arm round her, "and yet the first real thing I have to say to you now that I am here is﻿—to ask you to leave it!"
+
+She smiled at that and again put her hand in his.
+
+"But﻿—we shall come back to it now and then﻿—together!" she said.
+
+===Chinese===
+不过，布里尔顿终究也开了口。他久久而深切地端详着姑娘，从她眼中寻得了他所要寻的东西，便转过身，望向林木、山峦、天空与大海。
+
+“这一切都与你描述的一模一样，”他说着，手臂环住她，“可我人既到了这里，要对你说出的头一件正经事，却是——请你离开这里！”
+
+她闻言一笑，又把手放进了他的手里。
+
+“可是——我们会时不时回到这里来——一起来！”她说。

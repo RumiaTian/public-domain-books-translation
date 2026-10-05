@@ -25,3 +25,21 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-10-04 05:50｜批次3直启｜dedication.md 完成，check_bilingual 通过
+- 2026-10-04 05:50｜批次3直启｜list-of-illustrations.md 完成，check_bilingual 通过
+- 2026-10-04 05:51｜批次3直启｜preface.md 完成，check_bilingual 通过
+- 2026-10-04 06:02｜批次3直启子代理｜the-mysterious-patient.md 完成，check_bilingual 通过
+- 2026-10-04 06:08｜批次3直启子代理｜thorndyke-devises-a-scheme.md 完成，check_bilingual 通过
+- 2026-10-04 06:17｜批次3直启子代理｜a-chiel-s-amang-ye-takin-notes.md 完成，check_bilingual 通过
+- 2026-10-04 06:24｜批次3直启子代理｜the-official-view.md 完成，check_bilingual 通过
+- 2026-10-04 06:31｜批次3直启子代理｜jeffrey-blackmore-s-will.md 完成，check_bilingual 通过
+- 2026-10-04 06:40｜批次3直启子代理｜jeffrey-blackmore-deceased.md 完成，check_bilingual 通过
+- 2026-10-04 06:49｜批次3直启子代理｜the-cuneiform-inscription.md 完成，check_bilingual 通过
+- 2026-10-05 05:16｜批次3直启子代理｜the-track-chart.md 完成，check_bilingual 通过
+- 2026-10-05 05:25｜批次3直启子代理｜the-house-of-mystery.md 完成，check_bilingual 通过
+- 2026-10-05 05:35｜批次3直启子代理｜the-hunter-hunted.md 完成，check_bilingual 通过
+- 2026-10-05 05:43｜批次3直启子代理｜the-blackmore-case-reviewed.md 完成，check_bilingual 通过
+- 2026-10-05 05:50｜批次3直启子代理｜the-portrait.md 完成，check_bilingual 通过
+- 2026-10-05 06:00｜批次3直启子代理｜the-statement-of-samuel-wilkins.md 完成，check_bilingual 通过
+- 2026-10-05 06:08｜批次3直启子代理｜thorndyke-lays-the-mine.md 完成，check_bilingual 通过
+- 2026-10-05 06:16｜批次3直启子代理｜thorndyke-explodes-the-mine.md 完成，check_bilingual 通过

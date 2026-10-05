@@ -25,3 +25,15 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-09-24 06:17｜批次3直启子代理｜beginnings-and-the-bazaar.md 完成，check_bilingual 通过
+- 2026-09-24 06:25｜批次3直启子代理｜cribs.md 完成，check_bilingual 通过
+- 2026-09-24 06:33｜批次3直启子代理｜making-an-end-to-things.md 完成，check_bilingual 通过
+- 2026-09-24 06:42｜批次3直启子代理｜miriam-revisited.md 完成，check_bilingual 通过
+- 2026-09-24 07:06｜批次3直启子代理｜miriam.md 完成，check_bilingual 通过
+- 2026-09-24 07:19｜批次3直启子代理｜mr-polly-an-orphan.md 完成，check_bilingual 通过
+- 2026-09-24 07:32｜批次3直启子代理｜mr-polly-takes-a-vacation.md 完成，check_bilingual 通过
+- 2026-09-24 07:45｜批次3直启子代理｜the-dismissal-of-parsons.md 断点续作完成，check_bilingual 通过
+- 2026-09-24 11:31｜批次3直启子代理｜the-little-shop-at-fishbourne.md 完成，check_bilingual 通过
+- 2026-09-24 11:57｜批次3直启子代理｜the-potwell-inn.md 完成，check_bilingual 通过
+
+- 2026-09-24 11:57｜批次3直启｜全书完结流转：10/10 章全部 done，末章 the-potwell-inn.md（78.1KB 分段拼合）验收通过，认领锁已删除，移交审核阶段。

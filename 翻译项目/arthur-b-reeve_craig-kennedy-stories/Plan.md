@@ -49,3 +49,20 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | 2026-08-13 | - | 建项目 | 从 Standard Ebooks epub 提取序章 + 12 篇探案，建术语表初版，生成队列（13 篇，约 500KB）。领域小说文学，形态短篇集，委派模式。 |
+
+| 2026-09-30 07:28 | prologue.md | done | 批次3直启：序章 2 对双语块内联完成，check_bilingual 通过；肯尼迪/詹姆森/伯恩斯/《明星报》按术语表定名 |
+- 2026-09-30 07:30｜批次3直启子代理｜spontaneous-combustion.md 完成，check_bilingual 通过
+- 2026-09-30 07:38｜批次3直启子代理｜the-artificial-paradise.md 完成，check_bilingual 通过
+- 2026-09-30 11:21｜批次3直启子代理｜the-azure-ring.md 完成，check_bilingual 通过
+- 2026-10-01 06:32｜批次3直启子代理｜the-bacteriological-detective.md 完成，check_bilingual 通过
+- 2026-10-01 06:45｜批次3直启子代理｜the-diamond-maker.md 完成，check_bilingual 通过
+- 2026-10-01 06:58｜批次3直启子代理｜the-black-hand.md 完成，check_bilingual 通过
+- 2026-10-01 07:10｜批次3直启子代理｜the-deadly-tube.md 完成，check_bilingual 通过
+- 2026-10-01 07:22｜批次3直启子代理｜the-scientific-cracksman.md 完成，check_bilingual 通过
+- 2026-10-01 07:42｜批次3直启子代理｜the-seismograph-adventure.md 完成，check_bilingual 通过
+- 2026-10-01 11:20｜批次3直启子代理｜the-silent-bullet.md 完成，check_bilingual 通过
+- 2026-10-02 06:35｜批次3直启子代理｜the-steel-door.md 完成，check_bilingual 通过
+- 2026-10-02 06:45｜批次3直启子代理｜the-terror-in-the-air.md 完成，check_bilingual 通过
+
+## 完书纪要
+- 2026-10-02 06:55｜批次3直启｜全书 13/13 队列项完成（序章+12 篇探案），check_bilingual 全部通过，锁已删除。第十五本完工。

@@ -82,7 +82,7 @@ He read through the verse several times until he had got it by heart; then folde
 He had a very good mind to do as the oracle commanded. It was a charm, a spell to bind fate: one couldn’t fail to win with those three numbers. He thought of what he would do when he had won. He had just decided on the make of car he would buy—one of the new 14–40 horsepower Lancias would be more elegant, he thought, than a Fiat and less expensive (for he retained his good sense and his habits of economy even in the midst of overflowing wealth) than an Isotta Fraschini or a Nazzaro—when he found himself at the foot of the steps leading up to the palace door. He leaned his bicycle against the wall and, sighing profoundly, rang the bell. This time the butler only gave him two francs instead of three. Such is life, he thought, as he coasted down through the forest of silver olive trees towards the valley.
 
 ===Chinese===
-他满心打算照神谕的吩咐行事。那是一道护符，一个缚住命运的咒子：押上这三个数，就不可能不中。他盘算起中了奖以后要做什么。他刚选定要买的汽车的牌子——一辆新的十四至四十马力的蓝旗亚，他想，会比菲亚特更雅致，又比伊索塔·弗拉斯基尼或纳扎罗便宜（因为纵使身处漫溢而来的富贵之中，他也仍保有清醒的头脑和节俭的老习惯）——就发现自己已站在通往宫殿大门那道台阶的脚下。他把自行车往墙上一靠，长叹一声，按响了门铃。这一回管家只给了他两法郎，而不是三法郎。生活就是这样，他一边顺着银色橄榄树的林海往谷里溜坡，一边想。
+他满心打算照神谕的吩咐行事。那是一道护符，一个缚住命运的咒子：押上这三个数，就不可能不中。他盘算起中了奖以后要做什么。他刚选定要买的汽车的牌子——一辆新的 14–40 马力的蓝旗亚，他想，会比菲亚特更雅致，又比伊索塔·弗拉斯基尼或纳扎罗便宜（因为纵使身处漫溢而来的富贵之中，他也仍保有清醒的头脑和节俭的老习惯）——就发现自己已站在通往宫殿大门那道台阶的脚下。他把自行车往墙上一靠，长叹一声，按响了门铃。这一回管家只给了他两法郎，而不是三法郎。生活就是这样，他一边顺着银色橄榄树的林海往谷里溜坡，一边想。
 
 ===Original===
 The telegram was addressed to Mrs. Aldwinkle; but in the absence of the lady of the house, who had driven down with all her other guests to the Marina di Vezza for a day’s bathing, the butler brought the telegram to Miss Thriplow.

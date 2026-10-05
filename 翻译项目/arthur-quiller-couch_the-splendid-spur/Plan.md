@@ -67,3 +67,20 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-09-25 06:11｜批次3直启子代理｜01-the-bowling-green-of-the-crown.md 完成，check_bilingual 通过
+- 2026-09-25 06:19｜批次3直启子代理｜03-i-find-myself-in-a-tavern-brawl-and-barely-escape.md 完成，check_bilingual 通过
+- 2026-09-25 06:25｜批次3直启子代理｜04-i-take-the-road.md 完成，check_bilingual 通过
+- 2026-09-25 06:33｜批次3直启子代理｜05-my-adventure-at-the-three-cups.md 完成，check_bilingual 通过
+- 2026-09-25 06:44｜批次3直启子代理｜06-the-flight-in-the-pine-wood.md 完成，check_bilingual 通过
+- 2026-09-25 06:51｜批次3直启子代理｜07-i-find-a-comrade.md 完成，check_bilingual 通过
+- 2026-09-25 07:02｜批次3直启子代理｜10-captain-pottery-and-captain-settle.md 完成，check_bilingual 通过
+- 2026-09-25 07:08｜批次3直启子代理｜11-i-ride-down-into-temple-and-am-well-treated-there.md 完成，check_bilingual 通过
+- 2026-09-25 07:14｜批次3直启子代理｜12-how-joan-saved-the-army-of-the-west-and-saw-the-fight-on-braddock-down.md 完成，check_bilingual 通过
+
+- 2026-09-24 07:22｜批次3直启子代理｜13-i-buy-a-looking-glass-at-bodmin-fair-and-meet-with-mr-hannibal-tingcomb.md 完成，check_bilingual 通过
+- 2026-09-26 06:14｜批次3直启子代理｜16-the-battle-of-stamford-heath.md 完成，check_bilingual 通过
+- 2026-09-26 06:24｜批次3直启子代理｜19-the-adventure-of-the-hearse.md 完成，check_bilingual 通过
+- 2026-09-26 06:33｜批次3直启子代理｜20-the-adventure-of-the-ledge-and-how-i-shook-hands-with-my-comrade.md 完成，check_bilingual 通过
+
+- 2026-09-26 06:33｜批次3直启｜全书完结流转：21/21 章全部 done（含接管批次4超时锁后续译 13 章），认领锁已删除，移交审核阶段。

@@ -25,3 +25,20 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-09-24 06:17｜批次3直启子代理｜arden-s-lord.md 完成，check_bilingual 通过
+- 2026-09-24 06:30｜批次3直启子代理｜developments.md 完成，check_bilingual 通过
+- 2026-09-24 06:43｜批次3直启子代理｜films-and-clouds.md 完成，check_bilingual 通过
+- 2026-09-24 06:54｜批次3直启子代理｜guy-fawkes.md 完成，check_bilingual 通过
+- 2026-09-24 07:02｜批次3直启子代理｜in-boney-s-times.md 完成，check_bilingual 通过
+- 2026-09-24 12:00｜批次3直启子代理｜may-blossom-and-pearls.md 完成，check_bilingual 通过
+- 2026-09-24 07:22｜批次3直启子代理｜the-finding-of-the-treasure.md 完成，check_bilingual 通过
+- 2026-09-24 07:33｜批次3直启子代理｜the-highwayman-and-the.md 完成，check_bilingual 通过
+- 2026-09-24 11:16｜批次3直启子代理｜the-key-of-the-parlour.md 完成，check_bilingual 通过
+- 2026-09-24 11:25｜批次3直启子代理｜the-landing-of-the-french.md 完成，check_bilingual 通过
+- 2026-09-24 11:41｜批次3直启子代理｜the-mouldiwarp.md 完成，check_bilingual 通过
+- 2026-09-24 11:54｜批次3直启子代理｜the-prisoners-in-the-tower.md 完成，check_bilingual 通过
+- 2026-09-24 12:06｜批次3直启子代理｜the-secret-panel.md 完成，check_bilingual 通过
+- 2026-09-24 12:17｜批次3直启子代理｜white-wings-and-a-brownie.md 完成，check_bilingual 通过
+
+- 2026-09-24 12:17｜批次3直启｜全书完结流转：14/14 章全部 done，末篇 white-wings-and-a-brownie.md 验收通过，认领锁已删除，移交审核阶段。

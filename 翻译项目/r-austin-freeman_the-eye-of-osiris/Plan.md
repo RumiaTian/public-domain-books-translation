@@ -136,3 +136,8 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-10-05 05:39｜批次3直启子代理｜01-the-vanishing-man.md 完成，check_bilingual 通过
+- 2026-10-05 05:48｜批次3直启子代理｜02-the-eavesdropper.md 完成，check_bilingual 通过
+- 2026-10-05 05:58｜批次3直启子代理｜03-john-thorndyke.md 完成，check_bilingual 通过
+- 2026-10-05 06:06｜批次3直启子代理｜04-legal-complications-and-a-jackal.md 完成，check_bilingual 通过
+- 2026-10-05 06:15｜批次3直启子代理｜05-the-watercress-bed.md 完成，check_bilingual 通过

@@ -31,3 +31,20 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-09-28 07:25｜批次3直启子代理｜chapter-1.md 完成，check_bilingual 通过
+- 2026-09-28 07:31｜批次3直启子代理｜chapter-2.md 完成，check_bilingual 通过
+- 2026-09-28 07:42｜批次3直启子代理｜chapter-3.md 完成，check_bilingual 通过
+- 2026-09-28 07:47｜批次3直启子代理｜chapter-4.md 完成，check_bilingual 通过
+- 2026-09-28 07:55｜批次3直启子代理｜chapter-5.md 完成，check_bilingual 通过
+- 2026-09-28 08:04｜批次3直启子代理｜chapter-6.md 完成，check_bilingual 通过
+- 2026-09-28 12:44｜批次3直启子代理｜chapter-7.md 完成，check_bilingual 通过
+- 2026-09-28 12:55｜批次3直启子代理｜chapter-8.md 完成，check_bilingual 通过
+- 2026-09-28 13:07｜批次3直启子代理｜chapter-9.md 完成，check_bilingual 通过
+- 2026-09-28 13:20｜批次3直启子代理｜chapter-10.md 完成，check_bilingual 通过
+- 2026-09-28 13:34｜批次3直启子代理｜chapter-11.md 完成，check_bilingual 通过
+- 2026-09-28 13:42｜批次3直启子代理｜chapter-12.md 完成，check_bilingual 通过
+- 2026-09-29 06:24｜批次3直启子代理｜chapter-13.md 完成，check_bilingual 通过
+- 2026-09-29 06:29｜批次3直启子代理｜chapter-14.md 完成，check_bilingual 通过
+
+- 2026-09-29 06:31｜批次3直启｜全书完结流转：14/14 篇全部 done（09-28 开书跨两次额度中断接续完成，含 ch10 免责重派），认领锁已删除，移交审核阶段。

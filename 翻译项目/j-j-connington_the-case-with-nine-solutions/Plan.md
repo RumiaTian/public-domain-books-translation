@@ -70,3 +70,25 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-09-29 06:41｜批次3直启子代理｜01-the-dying-man.md 完成，check_bilingual 通过
+- 2026-09-29 06:48｜批次3直启子代理｜02-the-house-next-door.md 完成，check_bilingual 通过
+- 2026-09-29 07:05｜批次3直启子代理｜03-sir-clinton-at-ivy-lodge.md 完成，check_bilingual 通过
+- 2026-09-29 07:04｜批次3直启子代理｜04-the-crime-at-heatherfield.md 完成，check_bilingual 通过
+- 2026-09-29 07:15｜批次3直启子代理｜05-the-bungalow-tragedy.md 完成，check_bilingual 通过
+- 2026-09-29 12:32｜批次3直启子代理｜06-the-nine-possible-solutions.md 断点续作完成，check_bilingual 通过
+- 2026-09-29 12:52｜批次3直启子代理｜07-the-fly-in-the-amber.md 完成，check_bilingual 通过
+- 2026-09-29 12:05｜批次3直启子代理｜08-the-hassendean-journal.md 完成，check_bilingual 通过
+- 2026-09-29 13:06｜批次3直启子代理｜09-the-creditor.md 完成，check_bilingual 通过
+- 2026-09-29 13:18｜批次3直启子代理｜10-information-received.md 完成，check_bilingual 通过
+- 2026-09-29 13:34｜批次3直启子代理｜11-the-code-advertisement.md 完成，check_bilingual 通过
+- 2026-09-30 06:15｜批次3直启子代理｜12-the-silverdale-wills.md 完成，check_bilingual 通过
+- 2026-09-30 06:24｜批次3直启子代理｜13-the-murder-of-the-informer.md 完成，check_bilingual 通过
+- 2026-09-30 06:37｜批次3直启子代理｜14-the-jacket.md 完成，check_bilingual 通过
+- 2026-09-30 06:47｜批次3直启子代理｜15-sir-clinton-s-double.md 完成，check_bilingual 通过
+- 2026-09-30 06:53｜批次3直启子代理｜16-written-evidence.md 完成，check_bilingual 通过
+- 2026-09-30 07:01｜批次3直启子代理｜17-mr-justice.md 完成，check_bilingual 通过
+- 2026-09-30 07:08｜批次3直启子代理｜18-the-connecting-thread.md 完成，check_bilingual 通过
+- 2026-09-30 07:14｜批次3直启子代理｜19-excerpts-from-sir-clinton-s-notebook.md 完成，check_bilingual 通过
+
+## 完书纪要
+- 2026-09-30 07:14｜批次3直启｜全书 19/19 章完成，check_bilingual 全部通过，锁已删除。第十二本完工。
