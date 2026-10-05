@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-05，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-10-05，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
@@ -28,7 +28,7 @@
 | 3 | `ada-elizabeth-chesterton_in-darkest-london` | ✅ 已入库 | [✅ **100%**](翻译项目/ada-elizabeth-chesterton_in-darkest-london/译文) (17篇) | [✅ 已审(A)](翻译项目/ada-elizabeth-chesterton_in-darkest-london/审核报告.md) | [📦 276KB](翻译项目/ada-elizabeth-chesterton_in-darkest-london/最黑暗的伦敦.epub) | A 优秀（出版预备级） |
 | 4 | `alan-sullivan_the-jade-god` | ✅ 已入库 | [✅ **100%**](翻译项目/alan-sullivan_the-jade-god/译文) (14篇) | [✅ 已审](翻译项目/alan-sullivan_the-jade-god/审核报告.md) | [📦 362KB](翻译项目/alan-sullivan_the-jade-god/玉神.epub) | A-（优秀·出版预备级） | > 全书译文文笔醇厚典雅、悬疑与神秘意象传达极… |
 | 5 | `aldous-huxley_antic-hay` | ✅ 已入库 | [✅ **100%**](翻译项目/aldous-huxley_antic-hay/译文) (23篇) | [✅ 已审](翻译项目/aldous-huxley_antic-hay/审核报告.md) | [📦 476KB](翻译项目/aldous-huxley_antic-hay/滑稽的环舞.epub) | 全书 23 篇译文架构严丝合缝，499 组双语对照块实现 100% 严格闭合… |
-| 6 | `aldous-huxley_those-barren-leaves` | ✅ 已入库 | [✅ **100%**](翻译项目/aldous-huxley_those-barren-leaves/译文) (47篇) | [✅ 已审(A)](翻译项目/aldous-huxley_those-barren-leaves/审核报告.md) | [📦 646KB](翻译项目/aldous-huxley_those-barren-leaves/光秃秃的树叶.epub) | A 优秀 | 全书5大部47章双语块经双代理分区100%逐段精读对照，英文零… |
+| 6 | `aldous-huxley_those-barren-leaves` | ✅ 已入库 | [✅ **100%**](翻译项目/aldous-huxley_those-barren-leaves/译文) (47篇) | [✅ 已审(A)](翻译项目/aldous-huxley_those-barren-leaves/审核报告.md) | [📦 646KB](翻译项目/aldous-huxley_those-barren-leaves/光秃秃的树叶.epub) | A 优秀 |
 | 7 | `aleksandr-kuprin_short-fiction_various-translators` | ✅ 已入库 | ⚪ 待译 (49篇) | — | — |  |
 | 8 | `alexander-berkman_the-bolshevik-myth` | ✅ 已入库 | ⚪ 待译 (42篇) | — | — |  |
 | 9 | `alexander-mackenzie_journals` | ✅ 已入库 | ⚪ 待译 (27篇) | — | — |  |
@@ -79,7 +79,7 @@
 | 54 | `archibald-alexander_a-day-at-a-time` | ✅ 已入库 | [✅ **100%**](翻译项目/archibald-alexander_a-day-at-a-time/译文) (33篇) | [✅ 已审(A)](翻译项目/archibald-alexander_a-day-at-a-time/审核报告.md) | [📦 197KB](翻译项目/archibald-alexander_a-day-at-a-time/一天一天地过.epub) | A 优秀 |
 | 55 | `arnold-bennett_riceyman-steps` | ✅ 已入库 | ⚪ 待译 (54篇) | — | — |  |
 | 56 | `arnold-bennett_the-grand-babylon-hotel` | ✅ 已入库 | [✅ **100%**](翻译项目/arnold-bennett_the-grand-babylon-hotel/译文) (30篇) | [✅ 已审(C)](翻译项目/arnold-bennett_the-grand-babylon-hotel/审核报告.md) | [📦 356KB](翻译项目/arnold-bennett_the-grand-babylon-hotel/The Grand Babylon Hotel.epub) | C 需关注 |
-| 57 | `arthur-b-reeve_craig-kennedy-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/arthur-b-reeve_craig-kennedy-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/arthur-b-reeve_craig-kennedy-stories/审核报告.md) | [📦 450KB](翻译项目/arthur-b-reeve_craig-kennedy-stories/克雷格·肯尼迪科学探案集.epub) | A 优秀 | 全书13部大中篇841对双语块经双代理分区100%逐段通读，科… |
+| 57 | `arthur-b-reeve_craig-kennedy-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/arthur-b-reeve_craig-kennedy-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/arthur-b-reeve_craig-kennedy-stories/审核报告.md) | [📦 450KB](翻译项目/arthur-b-reeve_craig-kennedy-stories/克雷格·肯尼迪科学探案集.epub) | A 优秀 |
 | 58 | `arthur-conan-doyle_the-maracot-deep` | ✅ 已入库 | [✅ **100%**](翻译项目/arthur-conan-doyle_the-maracot-deep/译文) (7篇) | [✅ 已审(A)](翻译项目/arthur-conan-doyle_the-maracot-deep/审核报告.md) | [📦 212KB](翻译项目/arthur-conan-doyle_the-maracot-deep/马拉科特深渊.epub) | A 优秀 |
 | 59 | `arthur-machen_short-fiction` | ✅ 已入库 | ⚪ 待译 (10篇) | — | — |  |
 | 60 | `arthur-machen_the-hill-of-dreams` | ✅ 已入库 | [✅ **100%**](翻译项目/arthur-machen_the-hill-of-dreams/译文) (8篇) | [✅ 已审(B)](翻译项目/arthur-machen_the-hill-of-dreams/审核报告.md) | [📦 346KB](翻译项目/arthur-machen_the-hill-of-dreams/The Hill of Dreams.epub) | B 良好 |
@@ -507,7 +507,7 @@
 | 482 | `nella-larsen_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/nella-larsen_short-fiction/译文) (2篇) | [✅ 已审(B)](翻译项目/nella-larsen_short-fiction/审核报告.md) | [📦 192KB](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) | B 良好 |
 | 483 | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | ✅ 已入库 | [✅ **100%**](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/译文) (19篇) | [✅ 已审](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/审核报告.md) | [📦 229KB](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) | A 级（优秀 / Excellent） |
 | 484 | `noel-coward_the-vortex` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-coward_the-vortex/译文) (5篇) | [✅ 已审(B)](翻译项目/noel-coward_the-vortex/审核报告.md) | [📦 90KB](翻译项目/noel-coward_the-vortex/The Vortex.epub) | B 良好 |
-| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 19KB](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） |
+| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 221KB](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） |
 | 486 | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | ✅ 已入库 | [✅ **100%**](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/译文) (22篇) | ⏳ 待审 | [📦 401KB](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) | 已译完待审 |
 | 487 | `octave-mirbeau_calvary_louis-rich` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
 | 488 | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | ✅ 已入库 | ⚪ 待译 (16篇) | — | — |  |
@@ -1019,7 +1019,7 @@
 | 337 | `robert-louis-stevenson_poetry` | 488.8 | 14 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/robert-louis-stevenson_poetry/审核报告.md) | B 良好 |
 | 338 | `ameen-rihani_the-book-of-khalid` | 499.4 | 36 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/ameen-rihani_the-book-of-khalid/审核报告.md) | B 良好（语义层接近优秀，扣分在跨篇一致性） |
 | 339 | `georgette-heyer_simon-the-coldheart` | 501.2 | 36 | - | 1 | 已完成 | 2026-09-22 | [`审核报告.md`](翻译项目/georgette-heyer_simon-the-coldheart/审核报告.md) | B 良好 |
-| 340 | `arthur-b-reeve_craig-kennedy-stories` | 501.8 | 13 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/arthur-b-reeve_craig-kennedy-stories/审核报告.md) | A 优秀 | 全书13部大中篇841对双语块经双代理分区100%逐段通读，科学物理/化学/法医计量与实验仪器还原精准，A级与B级问题为0，达出版预备级。 |
+| 340 | `arthur-b-reeve_craig-kennedy-stories` | 501.8 | 13 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/arthur-b-reeve_craig-kennedy-stories/审核报告.md) | A 优秀 |
 | 341 | `georgette-heyer_the-masqueraders` | 505.5 | 33 | - | 1 | 已完成 | 2026-09-21 | [`审核报告.md`](翻译项目/georgette-heyer_the-masqueraders/审核报告.md) | B 良好 |
 | 342 | `booth-tarkington_the-turmoil` | 508.7 | 34 | - | 1 | 已完成 | 2026-09-16 | [`审核报告.md`](翻译项目/booth-tarkington_the-turmoil/审核报告.md) | B 良好 |
 | 343 | `aldous-huxley_antic-hay` | 514.9 | 23 | - | 1 | 已完成 | 2026-08-31 | [`审核报告.md`](翻译项目/aldous-huxley_antic-hay/审核报告.md) | 全书 23 篇译文架构严丝合缝，499 组双语对照块实现 100% 严格闭合，无任何错配、漏译、章末截断与重大数字差错；译文笔力老练通透，不仅以极具质感、洗练典雅的现代中文高度还原了一战后伦敦“迷惘一代”文人沙龙尖酸刻薄、机智嘲弄的空谈腔调，更精准再现了赫胥黎标志性的百科全书式用典、现代主义意识流与荒诞存在主义底色，整体达到极高的文学翻译与学术出版水准。 |
@@ -1030,7 +1030,7 @@
 | 348 | `algernon-blackwood_john-silence-stories` | 644.4 | 6 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/algernon-blackwood_john-silence-stories/审核报告.md) | A 优秀 |
 | 349 | `georgette-heyer_the-great-roxhythe` | 652.3 | 56 | - | 1 | 已完成 | 2026-09-22 | [`审核报告.md`](翻译项目/georgette-heyer_the-great-roxhythe/审核报告.md) | B 良好 |
 | 350 | `george-macdonald_short-fiction` | 655.4 | 19 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/george-macdonald_short-fiction/审核报告.md) | A 优秀 |
-| 351 | `aldous-huxley_those-barren-leaves` | 706.1 | 47 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/aldous-huxley_those-barren-leaves/审核报告.md) | A 优秀 | 全书5大部47章双语块经双代理分区100%逐段精读对照，英文零损坏、A级与B级问题均为0，高密度哲理讽刺与人物口吻传神，达出版预备级。 |
+| 351 | `aldous-huxley_those-barren-leaves` | 706.1 | 47 | - | 1 | 已完成 | 2026-10-05 | [`审核报告.md`](翻译项目/aldous-huxley_those-barren-leaves/审核报告.md) | A 优秀 |
 | 352 | `anna-katharine-green_the-sword-of-damocles` | 753.0 | 53 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/anna-katharine-green_the-sword-of-damocles/审核报告.md) | B 良好 |
 | 353 | `anthony-trollope_rachel-ray` | 768.1 | 30 | - | 1 | 已完成 | 2026-09-16 | [`审核报告.md`](翻译项目/anthony-trollope_rachel-ray/审核报告.md) | B 良好 |
 | 354 | `william-morris_the-roots-of-the-mountains` | 787.9 | 60 | - | 1 | 已完成 | 2026-08-14 | [`审核报告.md`](翻译项目/william-morris_the-roots-of-the-mountains/审核报告.md) | B 良好 |
@@ -1343,7 +1343,7 @@
 | Short Fiction | Nella Larsen | `nella-larsen_short-fiction` | 192KB | - | [`内拉·拉森短篇小说集.epub`](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) |
 | Our Baseball Club and How It Won the Championship | Noah Brooks | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | 229KB | - | [`我们的棒球俱乐部.epub`](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) |
 | The Vortex | Noël Coward | `noel-coward_the-vortex` | 90KB | - | [`The Vortex.epub`](翻译项目/noel-coward_the-vortex/The Vortex.epub) |
-| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`Day-s-Work-双语.epub`](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) |
+| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`短篇科幻集.epub`](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) |
 | 赌徒马布斯博士 | Norbert Jacques | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | 401KB | - | [`赌徒马布斯博士.epub`](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) |
 | Laughing Boy | Oliver La Farge | `oliver-la-farge_laughing-boy` | 329KB | - | [`Laughing Boy.epub`](翻译项目/oliver-la-farge_laughing-boy/Laughing Boy.epub) |
 | A Damsel in Distress | P. G. Wodehouse | `p-g-wodehouse_a-damsel-in-distress` | 405KB | - | [`A Damsel in Distress.epub`](翻译项目/p-g-wodehouse_a-damsel-in-distress/A Damsel in Distress.epub) |
