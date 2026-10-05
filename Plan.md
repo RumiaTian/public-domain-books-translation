@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-05，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-10-05，合并远程审核批次与《分离洪流》68/68 完结后重建）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **389** 完 / **10** 译 / **248** 待（共 647 本） | **7922** / 18180 篇（**121701.7** / 305863.1 KB）· **39.8%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **371** 本已审 / **18** 本待审 | 覆盖精读 **371** 本（**95.4%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **389** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **389** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **390** 完 / **10** 译 / **247** 待（共 647 本） | **7977** / 18180 篇（**122261.4** / 305863.1 KB）· **40.0%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **371** 本已审 / **19** 本待审 | 覆盖精读 **371** 本（**95.1%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **389** 本已打包 / **1** 本待打包 | 交付标准双语 EPUB **389** 本（**99.7%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **389** 本译完，**371** 本完成独立审校，**389** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **390** 本译完，**371** 本完成独立审校，**389** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -245,7 +245,7 @@
 | 220 | `ford-madox-ford_no-more-parades` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
 | 221 | `ford-madox-ford_privy-seal` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_privy-seal/译文) (21篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_privy-seal/审核报告.md) | [📦 307KB](翻译项目/ford-madox-ford_privy-seal/御玺.epub) | B 良好 |
 | 222 | `ford-madox-ford_some-do-not` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
-| 223 | `ford-madox-ford_the-fifth-queen` | ✅ 已入库 | ⚪ 待译 (23篇) | — | — |  |
+| 223 | `ford-madox-ford_the-fifth-queen` | ✅ 已入库 | [🟡 76.4%](翻译项目/ford-madox-ford_the-fifth-queen/译文) (19/23) | — | — | 翻译中 (done 19/23) |
 | 224 | `ford-madox-ford_the-fifth-queen-crowned` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_the-fifth-queen-crowned/译文) (27篇) | [✅ 已审](翻译项目/ford-madox-ford_the-fifth-queen-crowned/审核报告.md) | [📦 290KB](翻译项目/ford-madox-ford_the-fifth-queen-crowned/The Fifth Queen Crowned.epub) | A－ | 全书 27 个文件块块对应、无漏译断译，专名与历史称谓总体严守术语… |
 | 225 | `ford-madox-ford_the-last-post` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_the-last-post/译文) (15篇) | [✅ 已审(A)](翻译项目/ford-madox-ford_the-last-post/审核报告.md) | [📦 355KB](翻译项目/ford-madox-ford_the-last-post/The Last Post.epub) | A 优秀（出版预备级） |
 | 226 | `frances-ellen-watkins-harper_iola-leroy` | ✅ 已入库 | [✅ **100%**](翻译项目/frances-ellen-watkins-harper_iola-leroy/译文) (36篇) | [✅ 已审(A)](翻译项目/frances-ellen-watkins-harper_iola-leroy/审核报告.md) | [📦 385KB](翻译项目/frances-ellen-watkins-harper_iola-leroy/伊奥拉·勒罗伊.epub) | A 优秀（出版预备级） |
@@ -507,7 +507,7 @@
 | 482 | `nella-larsen_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/nella-larsen_short-fiction/译文) (2篇) | [✅ 已审(B)](翻译项目/nella-larsen_short-fiction/审核报告.md) | [📦 192KB](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) | B 良好 |
 | 483 | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | ✅ 已入库 | [✅ **100%**](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/译文) (19篇) | [✅ 已审](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/审核报告.md) | [📦 229KB](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) | A 级（优秀 / Excellent） |
 | 484 | `noel-coward_the-vortex` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-coward_the-vortex/译文) (5篇) | [✅ 已审(B)](翻译项目/noel-coward_the-vortex/审核报告.md) | [📦 90KB](翻译项目/noel-coward_the-vortex/The Vortex.epub) | B 良好 |
-| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 221KB](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） |
+| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 19KB](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） |
 | 486 | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | ✅ 已入库 | [✅ **100%**](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/译文) (22篇) | ⏳ 待审 | [📦 401KB](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) | 已译完待审 |
 | 487 | `octave-mirbeau_calvary_louis-rich` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
 | 488 | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | ✅ 已入库 | ⚪ 待译 (16篇) | — | — |  |
@@ -658,7 +658,7 @@
 | 633 | `william-makepeace-thackeray_the-luck-of-barry-lyndon` | ✅ 已入库 | ⚪ 待译 (21篇) | — | — |  |
 | 634 | `william-morris_the-house-of-the-wolfings` | ✅ 已入库 | ⚪ 待译 (33篇) | — | — |  |
 | 635 | `william-morris_the-roots-of-the-mountains` | ✅ 已入库 | [✅ **100%**](翻译项目/william-morris_the-roots-of-the-mountains/译文) (60篇) | [✅ 已审(B)](翻译项目/william-morris_the-roots-of-the-mountains/审核报告.md) | [📦 686KB](翻译项目/william-morris_the-roots-of-the-mountains/The Roots of the Mountains.epub) | B 良好 |
-| 636 | `william-morris_the-sundering-flood` | ✅ 已入库 | [🟡 49.7%](翻译项目/william-morris_the-sundering-flood/译文) (32/68) | — | — |  |
+| 636 | `william-morris_the-sundering-flood` | ✅ 已入库 | [✅ **100%**](翻译项目/william-morris_the-sundering-flood/译文) (68篇) | ⏳ 待审 | — | 已译完待审 |
 | 637 | `william-morris_the-water-of-the-wondrous-isles` | ✅ 已入库 | ⚪ 待译 (116篇) | — | — |  |
 | 638 | `william-morris_the-well-at-the-worlds-end` | ✅ 已入库 | ⚪ 待译 (123篇) | — | — |  |
 | 639 | `william-wollaston_the-religion-of-nature-delineated` | ✅ 已入库 | ⚪ 待译 (14篇) | — | — |  |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 |
-| | **合计 (647 本精选)** | **100% 下载** | **7922/18180 篇 (39.8%)** | **371 本完成** | **389 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **7977/18180 篇 (40.0%)** | **371 本完成** | **389 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1356,7 +1356,7 @@
 | Short Fiction | Nella Larsen | `nella-larsen_short-fiction` | 192KB | - | [`内拉·拉森短篇小说集.epub`](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) |
 | Our Baseball Club and How It Won the Championship | Noah Brooks | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | 229KB | - | [`我们的棒球俱乐部.epub`](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) |
 | The Vortex | Noël Coward | `noel-coward_the-vortex` | 90KB | - | [`The Vortex.epub`](翻译项目/noel-coward_the-vortex/The Vortex.epub) |
-| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`短篇科幻集.epub`](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) |
+| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`Day-s-Work-双语.epub`](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) |
 | 赌徒马布斯博士 | Norbert Jacques | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | 401KB | - | [`赌徒马布斯博士.epub`](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) |
 | Laughing Boy | Oliver La Farge | `oliver-la-farge_laughing-boy` | 329KB | - | [`Laughing Boy.epub`](翻译项目/oliver-la-farge_laughing-boy/Laughing Boy.epub) |
 | A Damsel in Distress | P. G. Wodehouse | `p-g-wodehouse_a-damsel-in-distress` | 405KB | - | [`A Damsel in Distress.epub`](翻译项目/p-g-wodehouse_a-damsel-in-distress/A Damsel in Distress.epub) |
@@ -1862,3 +1862,4 @@
 | 2026-10-05 | 批次3直启 | +16 | 10298 | 7 | r-austin-freeman_the-darblay-mystery《The Darblay Mystery》19/19 全书竣工（第21本） |
 | 2026-10-05 | 批次3直启 | +19 | 10279 | 8 | john-buchan_huntingtower《Huntingtower》19/19 全书竣工（第22本） |
 | 2026-10-05 | 批次1直启翻译 | +4 | 10278 | 9 | [1308]#19（15:15重置）后恢复；Morris ch-1/2/3/4完成（ch-3系阵亡代理died-post-write，dispatcher补账）；根目录47+2个旧临时脚本已清扫 |
+| 2026-10-05 | 合并同步 | +68 | 10193 | 10 | 拉取他机审核报告批次；本地完成分离洪流全书68章 |
