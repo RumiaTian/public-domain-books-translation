@@ -1,4 +1,4 @@
-# 翻译计划（freeman-wills-crofts_the-starvel-hollow-tragedy）
+﻿# 翻译计划（freeman-wills-crofts_the-starvel-hollow-tragedy）
 
 ## 本计划信息
 
@@ -31,3 +31,14 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-10-05 21:13｜批次3直启子代理｜chapter-1.md 完成，check_bilingual 通过
+- 2026-10-06 06:17｜批次3直启子代理｜chapter-2.md 完成，check_bilingual 通过
+- 2026-10-06 06:25｜批次3直启子代理｜chapter-3.md 完成，check_bilingual 通过
+- 2026-10-06 06:35｜批次3直启子代理｜chapter-4.md 完成，check_bilingual 通过
+- 2026-10-06 06:46｜批次3直启子代理｜chapter-5.md 完成，check_bilingual 通过
+- 2026-10-06 06:55｜批次3直启子代理｜chapter-6.md 完成，check_bilingual 通过
+- 2026-10-06 07:07｜批次3直启子代理｜chapter-7.md 完成，check_bilingual 通过
+- 2026-10-06 07:16｜批次3直启子代理｜chapter-8.md 完成，check_bilingual 通过
+- 2026-10-06 07:25｜批次3直启子代理｜chapter-9.md 完成，check_bilingual 通过
+- 2026-10-06 07:35｜批次3直启子代理｜chapter-10.md 完成，check_bilingual 通过
+- 2026-10-06 07:43｜批次3直启子代理｜chapter-11.md 完成，check_bilingual 通过

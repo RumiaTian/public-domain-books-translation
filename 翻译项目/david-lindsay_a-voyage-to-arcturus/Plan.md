@@ -137,3 +137,16 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-10-06 06:31｜批次3直启子代理｜chapter-01-the-sance.md 完成，check_bilingual 通过
+
+- 2026-10-06 06:36｜批次3直启子代理｜chapter-02-in-the-street.md 完成，check_bilingual 通过
+- 2026-10-06 06:40｜批次3直启子代理｜chapter-03-starkness.md 完成，check_bilingual 通过
+- 2026-10-06 06:44｜批次3直启子代理｜chapter-04-the-voice.md 完成，check_bilingual 通过
+- 2026-10-06 06:50｜批次3直启子代理｜chapter-05-the-night-of-departure.md 完成，check_bilingual 通过
+
+- 2026-10-06 06:58｜批次3直启子代理｜chapter-06-joiwind.md 完成，check_bilingual 通过
+- 2026-10-06 07:10｜批次3直启子代理｜chapter-07-panawe.md 完成，check_bilingual 通过
+- 2026-10-06 07:17｜批次3直启子代理｜chapter-08-the-lusion-plain.md 完成，check_bilingual 通过
+- 2026-10-06 07:26｜批次3直启子代理｜chapter-09-oceaxe.md 完成，check_bilingual 通过
+- 2026-10-06 07:37｜批次3直启子代理｜chapter-10-tydomin.md 完成，check_bilingual 通过
+- 2026-10-06 07:49｜批次3直启子代理｜chapter-11-on-disscourn.md 完成，check_bilingual 通过

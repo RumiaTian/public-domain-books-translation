@@ -141,3 +141,12 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 - 2026-10-05 05:58｜批次3直启子代理｜03-john-thorndyke.md 完成，check_bilingual 通过
 - 2026-10-05 06:06｜批次3直启子代理｜04-legal-complications-and-a-jackal.md 完成，check_bilingual 通过
 - 2026-10-05 06:15｜批次3直启子代理｜05-the-watercress-bed.md 完成，check_bilingual 通过
+- 2026-10-06 06:21｜批次3直启子代理｜06-sidelights.md 完成，check_bilingual 通过
+- 2026-10-06 06:31｜批次3直启子代理｜07-john-bellingham-s-will.md 完成，check_bilingual 通过
+- 2026-10-06 06:44｜批次3直启子代理｜08-a-museum-idyll.md 完成，check_bilingual 通过
+- 2026-10-06 06:52｜批次3直启子代理｜09-the-sphynx-of-lincoln-s-inn.md 完成，check_bilingual 通过
+- 2026-10-06 07:02｜批次3直启子代理｜10-the-new-alliance.md 完成，check_bilingual 通过
+- 2026-10-06 07:14｜批次3直启子代理｜11-the-evidence-reviewed.md 完成，check_bilingual 通过
+- 2026-10-06 07:25｜批次3直启子代理｜12-a-voyage-of-discovery.md 完成，check_bilingual 通过
+- 2026-10-06 07:35｜批次3直启子代理｜13-the-coroner-s-quest.md 完成，check_bilingual 通过
+- 2026-10-06 07:51｜批次3直启子代理｜14-which-carries-the-reader-into-the-probate-court.md 完成，check_bilingual 通过

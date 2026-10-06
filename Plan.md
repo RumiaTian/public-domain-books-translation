@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-05，合并远程审核批次与《分离洪流》68/68 完结后重建）
+## 📊 全局四阶段总览（快照：批次1直启：《战地生活》29/29收官，《雀斑（弗雷克尔斯）》2/21进行中）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **390** 完 / **10** 译 / **247** 待（共 647 本） | **7977** / 18180 篇（**122261.4** / 305863.1 KB）· **40.0%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **371** 本已审 / **19** 本待审 | 覆盖精读 **371** 本（**95.1%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **389** 本已打包 / **1** 本待打包 | 交付标准双语 EPUB **389** 本（**99.7%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **395** 完 / **10** 译 / **242** 待（共 647 本） | **8122** / 18180 篇（**124795.1** / 305863.1 KB）· **40.8%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **371** 本已审 / **24** 本待审 | 覆盖精读 **371** 本（**93.9%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **389** 本已打包 / **6** 本待打包 | 交付标准双语 EPUB **389** 本（**98.5%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **390** 本译完，**371** 本完成独立审校，**389** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **395** 本译完，**371** 本完成独立审校，**389** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -36,7 +36,7 @@
 | 11 | `algernon-blackwood_john-silence-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/algernon-blackwood_john-silence-stories/译文) (6篇) | [✅ 已审(A)](翻译项目/algernon-blackwood_john-silence-stories/审核报告.md) | [📦 573KB](翻译项目/algernon-blackwood_john-silence-stories/约翰·寂静医生的故事.epub) | A 优秀 |
 | 12 | `algis-budrys_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/algis-budrys_short-fiction/译文) (10篇) | [✅ 已审(A)](翻译项目/algis-budrys_short-fiction/审核报告.md) | [📦 345KB](翻译项目/algis-budrys_short-fiction/Short Fiction.epub) | A 优秀 |
 | 13 | `ambrose-bierce_can-such-things-be` | ✅ 已入库 | [✅ **100%**](翻译项目/ambrose-bierce_can-such-things-be/译文) (51篇) | [✅ 已审(C)](翻译项目/ambrose-bierce_can-such-things-be/审核报告.md) | [📦 334KB](翻译项目/ambrose-bierce_can-such-things-be/Can Such Things Be.epub) | C 需关注 |
-| 14 | `ambrose-bierce_in-the-midst-of-life` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
+| 14 | `ambrose-bierce_in-the-midst-of-life` | ✅ 已入库 | [✅ **100%**](翻译项目/ambrose-bierce_in-the-midst-of-life/译文) (29篇) | ⏳ 待审 | — | 已译完待审 |
 | 15 | `ambrose-bierce_poetry` | ✅ 已入库 | ⚪ 待译 (931篇) | — | — |  |
 | 16 | `ameen-rihani_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/ameen-rihani_poetry/译文) (82篇) | [✅ 已审(B)](翻译项目/ameen-rihani_poetry/审核报告.md) | [📦 115KB](翻译项目/ameen-rihani_poetry/阿明·里哈尼诗集.epub) | B 良好（极度接近 A 优秀；全书 82 篇 2,681 行诗句实现严格 1… |
 | 17 | `ameen-rihani_the-book-of-khalid` | ✅ 已入库 | [✅ **100%**](翻译项目/ameen-rihani_the-book-of-khalid/译文) (36篇) | [✅ 已审(B)](翻译项目/ameen-rihani_the-book-of-khalid/审核报告.md) | [📦 484KB](翻译项目/ameen-rihani_the-book-of-khalid/哈立德之书.epub) | B 良好（语义层接近优秀，扣分在跨篇一致性） |
@@ -149,7 +149,7 @@
 | 124 | `d-l-moody_the-way-to-god-and-how-to-find-it` | ✅ 已入库 | [✅ **100%**](翻译项目/d-l-moody_the-way-to-god-and-how-to-find-it/译文) (9篇) | [✅ 已审(B)](翻译项目/d-l-moody_the-way-to-god-and-how-to-find-it/审核报告.md) | [📦 177KB](翻译项目/d-l-moody_the-way-to-god-and-how-to-find-it/通向神之路.epub) | B 良好 |
 | 125 | `daisy-ashford_the-young-visiters` | ✅ 已入库 | [✅ **100%**](翻译项目/daisy-ashford_the-young-visiters/译文) (13篇) | [✅ 已审(B)](翻译项目/daisy-ashford_the-young-visiters/审核报告.md) | [📦 75KB](翻译项目/daisy-ashford_the-young-visiters/年轻访客.epub) | B 良好 |
 | 126 | `david-garnett_lady-into-fox` | ✅ 已入库 | [✅ **100%**](翻译项目/david-garnett_lady-into-fox/译文) (2篇) | [✅ 已审(B)](翻译项目/david-garnett_lady-into-fox/审核报告.md) | [📦 108KB](翻译项目/david-garnett_lady-into-fox/狐狸变成的太太.epub) | B 良好 |
-| 127 | `david-lindsay_a-voyage-to-arcturus` | ✅ 已入库 | ⚪ 待译 (21篇) | — | — |  |
+| 127 | `david-lindsay_a-voyage-to-arcturus` | ✅ 已入库 | [🟡 44.2%](翻译项目/david-lindsay_a-voyage-to-arcturus/译文) (11/21) | — | — | 翻译中 (done 11/21) |
 | 128 | `david-park-barnitz_the-book-of-jade` | ✅ 已入库 | [✅ **100%**](翻译项目/david-park-barnitz_the-book-of-jade/译文) (62篇) | [✅ 已审(B)](翻译项目/david-park-barnitz_the-book-of-jade/审核报告.md) | [📦 79KB](翻译项目/david-park-barnitz_the-book-of-jade/玉书.epub) | B 良好 |
 | 129 | `denis-diderot_the-indiscreet-jewels_r-freeman` | ✅ 已入库 | ⚪ 待译 (53篇) | — | — |  |
 | 130 | `dornford-yates_blind-corner` | ✅ 已入库 | [✅ **100%**](翻译项目/dornford-yates_blind-corner/译文) (10篇) | [✅ 已审(B)](翻译项目/dornford-yates_blind-corner/审核报告.md) | [📦 325KB](翻译项目/dornford-yates_blind-corner/Blind Corner.epub) | B 良好 |
@@ -245,7 +245,7 @@
 | 220 | `ford-madox-ford_no-more-parades` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
 | 221 | `ford-madox-ford_privy-seal` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_privy-seal/译文) (21篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_privy-seal/审核报告.md) | [📦 307KB](翻译项目/ford-madox-ford_privy-seal/御玺.epub) | B 良好 |
 | 222 | `ford-madox-ford_some-do-not` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
-| 223 | `ford-madox-ford_the-fifth-queen` | ✅ 已入库 | [🟡 76.4%](翻译项目/ford-madox-ford_the-fifth-queen/译文) (19/23) | — | — | 翻译中 (done 19/23) |
+| 223 | `ford-madox-ford_the-fifth-queen` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_the-fifth-queen/译文) (23篇) | ⏳ 待审 | — | 已译完待审 |
 | 224 | `ford-madox-ford_the-fifth-queen-crowned` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_the-fifth-queen-crowned/译文) (27篇) | [✅ 已审](翻译项目/ford-madox-ford_the-fifth-queen-crowned/审核报告.md) | [📦 290KB](翻译项目/ford-madox-ford_the-fifth-queen-crowned/The Fifth Queen Crowned.epub) | A－ | 全书 27 个文件块块对应、无漏译断译，专名与历史称谓总体严守术语… |
 | 225 | `ford-madox-ford_the-last-post` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_the-last-post/译文) (15篇) | [✅ 已审(A)](翻译项目/ford-madox-ford_the-last-post/审核报告.md) | [📦 355KB](翻译项目/ford-madox-ford_the-last-post/The Last Post.epub) | A 优秀（出版预备级） |
 | 226 | `frances-ellen-watkins-harper_iola-leroy` | ✅ 已入库 | [✅ **100%**](翻译项目/frances-ellen-watkins-harper_iola-leroy/译文) (36篇) | [✅ 已审(A)](翻译项目/frances-ellen-watkins-harper_iola-leroy/审核报告.md) | [📦 385KB](翻译项目/frances-ellen-watkins-harper_iola-leroy/伊奥拉·勒罗伊.epub) | A 优秀（出版预备级） |
@@ -265,7 +265,7 @@
 | 240 | `freeman-wills-crofts_the-pit-prop-syndicate` | ✅ 已入库 | ⚪ 待译 (23篇) | — | — |  |
 | 241 | `freeman-wills-crofts_the-ponson-case` | ✅ 已入库 | [✅ **100%**](翻译项目/freeman-wills-crofts_the-ponson-case/译文) (16篇) | ⏳ 待审 | [📦 412KB](翻译项目/freeman-wills-crofts_the-ponson-case/The Ponson Case.epub) | 已译完待审 |
 | 242 | `freeman-wills-crofts_the-sea-mystery` | ✅ 已入库 | [✅ **100%**](翻译项目/freeman-wills-crofts_the-sea-mystery/译文) (20篇) | ⏳ 待审 | [📦 367KB](翻译项目/freeman-wills-crofts_the-sea-mystery/The Sea Mystery.epub) | 已译完待审 |
-| 243 | `freeman-wills-crofts_the-starvel-hollow-tragedy` | ✅ 已入库 | ⚪ 待译 (21篇) | — | — | 翻译中 (done 0/21) |
+| 243 | `freeman-wills-crofts_the-starvel-hollow-tragedy` | ✅ 已入库 | [🟡 58.1%](翻译项目/freeman-wills-crofts_the-starvel-hollow-tragedy/译文) (11/21) | — | — | 翻译中 (done 11/21) |
 | 244 | `friedrich-spielhagen_the-breaking-of-the-storm_s-e-a-h-stephenson` | ✅ 已入库 | ⚪ 待译 (81篇) | — | — |  |
 | 245 | `fritz-leiber_short-fiction` | ✅ 已入库 | ⚪ 待译 (25篇) | — | — |  |
 | 246 | `fritz-leiber_the-big-time` | ✅ 已入库 | [✅ **100%**](翻译项目/fritz-leiber_the-big-time/译文) (16篇) | [✅ 已审(B)](翻译项目/fritz-leiber_the-big-time/审核报告.md) | [📦 212KB](翻译项目/fritz-leiber_the-big-time/大时光.epub) | B 良好 |
@@ -275,7 +275,7 @@
 | 250 | `g-k-chesterton_manalive` | ✅ 已入库 | [✅ **100%**](翻译项目/g-k-chesterton_manalive/译文) (12篇) | [✅ 已审](翻译项目/g-k-chesterton_manalive/审核报告.md) | [📦 302KB](翻译项目/g-k-chesterton_manalive/活人.epub) | A⁻） |
 | 251 | `g-k-chesterton_the-club-of-queer-trades` | ✅ 已入库 | [✅ **100%**](翻译项目/g-k-chesterton_the-club-of-queer-trades/译文) (6篇) | [✅ 已审](翻译项目/g-k-chesterton_the-club-of-queer-trades/审核报告.md) | [📦 226KB](翻译项目/g-k-chesterton_the-club-of-queer-trades/奇行俱乐部.epub) | A 级（优秀 / Excellent） |
 | 252 | `g-k-chesterton_the-napoleon-of-notting-hill` | ✅ 已入库 | [✅ **100%**](翻译项目/g-k-chesterton_the-napoleon-of-notting-hill/译文) (5篇) | [✅ 已审(A)](翻译项目/g-k-chesterton_the-napoleon-of-notting-hill/审核报告.md) | [📦 285KB](翻译项目/g-k-chesterton_the-napoleon-of-notting-hill/诺丁山的拿破仑.epub) | A 优秀 |
-| 253 | `gene-stratton-porter_freckles` | ✅ 已入库 | ⚪ 待译 (21篇) | — | — |  |
+| 253 | `gene-stratton-porter_freckles` | ✅ 已入库 | [🟡 4.1%](翻译项目/gene-stratton-porter_freckles/译文) (2/21) | — | — | 翻译中 (done 2/21) |
 | 254 | `geoffrey-dennis_the-end-of-the-world` | ✅ 已入库 | [✅ **100%**](翻译项目/geoffrey-dennis_the-end-of-the-world/译文) (17篇) | [✅ 已审](翻译项目/geoffrey-dennis_the-end-of-the-world/审核报告.md) | [📦 227KB](翻译项目/geoffrey-dennis_the-end-of-the-world/世界末日.epub) | 全稿完成度高，文学笔调与论证节奏俱佳，无整段漏译、无章末截断、无硬伤级语义错… |
 | 255 | `george-bernard-shaw_back-to-methuselah` | ✅ 已入库 | ⚪ 待译 (7篇) | — | — |  |
 | 256 | `george-bernard-shaw_fannys-first-play` | ✅ 已入库 | [✅ **100%**](翻译项目/george-bernard-shaw_fannys-first-play/译文) (8篇) | [✅ 已审(A)](翻译项目/george-bernard-shaw_fannys-first-play/审核报告.md) | [📦 133KB](翻译项目/george-bernard-shaw_fannys-first-play/Fanny’s First Play.epub) | A 优秀 |
@@ -362,8 +362,8 @@
 | 337 | `j-k-huysmans_la-bas_keene-wallace` | ✅ 已入库 | ⚪ 待译 (23篇) | — | — |  |
 | 338 | `j-m-barrie_the-little-white-bird` | ✅ 已入库 | [✅ **100%**](翻译项目/j-m-barrie_the-little-white-bird/译文) (26篇) | [✅ 已审(C)](翻译项目/j-m-barrie_the-little-white-bird/审核报告.md) | [📦 313KB](翻译项目/j-m-barrie_the-little-white-bird/小小白鸟.epub) | C 需关注 |
 | 339 | `j-s-fletcher_the-borough-treasurer` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-borough-treasurer/译文) (31篇) | ⏳ 待审 | [📦 383KB](翻译项目/j-s-fletcher_the-borough-treasurer/The Borough Treasurer.epub) | 已译完待审 |
-| 340 | `j-s-fletcher_the-charing-cross-mystery` | ✅ 已入库 | ⚪ 待译 (28篇) | — | — |  |
-| 341 | `j-s-fletcher_the-middle-of-things` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
+| 340 | `j-s-fletcher_the-charing-cross-mystery` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-charing-cross-mystery/译文) (28篇) | ⏳ 待审 | — | 已译完待审 |
+| 341 | `j-s-fletcher_the-middle-of-things` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-middle-of-things/译文) (29篇) | ⏳ 待审 | — | 已译完待审 |
 | 342 | `j-s-fletcher_the-middle-temple-murder` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-middle-temple-murder/译文) (36篇) | ⏳ 待审 | [📦 369KB](翻译项目/j-s-fletcher_the-middle-temple-murder/中殿谋杀案.epub) | 已译完待审 |
 | 343 | `j-s-fletcher_the-paradise-mystery` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-paradise-mystery/译文) (27篇) | [✅ 已审(B)](翻译项目/j-s-fletcher_the-paradise-mystery/审核报告.md) | [📦 387KB](翻译项目/j-s-fletcher_the-paradise-mystery/天堂之谜.epub) | B 良好 |
 | 344 | `j-s-fletcher_the-talleyrand-maxim` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-talleyrand-maxim/译文) (28篇) | ⏳ 待审 | [📦 361KB](翻译项目/j-s-fletcher_the-talleyrand-maxim/The Talleyrand Maxim.epub) | 已译完待审 |
@@ -542,7 +542,7 @@
 | 517 | `paul-laurence-dunbar_the-sport-of-the-gods` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/译文) (18篇) | [✅ 已审](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/审核报告.md) | [📦 204KB](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/诸神的游戏.epub) | B+（良好偏优，需精准修复特定瑕疵以达出版级 A 等） |
 | 518 | `paul-laurence-dunbar_the-uncalled` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-laurence-dunbar_the-uncalled/译文) (17篇) | [✅ 已审](翻译项目/paul-laurence-dunbar_the-uncalled/审核报告.md) | [📦 246KB](翻译项目/paul-laurence-dunbar_the-uncalled/未蒙召唤.epub) | A 级（优秀 / 典范级文学翻译） |
 | 519 | `pedro-carolino_jose-da-fonseca_english-as-she-is-spoke` | ✅ 已入库 | [✅ **100%**](翻译项目/pedro-carolino_jose-da-fonseca_english-as-she-is-spoke/译文) (43篇) | [✅ 已审(A)](翻译项目/pedro-carolino_jose-da-fonseca_english-as-she-is-spoke/审核报告.md) | [📦 85KB](翻译项目/pedro-carolino_jose-da-fonseca_english-as-she-is-spoke/英语如她所言.epub) | A 优秀 |
-| 520 | `percy-marks_the-plastic-age` | ✅ 已入库 | [🟡 0.9%](翻译项目/percy-marks_the-plastic-age/译文) (2/28) | — | — | 翻译中 (done 2/28) |
+| 520 | `percy-marks_the-plastic-age` | ✅ 已入库 | [🟡 80.4%](翻译项目/percy-marks_the-plastic-age/译文) (23/28) | — | — | 翻译中 (done 23/28) |
 | 521 | `philip-francis-nowlan_armageddon-2419-a-d` | ✅ 已入库 | [✅ **100%**](翻译项目/philip-francis-nowlan_armageddon-2419-a-d/译文) (14篇) | [✅ 已审(A)](翻译项目/philip-francis-nowlan_armageddon-2419-a-d/审核报告.md) | [📦 138KB](翻译项目/philip-francis-nowlan_armageddon-2419-a-d/大决战 2419.epub) | A 优秀 |
 | 522 | `philip-francis-nowlan_the-airlords-of-han` | ✅ 已入库 | [✅ **100%**](翻译项目/philip-francis-nowlan_the-airlords-of-han/译文) (16篇) | [✅ 已审(A)](翻译项目/philip-francis-nowlan_the-airlords-of-han/审核报告.md) | [📦 150KB](翻译项目/philip-francis-nowlan_the-airlords-of-han/The Airlords of Han.epub) | A 优秀 |
 | 523 | `philip-gibbs_now-it-can-be-told` | ✅ 已入库 | ⚪ 待译 (9篇) | — | — |  |
@@ -553,8 +553,8 @@
 | 528 | `pindar_victory-odes_arthur-s-way` | ✅ 已入库 | [✅ **100%**](翻译项目/pindar_victory-odes_arthur-s-way/译文) (6篇) | [✅ 已审(B)](翻译项目/pindar_victory-odes_arthur-s-way/审核报告.md) | [📦 256KB](翻译项目/pindar_victory-odes_arthur-s-way/品达胜利颂诗.epub) | B 良好（文学性极高，古典风骨凛然，极度接近 A 级优秀；全书 757 对双… |
 | 529 | `r-a-lafferty_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/r-a-lafferty_short-fiction/译文) (10篇) | [✅ 已审(A)](翻译项目/r-a-lafferty_short-fiction/审核报告.md) | [📦 190KB](翻译项目/r-a-lafferty_short-fiction/Short Fiction.epub) | A 优秀 |
 | 530 | `r-austin-freeman_the-darblay-mystery` | ✅ 已入库 | [✅ **100%**](翻译项目/r-austin-freeman_the-darblay-mystery/译文) (19篇) | ⏳ 待审 | [📦 403KB](翻译项目/r-austin-freeman_the-darblay-mystery/达布雷之谜.epub) | 已译完待审 |
-| 531 | `r-austin-freeman_the-eye-of-osiris` | ✅ 已入库 | [🟡 18.5%](翻译项目/r-austin-freeman_the-eye-of-osiris/译文) (5/20) | — | — | 翻译中 (done 5/20) |
-| 532 | `r-austin-freeman_the-mystery-of-31-new-inn` | ✅ 已入库 | [🟡 89.1%](翻译项目/r-austin-freeman_the-mystery-of-31-new-inn/译文) (18/19) | — | — | 翻译中 (done 18/19) |
+| 531 | `r-austin-freeman_the-eye-of-osiris` | ✅ 已入库 | [🟡 64.7%](翻译项目/r-austin-freeman_the-eye-of-osiris/译文) (14/20) | — | — | 翻译中 (done 14/20) |
+| 532 | `r-austin-freeman_the-mystery-of-31-new-inn` | ✅ 已入库 | [✅ **100%**](翻译项目/r-austin-freeman_the-mystery-of-31-new-inn/译文) (19篇) | ⏳ 待审 | — | 已译完待审 |
 | 533 | `r-d-blackmore_the-maid-of-sker` | ✅ 已入库 | ⚪ 待译 (70篇) | — | — |  |
 | 534 | `r-h-tawney_the-acquisitive-society` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
 | 535 | `radclyffe-hall_adams-breed` | ✅ 已入库 | ⚪ 待译 (37篇) | — | — |  |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 |
-| | **合计 (647 本精选)** | **100% 下载** | **7977/18180 篇 (40.0%)** | **371 本完成** | **389 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **8122/18180 篇 (40.8%)** | **371 本完成** | **389 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1863,3 +1863,12 @@
 | 2026-10-05 | 批次3直启 | +19 | 10279 | 8 | john-buchan_huntingtower《Huntingtower》19/19 全书竣工（第22本） |
 | 2026-10-05 | 批次1直启翻译 | +4 | 10278 | 9 | [1308]#19（15:15重置）后恢复；Morris ch-1/2/3/4完成（ch-3系阵亡代理died-post-write，dispatcher补账）；根目录47+2个旧临时脚本已清扫 |
 | 2026-10-05 | 合并同步 | +68 | 10193 | 10 | 拉取他机审核报告批次；本地完成分离洪流全书68章 |
+| 2026-10-06 | 批次1直启翻译 | +16 | 10187 | 7 | [1308]#23后恢复；第五王后02,05..19共16件（含44.1KB流式大章ch-14、32KB ch-19）；22/23仅剩终章断点续作 |
+| 2026-10-06 | 批次1直启翻译 | +1 | 10187 | 6 | 第五王后终章ch-20断点续作收官（51对268/268，继承24对零重译）；全书累计第7本；scripts/_tmp_*已清扫 |
+| 2026-10-06 | 批次1直启翻译 | +25 | 10162 | 6 | 《中事》开书至25/29（ch-1..25，ch-25收编）；满窗滚动；术语约200条 |
+| 2026-10-06 | 批次1直启翻译 | +4 | 10155 | 7 | 中事ch-26..29收官（含[1308]#24恢复ch-25收编）；全书累计第8本；术语约215条；衔接查令十字（429KB/28件）已锁并发车3件 |
+| 2026-10-06 | 批次1直启翻译 | +18 | 10142 | 4 | 查令十字之谜18/28（含landlady 20.3KB最大件、开篇章东行末班车）；[1308]#25三件零损失；术语约150条；批次1定时已改11:15 |
+| 2026-10-06 | 批次3直启 | +1 | 10121 | 6 | 31-new-inn《The Mystery of 31 New Inn》19/19 全书竣工（第23本） |
+| 2026-10-06 | 批次1直启翻译 | +10 | 10078 | 9 | 查令十字ch-19..28收官（电报18条术语最大单章）；全书累计第9本；衔接毕尔斯《战地生活》（428KB/29件）已锁并发车4件 |
+| 2026-10-06 | 批次1直启翻译 | +10 | 10072 | 7 | 战地生活10/29（含08收编）；上卷过半在望；术语约55条 |
+| 2026-10-06 | 批次1直启翻译 | +29 | 10050 | 8 | 《战地生活》(Ambrose Bierce, In the Midst of Life) 29件/230对块全完：闸门29/29过、覆盖Original=源文、术语表291行零重复、斜体32处全书统一；无缝接续《雀斑（弗雷克尔斯）》 |

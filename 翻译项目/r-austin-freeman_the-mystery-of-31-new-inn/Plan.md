@@ -43,3 +43,7 @@
 - 2026-10-05 06:00｜批次3直启子代理｜the-statement-of-samuel-wilkins.md 完成，check_bilingual 通过
 - 2026-10-05 06:08｜批次3直启子代理｜thorndyke-lays-the-mine.md 完成，check_bilingual 通过
 - 2026-10-05 06:16｜批次3直启子代理｜thorndyke-explodes-the-mine.md 完成，check_bilingual 通过
+- 2026-10-06 06:24｜批次3直启子代理｜an-exposition-and-a-tragedy.md 完成，check_bilingual 通过
+
+## 完书纪要（2026-10-06）
+《The Mystery of 31 New Inn》全书竣工：19/19（序+15章+终章XVI+献词+插图目录）。终章 an-exposition-and-a-tragedy.md（47.7KB，125 对块）经 4 次派发（3 次额度/速率中断）后完成，check_bilingual exit 0，U+FEFF×37、NBSP×73、hair space×8 逐字无损。CSV 行数=输出文件数=19，零缺失。认领锁已删除。全书第 23 本完工。
