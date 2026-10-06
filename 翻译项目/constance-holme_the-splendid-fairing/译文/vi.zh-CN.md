@@ -76,7 +76,7 @@ Simon muttered gloomily that he didn't know, and shuffled his feet uncomfortably
 "Ay, it's soft," Simon agreed, lifting his eyes to look at the sky, and wondering suddenly how long it had taken the gull to get itself out to sea. His brother nodded and went away, and he drifted unwillingly into the inn. The chimes had finished their ill-omened song, but the echo of it still seemed to linger on the air. They told him inside that Mr. Dent was engaged, so he went into the bar to wait, seating himself where he could see the stairs. The landlord tried to coax him to talk, but he was too melancholy to respond, and could only sit waiting for the door to open and summon him overhead. He was able to think, now that he was away from the crowd and the chaff about the hearse, but no amount of thinking could find him a way out. He had already given the agent a hint of his business, and would only have to confirm it when he got upstairs, but it seemed to him at the moment as if the final words would never be said. After a while, indeed, he began to think that he would sneak away quietly and let the appointment go. He would say no more about the notice to Mr. Dent, and things might take their way for another year. It was just possible, with the promised help from Will, that they might manage to scrape along for another year. …
 
 ===Chinese===
-"嗯，是软，"西蒙附和着，抬眼望了望天空，忽然想起那只海鸥不知花了多久才飞到海上。他哥哥点了点头便走了，他心不甘情不愿地晃进了客栈。那不祥的钟声已经唱完了，余音似乎还在空气中回荡。里面的人告诉他邓特先生（Dent）正在忙，他便走进酒吧等着，拣了个能看到楼梯的位子坐下。酒馆老板试图引他说话，但他心情太沉闷了，搭不上腔，只能坐着等那扇门打开、有人叫他上去。离开了人群和灵车那些闲话，他终于能静下来想想了，可怎么想也想不出一条出路。他已经给代理人透了个口风，上楼后只需确认一下就行，但此刻他觉得那些最终的话好像永远也说不出口了。过了一阵子，他果真开始想不如悄悄溜走算了，让那个约作废。他不再跟邓特先生提退租的事，也许还能再熬一年。有了威尔答应帮忙，说不定真能凑合着再撑一年。……
+"嗯，是软，"西蒙附和着，抬眼望了望天空，忽然想起那只海鸥不知花了多久才飞到海上。他弟弟点了点头便走了，他心不甘情不愿地晃进了客栈。那不祥的钟声已经唱完了，余音似乎还在空气中回荡。里面的人告诉他丹特先生（Dent）正在忙，他便走进酒吧等着，拣了个能看到楼梯的位子坐下。酒馆老板试图引他说话，但他心情太沉闷了，搭不上腔，只能坐着等那扇门打开、有人叫他上去。离开了人群和灵车那些闲话，他终于能静下来想想了，可怎么想也想不出一条出路。他已经给代理人透了个口风，上楼后只需确认一下就行，但此刻他觉得那些最终的话好像永远也说不出口了。过了一阵子，他果真开始想不如悄悄溜走算了，让那个约作废。他不再跟丹特先生提退租的事，也许还能再熬一年。有了威尔答应帮忙，说不定真能凑合着再撑一年。……
 
 ===Original===
 He left it there at last and got to his feet, but even as he did so he remembered Sarah's eyes. He wondered what the doctor had said and wished he knew, because, of course, there would be no question of staying if the report were bad. He was still standing, hesitating, and wondering what he should do, when the door of the Stewards' Room opened above, and a man came out.
@@ -88,13 +88,13 @@ He left it there at last and got to his feet, but even as he did so he remembere
 It was, as somehow might have been expected, the stranger of the car, otherwise Simon's now celebrated "hearse." Simon, however, had not looked at him then, and he barely glanced at him now. It was a blind day, as Sarah had said, and all through the Thornthwaites seemed determined to be as blind as the day. The agent followed him out, looking cheerful and amused. "I wish you luck all round!" Simon heard him say, as he shook the stranger's hand, and thought morosely that it was easy and cheap to wish folks luck. "This should be the finest day of your life," he added more gravely, looking over the rail, and the man going down looked up and said "That's so!" in a fervent tone. The old farmer waiting in the bar felt a spasm of envy and bitterness at the quietly triumphant words. "The finest day of your life,"—that was for the man going down. "The heaviest day of your life,"—that was for the man going up. With a touch of dreary humour he thought to himself that it was really he who was going down, if it came to that. …
 
 ===Chinese===
-不用说，那人正是汽车里的陌生人，也就是西蒙那辆出了名的"灵车"的司机。不过西蒙当时没看他，现在也只是瞥了一眼。正如萨拉所说，这天灰蒙蒙的，桑顿韦特（Thornthwaites）一家子似乎打定主意要跟这天气一样——什么都看不见。代理人跟着他出来，一脸喜气洋洋、兴致勃勃。"祝你一切顺利！"西蒙听见他跟那人握手时说，心里闷闷地想：祝别人好运倒是便宜又省事。"今天该是你一生中最美好的日子，"他更郑重地补了一句，朝栏杆下方望去，走下去的那人抬起头来，热切地说了声"可不是嘛！"在酒吧里等候的老农夫听了那句沉静而得意的话，一阵嫉妒和苦涩涌上心头。"一生中最美好的日子"——那是对走下去的人说的。"一生中最沉重的日子"——那是对走上来的人说的。带着一丝凄凉的幽默感，他暗自想到，要是论起来，真正往下走的人其实是他自己。……
+不用说，那人正是汽车里的陌生人，也就是西蒙那辆出了名的"灵车"的司机。不过西蒙当时没看他，现在也只是瞥了一眼。正如萨拉所说，这天灰蒙蒙的，索恩思韦特（Thornthwaites）一家子似乎打定主意要跟这天气一样——什么都看不见。代理人跟着他出来，一脸喜气洋洋、兴致勃勃。"祝你一切顺利！"西蒙听见他跟那人握手时说，心里闷闷地想：祝别人好运倒是便宜又省事。"今天该是你一生中最美好的日子，"他更郑重地补了一句，朝栏杆下方望去，走下去的那人抬起头来，热切地说了声"可不是嘛！"在酒吧里等候的老农夫听了那句沉静而得意的话，一阵嫉妒和苦涩涌上心头。"一生中最美好的日子"——那是对走下去的人说的。"一生中最沉重的日子"——那是对走上来的人说的。带着一丝凄凉的幽默感，他暗自想到，要是论起来，真正往下走的人其实是他自己。……
 
 ===Original===
 With a feeling of something like shame he kept himself out of sight until the stranger had disappeared, and then experienced a slight shock when Dent called to him in the same cheery tone. Almost without knowing it he had looked for the voice to change, and its geniality jarred on his dismal mood. Somehow it seemed to put him about at the start, and when Dent laid a hand on his shoulder, saying—"Well, Simon!" with a smile, it was all he could do not to give him a surly snarl by way of reply. They went into the old-fashioned room, which smelt of horsehair and wool mats, and Simon seated himself miserably on the extreme edge of a chair. Dent went to the window and lifted a finger to somebody in the street, and then seated himself at the table, and said "Well, Simon!" and smiled again. He was a strongly built man, with a pleasant face, which seemed rather more pleasant than need be to his visitor's jaundiced eye.
 
 ===Chinese===
-他带着几分羞愧把自己藏起来，直到那陌生人走远了才露面，可当邓特用同样欢快的语调叫他时，他还是微微一惊。他几乎不自觉地期待那声音会变个调子，它的热络劲儿跟他灰暗的心绪格格不入。不知怎的，这让他一开始就乱了阵脚。邓特把手搭在他肩上，笑着说——"嘿，西蒙！"他差一点没忍住冲他恶声恶气地吼回去。他们走进一间老式的屋子，里面弥漫着马鬃和毛毡垫子的气味，西蒙凄凄惨惨地在椅子最边上坐下来。邓特走到窗前，朝街上的什么人竖了竖手指，然后在桌旁坐下，又说了一遍"嘿，西蒙！"又笑了一回。他是个体格健壮的人，面容和善，在满腹心事的客人看来，那和善似乎有点过了头。
+他带着几分羞愧把自己藏起来，直到那陌生人走远了才露面，可当丹特用同样欢快的语调叫他时，他还是微微一惊。他几乎不自觉地期待那声音会变个调子，它的热络劲儿跟他灰暗的心绪格格不入。不知怎的，这让他一开始就乱了阵脚。丹特把手搭在他肩上，笑着说——"嘿，西蒙！"他差一点没忍住冲他恶声恶气地吼回去。他们走进一间老式的屋子，里面弥漫着马鬃和毛毡垫子的气味，西蒙凄凄惨惨地在椅子最边上坐下来。丹特走到窗前，朝街上的什么人竖了竖手指，然后在桌旁坐下，又说了一遍"嘿，西蒙！"又笑了一回。他是个体格健壮的人，面容和善，在满腹心事的客人看来，那和善似乎有点过了头。
 
 ===Original===
 He looked away from it, however, staring at the floor, and after the first conventional remarks began his tale of woe, that slow trickle of disaster which always gathered itself into terrible spate. "You'll know what I'm here for, sir," he concluded, at the end of his first breath, twisting his hat like a tea-tray in his restless hands. "Things has got that bad wi' us I doubt we can't go on, and so we've made up our minds we'd best clear out next year."
@@ -106,7 +106,7 @@ He looked away from it, however, staring at the floor, and after the first conve
 Dent nodded kindly in answer, but with a rather abstracted air. He had listened patiently enough to the slow tale, but Simon had a feeling that his tragic recital was not receiving the sympathy it deserved. He began a fresh relation of the ills which had befallen him at the farm, intending a grand climax to be capped by Sarah's eyes; but there were so many dead troubles to dig out of their graves as he went along, that the last and most vital dropped from the reckoning, after all.
 
 ===Chinese===
-邓特和善地点点头，但神情有些恍惚。他倒也耐心地听完了那段慢吞吞的叙述，可西蒙觉得自己的悲剧并没有得到应有的同情。他开始从头讲起农场遭受的一连串灾祸，本想把萨拉眼睛的事当作最后的高潮；可说着说着，一路上要从坟墓里刨出来的旧麻烦太多了，最后那个最要命的反倒被漏掉了。
+丹特和善地点点头，但神情有些恍惚。他倒也耐心地听完了那段慢吞吞的叙述，可西蒙觉得自己的悲剧并没有得到应有的同情。他开始从头讲起农场遭受的一连串灾祸，本想把萨拉眼睛的事当作最后的高潮；可说着说着，一路上要从坟墓里刨出来的旧麻烦太多了，最后那个最要命的反倒被漏掉了。
 
 ===Original===
 "Ay, well, you've likely heard all this before," he finished lamely in the middle of a speech, conscious that he had missed his point, though without being able to say how. "We've had a bad year this year an' all, and I can't see as it's any use holding on. Me and my missis fixed it up as we come in, so if you'll take my notice, sir, we'll go next spring."
@@ -118,7 +118,7 @@ Dent nodded kindly in answer, but with a rather abstracted air. He had listened 
 "Your wife's in town, is she?" Dent asked. For some reason he looked again at the window from which he had waved. "How does she take the thought of leaving the farm?"
 
 ===Chinese===
-"你老婆也在镇上？"邓特问道。不知为什么，他又朝方才挥手的那扇窗户看了一眼。"她对离开农场这事怎么看？"
+"你老婆也在镇上？"丹特问道。不知为什么，他又朝方才挥手的那扇窗户看了一眼。"她对离开农场这事怎么看？"
 
 ===Original===
 "Well, sir, we'll both feel it, after all these years, but I don't know as it's any use calling out. I put it to her as we'd better quit, and she agreed to it right off."
@@ -142,13 +142,13 @@ Simon stiffened a little, and looked surprised. "I'm speaking for both on us, si
 "Of course, Simon," Dent said, rousing himself. "I know that. But I'd have liked a word with her, all the same." His glance went back to the notes, and he smiled as if at his own thoughts. … "And so you've really made up your minds that you'd better go?"
 
 ===Chinese===
-"当然，西蒙，"邓特回过神来。"这我知道。不过我还是想跟她本人谈谈。"他的目光又回到那些便笺上，嘴角泛起一丝微笑，仿佛想到了什么自己的事。……"所以你们真的打定主意要走了？"
+"当然，西蒙，"丹特回过神来。"这我知道。不过我还是想跟她本人谈谈。"他的目光又回到那些便笺上，嘴角泛起一丝微笑，仿佛想到了什么自己的事。……"所以你们真的打定主意要走了？"
 
 ===Original===
 "Haven't I been saying so, sir, all along?" Simon was really injured now, and his wounded dignity showed in his tone. Mr. Dent was taking the whole thing far too easily, he thought. First of all, he did not seem to be listening as much as he might, and then, when the notice was offered, he actually smiled! Tenants of forty years' standing do not look to have their departure speeded with smiles. Simon thought it heartless, to say the least, and only to be excused because Mr. Dent did not know what they had to face. They had not been very satisfactory tenants, of course—even Simon admitted that—and it was more than likely that the agent was rather relieved. At least he was saved the unpleasant task of turning them out, a duty which, as Simon knew, had seemed imminent more than once. But they were respectable folk of good stock, and they were not entirely to blame because they were failures, too. Gravity was their due, anyhow, if not sympathy, but Mr. Dent, on this solemn occasion, seemed to be failing them in both.
 
 ===Chinese===
-"我不是一直在说吗，先生？"西蒙真的受了伤，自尊心受挫的语气暴露无遗。邓特先生对这件事未免太不当回事了，他想。首先，他好像没怎么认真听；然后，当他递上退租通知的时候，他居然笑了！住了四十年的老佃户要搬走，可没人会笑着来送行的。西蒙觉得这至少是冷酷无情，唯一的开脱理由是邓特先生不知道他们要面对什么。他们当然算不上好佃户——连西蒙自己也承认——代理人多半反而松了口气。至少他省了亲自赶人的苦差事，西蒙知道这差事不止一次眼看就要落到头上。可他们是体面人，出身也不差，他们成了失败者也不全是自己的错。不管怎样，他们至少该得到一份庄重，即便不是同情，可邓特先生在这个庄严的场合，两样都给不出来。
+"我不是一直在说吗，先生？"西蒙真的受了伤，自尊心受挫的语气暴露无遗。丹特先生对这件事未免太不当回事了，他想。首先，他好像没怎么认真听；然后，当他递上退租通知的时候，他居然笑了！住了四十年的老佃户要搬走，可没人会笑着来送行的。西蒙觉得这至少是冷酷无情，唯一的开脱理由是丹特先生不知道他们要面对什么。他们当然算不上好佃户——连西蒙自己也承认——代理人多半反而松了口气。至少他省了亲自赶人的苦差事，西蒙知道这差事不止一次眼看就要落到头上。可他们是体面人，出身也不差，他们成了失败者也不全是自己的错。不管怎样，他们至少该得到一份庄重，即便不是同情，可丹特先生在这个庄严的场合，两样都给不出来。
 
 ===Original===
 "Of course you know you're late with your notice?" he observed presently, looking up. "You ought to have made up your minds a couple of months ago."
@@ -166,7 +166,7 @@ Simon stiffened a little, and looked surprised. "I'm speaking for both on us, si
 "It's been going back a long while, though," Dent said thoughtfully, and then felt penitent as the old man flushed. Just for the moment he had forgotten that Simon was in the room.
 
 ===Chinese===
-"不过这农场走下坡路已经很久了，"邓特若有所思地说，随即看到老人涨红了脸，便觉得有些过意不去。那一瞬间他忘了西蒙就坐在屋里。
+"不过这农场走下坡路已经很久了，"丹特若有所思地说，随即看到老人涨红了脸，便觉得有些过意不去。那一瞬间他忘了西蒙就坐在屋里。
 
 ===Original===
 "Of course I know you've had pretty rough luck," he went on hastily, trying to cover it up. "Sandholes holds the record for every sort of mischance. It sounds like one of the old fairytales," he added, laughing—"curses and all that! … But I can't help thinking it would have been better for everybody if there had been a change earlier on."
@@ -184,13 +184,13 @@ Simon stiffened a little, and looked surprised. "I'm speaking for both on us, si
 "It should have been made long since if it was to do you any good. …" Dent did not seem to notice that there was anything amiss. He sat, tapping the table, deep in thought, while Simon seethed. … "Sure you couldn't put on for another year?"
 
 ===Chinese===
-"要是为了对你们有好处，早就该换了。……"邓特似乎没注意到有什么不对。他坐在那儿，手指轻敲着桌子，沉思着，而西蒙在一旁怒火中烧。……"你确定不能再撑一年？"
+"要是为了对你们有好处，早就该换了。……"丹特似乎没注意到有什么不对。他坐在那儿，手指轻敲着桌子，沉思着，而西蒙在一旁怒火中烧。……"你确定不能再撑一年？"
 
 ===Original===
 This change of front upset his visitor so completely that he dropped his hat. He sat glaring at Mr. Dent with a dropped mouth.
 
 ===Chinese===
-这一下一百八十度的大转弯把他的客人彻底搞懵了，帽子都掉在了地上。他张着嘴，瞪着邓特先生坐在那里。
+这一下一百八十度的大转弯把他的客人彻底搞懵了，帽子都掉在了地上。他张着嘴，瞪着丹特先生坐在那里。
 
 ===Original===
 "Nay, then, I just couldn't!" he snapped at last, wondering whether he was on his head or his heels. "Losh save us!" he added angrily, "haven't I tellt you I meant to gang ever since I come in? It'll take me all my time to hang on till spring, as it is."
@@ -202,7 +202,7 @@ This change of front upset his visitor so completely that he dropped his hat. He
 "You've run it as close as that?" Dent enquired, and Simon gave a grunt.
 
 ===Chinese===
-"已经紧到这份上了？"邓特问。西蒙哼了一声。
+"已经紧到这份上了？"丹特问。西蒙哼了一声。
 
 ===Original===
 "Ay, and I'm not the first as has done it, neither!"
@@ -214,7 +214,7 @@ This change of front upset his visitor so completely that he dropped his hat. He
 "Couldn't your Blindbeck brother see to give you a hand? He's done well for himself, I should say, and his children are getting on."
 
 ===Chinese===
-"你布林德贝克那边的哥哥就不能帮你们一把吗？他混得挺不错的，我该说，他的孩子们也在往上走。"
+"你布林德贝克那边的弟弟就不能帮你们一把吗？他混得挺不错的，我该说，他的孩子们也在往上走。"
 
 ===Original===
 "He's given us a hand more than once already, has Will, but there's no sense in throwing good money after bad. We'll have to quit next year, if we don't this. Farm's going back, as you say, and I'm over old to pull it round. I can't keep going forever, nay, nor my missis, neither."
@@ -226,13 +226,13 @@ This change of front upset his visitor so completely that he dropped his hat. He
 He remembered Sarah's eyes as he spoke, and how they were enough to clinch the matter in themselves, but he was too offended even to mention them by now. There was no telling today how Mr. Dent would take the tragic news. He had smiled and looked cheerful over the notice to quit, but Simon felt he would not be able to bear it if he smiled at Sarah's eyes. Indeed, it was all he could do to keep a hold on himself, as it was—first of all hearing that he ought to have gone long since, and then being told to stop when he'd settled to clear out!
 
 ===Chinese===
-他说这话的时候想到了萨拉的眼睛，光凭那双眼睛就足以让事情板上钉钉了，可他现在被伤透了心，连提都不想提。今天说不准邓特先生听了这消息会怎么反应。他对退租通知笑嘻嘻的、一脸高兴，可西蒙觉得如果他对萨拉的眼睛也笑出来，他就受不了了。说真的，他现在已经快撑不住了——先听说他早该走了，然后又让他别走，他已经打定主意要搬了啊！
+他说这话的时候想到了萨拉的眼睛，光凭那双眼睛就足以让事情板上钉钉了，可他现在被伤透了心，连提都不想提。今天说不准丹特先生听了这消息会怎么反应。他对退租通知笑嘻嘻的、一脸高兴，可西蒙觉得如果他对萨拉的眼睛也笑出来，他就受不了了。说真的，他现在已经快撑不住了——先听说他早该走了，然后又让他别走，他已经打定主意要搬了啊！
 
 ===Original===
 The trend of his injured thought must have reached the other at last, for he roused himself to look at his sulky face.
 
 ===Chinese===
-他满腹委屈的心思想必终于传到了对方那里，因为邓特抬起头看了看他那张闷闷不乐的脸。
+他满腹委屈的心思想必终于传到了对方那里，因为丹特抬起头看了看他那张闷闷不乐的脸。
 
 ===Original===
 "You needn't think I'm trying to shove the place down your throat!" he said, with a laugh. "But I certainly thought you'd rather be stopping on!"
@@ -262,19 +262,19 @@ Simon felt a little appeased, though he took care not to show any sign. He growl
 "No chance of getting him home again, is there?" Dent enquired, and Simon stared at the floor and shook his head. He must have felt a change in the atmosphere, however, for suddenly he began to repeat what Sarah had told May, how Geordie had written for money, and there had been none to send. The words came easily after he had made a start, and for the time being he forgot his resentment and injured-tenant's pride.
 
 ===Chinese===
-"没有机会让他回来吗？"邓特问道，西蒙盯着地板摇了摇头。不过他大概感觉到了气氛的变化，因为他忽然开始复述萨拉告诉梅（May）的那些事——乔迪（Geordie）写信来要钱，可家里没钱寄。开了头之后话就顺了，他一时忘了自己的委屈和受伤的佃户尊严。
+"没有机会让他回来吗？"丹特问道，西蒙盯着地板摇了摇头。不过他大概感觉到了气氛的变化，因为他忽然开始复述萨拉告诉梅（May）的那些事——乔迪（Geordie）写信来要钱，可家里没钱寄。开了头之后话就顺了，他一时忘了自己的委屈和受伤的佃户尊严。
 
 ===Original===
 "I reckon you know, sir, how it all come about. There'll ha' been plenty o' folk ready to tell you, I'll be bound, and them as knowed least'll likely ha' tellt you most. We never had but the one lad, Sarah and me, and, by Gox! but he was a limb! The queer thing was that my brother Will's eldest should ha' been the very marrow o' mine—looks, voice, ways, ay, and character an' all. Will and me were whyet enough lads, I'm sure; it was terble strange we should breed a pair o' rattlehorns like yon. You couldn't rightly say there was any harm to 'em, but they were that wick they mun always be making a stir. Being that like, too, helped 'em rarely when there was chanst o' their getting catched. Each on 'em had a call for telling when he was about. Jim's was a heron like, but Geordie's was nobbut a gull—"
 
 ===Chinese===
-"先生，我想您知道是怎么回事。我敢说有不少人争着跟您讲过，知道得最少的人反倒讲得最多。我和萨拉就这么一个儿子，天哪！那可真是个闯祸精！说来也怪，我哥哥威尔的大儿子偏偏跟我那个一模一样——长相、嗓音、做派，嗯，连脾气都一个样。我跟威尔小时候都是安安静静的，说真的；偏偏生出这么一对混世魔王，真是太邪门了。你也不能说他们有什么坏心眼，可他们就是太活泛了，非得闹出点动静不可。两个人长得那么像，被抓包的时候可就帮了大忙了。每个人在附近晃悠的时候都有个记号。吉姆（Jim）的像只苍鹭，乔迪的不过是一只海鸥——"
+"先生，我想您知道是怎么回事。我敢说有不少人争着跟您讲过，知道得最少的人反倒讲得最多。我和萨拉就这么一个儿子，天哪！那可真是个闯祸精！说来也怪，我弟弟威尔的大儿子偏偏跟我那个一模一样——长相、嗓音、做派，嗯，连脾气都一个样。我跟威尔小时候都是安安静静的，说真的；偏偏生出这么一对混世魔王，真是太邪门了。你也不能说他们有什么坏心眼，可他们就是太活泛了，非得闹出点动静不可。两个人长得那么像，被抓包的时候可就帮了大忙了。每个人在附近晃悠的时候都有个记号。吉姆（Jim）的像只苍鹭，乔迪的不过是一只海鸥——"
 
 ===Original===
 This time it was his own glance that went to the window, as again he remembered the bird gone out to the waves. When Dent spoke, his mind came back from its flight with a tiny jerk.
 
 ===Chinese===
-这一次是他自己的目光投向了窗户，因为他又想起了那只飞向海浪的鸟。邓特一开口，他的思绪猛地被拽了回来。
+这一次是他自己的目光投向了窗户，因为他又想起了那只飞向海浪的鸟。丹特一开口，他的思绪猛地被拽了回来。
 
 ===Original===
 "Then they made off to Canada, didn't they, the two lads? You told me something about it when I first came."
@@ -298,7 +298,7 @@ This time it was his own glance that went to the window, as again he remembered 
 "They'll happen make friends when the rabbit makes friends wi' the ferret," Simon said grimly, "and the blackbird wi' the cat! I don't say Sarah isn't to blame in some ways, but she's had a deal to put up wi', all the same. There's summat about Eliza as sets you fair bilin' inside your bones! It's like as if she'd made up her mind to pipe Sarah's eye straight from the very start. She never said ay to Will, for one thing, till Sarah and me had our wedding-day fixed, and then danged if she didn't make up her mind to get wed that day an' all! She fixed same church, same parson, same day and same time—ay, an' there's some folk say she'd ha' fixed on t'same man if she'd gitten chanst!" He paused for a moment to chuckle when he had said that, but he was too bitter to let his vanity dwell on it for long. "She tellt parson it was a double wedding or summat o' the sort, but she never let wit on't to Sarah and me until she was fair inside door. Sarah and me walked to kirk arm in arm, wi' nowt very much by-ordinar' on our backs; but Eliza come scampering up in a carriage and pair, donned up in a white gown and wi' a gert, waggling veil. Will was that shammed on it all he couldn't abide to look me in t'face, but there, I reckon he couldn't help hisself, poor lad! Sarah was that wild I could feel her fair dodderin' wi' rage as we stood alongside at chancel-step. She was that mad she could hardly shape to get her tongue round Weddin'-Service or owt, and when we was in t'vestry I see her clump both her feet on the tail of Eliza's gown. She would have it nobody knew she was as much as getting married at all—they were that busy gawping at Eliza and her veil. She was a fine, strapping lass, Eliza was, and I'd a deal o' work keeping my eyes off'n her myself! … ay, and I won't say but what she give me a sheep's eye or so at the back o' Will as well. …" He chuckled again, and his face became suddenly youthful, with a roguish eye. "But yon was no way o' starting in friendly, was it, Mr. Dent?
 
 ===Chinese===
-"等兔子跟雪貂交了朋友、乌鸦跟猫交了朋友再说吧！"西蒙冷酷地说。"我不说萨拉没一点错，可她受的气也够多了。伊莱莎身上有股劲儿让你骨头里都冒火！就好像她打一开始就跟萨拉较劲似的。有一件事——萨拉和我把婚期定下来之前，她一直不肯答应威尔，结果该死的，她居然也决定在同一天结婚！同一个教堂、同一个牧师、同一天同一个时辰——嗯，还有人说要是她逮着机会，她连男人都想抢同一个呢！"说到这里他停了一下，嘿嘿笑了一声，但苦涩太深了，没让自己的虚荣心在上面停留太久。"她跟牧师说是双婚礼什么的，可直到她踏进教堂门口才让萨拉和我知道。萨拉和我手挽手走去教堂，身上穿的也没什么特别的；伊莱莎却坐着一辆双马马车蹦蹦跳跳地来了，穿着白裙子，戴着一面又大又晃的面纱。威尔觉得丢人丢到家了，看都不好意思看我一眼，不过嘛，我想他也由不得自己，可怜的家伙！萨拉气得要命，我们并排站在圣坛台阶上时，我能感觉到她在浑身发抖。她气得连婚礼祷词都说不利索了，到了圣器室我还看见她两脚一起跺在伊莱莎的裙摆上。她巴不得没人知道她也在结婚——因为所有人都瞪着眼看伊莱莎和她的面纱呢。伊莱莎是个漂亮壮实的姑娘，我自己也费了好大劲才不看她！……嗯，而且我不能说她没在威尔背后对我抛过几个媚眼。……"他又嘿嘿笑了起来，脸上忽然年轻了，眼神里带着调皮。"可这可不是友好的开头，对吧，邓特先生？"
+"等兔子跟雪貂交了朋友、乌鸦跟猫交了朋友再说吧！"西蒙冷酷地说。"我不说萨拉没一点错，可她受的气也够多了。伊莱莎身上有股劲儿让你骨头里都冒火！就好像她打一开始就跟萨拉较劲似的。有一件事——萨拉和我把婚期定下来之前，她一直不肯答应威尔，结果该死的，她居然也决定在同一天结婚！同一个教堂、同一个牧师、同一天同一个时辰——嗯，还有人说要是她逮着机会，她连男人都想抢同一个呢！"说到这里他停了一下，嘿嘿笑了一声，但苦涩太深了，没让自己的虚荣心在上面停留太久。"她跟牧师说是双婚礼什么的，可直到她踏进教堂门口才让萨拉和我知道。萨拉和我手挽手走去教堂，身上穿的也没什么特别的；伊莱莎却坐着一辆双马马车蹦蹦跳跳地来了，穿着白裙子，戴着一面又大又晃的面纱。威尔觉得丢人丢到家了，看都不好意思看我一眼，不过嘛，我想他也由不得自己，可怜的家伙！萨拉气得要命，我们并排站在圣坛台阶上时，我能感觉到她在浑身发抖。她气得连婚礼祷词都说不利索了，到了圣器室我还看见她两脚一起跺在伊莱莎的裙摆上。她巴不得没人知道她也在结婚——因为所有人都瞪着眼看伊莱莎和她的面纱呢。伊莱莎是个漂亮壮实的姑娘，我自己也费了好大劲才不看她！……嗯，而且我不能说她没在威尔背后对我抛过几个媚眼。……"他又嘿嘿笑了起来，脸上忽然年轻了，眼神里带着调皮。"可这可不是友好的开头，对吧，丹特先生？"
 
 ===Original===
 "Ay, well, things has gone on like that atween 'em more or less ever since, and I won't say but Sarah's gitten a bit of her own back when she's gitten chanst. Will having all the luck and suchlike hasn't made things better, neither. Blindbeck's ganged up and Sandholes has ganged down—and seems like to hit bottom afore it stops! Will and me have hung together all along, but the women have always been at each other's throats. It riled Eliza Jim being always at our spot, and thinking a deal more o' Sarah than he did of her. Neither on 'em could break him of it, whatever they said or did. He always stuck to it Sandholes was his home by rights."
@@ -310,7 +310,7 @@ This time it was his own glance that went to the window, as again he remembered 
 "Pity the two of them aren't here to help you now," Dent said. "Those runabout lads often make fine men."
 
 ===Chinese===
-"可惜那两个现在没在这儿帮你，"邓特说。"在外头闯荡的小伙子往往能成大器。"
+"可惜那两个现在没在这儿帮你，"丹特说。"在外头闯荡的小伙子往往能成大器。"
 
 ===Original===
 "Nay, I doubt they've not made much out, anyway round." Simon shook his head. "Likely they're best where they be," he said, as Sarah had said on the road in. He sat silent a moment longer for politeness' sake, and then was stopped again as he rose to go.
@@ -340,7 +340,7 @@ The old man's face had brightened as he talked, but now the shadow came over it 
 Again, as he finished, he remembered Sarah's eyes, and once again he let the opportunity pass. He was on his feet now, anxious to get away, and there seemed little use in prolonging this evil hour. Mr. Dent would think they were forever whingeing and whining and like enough calling out before they were hurt. … He moved hurriedly to the door, conscious of a sense of relief as well as of loss, and Sarah's eyes missed their final chance of getting into the talk. …
 
 ===Chinese===
-话刚说完，他又想到了萨拉的眼睛，又一次让机会从手边溜走了。他现在站起来了，急着要走，再拖下去也没什么意思。邓特先生会以为他们就知道抱怨哭诉、还没吃亏就先叫唤了。……他急匆匆朝门口走去，心里既松了一口气又有一丝失落，萨拉的眼睛错过了最后一次被提到的机会。……
+话刚说完，他又想到了萨拉的眼睛，又一次让机会从手边溜走了。他现在站起来了，急着要走，再拖下去也没什么意思。丹特先生会以为他们就知道抱怨哭诉、还没吃亏就先叫唤了。……他急匆匆朝门口走去，心里既松了一口气又有一丝失落，萨拉的眼睛错过了最后一次被提到的机会。……
 
 ===Original===
 "You're likely throng, sir," he finished, "and I'll not keep you." He put a hand to the latch. "Anyway, you'll kindly take it as we'll quit next year."
@@ -352,7 +352,7 @@ Again, as he finished, he remembered Sarah's eyes, and once again he let the opp
 Dent said—"No, Simon, I shan't do anything of the sort!" and laughed when the other shot round on him again with open mouth. His expression was grave, however, as he ended his speech. "I want you to think it over a bit first."
 
 ===Chinese===
-邓特说——"不，西蒙，我不会这么做的！"西蒙又猛地转过身来张大了嘴，他笑了。不过他最后说这话的时候表情很认真。"我希望你先好好想想。"
+丹特说——"不，西蒙，我不会这么做的！"西蒙又猛地转过身来张大了嘴，他笑了。不过他最后说这话的时候表情很认真。"我希望你先好好想想。"
 
 ===Original===
 Simon felt his head going round for the second time. The red came into his thin face.
@@ -370,7 +370,7 @@ Simon felt his head going round for the second time. The red came into his thin 
 "Oh, Lord, yes, Simon! Of course." Dent's eyes went back to the notes. "Yes, of course you can."
 
 ===Chinese===
-"哦，天哪，当然可以，西蒙！当然。"邓特的目光又回到了那些便笺上。"是的，你当然可以。"
+"哦，天哪，当然可以，西蒙！当然。"丹特的目光又回到了那些便笺上。"是的，你当然可以。"
 
 ===Original===
 "Ay, well, then?" Simon demanded stiffly. "What's all this stir?"
@@ -394,7 +394,7 @@ Simon felt his head going round for the second time. The red came into his thin 
 Dent jumped to his feet and came across to lay a hand on his arm.
 
 ===Chinese===
-邓特猛地站起来，走过来把手搭在他胳膊上。
+丹特猛地站起来，走过来把手搭在他胳膊上。
 
 ===Original===
 "It's only that I've a feeling you'll change your mind, Simon," he said earnestly, "and you'll be sorry if you've spread it about that you're going to quit. A week, say—a week won't make that much difference, will it? Can't you let it stand over another week?"
@@ -406,7 +406,7 @@ Dent jumped to his feet and came across to lay a hand on his arm.
 "You said a minute back 'twas a pity we'd stopped so long! I can't make out what you're at, Mr. Dent—I'm danged if I can!"
 
 ===Chinese===
-"你方才还说我们停得太久了可惜！我实在搞不懂您到底要干什么，邓特先生——我真他妈搞不懂！"
+"你方才还说我们停得太久了可惜！我实在搞不懂您到底要干什么，丹特先生——我真他妈搞不懂！"
 
 ===Original===
 The agent laughed and left him to stroll back again to the window, where he stood looking down into the full street.
@@ -430,7 +430,7 @@ The agent laughed and left him to stroll back again to the window, where he stoo
 Dent shivered at the drear little picture which the other had conjured up.
 
 ===Chinese===
-邓特被对方描绘的那幅阴森森的小画面冻得打了个寒噤。
+丹特被对方描绘的那幅阴森森的小画面冻得打了个寒噤。
 
 ===Original===
 "I don't know how you sleep," he said, "perched on the edge of things like that! It would give me fits to have the sea knocking twice a day at my back door."
@@ -448,7 +448,7 @@ Dent shivered at the drear little picture which the other had conjured up.
 "It was my own fault," Dent laughed—"not that it was any the nicer for that! I knew the time of the tide, but I'd forgotten the time of day. It was a day something like this, much the same dismal colour all through. Lord, no!" He shivered again. "I've not forgotten, not I! I'll never forget pounding away from that horrible wave, and finding myself, quite without knowing it, back below the farm!"
 
 ===Chinese===
-"是我自己的错，"邓特笑着说——"可那也没让事情好受多少！我知道涨潮的时间，可忘了当时是几点。那天也像今天这样，从头到尾灰蒙蒙的。天哪，不！"他又打了个寒噤。"我没忘，我才不会忘呢！我永远忘不了从那可怕的浪头下拼命逃开，回过神来已经到了农场下面！"
+"是我自己的错，"丹特笑着说——"可那也没让事情好受多少！我知道涨潮的时间，可忘了当时是几点。那天也像今天这样，从头到尾灰蒙蒙的。天哪，不！"他又打了个寒噤。"我没忘，我才不会忘呢！我永远忘不了从那可怕的浪头下拼命逃开，回过神来已经到了农场下面！"
 
 ===Original===
 "It was my missis saved you that night," Simon said, "and a near shave it was an' all! Tide would ha' got you even then if it hadn't been for her. We heard you hollerin' and came out to look, but we couldn't see nowt, it was that dark. I thought we'd fancied it like, as we didn't hear no more, but Sarah wouldn't hear of owt o' the sort. She would have it she could see you liggin' at bottom o' t'bank, and she give me no peace till I'd crammelled down to look."

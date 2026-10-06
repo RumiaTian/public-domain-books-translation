@@ -328,7 +328,7 @@ Many a time has my soul been amused at seeing poor Joannetti running after this 
 “Come, Joannetti,” I said, “hang up this picture.” He had helped to clean it, and had no more notion than the man in the moon what had produced our chapter on the portrait. He it was, who, of his own accord, held out the wet sponge, and who, through that seemingly unimportant act, caused my soul to travel a hundred millions of leagues in a moment of time. Instead of restoring it to its place, he held it to examine it in his turn. A difficulty, a problem, gave him an inquisitive air, which I did not fail to observe.
 
 ===Chinese===
-「来，若阿内蒂，」我说，「把这幅画挂上。」他方才帮忙擦过它，却同月亮上的人一样，全不知道我们那章画像文字是怎么来的。正是他，主动递过那块湿海绵；正是那看似无关紧要的一递，叫我的灵魂在一瞬间跑了一万万法程。此刻他不把它归回原位，反倒举起来，轮到他端详了。一层疑难、一道难题，给了他一副探询的神气，这我没有放过。
+「来，若阿内蒂，」我说，「把这幅画挂上。」他方才帮忙擦过它，却同月亮上的人一样，全不知道我们那章画像文字是怎么来的。正是他，主动递过那块湿海绵；正是那看似无关紧要的一递，叫我的灵魂在一瞬间跑了一万万里格。此刻他不把它归回原位，反倒举起来，轮到他端详了。一层疑难、一道难题，给了他一副探询的神气，这我没有放过。
 
 ===Original===
 “Well, and what fault do you find with that portrait?” said I.

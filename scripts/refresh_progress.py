@@ -149,26 +149,25 @@ def parse_existing_reviews():
     valid_reviews = {}
     for pname, rinfo in reviews.items():
         if os.path.isfile(os.path.join(PROJ_DIR, pname, "审核报告.md")):
-            # 如果 Plan.md 中的旧记录没有解析出 date/summary，尝试从本地文件补全
-            if rinfo.get("date") == "-" or rinfo.get("summary") == "-":
-                try:
-                    rp = os.path.join(PROJ_DIR, pname, "审核报告.md")
-                    with open(rp, "r", encoding="utf-8") as f:
-                        txt = f.read()
-                    m_date = re.search(r"审校日期[*：:\s]+([0-9]{4}-[0-9]{2}-[0-9]{2})", txt)
-                    if m_date:
-                        rinfo["date"] = m_date.group(1)
-                    m_grade = re.search(r"(?:质量等级|综合评级)[*：:\s]+([^\n\r]+)", txt)
-                    g = m_grade.group(1).replace("*", "").strip() if m_grade else ""
-                    m_sum = re.search(r"一句话结论[*：:\s]+([^\n\r]+)", txt)
-                    s = m_sum.group(1).replace("*", "").strip() if m_sum else ""
-                    if not s:
-                        m_sum2 = re.search(r"一句话结论[*：:\s]*\n+([^\n\r]+)", txt)
-                        s = m_sum2.group(1).replace("*", "").strip() if m_sum2 else ""
-                    if g or s:
-                        rinfo["summary"] = f"{g} | {s}" if (g and s) else (g or s)
-                except Exception:
-                    pass
+            # 从本地 审核报告.md 读取最新的 date 与 summary/grade，确保报告修改能实时反映到看板
+            try:
+                rp = os.path.join(PROJ_DIR, pname, "审核报告.md")
+                with open(rp, "r", encoding="utf-8") as f:
+                    txt = f.read()
+                m_date = re.search(r"审校日期[*：:\s]+([0-9]{4}-[0-9]{2}-[0-9]{2})", txt)
+                if m_date:
+                    rinfo["date"] = m_date.group(1)
+                m_grade = re.search(r"(?:质量等级|综合评级)[*：:\s]+([^\n\r]+)", txt)
+                g = m_grade.group(1).replace("*", "").strip() if m_grade else ""
+                m_sum = re.search(r"一句话结论[*：:\s]+([^\n\r]+)", txt)
+                s = m_sum.group(1).replace("*", "").strip() if m_sum else ""
+                if not s:
+                    m_sum2 = re.search(r"一句话结论[*：:\s]*\n+([^\n\r]+)", txt)
+                    s = m_sum2.group(1).replace("*", "").strip() if m_sum2 else ""
+                if g or s:
+                    rinfo["summary"] = f"{g} | {s}" if (g and s) else (g or s)
+            except Exception:
+                pass
             valid_reviews[pname] = rinfo
     return valid_reviews
 

@@ -58,17 +58,65 @@ Kascambo had lately sunk into deep and silent despondency. But Ivan, on the day 
 Kascambo, to whom life and death had become equally indifferent, and who was not informed of the plans conceived by his servant, replied only: “Do what thou wishest, and hold thy tongue.” Towards evening, the guard who, notwithstanding his fever, had greatly enjoyed the sweets of the dinner, and done honour to the pieces of mutton which the cook had roasted on a stick, to make him taste a Russian *chislick* or carbonado, was, on a sudden, seized by so violent an attack of his distemper, that he was obliged to think more of his own health, than of the safekeeping of the captives. The old gaoler, whom Ivan’s gaiety had completely tranquillized, did not urge his sick comrade to remain; and Ivan, to remove still more his suspicion, had retired early in the evening into the back part of the room, and had stretched himself out on a bench near the wall, waiting, with painful impatience, for the moment that Ibrahim should also lie down to sleep. But the old gaoler had determined to watch the whole night, instead of laying himself down as usual, on the mat near the fire; and indeed, seated on a block opposite Kascambo’s resting place, he prepared himself in this way to pass the night, and dismissed his daughter-in-law, who retired to the room close by, ere her boy slept; and as soon as she entered it she bolted the door.
 From the dusky corner where he was lying, Ivan examined eagerly the scene before him. The glimmer of the fire, which blazed from time to time, shone on an axe deposited in a hole in the wall. The old man, at length, over come by sleep, let his head at intervals decline on his breast. Ivan rose. The suspicious gaoler asked him immediately, in a rough tone, “What is the matter?” Instead of replying, Ivan came near the fire, yawning aloud, as a person who was just awaking from a profound sleep. Ibrahim, who was endeavouring to keep himself awake, called on Kascambo to play on his guitar. The Major refusing to comply, Ivan reached him the instrument, whispering, “Take it, I have something to tell you.” Kascambo immediately tuned the guitar, and after a short prelude sang with his servant the following duet; introducing at each question and reply, the couplets of a Russian air.
 
+> Kascambo
 > “Hai luli! hai luli! What hast thou to tell me?﻿—take care.
+> “I’m weary and sad, but in truth
+> No wonder my spirits have flown,
+> For here I expected the youth,
+> And now I’m forlorn and alone.
+> Hai luli! hai luli!
+> What can the matter be?﻿—
+> It grieves one to be thus alone.”
 
+> Ivan
 > “See the hatchet, but do not stare at it. Hai luli! hai luli! I shall split that rascal’s head.
+> “As oft as I sit at my wheel,
+> The thread is e’er snapping in twain.
+> Tomorrow I’ll spin﻿—for I feel
+> That today I am too much in pain.
+> Hai luli! hai luli!
+> What can the matter be,
+> That today I am so much in pain?”
 
+> Kascambo
 > “Gratuitous murder! hai luli! How could I rid myself of my irons?
+> “As the kid its mother attends,
+> As the shepherd e’er follows his sheep,
+> As the doe to the valley descends
+> When the herbage is first seen to peep
+> Hai luli! hai luli!
+> What can the matter be?
+> Thus fondly I watch till I weep.”
 
+> Ivan
 > “The key of your chains is probably in the brigand’s pocket.
+> “I set off at dawn with my pail;
+> But, ere to the fountain I come,
+> Unconscious I take without fail
+> The pathway that leads to his home.
+> Hailuli! hai luli!
+> What can the matter be?
+> The pathway that leads to his home.”
 
+> Kascambo
 > “The woman will give the alarm﻿—hai luli!
+> “While thus at his absence I grieve,
+> Ungrateful he’s free from all care;
+> Nay, trying perhaps to deceive
+> Some other too credulous fair.
+> Hai luli! hai luli!
+> What will become of me?
+> Some other too fortunate fair.”
 
+> Ivan
 > “Happen what may! would it be better to die of misery and hunger? hai luli! hai luli!
+> “If, forgetting the oaths he has sworn,
+> He leave me another to woo,
+> The village I’d freely see burn,
+> And see myself burn with it too.
+> Hai luli! hai luli!
+> Who would not pity me?﻿—
+> And see myself burn with it too.”
 
 The old man becoming attentive, they repeated oftener the burden “hai luli!” and accompanied it with some loud irregular notes. “Play, master,” said the soldier, “play the Cossack song, and I will dance round the room to catch the axe: play with courage.”
 

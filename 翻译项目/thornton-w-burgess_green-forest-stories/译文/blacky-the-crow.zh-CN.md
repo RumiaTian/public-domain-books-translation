@@ -81,17 +81,24 @@ Blacky didn't turn to come back as he had planned. He kept right on, just as if 
 布莱基没有按计划掉头回去。他继续飞着，好像什么也没看见似的，飞行的时候微微颤抖了一下。他想到如果前一天他试图偷那些蛋并且被抓住的话会发生什么，不由得打了个寒颤。
 "谢天谢地，我够聪明，没有动它们，"他说。"真奇怪，我怎么就没想到那些蛋是谁的。我早该想到的，除了猫头鹰胡蒂，谁会想到在这个季节筑巢呢。刚才在巢上的就是胡蒂太太。天哪，她好大！比胡蒂自己还要大！是啊，先生，我昨天没有去偷那些蛋真是走运。很可能胡蒂和胡蒂太太当时就坐在旁边，只不过他们一动不动，我还以为他们是树的一部分呢。布莱基啊布莱基，你最好赶快把那些蛋忘掉。"
 
+## IV The Cunning of Blacky / 布莱基的诡计
+
+===Original===
 > Some things are best forgotten
 > As soon as they are learned.
 > Who never plays with fire
 > Will surely not get burned.
+> — Blacky the Crow
 
-## IV The Cunning of Blacky / 布莱基的诡计
-
-===Original===
 Now when Blacky the Crow discovered that the eggs in the old tumbledown nest of Redtail the Hawk in a lonesome corner of the Green Forest belonged to Hooty the Owl, he straightway made the best of resolutions; he would simply forget all about those eggs. He would forget that he ever had seen them, and he would stay away from that corner of the Green Forest. That was a very wise resolution. Of all the people who live in the Green Forest, none is fiercer or more savage than Hooty the Owl, unless it is Mrs. Hooty. She is bigger than Hooty and certainly quite as much to be feared by the little people.
 All this Blacky knows. No one knows it better. And Blacky is not one to poke his head into trouble with his eyes open. So he very wisely resolved to forget all about those eggs. Now it is one thing to make a resolution and quite another thing to live up to it, as you all know. It was easy enough to say that he would forget, but not at all easy to forget. It would have been different if it had been spring or early summer, when there were plenty of other eggs to be had by anyone smart enough to find them and steal them. But now, when it was still winter (such an unheard-of time for anyone to have eggs!), and it was hard work to find enough to keep a hungry Crow's stomach filled, the thought of those eggs would keep popping into his head. He just couldn't seem to forget them. After a little, he didn't try.
 ===Chinese===
+> 有些事最好刚学会，
+> 就把它忘个精光。
+> 只要从来不玩火，
+> 身上准不会遭殃。
+> —— 乌鸦布莱基
+
 当乌鸦布莱基发现绿森林荒凉角落里红尾鹰那个破旧巢里的蛋属于猫头鹰胡蒂时，他立刻下了一个最好的决心：干脆把那些蛋彻底忘掉。他要忘记自己曾经看到过它们，而且要远离绿森林的那个角落。这是一个非常明智的决心。在绿森林的所有居民中，没有谁比猫头鹰胡蒂更凶猛、更可怕的了——除非是胡蒂太太。她比胡蒂还要大，小动物们怕她一点也不比怕胡蒂少。
 这些布莱基全知道。没有人比他更清楚了。而且布莱基不是那种明知有危险还把脑袋往里伸的傻瓜。所以他非常明智地决定把那些蛋彻底忘掉。不过，你们都知道，下决心是一回事，做到又是另一回事。说要忘掉很容易，但真的忘掉可不容易。如果是春天或者初夏，满世界都有蛋，只要够聪明、够大胆就能找到并偷到，那情况就不一样了。但现在还是冬天（这个季节有人下蛋，真是闻所未闻！），而且要找到足够的食物来填饱一只饥饿乌鸦的肚子可不容易，那些蛋的念头就是不断地钻进他的脑袋。他就是忘不掉。过了一会儿，他干脆不再试图忘记了。
 ===Original===
@@ -161,11 +168,13 @@ But in the daytime he was sure. You see, he quite forgot the fact that the brigh
 But Hooty isn't stupid. Not a bit of it. The minute he found out that Blacky and his friends had discovered him, he thought of Mrs. Hooty and the two precious eggs in the old nest of Redtail the Hawk close by.
 "Mrs. Hooty mustn't be disturbed," thought he. "That will never do at all. I must lead these black rascals away where they won't discover Mrs. Hooty. I certainly must."
 So he spread his broad wings and blundered away among the trees a little way. He didn't fly far because the instant he started to fly that whole noisy crew with the exception of Blacky were after him. Because he couldn't use his claws or bill while flying, they grew bold enough to pull a few feathers out of his back. So he flew only a little way to a thick hemlock-tree, where it wasn't easy for the Crows to get at him, and where the light didn't hurt his eyes so much. There he rested a few minutes and then did the same thing over again. He meant to lead those bothersome Crows into the darkest part of the Green Forest and there—well, he could see better there, and it might be that one of them would be careless enough to come within reach. No, Hooty wasn't stupid. Certainly not.
+Blacky awoke to that fact as he sat in the top of a tall pine-tree silently watching. He could see Mrs. Hooty on the nest, and as the noise of Hooty's tormentors sounded from farther and farther away, she settled herself more comfortably and closed her eyes. Blacky could imagine that she was smiling to herself. It was clear that she had no intention of going to help Hooty. His splendid plan had failed just because stupid Hooty, who wasn't stupid at all, had flown away when he ought to have sat still. It was very provoking.
 ===Chinese===
 但白天他确信无疑。你知道的，他完全忘记了白天的明亮对胡蒂来说，就像夜晚的黑暗对他来说一样不舒服。所以，因为胡蒂只是坐在那里嘶嘶叫、猛咬他的喙，既不去追那些骚扰者也不飞走，布莱基就说他笨。他确信胡蒂现在就会乖乖待在那里，他还希望胡蒂太太会大发脾气，离开她正在孵那两个蛋的巢，飞过来帮胡蒂一起赶走那帮吵闹鬼。
 但胡蒂一点也不笨。一点都不。当他发现布莱基和他的朋友们发现了他时，他立刻想到了胡蒂太太和红尾鹰那个旧巢里两个珍贵的蛋。
 "绝不能让胡蒂太太被打扰，"他想。"这绝对不行。我必须把这些黑流氓引到别处去，让他们发现不了胡蒂太太。我必须这么做。"
 于是他展开宽大的翅膀，在树林间笨拙地飞了一小段路。他没有飞远，因为他一开始飞，除了布莱基之外的那一大群吵闹鬼就都追上来了。因为飞行时他没法使用爪子和喙，他们胆子大了起来，从他背上拔了几根羽毛。所以他只飞了一小段路，飞到一棵茂密的铁杉树上，乌鸦不容易够到他，而且那里的光线也不太刺眼。他在那里休息了几分钟，然后又来了一次。他打算把这些烦人的乌鸦引到绿森林最黑暗的角落——在那里，他能看得更清楚，说不定会有一个粗心大意的家伙靠得太近。不，胡蒂不笨。绝对不笨。
+布莱基坐在一棵高高松树的树梢上静静观察时，才猛然醒悟到这个事实。他能看到胡蒂太太正坐在巢里，随着戏弄胡蒂的那帮家伙的喧闹声越来越远，她把身子挪得更舒服了些，闭上了眼睛。布莱基甚至能想象出她正暗自微笑呢。很显然，她根本没打算去帮胡蒂。他那绝妙的计划落空了，仅仅是因为“笨笨的”胡蒂——其实一点也不笨——在他本该乖乖坐着不动的时候飞走了。这真是太令人恼火了。
 
 ## VII Blacky Tries Another Plan / 布莱基尝试另一个计划
 
@@ -187,12 +196,20 @@ He would try it.
 For a few minutes he listened to the noise of his relatives growing fainter and fainter, as Hooty led them farther and farther into the Green Forest. Then he opened his mouth.
 "Caw, caw, caw, caw!" he screamed. "Caw, caw, caw, caw! Come back, everybody! Here is Mrs. Hooty on her nest! Caw, caw, caw, caw!"
 Now as soon as they heard that, all Blacky's relatives stopped chasing and tormenting Hooty and started back as fast as they could fly. They didn't like the dark part of the Green Forest into which Hooty was leading them. Besides, they wanted to see that nest. So back they came, cawing at the top of their lungs, for they were very much excited. Some of them never had seen a nest of Hooty's. And anyway, it would be just as much fun to tease Mrs. Hooty as it was to tease Hooty.
+“Where is the nest?” they screamed, as they came back to where Blacky was cawing and pretending to be very much excited.
+“Why,” exclaimed one, “that is the old nest of Redtail the Hawk. I know all about that nest.” And he looked at Blacky as if he thought Blacky was playing a joke on them.
+“It was Redtail’s, but it is Hooty’s now. If you don’t believe me, just look in it,” retorted Blacky.
+At once they all began to fly over the top of the tree where they could look down into the nest and there, sure enough, was Mrs. Hooty, her great, round, yellow eyes glaring up at them angrily. Such a racket! Right away Hooty was forgotten, and the whole crowd at once began to torment Mrs. Hooty. Only Blacky sat watchful and silent, waiting for Mrs. Hooty to lose her temper and try to catch one of her tormentors. He had hope, a great hope, that he would get one of those eggs.
 ===Chinese===
 他的亲友们一个也没有注意到那个巢。他们忙着戏弄胡蒂。这正是布莱基希望的。他不想让他们知道那个巢的事，因为他很自私，想把那些蛋据为己有。但现在他明白，要想让胡蒂太太从蛋上起来，唯一的办法就是去骚扰她，让她发脾气，然后去追那些骚扰者。如果她这样做了，他就有机会溜进去偷到至少一个蛋。
 他决定试一试。
 有那么几分钟，他听着他的亲友们的叫声越来越远，因为胡蒂正把他们往绿森林深处引。然后他张开了嘴。
 "哇、哇、哇、哇！"他尖叫道。"哇、哇、哇、哇！大家快回来！胡蒂太太在这里孵蛋呢！哇、哇、哇、哇！"
 他们一听到这个消息，布莱基所有的亲友都停止了追赶和戏弄胡蒂，以最快的速度往回飞。他们不喜欢胡蒂引他们去的绿森林那片黑暗地带。再说了，他们想看看那个巢。于是他们飞回来了，扯着嗓子大叫，因为他们非常兴奋。他们中有些猫头鹰的巢还从来没见过呢。而且，戏弄胡蒂太太肯定和戏弄胡蒂一样好玩。
+“巢在哪儿呢？”他们尖叫着飞回布莱基身边，而布莱基正大声呱呱叫着，假装万分兴奋。
+“哎呀，”一只乌鸦嚷道，“那是红尾鹰的旧巢嘛。那个巢我清楚得很。”他看着布莱基，仿佛觉得布莱基在拿他们开涮。
+“以前是红尾鹰的，可现在是胡蒂的了。你们要是不信，自个儿瞧瞧去！”布莱基反驳道。
+大家立刻全都飞到了那棵树的上空，好往下看进巢里。果然，胡蒂太太就在那儿，一双又大又圆的黄眼睛正怒气冲冲地瞪着他们。好一阵大吵大闹！大伙儿立刻把胡蒂忘到了九霄云外，整群乌鸦立刻开始戏弄起胡蒂太太来。只有布莱基静静坐着，警惕地观望着，等着胡蒂太太按捺不住脾气，扑出来抓某个戏弄她的人。他满怀希望，满心指望能偷到其中的一个蛋。
 
 ## VIII Hooty Comes to Mrs. Hooty's Aid / 猫头鹰胡蒂来帮胡蒂太太
 
@@ -486,7 +503,20 @@ Blacky chuckled. He knew what Danny meant. When Blacky goes looking for Danny Me
 "What does it mean?" asked Blacky, just as if he didn't have the least idea, although he had guessed the instant he discovered those extra feathers.
 "It means we are going to have a long, hard, cold winter, and Old Mother Nature is preparing us for it," replied Danny, quite as if he knew all about it. "You'll find that everybody who doesn't go south or sleep all winter has a thicker coat than usual. Hello! There is old Roughleg the Hawk! He has come extra early this year. I think I'll go back to warn Nanny." Without another word Danny disappeared in the brown grass. Again Blacky chuckled. "More signs," said he to himself. "More signs. There isn't a doubt that we are going to have a hard winter. I wonder if I can stand it or if I'd better go a little way south, where it will be warmer."
 ===Chinese===
-"你从来没做过什么？"丹尼用他尖细的声音追问。
+> 单一事实难定对与错，
+> 再添印证铁证始坚实。
+> —— 乌鸦布莱基
+
+在发现大自然老妈妈把所有的玉米穗都裹上了格外厚实的包叶之后，布莱基心里深信不疑，旱獭约翰尼、麝鼠杰里、海狸帕迪以及野鸭一家所预感的——即将到来的冬天将会漫长、艰难而严寒——是完全正确的。但布莱基很久以前就明白，把所有希望全押在一件事上，既不明智也不完全保险。
+“大自然老妈妈做事从来不会半途而废，”布莱基坐在绿草地的栅栏桩上，琢磨着自己发现的玉米厚包叶，暗自想道。“她既然费心这样保护玉米，就绝不会不给其他生灵提供同样的庇护。只要我足够聪明，一定还能找到别的征兆。”
+他抬起一只黑色的翅膀，开始整理下面的羽毛。突然，他滑稽地笔直往上一跳。
+“哎呀，我可从来没这样过！”他一边展开双翅稳住平衡，一边惊呼道，“从来没有过！”
+“是吗？”一个尖细的小声音传了过来，“既然你说从来没有过，那就算你没有过吧，不过在相信之前，我得听听别人的说法。你到底从来没怎么样过？”
+布莱基低头看去。在枯黄的草丛里，有一双明亮的小眼睛正抬头打量着他。
+“你好啊，草地鼠丹尼！”布莱基喊道，“我好久没见到你了。最近好几次我都在找你呢。”
+“我不怀疑，我一点都不怀疑，”丹尼尖叫道，“你找我的时候是绝看不见我的。只要我能防备，你就休想见到；只要我先瞧见你，你就甭想瞧见我。”
+布莱基吃吃笑了起来。他明白丹尼的意思。布莱基去找草地鼠丹尼的时候，通常都是巴望着能美美吃上一顿草地鼠大餐，他也清楚丹尼心知肚明。“我已经吃过早饭了，”布莱基说，“离吃午饭的时间还早着呢。”
+"你从来没怎么样过？"丹尼用他尖细的声音追问。
 "那只是一个感叹，"布莱基解释道。"我有了一个发现，让我吃了一惊，所以叫了出来。"
 "什么发现？"丹尼追问道。
 "就是我的外套上的羽毛长得比以前任何时候都更浓密了。我刚才整理羽毛之前还没注意到。"他把喙埋进胸前的羽毛里。"是啊，先生，"他闷声闷气地说，"它们比以前任何时候都更浓密。根部周围还有很多绒毛。我将拥有有生以来最暖和的外套。"

@@ -28,7 +28,7 @@ She reassured him with a shake of the head and a smile, and, as in the case of M
 
 她摇摇头，笑了笑，让他宽心，但就像面对丹特先生（Mr. Dent）时一样，西蒙突然对笑容感到一阵反感。他这辈子还从没见过像今天这样多朝他微笑的脸。
 
-“一切都好，谢谢。……爹的情况差不多。我只是想跟桑恩斯韦特夫人（Mrs. Thornthet）说句话，仅此而已。
+“一切都好，谢谢。……爹的情况差不多。我只是想跟索恩思韦特夫人（Mrs. Thornthet）说句话，仅此而已。
 
 “不过，你路上可耽搁了好久（terble）！”她在他开口前快活地补充道。“我差点都决定要回去了。”
 
@@ -94,7 +94,7 @@ May laughed again, but there was less confidence in the laugh. She waited to spe
 ===Chinese===
 梅（May）又笑了，但笑声里少了些底气。她等到西蒙（Simon）牵着马走开，狗在马鼻子底下蹦跳吠叫时，才再次开口。
 
-“这么晚还来打扰你，真是不好意思，”她开朗地说，“可我实在等不及了。说起来，是你在医生那儿说什么乔迪（Geordie）要回家，把事情都勾起来了，桑恩斯韦特夫人（Mrs. Thornthet）！”
+“这么晚还来打扰你，真是不好意思，”她开朗地说，“可我实在等不及了。说起来，是你在医生那儿说什么乔迪（Geordie）要回家，把事情都勾起来了，索恩思韦特夫人（Mrs. Thornthet）！”
 
 “没人说过他要回来，”萨拉（Sarah）冷冷地说，“从来就没有。”她大手一挥，下午那个荒谬的念头便被扫到了一边。“你该放明白些，别净想这种事！”
 
@@ -102,7 +102,7 @@ May laughed again, but there was less confidence in the laugh. She waited to spe
 
 “是啊，可没钱（brass）；所以那事儿到此为止（finished and by wi’），”萨拉说。
 
-“不，有钱，”梅恳求道。“大把的钱！”见对方毫无反应，她犹豫了一下。“不，桑恩斯韦特夫人，你别那样看着我！只要能让大伙儿高兴，钱从哪儿来又有什么关系？”
+“不，有钱，”梅恳求道。“大把的钱！”见对方毫无反应，她犹豫了一下。“不，索恩思韦特夫人，你别那样看着我！只要能让大伙儿高兴，钱从哪儿来又有什么关系？”
 
 “我不会从你那儿买我的高兴，姑娘，我早说过了。”
 
@@ -168,13 +168,13 @@ But already Sarah had turned away from her and was moving towards the door. She 
 Sarah was now over the threshold, with her hand against the door, but May’s hand was also against it, refusing to let it close. Her face was white as a flower upon the dusky air, pleading and sweet with frank lips and tearful eyes. Sarah herself was engulfed by the dark house, a shadow that was yet more surely a block than the actual door. It seemed to May that she had all the passionless resistance of some ancient, immovable stone. A lantern across showed the black squares of the shippon stalls, the white coats of the beasts and Simon moving from dark to light. May did not know that the old woman’s purpose was giving in the pause, that that last sentence of hers had broken the stubborn will. She waited despairingly, seeking for more to say, and finding nothing, since the right word had been said. And because she despaired she broke the pause too soon, in an access of hopelessness flinging away her chance. Taking her hand from the door, she pointed to Simon at his job.
 
 ===Chinese===
-“唉，可你真是个狠心的女人，桑恩斯韦特夫人（Mrs. Thornthet）！”她痛得声音发颤地喊道。“看到乔迪（Geordie）回来我确实会高兴，但这现在也没多大分别了。我想看到他回来，是为了你和可怜的桑恩斯韦特先生（Mr. Thornthet）……”
+“唉，可你真是个狠心的女人，索恩思韦特夫人（Mrs. Thornthet）！”她痛得声音发颤地喊道。“看到乔迪（Geordie）回来我确实会高兴，但这现在也没多大分别了。我想看到他回来，是为了你和可怜的索恩思韦特先生（Mr. Thornthet）……”
 
 “你现在喜欢我了，”她鼓起勇气继续说，再次控制住自己。“不管过去怎样，你现在挺喜欢我。看在往日的情分上，你就不能收下这笔钱吗？”
 
 但萨拉（Sarah）已经转身朝门口走去。她熟练地将钥匙插进锁孔，推开了那扇摇摇晃晃的门。梅（May）再次跟了上去，站在那里，怀着那些为自己心中珍爱之物而恳求者的勇气。
 
-“别生着气走开，桑恩斯韦特夫人！”她恳求道。“我为刚才说的话道歉。想想我们今天早上在一起时有多快乐。想想他要是大步走进院子，那该多好……”
+“别生着气走开，索恩思韦特夫人！”她恳求道。“我为刚才说的话道歉。想想我们今天早上在一起时有多快乐。想想他要是大步走进院子，那该多好……”
 
 萨拉此时已跨过门槛，手扶着门，但梅的手也扶在门上，不让它关上。在昏暗的空气中，她的脸白得像一朵花，恳求着，那坦率的双唇和含泪的眼睛显得既甜美又悲伤。萨拉本人则被黑暗的屋子吞噬了，她的身影与其说是一扇门，不如说更像一道无法逾越的障碍。在梅看来，她仿佛拥有某种古老、不可撼动之石的全部冷漠与抗拒。对面牛棚（shippon）的灯光照亮了畜栏的黑色方格、牲畜白色的皮毛，以及西蒙（Simon）从暗处走向亮处的身影。梅不知道，老妇人的意志正在这片沉默中瓦解，她最后那番话已经击碎了那颗固执的心。她绝望地等待着，想再说些什么，却什么也说不出来，因为该说的话已经说了。正因为她绝望，她过早地打破了沉默，在一阵无助中断送了自己的机会。她把手从门上拿开，指着正在干活的西蒙。
 
@@ -188,7 +188,7 @@ But Sarah, too, cried out before she had gone a yard, her voice harsh with wrath
 She stopped with an indrawn breath, and the door, creaking abruptly, showed that her weight was heavy on the latch. May stood still in the yard, as still as the shadow that had once again turned to ancient stone. The silence that had fallen between them seemed to push her away, to drive them so far apart that never again would they be able to speak. At last, in that terrible outpouring, May had discovered the real barrier to her desire. There were pride and generosity in the way, but there was also something which she could not fight. The monstrous, lifelong obsession of Eliza had slopped even the natural road to a mother’s heart.
 
 ===Chinese===
-“那我就去问桑恩斯韦特先生（Mr. Thornthet）！”她尖声叫道，开始走开。“也许他会替我办成，而不是你。也许他会看出这番好意，不让骄傲什么的从中作梗！”
+“那我就去问索恩思韦特先生（Mr. Thornthet）！”她尖声叫道，开始走开。“也许他会替我办成，而不是你。也许他会看出这番好意，不让骄傲什么的从中作梗！”
 
 但萨拉（Sarah）还没等她走出一码远，也叫了起来，声音因愤怒和一种恐惧而变得刺耳。
 
@@ -216,4 +216,4 @@ She made one last entreating movement towards the shadow that was stone, but nob
 
 她阴郁地思忖着，当初出发时那满腔的笃定如今何在。大海依旧隔开她与爱人，那道海障（bar）比任何陆地的阻隔都要巨大。对有些人而言，大海是一种诅咒，而她或许在不知不觉中也是其中之一。她确实爱大海，但她从未忘记是它夺走了她的第一个希望。也许大海在嘲弄她的爱，就像萨拉嘲弄她的爱一样。也许它只是在黑暗中等待着伤害她……
 
-她朝那石化般的身影做了最后一次恳求的举动，但黑暗中无人移动，也无人说话。那一刻她无法确定萨拉是否还在，抑或她所恳求的一切只是漆黑一片。接着，她渐渐开始移动，仿佛将双脚从院子的地面硬生生拔了出来。她悲伤地、头也不回地登上海堤，被失败、悲伤和自惭形秽的重负压弯了腰。但当她面对沙洲时，恐惧再次袭来，她匆匆走下堤的另一侧。桑恩斯韦特家的守护天使就这样逃离了夜色，仿佛被连枷驱赶一般。
+她朝那石化般的身影做了最后一次恳求的举动，但黑暗中无人移动，也无人说话。那一刻她无法确定萨拉是否还在，抑或她所恳求的一切只是漆黑一片。接着，她渐渐开始移动，仿佛将双脚从院子的地面硬生生拔了出来。她悲伤地、头也不回地登上海堤，被失败、悲伤和自惭形秽的重负压弯了腰。但当她面对沙洲时，恐惧再次袭来，她匆匆走下堤的另一侧。索恩思韦特家的守护天使就这样逃离了夜色，仿佛被连枷驱赶一般。
