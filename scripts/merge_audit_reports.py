@@ -19,7 +19,7 @@ PROJ_DIR = os.path.join(ROOT, "翻译项目")
 def extract_meta(report_text):
     """从分部报告中提取核心元数据与评级"""
     grade = "B"
-    m = re.search(r"(?:质量等级|定级结果|审核定级|综合定级|总评定级|评级)[\*#\s]*[：:][\*#\s]*([A-Za-z]|优秀|良好|合格|不合格)", report_text)
+    m = re.search(r"(?:质量等级|定级结果|审核定级|审校定级|综合定级|总评定级|评级)[\*#\s]*[：:][\*#\s]*([A-Za-z]|优秀|良好|合格|不合格)", report_text)
     if m:
         g_str = m.group(1).strip().upper()
         if "A" in g_str or "优" in g_str:
@@ -31,7 +31,7 @@ def extract_meta(report_text):
 
     # 提取一句话结论
     summary = ""
-    m_sum = re.search(r"(?:-\s*\*\*一句话结论\*\*|\*\*一句话结论\*\*|结论摘要)[\*#\s]*[：:]\s*([^\n]+)", report_text)
+    m_sum = re.search(r"(?:-\s*\*\*一句话结论\*\*|\*\*一句话结论\*\*|结论摘要|-\s*\*\*综合评语\*\*|\*\*综合评语\*\*|一句话结论)[\*#\s]*[：:]\s*([^\n]+)", report_text)
     if m_sum:
         summary = m_sum.group(1).strip()
 
