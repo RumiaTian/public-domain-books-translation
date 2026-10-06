@@ -40,9 +40,9 @@ A distinct thrill of apprehension ran through the company at this tactful speech
 "You've no call to go raking up yon d—d rubbish!" Mr. Addison burst out, crimson to the hair, and quite forgetting the obligations of his Christian mission. He had said the same thing to Eliza's eldest lass, and much about the same time, and knew that Eliza knew it as well as he. "Folks isn't right in their heads when they're courting, as everybody knows, and it's real mean to bring it agen 'em after all these years. As for Geordie Thornthet, there was lile or nowt I could learn him, and that's sure! T'lasses was always after him like bees at a bottle o' rum."
 
 ===Chinese===
-"要不是乔迪的话，吉姆本来一直挺好的。"艾迪生太太（Mrs. Addison）摇晃着一顶松垮灵活的软帽，一脸郑重。"那个乔迪·桑西特（Geordie Thornthet）真是个彻头彻尾的祸害——又坏又淘气，是个真正的捣蛋鬼！他干的那些事，真是——什么田鼠灯笼之类的，天黑了冲人家窗户起哄，人家在小路上谈恋爱的时候躲在树篱后面偷看！你想想，那时候斯蒂芬（Stephen）和我还没结婚呢，我还记得有个夏天的晚上乔迪把我们吓得够呛。斯蒂芬那会儿对我可着迷了，你大概也知道，虽然现在要他承认的话，非把自己憋得脸发紫不可。嗯，就是我说的那天晚上，他拉着我的手，那副模样活像暴风雨里一只快淹死的鸭子。'珍妮·索菲亚，'他说，声音甜得像一片三叶草田，'我对你太着迷了，珍妮·索菲亚'——这时候乔迪突然从树篱那头冒出来，龇牙咧嘴地像下雨前的驴子一样叫唤起来！"
+"要不是乔迪的话，吉姆本来一直挺好的。"艾迪生太太（Mrs. Addison）摇晃着一顶松垮灵活的软帽，一脸郑重。"那个乔迪·索恩思韦特（Geordie Thornthet）真是个彻头彻尾的祸害——又坏又淘气，是个真正的捣蛋鬼！他干的那些事，真是——什么田鼠灯笼之类的，天黑了冲人家窗户起哄，人家在小路上谈恋爱的时候躲在树篱后面偷看！你想想，那时候斯蒂芬（Stephen）和我还没结婚呢，我还记得有个夏天的晚上乔迪把我们吓得够呛。斯蒂芬那会儿对我可着迷了，你大概也知道，虽然现在要他承认的话，非把自己憋得脸发紫不可。嗯，就是我说的那天晚上，他拉着我的手，那副模样活像暴风雨里一只快淹死的鸭子。'珍妮·索菲亚，'他说，声音甜得像一片三叶草田，'我对你太着迷了，珍妮·索菲亚'——这时候乔迪突然从树篱那头冒出来，龇牙咧嘴地像下雨前的驴子一样叫唤起来！"
 
-"你犯不着把那些该死的破事翻出来！"艾迪生先生（Mr. Addison）突然爆发，脸红到了发根，完全忘了他作为基督徒的使命。当年他对伊莱莎的大女儿说过差不多一模一样的话，而且差不多是同一阵子，他知道伊莱莎跟他一样清楚。"谁都知道谈恋爱的时候脑子都不太好使，过了这么多年再翻出来就太缺德了。至于乔迪·桑西特，我能教他的实在是少之又少，这倒是真的！姑娘们对他总是像蜜蜂围着朗姆酒瓶一样。"
+"你犯不着把那些该死的破事翻出来！"艾迪生先生（Mr. Addison）突然爆发，脸红到了发根，完全忘了他作为基督徒的使命。当年他对伊莱莎的大女儿说过差不多一模一样的话，而且差不多是同一阵子，他知道伊莱莎跟他一样清楚。"谁都知道谈恋爱的时候脑子都不太好使，过了这么多年再翻出来就太缺德了。至于乔迪·索恩思韦特，我能教他的实在是少之又少，这倒是真的！姑娘们对他总是像蜜蜂围着朗姆酒瓶一样。"
 
 ===Original===
 "Nay, now, you mean our Jim!" Jim's mother corrected him with an air of offence. "Nobody never reckoned nowt o' Geordie but May Fleming. He couldn't hold a candle to Jim, any day o' the week. Folk said they couldn't tell 'em apart, but I never see a scrap o' likeness myself." She glanced defiantly round the table, as if expecting opposition, and then swung round eagerly as Sally reappeared. "Well, my lass, well?" she rapped out—"did she tell you anything more? You've taken your time about coming back, I'm sure!"
@@ -74,7 +74,7 @@ A distinct thrill of apprehension ran through the company at this tactful speech
 
 "倒像是在办丧事，根本不像迎人回家！"玛丽·菲莉丝替她下了结论，带着轻蔑的笑声。
 
-"至于西蒙（Simon）舅舅，他气得跟一把剪刀似的！"艾米莉·马里恩（Emily Marion）烦躁地补了一句。桑西特家的人今天尽给这位准新娘添堵。西蒙一开始差点把婚事搅黄，而现在众人的注意力全放在了一个她从未见过的桑西特家人身上。
+"至于西蒙（Simon）舅舅，他气得跟一把剪刀似的！"艾米莉·马里恩（Emily Marion）烦躁地补了一句。索恩思韦特家的人今天尽给这位准新娘添堵。西蒙一开始差点把婚事搅黄，而现在众人的注意力全放在了一个她从未见过的索恩思韦特家人身上。
 
 ===Original===
 "Not how *I* should take good news, certainly!" Elliman said, hoping that no one had noticed his menial act. "I should have something more to say for myself, I hope, than that."
@@ -256,7 +256,7 @@ She choked when she came to the last words, both from sudden nervousness, and la
 ===Chinese===
 威尔太太觉得整个世界在飞速旋转，她拼命想抓住它，却抓不住。她的太阳穴在跳动，喉咙在翻涌，瞪大的眼睛一片茫然。她摸索着走到窗前，猛地推开沉重的窗扇；正当她站在那里喘着粗气的时候，西蒙和威尔正慢悠悠地穿过院子。她的眼睛在涌入的空气中重新看清了东西，捕捉到西蒙脸上浮起的微笑，他整个神情中流露出的新兴趣和新活力。如果萨拉说的是真的，他不可能知道这个重大消息；充其量只是有所察觉。但他那种微妙的满足神情本身就够让人心烦的了。这确实是压垮伊莱莎自制力的最后一根稻草。当她再次转过身来时，话语和气息如同山涧般奔涌而出。
 
-"我真纳闷你怎么不害怕，萨拉·桑西特，坐在那里像从线轴上抽棉线一样扯谎！你大概是想激怒我和我们家的人吧，可你要是觉得这就是你能开的最好的玩笑，那我告诉你，我一点也瞧不上！乔迪带着钱回来！乔迪想要大宅什么的！不，萨拉，别的我推一推拉一拉的也许还能信，可这最后一条也太过分了。哼，我还不如信他要去把国王的皇冠偷来，没准还拿威瑟姆市政厅当住处呢！至于说什么体谅我的感受之类的话，你从来就没有关心过，现在也犯不着装模作样。事情只有两种可能，萨拉，我知道是哪种。要么你从头到尾说了一套漂亮的谎话，要么回来的根本不是乔迪，而是我们家吉姆！"
+"我真纳闷你怎么不害怕，萨拉·索恩思韦特，坐在那里像从线轴上抽棉线一样扯谎！你大概是想激怒我和我们家的人吧，可你要是觉得这就是你能开的最好的玩笑，那我告诉你，我一点也瞧不上！乔迪带着钱回来！乔迪想要大宅什么的！不，萨拉，别的我推一推拉一拉的也许还能信，可这最后一条也太过分了。哼，我还不如信他要去把国王的皇冠偷来，没准还拿威瑟姆市政厅当住处呢！至于说什么体谅我的感受之类的话，你从来就没有关心过，现在也犯不着装模作样。事情只有两种可能，萨拉，我知道是哪种。要么你从头到尾说了一套漂亮的谎话，要么回来的根本不是乔迪，而是我们家吉姆！"
 
 说到最后几个字的时候她噎住了，一半是因为突如其来的紧张，一半是因为喘不上气来，萨拉再次发出了她那教养良好的笑声。
 
@@ -418,7 +418,7 @@ She stirred then, moved by the cheated sound in his angry voice. She gave a sigh
 ===Chinese===
 "你说乔迪要回来了？"西蒙困惑地盯着他。
 
-"桑西特太太是这么让我们理解的。"
+"索恩思韦特太太是这么让我们理解的。"
 
 "还带了钱？很多钱？*乔迪*有钱？"
 
@@ -458,7 +458,7 @@ She shook her fist at the window, and the faces disappeared like morning frost. 
 
 他回过神来，听到伊莱莎的声音，如同一个从死里复活的人重新听到生命的喧嚣。
 
-"我真纳闷你怎么没当场倒下，萨拉·桑西特！我真纳闷你没躺在地上死过去！可你迟早要遭报应的，放心；你跑不掉的，别担心！你等着，不出多久就会有事落到你头上——没准明天一早就有！很可能，我们下次听到乔迪的消息就是他已经死了或者淹死了。……你要是再不管我，威尔，我给你一巴掌！"
+"我真纳闷你怎么没当场倒下，萨拉·索恩思韦特！我真纳闷你没躺在地上死过去！可你迟早要遭报应的，放心；你跑不掉的，别担心！你等着，不出多久就会有事落到你头上——没准明天一早就有！很可能，我们下次听到乔迪的消息就是他已经死了或者淹死了。……你要是再不管我，威尔，我给你一巴掌！"
 
 是萨莉在这一天第二次挽救了局面。
 

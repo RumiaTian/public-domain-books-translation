@@ -81,17 +81,24 @@ Blacky didn't turn to come back as he had planned. He kept right on, just as if 
 布莱基没有按计划掉头回去。他继续飞着，好像什么也没看见似的，飞行的时候微微颤抖了一下。他想到如果前一天他试图偷那些蛋并且被抓住的话会发生什么，不由得打了个寒颤。
 "谢天谢地，我够聪明，没有动它们，"他说。"真奇怪，我怎么就没想到那些蛋是谁的。我早该想到的，除了猫头鹰胡蒂，谁会想到在这个季节筑巢呢。刚才在巢上的就是胡蒂太太。天哪，她好大！比胡蒂自己还要大！是啊，先生，我昨天没有去偷那些蛋真是走运。很可能胡蒂和胡蒂太太当时就坐在旁边，只不过他们一动不动，我还以为他们是树的一部分呢。布莱基啊布莱基，你最好赶快把那些蛋忘掉。"
 
+## IV The Cunning of Blacky / 布莱基的诡计
+
+===Original===
 > Some things are best forgotten
 > As soon as they are learned.
 > Who never plays with fire
 > Will surely not get burned.
+> — Blacky the Crow
 
-## IV The Cunning of Blacky / 布莱基的诡计
-
-===Original===
 Now when Blacky the Crow discovered that the eggs in the old tumbledown nest of Redtail the Hawk in a lonesome corner of the Green Forest belonged to Hooty the Owl, he straightway made the best of resolutions; he would simply forget all about those eggs. He would forget that he ever had seen them, and he would stay away from that corner of the Green Forest. That was a very wise resolution. Of all the people who live in the Green Forest, none is fiercer or more savage than Hooty the Owl, unless it is Mrs. Hooty. She is bigger than Hooty and certainly quite as much to be feared by the little people.
 All this Blacky knows. No one knows it better. And Blacky is not one to poke his head into trouble with his eyes open. So he very wisely resolved to forget all about those eggs. Now it is one thing to make a resolution and quite another thing to live up to it, as you all know. It was easy enough to say that he would forget, but not at all easy to forget. It would have been different if it had been spring or early summer, when there were plenty of other eggs to be had by anyone smart enough to find them and steal them. But now, when it was still winter (such an unheard-of time for anyone to have eggs!), and it was hard work to find enough to keep a hungry Crow's stomach filled, the thought of those eggs would keep popping into his head. He just couldn't seem to forget them. After a little, he didn't try.
 ===Chinese===
+> 有些事最好刚学会，
+> 就把它忘个精光。
+> 只要从来不玩火，
+> 身上准不会遭殃。
+> —— 乌鸦布莱基
+
 当乌鸦布莱基发现绿森林荒凉角落里红尾鹰那个破旧巢里的蛋属于猫头鹰胡蒂时，他立刻下了一个最好的决心：干脆把那些蛋彻底忘掉。他要忘记自己曾经看到过它们，而且要远离绿森林的那个角落。这是一个非常明智的决心。在绿森林的所有居民中，没有谁比猫头鹰胡蒂更凶猛、更可怕的了——除非是胡蒂太太。她比胡蒂还要大，小动物们怕她一点也不比怕胡蒂少。
 这些布莱基全知道。没有人比他更清楚了。而且布莱基不是那种明知有危险还把脑袋往里伸的傻瓜。所以他非常明智地决定把那些蛋彻底忘掉。不过，你们都知道，下决心是一回事，做到又是另一回事。说要忘掉很容易，但真的忘掉可不容易。如果是春天或者初夏，满世界都有蛋，只要够聪明、够大胆就能找到并偷到，那情况就不一样了。但现在还是冬天（这个季节有人下蛋，真是闻所未闻！），而且要找到足够的食物来填饱一只饥饿乌鸦的肚子可不容易，那些蛋的念头就是不断地钻进他的脑袋。他就是忘不掉。过了一会儿，他干脆不再试图忘记了。
 ===Original===
@@ -161,11 +168,13 @@ But in the daytime he was sure. You see, he quite forgot the fact that the brigh
 But Hooty isn't stupid. Not a bit of it. The minute he found out that Blacky and his friends had discovered him, he thought of Mrs. Hooty and the two precious eggs in the old nest of Redtail the Hawk close by.
 "Mrs. Hooty mustn't be disturbed," thought he. "That will never do at all. I must lead these black rascals away where they won't discover Mrs. Hooty. I certainly must."
 So he spread his broad wings and blundered away among the trees a little way. He didn't fly far because the instant he started to fly that whole noisy crew with the exception of Blacky were after him. Because he couldn't use his claws or bill while flying, they grew bold enough to pull a few feathers out of his back. So he flew only a little way to a thick hemlock-tree, where it wasn't easy for the Crows to get at him, and where the light didn't hurt his eyes so much. There he rested a few minutes and then did the same thing over again. He meant to lead those bothersome Crows into the darkest part of the Green Forest and there—well, he could see better there, and it might be that one of them would be careless enough to come within reach. No, Hooty wasn't stupid. Certainly not.
+Blacky awoke to that fact as he sat in the top of a tall pine-tree silently watching. He could see Mrs. Hooty on the nest, and as the noise of Hooty's tormentors sounded from farther and farther away, she settled herself more comfortably and closed her eyes. Blacky could imagine that she was smiling to herself. It was clear that she had no intention of going to help Hooty. His splendid plan had failed just because stupid Hooty, who wasn't stupid at all, had flown away when he ought to have sat still. It was very provoking.
 ===Chinese===
 但白天他确信无疑。你知道的，他完全忘记了白天的明亮对胡蒂来说，就像夜晚的黑暗对他来说一样不舒服。所以，因为胡蒂只是坐在那里嘶嘶叫、猛咬他的喙，既不去追那些骚扰者也不飞走，布莱基就说他笨。他确信胡蒂现在就会乖乖待在那里，他还希望胡蒂太太会大发脾气，离开她正在孵那两个蛋的巢，飞过来帮胡蒂一起赶走那帮吵闹鬼。
 但胡蒂一点也不笨。一点都不。当他发现布莱基和他的朋友们发现了他时，他立刻想到了胡蒂太太和红尾鹰那个旧巢里两个珍贵的蛋。
 "绝不能让胡蒂太太被打扰，"他想。"这绝对不行。我必须把这些黑流氓引到别处去，让他们发现不了胡蒂太太。我必须这么做。"
 于是他展开宽大的翅膀，在树林间笨拙地飞了一小段路。他没有飞远，因为他一开始飞，除了布莱基之外的那一大群吵闹鬼就都追上来了。因为飞行时他没法使用爪子和喙，他们胆子大了起来，从他背上拔了几根羽毛。所以他只飞了一小段路，飞到一棵茂密的铁杉树上，乌鸦不容易够到他，而且那里的光线也不太刺眼。他在那里休息了几分钟，然后又来了一次。他打算把这些烦人的乌鸦引到绿森林最黑暗的角落——在那里，他能看得更清楚，说不定会有一个粗心大意的家伙靠得太近。不，胡蒂不笨。绝对不笨。
+布莱基坐在一棵高高松树的树梢上静静观察时，才猛然醒悟到这个事实。他能看到胡蒂太太正坐在巢里，随着戏弄胡蒂的那帮家伙的喧闹声越来越远，她把身子挪得更舒服了些，闭上了眼睛。布莱基甚至能想象出她正暗自微笑呢。很显然，她根本没打算去帮胡蒂。他那绝妙的计划落空了，仅仅是因为“笨笨的”胡蒂——其实一点也不笨——在他本该乖乖坐着不动的时候飞走了。这真是太令人恼火了。
 
 ## VII Blacky Tries Another Plan / 布莱基尝试另一个计划
 
@@ -187,12 +196,20 @@ He would try it.
 For a few minutes he listened to the noise of his relatives growing fainter and fainter, as Hooty led them farther and farther into the Green Forest. Then he opened his mouth.
 "Caw, caw, caw, caw!" he screamed. "Caw, caw, caw, caw! Come back, everybody! Here is Mrs. Hooty on her nest! Caw, caw, caw, caw!"
 Now as soon as they heard that, all Blacky's relatives stopped chasing and tormenting Hooty and started back as fast as they could fly. They didn't like the dark part of the Green Forest into which Hooty was leading them. Besides, they wanted to see that nest. So back they came, cawing at the top of their lungs, for they were very much excited. Some of them never had seen a nest of Hooty's. And anyway, it would be just as much fun to tease Mrs. Hooty as it was to tease Hooty.
+“Where is the nest?” they screamed, as they came back to where Blacky was cawing and pretending to be very much excited.
+“Why,” exclaimed one, “that is the old nest of Redtail the Hawk. I know all about that nest.” And he looked at Blacky as if he thought Blacky was playing a joke on them.
+“It was Redtail’s, but it is Hooty’s now. If you don’t believe me, just look in it,” retorted Blacky.
+At once they all began to fly over the top of the tree where they could look down into the nest and there, sure enough, was Mrs. Hooty, her great, round, yellow eyes glaring up at them angrily. Such a racket! Right away Hooty was forgotten, and the whole crowd at once began to torment Mrs. Hooty. Only Blacky sat watchful and silent, waiting for Mrs. Hooty to lose her temper and try to catch one of her tormentors. He had hope, a great hope, that he would get one of those eggs.
 ===Chinese===
 他的亲友们一个也没有注意到那个巢。他们忙着戏弄胡蒂。这正是布莱基希望的。他不想让他们知道那个巢的事，因为他很自私，想把那些蛋据为己有。但现在他明白，要想让胡蒂太太从蛋上起来，唯一的办法就是去骚扰她，让她发脾气，然后去追那些骚扰者。如果她这样做了，他就有机会溜进去偷到至少一个蛋。
 他决定试一试。
 有那么几分钟，他听着他的亲友们的叫声越来越远，因为胡蒂正把他们往绿森林深处引。然后他张开了嘴。
 "哇、哇、哇、哇！"他尖叫道。"哇、哇、哇、哇！大家快回来！胡蒂太太在这里孵蛋呢！哇、哇、哇、哇！"
 他们一听到这个消息，布莱基所有的亲友都停止了追赶和戏弄胡蒂，以最快的速度往回飞。他们不喜欢胡蒂引他们去的绿森林那片黑暗地带。再说了，他们想看看那个巢。于是他们飞回来了，扯着嗓子大叫，因为他们非常兴奋。他们中有些猫头鹰的巢还从来没见过呢。而且，戏弄胡蒂太太肯定和戏弄胡蒂一样好玩。
+“巢在哪儿呢？”他们尖叫着飞回布莱基身边，而布莱基正大声呱呱叫着，假装万分兴奋。
+“哎呀，”一只乌鸦嚷道，“那是红尾鹰的旧巢嘛。那个巢我清楚得很。”他看着布莱基，仿佛觉得布莱基在拿他们开涮。
+“以前是红尾鹰的，可现在是胡蒂的了。你们要是不信，自个儿瞧瞧去！”布莱基反驳道。
+大家立刻全都飞到了那棵树的上空，好往下看进巢里。果然，胡蒂太太就在那儿，一双又大又圆的黄眼睛正怒气冲冲地瞪着他们。好一阵大吵大闹！大伙儿立刻把胡蒂忘到了九霄云外，整群乌鸦立刻开始戏弄起胡蒂太太来。只有布莱基静静坐着，警惕地观望着，等着胡蒂太太按捺不住脾气，扑出来抓某个戏弄她的人。他满怀希望，满心指望能偷到其中的一个蛋。
 
 ## VIII Hooty Comes to Mrs. Hooty's Aid / 猫头鹰胡蒂来帮胡蒂太太
 
@@ -486,7 +503,20 @@ Blacky chuckled. He knew what Danny meant. When Blacky goes looking for Danny Me
 "What does it mean?" asked Blacky, just as if he didn't have the least idea, although he had guessed the instant he discovered those extra feathers.
 "It means we are going to have a long, hard, cold winter, and Old Mother Nature is preparing us for it," replied Danny, quite as if he knew all about it. "You'll find that everybody who doesn't go south or sleep all winter has a thicker coat than usual. Hello! There is old Roughleg the Hawk! He has come extra early this year. I think I'll go back to warn Nanny." Without another word Danny disappeared in the brown grass. Again Blacky chuckled. "More signs," said he to himself. "More signs. There isn't a doubt that we are going to have a hard winter. I wonder if I can stand it or if I'd better go a little way south, where it will be warmer."
 ===Chinese===
-"你从来没做过什么？"丹尼用他尖细的声音追问。
+> 单一事实难定对与错，
+> 再添印证铁证始坚实。
+> —— 乌鸦布莱基
+
+在发现大自然老妈妈把所有的玉米穗都裹上了格外厚实的包叶之后，布莱基心里深信不疑，旱獭约翰尼、麝鼠杰里、海狸帕迪以及野鸭一家所预感的——即将到来的冬天将会漫长、艰难而严寒——是完全正确的。但布莱基很久以前就明白，把所有希望全押在一件事上，既不明智也不完全保险。
+“大自然老妈妈做事从来不会半途而废，”布莱基坐在绿草地的栅栏桩上，琢磨着自己发现的玉米厚包叶，暗自想道。“她既然费心这样保护玉米，就绝不会不给其他生灵提供同样的庇护。只要我足够聪明，一定还能找到别的征兆。”
+他抬起一只黑色的翅膀，开始整理下面的羽毛。突然，他滑稽地笔直往上一跳。
+“哎呀，我可从来没这样过！”他一边展开双翅稳住平衡，一边惊呼道，“从来没有过！”
+“是吗？”一个尖细的小声音传了过来，“既然你说从来没有过，那就算你没有过吧，不过在相信之前，我得听听别人的说法。你到底从来没怎么样过？”
+布莱基低头看去。在枯黄的草丛里，有一双明亮的小眼睛正抬头打量着他。
+“你好啊，草地鼠丹尼！”布莱基喊道，“我好久没见到你了。最近好几次我都在找你呢。”
+“我不怀疑，我一点都不怀疑，”丹尼尖叫道，“你找我的时候是绝看不见我的。只要我能防备，你就休想见到；只要我先瞧见你，你就甭想瞧见我。”
+布莱基吃吃笑了起来。他明白丹尼的意思。布莱基去找草地鼠丹尼的时候，通常都是巴望着能美美吃上一顿草地鼠大餐，他也清楚丹尼心知肚明。“我已经吃过早饭了，”布莱基说，“离吃午饭的时间还早着呢。”
+"你从来没怎么样过？"丹尼用他尖细的声音追问。
 "那只是一个感叹，"布莱基解释道。"我有了一个发现，让我吃了一惊，所以叫了出来。"
 "什么发现？"丹尼追问道。
 "就是我的外套上的羽毛长得比以前任何时候都更浓密了。我刚才整理羽毛之前还没注意到。"他把喙埋进胸前的羽毛里。"是啊，先生，"他闷声闷气地说，"它们比以前任何时候都更浓密。根部周围还有很多绒毛。我将拥有有生以来最暖和的外套。"
@@ -1043,6 +1073,9 @@ When on that moonlight night he discovered Mrs. Bear's secret, he had the most m
 And his surprise at seeing those two little heads was only a little greater than his surprise at the smallness of them. So for perhaps two minutes Peter sat motionless, quite overcome with surprise, as he stared at those two funny little heads poked out from the entrance under the great windfall. Then all in a flash he understood the cause of Mrs. Bear's short temper and the reason she drove everybody away from there, and he felt a sudden panic of fright.
 
 ===Chinese===
+彼得急匆匆地溜到安全距离外，然后转过身，瞪大眼睛盯着那个洞口。他大半以为会看到熊太太的大脑袋探出来，随时准备拔腿就跑。然而，钻出来的却是一个极小的小脑袋，紧接着旁边又探出了另一个小脑袋。
+彼得惊讶得差点一屁股仰面摔倒。随即，他恍然大悟——他终于知道了熊太太的秘密！秘密终于大白于天下了！没错，先生，终于真相大白了。熊太太添了娃娃！熊太太和巴斯特熊有了双胞胎！
+
 > 胆小的人最开心的事，
 莫过于把别人吓一跳。
 > — 熊妈妈
@@ -1084,6 +1117,9 @@ But Peter had so often felt little cold chills of fear chasing each other up and
 After the two cubs had disappeared, he could hear them scrambling along under the great windfall as they hurried for the darkest corner of that dark bedroom where Mother Bear had left them when she went out to look for something to eat. All the way there they whimpered just as if they thought some dreadful enemy was after them. Peter laughed until his sides ached and the tears came to his eyes.
 
 ===Chinese===
+彼得突然用后脚使劲蹬了蹬地面。绿森林里那么安静，那蹬地的声音听起来格外响亮。两只小熊惊恐地朝彼得望去。他在月光下笔直地坐着，显得非常高大。至少，对这两只从未见过他的小熊来说是这样的。
+他们发出一阵滑稽的受惊呜咽声，转过身几乎是连滚带爬地挤作一团，慌慌张张地逃回大倒木堆底下的入口。彼得笑啊笑啊，笑得两肋直发酸。他，彼得兔，居然把两只熊给吓破了胆，还把他们吓跑了！现在他可有资本好好吹嘘一番了。
+
 > 开双向玩笑很少有好下场，
  这个道理你可要记牢。
 > — 熊妈妈
@@ -1119,6 +1155,9 @@ And the first time they had poked their heads out, Peter Rabbit had given them a
 "We must ask Mother Bear about him," said Woof-Woof. "He was only about our size, and perhaps he isn't so terrible after all. Here she comes now."
 
 ===Chinese===
+“希望这能给他个教训，”熊太太喉咙深处低声咕哝着，“我可不希望那个长耳朵的好奇鬼在这一带晃荡。他瞥见了我那两个小家伙，现在我的秘密肯定保不住了。唉，反正早晚也是要公开的。”
+熊太太转身钻回了大倒木底下做卧室的洞口，而彼得兔则一蹦一跳、一颠一颠地穿过绿森林，直奔绿草地和他心爱的老荆棘丛而去。他迫不及待要赶到那里，去宣布熊太太深藏已久的秘密这个大新闻。
+
 > 有时候我觉得，
 看见了装作没看见，也不错。
 > — 熊妈妈
@@ -1155,6 +1194,9 @@ Not in all the Green Forest is there a wiser or better mother than Mrs. Bear. No
 My, my, my, how excited they were as Mother Bear led the way out from under the old windfall! This was to be a great, a wonderful adventure. They tingled all over. They were actually going out to see something of the Great World.
 
 ===Chinese===
+她戳了戳两只小熊。“你们根本没睡着，”她说，“别以为能瞒得过你们的妈妈。明天早上你们可以出去玩一会儿，条件是你们必须保证：离我们家门口绝不超过一跳远的距离。在绿森林里，对小熊来说可是潜伏着天大的危险呢。”
+拳拳和汪汪当然满口答应了。于是接连好几天早晨，他们就在洞口外玩耍，而母亲则假装打盹。正是在这段时间里，红松鼠恰特勒、松鸦萨米和乌鸦布莱基靠吓唬那对双胞胎幼崽找了许多乐子。他们不知道，双胞胎也不知道，熊妈妈其实一直心明眼亮，只是不动声色，好让双胞胎自己长点见识。
+
 > 大千世界在呼唤，不管早晚，
  每个人都得听从，掌控自己的命运。
 > — 熊妈妈
@@ -1165,14 +1207,16 @@ My, my, my, how excited they were as Mother Bear led the way out from under the 
 天哪天哪天哪，当熊妈妈带着他们走出老倒木堆的时候，他们激动极了！这将是一次伟大的、奇妙的冒险。他们浑身上下都在兴奋地颤抖。他们真的要出去见识一下大千世界了。
 
 ===Original===
-The first thing Mother Bear did was to sit up and carefully test the wind with her nose. Boxer sat up and did exactly the same thing. Woof-Woof sat up and did exactly the same thing. Mother Bear looked this way and looked that way. Boxer looked this way and looked that way. So did Woof-Woof.
+The first thing Mother Bear did was to sit up and carefully test the wind with her nose. Boxer sat up and did exactly the same thing. Woof-Woof sat up and did exactly the same thing. The Merry Little Breezes tickled their noses with many scents. Mother Bear knew what each one was, but of course the twins didn’t know any of them. All they knew was that they smelled good.
+Mother Bear cocked her ears forward and listened. Boxer cocked his ears forward and listened. Woof-Woof cocked her ears forward and listened. Mother Bear looked this way and looked that way. Boxer looked this way and looked that way. So did Woof-Woof.
 "These are the things you must always do whenever you start out in the Great World," explained Mother Bear in her deep, grumbly-rumbly voice. "You must learn to know the meaning of every scent that reaches your nose, of every sound that reaches your ears, of everything you see, for only by such knowledge can you keep out of danger. But you must never trust your ears or your eyes only. Your nose is more to be trusted than either ears or eyes or both ears and eyes. But always use all three."
 "Yes'm," replied Boxer and Woof-Woof.
 Then Mother Bear started off among the great trees, shuffling along and swinging her head from side to side. Right at her heels shuffled Boxer, swinging his head from side to side, and right at his heels shuffled Woof-Woof, swinging her head from side to side. Whatever Mother Bear did the twins did. They did it because Mother Bear did it. They were keeping their promise. And little as they were, they felt very big and important, for now at last they were out in the Great World.
 Chatterer the Red Squirrel saw them start out, and he chuckled as he watched those two funny little cubs do exactly as Mother Bear did. He followed along in the tree tops, jumping from tree to tree, but taking the greatest care to make no noise. He was fairly aching for a chance to scare those cubs. But as long as Mother Bear was with them, he didn't dare to try.
 
 ===Chinese===
-熊妈妈做的第一件事就是坐起来，仔细地用鼻子试探风向。拳拳坐起来，做了一模一样的事。汪汪也坐起来，做了一模一样的事。熊妈妈朝这边看看，又朝那边看看。拳拳也朝这边看看，朝那边看看。汪汪也一样。
+熊妈妈做的第一件事就是坐起来，仔细地用鼻子试探风向。拳拳坐起来，做了一模一样的事。汪汪也坐起来，做了一模一样的事。欢快的微风携着许许多多的气味拂过他们的鼻子。熊妈妈知道每一种气味代表什么，但双胞胎当然一种也不知道。他们只知道闻起来挺舒服的。
+熊妈妈竖起耳朵往前倾听。拳拳竖起耳朵往前倾听。汪汪也竖起耳朵往前倾听。熊妈妈朝这边看看，又朝那边看看。拳拳也朝这边看看，朝那边看看。汪汪也一样。
 "这些事情是你们每次走进大千世界的时候都必须做的，"熊妈妈用她低沉的、闷闷的声音解释道，"你们必须学会了解传到鼻子的每一种气味、传到耳朵的每一种声音、看到的每一样东西的含义，因为只有靠这些知识，你们才能避开危险。但你们绝不能只相信自己的耳朵或者眼睛。你们的鼻子比耳朵或眼睛都更可靠，比耳朵加眼睛都更可靠。不过一定要三样都用。"
 "明白了，"拳拳和汪汪回答。
 然后熊妈妈在大树之间出发了，脚步拖拖拉拉，脑袋左右摇晃。拳拳紧跟在她脚后跟后面，也拖着脚步，脑袋左右摇晃。汪汪紧跟在拳拳脚后跟后面，也拖着脚步，脑袋左右摇晃。熊妈妈做什么，双胞胎就做什么。他们这么做是因为熊妈妈这么做。他们信守着自己的诺言。虽然他们还很小，但他们觉得自己很大、很重要，因为他们终于来到了大千世界。
@@ -1192,6 +1236,8 @@ When Mother Bear reached the place where grew the roots of which she was so fond
 Boxer scrambled a little higher. Mother Bear turned and started Woof-Woof up after Boxer. It was a strange experience for the twins. Never before had they been above the ground, and it frightened them. They scrambled a little way then looked down and whimpered. Then they looked up at the branches above them. To Boxer and Woof-Woof those branches seemed a terrible distance up. They seemed way, way up in the sky. Really they were not very high up at all. But you remember the twins were very little, and this was their first climb.
 
 ===Chinese===
+熊妈妈停在一根老倒木旁闻了闻，然后继续向前走。拳拳也停下来，一本正经地在那根老倒木上闻了闻，然后继续向前走。汪汪也停下来，在那根老倒木上闻了闻，然后继续向前走。就这样，他们终于来到一处泥土松软的地方，那里长着熊太太非常喜欢的某些植物根茎。
+
 > 越是害怕的时候还能坚持往上爬的人，
 就能爬得最高。
 > — 熊妈妈
@@ -1225,6 +1271,9 @@ Inside he had chuckled to see the twins do exactly what Mother Bear did. When sh
 So Chatterer followed, all the time hoping for a chance to give those twins a scare. But he didn't want to try it while Mother Bear was around. So he waited, hoping that she would leave them alone for a few minutes. Finally Mother Bear set the twins to climbing a tree. It was then that Chatterer became so very indignant. His sharp eyes snapped as he watched the twins scramble up that tree. He hoped they would fall. Yes, sir, Chatterer really hoped those twin cubs would fall.
 
 ===Chinese===
+拳拳一脸纳闷。熊妈妈看起来确实变小了。就在他看着的时候，她走得更远了，而且走得越远，看起来就越小。拳拳一只手抓着树枝，另一只手挠着脑袋。他生平第一次在真正动脑子思考。“我不信她真会变小，”他说，“肯定是因为离得太远，所以看起来才小。底下那根老倒木，看起来也比我们停下来闻它时小多了。从树下经过时看起来挺高的一些小树，现在看起来一点都不高。我猜，东西看起来多大，全看它离你有多近！”
+在这件事上拳拳当然完全正确。他已经开始学着思考了，开始运用大自然老妈妈装在他滑稽小脑袋里的敏捷智慧了。
+
 > 听我的劝告，千万要当心，
  别去吓唬一只熊。
 > — 熊妈妈
@@ -1298,6 +1347,9 @@ But Chatterer the Red Squirrel was having anything but a wonderful time. He was 
 Now if Chatterer had not been so badly frightened, he would have seen that Boxer, the twin who was in the lead, was already hesitating. He had reached a point where the branches were so small that they bent dangerously when he stepped on them. He had climbed as high as it was safe for him to climb, and he knew it. But having set out to catch that red mischief-maker, he couldn't bear to give up. That is, he felt that if he did give up, Chatterer would boast that he had been too smart for the cubs and would make fun of them. And this is just what Chatterer would have done.
 
 ===Chinese===
+恰特勒可惹上了大麻烦，他自己心里一清二楚。那对双胞胎熊哪怕还只是幼崽，随便哪一只都比他大得多。他们不仅看穿了他，还发现自己根本不用怕他，反而是他怕他们。很显然，他们正玩得起劲呢，十分享受这场追逐。恰特勒低头看着他们锋利的小爪子，比以往任何时候都后悔当初没离他们远点。
+这时恰特勒已经紧紧抓在树梢最高处了。要是双胞胎爬上来，他就不得不来一次险象环生的跳地逃生。他低头往下看，直打哆嗦。那两只出人意料的双胞胎，或者他们中的一个，真能爬得那么高、够得着他吗？
+
 > 服从是好事，尤其是爬在树上的时候。
 > — 熊妈妈
 
@@ -1344,6 +1396,9 @@ Peter had stayed away from the Green Forest as long as he could. Then curiosity 
 Now Peter didn't know that Mother Bear was in the habit of taking the twins with her wherever she went. It just happened that this very day she had chosen to go over near the pond of Paddy the Beaver. The twins had played until they were tired and then had curled up for a nap in a sunny spot while their mother went fishing in the Laughing Brook.
 
 ===Chinese===
+当拳拳和汪汪一板一眼地跟着她、做着一模一样的动作时，他们听到了红松鼠恰特勒嘲弄的声音。
+“抓不着我！抓不着我！”恰特勒讥笑道。
+
 > 这不好；这不好；
  这根本就不是该做的事；
  但那些不找机会报仇的人，
@@ -1372,6 +1427,10 @@ But for Peter Rabbit it was no fun at all. The truth is, Peter was in a tight pl
 In the first place they were very lively, were those two little Bears. Peter hadn't known that little Bears could be so lively. You see, these were the first he ever had seen. The way in which they ran around that pile of brush showed how very quick on their feet they were. Peter didn't doubt that he could outrun them if he could get a fair start; the trouble was to get that fair start. He wished now that he had trusted to his long legs instead of seeking shelter under that pile of brush. He had done that in the suddenness of his fright, when the little Bears had surprised him. It is Peter's nature to seek a hiding-place in time of danger, and usually this is the wisest thing for him to do.
 
 ===Chinese===
+当彼得来到能望见帕迪池塘的地方时，熊妈妈正藏在欢笑溪上游不远处的灌木丛后，静静坐着等鱼游进能抓得到的距离。这一次彼得大意了。他一心只顾着找海狸帕迪，没有像平时那样眼观六路、耳听八方。于是他在离双胞胎仅仅几英尺远的地方走过，竟然没有看见他们。走过去不远，他坐直身子，朝池塘张望寻找帕迪。
+俗话说得好，双胞胎睡觉时也留着半只耳朵呢，他们听到了彼得走过的声音。眼睛猛地睁开，他们一眼就看出：正是那个曾经把他们吓得魂飞魄散的可怕家伙！但不知怎么搞的，他看起来不再可怕了。他比他们记忆中要小得多。事实上，他们现在比他要大出许多了。要知道，小熊崽长得飞快呢。拳拳眼里闪烁着机灵的光芒。也许这家伙就像红松鼠恰特勒一样，只对怕他的人显得大胆凶悍。他用胳膊肘捅了捅汪汪。他们悄手轻脚地站起身，偷偷摸摸溜到了彼得身后。
+拳拳脚下一根枯枝被踩断了。彼得猛一转身，眼珠子都快瞪出来了。伴随着一声受惊的尖叫，彼得一蹦一跳、慌不择路地朝最近的一堆灌木丛冲去，双胞胎紧随其后狂追不舍。他们现在知道了，这个可怕的家伙怕他们，远胜过当初他们怕他，他们非要把幼时受的惊吓给讨回来不可。这可真是太好玩了！
+
 > 身处困境的时候，
 可不是害怕的时候。
 > — 熊妈妈
@@ -1455,6 +1514,13 @@ It was dreadful for those twins to fight. But they had lost their tempers and th
 "No such thing!" growled Boxer, his eyes beginning to grow red again. "You ran into me."
 
 ===Chinese===
+“我要是待在这里，他们迟早会抓到我，”彼得想，“我要是冒险跑出去，他们也可能会抓到我，反正情况不会更糟了。但他们也可能抓不着我；所以我想我还是冒这个险吧。”
+他听着那两只兴奋的小熊使出浑身解数，拼命扒拉着那堆灌木枝条。一个在这一头，一个在那一头。他或许能从他们中间的任意一端钻出去，趁他们发现之前抢先跑开。他开始朝一端悄悄爬过去，却踩断了一根枯枝，耳朵灵敏的拳拳立刻听到了。“他要出来啦！”拳拳尖叫着，一溜烟跑到那一头去堵截。
+彼得只得悄悄缩回中间。过了一两分钟，拳拳又跑了回来，继续扒拉灌木。这时，母亲常说的一句老话忽然从彼得脑海里冒了出来。小时候他第一次踏入大千世界闯荡时，母亲曾无数次这样叮嘱他。
+“必须冒险的时候，永远去做别人料想不到的事，”这是母亲一遍又一遍说过的话。
+“那两只小熊肯定料想我会从两头跑出去，”彼得暗想，“他们绝想不到我会直接从他们正忙着刨树枝的地方冲出去。出其不意攻其不备，这才是我的最佳生路。没错，先生，这是我唯一的也是最好的机会！”
+彼得悄悄挪到拳拳正忙着撕扯灌木的那一侧边缘。他的心又一次提到了嗓子眼，怦怦、怦怦狂跳个不停。抓住时机，他看准机会，直接从拳拳的眼皮子底下飞窜了出去！
+
 > 你怪我来我怪你，
  显然我们注定合不来。
 > — 熊妈妈
@@ -1500,6 +1566,10 @@ Mother Bear's eyes twinkled, but she took care that the twins should not see tha
 And this is exactly what Peter Rabbit had resolved himself.
 
 ===Chinese===
+汪汪的小眼睛里直冒火花，要不是拳拳脑海中忽然想起了彼得兔，恐怕又会有一场可怕的大混战上演呢。
+“我们刚才追的那个长腿家伙跑哪儿去了？”他大声嚷道，“全怪他惹的祸！”
+两只小熊一骨碌爬起身来，朝这边看看，又朝那边看看，但彼得兔早就无影无踪了。
+
 > 发了脾气的人，
 到头来总是得不偿失。
 > — 熊妈妈
@@ -1563,6 +1633,11 @@ Now when Buster saw those cubs, not knowing they were his own, he was filled wit
 Straight to the nearest tall tree ran the twins, and up they scrambled. Chatterer the Red Squirrel could hardly have gone up that tree faster. Somehow they felt safer in a tree than on the ground. Buster Bear walked over to the foot of the tree and looked up at the cubs. They were fat, were those cubs. They were very fat.
 
 ===Chinese===
+他闻了闻那个脚印，肩头上的毛微微耸了起来。他的鼻子告诉他，留下这只脚印的熊，是他生平从未见过的。这一点毫无疑问。鼻子还告诉他，那个陌生家伙刚刚打这里走过不久。一股想见见那位陌生客的强烈渴望占据了拳拳的心头。好奇心压倒了恐惧。
+“我们跟着脚印追上去吧，没准能瞧见他呢，”拳拳对汪汪耳语道，鼻子贴着地面就往前走。
+双胞胎向来是一个做什么，另一个就跟着做什么。于是汪汪紧跟在哥哥身后。他们一个挨着一个，鼻子贴着地，在绿森林里蹑手蹑脚地穿行。隔一会儿，拳拳就坐直身子看一看、听一听；他这么做，汪汪也跟着做一模一样的事。这真是太刺激了。刺激得他们完全把熊妈妈抛到了脑后，把不得走远的吩咐忘得一干二净。不知不觉中，他们离熊妈妈干活的地方越来越远。
+紧接着，毫无防备地，一只大黑熊猛地从一棵倒木后迈步跨了出来！他身披一件黑皮袄，体型跟熊妈妈几乎不相上下。你当然知道那是谁——正是巴斯特熊！双胞胎在他们短短的一生中，头一次见到了自己的父亲，父亲也看到了他们。然而双胞胎不知道他是自己的父亲，他也不知道眼前是自己的骨肉。在绿森林里，就是会有这样的事情发生。
+
 > 趁你还能跑的时候赶紧跑，别犹豫，
  免得到时候后悔来不及。
 > — 熊妈妈
@@ -1593,6 +1668,10 @@ That is just what Boxer and Woof-Woof did now. The instant they saw Buster, they
 "Oh-o-o, mamma-a-a!" screamed Woof-Woof.
 
 ===Chinese===
+“他们看起来挺可口的样子，”巴斯特站在树脚下，抬头望着拳拳和汪汪，暗自琢磨道，“够我美美吃上一顿大餐了。再说他们本来就不该出现在这里。我啃树根之类的东西啃了这么久，来点新鲜肉开开胃肯定不错。要是我爬上去抓他们，一举两得：既能帮绿森林除掉两个注定会惹是生非的讨厌鬼，又能饱餐一顿。我看我就这么办吧。”
+这当然非常可怕，可你知道巴斯特并不晓得那两只小熊是自己的骨肉。他们在巴斯特眼里跟彼得兔没什么两样，而你知道要是有机会，巴斯特肯定会毫不犹豫地把彼得一口吞掉。
+巴斯特四下看了看，确定没有人在看着他。然后他将巨大的利爪抠进树干，开始向上攀爬。
+
 > 在整个世界上，无论天上地下，
  最伟大的东西就是母爱。
 > — 熊妈妈
@@ -1859,6 +1938,10 @@ So Boxer crept under the great windfall to the bedroom where he had spent his ba
 So while Woof-Woof went over to the Laughing Brook with Mother Bear, under the great windfall Boxer lay and sulked and tried to think of some way of getting even with Mother Bear and Woof-Woof.
 
 ===Chinese===
+> 闷闷不乐噘着嘴，
+> 世间少你也不亏。
+> —— 熊妈妈
+
 闹别扭的人待在身边可一点都不让人愉快。应该把他们单独关起来，等他们不闹别扭了再放出来。一般来说小熊们是不闹别扭的。闹别扭不是他们的天性。但拳拳这个不听话的小家伙却闹起了别扭。他真的很闹别扭。而且这一切都是因为他的双胞胎妹妹汪汪。
 因为不听话而挨打已经够难受的了，但拳拳觉得这是他活该。他嚎啕大哭了一通，然后一路呜呜咽咽地回到了汪汪乖乖等着的那棵树下。在他走到那棵树下、抬头看到汪汪之前，拳拳并没有闹别扭。
 但当他看到汪汪朝他咧嘴笑，好像很高兴他倒霉似的，拳拳突然觉得自己是大千世界里最委屈的小熊。
@@ -1888,6 +1971,10 @@ So Boxer ran and ran until his little legs grew tired. The only use he made of h
 So Boxer rested and planned the wonderful things he would do out in the Great World and was glad he had run away from home. You see, it was very pleasant there in the Green Forest, and after all, if he really wanted to, he could go back home. That is what he thought, anyway. You see, he hadn't the least idea yet that he was lost.
 
 ===Chinese===
+> 稍停片刻算算账，
+> 虚掷光阴空惆怅。
+> —— 熊妈妈
+
 拳拳蜷缩在大枯树下面卧室的一个角落里，就在那里闹啊闹啊闹啊闹别扭，试图让自己相信自己是大千世界里最委屈的小熊。但一个人闹别扭一点意思也没有。没有人看着，没人能真正享受闹别扭的乐趣。所以尽管他自己不愿意承认，拳拳很快就想知道汪汪和熊妈妈在做什么。他看到她们朝笑溪去了，虽然他不愿意承认——甚至对自己也不承认——但他希望自己跟她们在一起。他太喜欢在笑溪边玩耍了。
 他再也受不了了，偷偷溜到洞口，把脑袋从大枯树下面探了出来。他在那里站了很久，看啊听啊闻啊。一切看起来跟平时一样。没有奇怪的声音。欢快的小风没有带来新的气味。没有熊妈妈和汪汪的踪影。他不知道她们是沿着笑溪往上走了还是往下走了。他试图假装自己不在乎她们在哪里、在做什么。
 但他做不到。你知道，人们很少能真正骗到自己。你可以骗到别人，但骗不到自己。所以过了一会儿，拳拳放弃了假装自己不在乎。然后闹别扭变成了脾气，坏脾气。
@@ -1920,6 +2007,10 @@ Chatterer chuckled. "I guess that now he is quite properly lost," said he to him
 He dropped another cone on Boxer and then started off through the tree tops, leaving Boxer all alone.
 
 ===Chinese===
+> 敢于冒险勇向前，
+> 方能顺势掌机缘。
+> —— 熊妈妈
+
 这就是恰特勒的本性。在整个绿森林里，没有谁比红松鼠恰特勒更喜欢恶作剧的了。也没有谁比他更会抓住机会了。
 恰特勒碰巧发现了离家出走的小熊拳拳，他正在休息，计划着在大千世界里要做些什么。恰特勒一直安静地等着，直到确定拳拳是独自一人——熊妈妈和汪汪都不在附近。确定之后，恰特勒猜到了发生了什么事。他猜拳拳是离家出走了。你知道，恰特勒是绿森林里最机灵、最精明的小家伙之一。
 恰特勒咧嘴笑了。"我敢说，"他自言自语，"那只傻乎乎的小熊是离家出走迷路了。如果他还没迷路，他也应该迷路，我会确保他迷路的。是的，先生，我会确保他彻底迷路。这是我报仇的好机会，报他和他妹妹把我追上树的仇。"
@@ -1954,6 +2045,10 @@ He approached it carefully, stopping often to look and listen, for you know he d
 He heard no one and saw no one. Presently he was close to that windfall. A great longing for home swept over him. He no longer wanted to get even with anybody. All he wanted was home and mother. Perhaps Mother Bear and Woof-Woof hadn't returned yet and he could slip in. Then they would never know. Boxer slipped around the old windfall to where he thought the entrance was. There wasn't any! It wasn't the right windfall! Boxer knew right then and there that he was lost, that he was a lone, lost little Bear out in the Great World. He sat down and began to cry.
 
 ===Chinese===
+> 纵然无人亲眼见，
+> 真正勇者亦凛然。
+> —— 熊妈妈
+
 不知为什么，当有人在旁边看你有多勇敢的时候，勇敢起来就容易多了。容易得多了。当你完全独自一人的时候勇敢，那完全是另一回事。那是真正的勇敢。而独自一人、迷了路还勇敢，那是最大的勇敢。
 当红松鼠恰特勒穿过树顶跑走、留下拳拳独自恢复呼吸和休息他那疲惫的小短腿时，他留下了一只完全迷路的小熊，自大千世界开始以来小熊迷路也没迷到这么彻底的。拳拳那时还不知道。他忙着喘气，想着休息有多好，根本顾不上想别的事情。
 但过了一会儿拳拳缓过来了，他对红松鼠恰特勒的怒火又开始上升。拳拳到处找恰特勒。一点影子都没有。拳拳膨胀出一种很重要的感觉。
@@ -1985,6 +2080,12 @@ More heedlessly than ever he raced through the Green Forest and just by chance e
 So all night long the little Bear heard strange sounds and imagined dreadful things and couldn't get a wink of sleep. And all the time not once was any real danger near him. There wasn't a single thing to be afraid of.
 
 ===Chinese===
+> 人人无论大与小，
+> 常像惊魂小熊仔——
+> 分明危险全没有，
+> 偏偏吓得心发毛。
+> —— 熊妈妈
+
 越来越多的黑影在绿森林里蔓延，包围着拳拳——那只孤独的、迷路的小熊——他坐在那里哭着，拼命希望自己从来没有想过离家出走。他想回到那棵大枯树下的家。他想要熊妈妈。"呜呜呜，"小熊抽泣着，"挨顿打我也愿意。只要我妈妈在身边，我一点也不在乎。呜呜呜。"
 绿森林里天黑以后有很多灵敏的耳朵，没有人能在那儿哭而不被听到。猫头鹰胡迪是第一个听到那些抽泣声的，他无声地飞过去看看怎么回事。他栖息在拳拳身后的一棵高树桩上，很快就明白了这只小熊迷路了。
 "他需要上一课，"胡迪想。"他需要上一课。他一定是离家出走了。这附近没什么好怕的，但让他以为这里有危险也是件好事。来吧，给他一个他忘不了的惊吓。"
@@ -2014,6 +2115,10 @@ By and by he dug out certain tender little roots and ate them. How he knew where
 Once he chased a Wood Mouse into a hole and wasted a lot of time trying to dig him out. But it was exciting and a lot of fun, so he didn't mind much, even when he had to give up. He caught three or four beetles and near the Laughing Brook surprised a young frog. Altogether he made a very good breakfast. And because he got it all himself, with no help from anyone, he enjoyed it more than any breakfast he could remember. And suddenly he felt quite a person of the Great World and quite equal to taking care of himself. He forgot that he had cried for his mother only the night before. The Great World wasn't such a bad place after all.
 
 ===Chinese===
+> 自食其力学在先，
+> 真正独立始握全。
+> —— 熊妈妈
+
 对迷路的小熊拳拳来说，那个可怕的夜晚好像会永远持续下去；好像永远不会结束。当然，它并没有比那个季节通常的夜晚长多少，而且也根本不怎么可怕。事实上，那是一个特别好的夜晚，除了拳拳和焦急的熊妈妈，大家都这么想。
 也许你能猜到，当第二天早上拳拳看到快乐的小阳光把黑影赶出绿森林的时候，他有多高兴。他仍然感到害怕和非常非常孤独，但白天看起来一切都不一样了，他觉得自己勇敢多了、大胆多了。
 首先，他打了个盹。他一整夜都没睡着，因为他吓得睡不着。那个盹对他大有好处。醒来的时候，他觉得自己像换了一只熊。他想到的第一件事就是早饭。
@@ -2025,7 +2130,7 @@ Once he chased a Wood Mouse into a hole and wasted a lot of time trying to dig h
 过了一会儿，他挖出一些嫩嫩的小根吃掉了。他怎么知道在哪里挖，他自己也说不清楚。他就是知道，仅此而已。他内心有什么东西促使他停下来挖，他就这么做了。
 有一次他把一只林鼠白足追进了一个洞里，花了好多时间想把它挖出来。但这很刺激很好玩，所以即使不得不放弃，他也不太在意。他抓了三四只甲虫，在笑溪附近还吓到了一只小青蛙。总的来说他吃了一顿很好的早饭。而且因为所有这些都是他自己弄来的，没有别人的帮助，他比记得的任何一顿早饭都吃得开心。突然间，他觉得自己是大千世界的一个大人物了，完全能照顾自己了。他忘了自己昨晚还在哭着找妈妈。大千世界到底不是一个那么糟糕的地方。
 
-## XXIX Boxer Has a Painful Lesson / 拳拳痛苦的教训 / 拳拳得到了惨痛的教训
+## XXIX Boxer Has a Painful Lesson / 拳拳得到了惨痛的教训
 
 ===Original===
 ## XXIX Boxer Has a Painful Lesson / 拳拳痛苦的教训
@@ -2049,6 +2154,12 @@ To be called "little cub" just when he was feeling so important and grown-up was
 Prickly Porky didn't step aside. He kept right on coming. He didn't hurry, and he didn't appear to be in the least afraid. It was plain that he expected Boxer to get out of his way. Boxer drew back his lips and showed all his little white teeth. Then he slowly reached out one paw and prepared to strike Prickly Porky on the side of the head if he came any nearer.
 
 ===Chinese===
+> 莫凭相貌判生人，
+> 外表往往能欺心。
+> 看似笨拙或聪明，
+> 绝妙之处令人惊。
+> —— 熊妈妈
+
 成功地自己做了早饭——而且是一顿相当不错的早饭——拳拳觉得自己很了不起。他觉得自己很了不得。也就是说，他觉得自己很大、很自以为是、很独立。对于一个大半夜因为孤独和害怕而哭泣的小熊仔来说，拳拳展现了惊人的变化。白天的光线、饱饱的肚子、能照顾自己的感觉，让他变成了一只全新的小熊。至少他自己是这么感觉、这么想的。
 "我谁也不怕、什么都不怕，"这只傻乎乎的小熊在绿森林里漫步的时候自吹自擂。"我很高兴我离开了家。我很高兴我在大千世界里。我想我什么都知道了。反正，我想该知道的我都知道了。"
 他说这话的时候，拳拳站起来，挺起胸膛，那样子太滑稽了，以至于刚好经过的豪猪普利奇不得不在心里偷笑，这可是普利奇很少做的事。
@@ -2085,19 +2196,25 @@ Meanwhile Prickly Porky had paid no attention whatever to the little Bear. He ha
 "That scamp got off easy," he muttered. "It would have been a good thing for him if he had had a few more of those little spears to pull out. I guess that in the future he will take care to leave me alone. There is nothing like teaching the young to respect their elders."
 
 ===Chinese===
-山雀萨米刚好在绿森林里经过，及时看到了拳拳和豪猪普利奇的会面。他立刻看出拳拳是第一次见到普利奇，根本不知道路上这个家伙是谁。
+> 亲身经历不说道，
+> 做起老师无人及。
+> —— 熊妈妈
+
+松鸦萨米刚好在绿森林里经过，及时看到了拳拳和豪猪普利奇的会面。他立刻看出拳拳是第一次见到普利奇，根本不知道路上这个家伙是谁。
 "如果那只小熊还有一点脑子的话，他就会客客气气地给普利奇让路，"萨米嘀咕道。"但我怕他没什么脑子。我看他一副自以为了不起的样子，好像他什么都知道似的。如果他待在那里，他马上就会发现自己其实什么都不知道。嘿！别那样！别打他！"
-最后一句是对拳拳喊的，拳拳已经伸出爪子，准备等普利奇足够近就打过去。但警告来得太迟了。普利奇一直沿着那条小路走着，就在萨米杰伊喊叫的时候，拳拳打过去了。
-"哇！"拳拳叫了一声，跳来跳去，举起一只爪子——就是打普利奇的那只爪子——脸上的表情惊讶极了，萨米杰伊笑得差点从栖息处掉下来。
+最后一句是对拳拳喊的，拳拳已经伸出爪子，准备等普利奇足够近就打过去。但警告来得太迟了。普利奇一直沿着那条小路走着，就在松鸦萨米喊叫的时候，拳拳打过去了。
+"哇！"拳拳叫了一声，跳来跳去，举起一只爪子——就是打普利奇的那只爪子——脸上的表情惊讶极了，松鸦萨米笑得差点从栖息处掉下来。
 "哇，哇！"拳拳继续叫着，还在跳来跳去，摇着那只爪子。
-"拔出来。马上拔出来，趁它还没扎得更深，"萨米杰伊好不容易止住笑，命令道。
+"拔出来。马上拔出来，趁它还没扎得更深，"松鸦萨米好不容易止住笑，命令道。
 "拔什么出来？"拳拳有点闷闷不乐地问，因为他不喜欢被人笑话。没有人遇到麻烦的时候喜欢被笑话。
 "扎在你爪子里的那根小刺，"萨米回答。"要是不拔，你的爪子会非常疼的。"
-拳拳看了看自己的爪子。果然，有一根普利奇的小刺扎在里面。他用牙齿咬住那根小刺，使劲一拽。小刺拔了出来。拳拳呜呜叫着舔了舔小刺扎过的地方。舔了一两分钟之后，那只爪子感觉好多了。
+拳拳看了看自己的爪子。果然，上面扎着一根普利奇的小刺。他用牙齿咬住小刺，试着往外拔。接着他松开嘴，甩着爪子。“哎哟！疼死了！”他眼泪汪汪地叫喊道。
+“当然疼啦，”松鸦萨米答道，“你要是不按我说的做、不马上拔出来，待会儿还会更疼得多呢！那只爪子会肿得碰都碰不得。小家伙，算你运气好，性子太急出手太快了。要是你多等一秒钟，整只爪子都得扎满这种小刺。你到底是怎么想的？难道你不知道谁都不敢去惹豪猪普利奇吗？招惹他从来讨不到好处。就连巴斯特熊那么大的块头，见了豪猪普利奇也得以礼相待呢。”
+拳拳坐了下来，仔细端详着自己的爪子。那根小小的长刺，也就是硬刺，正扎在最嫩的一块肉上。必须把它拔出来才行，松鸦萨米说得一点都没错。拳拳用牙齿紧紧咬住小刺，猛地用力往后一甩头。小刺一下子被拔了出来。拳拳呜呜咽咽地叫着，舔了舔被刺扎到的地方。舔了一两分钟后，爪子感觉好多了。
 与此同时，普利奇对小熊毫不在意。他慢慢地摇摇摆摆地沿着小路继续走着，好像周围没人一样。他严格地管着自己的事。但他心里在偷笑。
 "那小子还算走运，"他嘀咕道。"要是他再多拔几根小刺出来，对他倒是个好事。我猜以后他会小心别来惹我了。没有什么比教年轻人尊敬长辈更好的了。"
 
-## XXXI Boxer Meets a Polite Little Fellow / 拳拳遇到了一个礼貌的小家伙 / 拳拳遇到一个彬彬有礼的小家伙
+## XXXI Boxer Meets a Polite Little Fellow / 拳拳遇到一个彬彬有礼的小家伙
 
 ===Original===
 ## XXXI Boxer Meets a Polite Little Fellow / 拳拳遇到了一个礼貌的小家伙
@@ -2122,6 +2239,10 @@ Now Boxer was so much bigger than this little stranger in black-and-white, and t
 "Certainly not. I haven't said it was," replied the stranger, still speaking politely. "I am not in the least interested. Besides, I know anyway. I know that she doesn't know. I know that you have run away, and I know that you have some bitter lessons to learn before you will be fitted to live by yourself in the Great World. If you will just step aside, I will be much obliged. There is a big piece of bark just back of you under which there may be some fat beetles."
 
 ===Chinese===
+> 纵使旁人守礼节，
+> 莫道他人不会战。
+> —— 熊妈妈
+
 小家伙们的记忆很短，尤其是关于他们的麻烦的。离家出走的小熊拳拳刚离开豪猪普利奇的视线，他的眼睛、耳朵和鼻子就忙着去发现新东西了，几乎忘了刚才的麻烦。当然，他从爪子里拔出普利奇小刺的那只爪子还疼着，但不至于让他太在意。而且还有那么多别的事情要想，他不能把时间浪费在已经过去的麻烦上。
 于是小熊这边走走那边走走，新东西吸引了他的目光或者奇怪的声音让他想去探究。他玩得非常开心，因为他觉得自己确实在大千世界里了，这是一个奇妙而美丽的地方。如果他想到他的双胞胎妹妹汪汪，也只是可怜她跟在熊妈妈脚后跟后面、只做熊妈妈允许她做的事情。
 过了一会儿，一个白色的东西在老树桩附近移动，引起了他的注意。他立刻跑过去满足自己的好奇心。走近一看，他发现了一个穿着黑白相间外套的小家伙。他有一条毛茸茸的大尾巴，正忙着管自己的事。他几乎没看拳拳一眼。
@@ -2137,7 +2258,7 @@ Now Boxer was so much bigger than this little stranger in black-and-white, and t
 "我妈妈知不知道不关你的事，"拳拳比之前更粗鲁地反驳，因为他越来越生气。
 "当然不关我的事。我也没说关我的事，"陌生人仍然客气地回答。"我一点也不感兴趣。再说，反正我也知道。我知道她不知道。我知道你是离家出走的，我还知道在你能独自在大千世界里生活之前，你还有一些痛苦的教训要学。如果你能让一让，我会非常感激。你身后有一大块树皮，下面可能有一些肥肥的甲虫。"
 
-## XXXII Boxer Wishes He Hadn't / 拳拳后悔莫及 / 拳拳后悔了
+## XXXII Boxer Wishes He Hadn't / 拳拳后悔莫及
 
 ===Original===
 ## XXXII Boxer Wishes He Hadn't / 拳拳后悔莫及
@@ -2158,18 +2279,22 @@ Boxer knew then that Jimmy Skunk had been the cause of this new and dreadful tro
 "I wish I hadn't! I wish I hadn't! I wish I hadn't!" sobbed Boxer over and over, as he tried to get away from that dreadful smell and couldn't.
 
 ===Chinese===
-山雀萨米跟着拳拳，因为他确信那只小熊在哪里就一定会出事。所以萨米看到了他和臭鼬吉米的相遇。他看到了吉米有多彬彬有礼，而小熊有多么粗鲁。
+> 命运之法你且看：
+> 临头后悔总是晚。
+> —— 熊妈妈
+
+松鸦萨米跟着拳拳，因为他确信那只小熊在哪里就一定会出事。所以萨米看到了他和臭鼬吉米的相遇。他看到了吉米有多彬彬有礼，而小熊有多么粗鲁。
 萨米完全理解。他知道拳拳很可能对臭鼬吉米一无所知，从来没有听说过吉米随身携带的那个小气味袋——吉米的所有邻居都怕那个。他知道小熊很粗鲁，只是因为他比吉米大得多，觉得没有理由客气，尤其是吉米请他做一件他不想做的事。
-当吉米开始失去耐心的时候，萨米杰伊觉得该给拳拳一点忠告了。"别傻了！照吉米说的做，不然你会成为有史以来最后悔的小熊！"萨米看到吉米那巨大的尾羽开始竖起来——那是吉米危险的信号——就尖叫道。
+当吉米开始失去耐心的时候，松鸦萨米觉得该给拳拳一点忠告了。"别傻了！照吉米说的做，不然你会成为有史以来最后悔的小熊！"萨米看到吉米那巨大的尾羽开始竖起来——那是吉米危险的信号——就尖叫道。
 但拳拳这个傻乎乎的小熊，看不出一个比他小那么多的家伙有什么可怕的。所以他没有理会吉米让他让路的要求。相反，他非常无礼地笑了起来。
-"快跑！快跑！"萨米杰伊尖叫道。
+"快跑！快跑！"松鸦萨米尖叫道。
 拳拳没有动。吉米生气地用前脚跺地。然后事情发生了。是的，先生，事情发生了。太突然了、太出乎意料了，拳拳不知道到底发生了什么，但他非常清楚它确实发生了。有什么东西进了他的眼睛，让他眼睛刺痛，好几分钟什么也看不见。有什么东西堵住了他的喉咙；他觉得自己几乎无法呼吸。还有他闻过的最可怕的气味。
 拳拳在地上翻来滚去。他试图摆脱那个可怕的气味。但他摆脱不了。他摆脱不了，原因很简单——他带着那个气味一起走了。你看，臭鼬吉米惩罚了那只傻乎乎的小熊，朝他扔了一点他总是随身携带的强力气味——他在危险或被激怒时使用。
-"我跟你说什么来着？我跟你说什么来着？"萨米杰伊尖叫道。"我猜你不会再很快去招惹臭鼬吉米了。你活该。你完全活该。但这对住在附近的人来说太难了。是的，先生，绿森林里所有的芬芳都被吉米的气味毁了，对他们来说太难了。我自己也受不了了，所以我先走了。你活该，你这傻乎乎的小熊。你活该。"说完萨米杰伊就飞走了。
+"我跟你说什么来着？我跟你说什么来着？"松鸦萨米尖叫道。"我猜你不会再很快去招惹臭鼬吉米了。你活该。你完全活该。但这对住在附近的人来说太难了。是的，先生，绿森林里所有的芬芳都被吉米的气味毁了，对他们来说太难了。我自己也受不了了，所以我先走了。你活该，你这傻乎乎的小熊。你活该。"说完松鸦萨米就飞走了。
 拳拳这才知道臭鼬吉米是他现在这个新的可怕麻烦的罪魁祸首，敬畏和恐惧混杂在一起占据了他的心头。噢，拳拳多希望自己没有粗鲁啊！多希望自己没有拒绝照吉米礼貌的要求去做啊！
 "我真希望没有！我真希望没有！我真希望没有！"拳拳一遍又一遍地哭着，试图摆脱那可怕的气味却做不到。
 
-## XXXIII Woof-Woof Turns Up Her Nose / 汪汪嗤之以鼻 / 汪汪捏着鼻子
+## XXXIII Woof-Woof Turns Up Her Nose / 汪汪嗤之以鼻
 
 ===Original===
 ## XXXIII Woof-Woof Turns Up Her Nose / 汪汪嗤之以鼻
@@ -2190,6 +2315,10 @@ So it was that just as the Black Shadows were beginning to creep through the Gre
 Boxer looked at Woof-Woof for some sign of sympathy. But Woof-Woof held her head very high and turned up her nose at him. "Phew!" said she.
 
 ===Chinese===
+> 劝君莫学那等人，
+> 嗤之以鼻傲慢生。
+> —— 熊妈妈
+
 在拳拳越来越迷路、越来越倒霉的这段时间里，熊妈妈一直在担心他，她和他的双胞胎妹妹汪汪找遍了所有地方，就是没找对地方。
 你记得吧，当拳拳决定离家出走的时候，熊妈妈和汪汪不在家。等她们回来，拳拳已经走了很久，熊妈妈的鼻子找不到足够浓的气味来追踪。所以她开始找他的时候，方向走错了。当然，她必须带着汪汪一起走，而且因为汪汪走了一会儿就累了，熊妈妈没法像独自一人时那样仔细地搜寻。
 起初汪汪对失去双胞胎弟弟确实非常难过。她心里暗暗佩服他的勇气——竟然敢离家出走，但当她想到他在大千世界里可能遇到的所有可怕的事情时，她变得非常伤心。这是刚开始的时候。在熊妈妈后面走啊走啊走啊走，走得脚都疼了之后，她变得烦躁起来。她怪拳拳，而且确实该怪他，因为她的脚疼了。脚越疼她就越烦躁，直到她试图让自己相信她不在乎那个鲁莽的哥哥会发生什么事。
@@ -2201,7 +2330,7 @@ Boxer looked at Woof-Woof for some sign of sympathy. But Woof-Woof held her head
 "别靠近我们，"她说。"你可以跟着我们，但你一步也不许比现在更靠近。要是我们再也不理你，你也是活该，但说到底，你独自到处乱走还是太小了。而且谁知道你还会给我们惹出什么丢脸的事。快跟上吧。"
 拳拳看着汪汪，想从她那里得到一点同情的表示。但汪汪高高地昂着头，对他捏着鼻子。"呸！"她说。
 
-## XXXIV All Is Well at Last / 最终一切安好 / 最后一切好了
+## XXXIV All Is Well at Last / 最终一切安好
 
 ===Original===
 ## XXXIV All Is Well at Last / 最终一切安好
@@ -2222,6 +2351,10 @@ So Buster Bear's twins grew and grew until everyone said that they were the fine
 Billy Mink says that these cubs have received attention enough and that there are other people who should be considered. Perhaps Billy is right, though I suspect he is thinking of himself. Anyway this ends the Green Forest series and the next book will be the first in the Smiling Pool series. The title will be Billy Mink.
 
 ===Chinese===
+> 受到教训若记牢，
+> 挨了责罚亦心甘。
+> —— 熊妈妈
+
 熊太太是那种相信惩罚的妈妈之一。她相信，一只犯了错从不受罚的小熊仔几乎肯定长大后在大千世界里没什么用——如果他能活到长大的话。她甚至怀疑他能不能活到长大。所以她的孩子们一不听话或做错事就会受到及时的惩罚，而且惩罚的方式会让他们记住。
 当经历了那么多可怕事情的迷路小熊拳拳看到熊妈妈和妹妹汪汪的时候，他以为自己所有的麻烦都结束了。也许你能猜到，当他被熊妈妈一声低吼阻止的时候，他是什么感受。他想——噢，他多想——冲到她身边，依偎着她，感受她大大的爪子轻轻地拍着他。
 但什么都没有。很明显，熊妈妈告诉他不要再靠近的时候，她的话完全是认真的。当他看向双胞胎妹妹汪汪的时候，她捏着鼻子，很明显她不想跟他有什么关系。
@@ -2422,7 +2555,7 @@ Far in the distance sounded a sudden bang. Peter jumped and shivered. He knew th
 ===Chinese===
 彼得兔坐在亲爱的老荆棘丛边，望着绿森林，心里想的就是这些。绿森林不再只是绿色的了；它有着五彩缤纷的颜色，因为老自然妈妈派了杰克·霜冻去给枫树、山毛榉、桦树、杨树和栗树的叶子上色，而他干得非常好。在松树、云杉和铁杉深绿的衬托下，那些红色、黄色和棕色显得格外美丽。紫山比一年中任何时候都更加柔和地泛着紫色。一切都非常非常美丽。
 
-可彼得一点也没有欣赏这美景，因为恐惧之灵甚至光顾了亲爱的老荆棘丛，彼得害怕了。他害怕的不是狐狸雷迪，不是红尾鹰，不是猫头鹰呼帝，也不是老 coyote。他们总想抓住他，但他们并没有让他感到恐惧，因为他觉得自己足够聪明，可以躲开他们的魔爪。确实，他们有时会突然吓他一跳，但那些惊吓只持续到他钻进最近的荆棘丛或空心树干里——那些他们够不到的地方。但现在让他心寒的恐惧一刻也不曾离开过他。
+可彼得一点也没有欣赏这美景，因为恐惧之灵甚至光顾了亲爱的老荆棘丛，彼得害怕了。他害怕的不是狐狸雷迪，不是红尾鹰，不是猫头鹰胡蒂，也不是老郊狼。他们总想抓住他，但他们并没有让他感到恐惧，因为他觉得自己足够聪明，可以躲开他们的魔爪。确实，他们有时会突然吓他一跳，但那些惊吓只持续到他钻进最近的荆棘丛或空心树干里——那些他们够不到的地方。但现在让他心寒的恐惧一刻也不曾离开过他。
 
 彼得知道，同样的恐惧也在攫取着躲在褐色残茬里的鲍勃·白翅的心，在攫取着蹲在绿森林最密荆棘丛里的松鸡太太的心，在攫取着空心树里的比利·负鼠大叔和博比·浣熊的心，在攫取着微笑池塘里的杰瑞·麝鼠的心，在攫取着躲在树梢上的松鼠快乐杰克的心，在攫取着躺在最密灌木丛里的白尾鹿轻足的心。它甚至在攫取着狐狸奶奶和狐狸雷迪，以及大大的巴斯特熊的心。在彼得看来，无论谁，无论多大多小，都逃不过这个可怕的恐惧之灵的搜寻。
 
@@ -2465,7 +2598,7 @@ In the case of Buster Bear and Danny, the latter had simply to keep out of reach
 Moreover, a hunter with a terrible gun does not have to get close in order to kill. Lightfoot knew all this as he waited for the coming of the hunter of whom Sammy Jay had warned him. He had learned many lessons in the hunting season of the year before and he remembered every one of them. He knew that to forget even one of them might cost him his life. So, standing motionless behind a tangle of fallen trees, Lightfoot listened and watched.
 Presently over in the distance he heard Sammy Jay screaming, "Thief, thief, thief!" A little sigh of relief escaped Lightfoot. He knew that that screaming of Sammy Jay's was a warning to tell him where the hunter was. Knowing just where the hunter was made it easier for Lightfoot to know what to do.
 ===Chinese===
-丹尼草地鼠和巴斯特熊曾经玩过一场捉迷藏游戏。对丹尼来说，那是一场非常可怕的游戏。但即使对丹尼来说很艰难，那也远比不上白尾鹿轻足在绿森林里和猎人玩的那场游戏。
+草地鼠丹尼和巴斯特熊曾经玩过一场捉迷藏游戏。对丹尼来说，那是一场非常可怕的游戏。但即使对丹尼来说很艰难，那也远比不上白尾鹿轻足在绿森林里和猎人玩的那场游戏。
 
 在巴斯特熊和丹尼的游戏中，后者只需要躲开巴斯特就行了。只要巴斯特的大爪子抓不到丹尼，丹尼就是安全的。而且丹尼是个非常小的家伙。他小到可以躲在两三片叶子下面。无论他在哪里，他几乎总能找到某种藏身之处。他的小个子在捉迷藏游戏中给了他优势。确实如此。但白尾鹿轻足是个大家伙。他是绿森林里最大的居民之一。个子这么大，要躲起来可不容易。
 
@@ -3040,9 +3173,9 @@ Sammy nodded. "I've been up there twice," said he. "Old Man Coyote has been lyin
 
 "我跟你说，"松鸦萨米对博比·浣熊说，"轻足出事了。要么那些猎犬抓住了他杀了他，要么他被哪个猎人射杀了。没有他，绿森林再也不会和从前一样了。我想我不会太想来这里了。绿森林里住着的所有其他居民，没有一个会像轻足那样让人想念。"
 
-博比·浣熊点了点头。"没错，萨米，"他说，"没有轻足，绿森林再也不会和从前一样了。他从来没有伤害过任何人。那些猎人为什么这么急切地想杀死这么美丽的一个家伙，我搞不明白。其实，我搞不懂他们为什么想杀我们中的任何一个。如果他们真的需要我们当食物，那是另一回事，但他们不需要。你去过老牧场问老 coyote 有没有看到轻足吗？"
+博比·浣熊点了点头。"没错，萨米，"他说，"没有轻足，绿森林再也不会和从前一样了。他从来没有伤害过任何人。那些猎人为什么这么急切地想杀死这么美丽的一个家伙，我搞不明白。其实，我搞不懂他们为什么想杀我们中的任何一个。如果他们真的需要我们当食物，那是另一回事，但他们不需要。你去过老牧场问老郊狼 有没有看到轻足吗？"
 
-萨米点了点头。"我去过两次，"他说，"老 coyote 白天一直躲着不出来，但夜里他走了很多路。你知道老 coyote 的鼻子很灵，但自从那些猎犬追赶轻足的那天起，他连轻足的一丝气味都没有找到。我以为他可能找到了轻足被杀的地方，但他没有找到，尽管他一直在找。唉，轻足的猎季结束了，但我怕结束得太迟了。"
+萨米点了点头。"我去过两次，"他说，"老郊狼 白天一直躲着不出来，但夜里他走了很多路。你知道老郊狼 的鼻子很灵，但自从那些猎犬追赶轻足的那天起，他连轻足的一丝气味都没有找到。我以为他可能找到了轻足被杀的地方，但他没有找到，尽管他一直在找。唉，轻足的猎季结束了，但我怕结束得太迟了。"
 
 ## XXIX Mr. and Mrs. Quack Are Startled / 鸭先生和鸭太太受惊了
 
@@ -3059,9 +3192,9 @@ Presently they made out what looked like the branch of a tree moving over the wa
 
 那是白尾鹿轻足猎季结束后的第二天傍晚。快乐、圆滚滚、红彤彤的太阳先生已经到紫山后面睡觉去了，黑影已经蔓延到了大河上。鸭先生和鸭太太在大河岸边野生稻的褐色茎秆间觅食晚餐。他们轮流在泥地里寻找稻粒。当鸭太太倒立着、似乎头朝下站在泥地里找稻米时，鸭先生负责警戒可能的危险。然后鸭太太接班警戒，鸭先生则头朝下找稻米。
 
-非常安静祥和。大河上连一丝涟漪都没有。安静得能听到一英里外农舍里狗的叫声。他们离岸边足够远，不用担心狐狸雷迪或老 coyote。所以除了猫头鹰呼帝，他们谁都不用怕。他们轮流警戒的就是呼帝。正是呼帝最喜欢打猎的时候。
+非常安静祥和。大河上连一丝涟漪都没有。安静得能听到一英里外农舍里狗的叫声。他们离岸边足够远，不用担心狐狸雷迪或老郊狼。所以除了猫头鹰胡蒂，他们谁都不用怕。他们轮流警戒的就是胡蒂。正是胡蒂最喜欢打猎的时候。
 
-终于他们听到了呼帝的猎叫声。声音在绿森林的远处。鸭先生和鸭太太觉得轻松了些，低声说着满足的话。他们觉得至少在一段时间内没什么好怕的了。
+终于他们听到了胡蒂的猎叫声。声音在绿森林的远处。鸭先生和鸭太太觉得轻松了些，低声说着满足的话。他们觉得至少在一段时间内没什么好怕的了。
 
 突然大河上的一声轻微溅水声被鸭先生敏锐的耳朵捕捉到了。鸭太太刚把头从水里抬起来，鸭先生就警告她保持安静。他们无声地在褐色茎秆间游动，直到能看到大河对岸。大河中央又传来一声轻微的溅水声。那不是鱼溅起的水花；那是比任何鱼都大得多的东西溅起的水花。不久他们辨认出一条银色的线从黑影中朝他们移动。他们完全明白那意味着什么。意味着有什么东西在大河里朝他们移动。会不会是一艘载着猎人的船？
 
@@ -3345,7 +3478,7 @@ Not one of his enemies ever thought of visiting the sugar-house in search of Whi
 ===Chinese===
 ## I Whitefoot Spends a Happy Winter / I 林鼠白足度过了一个快乐的冬天
 在林鼠白足短短的一生中，他从来没有度过这么快乐的一个冬天。林鼠白足是一个聪明的小家伙，他从不让过去的不愉快破坏当下的幸福，也从不为将来借来烦恼。林鼠白足相信要好好享受当下。过去的事情已经过去了，就是这样。想它也没有用。至于将来的事，等它发生了再想也不迟。
-要是你和我有林鼠白足那么多需要操心的事，我们大概永远都不会快乐了。可是林鼠白足只要有机会就快乐，在这一点上，他比大多数人类都聪明。要知道，在绿森林里所有的小动物当中，没有谁像林鼠白足那样需要提防那么多的敌人。有好多好多家伙最乐意做的事情，就是把胖乎乎的小白足当美餐。有巴斯特熊、水貂比利、黄鼠狼影子、比利大叔负鼠、猫头鹰呼迪，还有鹰家族的所有成员，更别提食物紧缺的时候乌鸦布莱基也会来凑热闹。狐狸雷迪、狐狸奶奶和郊狼老爹也总在找他的麻烦。
+要是你和我有林鼠白足那么多需要操心的事，我们大概永远都不会快乐了。可是林鼠白足只要有机会就快乐，在这一点上，他比大多数人类都聪明。要知道，在绿森林里所有的小动物当中，没有谁像林鼠白足那样需要提防那么多的敌人。有好多好多家伙最乐意做的事情，就是把胖乎乎的小白足当美餐。有巴斯特熊、水貂比利、黄鼠狼影子、比利大叔负鼠、猫头鹰胡蒂，还有鹰家族的所有成员，更别提食物紧缺的时候乌鸦布莱基也会来凑热闹。狐狸雷迪、狐狸奶奶和老郊狼也总在找他的麻烦。
 所以你看，林鼠白足永远不知道下一刻自己是不是就得逃命。这就是为什么他是那么一个胆小的小家伙，一听到一点意外的声响就赶紧逃跑。尽管如此，他还是一个快乐的小家伙。
 冬天刚来的时候，林鼠白足在布朗农夫的糖坊角落里发现了一个小洞，就钻进去看看里面是什么样子。没过多久，他就断定这是他见过的最舒服的地方。他立刻决定搬进来过冬。糖坊的一头堆着一堆木头。林鼠白足就在这堆木头底下给自己做了一个温暖舒适的小窝。对林鼠白足来说，这简直就是一座城堡。他把自己储存的过冬种子都搬了过来。
 他的敌人谁也没想到去糖坊找林鼠白足，就算想到了也进不去。当粗暴的北风兄弟在外面呼啸、冻雨和大雪让其他小家伙瑟瑟发抖的时候，林鼠白足又温暖又舒适。他有足够大的地方可以跑来跑去地玩耍。他想出去的时候可以出去，不过他不常出去。有时候好几天他都不会受到一次惊吓。没错，林鼠白足度过了一个快乐的冬天。
@@ -3524,10 +3657,10 @@ Whitefoot suddenly darted into his hole. Jumper didn't move, but his eyes widene
 "我怎么能不胆小？我比你小多了，敌人也比你多，"白足反驳道。
 "你确实比我小，但我不太确定你的敌人比我多，"蹦蹦若有所思地回答。"有时候我觉得我的敌人不可能更多了，尤其是在冬天。"
 "数数看，"白足命令道。
-"呼迪大角猫头鹰、山猫约勒、郊狼老爹、狐狸雷迪、苍鹰恐怖、黄鼠狼影子、水貂比利。"蹦蹦停了下来。
+"大角猫头鹰胡蒂、山猫约勒、老郊狼、狐狸雷迪、苍鹰恐怖、黄鼠狼影子、水貂比利。"蹦蹦停了下来。
 "就这些？"白足问。
 "还不够吗？"蹦蹦有点尖锐地反驳。
-"我有你说的所有那些，冬天还有乌鸦布莱基、伯劳屠夫鸟和山雀山姆，夏天还有巴斯特熊、臭鼬吉米和好几个蛇家族的成员，"白足回答。"有时候我觉得我身上需要长满眼睛和耳朵。白天黑夜总有人在追捕可怜的我。然后有些人还奇怪我为什么这么胆小。如果我不像现在这么胆小，我现在就不会还活着了；我早被抓走了。人们可能会笑话我这么容易受惊，但我不在乎。那正是每天救我十几次命的东西。"
+"我有你说的所有那些，冬天还有乌鸦布莱基、伯劳屠夫鸟和松鸦萨米，夏天还有巴斯特熊、臭鼬吉米和好几个蛇家族的成员，"白足回答。"有时候我觉得我身上需要长满眼睛和耳朵。白天黑夜总有人在追捕可怜的我。然后有些人还奇怪我为什么这么胆小。如果我不像现在这么胆小，我现在就不会还活着了；我早被抓走了。人们可能会笑话我这么容易受惊，但我不在乎。那正是每天救我十几次命的东西。"
 蹦蹦看起来很感兴趣。"我从没想过这一点，"他说。"我自己也是一个非常胆小的人，有时候还为这么容易受惊感到害羞。但仔细想想，我觉得你说得对；我越胆小，可能活得越久。"
 白足突然钻进了他的洞里。蹦蹦没有动，但他的眼睛因为恐惧睁大了。一只白色的大鸟刚刚落在不远处的一个树桩上。那是雪鸮白逸，从遥远的北方下来的。
 "我们俩都忘了还有一个敌人，"蹦蹦想，努力不让自己发抖。
@@ -3626,7 +3759,7 @@ The instant it was safe to do so, Jumper took to his long heels and the way he d
 
 还有谁的处境比野兔蹦蹦更糟糕吗？如果他动了，就会暴露给雪鸮白逸。如果他继续待在原地，很可能黄鼠狼影子会找到他，结果就和被白逸抓住一样。白逸和影子都不知道他在那里，但只要几分钟，其中一个就会知道了。至少，在蹦蹦看来是这样的。
 白逸不会知道，除非他动了，但黄鼠狼影子会找到他的足迹，他的鼻子会把他直接带到那里。影子东跑西跑，跑来跑去，就在不远处，鼻子贴着雪地跑来跑去。他在追踪——寻找可以杀死的猎物的气味。再过几分钟，他肯定能找到蹦蹦待过的地方，然后他的鼻子就会把他直接带到蹦蹦蹲着的那棵树那里。
-影子越来越近了。他身材苗条，看上去一点也不可怕。然而在绿森林里，没有谁比他更让毛皮小动物们害怕了——蹦蹦怕他，彼得兔怕他，林鼠白足怕他，甚至红松鼠叽喳也怕他。
+影子越来越近了。他身材苗条，看上去一点也不可怕。然而在绿森林里，没有谁比他更让毛皮小动物们害怕了——蹦蹦怕他，彼得兔怕他，林鼠白足怕他，甚至红松鼠恰特勒也怕他。
 "也许，"蹦蹦想，"他最后找不到我的气味。也许他会往另一个方向走。"但蹦蹦总觉得影子会找到那个气味。"等他找到的时候，我就跑，"蹦蹦对自己说。"至少还有机会躲开白逸。我怕他会抓住我，但我还是有机会的。如果影子找到我，我就一点机会都没有了。"
 突然影子停下来，用凶猛的小眼睛四处张望，一边用鼻子嗅着空气。蹦蹦的心沉了下去。他知道影子闻到了某个人的微弱气味。然后影子又开始跑来跑去，但比之前更加小心了。接着他径直朝蹦蹦蹲着的地方跑来！蹦蹦这才明白影子找到了他的踪迹。
 蹦蹦深吸一口气，收好他那双长后腿准备大跳一下，希望能出其不意地躲开白逸。就在蹦蹦这样做的时候，他朝白逸待了很久的那个树桩看去。白逸正展开他那对大大的无声翅膀离开那里，他那双凶猛的黄色眼睛正盯着黄鼠狼影子的方向。他看到了那个移动的小黑点——影子尾巴的尖端。
@@ -3760,13 +3893,13 @@ He was halfway up when, glancing down, he saw a shadow moving across the snow. O
 > ——林鼠白足
 
 白足不停地走着。每次他觉得自己太累了必须停下来的时候，他就会想到黄鼠狼影子，然后又继续往前走。渐渐地，他累得连想到黄鼠狼影子都不能让他再走多远了。于是他开始四处寻找一个安全的藏身之处来休息。
-他离开的那个家曾经是某个老树桩根底下的一间舒适的小房间。他在那里住了很长一段时间，非常舒服。小地道通向他的储藏室，也通向雪地表面。那曾是一个极好的地方，他曾觉得绝对安全，直到黄鼠狼影子出现了。如果你看到他在那里玩耍，你会以为他是像他的表弟草甸鼠丹尼一样的地面小动物。
-但白足在树上和在地面上一样自在。事实上，他在树上的自在程度和红松鼠叽喳一样，而且比花栗鼠条纹自在得多，虽然花栗鼠条纹属于松鼠家族。所以现在他必须找一个藏身之处，白足决定在树上会比在地面上安全得多。
+他离开的那个家曾经是某个老树桩根底下的一间舒适的小房间。他在那里住了很长一段时间，非常舒服。小地道通向他的储藏室，也通向雪地表面。那曾是一个极好的地方，他曾觉得绝对安全，直到黄鼠狼影子出现了。如果你看到他在那里玩耍，你会以为他是像他的表弟草地鼠丹尼一样的地面小动物。
+但白足在树上和在地面上一样自在。事实上，他在树上的自在程度和红松鼠恰特勒一样，而且比花栗鼠条纹自在得多，虽然花栗鼠条纹属于松鼠家族。所以现在他必须找一个藏身之处，白足决定在树上会比在地面上安全得多。
 "只要我能找到一棵空心树就好了，"白足呜咽着说。"在树上藏身会比在一个陌生地方的地面或地下安全多了。"
 于是白足开始寻找一棵枯树。你知道，他知道枯树比活树更可能有洞。走着走着，他来到了一棵高高的枯树前。他知道这是一棵枯树，因为树上没有树皮。但是，他当然不知道这棵树里面是不是空的。我是说他从地面上看不出来。
 "天哪！"他又呜咽起来。"天哪！看来我得爬上去看了，可我好累。它应该是空的。里面应该有漂亮的洞。它就是那种啄木鸟鼓手喜欢做窝的树。如果在里面找不到他做的窝，我会非常失望的，但我真希望不用爬上去就知道。好吧，我上去了。"
 他焦急地朝这边看看，又焦急地朝那边看看，又焦急地朝另一边看看。事实上，他焦急地朝每一个方向都看了看。但他没有看到任何人或任何东西值得害怕，于是他开始爬树。
-他爬到一半的时候，朝下一看，看到一个影子在雪地上移动。白足的心再一次好像跳到了嗓子眼里。那个影子是某个正在飞行的东西的影子。这一点毫无疑问。白足把自己紧贴在树干上，偷偷地探头去看。他刚好看到一只灰黑白三色的鸟，差不多有山雀山姆那么大，落在了紧挨着的下一棵树上。他是从地面附近飞过来的，然后突然升到树上。他的喙是黑色的，尖端有一个小小的钩子。白足知道他是谁。那是伯劳屠夫鸟。白足打了个冷战。
+他爬到一半的时候，朝下一看，看到一个影子在雪地上移动。白足的心再一次好像跳到了嗓子眼里。那个影子是某个正在飞行的东西的影子。这一点毫无疑问。白足把自己紧贴在树干上，偷偷地探头去看。他刚好看到一只灰黑白三色的鸟，差不多有松鸦萨米那么大，落在了紧挨着的下一棵树上。他是从地面附近飞过来的，然后突然升到树上。他的喙是黑色的，尖端有一个小小的钩子。白足知道他是谁。那是伯劳屠夫鸟。白足打了个冷战。
 
 ===Original===
 ## XVII Whitefoot Finds a Hole Just in Time / XVII 林鼠白足及时找到了一个洞
@@ -3791,7 +3924,7 @@ He was just in time. He was just in the nick of time. Butcher struck at him and 
 > 你就是自己命运的主宰。
 > ——林鼠白足
 
-白足在这棵枯树半腰，把自己紧贴在树干上，心怦怦地跳着，惊恐地绕着树干偷看一个他已经很久没见过、几乎忘了他存在的敌人。那是伯劳屠夫鸟。他常常被称为屠夫鸟。他看起来一点也不可怕。他没有山雀山姆那么大。他没有鹰和猫头鹰那样可怕的爪子。他的黑色喙尖上有一个小小的钩子，但还不够大，看起来不怎么吓人。但你不能总是以貌取人，白足知道屠夫是一个需要害怕的家伙。
+白足在这棵枯树半腰，把自己紧贴在树干上，心怦怦地跳着，惊恐地绕着树干偷看一个他已经很久没见过、几乎忘了他存在的敌人。那是伯劳屠夫鸟。他常常被称为屠夫鸟。他看起来一点也不可怕。他没有松鸦萨米那么大。他没有鹰和猫头鹰那样可怕的爪子。他的黑色喙尖上有一个小小的钩子，但还不够大，看起来不怎么吓人。但你不能总是以貌取人，白足知道屠夫是一个需要害怕的家伙。
 所以他的心怦怦地跳着，不知道屠夫有没有看到他。他不用等太久就知道了。屠夫飞到白足身后的一棵树上，然后径直朝他飞来。白足闪到了树的另一边。于是开始了一场可怕的游戏。至少，对白足来说是可怕的。他在树干的这边躲来躲去，屠夫则尽力想抓住他。
 白足本来不会太在意这个，如果他不是这么累的话，如果他知道附近有一个藏身之处的话。但他很累，非常累，因为你要记得他刚刚经历了一段对他来说非常漫长可怕的旅程。他觉得自己爬这棵树都快没力气了，本来是想看看上面有没有洞。现在他不知道该继续往上爬还是往下去。两三次他绕着树转圈，哪边也没去。然后他决定往上爬。
 屠夫正在享受这场捉迷藏的游戏。如果他抓住了白足，就能吃一顿美餐。如果没抓住，他只不过再饿一会儿。所以你看，白足和屠夫的感受差别很大。白足要失去的是他的生命，而屠夫要失去的只不过是一顿晚餐。
@@ -3939,7 +4072,7 @@ Whitefoot sighed. "I wish I could jump like that," said he to himself. "I wouldn
 白足开始觉得完全安顿下来了。如果不是因为一件事——他没有一个装满食物的储藏室——他就会完全满足了。这意味着他每天必须出去找吃的。
 并不是白足介意出去找吃的。即使他手边有一个装满食物的储藏室，他也会出去找。但他心里会更踏实一些。他会有一种安心的感觉，如果天气变得很坏，他不能轻松地出去活动，他也不会挨饿。
 但白足是一个快乐的小家伙，他很明智地把事情往好的方面想。一开始他白天很少出来。他知道有很多锐利的眼睛在盯着他，在白天的光线下他比在黑影爬满绿森林的时候更容易被看到。
-他会从门口偷偷往外看，留意白天偶尔路过的家伙。两次他看到伯劳屠夫鸟落在离提米住的那棵树不远的地方。他知道屠夫没有忘记他曾经追着一只吓坏了的老鼠跑到那棵树的洞里去。一次他看到了雪鸮白逸，知道白逸还没有回到遥远的北方。一次狐狸雷迪正好从白足住的旧树桩脚下跑过，甚至不知道附近有他。两次他看到郊狼老爹小跑着经过，还有一次苍鹰恐怖落在了那个树桩上，坐了半个小时。
+他会从门口偷偷往外看，留意白天偶尔路过的家伙。两次他看到伯劳屠夫鸟落在离提米住的那棵树不远的地方。他知道屠夫没有忘记他曾经追着一只吓坏了的老鼠跑到那棵树的洞里去。一次他看到了雪鸮白逸，知道白逸还没有回到遥远的北方。一次狐狸雷迪正好从白足住的旧树桩脚下跑过，甚至不知道附近有他。两次他看到老郊狼小跑着经过，还有一次苍鹰恐怖落在了那个树桩上，坐了半个小时。
 所以白足养成了和飞鼠提米一样的习惯；白天大部分时间待在家里，等黑影开始爬进树林的时候才出来。提米也差不多那个时候出来，他们已经成了最好的朋友。
 白足不太羡慕别人，但随着他一夜又一夜地看着提米，一丝嫉妒不知不觉地钻进了他的心里，尽管他竭力克制。提米会灵巧地爬到树顶，然后跳下去。他会优雅地滑翔很远，就好像在空中滑行一样。
 白足第一次看到他这样做的时候屏住了呼吸。他真不知道该怎么理解这件事。提米跳离的那棵树最近的一棵树离得那么远，似乎没有翅膀的人不可能不先落到地上就到达那里。
@@ -3971,10 +4104,10 @@ For a few minutes nothing happened. Then Whitefoot finished the last seed in tha
 飞鼠提米偶尔会过来看望白足。如果白足在家里，他总能知道提米什么时候来了。他会听到高树桩底部传来一声轻轻的"咚"。他立刻知道那是提米从树顶上跳了很长一段距离落在树桩脚下发出的声音。白足会从门口探出头去，果然，提米正朝他爬过来。
 白足越来越佩服提米了。在他看来，提米是他认识的所有人中最了不起的。你看，其他人都不能像提米那样跳。提米自己也喜欢有白足做邻居。绿森林里的小动物当中，很少有比飞鼠提米更胆小的了，但这里有一个家伙让提米实际上觉得自己很勇敢。这种感觉太新奇了，提米很喜欢。
 就这样，在黄昏时分，就在黑影从紫山爬过绿草地和绿森林之后，这两个小邻居就会一起出发去找吃的。白足从不走远，他住在这个高高的枯树桩里。他不敢走远。他想待在一个一有危险迹象就能立刻跑回家的安全之处。提米会走远一些，但他很少离开很久。他喜欢待在一个既能观察又能和白足说话的地方。你知道提米和其他人很像——他喜欢聊聊天。
-一天晚上，白足很难找到足够的食物来填饱肚子。他一直往离家越来越远的地方跑。最后他离家的距离比以前任何时候都远。提米已经吃饱了，坐在一棵树的顶上看着白足。突然，一个巨大的黑色影子似乎飘过了提米坐的那棵树的上方，停在一棵高高的枯树顶上。那是猫头鹰呼迪，提米碰巧看到了他，真是幸运。提米没有动。他知道只要他一动不动就是安全的。他知道呼迪不知道他在那里。除非他动了，否则呼迪那双了不起的大眼睛也看不到他。
-提米朝最后看到白足的方向看去。白足正在地上从松果里挑种子吃。一棵树的树干挡在他和呼迪之间。但提米知道白足没有看到呼迪，他随时可能从那棵树后面跑出来。如果他跑出来，呼迪就会看到他，像影子一样无声地俯冲下来抓住他。该怎么办呢？
-"这不关我的事，"提米对自己说。"白足得自己照顾自己。这完全不关我的事。也许呼迪会在白足动之前飞走。我不想白足出什么事，但如果真出了什么事，那是他自己的错；他应该更好地留意才对。"
-几分钟过去了，什么也没发生。然后白足吃完了那个松果里的最后一颗种子，开始找更多的。提米知道呼迪马上就会看到白足。你猜提米做了什么？他跳了。是的，先生，他跳了。滑啊滑啊滑，直接从呼迪猫头鹰坐的那棵树旁边掠过。呼迪看到了他。当然看到了。他忍不住不看。他展开大翅膀，一瞬间就追了过去。提米落在一棵树的附近，一刻不停地窜到了树的另一边。他刚好来得及。呼迪已经在伸手抓他了。提米跑上树，又跳了。呼迪又来晚了。就这样，提米把呼迪猫头鹰从林鼠白足身边引开了。
+一天晚上，白足很难找到足够的食物来填饱肚子。他一直往离家越来越远的地方跑。最后他离家的距离比以前任何时候都远。提米已经吃饱了，坐在一棵树的顶上看着白足。突然，一个巨大的黑色影子似乎飘过了提米坐的那棵树的上方，停在一棵高高的枯树顶上。那是猫头鹰胡蒂，提米碰巧看到了他，真是幸运。提米没有动。他知道只要他一动不动就是安全的。他知道胡蒂不知道他在那里。除非他动了，否则胡蒂那双了不起的大眼睛也看不到他。
+提米朝最后看到白足的方向看去。白足正在地上从松果里挑种子吃。一棵树的树干挡在他和胡蒂之间。但提米知道白足没有看到胡蒂，他随时可能从那棵树后面跑出来。如果他跑出来，胡蒂就会看到他，像影子一样无声地俯冲下来抓住他。该怎么办呢？
+"这不关我的事，"提米对自己说。"白足得自己照顾自己。这完全不关我的事。也许胡蒂会在白足动之前飞走。我不想白足出什么事，但如果真出了什么事，那是他自己的错；他应该更好地留意才对。"
+几分钟过去了，什么也没发生。然后白足吃完了那个松果里的最后一颗种子，开始找更多的。提米知道胡蒂马上就会看到白足。你猜提米做了什么？他跳了。是的，先生，他跳了。滑啊滑啊滑，直接从猫头鹰胡蒂坐的那棵树旁边掠过。胡蒂看到了他。当然看到了。他忍不住不看。他展开大翅膀，一瞬间就追了过去。提米落在一棵树的附近，一刻不停地窜到了树的另一边。他刚好来得及。胡蒂已经在伸手抓他了。提米跑上树，又跳了。胡蒂又来晚了。就这样，提米把猫头鹰胡蒂从林鼠白足身边引开了。
 
 ===Original===
 ## XXIII Whitefoot Spends a Dreadful Night / XXIII 林鼠白足度过了一个可怕的夜晚
@@ -4000,13 +4133,13 @@ Whitefoot didn't go out that night at all. It was a moonlight night and just the
 > ——林鼠白足
 
 白足一生中有一个夜晚永远不会忘记。即使现在想起来他还会打冷战。是的，先生，每当他想起那个夜晚，他至今还会打冷战。那天晚上黑影来得很早，所以当白足从温暖的小床上爬出来，爬到那个圆形洞口——他的家门口——的时候，天已经相当暗了。他刚把鼻子探出那个小圆门，就听到了一个最可怕的声音。那个声音又大又可怕，好像就在他耳朵里响。他吓得松开了爪子，骨碌碌滚回了屋里。当然没有伤到他，因为他落在了柔软的床上。
-"呜——呜呜，呜——呜！"那个可怕的声音又响了起来，白足抖得牙齿咯咯作响。至少他觉得是这样。那是猫头鹰呼迪的声音，白足知道呼迪就坐在那个树桩的顶上。可以说，他就在白足家的屋顶上。
-在绿森林里，没有什么声音比呼迪猫头鹰的狩猎叫声更能吓到羽毛和毛皮小动物的心了。呼迪知道这一点。没有人比他更清楚了。这就是为什么他使用这个叫声。他知道很多小动物都睡着了，安全地藏了起来。他知道光靠眼睛去找他们是完全没用的。那样他还没找到晚餐就会饿死。但他知道，任何人在极度恐惧中被从睡梦中惊醒，一定会动的，而如果他们动了，几乎一定会发出一点声音。他的耳朵太厉害了，能捕捉到最微弱的声音并准确判断声音从哪里来。所以他用那可怕的狩猎叫声来吓唬小动物们，让他们动起来。
-白足知道他是安全的。呼迪不可能抓到他，即使发现了他在里面。没有什么好害怕的，但尽管如此，每次呼迪叫的时候，白足还是会浑身发抖，几乎要从皮肤里跳出来。他就是忍不住。
-"他抓不到我。我知道他抓不到我。我非常安全。就像他在几英里以外一样安全。没什么好害怕的。害怕是愚蠢的。也许呼迪根本不知道我在这里面。即使知道了，也没关系。"白足一遍又一遍地对自己说这些话。然后呼迪又发出那凶猛可怕的狩猎叫声，白足又像之前一样跳起来发抖。
-过了一段时间，一切安静了。白足渐渐不再发抖了。他猜呼迪已经飞走了。但他仍然在原来的地方待了很长时间。他不打算傻傻地冒险。所以他就等啊等啊等啊。
-最后他确信呼迪已经走了。他又爬到他的小圆门口，在那里等了好一会儿才把鼻子伸到外面去。就在他下定决心要出去的时候，那个可怕的声音又响了起来，和之前一样，他骨碌碌滚回了床上。
-那天晚上白足根本没有出去。那是一个月光之夜，正是出去活动的好时候。可白足只是躺在他的小床上打冷战发抖，因为整个漫长的夜晚，呼迪猫头鹰时不时地从那个树桩顶上叫几声。
+"呜——呜呜，呜——呜！"那个可怕的声音又响了起来，白足抖得牙齿咯咯作响。至少他觉得是这样。那是猫头鹰胡蒂的声音，白足知道胡蒂就坐在那个树桩的顶上。可以说，他就在白足家的屋顶上。
+在绿森林里，没有什么声音比猫头鹰胡蒂的狩猎叫声更能吓到羽毛和毛皮小动物的心了。胡蒂知道这一点。没有人比他更清楚了。这就是为什么他使用这个叫声。他知道很多小动物都睡着了，安全地藏了起来。他知道光靠眼睛去找他们是完全没用的。那样他还没找到晚餐就会饿死。但他知道，任何人在极度恐惧中被从睡梦中惊醒，一定会动的，而如果他们动了，几乎一定会发出一点声音。他的耳朵太厉害了，能捕捉到最微弱的声音并准确判断声音从哪里来。所以他用那可怕的狩猎叫声来吓唬小动物们，让他们动起来。
+白足知道他是安全的。胡蒂不可能抓到他，即使发现了他在里面。没有什么好害怕的，但尽管如此，每次胡蒂叫的时候，白足还是会浑身发抖，几乎要从皮肤里跳出来。他就是忍不住。
+"他抓不到我。我知道他抓不到我。我非常安全。就像他在几英里以外一样安全。没什么好害怕的。害怕是愚蠢的。也许胡蒂根本不知道我在这里面。即使知道了，也没关系。"白足一遍又一遍地对自己说这些话。然后胡蒂又发出那凶猛可怕的狩猎叫声，白足又像之前一样跳起来发抖。
+过了一段时间，一切安静了。白足渐渐不再发抖了。他猜胡蒂已经飞走了。但他仍然在原来的地方待了很长时间。他不打算傻傻地冒险。所以他就等啊等啊等啊。
+最后他确信胡蒂已经走了。他又爬到他的小圆门口，在那里等了好一会儿才把鼻子伸到外面去。就在他下定决心要出去的时候，那个可怕的声音又响了起来，和之前一样，他骨碌碌滚回了床上。
+那天晚上白足根本没有出去。那是一个月光之夜，正是出去活动的好时候。可白足只是躺在他的小床上打冷战发抖，因为整个漫长的夜晚，猫头鹰胡蒂时不时地从那个树桩顶上叫几声。
 
 ===Original===
 ## XXIV Whitefoot the Wood Mouse Is Unhappy / XXIV 林鼠白足不快乐了

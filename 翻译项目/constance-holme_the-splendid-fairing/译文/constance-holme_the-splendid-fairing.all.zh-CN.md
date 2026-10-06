@@ -136,9 +136,9 @@ Sarah thought of her wedding-day as they drove through the torpid afternoon, and
 
 ===Chinese===
 
-他们去集市的路上满脑子都是伊莱莎，此刻又忙着在心里把她翻来覆去地掂量。萨拉绘声绘色讲了她那番了不起的壮举，让他们振奋了一阵子，但他们心里太清楚了——这种优越感维持不了多久。即便他们付出惨重代价换来的胜利，到头来也会变成伊莱莎的资本。生活站在伊莱莎一边，万事万物注定都会对她好。上天也站在伊莱莎一边，她的脸上从来没有刻下过一丝痛苦的记忆。西蒙·桑思韦特（Simon Thornthwaite）一家始终无法摆脱一种感觉：她不知怎的耍了他们，用不正当的影响把正义的天平撬偏了。独处时，他们还能在自己的悲剧人生中看到几分尊严；可一旦和伊莱莎在一起，他们就突然变得廉价了——不过是巴结在她裙边的穷亲戚。他们在她嘲弄的目光中看见自己就是这副模样，一时之间真切地感受到了自己那可耻的卑微。
+他们去集市的路上满脑子都是伊莱莎，此刻又忙着在心里把她翻来覆去地掂量。萨拉绘声绘色讲了她那番了不起的壮举，让他们振奋了一阵子，但他们心里太清楚了——这种优越感维持不了多久。即便他们付出惨重代价换来的胜利，到头来也会变成伊莱莎的资本。生活站在伊莱莎一边，万事万物注定都会对她好。上天也站在伊莱莎一边，她的脸上从来没有刻下过一丝痛苦的记忆。西蒙·索恩思韦特（Simon Thornthwaite）一家始终无法摆脱一种感觉：她不知怎的耍了他们，用不正当的影响把正义的天平撬偏了。独处时，他们还能在自己的悲剧人生中看到几分尊严；可一旦和伊莱莎在一起，他们就突然变得廉价了——不过是巴结在她裙边的穷亲戚。他们在她嘲弄的目光中看见自己就是这副模样，一时之间真切地感受到了自己那可耻的卑微。
 
-她嘲弄他们——这就是她做的恶事；那种卑鄙的、潜伏的罪行，是人性最难原谅的。以比较来嘲弄是她的手法，几乎无从招架。伊莱莎的一言一行、一颦一笑、衣着装扮，无一不在提醒世人注意西蒙·桑思韦特一家与威尔一家之间那道不可思议的鸿沟。她在那个双重婚礼的日子里就打出了第一张牌，虽然真正的嫌隙比那还要早得多。事实上，伊莱莎原本打算嫁的是西蒙，不是威尔——西蒙年长些、英俊些，在那些遥远的日子里甚至更时髦些。但在这一点上，萨拉至少赢了一着，伊莱莎至今没有从那次意外中缓过劲来。从那一刻起，这位被宠坏的美人在对方朴素的容貌中发现了一个值得交锋的对手，一个她穷尽一生也无法击倒的劲敌。无论她怎样冷嘲热讽、怎样打击，她都无法确信自己真的赢到了家。好奇与愤怒交杂之下，她嘲讽了又嘲讽，打击了又打击。这不屈不挠的精神迟早会有尽头的，可四十年过去了，依然看不到什么迹象。萨拉身上某种不死的东西在每一次打击后都会重新站起来，当她的世界化为尘土时，她依然屹立不倒。
+她嘲弄他们——这就是她做的恶事；那种卑鄙的、潜伏的罪行，是人性最难原谅的。以比较来嘲弄是她的手法，几乎无从招架。伊莱莎的一言一行、一颦一笑、衣着装扮，无一不在提醒世人注意西蒙·索恩思韦特一家与威尔一家之间那道不可思议的鸿沟。她在那个双重婚礼的日子里就打出了第一张牌，虽然真正的嫌隙比那还要早得多。事实上，伊莱莎原本打算嫁的是西蒙，不是威尔——西蒙年长些、英俊些，在那些遥远的日子里甚至更时髦些。但在这一点上，萨拉至少赢了一着，伊莱莎至今没有从那次意外中缓过劲来。从那一刻起，这位被宠坏的美人在对方朴素的容貌中发现了一个值得交锋的对手，一个她穷尽一生也无法击倒的劲敌。无论她怎样冷嘲热讽、怎样打击，她都无法确信自己真的赢到了家。好奇与愤怒交杂之下，她嘲讽了又嘲讽，打击了又打击。这不屈不挠的精神迟早会有尽头的，可四十年过去了，依然看不到什么迹象。萨拉身上某种不死的东西在每一次打击后都会重新站起来，当她的世界化为尘土时，她依然屹立不倒。
 
 他们赶着车穿过沉闷的午后，穿过那如吝啬之手般低低扣在大地上的天空，萨拉想起了她的婚礼那天。婚礼那天柔和、明媚、甜蜜，高远的蓝天看上去空旷无物，直到你仰头望得几乎眼花，才发现自己正透过一层又一层柔色的空气凝视。群山也是那样，清朗而薄雾轻笼，就连大海的蓝色也仿佛刚刚被气息拂过。那是一个真正的婚庆之日，美似乎被有意保留了一点，可爱的实景之间仍垂着帘幕。大地的帷幔与伊莱莎那招摇的面纱嘲弄毫无共同之处，帘幕背后的奥秘也与之毫无共同之处。巍峨的山比伊莱莎更含蓄更羞怯，可畏的海比她更温柔，暗藏风暴的苍穹比她更精妙更幽远。伊莱莎那大胆而自信的美与这一切格格不入，如同铜管乐队闯入一片月光下的绵长沙岸。世界上的婚纱，是为了戴着僵硬草帽、穿着棕色长裙的萨拉而甜美地披上的。
 
@@ -834,7 +834,7 @@ It was the voice of an oracle marking an open grave, of Cassandra, crying her kn
 Each of the brothers Thornthwaite drew a breath of relief as soon as he got outside. They were at ease together at once as soon as they were alone. The contrast in their positions, so obvious to the world, made little or no difference to the men themselves. It would have made less still but for the ever-recurring problem of the womenfolk, and even that they did their best to put away from them as soon as they were out of sight. Each could only plead what he could for the side he was bound to support, and pass on hurriedly to a less delicate topic. Alone they fell back easily into the relation which had been between them as lads, and forgot that the younger was now a man of substance and weight, while the elder had made an inordinate muddle of things. Will had always looked up to Simon and taken his word in much, and he still continued to take it when Eliza was not present to point to the fact that Simon’s wonderful knowledge had not worked out in practice. Today, as they wandered round the shippons, he listened respectfully while his brother criticised the herd, quarrelled with the quality of the foodstuffs, and snorted contempt at the new American method of tying cattle in the stall. Experience had taught him that Simon was not the first who had made a mess of his own affairs while remaining perfectly competent to hand out good advice to others. The well-arranged water-supply was Simon’s idea, as well as the porcelain troughs which were so easy to keep clean, and the milking-machine which saved so much in labour. There were other innovations—some, Eliza’s pride—which were due to Simon, if she had only known it. He was a good judge of a beast as well, and had a special faculty for doctoring stock, a gift which had certainly not been allowed to run to waste during those bewitched and disease-ridden years at Sandholes. Will was indebted to him for many valuable lives, and often said that Simon had saved him considerably more than he had ever lent him. It remained a perpetual mystery why so useful a man should have achieved so much for others and so little for himself. The answer could only lie in the curse that was glooming over Sandholes—if there was a curse. Nature certainly plays strange tricks on those who do not exactly suit her book, but in any case the hate at the heart of things was enough to poison luck at the very source.
 
 ===Chinese===
-桑恩斯韦特（Thornthwaite）家的两兄弟一出门，各自都松了一口气。两人独处时，立刻便觉得自在了。他们处境的差异在世人看来再明显不过，但对兄弟二人自己而言却几乎毫无分别。若不是因为女人们那没完没了的问题，这种差异本可以更小一些；即便有那问题，两人一脱离旁人视线也尽力将其抛诸脑后。他们各自只能为自己必须维护的一方尽力辩护几句，然后匆匆换个不那么微妙的话题。独处时，他们很容易便回到了少年时的那种关系，忘了弟弟如今已是颇有家底、举足轻重的人物，而哥哥却把日子过得一团糟。威尔（Will）一直仰慕西蒙（Simon），对他的话大多言听计从，即便在伊莱莎（Eliza）不在场、无法指出西蒙那了不起的学问在实践中并不管用的时候，他也依然如此。今天，当他们逛牛棚（shippon）时，威尔恭敬地听着哥哥对牛群评头论足，对饲料质量吹毛求疵，对美国人那种把牛拴在栏里的新法子嗤之以鼻。经验告诉威尔，西蒙并非第一个把自己的事搞得一团糟、却对给别人出主意驾轻就熟的人。那套安排妥当的供水系统是西蒙的主意，那些易于清洗的瓷质饲料槽也是，还有那省下大量劳力的挤奶机。还有一些别的革新——其中一些是伊莱莎引以为傲的——其实都该归功于西蒙，只是她不知道罢了。西蒙还是个相牛的好手，尤其擅长给牲畜治病，这项天赋在桑德霍尔斯（Sandholes）那些被诅咒般瘟疫横行的年月里，绝没有被荒废。威尔欠他许多牲口的性命，常说西蒙帮他挽回的损失远比借给他的钱多得多。一个如此有用的人，为别人成就了那么多，为自己却几乎一无所获，这始终是个解不开的谜。答案只能在于笼罩桑德霍尔斯的诅咒——如果真有诅咒的话。大自然确实会跟那些不合她心意的人开些奇怪的玩笑，但无论如何，事物核心处的憎恨已足以从源头毒化运气。
+索恩思韦特（Thornthwaite）家的两兄弟一出门，各自都松了一口气。两人独处时，立刻便觉得自在了。他们处境的差异在世人看来再明显不过，但对兄弟二人自己而言却几乎毫无分别。若不是因为女人们那没完没了的问题，这种差异本可以更小一些；即便有那问题，两人一脱离旁人视线也尽力将其抛诸脑后。他们各自只能为自己必须维护的一方尽力辩护几句，然后匆匆换个不那么微妙的话题。独处时，他们很容易便回到了少年时的那种关系，忘了弟弟如今已是颇有家底、举足轻重的人物，而哥哥却把日子过得一团糟。威尔（Will）一直仰慕西蒙（Simon），对他的话大多言听计从，即便在伊莱莎（Eliza）不在场、无法指出西蒙那了不起的学问在实践中并不管用的时候，他也依然如此。今天，当他们逛牛棚（shippon）时，威尔恭敬地听着哥哥对牛群评头论足，对饲料质量吹毛求疵，对美国人那种把牛拴在栏里的新法子嗤之以鼻。经验告诉威尔，西蒙并非第一个把自己的事搞得一团糟、却对给别人出主意驾轻就熟的人。那套安排妥当的供水系统是西蒙的主意，那些易于清洗的瓷质饲料槽也是，还有那省下大量劳力的挤奶机。还有一些别的革新——其中一些是伊莱莎引以为傲的——其实都该归功于西蒙，只是她不知道罢了。西蒙还是个相牛的好手，尤其擅长给牲畜治病，这项天赋在桑德霍尔斯（Sandholes）那些被诅咒般瘟疫横行的年月里，绝没有被荒废。威尔欠他许多牲口的性命，常说西蒙帮他挽回的损失远比借给他的钱多得多。一个如此有用的人，为别人成就了那么多，为自己却几乎一无所获，这始终是个解不开的谜。答案只能在于笼罩桑德霍尔斯的诅咒——如果真有诅咒的话。大自然确实会跟那些不合她心意的人开些奇怪的玩笑，但无论如何，事物核心处的憎恨已足以从源头毒化运气。
 
 ===Original===
 While Sarah sat through her long torment in the kitchen, rising up at last for that great blow which at all events felled her adversary for the time being, Simon was enjoying himself airing his knowledge in the buildings, contradicting his brother on every possible occasion, and ending by feeling as if he actually owned the place. However, the reason of his visit came up at length, as it was bound to do, and his air of expert authority vanished as the position changed. One by one, as he had already done to Mr. Dent, he laid before his brother his difficulties and disappointments, much as a housewife lays out the chickens that some weasel has slain in the night. He wore the same air of disgust at such absurd accumulation of disaster, of incredulity at this overdone effort on the part of an inartistic fate. The story was not new to Will, any more than to the agent, but he listened to it patiently, nevertheless. He knew from experience that, unless you allow a man to recapitulate his woes, you cannot get him to the point from which a new effort may be made. He may seem to be following you along the fresh path which you are marking out, but in reality he will be looking back at the missed milestones of the past. And there were so many milestones in Simon’s case—so many behind him, and so few to come. After all, it could only be a short road and a bare into which even the kindest brotherly love had power to set his feet.
@@ -986,7 +986,7 @@ Simon was busy shaking his head and saying he wasn’t worth it and that he was 
 
 “他们总是有说不完的闲话，那有什么关系？至于弟弟和哥哥，等你上了年纪，也就没多大分别了……路对面有间不错的农舍，”他急切地继续说，在西蒙打退堂鼓前先抛出条件。“离牲口棚近，还有个园子和果园。丫头们（lasses）好照看萨拉（Sarah），你想，要是离得那么近。园子里有莓子灌木（berry-bushes）还有不少别的……”
 
-西蒙忙着摇头，说自己不值得、太老了，但自始至终都饶有兴致甚至愉悦地听着威尔的话。挤奶现在已经开始了，当杠杆在牛群头顶来回摆动时，他已经不由自主地用一种主人的眼光打量着牛棚。即便在这短短片刻，对于那荒凉沼泽农场（marsh farm）的桑恩斯韦特（Thornthwaite）家的人来说，生活已然转向。他的腰杆似乎挺得更直了，眼睛更亮了，头脑也更活跃了。拟议职位的种种弊端在众多优势面前开始退却。当然，他将成为弟弟的雇工，但同样真实的是，他也是主人的哥哥。实际上，他几乎就是主人——也就是说，当伊莱莎（Eliza）不在的时候！威尔的农舍很好，威尔的一切都很好，丫头们也能照看萨拉，正如他所说的。对他自己而言，一个大农场带来的持续兴趣与激励，以及固定周薪带来的精神宽慰，都将是实实在在的。当他们穿过院子，朝路对面泰勒（Taylor）的农舍走去时，他几乎为此感到兴奋起来。他努力不去想萨拉听到消息后会说什么，更不去想威尔夫人（Mrs. Will）毫无疑问会说的话。在当下这精神抖擞的心境里，他觉得自己能应付她们俩，甚至试图说服自己，假以时日她们会成为朋友。
+西蒙忙着摇头，说自己不值得、太老了，但自始至终都饶有兴致甚至愉悦地听着威尔的话。挤奶现在已经开始了，当杠杆在牛群头顶来回摆动时，他已经不由自主地用一种主人的眼光打量着牛棚。即便在这短短片刻，对于那荒凉沼泽农场（marsh farm）的索恩思韦特（Thornthwaite）家的人来说，生活已然转向。他的腰杆似乎挺得更直了，眼睛更亮了，头脑也更活跃了。拟议职位的种种弊端在众多优势面前开始退却。当然，他将成为弟弟的雇工，但同样真实的是，他也是主人的哥哥。实际上，他几乎就是主人——也就是说，当伊莱莎（Eliza）不在的时候！威尔的农舍很好，威尔的一切都很好，丫头们也能照看萨拉，正如他所说的。对他自己而言，一个大农场带来的持续兴趣与激励，以及固定周薪带来的精神宽慰，都将是实实在在的。当他们穿过院子，朝路对面泰勒（Taylor）的农舍走去时，他几乎为此感到兴奋起来。他努力不去想萨拉听到消息后会说什么，更不去想威尔夫人（Mrs. Will）毫无疑问会说的话。在当下这精神抖擞的心境里，他觉得自己能应付她们俩，甚至试图说服自己，假以时日她们会成为朋友。
 
 ===Original===
 As they stood looking at Taylor’s cottage and Taylor’s gooseberry bushes and canes, Will suddenly asked his brother whether there was any news of Geordie. And Simon, when he had given the old answer that there was no news that was worth crossing the road to hear, turned his face away in the direction of Taylor’s hens, and enquired whether there was any news of Jim.
@@ -1072,6 +1072,28 @@ She did not trouble herself even to speculate how she would feel when at last th
 所以她并不感到羞愧，甚至也不真的惊慌，因为她内心深信这桩罪过不是她自己的。然而那个声音确实出自她之口，而随后那种冷酷的满足感和讽刺的愉悦也确实是她的！既然真的独处了，她偶尔允许自己轻轻笑出声来，痛快地品味着伊莱莎（Eliza）的屈辱和惊恐。至少在这么多年的争斗中，她有生以来头一回成了胜利者。不管最终要为此付出怎样的代价，她至少有一次攥住了布林德贝克（Blindbeck）的鞭柄。事实上，现在事情已经做完了——而且做得如此轻易——她惊异自己以前竟从未这样做过。然而在她脑海深处，模糊地知道像这样的惊天大事只有一个可能发生的时刻。也许是院子里那个梦所催生的渴望突然变得足够强大，自行其是了。也许，就像关于农场的决定一样，一句在脑海中躺了很久的话终于不受大脑的明显协助而说出了口。……
 她甚至懒得去猜测真相大白时自己会是什么感觉。只要她选择保持现状，只要她坐着摇晃着，把世界挡在她梦游般的眼睛之外，这就是真相。从假装它是真的，她很快就相信了它也许确实是可能的。她知道这样的事情发生过不止一次，谁能说它们现在不会正在发生呢？她告诉自己，如果她能在某一刻用全身的每一个部分去相信它，它就会成真。在天上，据说每当一个孩子降生就会有一颗星星眨眼，他们只需要扳动某个杠杆，它就会成为真的。
 
+===Original===
+A clock ticked on the mantelpiece with a slow, rather hesitating sound, as if trying to warn the house that Sunday and the need of the winding-key were near. There was a close, secretive feeling in the room, the atmosphere of so many objects shut together in an almost terrible proximity for so many days of the week. She was so weary that she could have fallen asleep, but her brain was too excited to let her rest. The magnitude of her crime still held her breathlessly enthralled; the glamour of it made possible all impossible hopes. She dwelt again and again on the spontaneity of the lie, which seemed to give it the unmistakable stamp of truth.
+She had long since forgotten what it was like to be really happy or even at peace, but in some sort of fierce, gloating, heathenish way she was happy now. She was conscious, for instance, of a sense of importance beyond anything she had ever known. Even that half of her brain which insisted that the whole thing was pretence could not really chill the pervading glow of pride. She had caught the reflection of her state in Eliza’s voice, as well as in others less familiar to her ear. She had read it even in Sally’s kindly championship and support; through the sympathy she had not failed to hear the awe. The best proof﻿—if she needed proof﻿—was that she was actually here in the sacred parlour, and seated in the precious chair. Eliza would have turned her out of both long since, she knew, if she had not been clad in that new importance as in cloth of gold.
+The impossible lies nearer than mere probability to the actual fact; so near at times that the merest effort seems needed to cross the line. Desire, racking both soul and body with such powerful hands, must surely be strong enough to leap the slender pale. The peculiar mockery about ill-luck is always the trifling difference between the opposite sides of the shield. It is the difference between the full glass and the glass turned upside-down. But today at least this tired old woman had swung the buckler round, and laughed as she held the glass in her hand and saw the light strike through the wine.
+
+===Chinese===
+壁炉架上的钟滴答作响，声音迟缓而带着几分犹豫，仿佛在提醒这宅子里的人：礼拜日快到了，该拿钥匙来上发条了。屋里有一种逼仄而神秘的气息，那是许多物件在一周的许多日子里以一种近乎可怕的亲密紧紧闭锁在一起所散发的氛围。她疲惫得本可以沉沉睡去，可脑子却过度兴奋，不容她合眼。那桩罪过的巨大规模依然令她屏息着迷；谎言那绚烂的光环使一切不可能的希冀都变得唾手可得。她一遍又一遍回味着脱口而出的那个谎言，那种全然不假思索的自发之势，仿佛给它盖上了确凿无疑的真实印记。
+她早已经忘记真正快乐或哪怕心境平和是什么滋味了，但此刻她却快乐着——以一种激烈、幸灾乐祸且近乎蛮荒的方式。比方说，她体会到了一种前所未有的显赫与尊崇。甚至连她大脑中坚称这全是一场骗局的那另一半，也无法真正冷却那弥漫全身的骄傲光芒。她在伊莱莎（Eliza）的声音里捕捉到了自己这副身价的倒影，也在其他几双她不那么熟悉的耳朵里听出了这种回响。她甚至从萨莉（Sally）亲切的维护与照应中读出了这一点；在那些同情声中，她分明听出了敬畏。最好的明证——如果她还需要明证的话——便是她此刻真真切切待在这神圣的客厅里，安坐在这把珍贵的椅子上。她深知，要不是她身上像披着金织锦缎一样裹着这层新的显赫，伊莱莎早就把她从椅子和客厅里一并轰出去了。
+不可能之事，往往比单纯的盖然性更切近事实本身；有时近得似乎只需稍稍费一点力气，就能越过界线。欲望以如此强有力的双手折磨着灵魂与肉体，必定强大得足以跃过那道窄窄的藩篱。厄运那种特有的嘲弄，总在于盾牌正反两面之间微不足道的毫厘之差。那不过是一杯盛满的美酒与一只倒扣过来的酒杯之别。但至少在今天，这个疲惫的老妇人已经将盾牌翻转了过来；当她手中握着酒杯、看着光线穿透杯中的红酒时，她露出了欢笑。
+
+===Original===
+In this long day of Simon’s and Sarah’s nothing was stranger than the varying strata of glamour and gloom through which in turn they passed. Their days and weeks were, as a rule, mere grey blocks of blank, monotonous life, imperceptibly lightened or further shadowed by the subtle changes of the sky. But into these few hours so closely packed with dreadful humiliations and decisions, so much accumulated unkindness and insult and cold hate, there kept streaming upon them shafts of light from some centre quite unknown. For Simon there had been the unexpected stimulant of his Witham success, and later the new interest in life which Will’s proposal had seemed to offer. For Sarah there was the wistful pleasure of her morning with May, as well as the unlawful but passionate pleasure of her present position. The speed of the changes kept them overstrung, so that each as it came found them more sensitive than the last. They were like falling bodies dropping by turn through cloud and sunlit air. They were like total wrecks on some darkened sea, catching and losing by turn the lights of an approaching vessel.
+The slow clock dragged the protesting minutes on, and still no one disturbed her and the dream widened and grew. Tea would be brought in soon, she told herself in the dream﻿—strong, expensive, visitor’s tea, freshly boiled and brewed. The silver teapot would be queening it over the tray, flanked by steaming scones and an oven-new, homemade cake. Eliza herself would appear to entertain her guest, always with that new note of reverence in her voice. When the door opened they would hear another voice﻿—Geordie’s, laughing and talking in some room beyond. All the happy young voices of the house would mingle with his, but always the youngest and happiest would be Geordie’s own. Hearing that voice, she would make mock of herself forever having feared Eliza’s tongue, still more forever having cared enough to honour her with hate. A small thing then would be the great Eliza, in spite of her size, beside the mother for whom the dead had been made alive. She would talk with Eliza as the gods talk when they speak with the humble human from invisible heights. So strong was the vision that she found herself framing the godlike sentences with gracious ease. The silver teaspoons clinked against the cups, and the visitor’s tea was fragrant in the musty room. She spread a linen handkerchief across her knee﻿ ﻿… a snowy softness against her silken knee.﻿ ﻿… And always, always, as the meal progressed, the voice of her ecstasy sang in her happy ear.﻿ ﻿…
+She had that one moment of clear beauty unprofaned by hate, with Geordie’s face swimming before her in a golden haze. Then her hand, going out to the silk and linen of the dream, encountered the darned and threadbare serge of dreary fact. The dream rent violently all around her, letting her out again into the unlovely world. Even her blindness had been forgotten for the time, for in the dream she was never blind. Now the touch of the darns under her hand brought back the long hours of mending by candlelight which had had their share in despoiling her of her sight. She would never be able to darn by candlelight again, and the loss of that drudgery seemed to her now an added grief, because into this and all similar work, as women know, goes the hope of the future to emerge again as the soul of the past.﻿ ﻿… Sarah knew that her hand would ache for her needle as the sailor’s hand aches for the helm, or the crippled horseman’s for the feel of the flat rein. She felt, too, a sudden desperate anger against the woman who would have the mending of Simon’s clothes. Geordie’s, she knew, she would simply have wrenched from any stranger’s hands, but since there was no Geordie she need not think of that. The Dream had been merely the make-believe of the bitterly oppressed, who had taken to desperate lying as a last resort. Yet still the sweetness lingered, keeping her serene, like the last scent of a passed garden or the last light upon darkening hills.
+She smoothed her hands on the arms of the precious chair, and reached out and smoothed the satin of the table. Through the dimness the solid piano loomed, the rosewood coffin of a thousand songs. The carpet under her feet felt elastic yet softly deep. There were ornaments in the room, good stuff as well as trash, trifles pointing the passions of Eliza’s curious soul. But for once, after all these years, Eliza’s soul would be sorrowful in spite of her great possessions. Back in the kitchen she would be gritting her teeth on the fact that it was Sarah’s son who was coming home, coming with money to burn and a great and splendid will to burn it. She would exact payment, of course, when the truth was known, but even the last ounce of payment could not give her back this hour. For this hour, at least, it was hers to suffer and Sarah’s to reign. For this hour, at least, the heavily-weighted tables of destiny were turned.
+
+===Chinese===
+在西蒙（Simon）和萨拉（Sarah）这漫长的一天里，最离奇的莫过于他们轮番穿过的一层层交替变换的光环与阴郁。通常来说，他们的日子和岁月不过是一块块由空白、单调的生存构成的灰色顽石，仅随天色的微妙阴晴隐隐透出一丝光亮或覆上一层阴翳。然而，在如今这区区几个小时里，密密匝匝地堆积着可怕的屈辱与抉择，蓄积着如此厚重的冷酷、侮辱与冰冷的憎恨，却又不断从某个全然未知的源头向他们射来一束束光亮。对西蒙而言，先是在威瑟姆（Witham）意想不到的得手激起了兴奋，随后是威尔（Will）的提议似乎为生计带来了新的指望。对萨拉而言，既有早晨与梅（May）相伴的那份惆怅的欣慰，也有此刻所处地位带来的那份不正当却炽烈的快感。风云变幻的节奏令他们神经紧绷，每一阵新的波澜袭来，都发现他们比上一回更加敏感脆弱。他们就像坠落的身躯，轮番跌过浓密的云层与明丽的日光。他们又像漂泊在幽暗海面上彻底毁损的残舟，对一艘缓缓驶近的船只的灯火，时而捕捉在眼底，时而又失落在茫茫夜色之中。
+那座迟缓的钟拖着仿佛满腹抗议的每分每秒往前挪，依旧没有人来打扰她，而那场梦境正不断舒展、膨胀。茶点很快就会端进来了，她在梦中对自己说——那是浓酽、昂贵、专敬贵客的好茶，现烧现沏。银茶壶宛如女王般高居托盘正中，两旁簇拥着热气腾腾的烤饼和刚出炉的自制蛋糕。伊莱莎（Eliza）本人会亲自出来款待客人，言谈间始终带着那股新添的敬畏口吻。门一打开，他们还会听见另一个声音——乔迪（Geordie）的笑语声正从那头的某间屋子里传来。宅子里所有年轻人欢畅的笑语都会与他的笑声交织在一起，可最清脆、最欢快的永远是乔迪自己的声音。听见那声音，她会暗笑自己当年竟然还怕过伊莱莎的那张嘴，甚至竟还耿耿于怀到拿恨意去抬举她。在一位死而复生的儿子的母亲身旁，不可一世的伊莱莎尽管块头硕大，也终究不过是个微不足道的小角色罢了。她同伊莱莎说话，会像神明从无形的高处俯视卑微的凡人那样发话。那幻象如此逼真强烈，以至于她发觉自己正以娴雅从容的气度斟酌着神明般的措辞。银茶匙在茶杯上叮咚作响，待客茶的芬芳在这霉湿的屋子里四散弥漫。她在膝头铺开一方亚麻手帕……一片雪白柔软，贴着她丝绸般光滑的膝弯……而在这一顿茶饭继续的整个过程里，她心底狂喜的声音始终在幸福的耳畔吟唱……
+她拥有了这片刻未被仇恨亵渎的纯净美好，乔迪（Geordie）的面容在金色的薄雾中浮现在她眼前。随后，她那伸向梦境中丝绸与亚麻的手，猛然触碰到了凄凉现实中补丁累累、磨得露线的哔叽粗布。梦境在她四周霍然撕裂，将她重新抛回这个丑陋冰冷的人世。她刚才甚至把自己的失明都忘到了脑后，因为在梦中她从不曾眼瞎。如今指尖下粗糙的补丁触感，勾起了在烛光下彻夜缝补的漫长岁月——正是那无休无止的辛劳剥夺了她的视力。她再也不能在烛光下缝补了，而连失去这份苦工，此刻在她心头也成了一种平添的哀痛；因为凡是女人都懂得，在这桩苦活以及所有类似的劳作里，都倾注着对未来的期盼，又在日后重新化作往昔岁月的精魂……萨拉知道，自己的手渴望摸到缝衣针，正如水手的手渴望握住舵轮、残废的骑手渴望触到平整的缰绳一样焦灼。她心中还猛然升起一阵绝望的怒火，冲着那个将来替西蒙（Simon）缝补衣衫的女人而去。至于乔迪的衣服，她深知自己哪怕从任何生人手里生抢也会夺回来，但既然世上根本没有乔迪，她便无须去想了。这场梦境，不过是被逼入绝境的苦命人以孤注一掷的谎言作为最后避难所的一场自欺欺人罢了。然而那份甘美依旧余香袅袅，守护着她内心的平静，宛如走过花园后残存的最后一缕芬芳，抑或暮色群山上升起的最后一抹余晖。
+她用双手抚摩着这把珍贵摇椅的扶手，又伸出手去轻抚桌面上光滑如缎的木纹。幽暗中，那架沉稳的钢琴隐隐浮现，恰似一座装殓着千百支歌曲的花梨木棺椁。脚下的地毯踩上去既富有弹性，又深邃柔软。屋里陈设着各式摆件，既有上等好货，也有不值钱的破烂，全是指向伊莱莎（Eliza）那颗怪异灵魂之癖好的零碎玩艺。然而在熬过了这么多年之后，只消这一次，哪怕坐拥万贯家财，伊莱莎的灵魂也终将痛苦万状。回到厨房里，她必定正咬牙切齿地咽下一桩事实：归家的是萨拉的儿子，他带着花不完的万贯家资归来，带着挥金如土的豪迈与气派归来。当然，真相大白之时，她必定会勒索偿还，但哪怕连最后一分一厘都索还回去，也休想再把这一个钟头夺回去了。至少在眼下这一个钟头里，该由她来忍受折磨，而该由萨拉君临天下。至少在这一个钟头里，命运那沉重倾斜的赌桌，已经被彻底掀翻了过来。
+
 ### VI
 
 ===Original===
@@ -1114,9 +1136,9 @@ A distinct thrill of apprehension ran through the company at this tactful speech
 "You've no call to go raking up yon d—d rubbish!" Mr. Addison burst out, crimson to the hair, and quite forgetting the obligations of his Christian mission. He had said the same thing to Eliza's eldest lass, and much about the same time, and knew that Eliza knew it as well as he. "Folks isn't right in their heads when they're courting, as everybody knows, and it's real mean to bring it agen 'em after all these years. As for Geordie Thornthet, there was lile or nowt I could learn him, and that's sure! T'lasses was always after him like bees at a bottle o' rum."
 
 ===Chinese===
-"要不是乔迪的话，吉姆本来一直挺好的。"艾迪生太太（Mrs. Addison）摇晃着一顶松垮灵活的软帽，一脸郑重。"那个乔迪·桑西特（Geordie Thornthet）真是个彻头彻尾的祸害——又坏又淘气，是个真正的捣蛋鬼！他干的那些事，真是——什么田鼠灯笼之类的，天黑了冲人家窗户起哄，人家在小路上谈恋爱的时候躲在树篱后面偷看！你想想，那时候斯蒂芬（Stephen）和我还没结婚呢，我还记得有个夏天的晚上乔迪把我们吓得够呛。斯蒂芬那会儿对我可着迷了，你大概也知道，虽然现在要他承认的话，非把自己憋得脸发紫不可。嗯，就是我说的那天晚上，他拉着我的手，那副模样活像暴风雨里一只快淹死的鸭子。'珍妮·索菲亚，'他说，声音甜得像一片三叶草田，'我对你太着迷了，珍妮·索菲亚'——这时候乔迪突然从树篱那头冒出来，龇牙咧嘴地像下雨前的驴子一样叫唤起来！"
+"要不是乔迪的话，吉姆本来一直挺好的。"艾迪生太太（Mrs. Addison）摇晃着一顶松垮灵活的软帽，一脸郑重。"那个乔迪·索恩思韦特（Geordie Thornthet）真是个彻头彻尾的祸害——又坏又淘气，是个真正的捣蛋鬼！他干的那些事，真是——什么田鼠灯笼之类的，天黑了冲人家窗户起哄，人家在小路上谈恋爱的时候躲在树篱后面偷看！你想想，那时候斯蒂芬（Stephen）和我还没结婚呢，我还记得有个夏天的晚上乔迪把我们吓得够呛。斯蒂芬那会儿对我可着迷了，你大概也知道，虽然现在要他承认的话，非把自己憋得脸发紫不可。嗯，就是我说的那天晚上，他拉着我的手，那副模样活像暴风雨里一只快淹死的鸭子。'珍妮·索菲亚，'他说，声音甜得像一片三叶草田，'我对你太着迷了，珍妮·索菲亚'——这时候乔迪突然从树篱那头冒出来，龇牙咧嘴地像下雨前的驴子一样叫唤起来！"
 
-"你犯不着把那些该死的破事翻出来！"艾迪生先生（Mr. Addison）突然爆发，脸红到了发根，完全忘了他作为基督徒的使命。当年他对伊莱莎的大女儿说过差不多一模一样的话，而且差不多是同一阵子，他知道伊莱莎跟他一样清楚。"谁都知道谈恋爱的时候脑子都不太好使，过了这么多年再翻出来就太缺德了。至于乔迪·桑西特，我能教他的实在是少之又少，这倒是真的！姑娘们对他总是像蜜蜂围着朗姆酒瓶一样。"
+"你犯不着把那些该死的破事翻出来！"艾迪生先生（Mr. Addison）突然爆发，脸红到了发根，完全忘了他作为基督徒的使命。当年他对伊莱莎的大女儿说过差不多一模一样的话，而且差不多是同一阵子，他知道伊莱莎跟他一样清楚。"谁都知道谈恋爱的时候脑子都不太好使，过了这么多年再翻出来就太缺德了。至于乔迪·索恩思韦特，我能教他的实在是少之又少，这倒是真的！姑娘们对他总是像蜜蜂围着朗姆酒瓶一样。"
 
 ===Original===
 "Nay, now, you mean our Jim!" Jim's mother corrected him with an air of offence. "Nobody never reckoned nowt o' Geordie but May Fleming. He couldn't hold a candle to Jim, any day o' the week. Folk said they couldn't tell 'em apart, but I never see a scrap o' likeness myself." She glanced defiantly round the table, as if expecting opposition, and then swung round eagerly as Sally reappeared. "Well, my lass, well?" she rapped out—"did she tell you anything more? You've taken your time about coming back, I'm sure!"
@@ -1148,7 +1170,7 @@ A distinct thrill of apprehension ran through the company at this tactful speech
 
 "倒像是在办丧事，根本不像迎人回家！"玛丽·菲莉丝替她下了结论，带着轻蔑的笑声。
 
-"至于西蒙（Simon）舅舅，他气得跟一把剪刀似的！"艾米莉·马里恩（Emily Marion）烦躁地补了一句。桑西特家的人今天尽给这位准新娘添堵。西蒙一开始差点把婚事搅黄，而现在众人的注意力全放在了一个她从未见过的桑西特家人身上。
+"至于西蒙（Simon）舅舅，他气得跟一把剪刀似的！"艾米莉·马里恩（Emily Marion）烦躁地补了一句。索恩思韦特家的人今天尽给这位准新娘添堵。西蒙一开始差点把婚事搅黄，而现在众人的注意力全放在了一个她从未见过的索恩思韦特家人身上。
 
 ===Original===
 "Not how *I* should take good news, certainly!" Elliman said, hoping that no one had noticed his menial act. "I should have something more to say for myself, I hope, than that."
@@ -1330,7 +1352,7 @@ She choked when she came to the last words, both from sudden nervousness, and la
 ===Chinese===
 威尔太太觉得整个世界在飞速旋转，她拼命想抓住它，却抓不住。她的太阳穴在跳动，喉咙在翻涌，瞪大的眼睛一片茫然。她摸索着走到窗前，猛地推开沉重的窗扇；正当她站在那里喘着粗气的时候，西蒙和威尔正慢悠悠地穿过院子。她的眼睛在涌入的空气中重新看清了东西，捕捉到西蒙脸上浮起的微笑，他整个神情中流露出的新兴趣和新活力。如果萨拉说的是真的，他不可能知道这个重大消息；充其量只是有所察觉。但他那种微妙的满足神情本身就够让人心烦的了。这确实是压垮伊莱莎自制力的最后一根稻草。当她再次转过身来时，话语和气息如同山涧般奔涌而出。
 
-"我真纳闷你怎么不害怕，萨拉·桑西特，坐在那里像从线轴上抽棉线一样扯谎！你大概是想激怒我和我们家的人吧，可你要是觉得这就是你能开的最好的玩笑，那我告诉你，我一点也瞧不上！乔迪带着钱回来！乔迪想要大宅什么的！不，萨拉，别的我推一推拉一拉的也许还能信，可这最后一条也太过分了。哼，我还不如信他要去把国王的皇冠偷来，没准还拿威瑟姆市政厅当住处呢！至于说什么体谅我的感受之类的话，你从来就没有关心过，现在也犯不着装模作样。事情只有两种可能，萨拉，我知道是哪种。要么你从头到尾说了一套漂亮的谎话，要么回来的根本不是乔迪，而是我们家吉姆！"
+"我真纳闷你怎么不害怕，萨拉·索恩思韦特，坐在那里像从线轴上抽棉线一样扯谎！你大概是想激怒我和我们家的人吧，可你要是觉得这就是你能开的最好的玩笑，那我告诉你，我一点也瞧不上！乔迪带着钱回来！乔迪想要大宅什么的！不，萨拉，别的我推一推拉一拉的也许还能信，可这最后一条也太过分了。哼，我还不如信他要去把国王的皇冠偷来，没准还拿威瑟姆市政厅当住处呢！至于说什么体谅我的感受之类的话，你从来就没有关心过，现在也犯不着装模作样。事情只有两种可能，萨拉，我知道是哪种。要么你从头到尾说了一套漂亮的谎话，要么回来的根本不是乔迪，而是我们家吉姆！"
 
 说到最后几个字的时候她噎住了，一半是因为突如其来的紧张，一半是因为喘不上气来，萨拉再次发出了她那教养良好的笑声。
 
@@ -1492,7 +1514,7 @@ She stirred then, moved by the cheated sound in his angry voice. She gave a sigh
 ===Chinese===
 "你说乔迪要回来了？"西蒙困惑地盯着他。
 
-"桑西特太太是这么让我们理解的。"
+"索恩思韦特太太是这么让我们理解的。"
 
 "还带了钱？很多钱？*乔迪*有钱？"
 
@@ -1532,7 +1554,7 @@ She shook her fist at the window, and the faces disappeared like morning frost. 
 
 他回过神来，听到伊莱莎的声音，如同一个从死里复活的人重新听到生命的喧嚣。
 
-"我真纳闷你怎么没当场倒下，萨拉·桑西特！我真纳闷你没躺在地上死过去！可你迟早要遭报应的，放心；你跑不掉的，别担心！你等着，不出多久就会有事落到你头上——没准明天一早就有！很可能，我们下次听到乔迪的消息就是他已经死了或者淹死了。……你要是再不管我，威尔，我给你一巴掌！"
+"我真纳闷你怎么没当场倒下，萨拉·索恩思韦特！我真纳闷你没躺在地上死过去！可你迟早要遭报应的，放心；你跑不掉的，别担心！你等着，不出多久就会有事落到你头上——没准明天一早就有！很可能，我们下次听到乔迪的消息就是他已经死了或者淹死了。……你要是再不管我，威尔，我给你一巴掌！"
 
 是萨莉在这一天第二次挽救了局面。
 
@@ -1594,7 +1616,7 @@ It was true that Sarah had already rejected her offer—brutally, almost, in her
 Now she had turned the end of the bay, and was running along the flat road that hugged the curve of the shore. Below on her right were the sands, almost within flick of her whip, with the river-channel winding its dull length a hundred yards away. Beyond it, the sand narrowed into the arm of the marsh, until the eye caught the soft etching of the Thornthwaite farm, set on the faint gold and green of the jutting land.
 
 ===Chinese===
-她已经转过海湾尽头，正沿着紧贴海岸弧线的平坦道路奔跑。右边下方就是沙滩，几乎一扬鞭就能触及，河道在一百码外蜿蜒着它那灰暗的身影。再过去，沙滩收窄成沼泽的一角，直到目光触及桑德韦特农场的柔美轮廓——它坐落在那片伸出陆地的淡淡金绿色中。
+她已经转过海湾尽头，正沿着紧贴海岸弧线的平坦道路奔跑。右边下方就是沙滩，几乎一扬鞭就能触及，河道在一百码外蜿蜒着它那灰暗的身影。再过去，沙滩收窄成沼泽的一角，直到目光触及索恩思韦特农场的柔美轮廓——它坐落在那片伸出陆地的淡淡金绿色中。
 
 ===Original===
 The inn, low, white-faced, dark, with all the light of it in the eyes that looked so far abroad, was very quiet when she came to it about three o'clock. The odd-job man was waiting about to take her horse, and she paused to have a word or two with him in the yard. Then she went briskly into the silent place, and at once the whole drowsy air of it stirred and became alive. The spotlessness of the house seemed to take on a sparkling quality from the swift vitality of her presence. The very fire seemed to burn brighter when she entered, and the high lights on the steels and brasses to take a finer gleam. Her father called to her from the room where he lay upstairs, and her buoyant tread, as she went up, seemed to strengthen even his numb limbs and useless feet.
@@ -1618,7 +1640,7 @@ But her eyes were turned continually to the window as she chatted and laughed, d
 She talked until he was tired, and then she made his tea, and left him happy with the papers which she had brought from Witham. Her own tea she ate mechanically, with the whole of her mind still fixed on the promise of the day, and when she had finished she was drawn to the window again before she knew. The Thornthwaites would be home by now, she concluded, looking out. Tired and discouraged, they would be back again at the farm, feeling none of the quivering hope which lifted and thrilled her heart. Sarah would not even dwell on the offer, having put it by for good, and Simon did not as much as know that there had been an offer at all. They would creep to bed and sleep drearily, or wake drearily against their will, while she would wake of her own accord in order to clasp her purpose and find it still alive. She could not bear the thought of the long, blank night which would so soon be wrapping them round; even a stubborn refusal of her hope would be a better friend to them than that. Stronger and stronger grew the knowledge within her that she must see them before they slept. It was for their sake, she told herself, at first, thirsting to be across, and then, as she clinched her decision, knew it was also for her own.
 
 ===Chinese===
-她一直说到他累了，然后给他沏了茶，把从威瑟姆带来的报纸留给他，让他高兴。她自己喝茶时心不在焉，全部心思仍然系在这一天的许诺上。喝完茶，她不知不觉又被吸引到了窗前。桑德韦特夫妇这会儿该到家了吧，她望着外面想。又累又灰心，他们回到了农场，感受不到她心里那颤抖的、激荡的希望。萨拉不会再多想那个提议了，她已经把它彻底搁到了一边，而西蒙根本不知道有过这么一个提议。他们会悄悄上床，闷闷不乐地睡去，或者闷闷不乐地不情愿醒来；而她会自己醒来，只为紧紧抱住自己的信念，发现它还活着。她无法忍受那漫长的、空洞的夜晚即将裹住他们的念头；哪怕是固执地拒绝她的希望，对他们而言也比那强。她心中越来越清晰地知道，她必须在他们入睡之前去见他们。一开始她告诉自己，这是为了他们好，因为她渴望过去；等到她下定了决心，才知道这也是为了她自己。
+她一直说到他累了，然后给他沏了茶，把从威瑟姆带来的报纸留给他，让他高兴。她自己喝茶时心不在焉，全部心思仍然系在这一天的许诺上。喝完茶，她不知不觉又被吸引到了窗前。索恩思韦特夫妇这会儿该到家了吧，她望着外面想。又累又灰心，他们回到了农场，感受不到她心里那颤抖的、激荡的希望。萨拉不会再多想那个提议了，她已经把它彻底搁到了一边，而西蒙根本不知道有过这么一个提议。他们会悄悄上床，闷闷不乐地睡去，或者闷闷不乐地不情愿醒来；而她会自己醒来，只为紧紧抱住自己的信念，发现它还活着。她无法忍受那漫长的、空洞的夜晚即将裹住他们的念头；哪怕是固执地拒绝她的希望，对他们而言也比那强。她心中越来越清晰地知道，她必须在他们入睡之前去见他们。一开始她告诉自己，这是为了他们好，因为她渴望过去；等到她下定了决心，才知道这也是为了她自己。
 
 ===Original===
 She went upstairs again to put on her coat and hat, wondering as she did so what her father would have to say. He would be sure to enquire what took her across the sands so late, yet he would wonder and fret if she left him without a word. Geordie's name had dropped into silence between them for many a year, and, lately as she had spoken it to Sarah, it would be hard to speak it now. She knew only too well what her father would think of her offer of hard-saved gold. He had always been bitter against Geordie for her sake, and would want no wastrel fetched overseas to play on her pity again. She stole halfway down the stairs, and then was vexed with herself and went up again with a resolute tread. Once more she hesitated, with her hand on the door-latch, and then it slipped from her finger and she found herself in the room.
@@ -1678,7 +1700,7 @@ She shook her head.
 She braced herself then, swinging round to him with one of her cheerful laughs. "You'll think I'm daft, I know," she said, looking down at him with dancing eyes, "but I'm right set on seeing Mrs. Thornthet again tonight. We'd a deal to say to each other this morning, but we didn't finish our talk. I thought I could slip over sand and back before it was dark."
 
 ===Chinese===
-她振作起来，转身朝他露出一个开朗的笑。"我知道你会觉得我疯了，"她低头看着他，眼睛里闪着光，说道。"但我今晚真的特别想再见桑德韦特太太一面。我们今天早上有很多话要说，可没来得及说完。我想趁天黑前溜过沙滩去去就回。"
+她振作起来，转身朝他露出一个开朗的笑。"我知道你会觉得我疯了，"她低头看着他，眼睛里闪着光，说道。"但我今晚真的特别想再见索恩思韦特太太一面。我们今天早上有很多话要说，可没来得及说完。我想趁天黑前溜过沙滩去去就回。"
 
 ===Original===
 Fleming looked perturbed.
@@ -1780,7 +1802,7 @@ Her head drooped a little.
 "I'd be glad to see you settled afore I went, but not wi' an idle do-nowt as'd spoil your life. It'll be queer to me if Geordie Thornthet's made much out. He was a wastrel, right enough, for all his wheedlin' ways."
 
 ===Chinese===
-"我倒巴不得在我走之前看到你有了归宿，但不是跟一个游手好闲、毁你一辈子的混小子。乔迪·桑德韦特要是能干出什么名堂来，那才叫怪了。他就是个浪荡子，没错，别看他嘴甜。"
+"我倒巴不得在我走之前看到你有了归宿，但不是跟一个游手好闲、毁你一辈子的混小子。乔迪·索恩思韦特要是能干出什么名堂来，那才叫怪了。他就是个浪荡子，没错，别看他嘴甜。"
 
 ===Original===
 "I'm past thinking o' marriage," she said again. "It's just what it means to the old folks, poor old souls!"
@@ -1792,13 +1814,13 @@ Her head drooped a little.
 "Ay. They've had a mighty poor time, they have that." He sighed, thinking of many a tale of woe unfolded by Simon beside his bed. Then he looked up at her with a whimsical smile. "They'd nobbut the one bairn, same as your mother and me, and there's been whiles I've been real mad because you weren't a lad. Ay, well, I've lived to see the folly o' my ways, and to thank God I'd nobbut a lass! You're worth a dozen Geordie Thornthets any day o' the week.…"
 
 ===Chinese===
-"是啊。他们过的日子可真苦，确实如此。"他叹了口气，想起西蒙在他床边讲过的那些苦难事。然后他抬起头，朝她露出一个古怪的微笑。"他们就这一个孩子，跟你娘和我一样，有好些时候我真恨你不是个男娃。唉，好吧，我活到这把年纪，总算明白了自己的蠢，也学会感谢上帝我只有你一个闺女！你比一打乔迪·桑德韦特加起来都强，任何时候都是。……"
+"是啊。他们过的日子可真苦，确实如此。"他叹了口气，想起西蒙在他床边讲过的那些苦难事。然后他抬起头，朝她露出一个古怪的微笑。"他们就这一个孩子，跟你娘和我一样，有好些时候我真恨你不是个男娃。唉，好吧，我活到这把年纪，总算明白了自己的蠢，也学会感谢上帝我只有你一个闺女！你比一打乔迪·索恩思韦特加起来都强，任何时候都是。……"
 
 ===Original===
 She was gone with an answering smile directly he finished his speech, and the sound of her feet was light and swift on the stair. Hearing her, he, too, seemed to see her a girl again, gone to meet Geordie Thornthwaite along the shore. But instead of reviving and cheering him, it made him sad. He was too near the end to wish himself back at the start. He glanced at the lamp on the table to make sure that it was filled, and settled himself back to his papers with a sigh.
 
 ===Chinese===
-他话音刚落，她便笑着走了，脚步轻快地落在楼梯上。听着那脚步声，他仿佛也看见了她还是个小姑娘的时候，沿着海岸去赴乔迪·桑德韦特的约会。但这情景并没有让他振作、让他高兴，反而让他难过。他离终点太近了，不可能再想回到起点。他瞥了一眼桌上的灯，确认油是满的，然后叹了口气，又靠回报纸上。
+他话音刚落，她便笑着走了，脚步轻快地落在楼梯上。听着那脚步声，他仿佛也看见了她还是个小姑娘的时候，沿着海岸去赴乔迪·索恩思韦特的约会。但这情景并没有让他振作、让他高兴，反而让他难过。他离终点太近了，不可能再想回到起点。他瞥了一眼桌上的灯，确认油是满的，然后叹了口气，又靠回报纸上。
 
 ## II
 
@@ -1842,7 +1864,7 @@ She kept stopping the rush of her thoughts to send her senses over the marsh, bu
 The dusk thickened about her as the night tried to impress itself on the earth as a separate entity from the mist. The most that it could do, however, was to produce the effect of a hovering shadow from some huge arrested wing. The real warning of night was in the deepened sense of loneliness and dread of personal diminution in a growing space, in the further recession of things unseen as well as seen. It lay, too, in the stirring consciousness of the impending advent of the tide. She began to look anxiously towards her father's window for the lamp, and though she was comforted when she saw no sign, it stamped the illusion of desolation on her mind. Then she heard the cattle stir in the shippon as she walked along the wall, and was cheered and companioned by them for a little while. She would have gone down to them, or to the dog, who was always a firm friend, but she was afraid of losing her consciousness of time. She could not tear herself, either, from her breathless waiting for the silence to fill with life. She was cold whether she stood or walked, and more and more oppressed by a sense of folly and grave doubt. She even laughed at the middle-aged woman who had thrilled like a girl, but she laughed between her tears. Once or twice she ran down the bank and on to the sand, but always something drew her back, and at last, when she had listened so long that she had ceased to hear, there came the crunching sound of the Thornthwaite wheels. It was there suddenly where there had been no sign, as if it had only begun at the moment it reached her ear. At once her courage sprang up again, and her spirits rose. The whole affair was sweet and brave once more. It was as if she had heard her lover himself coming surely towards her over the lonely marsh. …
 
 ===Chinese===
-夜色试图把自己从雾中分离出来，作为一个独立的存在印在大地上，暮色在她周围愈发浓重。然而它最多只能制造出某种巨大翅膀悬停时投下的阴影。夜晚真正的警示在于孤独感的加深，在于不断膨胀的空间中对自身渺小的恐惧，在于可见和不可见之物的进一步退隐。此外还有潮水将至的预感在意识中翻涌。她开始焦急地朝父亲的窗户张望，想看看有没有灯，虽然没看到灯光让她稍感安慰，却把荒凉的幻象更深地印在了她的心上。然后她沿着堤墙走的时候，听到牛棚里的牛群动了一下，一下子觉得有了伴，精神为之一振。她本想下去看看它们，或者看看那条一向忠实的狗，可她怕失去对时间的感知。她也无法从屏息等待中抽身——等着寂静被生命填满。无论站着还是走着，她都觉得冷，一种愚蠢和深切的疑虑越来越压迫着她。她甚至嘲笑这个像少女一样心潮澎湃的中年女人，可她是在泪水之间笑的。有一两次她跑下堤岸踏上沙地，可总有什么把她拽了回去。最后，当她已经听了太久、以至于不再去听的时候，桑顿韦特（Thornthwaite）马车车轮碾压路面的声音终于传来了。它突然就出现在原本毫无迹象的地方，仿佛只是在传入她耳中的那一刻才开始的。她的勇气立刻又回来了，精神也振作起来。整件事重新变得甜蜜而勇敢。就好像她听到了她的爱人确实正穿过孤寂的沼泽朝她走来。……
+夜色试图把自己从雾中分离出来，作为一个独立的存在印在大地上，暮色在她周围愈发浓重。然而它最多只能制造出某种巨大翅膀悬停时投下的阴影。夜晚真正的警示在于孤独感的加深，在于不断膨胀的空间中对自身渺小的恐惧，在于可见和不可见之物的进一步退隐。此外还有潮水将至的预感在意识中翻涌。她开始焦急地朝父亲的窗户张望，想看看有没有灯，虽然没看到灯光让她稍感安慰，却把荒凉的幻象更深地印在了她的心上。然后她沿着堤墙走的时候，听到牛棚里的牛群动了一下，一下子觉得有了伴，精神为之一振。她本想下去看看它们，或者看看那条一向忠实的狗，可她怕失去对时间的感知。她也无法从屏息等待中抽身——等着寂静被生命填满。无论站着还是走着，她都觉得冷，一种愚蠢和深切的疑虑越来越压迫着她。她甚至嘲笑这个像少女一样心潮澎湃的中年女人，可她是在泪水之间笑的。有一两次她跑下堤岸踏上沙地，可总有什么把她拽了回去。最后，当她已经听了太久、以至于不再去听的时候，索恩思韦特（Thornthwaite）马车车轮碾压路面的声音终于传来了。它突然就出现在原本毫无迹象的地方，仿佛只是在传入她耳中的那一刻才开始的。她的勇气立刻又回来了，精神也振作起来。整件事重新变得甜蜜而勇敢。就好像她听到了她的爱人确实正穿过孤寂的沼泽朝她走来。……
 
 ## III / 第三章
 
@@ -1874,7 +1896,7 @@ She reassured him with a shake of the head and a smile, and, as in the case of M
 
 她摇摇头，笑了笑，让他宽心，但就像面对丹特先生（Mr. Dent）时一样，西蒙突然对笑容感到一阵反感。他这辈子还从没见过像今天这样多朝他微笑的脸。
 
-“一切都好，谢谢。……爹的情况差不多。我只是想跟桑恩斯韦特夫人（Mrs. Thornthet）说句话，仅此而已。
+“一切都好，谢谢。……爹的情况差不多。我只是想跟索恩思韦特夫人（Mrs. Thornthet）说句话，仅此而已。
 
 “不过，你路上可耽搁了好久（terble）！”她在他开口前快活地补充道。“我差点都决定要回去了。”
 
@@ -1940,7 +1962,7 @@ May laughed again, but there was less confidence in the laugh. She waited to spe
 ===Chinese===
 梅（May）又笑了，但笑声里少了些底气。她等到西蒙（Simon）牵着马走开，狗在马鼻子底下蹦跳吠叫时，才再次开口。
 
-“这么晚还来打扰你，真是不好意思，”她开朗地说，“可我实在等不及了。说起来，是你在医生那儿说什么乔迪（Geordie）要回家，把事情都勾起来了，桑恩斯韦特夫人（Mrs. Thornthet）！”
+“这么晚还来打扰你，真是不好意思，”她开朗地说，“可我实在等不及了。说起来，是你在医生那儿说什么乔迪（Geordie）要回家，把事情都勾起来了，索恩思韦特夫人（Mrs. Thornthet）！”
 
 “没人说过他要回来，”萨拉（Sarah）冷冷地说，“从来就没有。”她大手一挥，下午那个荒谬的念头便被扫到了一边。“你该放明白些，别净想这种事！”
 
@@ -1948,7 +1970,7 @@ May laughed again, but there was less confidence in the laugh. She waited to spe
 
 “是啊，可没钱（brass）；所以那事儿到此为止（finished and by wi’），”萨拉说。
 
-“不，有钱，”梅恳求道。“大把的钱！”见对方毫无反应，她犹豫了一下。“不，桑恩斯韦特夫人，你别那样看着我！只要能让大伙儿高兴，钱从哪儿来又有什么关系？”
+“不，有钱，”梅恳求道。“大把的钱！”见对方毫无反应，她犹豫了一下。“不，索恩思韦特夫人，你别那样看着我！只要能让大伙儿高兴，钱从哪儿来又有什么关系？”
 
 “我不会从你那儿买我的高兴，姑娘，我早说过了。”
 
@@ -2014,13 +2036,13 @@ But already Sarah had turned away from her and was moving towards the door. She 
 Sarah was now over the threshold, with her hand against the door, but May’s hand was also against it, refusing to let it close. Her face was white as a flower upon the dusky air, pleading and sweet with frank lips and tearful eyes. Sarah herself was engulfed by the dark house, a shadow that was yet more surely a block than the actual door. It seemed to May that she had all the passionless resistance of some ancient, immovable stone. A lantern across showed the black squares of the shippon stalls, the white coats of the beasts and Simon moving from dark to light. May did not know that the old woman’s purpose was giving in the pause, that that last sentence of hers had broken the stubborn will. She waited despairingly, seeking for more to say, and finding nothing, since the right word had been said. And because she despaired she broke the pause too soon, in an access of hopelessness flinging away her chance. Taking her hand from the door, she pointed to Simon at his job.
 
 ===Chinese===
-“唉，可你真是个狠心的女人，桑恩斯韦特夫人（Mrs. Thornthet）！”她痛得声音发颤地喊道。“看到乔迪（Geordie）回来我确实会高兴，但这现在也没多大分别了。我想看到他回来，是为了你和可怜的桑恩斯韦特先生（Mr. Thornthet）……”
+“唉，可你真是个狠心的女人，索恩思韦特夫人（Mrs. Thornthet）！”她痛得声音发颤地喊道。“看到乔迪（Geordie）回来我确实会高兴，但这现在也没多大分别了。我想看到他回来，是为了你和可怜的索恩思韦特先生（Mr. Thornthet）……”
 
 “你现在喜欢我了，”她鼓起勇气继续说，再次控制住自己。“不管过去怎样，你现在挺喜欢我。看在往日的情分上，你就不能收下这笔钱吗？”
 
 但萨拉（Sarah）已经转身朝门口走去。她熟练地将钥匙插进锁孔，推开了那扇摇摇晃晃的门。梅（May）再次跟了上去，站在那里，怀着那些为自己心中珍爱之物而恳求者的勇气。
 
-“别生着气走开，桑恩斯韦特夫人！”她恳求道。“我为刚才说的话道歉。想想我们今天早上在一起时有多快乐。想想他要是大步走进院子，那该多好……”
+“别生着气走开，索恩思韦特夫人！”她恳求道。“我为刚才说的话道歉。想想我们今天早上在一起时有多快乐。想想他要是大步走进院子，那该多好……”
 
 萨拉此时已跨过门槛，手扶着门，但梅的手也扶在门上，不让它关上。在昏暗的空气中，她的脸白得像一朵花，恳求着，那坦率的双唇和含泪的眼睛显得既甜美又悲伤。萨拉本人则被黑暗的屋子吞噬了，她的身影与其说是一扇门，不如说更像一道无法逾越的障碍。在梅看来，她仿佛拥有某种古老、不可撼动之石的全部冷漠与抗拒。对面牛棚（shippon）的灯光照亮了畜栏的黑色方格、牲畜白色的皮毛，以及西蒙（Simon）从暗处走向亮处的身影。梅不知道，老妇人的意志正在这片沉默中瓦解，她最后那番话已经击碎了那颗固执的心。她绝望地等待着，想再说些什么，却什么也说不出来，因为该说的话已经说了。正因为她绝望，她过早地打破了沉默，在一阵无助中断送了自己的机会。她把手从门上拿开，指着正在干活的西蒙。
 
@@ -2034,7 +2056,7 @@ But Sarah, too, cried out before she had gone a yard, her voice harsh with wrath
 She stopped with an indrawn breath, and the door, creaking abruptly, showed that her weight was heavy on the latch. May stood still in the yard, as still as the shadow that had once again turned to ancient stone. The silence that had fallen between them seemed to push her away, to drive them so far apart that never again would they be able to speak. At last, in that terrible outpouring, May had discovered the real barrier to her desire. There were pride and generosity in the way, but there was also something which she could not fight. The monstrous, lifelong obsession of Eliza had slopped even the natural road to a mother’s heart.
 
 ===Chinese===
-“那我就去问桑恩斯韦特先生（Mr. Thornthet）！”她尖声叫道，开始走开。“也许他会替我办成，而不是你。也许他会看出这番好意，不让骄傲什么的从中作梗！”
+“那我就去问索恩思韦特先生（Mr. Thornthet）！”她尖声叫道，开始走开。“也许他会替我办成，而不是你。也许他会看出这番好意，不让骄傲什么的从中作梗！”
 
 但萨拉（Sarah）还没等她走出一码远，也叫了起来，声音因愤怒和一种恐惧而变得刺耳。
 
@@ -2062,7 +2084,7 @@ She made one last entreating movement towards the shadow that was stone, but nob
 
 她阴郁地思忖着，当初出发时那满腔的笃定如今何在。大海依旧隔开她与爱人，那道海障（bar）比任何陆地的阻隔都要巨大。对有些人而言，大海是一种诅咒，而她或许在不知不觉中也是其中之一。她确实爱大海，但她从未忘记是它夺走了她的第一个希望。也许大海在嘲弄她的爱，就像萨拉嘲弄她的爱一样。也许它只是在黑暗中等待着伤害她……
 
-她朝那石化般的身影做了最后一次恳求的举动，但黑暗中无人移动，也无人说话。那一刻她无法确定萨拉是否还在，抑或她所恳求的一切只是漆黑一片。接着，她渐渐开始移动，仿佛将双脚从院子的地面硬生生拔了出来。她悲伤地、头也不回地登上海堤，被失败、悲伤和自惭形秽的重负压弯了腰。但当她面对沙洲时，恐惧再次袭来，她匆匆走下堤的另一侧。桑恩斯韦特家的守护天使就这样逃离了夜色，仿佛被连枷驱赶一般。
+她朝那石化般的身影做了最后一次恳求的举动，但黑暗中无人移动，也无人说话。那一刻她无法确定萨拉是否还在，抑或她所恳求的一切只是漆黑一片。接着，她渐渐开始移动，仿佛将双脚从院子的地面硬生生拔了出来。她悲伤地、头也不回地登上海堤，被失败、悲伤和自惭形秽的重负压弯了腰。但当她面对沙洲时，恐惧再次袭来，她匆匆走下堤的另一侧。索恩思韦特家的守护天使就这样逃离了夜色，仿佛被连枷驱赶一般。
 
 ## IV / IV
 
@@ -2422,7 +2444,7 @@ Sarah had another shock at the sound of his voice, topped by the accent from ove
 The man laughed a second time, but more naturally, as if reassured the moment he heard her speak. "I sure am!" he answered her joyfully. "Why shouldn’t I be? Leastways, I’m all of Jim Thornthet that’s managed to swim across!" The smile stayed on his lips as he stared, but died when she did not respond. "May I come in a spell?" he enquired anxiously. "I’ve only struck England today, and I’ve a bag of news."
 
 ===Chinese===
-那人又笑了，但更自然了，仿佛一听到她说话就放心了。"我确实是！"他愉快地回答她。"我为什么不是？至少，我是吉姆·桑塞特（Jim Thornthet）中成功游过来的全部！"当他凝视时，微笑停留在他嘴唇上，但当他没有回应时就消失了。"我能进来一会儿吗？"他焦急地问道。"我今天刚到英国，我有一袋子消息。"
+那人又笑了，但更自然了，仿佛一听到她说话就放心了。"我确实是！"他愉快地回答她。"我为什么不是？至少，我是吉姆·索恩思韦特（Jim Thornthet）中成功游过来的全部！"当他凝视时，微笑停留在他嘴唇上，但当他没有回应时就消失了。"我能进来一会儿吗？"他焦急地问道。"我今天刚到英国，我有一袋子消息。"
 
 ===Original===
 But again she blocked the entrance as she had blocked it for May. It was the way into herself as well as into the house that these people sought, and she yielded to neither of them by an inch. "You can get out, if you’re Jim," she said caustically, "and as smart as you like! Blindbeck’s your spot. We want nowt wi’ you here."
@@ -2542,7 +2564,7 @@ He turned his smiling eyes suddenly to Sarah’s face.
 "I’ve no use for you, Jim Thornthwaite, and never had. You know that as well as me."
 
 ===Chinese===
-"我对你没用，吉姆·桑塞特（Jim Thornthwaite），从来没有过。你和我一样清楚。"
+"我对你没用，吉姆·索恩思韦特（Jim Thornthwaite），从来没有过。你和我一样清楚。"
 
 ===Original===
 "That’s so!" He laughed again. "But I was always mighty fond of *you*." He made a movement as if to cross to her side, but she backed instantly, as if she guessed. "Of course, you’d a deal rather it had been Geordie," he said. "I know that. But he was never much of a sparkle in the family tarara, and that’s honest. I left him serving in a store—poor lad Geordie—and hankering like honey after the old spot!"
@@ -2872,7 +2894,7 @@ Yet she called to him even as he went, afraid, womanlike, of the sound of the sh
 Even in his disappointment he was still able to smile. "It don’t need a safe between it and a Thornthet, I guess!" was all he said. In that moment, indeed, the money was nothing and less than nothing to them both. Sarah was honest to the core, and never remembered once that dead men tell no tales and that the sea does not betray.…… The thing that had conquered her soul was at least also above that.
 
 ===Chinese===
-即使在失望中，他仍然能够微笑。"我想它不需要在它和桑塞特之间放一个保险箱！"这是他说的全部。在那一刻，确实，钱对他们俩来说什么都不是，甚至比什么都不是更少。萨拉本质上是诚实的，从未想起过死人不会说话，大海不会背叛。……征服她灵魂的东西至少也高于那个。
+即使在失望中，他仍然能够微笑。"我想它不需要在它和索恩思韦特之间放一个保险箱！"这是他说的全部。在那一刻，确实，钱对他们俩来说什么都不是，甚至比什么都不是更少。萨拉本质上是诚实的，从未想起过死人不会说话，大海不会背叛。……征服她灵魂的东西至少也高于那个。
 
 ===Original===
 "Ten, wa’n’t it?" he asked, drifting reluctantly out again. His voice came from further away, like the gull’s voice from the sky. "So long! Cheero! I’ll be back again with the tide.……"
@@ -2935,7 +2957,7 @@ The Simon Thornthwaites were going to market simply because they did not know ho
 They had climbed from the marsh, leaving it dropped like a colourless cloth beside the sea, and already they seemed to have been a long time on the road. They had not slept much, and, waking, had had the cheated feeling, common to the weary, that the foregoing day had never really ended nor the incoming morning ever quite begun. Indeed, the strange, dreamlike day had never really seemed to come awake. Looking back and west, they saw everything grey, with just a lightened shadow marking the far sea, and the marsh lying down on its face like a figure flung down to die. Houses sat low to the earth as if they crouched, and the trees were vague, bodiless wisps, without backbone or sap. When they had their first glimpse of Witham, they saw the town on the fell-side like a fortress through smoked glass, and the Castle alone on its hill was of shadow-stones poised on a poised cloud.
 
 ===Chinese===
-西蒙·桑桑赛斯（Simon Thornthwaites）一家去赶集，只是因为他们不知如何不去。他们去得如同太阳从东方升起一般自然，但对于这趟路程，却远没有那般笃定。他们看上去又沉闷又疲惫，与其说是出门上路，倒不如说是疲惫地再次颠簸回家。马和马车都像再多一个颠簸就要散架，杂乱的挽具用绳子这里那里地修补着。后面的集市篮里既没有黄油也没有家禽；车轮边甚至没有一只耷拉着的兔子晃荡。但他们自始至终是一条链子上的一环，那条链子给了他们并非出于自身的动机和冲劲，因为其他人更清楚自己的目的，走的也是同一条路。偶尔有个骑着年轻夏尔马（Shire）的骑手经过，羽毛一闪，蹄声铿锵。更轻快的马车小跑着转过弯来，朝他们打个招呼。身后和前方，他们不时瞥见那向小镇延伸的队伍。
+西蒙·索恩思韦特（Simon Thornthwaites）一家去赶集，只是因为他们不知如何不去。他们去得如同太阳从东方升起一般自然，但对于这趟路程，却远没有那般笃定。他们看上去又沉闷又疲惫，与其说是出门上路，倒不如说是疲惫地再次颠簸回家。马和马车都像再多一个颠簸就要散架，杂乱的挽具用绳子这里那里地修补着。后面的集市篮里既没有黄油也没有家禽；车轮边甚至没有一只耷拉着的兔子晃荡。但他们自始至终是一条链子上的一环，那条链子给了他们并非出于自身的动机和冲劲，因为其他人更清楚自己的目的，走的也是同一条路。偶尔有个骑着年轻夏尔马（Shire）的骑手经过，羽毛一闪，蹄声铿锵。更轻快的马车小跑着转过弯来，朝他们打个招呼。身后和前方，他们不时瞥见那向小镇延伸的队伍。
 他们从沼泽地爬了上来，把它像一块褪色的布匹留在海边，而在路上他们似乎已经走了很久。他们没怎么睡着，醒来时带着疲惫者常有的那种被欺骗的感觉——前一天从未真正结束，而新的一天也从未真正开始。事实上，这个奇怪的、梦幻般的日子似乎从未真正醒来过。回首向西望去，他们看见一切都是灰色的，只有一片变浅的阴影标示着远处的大海，沼泽趴伏在地，像一个被摔在地上的垂死之人。房屋低伏在大地上，仿佛蜷缩着，树木是模糊的、无形的游丝，没有筋骨也没有汁液。当他们第一次瞥见威瑟姆（Witham）时，看到山上的城镇就像透过烟熏玻璃看到的城堡，唯有山丘上的城堡是由阴影之石架在悬停的云层上筑成的。
 
 ===Original===
@@ -2943,8 +2965,8 @@ The Simon Thornthwaites were old now, and underdogs in the tussle of life, but t
 They farmed Sandholes（桑德霍尔斯） down on the marsh, a lonely bit of a spot that looked as if it had been left there for a winter's tide to take away. It had always had an unlucky name, and, like many unlucky people and things, seemed to have the trick of attracting to itself those who were equally ill-starred. Certainly, Sandholes and the Thornthwaites between them had achieved amazing things in the way of ill-luck. No doubt both farm and folk would have done better apart, but then they had never succeeded in getting apart. It was just as if Fate had thrown and kept them together in order to do each other down. Luck to luck——there seemed nothing else to be said about the Thornthwaites' plight. They even carried the stamp of each other plain to be seen. You had only to look at the farm to know how its tenants looked; you had only to see the folk to know what their home was like. Perhaps it was just that the double weight of misfortune was too big a thing to lift. Perhaps the canker at the heart of it all would allow nothing to prosper and grow sweet.
 
 ===Chinese===
-西蒙·桑桑赛斯一家如今老了，在生活的争斗中落了下风，但他们曾经跟大多数人一样强壮而自信。有时他们会看到年轻时的自己，纳闷从前那个自己怎么就变成了眼前这般模样。老人又瘦又驼，是那种在油灯里早早透出烛光来的人，但女人的骨架更硬朗，更方正，腰背依然挺直。她大半辈子像牛马一般劳作，身板却还是直的。她的脸如同面具，嘴巴紧闭。只有双手偶尔泄了她的底——一双衰老的、操劳过度的手，总也安静不下来。她的眼睛仿佛直直地望着前方某个只有她能看见的东西——凝视着凝视着，盯着她自己树立起来的那个幻影。
-他们在沼泽地的桑德霍尔斯（Sandholes）种田，那是块孤寂的地方，看上去像是被遗弃在那里等着冬天的潮水来卷走的。它一直名声不好，而且像许多倒霉的人和事一样，似乎有一种本事把自己吸引来同样命途多舛的人。毫无疑问，桑德霍尔斯和桑桑赛斯一家联手制造的厄运成就惊人。毫无疑问，农场和人要是分开来会各自过得更好，但他们从未能成功分离。就好像命运把他们掷在一起又紧紧攥住，好让他们互相拖垮。霉运对霉运——关于桑桑赛斯一家的困境，似乎也只能说这么多了。他们甚至彼此打上了清清楚楚的印记。你只要看看农场，就知道它的租户是什么模样；你只要看看人，就知道他们的家是什么样子。也许正因为不幸的双重分量太沉重，无法承受。也许这一切的病根在于什么都长不好、甜不起来。
+西蒙·索恩思韦特一家如今老了，在生活的争斗中落了下风，但他们曾经跟大多数人一样强壮而自信。有时他们会看到年轻时的自己，纳闷从前那个自己怎么就变成了眼前这般模样。老人又瘦又驼，是那种在油灯里早早透出烛光来的人，但女人的骨架更硬朗，更方正，腰背依然挺直。她大半辈子像牛马一般劳作，身板却还是直的。她的脸如同面具，嘴巴紧闭。只有双手偶尔泄了她的底——一双衰老的、操劳过度的手，总也安静不下来。她的眼睛仿佛直直地望着前方某个只有她能看见的东西——凝视着凝视着，盯着她自己树立起来的那个幻影。
+他们在沼泽地的桑德霍尔斯（Sandholes）种田，那是块孤寂的地方，看上去像是被遗弃在那里等着冬天的潮水来卷走的。它一直名声不好，而且像许多倒霉的人和事一样，似乎有一种本事把自己吸引来同样命途多舛的人。毫无疑问，桑德霍尔斯和索恩思韦特一家联手制造的厄运成就惊人。毫无疑问，农场和人要是分开来会各自过得更好，但他们从未能成功分离。就好像命运把他们掷在一起又紧紧攥住，好让他们互相拖垮。霉运对霉运——关于索恩思韦特一家的困境，似乎也只能说这么多了。他们甚至彼此打上了清清楚楚的印记。你只要看看农场，就知道它的租户是什么模样；你只要看看人，就知道他们的家是什么样子。也许正因为不幸的双重分量太沉重，无法承受。也许这一切的病根在于什么都长不好、甜不起来。
 
 ===Original===
 They had an easy landlord, easy and rich; too easy and rich, perhaps, for the Thornthwaites' good. That farm had money——landlord's and tenant's——spent on it above its due; yes, and a certain amount of borrowed brass as well. It had work put into it, thought and courage sufficient to run a colony, and goodwill enough to build a church. And all that it did in return was to go back and back and be a deadhead and a chapter of accidents and an everlasting disappointment and surprise. It was a standing contradiction of the saying——"Be honest with the land, and it will be honest with you." Everything went wrong with that farm that could go wrong, as well as other things that couldn't by any chance have gone anything but right. Most people would have thrown a stone at it at an early stage, but it was part of the Thornthwaite doom that they could not tear themselves away. Even when there seemed no longer a reason for staying, still they stayed. The one streak of sentiment in them that survived the dismal years held them there captive by its silken string.
@@ -2952,9 +2974,9 @@ But today, as they jogged and jolted endlessly towards Witham, the whole, drear,
 Martinmas hirings would be in full swing when they got in, but there was no need now for Simon to enter the ring. Their hired man had seen them through the busiest time, but they could manage without him through the winter months. Their hired men had never stayed very long, because the depression of the place seemed to get into their bones. They tired of crops which seemed to make a point of "finger and toe," and of waiting through dismal weeks to get in the hay. Now the Thornthwaites would never have the worry of hay-time on their own account again——never open the door to catch the scent from their waiting fields——never watch the carts coming back on the golden evening to the barn. "Never again" would be written over many things after today, but perhaps it was there that they saw it written first. After all this time things had somehow stopped of themselves, and after all this time there was nothing to do but go.
 
 ===Chinese===
-他们有一位好说话的房东，好说话又有钱；对桑桑赛斯一家来说，也许太好说话太有钱了。那座农场花了钱——房东的和租户的——远超它应得的份儿；是的，还有一定数额借来的铜板（brass）。它被投入了劳力，投入了足以经营一个殖民地的智慧和勇气，投入了足以建一座教堂的善意。而它作为回报所做的一切，就是不断倒退，变成一个累赘、一连串事故、一个没完没了的失望和意外。它成了那句老话——"对土地诚恳，土地便对你诚恳"——的永久反例。那座农场上，一切能出错的事都出了错，甚至那些无论如何不可能出错的事也跟着出了岔子。大多数人早就朝它扔石头了，但桑桑赛斯一家的宿命就是无法把自己从那里撕开。即使留下来的理由早已不复存在，他们仍然留了下来。在那些阴沉岁月里幸存下来的一丝感伤，用它丝线般的绳索将他们牢牢拴在那里。
+他们有一位好说话的房东，好说话又有钱；对索恩思韦特一家来说，也许太好说话太有钱了。那座农场花了钱——房东的和租户的——远超它应得的份儿；是的，还有一定数额借来的铜板（brass）。它被投入了劳力，投入了足以经营一个殖民地的智慧和勇气，投入了足以建一座教堂的善意。而它作为回报所做的一切，就是不断倒退，变成一个累赘、一连串事故、一个没完没了的失望和意外。它成了那句老话——"对土地诚恳，土地便对你诚恳"——的永久反例。那座农场上，一切能出错的事都出了错，甚至那些无论如何不可能出错的事也跟着出了岔子。大多数人早就朝它扔石头了，但索恩思韦特一家的宿命就是无法把自己从那里撕开。即使留下来的理由早已不复存在，他们仍然留了下来。在那些阴沉岁月里幸存下来的一丝感伤，用它丝线般的绳索将他们牢牢拴在那里。
 然而今天，当他们不停地朝着威瑟姆（Witham）颠簸前行时，那漫长的、阴郁的、没完没了的营生终于走到了尽头。不管他们对自己可能的未来有过怎样的想法，此前他们一直倔强地闭紧嘴巴、紧紧相依。他们甚至从未对彼此说过，总有一天他们不得不离开。他们把这件事拖了太久，仿佛只需要轻轻一推，它就会再往后推得更远。但今天这件事突然间尘埃落定；几乎就发生在两个电线杆之间。
-马丁节雇工集市（Martinmas hirings）等他们到了镇上时应该正热闹，但西蒙已不需要再进雇工市场了。他们雇的帮工帮他们熬过了最忙的时节，但整个冬天他们可以不需要他。他们的雇工向来待不长，因为这地方的萧条似乎渗进了他们的骨头里。他们厌倦了那些偏偏爱烂根的庄稼，厌倦了在沉闷的星期里苦等收割干草。如今桑桑赛斯一家再也不必为干草季操心了——再也不会打开门去闻等候在田野里的气息——再也不会在金色的傍晚看马车驶回谷仓。"再也不会"将从此刻起写在许多事情之上，但也许他们最先看到这几个字就写在这里。这么长时间了，事情不知怎的自行停止了；这么长时间了，除了离开，已经无事可做。
+马丁节雇工集市（Martinmas hirings）等他们到了镇上时应该正热闹，但西蒙已不需要再进雇工市场了。他们雇的帮工帮他们熬过了最忙的时节，但整个冬天他们可以不需要他。他们的雇工向来待不长，因为这地方的萧条似乎渗进了他们的骨头里。他们厌倦了那些偏偏爱烂根的庄稼，厌倦了在沉闷的星期里苦等收割干草。如今索恩思韦特一家再也不必为干草季操心了——再也不会打开门去闻等候在田野里的气息——再也不会在金色的傍晚看马车驶回谷仓。"再也不会"将从此刻起写在许多事情之上，但也许他们最先看到这几个字就写在这里。这么长时间了，事情不知怎的自行停止了；这么长时间了，除了离开，已经无事可做。
 
 ===Original===
 Lads and lasses went by them on cycles, or tugging bundles as they walked; youth with bright cheeks and strong shoulders and clear eyes, taking its health and strength to the market to be hired. Some of them greeted the old folks as they passed, but others did not as much as know their names. Both Simon and Sarah（萨拉） came of old and respectable stock, but to the young generation skimming by on wheels these two had been as good as buried years ago. Sarah's eyes strained themselves after the lithe bodies of the lads, while Simon looked at the lasses with their loads. He would have liked to have offered some of them a lift, but he knew he would catch it from Sarah if he did. Sarah hated the younger end of folk, she always said, and the flyaway lasses she hated most of all. She saw them going past her into beautiful life, just as their swifter wheels went past the trap. Always they were leaving her behind as it seemed to her that she had always been left. It was true, of course, that she had had her turn, but now it seemed so far away it might never have been. All she could see in the background when she looked behind was the cheerless desert which she had had to cover since.
@@ -3004,7 +3026,7 @@ Again he looked at her with that uncomfortable air, though he took no notice of 
 ===Chinese===
 "好了好了（Nay），你可不能灰心，太太，"他连忙说，"灰心可不行。大夫总会有办法治好你的。可咱们这一路走来真是太苦了，"他阴沉沉地接着说，把自己刚说的话忘在了脑后。"好像我们俩被人盯着（overlooked）似的。要说开头，我们也不算多差呀。我们结婚那会儿两人都是又壮实又勤快。就好像这该死的地方（summat）被下了什么咒！"
 "我们这帮人确实被诅咒了没错！"萨拉说。"是啊，我们也用不着别人告诉我们咒从哪儿来的！"
-他又带着那种令人不自在的神情看着她，尽管对她那番刻薄话不置一词。他对她脑海中那个阴魂不角的角落再清楚不过了。那片荒凉的、无法挽回的牧场，每一寸都被踩遍了。
+他又带着那种令人不自在的神情看着她，尽管对她那番刻薄话不置一词。他对她脑海中那个阴魂不散的角落再清楚不过了。那片荒凉的、无法挽回的牧场，每一寸都被踩遍了。
 
 ===Original===
 "Ay, well, we're through on t'far side on't now," he said morosely. "Sandholes can grind the soul out o' some other poor body for the next forty year! I never hear tell o' such a spot!" he went on crossly, with that puzzled exasperation which he always showed when discussing the marsh-farm. "It'd be summat to laugh at if only it didn't make you dancin' mad! What, it's like as if even slates had gitten a spite agen sticking to t'roof! We've had t'tide in t'house more nor once, and sure an' certain it'd be when we'd summat new in the way o' gear. We'd a fire an' all, you'll think on, and it took us a couple o' year getting to rights agen. Burned out and drownded out——why, it's right silly, that's what it is! As for t'land, what it fair swallers up lime an' slag and any mak' o' manure, and does as lile or nowt as it can for it in return. Nigh every crop we've had yet was some sort of a letdown——that's if we'd happen luck to get it at all! Kitchen garden's near as bad; lile or nowt'll come up in't, nobbut you set by it and hod its hand! Ay, and the stock, now——if there was sickness about, sure an' certain it'd fix on us. You'd nobbut just to hear o' tell o' foot and mouth, or anthrax, or summat o' the sort, an' it'd be showing at Sandholes inside a week! Same wi' t'folk in t'house as wi' folk in t'shuppon——fever, fluenzy, diphthery——the whole doctor's bag o' tricks. Nay, there's summat queer about spot, and that's Bible truth! We should ha' made up our minds to get shot of it long since, and tried our luck somewheres else."
@@ -3268,7 +3290,7 @@ Sarah, shaken and faint, and longing to sit down, yet hesitated as if afraid to 
 
 黑暗过道尽头的一扇门开了，露出一间温暖的客厅，摆着鲜花，挂着深红的百叶窗。矮胖的女房东摇摇摆摆地朝他们走来，边走边说，她欢迎的声音振动先于她本人如浪潮般涌来。右边墙上又开了一扇门，一个男人从后面幽暗的角落探出头来。
 
-“是桑瑟特（Thornthet）太太吗？什么？——不大好？哎哟，集市日开头就恹恹的可不行，我敢说！过来在炉边歇会儿，喝杯茶或许就舒坦了。”
+“是索恩思韦特（Thornthet）太太吗？什么？——不大好？哎哟，集市日开头就恹恹的可不行，我敢说！过来在炉边歇会儿，喝杯茶或许就舒坦了。”
 
 萨拉浑身颤抖，头晕目眩，一心想坐下，却又踌躇着不敢踏进门去。她停下脚步时，仿佛觉得面前有什么她无法面对的考验。她心跳剧烈，喉咙发干，尽管渴望进去，却挪不动步子。里边那个男人透过朦胧的庭院看见了她：一张苍白的脸，一身褪色黑衣包裹的朴素身姿。他的目光有一两次离开她落在西蒙身上，但总会回到那个更具戏剧性的人物身上。过道里有一股气流，饱满而浩荡，宛如先行于上帝细微声音之前的风。萨拉被它攫住，被它推着向前，每一次呼吸都灌满它。然而就在她抬脚的刹那，她听见隔壁房间传来一个女人的声音。
 
@@ -3330,9 +3352,9 @@ Sarah said nothing in reply to the invitation, but Simon gave a nod.
 
 “哎哟，那可真是坏消息。”威尔由衷地关切。他温和地瞥了萨拉一眼，尽管带着几分腼腆。“兴许配副眼镜就能治好你，”他柔声说。停顿片刻，他朝通往客栈的拱门甩了甩头。“我把媳妇儿留在那边跟邦德太太聊天。你们要是想去看医生，最好有女人陪着去。”
 
-“我是想找梅帮忙，”西蒙急忙说，祈祷梅从地底下冒出来，而仿佛作为回应，梅从对面一家店铺走了出来。他冲上前去，挥手喊她的名字，她停下来，微笑着，他一把抓住她的手臂。但一听到他说的话，她立刻严肃起来，目光落在萨拉身上，满是忧虑。他朝拱门指了指，她会意地点点头，没再多听，便穿过人群来到萨拉身边。等那个陌生人出现时，两位女士已消失在街尽头，而兄弟俩则朝集市广场走去。这是桑思威特（Thornthwaites）家的人第二次听到一个名字就仓皇逃走，而这一次，梅也碰巧被迅速支走了。
+“我是想找梅帮忙，”西蒙急忙说，祈祷梅从地底下冒出来，而仿佛作为回应，梅从对面一家店铺走了出来。他冲上前去，挥手喊她的名字，她停下来，微笑着，他一把抓住她的手臂。但一听到他说的话，她立刻严肃起来，目光落在萨拉身上，满是忧虑。他朝拱门指了指，她会意地点点头，没再多听，便穿过人群来到萨拉身边。等那个陌生人出现时，两位女士已消失在街尽头，而兄弟俩则朝集市广场走去。这是索恩思韦特（Thornthwaites）家的人第二次听到一个名字就仓皇逃走，而这一次，梅也碰巧被迅速支走了。
 
-### IV
+### IV / 四
 
 ===Original===
 May, however, was only thinking of how she could be of use, and was very cheery and pleasant all along the street. Already she had come across one or two pieces of news, and laughed about them to Sarah until Sarah was laughing, too. Once or twice they met somebody who had something else to tell, and they stood on the pavement together and thrashed the matter out. May's laugh sounded young and gay, and a girlish colour came into her cheeks. The old figure beside her seemed to draw vitality from her generous warmth, her brave air which made an adventure of every commonplace of life. Sarah even rose to a joke or two on her own account, and was wonderfully heartened when they got to the doctor's house. She would not hear of having a cup of tea or even a rest. Time enough for such things, she said with spirit, when they were through.
@@ -3355,16 +3377,11 @@ They spoke of it, indeed, but only casually, as it were, before passing on to th
 "Happen," Sarah said casually, and withdrew it at once. "I don't know as it is."
 
 ===Chinese===
-
-"Ay（坎伯兰方言，意为"是的"），他确实 right kind（好极了），"她实事求是地说，"我可以替他说句公道话，他看起来很 in the know（在行）。我疑心了好一阵子，觉得有 summat（坎伯兰方言，意为"什么东西"）不对劲。说到底这也不算什么 news（新鲜事）了。至于 yon（坎伯兰方言，意为"那个"）手术，他说可能对我有 summat（帮助），可我 doubt（看）我是太老了。我们也没 brass（坎伯兰方言，意为"钱"）去弄那种 notions（花样）。"
-
-"有 hospitals（医院），"梅说——"homes（疗养院）什么的，free（免费）收治你。去的人多着呢，哪怕你这把年纪，他们准能照顾好你。"
-
-"Ay，医生也这么说来着，"萨拉附和道，语气却提不起兴趣。"不过我怕是受不了那种 spots（地方），"她啜了口茶补充道。"我怕是刚踏进大门就 marching out agen（又走出来了）。"
-
-"听说人一旦打定主意就 settle（安顿）得特别好。只要他们能把你治好，费点麻烦也值。"
-
-"Happen（坎伯兰方言，意为"也许"），"萨拉随口说道，随即又收回了。"我看未必。"
+「是啊，他人倒真好，」她实事求是地说，「我替他说句公道话，他看起来很在行。我疑心好一阵子了，觉得总有什么地方大不对劲。说到底，这对我也不算什么新鲜事。至于他说的那个兴许能帮上忙的手术，我看我是太老了。再说了，我们也没那个闲钱去折腾那种花样。」
+「还有医院呢，」梅说——「疗养院什么的，免费收治。去的人多着呢，哪怕到您这把年纪；他们准能把您照料得好好的，我保证。」
+「是啊，医生也是这么说的，」萨拉附和着，语气却提不起兴致。「可如今我怕是受不了那种地方，」她啜了口茶补充道，「我怕是一脚刚迈进门槛，就又拔腿走出来了。」
+「听说人一旦拿定了主意，住着就格外能安下心来。只要他们能把您治好，费点麻烦也值当。」
+「也许吧，」萨拉随口答了句，随即又收了回去。「我看未必。」
 
 ===Original===
 "You're down, that's what it is. You'll feel better after a bit."
@@ -3374,13 +3391,11 @@ They spoke of it, indeed, but only casually, as it were, before passing on to th
 "We'll work it some way," May urged, not knowing of the big pause that had come into Sarah's life. "You may have to get a word put in for you, but that's easy done. I'll see the Squire and Mrs. Wilson and maybe a few more, and it'll be all fixed up without you putting yourself about."
 
 ===Chinese===
-
-"你只是心情低落，过一阵子就会好的。"
-"我看未必。"
-"过一两天你就会 different（不一样）了。你准能 right as a bobbin（顺顺当当）地熬过来。你有 ten（十个人）的 pluck（胆量）。"
-"Ay，好吧，这事我 settle（拿不定）主意，"萨拉固执地说，充耳不闻。"眼下事情有点 ham-sam（坎伯兰方言，意为"乱糟糟的"），"她闪烁其词地补了一句，手里摆弄着茶杯，心里纳闷为什么自己就是说不出他们要离开农场的话来。只要她们不提这件事，就好像什么都没有发生过，好像那些已经定下的话从未说出口。可就在这个时刻，西蒙大概正在告诉威尔和丹特先生（Mr. Dent），消息会一路飞传遍威瑟姆（Witham），直到传进伊莱莎（Eliza）的耳朵里。……
-
-"我们会想办法的，"梅劝道，不知道萨拉的生活里已经发生了那么大的停顿。"你可能需要有人替你美言几句，但那 easy done（好办得很）。我去见乡绅（Squire）和威尔逊太太（Mrs. Wilson），也许再找几个人，事情就能 fixed up（办妥），用不着你亲自出面。"
+「您只是心里难受，才这么想。过一阵子就会好些的。」
+「我看未必。」
+「过一两天您就会想开了。您准能顺顺当当地挺过来。您的胆量顶得上十个人呢。」
+「唉，好吧，反正这事我横竖拿不定主意，」萨拉固执地说，充耳不闻。「眼下事情乱糟糟的，」她闪烁其词地补了一句，手里摆弄着茶杯，心里纳闷自己为什么就是说不出要离开农场的话来。可只要她们不提，就好像什么都没发生过，好像那些敲定主意的话从未出口一样。然而就在眼下这一刻，西蒙多半正在告诉威尔和丹特先生（Mr. Dent），消息会一路飞传遍威瑟姆（Witham），直到传进伊莱莎（Eliza）的耳朵里……
+「我们总能想出办法的，」梅劝道，全不知道萨拉的生活里刚迎来了多么大的一场停顿。「您兴许需要有人替您美言几句，可那好办得很。我去见乡绅和威尔逊太太（Mrs. Wilson），兴许再托几个人，不用您自己操心受累，事情就能全办妥。」
 
 ===Original===
 "You're right kind, you are that."
@@ -3389,19 +3404,16 @@ They spoke of it, indeed, but only casually, as it were, before passing on to th
 May said—"It's best not to think of such things," as cheerfully as she could, but her own face clouded as she spoke, and suddenly she looked old. Here was the old trouble, if the doctor had known, that was still big enough to make the new one seem almost small. Blindness was not so dreadful a thing to these two women, who had both of them lost the light of their eyes so long before. Long ago they had known what it was to rise and see no shine in the day, no blue in the sea for May who had lost her lover, no sun in the sky for Sarah without her child.
 
 ===Chinese===
-
-"你真是 right kind（太好了），确实如此。"
-"值得的，"梅又说了一遍。
-"Ay……我不知道……"萨拉心不在焉地答道，然后坐直了身子。"once（曾经）倒是值得的，"她忽然脱口而出，像是豁了出去。"有过那么一阵子，我宁愿死也不愿瞎，不过 now（现在）已经没多大关系了。我 sure（敢说）没剩下多少东西值得我看了。大半时候，是眼睛让 heart（心） sore（痛）。但如果 Geordie（乔迪）要回来，我会很难过，我 framed（没法）看他的脸。"
-
-梅尽可能欢快地说——"最好别想这些事，"可她自己说话时脸色也阴沉下来，一下子显出了老态。这就是那个旧日的痛苦——要是医生知道的话——它仍然大得足以让新的痛苦显得几乎微不足道。失明对这两个女人来说并不是什么可怕的事，因为她们早在很久以前就已经失去了眼前的光亮。很久以前她们就知道清晨醒来、白昼中看不到光亮是什么滋味——梅失去了爱人，海里再没有蓝色；萨拉失去了孩子，天上再没有太阳。
+「你心肠真好，真是个好姑娘。」
+「值得的，」梅又说了一遍。
+「是啊……我不知道……」萨拉心不在焉地答道，随后猛地坐直了身子。「要是在从前，倒真值得，」她忽然脱口而出，像是豁了出去。「曾经有那么一阵子，我宁愿去死也不愿瞎掉，可如今这倒没多大干系了。反正我敢说，也没剩下多少东西值得我去看了。大半时候，正是眼睛才惹得心里难受。可要是乔迪（Geordie）回来，我却没法端详他的脸，那我心里可真要受不了啦。」
+梅尽量欢快地说——「最好别想这些事，」可她说话时自己的脸色也阴沉下来，陡然显出了老态。这才是旧日里的心病——要是医生知道的话——它依然庞大得足以让眼前的新灾难显得微不足道。失明对这两个女人来说算不得什么可怕的事，因为她们早在很久以前就已经失去了眼前的光明。很久以前她们就懂得了：清晨起身，白昼中却不见一丝光芒——梅失去了恋人，碧海再无蔚蓝；萨拉没有了孩子，苍穹再无艳阳。
 
 ===Original===
 It was twenty years now since Geordie had gone away, clearing out overseas as casually as if into the next field. Eliza's eldest from Blindbeck had gone as well, as like him in face and voice as if hatched in the same nest. They were too lively, too restless for the calm machinery of English country life, and when the call came from over the ocean they had vanished in a night. Canada, which has so many links with Westmorland now, seemed farther away then than the world beyond the grave. Death at least left you with bones in a green yard and a stone with a graven name, but Canada made you childless, and there was no sign of your grief beneath the church's wall. Geordie had written, indeed, from time to time, but though the letters were light enough on the top, there was heartache underneath. He was a failure there, they gathered, after a while, just as they were failures here; as if the curse of the Sandholes luck had followed even across the sea, Jim was a failure, too, as far as they knew, though their impression of Jim's doings was always vague. His very name on the page seemed to have the trick of dissolving itself in invisible ink, and his own letters were never answered and barely even read. He had been fond of his aunt, but Sarah had given him only the scantiest tolerance in return. Sarah, indeed, would not have cared if Jim had been burning in everlasting fire. …
 
 ===Chinese===
-
-乔迪（Geordie）已经走了二十年了，出国闯荡时随随便便的，就像去隔壁的田地一样。布林德贝克（Blindbeck）的伊莱莎家的老大也走了，长相声音跟他像极了，活像同一个窝里孵出来的。他们太活跃、太不安分，受不了英国乡村生活的平静齿轮，大洋彼岸的召唤一来，他们一夜之间就消失了。加拿大如今与威斯特摩兰（Westmorland）有千丝万缕的联系，当时却比坟墓那边的世界还要遥远。死亡至少留给你绿草如茵的墓园里的骨头和刻着名字的石头，加拿大却让你没了孩子，教堂墙下连一丝悲伤的痕迹都没有。乔迪确实不时写过信来，虽然信的表面够轻快，底下却藏着心酸。后来他们渐渐明白，他在那边也是个失败者，就像他们在这里一样失败；好像桑德霍尔斯（Sandholes）厄运的诅咒甚至跟着他越过了大海。吉姆（Jim）也是个失败者，就他们所知，虽然他们对吉姆的行踪一向模糊。他名字出现在信纸上时仿佛会施展墨水隐身术，他自己的信也从没人回过，甚至几乎没人看过。他喜欢他姑妈，但萨拉只给了他最低限度的容忍作为回报。萨拉对吉姆即便正在地狱的永火中焚烧也不会在乎。……
+乔迪已经走了二十个年头了，漂洋过海时轻率得仿佛只是溜达到了隔壁的田野里。布林德贝克（Blindbeck）伊莱莎家的大儿子也一起走了，两人的相貌和嗓音像极了，活像同一个窝里孵出来的。他们太活泼、太浮躁，受不了英国乡村生活的平静轨道，大洋彼岸的召唤一来，他们一夜之间便无影无踪了。加拿大如今与威斯特摩兰（Westmorland）有千丝万缕的牵系，可在那时，它比坟墓那头的彼世还要遥远。死亡至少还会在碧绿的墓园里留下一具枯骨、立下一块刻着名字的墓石，加拿大却教你断子绝孙，连教堂墙垣下都找不到一丝哀痛的痕迹。乔迪确实不时寄信回来，尽管字面上显得挺欢快，字里行间却尽是酸楚。没过多久他们便明白，他在那边也一事无成，正如他们在这边一败涂地一样；仿佛桑德霍尔斯（Sandholes）厄运的诅咒连大洋彼岸也能追随而去。据他们所知，吉姆（Jim）也是个失败者，虽然他们对吉姆的作为向来模模糊糊。信纸上他的名字仿佛有一种遁入无形墨水的戏法，他自己寄来的信从没人回过，甚至几乎没人去读。他一向喜爱姑妈，可萨拉给他的回报却只有最吝啬的容忍。说实在的，哪怕吉姆在永恒的地狱之火中焚烧，萨拉也绝不会放在心上……
 
 ===Original===
 "We'd a letter from Geordie a month back," she said suddenly, after the pause, "begging the loan of a pound o' two to fetch him home."
@@ -3411,16 +3423,11 @@ May felt her heart shake as she leaned forward, clasping her hands.
 "I've a bit put by I could spare," she began, with a thrill in her voice. "It could go from you, Mrs. Thornthet—he need never know. You've only to say the word, and you can have it when you want."
 
 ===Chinese===
-
-"一个月前我们收到乔迪一封信，"她停顿了一下后突然说道，"他借（begging the loan of）一两镑回家。"
-
-梅微微一惊，脸上又泛起了红晕。已经有好久没有乔迪的新消息传到她这里了。过去她习惯去桑德霍尔斯打听消息，用一些她至今仍觉得难为情的间接方法去问。那些日子里萨拉嫉妒她，每一个字都要计较；可自从萨拉不再嫉妒之后，几乎也没什么好计较的了。……
-
-"Ay，他 ax（坎伯兰方言，意为"要"）路费，可我们没钱寄。他要是连这都 shape（坎伯兰方言，意为"应付"）不了，我看我们也不 need（需要）他回来。"
-
-梅双手紧握，身体前倾，觉得心在颤抖。
-
-"我有一点 put aside（存下的钱），可以匀出来，"她开口说，声音里带着一丝激动。"可以从你手里出，桑思韦特太太（Mrs. Thornthwaite）——他永远不会知道。你只要说一声，什么时候要都行。"
+「一个月前我们收到了乔迪的一封信，」停顿片刻后她忽然说道，「求着借一两镑路费接他回家。」
+梅微微一惊，双颊又泛起了红晕。她已经好久没听到关于乔迪的任何新消息了。从前她总习惯去桑德霍尔斯打听，用些拐弯抹角的由头，想起来至今仍觉得难为情。那些年萨拉总在嫉妒她，连一个字都舍不得施舍；而自从萨拉不再嫉妒之后，几乎也没什么消息可供计较了……
+「是啊，他要路费，可我们手头没有钱寄给他。他要是连这都混不出来，我看我们也不稀罕他回来。」
+梅双手紧扣，身子前倾，只觉心头猛然一颤。
+「我手头攒了点积蓄，可以拿出来，」她开口道，声音里带着一阵颤动。「这钱可以算作您出的，索恩思韦特太太（Mrs. Thornthwaite）——他决不会知道。您只要点个头，什么时候要就能什么时候拿去。」
 
 ===Original===
 A twinge of the ancient jealousy caught suddenly at Sarah's heart. With difficulty she remembered May's kindness and the long bond of the years.
@@ -3429,14 +3436,10 @@ A twinge of the ancient jealousy caught suddenly at Sarah's heart. With difficul
 "You'd ha' wed right enough but for Geordie—dad or no dad!" Sarah scoffed. "You're the sort as is meant to be wed, from the start. Nay, he's spoilt your life, and no doubt about it, but there's no sense in lossing the can because you've gone and spilt the milk. Say you sent him the brass, and he come back without a cent, what'd be the end o' the business then? You'd wed him, I'll be bound—for pity, if for nowt else. Your father'll likely leave you a nice bit, and you'd get along on that, but who's to say how Geordie'd frame after all these years? Happen he's lost the habit o' work by now, and it'll be a deal more likely than not if he's taken to drink."
 
 ===Chinese===
-
-一阵旧日的嫉妒忽然揪住了萨拉的心。她费了好大劲才想起梅的好处和这么多年的深厚情分。
-
-"我不会拿 any lass（随便哪个姑娘）的 savings（积蓄）来养我的孩子！"她粗声粗气地答道，随即又软了下来。"Nay，梅，我的好姑娘，你是好意，可那 wain't do（不行）。Losh（坎伯兰方言，惊叹词）save us！他已经对你够 bad（糟糕）了，不是吗？"她冷冷地补了一句。"你早该 wed（嫁人）了，都多少年了，不该为了他那种人 hanging on（苦等）！"
-
-"我 doubt（看）我怎么也不会嫁人，"梅说。"我 never（从来没）下定决心离开我爸。"
-
-"要不是乔迪，你早就 wed（嫁了）——管他 dad（老爸）不 dad（老爸）！"萨拉嗤笑道。"你是那种注定要嫁人的，从一开始就是。Nay，他 spoilt（毁了）你的人生，这一点毫无疑问，可你不能因为 spilt the milk（泼了牛奶）就 lossing the can（摔了罐子）。你寄 brass（坎伯兰方言，意为"钱"）给他，他回来时身无分文，到头来怎么办？我 be bound（敢打赌），你会嫁给他——for pity（出于怜悯），if for nowt else（哪怕不为别的）。你父亲 likely（大概）会留给你一笔 nice bit（不错的钱），你靠那个也能过活，可谁晓得乔迪过了这些年会 frame（坎伯兰方言，意为"怎么样"）？Happen（也许）他已经丢了 work（干活）的 habit（习惯），而且 he's taken to drink（他染上酗酒）的可能性大得很。"
+一阵久违的陈年妒意忽然又攥住了萨拉的心。她好不容易才记起梅的好意和这些年漫长的交情。
+「我绝不拿别家姑娘的积蓄来贴补我的儿子！」她粗暴地答道，随即语气又软了下来。「不，梅，我的好姑娘，你是一片好心，可这不行。天老爷保佑！难道他对你亏欠得还不够多么？」她冷冷地补充道，「你早就该成家嫁人了，耽误了这么多年，哪能为了他这种人苦等！」
+「我看我横竖都不会嫁人的，」梅说，「我不知道自己能不能狠下心离开我爹。」
+「要不是为了乔迪，你早就嫁人了——管他爹不爹的！」萨拉嘲弄道，「从一开始，你就是那种天生该成家的人。不，毫无疑问，他毁了你的一生，可泼了牛奶，没道理连奶罐也跟着摔了。就算你寄钱给他，他两手空空跑回来，到头来又能怎么样？我敢打赌，你肯定会嫁给他——哪怕不图别的，单为了可怜他也会嫁。你父亲多半会给你留下一笔体面的财产，靠那个你也过得下去，可谁说得准过了这么多年，乔迪能混成个什么样？说不定他如今早把干活的习惯丢光了，十有八九八成还染上了酗酒的毛病。」
 
 ===Original===
 "Geordie wasn't that sort." May shook her head. "He'll not have taken to drink, not he!"
@@ -3445,14 +3448,10 @@ A twinge of the ancient jealousy caught suddenly at Sarah's heart. With difficul
 "Ay," Sarah said slowly, "fine enough, to be sure! A fine lad to leave his folks for t'far side o' the world wi' never a word! A fine man as can't look to himself at forty, let alone give his father and mother a bit o' help! … Nay, my lass, don't you talk to me!" she finished brusquely. "We've thought a deal o' Geordie, me and Simon and you, but I reckon he's nowt to crack on, all the same!"
 
 ===Chinese===
-
-"乔迪不是那种人。"梅摇了摇头。"他不会染上 drinking（酗酒），他不会！"
-
-"Folks（人）变了，变得面目全非——ay，里里外外都变了。"
-
-"只要人是 made right（天生正直）就不会变，"梅固执地说，"乔迪 was all right（一直很好）。他是个 daft（坎伯兰方言，意为"傻"）mafflin（坎伯兰方言，意为"傻瓜"），这我承认，总是 playing jokes（开玩笑）什么的，可那 just（只不过）是他身上的 life（生气）——nowt（坎伯兰方言，意为"别的什么"）也没有。尽管如此，他那时候是个 fine lad（好小伙子），我敢 sworn（发誓）他现在是个 fine man（好男人）。"
-
-"Ay，"萨拉缓缓说道，"fine（好），那是当然！一个 fine lad（好小伙子），离家去了 t'far side o' the world（天涯海角），连个 word（话）都不留！一个 fine man（好男人），四十岁了还 cant look to himself（顾不了自己），更别提给 father and mother（爹妈）一点 help（帮助）了！……Nay，我的姑娘，你别跟我说这些！"她唐突地收了话头。"我和西蒙，还有你，我们想过乔迪很多，可我 reckon（估摸）他 nowt（没什么）值得 crack on（吹嘘）的！"
+「乔迪不是那种人。」梅摇了摇头。「他绝不会酗酒的，绝不会是他！」
+「人是会变的，变得面目全非——是啊，里里外外全会变。」
+「天性端正的人就不会变，」梅倔强地说，「乔迪骨子里是个好人。他是个疯疯癫癫的冒失鬼，这我承认，总爱恶作剧开玩笑什么的，可那不过是他浑身的朝气罢了——别的什么也没有。尽管如此，他当年是个好小伙，如今我也敢发誓，他依然是个顶天立地的好男人。」
+「是啊，」萨拉慢条斯理地说，「好得很哪，那还用说！一个抛下爹娘跑去天涯海角、连半句话都不留的好小伙！一个到了四十岁连自己都养不活、更别提拉扯爹娘一把的好男人！……行了，我的姑娘，你别跟我掰扯了！」她生硬地打断道，「我和西蒙，还有你，我们心里总念着乔迪，可依我看，他根本就没什么值得夸口的！」
 
 ===Original===
 "You'd think different when he was back," May pleaded—"I'm sure you would. And you needn't fret about me if that's all there is in the road. I made up my mind long since as I shouldn't wed. But I'd be rarely glad, all the same, to have had a hand in fetching him home."
@@ -3465,22 +3464,14 @@ For a moment or two May put her hand to her face. "Eh, but what a pity!" she mur
 "It matters a deal more that you're breaking your heart—"
 
 ===Chinese===
-
-"他回来你就会 different（不一样）了，"梅恳求道——"我 sure（确定）你会的。你也不必为我 fret（操心），如果那只是挡在路上的问题。我早就 made up my mind（打定主意）不嫁人了。但我还是 rarely（非常）glad（高兴）能帮上忙把他接回来。"
-
-"你 real good（真好），我说过了，可已经 over late（太迟了）了。"她停了一下，又接着说。"信 two couple o' week（两周）前就寄出去了。"
-
+「等他回来，您就会另有想法了，」梅哀求道——「我敢肯定您会的。要是因为顾虑我才挡住了路，您大可不必为我发愁。我早就下定决心不嫁人了。可不管怎么说，要是能搭一把手把他接回家来，我心里不知道该有多高兴。」
+「你真好，正如我说的，可已经太迟了。」她停顿片刻，接着又说道。「回信两周前就寄出去了。」
 泪水涌上了梅的眼眶。
-
-"你不是说你 said him no（拒绝了他）吧？Eh，桑思韦特太太，我 sorry to hear（听了真难过）！"
-
-"yon（坎伯兰方言，意为"那种"）事情 best answered right off（最好立刻回绝）。"
-
-梅把手捂在脸上好一会儿。"Eh，多么 a pity（可惜）！"过了一会儿她喃喃道。"whose brass（谁的钱）接他回来有什么关系？"
-
-"对我来说有关系。"
-
-"让你 breaking your heart（心碎）才 matters a deal more（更紧要得多）——"
+「您该不会是拒绝了他吧？哎呀，索恩思韦特太太，我听了心里真不是滋味！」
+「那种事，最好当机立断回绝掉。」
+梅把手按在脸上捂了好一会儿。「哎，可真是太可惜了！」过了一会儿她喃喃道。「究竟是谁出的路费接他回家，又有什么要紧呢？」
+「对我来说要紧。」
+「可更要紧的是您正在痛断肝肠——」
 
 ===Original===
 "Nay, then, I'm not! … Ay, well, then, what if I be?"
@@ -3493,19 +3484,14 @@ Sarah snorted scorn, but her face softened a little.
 "Geordie isn't the sort as grows old—Geordie an' Jim—"
 
 ===Chinese===
-
-"Nay，我 nowt（没有）！……Ay，好吧，那又怎样？"
-"让我去把 brass（坎伯兰方言，意为"钱"） get right off（立刻弄来）！"梅哄劝道。"让我——do now（这就去）！今天就寄给他。"
-"Nay。"
-"你脑子里觉得他 different（变了），可我 swear（发誓）你错了！模样 different（不同）了也许，但他不会 none the worse（更差）。他 framed（坎伯兰方言，意为"总是能"） be a fine figure of a man（变成一个体面的男人）when he was set（只要他定了心）。你会 throng（坎伯兰方言，意为"忙得不可开交"）wi' him，就像 clockie hen（孵蛋的母鸡） wi' a pot egg（一窝蛋）。"
-
-萨拉冷哼了一声，但脸色稍微柔和了些。
-
-"He's forty（他四十了），但我 be bound（敢打赌）他 hasn't changed（没变）。我 be bound（敢打赌）他 nobbut（坎伯兰方言，意为"不过"） the same merry lad（还是那个快活的小伙子）inside（骨子里）。"
-
-"Happen（也许） none the better（好不了多少）。"
-
-"乔迪不是那种 grows old（会变老）的人——乔迪和吉姆——"
+「胡说，我才没有！……哼，好吧，就算我难受，那又怎么样？」
+「让我立刻去把钱拿来吧！」梅哄劝着说，「让我去吧——这就去！今天就给他寄去。」
+「不行。」
+「您满脑子认定他变了，可我敢发誓您想错了！模样变了也许，可他人绝不会变坏。只要一定下心来，他向来都长得一表人才。到时候您围着他转，准会忙得像只守着假蛋孵个没完的老母鸡似的。」
+萨拉轻蔑地哼了一声，但脸上的神色却稍稍和缓了些。
+「他四十岁了，可我敢打包票他一点没变。我敢说他骨子里仍是那个快活的小伙子。」
+「即便如此，怕也未必是件好事。」
+「乔迪不是那种会变老的人——乔迪和吉姆——」
 
 ===Original===
 "Nay, then, I want nowt about Jim!" Sarah flared, and the other laughed.
@@ -3516,18 +3502,12 @@ Sarah snorted scorn, but her face softened a little.
 "You'll remember yon calls they had, Geordie an' Jim—"
 
 ===Chinese===
-
-"Nay，我 want nowt（不想听）吉姆的事！"萨拉怒道，另一个笑了。
-
-"even now（哪怕到了现在）也很难把他们分开想——他们太像了。Why，我自己 mixed 'em（把他俩搞混）了反反复复好几次，他们 sure（肯定）觉得 fine fun（很好玩）！"
-
-"*I* never mixed 'em！"萨拉尖声反驳，blind glare（茫然地瞪着眼）。"我自己 never see a scrap o' likeness（一点也没看出相像）。"
-
-"Why，whole countryside（整个乡下）都 tell 'em apart（分不清他俩）——school-folk an' all（学校里的人也是）！不只是 their faces（脸）like（像）；their voices（声音）也一样。"
-
-"Hold your whisht（坎伯兰方言，意为"住嘴"）！"
-
-"You'll remember yon calls they had，乔迪和吉姆——"
+「得了吧，吉姆的事我半个字也不想听！」萨拉登时动了怒，梅却笑了起来。
+「直到如今，也很难把他俩分得开——他们长得实在太像了。瞧瞧，连我自己都弄混过好几回呢，对他们俩来说，那可真是好玩极了！」
+「我可从来没认错过！」萨拉反驳道，一双失明的眼睛茫然地怒视着，「我自己就从没看出过半点相像的地方来。」
+「哎呀，方圆几十里谁也分不清他们俩——连学校里的教书先生和同学都分不出！不仅长相一模一样，连说话的嗓音也如出一辙。」
+「快给我闭嘴！」
+「您总该记得乔迪和吉姆当年吹的那种呼哨吧——」
 
 ===Original===
 "Whisht, I tell ye!" There was something scared as well as angry in Sarah's tone, and May was hushed into silence in spite of herself. "Jim was sweet on you, too," the old woman went on surlily, after a pause. "If there wasn't that much to choose between 'em, why didn't you choose him?"
@@ -3536,14 +3516,10 @@ The rough colour came suddenly into Sarah's face. She tried to turn it away, wit
 "Not but what Jim was a rare good sort," she was saying, with the tenderness of a woman towards a lover who once might have been and just was not. "Eh, and how fond he was of you, Mrs. Thornthet!" she added, turning again. "No lad could ha' thought more of his own mother than he did of you."
 
 ===Chinese===
-
-"Whisht（住嘴），我 tell ye（告诉你）！"萨拉的语气里不只有愤怒，还有某种恐惧，梅不由得噤了声。"吉姆也 sweet on（爱上）你了，"老妇人沉默了一会儿后闷闷不乐地接着说。"如果他们没那么大的 choose between 'em（差别），你为什么不 choose him（选他）？"
-
-"when it come to it（到头来），他们之间有 all the world（天壤之别），"梅微笑着说，声音里却含着泪水。"Once Geordie'd kissed me（自从乔迪吻过我），我 never mixed 'em up again（再也没把他们搞混）！"
-
-粗糙的红晕猛然涌上萨拉的脸。她试图转过脸去，带着盲人特有的可悲无助——她无法知道别人在她脸上读出了什么，尽管她竭力不想让人看见。可梅正望着别处，沉浸在往事中。
-
-"Not but what Jim was a rare good sort（不过吉姆确实是个 rare good sort，意为"难得的好人"），"她说着，带着一个女人对一个曾经可能成为却终究没有成为的恋人的柔情。"Eh，他多喜欢你啊，桑思韦特太太！"她转回身来补充道。"No lad（没有哪个小伙子） thinking of his own mother（想自己的母亲）会比他想你还多。"
+「我叫你闭嘴！」萨拉的语气里不仅有恼怒，更有几分惶恐，梅不由自主地噤住了声。「吉姆当年也迷恋过你，」停顿片刻后，老妇人没好气地接着说，「既然他俩没什么分别，你当初为什么不挑他？」
+「真到了关头，他们俩之间有天壤之别，」梅微笑着说，声音里却带着泪意，「只要乔迪亲过我一回，我就再也不会把他俩搞混了！」
+粗糙的红晕猛然涌上了萨拉的面庞。她试图扭过头去，带着盲人特有的凄凉无助——盲人永远无法知晓旁人能违背她的意愿从她的脸上读出些什么。然而梅正别过目光，凝望着消逝的往昔。
+「虽说如此，吉姆确实是个难得的好小伙，」她说道，带着一个女人对曾经可能成为却终究未成的昔日恋人特有的温柔。「哎，而且他是多么喜欢您啊，索恩思韦特太太！」她回过头来补充道，「哪怕亲生儿子对自己的母亲，也不可能比他对您更上心了。」
 
 ===Original===
 "I wanted nowt wi' his fondness," Sarah said in a hard tone. "And I want no mewling about him now, as I said afore!"
@@ -3556,22 +3532,14 @@ The rough colour came suddenly into Sarah's face. She tried to turn it away, wit
 "I'm not so young myself, if it comes to that," May said. "And I don't know as I ever had a real friend, barring Geordie-an'-Jim."
 
 ===Chinese===
-
-"I wanted nowt（我不需要） wi' his fondness（他的喜欢），"萨拉冷冷地说。"我说了 I want no mewling about him（不想听人哭哭啼啼提他）！"
-
-"Ay，你 told him off terrible（狠狠骂了他），可怜的小伙子，可他 set on you（对你痴心）到不在乎。他给你 fetch fairings（带集市礼物）什么的，不是吗——跟乔迪一样？他 never（从来不是）给他母亲带的；always（总是）给你的。"
-
-"伊莱莎 never had no need o' fairings（从不需要集市礼物），wi' all she had at her back（她有那么大的靠山）！"萨拉猛然站起身，开始摸索她的 mantle（披风）和 gloves（手套）。"你翻出这些事 just to coax me（就是为了哄我） about yon brass（那笔钱）！"她又补了一句。这时梅走上前来帮忙。……"你父亲 none so well（不太好），我 sorry to hear（听了很难过）？"
-
-"He hasn't been himself（他一直不太对劲） for a while now，getting worse（越来越差了）。I doubt he's going down the hill sharp-like（我看他急剧衰退），poor old chap（可怜的老头）！"
-
-"Ay，好吧，our time comes to us all（谁都有那一天），我们 wouldn't wish for owt else（也不奢望别的）。不过没有了他，你会 rare an' lonely（非常孤独）。"
-
-"I'm used to being alone（我习惯了独处），though I can't say it's very grand（虽然谈不上多好）。……你得让我 come and see to you and Mr. Thornthet（来看看你和桑思韦特先生），"她笑着补充道。
-
-"We're over old for the likes o' you（我们太老了，配不上你这种人）。You want friends of your own age（你需要同龄朋友） to keep you lively-like（让你快活）。"
-
-"I'm not so young myself（我自己也没多年轻），if it comes to that（真要说起来），"梅说。"I don't know as I ever had a real friend（我不知道我有过真正的朋友），barring Geordie-an'-Jim（除了乔迪和吉姆）。"
+「我才不要他的喜欢呢，」萨拉冷酷地说，「我早就说过，现在别在我面前为了他哼哼唧唧的！」
+「是啊，您当初狠狠骂过他，可怜的小伙子，可他那么依恋您，一点也不往心里去。他从前总给您带些集市礼物什么的，不是么——就跟乔迪一样？他可从来不给他亲娘带，带的向来都是给您的。」
+「伊莱莎有那么大个家底撑腰，从来犯不着要什么集市礼物！」萨拉猛地站起身，摸索着要拿自己的披肩和手套。「你翻这些陈芝麻烂谷子，无非就是想哄我借那笔钱罢了！」在梅上前照应时她又补了一句。……「听说你爹身子不大好？」
+「他好一阵子都没精神了，而且身子骨越来越垮。我看他衰退得厉害，可怜的老头子！」
+「唉，好吧，人生到头都有这么一天，我们也不奢求别的。不过要是没了他，你一个人终究太孤单了。」
+「我已经习惯一个人过了，虽说这算不上什么体面好事。……到时候您可得容我常来照料您和索恩思韦特先生，」她爽朗地笑着补充道。
+「我们太老了，哪能劳动你这样的人。你需要找些同龄的朋友，好让自己快活些。」
+「真要说起来，我自己也谈不上多年轻了，」梅说，「除了乔迪和吉姆，我不知道自己到底算不算有过真正的知己。」
 
 ===Original===
 "That's enough o' the two on 'em!" Sarah snarled, as they went out. "Geordie's been a bonny friend to you, anyway—he has that! We'd best be getting about our business. Talking o' things as is dead and gone won't make us any more lish."
@@ -3580,14 +3548,10 @@ The rough colour came suddenly into Sarah's face. She tried to turn it away, wit
 "Nay, you'd do it right enough, I'm sure," she said kindly, "but it'd come best from me. You've enough o' your own to fash you, wi'out that. Married folk mun do their own telling over things like yon. …"
 
 ===Chinese===
-
-"That's enough o' the two on 'em（他俩说够了）！"她们走出去时萨拉咆哮道。"乔迪对你来说是个 bonny（坎伯兰方言，意为"漂亮的"）朋友，没错——他确实是！我们 best be getting about our business（最好办正事去）。Talking o' things as is dead and gone（谈论已经死去的事） won't make us any more lish（不会让我们更好）。"
-
-"西蒙会为我的 eyes（眼睛） bothered（操心），"她们转身朝商店走去时她又说道。"having to tell him（不得不告诉他）比 put up wi' it myself（我自己忍着） worse（难受）多了。"
-
-"Happen（也许） you'd like me to tell him for you（你想让我替你告诉他）？"梅提议道，但萨拉摇了摇头。
-
-"Nay，你 do it right enough（做得很好），我 sure（确信），"她和蔼地说，"but it'd come best from me（但从我嘴里说最好）。你已经有 enough o' your own to fash you（够多自己的烦心事），wi'out that（不必再添）。Married folk mun（坎伯兰方言，意为"必须"） do their own telling over things like yon（夫妻之间的事得自己说）。……"
+「他俩的事说得够多了！」走出大门时萨拉低吼道，「不管怎么说，乔迪待你倒真算得上个顶好的朋友——千真万确！我们最好赶紧办正事去。总嚼些陈年烂谷子的死人旧事，不会让我们多长半点精神。」
+「西蒙要是知道我的眼睛，准得愁坏了，」她们转步朝店铺走去时，她过了一会儿说道，「要把这事讲给他听，比我自己咬牙忍着还要难受得多呢。」
+「也许您想让我替您跟他说？」梅建议道，萨拉却摇了摇头。
+「不，你肯定能说得妥妥帖帖的，我敢说，」她温和地说，「可这种事最好还是由我亲自告诉他。你自己的烦心事已经够多了，用不着再添乱。两口子过日子，这种大事终归得由自己亲口讲……」
 
 ## Part III May / 第三部 梅
 
@@ -3653,7 +3617,7 @@ He could still see them, however, from where he sat, and he noticed many things 
 She was a big woman over sixty years of age, with smooth, high-coloured cheeks and thick dark hair that was still a long way from turning white. Her face said plainly that she had had a full, comfortable, healthy life, with plenty to interest her and little to fret. Her brown eyes, which had been beautiful in youth, had kept their expression of self-satisfaction wholly undisturbed. She looked, indeed, what she was, the mother of a big family, the mistress of a good-class farm, and the wife of a man whose banking-account had long since ceased to keep him awake at nights. She wore a black hat and a black plush coat, and round her shoulders was a big fur wrap. In a kid-gloved hand she carried a muff and a silver-mounted bag, and May, looking down, saw patent-toed boots showing beneath her neat, black skirt. Sarah was sure of them, too, though she could not see them. It was not with her physical eye that she looked at Eliza of Blindbeck, Simon's brother's wife.
 
 ===Chinese===
-那是个高大的女人，年过六十，面色红润，两颊光滑，浓密的黑发离变白还远着呢。她的面容清楚地说明她过的是一个充实、舒适、健康的人生，有趣的事多，烦心的事少。她的棕色眼睛年轻时一定很美，如今那副自满的神情依然纹丝不乱。她看上去确实就是她自己——一个大家庭的母亲、一座像样农场的女主人、一个银行存款早已多到不用在夜里数钱的男人的妻子。她戴着一顶黑色帽子，穿着一件黑色长毛绒大衣，肩上围着一条大大的毛皮披肩。一只小山羊皮手套里握着一个暖手筒和一个镶银的手袋，梅低头一看，看到她整齐的黑裙下露出一双尖头漆皮靴。萨拉也看到了，虽然她的眼睛看不清。她看布林德贝克（Blindbeck）的伊莱莎（Eliza）——西蒙的哥哥的妻子——靠的并不是肉眼。
+那是个高大的女人，年过六十，面色红润，两颊光滑，浓密的黑发离变白还远着呢。她的面容清楚地说明她过的是一个充实、舒适、健康的人生，有趣的事多，烦心的事少。她的棕色眼睛年轻时一定很美，如今那副自满的神情依然纹丝不乱。她看上去确实就是她自己——一个大家庭的母亲、一座像样农场的女主人、一个银行存款早已多到不用在夜里数钱的男人的妻子。她戴着一顶黑色帽子，穿着一件黑色长毛绒大衣，肩上围着一条大大的毛皮披肩。一只小山羊皮手套里握着一个暖手筒和一个镶银的手袋，梅低头一看，看到她整齐的黑裙下露出一双尖头漆皮靴。萨拉也看到了，虽然她的眼睛看不清。她看布林德贝克（Blindbeck）的伊莱莎（Eliza）——西蒙的弟弟的妻子——靠的并不是肉眼。
 
 ===Original===
 She, too, had paused in the doorway, looking for a place, but as soon as she saw the two in the window, she advanced at once. As she passed she spoke to several people in a noisy, hearty voice, that seemed to have a blustering quality somewhere at its back. By the time she had reached Sarah's table and come to a stop, the man in the other room noticed that Sarah had suddenly grown small.﻿
@@ -3695,7 +3659,7 @@ Eliza looked at her with the little smile which the sight of Sarah always brough
 May explained nervously that she had come to Sarah's assistance instead. Eliza always made her nervous, because she never seemed to know she was in the room. "There wasn't that much to do," she finished hurriedly, stumbling over her words. "It's a pity Mr. Thornthwaite set you looking her up."
 
 ===Chinese===
-梅紧张地解释说，是她来帮萨拉的忙。伊莱莎总是让她紧张，因为伊莱莎似乎从来没意识到她在场。"也没什么太多事要做，"她匆忙说完，话说得磕磕巴巴。"桑德韦特先生（Mr. Thornthwaite）叫你来找她，真是多此一举。"
+梅紧张地解释说，是她来帮萨拉的忙。伊莱莎总是让她紧张，因为伊莱莎似乎从来没意识到她在场。"也没什么太多事要做，"她匆忙说完，话说得磕磕巴巴。"索恩思韦特先生（Mr. Thornthwaite）叫你来找她，真是多此一举。"
 
 ===Original===
 "Nay, I don't know. … I'd have been glad to do anything, I'm sure!" Eliza spoke in her heartiest tones, so that everybody could hear. "Nobody can say I'm one as can't be bothered to lend a hand. I reckon me and Will have done as much in that line as most." She looked at Sarah again, the smile growing on her lips. … "You'll not mind me sitting down with you, I suppose?"
@@ -3719,7 +3683,7 @@ May explained nervously that she had come to Sarah's assistance instead. Eliza a
 She turned in her seat to call a waitress, and ordered a substantial meal; after which, throwing back her fur, she leaned her arms on the table, and resumed her smile. Everybody in the place knew what Eliza Thornthwaite was having for her dinner, and here and there they were saying to each other, "They do themselves rarely at Blindbeck. … There's a deal o' brass to Blindbeck … ay, Blindbeck's plenty o' brass!" Eliza knew what they were saying, of course, and felt unctuously pleased; but May's heart swelled as she looked at Sarah's scanty, unfinished repast and the thin thread gloves that she was smoothing over her wrists. Eliza had taken off her own gloves by now, showing thick fingers and short nails. They were trapped in the alcove as long as she sat at the table-end, because of her big, overflowing figure which shut the two of them in. They would have to push their way past her if they wanted to get out, and Sarah would never as much as touch her with the end of a ten-foot pole.
 
 ===Chinese===
-她转过身去叫了一位女侍，点了一份丰盛的饭；之后，她把毛皮披肩往后一甩，双臂搁在桌上，又恢复了笑容。这里人人都知道伊莱莎·桑德韦特（Eliza Thornthwaite）的午餐是什么，三三两两的人在互相嘀咕："布林德贝克家过得可真阔气。……布林德贝克家有的是钱。……对，布林德贝克家钱多得很！"伊莱莎自然知道他们在说什么，心里美滋滋的；可是梅望着萨拉那份少得可怜、还没吃完的饭，望着她正在手腕上捋平的薄薄的线手套，心里一阵酸楚。伊莱莎已经脱了自己的手套，露出粗短的手指和指甲。只要她坐在桌角，她们就等于被困在了壁龛里，因为她那庞大的、横溢的身躯把她们堵在里面。她们想出去，就得从她身旁挤过去，而萨拉是绝不会碰她一下的，哪怕拿十英尺长的杆子也不肯。
+她转过身去叫了一位女侍，点了一份丰盛的饭；之后，她把毛皮披肩往后一甩，双臂搁在桌上，又恢复了笑容。这里人人都知道伊莱莎·索恩思韦特（Eliza Thornthwaite）的午餐是什么，三三两两的人在互相嘀咕："布林德贝克家过得可真阔气。……布林德贝克家有的是钱。……对，布林德贝克家钱多得很！"伊莱莎自然知道他们在说什么，心里美滋滋的；可是梅望着萨拉那份少得可怜、还没吃完的饭，望着她正在手腕上捋平的薄薄的线手套，心里一阵酸楚。伊莱莎已经脱了自己的手套，露出粗短的手指和指甲。只要她坐在桌角，她们就等于被困在了壁龛里，因为她那庞大的、横溢的身躯把她们堵在里面。她们想出去，就得从她身旁挤过去，而萨拉是绝不会碰她一下的，哪怕拿十英尺长的杆子也不肯。
 
 ===Original===
 "I'd ha' done what I could, I'm sure," Eliza was busy telling them again. "I'd never say no to folks as can't help themselves. But there—I needn't ha' bothered about it—you're as right as rain. Will had it you were off to t'doctor's, but I made sure he was wrong. I haven't seen you looking so well for a month o' Sundays, and that's the truth."
@@ -3767,7 +3731,7 @@ Sarah did not speak, but she saw, as she was intended to see, a picture of the g
 "Yes, but we *did* go to the doctor's!" May broke out warmly, goaded into speech. "Mrs. Thornthwaite's bothered with her eyes."
 
 ===Chinese===
-"可是我们*确实*去了医生那儿！"梅被激得开口了，急切地说。"桑德韦特夫人眼睛有毛病。"
+"可是我们*确实*去了医生那儿！"梅被激得开口了，急切地说。"索恩思韦特夫人眼睛有毛病。"
 
 ===Original===
 Mrs. Will lifted her own sharply for a fresh stare at the defenceless face.
@@ -3887,7 +3851,7 @@ There was a murmur of discomfort and disapproval all over the room, and then som
 The person who had laughed before laughed again, and faint titters broke out on every side. Sarah, however, did not seem to hear. She lifted a thread-gloved hand and pointed at Eliza's skirts. "Happen you'll shift yon gown o' yours, Eliza Thornthet?" she added, coolly. "I've a deal o' dirt on my shoes as I reckon you won't want."
 
 ===Chinese===
-先前笑过的人又笑了，四周响起了一片轻声窃笑。但萨拉似乎没听见。她抬起一只戴着线手套的手，指着伊莱莎的裙子。"劳驾把你那条裙子挪挪，伊莱莎·桑德韦特？"她冷冷地补了一句。"我鞋上全是泥，我想你不会乐意蹭上的。"
+先前笑过的人又笑了，四周响起了一片轻声窃笑。但萨拉似乎没听见。她抬起一只戴着线手套的手，指着伊莱莎的裙子。"劳驾把你那条裙子挪挪，伊莱莎·索恩思韦特？"她冷冷地补了一句。"我鞋上全是泥，我想你不会乐意蹭上的。"
 
 ===Original===
 The laughter was unrestrained now, and Eliza flushed angrily as she dragged her skirts reluctantly out of the way. From the corner of a raging eye she observed the elaborate care with which Sarah went by.
@@ -3979,7 +3943,7 @@ Simon muttered gloomily that he didn't know, and shuffled his feet uncomfortably
 "Ay, it's soft," Simon agreed, lifting his eyes to look at the sky, and wondering suddenly how long it had taken the gull to get itself out to sea. His brother nodded and went away, and he drifted unwillingly into the inn. The chimes had finished their ill-omened song, but the echo of it still seemed to linger on the air. They told him inside that Mr. Dent was engaged, so he went into the bar to wait, seating himself where he could see the stairs. The landlord tried to coax him to talk, but he was too melancholy to respond, and could only sit waiting for the door to open and summon him overhead. He was able to think, now that he was away from the crowd and the chaff about the hearse, but no amount of thinking could find him a way out. He had already given the agent a hint of his business, and would only have to confirm it when he got upstairs, but it seemed to him at the moment as if the final words would never be said. After a while, indeed, he began to think that he would sneak away quietly and let the appointment go. He would say no more about the notice to Mr. Dent, and things might take their way for another year. It was just possible, with the promised help from Will, that they might manage to scrape along for another year. …
 
 ===Chinese===
-"嗯，是软，"西蒙附和着，抬眼望了望天空，忽然想起那只海鸥不知花了多久才飞到海上。他哥哥点了点头便走了，他心不甘情不愿地晃进了客栈。那不祥的钟声已经唱完了，余音似乎还在空气中回荡。里面的人告诉他邓特先生（Dent）正在忙，他便走进酒吧等着，拣了个能看到楼梯的位子坐下。酒馆老板试图引他说话，但他心情太沉闷了，搭不上腔，只能坐着等那扇门打开、有人叫他上去。离开了人群和灵车那些闲话，他终于能静下来想想了，可怎么想也想不出一条出路。他已经给代理人透了个口风，上楼后只需确认一下就行，但此刻他觉得那些最终的话好像永远也说不出口了。过了一阵子，他果真开始想不如悄悄溜走算了，让那个约作废。他不再跟邓特先生提退租的事，也许还能再熬一年。有了威尔答应帮忙，说不定真能凑合着再撑一年。……
+"嗯，是软，"西蒙附和着，抬眼望了望天空，忽然想起那只海鸥不知花了多久才飞到海上。他弟弟点了点头便走了，他心不甘情不愿地晃进了客栈。那不祥的钟声已经唱完了，余音似乎还在空气中回荡。里面的人告诉他丹特先生（Dent）正在忙，他便走进酒吧等着，拣了个能看到楼梯的位子坐下。酒馆老板试图引他说话，但他心情太沉闷了，搭不上腔，只能坐着等那扇门打开、有人叫他上去。离开了人群和灵车那些闲话，他终于能静下来想想了，可怎么想也想不出一条出路。他已经给代理人透了个口风，上楼后只需确认一下就行，但此刻他觉得那些最终的话好像永远也说不出口了。过了一阵子，他果真开始想不如悄悄溜走算了，让那个约作废。他不再跟丹特先生提退租的事，也许还能再熬一年。有了威尔答应帮忙，说不定真能凑合着再撑一年。……
 
 ===Original===
 He left it there at last and got to his feet, but even as he did so he remembered Sarah's eyes. He wondered what the doctor had said and wished he knew, because, of course, there would be no question of staying if the report were bad. He was still standing, hesitating, and wondering what he should do, when the door of the Stewards' Room opened above, and a man came out.
@@ -3991,13 +3955,13 @@ He left it there at last and got to his feet, but even as he did so he remembere
 It was, as somehow might have been expected, the stranger of the car, otherwise Simon's now celebrated "hearse." Simon, however, had not looked at him then, and he barely glanced at him now. It was a blind day, as Sarah had said, and all through the Thornthwaites seemed determined to be as blind as the day. The agent followed him out, looking cheerful and amused. "I wish you luck all round!" Simon heard him say, as he shook the stranger's hand, and thought morosely that it was easy and cheap to wish folks luck. "This should be the finest day of your life," he added more gravely, looking over the rail, and the man going down looked up and said "That's so!" in a fervent tone. The old farmer waiting in the bar felt a spasm of envy and bitterness at the quietly triumphant words. "The finest day of your life,"—that was for the man going down. "The heaviest day of your life,"—that was for the man going up. With a touch of dreary humour he thought to himself that it was really he who was going down, if it came to that. …
 
 ===Chinese===
-不用说，那人正是汽车里的陌生人，也就是西蒙那辆出了名的"灵车"的司机。不过西蒙当时没看他，现在也只是瞥了一眼。正如萨拉所说，这天灰蒙蒙的，桑顿韦特（Thornthwaites）一家子似乎打定主意要跟这天气一样——什么都看不见。代理人跟着他出来，一脸喜气洋洋、兴致勃勃。"祝你一切顺利！"西蒙听见他跟那人握手时说，心里闷闷地想：祝别人好运倒是便宜又省事。"今天该是你一生中最美好的日子，"他更郑重地补了一句，朝栏杆下方望去，走下去的那人抬起头来，热切地说了声"可不是嘛！"在酒吧里等候的老农夫听了那句沉静而得意的话，一阵嫉妒和苦涩涌上心头。"一生中最美好的日子"——那是对走下去的人说的。"一生中最沉重的日子"——那是对走上来的人说的。带着一丝凄凉的幽默感，他暗自想到，要是论起来，真正往下走的人其实是他自己。……
+不用说，那人正是汽车里的陌生人，也就是西蒙那辆出了名的"灵车"的司机。不过西蒙当时没看他，现在也只是瞥了一眼。正如萨拉所说，这天灰蒙蒙的，索恩思韦特（Thornthwaites）一家子似乎打定主意要跟这天气一样——什么都看不见。代理人跟着他出来，一脸喜气洋洋、兴致勃勃。"祝你一切顺利！"西蒙听见他跟那人握手时说，心里闷闷地想：祝别人好运倒是便宜又省事。"今天该是你一生中最美好的日子，"他更郑重地补了一句，朝栏杆下方望去，走下去的那人抬起头来，热切地说了声"可不是嘛！"在酒吧里等候的老农夫听了那句沉静而得意的话，一阵嫉妒和苦涩涌上心头。"一生中最美好的日子"——那是对走下去的人说的。"一生中最沉重的日子"——那是对走上来的人说的。带着一丝凄凉的幽默感，他暗自想到，要是论起来，真正往下走的人其实是他自己。……
 
 ===Original===
 With a feeling of something like shame he kept himself out of sight until the stranger had disappeared, and then experienced a slight shock when Dent called to him in the same cheery tone. Almost without knowing it he had looked for the voice to change, and its geniality jarred on his dismal mood. Somehow it seemed to put him about at the start, and when Dent laid a hand on his shoulder, saying—"Well, Simon!" with a smile, it was all he could do not to give him a surly snarl by way of reply. They went into the old-fashioned room, which smelt of horsehair and wool mats, and Simon seated himself miserably on the extreme edge of a chair. Dent went to the window and lifted a finger to somebody in the street, and then seated himself at the table, and said "Well, Simon!" and smiled again. He was a strongly built man, with a pleasant face, which seemed rather more pleasant than need be to his visitor's jaundiced eye.
 
 ===Chinese===
-他带着几分羞愧把自己藏起来，直到那陌生人走远了才露面，可当邓特用同样欢快的语调叫他时，他还是微微一惊。他几乎不自觉地期待那声音会变个调子，它的热络劲儿跟他灰暗的心绪格格不入。不知怎的，这让他一开始就乱了阵脚。邓特把手搭在他肩上，笑着说——"嘿，西蒙！"他差一点没忍住冲他恶声恶气地吼回去。他们走进一间老式的屋子，里面弥漫着马鬃和毛毡垫子的气味，西蒙凄凄惨惨地在椅子最边上坐下来。邓特走到窗前，朝街上的什么人竖了竖手指，然后在桌旁坐下，又说了一遍"嘿，西蒙！"又笑了一回。他是个体格健壮的人，面容和善，在满腹心事的客人看来，那和善似乎有点过了头。
+他带着几分羞愧把自己藏起来，直到那陌生人走远了才露面，可当丹特用同样欢快的语调叫他时，他还是微微一惊。他几乎不自觉地期待那声音会变个调子，它的热络劲儿跟他灰暗的心绪格格不入。不知怎的，这让他一开始就乱了阵脚。丹特把手搭在他肩上，笑着说——"嘿，西蒙！"他差一点没忍住冲他恶声恶气地吼回去。他们走进一间老式的屋子，里面弥漫着马鬃和毛毡垫子的气味，西蒙凄凄惨惨地在椅子最边上坐下来。丹特走到窗前，朝街上的什么人竖了竖手指，然后在桌旁坐下，又说了一遍"嘿，西蒙！"又笑了一回。他是个体格健壮的人，面容和善，在满腹心事的客人看来，那和善似乎有点过了头。
 
 ===Original===
 He looked away from it, however, staring at the floor, and after the first conventional remarks began his tale of woe, that slow trickle of disaster which always gathered itself into terrible spate. "You'll know what I'm here for, sir," he concluded, at the end of his first breath, twisting his hat like a tea-tray in his restless hands. "Things has got that bad wi' us I doubt we can't go on, and so we've made up our minds we'd best clear out next year."
@@ -4009,7 +3973,7 @@ He looked away from it, however, staring at the floor, and after the first conve
 Dent nodded kindly in answer, but with a rather abstracted air. He had listened patiently enough to the slow tale, but Simon had a feeling that his tragic recital was not receiving the sympathy it deserved. He began a fresh relation of the ills which had befallen him at the farm, intending a grand climax to be capped by Sarah's eyes; but there were so many dead troubles to dig out of their graves as he went along, that the last and most vital dropped from the reckoning, after all.
 
 ===Chinese===
-邓特和善地点点头，但神情有些恍惚。他倒也耐心地听完了那段慢吞吞的叙述，可西蒙觉得自己的悲剧并没有得到应有的同情。他开始从头讲起农场遭受的一连串灾祸，本想把萨拉眼睛的事当作最后的高潮；可说着说着，一路上要从坟墓里刨出来的旧麻烦太多了，最后那个最要命的反倒被漏掉了。
+丹特和善地点点头，但神情有些恍惚。他倒也耐心地听完了那段慢吞吞的叙述，可西蒙觉得自己的悲剧并没有得到应有的同情。他开始从头讲起农场遭受的一连串灾祸，本想把萨拉眼睛的事当作最后的高潮；可说着说着，一路上要从坟墓里刨出来的旧麻烦太多了，最后那个最要命的反倒被漏掉了。
 
 ===Original===
 "Ay, well, you've likely heard all this before," he finished lamely in the middle of a speech, conscious that he had missed his point, though without being able to say how. "We've had a bad year this year an' all, and I can't see as it's any use holding on. Me and my missis fixed it up as we come in, so if you'll take my notice, sir, we'll go next spring."
@@ -4021,7 +3985,7 @@ Dent nodded kindly in answer, but with a rather abstracted air. He had listened 
 "Your wife's in town, is she?" Dent asked. For some reason he looked again at the window from which he had waved. "How does she take the thought of leaving the farm?"
 
 ===Chinese===
-"你老婆也在镇上？"邓特问道。不知为什么，他又朝方才挥手的那扇窗户看了一眼。"她对离开农场这事怎么看？"
+"你老婆也在镇上？"丹特问道。不知为什么，他又朝方才挥手的那扇窗户看了一眼。"她对离开农场这事怎么看？"
 
 ===Original===
 "Well, sir, we'll both feel it, after all these years, but I don't know as it's any use calling out. I put it to her as we'd better quit, and she agreed to it right off."
@@ -4045,13 +4009,13 @@ Simon stiffened a little, and looked surprised. "I'm speaking for both on us, si
 "Of course, Simon," Dent said, rousing himself. "I know that. But I'd have liked a word with her, all the same." His glance went back to the notes, and he smiled as if at his own thoughts. … "And so you've really made up your minds that you'd better go?"
 
 ===Chinese===
-"当然，西蒙，"邓特回过神来。"这我知道。不过我还是想跟她本人谈谈。"他的目光又回到那些便笺上，嘴角泛起一丝微笑，仿佛想到了什么自己的事。……"所以你们真的打定主意要走了？"
+"当然，西蒙，"丹特回过神来。"这我知道。不过我还是想跟她本人谈谈。"他的目光又回到那些便笺上，嘴角泛起一丝微笑，仿佛想到了什么自己的事。……"所以你们真的打定主意要走了？"
 
 ===Original===
 "Haven't I been saying so, sir, all along?" Simon was really injured now, and his wounded dignity showed in his tone. Mr. Dent was taking the whole thing far too easily, he thought. First of all, he did not seem to be listening as much as he might, and then, when the notice was offered, he actually smiled! Tenants of forty years' standing do not look to have their departure speeded with smiles. Simon thought it heartless, to say the least, and only to be excused because Mr. Dent did not know what they had to face. They had not been very satisfactory tenants, of course—even Simon admitted that—and it was more than likely that the agent was rather relieved. At least he was saved the unpleasant task of turning them out, a duty which, as Simon knew, had seemed imminent more than once. But they were respectable folk of good stock, and they were not entirely to blame because they were failures, too. Gravity was their due, anyhow, if not sympathy, but Mr. Dent, on this solemn occasion, seemed to be failing them in both.
 
 ===Chinese===
-"我不是一直在说吗，先生？"西蒙真的受了伤，自尊心受挫的语气暴露无遗。邓特先生对这件事未免太不当回事了，他想。首先，他好像没怎么认真听；然后，当他递上退租通知的时候，他居然笑了！住了四十年的老佃户要搬走，可没人会笑着来送行的。西蒙觉得这至少是冷酷无情，唯一的开脱理由是邓特先生不知道他们要面对什么。他们当然算不上好佃户——连西蒙自己也承认——代理人多半反而松了口气。至少他省了亲自赶人的苦差事，西蒙知道这差事不止一次眼看就要落到头上。可他们是体面人，出身也不差，他们成了失败者也不全是自己的错。不管怎样，他们至少该得到一份庄重，即便不是同情，可邓特先生在这个庄严的场合，两样都给不出来。
+"我不是一直在说吗，先生？"西蒙真的受了伤，自尊心受挫的语气暴露无遗。丹特先生对这件事未免太不当回事了，他想。首先，他好像没怎么认真听；然后，当他递上退租通知的时候，他居然笑了！住了四十年的老佃户要搬走，可没人会笑着来送行的。西蒙觉得这至少是冷酷无情，唯一的开脱理由是丹特先生不知道他们要面对什么。他们当然算不上好佃户——连西蒙自己也承认——代理人多半反而松了口气。至少他省了亲自赶人的苦差事，西蒙知道这差事不止一次眼看就要落到头上。可他们是体面人，出身也不差，他们成了失败者也不全是自己的错。不管怎样，他们至少该得到一份庄重，即便不是同情，可丹特先生在这个庄严的场合，两样都给不出来。
 
 ===Original===
 "Of course you know you're late with your notice?" he observed presently, looking up. "You ought to have made up your minds a couple of months ago."
@@ -4069,7 +4033,7 @@ Simon stiffened a little, and looked surprised. "I'm speaking for both on us, si
 "It's been going back a long while, though," Dent said thoughtfully, and then felt penitent as the old man flushed. Just for the moment he had forgotten that Simon was in the room.
 
 ===Chinese===
-"不过这农场走下坡路已经很久了，"邓特若有所思地说，随即看到老人涨红了脸，便觉得有些过意不去。那一瞬间他忘了西蒙就坐在屋里。
+"不过这农场走下坡路已经很久了，"丹特若有所思地说，随即看到老人涨红了脸，便觉得有些过意不去。那一瞬间他忘了西蒙就坐在屋里。
 
 ===Original===
 "Of course I know you've had pretty rough luck," he went on hastily, trying to cover it up. "Sandholes holds the record for every sort of mischance. It sounds like one of the old fairytales," he added, laughing—"curses and all that! … But I can't help thinking it would have been better for everybody if there had been a change earlier on."
@@ -4087,13 +4051,13 @@ Simon stiffened a little, and looked surprised. "I'm speaking for both on us, si
 "It should have been made long since if it was to do you any good. …" Dent did not seem to notice that there was anything amiss. He sat, tapping the table, deep in thought, while Simon seethed. … "Sure you couldn't put on for another year?"
 
 ===Chinese===
-"要是为了对你们有好处，早就该换了。……"邓特似乎没注意到有什么不对。他坐在那儿，手指轻敲着桌子，沉思着，而西蒙在一旁怒火中烧。……"你确定不能再撑一年？"
+"要是为了对你们有好处，早就该换了。……"丹特似乎没注意到有什么不对。他坐在那儿，手指轻敲着桌子，沉思着，而西蒙在一旁怒火中烧。……"你确定不能再撑一年？"
 
 ===Original===
 This change of front upset his visitor so completely that he dropped his hat. He sat glaring at Mr. Dent with a dropped mouth.
 
 ===Chinese===
-这一下一百八十度的大转弯把他的客人彻底搞懵了，帽子都掉在了地上。他张着嘴，瞪着邓特先生坐在那里。
+这一下一百八十度的大转弯把他的客人彻底搞懵了，帽子都掉在了地上。他张着嘴，瞪着丹特先生坐在那里。
 
 ===Original===
 "Nay, then, I just couldn't!" he snapped at last, wondering whether he was on his head or his heels. "Losh save us!" he added angrily, "haven't I tellt you I meant to gang ever since I come in? It'll take me all my time to hang on till spring, as it is."
@@ -4105,7 +4069,7 @@ This change of front upset his visitor so completely that he dropped his hat. He
 "You've run it as close as that?" Dent enquired, and Simon gave a grunt.
 
 ===Chinese===
-"已经紧到这份上了？"邓特问。西蒙哼了一声。
+"已经紧到这份上了？"丹特问。西蒙哼了一声。
 
 ===Original===
 "Ay, and I'm not the first as has done it, neither!"
@@ -4117,7 +4081,7 @@ This change of front upset his visitor so completely that he dropped his hat. He
 "Couldn't your Blindbeck brother see to give you a hand? He's done well for himself, I should say, and his children are getting on."
 
 ===Chinese===
-"你布林德贝克那边的哥哥就不能帮你们一把吗？他混得挺不错的，我该说，他的孩子们也在往上走。"
+"你布林德贝克那边的弟弟就不能帮你们一把吗？他混得挺不错的，我该说，他的孩子们也在往上走。"
 
 ===Original===
 "He's given us a hand more than once already, has Will, but there's no sense in throwing good money after bad. We'll have to quit next year, if we don't this. Farm's going back, as you say, and I'm over old to pull it round. I can't keep going forever, nay, nor my missis, neither."
@@ -4129,13 +4093,13 @@ This change of front upset his visitor so completely that he dropped his hat. He
 He remembered Sarah's eyes as he spoke, and how they were enough to clinch the matter in themselves, but he was too offended even to mention them by now. There was no telling today how Mr. Dent would take the tragic news. He had smiled and looked cheerful over the notice to quit, but Simon felt he would not be able to bear it if he smiled at Sarah's eyes. Indeed, it was all he could do to keep a hold on himself, as it was—first of all hearing that he ought to have gone long since, and then being told to stop when he'd settled to clear out!
 
 ===Chinese===
-他说这话的时候想到了萨拉的眼睛，光凭那双眼睛就足以让事情板上钉钉了，可他现在被伤透了心，连提都不想提。今天说不准邓特先生听了这消息会怎么反应。他对退租通知笑嘻嘻的、一脸高兴，可西蒙觉得如果他对萨拉的眼睛也笑出来，他就受不了了。说真的，他现在已经快撑不住了——先听说他早该走了，然后又让他别走，他已经打定主意要搬了啊！
+他说这话的时候想到了萨拉的眼睛，光凭那双眼睛就足以让事情板上钉钉了，可他现在被伤透了心，连提都不想提。今天说不准丹特先生听了这消息会怎么反应。他对退租通知笑嘻嘻的、一脸高兴，可西蒙觉得如果他对萨拉的眼睛也笑出来，他就受不了了。说真的，他现在已经快撑不住了——先听说他早该走了，然后又让他别走，他已经打定主意要搬了啊！
 
 ===Original===
 The trend of his injured thought must have reached the other at last, for he roused himself to look at his sulky face.
 
 ===Chinese===
-他满腹委屈的心思想必终于传到了对方那里，因为邓特抬起头看了看他那张闷闷不乐的脸。
+他满腹委屈的心思想必终于传到了对方那里，因为丹特抬起头看了看他那张闷闷不乐的脸。
 
 ===Original===
 "You needn't think I'm trying to shove the place down your throat!" he said, with a laugh. "But I certainly thought you'd rather be stopping on!"
@@ -4165,19 +4129,19 @@ Simon felt a little appeased, though he took care not to show any sign. He growl
 "No chance of getting him home again, is there?" Dent enquired, and Simon stared at the floor and shook his head. He must have felt a change in the atmosphere, however, for suddenly he began to repeat what Sarah had told May, how Geordie had written for money, and there had been none to send. The words came easily after he had made a start, and for the time being he forgot his resentment and injured-tenant's pride.
 
 ===Chinese===
-"没有机会让他回来吗？"邓特问道，西蒙盯着地板摇了摇头。不过他大概感觉到了气氛的变化，因为他忽然开始复述萨拉告诉梅（May）的那些事——乔迪（Geordie）写信来要钱，可家里没钱寄。开了头之后话就顺了，他一时忘了自己的委屈和受伤的佃户尊严。
+"没有机会让他回来吗？"丹特问道，西蒙盯着地板摇了摇头。不过他大概感觉到了气氛的变化，因为他忽然开始复述萨拉告诉梅（May）的那些事——乔迪（Geordie）写信来要钱，可家里没钱寄。开了头之后话就顺了，他一时忘了自己的委屈和受伤的佃户尊严。
 
 ===Original===
 "I reckon you know, sir, how it all come about. There'll ha' been plenty o' folk ready to tell you, I'll be bound, and them as knowed least'll likely ha' tellt you most. We never had but the one lad, Sarah and me, and, by Gox! but he was a limb! The queer thing was that my brother Will's eldest should ha' been the very marrow o' mine—looks, voice, ways, ay, and character an' all. Will and me were whyet enough lads, I'm sure; it was terble strange we should breed a pair o' rattlehorns like yon. You couldn't rightly say there was any harm to 'em, but they were that wick they mun always be making a stir. Being that like, too, helped 'em rarely when there was chanst o' their getting catched. Each on 'em had a call for telling when he was about. Jim's was a heron like, but Geordie's was nobbut a gull—"
 
 ===Chinese===
-"先生，我想您知道是怎么回事。我敢说有不少人争着跟您讲过，知道得最少的人反倒讲得最多。我和萨拉就这么一个儿子，天哪！那可真是个闯祸精！说来也怪，我哥哥威尔的大儿子偏偏跟我那个一模一样——长相、嗓音、做派，嗯，连脾气都一个样。我跟威尔小时候都是安安静静的，说真的；偏偏生出这么一对混世魔王，真是太邪门了。你也不能说他们有什么坏心眼，可他们就是太活泛了，非得闹出点动静不可。两个人长得那么像，被抓包的时候可就帮了大忙了。每个人在附近晃悠的时候都有个记号。吉姆（Jim）的像只苍鹭，乔迪的不过是一只海鸥——"
+"先生，我想您知道是怎么回事。我敢说有不少人争着跟您讲过，知道得最少的人反倒讲得最多。我和萨拉就这么一个儿子，天哪！那可真是个闯祸精！说来也怪，我弟弟威尔的大儿子偏偏跟我那个一模一样——长相、嗓音、做派，嗯，连脾气都一个样。我跟威尔小时候都是安安静静的，说真的；偏偏生出这么一对混世魔王，真是太邪门了。你也不能说他们有什么坏心眼，可他们就是太活泛了，非得闹出点动静不可。两个人长得那么像，被抓包的时候可就帮了大忙了。每个人在附近晃悠的时候都有个记号。吉姆（Jim）的像只苍鹭，乔迪的不过是一只海鸥——"
 
 ===Original===
 This time it was his own glance that went to the window, as again he remembered the bird gone out to the waves. When Dent spoke, his mind came back from its flight with a tiny jerk.
 
 ===Chinese===
-这一次是他自己的目光投向了窗户，因为他又想起了那只飞向海浪的鸟。邓特一开口，他的思绪猛地被拽了回来。
+这一次是他自己的目光投向了窗户，因为他又想起了那只飞向海浪的鸟。丹特一开口，他的思绪猛地被拽了回来。
 
 ===Original===
 "Then they made off to Canada, didn't they, the two lads? You told me something about it when I first came."
@@ -4201,7 +4165,7 @@ This time it was his own glance that went to the window, as again he remembered 
 "They'll happen make friends when the rabbit makes friends wi' the ferret," Simon said grimly, "and the blackbird wi' the cat! I don't say Sarah isn't to blame in some ways, but she's had a deal to put up wi', all the same. There's summat about Eliza as sets you fair bilin' inside your bones! It's like as if she'd made up her mind to pipe Sarah's eye straight from the very start. She never said ay to Will, for one thing, till Sarah and me had our wedding-day fixed, and then danged if she didn't make up her mind to get wed that day an' all! She fixed same church, same parson, same day and same time—ay, an' there's some folk say she'd ha' fixed on t'same man if she'd gitten chanst!" He paused for a moment to chuckle when he had said that, but he was too bitter to let his vanity dwell on it for long. "She tellt parson it was a double wedding or summat o' the sort, but she never let wit on't to Sarah and me until she was fair inside door. Sarah and me walked to kirk arm in arm, wi' nowt very much by-ordinar' on our backs; but Eliza come scampering up in a carriage and pair, donned up in a white gown and wi' a gert, waggling veil. Will was that shammed on it all he couldn't abide to look me in t'face, but there, I reckon he couldn't help hisself, poor lad! Sarah was that wild I could feel her fair dodderin' wi' rage as we stood alongside at chancel-step. She was that mad she could hardly shape to get her tongue round Weddin'-Service or owt, and when we was in t'vestry I see her clump both her feet on the tail of Eliza's gown. She would have it nobody knew she was as much as getting married at all—they were that busy gawping at Eliza and her veil. She was a fine, strapping lass, Eliza was, and I'd a deal o' work keeping my eyes off'n her myself! … ay, and I won't say but what she give me a sheep's eye or so at the back o' Will as well. …" He chuckled again, and his face became suddenly youthful, with a roguish eye. "But yon was no way o' starting in friendly, was it, Mr. Dent?
 
 ===Chinese===
-"等兔子跟雪貂交了朋友、乌鸦跟猫交了朋友再说吧！"西蒙冷酷地说。"我不说萨拉没一点错，可她受的气也够多了。伊莱莎身上有股劲儿让你骨头里都冒火！就好像她打一开始就跟萨拉较劲似的。有一件事——萨拉和我把婚期定下来之前，她一直不肯答应威尔，结果该死的，她居然也决定在同一天结婚！同一个教堂、同一个牧师、同一天同一个时辰——嗯，还有人说要是她逮着机会，她连男人都想抢同一个呢！"说到这里他停了一下，嘿嘿笑了一声，但苦涩太深了，没让自己的虚荣心在上面停留太久。"她跟牧师说是双婚礼什么的，可直到她踏进教堂门口才让萨拉和我知道。萨拉和我手挽手走去教堂，身上穿的也没什么特别的；伊莱莎却坐着一辆双马马车蹦蹦跳跳地来了，穿着白裙子，戴着一面又大又晃的面纱。威尔觉得丢人丢到家了，看都不好意思看我一眼，不过嘛，我想他也由不得自己，可怜的家伙！萨拉气得要命，我们并排站在圣坛台阶上时，我能感觉到她在浑身发抖。她气得连婚礼祷词都说不利索了，到了圣器室我还看见她两脚一起跺在伊莱莎的裙摆上。她巴不得没人知道她也在结婚——因为所有人都瞪着眼看伊莱莎和她的面纱呢。伊莱莎是个漂亮壮实的姑娘，我自己也费了好大劲才不看她！……嗯，而且我不能说她没在威尔背后对我抛过几个媚眼。……"他又嘿嘿笑了起来，脸上忽然年轻了，眼神里带着调皮。"可这可不是友好的开头，对吧，邓特先生？"
+"等兔子跟雪貂交了朋友、乌鸦跟猫交了朋友再说吧！"西蒙冷酷地说。"我不说萨拉没一点错，可她受的气也够多了。伊莱莎身上有股劲儿让你骨头里都冒火！就好像她打一开始就跟萨拉较劲似的。有一件事——萨拉和我把婚期定下来之前，她一直不肯答应威尔，结果该死的，她居然也决定在同一天结婚！同一个教堂、同一个牧师、同一天同一个时辰——嗯，还有人说要是她逮着机会，她连男人都想抢同一个呢！"说到这里他停了一下，嘿嘿笑了一声，但苦涩太深了，没让自己的虚荣心在上面停留太久。"她跟牧师说是双婚礼什么的，可直到她踏进教堂门口才让萨拉和我知道。萨拉和我手挽手走去教堂，身上穿的也没什么特别的；伊莱莎却坐着一辆双马马车蹦蹦跳跳地来了，穿着白裙子，戴着一面又大又晃的面纱。威尔觉得丢人丢到家了，看都不好意思看我一眼，不过嘛，我想他也由不得自己，可怜的家伙！萨拉气得要命，我们并排站在圣坛台阶上时，我能感觉到她在浑身发抖。她气得连婚礼祷词都说不利索了，到了圣器室我还看见她两脚一起跺在伊莱莎的裙摆上。她巴不得没人知道她也在结婚——因为所有人都瞪着眼看伊莱莎和她的面纱呢。伊莱莎是个漂亮壮实的姑娘，我自己也费了好大劲才不看她！……嗯，而且我不能说她没在威尔背后对我抛过几个媚眼。……"他又嘿嘿笑了起来，脸上忽然年轻了，眼神里带着调皮。"可这可不是友好的开头，对吧，丹特先生？"
 
 ===Original===
 "Ay, well, things has gone on like that atween 'em more or less ever since, and I won't say but Sarah's gitten a bit of her own back when she's gitten chanst. Will having all the luck and suchlike hasn't made things better, neither. Blindbeck's ganged up and Sandholes has ganged down—and seems like to hit bottom afore it stops! Will and me have hung together all along, but the women have always been at each other's throats. It riled Eliza Jim being always at our spot, and thinking a deal more o' Sarah than he did of her. Neither on 'em could break him of it, whatever they said or did. He always stuck to it Sandholes was his home by rights."
@@ -4213,7 +4177,7 @@ This time it was his own glance that went to the window, as again he remembered 
 "Pity the two of them aren't here to help you now," Dent said. "Those runabout lads often make fine men."
 
 ===Chinese===
-"可惜那两个现在没在这儿帮你，"邓特说。"在外头闯荡的小伙子往往能成大器。"
+"可惜那两个现在没在这儿帮你，"丹特说。"在外头闯荡的小伙子往往能成大器。"
 
 ===Original===
 "Nay, I doubt they've not made much out, anyway round." Simon shook his head. "Likely they're best where they be," he said, as Sarah had said on the road in. He sat silent a moment longer for politeness' sake, and then was stopped again as he rose to go.
@@ -4243,7 +4207,7 @@ The old man's face had brightened as he talked, but now the shadow came over it 
 Again, as he finished, he remembered Sarah's eyes, and once again he let the opportunity pass. He was on his feet now, anxious to get away, and there seemed little use in prolonging this evil hour. Mr. Dent would think they were forever whingeing and whining and like enough calling out before they were hurt. … He moved hurriedly to the door, conscious of a sense of relief as well as of loss, and Sarah's eyes missed their final chance of getting into the talk. …
 
 ===Chinese===
-话刚说完，他又想到了萨拉的眼睛，又一次让机会从手边溜走了。他现在站起来了，急着要走，再拖下去也没什么意思。邓特先生会以为他们就知道抱怨哭诉、还没吃亏就先叫唤了。……他急匆匆朝门口走去，心里既松了一口气又有一丝失落，萨拉的眼睛错过了最后一次被提到的机会。……
+话刚说完，他又想到了萨拉的眼睛，又一次让机会从手边溜走了。他现在站起来了，急着要走，再拖下去也没什么意思。丹特先生会以为他们就知道抱怨哭诉、还没吃亏就先叫唤了。……他急匆匆朝门口走去，心里既松了一口气又有一丝失落，萨拉的眼睛错过了最后一次被提到的机会。……
 
 ===Original===
 "You're likely throng, sir," he finished, "and I'll not keep you." He put a hand to the latch. "Anyway, you'll kindly take it as we'll quit next year."
@@ -4255,7 +4219,7 @@ Again, as he finished, he remembered Sarah's eyes, and once again he let the opp
 Dent said—"No, Simon, I shan't do anything of the sort!" and laughed when the other shot round on him again with open mouth. His expression was grave, however, as he ended his speech. "I want you to think it over a bit first."
 
 ===Chinese===
-邓特说——"不，西蒙，我不会这么做的！"西蒙又猛地转过身来张大了嘴，他笑了。不过他最后说这话的时候表情很认真。"我希望你先好好想想。"
+丹特说——"不，西蒙，我不会这么做的！"西蒙又猛地转过身来张大了嘴，他笑了。不过他最后说这话的时候表情很认真。"我希望你先好好想想。"
 
 ===Original===
 Simon felt his head going round for the second time. The red came into his thin face.
@@ -4273,7 +4237,7 @@ Simon felt his head going round for the second time. The red came into his thin 
 "Oh, Lord, yes, Simon! Of course." Dent's eyes went back to the notes. "Yes, of course you can."
 
 ===Chinese===
-"哦，天哪，当然可以，西蒙！当然。"邓特的目光又回到了那些便笺上。"是的，你当然可以。"
+"哦，天哪，当然可以，西蒙！当然。"丹特的目光又回到了那些便笺上。"是的，你当然可以。"
 
 ===Original===
 "Ay, well, then?" Simon demanded stiffly. "What's all this stir?"
@@ -4297,7 +4261,7 @@ Simon felt his head going round for the second time. The red came into his thin 
 Dent jumped to his feet and came across to lay a hand on his arm.
 
 ===Chinese===
-邓特猛地站起来，走过来把手搭在他胳膊上。
+丹特猛地站起来，走过来把手搭在他胳膊上。
 
 ===Original===
 "It's only that I've a feeling you'll change your mind, Simon," he said earnestly, "and you'll be sorry if you've spread it about that you're going to quit. A week, say—a week won't make that much difference, will it? Can't you let it stand over another week?"
@@ -4309,7 +4273,7 @@ Dent jumped to his feet and came across to lay a hand on his arm.
 "You said a minute back 'twas a pity we'd stopped so long! I can't make out what you're at, Mr. Dent—I'm danged if I can!"
 
 ===Chinese===
-"你方才还说我们停得太久了可惜！我实在搞不懂您到底要干什么，邓特先生——我真他妈搞不懂！"
+"你方才还说我们停得太久了可惜！我实在搞不懂您到底要干什么，丹特先生——我真他妈搞不懂！"
 
 ===Original===
 The agent laughed and left him to stroll back again to the window, where he stood looking down into the full street.
@@ -4333,7 +4297,7 @@ The agent laughed and left him to stroll back again to the window, where he stoo
 Dent shivered at the drear little picture which the other had conjured up.
 
 ===Chinese===
-邓特被对方描绘的那幅阴森森的小画面冻得打了个寒噤。
+丹特被对方描绘的那幅阴森森的小画面冻得打了个寒噤。
 
 ===Original===
 "I don't know how you sleep," he said, "perched on the edge of things like that! It would give me fits to have the sea knocking twice a day at my back door."
@@ -4351,7 +4315,7 @@ Dent shivered at the drear little picture which the other had conjured up.
 "It was my own fault," Dent laughed—"not that it was any the nicer for that! I knew the time of the tide, but I'd forgotten the time of day. It was a day something like this, much the same dismal colour all through. Lord, no!" He shivered again. "I've not forgotten, not I! I'll never forget pounding away from that horrible wave, and finding myself, quite without knowing it, back below the farm!"
 
 ===Chinese===
-"是我自己的错，"邓特笑着说——"可那也没让事情好受多少！我知道涨潮的时间，可忘了当时是几点。那天也像今天这样，从头到尾灰蒙蒙的。天哪，不！"他又打了个寒噤。"我没忘，我才不会忘呢！我永远忘不了从那可怕的浪头下拼命逃开，回过神来已经到了农场下面！"
+"是我自己的错，"丹特笑着说——"可那也没让事情好受多少！我知道涨潮的时间，可忘了当时是几点。那天也像今天这样，从头到尾灰蒙蒙的。天哪，不！"他又打了个寒噤。"我没忘，我才不会忘呢！我永远忘不了从那可怕的浪头下拼命逃开，回过神来已经到了农场下面！"
 
 ===Original===
 "It was my missis saved you that night," Simon said, "and a near shave it was an' all! Tide would ha' got you even then if it hadn't been for her. We heard you hollerin' and came out to look, but we couldn't see nowt, it was that dark. I thought we'd fancied it like, as we didn't hear no more, but Sarah wouldn't hear of owt o' the sort. She would have it she could see you liggin' at bottom o' t'bank, and she give me no peace till I'd crammelled down to look."
@@ -4377,13 +4341,13 @@ He followed this caller out as he had done the last, and again, leaning over the
 Even now, however, the Blindbeck comedy was not quite played out. Eliza had still to give it its finishing touch. The lately routed audience must have been conscious of this, for they assembled again in order to watch the Thornthwaites take their leave. As a rule, the Simons simply faded away, unperceived and unsped of anybody but Will. They were not welcome when they came, and they were not lamented when they went away. But today Sarah had managed to touch the imagination of the crowd, arousing unwilling admiration and even respect. The Addisons, for instance, though outwardly badly shocked, rejoiced by proxy in a crime which they would never have had the courage to commit themselves. Even Elliman was heard to remark that Sarah’s psychology seemed possibly worthy of study, after all. The main motive with all, however, was a sneaking hope that, on some ground or another, the opponents might go for each other again.
 
 ===Chinese===
-然而，即使现在，布林德贝克的喜剧也还没有完全结束。伊莱莎还需要给它最后的点睛之笔。最近被击败的观众一定意识到了这一点，因为他们又聚在一起，准备观看桑塞特一家离开。通常，西蒙一家只是悄然离去，除了威尔没人注意到，也没人送别。他们来时不受欢迎，走时也没人惋惜。但今天萨拉设法触动了人群的想象力，激起了不情愿的钦佩甚至尊敬。例如，艾迪生一家，尽管表面上深受震惊，却间接地为他们自己永远不会有勇气犯下的罪行感到高兴。甚至有人听到埃利曼说，萨拉的心理学似乎终于值得研究了。然而，所有人的主要动机是一种隐秘的希望，即无论基于何种理由，对手们可能会再次互相攻击。
+然而，即使现在，布林德贝克的喜剧也还没有完全结束。伊莱莎还需要给它最后的点睛之笔。最近被击败的观众一定意识到了这一点，因为他们又聚在一起，准备观看索恩思韦特一家离开。通常，西蒙一家只是悄然离去，除了威尔没人注意到，也没人送别。他们来时不受欢迎，走时也没人惋惜。但今天萨拉设法触动了人群的想象力，激起了不情愿的钦佩甚至尊敬。例如，艾迪生一家，尽管表面上深受震惊，却间接地为他们自己永远不会有勇气犯下的罪行感到高兴。甚至有人听到埃利曼说，萨拉的心理学似乎终于值得研究了。然而，所有人的主要动机是一种隐秘的希望，即无论基于何种理由，对手们可能会再次互相攻击。
 
 ===Original===
 As if by accident, therefore, they drifted out of the house, and on Sarah’s appearance were to be found sitting on rails or pigsty walls, or leaning in graceful attitudes against the porch. Sarah could not see them, but Simon could, and divided a scowl of dislike amongst the lot. The Thornthwaites were actually settled in the trap when Eliza came bustling after them into the yard.
 
 ===Chinese===
-因此，仿佛偶然地，他们漂出了房子，当萨拉出现时，发现他们坐在栅栏或猪圈墙上，或优雅地靠在门廊上。萨拉看不见他们，但西蒙能看见，他将厌恶的皱眉分给了所有人。当伊莱莎匆忙跟着他们进入院子时，桑塞特一家实际上已经安顿在轻便马车里了。
+因此，仿佛偶然地，他们漂出了房子，当萨拉出现时，发现他们坐在栅栏或猪圈墙上，或优雅地靠在门廊上。萨拉看不见他们，但西蒙能看见，他将厌恶的皱眉分给了所有人。当伊莱莎匆忙跟着他们进入院子时，索恩思韦特一家实际上已经安顿在轻便马车里了。
 
 ===Original===
 It was such a different Eliza, however, that at first it looked as if the audience were to be cheated of their scene. The virulent harridan of ten minutes ago had vanished as if she had never been. This Eliza was hearty, smiling, serene, the smooth-faced, smooth-tongued mocker which Sarah detested most. Even her hair and dress, lately dishevelled by rage, were now as tidy and sleek as the fur of a well-brushed cat. She came to a halt close beside the wheel, and Sarah started when she heard her speak.
@@ -4443,7 +4407,7 @@ There was a burst of laughter at this show of wit, and Eliza flared instantly in
 "You’ll have to speak different from that, Mr. Thornthet," she called shrilly, "if you’re coming to Blindbeck to act as our hired man!"
 
 ===Chinese===
-"你得说不同的话，桑塞特先生，"她尖声喊道，"如果你要来布林德贝克做我们的雇工！"
+"你得说不同的话，索恩思韦特先生，"她尖声喊道，"如果你要来布林德贝克做我们的雇工！"
 
 ===Original===
 The laughter broke out again, and then stopped, cut short. Simon, red to the ears, raised the whip violently above the horse’s back, but it was checked before it descended by Sarah’s outstretched hand.
@@ -4479,7 +4443,7 @@ There was a pause after that, in which even the pigsty audience was hushed as mi
 Eliza watched it triumphantly until the very last, and then, bursting into a laugh, turned expectantly for applause. But for once her usually appreciative audience failed her of her due. They avoided her eyes and looked at their boots, or leaned over the pigsty walls and pretended a passionate interest in the pigs. The Addisons, in whom Christian charity was apt to rise and fall like a turned-on jet, murmured tepid thanks for their entertainment, and hurried away. Even the smug cousin refused to play up to Eliza for once, partly because of a latent fineness of feeling which she had hurt, but chiefly because she had trodden on his toes. Turning his back determinedly upon Mary Phyllis, he bent to whisper something in Sally’s ear. She hesitated a moment, lifting her eyes to his sobered face, and then followed him slowly towards the track across the fields.
 
 ===Chinese===
-伊莱莎胜利地一直看着到最后，然后，爆发出一阵笑声，期待地转身寻求掌声。但这一次，她通常欣赏的观众没有给予她应得的。他们避开她的眼睛，看着自己的靴子，或者靠在猪圈墙上，假装对猪有浓厚的兴趣。艾迪生一家，其中基督教的慈善就像打开的水龙头一样容易起伏，对他们的娱乐喃喃地说了些冷淡的感谢，然后匆匆离开了。甚至那个自鸣得意的表弟这一次也拒绝配合伊莱莎，部分是因为她伤害了一种潜在的美好感情，但主要是因为她踩了他的脚。他坚决地背对着玛丽·菲利斯（Mary Phyllis），弯腰在萨莉耳边低语。她犹豫了一会儿，抬起眼睛看着他严肃的脸，然后慢慢地跟着他走向田野间的小路。
+伊莱莎胜利地一直看着到最后，然后，爆发出一阵笑声，期待地转身寻求掌声。但这一次，她通常欣赏的观众没有给予她应得的。他们避开她的眼睛，看着自己的靴子，或者靠在猪圈墙上，假装对猪有浓厚的兴趣。艾迪生一家，其中基督教的慈善就像打开的水龙头一样容易起伏，对他们的娱乐喃喃地说了些冷淡的感谢，然后匆匆离开了。甚至那个势利堂兄这一次也拒绝配合伊莱莎，部分是因为她伤害了一种潜在的美好感情，但主要是因为她踩了他的脚。他坚决地背对着玛丽·菲利斯（Mary Phyllis），弯腰在萨莉耳边低语。她犹豫了一会儿，抬起眼睛看着他严肃的脸，然后慢慢地跟着他走向田野间的小路。
 
 ## VIII / 第八章
 

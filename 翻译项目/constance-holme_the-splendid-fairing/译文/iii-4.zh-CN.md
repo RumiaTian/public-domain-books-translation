@@ -88,7 +88,7 @@ Sarah had another shock at the sound of his voice, topped by the accent from ove
 The man laughed a second time, but more naturally, as if reassured the moment he heard her speak. "I sure am!" he answered her joyfully. "Why shouldn’t I be? Leastways, I’m all of Jim Thornthet that’s managed to swim across!" The smile stayed on his lips as he stared, but died when she did not respond. "May I come in a spell?" he enquired anxiously. "I’ve only struck England today, and I’ve a bag of news."
 
 ===Chinese===
-那人又笑了，但更自然了，仿佛一听到她说话就放心了。"我确实是！"他愉快地回答她。"我为什么不是？至少，我是吉姆·桑塞特（Jim Thornthet）中成功游过来的全部！"当他凝视时，微笑停留在他嘴唇上，但当他没有回应时就消失了。"我能进来一会儿吗？"他焦急地问道。"我今天刚到英国，我有一袋子消息。"
+那人又笑了，但更自然了，仿佛一听到她说话就放心了。"我确实是！"他愉快地回答她。"我为什么不是？至少，我是吉姆·索恩思韦特（Jim Thornthet）中成功游过来的全部！"当他凝视时，微笑停留在他嘴唇上，但当他没有回应时就消失了。"我能进来一会儿吗？"他焦急地问道。"我今天刚到英国，我有一袋子消息。"
 
 ===Original===
 But again she blocked the entrance as she had blocked it for May. It was the way into herself as well as into the house that these people sought, and she yielded to neither of them by an inch. "You can get out, if you’re Jim," she said caustically, "and as smart as you like! Blindbeck’s your spot. We want nowt wi’ you here."
@@ -208,7 +208,7 @@ He turned his smiling eyes suddenly to Sarah’s face.
 "I’ve no use for you, Jim Thornthwaite, and never had. You know that as well as me."
 
 ===Chinese===
-"我对你没用，吉姆·桑塞特（Jim Thornthwaite），从来没有过。你和我一样清楚。"
+"我对你没用，吉姆·索恩思韦特（Jim Thornthwaite），从来没有过。你和我一样清楚。"
 
 ===Original===
 "That’s so!" He laughed again. "But I was always mighty fond of *you*." He made a movement as if to cross to her side, but she backed instantly, as if she guessed. "Of course, you’d a deal rather it had been Geordie," he said. "I know that. But he was never much of a sparkle in the family tarara, and that’s honest. I left him serving in a store—poor lad Geordie—and hankering like honey after the old spot!"
@@ -538,7 +538,7 @@ Yet she called to him even as he went, afraid, womanlike, of the sound of the sh
 Even in his disappointment he was still able to smile. "It don’t need a safe between it and a Thornthet, I guess!" was all he said. In that moment, indeed, the money was nothing and less than nothing to them both. Sarah was honest to the core, and never remembered once that dead men tell no tales and that the sea does not betray.…… The thing that had conquered her soul was at least also above that.
 
 ===Chinese===
-即使在失望中，他仍然能够微笑。"我想它不需要在它和桑塞特之间放一个保险箱！"这是他说的全部。在那一刻，确实，钱对他们俩来说什么都不是，甚至比什么都不是更少。萨拉本质上是诚实的，从未想起过死人不会说话，大海不会背叛。……征服她灵魂的东西至少也高于那个。
+即使在失望中，他仍然能够微笑。"我想它不需要在它和索恩思韦特之间放一个保险箱！"这是他说的全部。在那一刻，确实，钱对他们俩来说什么都不是，甚至比什么都不是更少。萨拉本质上是诚实的，从未想起过死人不会说话，大海不会背叛。……征服她灵魂的东西至少也高于那个。
 
 ===Original===
 "Ten, wa’n’t it?" he asked, drifting reluctantly out again. His voice came from further away, like the gull’s voice from the sky. "So long! Cheero! I’ll be back again with the tide.……"

@@ -4,13 +4,13 @@
 Even now, however, the Blindbeck comedy was not quite played out. Eliza had still to give it its finishing touch. The lately routed audience must have been conscious of this, for they assembled again in order to watch the Thornthwaites take their leave. As a rule, the Simons simply faded away, unperceived and unsped of anybody but Will. They were not welcome when they came, and they were not lamented when they went away. But today Sarah had managed to touch the imagination of the crowd, arousing unwilling admiration and even respect. The Addisons, for instance, though outwardly badly shocked, rejoiced by proxy in a crime which they would never have had the courage to commit themselves. Even Elliman was heard to remark that Sarah’s psychology seemed possibly worthy of study, after all. The main motive with all, however, was a sneaking hope that, on some ground or another, the opponents might go for each other again.
 
 ===Chinese===
-然而，即使现在，布林德贝克的喜剧也还没有完全结束。伊莱莎还需要给它最后的点睛之笔。最近被击败的观众一定意识到了这一点，因为他们又聚在一起，准备观看桑塞特一家离开。通常，西蒙一家只是悄然离去，除了威尔没人注意到，也没人送别。他们来时不受欢迎，走时也没人惋惜。但今天萨拉设法触动了人群的想象力，激起了不情愿的钦佩甚至尊敬。例如，艾迪生一家，尽管表面上深受震惊，却间接地为他们自己永远不会有勇气犯下的罪行感到高兴。甚至有人听到埃利曼说，萨拉的心理学似乎终于值得研究了。然而，所有人的主要动机是一种隐秘的希望，即无论基于何种理由，对手们可能会再次互相攻击。
+然而，即使现在，布林德贝克的喜剧也还没有完全结束。伊莱莎还需要给它最后的点睛之笔。最近被击败的观众一定意识到了这一点，因为他们又聚在一起，准备观看索恩思韦特一家离开。通常，西蒙一家只是悄然离去，除了威尔没人注意到，也没人送别。他们来时不受欢迎，走时也没人惋惜。但今天萨拉设法触动了人群的想象力，激起了不情愿的钦佩甚至尊敬。例如，艾迪生一家，尽管表面上深受震惊，却间接地为他们自己永远不会有勇气犯下的罪行感到高兴。甚至有人听到埃利曼说，萨拉的心理学似乎终于值得研究了。然而，所有人的主要动机是一种隐秘的希望，即无论基于何种理由，对手们可能会再次互相攻击。
 
 ===Original===
 As if by accident, therefore, they drifted out of the house, and on Sarah’s appearance were to be found sitting on rails or pigsty walls, or leaning in graceful attitudes against the porch. Sarah could not see them, but Simon could, and divided a scowl of dislike amongst the lot. The Thornthwaites were actually settled in the trap when Eliza came bustling after them into the yard.
 
 ===Chinese===
-因此，仿佛偶然地，他们漂出了房子，当萨拉出现时，发现他们坐在栅栏或猪圈墙上，或优雅地靠在门廊上。萨拉看不见他们，但西蒙能看见，他将厌恶的皱眉分给了所有人。当伊莱莎匆忙跟着他们进入院子时，桑塞特一家实际上已经安顿在轻便马车里了。
+因此，仿佛偶然地，他们漂出了房子，当萨拉出现时，发现他们坐在栅栏或猪圈墙上，或优雅地靠在门廊上。萨拉看不见他们，但西蒙能看见，他将厌恶的皱眉分给了所有人。当伊莱莎匆忙跟着他们进入院子时，索恩思韦特一家实际上已经安顿在轻便马车里了。
 
 ===Original===
 It was such a different Eliza, however, that at first it looked as if the audience were to be cheated of their scene. The virulent harridan of ten minutes ago had vanished as if she had never been. This Eliza was hearty, smiling, serene, the smooth-faced, smooth-tongued mocker which Sarah detested most. Even her hair and dress, lately dishevelled by rage, were now as tidy and sleek as the fur of a well-brushed cat. She came to a halt close beside the wheel, and Sarah started when she heard her speak.
@@ -70,7 +70,7 @@ There was a burst of laughter at this show of wit, and Eliza flared instantly in
 "You’ll have to speak different from that, Mr. Thornthet," she called shrilly, "if you’re coming to Blindbeck to act as our hired man!"
 
 ===Chinese===
-"你得说不同的话，桑塞特先生，"她尖声喊道，"如果你要来布林德贝克做我们的雇工！"
+"你得说不同的话，索恩思韦特先生，"她尖声喊道，"如果你要来布林德贝克做我们的雇工！"
 
 ===Original===
 The laughter broke out again, and then stopped, cut short. Simon, red to the ears, raised the whip violently above the horse’s back, but it was checked before it descended by Sarah’s outstretched hand.
@@ -106,4 +106,4 @@ There was a pause after that, in which even the pigsty audience was hushed as mi
 Eliza watched it triumphantly until the very last, and then, bursting into a laugh, turned expectantly for applause. But for once her usually appreciative audience failed her of her due. They avoided her eyes and looked at their boots, or leaned over the pigsty walls and pretended a passionate interest in the pigs. The Addisons, in whom Christian charity was apt to rise and fall like a turned-on jet, murmured tepid thanks for their entertainment, and hurried away. Even the smug cousin refused to play up to Eliza for once, partly because of a latent fineness of feeling which she had hurt, but chiefly because she had trodden on his toes. Turning his back determinedly upon Mary Phyllis, he bent to whisper something in Sally’s ear. She hesitated a moment, lifting her eyes to his sobered face, and then followed him slowly towards the track across the fields.
 
 ===Chinese===
-伊莱莎胜利地一直看着到最后，然后，爆发出一阵笑声，期待地转身寻求掌声。但这一次，她通常欣赏的观众没有给予她应得的。他们避开她的眼睛，看着自己的靴子，或者靠在猪圈墙上，假装对猪有浓厚的兴趣。艾迪生一家，其中基督教的慈善就像打开的水龙头一样容易起伏，对他们的娱乐喃喃地说了些冷淡的感谢，然后匆匆离开了。甚至那个自鸣得意的表弟这一次也拒绝配合伊莱莎，部分是因为她伤害了一种潜在的美好感情，但主要是因为她踩了他的脚。他坚决地背对着玛丽·菲利斯（Mary Phyllis），弯腰在萨莉耳边低语。她犹豫了一会儿，抬起眼睛看着他严肃的脸，然后慢慢地跟着他走向田野间的小路。
+伊莱莎胜利地一直看着到最后，然后，爆发出一阵笑声，期待地转身寻求掌声。但这一次，她通常欣赏的观众没有给予她应得的。他们避开她的眼睛，看着自己的靴子，或者靠在猪圈墙上，假装对猪有浓厚的兴趣。艾迪生一家，其中基督教的慈善就像打开的水龙头一样容易起伏，对他们的娱乐喃喃地说了些冷淡的感谢，然后匆匆离开了。甚至那个势利堂兄这一次也拒绝配合伊莱莎，部分是因为她伤害了一种潜在的美好感情，但主要是因为她踩了他的脚。他坚决地背对着玛丽·菲利斯（Mary Phyllis），弯腰在萨莉耳边低语。她犹豫了一会儿，抬起眼睛看着他严肃的脸，然后慢慢地跟着他走向田野间的小路。

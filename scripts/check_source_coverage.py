@@ -18,7 +18,7 @@
 """
 import zipfile, re, os, sys, glob, html, posixpath, unicodedata
 
-ROOT = r'C:\Users\HanTi\OneDrive\translate\翻译项目'
+ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "翻译项目")
 
 
 def norm(s):

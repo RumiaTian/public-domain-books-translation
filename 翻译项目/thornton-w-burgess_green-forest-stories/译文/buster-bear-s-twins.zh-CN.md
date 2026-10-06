@@ -56,6 +56,9 @@ When on that moonlight night he discovered Mrs. Bear's secret, he had the most m
 And his surprise at seeing those two little heads was only a little greater than his surprise at the smallness of them. So for perhaps two minutes Peter sat motionless, quite overcome with surprise, as he stared at those two funny little heads poked out from the entrance under the great windfall. Then all in a flash he understood the cause of Mrs. Bear's short temper and the reason she drove everybody away from there, and he felt a sudden panic of fright.
 
 ===Chinese===
+彼得急匆匆地溜到安全距离外，然后转过身，瞪大眼睛盯着那个洞口。他大半以为会看到熊太太的大脑袋探出来，随时准备拔腿就跑。然而，钻出来的却是一个极小的小脑袋，紧接着旁边又探出了另一个小脑袋。
+彼得惊讶得差点一屁股仰面摔倒。随即，他恍然大悟——他终于知道了熊太太的秘密！秘密终于大白于天下了！没错，先生，终于真相大白了。熊太太添了娃娃！熊太太和巴斯特熊有了双胞胎！
+
 > 胆小的人最开心的事，
 莫过于把别人吓一跳。
 > — 熊妈妈
@@ -97,6 +100,9 @@ But Peter had so often felt little cold chills of fear chasing each other up and
 After the two cubs had disappeared, he could hear them scrambling along under the great windfall as they hurried for the darkest corner of that dark bedroom where Mother Bear had left them when she went out to look for something to eat. All the way there they whimpered just as if they thought some dreadful enemy was after them. Peter laughed until his sides ached and the tears came to his eyes.
 
 ===Chinese===
+彼得突然用后脚使劲蹬了蹬地面。绿森林里那么安静，那蹬地的声音听起来格外响亮。两只小熊惊恐地朝彼得望去。他在月光下笔直地坐着，显得非常高大。至少，对这两只从未见过他的小熊来说是这样的。
+他们发出一阵滑稽的受惊呜咽声，转过身几乎是连滚带爬地挤作一团，慌慌张张地逃回大倒木堆底下的入口。彼得笑啊笑啊，笑得两肋直发酸。他，彼得兔，居然把两只熊给吓破了胆，还把他们吓跑了！现在他可有资本好好吹嘘一番了。
+
 > 开双向玩笑很少有好下场，
  这个道理你可要记牢。
 > — 熊妈妈
@@ -132,6 +138,9 @@ And the first time they had poked their heads out, Peter Rabbit had given them a
 "We must ask Mother Bear about him," said Woof-Woof. "He was only about our size, and perhaps he isn't so terrible after all. Here she comes now."
 
 ===Chinese===
+“希望这能给他个教训，”熊太太喉咙深处低声咕哝着，“我可不希望那个长耳朵的好奇鬼在这一带晃荡。他瞥见了我那两个小家伙，现在我的秘密肯定保不住了。唉，反正早晚也是要公开的。”
+熊太太转身钻回了大倒木底下做卧室的洞口，而彼得兔则一蹦一跳、一颠一颠地穿过绿森林，直奔绿草地和他心爱的老荆棘丛而去。他迫不及待要赶到那里，去宣布熊太太深藏已久的秘密这个大新闻。
+
 > 有时候我觉得，
 看见了装作没看见，也不错。
 > — 熊妈妈
@@ -168,6 +177,9 @@ Not in all the Green Forest is there a wiser or better mother than Mrs. Bear. No
 My, my, my, how excited they were as Mother Bear led the way out from under the old windfall! This was to be a great, a wonderful adventure. They tingled all over. They were actually going out to see something of the Great World.
 
 ===Chinese===
+她戳了戳两只小熊。“你们根本没睡着，”她说，“别以为能瞒得过你们的妈妈。明天早上你们可以出去玩一会儿，条件是你们必须保证：离我们家门口绝不超过一跳远的距离。在绿森林里，对小熊来说可是潜伏着天大的危险呢。”
+拳拳和汪汪当然满口答应了。于是接连好几天早晨，他们就在洞口外玩耍，而母亲则假装打盹。正是在这段时间里，红松鼠恰特勒、松鸦萨米和乌鸦布莱基靠吓唬那对双胞胎幼崽找了许多乐子。他们不知道，双胞胎也不知道，熊妈妈其实一直心明眼亮，只是不动声色，好让双胞胎自己长点见识。
+
 > 大千世界在呼唤，不管早晚，
  每个人都得听从，掌控自己的命运。
 > — 熊妈妈
@@ -178,14 +190,16 @@ My, my, my, how excited they were as Mother Bear led the way out from under the 
 天哪天哪天哪，当熊妈妈带着他们走出老倒木堆的时候，他们激动极了！这将是一次伟大的、奇妙的冒险。他们浑身上下都在兴奋地颤抖。他们真的要出去见识一下大千世界了。
 
 ===Original===
-The first thing Mother Bear did was to sit up and carefully test the wind with her nose. Boxer sat up and did exactly the same thing. Woof-Woof sat up and did exactly the same thing. Mother Bear looked this way and looked that way. Boxer looked this way and looked that way. So did Woof-Woof.
+The first thing Mother Bear did was to sit up and carefully test the wind with her nose. Boxer sat up and did exactly the same thing. Woof-Woof sat up and did exactly the same thing. The Merry Little Breezes tickled their noses with many scents. Mother Bear knew what each one was, but of course the twins didn’t know any of them. All they knew was that they smelled good.
+Mother Bear cocked her ears forward and listened. Boxer cocked his ears forward and listened. Woof-Woof cocked her ears forward and listened. Mother Bear looked this way and looked that way. Boxer looked this way and looked that way. So did Woof-Woof.
 "These are the things you must always do whenever you start out in the Great World," explained Mother Bear in her deep, grumbly-rumbly voice. "You must learn to know the meaning of every scent that reaches your nose, of every sound that reaches your ears, of everything you see, for only by such knowledge can you keep out of danger. But you must never trust your ears or your eyes only. Your nose is more to be trusted than either ears or eyes or both ears and eyes. But always use all three."
 "Yes'm," replied Boxer and Woof-Woof.
 Then Mother Bear started off among the great trees, shuffling along and swinging her head from side to side. Right at her heels shuffled Boxer, swinging his head from side to side, and right at his heels shuffled Woof-Woof, swinging her head from side to side. Whatever Mother Bear did the twins did. They did it because Mother Bear did it. They were keeping their promise. And little as they were, they felt very big and important, for now at last they were out in the Great World.
 Chatterer the Red Squirrel saw them start out, and he chuckled as he watched those two funny little cubs do exactly as Mother Bear did. He followed along in the tree tops, jumping from tree to tree, but taking the greatest care to make no noise. He was fairly aching for a chance to scare those cubs. But as long as Mother Bear was with them, he didn't dare to try.
 
 ===Chinese===
-熊妈妈做的第一件事就是坐起来，仔细地用鼻子试探风向。拳拳坐起来，做了一模一样的事。汪汪也坐起来，做了一模一样的事。熊妈妈朝这边看看，又朝那边看看。拳拳也朝这边看看，朝那边看看。汪汪也一样。
+熊妈妈做的第一件事就是坐起来，仔细地用鼻子试探风向。拳拳坐起来，做了一模一样的事。汪汪也坐起来，做了一模一样的事。欢快的微风携着许许多多的气味拂过他们的鼻子。熊妈妈知道每一种气味代表什么，但双胞胎当然一种也不知道。他们只知道闻起来挺舒服的。
+熊妈妈竖起耳朵往前倾听。拳拳竖起耳朵往前倾听。汪汪也竖起耳朵往前倾听。熊妈妈朝这边看看，又朝那边看看。拳拳也朝这边看看，朝那边看看。汪汪也一样。
 "这些事情是你们每次走进大千世界的时候都必须做的，"熊妈妈用她低沉的、闷闷的声音解释道，"你们必须学会了解传到鼻子的每一种气味、传到耳朵的每一种声音、看到的每一样东西的含义，因为只有靠这些知识，你们才能避开危险。但你们绝不能只相信自己的耳朵或者眼睛。你们的鼻子比耳朵或眼睛都更可靠，比耳朵加眼睛都更可靠。不过一定要三样都用。"
 "明白了，"拳拳和汪汪回答。
 然后熊妈妈在大树之间出发了，脚步拖拖拉拉，脑袋左右摇晃。拳拳紧跟在她脚后跟后面，也拖着脚步，脑袋左右摇晃。汪汪紧跟在拳拳脚后跟后面，也拖着脚步，脑袋左右摇晃。熊妈妈做什么，双胞胎就做什么。他们这么做是因为熊妈妈这么做。他们信守着自己的诺言。虽然他们还很小，但他们觉得自己很大、很重要，因为他们终于来到了大千世界。
@@ -205,6 +219,8 @@ When Mother Bear reached the place where grew the roots of which she was so fond
 Boxer scrambled a little higher. Mother Bear turned and started Woof-Woof up after Boxer. It was a strange experience for the twins. Never before had they been above the ground, and it frightened them. They scrambled a little way then looked down and whimpered. Then they looked up at the branches above them. To Boxer and Woof-Woof those branches seemed a terrible distance up. They seemed way, way up in the sky. Really they were not very high up at all. But you remember the twins were very little, and this was their first climb.
 
 ===Chinese===
+熊妈妈停在一根老倒木旁闻了闻，然后继续向前走。拳拳也停下来，一本正经地在那根老倒木上闻了闻，然后继续向前走。汪汪也停下来，在那根老倒木上闻了闻，然后继续向前走。就这样，他们终于来到一处泥土松软的地方，那里长着熊太太非常喜欢的某些植物根茎。
+
 > 越是害怕的时候还能坚持往上爬的人，
 就能爬得最高。
 > — 熊妈妈
@@ -238,6 +254,9 @@ Inside he had chuckled to see the twins do exactly what Mother Bear did. When sh
 So Chatterer followed, all the time hoping for a chance to give those twins a scare. But he didn't want to try it while Mother Bear was around. So he waited, hoping that she would leave them alone for a few minutes. Finally Mother Bear set the twins to climbing a tree. It was then that Chatterer became so very indignant. His sharp eyes snapped as he watched the twins scramble up that tree. He hoped they would fall. Yes, sir, Chatterer really hoped those twin cubs would fall.
 
 ===Chinese===
+拳拳一脸纳闷。熊妈妈看起来确实变小了。就在他看着的时候，她走得更远了，而且走得越远，看起来就越小。拳拳一只手抓着树枝，另一只手挠着脑袋。他生平第一次在真正动脑子思考。“我不信她真会变小，”他说，“肯定是因为离得太远，所以看起来才小。底下那根老倒木，看起来也比我们停下来闻它时小多了。从树下经过时看起来挺高的一些小树，现在看起来一点都不高。我猜，东西看起来多大，全看它离你有多近！”
+在这件事上拳拳当然完全正确。他已经开始学着思考了，开始运用大自然老妈妈装在他滑稽小脑袋里的敏捷智慧了。
+
 > 听我的劝告，千万要当心，
  别去吓唬一只熊。
 > — 熊妈妈
@@ -311,6 +330,9 @@ But Chatterer the Red Squirrel was having anything but a wonderful time. He was 
 Now if Chatterer had not been so badly frightened, he would have seen that Boxer, the twin who was in the lead, was already hesitating. He had reached a point where the branches were so small that they bent dangerously when he stepped on them. He had climbed as high as it was safe for him to climb, and he knew it. But having set out to catch that red mischief-maker, he couldn't bear to give up. That is, he felt that if he did give up, Chatterer would boast that he had been too smart for the cubs and would make fun of them. And this is just what Chatterer would have done.
 
 ===Chinese===
+恰特勒可惹上了大麻烦，他自己心里一清二楚。那对双胞胎熊哪怕还只是幼崽，随便哪一只都比他大得多。他们不仅看穿了他，还发现自己根本不用怕他，反而是他怕他们。很显然，他们正玩得起劲呢，十分享受这场追逐。恰特勒低头看着他们锋利的小爪子，比以往任何时候都后悔当初没离他们远点。
+这时恰特勒已经紧紧抓在树梢最高处了。要是双胞胎爬上来，他就不得不来一次险象环生的跳地逃生。他低头往下看，直打哆嗦。那两只出人意料的双胞胎，或者他们中的一个，真能爬得那么高、够得着他吗？
+
 > 服从是好事，尤其是爬在树上的时候。
 > — 熊妈妈
 
@@ -357,6 +379,9 @@ Peter had stayed away from the Green Forest as long as he could. Then curiosity 
 Now Peter didn't know that Mother Bear was in the habit of taking the twins with her wherever she went. It just happened that this very day she had chosen to go over near the pond of Paddy the Beaver. The twins had played until they were tired and then had curled up for a nap in a sunny spot while their mother went fishing in the Laughing Brook.
 
 ===Chinese===
+当拳拳和汪汪一板一眼地跟着她、做着一模一样的动作时，他们听到了红松鼠恰特勒嘲弄的声音。
+“抓不着我！抓不着我！”恰特勒讥笑道。
+
 > 这不好；这不好；
  这根本就不是该做的事；
  但那些不找机会报仇的人，
@@ -385,6 +410,10 @@ But for Peter Rabbit it was no fun at all. The truth is, Peter was in a tight pl
 In the first place they were very lively, were those two little Bears. Peter hadn't known that little Bears could be so lively. You see, these were the first he ever had seen. The way in which they ran around that pile of brush showed how very quick on their feet they were. Peter didn't doubt that he could outrun them if he could get a fair start; the trouble was to get that fair start. He wished now that he had trusted to his long legs instead of seeking shelter under that pile of brush. He had done that in the suddenness of his fright, when the little Bears had surprised him. It is Peter's nature to seek a hiding-place in time of danger, and usually this is the wisest thing for him to do.
 
 ===Chinese===
+当彼得来到能望见帕迪池塘的地方时，熊妈妈正藏在欢笑溪上游不远处的灌木丛后，静静坐着等鱼游进能抓得到的距离。这一次彼得大意了。他一心只顾着找海狸帕迪，没有像平时那样眼观六路、耳听八方。于是他在离双胞胎仅仅几英尺远的地方走过，竟然没有看见他们。走过去不远，他坐直身子，朝池塘张望寻找帕迪。
+俗话说得好，双胞胎睡觉时也留着半只耳朵呢，他们听到了彼得走过的声音。眼睛猛地睁开，他们一眼就看出：正是那个曾经把他们吓得魂飞魄散的可怕家伙！但不知怎么搞的，他看起来不再可怕了。他比他们记忆中要小得多。事实上，他们现在比他要大出许多了。要知道，小熊崽长得飞快呢。拳拳眼里闪烁着机灵的光芒。也许这家伙就像红松鼠恰特勒一样，只对怕他的人显得大胆凶悍。他用胳膊肘捅了捅汪汪。他们悄手轻脚地站起身，偷偷摸摸溜到了彼得身后。
+拳拳脚下一根枯枝被踩断了。彼得猛一转身，眼珠子都快瞪出来了。伴随着一声受惊的尖叫，彼得一蹦一跳、慌不择路地朝最近的一堆灌木丛冲去，双胞胎紧随其后狂追不舍。他们现在知道了，这个可怕的家伙怕他们，远胜过当初他们怕他，他们非要把幼时受的惊吓给讨回来不可。这可真是太好玩了！
+
 > 身处困境的时候，
 可不是害怕的时候。
 > — 熊妈妈
@@ -468,6 +497,13 @@ It was dreadful for those twins to fight. But they had lost their tempers and th
 "No such thing!" growled Boxer, his eyes beginning to grow red again. "You ran into me."
 
 ===Chinese===
+“我要是待在这里，他们迟早会抓到我，”彼得想，“我要是冒险跑出去，他们也可能会抓到我，反正情况不会更糟了。但他们也可能抓不着我；所以我想我还是冒这个险吧。”
+他听着那两只兴奋的小熊使出浑身解数，拼命扒拉着那堆灌木枝条。一个在这一头，一个在那一头。他或许能从他们中间的任意一端钻出去，趁他们发现之前抢先跑开。他开始朝一端悄悄爬过去，却踩断了一根枯枝，耳朵灵敏的拳拳立刻听到了。“他要出来啦！”拳拳尖叫着，一溜烟跑到那一头去堵截。
+彼得只得悄悄缩回中间。过了一两分钟，拳拳又跑了回来，继续扒拉灌木。这时，母亲常说的一句老话忽然从彼得脑海里冒了出来。小时候他第一次踏入大千世界闯荡时，母亲曾无数次这样叮嘱他。
+“必须冒险的时候，永远去做别人料想不到的事，”这是母亲一遍又一遍说过的话。
+“那两只小熊肯定料想我会从两头跑出去，”彼得暗想，“他们绝想不到我会直接从他们正忙着刨树枝的地方冲出去。出其不意攻其不备，这才是我的最佳生路。没错，先生，这是我唯一的也是最好的机会！”
+彼得悄悄挪到拳拳正忙着撕扯灌木的那一侧边缘。他的心又一次提到了嗓子眼，怦怦、怦怦狂跳个不停。抓住时机，他看准机会，直接从拳拳的眼皮子底下飞窜了出去！
+
 > 你怪我来我怪你，
  显然我们注定合不来。
 > — 熊妈妈
@@ -513,6 +549,10 @@ Mother Bear's eyes twinkled, but she took care that the twins should not see tha
 And this is exactly what Peter Rabbit had resolved himself.
 
 ===Chinese===
+汪汪的小眼睛里直冒火花，要不是拳拳脑海中忽然想起了彼得兔，恐怕又会有一场可怕的大混战上演呢。
+“我们刚才追的那个长腿家伙跑哪儿去了？”他大声嚷道，“全怪他惹的祸！”
+两只小熊一骨碌爬起身来，朝这边看看，又朝那边看看，但彼得兔早就无影无踪了。
+
 > 发了脾气的人，
 到头来总是得不偿失。
 > — 熊妈妈
@@ -576,6 +616,11 @@ Now when Buster saw those cubs, not knowing they were his own, he was filled wit
 Straight to the nearest tall tree ran the twins, and up they scrambled. Chatterer the Red Squirrel could hardly have gone up that tree faster. Somehow they felt safer in a tree than on the ground. Buster Bear walked over to the foot of the tree and looked up at the cubs. They were fat, were those cubs. They were very fat.
 
 ===Chinese===
+他闻了闻那个脚印，肩头上的毛微微耸了起来。他的鼻子告诉他，留下这只脚印的熊，是他生平从未见过的。这一点毫无疑问。鼻子还告诉他，那个陌生家伙刚刚打这里走过不久。一股想见见那位陌生客的强烈渴望占据了拳拳的心头。好奇心压倒了恐惧。
+“我们跟着脚印追上去吧，没准能瞧见他呢，”拳拳对汪汪耳语道，鼻子贴着地面就往前走。
+双胞胎向来是一个做什么，另一个就跟着做什么。于是汪汪紧跟在哥哥身后。他们一个挨着一个，鼻子贴着地，在绿森林里蹑手蹑脚地穿行。隔一会儿，拳拳就坐直身子看一看、听一听；他这么做，汪汪也跟着做一模一样的事。这真是太刺激了。刺激得他们完全把熊妈妈抛到了脑后，把不得走远的吩咐忘得一干二净。不知不觉中，他们离熊妈妈干活的地方越来越远。
+紧接着，毫无防备地，一只大黑熊猛地从一棵倒木后迈步跨了出来！他身披一件黑皮袄，体型跟熊妈妈几乎不相上下。你当然知道那是谁——正是巴斯特熊！双胞胎在他们短短的一生中，头一次见到了自己的父亲，父亲也看到了他们。然而双胞胎不知道他是自己的父亲，他也不知道眼前是自己的骨肉。在绿森林里，就是会有这样的事情发生。
+
 > 趁你还能跑的时候赶紧跑，别犹豫，
  免得到时候后悔来不及。
 > — 熊妈妈
@@ -606,6 +651,10 @@ That is just what Boxer and Woof-Woof did now. The instant they saw Buster, they
 "Oh-o-o, mamma-a-a!" screamed Woof-Woof.
 
 ===Chinese===
+“他们看起来挺可口的样子，”巴斯特站在树脚下，抬头望着拳拳和汪汪，暗自琢磨道，“够我美美吃上一顿大餐了。再说他们本来就不该出现在这里。我啃树根之类的东西啃了这么久，来点新鲜肉开开胃肯定不错。要是我爬上去抓他们，一举两得：既能帮绿森林除掉两个注定会惹是生非的讨厌鬼，又能饱餐一顿。我看我就这么办吧。”
+这当然非常可怕，可你知道巴斯特并不晓得那两只小熊是自己的骨肉。他们在巴斯特眼里跟彼得兔没什么两样，而你知道要是有机会，巴斯特肯定会毫不犹豫地把彼得一口吞掉。
+巴斯特四下看了看，确定没有人在看着他。然后他将巨大的利爪抠进树干，开始向上攀爬。
+
 > 在整个世界上，无论天上地下，
  最伟大的东西就是母爱。
 > — 熊妈妈
@@ -872,6 +921,10 @@ So Boxer crept under the great windfall to the bedroom where he had spent his ba
 So while Woof-Woof went over to the Laughing Brook with Mother Bear, under the great windfall Boxer lay and sulked and tried to think of some way of getting even with Mother Bear and Woof-Woof.
 
 ===Chinese===
+> 闷闷不乐噘着嘴，
+> 世间少你也不亏。
+> —— 熊妈妈
+
 闹别扭的人待在身边可一点都不让人愉快。应该把他们单独关起来，等他们不闹别扭了再放出来。一般来说小熊们是不闹别扭的。闹别扭不是他们的天性。但拳拳这个不听话的小家伙却闹起了别扭。他真的很闹别扭。而且这一切都是因为他的双胞胎妹妹汪汪。
 因为不听话而挨打已经够难受的了，但拳拳觉得这是他活该。他嚎啕大哭了一通，然后一路呜呜咽咽地回到了汪汪乖乖等着的那棵树下。在他走到那棵树下、抬头看到汪汪之前，拳拳并没有闹别扭。
 但当他看到汪汪朝他咧嘴笑，好像很高兴他倒霉似的，拳拳突然觉得自己是大千世界里最委屈的小熊。
@@ -901,6 +954,10 @@ So Boxer ran and ran until his little legs grew tired. The only use he made of h
 So Boxer rested and planned the wonderful things he would do out in the Great World and was glad he had run away from home. You see, it was very pleasant there in the Green Forest, and after all, if he really wanted to, he could go back home. That is what he thought, anyway. You see, he hadn't the least idea yet that he was lost.
 
 ===Chinese===
+> 稍停片刻算算账，
+> 虚掷光阴空惆怅。
+> —— 熊妈妈
+
 拳拳蜷缩在大枯树下面卧室的一个角落里，就在那里闹啊闹啊闹啊闹别扭，试图让自己相信自己是大千世界里最委屈的小熊。但一个人闹别扭一点意思也没有。没有人看着，没人能真正享受闹别扭的乐趣。所以尽管他自己不愿意承认，拳拳很快就想知道汪汪和熊妈妈在做什么。他看到她们朝笑溪去了，虽然他不愿意承认——甚至对自己也不承认——但他希望自己跟她们在一起。他太喜欢在笑溪边玩耍了。
 他再也受不了了，偷偷溜到洞口，把脑袋从大枯树下面探了出来。他在那里站了很久，看啊听啊闻啊。一切看起来跟平时一样。没有奇怪的声音。欢快的小风没有带来新的气味。没有熊妈妈和汪汪的踪影。他不知道她们是沿着笑溪往上走了还是往下走了。他试图假装自己不在乎她们在哪里、在做什么。
 但他做不到。你知道，人们很少能真正骗到自己。你可以骗到别人，但骗不到自己。所以过了一会儿，拳拳放弃了假装自己不在乎。然后闹别扭变成了脾气，坏脾气。
@@ -933,6 +990,10 @@ Chatterer chuckled. "I guess that now he is quite properly lost," said he to him
 He dropped another cone on Boxer and then started off through the tree tops, leaving Boxer all alone.
 
 ===Chinese===
+> 敢于冒险勇向前，
+> 方能顺势掌机缘。
+> —— 熊妈妈
+
 这就是恰特勒的本性。在整个绿森林里，没有谁比红松鼠恰特勒更喜欢恶作剧的了。也没有谁比他更会抓住机会了。
 恰特勒碰巧发现了离家出走的小熊拳拳，他正在休息，计划着在大千世界里要做些什么。恰特勒一直安静地等着，直到确定拳拳是独自一人——熊妈妈和汪汪都不在附近。确定之后，恰特勒猜到了发生了什么事。他猜拳拳是离家出走了。你知道，恰特勒是绿森林里最机灵、最精明的小家伙之一。
 恰特勒咧嘴笑了。"我敢说，"他自言自语，"那只傻乎乎的小熊是离家出走迷路了。如果他还没迷路，他也应该迷路，我会确保他迷路的。是的，先生，我会确保他彻底迷路。这是我报仇的好机会，报他和他妹妹把我追上树的仇。"
@@ -967,6 +1028,10 @@ He approached it carefully, stopping often to look and listen, for you know he d
 He heard no one and saw no one. Presently he was close to that windfall. A great longing for home swept over him. He no longer wanted to get even with anybody. All he wanted was home and mother. Perhaps Mother Bear and Woof-Woof hadn't returned yet and he could slip in. Then they would never know. Boxer slipped around the old windfall to where he thought the entrance was. There wasn't any! It wasn't the right windfall! Boxer knew right then and there that he was lost, that he was a lone, lost little Bear out in the Great World. He sat down and began to cry.
 
 ===Chinese===
+> 纵然无人亲眼见，
+> 真正勇者亦凛然。
+> —— 熊妈妈
+
 不知为什么，当有人在旁边看你有多勇敢的时候，勇敢起来就容易多了。容易得多了。当你完全独自一人的时候勇敢，那完全是另一回事。那是真正的勇敢。而独自一人、迷了路还勇敢，那是最大的勇敢。
 当红松鼠恰特勒穿过树顶跑走、留下拳拳独自恢复呼吸和休息他那疲惫的小短腿时，他留下了一只完全迷路的小熊，自大千世界开始以来小熊迷路也没迷到这么彻底的。拳拳那时还不知道。他忙着喘气，想着休息有多好，根本顾不上想别的事情。
 但过了一会儿拳拳缓过来了，他对红松鼠恰特勒的怒火又开始上升。拳拳到处找恰特勒。一点影子都没有。拳拳膨胀出一种很重要的感觉。
@@ -998,6 +1063,12 @@ More heedlessly than ever he raced through the Green Forest and just by chance e
 So all night long the little Bear heard strange sounds and imagined dreadful things and couldn't get a wink of sleep. And all the time not once was any real danger near him. There wasn't a single thing to be afraid of.
 
 ===Chinese===
+> 人人无论大与小，
+> 常像惊魂小熊仔——
+> 分明危险全没有，
+> 偏偏吓得心发毛。
+> —— 熊妈妈
+
 越来越多的黑影在绿森林里蔓延，包围着拳拳——那只孤独的、迷路的小熊——他坐在那里哭着，拼命希望自己从来没有想过离家出走。他想回到那棵大枯树下的家。他想要熊妈妈。"呜呜呜，"小熊抽泣着，"挨顿打我也愿意。只要我妈妈在身边，我一点也不在乎。呜呜呜。"
 绿森林里天黑以后有很多灵敏的耳朵，没有人能在那儿哭而不被听到。猫头鹰胡迪是第一个听到那些抽泣声的，他无声地飞过去看看怎么回事。他栖息在拳拳身后的一棵高树桩上，很快就明白了这只小熊迷路了。
 "他需要上一课，"胡迪想。"他需要上一课。他一定是离家出走了。这附近没什么好怕的，但让他以为这里有危险也是件好事。来吧，给他一个他忘不了的惊吓。"
@@ -1027,6 +1098,10 @@ By and by he dug out certain tender little roots and ate them. How he knew where
 Once he chased a Wood Mouse into a hole and wasted a lot of time trying to dig him out. But it was exciting and a lot of fun, so he didn't mind much, even when he had to give up. He caught three or four beetles and near the Laughing Brook surprised a young frog. Altogether he made a very good breakfast. And because he got it all himself, with no help from anyone, he enjoyed it more than any breakfast he could remember. And suddenly he felt quite a person of the Great World and quite equal to taking care of himself. He forgot that he had cried for his mother only the night before. The Great World wasn't such a bad place after all.
 
 ===Chinese===
+> 自食其力学在先，
+> 真正独立始握全。
+> —— 熊妈妈
+
 对迷路的小熊拳拳来说，那个可怕的夜晚好像会永远持续下去；好像永远不会结束。当然，它并没有比那个季节通常的夜晚长多少，而且也根本不怎么可怕。事实上，那是一个特别好的夜晚，除了拳拳和焦急的熊妈妈，大家都这么想。
 也许你能猜到，当第二天早上拳拳看到快乐的小阳光把黑影赶出绿森林的时候，他有多高兴。他仍然感到害怕和非常非常孤独，但白天看起来一切都不一样了，他觉得自己勇敢多了、大胆多了。
 首先，他打了个盹。他一整夜都没睡着，因为他吓得睡不着。那个盹对他大有好处。醒来的时候，他觉得自己像换了一只熊。他想到的第一件事就是早饭。
@@ -1038,7 +1113,7 @@ Once he chased a Wood Mouse into a hole and wasted a lot of time trying to dig h
 过了一会儿，他挖出一些嫩嫩的小根吃掉了。他怎么知道在哪里挖，他自己也说不清楚。他就是知道，仅此而已。他内心有什么东西促使他停下来挖，他就这么做了。
 有一次他把一只林鼠白足追进了一个洞里，花了好多时间想把它挖出来。但这很刺激很好玩，所以即使不得不放弃，他也不太在意。他抓了三四只甲虫，在笑溪附近还吓到了一只小青蛙。总的来说他吃了一顿很好的早饭。而且因为所有这些都是他自己弄来的，没有别人的帮助，他比记得的任何一顿早饭都吃得开心。突然间，他觉得自己是大千世界的一个大人物了，完全能照顾自己了。他忘了自己昨晚还在哭着找妈妈。大千世界到底不是一个那么糟糕的地方。
 
-## XXIX Boxer Has a Painful Lesson / 拳拳痛苦的教训 / 拳拳得到了惨痛的教训
+## XXIX Boxer Has a Painful Lesson / 拳拳得到了惨痛的教训
 
 ===Original===
 ## XXIX Boxer Has a Painful Lesson / 拳拳痛苦的教训
@@ -1062,6 +1137,12 @@ To be called "little cub" just when he was feeling so important and grown-up was
 Prickly Porky didn't step aside. He kept right on coming. He didn't hurry, and he didn't appear to be in the least afraid. It was plain that he expected Boxer to get out of his way. Boxer drew back his lips and showed all his little white teeth. Then he slowly reached out one paw and prepared to strike Prickly Porky on the side of the head if he came any nearer.
 
 ===Chinese===
+> 莫凭相貌判生人，
+> 外表往往能欺心。
+> 看似笨拙或聪明，
+> 绝妙之处令人惊。
+> —— 熊妈妈
+
 成功地自己做了早饭——而且是一顿相当不错的早饭——拳拳觉得自己很了不起。他觉得自己很了不得。也就是说，他觉得自己很大、很自以为是、很独立。对于一个大半夜因为孤独和害怕而哭泣的小熊仔来说，拳拳展现了惊人的变化。白天的光线、饱饱的肚子、能照顾自己的感觉，让他变成了一只全新的小熊。至少他自己是这么感觉、这么想的。
 "我谁也不怕、什么都不怕，"这只傻乎乎的小熊在绿森林里漫步的时候自吹自擂。"我很高兴我离开了家。我很高兴我在大千世界里。我想我什么都知道了。反正，我想该知道的我都知道了。"
 他说这话的时候，拳拳站起来，挺起胸膛，那样子太滑稽了，以至于刚好经过的豪猪普利奇不得不在心里偷笑，这可是普利奇很少做的事。
@@ -1098,19 +1179,25 @@ Meanwhile Prickly Porky had paid no attention whatever to the little Bear. He ha
 "That scamp got off easy," he muttered. "It would have been a good thing for him if he had had a few more of those little spears to pull out. I guess that in the future he will take care to leave me alone. There is nothing like teaching the young to respect their elders."
 
 ===Chinese===
-山雀萨米刚好在绿森林里经过，及时看到了拳拳和豪猪普利奇的会面。他立刻看出拳拳是第一次见到普利奇，根本不知道路上这个家伙是谁。
+> 亲身经历不说道，
+> 做起老师无人及。
+> —— 熊妈妈
+
+松鸦萨米刚好在绿森林里经过，及时看到了拳拳和豪猪普利奇的会面。他立刻看出拳拳是第一次见到普利奇，根本不知道路上这个家伙是谁。
 "如果那只小熊还有一点脑子的话，他就会客客气气地给普利奇让路，"萨米嘀咕道。"但我怕他没什么脑子。我看他一副自以为了不起的样子，好像他什么都知道似的。如果他待在那里，他马上就会发现自己其实什么都不知道。嘿！别那样！别打他！"
-最后一句是对拳拳喊的，拳拳已经伸出爪子，准备等普利奇足够近就打过去。但警告来得太迟了。普利奇一直沿着那条小路走着，就在萨米杰伊喊叫的时候，拳拳打过去了。
-"哇！"拳拳叫了一声，跳来跳去，举起一只爪子——就是打普利奇的那只爪子——脸上的表情惊讶极了，萨米杰伊笑得差点从栖息处掉下来。
+最后一句是对拳拳喊的，拳拳已经伸出爪子，准备等普利奇足够近就打过去。但警告来得太迟了。普利奇一直沿着那条小路走着，就在松鸦萨米喊叫的时候，拳拳打过去了。
+"哇！"拳拳叫了一声，跳来跳去，举起一只爪子——就是打普利奇的那只爪子——脸上的表情惊讶极了，松鸦萨米笑得差点从栖息处掉下来。
 "哇，哇！"拳拳继续叫着，还在跳来跳去，摇着那只爪子。
-"拔出来。马上拔出来，趁它还没扎得更深，"萨米杰伊好不容易止住笑，命令道。
+"拔出来。马上拔出来，趁它还没扎得更深，"松鸦萨米好不容易止住笑，命令道。
 "拔什么出来？"拳拳有点闷闷不乐地问，因为他不喜欢被人笑话。没有人遇到麻烦的时候喜欢被笑话。
 "扎在你爪子里的那根小刺，"萨米回答。"要是不拔，你的爪子会非常疼的。"
-拳拳看了看自己的爪子。果然，有一根普利奇的小刺扎在里面。他用牙齿咬住那根小刺，使劲一拽。小刺拔了出来。拳拳呜呜叫着舔了舔小刺扎过的地方。舔了一两分钟之后，那只爪子感觉好多了。
+拳拳看了看自己的爪子。果然，上面扎着一根普利奇的小刺。他用牙齿咬住小刺，试着往外拔。接着他松开嘴，甩着爪子。“哎哟！疼死了！”他眼泪汪汪地叫喊道。
+“当然疼啦，”松鸦萨米答道，“你要是不按我说的做、不马上拔出来，待会儿还会更疼得多呢！那只爪子会肿得碰都碰不得。小家伙，算你运气好，性子太急出手太快了。要是你多等一秒钟，整只爪子都得扎满这种小刺。你到底是怎么想的？难道你不知道谁都不敢去惹豪猪普利奇吗？招惹他从来讨不到好处。就连巴斯特熊那么大的块头，见了豪猪普利奇也得以礼相待呢。”
+拳拳坐了下来，仔细端详着自己的爪子。那根小小的长刺，也就是硬刺，正扎在最嫩的一块肉上。必须把它拔出来才行，松鸦萨米说得一点都没错。拳拳用牙齿紧紧咬住小刺，猛地用力往后一甩头。小刺一下子被拔了出来。拳拳呜呜咽咽地叫着，舔了舔被刺扎到的地方。舔了一两分钟后，爪子感觉好多了。
 与此同时，普利奇对小熊毫不在意。他慢慢地摇摇摆摆地沿着小路继续走着，好像周围没人一样。他严格地管着自己的事。但他心里在偷笑。
 "那小子还算走运，"他嘀咕道。"要是他再多拔几根小刺出来，对他倒是个好事。我猜以后他会小心别来惹我了。没有什么比教年轻人尊敬长辈更好的了。"
 
-## XXXI Boxer Meets a Polite Little Fellow / 拳拳遇到了一个礼貌的小家伙 / 拳拳遇到一个彬彬有礼的小家伙
+## XXXI Boxer Meets a Polite Little Fellow / 拳拳遇到一个彬彬有礼的小家伙
 
 ===Original===
 ## XXXI Boxer Meets a Polite Little Fellow / 拳拳遇到了一个礼貌的小家伙
@@ -1135,6 +1222,10 @@ Now Boxer was so much bigger than this little stranger in black-and-white, and t
 "Certainly not. I haven't said it was," replied the stranger, still speaking politely. "I am not in the least interested. Besides, I know anyway. I know that she doesn't know. I know that you have run away, and I know that you have some bitter lessons to learn before you will be fitted to live by yourself in the Great World. If you will just step aside, I will be much obliged. There is a big piece of bark just back of you under which there may be some fat beetles."
 
 ===Chinese===
+> 纵使旁人守礼节，
+> 莫道他人不会战。
+> —— 熊妈妈
+
 小家伙们的记忆很短，尤其是关于他们的麻烦的。离家出走的小熊拳拳刚离开豪猪普利奇的视线，他的眼睛、耳朵和鼻子就忙着去发现新东西了，几乎忘了刚才的麻烦。当然，他从爪子里拔出普利奇小刺的那只爪子还疼着，但不至于让他太在意。而且还有那么多别的事情要想，他不能把时间浪费在已经过去的麻烦上。
 于是小熊这边走走那边走走，新东西吸引了他的目光或者奇怪的声音让他想去探究。他玩得非常开心，因为他觉得自己确实在大千世界里了，这是一个奇妙而美丽的地方。如果他想到他的双胞胎妹妹汪汪，也只是可怜她跟在熊妈妈脚后跟后面、只做熊妈妈允许她做的事情。
 过了一会儿，一个白色的东西在老树桩附近移动，引起了他的注意。他立刻跑过去满足自己的好奇心。走近一看，他发现了一个穿着黑白相间外套的小家伙。他有一条毛茸茸的大尾巴，正忙着管自己的事。他几乎没看拳拳一眼。
@@ -1150,7 +1241,7 @@ Now Boxer was so much bigger than this little stranger in black-and-white, and t
 "我妈妈知不知道不关你的事，"拳拳比之前更粗鲁地反驳，因为他越来越生气。
 "当然不关我的事。我也没说关我的事，"陌生人仍然客气地回答。"我一点也不感兴趣。再说，反正我也知道。我知道她不知道。我知道你是离家出走的，我还知道在你能独自在大千世界里生活之前，你还有一些痛苦的教训要学。如果你能让一让，我会非常感激。你身后有一大块树皮，下面可能有一些肥肥的甲虫。"
 
-## XXXII Boxer Wishes He Hadn't / 拳拳后悔莫及 / 拳拳后悔了
+## XXXII Boxer Wishes He Hadn't / 拳拳后悔莫及
 
 ===Original===
 ## XXXII Boxer Wishes He Hadn't / 拳拳后悔莫及
@@ -1171,18 +1262,22 @@ Boxer knew then that Jimmy Skunk had been the cause of this new and dreadful tro
 "I wish I hadn't! I wish I hadn't! I wish I hadn't!" sobbed Boxer over and over, as he tried to get away from that dreadful smell and couldn't.
 
 ===Chinese===
-山雀萨米跟着拳拳，因为他确信那只小熊在哪里就一定会出事。所以萨米看到了他和臭鼬吉米的相遇。他看到了吉米有多彬彬有礼，而小熊有多么粗鲁。
+> 命运之法你且看：
+> 临头后悔总是晚。
+> —— 熊妈妈
+
+松鸦萨米跟着拳拳，因为他确信那只小熊在哪里就一定会出事。所以萨米看到了他和臭鼬吉米的相遇。他看到了吉米有多彬彬有礼，而小熊有多么粗鲁。
 萨米完全理解。他知道拳拳很可能对臭鼬吉米一无所知，从来没有听说过吉米随身携带的那个小气味袋——吉米的所有邻居都怕那个。他知道小熊很粗鲁，只是因为他比吉米大得多，觉得没有理由客气，尤其是吉米请他做一件他不想做的事。
-当吉米开始失去耐心的时候，萨米杰伊觉得该给拳拳一点忠告了。"别傻了！照吉米说的做，不然你会成为有史以来最后悔的小熊！"萨米看到吉米那巨大的尾羽开始竖起来——那是吉米危险的信号——就尖叫道。
+当吉米开始失去耐心的时候，松鸦萨米觉得该给拳拳一点忠告了。"别傻了！照吉米说的做，不然你会成为有史以来最后悔的小熊！"萨米看到吉米那巨大的尾羽开始竖起来——那是吉米危险的信号——就尖叫道。
 但拳拳这个傻乎乎的小熊，看不出一个比他小那么多的家伙有什么可怕的。所以他没有理会吉米让他让路的要求。相反，他非常无礼地笑了起来。
-"快跑！快跑！"萨米杰伊尖叫道。
+"快跑！快跑！"松鸦萨米尖叫道。
 拳拳没有动。吉米生气地用前脚跺地。然后事情发生了。是的，先生，事情发生了。太突然了、太出乎意料了，拳拳不知道到底发生了什么，但他非常清楚它确实发生了。有什么东西进了他的眼睛，让他眼睛刺痛，好几分钟什么也看不见。有什么东西堵住了他的喉咙；他觉得自己几乎无法呼吸。还有他闻过的最可怕的气味。
 拳拳在地上翻来滚去。他试图摆脱那个可怕的气味。但他摆脱不了。他摆脱不了，原因很简单——他带着那个气味一起走了。你看，臭鼬吉米惩罚了那只傻乎乎的小熊，朝他扔了一点他总是随身携带的强力气味——他在危险或被激怒时使用。
-"我跟你说什么来着？我跟你说什么来着？"萨米杰伊尖叫道。"我猜你不会再很快去招惹臭鼬吉米了。你活该。你完全活该。但这对住在附近的人来说太难了。是的，先生，绿森林里所有的芬芳都被吉米的气味毁了，对他们来说太难了。我自己也受不了了，所以我先走了。你活该，你这傻乎乎的小熊。你活该。"说完萨米杰伊就飞走了。
+"我跟你说什么来着？我跟你说什么来着？"松鸦萨米尖叫道。"我猜你不会再很快去招惹臭鼬吉米了。你活该。你完全活该。但这对住在附近的人来说太难了。是的，先生，绿森林里所有的芬芳都被吉米的气味毁了，对他们来说太难了。我自己也受不了了，所以我先走了。你活该，你这傻乎乎的小熊。你活该。"说完松鸦萨米就飞走了。
 拳拳这才知道臭鼬吉米是他现在这个新的可怕麻烦的罪魁祸首，敬畏和恐惧混杂在一起占据了他的心头。噢，拳拳多希望自己没有粗鲁啊！多希望自己没有拒绝照吉米礼貌的要求去做啊！
 "我真希望没有！我真希望没有！我真希望没有！"拳拳一遍又一遍地哭着，试图摆脱那可怕的气味却做不到。
 
-## XXXIII Woof-Woof Turns Up Her Nose / 汪汪嗤之以鼻 / 汪汪捏着鼻子
+## XXXIII Woof-Woof Turns Up Her Nose / 汪汪嗤之以鼻
 
 ===Original===
 ## XXXIII Woof-Woof Turns Up Her Nose / 汪汪嗤之以鼻
@@ -1203,6 +1298,10 @@ So it was that just as the Black Shadows were beginning to creep through the Gre
 Boxer looked at Woof-Woof for some sign of sympathy. But Woof-Woof held her head very high and turned up her nose at him. "Phew!" said she.
 
 ===Chinese===
+> 劝君莫学那等人，
+> 嗤之以鼻傲慢生。
+> —— 熊妈妈
+
 在拳拳越来越迷路、越来越倒霉的这段时间里，熊妈妈一直在担心他，她和他的双胞胎妹妹汪汪找遍了所有地方，就是没找对地方。
 你记得吧，当拳拳决定离家出走的时候，熊妈妈和汪汪不在家。等她们回来，拳拳已经走了很久，熊妈妈的鼻子找不到足够浓的气味来追踪。所以她开始找他的时候，方向走错了。当然，她必须带着汪汪一起走，而且因为汪汪走了一会儿就累了，熊妈妈没法像独自一人时那样仔细地搜寻。
 起初汪汪对失去双胞胎弟弟确实非常难过。她心里暗暗佩服他的勇气——竟然敢离家出走，但当她想到他在大千世界里可能遇到的所有可怕的事情时，她变得非常伤心。这是刚开始的时候。在熊妈妈后面走啊走啊走啊走，走得脚都疼了之后，她变得烦躁起来。她怪拳拳，而且确实该怪他，因为她的脚疼了。脚越疼她就越烦躁，直到她试图让自己相信她不在乎那个鲁莽的哥哥会发生什么事。
@@ -1214,7 +1313,7 @@ Boxer looked at Woof-Woof for some sign of sympathy. But Woof-Woof held her head
 "别靠近我们，"她说。"你可以跟着我们，但你一步也不许比现在更靠近。要是我们再也不理你，你也是活该，但说到底，你独自到处乱走还是太小了。而且谁知道你还会给我们惹出什么丢脸的事。快跟上吧。"
 拳拳看着汪汪，想从她那里得到一点同情的表示。但汪汪高高地昂着头，对他捏着鼻子。"呸！"她说。
 
-## XXXIV All Is Well at Last / 最终一切安好 / 最后一切好了
+## XXXIV All Is Well at Last / 最终一切安好
 
 ===Original===
 ## XXXIV All Is Well at Last / 最终一切安好
@@ -1235,6 +1334,10 @@ So Buster Bear's twins grew and grew until everyone said that they were the fine
 Billy Mink says that these cubs have received attention enough and that there are other people who should be considered. Perhaps Billy is right, though I suspect he is thinking of himself. Anyway this ends the Green Forest series and the next book will be the first in the Smiling Pool series. The title will be Billy Mink.
 
 ===Chinese===
+> 受到教训若记牢，
+> 挨了责罚亦心甘。
+> —— 熊妈妈
+
 熊太太是那种相信惩罚的妈妈之一。她相信，一只犯了错从不受罚的小熊仔几乎肯定长大后在大千世界里没什么用——如果他能活到长大的话。她甚至怀疑他能不能活到长大。所以她的孩子们一不听话或做错事就会受到及时的惩罚，而且惩罚的方式会让他们记住。
 当经历了那么多可怕事情的迷路小熊拳拳看到熊妈妈和妹妹汪汪的时候，他以为自己所有的麻烦都结束了。也许你能猜到，当他被熊妈妈一声低吼阻止的时候，他是什么感受。他想——噢，他多想——冲到她身边，依偎着她，感受她大大的爪子轻轻地拍着他。
 但什么都没有。很明显，熊妈妈告诉他不要再靠近的时候，她的话完全是认真的。当他看向双胞胎妹妹汪汪的时候，她捏着鼻子，很明显她不想跟他有什么关系。

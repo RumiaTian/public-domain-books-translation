@@ -328,7 +328,7 @@ Many a time has my soul been amused at seeing poor Joannetti running after this 
 “Come, Joannetti,” I said, “hang up this picture.” He had helped to clean it, and had no more notion than the man in the moon what had produced our chapter on the portrait. He it was, who, of his own accord, held out the wet sponge, and who, through that seemingly unimportant act, caused my soul to travel a hundred millions of leagues in a moment of time. Instead of restoring it to its place, he held it to examine it in his turn. A difficulty, a problem, gave him an inquisitive air, which I did not fail to observe.
 
 ===Chinese===
-「来，若阿内蒂，」我说，「把这幅画挂上。」他方才帮忙擦过它，却同月亮上的人一样，全不知道我们那章画像文字是怎么来的。正是他，主动递过那块湿海绵；正是那看似无关紧要的一递，叫我的灵魂在一瞬间跑了一万万法程。此刻他不把它归回原位，反倒举起来，轮到他端详了。一层疑难、一道难题，给了他一副探询的神气，这我没有放过。
+「来，若阿内蒂，」我说，「把这幅画挂上。」他方才帮忙擦过它，却同月亮上的人一样，全不知道我们那章画像文字是怎么来的。正是他，主动递过那块湿海绵；正是那看似无关紧要的一递，叫我的灵魂在一瞬间跑了一万万里格。此刻他不把它归回原位，反倒举起来，轮到他端详了。一层疑难、一道难题，给了他一副探询的神气，这我没有放过。
 
 ===Original===
 “Well, and what fault do you find with that portrait?” said I.
@@ -2491,10 +2491,10 @@ How often have I been duped by my trust in *them*? Here I was about to say somet
 ===Chinese===
 19. 他名叫伊万·斯米尔诺夫（Ivan Smirnoff），意译过来约当「温顺的约翰」；如下文所见，这个名号与他的性情恰成奇异的对照。——凯里与李 ↩︎
 20. 俄国（Russia）士兵在危急时刻常说的一句口头语。——凯里与李 ↩︎
-21. 一种粗毛防水毡斗篷，样子颇像熊皮，是哥萨克人（Cossacks）寻常的外上衣，且唯有其本地织造；有此一件装备在身，整夜躺在守夜篝火旁时，雨水泥泞就算不得什么了。——凯里与李 ↩︎
+21. 一种粗毛防水毡斗篷，样子颇像熊皮，是哥萨克（Cossacks）寻常的外上衣，且唯有其本地织造；有此一件装备在身，整夜躺在守夜篝火旁时，雨水泥泞就算不得什么了。——凯里与李 ↩︎
 22. 叶格罗维斯基（Iegroviesky）：纬度 44° 8′ 55″，经度 43° 29′ 12″。——凯里与李 ↩︎
 23. 伊希姆（Ischim）距圣彼得堡（St. Petersburg）3,012 俄里，距莫斯科（Moscow）2,375 俄里，距托博尔斯克（Tobolsk）342 俄里。
-这里与其说是村庄，毋宁说是座小镇。「那是一座坐落在同名河畔的凄凉小镇，」约翰·邓达斯·科克伦船长（Captain John Dundas Cochrane）写道，「无论住宿还是饮食，都没人搭理我；尽管大雨倾盆，我和我的哥萨克人只得在集市广场上过夜。」——《徒步旅行记》（*Narrative of a Pedestrian Journey*），伦敦，1824 年，第 130 页。
+这里与其说是村庄，毋宁说是座小镇。「那是一座坐落在同名河畔的凄凉小镇，」约翰·邓达斯·科克伦船长（Captain John Dundas Cochrane）写道，「无论住宿还是饮食，都没人搭理我；尽管大雨倾盆，我和我的哥萨克只得在集市广场上过夜。」——《徒步旅行记》（*Narrative of a Pedestrian Journey*），伦敦，1824 年，第 130 页。
 关于伊希姆的更多详情，另见同书第 529 页与第 530 页。——凯里与李 ↩︎
 
 ===Original===
@@ -3179,7 +3179,7 @@ I took a lamp, and determined to set my house on fire. I went into the lowest ro
 
 满怀这些悲伤的念头，我忘却了一切慰藉之源的存在；也忘了我自己。「为什么，」我问，「要赐光明给我？为什么唯独对我，自然如此不公、如此严酷？像一个被剥夺了继承权的儿子，人类家族丰厚的家业就在我眼前——上天却吝于给我应得的一份。不，不，」我终于在狂怒的爆发中喊道，「人世于你并无幸福可言！去死吧，可怜虫！大地被你的存在玷污得够久了；但愿它裂开，把你活活埋进去，不留下你可憎的一生的一点痕迹！」我这失去理智的狂怒愈发高涨，随之而来的自毁欲望攫住了我，占尽了我全部的思绪。我终于决意放火烧掉我的居所，把我自己连同一切能唤起我记忆的东西一并烧死。疯狂驱赶着我，我冲进田野，在黑暗中绕着我的住处徘徊了好一阵。不由自主的呻吟从我破碎的心中升起，划破夜的寂静，连我自己听了也心惊。我重又走进居所，怒气未减，口中喊着：「你遭殃吧，麻风病人！你遭殃吧！」而仿佛一切都合谋来毁掉我，我听见布拉马凡城堡废墟深处传来的回声清晰地应答：「你遭殃吧！」我惊恐万分，在塔门口停住脚步，山中的回声又以更微弱的声调重复着：「你遭殃吧！」
 
-我拿起一盏灯，决意烧掉我的房子。我带上葡萄藤枝和干柴，走进最下面那间屋子。那是妹妹的房间，她死后我一直没有进去过。她的扶手椅还在原处，就是我最后一次把她从椅上抱起时的样子。我的目光落到她散落在房间的面纱和其他衣物上，不由一阵战栗。她最后的话重回我心头：——「我死之后也不会撇下你；记住，在你受苦时，我会陪在你身边。」我把灯搁在桌上，看见一根系十字架的带子——她从前常戴在颈间的，是她亲手夹在《圣经》两页之间的。一见这情景，我便缩了回来，被一种宗教的敬畏所压倒。我原要从头跳下去的那深渊之深，此刻敞开在我睁开的眼前。我颤抖着走近那部圣书。「这，」我说，「必定就是她应许给我的援手！」我从书中抽出十字架时，发现那里还有一封封好的信，是我亲爱的妹妹留给我的。此前被悲苦强忍住的泪水，此刻如注般从我眼中涌出；我一切黑暗的计划烟消云散。许久，我把那封珍贵的信贴在胸口，才有力气读它；我跪下来祈求上天的降福，然后拆开信，边啜泣边读下面这些字句——它们将永远铭刻在我心上：「亲爱的哥哥，我不久就要离你而去，但我永远不会撇下你。在我盼望要去的天堂里，我会看顾你，会求上帝赐你勇气，让你怀着顺从承担此生，直到祂乐意在另一个世界重聚我们——在那里，我能向你显明我的爱，在那里，没有什么能再把我们分开。我把我戴了一生的那枚小十字架留给你。它屡屡在忧伤中安慰我，是我泪水唯一的见证。每当你望着它，请记住：我的最后祈祷，是愿你活着和死去都做一个好的基督徒。」亲爱的信啊！我永不会与它分离。我要带它进我的坟墓；它将为我敞开天国之门——我的罪愆本可能使那门对我永远关闭。读完信，我历尽摧折，只觉气力尽失。一片阴云仿佛罩上我的眼睛，有一阵子我浑然不觉自己的痛苦，甚至不觉自己的存在。我苏醒过来时，夜已深沉。知觉恢复之际，我体味到一种难以言喻的安宁。晚间发生的一切恍如一梦。我的第一个动作便是举目望天，感谢祂把我从最大的灾祸中救拔出来。天空从不曾显得如此澄澈美丽。一颗孤星在我窗前闪烁。我怀着难以名状的喜悦久久凝望它，感谢上帝让我得此眼福；想到它的一道光芒注定要照亮麻风病人这间凄凉的斗室，我心中便感到一种隐秘的安慰。
+我拿起一盏灯，决意烧掉我的房子。我带上葡萄藤枝和干柴，走进最下面那间屋子。那是妹妹的房间，她死后我一直没有进去过。她的扶手椅还在原处，就是我最后一次把她从椅上抱起时的样子。我的目光落到她散落在房间的面纱和其他衣物上，不由一阵战栗。她最后的话重回我心头：——「我死之后也不会撇下你；记住，在你受苦时，我会陪在你身边。」我把灯搁在桌上，看见一根系十字架的带子——她从前常戴在颈间的，是她亲手夹在《圣经》两页之间的。一见这情景，我便缩了回来，被一种宗教的敬畏所压倒。我方才险些纵身跳下的深渊有多么深邃，此刻赫然呈现在我大睁的双眼之前。我颤抖着走近那部圣书。「这，」我说，「必定就是她应许给我的援手！」我从书中抽出十字架时，发现那里还有一封封好的信，是我亲爱的妹妹留给我的。此前被悲苦强忍住的泪水，此刻如注般从我眼中涌出；我一切黑暗的计划烟消云散。许久，我把那封珍贵的信贴在胸口，才有力气读它；我跪下来祈求上天的降福，然后拆开信，边啜泣边读下面这些字句——它们将永远铭刻在我心上：「亲爱的哥哥，我不久就要离你而去，但我永远不会撇下你。在我盼望要去的天堂里，我会看顾你，会求上帝赐你勇气，让你怀着顺从承担此生，直到祂乐意在另一个世界重聚我们——在那里，我能向你显明我的爱，在那里，没有什么能再把我们分开。我把我戴了一生的那枚小十字架留给你。它屡屡在忧伤中安慰我，是我泪水唯一的见证。每当你望着它，请记住：我的最后祈祷，是愿你活着和死去都做一个好的基督徒。」亲爱的信啊！我永不会与它分离。我要带它进我的坟墓；它将为我敞开天国之门——我的罪愆本可能使那门对我永远关闭。读完信，我历尽摧折，只觉气力尽失。一片阴云仿佛罩上我的眼睛，有一阵子我浑然不觉自己的痛苦，甚至不觉自己的存在。我苏醒过来时，夜已深沉。知觉恢复之际，我体味到一种难以言喻的安宁。晚间发生的一切恍如一梦。我的第一个动作便是举目望天，感谢祂把我从最大的灾祸中救拔出来。天空从不曾显得如此澄澈美丽。一颗孤星在我窗前闪烁。我怀着难以名状的喜悦久久凝望它，感谢上帝让我得此眼福；想到它的一道光芒注定要照亮麻风病人这间凄凉的斗室，我心中便感到一种隐秘的安慰。
 
 ===Original===
 I returned to my room much quieted, and spent the rest of the night in reading the book of Job. It breathed into my soul a holy enthusiasm, which dissipated what trace was left of the dark thoughts that had beset me. These terrible times were unknown to me while my sister lived: the knowledge that she was near calmed me, and the thought of her affection sufficed to console and cheer me.
@@ -3450,37 +3450,133 @@ From the dusky corner where he was lying, Ivan examined eagerly the scene before
 
 卡斯坎波近来陷入了深沉而无言的颓唐。可是就在我们所说的这一天，伊凡显得比往常更有生气，甚至更快活；他张罗午饭时分外殷勤，又不时装出漫不经心的样子，哼起他素常唱的那些俄国歌子。
 
-「时辰到了，」他唱着腔调说，一面用一支流行歌谣的叠句给自己的话伴奏；「嗨卢利！嗨卢利！了结我们苦日子的时辰到了，不然就要没了性命。明天，嗨卢利！我们就该上路进城了，嗨卢利！一座好城，嗨卢利！我都不敢说出它的名字：鼓起劲来，主人，嗨卢利！可别泄气：俄罗斯人的上帝是伟大的！」
+「时辰到了，」他唱着腔调说，一面用一支流行歌谣的叠句给自己的话伴奏；「嗨卢里！嗨卢里！了结我们苦日子的时辰到了，不然就要没了性命。明天，嗨卢里！我们就该上路进城了，嗨卢里！一座好城，嗨卢里！我都不敢说出它的名字：鼓起劲来，主人，嗨卢里！可别泄气：俄罗斯人的上帝是伟大的！」
 
 生死于卡斯坎波已无分别，仆人肚里的盘算他又一概不知，只答一句：「随你便，闭嘴吧。」傍晚时分，那看守虽然发着热，午饭的甜头却大享特享，对厨子用树枝烤的一块块羊肉——特意做给他尝的俄国*烤肉签*（*chislick*），也就是炭烤肉——着实领情大嚼；不料病势猛然发作起来，他只得先顾自己的身子，再顾不上看守囚徒了。伊凡的快活劲儿早把老狱卒哄得安安稳稳，也就没有强留病中的同伴；伊凡为进一步打消他的疑心，天一擦黑便退到屋子后头，直挺挺躺在靠墙的长凳上，怀着难熬的急躁，只等易卜拉欣也躺下睡去。不料老狱卒打定了主意要守个通宵，不像往常那样在火边的席子上躺下；他果真在卡斯坎波铺位的对面坐上一截木墩，就这样预备过夜，又打发儿媳回隔壁屋去——趁孩子还没睡；她一进屋便闩上了门。
 
 伊凡躺在幽暗的角落里，急切地察看眼前的情形。火光时时蹿起，照见墙洞里放着的一柄斧头。老头儿终于熬不住瞌睡，脑袋一阵一阵垂到胸前。伊凡起身。多疑的狱卒立刻粗声问：「干什么去？」伊凡不答话，走到火边，高声打着哈欠，活像刚从沉睡中醒来的人。易卜拉欣正强撑着不让自己睡去，便叫卡斯坎波弹吉他。少校不肯依从，伊凡把琴递过去，低声说：「拿着，我有话对您说。」卡斯坎波立刻调好琴弦，短短一段前奏之后，便和仆人同唱起下面这支二重唱来；一问一答之间，各嵌进一支俄国曲调的唱词。
 
 ===Original===
+> Kascambo
 > “Hai luli! hai luli! What hast thou to tell me?﻿—take care.
+> “I’m weary and sad, but in truth
+> No wonder my spirits have flown,
+> For here I expected the youth,
+> And now I’m forlorn and alone.
+> Hai luli! hai luli!
+> What can the matter be?﻿—
+> It grieves one to be thus alone.”
 
+> Ivan
 > “See the hatchet, but do not stare at it. Hai luli! hai luli! I shall split that rascal’s head.
+> “As oft as I sit at my wheel,
+> The thread is e’er snapping in twain.
+> Tomorrow I’ll spin﻿—for I feel
+> That today I am too much in pain.
+> Hai luli! hai luli!
+> What can the matter be,
+> That today I am so much in pain?”
 
+> Kascambo
 > “Gratuitous murder! hai luli! How could I rid myself of my irons?
+> “As the kid its mother attends,
+> As the shepherd e’er follows his sheep,
+> As the doe to the valley descends
+> When the herbage is first seen to peep
+> Hai luli! hai luli!
+> What can the matter be?
+> Thus fondly I watch till I weep.”
 
+> Ivan
 > “The key of your chains is probably in the brigand’s pocket.
+> “I set off at dawn with my pail;
+> But, ere to the fountain I come,
+> Unconscious I take without fail
+> The pathway that leads to his home.
+> Hailuli! hai luli!
+> What can the matter be?
+> The pathway that leads to his home.”
 
+> Kascambo
 > “The woman will give the alarm﻿—hai luli!
+> “While thus at his absence I grieve,
+> Ungrateful he’s free from all care;
+> Nay, trying perhaps to deceive
+> Some other too credulous fair.
+> Hai luli! hai luli!
+> What will become of me?
+> Some other too fortunate fair.”
 
+> Ivan
 > “Happen what may! would it be better to die of misery and hunger? hai luli! hai luli!
+> “If, forgetting the oaths he has sworn,
+> He leave me another to woo,
+> The village I’d freely see burn,
+> And see myself burn with it too.
+> Hai luli! hai luli!
+> Who would not pity me?﻿—
+> And see myself burn with it too.”
 
 ===Chinese===
+> 卡斯坎波
 > 「嗨卢里！嗨卢里！你有什么话要告诉我？——可要留神。
+> 『我身心疲惫，满心凄凉，
+> 也难怪我的心神早已飞扬；
+> 我原本在此把那少年盼望，
+> 如今却形单影只、好不凄凉。
+> 嗨卢里！嗨卢里！
+> 究竟是出了什么事？——
+> 独自这般孤零，叫人好不心伤。』」
 
+> 伊凡
 > 「看见那柄斧头了，可别盯住它看。嗨卢里！嗨卢里！我要劈开那恶棍的脑袋。
+> 『每当我坐在纺车旁，
+> 手中的丝线总是断成两行。
+> 且等明日再纺吧——只因我心上，
+> 今日忍受着无尽的悲伤。
+> 嗨卢里！嗨卢里！
+> 究竟是出了什么事，
+> 教我今日这般痛断肝肠？』」
 
+> 卡斯坎波
 > 「平白无故地杀人！嗨卢里！这身镣铐叫我怎么摆脱？
+> 『如同小羊紧随在母羊身旁，
+> 如同牧人时刻追随着羊群，
+> 如同母鹿奔下幽深的山谷，
+> 当嫩绿的草芽刚探出头，
+> 嗨卢里！嗨卢里！
+> 究竟是出了什么事？
+> 我这般深情守望，直盼到泪湿衣裳。』」
 
+> 伊凡
 > 「开你锁链的钥匙，多半就在那强盗的口袋里。
+> 『破晓时分我拎着水桶出门，
+> 可还未走到泉眼边，
+> 不知不觉间我定然走上了
+> 通往他家门的那条小路。
+> 嗨卢里！嗨卢里！
+> 究竟是出了什么事？
+> 走上的总是通往他家门的小路。』」
 
+> 卡斯坎波
 > 「那婆娘会喊起来的——嗨卢里！
+> 『正当我为他的离去悲泣哀伤，
+> 负心汉却一身轻快、全无挂牵；
+> 说不定，他正设法去诱骗
+> 另一个太过轻信的俏佳人。
+> 嗨卢里！嗨卢里！
+> 我该何去何从？
+> 去逢迎另一个过于幸运的佳人。』」
 
+> 伊凡
 > 「管他出什么事！难道困死饿死倒好些？嗨卢里！嗨卢里！
+> 『他若忘却了曾发过的誓言，
+> 弃我而去追求别的红颜，
+> 我宁愿看着整个村庄化作灰烬，
+> 也看着自己与它一同葬身烈焰。
+> 嗨卢里！嗨卢里！
+> 谁能不可怜我？——
+> 也看着自己与它一同葬身烈焰。』」
 
 ===Original===
 The old man becoming attentive, they repeated oftener the burden “hai luli!” and accompanied it with some loud irregular notes. “Play, master,” said the soldier, “play the Cossack song, and I will dance round the room to catch the axe: play with courage.”
@@ -3636,6 +3732,8 @@ This untimely precaution might have been fatal to Kascambo. His host had no soon
 At that critical moment, Kascambo cried to the officer of the Cossacks to retire; and they retreated to some distance, accompanied by Ivan, who, however, soon returned to his master. But the suspicious Tchetcheng would not permit him to approach. He obliged him to count the money on the road, at some distance from the house, and to retire as soon as he had done so.
 The Tchetcheng went to take the ransom, and then returned to the terrace, where kneeling at the Major’s feet, he craved his pardon, and begged him to forget the ill-treatment which, for sake of his own safety, he had been obliged to make him endure. “I shall only remember,” answered Kascambo, “that I have been thy guest, and that thou hast kept thy word. But stop, thou hast not yet given me my liberty.” Ivan approaching anew, the Tchetcheng, instead of loosening the Major’s bonds, sprang from the terrace on the ground and ran off at full speed.
 On the same day, honest Ivan had the glory and satisfaction to see his master surrounded by friends, who had long abandoned all hope of his deliverance.
+
+---
 
 ===Chinese===
 「他没有遭出卖，」忠仆急忙答道，「我不是一个人回来的，这不怪我；可虽带了人来，讲定的赎金我照旧带来了。」
@@ -4061,7 +4159,7 @@ During that whole journey, Prascovia did not cease to pray to God, that the gene
 Prascovia alighted in the town, at the same inn or caravansary where her fellow-travellers stopped. The hostess having been partly in formed, by the latter, of Prascovia’s history, and inferring that she was without money, went to her and took occasion to mention some of the inhabitants, most noted for charity, and advised her to solicit their assistance, and the means of continuing her journey. She mentioned with particular commendation, a lady by the name of Milin, who, she said, was an angel of benevolence, and the mother of the poor of the city. All the persons present agreed in this encomium. Had not Prascovia had worldly wisdom enough, to guess at the meaning of mine hostess, she would more expressly have been invited to seek another shelter. The house where she was then, was what the Russians call a *postoïaleroi-dvor* or “place of rest,” a sort of large stable, covered only at the top, and in an angle of which is a warm room, the fourth of its whole size. The travellers accommodate themselves as well as they can, in this chamber, and those who cannot find room on the stove, sleep on the floor. The day after her arrival, Prascovia went out early in the morning, to inquire after the generous lady whom her hostess had mentioned to her; but, according to her usual custom, she sought first a church. It was Sunday, and the church contained a larger number of people than she had ever yet seen together in one place. The fervour with which she said her prayers, called the attention of some; and her bag and her attire that of others. When she left the church, a lady asked her who she was. Prascovia answered her briefly; and remembering the call she was to make, inquired of her for the house of Mrs. Milin, who, she added, had been represented to her as a generous and benevolent lady. Probably Mrs. Milin had seldom heard of her reputation, in so unsuspicious a way. She had, however, her portion of human frailty; and instead of saying who she was, she replied to Prascovia: “Mrs. Milin, who has been so much praised to you, is not by any means so charitable as you imagine. If you would come with me, I can perhaps procure you a better shelter.”
 
 ===Chinese===
-普拉斯科维娅在城里下榻的，是同伴们歇脚的同一家客店。老板娘从他们口中大致听得了普拉斯科维娅的来历，料她囊中无钱，便走到她跟前，借话点出城里几位最以慈善出名的人物，劝她去求他们相助、接济盘缠。她特别称道一位米林夫人（Mrs. Milin），说她是个仁爱的天使、全城穷人的母亲。在座的人异口同声地这样夸。倘若普拉斯科维娅没有那份世故，听不出老板娘的言外之意，人家就要更直白地请她另寻歇处了。她眼下住的这地方，俄国人唤作*postoïaleroi-dvor*（「歇脚店」）：一座只封了顶的大棚，一角隔出一间暖屋，占全棚四分之一。旅人们在这间屋里将就，炕上占不下的，就睡地上。到后第二天，普拉斯科维娅一早出去寻老板娘讲的那位慷慨夫人；不过照她的老习惯，先寻教堂。那天是礼拜天，教堂里的人数之多，是她生平一处见过的头一回。她祷告的那份虔诚，引得一些人看她；她的布袋和衣着，又引得另一些人看她。出教堂时，一位夫人问她是谁。普拉斯科维娅简短答了；记着要办的拜访，便向她打听米林夫人的家——还添说，人家向她夸过这位夫人心慈面软。米林夫人怕是难得这样听人当面夸自己。她也不免有几分常人的弱点；她没有说自己是谁，只答普拉斯科维娅道：「人家那样夸你的米林夫人，远不是你想的那样慈悲。你要肯跟我来，我兴许能给你寻个好些的安身处。」
+普拉斯科维娅在城里下榻的，是同伴们歇脚的同一家客店。老板娘从他们口中大致听得了普拉斯科维娅的来历，料她囊中无钱，便走到她跟前，借话点出城里几位最以慈善出名的人物，劝她去求他们相助、接济盘缠。她特别称道一位米林夫人（Mrs. Milin），说她是个仁爱的天使、全城穷人的母亲。在座的人异口同声地这样夸。倘若普拉斯科维娅没有那份世故，听不出老板娘的言外之意，人家就要更直白地请她另寻歇处了。她眼下住的这地方，俄国人唤作*postoïaleroi-dvor*（「歇脚店」）：一座只封了顶的大棚，一角隔出一间暖屋，占全棚四分之一。旅人们在这间屋里将就，炕上占不下的，就睡地上。到后第二天，普拉斯科维娅一早出去寻老板娘讲的那位慷慨夫人；不过照她的老习惯，先寻教堂。那天是礼拜天，教堂里聚了这许多人，是她平生头一回在一处见到。她祷告的那份虔诚，引得一些人看她；她的布袋和衣着，又引得另一些人看她。出教堂时，一位夫人问她是谁。普拉斯科维娅简短答了；记着要办的拜访，便向她打听米林夫人的家——还添说，人家向她夸过这位夫人心慈面软。米林夫人怕是难得这样听人当面夸自己。她也不免有几分常人的弱点；她没有说自己是谁，只答普拉斯科维娅道：「人家那样夸你的米林夫人，远不是你想的那样慈悲。你要肯跟我来，我兴许能给你寻个好些的安身处。」
 
 ===Original===
 After all she had heard of Mrs. Milin’s virtues, Prascovia could not help forming an unfavourable opinion of her new acquaintance, and she accompanied her, without either accepting or refusing her proposal. Observing that she seemed to follow with reluctance, Mrs. Milin said to her: “However, if you have such a great desire to speak to that lady, her house is close by: I will accompany you, and you shall see what sort of reception she will give you. But promise me before, my child, that if she does not urge you to remain, you will go with me.” Without answering, Prascovia entered the house with her, and addressing the first female servant she met, she asked if Mrs. Milin was at home. Astonished to hear such a question from a person who came in company with her mistress, she did not immediately reply.

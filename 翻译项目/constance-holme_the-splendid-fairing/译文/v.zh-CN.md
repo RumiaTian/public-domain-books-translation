@@ -52,7 +52,7 @@ He could still see them, however, from where he sat, and he noticed many things 
 She was a big woman over sixty years of age, with smooth, high-coloured cheeks and thick dark hair that was still a long way from turning white. Her face said plainly that she had had a full, comfortable, healthy life, with plenty to interest her and little to fret. Her brown eyes, which had been beautiful in youth, had kept their expression of self-satisfaction wholly undisturbed. She looked, indeed, what she was, the mother of a big family, the mistress of a good-class farm, and the wife of a man whose banking-account had long since ceased to keep him awake at nights. She wore a black hat and a black plush coat, and round her shoulders was a big fur wrap. In a kid-gloved hand she carried a muff and a silver-mounted bag, and May, looking down, saw patent-toed boots showing beneath her neat, black skirt. Sarah was sure of them, too, though she could not see them. It was not with her physical eye that she looked at Eliza of Blindbeck, Simon's brother's wife.
 
 ===Chinese===
-那是个高大的女人，年过六十，面色红润，两颊光滑，浓密的黑发离变白还远着呢。她的面容清楚地说明她过的是一个充实、舒适、健康的人生，有趣的事多，烦心的事少。她的棕色眼睛年轻时一定很美，如今那副自满的神情依然纹丝不乱。她看上去确实就是她自己——一个大家庭的母亲、一座像样农场的女主人、一个银行存款早已多到不用在夜里数钱的男人的妻子。她戴着一顶黑色帽子，穿着一件黑色长毛绒大衣，肩上围着一条大大的毛皮披肩。一只小山羊皮手套里握着一个暖手筒和一个镶银的手袋，梅低头一看，看到她整齐的黑裙下露出一双尖头漆皮靴。萨拉也看到了，虽然她的眼睛看不清。她看布林德贝克（Blindbeck）的伊莱莎（Eliza）——西蒙的哥哥的妻子——靠的并不是肉眼。
+那是个高大的女人，年过六十，面色红润，两颊光滑，浓密的黑发离变白还远着呢。她的面容清楚地说明她过的是一个充实、舒适、健康的人生，有趣的事多，烦心的事少。她的棕色眼睛年轻时一定很美，如今那副自满的神情依然纹丝不乱。她看上去确实就是她自己——一个大家庭的母亲、一座像样农场的女主人、一个银行存款早已多到不用在夜里数钱的男人的妻子。她戴着一顶黑色帽子，穿着一件黑色长毛绒大衣，肩上围着一条大大的毛皮披肩。一只小山羊皮手套里握着一个暖手筒和一个镶银的手袋，梅低头一看，看到她整齐的黑裙下露出一双尖头漆皮靴。萨拉也看到了，虽然她的眼睛看不清。她看布林德贝克（Blindbeck）的伊莱莎（Eliza）——西蒙的弟弟的妻子——靠的并不是肉眼。
 
 ===Original===
 She, too, had paused in the doorway, looking for a place, but as soon as she saw the two in the window, she advanced at once. As she passed she spoke to several people in a noisy, hearty voice, that seemed to have a blustering quality somewhere at its back. By the time she had reached Sarah's table and come to a stop, the man in the other room noticed that Sarah had suddenly grown small.﻿
@@ -94,7 +94,7 @@ Eliza looked at her with the little smile which the sight of Sarah always brough
 May explained nervously that she had come to Sarah's assistance instead. Eliza always made her nervous, because she never seemed to know she was in the room. "There wasn't that much to do," she finished hurriedly, stumbling over her words. "It's a pity Mr. Thornthwaite set you looking her up."
 
 ===Chinese===
-梅紧张地解释说，是她来帮萨拉的忙。伊莱莎总是让她紧张，因为伊莱莎似乎从来没意识到她在场。"也没什么太多事要做，"她匆忙说完，话说得磕磕巴巴。"桑德韦特先生（Mr. Thornthwaite）叫你来找她，真是多此一举。"
+梅紧张地解释说，是她来帮萨拉的忙。伊莱莎总是让她紧张，因为伊莱莎似乎从来没意识到她在场。"也没什么太多事要做，"她匆忙说完，话说得磕磕巴巴。"索恩思韦特先生（Mr. Thornthwaite）叫你来找她，真是多此一举。"
 
 ===Original===
 "Nay, I don't know. … I'd have been glad to do anything, I'm sure!" Eliza spoke in her heartiest tones, so that everybody could hear. "Nobody can say I'm one as can't be bothered to lend a hand. I reckon me and Will have done as much in that line as most." She looked at Sarah again, the smile growing on her lips. … "You'll not mind me sitting down with you, I suppose?"
@@ -118,7 +118,7 @@ May explained nervously that she had come to Sarah's assistance instead. Eliza a
 She turned in her seat to call a waitress, and ordered a substantial meal; after which, throwing back her fur, she leaned her arms on the table, and resumed her smile. Everybody in the place knew what Eliza Thornthwaite was having for her dinner, and here and there they were saying to each other, "They do themselves rarely at Blindbeck. … There's a deal o' brass to Blindbeck … ay, Blindbeck's plenty o' brass!" Eliza knew what they were saying, of course, and felt unctuously pleased; but May's heart swelled as she looked at Sarah's scanty, unfinished repast and the thin thread gloves that she was smoothing over her wrists. Eliza had taken off her own gloves by now, showing thick fingers and short nails. They were trapped in the alcove as long as she sat at the table-end, because of her big, overflowing figure which shut the two of them in. They would have to push their way past her if they wanted to get out, and Sarah would never as much as touch her with the end of a ten-foot pole.
 
 ===Chinese===
-她转过身去叫了一位女侍，点了一份丰盛的饭；之后，她把毛皮披肩往后一甩，双臂搁在桌上，又恢复了笑容。这里人人都知道伊莱莎·桑德韦特（Eliza Thornthwaite）的午餐是什么，三三两两的人在互相嘀咕："布林德贝克家过得可真阔气。……布林德贝克家有的是钱。……对，布林德贝克家钱多得很！"伊莱莎自然知道他们在说什么，心里美滋滋的；可是梅望着萨拉那份少得可怜、还没吃完的饭，望着她正在手腕上捋平的薄薄的线手套，心里一阵酸楚。伊莱莎已经脱了自己的手套，露出粗短的手指和指甲。只要她坐在桌角，她们就等于被困在了壁龛里，因为她那庞大的、横溢的身躯把她们堵在里面。她们想出去，就得从她身旁挤过去，而萨拉是绝不会碰她一下的，哪怕拿十英尺长的杆子也不肯。
+她转过身去叫了一位女侍，点了一份丰盛的饭；之后，她把毛皮披肩往后一甩，双臂搁在桌上，又恢复了笑容。这里人人都知道伊莱莎·索恩思韦特（Eliza Thornthwaite）的午餐是什么，三三两两的人在互相嘀咕："布林德贝克家过得可真阔气。……布林德贝克家有的是钱。……对，布林德贝克家钱多得很！"伊莱莎自然知道他们在说什么，心里美滋滋的；可是梅望着萨拉那份少得可怜、还没吃完的饭，望着她正在手腕上捋平的薄薄的线手套，心里一阵酸楚。伊莱莎已经脱了自己的手套，露出粗短的手指和指甲。只要她坐在桌角，她们就等于被困在了壁龛里，因为她那庞大的、横溢的身躯把她们堵在里面。她们想出去，就得从她身旁挤过去，而萨拉是绝不会碰她一下的，哪怕拿十英尺长的杆子也不肯。
 
 ===Original===
 "I'd ha' done what I could, I'm sure," Eliza was busy telling them again. "I'd never say no to folks as can't help themselves. But there—I needn't ha' bothered about it—you're as right as rain. Will had it you were off to t'doctor's, but I made sure he was wrong. I haven't seen you looking so well for a month o' Sundays, and that's the truth."
@@ -166,7 +166,7 @@ Sarah did not speak, but she saw, as she was intended to see, a picture of the g
 "Yes, but we *did* go to the doctor's!" May broke out warmly, goaded into speech. "Mrs. Thornthwaite's bothered with her eyes."
 
 ===Chinese===
-"可是我们*确实*去了医生那儿！"梅被激得开口了，急切地说。"桑德韦特夫人眼睛有毛病。"
+"可是我们*确实*去了医生那儿！"梅被激得开口了，急切地说。"索恩思韦特夫人眼睛有毛病。"
 
 ===Original===
 Mrs. Will lifted her own sharply for a fresh stare at the defenceless face.
@@ -286,7 +286,7 @@ There was a murmur of discomfort and disapproval all over the room, and then som
 The person who had laughed before laughed again, and faint titters broke out on every side. Sarah, however, did not seem to hear. She lifted a thread-gloved hand and pointed at Eliza's skirts. "Happen you'll shift yon gown o' yours, Eliza Thornthet?" she added, coolly. "I've a deal o' dirt on my shoes as I reckon you won't want."
 
 ===Chinese===
-先前笑过的人又笑了，四周响起了一片轻声窃笑。但萨拉似乎没听见。她抬起一只戴着线手套的手，指着伊莱莎的裙子。"劳驾把你那条裙子挪挪，伊莱莎·桑德韦特？"她冷冷地补了一句。"我鞋上全是泥，我想你不会乐意蹭上的。"
+先前笑过的人又笑了，四周响起了一片轻声窃笑。但萨拉似乎没听见。她抬起一只戴着线手套的手，指着伊莱莎的裙子。"劳驾把你那条裙子挪挪，伊莱莎·索恩思韦特？"她冷冷地补了一句。"我鞋上全是泥，我想你不会乐意蹭上的。"
 
 ===Original===
 The laughter was unrestrained now, and Eliza flushed angrily as she dragged her skirts reluctantly out of the way. From the corner of a raging eye she observed the elaborate care with which Sarah went by.
