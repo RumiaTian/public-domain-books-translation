@@ -97,3 +97,5 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-10-11 07:05｜批次3直启主代理｜00-dedication.md 完成，check_bilingual 通过（内联翻译）
+- 2026-10-11 06:58｜批次3直启子代理｜chapter-01.md 完成，check_bilingual 通过

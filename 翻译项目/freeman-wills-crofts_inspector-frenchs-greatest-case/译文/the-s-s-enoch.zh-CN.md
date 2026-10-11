@@ -28,7 +28,7 @@ Captain Davis saw French immediately.
 French took the proffered seat as he drew from his pocket Mrs. Vane’s photograph as well as her description and that of her husband.
 
 ===Chinese===
-幸而夜里风平浪静，船上也不拥挤，两位侦探得以弄到铺位，睡了一觉养足精神，好应付次日的辛劳。他们准时抵达勒阿弗尔，跳上一辆出租汽车，驶往码头深处“伊诺克号”的泊位。弗伦奇匆匆上船求见船长，卡特则留在舷梯口守着——生怕猎物撞见弗伦奇、认得他的相貌，惊慌之下企图溜上岸去。
+幸而夜里风平浪静，船上也不拥挤，两位侦探得以弄到铺位，睡了一觉养足精神，好应付次日的辛劳。他们准时抵达勒阿弗尔，跳上一辆出租汽车，驶往码头深处*伊诺克号*的泊位。弗伦奇匆匆上船求见船长，卡特则留在舷梯口守着——生怕猎物撞见弗伦奇、认得他的相貌，惊慌之下企图溜上岸去。
 
 戴维斯船长（Captain Davis）立刻接见了弗伦奇。
 
@@ -122,7 +122,7 @@ A glance at the photograph sufficed. The original was undoubtedly that Mrs. Vane
 
 “詹宁斯先生，凭这些你能认出这两个人吗？”
 
-照片只消一看便足够了。照片的原主，正是那位登上“伊诺克号”前后不过半个钟头的文恩太太；体貌描述也与文恩先生相符。弗伦奇不得不承认：借船长的话说，他的猎物确实棋高一着，把他将住了。他低声狠狠咒骂了一句。
+照片只消一看便足够了。照片的原主，正是那位登上*伊诺克号*前后不过半个钟头的文恩太太；体貌描述也与文恩先生相符。弗伦奇不得不承认：借船长的话说，他的猎物确实棋高一着，把他将住了。他低声狠狠咒骂了一句。
 
 ===Original===
 “You say they left some luggage in their stateroom,” he went on. “Could I have a look at it?”
@@ -178,7 +178,7 @@ A few minutes later French had sent a long wire to his chief at the Yard. Then a
 ===Chinese===
 但他没有离开码头。尽管觉得希望不大，猎物毕竟还有一线可能是误了船、正在路上往这儿赶。他要弄个确实。
 
-可是他直等到“伊诺克号”解缆、船头掉转朝向大海，也不见一个迟到旅客的影子。眼看班轮启航远去，他只得垂头丧气地转向自己的随员。
+可是他直等到*伊诺克号*解缆、船头掉转朝向大海，也不见一个迟到旅客的影子。眼看班轮启航远去，他只得垂头丧气地转向自己的随员。
 
 “卡特，这一趟算是彻底砸锅了。人家把我们甩得干干净净。天晓得他们这会儿到了哪儿，兴许已走上去美国的一半水路了。找个电报局，向部里报告去吧。”
 
@@ -288,11 +288,11 @@ It was a telegram, and it contained news which, as it were, brought the Inspecto
 ===Chinese===
 “叫的是您哪，长官，”卡特喊道，“有情况。”
 
-弗伦奇急忙登上船桥，那宪兵递给他一只蓝色信封。“局长先生（monsieur le chef）发来的，”他急急敬了个礼，说完便赶着上了岸。
+弗伦奇急忙登上船桥，那宪兵递给他一只蓝色信封。“局长先生（*monsieur le chef*）发来的，”他急急敬了个礼，说完便赶着上了岸。
 
 那是一封电报，里面的消息仿佛迎头一棒，把探长惊得呆立当场。电报是苏格兰场发来的，电文如下：
 
-> “利物浦警方来电：文恩夫妇登上‘伊诺克号’后并未再离船上岸。麦凯当时为缉捕亨森而监视出港船只，亲眼看见二人。他们必定仍在船上。请尾随该轮前往波尔图或里斯本。”
+> “利物浦警方来电：文恩夫妇登上*伊诺克号*后并未再离船上岸。麦凯当时为缉捕亨森而监视出港船只，亲眼看见二人。他们必定仍在船上。请尾随该轮前往波尔图或里斯本。”
 
 “卡特，上岸！”弗伦奇急促地喊了一声，直奔船边。船已经在动了，两人纵身一跳，落在码头上，身后是船长和船员们的连声臭骂。
 
@@ -368,7 +368,7 @@ They were fortunate in securing sleeping berths between Paris and Bordeaux, and 
 French on his trip from Chamonix to Barcelona had been amazed by the illimitable extent of the earth, but his feelings of wonder on that occasion were as nothing compared to those he now experienced. The journey from Irun to Oporto was absolutely *endless*; at least he thought so as interminable mile succeeded interminable mile, while day turned into night and night more slowly turned back into day. It was cold, too, through the high tableland of Spain—bitterly cold, and the two men could not get the kind of meals they liked, nor could they sleep well in the somewhat jolting coaches. But all things come to an end, and at half-past one on the Monday, about an hour late, the train came finally to a stand in the Estacao Central of Oporto. There was plenty of time, and the travellers went straight to the Porto Hotel for a short rest before setting out to find the tramway to Leixoes.
 
 ===Chinese===
-不过，他还得定下自己的行程。那位好心的法国警官已经帮他把电话打到布斯轮船公司的本地办事处，问清了“伊诺克号”的航程。这天是星期六；第二天即星期日的下午，轮船可望抵达波尔图的港口莱绍恩斯（Leixoes）。她将在那里停泊一夜又一天，到星期一傍晚 8 点前后离开莱绍恩斯。次日正午前后，该轮应抵里斯本（Lisbon），在那里停留两天。此后第一个停靠港便是马德拉（Madeira）。
+不过，他还得定下自己的行程。那位好心的法国警官已经帮他把电话打到布斯轮船公司的本地办事处，问清了*伊诺克号*的航程。这天是星期六；第二天即星期日的下午，轮船可望抵达波尔图的港口莱绍恩斯（Leixoes）。她将在那里停泊一夜又一天，到星期一傍晚 8 点前后离开莱绍恩斯。次日正午前后，该轮应抵里斯本（Lisbon），在那里停留两天。此后第一个停靠港便是马德拉（Madeira）。
 
 弗伦奇原打算到里斯本去同她会合，此刻忽然想到，说不定还来得及赶到波尔图上船。他在勒阿弗尔买了一本铁路指南，现在便动手查起车次来。他看出路线是：先沿巴黎—奥尔良铁路到波尔多，再转米迪铁路到西班牙边境的伊伦（Irun），然后经梅迪纳（Medina）、萨拉曼卡（Salamanca）到波尔图。他们下午 4:35 抵达巴黎，此后从巴黎开出的第一班直达车，是当晚 10:22 自奥赛码头车站（Gare Quai d'Orsay）发车的一班，后天、也就是星期一正午刚过便抵达波尔图。波尔图到莱绍恩斯不过半个钟头车程，这样他手里还有六七个钟头的富余。他拿定主意：目标就是波尔图。
 
@@ -377,15 +377,15 @@ French on his trip from Chamonix to Barcelona had been amazed by the illimitable
 弗伦奇从夏蒙尼去巴塞罗那的那一趟，已经惊叹过大地的无边无际，可那回的惊奇比起这一回，简直不值一提。从伊伦到波尔图这段旅程，实在*漫无尽头*——至少他是这么觉得的：望不到头的里程过了一程又一程，白昼熬成了黑夜，黑夜又更慢地熬回白昼。行经西班牙高原时又冷——冷得彻骨，两人吃不上合口味的饭食，在颠簸摇晃的车厢里也睡不安稳。但天下事总有尽头。星期一下午一点半，列车晚点约一个钟头，终于停进了波尔图的中央车站（Estacao Central）。时间宽裕得很，两位旅客径直去了波尔图旅馆（Porto Hotel），稍事休息，再动身去寻开往莱绍恩斯的电车。
 
 ===Original===
-French was immensely struck with the picturesque, old world city, nestling on the steep, hilly banks of the Douro, and he marvelled to feel quiver at every horse-hoof the great high level Dom Luez bridge, which throws its spidery steel arch in a single span of nearly 600 feet across the placid river flowing far beneath.
+French was immensely struck with the picturesque, old world city, nestling on the steep, hilly banks of the Douro, and he marvelled to feel quiver at every horse-hoof the great high level Dom Luez bridge, which throws its spidery steel arch in a single span of nearly 600 feet across the placid river flowing far beneath. Then after passing down the steeply-inclined streets to near the water’s edge, he and Carter boarded the tram and set off seawards along a road skirting the right bank of the stream.
 
 In spite of the business which had brought them so far, both men gazed with intense interest at the unwonted sights they passed, the semitropical vegetation, the long, narrow, four-wheeled carts with their teams of oxen, the mole constructed across some three-quarters of the mouth of the Douro to increase the scour through the remainder, then, passing a stretch of sandhills, they finally reached the houses of Leixos, with lying below them the harbour contained within its two encircling stone piers, and, blessed sight, the *Enoch* lying at anchor therein.
 
 They made a bargain with a dusky boatman for what seemed to French a fortune of reis, and ten minutes later they had ascended the ladder and were once more on the steamer’s deck.
 
 ===Chinese===
-这座古色古香、如画般的城池，依偎在杜罗河（Douro）陡峭起伏的两岸山坡上，弗伦奇看得心醉神迷；更令他叹为观止的是头顶高处那座唐·路易大桥（Dom Luez bridge）——一道蛛网般的钢拱，以近 600 英尺的单跨凌空飞架，横过脚下远处平缓流淌的河水——桥上每过一记马蹄，桥身竟随之微微震颤。
+这座古色古香、如画般的城池，依偎在杜罗河（Douro）陡峭起伏的两岸山坡上，弗伦奇看得心醉神迷；更令他叹为观止的是头顶高处那座唐·路易大桥（Dom Luez bridge）——一道蛛网般的钢拱，以近 600 英尺的单跨凌空飞架，横过脚下远处平缓流淌的河水——桥上每过一记马蹄，桥身竟随之微微震颤。随后，他和卡特顺着陡斜的街道一路下到将近水边，登上了电车，沿着河的右岸朝入海口方向驶去。
 
-尽管是公务把他们带到这么远的地方，两人还是兴致勃勃地盯着沿途少见的景致：亚热带的草木，牛队拉着狭长的四轮板车，还有横筑在杜罗河口约四分之三处的一道防波堤——修造它是为了让余下的口门水流更急、冲刷更深。随后穿过一带沙丘，他们终于望见莱绍恩斯的房舍：房舍下方，是环抱在两道石堤之间的港湾，而那谢天谢地的景象——“伊诺克号”正锚泊其中！
+尽管是公务把他们带到这么远的地方，两人还是兴致勃勃地盯着沿途少见的景致：亚热带的草木，牛队拉着狭长的四轮板车，还有横筑在杜罗河口约四分之三处的一道防波堤——修造它是为了让余下的口门水流更急、冲刷更深。随后穿过一带沙丘，他们终于望见莱绍恩斯的房舍：房舍下方，是环抱在两道石堤之间的港湾，而那谢天谢地的景象——*伊诺克号*正锚泊其中！
 
 他们同一位肤色黝黑的船夫讲定了价钱——那数目在弗伦奇听来简直是一笔雷伊斯（reis）巨款——十分钟后，两人已攀上舷梯，重新站在这艘轮船的甲板上。

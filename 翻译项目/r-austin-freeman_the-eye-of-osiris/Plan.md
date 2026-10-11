@@ -150,3 +150,12 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 - 2026-10-06 07:25｜批次3直启子代理｜12-a-voyage-of-discovery.md 完成，check_bilingual 通过
 - 2026-10-06 07:35｜批次3直启子代理｜13-the-coroner-s-quest.md 完成，check_bilingual 通过
 - 2026-10-06 07:51｜批次3直启子代理｜14-which-carries-the-reader-into-the-probate-court.md 完成，check_bilingual 通过
+- 2026-10-07 06:21｜批次3直启子代理｜15-circumstantial-evidence.md 完成，check_bilingual 通过
+- 2026-10-07 06:31｜批次3直启子代理｜16-o-artemidorus-farewell.md 完成，check_bilingual 通过
+- 2026-10-07 06:42｜批次3直启子代理｜17-the-accusing-finger.md 完成，check_bilingual 通过
+- 2026-10-07 06:52｜批次3直启子代理｜18-john-bellingham.md 完成，check_bilingual 通过
+- 2026-10-07 07:07｜批次3直启子代理｜19-a-strange-symposium.md 完成，check_bilingual 通过
+- 2026-10-07 07:20｜批次3直启子代理｜20-the-end-of-the-case.md 完成，check_bilingual 通过
+
+## 完书纪要（2026-10-07）
+《The Eye of Osiris》全书竣工：20/20（桑代克系列，CRLF 全书，俄塞里斯之眼/圣甲虫/推定死亡等埃及学-法律术语体系贯穿）。末章 20-the-end-of-the-case.md（26.5KB，82 对块）check_bilingual exit 0，引号镜像惯例贯穿全书。CSV 行数=输出文件数=20，零缺失（ch6、ch15 曾经额度中断重派后完成）。认领锁已删除。全书第 26 本完工。

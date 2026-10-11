@@ -25,3 +25,19 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-10-08 06:24｜批次3直启子代理｜a-mixed-threesome.md 完成，check_bilingual 通过
+- 2026-10-08 06:36｜批次3直启子代理｜a-woman-is-only-a-woman.md 完成，check_bilingual 通过
+- 2026-10-08 06:49｜批次3直启子代理｜archibald-s-benefit.md 完成，check_bilingual 通过
+- 2026-10-08 07:07｜批次3直启子代理｜chester-forgets-himself.md 完成，check_bilingual 通过
+- 2026-10-08 07:21｜批次3直启子代理｜high-stakes.md 完成，check_bilingual 通过
+- 2026-10-08 07:34｜批次3直启子代理｜jane-gets-off-the-fairway.md 完成，check_bilingual 通过
+- 2026-10-09 06:22｜批次3直启子代理｜keeping-in-with-vosper.md 完成，check_bilingual 通过
+- 2026-10-09 06:35｜批次3直启子代理｜ordeal-by-golf.md 完成，check_bilingual 通过
+- 2026-10-09 06:48｜批次3直启子代理｜rodney-fails-to-qualify.md 完成，check_bilingual 通过
+- 2026-10-09 07:03｜批次3直启子代理｜sundered-hearts.md 完成，check_bilingual 通过
+- 2026-10-09 07:14｜批次3直启子代理｜the-awakening-of-rollo-podmarsh.md 完成，check_bilingual 通过
+- 2026-10-10 06:20｜批次3直启子代理｜the-clicking-of-cuthbert.md 完成，check_bilingual 通过（[1308] 断点核验回填，中断前已完成）
+- 2026-10-11 06:26｜批次3直启子代理｜the-coming-of-gowf.md 完成，check_bilingual 通过
+- 2026-10-11 06:40｜批次3直启子代理｜the-heart-of-a-goof.md 完成，check_bilingual 通过
+- 2026-10-11 06:53｜批次3直启子代理｜the-heel-of-achilles.md 完成，check_bilingual 通过
+- 2026-10-11 07:04｜批次3直启子代理｜the-long-hole.md 完成，check_bilingual 通过

@@ -25,3 +25,6 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-10-11 06:56｜批次3直启子代理｜a-change-of-venue.md 完成，check_bilingual 通过
+- 2026-10-11 07:05｜批次3直启子代理｜the-sawmill-on-the-lesque.md 完成，check_bilingual 通过

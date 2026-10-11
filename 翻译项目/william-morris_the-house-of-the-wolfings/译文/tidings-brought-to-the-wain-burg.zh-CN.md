@@ -1,0 +1,83 @@
+## XVIII Tidings Brought to the Wain-Burg / ## XVIII 讯报传至车垒
+
+===Original===
+Now it must be told of Otter and they of the Wain-burg how they had the tidings of the overthrow of the Romans on the Ridge, and that Egil had left them on his way to Wolf-stead. They were joyful of the tale, as was like to be, but eager also to strike their stroke at the foemen, and in that mood they abode fresh tidings.
+It has been told how Otter had sent the Bearings and the Wormings to the aid of Thiodolf and his folk, and these two were great kindreds, and they being gone, there abode with Otter, one man with another, thralls and freemen, scant three thousand men: of these many were bowmen good to fight from behind a wall or fence, or some such cover, but scarce meet to withstand a shock in the open field. However it was deemed at this time in the Wain-burg that Thiodolf and his men would soon return to them; and in any case, they said, he lay between the Romans and the Mark, so that they had but little doubt; or rather they feared that the Romans might draw aback from the Mark before they could be met in battle again, for as aforesaid they were eager for the fray.
+Now it was in the cool of the evening two days after the Battle on the Ridge, that the men, both freemen and thralls, had been disporting themselves in the plain ground without the Burg in casting the spear and putting the stone, and running races afoot and a-horseback, and now close on sunset three young men, two of the Laxings and one of the Shieldings, and a grey old thrall of that same House, were shooting a match with the bow, driving their shafts at a rushen roundel hung on a pole which the old thrall had dight. Men were peaceful and happy, for the time was fair and calm, and, as aforesaid, they dreaded not the Roman Host any more than if they were Gods dwelling in God-home. The shooters were deft men, and they of the Burg were curious to note their deftness, and many were breathed with the games wherein they had striven, and thought it good to rest, and look on the new sport: so they sat and stood on the grass about the shooters on three sides, and the mead-horn went briskly from man to man; for there was no lack of meat and drink in the Burg, whereas the kindreds that lay nighest to it had brought in abundant provision, and women of the kindreds had come to them, and not a few were there scattered up and down among the carles.
+Now the Shielding man, Geirbald by name, had just loosed at the mark, and had shot straight and smitten the roundel in the midst, and a shout went up from the onlookers thereat; but that shout was, as it were, lined with another, and a cry that a messenger was riding toward the Burg: thereat most men looked round toward the wood, because their minds were set on fresh tidings from Thiodolf’s company, but as it happened it was from the north and the side toward Mid-mark that they on the outside of the throng had seen the rider coming; and presently the word went from man to man that so it was, and that the newcomer was a young man on a grey horse, and would speedily be amongst them; so they wondered what the tidings might be, but yet they did not break up the throng, but abode in their places that they might receive the messenger more orderly; and as the rider drew near, those who were nighest to him perceived that it was a woman.
+So men made way before the grey horse, and its rider, and the horse was much spent and travel-worn. So the woman rode right into the ring of warriors, and drew rein there, and lighted down slowly and painfully, and when she was on the ground could scarce stand for stiffness; and two or three of the swains drew near her to help her, and knew her at once for Hrosshild of the Wolfings, for she was well-known as a doughty woman.
+
+===Chinese===
+现在必须讲一讲奥特尔（Otter）和车垒（Wain-burg）中人如何得到了罗马人在山脊上被击溃的讯报，以及埃吉尔（Egil）途经他们那里之后，又上路往沃尔夫田庄（Wolf-stead）去了。他们听了这讯报，正如意料中那样自是欢喜，却也渴望亲手向仇敌砍出一击；怀着这般心绪，他们等待着新的消息。
+前文已经讲过，奥特尔如何派遣贝林族（the Bearings）与沃明族（the Wormings）去援助西奥多夫（Thiodolf）及其人马；这两族都是大族，他们既已开拔，留在奥特尔身边的——连奴隶（thralls）带自由人（freemen）——通盘算来不足三千人：其中许多是弓手，善于凭借墙垣、篱障或诸如此类的掩护作战，却当不得旷野上的正面冲杀。不过此时车垒中的人都料定，西奥多夫和他的人马不久便会回到他们这里；而且无论如何，他们说，他正扼守在罗马人与马克（the Mark）之间，所以他们并没有多少疑虑；毋宁说，他们倒是担心罗马人会在再度接战之前便撤离马克，因为如前所述，他们正渴望着一战。
+且说山脊之战（the Battle on the Ridge）后两日，傍晚凉爽时分，人们——自由人与奴隶都在内——在车垒外的平地上自娱取乐，掷矛的掷矛，推石的推石，又赛徒步的疾跑，赛马上的驰骋；这时日头将落，三个年轻人——两名拉克斯族（the Laxings）人、一名希尔丁族（the Shieldings）人——连同该族一名头发花白的老奴隶，正在比试箭术，朝一根杆上悬着的草编圆靶放箭，那靶子是老奴隶亲手张置的。人们安宁而快乐，因为时节晴好、风物澄静，而且如前所述，他们对罗马大军已不再有半分惧意，仿佛自己就是安居神乡（God-home）的诸神。射手们身手娴熟，车垒中人都想看个仔细；许多人经过方才竞技的拼搏，正自气喘吁吁，乐得歇息下来，观览这场新的玩意：于是他们三面围着射手，或坐或立在草地上，蜜酒角（mead-horn）在众人手里欢快地传递；因为车垒之中酒肉不缺——驻扎在近处的各亲族运进了丰盛的给养，亲族中的妇人也到他们这里来，其中不少便夹杂在众汉子（carles）之间，四处散坐。
+这时，那希尔丁族人——名叫盖尔巴尔德（Geirbald）——刚刚朝靶子放出一箭，箭去笔直，正中圆靶中心，旁观者顿时迸出一声喝彩；可那喝彩声里仿佛衬着另一层喊叫，说是一名信使正朝车垒驰来：于是大多数人都转头朝林子那边张望，因为他们一心惦着西奥多夫一队人马的新消息；可是不巧，人群外围的人看见那骑手却是从北面、朝中部马克（Mid-mark）的那一侧来的；随即这话口口相传，说果然如此，来的是个骑灰马的年轻人，转眼便要到他们中间了；他们猜不着来的是何等讯报，却并不散开人群，只各守原地，好更有秩序地迎接信使；及至骑手驰近，离得最近的人才看出：来的竟是一个女子。
+于是众人在灰马与骑者面前让开一条路；那马疲惫不堪，一副远行劳顿的模样。那女子径直骑进战士们围成的圈中，在那里收住缰绳，缓慢而艰难地翻身下马，落地之后浑身僵直，几乎站立不住；两三个小伙子上前搀她，一眼便认出她是沃尔夫族（the Wolfings）的霍斯希尔德（Hrosshild），因为她是个远近闻名、剽悍刚健的女子。
+
+===Original===
+Then she said: “Bring me to Otter the War-duke; or bring him hither to me, which were best, since so many men are gathered together; and meanwhile give me to drink; for I am thirsty and weary.”
+So while one went for Otter, another reached to her the mead-horn, and she had scarce done her draught, ere Otter was there, for they had found him at the gate of the Burg. He had many a time been in the Wolfing Hall, so he knew her at once and said:
+“Hail, Hrosshild! how farest thou?”
+She said: “I fare as the bearer of evil tidings. Bid thy folk do on their war-gear and saddle their horses, and make no delay; for now presently shall the Roman host be in Mid-mark!”
+Then cried Otter: “Blow up the war-horn! get ye all to your weapons and be ready to leap on your horses, and come ye to the Thing in good order kindred by kindred: later on ye shall hear Hrosshild’s story as she shall tell it to me!”
+
+===Chinese===
+她便说道：「带我去见战公奥特尔；或者把他领到我这里来——这样最好，因为这里已经聚了这么多人；这当儿再给我点喝的；我又渴又乏。」
+于是一人去请奥特尔，另一人把蜜酒角递到她手上；她那一份刚饮罢，奥特尔便已到场，因为人们在车垒门口找到了他。他曾多次出入沃尔夫族的大堂，所以一眼便认出了她，说道：
+「你好，霍斯希尔德！一路可还安好？」
+她说：「你问我一路如何——我是个带来凶讯的人。叫你的人披上战装、备好马鞍，不得耽搁；因为罗马大军转眼就要开进中部马克了！」
+奥特尔高呼道：「吹响战号（war-horn）！你们全体拿起兵器，随时准备跃上马背，一族挨一族、井然有序地到廷（the Thing）集合：霍斯希尔德的经历，她自会讲给我听，稍后你们再听她细说！」
+
+===Original===
+Therewith he led her to a grassy knoll that was hard by, and set her down thereon and himself beside her, and said:
+“Speak now, damsel, and fear not! For now shall one fate go over us all, either to live together or die together as the free children of Tyr, and friends of the Almighty God of the Earth. How camest thou to meet the Romans and know of their ways and to live thereafter?”
+She said: “Thus it was: the Hall-Sun bethought her how that the eastern ways into Mid-mark that bring a man to the thicket behind the Roof of the Bearings are nowise hard, even for an host; so she sent ten women, and me the eleventh to the Bearing dwelling and the road through the thicket aforesaid; and we were to take of the Bearing stay-at-homes whomso we would that were handy, and then all we to watch the ways for fear of the Romans. And methinks she has had some vision of their ways, though mayhap not altogether clear.
+“Anyhow we came to the Bearing dwellings, and they gave us of their folk eight doughty women and two light-foot lads, and so we were twenty and one in all.
+“So then we did as the Hall-Sun bade us, and ordained a chain of watchers far up into the waste; and these were to sound a point of war upon their horns each to each till the sound thereof should come to us who lay with our horses hoppled ready beside us in the fair plain of the Mark outside the thicket.
+“To be short, the horns waked us up in the midst of yesternight, and of the watches also came to us the last, which had heard the sound amidst the thicket, and said that it was certainly the sound of the Goths’ horn, and the note agreed on. Therefore I sent a messenger at once to the Wolfing Roof to say what was toward; but to thee I would not ride until I had made surer of the tidings; so I waited awhile, and then rode into the wildwood; and a long tale I might make both of the waiting and the riding, had I time thereto; but this is the end of it; that going warily a little past where the thicket thinneth and the road endeth, I came on three of those watches or links in the chain we had made, and half of another watch or link; that is to say six women, who were come together after having blown their horns and fled (though they should rather have abided in some lurking-place to espy whatever might come that way) and one other woman, who had been one of the watch much further off, and had spoken with the furthest of all, which one had seen the faring of the Roman Host, and that it was very great, and no mere band of pillagers or of scouts. And, said this fleer (who was indeed half wild with fear), that while they were talking together, came the Romans upon them, and saw them; and a band of Romans beat the wood for them when they fled, and she, the fleer, was at point to be taken, and saw two taken indeed, and haled off by the Roman scourers of the wood. But she escaped and so came to the others on the skirts of the thicket, having left of her skin and blood on many a thornbush and rock by the way.
+
+===Chinese===
+说罢，他领她到近旁一座青草小丘上，扶她在丘顶坐下，自己也坐在她身旁，说道：
+「姑娘，现在讲吧，不要怕！因为此刻同一的命运将笼罩我们全体：要么一同活着，要么一同死去，作为提尔（Tyr）的自由儿女、大地全能之神的朋友。你是怎样遇上罗马人、探知他们的行踪，又得以活下来向人诉说的？」
+她说：「事情是这样的：堂阳（the Hall-Sun）想到，那些通入中部马克的东面路径——也就是引人到贝林族大屋顶（the Roof of the Bearings）后方那片树丛去的路——毫不难行，纵是大队人马也过得去；于是她派了十名女子，我作第十一人，前往贝林族人的居宅，走那条穿过前述树丛的路；我们要从贝林族留守在家的人丁中随意带走凡用得上的人手，然后大家一起守望各条通路，以防罗马人来犯。依我想，她对他们必经之路必已有了某种先见，只是未必全然分明。」
+「无论如何，我们到了贝林族的居宅，他们从族中拨给我们八名健妇和两名脚程轻快的少年，于是我们总共二十一人。」
+「随后我们便照堂阳的嘱咐行事，编排了一链守望者，远远排入荒野；他们要一环递一环，各在号角上吹出一声战警，直到那声音传到我们这里——我们带着绊住腿、随时可乘的马匹，就驻在树丛之外马克的秀丽平原上。」
+「长话短说：昨夜三更，号角声把我们惊醒；守望者中的最后一环也来到我们这里，她是在树丛深处听到号声的，并说那分明是哥特人（the Goths）的号角，正是约定的音调。于是我立即派出一名信使前往沃尔夫族大屋顶（the Wolfing Roof），报告出了什么事；至于你这里，我却不肯贸然便来，总要把讯报探得更确凿些；于是我等候了一阵，随后骑马进了荒林；那等候与那驰骋，若得闲暇，本可各成一段长话；但结局是这样：我小心翼翼地驰过树丛渐稀、道路已尽之处，再往前不多远，便遇上我们所设那一链守望中的三环，另有半环；也就是说，六名女子——她们吹过号便逃到一处聚齐（其实本该潜伏在什么隐蔽之处，窥探那条路上会来什么）——还有另外一名女子，她原是排得远得多的守望，曾与最远那一环说过话，而那最远的一环亲眼见过罗马大军的行进，说它兵势极盛，绝非区区一支劫掠队或一伙斥候。那逃者还说（她实在已吓得半疯）：她们正说话间，罗马人便扑到了跟前，看见了她们；她们逃走时，一队罗马人打进树林搜捕她们；那逃者本人险些被擒，还亲眼看见两人确实被捉，被罗马搜林的兵丁拖了去。可她终究逃脱了，就这样来到树丛边缘的同伴们中间，一路上在多少荆棘丛和岩石上留下了自己的皮和血。」
+
+===Original===
+“Now when I heard this, I bade this fleer get her home to the Bearings as swiftly as she might, and tell her tale; and she went away trembling, and scarce knowing whether her feet were on earth or on water or on fire; but belike failed not to come there, as no Romans were before her.
+“But for the others, I sent one to go straight to Wolf-stead on the heels of the first messenger, to tell the Hall-Sun what had befallen, and other five I set to lurk in the thicket, whereas none could lightly lay hands on them, and when they had new tidings, to flee to Wolf-stead as occasion might serve them; and for myself I tarried not, but rode on the spur to tell thee hereof.
+“But my last word to thee, Otter, is that by the Hall-Sun’s bidding the Bearings will not abide fire and steel at their own stead, but when they hear true tidings of the Romans being hard at hand, will take with them all that is not too hot or too heavy to carry, and go their ways unto Wolf-stead: and the tidings will go up and down the Mark on both sides of the water, so that whatever is of avail for defence will gather there at our dwelling, and if we fall, goodly shall be the howe heaped over us, even if ye come not in time.
+“Now have I told thee what I needs must and there is no need to question me more, for thou hast it all﻿—do thou what thou hast to do!”
+With that word she cast herself down on the grass by the mound-side, and was presently asleep, for she was very weary.
+
+===Chinese===
+「我听了这些，便吩咐那逃者尽快回贝林族去，把她的事讲出来；她浑身发抖地走了，几乎不知自己的脚是踏在土上、水上还是火上；不过想来不至于到不了，因为前路上并没有罗马人。」
+「至于其余的人，我派了一名紧跟着头一个信使脚跟的人直奔沃尔夫田庄，把出的事禀报堂阳；另五名我派去潜伏在树丛里——那里不致轻易被人抓住——待得了新的讯息，再相机逃往沃尔夫田庄；我自己则片刻不留，催马疾驰，来把这一切报给你。」
+「但我对你说的最后一句话是，奥特尔：依照堂阳的吩咐，贝林族人将不在自己的田庄坐待刀兵，一旦听到罗马人逼至眼前的确讯，他们便会带上一切不至于烫得拿不得、重得扛不动的物件，取道前往沃尔夫田庄：讯报会沿着河的两岸、马克上下传开，凡有助于守御的人和物都会聚集到我们的居地来；倘若我们倒了下去，堆在我们身上的坟冢（howe）也必壮丽堂皇，哪怕你们来不及赶到。」
+「如今必须告诉你的我都告诉你了，不必再问什么，因为一切你都已知道——你且去办你该办的事吧！」
+说完这句话，她便一头倒在丘旁的草地上，顷刻睡去，因为她实在困乏已极。
+
+===Original===
+But all the time she had been telling her tale had the horn been sounding, and there were now a many warriors gathered and more coming in every moment: so Otter stood up on the mound after he had bidden a man of his House to bring him his horse and war-gear, and abided a little, till, as might be said, the whole host was gathered: then he bade cry silence, and spake:
+“Sons of Tyr, now hath an Host of the Romans gotten into the Mark; a mighty host, but not so mighty that it may not be met. Few words are best: let the Steerings, who are not many, but are men well-tried in war and wisdom abide in the Burg along with the fighting thralls: but let the Burg be broken up and moved from the place, and let its warders wend towards Mid-mark, but warily and without haste, and each night let them make the wain-garth and keep good watch.
+“But know ye that the Romans shall fall with all their power on the Wolfing dwellings, deeming that when they have that, they shall have all that is ours with ourselves also. For there is the Hall-Sun under the Great Roof, and there hath Thiodolf, our War-duke, his dwelling-place; therefore shall all of us, save those that abide with the wains, take horse, and ride without delay, and cross the water at Battleford, so that we may fall upon the foe before they come west of the water; for as ye know there is but one ford whereby a man wending straight from the Bearings may cross Mirkwood-water, and it is like that the foe will tarry at the Bearing stead long enough to burn and pillage it.
+“So do ye order yourselves according to your kindreds, and let the Shieldings lead. Make no more delay! But for me I will now send a messenger to Thiodolf to tell him of the tidings, and then speedily shall he be with us. Geirbald, I see thee; come hither!”
+Now Geirbald stood amidst the Shieldings, and when Otter had spoken, he came forth bestriding a white horse, and with his bow slung at his back. Said Otter: “Geirbald, thou shalt ride at once through the wood, and find Thiodolf; and tell him the tidings, and that in nowise he follow the Roman fleers away from the Mark, nor to heed anything but the trail of the foemen through the southeastern heaths of Mirkwood, whether other Romans follow him or not: whatever happens let him lead the Goths by that road, which for him is the shortest, towards the defence of the Wolfing dwellings. Lo thou, my ring for a token! Take it and depart in haste. Yet first take thy fellow Viglund the Woodman with thee, lest if perchance one fall, the other may bear the message. Tarry not, nor rest till thy word be said!”
+
+===Chinese===
+而在她讲述这段经历的全时间里，号角一直在响；此刻已聚集了大批战士，且时时刻刻还有更多赶来：于是奥特尔吩咐本族一名族人去牵他的战马、取来战装，随后便站上小丘，稍待片刻，直待全军——不妨这样说——聚齐：然后他命人喝令肃静，开口说道：
+「提尔的儿郎们，如今已有一支罗马大军开进马克；是强兵，却还未强到不可迎击。言贵简短：让斯蒂林族（the Steerings）——他们人数不多，却都是战阵与智谋上久经考验的人——同能战的奴隶们一起留守车垒：但车垒须拆解拔营，迁离此地，守垒的人朝中部马克方向进发，务要谨慎，不可急躁，每夜环成车围（wain-garth），严加守望。」
+「但你们要知道，罗马人必倾其全力扑向沃尔夫族的居地，以为一旦把它拿到手，我们所有的一切连同我们本人也就尽归他们了。因为大屋顶（the Great Roof）之下有堂阳在，我们的战公西奥多夫的居所也在那里；所以我们全体——随车留守的人除外——都要上马，刻不容缓地进发，在战滩（Battleford）渡河，赶在敌人来到河西之前扑击他们；因为如你们所知，从贝林族径直前来的人，要渡密尔克伍德水（Mirkwood-water）只有那一处滩口，而敌人多半会在贝林族田庄盘桓许久，尽够他们烧掠一气。」
+「你们这就按各亲族整队，由希尔丁族打头。不得再有耽搁！至于我，这就派一名信使去见西奥多夫，把讯报告知他，他随即便会与我们相会。盖尔巴尔德，我看见你了；过来！」
+盖尔巴尔德正站在希尔丁族人中间，奥特尔话音一落，他便跨着一匹白马出列，弓挎在背上。奥特尔说：「盖尔巴尔德，你即刻穿过林子去寻西奥多夫；把讯报告诉他，并叫他万万不可追逐罗马逃兵而远离马克，除了敌人穿过密尔克伍德（Mirkwood）东南荒原的踪迹，别的什么都不要理会——不管身后有没有别的罗马人跟来：无论出什么事，都要让他率哥特人取那条路走——那于他是最近的路——赶去护卫沃尔夫族的居地。看，这是我的戒指，权作信物！拿去，即刻登程。只是先带上你的伙伴林中人维格伦德（Viglund the Woodman）同行，以防万一一人倒下，另一人还能把话带到。不许逗留，不许歇息，话没传到不休！」
+
+===Original===
+Then turned Geirbald to find Viglund who was anigh to him, and he took the ring, and the twain went their ways without more ado, and rode into the wildwood.
+But about the wain-burg was there plenteous stir of men till all was ordered for the departure of the host, which was no long while, for there was nothing to do but on with the war-gear and up on to the horse.
+Forth then they went duly ordered in their kindreds towards the head of the Upper-mark, riding as swiftly as they might without breaking their array.
+
+===Chinese===
+盖尔巴尔德随即转身去寻维格伦德，他就在近旁；他接过戒指，两人不再多话，便上马驰入荒林去了。
+而车垒四下里人声鼎沸，忙乱不休，直到全军整备停当、准备开拔；这也没有多久，因为除了披上战装、翻身上马，再没有别的事可做。
+于是他们按亲族列队井然，朝上部马克（the Upper-mark）的上端进发，在不冲乱阵列的前提下，纵马尽力疾驰。

@@ -42,3 +42,16 @@
 - 2026-10-06 07:25｜批次3直启子代理｜chapter-9.md 完成，check_bilingual 通过
 - 2026-10-06 07:35｜批次3直启子代理｜chapter-10.md 完成，check_bilingual 通过
 - 2026-10-06 07:43｜批次3直启子代理｜chapter-11.md 完成，check_bilingual 通过
+- 2026-10-06 07:53｜批次3直启子代理｜chapter-12.md 完成，check_bilingual 通过（[1308] 断点核验回填，中断前已完成）
+- 2026-10-07 06:17｜批次3直启子代理｜chapter-13.md 完成，check_bilingual 通过
+- 2026-10-07 06:27｜批次3直启子代理｜chapter-14.md 完成，check_bilingual 通过
+2026-10-07 06:36｜批次3直启子代理｜chapter-15.md 完成，check_bilingual 通过
+2026-10-07 06:43｜批次3直启子代理｜chapter-16.md 完成，check_bilingual 通过
+- 2026-10-07 06:53｜批次3直启子代理｜chapter-17.md 完成，check_bilingual 通过
+- 2026-10-07 06:58｜批次3直启子代理｜chapter-18.md 完成，check_bilingual 通过
+- 2026-10-07 07:05｜批次3直启主代理｜dedication.md 完成，check_bilingual 通过（内联翻译）
+- 2026-10-07 07:09｜批次3直启子代理｜chapter-19.md 完成，check_bilingual 通过
+- 2026-10-07 07:18｜批次3直启子代理｜chapter-20.md 完成，check_bilingual 通过
+
+## 完书纪要（2026-10-07）
+《The Starvel Hollow Tragedy》全书竣工：21/21（20 章 + 献词，其中 ch12 经 [1308] 断点核验回填、dedication 由主代理内联翻译）。末章 chapter-20.md（20.0KB，33 对块）check_bilingual exit 0，£2,000/£36,562 数字锚点自检通过。CSV 行数=输出文件数=21，零缺失。全书定名逾 200 条（弗伦奇探长系列惯例），认领锁已删除。全书第 25 本完工。

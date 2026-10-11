@@ -251,7 +251,7 @@ Mr. Schoofs made a gesture of commiseration.
 
 “Was he really bankrupt?”
 
-Mr. Schoofs had not the figures, but he very gravely feared it. It was a bad lookout for his daughter. Indeed, it was a bad outlook for them all. It was hard lines on elderly men when they had to give up their jobs and start life again. It was that damned war, responsible for this as well as most of the troubles of the times. It had probably made a difference to the Inspector also?
+Mr. Schoofs had not the figures, but he very gravely feared it. It was a bad lookout for his daughter. Indeed, it was a bad lookout for them all. It was hard lines on elderly men when they had to give up their jobs and start life again. It was that damned war, responsible for this as well as most of the troubles of the times. It had probably made a difference to the Inspector also?
 
 “Lost my eldest,” said French gruffly, and turned the conversation back to the late principal. He was, it seemed, going to Amsterdam on routine business. He had no stones with him, and there was therefore nothing to suggest that his disappearance could have been due to other than suicide.
 
@@ -260,7 +260,7 @@ Mr. Schoofs had not the figures, but he very gravely feared it. It was a bad loo
 
 「他当真破产了吗？」
 
-数字斯霍夫斯说不上来，但他深恐确实如此。对他的女儿来说，前景堪忧。其实对他们所有人来说，前景都堪忧。上了年纪的人丢了营生，还得从头再闯荡世路，实在是残酷。都是那场该死的战争——时下的祸患十之八九都得记在它账上，这一桩也不例外。它想必也改变了探长的境遇吧？
+数字，斯霍夫斯说不上来，但他深恐确实如此。对他的女儿来说，前景堪忧。其实对他们所有人来说，前景都堪忧。上了年纪的人丢了营生，还得从头再闯荡世路，实在是残酷。都是那场该死的战争——时下的祸患十之八九都得记在它账上，这一桩也不例外。它想必也改变了探长的境遇吧？
 
 「我折了长子。」弗伦奇粗声说完，便把话头引回那位已故的东家。据斯霍夫斯说，杜克先生此行是例行公事去阿姆斯特丹，身上并未携带宝石，因此也没有任何迹象表明，他的失踪会出于自杀以外的缘由。
 

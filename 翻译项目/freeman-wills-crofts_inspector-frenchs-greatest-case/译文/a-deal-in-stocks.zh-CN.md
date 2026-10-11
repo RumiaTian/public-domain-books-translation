@@ -1,4 +1,4 @@
-## XVII A Deal in Stocks / 十七 一桩股票买卖
+## XVII A Deal in Stocks / 十七、一桩股票买卖
 
 ===Original===
 Full of his new idea, French on arrival at his office on the following morning took from his archives the letter addressed to Mrs. Vane which he had found in the box on that lady’s hall door and spread it out before him on his desk.

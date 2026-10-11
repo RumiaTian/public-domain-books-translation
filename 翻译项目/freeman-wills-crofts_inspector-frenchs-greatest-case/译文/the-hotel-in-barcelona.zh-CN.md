@@ -1,4 +1,4 @@
-## VI The Hotel in Barcelona / VI 巴塞罗那的旅馆
+## VI The Hotel in Barcelona / 六、巴塞罗那的旅馆
 
 ===Original===
 To a comparative stay-at-home like Inspector French, who considered a run to Plymouth or Newcastle a long journey, the trailing of Jan Vanderkemp across southwest France opened up a conception of the size of the globe whereon he moved and had his being, which left him slightly awestruck. The journey from Savoy to Spain seemed endless, the distances incredible, the expanse of country between himself and home illimitable. Hour after hour he sat in the train, while elms and oaks gave place to cypresses and olives, apples to vines, and corn to maize, and it was not until daylight had gone on the evening of the second day that the train rolled into the Estacion de Francia in Barcelona.
@@ -432,7 +432,7 @@ If so, it was a fiendish trap to set for the unfortunate dupe. French thought he
 ===Chinese===
 弗伦奇探长又犯难了。经验告诉他：这世上发生的，多半是寻常、自然、顺理成章的那一种事。一个人，在明知案发的钟点前后秘密造访案发现场，随后又为一桩神秘而荒唐的差事出国远行，而那差事的所谓主使者又一口否认有此一事；何况此人兜里还揣着从现场偷出的钞票——这样的人，放到平平常常、柴米油盐的日子里，就是罪犯。弗伦奇想，这就是常识；而常识嘛，依他看，一百回里总有九十九回是对的。
 
-可总还有第一百回。小概率的事、巧上加巧的事，也委实偶有发生。此刻他宁肯付出不小的代价，只求弄个明白：这桩案子，是不是那条「证明规则例外的例外」。
+可总还有第一百回。小概率的事、巧上加巧的事，也*委实*偶有发生。此刻他宁肯付出不小的代价，只求弄个明白：这桩案子，是不是那条「证明规则例外的例外」。
 
 他看得很清楚：自己的第二种解释，虽说牵强一些，却仍旧大有可能成立。完全可能是范德肯普受了骗，被真凶支使得满世界乱跑，好教他把嫌疑引到自己头上，让真正的线索冷下去。不少事实都指向这一头：那两封伪造的信；所谓这笔买卖对斯霍夫斯瞒得滴水不漏；所谓那位俄国贵族，在两处约定的接头地点都杳无踪影；化名出行；不得与商行通信的告诫；末了还有顶要紧的一条——范德肯普在这次谈话中的态度。桩桩件件，都支持这个看法：这位旅行家是被人拿来铺设一条天大的假线索了。
 

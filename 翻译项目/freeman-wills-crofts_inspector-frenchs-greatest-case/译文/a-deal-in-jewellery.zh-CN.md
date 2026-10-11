@@ -1,4 +1,4 @@
-## XI A Deal in Jewellery / 十一 珠宝交易
+## XI A Deal in Jewellery / 十一、珠宝交易
 
 ===Original===
 Inspector French’s cheery self-confidence was never so strongly marked as when his mind was free from misgiving as to his course of action in the immediate future. When something was obviously waiting to be done he invariably went straight in and did it, shrinking neither from difficulty nor unpleasantness, provided only he could carry through his task to a successful conclusion. It was only when he did not see his way clear that he became depressed, and then he grew surly as a bear with a sore head, and his subordinates kept at as great a distance from him as their several activities would permit.

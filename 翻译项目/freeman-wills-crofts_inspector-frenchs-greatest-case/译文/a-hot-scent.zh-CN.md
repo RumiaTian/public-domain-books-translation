@@ -1,4 +1,4 @@
-## XVI A Hot Scent / XVI 线索升温
+## XVI A Hot Scent / 十六、线索升温
 
 ===Original===
 Inspector French had now so many points of attack in his inquiry that he felt somewhat at a loss as to which he should proceed with first. The tracing of Mrs. Vane was the immediate goal, but it was by no means clear which particular line of inquiry would most surely and rapidly lead to that end. Nothing would be easier than to spend time on side issues, and in this case a few hours might make all the difference between success and failure. The lady had already had five days’ start, and he could not afford to allow her to increase her lead by a single unnecessary minute.

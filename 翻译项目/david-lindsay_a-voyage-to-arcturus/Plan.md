@@ -150,3 +150,22 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 - 2026-10-06 07:26｜批次3直启子代理｜chapter-09-oceaxe.md 完成，check_bilingual 通过
 - 2026-10-06 07:37｜批次3直启子代理｜chapter-10-tydomin.md 完成，check_bilingual 通过
 - 2026-10-06 07:49｜批次3直启子代理｜chapter-11-on-disscourn.md 完成，check_bilingual 通过
+- 2026-10-07 06:19｜批次3直启子代理｜chapter-12-spadevil.md 完成，check_bilingual 通过
+- 2026-10-07 06:24｜批次3直启子代理｜chapter-13-the-wombflash-forest.md 完成，check_bilingual 通过
+
+- 2026-10-07 06:33｜批次3直启子代理｜chapter-14-polecrab.md 完成，check_bilingual 通过
+
+- 2026-10-07 06:43｜批次3直启子代理｜chapter-15-swaylones-island.md 完成，check_bilingual 通过
+
+- 2026-10-07 06:52｜批次3直启子代理｜chapter-16-leehallfae.md 完成，check_bilingual 通过
+
+- 2026-10-07 07:01｜批次3直启子代理｜chapter-17-corpang.md 完成，check_bilingual 通过
+
+- 2026-10-07 07:12｜批次3直启子代理｜chapter-18-haunte.md 完成，check_bilingual 通过
+
+- 2026-10-07 07:22｜批次3直启子代理｜chapter-19-sullenbode.md 完成，check_bilingual 通过
+- 2026-10-07 07:29｜批次3直启子代理｜chapter-20-barey.md 完成，check_bilingual 通过
+- 2026-10-08 06:16｜批次3直启子代理｜chapter-21-muspel.md 完成，check_bilingual 通过
+
+## 完书纪要（2026-10-08）
+《A Voyage to Arcturus》全书竣工：21/21（哲思奇想小说，CRLF 全书，异星概念词体系完整定名：塑形/晶人/穆佩尔/血黯时分/乌尔火色/杰尔色/法恩代词系「伊」等）。终章 chapter-21-muspel.md（19.1KB，82 对块）经 3 次派发（2 次额度中断）后完成，check_bilingual exit 0。CSV 行数=输出文件数=21，零缺失（ch9 曾发生 CSV 清零事故经重建审计无损）。认领锁已删除。全书第 27 本完工。
