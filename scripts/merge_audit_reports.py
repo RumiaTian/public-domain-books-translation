@@ -41,10 +41,17 @@ def extract_meta(report_text):
     if m_title:
         title = m_title.group(1).strip()
 
+    # 提取日期
+    date = "2026-10-11"
+    m_date = re.search(r"审[核校]日期[\*#\s]*[：:][\*#\s]*([0-9]{4}-[0-9]{2}-[0-9]{2})", report_text)
+    if m_date:
+        date = m_date.group(1).strip()
+
     return {
         "grade": grade,
         "summary": summary,
         "title": title,
+        "date": date,
     }
 
 def merge_project_reports(pname):
@@ -95,7 +102,7 @@ def merge_project_reports(pname):
 
     combined_content = f"""# 《{title}》全书双语审校报告
 
-- **审校日期**：2026-10-06
+- **审校日期**：{meta_a.get('date', '2026-10-11')}
 - **质量等级**：**{final_grade}**
 - **审校模式**：双独立代理分卷精读（Part A 前半卷 + Part B 后半卷）
 - **一句话结论**：全书各章节经分卷 100% 逐段逐句对照全景精读。Part A 评定为【{meta_a['grade']}】，Part B 评定为【{meta_b['grade']}】。综合评定为 **{final_grade}**。
