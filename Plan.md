@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-13，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-10-13，Mac/Windows 双端同步后重建）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **418** 完 / **9** 译 / **220** 待（共 647 本） | **8696** / 18180 篇（**135331.7** / 305863.1 KB）· **44.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **415** 本已审 / **3** 本待审 | 覆盖精读 **415** 本（**99.3%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **16** 本待打包 | 交付标准双语 EPUB **402** 本（**96.2%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **423** 完 / **10** 译 / **214** 待（共 647 本） | **8879** / 18180 篇（**138454.5** / 305863.1 KB）· **45.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **415** 本已审 / **8** 本待审 | 覆盖精读 **415** 本（**98.1%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **21** 本待打包 | 交付标准双语 EPUB **402** 本（**95.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **418** 本译完，**415** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **423** 本译完，**415** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -306,7 +306,7 @@
 | 281 | `godfrey-r-benson_tracks-in-the-snow` | ✅ 已入库 | [✅ **100%**](翻译项目/godfrey-r-benson_tracks-in-the-snow/译文) (24篇) | [✅ 已审](翻译项目/godfrey-r-benson_tracks-in-the-snow/审核报告.md) | [📦 279KB](翻译项目/godfrey-r-benson_tracks-in-the-snow/雪地踪迹.epub) | B（接近 A） —— 译文忠实、完整、流畅：无整段漏译，无章末截断，无重大数… |
 | 282 | `graham-greene_the-man-within` | ✅ 已入库 | [✅ **100%**](翻译项目/graham-greene_the-man-within/译文) (16篇) | [✅ 已审(B)](翻译项目/graham-greene_the-man-within/审核报告.md) | [📦 338KB](翻译项目/graham-greene_the-man-within/The Man Within.epub) | B 良好 | 全书 16 篇 / 355 块中英逐块对照，未发现整段漏译、章… |
 | 283 | `grazia-deledda_after-the-divorce_maria-hornor-lansdale` | ✅ 已入库 | [✅ **100%**](翻译项目/grazia-deledda_after-the-divorce_maria-hornor-lansdale/译文) (22篇) | [✅ 已审(B)](翻译项目/grazia-deledda_after-the-divorce_maria-hornor-lansdale/审核报告.md) | ⏳ 待打包 | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
-| 284 | `guy-boothby_a-bid-for-fortune` | ✅ 已入库 | ⚪ 待译 (18篇) | — | — |  |
+| 284 | `guy-boothby_a-bid-for-fortune` | ✅ 已入库 | [🟡 94.9%](翻译项目/guy-boothby_a-bid-for-fortune/译文) (17/18) | — | — | 翻译中 (done 17/18) |
 | 285 | `h-beam-piper_four-day-planet` | ✅ 已入库 | [✅ **100%**](翻译项目/h-beam-piper_four-day-planet/译文) (22篇) | [✅ 已审](翻译项目/h-beam-piper_four-day-planet/审核报告.md) | [📦 298KB](翻译项目/h-beam-piper_four-day-planet/四日行星.epub) | 良好（准优秀 / A- 级，出版基准良好） | 全书 22 篇译稿气韵饱满硬… |
 | 286 | `h-beam-piper_little-fuzzy` | ✅ 已入库 | [✅ **100%**](翻译项目/h-beam-piper_little-fuzzy/译文) (17篇) | [✅ 已审(B)](翻译项目/h-beam-piper_little-fuzzy/审核报告.md) | [📦 296KB](翻译项目/h-beam-piper_little-fuzzy/小毛绒.epub) | B 良好 | 全书 332 个双语块语义完整对应、无漏译错配无截断，术语表执… |
 | 287 | `h-beam-piper_murder-in-the-gunroom` | ✅ 已入库 | [✅ **100%**](翻译项目/h-beam-piper_murder-in-the-gunroom/译文) (22篇) | [✅ 已审(B)](翻译项目/h-beam-piper_murder-in-the-gunroom/审核报告.md) | [📦 357KB](翻译项目/h-beam-piper_murder-in-the-gunroom/Murder in the Gunroom.epub) | B 良好（合格可出版，需针对关键破案时间线定向整改） | 全书 21 章及题… |
@@ -500,7 +500,7 @@
 | 475 | `metta-victor_the-dead-letter` | ✅ 已入库 | ⚪ 待译 (25篇) | — | — |  |
 | 476 | `michael-arlen_the-green-hat` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
 | 477 | `mignon-g-eberhart_the-patient-in-room-18` | ✅ 已入库 | [✅ **100%**](翻译项目/mignon-g-eberhart_the-patient-in-room-18/译文) (19篇) | [✅ 已审(B)](翻译项目/mignon-g-eberhart_the-patient-in-room-18/审核报告.md) | [📦 406KB](翻译项目/mignon-g-eberhart_the-patient-in-room-18/The Patient in Room 18.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
-| 478 | `miles-franklin_my-brilliant-career` | ✅ 已入库 | ⚪ 待译 (41篇) | — | — |  |
+| 478 | `miles-franklin_my-brilliant-career` | ✅ 已入库 | [🟡 0.8%](翻译项目/miles-franklin_my-brilliant-career/译文) (2/41) | — | — | 翻译中 (done 2/41) |
 | 479 | `mina-loy_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/mina-loy_poetry/译文) (2篇) | [✅ 已审(A)](翻译项目/mina-loy_poetry/审核报告.md) | [📦 5KB](翻译项目/mina-loy_poetry/米娜·洛伊诗集.epub) | A 优秀 |
 | 480 | `mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain` | ✅ 已入库 | ⚪ 待译 (21篇) | — | — |  |
 | 481 | `nella-larsen_quicksand` | ✅ 已入库 | [✅ **100%**](翻译项目/nella-larsen_quicksand/译文) (27篇) | [✅ 已审](翻译项目/nella-larsen_quicksand/审核报告.md) | [📦 253KB](翻译项目/nella-larsen_quicksand/流沙.epub) | A（优秀 / 典范级） | > 本译本是一部体例极其严密、文风高度贴合哈莱姆… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **8696/18180 篇 (44.2%)** | **415 本完成** | **402 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **8879/18180 篇 (45.3%)** | **415 本完成** | **402 本完成** | 全流程四阶段闭环 |
 
 ---
 
