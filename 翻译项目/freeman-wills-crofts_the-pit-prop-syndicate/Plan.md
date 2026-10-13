@@ -28,3 +28,14 @@
 
 - 2026-10-11 06:56｜批次3直启子代理｜a-change-of-venue.md 完成，check_bilingual 通过
 - 2026-10-11 07:05｜批次3直启子代理｜the-sawmill-on-the-lesque.md 完成，check_bilingual 通过
+- 2026-10-12 06:18｜批次3直启子代理｜an-interesting-suggestion.md 完成，check_bilingual 通过
+- 2026-10-12 06:30｜批次3直启子代理｜the-start-of-the-cruise.md 完成，check_bilingual 通过
+- 2026-10-12 06:37｜批次3直启子代理｜a-commercial-proposition.md 完成，check_bilingual 通过
+- 2026-10-12 06:48｜批次3直启子代理｜the-visit-of-the-girondin.md 完成，check_bilingual 通过
+- 2026-10-12 06:57｜批次3直启子代理｜the-ferriby-depot.md 完成，check_bilingual 通过
+- 2026-10-12 07:06｜批次3直启子代理｜the-unloading-of-the-girondin.md 完成，check_bilingual 通过
+- 2026-10-13 06:20｜批次3直启子代理｜the-second-cargo.md 完成，check_bilingual 通过
+- 2026-10-13 06:30｜批次3直启子代理｜merriman-becomes-desperate.md 完成，check_bilingual 通过
+- 2026-10-13 06:46｜批次3直启子代理｜an-unexpected-ally.md 完成，check_bilingual 通过
+- 2026-10-13 06:53｜批次3直启子代理｜murder.md 完成，check_bilingual 通过
+- 2026-10-13 07:02｜批次3直启子代理｜a-promising-clue.md 完成，check_bilingual 通过
