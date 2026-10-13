@@ -99,3 +99,14 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | - | - | - | （尚未运行） |
 - 2026-10-11 07:05｜批次3直启主代理｜00-dedication.md 完成，check_bilingual 通过（内联翻译）
 - 2026-10-11 06:58｜批次3直启子代理｜chapter-01.md 完成，check_bilingual 通过
+- 2026-10-12 06:23｜批次3直启子代理｜chapter-02.md 完成，check_bilingual 通过
+- 2026-10-12 06:34｜批次3直启子代理｜chapter-03.md 完成，check_bilingual 通过
+- 2026-10-12 06:45｜批次3直启子代理｜chapter-04.md 完成，check_bilingual 通过
+- 2026-10-12 06:57｜批次3直启子代理｜chapter-05.md 完成，check_bilingual 通过
+
+- 2026-10-12 07:13｜批次3直启子代理｜chapter-06.md 完成，check_bilingual 通过
+- 2026-10-13 06:26｜批次3直启子代理｜chapter-07.md 完成，check_bilingual 通过
+- 2026-10-13 06:40｜批次3直启子代理｜chapter-08.md 完成，check_bilingual 通过
+- 2026-10-13 06:49｜批次3直启子代理｜chapter-09.md 完成，check_bilingual 通过
+- 2026-10-13 06:57｜批次3直启子代理｜chapter-10.md 完成，check_bilingual 通过
+- 2026-10-13 07:07｜批次3直启子代理｜chapter-11.md 完成，check_bilingual 通过

@@ -41,3 +41,12 @@
 - 2026-10-11 06:40｜批次3直启子代理｜the-heart-of-a-goof.md 完成，check_bilingual 通过
 - 2026-10-11 06:53｜批次3直启子代理｜the-heel-of-achilles.md 完成，check_bilingual 通过
 - 2026-10-11 07:04｜批次3直启子代理｜the-long-hole.md 完成，check_bilingual 通过
+- 2026-10-12 06:22｜批次3直启子代理｜the-magic-plus-fours.md 完成，check_bilingual 通过
+- 2026-10-12 06:36｜批次3直启子代理｜the-purification-of-rodney-spelvin.md 完成，check_bilingual 通过
+- 2026-10-12 06:48｜批次3直启子代理｜the-rough-stuff.md 完成，check_bilingual 通过
+
+- 2026-10-12 06:59｜批次3直启子代理｜the-salvation-of-george-mackintosh.md 完成，check_bilingual 通过
+- 2026-10-12 07:11｜批次3直启子代理｜those-in-peril-on-the-tee.md 完成，check_bilingual 通过
+
+## 完书纪要（2026-10-12）
+《The Clicking of Cuthbert》（Golf Stories）全书竣工：21/21 篇（老会员讲古框架的 Wodehouse 高尔夫幽默短篇集，CRLF 全书，双关/谐音/戏仿体系完整保留：Fore/Five、goof/goop、临时野狗、圣经腔 Gowf 神话等）。终篇 those-in-peril-on-the-tee.md（35.0KB，252 对块）check_bilingual exit 0。CSV 行数=输出文件数=21，零缺失（书名篇与 ch17 曾额度中断后完成/回填）。全书定名逾 670 条。认领锁已删除。全书第 30 本完工。

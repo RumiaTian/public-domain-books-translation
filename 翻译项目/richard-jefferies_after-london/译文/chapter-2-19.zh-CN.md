@@ -1,0 +1,94 @@
+## XIX / 十九
+
+Fighting / 交战
+
+===Original===
+Twice Felix saw the king. Once there was a review of the horse outside the camp, and Felix, having to attend with his master’s third charger (a mere show and affectation, for there was not the least chance of his needing it), was now and then very near the monarch. For that day at least he looked every whit what fame had reported him to be. A man of unusual size, his bulk rendered him conspicuous in the front of the throng. His massive head seemed to accord well with the possession of despotic power.
+
+The brow was a little bare, for he was no longer young, but the back of his head was covered with thick ringlets of brown hair, so thick as to partly conceal the coronet of gold which he wore. A short purple cloak, scarcely reaching to the waist, was thrown back off his shoulders, so that his steel corselet glistened in the sun. It was the only armour he had on; a long sword hung at his side. He rode a powerful black horse, full eighteen hands high, by far the finest animal on the ground; he required it, for his weight must have been great. Felix passed near enough to note that his eyes were brown, and the expression of his face open, frank, and pleasing. The impression left upon the observer was that of a strong intellect, but a still stronger physique, which latter too often ran away with and controlled the former. No one could look upon him without admiration, and it was difficult to think that he could so demean himself as to wallow in the grossest indulgence.
+
+As for the review, though it was a brilliant scene, Felix could not conceal from himself that these gallant knights were extremely irregular in their movements, and not one single evolution was performed correctly, because they were constantly quarrelling about precedence, and one would not consent to follow the other. He soon understood, however, that discipline was not the object, nor regularity considered; personal courage and personal dexterity were everything. This review was the prelude to active operations, and Felix now hoped to have some practical lessons in warfare.
+===Chinese===
+费利克斯见过国王两次。一次是营外举行骑兵校阅，费利克斯须牵着主人的第三匹战马随侍（这纯属摆样子、逞虚饰，因为绝无半点用得着它的可能），一时走得离那位君主极近。至少在那一天，他看上去与声名所传分毫不差。他身量异乎寻常地魁伟，在人群最前列也显得格外醒目。那颗硕大的头颅，似乎同他执掌的专制大权正相般配。
+
+他额顶略显光秃——他已不算年轻——脑后却覆着厚厚的棕色鬈发，浓密得把他戴的金冠都遮去了一半。一件短短的紫色披风刚到腰际，从肩头向后撩开，让钢制胸甲在日光下熠熠生辉。那是他身上仅有的甲胄；腰间悬着一柄长剑。他骑一匹神骏的黑马，足足十八掌高，是全场远远最出色的一匹牲口；他也非此不可，因为他的体重必定可观。费利克斯离得够近，看清他的眼睛是棕色的，面容开朗、坦率而讨人喜欢。他留给观者的印象是：才智强健，体魄尤强，而后者往往压倒并支配前者。没有人看他一眼不生钦慕，也很难想象，他竟会自贬身份，在最粗鄙的纵欲里打滚。
+
+至于校阅本身，场面固然辉煌，费利克斯却瞒不过自己：这些英武的骑士行动极不整齐，没有一次队形变换做得像样，因为他们不时为位次先后起争执，谁也不肯跟在谁后面。然而他很快就明白，纪律并非目的，齐整也无人在意；个人的勇武、个人的矫捷，便是一切。这场校阅是正式开打的序曲，费利克斯由此指望能上几堂战争的实战课。
+
+===Original===
+He was mistaken. Instead of a grand assault, or a regular approach, the fighting was merely a series of combats between small detachments and bodies of the enemy. Two or three knights with their retainers and slaves would start forth, cross the stream, and riding right past the besieged city endeavour to sack some small hamlet, or the homestead of a noble. From the city a sortie would ensue; sometimes the two bodies only threatened each other at a distance, the first retiring as the second advanced. Sometimes only a few arrows were discharged; occasionally they came to blows, but the casualties were rarely heavy.
+
+One such party, while returning, was followed by a squadron of horsemen from the town towards the stream to within three hundred yards of the king’s quarters. Incensed at this assurance, several knights mounted their horses and rode out to reinforce the returning detachment, which was loaded with booty. Finding themselves about to be supported, they threw down their spoils, faced about, and Felix saw for the first time a real and desperate melée. It was over in five minutes. The king’s knights, far better horsed, and filled with desire to exhibit their valour to the camp, charged with such fury that they overthrew the enemy and rode over him.
+
+Felix saw the troops meet; there was a crash and cracking as the lances broke, four or five rolled from the saddle on the trodden corn, and the next moment the entangled mass of men and horses unwound itself as the enemy hastened back to the walls. Felix was eager to join in such an affray, but he had no horse nor weapon. Upon another occasion early one bright morning four knights and their followers, about forty in all, deliberately set out from the camp, and advanced up the sloping ground towards the city. The camp was soon astir watching their proceedings; and the king, being made acquainted with what was going on, came out from his booth. Felix, who now entered the circular entrenchment without any difficulty, got up on the mound with scores of others, where, holding to the stakes, they had a good view.
+===Chinese===
+他想错了。这里没有堂堂的总攻，也没有按部就班的进逼，战事不过是小股分队与敌军队伍之间一连串的厮杀。两三名骑士带着各自的门客与奴隶出发，渡过溪流，从被围的城旁疾驰而过，去洗劫某座小村，或某位贵族的田庄。城里随之会有出袭；有时两边只是远远地相互恫吓，一方进，另一方便退。有时不过射出几支箭；偶尔当真交上手，伤亡却难得惨重。
+
+有一次，这样一支队伍满载而归，被城里的一队骑兵一路追到溪边，直逼到离国王驻地三百码之内。几名骑士被这份放肆激怒，翻身上马，冲出营去接应那支驮满掳获的归来分队。分队的人眼看就要得到支援，当即抛下赃物，回身迎战，费利克斯于是头一次见到一场真刀真枪的殊死混战。不过五分钟便见了分晓。国王的骑士们坐骑远远更为精良，又一心想在全营面前炫示勇武，冲锋之势凶猛无比，登时将敌人撞翻在地，从他们身上践踏而过。
+
+费利克斯看见两军相撞；长枪折断，发出一阵爆裂的脆响，四五个人从鞍上滚落在踩烂的谷田里；转瞬间，那团缠作一处的骑士与战马便自行散开，敌人急急退回城垣去了。费利克斯渴望投身这样的厮杀，可他既无马，又无兵器。另有一次，一个晴朗的清晨，四名骑士携其部众——总共约四十人——从容不迫地出营，顺着斜坡向那座城推进。营盘很快骚动起来，人人观望他们的举动；国王得了禀报，也从营棚里出来。费利克斯这时进出环形工事已毫无阻碍，便同几十号人一起爬上土垒，攀着木桩，把战场看个分明。
+
+===Original===
+The king stood on a bench and watched the troops advance, shading his eyes with his hand. As it was but half a mile to the walls they could see all that took place. When the knights had got within two hundred yards and arrows began to drop amongst them, they dismounted from their horses and left them in charge of the grooms, who walked them up and down, none remaining still a minute, so as to escape the aim of the enemy’s archers. Then drawing their swords, the knights, who were in full armour, put themselves at the head of the band, and advanced at a steady pace to the wall. In their mail with their shields before them they cared not for such feeble archery, nor even for the darts that poured upon them when they came within reach. There was no fosse to the wall, so that, pushing forward, they were soon at the foot. So easily had they reached it that Felix almost thought the city already won. Now he saw blocks of stone, darts, and beams of wood cast at them from the parapet, which was not more than twelve feet above the ground.
+
+Quite undismayed, the knights set up their ladders, of which they had but four, one each. The men-at-arms held these by main force against the wall, the besiegers trying to throw them away, and chopping at the rungs with their axes. But the ladders were well shod with iron to resist such blows, and in a moment Felix saw, with intense delight and admiration, the four knights slowly mount to the parapet and cut at the defenders with their swords. The gleam of steel was distinctly visible as the blades rose and fell. The enemy thrust at them with pikes, but seemed to shrink from closer combat, and a moment afterwards the gallant four stood on the top of the wall. Their figures, clad in mail and shield in hand, were distinctly seen against the sky. Up swarmed the men-at-arms behind them, and some seemed to descend on the other side. A shout rose from the camp and echoed over the woods. Felix shouted with the rest, wild with excitement.
+
+The next minute, while yet the knights stood on the wall, and scarcely seemed to know what to do next, there appeared at least a dozen men in armour running along the wall towards them. Felix afterwards understood that the ease with which the four won the wall at first was owing to there being no men of knightly rank among the defenders at that early hour. Those who had collected to repulse the assault were citizens, retainers, slaves, any, in fact who had been near. But now the news had reached the enemy’s leaders, and some of them hastened to the wall. As these were seen approaching, the camp was hushed, and every eye strained on the combatants.
+===Chinese===
+国王站在一条长凳上，手搭凉棚，望着队伍推进。城墙离此不过半英里，那边发生的一切都看得清清楚楚。骑士们进到二百码之内，箭矢开始落进他们中间，他们便下了马，把马交给马夫牵管；马夫牵着马来回走动，片刻也不让马站定，好躲开敌人弓箭手的瞄准。随后骑士们拔出剑来——他们个个全身甲胄——走到队伍前头，迈着沉稳的步子向城墙进逼。有锁子甲护身、盾牌挡在面前，这样孱弱的箭矢他们全不放在眼里，连进入射程后当头倾泻的标枪也不在乎。墙外没有壕沟，他们一路向前，转眼便到了墙根。到得如此轻易，费利克斯几乎以为此城已经到手。这时他看见石块、标枪和木梁从女墙上朝他们砸下来——那女墙离地不过十二英尺。
+
+骑士们毫不气沮，架起梯子——他们统共只带了四架，每人一架。持械兵士们拼死用力把梯子抵住城墙，守军则极力要把梯子掀开，还抡斧劈砍梯级。但梯脚都包着铁皮，正为抵挡这般击打；片刻之间，费利克斯便怀着极度的欣喜与仰慕，看见四名骑士缓缓登上女墙，挥剑砍杀守军。刀剑起落，寒光历历可见。敌人用长矛向他们攒刺，却似乎畏避贴身近战，不多时，这英武的四人已立上墙头。他们锁甲护身、手擎盾牌的身影，衬着天穹看得清清楚楚。持械兵士们蜂拥而上跟在他们身后，有几个人似乎已经翻到墙的那一面下去了。营中欢声雷动，回声滚过林梢。费利克斯与众人一齐呐喊，兴奋得如痴如狂。
+
+就在下一刻，四名骑士还立在墙上，几乎不知下一步该做什么，只见至少十二名披甲之人沿墙朝他们奔来。费利克斯后来才明白，这四人起初夺墙之所以轻易，一因时辰尚早，守军中没有一位有骑士身份的人。那些聚拢来抵挡进攻的，是市民、门客、奴隶，实则凡是当时在近旁的人。可这时消息已传到敌方首领耳中，其中几位急急赶往城墙。一见他们逼近，营中顿时鸦雀无声，人人瞪大眼睛，盯住搏杀的双方。
+
+===Original===
+The noble four could not all meet their assailants, the wall was but wide enough for two to fight; but the other two had work enough the next minute, as eight or ten more men in mail advanced the other way. So they fought back to back, two facing one way, and two the other. The swords rose and fell. Felix saw a flash of light fly up into the air, it was the point of a sword broken off short. At the foot of the wall the men who had not had time to mount endeavoured to assist their masters by stabbing upwards with their spears.
+
+All at once two of the knights were hurled from the wall; one seemed to be caught by his men, the other came heavily to the ground. While they were fighting their immediate antagonists, others within the wall had come with lances, and literally thrust them from the parapet. The other two still fought back to back for a moment; then, finding themselves overwhelmed, they sprang down among their friends.
+
+The minute the two first fell, the grooms with the horses ran towards the wall, and despite the rain of arrows, darts, and stones from the parapet, Felix saw with relief three of the four knights placed on their chargers. One only could sit upright unassisted, two were supported in their saddles, and the fourth was carried by his retainers. Thus they retreated, and apparently without further hurt, for the enemy on the wall crowded so much together as to interfere with the aim of their darts, which, too, soon fell short. But there was a dark heap beneath the wall, where ten or twelve retainers and slaves, who wore no armour, had been slain or disabled. Upon these the loss invariably fell.
+===Chinese===
+这高贵的四人无法同时迎敌——墙顶的宽度只容两人交手；可紧接着，另外两人也够忙的了，又有八九名锁甲武士从另一侧逼来。于是他们背靠背而战，两人面向一头，两人面向另一头。刀剑起起落落。费利克斯看见一星寒光飞上半空——那是一柄剑被生生斩断的剑尖。墙根下，来不及登墙的兵卒竭力想帮自己的主人，用矛朝上攒刺。
+
+陡然间，两名骑士被掀下城墙；一个似乎被自己人接住了，另一个沉沉砸在地上。原来当他们缠斗眼前的对手时，墙内另有一些人持长枪赶来，硬生生把他们从女墙上捅了下去。另外两人还背靠背支撑了片刻；随即发觉大势已去，便纵身一跳，落回自己人中间。
+
+前两人刚一坠地，牵马的马夫们便朝城墙跑去。尽管女墙上箭矢、标枪与石块如雨点般砸下，费利克斯仍宽慰地看到，四名骑士中有三个被扶上了战马。只有一个还能独自坐直，两个要人在鞍上搀扶，第四个则由他的门客抬着。他们就这样退了下来，看来并未再添新伤，因为墙上的敌人挤作一团，反倒碍了自己投掷标枪的准头，何况那些标枪很快也掷不到位了。但墙根下留着一堆黑影——那是十来名不披甲胄的门客和奴隶，或死或残。折损总是落在这些人身上。
+
+===Original===
+None attempted to follow the retreating party, who slowly returned towards the camp, and were soon apparently in safety. But suddenly a fresh party of the enemy appeared upon the wall, and the instant afterwards three retainers dropped, as if struck by lightning. They had been hit by sling stones, whirled with great force by practised slingers. These rounded pebbles come with such impetus as to stun a man at two hundred yards. The aim, it is true, is uncertain, but where there is a body of troops they are sure to strike someone. Hastening on, leaving the three fallen men where they lay, the rest in two minutes were out of range, and came safely into camp. Everyone, as they crossed the stream, ran to meet them, the king included, and as he passed in the throng, Felix heard him remark that they had had a capital main of cocks that morning.
+
+Of the knights only one was much injured; he had fallen upon a stone, and two ribs were broken; the rest suffered from severe bruises, but had no wound. Six men-at-arms were missing, probably prisoners, for, as courageous as their masters, they had leapt down from the wall into the town. Eleven other retainers or slaves were slain, or had deserted, or were prisoners, and no trouble was taken about them. As for the three who were knocked over by the sling stones, there they lay until they recovered their senses, when they crawled into camp. This incident cooled Felix’s ardour for the fray, for he reflected that, if injured thus, he too, as a mere groom, would be left. The devotion of the retainers to save and succour their masters was almost heroic. The mailed knights thought no more of their men, unless it was some particular favourite, than of a hound slashed by a boar’s tusk in the chase.
+
+When the first flush of his excitement had passed, Felix, thinking over the scene of the morning as he took his horses down to water at the stream, became filled at first with contempt, and then with indignation. That the first commander of the age should thus look on while the wall was won before his eyes, and yet never send a strong detachment, or move himself with his whole army to follow up the advantage, seemed past understanding. If he did not intend to follow it up, why permit such desperate ventures, which must be overwhelmed by mere numbers, and could result only in the loss of brave men? And if he did permit it, why did he not, when he saw they were overthrown, send a squadron to cover their retreat? To call such an exhibition of courage “a main of cocks,” to look on it as a mere display for his amusement, was barbarous and cruel in the extreme. He worked himself up into a state of anger which rendered him less cautious than usual in expressing his opinions.
+===Chinese===
+没有人试图追赶撤退的队伍。他们缓缓退向营盘，眼看便脱了险。不料墙头突然又冒出一股生力敌兵，转瞬间三名门客便栽倒在地，仿佛遭了雷殛。他们是中了投石——由老练的投石手奋力甩出的石弹。这种浑圆的卵石挟着偌大力道飞来，二百码外也能把人打晕。准头固然靠不住，可只要那边有一队人马，就总有人要挨上一下。其余的人丢下三个倒地的不管，加紧赶路，两分钟后便出了射程，平安进营。他们渡溪时，人人都跑上前迎接，国王也在其中；他从人群中间走过时，费利克斯听见他说，今儿早上这场斗鸡可真够精彩的。
+
+骑士中只有一人伤得重；他摔在一块石头上，断了两根肋骨；其余几位不过淤伤沉重，皮肉不曾破口。六名持械兵士失踪了，多半是被俘，因为他们同主人一样有胆气，从墙上跳进了城里。另有十一名门客或奴隶，或死，或逃，或被俘，谁也不为他们费一点心。至于那三个被石弹打翻的，就躺在原地，直到还过魂来，才一路爬回营中。这件事给费利克斯的求战热忱浇了盆冷水，因为他想到，自己若也这样受了伤，区区一个马夫，同样会被丢下不管。门客们拼死救护主人的忠心，几乎称得上壮烈。而披甲的骑士们对自己的人——除非是哪个特别得宠的——满不在乎，就像围猎中被野猪獠牙豁开的猎犬一样。
+
+等到兴奋的头一股热劲退去，费利克斯牵马下溪饮水，一面回味早晨的场面，先是满腔轻蔑，继而满腔义愤。当世第一员统帅，眼睁睁看着城墙在自家眼前被夺下，竟不发一支强有力的分队，也不亲率大军乘胜推进，这实在匪夷所思。倘若他不打算乘胜追击，为什么准许这般亡命的冒险？单凭人数就足以把这种冒险淹没，结果只能是折损勇士。倘若他存心准许，为什么眼见他们被掀翻时，又不派一队骑兵掩护撤退？把这样一场勇武的展示唤作「一场斗鸡」，把它当作仅供自己消遣的表演，实在野蛮残忍到了极点。他把自己激得怒火中烧，说起话来便不像往常那么谨慎了。
+
+===Original===
+The king was not nearly so much at fault as Felix, arguing on abstract principles, imagined. He had long experience of war, and he knew its extreme uncertainty. The issue of the greatest battle often hung on the conduct of a single leader, or even a single man-at-arms. He had seen walls won and lost before. To follow up such a venture with a strong detachment must result in one of two things, either the detachment in its turn must be supported by the entire army, or it must eventually retreat. If it retreated, the loss of prestige would be serious, and might encourage the enemy to attack the camp, for it was only his prestige which prevented them. If supported by the entire army, then the fate of the whole expedition depended upon that single day.
+
+The enemy had the advantage of the wall, of the narrow streets and enclosures within, of the houses, each of which would become a fortress, and thus in the winding streets a repulse might easily happen. To risk such an event would be folly in the last degree, before the town had been dispirited and discouraged by the continuance of the siege, the failure of their provisions, or the fall of their chief leaders in the daily combats that took place.
+
+The army had no discipline whatever, beyond that of the attachment of the retainer to his lord, and the dread of punishment on the part of the slave. There were no distinct ranks, no organized corps. The knights followed the greater barons, the retainers the knights; the greater barons followed the king. Such an army could not be risked in an assault of this kind. The venture was not ordered, nor was it discouraged; to discourage, indeed, all attempts would have been bad policy; it was upon the courage and bravery of his knights that the king depended, and upon that alone rested his hopes of victory.
+===Chinese===
+国王未必像费利克斯凭着抽象道理推想的那样糊涂。他久历战阵，深知战事极无定准。最大会战的胜负，往往系于一名将领、甚至一名持械兵士的举止。城墙得而复失的事，他见得多了。派一支强有力的分队去接应这般冒险，结局不出两种：要么这支分队又须全军来接应，要么它终究得退回来。若是退回来，威望的损失非同小可，还可能纵容敌人来攻营盘——使他们不敢来犯的，本就只剩他的威望。若是全军接应，那么整场征战的存亡，便都系于那一天了。
+
+敌人占着城墙之利，占着城内狭窄街巷与围场之利，占着一座座房屋——每一座都会变成一座堡垒——因此在曲折的街巷里，吃一场败仗是极容易的事。在此城尚未被旷日持久的围困、粮秣的枯竭、或主要首领在这些日日不断的厮杀中的相继倒下磨得气沮神丧之前，就去冒这样的险，是愚不可及的。
+
+这支军队毫无纪律可言，除了门客对主上的忠爱，和奴隶对刑罚的畏惧。没有明确的等级，没有编练成制的队伍。骑士跟着大男爵走，门客跟着骑士走；大男爵跟着国王走。这样的军队，不能拿去冒这类攻坚的险。那场冒险没人下令，也没人拦阻；说实话，把一切尝试都禁绝了才是下策；国王倚仗的正是麾下骑士的勇气与武烈，他的胜望也全系于此。
+
+===Original===
+The great baron whose standard they followed would have sent them assistance if he had deemed it necessary. The king, unless on the day of battle, would not trouble about such a detail. As for the remark, that they had had “a good main of cocks that morning,” he simply expressed the feeling of the whole camp. The spectacle Felix had seen was, in fact, merely an instance of the strength and of the weakness of the army and the monarch himself.
+
+Felix afterwards acknowledged these things to himself, but at the moment, full of admiration for the bravery of the four knights and their followers, he was full of indignation, and uttered his views too freely. His fellow-grooms cautioned him; but his spirit was up, and he gave way to his feelings without restraint. Now, to laugh at the king’s weaknesses, his gluttony or follies, was one thing; to criticise his military conduct was another. The one was merely badinage, and the king himself might have laughed had he heard it; the other was treason, and, moreover, likely to touch the monarch on the delicate matter of military reputation.
+
+Of this Felix quickly became aware. His mates, indeed, tried to shield him; but possibly the citizen, his master, had enemies in the camp, barons, perhaps, to whom he had lent money, and who watched for a chance of securing his downfall. At all events, early the next day Felix was rudely arrested by the provost in person, bound with cords, and placed in the provost’s booth. At the same time, his master was ordered to remain within, and a guard was put over him.
+===Chinese===
+他们所追随的那位大男爵，若认为有必要，本会派兵接应。国王呢，除非到了决战之日，不会为这等细节操心。至于那句「今儿早上斗了一场好鸡」的评语，他不过说出了全营的心声罢了。费利克斯目睹的这一幕，实际上只是这支军队、连同这位君主本人的强处与弱处的一个例证。
+
+这些道理，费利克斯后来都对自己认了账；可在当时，他满心是对四名骑士及其部众勇武的赞叹，又满腔义愤，便把想法毫无顾忌地说了出来。同伙的马夫们出言劝诫；但他血气上涌，任凭情绪倾泻，不加节制。要知道，讥笑国王的毛病——他的饕餮、他的荒唐——是一回事；指摘他用兵的举止，是另一回事。前者不过是句戏言，国王亲耳听见说不定也会发笑；后者却是大逆不道，而且难免触到君主军誉这处敏感的地方。
+
+这一层，费利克斯很快就察觉了。他的同伙确实想回护他；但他的主人、那位市民，在营中或许本就结着仇家——说不定是几位向他借过银钱的男爵，正巴望机会叫他倾覆。无论如何，第二天一早，费利克斯便被营务官亲自粗暴地拿住，用绳索捆了，关进营务官的营棚。与此同时，他的主人奉命留居棚内，还有卫兵看守着他。

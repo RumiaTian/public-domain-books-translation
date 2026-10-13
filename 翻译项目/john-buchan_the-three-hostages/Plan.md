@@ -25,3 +25,10 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+- 2026-10-12 07:20｜批次3直启主代理｜dedication.md、endnotes.md 完成，check_bilingual 通过（内联翻译）
+- 2026-10-13 06:19｜批次3直启子代理｜doctor-greenslade-theorises.md 完成，check_bilingual 通过
+
+2026-10-13 06:32｜批次3直启子代理｜i-hear-of-the-three-hostages.md 完成，check_bilingual 通过
+- 2026-10-13 06:43｜批次3直启子代理｜researches-in-the-subconscious.md 完成，check_bilingual 通过
+- 2026-10-13 06:52｜批次3直启子代理｜i-make-the-acquaintance-of-a-popular-man.md 完成，check_bilingual 通过
+- 2026-10-13 07:01｜批次3直启子代理｜the-thursday-club.md 完成，check_bilingual 通过
