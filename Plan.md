@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **447** 完 / **8** 译 / **192** 待（共 647 本） | **9536** / 18180 篇（**150330.9** / 305863.1 KB）· **49.1%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **24** 本待审 | 覆盖精读 **423** 本（**94.6%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **45** 本待打包 | 交付标准双语 EPUB **402** 本（**89.9%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **448** 完 / **10** 译 / **189** 待（共 647 本） | **9565** / 18180 篇（**150794.7** / 305863.1 KB）· **49.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **25** 本待审 | 覆盖精读 **423** 本（**94.4%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **46** 本待打包 | 交付标准双语 EPUB **402** 本（**89.7%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **447** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **448** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -131,7 +131,7 @@
 | 106 | `charles-kingsley_hypatia` | ✅ 已入库 | [✅ **100%**](翻译项目/charles-kingsley_hypatia/译文) (30篇) | [✅ 已审(B)](翻译项目/charles-kingsley_hypatia/审核报告.md) | [📦 875KB](翻译项目/charles-kingsley_hypatia/希帕蒂娅.epub) | B 良好 | 译文信达雅俱佳，无错配、漏译、截断等硬伤；主要问题集中在人名/… |
 | 107 | `charles-robert-maturin_melmoth-the-wanderer` | ✅ 已入库 | ⚪ 待译 (39篇) | — | — |  |
 | 108 | `charles-w-chesnutt_the-conjure-woman` | ✅ 已入库 | [✅ **100%**](翻译项目/charles-w-chesnutt_the-conjure-woman/译文) (12篇) | [✅ 已审(A)](翻译项目/charles-w-chesnutt_the-conjure-woman/审核报告.md) | [📦 258KB](翻译项目/charles-w-chesnutt_the-conjure-woman/The Conjure Woman.epub) | A 优秀（出版预备级） | > 全书 12 个文件、531 个对照块结构完备… |
-| 109 | `charles-w-chesnutt_the-marrow-of-tradition` | ✅ 已入库 | ⚪ 待译 (38篇) | — | — |  |
+| 109 | `charles-w-chesnutt_the-marrow-of-tradition` | ✅ 已入库 | [🟡 34.9%](翻译项目/charles-w-chesnutt_the-marrow-of-tradition/译文) (13/38) | — | — | 翻译中 (done 13/38) |
 | 110 | `charlotte-m-yonge_the-clever-woman-of-the-family` | ✅ 已入库 | ⚪ 待译 (30篇) | — | — |  |
 | 111 | `charlotte-perkins-gilman_women-and-economics` | ✅ 已入库 | [✅ **100%**](翻译项目/charlotte-perkins-gilman_women-and-economics/译文) (17篇) | ⏳ 待审 | — | 已译完待审 |
 | 112 | `christopher-morley_parnassus-on-wheels` | ✅ 已入库 | [✅ **100%**](翻译项目/christopher-morley_parnassus-on-wheels/译文) (17篇) | [✅ 已审(A)](翻译项目/christopher-morley_parnassus-on-wheels/审核报告.md) | [📦 180KB](翻译项目/christopher-morley_parnassus-on-wheels/流动的帕纳索斯.epub) | A 优秀 | 全书 17 篇译文质量优异、神形兼备，182 组双语块对照严整… |
@@ -230,7 +230,7 @@
 | 205 | `emile-gaboriau_monsieur-lecoq_laura-e-kendall` | ✅ 已入库 | ⚪ 待译 (84篇) | — | — |  |
 | 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
 | 207 | `emile-gaboriau_the-slaves-of-paris_charles-scribners-sons` | ✅ 已入库 | ⚪ 待译 (64篇) | — | — |  |
-| 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | ⚪ 待译 (36篇) | — | — |  |
+| 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [🟡 11.0%](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (2/36) | — | — |  |
 | 209 | `ernest-bramah_kai-lungs-golden-hours` | ✅ 已入库 | ⚪ 待译 (13篇) | — | — |  |
 | 210 | `ernest-howard-crosby_captain-jinks-hero` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-howard-crosby_captain-jinks-hero/译文) (17篇) | [✅ 已审(B)](翻译项目/ernest-howard-crosby_captain-jinks-hero/审核报告.md) | [📦 338KB](翻译项目/ernest-howard-crosby_captain-jinks-hero/金克斯上尉：英雄.epub) | B 良好 | 全书17章完整精译、无断章漏译与A级错误，讽刺神韵传神，唯个别… |
 | 211 | `ernest-poole_his-family` | ✅ 已入库 | ⚪ 待译 (45篇) | — | — |  |
@@ -292,7 +292,7 @@
 | 267 | `george-macdonald_the-portent` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_the-portent/译文) (27篇) | [✅ 已审(A)](翻译项目/george-macdonald_the-portent/审核报告.md) | [📦 206KB](翻译项目/george-macdonald_the-portent/预兆.epub) | A 优秀 | 全书 27 章逐块对照未见语义错配、漏译、英文残留或截断，术语… |
 | 268 | `george-macdonald_unspoken-sermons` | ✅ 已入库 | ⚪ 待译 (44篇) | — | — |  |
 | 269 | `george-meredith_the-shaving-of-shagpat` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
-| 270 | `george-schuyler_black-no-more` | ✅ 已入库 | [🟡 86.6%](翻译项目/george-schuyler_black-no-more/译文) (14/15) | — | — |  |
+| 270 | `george-schuyler_black-no-more` | ✅ 已入库 | [🟡 86.6%](翻译项目/george-schuyler_black-no-more/译文) (14/15) | — | — | 翻译中 (done 14/15) |
 | 271 | `george-william-russell_the-national-being` | ✅ 已入库 | [✅ **100%**](翻译项目/george-william-russell_the-national-being/译文) (22篇) | [✅ 已审(A)](翻译项目/george-william-russell_the-national-being/审核报告.md) | [📦 205KB](翻译项目/george-william-russell_the-national-being/国家存在.epub) | A 优秀（出版预备级） | 全书 22 篇 100% 逐块通读对照，结构块对… |
 | 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [🟡 96.4%](翻译项目/georgette-heyer_beauvallet/译文) (28/29) | — | — |  |
 | 273 | `georgette-heyer_simon-the-coldheart` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_simon-the-coldheart/译文) (36篇) | [✅ 已审(B)](翻译项目/georgette-heyer_simon-the-coldheart/审核报告.md) | [📦 460KB](翻译项目/georgette-heyer_simon-the-coldheart/冷酷之心西蒙.epub) | B 良好 | 全书34篇933块双语对照体例严谨、译笔苍劲传神，唯存2处A级… |
@@ -352,7 +352,7 @@
 | 327 | `hugh-walpole_the-dark-forest` | ✅ 已入库 | [✅ **100%**](翻译项目/hugh-walpole_the-dark-forest/译文) (17篇) | ⏳ 待审 | — | 已译完待审 |
 | 328 | `hugh-walpole_the-secret-city` | ✅ 已入库 | ⚪ 待译 (58篇) | — | — |  |
 | 329 | `isaac-asimov_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/isaac-asimov_short-science-fiction/译文) (5篇) | [✅ 已审(A)](翻译项目/isaac-asimov_short-science-fiction/审核报告.md) | [📦 131KB](翻译项目/isaac-asimov_short-science-fiction/Short Science Fiction.epub) | A 优秀 | 五篇译文整体质量上乘，无错配、无漏译、无截断，阿西莫夫冷幽默与… |
-| 330 | `ivan-bunin_short-fiction_various-translators` | ✅ 已入库 | [🟡 94.7%](翻译项目/ivan-bunin_short-fiction_various-translators/译文) (19/20) | — | — |  |
+| 330 | `ivan-bunin_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/ivan-bunin_short-fiction_various-translators/译文) (20篇) | ⏳ 待审 | — | 已译完待审 |
 | 331 | `ivy-compton-burnett_pastors-and-masters` | ✅ 已入库 | [✅ **100%**](翻译项目/ivy-compton-burnett_pastors-and-masters/译文) (7篇) | [✅ 已审(B)](翻译项目/ivy-compton-burnett_pastors-and-masters/审核报告.md) | [📦 133KB](翻译项目/ivy-compton-burnett_pastors-and-masters/牧师与校长.epub) | B 良好 | 全书 7 篇 213 个双语块逐块核对，段落对应率 100%，… |
 | 332 | `j-j-connington_murder-in-the-maze` | ✅ 已入库 | [✅ **100%**](翻译项目/j-j-connington_murder-in-the-maze/译文) (18篇) | [✅ 已审](翻译项目/j-j-connington_murder-in-the-maze/审核报告.md) | [📦 374KB](翻译项目/j-j-connington_murder-in-the-maze/Murder in the Maze.epub) | 全书 18 章译文结构极为严密，无任何错配、漏译、章末截断与重大数字偏差；古… |
 | 333 | `j-j-connington_mystery-at-lynden-sands` | ✅ 已入库 | [✅ **100%**](翻译项目/j-j-connington_mystery-at-lynden-sands/译文) (18篇) | [✅ 已审(B)](翻译项目/j-j-connington_mystery-at-lynden-sands/审核报告.md) | [📦 408KB](翻译项目/j-j-connington_mystery-at-lynden-sands/Mystery at Lynden Sands.epub) | B 良好（合格可出版，需回正第 6 章局部段落串位） | 全书 18 篇共 … |
@@ -397,7 +397,7 @@
 | 372 | `jane-addams_twenty-years-at-hull-house` | ✅ 已入库 | ⚪ 待译 (21篇) | — | — |  |
 | 373 | `jean-grave_moribund-society-and-anarchy_voltairine-de-cleyre` | ✅ 已入库 | [✅ **100%**](翻译项目/jean-grave_moribund-society-and-anarchy_voltairine-de-cleyre/译文) (25篇) | [✅ 已审](翻译项目/jean-grave_moribund-society-and-anarchy_voltairine-de-cleyre/审核报告.md) | [📦 334KB](翻译项目/jean-grave_moribund-society-and-anarchy_voltairine-de-cleyre/Moribund Society and Anarchy.epub) | A 级 优秀（出版预备级） | 全书 25 个双语章节文件经 100% 全文… |
 | 374 | `jean-toomer_cane` | ✅ 已入库 | [✅ **100%**](翻译项目/jean-toomer_cane/译文) (32篇) | [✅ 已审(A)](翻译项目/jean-toomer_cane/审核报告.md) | [📦 74KB](翻译项目/jean-toomer_cane/甘蔗.epub) | A 优秀 | 译文整体水准很高——诗歌一行对一行、意象密度与节奏感俱佳，南方… |
-| 375 | `jessie-redmon-fauset_plum-bun` | ✅ 已入库 | ⚪ 待译 (34篇) | — | — |  |
+| 375 | `jessie-redmon-fauset_plum-bun` | ✅ 已入库 | [🟡 38.6%](翻译项目/jessie-redmon-fauset_plum-bun/译文) (13/34) | — | — |  |
 | 376 | `jessie-redmon-fauset_there-is-confusion` | ✅ 已入库 | [✅ **100%**](翻译项目/jessie-redmon-fauset_there-is-confusion/译文) (38篇) | ⏳ 待审 | — | 已译完待审 |
 | 377 | `joel-barlow_the-columbiad` | ✅ 已入库 | ⚪ 待译 (14篇) | — | — |  |
 | 378 | `johanna-spyri_cornelli_elisabeth-p-stork` | ✅ 已入库 | [✅ **100%**](翻译项目/johanna-spyri_cornelli_elisabeth-p-stork/译文) (10篇) | [✅ 已审](翻译项目/johanna-spyri_cornelli_elisabeth-p-stork/审核报告.md) | [📦 226KB](翻译项目/johanna-spyri_cornelli_elisabeth-p-stork/Cornelli.epub) | A 级（优秀 · 附局部专项修复指引） | > 全书翻译极富文学感染力与纯正… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9536/18180 篇 (49.1%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9565/18180 篇 (49.3%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1966,3 +1966,4 @@
 | 2026-10-20 | 批次翻译 | +19 | 8657 | 2 | bunin_short-fiction 完成19/20（1篇[1301]挂起；本日主模型直译模式9篇：从轻轻的呼吸到压轴同门）；模式切换为主模型直译+translate-mcp分块管线 |
 | 2026-10-20 | 批次2翻译（主模型直译模式） | +8 | 8649 | 2 | wodehouse全书完工；first-lensman chapter-14 1301拦截待用户处置 |
 | 2026-10-21 | 批次翻译 | +19 | 8645 | 0 | lud-in-the-mist 推进至 19/34；本窗口起切换为主模型直译（连续模式），已直译 6 篇；1308 断点续接完成 |
+| 2026-10-21 | 批次翻译 | +13 | 8631 | 0 | fauset_plum-bun 开册推进13/34（part×2+1-1~1-6+2-1~2-5，主模型直译+translate-mcp分块管线）；曾发生一次块错位事故已当轮修复并对位巡检 |

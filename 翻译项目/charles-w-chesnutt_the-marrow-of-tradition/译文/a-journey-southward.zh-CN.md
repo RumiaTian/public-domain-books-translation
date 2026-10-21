@@ -1,0 +1,158 @@
+## V A Journey Southward / 五、南下之旅
+===Original===
+
+As the southbound train was leaving the station at Philadelphia, a gentleman took his seat in the single sleeping-car attached to the train, and proceeded to make himself comfortable. He hung up his hat and opened his newspaper, in which he remained absorbed for a quarter of an hour. When the train had left the city behind, he threw the paper aside, and looked around at the other occupants of the car. One of these, who had been on the car since it had left New York, rose from his seat upon perceiving the other’s glance, and came down the aisle.
+“How do you do, Dr. Burns?” he said, stopping beside the seat of the Philadelphia passenger.
+The gentleman looked up at the speaker with an air of surprise, which, after the first keen, incisive glance, gave place to an expression of cordial recognition.
+“Why, it’s Miller!” he exclaimed, rising and giving the other his hand, “William Miller﻿—Dr. Miller, of course. Sit down, Miller, and tell me all about yourself﻿—what you’re doing, where you’ve been, and where you’re going. I’m delighted to meet you, and to see you looking so well﻿—and so prosperous.”
+“I deserve no credit for either, sir,” returned the other, as he took the proffered seat, “for I inherited both health and prosperity. It is a fortunate chance that permits me to meet you.”
+The two acquaintances, thus opportunely thrown together so that they might while away in conversation the tedium of their journey, represented very different and yet very similar types of manhood. A celebrated traveler, after many years spent in barbarous or savage lands, has said that among all varieties of mankind the similarities are vastly more important and fundamental than the differences. Looking at these two men with the American eye, the differences would perhaps be the more striking, or at least the more immediately apparent, for the first was white and the second black, or, more correctly speaking, brown; it was even a light brown, but both his swarthy complexion and his curly hair revealed what has been described in the laws of some of our states as a “visible admixture” of African blood.
+Having disposed of this difference, and having observed that the white man was perhaps fifty years of age and the other not more than thirty, it may be said that they were both tall and sturdy, both well dressed, the white man with perhaps a little more distinction; both seemed from their faces and their manners to be men of culture and accustomed to the society of cultivated people. They were both handsome men, the elder representing a fine type of Anglo-Saxon, as the term is used in speaking of our composite white population; while the mulatto’s erect form, broad shoulders, clear eyes, fine teeth, and pleasingly moulded features showed nowhere any sign of that degeneration which the pessimist so sadly maintains is the inevitable heritage of mixed races.
+As to their personal relations, it has already appeared that they were members of the same profession. In past years they had been teacher and pupil. Dr. Alvin Burns was professor in the famous medical college where Miller had attended lectures. The professor had taken an interest in his only colored pupil, to whom he had been attracted by his earnestness of purpose, his evident talent, and his excellent manners and fine physique. It was in part due to Dr. Burns’s friendship that Miller had won a scholarship which had enabled him, without drawing too heavily upon his father’s resources, to spend in Europe, studying in the hospitals of Paris and Vienna, the two most delightful years of his life. The same influence had strengthened his natural inclination toward operative surgery, in which Dr. Burns was a distinguished specialist of national reputation.
+Miller’s father, Adam Miller, had been a thrifty colored man, the son of a slave, who, in the olden time, had bought himself with money which he had earned and saved, over and above what he had paid his master for his time. Adam Miller had inherited his father’s thrift, as well as his trade, which was that of a stevedore, or contractor for the loading and unloading of vessels at the port of Wellington. In the flush turpentine days following a few years after the civil war, he had made money. His savings, shrewdly invested, had by constant accessions become a competence. He had brought up his eldest son to the trade; the other he had given a professional education, in the proud hope that his children or his grandchildren might be gentlemen in the town where their ancestors had once been slaves.
+Upon his father’s death, shortly after Dr. Miller’s return from Europe, and a year or two before the date at which this story opens, he had promptly spent part of his inheritance in founding a hospital, to which was to be added a training school for nurses, and in time perhaps a medical college and a school of pharmacy. He had been strongly tempted to leave the South, and seek a home for his family and a career for himself in the freer North, where race antagonism was less keen, or at least less oppressive, or in Europe, where he had never found his color work to his disadvantage. But his people had needed him, and he had wished to help them, and had sought by means of this institution to contribute to their uplifting. As he now informed Dr. Burns, he was returning from New York, where he had been in order to purchase equipment for his new hospital, which would soon be ready for the reception of patients.
+“How much I can accomplish I do not know,” said Miller, “but I’ll do what I can. There are eight or nine million of us, and it will take a great deal of learning of all kinds to leaven that lump.”
+“It is a great problem, Miller, the future of your race,” returned the other, “a tremendously interesting problem. It is a serial story which we are all reading, and which grows in vital interest with each successive installment. It is not only your problem, but ours. Your race must come up or drag ours down.”
+“We shall come up,” declared Miller; “slowly and painfully, perhaps, but we shall win our way. If our race had made as much progress everywhere as they have made in Wellington, the problem would be well on the way toward solution.”
+“Wellington?” exclaimed Dr. Burns. “That’s where I’m going. A Dr. Price, of Wellington, has sent for me to perform an operation on a child’s throat. Do you know Dr. Price?”
+“Quite well,” replied Miller, “he is a friend of mine.”
+“So much the better. I shall want you to assist me. I read in the Medical Gazette, the other day, an account of a very interesting operation of yours. I felt proud to number you among my pupils. It was a remarkable case﻿—a rare case. I must certainly have you with me in this one.”
+“I shall be delighted, sir,” returned Miller, “if it is agreeable to all concerned.”
+Several hours were passed in pleasant conversation while the train sped rapidly southward. They were already far down in Virginia, and had stopped at a station beyond Richmond, when the conductor entered the car.
+“All passengers,” he announced, “will please transfer to the day coaches ahead. The sleeper has a hot box, and must be switched off here.”
+Dr. Burns and Miller obeyed the order, the former leading the way into the coach immediately in front of the sleeping-car.
+“Let’s sit here, Miller,” he said, having selected a seat near the rear of the car and deposited his suitcase in a rack. “It’s on the shady side.”
+Miller stood a moment hesitatingly, but finally took the seat indicated, and a few minutes later the journey was again resumed.
+When the train conductor made his round after leaving the station, he paused at the seat occupied by the two doctors, glanced interrogatively at Miller, and then spoke to Dr. Burns, who sat in the end of the seat nearest the aisle.
+“This man is with you?” he asked, indicating Miller with a slight side movement of his head, and a keen glance in his direction.
+“Certainly,” replied Dr. Burns curtly, and with some surprise. “Don’t you see that he is?”
+The conductor passed on. Miller paid no apparent attention to this little interlude, though no syllable had escaped him. He resumed the conversation where it had been broken off, but nevertheless followed with his eyes the conductor, who stopped at a seat near the forward end of the car, and engaged in conversation with a man whom Miller had not hitherto noticed.
+As this passenger turned his head and looked back toward Miller, the latter saw a broad-shouldered, burly white man, and recognized in his square-cut jaw, his coarse, firm mouth, and the single gray eye with which he swept Miller for an instant with a scornful glance, a well-known character of Wellington, with whom the reader has already made acquaintance in these pages. Captain McBane wore a frock coat and a slouch hat; several buttons of his vest were unbuttoned, and his solitaire diamond blazed in his soiled shirtfront like the headlight of a locomotive.
+The conductor in his turn looked back at Miller, and retraced his steps. Miller braced himself for what he feared was coming, though he had hoped, on account of his friend’s presence, that it might be avoided.
+“Excuse me, sir,” said the conductor, addressing Dr. Burns, “but did I understand you to say that this man was your servant?”
+“No, indeed!” replied Dr. Burns indignantly. “The gentleman is not my servant, nor anybody’s servant, but is my friend. But, by the way, since we are on the subject, may I ask what affair it is of yours?”
+“It’s very much my affair,” returned the conductor, somewhat nettled at this questioning of his authority. “I’m sorry to part *friends*, but the law of Virginia does not permit colored passengers to ride in the white cars. You’ll have to go forward to the next coach,” he added, addressing Miller this time.
+“I have paid my fare on the sleeping-car, where the separate-car law does not apply,” remonstrated Miller.
+“I can’t help that. You can doubtless get your money back from the sleeping-car company. But this is a day coach, and is distinctly marked ‘White,’ as you must have seen before you sat down here. The sign is put there for that purpose.”
+He indicated a large card neatly framed and hung at the end of the car, containing the legend, “White,” in letters about a foot long, painted in white upon a dark background, typical, one might suppose, of the distinction thereby indicated.
+“You shall not stir a step, Miller,” exclaimed Dr. Burns wrathfully. “This is an outrage upon a citizen of a free country. You shall stay right here.”
+“I’m sorry to discommode you,” returned the conductor, “but there’s no use kicking. It’s the law of Virginia, and I am bound by it as well as you. I have already come near losing my place because of not enforcing it, and I can take no more such chances, since I have a family to support.”
+“And my friend has his rights to maintain,” returned Dr. Burns with determination. “There is a vital principle at stake in the matter.”
+“Really, sir,” argued the conductor, who was a man of peace and not fond of controversy, “there’s no use talking﻿—he absolutely cannot ride in this car.”
+“How can you prevent it?” asked Dr. Burns, lapsing into the argumentative stage.
+“The law gives me the right to remove him by force. I can call on the train crew to assist me, or on the other passengers. If I should choose to put him off the train entirely, in the middle of a swamp, he would have no redress﻿—the law so provides. If I did not wish to use force, I could simply switch this car off at the next siding, transfer the white passengers to another, and leave you and your friend in possession until you were arrested and fined or imprisoned.”
+“What he says is absolutely true, doctor,” interposed Miller at this point. “It is the law, and we are powerless to resist it. If we made any trouble, it would merely delay your journey and imperil a life at the other end. I’ll go into the other car.”
+“You shall not go alone,” said Dr. Burns stoutly, rising in his turn. “A place that is too good for you is not good enough for me. I will sit wherever you do.”
+“I’m sorry again,” said the conductor, who had quite recovered his equanimity, and calmly conscious of his power, could scarcely restrain an amused smile; “I dislike to interfere, but white passengers are not permitted to ride in the colored car.”
+“This is an outrage,” declared Dr. Burns, “a d﻿—﻿—﻿d outrage! You are curtailing the rights, not only of colored people, but of white men as well. I shall sit where I please!”
+“I warn you, sir,” rejoined the conductor, hardening again, “that the law will be enforced. The beauty of the system lies in its strict impartiality﻿—it applies to both races alike.”
+“And is equally infamous in both cases,” declared Dr. Burns. “I shall immediately take steps”﻿—
+“Never mind, doctor,” interrupted Miller, soothingly, “it’s only for a little while. I’ll reach my destination just as surely in the other car, and we can’t help it, anyway. I’ll see you again at Wellington.”
+Dr. Burns, finding resistance futile, at length acquiesced and made way for Miller to pass him.
+The colored doctor took up his valise and crossed the platform to the car ahead. It was an old car, with faded upholstery, from which the stuffing projected here and there through torn places. Apparently the floor had not been swept for several days. The dust lay thick upon the window sills, and the water-cooler, from which he essayed to get a drink, was filled with stale water which had made no recent acquaintance with ice. There was no other passenger in the car, and Miller occupied himself in making a rough calculation of what it would cost the Southern railroads to haul a whole car for every colored passenger. It was expensive, to say the least; it would be cheaper, and quite as considerate of their feelings, to make the negroes walk.
+The car was conspicuously labeled at either end with large cards, similar to those in the other car, except that they bore the word “Colored” in black letters upon a white background. The author of this piece of legislation had contrived, with an ingenuity worthy of a better cause, that not merely should the passengers be separated by the color line, but that the reason for this division should be kept constantly in mind. Lest a white man should forget that he was white﻿—not a very likely contingency﻿—these cards would keep him constantly admonished of the fact; should a colored person endeavor, for a moment, to lose sight of his disability, these staring signs would remind him continually that between him and the rest of mankind not of his own color, there was by law a great gulf fixed.
+Having composed himself, Miller had opened a newspaper, and was deep in an editorial which set forth in glowing language the inestimable advantages which would follow to certain recently acquired islands by the introduction of American liberty, when the rear door of the car opened to give entrance to Captain George McBane, who took a seat near the door and lit a cigar. Miller knew him quite well by sight and by reputation, and detested him as heartily. He represented the aggressive, offensive element among the white people of the New South, who made it hard for a negro to maintain his self-respect or to enjoy even the rights conceded to colored men by Southern laws. McBane had undoubtedly identified him to the conductor in the other car. Miller had no desire to thrust himself upon the society of white people, which, indeed, to one who had traveled so much and so far, was no novelty; but he very naturally resented being at this late day﻿—the law had been in operation only a few months﻿—branded and tagged and set apart from the rest of mankind upon the public highways, like an unclean thing. Nevertheless, he preferred even this to the exclusive society of Captain George McBane.
+“Porter,” he demanded of the colored train attaché who passed through the car a moment later, “is this a smoking car for white men?”
+“No, suh,” replied the porter, “but they comes in here sometimes, when they ain’ no cullud ladies on the kyar.”
+“Well, I have paid first-class fare, and I object to that man’s smoking in here. You tell him to go out.”
+“I’ll tell the conductor, suh,” returned the porter in a low tone. “I ’d jus’ as soon talk ter the devil as ter that man.”
+The white man had spread himself over two seats, and was smoking vigorously, from time to time spitting carelessly in the aisle, when the conductor entered the compartment.
+“Captain,” said Miller, “this car is plainly marked ‘Colored.’ I have paid first-class fare, and I object to riding in a smoking car.”
+“All right,” returned the conductor, frowning irritably. “I’ll speak to him.”
+He walked over to the white passenger, with whom he was evidently acquainted, since he addressed him by name.
+“Captain McBane,” he said, “it’s against the law for you to ride in the nigger car.”
+“Who are you talkin’ to?” returned the other. “I’ll ride where I damn please.”
+“Yes, sir, but the colored passenger objects. I’m afraid I’ll have to ask you to go into the smoking-car.”
+“The hell you say!” rejoined McBane. “I’ll leave this car when I get good and ready, and that won’t be till I’ve finished this cigar. See?”
+He was as good as his word. The conductor escaped from the car before Miller had time for further expostulation. Finally McBane, having thrown the stump of his cigar into the aisle and added to the floor a finishing touch in the way of expectoration, rose and went back into the white car.
+Left alone in his questionable glory, Miller buried himself again in his newspaper, from which he did not look up until the engine stopped at a tank station to take water.
+As the train came to a standstill, a huge negro, covered thickly with dust, crawled off one of the rear trucks unobserved, and ran round the rear end of the car to a watering-trough by a neighboring well. Moved either by extreme thirst or by the fear that his time might be too short to permit him to draw a bucket of water, he threw himself down by the trough, drank long and deep, and plunging his head into the water, shook himself like a wet dog, and crept furtively back to his dangerous perch.
+Miller, who had seen this man from the car window, had noticed a very singular thing. As the dusty tramp passed the rear coach, he cast toward it a glance of intense ferocity. Up to that moment the man’s face, which Miller had recognized under its grimy coating, had been that of an ordinarily good-natured, somewhat reckless, pleasure-loving negro, at present rather the worse for wear. The change that now came over it suggested a concentrated hatred almost uncanny in its murderousness. With awakened curiosity Miller followed the direction of the negro’s glance, and saw that it rested upon a window where Captain McBane sat looking out. When Miller looked back, the negro had disappeared.
+At the next station a Chinaman, of the ordinary laundry type, boarded the train, and took his seat in the white car without objection. At another point a colored nurse found a place with her mistress.
+“White people,” said Miller to himself, who had seen these passengers from the window, “do not object to the negro as a servant. As the traditional negro﻿—the servant﻿—he is welcomed; as an equal, he is repudiated.”
+Miller was something of a philosopher. He had long ago had the conclusion forced upon him that an educated man of his race, in order to live comfortably in the United States, must be either a philosopher or a fool; and since he wished to be happy, and was not exactly a fool, he had cultivated philosophy. By and by he saw a white man, with a dog, enter the rear coach. Miller wondered whether the dog would be allowed to ride with his master, and if not, what disposition would be made of him. He was a handsome dog, and Miller, who was fond of animals, would not have objected to the company of a dog, as a dog. He was nevertheless conscious of a queer sensation when he saw the porter take the dog by the collar and start in his own direction, and felt consciously relieved when the canine passenger was taken on past him into the baggage-car ahead. Miller’s hand was hanging over the arm of his seat, and the dog, an intelligent shepherd, licked it as he passed. Miller was not entirely sure that he would not have liked the porter to leave the dog there; he was a friendly dog, and seemed inclined to be sociable.
+Toward evening the train drew up at a station where quite a party of farm laborers, fresh from their daily toil, swarmed out from the conspicuously labeled colored waiting-room, and into the car with Miller. They were a jolly, good-natured crowd, and, free from the embarrassing presence of white people, proceeded to enjoy themselves after their own fashion. Here an amorous fellow sat with his arm around a buxom girl’s waist. A musically inclined individual﻿—his talents did not go far beyond inclination﻿—produced a mouth-organ and struck up a tune, to which a limber-legged boy danced in the aisle. They were noisy, loquacious, happy, dirty, and malodorous. For a while Miller was amused and pleased. They were his people, and he felt a certain expansive warmth toward them in spite of their obvious shortcomings. By and by, however, the air became too close, and he went out upon the platform. For the sake of the democratic ideal, which meant so much to his race, he might have endured the affliction. He could easily imagine that people of refinement, with the power in their hands, might be tempted to strain the democratic ideal in order to avoid such contact; but personally, and apart from the mere matter of racial sympathy, these people were just as offensive to him as to the whites in the other end of the train. Surely, if a classification of passengers on trains was at all desirable, it might be made upon some more logical and considerate basis than a mere arbitrary, tactless, and, by the very nature of things, brutal drawing of a color line. It was a veritable bed of Procrustes, this standard which the whites had set for the negroes. Those who grew above it must have their heads cut off, figuratively speaking﻿—must be forced back to the level assigned to their race; those who fell beneath the standard set had their necks stretched, literally enough, as the ghastly record in the daily papers gave conclusive evidence.
+Miller breathed more freely when the lively crowd got off at the next station, after a short ride. Moreover, he had a light heart, a conscience void of offense, and was only thirty years old. His philosophy had become somewhat jaded on this journey, but he pulled it together for a final effort. Was it not, after all, a wise provision of nature that had given to a race, destined to a long servitude and a slow emergence therefrom, a cheerfulness of spirit which enabled them to catch pleasure on the wing, and endure with equanimity the ills that seemed inevitable? The ability to live and thrive under adverse circumstances is the surest guaranty of the future. The race which at the last shall inherit the earth﻿—the residuary legatee of civilization﻿—will be the race which remains longest upon it. The negro was here before the Anglo-Saxon was evolved, and his thick lips and heavy-lidded eyes looked out from the inscrutable face of the Sphinx across the sands of Egypt while yet the ancestors of those who now oppress him were living in caves, practicing human sacrifice, and painting themselves with woad﻿—and the negro is here yet.
+“ ‘Blessed are the meek,’ ” quoted Miller at the end of these consoling reflections, “ ‘for they shall inherit the earth.’ If this be true, the negro may yet come into his estate, for meekness seems to be set apart as his portion.”
+The journey came to an end just as the sun had sunk into the west.
+Simultaneously with Miller’s exit from the train, a great black figure crawled off the trucks of the rear car, on the side opposite the station platform. Stretching and shaking himself with a free gesture, the black man, seeing himself unobserved, moved somewhat stiffly round the end of the car to the station platform.
+“ ’Fo de Lawd!” he muttered, “ef I hadn’ had a cha’m’ life, I’d ’a’ never got here on dat ticket, an’ dat’s a fac’﻿—it sho’ am! I kind er ’lowed I wuz gone a dozen times, ez it wuz. But I got my job ter do in dis worl’, an’ I knows I ain’ gwine ter die ’tel I’ve ’complished it. I jes’ want one mo’ look at dat man, an’ den I’ll haf ter git somethin’ ter eat; fer two raw turnips in twelve hours is slim pickin’s fer a man er my size!”
+
+===Chinese===
+
+南下的列车正驶离费城车站时，一位绅士在列车挂着的唯一一节卧铺车厢里落了座，着手让自己安顿舒坦。他挂好帽子，打开报纸，埋头读了刻把钟。待火车把城市抛在身后，他丢开报纸，环顾车厢里的其他乘客。其中一位从纽约发车起就坐在这节车厢里，见对方望过来，便从座位上起身，沿过道走了过来。
+“您好，伯恩斯医生（Burns）！”他在那位费城乘客的座位旁站定，说道。
+那位绅士抬眼望着说话人，面露惊讶；但一道锐利逼人的目光扫过之后，惊讶便化作热诚相认的神色。
+“哎呀，这不是米勒吗！”他叫道，起身把手伸给对方，“威廉·米勒——当然，是米勒（Miller）医生。坐下，米勒，把你的事都讲给我听——你在做什么，去了哪里，这又是去哪儿。遇见你真高兴，还见你气色这么好——又这么发福。”
+“这两样都不值得夸，先生，”对方一边在让出的座位上坐下，一边答道，“因为健康和家业都是继承来的。能遇上您，实在是凑巧的运气。”
+这两位故人就这样凑巧走到一起，好在闲谈中打发旅途的沉闷；他们代表的是很不相同、却又颇为相似的两类男人。一位著名的旅行家在蛮荒之地生活多年之后说过：在人类的种种变异之中，相同之处远比相异之处更重要、更根本。用美国人的眼光看这两个人，差异也许更扎眼，至少更一目了然，因为第一位是白人，第二位是黑人——或者更准确地说，是棕色人；甚至是浅棕色，但他黝黑的肤色和卷曲的头发都显示出，用我们某些州的法律里的话说，非洲血统的“可见混合”。
+撇开这一差异不谈，再注意到白人约莫五十岁、另一位不过三十上下，可以说两人都高大结实、衣着体面，白人或许略多几分气派；从面孔和举止看，两人都是有教养的人，惯于同有教养的人往来。两人都仪表堂堂，年长的代表着所谓盎格鲁-撒克逊人的良好类型——这个词是就我们混血的白色人口而言；而那位黑白混血儿挺拔的身形、宽阔的肩膀、清澈的眼睛、漂亮的牙齿和轮廓悦目的五官，处处不见悲观论者悲叹为混血种族必然继承的那种退化痕迹。
+就两人的私交而言，前面已经交代，他们是同行。若干年前他们是师生。阿尔文·伯恩斯医生是米勒听讲的著名医学院的教授。教授对他唯一的有色人种学生颇有好感，被他的志向坚定、显而易见的天资、出色的举止和健壮的体格所吸引。米勒能赢得一笔奖学金，不必过多动用父亲的资财便去欧洲、在巴黎和维也纳的医院里度过一生中最快活的两年，一部分正是拜伯恩斯医生的友谊所赐。同一份影响也强化了他对外科手术的天生志趣——伯恩斯医生正是这方面的著名专家，享有全国声望。
+米勒的父亲亚当·米勒是个精明的有色人，奴隶之子；当年老米勒靠自己干活挣下、超出付给主人身价钱的钱，赎回了自由身。亚当·米勒继承了父亲的勤俭，也继承了他的行当——装卸工，也就是惠灵顿（Wellington）港船只装卸的承包人。内战后几年的松节油火爆年月里，他赚了钱。他的积蓄经过精明的投资，不断增加，已成一宗可观的家业。他把长子培养入行；另一个儿子则受了专业教育，怀着自豪的期望：自己的孩子或孙辈，能在祖先曾为奴隶的镇上当上体面人。
+父亲去世于米勒医生从欧洲归来后不久，即本故事开篇前一两年，他当即把继承的遗产拿出一部分创办了一所医院，并计划附设一所护士培训学校，日后或许再办医学院和药学院。他曾一度很想离开南方，到种族对立不那么尖锐、至少不那么压人的、更自由的北方去为家人安家、为自己谋前程，或者去欧洲——在那里，他从不曾觉得肤色于己不利。但他的人民需要他，他也愿意帮助他们，希望借这所机构为他们的进步出一把力。正如他此刻告知伯恩斯医生的，他正从纽约回来——他去那里为即将竣工收治病人的新医院购置设备。
+“我能做成多少还不知道，”米勒说，“但我会尽力而为。我们有八九百万人，要让这一大团面发起酵来，得要各方面的许多学问。”
+“这是个大问题啊，米勒，你们种族的前途，”对方答道，“一个极其有趣的问题。那是一部我们大家都在读的连载小说，每一期都比上一期更加惊心动魄。这不只是你们的问题，也是我们的问题。你们的种族不上去，就会把我们的拖下去。”
+“我们会上去的，”米勒宣称，“也许缓慢而痛苦，但我们会闯出路来。如果我们种族到处都取得了像在惠灵顿那样的进步，这个问题早就走上解决之路了。”
+“惠灵顿？”伯恩斯医生叫道，“我正是去那儿。惠灵顿的一位普莱斯医生请我去给一个孩子做咽喉手术。你认识普莱斯医生吗？”
+“很熟，”米勒答道，“他是我的朋友。”
+“那就更好了。我要你给我当助手。前几天我在《医学公报》上读到一篇关于你的非常有趣的手术记录。把你也算在我的学生里，我感到骄傲。那是个了不起的病例——罕见的病例。这一例我一定要有你在一起。”
+“我很乐意，先生，”米勒答道，“只要各方都无异议。”
+火车向南疾驰，两人愉快地交谈了几个钟头。这时他们已深入弗吉尼亚，在里士满过去的一个车站停靠，列车长走进车厢。
+“各位乘客，”他宣布，“请转到前面的普通车厢。卧铺车轴箱过热，必须在这里甩下。”
+伯恩斯医生和米勒照办，前者领头进了紧挨卧铺车前面的那节车厢。
+“咱们坐这儿吧，米勒，”他说，选了车厢后部的一个座位，把手提箱放上架，“这边背阴。”
+米勒迟疑地站了片刻，还是在指给他的座位上坐下，几分钟后列车重新启程。
+列车长离站后巡回查票，在两位医生的座位旁停下，疑问地扫了米勒一眼，然后对坐在靠过道一端的伯恩斯医生说话。
+“这个人是和您一起的？”他问，头微微一侧示意米勒，朝那边锐利地瞥了一眼。
+“当然，”伯恩斯医生简慢地答道，颇觉诧异，“你没看见吗？”
+列车长走过去了。米勒对这小小的插曲似乎未加理会，其实一字不落。他把中断的话题续上，眼睛却仍跟着列车长，只见他在车厢前部一个座位旁停下，和一个米勒先前没有留意的男人攀谈起来。
+那个乘客回头朝米勒这边望来，米勒看见一个宽肩膀、粗壮的白人，从他方正的下颚、粗而坚定的嘴，以及那只朝米勒轻蔑地一扫即过的独眼灰眼珠里，认出惠灵顿的一个名人——读者在前文已与此人打过照面。麦克贝恩（McBane）上尉穿一件长礼服，戴一顶垂檐帽；马甲上几颗扣子敞着，独粒钻石在他脏兮兮的衬衫前胸闪闪发亮，活像机车的头灯。
+列车长回头看了看米勒，又折了回来。米勒挺直身子，准备应付他担心要来的事，尽管他原指望有朋友在场，或许能躲过去。
+“对不起，先生，”列车长对伯恩斯医生说，“我刚才听您说，这个人是您的仆人？”
+“当然不是！”伯恩斯医生愤然答道，“这位先生不是我的仆人，也不是任何人的仆人，他是我的朋友。不过，顺便问一句，既然说到这事，这关你什么事？”
+“这很关我的事，”列车长答道，职权受到质疑让他有点恼火，“拆散朋友我很抱歉，但弗吉尼亚的法律不许有色乘客坐白人车厢。你得到前面一节车厢去，”这回他冲着米勒说。
+“我买的是卧铺车票，分厢法不适用于卧铺车，”米勒抗辩道。
+“那我没办法。你多半可以从卧铺公司把钱要回来。可这是普通客车，车厢上明明白白标着‘白人’，你坐下之前一定看见了。牌子挂在那儿就是干这个用的。”
+他指了指车厢头上挂着的一张装了镜框的大卡片，上头是“白人”字样，字约一英尺长，深色底上漆着白字，大概正象征着它所标示的那种区别。
+“你一步也别挪，米勒，”伯恩斯医生怒道，“这是对一个自由国家公民的暴行。你就待在这儿。”
+“让您不便我很抱歉，”列车长答道，“但闹也没用。这是弗吉尼亚的法律，我和你一样受它约束。我就因为没认真执行它，差点丢了饭碗，我不能再冒这种险了，我还要养家。”
+“而我朋友也有他的权利要维护，”伯恩斯医生决然回敬，“这件事关系到一个重大原则。”
+“说真的，先生，”列车长争辩道，他是个爱好和平、不喜争端的人，“再谈也没用——他绝对不能坐这节车厢。”
+“你怎能阻止？”伯恩斯医生问，进入了好辩的阶段。
+“法律给我权力，可以用强力把他弄走。我可以叫列车乘务组帮我，也可以叫其他乘客帮。我要是干脆把他在一片沼泽当中扔下火车，他也没处申冤——法律就是这么规定的。我不想动武的话，也可以干脆在下一个岔道把整节车厢甩下，把白人乘客转到另一节车厢去，让你们两位就这么待着，直到你们被抓、被罚款或者坐牢。”
+“他说得句句是实情，医生，”这时米勒插话道，“这就是法律，我们无力抗拒。我们要是闹起来，只会耽误您的行程，还可能危及另一头的一条性命。我去那节车厢吧。”
+“你不能一个人去，”伯恩斯医生毅然说着也站起身，“对你来说不够体面的地方，对我也不够体面。你坐哪儿，我坐哪儿。”
+“我再次抱歉，”列车长说，他已完全恢复了平静，对自己手上的权力心里有数，几乎忍不住要笑出声来，“我讨厌干涉，但白人乘客也不许坐有色人车厢。”
+“这是暴行，”伯恩斯医生宣称，“彻头彻尾的暴行！你们削减的不仅是黑人的权利，连白人自己的权利也一起削减。我爱坐哪儿坐哪儿！”
+“我警告您，先生，”列车长又硬了起来，“法律是要执行的。这套制度的妙处就在于它铁面无私——对两个种族一体适用。”
+“对双方同样是臭名昭著，”伯恩斯医生宣称，“我马上就要采取措施”——
+“别往心里去，医生，”米勒抚慰地打断他，“就一小会儿。我坐那节车厢照样到站，再说我们也无能为力。咱们惠灵顿见。”
+伯恩斯医生见抵抗无益，终于让步，侧身让米勒过去。
+这位有色人医生提起手提箱，穿过过道平台，进了前面那节车厢。那是节旧车，椅面褪了色，破口处处处露出里头的填絮。地板看来好几天没扫了。窗台上积着厚厚的灰尘，他去饮水器想喝口水，里面装满了不知多久没沾过冰的陈水。车厢里没有别的乘客，米勒便琢磨起一笔粗账：南方铁路要为每一个有色乘客单独拖一整节车厢，得花掉多少钱。至少可以说，这很破费；让黑人走路反倒便宜，而且论对他们感情的体贴，也不见得更差。
+车厢两头都醒目地贴着大卡片，和那节车厢里的相似，只是白底黑字，写着“有色人”。这项立法的起草人以一种用非其所的巧思，做到不仅让乘客按肤色分开，还让人时刻不忘这种分隔的理由。生怕哪个白人忘了自己是白人——这倒不太可能——这些卡片会不断向他提示这一事实；倘若有色人一时想忘掉自己低人一等的身份，这些刺眼的招牌也会不断提醒他：在法律上，他与人类中不属于他肤色的其余部分之间，横着一道巨大的鸿沟。
+米勒定下神来，打开一份报纸，正读得入神——那是一篇社论，以热烈的语言陈述把美国自由引进某些新近获得的岛屿之后将随之而来的种种无价好处——车厢后门开了，乔治·麦克贝恩上尉走进来，在门边坐下，点起一支雪茄。米勒对他闻名已久，认得他的脸，也打心底里厌恶他。他代表着新南方白人中间那类咄咄逼人、令人生厌的分子，正是这种人让黑人难以保持自尊，连南方法律承认给有色人的那点权利也享受不成。方才多半就是麦克贝恩在那节车厢里向列车长指认了他。米勒无意硬挤进白人的社交圈——对一个走南闯北、见过世面的人来说，那实在也算不得什么新鲜事；但时至如今——这法律才施行几个月——竟在公共大道上像对待不洁之物一样被烙了印、挂了牌、与人类其余部分隔开，他自然感到愤懑。尽管如此，比起乔治·麦克贝恩上尉的专宠陪伴，他宁可要眼下这个。
+“乘务员，”他对稍后穿过车厢的黑人乘务员说，“这是白人吸烟车厢吗？”
+“不是的，老爷，”乘务员答道，“不过有时候，车上没有有色女士的时候，他们会上这儿来。”
+“好，我买的是头等车票，我反对那个人在这儿抽烟。你去叫他出去。”
+“我去跟列车长说，老爷，”乘务员低声答道，“跟那个人说话，我还不如去跟魔鬼说。”
+那白人伸展四肢占了两个座位，起劲地抽着烟，不时朝过道里随意吐痰。这时列车长走进车厢。
+“列车长，”米勒说，“这节车厢明明标着‘有色人’。我买的是头等车票，我反对坐在白人的吸烟车厢里。”
+“行，”列车长烦躁地皱着眉答道，“我去跟他说。”
+他朝那白人乘客走过去，显然与他相熟，因为他直呼其名。
+“麦克贝恩上尉，”他说，“您坐黑鬼车厢是违法的。”
+“你跟谁说话呢？”对方答道，“老子爱坐哪儿坐哪儿。”
+“是，长官，可这位有色乘客反对。恐怕我不得不请您到吸烟车厢去。”
+“放你的屁！”麦克贝恩答道，“老子觉得舒坦了自然会走，不抽完这支雪茄不走。明白吗？”
+他倒是说到做到。不等米勒再作理论，列车长就溜出了车厢。末了，麦克贝恩把雪茄头扔进过道，又朝地板上补了一口痰作为收尾，起身回白人车厢去了。
+独自守着这份说不清的荣耀，米勒重新埋头看报，直到火车在一处水塔车站停下上水，他才抬起头来。
+列车停稳的当口，一个浑身尘土的高大黑人，从车尾转向架底下不声不响地爬了下来，绕过车厢尾端，跑到近旁一口井边的水槽。许是渴极了，也许是怕时间来不及打一桶水，他扑倒在槽边，痛饮一番，又把脑袋扎进水里，像落水的狗一样抖了抖身子，鬼鬼祟祟地爬回他那危险的栖身处。
+米勒从车窗里看见了这个人，还注意到一件极不寻常的事。那个满身尘土的流浪汉经过尾部车厢时，朝它投去极其凶狠的一瞥。在那之前，那张脸——米勒认出了那层污垢之下的面孔——本是寻常和气、有些鲁莽、贪图享乐的黑人的脸，眼下只是更狼狈些罢了。此刻它起的变化，透着一种咬牙切齿的仇恨，凶狠得几乎瘆人。米勒怀着惊醒的好奇，循那黑人的目光望去，只见它落在麦克贝恩上尉坐着朝外张望的一扇车窗上。等米勒再看回去，那黑人已经不见了。
+下一站上来一个中国人，寻常洗衣馆里的那一类，走进白人车厢坐下，无人反对。又过一处，一个黑人保姆挨着她的女主人找到了座位。
+“白人，”米勒从车窗里望见这些乘客，自忖道，“并不反对黑人当仆人。作为传统意义上的黑人——仆人——他是受欢迎的；作为平等的人，他遭到排斥。”
+米勒算得上半个哲学家。他早就被迫得出这样的结论：他这个种族里受过教育的人，要想在美国过得舒心，就得要么做哲学家，要么做傻瓜；既然他想活得快活，又算不上傻瓜，他便修炼起了哲学。过了一会儿，他看见一个白人带着一条狗进了后部车厢。米勒寻思，那狗会不会获准与主人同乘，若不能，又会怎么发落。那是条漂亮的狗，米勒喜欢动物，倒不反对有条狗作伴——以狗的身份。可当他看见乘务员拎住狗的颈圈朝自己这边牵来时，心里仍不免生出一种异样的感觉；直到那位犬类乘客被牵过他身边、送进前头的行李车厢，他才觉出宽慰。米勒的手正搭在座位扶手上，那条聪明的牧羊犬经过时舔了舔它。米勒说不准自己是不是宁愿乘务员把狗留在那儿；那是条友善的狗，看样子还挺爱亲近人。
+傍晚时分，火车在一个站停了下来，一大群刚收完工的农工从醒目挂着“有色人”牌子的候车室里涌出来，进了米勒这节车厢。他们是快活和气的一伙，没了白人在场的拘束，便照自己的方式寻起乐子。这边一个多情种子搂着一个丰满姑娘的腰坐在一起。那边一位有音乐细胞的——他的天赋也就止于爱好——掏出口琴，吹起一支曲子，一个腿脚灵便的男孩就在过道里跳起舞来。他们吵吵嚷嚷、有说有笑、快快活活、脏里脏气，气味熏人。有一阵子，米勒觉得有趣，心里欢喜。这是他的同胞，尽管他们身上有明摆着的短处，他仍对他们生出一种由衷的暖意。可是不多久，空气就闷得受不了，他便走到车台上去了。为了那个对他的种族意味着如此之多的民主理想，这本可以忍受过去。他完全可以想象，手握大权的上流人们，为了躲开这样的接触，难免想把民主理想拉扯变形；但就他个人而言，撇开种族同胞之情不谈，这些人招他厌的程度，和招车那一头白人厌的程度是一样的。诚然，倘若火车上的乘客真需要分等，那也可以按某种比随心所欲、不知体恤、而且从事情本性上说注定粗暴的肤色线更合逻辑、更周到的标准来分。白人给黑人立的这个标准，真是一张普罗克拉斯提斯的铁床。长过标准的，打个比方说，得把脑袋砍掉——得被摁回指定给他那个种族的水平；达不到标准的，那可是实实在在要把脖子拉长，日报上那些骇人的记录便是确凿的证据。
+那伙快活人坐了一小段路，在下一站下车，米勒呼吸畅快多了。何况他心情轻快，问心无愧，才三十岁。他的哲学在这趟旅途中已有些疲惫，但他还是打起精神做了最后一番运思。归根结底，大自然让一个注定长久为奴、又注定要从中缓缓脱身的种族，天生一份乐天的性子，使他们能随手捕捉快乐，平静地忍受看来不可避免的苦难，这难道不正是自然的深意？能在逆境中活下去、活得兴旺的能力，是最可靠的未来保证。最终将继承大地的那个种族——文明的剩余继承人——将是留在世上最久的种族。黑人早在盎格鲁-撒克逊人演化出来之前就在这儿了，当如今压迫他的人的祖先们还住在山洞里、行着人祭、浑身涂着菘蓝的时候，他厚厚的嘴唇和厚眼皮的眼睛，已经从斯芬克斯那张莫测的脸里望着埃及的沙漠了——而黑人今天依然在这儿。
+“‘温柔的人有福了，’”米勒在这一番自我宽慰的沉思末了引了一句经文，“‘因为他们必承受地土。’这话若当真，黑人终有一天会继承他的产业，因为温顺似乎正是分给他的那一份。”
+太阳沉入西天的时候，旅程到了头。
+与米勒走出车厢的同时，一个高大的黑影从尾部车厢的转向架上爬了下来，落在站台对面那一侧。那黑人伸伸腰，畅快地抖了抖身子，见没人注意，便有些僵硬地绕过车厢末端，走向车站月台。
+“老天爷作证！”他咕哝道，“要不是我这命硬，凭这张票根本到不了这儿，这是实话——千真万确！一路上我都寻思这回完了，少说也有一打回。可我在这世上还有桩事没办完，我知道不办完我是死不了的。我就想再见那人一眼，然后就得弄点东西吃；十二个钟头里两个生萝卜，对我这样块头的人来说，可真不够塞牙缝的！”
