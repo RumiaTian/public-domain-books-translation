@@ -29,3 +29,6 @@ zb_*.txt
 .idea/
 *.sublime-project
 *.sublime-workspace
+
+# 运行时认领锁（translate-mcp claim_task 产物，不入库）
+翻译项目/*/认领.md
