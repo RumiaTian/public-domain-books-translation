@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-13，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-10-21，全库生命周期总控）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **423** 完 / **10** 译 / **214** 待（共 647 本） | **8879** / 18180 篇（**138454.5** / 305863.1 KB）· **45.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **0** 本待审 | 覆盖精读 **423** 本（**100.0%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **21** 本待打包 | 交付标准双语 EPUB **402** 本（**95.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **447** 完 / **8** 译 / **192** 待（共 647 本） | **9536** / 18180 篇（**150330.9** / 305863.1 KB）· **49.1%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **24** 本待审 | 覆盖精读 **423** 本（**94.6%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **45** 本待打包 | 交付标准双语 EPUB **402** 本（**89.9%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **423** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **447** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -96,7 +96,7 @@
 | 71 | `baroness-orczy_lord-tonys-wife` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
 | 72 | `baroness-orczy_pimpernel-and-rosemary` | ✅ 已入库 | ⚪ 待译 (49篇) | — | — |  |
 | 73 | `baroness-orczy_sir-percy-hits-back` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_sir-percy-hits-back/译文) (39篇) | ⏳ 待审 | — | 已译完待审 |
-| 74 | `baroness-orczy_the-elusive-pimpernel` | ✅ 已入库 | [🟡 97.1%](翻译项目/baroness-orczy_the-elusive-pimpernel/译文) (35/36) | — | — |  |
+| 74 | `baroness-orczy_the-elusive-pimpernel` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_the-elusive-pimpernel/译文) (36篇) | ⏳ 待审 | — | 已译完待审 |
 | 75 | `baroness-orczy_the-first-sir-percy` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_the-first-sir-percy/译文) (17篇) | ⏳ 待审 | — | 已译完待审 |
 | 76 | `baroness-orczy_the-laughing-cavalier` | ✅ 已入库 | ⚪ 待译 (47篇) | — | — |  |
 | 77 | `baroness-orczy_the-league-of-the-scarlet-pimpernel` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_the-league-of-the-scarlet-pimpernel/译文) (11篇) | [✅ 已审(A)](翻译项目/baroness-orczy_the-league-of-the-scarlet-pimpernel/审核报告.md) | ⏳ 待打包 | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **8879/18180 篇 (45.3%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9536/18180 篇 (49.1%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
 
 ---
 
