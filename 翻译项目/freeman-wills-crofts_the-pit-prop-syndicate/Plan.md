@@ -39,3 +39,15 @@
 - 2026-10-13 06:46｜批次3直启子代理｜an-unexpected-ally.md 完成，check_bilingual 通过
 - 2026-10-13 06:53｜批次3直启子代理｜murder.md 完成，check_bilingual 通过
 - 2026-10-13 07:02｜批次3直启子代理｜a-promising-clue.md 完成，check_bilingual 通过
+- 2026-10-13 18:18｜批次1直启子代理｜a-mystifying-discovery.md 完成，check_bilingual 通过
+- 2026-10-13 18:31｜批次1直启子代理｜archer-plants-stuff.md 完成，check_bilingual 通过
+- 2026-10-13 18:46｜批次1直启子代理｜inspector-willis-listens-in.md 完成，check_bilingual 通过
+- 2026-10-13 18:52｜批次1直启子代理｜the-amateurs.md 完成，check_bilingual 通过（纯部件标题文件）
+- 2026-10-13 18:52｜批次1直启子代理｜the-professionals.md 完成，check_bilingual 通过（纯部件标题文件）
+- 2026-10-13 18:52｜批次1直启子代理｜list-of-illustrations.md 完成，check_bilingual 通过（Straddlethorpe 定译：斯特拉德尔索普）
+- 2026-10-13 19:14｜批次1直启子代理｜the-double-cross.md 完成，check_bilingual 通过
+- 2026-10-13 19:31｜批次1直启子代理｜the-bordeaux-lorries.md 完成，check_bilingual 通过（22 对块／110 段，首现定名：朱尔·拉罗什、雷蒙父子、皮埃尔·雷蒙、大林荫道、保安局）
+- 2026-10-13 19:36｜批次1直启子代理｜the-secret-of-the-syndicate.md 完成，check_bilingual 通过（20 对块／78 段）
+
+- 2026-10-13｜批次1直启子代理｜willis-spreads-his-net.md 完成，check_bilingual 通过（31 对块／141 段，全书 23 篇译毕；首现定名：卢特雷尔太太、维多利亚车站、大帕雷德、卡莱尔路、格兰德旅馆、格雷沙姆旅馆、贝德福德广场、尤斯顿路、高尔街、布卢姆斯伯里街、查令十字路、特罗卡德罗、霍奇森、沃尔特·比米什；Raymond 沿第 XVIII 章定名雷蒙）
+- 2026-10-13 19:55｜批次1直启｜【完书】23/23 全部 done，删锁流转；本轮批次1译 10 篇（含 a-mystifying-discovery 断点重译），接力《失踪者巷》

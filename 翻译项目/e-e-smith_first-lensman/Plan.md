@@ -110,3 +110,14 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 - 2026-10-13 06:49｜批次3直启子代理｜chapter-09.md 完成，check_bilingual 通过
 - 2026-10-13 06:57｜批次3直启子代理｜chapter-10.md 完成，check_bilingual 通过
 - 2026-10-13 07:07｜批次3直启子代理｜chapter-11.md 完成，check_bilingual 通过
+| 2026-10-14 | chapter-12.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | chapter-13.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | chapter-15.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | chapter-16.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | chapter-17.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | chapter-18.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | chapter-19.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | 22-endnotes.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | 21-epilogue.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | chapter-20.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | 22/23（ch12–20+尾声+尾注，批次2接管） | done | ch14 两次 [1301] 拦截留 todo 待后续轮次；术语表增补 90+ 条；锁保留 |

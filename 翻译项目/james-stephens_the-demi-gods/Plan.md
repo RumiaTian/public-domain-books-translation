@@ -116,7 +116,7 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 4 | 第四章（IV） | chapter-04.md | 4.5KB | todo |
 | 5 | 第五章（V） | chapter-05.md | 3.8KB | todo |
 | 6 | 第六章（VI） | chapter-06.md | 6.7KB | todo |
-| 7 | 第七章（VII） | chapter-07.md | 5.0KB | todo |
+| 7 | 第七章（VII） | chapter-07.md | 5.0KB | done |
 | 8 | 第八章（VIII） | chapter-08.md | 5.7KB | todo |
 | 9 | 第九章（IX） | chapter-09.md | 5.9KB | todo |
 | 10 | 第十章（X） | chapter-10.md | 6.3KB | todo |
@@ -172,3 +172,7 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 - ⚠️ 待人工处理：chapter-07 为全书唯一剩余章节（35/36 done），需人工分段翻译或调整过滤策略后补译。批次3确认放弃，删除认领锁，流转 sticks-and-stones。
 
 - 2026-09-25 06:09｜批次3直启｜chapter-07（全书唯一剩余章）两次派发（原文直译+学术免责重派）均遭 [1301] 内容拦截，零产出，重试预算耗尽。判定内容级硬拦，保持 todo 待人工处置，认领锁已释放。35/36 done。
+
+| 日期 | 篇目 | 结果 | 备注 |
+|------|------|------|------|
+| 2026-10-15 | chapter-07.md | done | 封锁章解除：历史 [1301] 拦截未再触发，单章 9 步闭环直译通过（check_bilingual 退出码 0，8 对块，U+FEFF×2 保真）；全书 36/36 done |

@@ -138,3 +138,24 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+| 2026-10-15 | 02-the-witch-s-cat.md | done | 42 对块，145 段全译，check_bilingual.py 退出码 0 |
+| 2026-10-15 | 04-fearful-rock.md | done | 9 对块，30 段全译，check_bilingual.py 退出码 0 |
+| 2026-10-15 | 05-the-hairy-ones-shall-dance.md | done | 1 对块，7 段引用体全译，check_bilingual.py 退出码 0 |
+| 2026-10-15 | 03-the-golgotha-dancers.md | done | 18 对块，78 段全译，check_bilingual.py 退出码 0；术语表补 9 条新词 |
+| 2026-10-15 | 06-the-black-drama.md | done | 2 对块，序言 6 段全译（引用体保留），check_bilingual.py 退出码 0；术语表补 7 条新词 |
+| 2026-10-15 | 07-coven.md | done | 17 对块，71 段全译，check_bilingual.py 退出码 0；术语表补 6 条新词 |
+| 2026-10-15 | 08-it-all-came-true-in-the-woods.md | done | 22 对块，96 段全译（含篇首题诗引用体保留），check_bilingual.py 退出码 0；术语表补 7 条新词 |
+| 2026-10-15 | 09-the-dreadful-rabbits.md | done | 29 对块，120 行（113 段）全译，check_bilingual.py 退出码 0；术语表补 15 条新词并校正 Morgan Pi→Morgan Pitts |
+| 2026-10-15 | 12-back-to-the-beast.md | done | 2 对块，5 段全译（剪报体短文，无标题行），check_bilingual.py 退出码 0；术语表补 9 条新词 |
+| 2026-10-15 | 10-the-half-haunted.md | done | 44 对块，194 段全译（篇首题诗引用体保留、7 处场景分隔原位保留），check_bilingual.py 退出码 0；术语表补 10 条新词 |
+| 2026-10-15 | 11-the-liers-in-wait.md | done | 42 对块，136 段全译（篇首题诗引用体保留、8 处场景分隔原位保留），check_bilingual.py 退出码 0；术语表补 29 条新词（查理二世出逃史实人物与地名） |
+| 2026-10-15 | 15-the-invading-asteroid.md | done | 13 对块，55 段全译（### I 标题合并、2 处场景分隔原位保留），check_bilingual.py 退出码 0；术语表补 9 条新词（科幻篇人名/机构/武器） |
+| 2026-10-15 | 13-the-song-of-the-slaves.md | done | 34 对块，130 段全译（书信/朗费罗诗引用体保留、6 处场景分隔原位保留），check_bilingual.py 退出码 0；术语表补 18 条新词 |
+| 2026-10-15 | 14-bratton-s-idea.md | done | 48 对块，242 段全译（52.8KB 超大篇，按 7 幕分段翻译后程序化拼合，6 处场景分隔原位保留），check_bilingual.py 退出码 0；术语表补 13 条新词（布拉顿/加斯孔/汤姆-汤姆等） |
+| 2026-10-15 | 17-warrior-of-two-worlds.md | done | 20 对块，85 段全译（### I 标题合并、3 处场景分隔原位保留），check_bilingual.py 退出码 0；术语表补 9 条新词（东德罗莫贡/扬德罗/多丽扎/斯波尔等） |
+| 2026-10-15 | 16-the-devil-s-asteroid.md | done | 63 对块，302 段全译（58.2KB 全书最大篇，按场景分 5 段翻译后程序化拼合，9 处场景分隔原位保留），check_bilingual.py 退出码 0；术语表补 15 条新词（菲茨休·帕尔/瓦莉娜·彭伯顿/林/鲁珀特等） |
+| 2026-10-15 | 18-all-were-monsters.md | done | 19 对块，97 段全译（1 处场景分隔原位保留、原文不可见字符字节级保真），check_bilingual.py 退出码 0；术语表补 4 条新词（普罗沃尔/斯基普/奥斯卡/篇名） |
+| 2026-10-15 | 19-half-around-pluto.md | done | 33 对块，全文 6 场景全译（5 处场景分隔原位保留、航行日志引用体保留、数字锚点按位保留），check_bilingual.py 退出码 0；术语表补 6 条新词（沃福思/詹克斯/科贝特/莉娅·斯特罗明格/基地营/篇名） |
+| 2026-10-18 | 20-venus-enslaved.md | done | 一次性子代理翻译（98KB 中篇，分段流式落盘），97 对块对照，check_bilingual 通过（退出码 0）。新增定名：戴维·普兰特/迪斯布罗/马克斯/斯凯戈/玛拉/曼莎/莎拉/弗拉/格兰菲尔/霍默森医生/巢窟/泥虫/克劳/格罗尔/火箭基金会/沃尔弗拉姆/《被奴役的金星》 |
+| 2026-10-18 | 全书完结 | done | Wellman 短篇集 20/20 全部完成（前 19 篇由兄弟执行流完成，第 20 篇 98KB 中篇《被奴役的金星》由本执行流断点续作：复用 _work20 残留 f1/f2 分段+运行 f3.py+新译 4 段流式落盘，97 对块一次过检），删除认领锁 |
+2026-10-18 | 🎉全书完书 | 20/20 done（10-17 本会话开册译至19篇+终篇断点，10-18 晨间他流接力译完98KB终篇20并流转删锁；本会话验收抽查通过）

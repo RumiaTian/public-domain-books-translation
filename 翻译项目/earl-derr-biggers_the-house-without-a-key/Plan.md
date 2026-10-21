@@ -142,3 +142,29 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-10-16 | 01-dedication.md | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 03-the-high-hat | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 02-kona-weather.md | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 04-midnight-on-russian-hill | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 05-a-friend-of-tim-s | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 07-beyond-the-bamboo-curtain | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 06-the-blood-of-the-winterslips | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 08-enter-charlie-chan | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 09-steamer-day | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 10-at-the-reef-and-palm | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 11-a-newspaper-ripped-in-anger | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 12-the-tree-of-jewels | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 14-the-luggage-in-room-nineteen | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 13-tom-brade-the-blackbirder | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 15-what-kaohla-carried | 直启批次3 子代理完成（1308 断点重派） | check 通过
+- 2026-10-17 | 16-the-man-from-india | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 17-the-return-of-captain-cope | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 19-a-cable-from-the-mainland | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 18-night-life-in-honolulu | 直启批次3 子代理完成 | check 通过
+
+- 2026-10-17 | 21-the-story-of-lau-ho | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 20-goodbye-pete | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 22-the-stone-walls-crumble | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 23-the-light-streams-through | 直启批次3 子代理完成 | check 通过
+- 2026-10-17 | 24-moonlight-at-the-crossroads | 直启批次3 子代理完成（全书完） | check 通过

@@ -25,3 +25,23 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+
+- 2026-10-20 | a-stronger-antidote-than-reason | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | belling-the-cat | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | a-message-comes-to-hazel... | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | by-the-sun-moon-and-stars... | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | conclusion | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | dedication | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | dead-in-the-eye-of-the-law | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | epigraph | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | dame-marigold-hears-the-tap-of-a-woodpecker | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | endymion-leer-looks-frightened... | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | hempie-s-song | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | endymion-leer-prescribes-for-ranulph | 直启批次3 子代理完成 | check 通过
+- 2026-10-20 | ho-ho-hoh | 直启批次3 子代理完成 | check 通过
+- 2026-10-21 | master-ambrose-chases-a-wild-goose... | 主Agent断点验收回填（1308 中断前已落盘，check 通过） | check 通过
+- 2026-10-21 | master-ambrose-keeps-his-vow | 直启批次3 主模型直译（连续模式） | check 通过
+- 2026-10-21 | master-nathaniel-chanticleer | 直启批次3 主模型直译（连续模式） | check 通过
+- 2026-10-21 | mistress-ivy-peppercorn | 直启批次3 主模型直译（连续模式） | check 通过
+- 2026-10-21 | neither-trees-nor-men | 直启批次3 主模型直译（连续模式） | check 通过
+- 2026-10-21 | panic-and-the-silent-people | 直启批次3 主模型直译（连续模式） | check 通过

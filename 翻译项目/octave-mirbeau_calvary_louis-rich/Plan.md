@@ -25,3 +25,16 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+| 2026-10-14 | iii.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | ii.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | i.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | iv.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | v.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | vi.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | vii.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | viii.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | ix.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | x.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | xi.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | xii.md | done | 批次2·直启·default-translator·check通过 |
+| 2026-10-14 | 全书 12/12 | done | 批次2·直启完书；术语表回填 44+ 条，遗留 5 项统一事项供审核 |

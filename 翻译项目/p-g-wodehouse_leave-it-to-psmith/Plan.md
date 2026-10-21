@@ -58,3 +58,17 @@
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
 | - | - | - | （尚未运行） |
+| 2026-10-19 | 04-painful-scene-at-the-drones-club.md | done | 6.1KB 短章；36 对块逐段对照，check_bilingual 退出码 0（无错配）；术语按表（蜂子俱乐部/皮史密斯/沃尔德威克），新增词已补术语表；隐形字符（U+FEFF/U+00A0/U+200A）字节级保真 |
+| 2026-10-19 | 03-eve-borrows-an-umbrella.md（伊芙借伞） | done | 10.3KB→约22KB，42 对块对照；check_bilingual 退出码 0（结构/标题/语义全过） |
+| 2026-10-19 | 05-psmith-applies-for-employment.md（皮史密斯求职） | done | 14.0KB→约21KB，29 对块对照（104 段对称）；check_bilingual 退出码 0；术语按表（Psmith/P-smith 不发音、同志、《名誉攸关》、蜂子俱乐部），英文段落含 U+FEFF×26/U+00A0×4 字节级保真 |
+| 2026-10-19 | 02-enter-psmith.md（皮史密斯登场） | done | 32.0KB→约71KB，206 对块逐段对照；check_bilingual 退出码 0（结构/标题/语义全过）；章内小节号循 `### I / I` 体例；术语按表（Psmith/P-smith 不发音、同志、康斯坦丝姑妈、小克拉克），新增词（晨邮报/体育快报/罗洛·芒特福德等）已补术语表；原文 U+FEFF×65/U+00A0×9/U+200A×23 经脚本字节级保真 |
+| 2026-10-19 | 01-dark-plottings-at-blandings-castle.md（布兰丁斯城堡密谋） | done | 47.2KB→约100KB，277 对块逐段对照（章首广告块引 15 行结构保真）；check_bilingual 退出码 0（结构/标题/语义全过，无锚点误报）；章内小节号循 `### I / I` 体例；术语按表（布兰丁斯/埃姆斯沃思/能干的巴克斯特/康斯坦丝/麦克托德/皮维），广告口号定名「把这事交给皮史密斯吧！」，新增词（拉特兰郡/什鲁斯伯里/园艺艺术论/单身汉舞会/报端赛马行家）已补术语表；原文 U+FEFF×120/U+00A0×59/U+200A×48 经拼装脚本字节级保真 |
+| 2026-10-19 | 06-lord-emsworth-meets-a-poet.md（埃姆斯沃思勋爵会见诗人） | done | 51.3KB→约107KB，244 对块逐段对照（超 50KB 大章，5 批译文 JSON 落盘、脚本拼装）；check_bilingual 结构/标题全过，仅 1 处数字锚点误报（源文 '78 译作 1878 年）；章内小节号循 `### I / I` 体例（与 01/02 章一致）；术语按表（埃姆斯沃思勋爵/麦克托德/麦卡利斯特/弗雷迪/资深保守俱乐部），接头切口「明天诺森伯兰有雨。」「于庄稼有益。」定名；新增词条（皮卡迪利宫殿酒店/资深保守俱乐部/紫杉幽径/蜀葵/《鱼贩公报》/《多宝鱼赫伯特》等）已补术语表；原文 U+FEFF×74/U+00A0×37/U+200A×23 经拼装脚本字节级保真 |
+| 2026-10-20 | 07-baxter-suspects.md | 主模型直译 | 200行/190对块 | check_bilingual 退出码0，0错配 | done |
+| 2026-10-20 | 08-confidences-on-the-lake.md | 主模型直译 | 311行/304对块 | check_bilingual 退出码0，0错配 | done |
+| 2026-10-20 | 09-psmith-engages-a-valet.md | 主模型直译 | 361行/354对块 | check_bilingual 退出码0，0错配 | done |
+| 2026-10-20 | 10-sensational-occurrence-at-a-poetry-reading.md | 主模型直译 | 281行/274对块 | check_bilingual 退出码0，0错配 | done |
+| 2026-10-20 | 11-almost-entirely-about-flowerpots.md | 主模型直译 | 221行/210对块 | check_bilingual 退出码0，0错配 | done |
+| 2026-10-20 | 12-more-on-the-flowerpot-theme.md | 主模型直译 | 83行/82对块 | check_bilingual 退出码0，0错配 | done |
+| 2026-10-20 | 13-psmith-receives-guests.md | 主模型直译 | 314行/308对块 | check_bilingual 退出码0，0错配 | done |
+| 2026-10-20 | 14-psmith-accepts-employment.md | 主模型直译 | 156行/155对块 | check_bilingual 退出码0，0错配 | done |

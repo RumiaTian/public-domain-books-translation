@@ -114,4 +114,33 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
-| - | - | - | （尚未运行） |
+| 2026-10-15 | 01-i.md | done | 开册首章，26 块/74 段对照，check_bilingual 退出码 0；术语表增补 the red hand（红手） |
+| 2026-10-15 | 02-ii.md | done | 38 块/80 段对照，check_bilingual 退出码 0；术语表增补 Wills、Platt-Houston、Furneaux、Stanislaus、Regent's Park、Tongking、the yellow peril |
+| 2026-10-15 | 03-iii.md | done | 14 块/42 段对照，check_bilingual 退出码 0；扎亚特之吻、达寇匪徒全书首现（附原文标注，第 II 章未出现）；术语表增补 3 条（香笺、巨型蜈蚣/蜈蚣属 Scolopendra、高尔夫球杆 brassey） |
+| 2026-10-15 | 04-iv.md | done | 48 块/109 段对照，check_bilingual 退出码 0；卡德比溺亡案，假辫线索，卡拉曼娜（本章未点名）寓所对峙；术语表增补 Mason、Wapping、Shadwell、St. George's、Hanover Hole、Limehouse Reach、Commercial Dock Pier、Brixton、Cold Harbor Lane、the Yellow Movement、P.O.、R.N.R.、Ma 'alesh、Delilah |
+- 2026-10-16 | 05-v | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 07-vii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 06-vi | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 10-x | [1301] 内容拦截，免责前缀重派 1 次仍拦截，按规则跳过保持 todo（待换模型重试） | 直启批次3
+- 2026-10-16 | 08-viii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 09-ix | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 12-xii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 11-xi | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 13-xiii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 14-xiv | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 15-xv | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 16-xvi | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 18-xviii | 直启批次3 子代理完成（免责前缀重派） | check 通过
+- 2026-10-16 | 19-xix | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 20-xx | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 17-xvii | [1301] 内容拦截，免责前缀重派 1 次仍拦截，按规则跳过保持 todo（待换模型重试） | 直启批次3
+- 2026-10-16 | 22-xxii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 21-xxi | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 23-xxiii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 25-xxv | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 24-xxiv | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 26-xxvi | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 27-xxvii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 28-xxviii | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 29-xxix | 直启批次3 子代理完成 | check 通过
+- 2026-10-16 | 30-xxx | 直启批次3 子代理完成 | check 通过

@@ -1,0 +1,73 @@
+## Names of Places / 地名表
+
+===Original===
+- Abakie﻿—an imaginary Eastern land, subject to Siegfried.
+- Abalie﻿—an Eastern land, noted for gems and cloths.
+- Alzabie﻿—a fabulous Moorland city, the residence of Siegfried.
+- Amilé﻿—an imaginary Eastern land, the home of mermaids.
+- Araby﻿—a land whence came fine clothes and treasures.
+- Ballian﻿—Ballyghan, Hagen’s chief city in Ireland.
+- Daneland﻿—not the present Denmark, but, in the ninth century, the seat of the Danes in Friesland, near the mouth of the Scheldt.
+- Dietmarsch﻿—a province subject to Hettel.
+- Friesland﻿—subject to Hettel, and held in fief by Morunc and Irold.
+- Galeis﻿—a land whose people are friendly to Herwic.
+- Galicia﻿—Portugal, the home of Hildeburg.
+- Garadie﻿—an indeterminate country, near Ireland.
+- Givers﻿—a fabulous land, subject to Horant.
+- Gulstred﻿—a place in the West.
+- Hegeling﻿—the name of a people on the North Sea, in Holland, governed by Hettel.
+- Holstein﻿—variously mentioned as subject to Fru-te, to Irolt, and to Ortwin.
+- Icaria﻿—a fabulous land whose people are allies of Siegfried of Moorland.
+- Ireland﻿—The situation seems sometimes to correspond with the modern Ireland, and sometimes to a part of Holland. There is a place in Texel, at the present day, named Eijerland.
+- Iserland﻿—the home of one of Gudrun’s maiden companions.
+- Kampalia﻿—a fabulous land noted for rich clothing.
+- Kampatille﻿—Hettel’s castle, also called Matelan.
+- Karadie﻿—a land belonging to Siegfried of Moorland.
+- Kassian﻿—the chief city and castle of Normandy.
+- Matelan﻿—see Kampatille.
+- Moorland﻿—the kingdom of Siegfried; owing to the love of the marvelous in antiquity, regarded by the poet as the land of the Moors, but probably a low country near the North Sea.
+- Nifland﻿—“the land of fogs,” on the lower Rhine, the home of the Nibelungen.
+- Normandy or Ormanie﻿—may be the country now known as Normandy, or is perhaps a region near the mouth of the Scheldt, where the name Ormans-kapelle occurs in an ancient map.
+- Ortland﻿—probably Jutland, under the rule of Ortwin.
+- Salmé﻿—a fabulous country.
+- Sealand﻿—Herwic’s kingdom, not the Danish Zealand, but probably the sea-lands of Friesland.
+- Scotland﻿—spoken of as belonging to Norway.
+- Sturmland﻿—subject to Wâ-te, adjoining Herwic’s kingdom.
+- Waleis﻿—the western limit of Hettel’s kingdom, by some supposed to be Wales, but generally thought to be the country near the mouth of the river Waal in Holland.
+- Wulpensand﻿—an island at the mouth of the Scheldt.
+
+===Chinese===
+- 阿巴基（Abakie）——虚构的东方之国，隶属西格弗里德（Siegfried）。
+- 阿巴利（Abalie）——东方之国，以宝石与织物著称。
+- 阿尔扎比（Alzabie）——传说中的摩尔兰城市，西格弗里德的居所。
+- 阿米莱（Amilé）——虚构的东方之国，美人鱼的故乡。
+- 阿拉比（Araby）——出产华服与珍宝的国度。
+- 巴利安（Ballian）——即巴利根（Ballyghan），哈根（Hagen）在爱尔兰的都城。
+- 丹麦兰（Daneland）——并非今之丹麦（Denmark），而是九世纪丹麦人聚居于弗里西亚（Friesland）的领地，靠近斯海尔德河（Scheldt）河口。
+- 迪特马什（Dietmarsch）——隶属黑特尔（Hettel）的一省。
+- 弗里西亚（Friesland）——隶属黑特尔，由莫伦克（Morunc）与伊罗尔德（Irold）领有封地。
+- 加莱斯（Galeis）——其民亲善赫尔维克（Herwic）的国度。
+- 加利西亚（Galicia）——即葡萄牙（Portugal），希尔德堡（Hildeburg）的故乡。
+- 加拉迪（Garadie）——方位不明的国度，邻近爱尔兰。
+- 吉弗斯（Givers）——传说中的国度，隶属霍兰特（Horant）。
+- 古尔斯特雷德（Gulstred）——西方的一处地方。
+- 黑格林（Hegeling）——北海（North Sea）一带一个族群之名，居于荷兰（Holland），受黑特尔统治。
+- 荷尔斯泰因（Holstein）——书中或称隶属弗鲁特（Fru-te），或称隶属伊罗尔德（Irolt），或称隶属奥特温（Ortwin）。
+- 伊卡利亚（Icaria）——传说中的国度，其民为摩尔兰西格弗里德的盟友。
+- 爱尔兰（Ireland）——其方位时而似与今之爱尔兰相当，时而又似在荷兰的一部分境内。时至今日，特塞尔（Texel）仍有一地名为艾瑟兰（Eijerland）。
+- 伊瑟兰（Iserland）——古德伦（Gudrun）一位侍女伴的故乡。
+- 坎帕利亚（Kampalia）——传说中的国度，以华服著称。
+- 坎帕蒂勒（Kampatille）——黑特尔的城堡，又名马特兰。
+- 卡拉迪（Karadie）——隶属摩尔兰西格弗里德的国度。
+- 卡西安（Kassian）——诺曼底的都城与城堡。
+- 马特兰（Matelan）——见坎帕蒂勒。
+- 摩尔兰（Moorland）——西格弗里德的王国；因古人嗜好奇异之谈，诗人视之为摩尔人（Moors）的国度，但多半实为北海附近的一片低地。
+- 尼夫兰（Nifland）——「雾之国」，位于莱茵河（Rhine）下游，尼伯龙根人（Nibelungen）的家园。
+- 诺曼底（Normandy）或奥尔马尼（Ormanie）——可能即今所称的诺曼底，也可能是斯海尔德河口一带的地区，古地图上该处标有「奥尔曼斯卡佩勒」（Ormans-kapelle）之名。
+- 奥特兰（Ortland）——或即日德兰（Jutland），由奥特温统治。
+- 萨尔梅（Salmé）——传说中的国度。
+- 西兰（Sealand）——赫尔维克的王国，并非丹麦的西兰岛（Zealand），而多半是弗里西亚的海滨之地。
+- 苏格兰（Scotland）——书中称其为挪威（Norway）的属地。
+- 施图尔姆兰（Sturmland）——隶属瓦特（Wâ-te），与赫尔维克的王国相接。
+- 瓦莱斯（Waleis）——黑特尔王国的西界，有人以为是威尔士（Wales），一般认为则是荷兰瓦尔河（Waal）河口一带之地。
+- 武尔彭沙洲（Wulpensand）——斯海尔德河口的一座岛屿。
