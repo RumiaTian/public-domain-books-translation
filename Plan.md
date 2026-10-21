@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-21，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-10-22，全库生命周期总控）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
@@ -292,7 +292,7 @@
 | 267 | `george-macdonald_the-portent` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_the-portent/译文) (27篇) | [✅ 已审(A)](翻译项目/george-macdonald_the-portent/审核报告.md) | [📦 206KB](翻译项目/george-macdonald_the-portent/预兆.epub) | A 优秀 | 全书 27 章逐块对照未见语义错配、漏译、英文残留或截断，术语… |
 | 268 | `george-macdonald_unspoken-sermons` | ✅ 已入库 | ⚪ 待译 (44篇) | — | — |  |
 | 269 | `george-meredith_the-shaving-of-shagpat` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
-| 270 | `george-schuyler_black-no-more` | ✅ 已入库 | [🟡 86.6%](翻译项目/george-schuyler_black-no-more/译文) (14/15) | — | — | 翻译中 (done 14/15) |
+| 270 | `george-schuyler_black-no-more` | ✅ 已入库 | [🟡 86.6%](翻译项目/george-schuyler_black-no-more/译文) (14/15) | — | — |  |
 | 271 | `george-william-russell_the-national-being` | ✅ 已入库 | [✅ **100%**](翻译项目/george-william-russell_the-national-being/译文) (22篇) | [✅ 已审(A)](翻译项目/george-william-russell_the-national-being/审核报告.md) | [📦 205KB](翻译项目/george-william-russell_the-national-being/国家存在.epub) | A 优秀（出版预备级） | 全书 22 篇 100% 逐块通读对照，结构块对… |
 | 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [🟡 96.4%](翻译项目/georgette-heyer_beauvallet/译文) (28/29) | — | — |  |
 | 273 | `georgette-heyer_simon-the-coldheart` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_simon-the-coldheart/译文) (36篇) | [✅ 已审(B)](翻译项目/georgette-heyer_simon-the-coldheart/审核报告.md) | [📦 460KB](翻译项目/georgette-heyer_simon-the-coldheart/冷酷之心西蒙.epub) | B 良好 | 全书34篇933块双语对照体例严谨、译笔苍劲传神，唯存2处A级… |
