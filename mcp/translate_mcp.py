@@ -50,6 +50,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJ_DIR = os.path.join(ROOT, "翻译项目")
 CHECKER = os.path.join(ROOT, "scripts", "check_bilingual.py")
 LOCK_DIR = os.path.join(os.path.expanduser("~"), ".translate_mcp_locks")  # 跨进程队列锁集中存放，不污染仓库
+_MCP_DIR = os.path.dirname(os.path.abspath(__file__))
+BLOCKLIST_FILE = os.path.join(_MCP_DIR, "拦截清单.txt")   # 1301 内容拦截回避书目（一行一书名，# 注释）
+ACTIVITY_LOG = os.path.join(_MCP_DIR, "活动日志.txt")     # 工具活动足迹：worker 暴毙时供调度会话定位卡住的书
 
 TOTAL_BATCHES = 3        # 红线：与 scan_candidates.py 默认一致，冻结
 LOCK_TIMEOUT_H = 48.0    # 认领.md 锁超时（小时）
@@ -185,8 +188,41 @@ def _run_checker(path):
 
 # ---------- 分块（get_blocks 与 submit 共用，必须确定性一致） ----------
 
+_SENT_RE = re.compile(r"[^.!?。！？…]*[.!?。！？…]+[”’)」』]*", re.S)
+
+
+def _shatter(text):
+    """超长段落（无空行分隔的整段）按句子边界切成 ≤MAX_BLOCK_CHARS 的片段。
+    单句仍超限时按字符硬切，保证块上限永远成立（ii-2 类源文实测需要）。"""
+    if len(text) <= MAX_BLOCK_CHARS:
+        return [text]
+    sents, last = [], 0
+    for m in _SENT_RE.finditer(text):
+        sents.append(text[last:m.end()])
+        last = m.end()
+    if last < len(text):
+        sents.append(text[last:])
+    pieces, cur = [], ""
+    for s in sents:
+        if len(s) > MAX_BLOCK_CHARS:
+            if cur:
+                pieces.append(cur)
+                cur = ""
+            for j in range(0, len(s), MAX_BLOCK_CHARS):
+                pieces.append(s[j:j + MAX_BLOCK_CHARS])
+            continue
+        if cur and len(cur) + len(s) > MAX_BLOCK_CHARS:
+            pieces.append(cur)
+            cur = s
+        else:
+            cur += s
+    if cur:
+        pieces.append(cur)
+    return pieces
+
+
 def _split_blocks(src_text):
-    """按标题切节、按空行打包成 ≤MAX_BLOCK_CHARS 的块。
+    """按标题切节、按空行打包成 ≤MAX_BLOCK_CHARS 的块；超长段落句子级兜底。
     返回 [{i, heading(原始行或None), text(正文)}]"""
     lines = src_text.split("\n")
     blocks = []
@@ -209,11 +245,12 @@ def _split_blocks(src_text):
         para = []
         if not text:
             return
-        add_len = len(text) + 2
-        if cur_paras and cur_len + add_len > MAX_BLOCK_CHARS:
-            close()
-        cur_paras.append(text)
-        cur_len += add_len
+        for piece in _shatter(text):
+            add_len = len(piece) + 2
+            if cur_paras and cur_len + add_len > MAX_BLOCK_CHARS:
+                close()
+            cur_paras.append(piece)
+            cur_len += add_len
 
     for line in lines:
         m = _HEADING_RE.match(line)
@@ -286,9 +323,29 @@ def _valid_prefix(src_blocks, pairs):
 
 # ---------- 工具实现 ----------
 
+def _load_blocklist():
+    if not os.path.isfile(BLOCKLIST_FILE):
+        return []
+    out = []
+    for ln in _read_text(BLOCKLIST_FILE).splitlines():
+        s = ln.strip()
+        if s and not s.startswith("#"):
+            out.append(s)
+    return out
+
+
+def _log_activity(tool, project, fname=""):
+    try:
+        with open(ACTIVITY_LOG, "a", encoding="utf-8") as f:
+            f.write(f"{time.strftime('%Y-%m-%d %H:%M:%S')}|{tool}|{project}|{fname}\n")
+    except OSError:
+        pass
+
+
 def tool_batch_begin(batch_id, dry_run=False):
     if batch_id not in (0, 1, 2, 3):
         raise ToolError("batch_id 取值 1/2/3（0=只读全局总览）")
+    blocklist = _load_blocklist()
     all_dirs = sorted(d for d in os.listdir(PROJ_DIR) if os.path.isdir(os.path.join(PROJ_DIR, d)))
     retry_queue, backfilled, pending_next = [], [], []
     candidates = []
@@ -346,13 +403,19 @@ def tool_batch_begin(batch_id, dry_run=False):
                         retry_queue.append(f"{name}/{fname}")
                     if changed:
                         _write_queue(q, rows)
+                    # 回收动过本书 = 持有者已死，MCP 幽灵锁一并清除（防候选池被排除 48h）
+                    if changed and not dry_run and lock_exists and not expired and _holder_is_mcp(holder):
+                        try:
+                            os.remove(_lock_path(name))
+                        except OSError:
+                            pass
         # 候选统计（回收后重算）
         todo_n = sum(1 for r in rows if r and _row_status(r) == "todo")
         done_n = sum(1 for r in rows if r and _row_status(r) == "done")
         doing_n = sum(1 for r in rows if r and _row_status(r) == "doing")
         if todo_n == 0 and doing_n == 0:
             continue
-        if (batch_id == 0 or b == batch_id) and not (lock_exists and not expired):
+        if (batch_id == 0 or b == batch_id) and not (lock_exists and not expired) and name not in blocklist:
             todo_kb = 0.0
             for r in rows:
                 if r and _row_status(r) == "todo":
@@ -370,6 +433,8 @@ def tool_batch_begin(batch_id, dry_run=False):
     if backfilled:
         lines.append("[已回填done] " + "; ".join(backfilled[:8]) + ("…" if len(backfilled) > 8 else ""))
     lines.append(f"[候选·todo_kb升序·共{len(candidates)}本·显示前12]")
+    if blocklist:
+        lines.append(f"[内容拦截回避 {len(blocklist)} 本·见 mcp/拦截清单.txt] " + "; ".join(blocklist[:5]) + ("…" if len(blocklist) > 5 else ""))
     for rank, (tkb, name, tn, dn, tot) in enumerate(candidates[:12], 1):
         lines.append(f" {rank:2d}. {tkb:7.1f}KB 待译{tn:3d}/{tot:3d} 已译{dn:3d} | {name}")
     if candidates:
@@ -429,6 +494,7 @@ def _parse_glossary(path):
 
 def tool_context_pack(project, fname):
     _safe_component(fname)
+    _log_activity("context_pack", project, fname)
     src_path = _src_path(project, fname)
     if not os.path.isfile(src_path):
         raise ToolError(f"原文不存在: {project}/原文/{fname}")
@@ -498,6 +564,7 @@ def tool_context_pack(project, fname):
 
 def tool_get_blocks(project, fname):
     _safe_component(fname)
+    _log_activity("get_blocks", project, fname)
     src_path = _src_path(project, fname)
     if not os.path.isfile(src_path):
         raise ToolError(f"原文不存在: {project}/原文/{fname}")
@@ -523,6 +590,7 @@ def tool_get_blocks(project, fname):
 
 def tool_submit_translation(project, fname, blocks):
     _safe_component(fname)
+    _log_activity("submit", project, fname)
     src_path = _src_path(project, fname)
     if not os.path.isfile(src_path):
         raise ToolError(f"原文不存在: {project}/原文/{fname}")
@@ -592,7 +660,20 @@ def tool_submit_translation(project, fname, blocks):
             q, rows = _read_queue(project)
             _set_row_status(rows, csv_name, "done")
             _write_queue(q, rows)
+            book_done = not any(
+                r and _row_status(r) in ("todo", "doing") for r in rows[1:]
+            )
+        # 整书收官：清掉本书 MCP 认领锁，避免换书后残留 48h 幽灵锁
+        if book_done:
+            lock_exists, holder, _age, expired = _lock_info(project)
+            if lock_exists and (expired or _holder_is_mcp(holder)):
+                try:
+                    os.remove(_lock_path(project))
+                except OSError:
+                    pass
         msg = f"PASS: {zh_path}（{covered} 块，校验通过，CSV 已回填 done）"
+        if book_done:
+            msg += "；本书 todo 清零，认领锁已清除"
         if suspicious:
             msg += f"\n数字锚点提示（多为误报，供人工抽查）: {len(suspicious)} 处，前5: " + " | ".join(s.strip()[:60] for s in suspicious[:5])
         return msg
