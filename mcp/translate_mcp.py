@@ -361,8 +361,8 @@ def tool_batch_begin(batch_id, dry_run=False):
             continue
         lock_exists, holder, age_h, expired = _lock_info(name)
         changed = False
-        # 残留回收：只动本批次、且无活跃外部锁的项目；粒度到块（锁内读改写）
-        if batch_id != 0 and b == batch_id and not (lock_exists and not expired and not _holder_is_mcp(holder)):
+        # 残留回收：只动本批次、且无活跃外部锁的项目；粒度到块（锁内读改写）；拦截书目冻结不动（防经重试队列回流）
+        if batch_id != 0 and b == batch_id and name not in blocklist and not (lock_exists and not expired and not _holder_is_mcp(holder)):
             with _queue_lock(name):
                 try:
                     _, rows = _read_queue(name)
