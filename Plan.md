@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **448** 完 / **12** 译 / **187** 待（共 647 本） | **9587** / 18180 篇（**151340.4** / 305863.1 KB）· **49.5%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **25** 本待审 | 覆盖精读 **423** 本（**94.4%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **46** 本待打包 | 交付标准双语 EPUB **402** 本（**89.7%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **449** 完 / **12** 译 / **186** 待（共 647 本） | **9600** / 18180 篇（**151743.6** / 305863.1 KB）· **49.6%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **26** 本待审 | 覆盖精读 **423** 本（**94.2%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **47** 本待打包 | 交付标准双语 EPUB **402** 本（**89.5%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **448** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **449** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -242,7 +242,7 @@
 | 217 | `fanny-burney_evelina` | ✅ 已入库 | ⚪ 待译 (88篇) | — | — |  |
 | 218 | `fitz-hugh-ludlow_the-hashish-eater` | ✅ 已入库 | ⚪ 待译 (32篇) | — | — |  |
 | 219 | `ford-madox-ford_a-man-could-stand-up` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_a-man-could-stand-up/译文) (15篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_a-man-could-stand-up/审核报告.md) | [📦 365KB](翻译项目/ford-madox-ford_a-man-could-stand-up/男人可以站起来.epub) | B 良好（合格可出版 / 出版预备级） | 全书 15 篇双语章节（395 … |
-| 220 | `ford-madox-ford_no-more-parades` | ✅ 已入库 | [🟡 77.3%](翻译项目/ford-madox-ford_no-more-parades/译文) (11/12) | — | — | 翻译中 (done 11/12) |
+| 220 | `ford-madox-ford_no-more-parades` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_no-more-parades/译文) (12篇) | ⏳ 待审 | — | 已译完待审 |
 | 221 | `ford-madox-ford_privy-seal` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_privy-seal/译文) (21篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_privy-seal/审核报告.md) | [📦 307KB](翻译项目/ford-madox-ford_privy-seal/御玺.epub) | B 良好 | 译文忠实、完整、文学再现力强（345/345 块无漏译、无截断… |
 | 222 | `ford-madox-ford_some-do-not` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
 | 223 | `ford-madox-ford_the-fifth-queen` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_the-fifth-queen/译文) (23篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_the-fifth-queen/审核报告.md) | [📦 377KB](翻译项目/ford-madox-ford_the-fifth-queen/Privy Seal.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
@@ -497,7 +497,7 @@
 | 472 | `matthew-henson_a-negro-explorer-at-the-north-pole` | ✅ 已入库 | [✅ **100%**](翻译项目/matthew-henson_a-negro-explorer-at-the-north-pole/译文) (26篇) | [✅ 已审(A)](翻译项目/matthew-henson_a-negro-explorer-at-the-north-pole/审核报告.md) | [📦 139KB](翻译项目/matthew-henson_a-negro-explorer-at-the-north-pole/北极黑人探险家.epub) | A 优秀 | 全书译稿结构严密、双语块完全对齐无遗漏截断，探险先驱的叙事声调… |
 | 473 | `max-beerbohm_the-works-of-max-beerbohm` | ✅ 已入库 | [✅ **100%**](翻译项目/max-beerbohm_the-works-of-max-beerbohm/译文) (10篇) | [✅ 已审(B)](翻译项目/max-beerbohm_the-works-of-max-beerbohm/审核报告.md) | [📦 189KB](翻译项目/max-beerbohm_the-works-of-max-beerbohm/马克斯·比尔博姆散文集.epub) | B 良好 | 全书译稿典雅华丽、机锋密集、极富 1890 年代《黄皮书》唯美… |
 | 474 | `may-sinclair_mary-olivier-a-life` | ✅ 已入库 | ⚪ 待译 (35篇) | — | — |  |
-| 475 | `metta-victor_the-dead-letter` | ✅ 已入库 | ⚪ 待译 (25篇) | — | — |  |
+| 475 | `metta-victor_the-dead-letter` | ✅ 已入库 | [🟡 56.0%](翻译项目/metta-victor_the-dead-letter/译文) (12/25) | — | — |  |
 | 476 | `michael-arlen_the-green-hat` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
 | 477 | `mignon-g-eberhart_the-patient-in-room-18` | ✅ 已入库 | [✅ **100%**](翻译项目/mignon-g-eberhart_the-patient-in-room-18/译文) (19篇) | [✅ 已审(B)](翻译项目/mignon-g-eberhart_the-patient-in-room-18/审核报告.md) | [📦 406KB](翻译项目/mignon-g-eberhart_the-patient-in-room-18/The Patient in Room 18.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 478 | `miles-franklin_my-brilliant-career` | ✅ 已入库 | [✅ **100%**](翻译项目/miles-franklin_my-brilliant-career/译文) (41篇) | ⏳ 待审 | — | 已译完待审 |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9587/18180 篇 (49.5%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9600/18180 篇 (49.6%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
 
 ---
 
