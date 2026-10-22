@@ -11,7 +11,7 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **448** 完 / **10** 译 / **189** 待（共 647 本） | **9565** / 18180 篇（**150794.7** / 305863.1 KB）· **49.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段二：翻译执行 (Translation)** | **448** 完 / **12** 译 / **187** 待（共 647 本） | **9587** / 18180 篇（**151340.4** / 305863.1 KB）· **49.5%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
 | **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **25** 本待审 | 覆盖精读 **423** 本（**94.4%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
 | **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **46** 本待打包 | 交付标准双语 EPUB **402** 本（**89.7%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
@@ -131,7 +131,7 @@
 | 106 | `charles-kingsley_hypatia` | ✅ 已入库 | [✅ **100%**](翻译项目/charles-kingsley_hypatia/译文) (30篇) | [✅ 已审(B)](翻译项目/charles-kingsley_hypatia/审核报告.md) | [📦 875KB](翻译项目/charles-kingsley_hypatia/希帕蒂娅.epub) | B 良好 | 译文信达雅俱佳，无错配、漏译、截断等硬伤；主要问题集中在人名/… |
 | 107 | `charles-robert-maturin_melmoth-the-wanderer` | ✅ 已入库 | ⚪ 待译 (39篇) | — | — |  |
 | 108 | `charles-w-chesnutt_the-conjure-woman` | ✅ 已入库 | [✅ **100%**](翻译项目/charles-w-chesnutt_the-conjure-woman/译文) (12篇) | [✅ 已审(A)](翻译项目/charles-w-chesnutt_the-conjure-woman/审核报告.md) | [📦 258KB](翻译项目/charles-w-chesnutt_the-conjure-woman/The Conjure Woman.epub) | A 优秀（出版预备级） | > 全书 12 个文件、531 个对照块结构完备… |
-| 109 | `charles-w-chesnutt_the-marrow-of-tradition` | ✅ 已入库 | [🟡 34.9%](翻译项目/charles-w-chesnutt_the-marrow-of-tradition/译文) (13/38) | — | — | 翻译中 (done 13/38) |
+| 109 | `charles-w-chesnutt_the-marrow-of-tradition` | ✅ 已入库 | [🟡 37.2%](翻译项目/charles-w-chesnutt_the-marrow-of-tradition/译文) (14/38) | — | — |  |
 | 110 | `charlotte-m-yonge_the-clever-woman-of-the-family` | ✅ 已入库 | ⚪ 待译 (30篇) | — | — |  |
 | 111 | `charlotte-perkins-gilman_women-and-economics` | ✅ 已入库 | [✅ **100%**](翻译项目/charlotte-perkins-gilman_women-and-economics/译文) (17篇) | ⏳ 待审 | — | 已译完待审 |
 | 112 | `christopher-morley_parnassus-on-wheels` | ✅ 已入库 | [✅ **100%**](翻译项目/christopher-morley_parnassus-on-wheels/译文) (17篇) | [✅ 已审(A)](翻译项目/christopher-morley_parnassus-on-wheels/审核报告.md) | [📦 180KB](翻译项目/christopher-morley_parnassus-on-wheels/流动的帕纳索斯.epub) | A 优秀 | 全书 17 篇译文质量优异、神形兼备，182 组双语块对照严整… |
@@ -140,7 +140,7 @@
 | 115 | `cicely-hamilton_william-an-englishman` | ✅ 已入库 | [✅ **100%**](翻译项目/cicely-hamilton_william-an-englishman/译文) (18篇) | [✅ 已审(C)](翻译项目/cicely-hamilton_william-an-englishman/审核报告.md) | [📦 308KB](翻译项目/cicely-hamilton_william-an-englishman/英国人威廉.epub) | C 需关注 | 全书译文整体优秀、术语与体例高度可靠，但第 x 章存在一处整… |
 | 116 | `clara-reeve_the-old-english-baron` | ✅ 已入库 | [✅ **100%**](翻译项目/clara-reeve_the-old-english-baron/译文) (3篇) | [✅ 已审](翻译项目/clara-reeve_the-old-english-baron/审核报告.md) | [📦 233KB](翻译项目/clara-reeve_the-old-english-baron/老英格兰男爵.epub) | C+（严重缺陷·阻断发布 / 需重大返工与补译） | > 本书文学底蕴深厚，… |
 | 117 | `clark-ashton-smith_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/clark-ashton-smith_short-fiction/译文) (12篇) | [✅ 已审(A)](翻译项目/clark-ashton-smith_short-fiction/审核报告.md) | [📦 225KB](翻译项目/clark-ashton-smith_short-fiction/Short Fiction.epub) | A 优秀 | 全书 12 篇译文质量上乘，史密斯巴洛克繁复文风还原度高，术语… |
-| 118 | `claude-mckay_banjo` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
+| 118 | `claude-mckay_banjo` | ✅ 已入库 | [🟡 27.2%](翻译项目/claude-mckay_banjo/译文) (10/29) | — | — |  |
 | 119 | `claude-mckay_home-to-harlem` | ✅ 已入库 | [✅ **100%**](翻译项目/claude-mckay_home-to-harlem/译文) (26篇) | ⏳ 待审 | — | 已译完待审 |
 | 120 | `clifford-d-simak_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/clifford-d-simak_short-fiction/译文) (10篇) | [✅ 已审(A)](翻译项目/clifford-d-simak_short-fiction/审核报告.md) | [📦 189KB](翻译项目/clifford-d-simak_short-fiction/Short Fiction.epub) | A 优秀 | 十篇译文全部为高完成度之作——术语表执行严格、跨篇人物（米克两… |
 | 121 | `compton-mackenzie_sinister-street` | ✅ 已入库 | ⚪ 待译 (63篇) | — | — |  |
@@ -242,7 +242,7 @@
 | 217 | `fanny-burney_evelina` | ✅ 已入库 | ⚪ 待译 (88篇) | — | — |  |
 | 218 | `fitz-hugh-ludlow_the-hashish-eater` | ✅ 已入库 | ⚪ 待译 (32篇) | — | — |  |
 | 219 | `ford-madox-ford_a-man-could-stand-up` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_a-man-could-stand-up/译文) (15篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_a-man-could-stand-up/审核报告.md) | [📦 365KB](翻译项目/ford-madox-ford_a-man-could-stand-up/男人可以站起来.epub) | B 良好（合格可出版 / 出版预备级） | 全书 15 篇双语章节（395 … |
-| 220 | `ford-madox-ford_no-more-parades` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
+| 220 | `ford-madox-ford_no-more-parades` | ✅ 已入库 | [🟡 77.3%](翻译项目/ford-madox-ford_no-more-parades/译文) (11/12) | — | — | 翻译中 (done 11/12) |
 | 221 | `ford-madox-ford_privy-seal` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_privy-seal/译文) (21篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_privy-seal/审核报告.md) | [📦 307KB](翻译项目/ford-madox-ford_privy-seal/御玺.epub) | B 良好 | 译文忠实、完整、文学再现力强（345/345 块无漏译、无截断… |
 | 222 | `ford-madox-ford_some-do-not` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
 | 223 | `ford-madox-ford_the-fifth-queen` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_the-fifth-queen/译文) (23篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_the-fifth-queen/审核报告.md) | [📦 377KB](翻译项目/ford-madox-ford_the-fifth-queen/Privy Seal.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9565/18180 篇 (49.3%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9587/18180 篇 (49.5%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
 
 ---
 
