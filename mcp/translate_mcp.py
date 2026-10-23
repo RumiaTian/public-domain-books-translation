@@ -56,6 +56,7 @@ ACTIVITY_LOG = os.path.join(_MCP_DIR, "活动日志.txt")     # 工具活动足�
 
 TOTAL_BATCHES = 3        # 红线：与 scan_candidates.py 默认一致，冻结
 LOCK_TIMEOUT_H = 48.0    # 认领.md 锁超时（小时）
+ACTIVE_GRACE_H = 2.0     # MCP 锁活跃宽限：锁龄小于此值视为"该书有主"（活 worker 每次 claim/submit 都会刷锁），一书一主
 MAX_BLOCK_CHARS = 2400   # get_blocks 单块目标上限（贴近既有译文「几百字数段一块」粒度）
 PACK_STYLE_LINES = 45    # context_pack：领域配置摘要行数
 PACK_ENGINE_LINES = 35   # context_pack：通用引擎摘要行数
@@ -361,8 +362,9 @@ def tool_batch_begin(batch_id, dry_run=False):
             continue
         lock_exists, holder, age_h, expired = _lock_info(name)
         changed = False
-        # 残留回收：只动本批次、且无活跃外部锁的项目；粒度到块（锁内读改写）；拦截书目冻结不动（防经重试队列回流）
-        if batch_id != 0 and b == batch_id and name not in blocklist and not (lock_exists and not expired and not _holder_is_mcp(holder)):
+        # 残留回收：只动本批次、且无活跃外部锁的项目；粒度到块（锁内读改写）；拦截书目冻结不动（防经重试队列回流）；
+        # 活跃 MCP 锁（<2h 心跳）= 并行 worker 正在做，冻结不动（防误重置在译章节）
+        if batch_id != 0 and b == batch_id and name not in blocklist and not (lock_exists and not expired and not _holder_is_mcp(holder)) and not (lock_exists and not expired and _holder_is_mcp(holder) and age_h < ACTIVE_GRACE_H):
             with _queue_lock(name):
                 try:
                     _, rows = _read_queue(name)
@@ -452,6 +454,8 @@ def tool_claim_task(project):
     lock_exists, holder, age_h, expired = _lock_info(project)
     if lock_exists and not expired and not _holder_is_mcp(holder):
         raise ToolError(f"{project} 被外部锁持有({holder}，{age_h:.1f}h)，未超 {LOCK_TIMEOUT_H}h 不可接管")
+    if lock_exists and not expired and _holder_is_mcp(holder) and age_h < ACTIVE_GRACE_H:
+        raise ToolError(f"{project} 正被另一 worker 活跃持有（锁龄 {age_h * 60:.0f} 分钟 < {ACTIVE_GRACE_H}h，一书一主），请换候选单下一本")
     with _queue_lock(project):
         q, rows = _read_queue(project)
         target = None
@@ -594,6 +598,7 @@ def tool_get_blocks(project, fname):
 def tool_submit_translation(project, fname, blocks):
     _safe_component(fname)
     _log_activity("submit", project, fname)
+    _touch_lock(project)  # 提交即心跳：维持"一书一主"的活跃锁
     src_path = _src_path(project, fname)
     if not os.path.isfile(src_path):
         raise ToolError(f"原文不存在: {project}/原文/{fname}")
