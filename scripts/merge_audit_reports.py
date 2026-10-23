@@ -42,7 +42,7 @@ def extract_meta(report_text):
         title = m_title.group(1).strip()
 
     # 提取日期
-    date = "2026-10-11"
+    date = "2026-10-23"
     m_date = re.search(r"审[核校]日期[\*#\s]*[：:][\*#\s]*([0-9]{4}-[0-9]{2}-[0-9]{2})", report_text)
     if m_date:
         date = m_date.group(1).strip()
@@ -102,31 +102,31 @@ def merge_project_reports(pname):
 
     combined_content = f"""# 《{title}》全书双语审校报告
 
-- **审校日期**：{meta_a.get('date', '2026-10-11')}
-- **质量等级**：**{final_grade}**
-- **审校模式**：双独立代理分卷精读（Part A 前半卷 + Part B 后半卷）
-- **一句话结论**：全书各章节经分卷 100% 逐段逐句对照全景精读。Part A 评定为【{meta_a['grade']}】，Part B 评定为【{meta_b['grade']}】。综合评定为 **{final_grade}**。
+- 审校日期：{meta_a.get('date', '2026-10-23')}
+- 质量等级：{final_grade}
+- 审校模式：双独立代理分卷精读（Part A 前半卷 + Part B 后半卷）
+- 一句话结论：全书各章节经分卷 100% 逐段逐句对照全景精读，Part A 评定为【{meta_a['grade']}】，Part B 评定为【{meta_b['grade']}】，综合评定为 {final_grade}
 
 ---
 
 ## 一、分卷审校概况与双卷综合评定
 
-本书采用**多代理分卷精读（Partitioned Deep Review）策略**，由两名独立审校代理分别对前后两半卷进行逐块深度核查：
-- **前半卷（Part A）**：评级为 **{meta_a['grade']}**。摘要：{meta_a['summary'] or '无重大缺陷'}
-- **后半卷（Part B）**：评级为 **{meta_b['grade']}**。摘要：{meta_b['summary'] or '无重大缺陷'}
-- **全书终审定级**：综合前后双卷，遵照严格门禁规范，全书定级为 **{final_grade}**。
+本书采用多代理分卷精读策略，由两名独立审校代理分别对前后两半卷进行逐块深度核查：
+- 前半卷（Part A）：评级为 {meta_a['grade']}，摘要：{meta_a['summary'] or '无重大缺陷'}
+- 后半卷（Part B）：评级为 {meta_b['grade']}，摘要：{meta_b['summary'] or '无重大缺陷'}
+- 全书终审定级：综合前后双卷，遵照严格门禁规范，全书定级为 {final_grade}
 
 ---
 
 ## 二、全书主要缺陷与修改建议汇总
 
-### 2.1 前半卷（Part A）核查明细
-{defects_a if defects_a else "前半卷经逐段对照，未发现 A 级重大缺陷与 B 级格式硬伤。"}
+### 前半卷（Part A）核查明细
+{defects_a if defects_a else "前半卷经逐段对照，未发现 A 级重大缺陷与 B 级格式硬伤"}
 
 ---
 
-### 2.2 后半卷（Part B）核查明细
-{defects_b if defects_b else "后半卷经逐段对照，未发现 A 级重大缺陷与 B 级格式硬伤。"}
+### 后半卷（Part B）核查明细
+{defects_b if defects_b else "后半卷经逐段对照，未发现 A 级重大缺陷与 B 级格式硬伤"}
 
 ---
 
