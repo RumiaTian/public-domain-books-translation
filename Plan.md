@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **450** 完 / **12** 译 / **185** 待（共 647 本） | **9624** / 18180 篇（**152256.2** / 305863.1 KB）· **49.8%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **27** 本待审 | 覆盖精读 **423** 本（**94.0%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **48** 本待打包 | 交付标准双语 EPUB **402** 本（**89.3%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **452** 完 / **14** 译 / **181** 待（共 647 本） | **9663** / 18180 篇（**152990.2** / 305863.1 KB）· **50.0%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **29** 本待审 | 覆盖精读 **423** 本（**93.6%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **50** 本待打包 | 交付标准双语 EPUB **402** 本（**88.9%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **450** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **452** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -235,7 +235,7 @@
 | 210 | `ernest-howard-crosby_captain-jinks-hero` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-howard-crosby_captain-jinks-hero/译文) (17篇) | [✅ 已审(B)](翻译项目/ernest-howard-crosby_captain-jinks-hero/审核报告.md) | [📦 338KB](翻译项目/ernest-howard-crosby_captain-jinks-hero/金克斯上尉：英雄.epub) | B 良好 | 全书17章完整精译、无断章漏译与A级错误，讽刺神韵传神，唯个别… |
 | 211 | `ernest-poole_his-family` | ✅ 已入库 | ⚪ 待译 (45篇) | — | — |  |
 | 212 | `ernest-shackleton_south` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
-| 213 | `errico-malatesta_essays_various-translators` | ✅ 已入库 | ⚪ 待译 (16篇) | — | — |  |
+| 213 | `errico-malatesta_essays_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/errico-malatesta_essays_various-translators/译文) (16篇) | ⏳ 待审 | — | 已译完待审 |
 | 214 | `etsu-inagaki-sugimoto_a-daughter-of-the-samurai` | ✅ 已入库 | ⚪ 待译 (35篇) | — | — |  |
 | 215 | `evelyn-underhill_practical-mysticism` | ✅ 已入库 | [✅ **100%**](翻译项目/evelyn-underhill_practical-mysticism/译文) (13篇) | [✅ 已审(B)](翻译项目/evelyn-underhill_practical-mysticism/审核报告.md) | [📦 169KB](翻译项目/evelyn-underhill_practical-mysticism/实用神秘主义.epub) | B 良好（极度接近 A 优秀；待补齐 1 处 A 级漏句后即升为 A 优秀 … |
 | 216 | `f-marion-crawford_khaled` | ✅ 已入库 | [✅ **100%**](翻译项目/f-marion-crawford_khaled/译文) (12篇) | [✅ 已审](翻译项目/f-marion-crawford_khaled/审核报告.md) | [📦 264KB](翻译项目/f-marion-crawford_khaled/哈立德.epub) | B。 | 全书 12 章双语块完整对应、无 A 级硬伤，文学性与叙事流畅度上… |
@@ -343,7 +343,7 @@
 | 318 | `hilaire-belloc_the-cruise-of-the-nona` | ✅ 已入库 | ⚪ 待译 (18篇) | — | — |  |
 | 319 | `hilaire-belloc_the-four-men` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-four-men/译文) (9篇) | [✅ 已审](翻译项目/hilaire-belloc_the-four-men/审核报告.md) | [📦 271KB](翻译项目/hilaire-belloc_the-four-men/四个人.epub) | A（优秀） |
 | 320 | `hilaire-belloc_the-mercy-of-allah` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
-| 321 | `hilaire-belloc_the-servile-state` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
+| 321 | `hilaire-belloc_the-servile-state` | ✅ 已入库 | [🟡 26.0%](翻译项目/hilaire-belloc_the-servile-state/译文) (6/15) | — | — |  |
 | 322 | `hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/译文) (36篇) | [✅ 已审](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/审核报告.md) | [📦 207KB](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/马丁·比尔克的青春.epub) | A 级（优秀 / Excellent） | > 全书 36 篇译文双语块与段… |
 | 323 | `hjalmar-soderberg_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_short-fiction_various-translators/译文) (19篇) | [✅ 已审(A)](翻译项目/hjalmar-soderberg_short-fiction_various-translators/审核报告.md) | [📦 121KB](翻译项目/hjalmar-soderberg_short-fiction_various-translators/瑟德尔贝里短篇集.epub) | A 优秀 | 全书 19 篇双语块对照严丝合缝，无任何语义错配、整段漏译、章… |
 | 324 | `honore-de-balzac_shorts-from-scenes-from-private-life_various-translators` | ✅ 已入库 | ⚪ 待译 (22篇) | — | — |  |
@@ -556,7 +556,7 @@
 | 531 | `r-austin-freeman_the-eye-of-osiris` | ✅ 已入库 | [✅ **100%**](翻译项目/r-austin-freeman_the-eye-of-osiris/译文) (20篇) | [✅ 已审(B)](翻译项目/r-austin-freeman_the-eye-of-osiris/审核报告.md) | ⏳ 待打包 | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 532 | `r-austin-freeman_the-mystery-of-31-new-inn` | ✅ 已入库 | [✅ **100%**](翻译项目/r-austin-freeman_the-mystery-of-31-new-inn/译文) (19篇) | [✅ 已审(A)](翻译项目/r-austin-freeman_the-mystery-of-31-new-inn/审核报告.md) | [📦 385KB](翻译项目/r-austin-freeman_the-mystery-of-31-new-inn/新客栈 31 号之谜.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 533 | `r-d-blackmore_the-maid-of-sker` | ✅ 已入库 | ⚪ 待译 (70篇) | — | — |  |
-| 534 | `r-h-tawney_the-acquisitive-society` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
+| 534 | `r-h-tawney_the-acquisitive-society` | ✅ 已入库 | [✅ **100%**](翻译项目/r-h-tawney_the-acquisitive-society/译文) (12篇) | ⏳ 待审 | — | 已译完待审 |
 | 535 | `radclyffe-hall_adams-breed` | ✅ 已入库 | ⚪ 待译 (37篇) | — | — |  |
 | 536 | `rafael-sabatini_bellarion-the-fortunate` | ✅ 已入库 | ⚪ 待译 (50篇) | — | — |  |
 | 537 | `rafael-sabatini_captain-blood` | ✅ 已入库 | ⚪ 待译 (31篇) | — | — |  |
@@ -625,7 +625,7 @@
 | 600 | `voltairine-de-cleyre_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/voltairine-de-cleyre_poetry/译文) (39篇) | [✅ 已审(A)](翻译项目/voltairine-de-cleyre_poetry/审核报告.md) | [📦 102KB](翻译项目/voltairine-de-cleyre_poetry/沃尔泰琳·德·克莱尔诗集.epub) | A 优秀 | 全书 39 篇（覆盖 2094 行译文、152 组双语对照块）… |
 | 601 | `voltairine-de-cleyre_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/voltairine-de-cleyre_short-fiction/译文) (14篇) | [✅ 已审(B)](翻译项目/voltairine-de-cleyre_short-fiction/审核报告.md) | [📦 135KB](翻译项目/voltairine-de-cleyre_short-fiction/沃尔泰琳·德·克莱尔短篇小说集.epub) | B 良好 | 全书十四篇译文整体质量上乘，深刻再现了德·克莱尔社会批判小说的… |
 | 602 | `w-e-b-du-bois_dark-princess` | ✅ 已入库 | ⚪ 待译 (6篇) | — | — |  |
-| 603 | `w-e-b-du-bois_darkwater` | ✅ 已入库 | ⚪ 待译 (13篇) | — | — |  |
+| 603 | `w-e-b-du-bois_darkwater` | ✅ 已入库 | [🟡 48.0%](翻译项目/w-e-b-du-bois_darkwater/译文) (5/13) | — | — |  |
 | 604 | `w-e-b-du-bois_the-quest-of-the-silver-fleece` | ✅ 已入库 | [✅ **100%**](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/译文) (40篇) | [✅ 已审(B)](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/审核报告.md) | [📦 577KB](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/银色羊毛的追寻.epub) | B 良好 | 译文整体忠实、文学性上佳，方言分层（佐拉/老辈黑人/教育者）与… |
 | 605 | `w-h-hudson_the-purple-land` | ✅ 已入库 | ⚪ 待译 (31篇) | — | — |  |
 | 606 | `w-n-p-barbellion_the-journal-of-a-disappointed-man` | ✅ 已入库 | ⚪ 待译 (5篇) | — | — |  |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9624/18180 篇 (49.8%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9663/18180 篇 (50.0%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
 
 ---
 
