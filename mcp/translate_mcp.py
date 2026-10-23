@@ -446,6 +446,9 @@ def tool_batch_begin(batch_id, dry_run=False):
 
 def tool_claim_task(project):
     _proj_path(project)
+    if project in _load_blocklist():
+        raise ToolError(f"{project} 在 mcp/拦截清单.txt 中（1301 回避），请从候选单另选；人工核查后删除该行即可解冻")
+    _log_activity("claim", project)
     lock_exists, holder, age_h, expired = _lock_info(project)
     if lock_exists and not expired and not _holder_is_mcp(holder):
         raise ToolError(f"{project} 被外部锁持有({holder}，{age_h:.1f}h)，未超 {LOCK_TIMEOUT_H}h 不可接管")
