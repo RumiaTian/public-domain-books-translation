@@ -56,7 +56,7 @@ ACTIVITY_LOG = os.path.join(_MCP_DIR, "活动日志.txt")     # 工具活动足�
 
 TOTAL_BATCHES = 3        # 红线：与 scan_candidates.py 默认一致，冻结
 LOCK_TIMEOUT_H = 48.0    # 认领.md 锁超时（小时）
-ACTIVE_GRACE_H = 2.0     # MCP 锁活跃宽限：锁龄小于此值视为"该书有主"（活 worker 每次 claim/submit 都会刷锁），一书一主
+ACTIVE_GRACE_H = 4.0     # MCP 锁活跃宽限：锁龄小于此值视为"该书有主"（活 worker 每次 claim/submit 都会刷锁）；同批次窗口间隔≥8h，取 4h 不阻塞任何接管路径
 MAX_BLOCK_CHARS = 2400   # get_blocks 单块目标上限（贴近既有译文「几百字数段一块」粒度）
 PACK_STYLE_LINES = 45    # context_pack：领域配置摘要行数
 PACK_ENGINE_LINES = 35   # context_pack：通用引擎摘要行数
