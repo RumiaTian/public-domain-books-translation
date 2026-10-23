@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-22，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-10-23，全库生命周期总控）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **449** 完 / **12** 译 / **186** 待（共 647 本） | **9600** / 18180 篇（**151743.6** / 305863.1 KB）· **49.6%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **26** 本待审 | 覆盖精读 **423** 本（**94.2%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **47** 本待打包 | 交付标准双语 EPUB **402** 本（**89.5%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **450** 完 / **12** 译 / **185** 待（共 647 本） | **9624** / 18180 篇（**152256.2** / 305863.1 KB）· **49.8%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **423** 本已审 / **27** 本待审 | 覆盖精读 **423** 本（**94.0%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **402** 本已打包 / **48** 本待打包 | 交付标准双语 EPUB **402** 本（**89.3%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **449** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **450** 本译完，**423** 本完成独立审校，**402** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -449,7 +449,7 @@
 | 424 | `lewis-carroll_sylvie-and-bruno` | ✅ 已入库 | ⚪ 待译 (55篇) | — | — |  |
 | 425 | `lewis-mumford_sticks-and-stones` | ✅ 已入库 | [✅ **100%**](翻译项目/lewis-mumford_sticks-and-stones/译文) (12篇) | [✅ 已审(A)](翻译项目/lewis-mumford_sticks-and-stones/审核报告.md) | [📦 220KB](翻译项目/lewis-mumford_sticks-and-stones/棍棒与石头.epub) | A 优秀 | 全书 12 篇、92 个双语块、222 个自然段实现 100%… |
 | 426 | `liam-oflaherty_the-informer` | ✅ 已入库 | [✅ **100%**](翻译项目/liam-oflaherty_the-informer/译文) (18篇) | [✅ 已审(A)](翻译项目/liam-oflaherty_the-informer/审核报告.md) | [📦 347KB](翻译项目/liam-oflaherty_the-informer/告密者.epub) | A 优秀 | 全书18章379个双语块及1301段落实现100%同位对照，文… |
-| 427 | `lloyd-c-douglas_magnificent-obsession` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
+| 427 | `lloyd-c-douglas_magnificent-obsession` | ✅ 已入库 | [✅ **100%**](翻译项目/lloyd-c-douglas_magnificent-obsession/译文) (24篇) | ⏳ 待审 | — | 已译完待审 |
 | 428 | `lord-dunsany_the-charwomans-shadow` | ✅ 已入库 | [✅ **100%**](翻译项目/lord-dunsany_the-charwomans-shadow/译文) (30篇) | [✅ 已审(B)](翻译项目/lord-dunsany_the-charwomans-shadow/审核报告.md) | [📦 349KB](翻译项目/lord-dunsany_the-charwomans-shadow/The Charwoman's Shadow.epub) | B 良好 | 全书 30 篇结构完整、文风典雅贴切、英文对照块近乎逐字保真，… |
 | 429 | `lord-dunsany_the-king-of-elflands-daughter` | ✅ 已入库 | [✅ **100%**](翻译项目/lord-dunsany_the-king-of-elflands-daughter/译文) (36篇) | [✅ 已审(B)](翻译项目/lord-dunsany_the-king-of-elflands-daughter/审核报告.md) | [📦 329KB](翻译项目/lord-dunsany_the-king-of-elflands-daughter/The King of Elfland’s Daughter.epub) | B 良好（接近 A） | 译文语体统一、文笔精当，无 A 级错配/漏译/截断… |
 | 430 | `louis-bromfield_early-autumn` | ✅ 已入库 | ⚪ 待译 (11篇) | — | — |  |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9600/18180 篇 (49.6%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9624/18180 篇 (49.8%)** | **423 本完成** | **402 本完成** | 全流程四阶段闭环 |
 
 ---
 
