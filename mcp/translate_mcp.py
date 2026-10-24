@@ -152,8 +152,13 @@ def _lock_path(project):
 
 
 def _holder_is_mcp(holder):
-    """认领.md 首行形如「translate-mcp | 时间戳」，按前缀判定持有者"""
-    return holder.split("|")[0].strip() == "translate-mcp"
+    """认领.md 首行形如「translate-mcp <id> | 时间戳」（旧格式无 id），按前缀判定持有者"""
+    return holder.split("|")[0].strip().startswith("translate-mcp")
+
+
+def _holder_self(holder):
+    """锁是否由当前 MCP 进程持有（owner 重入自己的书）"""
+    return holder.split("|")[0].strip() == "translate-mcp " + _SELF_ID
 
 
 def _lock_info(project):
@@ -166,10 +171,13 @@ def _lock_info(project):
     return True, holder, age_h, age_h >= LOCK_TIMEOUT_H
 
 
-def _touch_lock(project, holder="translate-mcp"):
+_SELF_ID = __import__("uuid").uuid4().hex[:8]  # 每个 MCP 服务进程唯一：锁持有者身份，自己可重入自己的锁
+
+
+def _touch_lock(project, holder=None):
     lp = _lock_path(project)
     with open(lp, "w", encoding="utf-8", newline="") as f:
-        f.write(f"{holder} | {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"{holder or ('translate-mcp ' + _SELF_ID)} | {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
 
 
 def _run_checker(path):
@@ -454,7 +462,7 @@ def tool_claim_task(project):
     lock_exists, holder, age_h, expired = _lock_info(project)
     if lock_exists and not expired and not _holder_is_mcp(holder):
         raise ToolError(f"{project} 被外部锁持有({holder}，{age_h:.1f}h)，未超 {LOCK_TIMEOUT_H}h 不可接管")
-    if lock_exists and not expired and _holder_is_mcp(holder) and age_h < ACTIVE_GRACE_H:
+    if lock_exists and not expired and _holder_is_mcp(holder) and age_h < ACTIVE_GRACE_H and not _holder_self(holder):
         raise ToolError(f"{project} 正被另一 worker 活跃持有（锁龄 {age_h * 60:.0f} 分钟 < {ACTIVE_GRACE_H}h，一书一主），请换候选单下一本")
     with _queue_lock(project):
         q, rows = _read_queue(project)

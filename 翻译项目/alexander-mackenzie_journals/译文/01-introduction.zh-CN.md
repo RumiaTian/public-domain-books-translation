@@ -1,0 +1,26 @@
+## Introduction / 导言
+===Original===
+
+The exact date of Sir Alexander Mackenzie’s birth is not accurately known, although it is supposed he was born at Inverness, Scotland, about 1755. He came to North America at an early age and obtained employment in the countinghouse of Messrs. Gregory and Co., a connection of the Northwest Fur Company. It was while he was with this company that he obtained the experience and knowledge necessary to his profession of a fur-trader, long before he undertook his arduous and dangerous expeditions to the far north. He was soon to distinguish himself. His firm gave him a small venture to Detroit on condition that he penetrate to the back country, which was then almost entirely unexplored, and open up trade with the Indians. He carried out his task in his usual thorough manner, but not without a severe struggle with a party of European traders, who had already obtained a foothold on the margin of this district, and who resented any interference with their monopoly by outside parties. However, finally the intruders were permitted to remain and share in the trade with the first comers. For many years after this, Mr. Mackenzie was occupied in trading and exploring in various parts of the continent, but of these operations we have, unfortunately, little or no record. After the amalgamation of the Northwest Company with the older Hudson’s Bay Company, Mr. Mackenzie appears to have resided in Canada, where he became a member of the provincial parliament, representing Huntingdon County. He married in 1812, and afterwards bought an estate at Avoch, Ross-shire, Scotland, where he resided until his death in March, 1820.
+It is as an explorer of the vast and lonely wilds of the North that Mackenzie’s fame chiefly rests. The bravery and hardihood which carried him thousands of miles over the prairie and muskegs of the illimitable plains, down the rapids of great unknown rivers, over the ranges of almost impassable mountains, will always command the admiration of all who care for noble deeds. With a small party of Canadian voyageurs and Indians, in birch-bark canoes, Mr. Mackenzie started to explore the unknown regions of the North. Skirting the Great Slave Lake, he finally entered the Mackenzie River, and then began that long, deep plunge into the wilderness, which lasted many months, until he finally emerged on the shores of the Arctic Ocean, in Latitude 69° north.
+
+===Chinese===
+
+亚历山大·麦肯齐爵士（Sir Alexander Mackenzie）的确切生年已不可考，据推测约于1755年生在苏格兰因弗内斯（Inverness, Scotland）。他年少即来到北美，进了格雷戈里商行（Messrs. Gregory and Co.）的账房（countinghouse）做事——该行与西北毛皮公司有渊源。正是在这家公司里，他学得了一名皮毛商人所必需的经验与知识；这远在他远赴极北之地从事那些艰险考察之前。他很快就崭露头角。商行交给他一桩往底特律（Detroit）的小本生意，条件是深入腹地——那里当时几乎全然未探——并同印第安人（Indians）开辟贸易。他以一贯的周全作风完成了任务，但并非没有经过一场恶斗：一伙已在当地边缘站稳脚跟的欧洲商人，怨恨外人插手他们的垄断。不过，闯入者最终获准留下，同先来者分享贸易。此后多年，麦肯齐先生在大陆各地从事贸易与考察，可惜这些活动，我们几乎没有留下什么记载。西北公司与资历更老的哈得孙湾公司合并之后，麦肯齐先生似乎定居加拿大，当选省议会议员，代表亨廷登县（Huntingdon County）。他于1812年结婚，后在苏格兰罗斯郡阿沃赫（Avoch, Ross-shire）购得一处田产，居住至1820年3月去世。
+麦肯齐的名声，主要建立在他是北方苍茫寂寥的荒原的探察者之上。那股勇敢与坚韧，载着他跋涉数千英里，越过无边平原上的草甸与泥炭沼，顺无名大河的激流而下，翻越几乎不可通行的重重山脉——这必将永远赢得所有崇尚壮举之人的敬仰。麦肯齐先生带着一小队加拿大船夫（voyageurs）和印第安人，乘桦皮独木舟，出发探察北方未知的地域。他绕大奴湖而行，最终驶入麦肯齐河，随即开始那次长达数月、深深扎进荒野的远航，直到最终出现在北纬69度的北冰洋岸边。
+
+===Original===
+
+Here he set up a post with his name and date of visit. The return voyage was fraught with many dangers and vicissitudes, but he finally arrived safely at Fort Chipewyan in September, 1789.
+Mr. Mackenzie’s next expedition was even more dangerous and difficult than the former. He started from Fort Chipewyan on the 10th of July, 1792, with the object of reaching the Pacific Coast, an enterprise never before attempted by a European. After more than nine months of perilous travel he achieved his ambition and reached the Great Western Ocean near Cape Menzies on the 22nd June, 1793. He is said to have inscribed on the face of a rock the date of his visit, and here it was that he was nearly murdered by the natives before setting out on his return.
+The results of Mr. Mackenzie’s voyages to the far north have not been meagre. The opening of the territory to the west of the Rocky Mountains, followed quickly after; and the great Hudson’s Bay Company immediately started to stud the whole northern country with small trading posts, whence have been drawn since incalculable riches in the furs of the North.
+All this is easy enough to write down, but the tale is still far from being told in full. What of the long days of gloom and loneliness, days of peril and uncertainty, days when hope had almost reached the vanishing point? Who shall speak? It is a fascinating record which has placed the name of this indomitable Scotchman beside the names of the world’s greatest explorers.
+Robert Waite
+
+===Chinese===
+
+他在那里立起一根桩柱，刻上自己的姓名和到访日期。归程危机四伏、波折重重，但他终于平安抵达奇佩维安堡（Fort Chipewyan），时在1789年9月。
+麦肯齐先生的下一次远征比前一次更加危险、更加艰难。1792年7月10日，他从奇佩维安堡启程，志在抵达太平洋沿岸——这是一桩欧洲人从未尝试过的事业。历经九个多月的险途，他如愿以偿，于1793年6月22日抵达门齐斯角（Cape Menzies）附近的大西海（Great Western Ocean）之滨。据说他曾在一面岩壁上刻下到访日期；也正是在这里，动身返程之前，他险些被土著杀害。
+麦肯齐先生的极北航行，成果绝非微薄。落基山脉（Rocky Mountains）以西地域的开放接踵而至；强大的哈得孙湾公司随即开始在整个北方乡野布满小型贸易站，从此源源采得北方毛皮的无尽财富。
+这一切写下来容易，但故事远未说尽。那些漫长的阴郁与孤寂的日子，那些凶险与渺茫的日子，那些希望几乎消散于无形的日日夜夜，又由谁来讲述呢？正是这份动人的记录，把这位不屈不挠的苏格兰人的名字，安放在了世界上最伟大的探险家们的名字之侧。
+罗伯特·韦特（Robert Waite）
