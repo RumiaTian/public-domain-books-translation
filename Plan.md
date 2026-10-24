@@ -131,7 +131,7 @@
 | 106 | `charles-kingsley_hypatia` | ✅ 已入库 | [✅ **100%**](翻译项目/charles-kingsley_hypatia/译文) (30篇) | [✅ 已审(B)](翻译项目/charles-kingsley_hypatia/审核报告.md) | [📦 875KB](翻译项目/charles-kingsley_hypatia/希帕蒂娅.epub) | B 良好 | 译文信达雅俱佳，无错配、漏译、截断等硬伤；主要问题集中在人名/… |
 | 107 | `charles-robert-maturin_melmoth-the-wanderer` | ✅ 已入库 | ⚪ 待译 (39篇) | — | — |  |
 | 108 | `charles-w-chesnutt_the-conjure-woman` | ✅ 已入库 | [✅ **100%**](翻译项目/charles-w-chesnutt_the-conjure-woman/译文) (12篇) | [✅ 已审(A)](翻译项目/charles-w-chesnutt_the-conjure-woman/审核报告.md) | [📦 258KB](翻译项目/charles-w-chesnutt_the-conjure-woman/The Conjure Woman.epub) | A 优秀（出版预备级） | > 全书 12 个文件、531 个对照块结构完备… |
-| 109 | `charles-w-chesnutt_the-marrow-of-tradition` | ✅ 已入库 | [🟡 37.2%](翻译项目/charles-w-chesnutt_the-marrow-of-tradition/译文) (14/38) | — | — |  |
+| 109 | `charles-w-chesnutt_the-marrow-of-tradition` | ✅ 已入库 | [✅ **100%**](翻译项目/charles-w-chesnutt_the-marrow-of-tradition/译文) (38篇) | ⏳ 待审 | — | 已译完待审 |
 | 110 | `charlotte-m-yonge_the-clever-woman-of-the-family` | ✅ 已入库 | ⚪ 待译 (30篇) | — | — |  |
 | 111 | `charlotte-perkins-gilman_women-and-economics` | ✅ 已入库 | [✅ **100%**](翻译项目/charlotte-perkins-gilman_women-and-economics/译文) (17篇) | [✅ 已审(A)](翻译项目/charlotte-perkins-gilman_women-and-economics/审核报告.md) | ⏳ 待打包 | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 112 | `christopher-morley_parnassus-on-wheels` | ✅ 已入库 | [✅ **100%**](翻译项目/christopher-morley_parnassus-on-wheels/译文) (17篇) | [✅ 已审(A)](翻译项目/christopher-morley_parnassus-on-wheels/审核报告.md) | [📦 180KB](翻译项目/christopher-morley_parnassus-on-wheels/流动的帕纳索斯.epub) | A 优秀 | 全书 17 篇译文质量优异、神形兼备，182 组双语块对照严整… |
@@ -230,7 +230,7 @@
 | 205 | `emile-gaboriau_monsieur-lecoq_laura-e-kendall` | ✅ 已入库 | ⚪ 待译 (84篇) | — | — |  |
 | 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
 | 207 | `emile-gaboriau_the-slaves-of-paris_charles-scribners-sons` | ✅ 已入库 | ⚪ 待译 (64篇) | — | — |  |
-| 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [🟡 11.0%](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (2/36) | — | — |  |
+| 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [✅ **100%**](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (36篇) | ⏳ 待审 | — | 已译完待审 |
 | 209 | `ernest-bramah_kai-lungs-golden-hours` | ✅ 已入库 | ⚪ 待译 (13篇) | — | — |  |
 | 210 | `ernest-howard-crosby_captain-jinks-hero` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-howard-crosby_captain-jinks-hero/译文) (17篇) | [✅ 已审(B)](翻译项目/ernest-howard-crosby_captain-jinks-hero/审核报告.md) | [📦 338KB](翻译项目/ernest-howard-crosby_captain-jinks-hero/金克斯上尉：英雄.epub) | B 良好 | 全书17章完整精译、无断章漏译与A级错误，讽刺神韵传神，唯个别… |
 | 211 | `ernest-poole_his-family` | ✅ 已入库 | ⚪ 待译 (45篇) | — | — |  |
@@ -284,7 +284,7 @@
 | 259 | `george-dilnot_the-lazy-detective` | ✅ 已入库 | [✅ **100%**](翻译项目/george-dilnot_the-lazy-detective/译文) (30篇) | [✅ 已审(A)](翻译项目/george-dilnot_the-lazy-detective/审核报告.md) | [📦 358KB](翻译项目/george-dilnot_the-lazy-detective/The Lazy Detective.epub) | A 优秀（出版预备级） | 全书 30 章逐块逐段全文精读对照无遗漏，双语块… |
 | 260 | `george-du-maurier_trilby` | ✅ 已入库 | ⚪ 待译 (9篇) | — | — |  |
 | 261 | `george-eliot_daniel-deronda` | ✅ 已入库 | ⚪ 待译 (82篇) | — | — |  |
-| 262 | `george-grey_polynesian-mythology` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
+| 262 | `george-grey_polynesian-mythology` | ✅ 已入库 | [🟡 90.5%](翻译项目/george-grey_polynesian-mythology/译文) (27/29) | — | — |  |
 | 263 | `george-macdonald_lilith` | ✅ 已入库 | ⚪ 待译 (49篇) | — | — |  |
 | 264 | `george-macdonald_phantastes` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_phantastes/译文) (26篇) | [✅ 已审(B)](翻译项目/george-macdonald_phantastes/审核报告.md) | [📦 342KB](翻译项目/george-macdonald_phantastes/Phantastes.epub) | B 良好 | 全书 381 块逐块核对，语义准确、覆盖完整、术语主体落位良好… |
 | 265 | `george-macdonald_poetry` | ✅ 已入库 | ⚪ 待译 (230篇) | — | — |  |
@@ -359,7 +359,7 @@
 | 334 | `j-j-connington_nordenholts-million` | ✅ 已入库 | ⚪ 待译 (22篇) | — | — |  |
 | 335 | `j-j-connington_the-case-with-nine-solutions` | ✅ 已入库 | [✅ **100%**](翻译项目/j-j-connington_the-case-with-nine-solutions/译文) (19篇) | [✅ 已审(B)](翻译项目/j-j-connington_the-case-with-nine-solutions/审核报告.md) | [📦 359KB](翻译项目/j-j-connington_the-case-with-nine-solutions/九种解答.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 336 | `j-j-connington_tragedy-at-ravensthorpe` | ✅ 已入库 | [✅ **100%**](翻译项目/j-j-connington_tragedy-at-ravensthorpe/译文) (15篇) | [✅ 已审(A)](翻译项目/j-j-connington_tragedy-at-ravensthorpe/审核报告.md) | [📦 339KB](翻译项目/j-j-connington_tragedy-at-ravensthorpe/拉文斯索普悲剧.epub) | A 优秀 | 全书710块段落完全闭合、数字零差错、文风典雅，仅查出个别同名… |
-| 337 | `j-k-huysmans_la-bas_keene-wallace` | ✅ 已入库 | ⚪ 待译 (23篇) | — | — |  |
+| 337 | `j-k-huysmans_la-bas_keene-wallace` | ✅ 已入库 | [✅ **100%**](翻译项目/j-k-huysmans_la-bas_keene-wallace/译文) (23篇) | ⏳ 待审 | — | 已译完待审 |
 | 338 | `j-m-barrie_the-little-white-bird` | ✅ 已入库 | [✅ **100%**](翻译项目/j-m-barrie_the-little-white-bird/译文) (26篇) | [✅ 已审(C)](翻译项目/j-m-barrie_the-little-white-bird/审核报告.md) | [📦 313KB](翻译项目/j-m-barrie_the-little-white-bird/小小白鸟.epub) | C 需关注 | 全书 26 章 484 块逐块核读，段落覆盖整体可靠、叙述者… |
 | 339 | `j-s-fletcher_the-borough-treasurer` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-borough-treasurer/译文) (31篇) | [✅ 已审(B)](翻译项目/j-s-fletcher_the-borough-treasurer/审核报告.md) | [📦 383KB](翻译项目/j-s-fletcher_the-borough-treasurer/The Borough Treasurer.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 340 | `j-s-fletcher_the-charing-cross-mystery` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-charing-cross-mystery/译文) (28篇) | [✅ 已审(A)](翻译项目/j-s-fletcher_the-charing-cross-mystery/审核报告.md) | [📦 374KB](翻译项目/j-s-fletcher_the-charing-cross-mystery/查令十字街之谜.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
@@ -581,7 +581,7 @@
 | 556 | `robert-derby-holmes_a-yankee-in-the-trenches` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/译文) (20篇) | [✅ 已审(A)](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/审核报告.md) | [📦 209KB](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/战壕里的美国佬.epub) | A 优秀 | 全书译文质量极高，生动传神地再现了一战西线战场美籍志愿兵与英国… |
 | 557 | `robert-e-howard_short-fiction` | ✅ 已入库 | ⚪ 待译 (28篇) | — | — |  |
 | 558 | `robert-hugh-benson_the-necromancers` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-hugh-benson_the-necromancers/译文) (19篇) | [✅ 已审(B)](翻译项目/robert-hugh-benson_the-necromancers/审核报告.md) | [📦 406KB](翻译项目/robert-hugh-benson_the-necromancers/招魂者.epub) | B 良好 | 前半 9 章译笔精良、哥特与宗教氛围还原到位，无错配/漏译/截… |
-| 559 | `robert-louis-stevenson_catriona` | ✅ 已入库 | ⚪ 待译 (35篇) | — | — |  |
+| 559 | `robert-louis-stevenson_catriona` | ✅ 已入库 | [🟡 54.5%](翻译项目/robert-louis-stevenson_catriona/译文) (20/35) | — | — |  |
 | 560 | `robert-louis-stevenson_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-louis-stevenson_poetry/译文) (14篇) | [✅ 已审(B)](翻译项目/robert-louis-stevenson_poetry/审核报告.md) | [📦 377KB](翻译项目/robert-louis-stevenson_poetry/斯蒂文森诗集.epub) | B 良好 | 前半 7 分片逐行完整、块对对应严密，儿童诗韵式（AABB/A… |
 | 561 | `robert-w-service_songs-of-a-sourdough` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-w-service_songs-of-a-sourdough/译文) (35篇) | [✅ 已审(A)](翻译项目/robert-w-service_songs-of-a-sourdough/审核报告.md) | [📦 75KB](翻译项目/robert-w-service_songs-of-a-sourdough/酸面团之歌.epub) | A 优秀 | 全书 35 篇诗作全部实现 1:1 双语块与逐行同位对应，英美… |
 | 562 | `robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/译文) (4篇) | [✅ 已审(A)](翻译项目/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/审核报告.md) | [📦 35KB](翻译项目/robert-williams-wood_how-to-tell-the-birds-from-the-flowers-and-other-woodcuts/如何区分鸟与花.epub) | A 优秀 |
@@ -1993,3 +1993,4 @@
 | 2026-10-20 | 批次2翻译（主模型直译模式） | +8 | 8649 | 2 | wodehouse全书完工；first-lensman chapter-14 1301拦截待用户处置 |
 | 2026-10-21 | 批次翻译 | +19 | 8645 | 0 | lud-in-the-mist 推进至 19/34；本窗口起切换为主模型直译（连续模式），已直译 6 篇；1308 断点续接完成 |
 | 2026-10-21 | 批次翻译 | +13 | 8631 | 0 | fauset_plum-bun 开册推进13/34（part×2+1-1~1-6+2-1~2-5，主模型直译+translate-mcp分块管线）；曾发生一次块错位事故已当轮修复并对位巡检 |
+| 2026-10-24 | 进度对齐：双机同步+BOM修复+全库核验 | +0 | 8389 | 0 | 剥离2个CSV的BOM头；全库项目CSV与译文文件逐章核验一致；重建根进度表与Plan.md |

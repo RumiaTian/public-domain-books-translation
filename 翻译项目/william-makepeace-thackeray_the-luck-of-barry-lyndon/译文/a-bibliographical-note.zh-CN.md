@@ -1,0 +1,50 @@
+## A Bibliographical Note / 版本说明
+===Original===
+
+Barry Lyndon﻿—far from the best known, but by some critics acclaimed as the finest, of Thackeray’s works﻿—appeared originally as a serial a few years before *Vanity Fair* was written; yet it was not published in book form, and then not by itself, until after the publication of *Vanity Fair*, *Pendennis*, *Esmond* and *The Newcomes* had placed its author in the forefront of the literary men of the day. So many years after the event we cannot help wondering why the story was not earlier put in book form; for in its delineation of the character of an adventurer it is as great as *Vanity Fair*, while for the local colour of history, if I may put it so, it is no undistinguished precursor of *Esmond*.
+In the number of *Fraser’s Magazine* for January 1844 appeared the first instalment of “*The Luck of Barry Lyndon, Esq., a Romance of the Last Century*, by FitzBoodle,” and the story continued to appear month by month﻿—with the exception of October﻿—up to the end of the year, when the concluding portion was signed “G. S. FitzBoodle.” “Fitzboodle’s Confessions,” it should be added, had appeared occasionally in the magazine during the years immediately precedent, so that the pseudonym was familiar to *Fraser’s* readers. The story was written, according to its author’s own words, “with a great deal of dullness, unwillingness and labour,” and was evidently done as the instalments were required, for in August he wrote “read for ‘B. L.’ all the morning at the club,” and four days later of “ ‘B. L.’ lying like a nightmare on my mind.” The journey to the East﻿—which was to give us in literary results *Notes of a Journey from Cornhill to Grand Cairo*﻿—was begun with *Barry Lyndon* yet unfinished, for at Malta the author noted on the first three days of November﻿—“Wrote Barry but slowly and with great difficulty.” “Wrote Barry with no more success than yesterday.” “Finished Barry after great throes late at night.” In the number of Fraser’s for the following month, as I have said, the conclusion appeared. A dozen years later, in 1856, the story formed the first part of the third volume of Thackeray’s *Miscellanies*, when it was called *Memoirs of Barry Lyndon, Esq., Written by Himself*.
+
+===Chinese===
+
+《巴里·林登》（Barry Lyndon）——远不是萨克雷（Thackeray）作品中名气最大的，却被一些批评家推为其最佳之作——最初以连载形式问世，比《名利场》（Vanity Fair）动笔还早几年；然而直到《名利场》《潘登尼斯》《埃斯蒙德》和《纽克姆一家》相继出版、把作者送上当世文坛最前列之后，它才得以成书印行，而且不是单独刊行。事隔这么多年，我们不免要问：这部小说为何迟迟未能成书？须知单论刻画一个冒险家的性格，它不逊于《名利场》；而论历史的乡土色彩——恕我这样措辞——它也是《埃斯蒙德》一位不容小觑的先行者。
+1844年1月号的《弗雷泽杂志》（Fraser's Magazine）刊出了第一部分：《巴里·林登绅士的运气，上个世纪的一段传奇》，菲茨布德尔（FitzBoodle）著。此后除十月外，故事逐月连载，直至年底；末一部的署名是“G. S. 菲茨布德尔”。应当补充一句：此前几年，《菲茨布德尔的自白》已在该刊时断时续地发表，所以这个笔名对《弗雷泽》的读者并不陌生。
+用作者自己的话说，这部小说写得“极其沉闷、极不情愿、极其吃力”；而且显然是连载催一截写一截：八月里他写道“整个上午在俱乐部为《巴·林》查资料”，四天后又写“‘巴·林’像一场噩梦压在我心头”。
+那趟东方之旅——后来结出的文学成果是《从康希尔到开罗的旅行札记》——启程时《巴里·林登》尚未完稿：十一月的头三天，作者在马耳他记道——“写巴里，进展缓慢，万分艰难。”“写巴里，不见起色，一如昨日。”“深夜，几经阵痛，巴里完稿。”如前所述，翌月号的《弗雷泽》上，结局便登了出来。
+十二年后，即1856年，这篇小说作为萨克雷《杂文集》第三卷的第一部分出版，题为《巴里·林登绅士自述回忆录》。
+
+===Original===
+
+Since then, it has nearly always been issued with other matter, as though it were not strong enough to stand alone, or as though the importance of a work was mainly to be gauged by the number of pages to be crowded into one cover. The scheme of the present edition fortunately allows fitting honour to be done to the memoirs of the great adventurer.
+To come from the story as a whole to the personality of the eponymous hero. Three widely-differing historical individuals are suggested as having contributed to the composite portrait. Best known of these was that very prince among adventurers, G. J. Casanova de Seingalt, a man who in the latter half of the eighteenth century played the part of adventurer﻿—and generally that of the successful adventurer﻿—in most of the European capitals; who within the first five-and-twenty years of his life had been “abbé, secretary to Cardinal Aquaviva, ensign, and violinist, at Rome, Constantinople, Corfu, and his own birthplace (Venice), where he cured a senator of apoplexy.” His autobiography, *Mémoires Écrit Par Lui-Même* (in twelve volumes), has been described as “unmatched as a self-revelation of scoundrelism.” It has also been suggested, with I think far less colour of probability, that the original of Barry was the diplomatist and satiric poet Sir Charles Hanbury Williams, whom Dr. Johnson described as “our lively and elegant though too licentious lyrick bard.” The third original, and one who, there cannot be the slightest doubt, contributed features to the great portrait, is a certain Andrew Robinson Stoney, afterwards Stoney-Bowes.
+The original of the Countess Lyndon was Mary Eleanor Bowes, Dowager Countess of Strathmore, and heiress of a very wealthy Durham family. This lady had many suitors, but in 1777 Stoney, a bankrupt lieutenant on half pay, who had fought a duel on her behalf, induced her to marry him, and subsequently hyphenated her name with his own. He became member of Parliament, and ran such extravagant courses as does Barry Lyndon, treated his wife with similar barbarity, abducted her when she had escaped from him, and then, after being divorced, found his way to a debtors’ prison. There are similarities here which no seeker after originals can overlook. Mrs. Ritchie says that her father had a friend at Paris, “a Mr.
+
+===Chinese===
+
+自那以后，它几乎总是同其他作品合刊发行，仿佛它单薄得不能独立成书，又仿佛一部作品的重要性，主要得看一个封皮下塞进了多少页码。所幸本版的编排，让这位大冒险家的回忆录得到了应得的体面。
+从小说整体转到主人公其人。一般认为，有三位于史可考、迥然不同的人物，共同贡献了这幅合成画像。其中最著名的，当属冒险家中的亲王——G. J. 卡萨诺瓦·德·塞恩加尔特（Casanova de Seingalt）：十八世纪下半叶，他在欧洲大多数京城扮演冒险家的角色——而且多半是得手的冒险家；他一生头二十五年里，先后“在罗马、君士坦丁堡、科孚和他的出生地威尼斯当过修道院士、阿夸维瓦红衣主教的秘书、旗手和小提琴手，还在威尼斯治好过一位参议员的中风”。他的自传《亲笔回忆录》（Mémoires Écrit Par Lui-Même，十二卷），有人形容为“恶棍的自我揭露，无出其右”。也有人提出，巴里的原型是外交家兼讽刺诗人查尔斯·汉伯里·威廉斯爵士（Sir Charles Hanbury Williams）——约翰逊博士形容他是“我们那位轻快优雅、只是太放纵的抒情歌手”——不过依我看，这一说成色的可能性要小得多。
+第三位原型，则毫无疑问为这幅大画像贡献了诸多面相，那就是一个叫安德鲁·鲁滨逊·斯托尼（Andrew Robinson Stoney）的人，后来改姓斯托尼-鲍斯（Stoney-Bowes）。
+林登伯爵夫人的原型，是玛丽·埃莉诺·鲍斯（Mary Eleanor Bowes），斯特拉斯莫尔太夫人，达勒姆一户豪门的继承人。这位女士的追求者众多，但1777年，斯托尼——一个领半薪的破产中尉，曾为她决斗过一场——说动她嫁给了他，随后又在自己的姓氏上连上了她的姓。他当上了议员，穷奢极欲一如巴里·林登；虐待妻子同样野蛮；妻子逃出他的魔掌，他又将她劫回；最后离了婚，进了债务人监狱。这些相似之处，凡是追寻原型的人，都不可能视而不见。里奇太太（Mrs. Ritchie）说，她父亲在巴黎有一位朋友，“一位鲍斯先生（Mr.）
+
+===Original===
+
+Bowes, who may have first told him this history of which the details are almost incredible, as quoted from the papers of the time.” The name of Thackeray’s friend is a curious coincidence, unless, as may well have been the case, he was a connection of the family into which the notorious adventurer had married. It is not unlikely that Thackeray had seen the work published in 1810﻿—the year of Stoney-Bowes’s death﻿—in which the whole unhappy romance was set forth. This was “*The Lives of Andrew Robinson Bowes Esq., and the Countess of Strathmore*. Written from thirty-three years’ Professional Attendance, from letters and other well authenticated Documents by Jesse Foot, Surgeon.” In this book we find several incidents similar to ones in the story. Bowes cut down all the timber on his wife’s estate, but “the neighbours would not buy it.” Such practical jokes as Barry Lyndon played upon his son’s tutor were played by Bowes on his chaplain. The story of Stoney and his marriage will be found briefly given in the notice of the Countess’s life in the *Dictionary of National Biography*.
+Whence that part of the romantic interlude dealing with the stay in the Duchy of X﻿—﻿—, dealt with in chapter X, etc., was inspired, Thackeray’s own notebooks (as quoted by Mrs. Ritchie) conclusively show: “January 4, 1844. Read in a silly book called *L’Empire*, a good story about the first K. of Wurtemberg’s wife; killed by her husband for adultery. Frederic William, born in 1734 (?), m. in 1780 the Princess Caroline of Brunswick Wolfenbüttel, who died the 27th September 1788. For the rest of the story see *L’Empire, Ou Dix Ans Sous Napoléon, Par Un Chambellan*: Paris, Allardin, 1836; vol. I 220.” The “Captain Freny” to whom Barry owed his adventures on his journey to Dublin (chapter III) was a notorious highwayman, on whose doings Thackeray had enlarged in the fifteenth chapter of his *Irish Sketch Book*.
+Despite the slowness with which it was written, and the seeming neglect with which it was permitted to remain unreprinted, *Barry Lyndon* was to be hailed by competent critics as one of Thackeray’s finest performances, though the author himself seems to have had no strong regard for the story. His daughter has recorded, “My father once said to me when I was a girl: ‘You needn’t read *Barry Lyndon*, you won’t like it.’
+
+===Chinese===
+
+——说不定最早把这段往事讲给他听的正是此人；细节几乎令人难以置信，俱引自当时的报纸。”
+萨克雷的这位朋友姓鲍斯，这是个耐人寻味的巧合——除非，这很可能，他本就是那位臭名昭著的冒险家所娶人家的亲戚。萨克雷未必没有读过1810年——正是斯托尼-鲍斯去世那年——出版的那部书，整段不幸罗曼史在其中和盘托出。书名是《安德鲁·鲁滨逊·鲍斯绅士与斯特拉斯莫尔伯爵夫人传：据三十三年随侍亲见及信件与其他确凿文件写成，外科医生杰西·富特（Jesse Foot）著》。此书里有好几桩事迹同小说情节相仿。鲍斯把妻子田产上的树木砍伐一空，可“邻人都不肯买”。巴里·林登对他儿子家庭教师的那些恶作剧，鲍斯原样搬到他的私人牧师头上。斯托尼其人及其婚姻，在《国家传记词典》伯爵夫人条目里有简略记述。
+至于小说第十章等处写到的那段留居X——公国的浪漫插曲灵感何来，萨克雷自己的笔记本（据里奇太太引用）给了确凿答案：“1844年1月4日。在一本叫《帝国》的蠢书里读到个好故事，讲符腾堡第一代国王的王后；因奸情被丈夫杀死。腓特烈·威廉，生于1734年（？），1780年娶不伦瑞克-沃尔芬比特尔的卡罗琳公主，公主卒于1788年9月27日。其余情节见《帝国，或侍从官笔下的拿破仑治下十年》：巴黎，阿拉尔丹，1836年；卷一第220页。”
+巴里赴都柏林（Dublin）途中的历险所系的那位“弗雷尼上尉”（第三章），是个臭名昭著的绿林大盗，萨克雷在《爱尔兰素描集》第十五章里曾对其行迹大书特书。
+尽管写得迟缓，尽管多年不见重印、貌似备受冷落，《巴里·林登》日后仍被有识的批评家奉为萨克雷最精彩的作品之一，虽然作者本人似乎对它并无多深的眷爱。他的女儿记道：“我小时候，父亲有一次对我说：‘《巴里·林登》你不必读，你不会喜欢的。’
+
+===Original===
+
+Indeed, it is scarcely a book to *like*, but one to admire and to wonder at for its consummate power and mastery.” Another novelist, Anthony Trollope, has said of it: “In imagination, language, construction, and general literary capacity, Thackeray never did anything more remarkable than *Barry Lyndon*.” Mr. Leslie Stephen says: “All later critics have recognised in this book one of his most powerful performances. In directness and vigour he never surpassed it.”
+W. J.
+
+===Chinese===
+
+“的确，这几乎不是一本让人*喜欢*的书，而是一本让人叹服、让人惊奇于其炉火纯青的功力与驾驭的书。”另一位小说家安东尼·特罗洛普（Anthony Trollope）这样评价它：“论想象力、语言、结构和全面的文学才力，萨克雷再没有写出过比《巴里·林登》更出色的东西。”莱斯利·斯蒂芬先生（Mr. Leslie Stephen）则说：“所有后来的批评家都公认，这本书是他最有力的作品之一。论直截了当与遒劲有力，他从未超出此书。”
+W. J.
