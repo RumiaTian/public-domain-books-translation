@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-24，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-10-24，全库生命周期总控）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **458** 完 / **48** 译 / **141** 待（共 647 本） | **9916** / 18180 篇（**156861.3** / 305863.1 KB）· **51.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **6** 本待审 | 覆盖精读 **452** 本（**98.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **458** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **458** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **459** 完 / **47** 译 / **141** 待（共 647 本） | **9925** / 18180 篇（**157032.9** / 305863.1 KB）· **51.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **7** 本待审 | 覆盖精读 **452** 本（**98.5%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **458** 本已打包 / **1** 本待打包 | 交付标准双语 EPUB **458** 本（**99.8%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **458** 本译完，**452** 本完成独立审校，**458** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **459** 本译完，**452** 本完成独立审校，**458** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -343,7 +343,7 @@
 | 318 | `hilaire-belloc_the-cruise-of-the-nona` | ✅ 已入库 | [🟡 0.0%](翻译项目/hilaire-belloc_the-cruise-of-the-nona/译文) (1/18) | — | — |  |
 | 319 | `hilaire-belloc_the-four-men` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-four-men/译文) (9篇) | [✅ 已审](翻译项目/hilaire-belloc_the-four-men/审核报告.md) | [📦 271KB](翻译项目/hilaire-belloc_the-four-men/四个人.epub) | A（优秀） |
 | 320 | `hilaire-belloc_the-mercy-of-allah` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
-| 321 | `hilaire-belloc_the-servile-state` | ✅ 已入库 | [🟡 26.0%](翻译项目/hilaire-belloc_the-servile-state/译文) (6/15) | — | — |  |
+| 321 | `hilaire-belloc_the-servile-state` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-servile-state/译文) (15篇) | ⏳ 待审 | — | 已译完待审 |
 | 322 | `hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/译文) (36篇) | [✅ 已审](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/审核报告.md) | [📦 207KB](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/马丁·比尔克的青春.epub) | A 级（优秀 / Excellent） | > 全书 36 篇译文双语块与段… |
 | 323 | `hjalmar-soderberg_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_short-fiction_various-translators/译文) (19篇) | [✅ 已审(A)](翻译项目/hjalmar-soderberg_short-fiction_various-translators/审核报告.md) | [📦 121KB](翻译项目/hjalmar-soderberg_short-fiction_various-translators/瑟德尔贝里短篇集.epub) | A 优秀 | 全书 19 篇双语块对照严丝合缝，无任何语义错配、整段漏译、章… |
 | 324 | `honore-de-balzac_shorts-from-scenes-from-private-life_various-translators` | ✅ 已入库 | ⚪ 待译 (22篇) | — | — |  |
@@ -507,7 +507,7 @@
 | 482 | `nella-larsen_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/nella-larsen_short-fiction/译文) (2篇) | [✅ 已审(B)](翻译项目/nella-larsen_short-fiction/审核报告.md) | [📦 192KB](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) | B 良好 | 译文文学质感浓厚、语感极佳，南方黑人方言口吻与哈莱姆沙龙心理意… |
 | 483 | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | ✅ 已入库 | [✅ **100%**](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/译文) (19篇) | [✅ 已审](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/审核报告.md) | [📦 229KB](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) | A 级（优秀 / Excellent） | 全书 19 篇 200 个双语对… |
 | 484 | `noel-coward_the-vortex` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-coward_the-vortex/译文) (5篇) | [✅ 已审(B)](翻译项目/noel-coward_the-vortex/审核报告.md) | [📦 90KB](翻译项目/noel-coward_the-vortex/The Vortex.epub) | B 良好 | 译文整体文风极佳，精准捕捉了诺埃尔·考沃德 1920 年代上流… |
-| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 221KB](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） | 译文整体质量… |
+| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 19KB](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） | 译文整体质量… |
 | 486 | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | ✅ 已入库 | [✅ **100%**](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/译文) (22篇) | [✅ 已审(A)](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/审核报告.md) | [📦 401KB](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 487 | `octave-mirbeau_calvary_louis-rich` | ✅ 已入库 | [✅ **100%**](翻译项目/octave-mirbeau_calvary_louis-rich/译文) (12篇) | [✅ 已审(B)](翻译项目/octave-mirbeau_calvary_louis-rich/审核报告.md) | [📦 406KB](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 488 | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | ✅ 已入库 | ⚪ 待译 (16篇) | — | — |  |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9916/18180 篇 (51.3%)** | **452 本完成** | **458 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9925/18180 篇 (51.3%)** | **452 本完成** | **458 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1488,7 +1488,7 @@
 | Short Fiction | Nella Larsen | `nella-larsen_short-fiction` | 192KB | - | [`内拉·拉森短篇小说集.epub`](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) |
 | Our Baseball Club and How It Won the Championship | Noah Brooks | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | 229KB | - | [`我们的棒球俱乐部.epub`](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) |
 | The Vortex | Noël Coward | `noel-coward_the-vortex` | 90KB | - | [`The Vortex.epub`](翻译项目/noel-coward_the-vortex/The Vortex.epub) |
-| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`短篇科幻集.epub`](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) |
+| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`Day-s-Work-双语.epub`](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) |
 | 赌徒马布斯博士 | Norbert Jacques | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | 401KB | - | [`赌徒马布斯博士.epub`](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) |
 | 受难 | Octave Mirbeau | `octave-mirbeau_calvary_louis-rich` | 406KB | - | [`受难.epub`](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) |
 | Laughing Boy | Oliver La Farge | `oliver-la-farge_laughing-boy` | 329KB | - | [`Laughing Boy.epub`](翻译项目/oliver-la-farge_laughing-boy/Laughing Boy.epub) |
