@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-24，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-10-24，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
 | **阶段二：翻译执行 (Translation)** | **464** 完 / **42** 译 / **141** 待（共 647 本） | **9931** / 18180 篇（**157166.9** / 305863.1 KB）· **51.4%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
 | **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **12** 本待审 | 覆盖精读 **452** 本（**97.4%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **459** 本已打包 / **5** 本待打包 | 交付标准双语 EPUB **459** 本（**98.9%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段四：出版打包 (EPUB Packaging)** | **464** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **464** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **464** 本译完，**452** 本完成独立审校，**459** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **464** 本译完，**452** 本完成独立审校，**464** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -165,7 +165,7 @@
 | 140 | `dorothy-m-richardson_pointed-roofs` | ✅ 已入库 | [✅ **100%**](翻译项目/dorothy-m-richardson_pointed-roofs/译文) (10篇) | [✅ 已审(A)](翻译项目/dorothy-m-richardson_pointed-roofs/审核报告.md) | [📦 303KB](翻译项目/dorothy-m-richardson_pointed-roofs/尖顶屋.epub) | A 优秀（3 处 B 级一致性小问题，无 A 级问题） | 意识流语体（内心… |
 | 141 | `dorothy-m-richardson_the-tunnel` | ✅ 已入库 | [🟡 4.8%](翻译项目/dorothy-m-richardson_the-tunnel/译文) (1/33) | — | — |  |
 | 142 | `e-e-cummings_the-enormous-room` | ✅ 已入库 | ⚪ 待译 (14篇) | — | — |  |
-| 143 | `e-e-smith_first-lensman` | ✅ 已入库 | [✅ **100%**](翻译项目/e-e-smith_first-lensman/译文) (23篇) | ⏳ 待审 | — | 已译完待审 |
+| 143 | `e-e-smith_first-lensman` | ✅ 已入库 | [✅ **100%**](翻译项目/e-e-smith_first-lensman/译文) (23篇) | ⏳ 待审 | [📦 555KB](翻译项目/e-e-smith_first-lensman/First Lensman.epub) | 已译完待审 |
 | 144 | `e-e-smith_triplanetary` | ✅ 已入库 | [🟡 4.3%](翻译项目/e-e-smith_triplanetary/译文) (1/23) | — | — |  |
 | 145 | `e-f-benson_ghost-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/e-f-benson_ghost-stories/译文) (29篇) | [✅ 已审(B)](翻译项目/e-f-benson_ghost-stories/审核报告.md) | [📦 759KB](翻译项目/e-f-benson_ghost-stories/Ghost Stories.epub) | B 良好 | 整体译笔典雅克制、氛围把握出色，未发现 A 级错配/漏译/截断… |
 | 146 | `e-f-knight_the-cruise-of-the-alerte` | ✅ 已入库 | [✅ **100%**](翻译项目/e-f-knight_the-cruise-of-the-alerte/译文) (22篇) | [✅ 已审(B)](翻译项目/e-f-knight_the-cruise-of-the-alerte/审核报告.md) | [📦 354KB](翻译项目/e-f-knight_the-cruise-of-the-alerte/The Cruise of the Alerte.epub) | B 良好（合格可出版） | 全书22章795个双语对照块逐段逐句审校完毕，A… |
@@ -196,7 +196,7 @@
 | 171 | `edgar-wallace_blue-hand` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_blue-hand/译文) (49篇) | [✅ 已审(B)](翻译项目/edgar-wallace_blue-hand/审核报告.md) | [📦 401KB](翻译项目/edgar-wallace_blue-hand/蓝手.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 172 | `edgar-wallace_kate-plus-10` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_kate-plus-10/译文) (20篇) | [✅ 已审](翻译项目/edgar-wallace_kate-plus-10/审核报告.md) | [📦 255KB](翻译项目/edgar-wallace_kate-plus-10/凯特加十.epub) | 译稿整体成熟可信，可读性强，无任何 A 级硬伤（零漏译、零截断、数字锚点基本… |
 | 173 | `edgar-wallace_room-13` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_room-13/译文) (34篇) | [✅ 已审(B)](翻译项目/edgar-wallace_room-13/审核报告.md) | [📦 292KB](翻译项目/edgar-wallace_room-13/13号房.epub) | B 良好 | 全书 884 个双语块配对完整、无漏译错配与章末截断，译文口吻… |
-| 174 | `edgar-wallace_terror-keep` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_terror-keep/译文) (23篇) | ⏳ 待审 | — | 已译完待审 |
+| 174 | `edgar-wallace_terror-keep` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_terror-keep/译文) (23篇) | ⏳ 待审 | [📦 276KB](翻译项目/edgar-wallace_terror-keep/恐怖堡.epub) | 已译完待审 |
 | 175 | `edgar-wallace_the-avenger` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_the-avenger/译文) (42篇) | [✅ 已审(B)](翻译项目/edgar-wallace_the-avenger/审核报告.md) | [📦 318KB](翻译项目/edgar-wallace_the-avenger/The Avenger.epub) | B 良好 | 全书 42 篇译笔成熟、结构完整（415 块全对称、无章末截断… |
 | 176 | `edgar-wallace_the-clue-of-the-new-pin` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_the-clue-of-the-new-pin/译文) (40篇) | [✅ 已审(A)](翻译项目/edgar-wallace_the-clue-of-the-new-pin/审核报告.md) | [📦 359KB](翻译项目/edgar-wallace_the-clue-of-the-new-pin/新别针的线索.epub) | A 优秀 | 全书597块对照结构完备无错位截断，密室推理线索严密传神，术语… |
 | 177 | `edgar-wallace_the-clue-of-the-twisted-candle` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_the-clue-of-the-twisted-candle/译文) (23篇) | [✅ 已审(A)](翻译项目/edgar-wallace_the-clue-of-the-twisted-candle/审核报告.md) | [📦 296KB](翻译项目/edgar-wallace_the-clue-of-the-twisted-candle/扭曲蜡烛的线索.epub) | A 优秀 | 全书 23 篇 488 个双语块实现 100% 完整同位对照，… |
@@ -294,7 +294,7 @@
 | 269 | `george-meredith_the-shaving-of-shagpat` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
 | 270 | `george-schuyler_black-no-more` | ✅ 已入库 | [✅ **100%**](翻译项目/george-schuyler_black-no-more/译文) (15篇) | ⏳ 待审 | [📦 299KB](翻译项目/george-schuyler_black-no-more/Black No More.epub) | 已译完待审 |
 | 271 | `george-william-russell_the-national-being` | ✅ 已入库 | [✅ **100%**](翻译项目/george-william-russell_the-national-being/译文) (22篇) | [✅ 已审(A)](翻译项目/george-william-russell_the-national-being/审核报告.md) | [📦 205KB](翻译项目/george-william-russell_the-national-being/国家存在.epub) | A 优秀（出版预备级） | 全书 22 篇 100% 逐块通读对照，结构块对… |
-| 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_beauvallet/译文) (29篇) | ⏳ 待审 | — | 已译完待审 |
+| 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_beauvallet/译文) (29篇) | ⏳ 待审 | [📦 467KB](翻译项目/georgette-heyer_beauvallet/博瓦莱.epub) | 已译完待审 |
 | 273 | `georgette-heyer_simon-the-coldheart` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_simon-the-coldheart/译文) (36篇) | [✅ 已审(B)](翻译项目/georgette-heyer_simon-the-coldheart/审核报告.md) | [📦 460KB](翻译项目/georgette-heyer_simon-the-coldheart/冷酷之心西蒙.epub) | B 良好 | 全书34篇933块双语对照体例严谨、译笔苍劲传神，唯存2处A级… |
 | 274 | `georgette-heyer_the-black-moth` | ✅ 已入库 | ⚪ 待译 (31篇) | — | — |  |
 | 275 | `georgette-heyer_the-great-roxhythe` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-great-roxhythe/译文) (56篇) | [✅ 已审(B)](翻译项目/georgette-heyer_the-great-roxhythe/审核报告.md) | [📦 607KB](翻译项目/georgette-heyer_the-great-roxhythe/罗克斯海斯大人.epub) | B 良好 | 全书51章文笔典雅传神，但存在2处段句漏译及少量术语微差，经针… |
@@ -507,7 +507,7 @@
 | 482 | `nella-larsen_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/nella-larsen_short-fiction/译文) (2篇) | [✅ 已审(B)](翻译项目/nella-larsen_short-fiction/审核报告.md) | [📦 192KB](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) | B 良好 | 译文文学质感浓厚、语感极佳，南方黑人方言口吻与哈莱姆沙龙心理意… |
 | 483 | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | ✅ 已入库 | [✅ **100%**](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/译文) (19篇) | [✅ 已审](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/审核报告.md) | [📦 229KB](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) | A 级（优秀 / Excellent） | 全书 19 篇 200 个双语对… |
 | 484 | `noel-coward_the-vortex` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-coward_the-vortex/译文) (5篇) | [✅ 已审(B)](翻译项目/noel-coward_the-vortex/审核报告.md) | [📦 90KB](翻译项目/noel-coward_the-vortex/The Vortex.epub) | B 良好 | 译文整体文风极佳，精准捕捉了诺埃尔·考沃德 1920 年代上流… |
-| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 19KB](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） | 译文整体质量… |
+| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 221KB](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） | 译文整体质量… |
 | 486 | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | ✅ 已入库 | [✅ **100%**](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/译文) (22篇) | [✅ 已审(A)](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/审核报告.md) | [📦 401KB](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 487 | `octave-mirbeau_calvary_louis-rich` | ✅ 已入库 | [✅ **100%**](翻译项目/octave-mirbeau_calvary_louis-rich/译文) (12篇) | [✅ 已审(B)](翻译项目/octave-mirbeau_calvary_louis-rich/审核报告.md) | [📦 406KB](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 488 | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | ✅ 已入库 | ⚪ 待译 (16篇) | — | — |  |
@@ -600,7 +600,7 @@
 | 575 | `samuel-r-delany_the-jewels-of-aptor` | ✅ 已入库 | [✅ **100%**](翻译项目/samuel-r-delany_the-jewels-of-aptor/译文) (14篇) | [✅ 已审(A)](翻译项目/samuel-r-delany_the-jewels-of-aptor/审核报告.md) | [📦 261KB](翻译项目/samuel-r-delany_the-jewels-of-aptor/阿普托的珍宝.epub) | A 优秀 | 全书 14 篇译文达到极高水准的出版级文学品质，宏阔苍凉的新浪… |
 | 576 | `sarah-louisa-forten-purvis_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/sarah-louisa-forten-purvis_poetry/译文) (15篇) | [✅ 已审(A)](翻译项目/sarah-louisa-forten-purvis_poetry/审核报告.md) | [📦 19KB](翻译项目/sarah-louisa-forten-purvis_poetry/萨拉·路易莎·弗滕·珀维斯诗集.epub) | A 优秀 | 全书 15 首诗歌与题记实现 100% 行行严格同位对齐，19… |
 | 577 | `sax-rohmer_brood-of-the-witch-queen` | ✅ 已入库 | [✅ **100%**](翻译项目/sax-rohmer_brood-of-the-witch-queen/译文) (33篇) | [✅ 已审(B)](翻译项目/sax-rohmer_brood-of-the-witch-queen/审核报告.md) | [📦 350KB](翻译项目/sax-rohmer_brood-of-the-witch-queen/巫后的子嗣.epub) | B 良好 | 全书 541 块三方段数完全对齐、素材零缺失、数字全对；仅 1… |
-| 578 | `sax-rohmer_the-insidious-dr-fu-manchu` | ✅ 已入库 | [✅ **100%**](翻译项目/sax-rohmer_the-insidious-dr-fu-manchu/译文) (30篇) | ⏳ 待审 | — | 已译完待审 |
+| 578 | `sax-rohmer_the-insidious-dr-fu-manchu` | ✅ 已入库 | [✅ **100%**](翻译项目/sax-rohmer_the-insidious-dr-fu-manchu/译文) (30篇) | ⏳ 待审 | [📦 423KB](翻译项目/sax-rohmer_the-insidious-dr-fu-manchu/阴险的傅满洲博士.epub) | 已译完待审 |
 | 579 | `siegfried-sassoon_memoirs-of-a-foxhunting-man` | ✅ 已入库 | [🟡 13.6%](翻译项目/siegfried-sassoon_memoirs-of-a-foxhunting-man/译文) (1/10) | — | — |  |
 | 580 | `siegfried-sassoon_memoirs-of-an-infantry-officer` | ✅ 已入库 | [✅ **100%**](翻译项目/siegfried-sassoon_memoirs-of-an-infantry-officer/译文) (10篇) | [✅ 已审(B)](翻译项目/siegfried-sassoon_memoirs-of-an-infantry-officer/审核报告.md) | [📦 461KB](翻译项目/siegfried-sassoon_memoirs-of-an-infantry-officer/步兵军官回忆录.epub) | B 良好 | 译文整体质量良好——诗化散文的气质、克制含蓄的语调与反讽（如「… |
 | 581 | `sigfrid-siwertz_downstream_e-classen` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
@@ -633,7 +633,7 @@
 | 608 | `w-w-jacobs_the-lady-of-the-barge` | ✅ 已入库 | [✅ **100%**](翻译项目/w-w-jacobs_the-lady-of-the-barge/译文) (12篇) | [✅ 已审(B)](翻译项目/w-w-jacobs_the-lady-of-the-barge/审核报告.md) | [📦 224KB](翻译项目/w-w-jacobs_the-lady-of-the-barge/猴爪.epub) | B 良好（含 1 处 A 级情节误译） | 十二篇整体忠实流畅、水手腔与克制… |
 | 609 | `wallace-thurman_the-blacker-the-berry` | ✅ 已入库 | [✅ **100%**](翻译项目/wallace-thurman_the-blacker-the-berry/译文) (7篇) | [✅ 已审](翻译项目/wallace-thurman_the-blacker-the-berry/审核报告.md) | [📦 265KB](翻译项目/wallace-thurman_the-blacker-the-berry/The Blacker the Berry.epub) | B+（良好·待修缮第1部第60段漏段后即达A级出版级） | > 全书 7 篇… |
 | 610 | `walter-de-la-mare_memoirs-of-a-midget` | ✅ 已入库 | ⚪ 待译 (67篇) | — | — |  |
-| 611 | `walter-de-la-mare_the-return` | ✅ 已入库 | [✅ **100%**](翻译项目/walter-de-la-mare_the-return/译文) (24篇) | ⏳ 待审 | — | 已译完待审 |
+| 611 | `walter-de-la-mare_the-return` | ✅ 已入库 | [✅ **100%**](翻译项目/walter-de-la-mare_the-return/译文) (24篇) | ⏳ 待审 | [📦 434KB](翻译项目/walter-de-la-mare_the-return/归来.epub) | 已译完待审 |
 | 612 | `walter-m-miller-jr_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/walter-m-miller-jr_short-fiction/译文) (7篇) | [✅ 已审(B)](翻译项目/walter-m-miller-jr_short-fiction/审核报告.md) | [📦 283KB](翻译项目/walter-m-miller-jr_short-fiction/小沃尔特·米勒短篇集.epub) | B 良好（含 1 处 A 级跨块段落滑动错位） | 全书 7 篇译文整体文学… |
 | 613 | `walter-noble-burns_tombstone` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
 | 614 | `walter-s-masterman_the-wrong-letter` | ✅ 已入库 | [✅ **100%**](翻译项目/walter-s-masterman_the-wrong-letter/译文) (18篇) | [✅ 已审](翻译项目/walter-s-masterman_the-wrong-letter/审核报告.md) | [📦 205KB](翻译项目/walter-s-masterman_the-wrong-letter/The Wrong Letter.epub) | A 级（优秀，具备出版级文学推理成色） | 全书 18 篇译文架构严整无缺，… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9931/18180 篇 (51.4%)** | **452 本完成** | **459 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9931/18180 篇 (51.4%)** | **452 本完成** | **464 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1248,6 +1248,7 @@
 | Honeycomb | Dorothy M. Richardson | `dorothy-m-richardson_honeycomb` | 260KB | - | [`蜂巢.epub`](翻译项目/dorothy-m-richardson_honeycomb/蜂巢.epub) |
 | Interim | Dorothy M. Richardson | `dorothy-m-richardson_interim` | 301KB | - | [`过渡.epub`](翻译项目/dorothy-m-richardson_interim/过渡.epub) |
 | Pointed Roofs | Dorothy M. Richardson | `dorothy-m-richardson_pointed-roofs` | 303KB | - | [`尖顶屋.epub`](翻译项目/dorothy-m-richardson_pointed-roofs/尖顶屋.epub) |
+| First Lensman | E E Smith | `e-e-smith_first-lensman` | 555KB | - | [`First Lensman.epub`](翻译项目/e-e-smith_first-lensman/First Lensman.epub) |
 | Ghost Stories | E. F. Benson | `e-f-benson_ghost-stories` | 759KB | - | [`Ghost Stories.epub`](翻译项目/e-f-benson_ghost-stories/Ghost Stories.epub) |
 | e-f-knight_the-cruise-of-the-alerte | E F Knight | `e-f-knight_the-cruise-of-the-alerte` | 354KB | - | [`The Cruise of the Alerte.epub`](翻译项目/e-f-knight_the-cruise-of-the-alerte/The Cruise of the Alerte.epub) |
 | Miss Mole | E. H. Young | `e-h-young_miss-mole` | 506KB | - | [`Miss Mole.epub`](翻译项目/e-h-young_miss-mole/Miss Mole.epub) |
@@ -1273,6 +1274,7 @@
 | 蓝手 | Edgar Wallace | `edgar-wallace_blue-hand` | 401KB | - | [`蓝手.epub`](翻译项目/edgar-wallace_blue-hand/蓝手.epub) |
 | Kate Plus 10 | Edgar Wallace | `edgar-wallace_kate-plus-10` | 255KB | - | [`凯特加十.epub`](翻译项目/edgar-wallace_kate-plus-10/凯特加十.epub) |
 | Room 13 | Edgar Wallace | `edgar-wallace_room-13` | 292KB | - | [`13号房.epub`](翻译项目/edgar-wallace_room-13/13号房.epub) |
+| 恐怖堡 | Edgar Wallace | `edgar-wallace_terror-keep` | 276KB | - | [`恐怖堡.epub`](翻译项目/edgar-wallace_terror-keep/恐怖堡.epub) |
 | The Avenger | Edgar Wallace | `edgar-wallace_the-avenger` | 318KB | - | [`The Avenger.epub`](翻译项目/edgar-wallace_the-avenger/The Avenger.epub) |
 | The Clue of the New Pin | Edgar Wallace | `edgar-wallace_the-clue-of-the-new-pin` | 359KB | - | [`新别针的线索.epub`](翻译项目/edgar-wallace_the-clue-of-the-new-pin/新别针的线索.epub) |
 | The Clue of the Twisted Candle | Edgar Wallace | `edgar-wallace_the-clue-of-the-twisted-candle` | 296KB | - | [`扭曲蜡烛的线索.epub`](翻译项目/edgar-wallace_the-clue-of-the-twisted-candle/扭曲蜡烛的线索.epub) |
@@ -1335,6 +1337,7 @@
 | The Portent | George MacDonald | `george-macdonald_the-portent` | 206KB | - | [`预兆.epub`](翻译项目/george-macdonald_the-portent/预兆.epub) |
 | Black No More | George Schuyler | `george-schuyler_black-no-more` | 299KB | - | [`Black No More.epub`](翻译项目/george-schuyler_black-no-more/Black No More.epub) |
 | 国家存在 | George William Russell | `george-william-russell_the-national-being` | 205KB | - | [`国家存在.epub`](翻译项目/george-william-russell_the-national-being/国家存在.epub) |
+| 博瓦莱 | Georgette Heyer | `georgette-heyer_beauvallet` | 467KB | - | [`博瓦莱.epub`](翻译项目/georgette-heyer_beauvallet/博瓦莱.epub) |
 | Simon the Coldheart | Georgette Heyer | `georgette-heyer_simon-the-coldheart` | 460KB | - | [`冷酷之心西蒙.epub`](翻译项目/georgette-heyer_simon-the-coldheart/冷酷之心西蒙.epub) |
 | The Great Roxhythe | Georgette Heyer | `georgette-heyer_the-great-roxhythe` | 607KB | - | [`罗克斯海斯大人.epub`](翻译项目/georgette-heyer_the-great-roxhythe/罗克斯海斯大人.epub) |
 | The Masqueraders | Georgette Heyer | `georgette-heyer_the-masqueraders` | 482KB | - | [`化装舞会者.epub`](翻译项目/georgette-heyer_the-masqueraders/化装舞会者.epub) |
@@ -1489,7 +1492,7 @@
 | Short Fiction | Nella Larsen | `nella-larsen_short-fiction` | 192KB | - | [`内拉·拉森短篇小说集.epub`](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) |
 | Our Baseball Club and How It Won the Championship | Noah Brooks | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | 229KB | - | [`我们的棒球俱乐部.epub`](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) |
 | The Vortex | Noël Coward | `noel-coward_the-vortex` | 90KB | - | [`The Vortex.epub`](翻译项目/noel-coward_the-vortex/The Vortex.epub) |
-| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`Day-s-Work-双语.epub`](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) |
+| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`短篇科幻集.epub`](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) |
 | 赌徒马布斯博士 | Norbert Jacques | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | 401KB | - | [`赌徒马布斯博士.epub`](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) |
 | 受难 | Octave Mirbeau | `octave-mirbeau_calvary_louis-rich` | 406KB | - | [`受难.epub`](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) |
 | Laughing Boy | Oliver La Farge | `oliver-la-farge_laughing-boy` | 329KB | - | [`Laughing Boy.epub`](翻译项目/oliver-la-farge_laughing-boy/Laughing Boy.epub) |
@@ -1557,6 +1560,7 @@
 | The Jewels of Aptor | Samuel R. Delany | `samuel-r-delany_the-jewels-of-aptor` | 261KB | - | [`阿普托的珍宝.epub`](翻译项目/samuel-r-delany_the-jewels-of-aptor/阿普托的珍宝.epub) |
 | Poetry | Sarah Louisa Forten Purvis | `sarah-louisa-forten-purvis_poetry` | 19KB | - | [`萨拉·路易莎·弗滕·珀维斯诗集.epub`](翻译项目/sarah-louisa-forten-purvis_poetry/萨拉·路易莎·弗滕·珀维斯诗集.epub) |
 | Brood of the Witch-Queen | Sax Rohmer | `sax-rohmer_brood-of-the-witch-queen` | 350KB | - | [`巫后的子嗣.epub`](翻译项目/sax-rohmer_brood-of-the-witch-queen/巫后的子嗣.epub) |
+| 阴险的傅满洲博士 | Sax Rohmer | `sax-rohmer_the-insidious-dr-fu-manchu` | 423KB | - | [`阴险的傅满洲博士.epub`](翻译项目/sax-rohmer_the-insidious-dr-fu-manchu/阴险的傅满洲博士.epub) |
 | Memoirs of an Infantry Officer | Siegfried Sassoon | `siegfried-sassoon_memoirs-of-an-infantry-officer` | 461KB | - | [`步兵军官回忆录.epub`](翻译项目/siegfried-sassoon_memoirs-of-an-infantry-officer/步兵军官回忆录.epub) |
 | 珍妮 | Sigrid Undset | `sigrid-undset_jenny_w-emme` | 468KB | - | [`珍妮.epub`](翻译项目/sigrid-undset_jenny_w-emme/珍妮.epub) |
 | Short Fiction | Stanley G. Weinbaum | `stanley-g-weinbaum_short-fiction` | 244KB | - | [`火星奥德赛.epub`](翻译项目/stanley-g-weinbaum_short-fiction/火星奥德赛.epub) |
@@ -1579,6 +1583,7 @@
 | Little Caesar | W. R. Burnett | `w-r-burnett_little-caesar` | 217KB | - | [`小凯撒.epub`](翻译项目/w-r-burnett_little-caesar/小凯撒.epub) |
 | The Lady of the Barge | W. W. Jacobs | `w-w-jacobs_the-lady-of-the-barge` | 224KB | - | [`猴爪.epub`](翻译项目/w-w-jacobs_the-lady-of-the-barge/猴爪.epub) |
 | The Blacker the Berry | Wallace Thurman | `wallace-thurman_the-blacker-the-berry` | 265KB | - | [`The Blacker the Berry.epub`](翻译项目/wallace-thurman_the-blacker-the-berry/The Blacker the Berry.epub) |
+| 归来 | Walter De La Mare | `walter-de-la-mare_the-return` | 434KB | - | [`归来.epub`](翻译项目/walter-de-la-mare_the-return/归来.epub) |
 | Short Fiction | Walter M. Miller Jr. | `walter-m-miller-jr_short-fiction` | 283KB | - | [`小沃尔特·米勒短篇集.epub`](翻译项目/walter-m-miller-jr_short-fiction/小沃尔特·米勒短篇集.epub) |
 | The Wrong Letter | Walter S. Masterman | `walter-s-masterman_the-wrong-letter` | 205KB | - | [`The Wrong Letter.epub`](翻译项目/walter-s-masterman_the-wrong-letter/The Wrong Letter.epub) |
 | The Fire in the Flint | Walter White | `walter-white_the-fire-in-the-flint` | 385KB | - | [`火中剑.epub`](翻译项目/walter-white_the-fire-in-the-flint/火中剑.epub) |
