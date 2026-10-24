@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **459** 完 / **47** 译 / **141** 待（共 647 本） | **9925** / 18180 篇（**157032.9** / 305863.1 KB）· **51.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **7** 本待审 | 覆盖精读 **452** 本（**98.5%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **459** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **459** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **464** 完 / **42** 译 / **141** 待（共 647 本） | **9931** / 18180 篇（**157166.9** / 305863.1 KB）· **51.4%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **12** 本待审 | 覆盖精读 **452** 本（**97.4%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **459** 本已打包 / **5** 本待打包 | 交付标准双语 EPUB **459** 本（**98.9%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **459** 本译完，**452** 本完成独立审校，**459** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **464** 本译完，**452** 本完成独立审校，**459** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -165,7 +165,7 @@
 | 140 | `dorothy-m-richardson_pointed-roofs` | ✅ 已入库 | [✅ **100%**](翻译项目/dorothy-m-richardson_pointed-roofs/译文) (10篇) | [✅ 已审(A)](翻译项目/dorothy-m-richardson_pointed-roofs/审核报告.md) | [📦 303KB](翻译项目/dorothy-m-richardson_pointed-roofs/尖顶屋.epub) | A 优秀（3 处 B 级一致性小问题，无 A 级问题） | 意识流语体（内心… |
 | 141 | `dorothy-m-richardson_the-tunnel` | ✅ 已入库 | [🟡 4.8%](翻译项目/dorothy-m-richardson_the-tunnel/译文) (1/33) | — | — |  |
 | 142 | `e-e-cummings_the-enormous-room` | ✅ 已入库 | ⚪ 待译 (14篇) | — | — |  |
-| 143 | `e-e-smith_first-lensman` | ✅ 已入库 | [🟡 94.5%](翻译项目/e-e-smith_first-lensman/译文) (22/23) | — | — |  |
+| 143 | `e-e-smith_first-lensman` | ✅ 已入库 | [✅ **100%**](翻译项目/e-e-smith_first-lensman/译文) (23篇) | ⏳ 待审 | — | 已译完待审 |
 | 144 | `e-e-smith_triplanetary` | ✅ 已入库 | [🟡 4.3%](翻译项目/e-e-smith_triplanetary/译文) (1/23) | — | — |  |
 | 145 | `e-f-benson_ghost-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/e-f-benson_ghost-stories/译文) (29篇) | [✅ 已审(B)](翻译项目/e-f-benson_ghost-stories/审核报告.md) | [📦 759KB](翻译项目/e-f-benson_ghost-stories/Ghost Stories.epub) | B 良好 | 整体译笔典雅克制、氛围把握出色，未发现 A 级错配/漏译/截断… |
 | 146 | `e-f-knight_the-cruise-of-the-alerte` | ✅ 已入库 | [✅ **100%**](翻译项目/e-f-knight_the-cruise-of-the-alerte/译文) (22篇) | [✅ 已审(B)](翻译项目/e-f-knight_the-cruise-of-the-alerte/审核报告.md) | [📦 354KB](翻译项目/e-f-knight_the-cruise-of-the-alerte/The Cruise of the Alerte.epub) | B 良好（合格可出版） | 全书22章795个双语对照块逐段逐句审校完毕，A… |
@@ -196,7 +196,7 @@
 | 171 | `edgar-wallace_blue-hand` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_blue-hand/译文) (49篇) | [✅ 已审(B)](翻译项目/edgar-wallace_blue-hand/审核报告.md) | [📦 401KB](翻译项目/edgar-wallace_blue-hand/蓝手.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 172 | `edgar-wallace_kate-plus-10` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_kate-plus-10/译文) (20篇) | [✅ 已审](翻译项目/edgar-wallace_kate-plus-10/审核报告.md) | [📦 255KB](翻译项目/edgar-wallace_kate-plus-10/凯特加十.epub) | 译稿整体成熟可信，可读性强，无任何 A 级硬伤（零漏译、零截断、数字锚点基本… |
 | 173 | `edgar-wallace_room-13` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_room-13/译文) (34篇) | [✅ 已审(B)](翻译项目/edgar-wallace_room-13/审核报告.md) | [📦 292KB](翻译项目/edgar-wallace_room-13/13号房.epub) | B 良好 | 全书 884 个双语块配对完整、无漏译错配与章末截断，译文口吻… |
-| 174 | `edgar-wallace_terror-keep` | ✅ 已入库 | [🟡 94.6%](翻译项目/edgar-wallace_terror-keep/译文) (22/23) | — | — |  |
+| 174 | `edgar-wallace_terror-keep` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_terror-keep/译文) (23篇) | ⏳ 待审 | — | 已译完待审 |
 | 175 | `edgar-wallace_the-avenger` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_the-avenger/译文) (42篇) | [✅ 已审(B)](翻译项目/edgar-wallace_the-avenger/审核报告.md) | [📦 318KB](翻译项目/edgar-wallace_the-avenger/The Avenger.epub) | B 良好 | 全书 42 篇译笔成熟、结构完整（415 块全对称、无章末截断… |
 | 176 | `edgar-wallace_the-clue-of-the-new-pin` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_the-clue-of-the-new-pin/译文) (40篇) | [✅ 已审(A)](翻译项目/edgar-wallace_the-clue-of-the-new-pin/审核报告.md) | [📦 359KB](翻译项目/edgar-wallace_the-clue-of-the-new-pin/新别针的线索.epub) | A 优秀 | 全书597块对照结构完备无错位截断，密室推理线索严密传神，术语… |
 | 177 | `edgar-wallace_the-clue-of-the-twisted-candle` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-wallace_the-clue-of-the-twisted-candle/译文) (23篇) | [✅ 已审(A)](翻译项目/edgar-wallace_the-clue-of-the-twisted-candle/审核报告.md) | [📦 296KB](翻译项目/edgar-wallace_the-clue-of-the-twisted-candle/扭曲蜡烛的线索.epub) | A 优秀 | 全书 23 篇 488 个双语块实现 100% 完整同位对照，… |
@@ -294,7 +294,7 @@
 | 269 | `george-meredith_the-shaving-of-shagpat` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
 | 270 | `george-schuyler_black-no-more` | ✅ 已入库 | [✅ **100%**](翻译项目/george-schuyler_black-no-more/译文) (15篇) | ⏳ 待审 | [📦 299KB](翻译项目/george-schuyler_black-no-more/Black No More.epub) | 已译完待审 |
 | 271 | `george-william-russell_the-national-being` | ✅ 已入库 | [✅ **100%**](翻译项目/george-william-russell_the-national-being/译文) (22篇) | [✅ 已审(A)](翻译项目/george-william-russell_the-national-being/审核报告.md) | [📦 205KB](翻译项目/george-william-russell_the-national-being/国家存在.epub) | A 优秀（出版预备级） | 全书 22 篇 100% 逐块通读对照，结构块对… |
-| 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [🟡 96.4%](翻译项目/georgette-heyer_beauvallet/译文) (28/29) | — | — |  |
+| 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_beauvallet/译文) (29篇) | ⏳ 待审 | — | 已译完待审 |
 | 273 | `georgette-heyer_simon-the-coldheart` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_simon-the-coldheart/译文) (36篇) | [✅ 已审(B)](翻译项目/georgette-heyer_simon-the-coldheart/审核报告.md) | [📦 460KB](翻译项目/georgette-heyer_simon-the-coldheart/冷酷之心西蒙.epub) | B 良好 | 全书34篇933块双语对照体例严谨、译笔苍劲传神，唯存2处A级… |
 | 274 | `georgette-heyer_the-black-moth` | ✅ 已入库 | ⚪ 待译 (31篇) | — | — |  |
 | 275 | `georgette-heyer_the-great-roxhythe` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-great-roxhythe/译文) (56篇) | [✅ 已审(B)](翻译项目/georgette-heyer_the-great-roxhythe/审核报告.md) | [📦 607KB](翻译项目/georgette-heyer_the-great-roxhythe/罗克斯海斯大人.epub) | B 良好 | 全书51章文笔典雅传神，但存在2处段句漏译及少量术语微差，经针… |
@@ -600,7 +600,7 @@
 | 575 | `samuel-r-delany_the-jewels-of-aptor` | ✅ 已入库 | [✅ **100%**](翻译项目/samuel-r-delany_the-jewels-of-aptor/译文) (14篇) | [✅ 已审(A)](翻译项目/samuel-r-delany_the-jewels-of-aptor/审核报告.md) | [📦 261KB](翻译项目/samuel-r-delany_the-jewels-of-aptor/阿普托的珍宝.epub) | A 优秀 | 全书 14 篇译文达到极高水准的出版级文学品质，宏阔苍凉的新浪… |
 | 576 | `sarah-louisa-forten-purvis_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/sarah-louisa-forten-purvis_poetry/译文) (15篇) | [✅ 已审(A)](翻译项目/sarah-louisa-forten-purvis_poetry/审核报告.md) | [📦 19KB](翻译项目/sarah-louisa-forten-purvis_poetry/萨拉·路易莎·弗滕·珀维斯诗集.epub) | A 优秀 | 全书 15 首诗歌与题记实现 100% 行行严格同位对齐，19… |
 | 577 | `sax-rohmer_brood-of-the-witch-queen` | ✅ 已入库 | [✅ **100%**](翻译项目/sax-rohmer_brood-of-the-witch-queen/译文) (33篇) | [✅ 已审(B)](翻译项目/sax-rohmer_brood-of-the-witch-queen/审核报告.md) | [📦 350KB](翻译项目/sax-rohmer_brood-of-the-witch-queen/巫后的子嗣.epub) | B 良好 | 全书 541 块三方段数完全对齐、素材零缺失、数字全对；仅 1… |
-| 578 | `sax-rohmer_the-insidious-dr-fu-manchu` | ✅ 已入库 | [🟡 92.4%](翻译项目/sax-rohmer_the-insidious-dr-fu-manchu/译文) (28/30) | — | — |  |
+| 578 | `sax-rohmer_the-insidious-dr-fu-manchu` | ✅ 已入库 | [✅ **100%**](翻译项目/sax-rohmer_the-insidious-dr-fu-manchu/译文) (30篇) | ⏳ 待审 | — | 已译完待审 |
 | 579 | `siegfried-sassoon_memoirs-of-a-foxhunting-man` | ✅ 已入库 | [🟡 13.6%](翻译项目/siegfried-sassoon_memoirs-of-a-foxhunting-man/译文) (1/10) | — | — |  |
 | 580 | `siegfried-sassoon_memoirs-of-an-infantry-officer` | ✅ 已入库 | [✅ **100%**](翻译项目/siegfried-sassoon_memoirs-of-an-infantry-officer/译文) (10篇) | [✅ 已审(B)](翻译项目/siegfried-sassoon_memoirs-of-an-infantry-officer/审核报告.md) | [📦 461KB](翻译项目/siegfried-sassoon_memoirs-of-an-infantry-officer/步兵军官回忆录.epub) | B 良好 | 译文整体质量良好——诗化散文的气质、克制含蓄的语调与反讽（如「… |
 | 581 | `sigfrid-siwertz_downstream_e-classen` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
@@ -633,7 +633,7 @@
 | 608 | `w-w-jacobs_the-lady-of-the-barge` | ✅ 已入库 | [✅ **100%**](翻译项目/w-w-jacobs_the-lady-of-the-barge/译文) (12篇) | [✅ 已审(B)](翻译项目/w-w-jacobs_the-lady-of-the-barge/审核报告.md) | [📦 224KB](翻译项目/w-w-jacobs_the-lady-of-the-barge/猴爪.epub) | B 良好（含 1 处 A 级情节误译） | 十二篇整体忠实流畅、水手腔与克制… |
 | 609 | `wallace-thurman_the-blacker-the-berry` | ✅ 已入库 | [✅ **100%**](翻译项目/wallace-thurman_the-blacker-the-berry/译文) (7篇) | [✅ 已审](翻译项目/wallace-thurman_the-blacker-the-berry/审核报告.md) | [📦 265KB](翻译项目/wallace-thurman_the-blacker-the-berry/The Blacker the Berry.epub) | B+（良好·待修缮第1部第60段漏段后即达A级出版级） | > 全书 7 篇… |
 | 610 | `walter-de-la-mare_memoirs-of-a-midget` | ✅ 已入库 | ⚪ 待译 (67篇) | — | — |  |
-| 611 | `walter-de-la-mare_the-return` | ✅ 已入库 | [🟡 92.0%](翻译项目/walter-de-la-mare_the-return/译文) (23/24) | — | — |  |
+| 611 | `walter-de-la-mare_the-return` | ✅ 已入库 | [✅ **100%**](翻译项目/walter-de-la-mare_the-return/译文) (24篇) | ⏳ 待审 | — | 已译完待审 |
 | 612 | `walter-m-miller-jr_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/walter-m-miller-jr_short-fiction/译文) (7篇) | [✅ 已审(B)](翻译项目/walter-m-miller-jr_short-fiction/审核报告.md) | [📦 283KB](翻译项目/walter-m-miller-jr_short-fiction/小沃尔特·米勒短篇集.epub) | B 良好（含 1 处 A 级跨块段落滑动错位） | 全书 7 篇译文整体文学… |
 | 613 | `walter-noble-burns_tombstone` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
 | 614 | `walter-s-masterman_the-wrong-letter` | ✅ 已入库 | [✅ **100%**](翻译项目/walter-s-masterman_the-wrong-letter/译文) (18篇) | [✅ 已审](翻译项目/walter-s-masterman_the-wrong-letter/审核报告.md) | [📦 205KB](翻译项目/walter-s-masterman_the-wrong-letter/The Wrong Letter.epub) | A 级（优秀，具备出版级文学推理成色） | 全书 18 篇译文架构严整无缺，… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **9925/18180 篇 (51.3%)** | **452 本完成** | **459 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **9931/18180 篇 (51.4%)** | **452 本完成** | **459 本完成** | 全流程四阶段闭环 |
 
 ---
 

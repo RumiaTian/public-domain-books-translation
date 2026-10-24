@@ -54,3 +54,4 @@
 - 2026-10-19 | xxiv | 直启批次3 子代理完成 | check 通过
 - 2026-10-19 | epilogue | 直启批次3 子代理完成 | check 通过
 - 2026-10-19 | pedigree-of-the-house-of-beauvallet.md | 直启批次3 子代理完成 | check 通过
+- 2026-10-24 | xvi | 补齐历史 1301 挂起章，全书 29/29 全部完结 | check 通过
