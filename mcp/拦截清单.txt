@@ -3,4 +3,3 @@
 # batch_begin 会自动把这些书从候选池排除，直到人工核查后删除条目恢复。
 # 示例：
 # errico-malatesta_essays_various-translators
-edgar-wallace_terror-keep

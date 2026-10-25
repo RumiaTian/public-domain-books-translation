@@ -1,0 +1,42 @@
+## XVIII En Route / 十八、旅途
+===Original===
+
+Our train was about to leave Moscow when we were surprised by an interesting visitor﻿—Krasnoschekov, the president of the Far Eastern Republic, who had recently arrived in the capital from Siberia. He had heard of our presence in the city, but for some reason he could not locate us. Finally he met Alexander Berkman who invited him to the Museum car.
+In appearance Krasnoschekov had changed tremendously since his Chicago days, when, known as Tobinson, he was superintendent of the Workers’ Institute in that city. Then he was one of the many Russian emigrants on the West Side, active as organizer and lecturer in the Socialist movement. Now he looked a different man; his expression stern, the stamp of authority on him, he seemed even to have grown taller. But at heart he remained the same﻿—simple and kind, the Tobinson we had known in Chicago.
+We had only a short time at our disposal and our visitor employed it to give us an insight into the conditions in the Far East and the local form of government. It consisted of representatives of various political factions and “even Anarchists are with us,” said Krasnoschekov; “thus, for instance, Shatov is Minister of Railways. We are independent in the East and there is free speech. Come over and try us, you will find a field for your work.” He invited Alexander Berkman and myself to visit him in Chita and we assured him that we hoped to avail ourselves of the invitation at some future time. He seemed to have brought a different atmosphere and we were sorry to part so soon.
+On the way from Petrograd to Moscow the Expedition had been busy putting its house in order. As already mentioned, the car consisted of six compartments, two of which were converted into a dining room and kitchen. They were of diminutive size, but we managed to make a presentable dining room of one, and the kitchen might have made many a housekeeper envy us. A large Russian samovar and all necessary copper and zinc pots and kettles were there, making a very effective appearance. We were especially proud of the decorative curtains on our car windows. The other compartments were used for office and sleeping quarters. I shared mine with our secretary, Miss A. T. Shakol.
+
+===Chinese===
+
+火车快开出莫斯科时，一位有趣的访客令我们喜出望外——远东共和国总统克拉斯诺谢科夫，他刚从西伯利亚抵达首都。他听说我们在这城里，却不知怎的寻我们不着，最后碰上了亚历山大·伯克曼，伯克曼便邀他到博物馆车厢来做客。
+
+自芝加哥岁月以来，克拉斯诺谢科夫的容貌大变。当年他在芝加哥名叫托宾森，是工人进修学院的院长，是西区众多俄国侨民之一，在社会主义运动里做组织工作和讲演。如今他判若两人：神情严竣，一身权威的烙印，仿佛连个子都高了。但骨子里他还是老样子——朴实而善良，还是我们在芝加哥认识的那个托宾森。
+
+我们时间无多，客人便用来向我们介绍了远东的形势和当地的政体。那政体由各政治派别的代表组成，「连无政府主义者也在我们这边，」克拉斯诺谢科夫说，「譬如沙托夫就是铁道部长。我们在东方是独立的，有言论自由。过来试试吧，你们会找到用武之地的。」他邀亚历山大·伯克曼和我到赤塔去看他，我们向他保证，希望日后有机会践约。他像带来了另一种空气，这么快分手，我们很覚可惜。
+
+从彼得格勒来莫斯科的路上，考察团已把「家」安顿停当。如前所述，车厢有六个隔间，两间改成餐室和厨房。隔间狭小，但我们把其中一间收拾得像模像样，那厨房兴许还叫不少主妇羡慕：一口大俄式茶炊，必不可少的铜锅锌壶一应俱全，看上去颇气派。我们尤其得意的是车窗上装饰的窗帏。其余隔间用作办公室和卧室。我与秘书 A. T. 沙科尔小姐合住一间。
+
+===Original===
+
+Besides Alexander Berkman, appointed by the Museum as chairman and general manager, Shakol as secretary, and myself as treasurer and housekeeper, the Expedition consisted of three other members, including a young Communist, a student of the Petrograd University. En route we mapped out our plan of work, each member of the Expedition being assigned some particular branch of it. I was to gather data in the Departments of Education and Health, the Bureaus of Social Welfare and Labour Distribution, as well as in the organization known as Workers’ and Peasants’ Inspection. After the day’s work all the members were to meet in the car to consider and classify the material collected during the day.
+Our first stop was Kursk. Nothing of importance was collected there except a pair of *kandai*15 which had been worn by a revolutionist in Schlüsselburg. It was donated to us by a chance passerby who, noticing the inscription on our car, “Extraordinary Commission of the Museum of the Revolution,” became interested and called to pay us a visit. He proved to be an intellectual, a Tolstoyan, the manager of a children’s colony. He succeeded in maintaining the latter by giving the Soviet Government a certain amount of labour required of him: three days a week he taught in the Soviet schools of Kursk. The rest of his time he devoted to his little colony, or the “Children’s Commune,” as he affectionately called it. With the help of the children and some adults they raised the vegetables necessary for the support of the colony and made all the repairs of the place. He stated that he had not been directly interfered with by the Government, but that his work was considerably handicapped by discrimination against him as a pacifist and Tolstoyan. He feared that because of it his place could not be continued much longer. There was no trading of any sort in Kursk at the time, and one had to depend for supplies on the local authorities. But discrimination and antagonism manifested themselves against independent initiative and effort. The Tolstoyan, however, was determined to make a fight, spiritually speaking, for the life of his colony. He was planning to go to the centre, to Moscow, where he hoped to get support in favour of his commune.
+
+===Chinese===
+
+考察团成员，除博物馆委任为主席兼总干的亚历山大·伯克曼、秘书沙科尔，以及司库兼管家的我之外，还有三名成员，其中包括一位年轻的共产党人、彼得格勒大学的学生。旅途中我们订出了工作计划，每位成员分掌一个方面。我负责搜集教育与卫生部门、社会救济与劳力调配局，以及工农检查院这个机构的资料。每天的工作结束后，全体成员回到车厢汇总、分类当日收集的材料。
+
+第一站是库尔斯克。在那里收获不大，只收到一副*镣铐*15，是一位革命者在施吕瑟尔堡监狱戴过的。捐赠者是一位偶然路过的行人，他注意到车厢上「革命博物馆特别委员会」的字样，来了兴致，登门拜访。原来他是个知识分子、托尔斯泰主义者，一个儿童营的管理人。他靠向苏维埃政府交付一定量的劳务维持着儿童营：每周三天在库尔斯克的苏维埃学校教书，其余时间都献给他的小营，他昵称之为「儿童公社」。靠孩子们和几个大人的帮手，他们种出营里所需的蔬菜，房屋修缮也全靠自己。他说政府没有直接干预过他，但由于他是和平主义者、托尔斯泰主义者，处处受歧视，工作大受掣肘。他担心儿童营因此维持不了多久了。当时库尔斯克没有任何交易，一切供应都得仰仗地方当局，而对独立的首创与努力，歧视与敌意却处处显形。然而这位托尔斯泰主义者决意为他的营的存亡作一场精神上的战斗，打算到中央去，到莫斯科，希望为他的公社争得支持。
+
+===Original===
+
+The personality of the man, his eagerness to make himself useful, did not correspond with the information I had received from Communists about the intelligentsia, their indifference and unwillingness to help revolutionary Russia. I broached the subject to our visitor. He could only speak of the professional men and women of Kursk, his native city, but he assured us that he found most of them, and especially the teachers, eager to cooperate and even self-sacrificing. But they were the most neglected class, living in semi-starvation all the time. Like himself, they were exposed to general antagonism, even on the part of the children whose minds had been poisoned by agitation against the intelligentsia.
+Kursk is a large industrial centre and I was interested in the fate of the workers there. We learned from our visitor that there had been repeated skirmishes between the workers and the Soviet authorities. A short time before our arrival a strike had broken out and soldiers were sent to quell it. The usual arrests followed and many workers were still in the Cheka. This state of affairs, the Tolstoyan thought, was due to general Communist incompetence rather than to any other cause. People were placed in responsible positions not because of their fitness but owing to their party membership. Political usefulness was the first consideration and it naturally resulted in general abuse of power and confusion. The Communist dogma that the end justifies all means was also doing much harm. It had thrown the door wide open to the worst human passions, and discredited the ideals of the Revolution. The Tolstoyan spoke sadly, as one speaks of a hope cherished and loved, and lost.
+The next morning our visitor donated to our collection the *kandali* he had worn for many years in prison. He hoped that we might return by way of Kursk so that we could pay a visit to some Tolstoyan communes in the environs of the city. Not far from Yasnaya Polyana there lived an old peasant friend of Tolstoy, he told us. He had much valuable material that he might contribute to the Museum. Our visitor remained to the moment of our departure; he was starved for intellectual companionship and was loath to see us go.
+
+===Chinese===
+
+此人的品格、他急于效力的热忱，同我从共产党人那里听来的关于知识分子如何冷漠、不肯帮助革命俄国的说法对不上。我向客人提起这个话题。他只能说库尔斯克——他家乡的专业人士的情况，但他向我们保证，他们大多数、尤其是教师们，都热心合作甚至自我牺牲。可他们又是最被忽视的阶层，长年半饥不饱。像他本人一样，他们普遍遭受敌视，甚至来自孩子们——孩子们的头脑已被反对知识分子的宣传毒化了。
+
+库尔斯克是个大工业中心，我关心那里工人的命运。我们从客人处得知，工人与苏维埃当局屡有冲突。我们来前不久刚爆发过一次罢工，当局派兵镇压，照例是一番逮捕，许多工人还被押在契卡里。托尔斯泰主义者认为，这种局面与其说别有原因，不如说源于共产党的普遍无能：人们被安在负责岗位上，不是因为称职，而是因为党籍；政治上的用场是第一考量，自然导致普遍的滥权与混乱。而「目的使一切手段正当」这条共产党教义危害尤大，它向最早劣的人欲敞开了大门，败坏了革命的理想。托尔斯泰主义者说得很沉痛，像谈起一个怀过、爱过、又失去了的希望。
+
+次日早晨，客人把他自己坐牢多年戴过的那副镣铐捐给了我们的收藏。他希望我们回程能取道库尔斯克，好去看看城郊的托尔斯泰主义公社。离亚斯纳亚·波利亚纳不远，住着托尔斯泰的一位老农友，他告诉我们，那人手里有好多有价值的材料，或许愿意捐给博物馆。客人一直待到我们开车的那一刻——他渴望智识的伴侣，舍不得我们走。

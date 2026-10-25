@@ -121,3 +121,4 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 | 2026-10-14 | 21-epilogue.md | done | 批次2·直启·default-translator·check通过 |
 | 2026-10-14 | chapter-20.md | done | 批次2·直启·default-translator·check通过 |
 | 2026-10-14 | 22/23（ch12–20+尾声+尾注，批次2接管） | done | ch14 两次 [1301] 拦截留 todo 待后续轮次；术语表增补 90+ 条；锁保留 |
+| 2026-10-24 | chapter-14.md | done | 人工辅助直译补齐历史 1301 挂起章，全书 23/23 全部完结·check通过 |
