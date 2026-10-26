@@ -40,7 +40,9 @@ def main():
     def flush():
         nonlocal buf, cur_type
         content = '\n'.join(buf).strip()
-        if cur_type and content:
+        # 空正文标记段（如纯标题块的 Original 为空）也要计入标记序列，
+        # 否则会被跳过并误报「连续同标记」；与 translate_mcp._parse_existing_pairs 对齐。
+        if cur_type is not None and (content or buf):
             markers.append((cur_type, content))
         buf = []
         cur_type = None
