@@ -1,0 +1,54 @@
+===Original===
+
+To the Lords Spiritual and Temporal, and
+
+the Commons of the Parliament
+
+of Great Britain.
+My Lords and Gentlemen,
+Permit me, with the greatest deference and respect, to lay at your feet the following genuine Narrative; the chief design of which is to excite in your august assemblies a sense of compassion for the miseries which the Slave Trade has entailed on my unfortunate countrymen. By the horrors of that trade was I first torn away from all the tender connections that were naturally dear to my heart; but these, through the mysterious ways of Providence, I ought to regard as infinitely more than compensated by the introduction I have thence obtained to the knowledge of the Christian religion, and of a nation which, by its liberal sentiments, its humanity, the glorious freedom of its government, and its proficiency in arts and sciences, has exalted the dignity of human nature.
+I am sensible I ought to entreat your pardon for addressing to you a work so wholly devoid of literary merit; but, as the production of an unlettered African, who is actuated by the hope of becoming an instrument towards the relief of his suffering countrymen, I trust that *such a man*, pleading in *such a cause*, will be acquitted of boldness and presumption.
+May the God of heaven inspire your hearts with peculiar benevolence on that important day when the question of Abolition is to be discussed, when thousands, in consequence of your Determination, are to look for Happiness or Misery!
+I am,
+
+**My Lords and Gentlemen**,
+
+Your most obedient,
+
+And devoted humble servant,
+
+Olaudah Equiano,
+
+or
+
+Gustavus Vassa.
+No. 10, Union-Street, Mary-le-bone,
+
+Dec. 24, 1789.
+
+===Chinese===
+
+敬呈
+大不列颠议会
+灵职与世俗贵族院议员阁下
+暨下议院议员诸公：
+
+诸位阁下、诸公：
+
+请容我怀着最崇高的崇敬与谦卑，将这部真实的自述呈于诸公案前。此书的主要用意，在于唤起诸位尊严议会对奴隶贸易给我不幸的同胞所带来的苦难的一丝怜悯之情。正是这一贸易的残酷暴行，首先将我强行剥离自幼深植于心的所有亲族骨肉；然而，承蒙天意玄妙莫测的引领，我亦得以藉此机缘得识基督教信仰，并得识一个凭借其宽宏气度、人道情怀、政体之光荣自由，以及在文艺与科学领域的精湛造诣，提升了人类天性尊严的伟大国度；凡此种种，理应令我感到已获远超所受苦难的补偿。
+
+我深知，将一部毫无文采的作品呈递诸公案前，理当恳求诸位宽恕；然而，作为一位目不识丁的非洲人（African）的心血之作，驱使他的唯有祈愿自己能成为解救苦难同胞的一份力量；我深信，正是这样一个人，为着这样一份正义事业陈情，必能蒙诸公宽宥其冒昧与鲁莽。
+
+愿天上的上帝在商讨废奴（Abolition）议题的那个重大日子里，赋予诸公内心以仁慈博爱之情；届时千千万万人的幸福或苦难，皆系于诸公的抉择！
+
+诸位阁下、诸公
+
+谨呈
+最顺从、最忠诚的谦卑仆人
+
+奥拉乌达·艾奎亚诺（Olaudah Equiano）
+或
+古斯塔夫斯·瓦萨（Gustavus Vassa）
+
+马里波恩（Mary-le-bone）联合街（Union-Street） 10 号
+1789 年 12 月 24 日
