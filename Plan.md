@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-26，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-10-27，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **483** 完 / **31** 译 / **133** 待（共 647 本） | **10397** / 18180 篇（**167098.0** / 305863.1 KB）· **54.6%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **31** 本待审 | 覆盖精读 **452** 本（**93.6%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **483** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **483** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **487** 完 / **30** 译 / **130** 待（共 647 本） | **10452** / 18180 篇（**168144.0** / 305863.1 KB）· **55.0%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **35** 本待审 | 覆盖精读 **452** 本（**92.8%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **487** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **487** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **483** 本译完，**452** 本完成独立审校，**483** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **487** 本译完，**452** 本完成独立审校，**487** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -108,7 +108,7 @@
 | 83 | `benito-perez-galdos_trafalgar_clara-bell` | ✅ 已入库 | [✅ **100%**](翻译项目/benito-perez-galdos_trafalgar_clara-bell/译文) (18篇) | [✅ 已审](翻译项目/benito-perez-galdos_trafalgar_clara-bell/审核报告.md) | [📦 283KB](翻译项目/benito-perez-galdos_trafalgar_clara-bell/Trafalgar.epub) | A（优秀） | 全书 18 篇（186 对中英对照块）无漏译、无章末截断、无… |
 | 84 | `benjamin-disraeli_sybil` | ✅ 已入库 | ⚪ 待译 (74篇) | — | — |  |
 | 85 | `bertha-von-suttner_lay-down-your-arms_t-holmes` | ✅ 已入库 | ⚪ 待译 (22篇) | — | — |  |
-| 86 | `bertrand-russell_the-practice-and-theory-of-bolshevism` | ✅ 已入库 | ⚪ 待译 (20篇) | — | — |  |
+| 86 | `bertrand-russell_the-practice-and-theory-of-bolshevism` | ✅ 已入库 | [✅ **100%**](翻译项目/bertrand-russell_the-practice-and-theory-of-bolshevism/译文) (20篇) | ⏳ 待审 | [📦 194KB](翻译项目/bertrand-russell_the-practice-and-theory-of-bolshevism/The Practice and Theory of Bolshevism.epub) | 已译完待审 |
 | 87 | `black-hawk_the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk` | ✅ 已入库 | [✅ **100%**](翻译项目/black-hawk_the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/译文) (17篇) | [✅ 已审(B)](翻译项目/black-hawk_the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/审核报告.md) | [📦 284KB](翻译项目/black-hawk_the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/黑鹰自传.epub) | B 良好 | 全书 16 个有效文件、181 个块逐段核对未发现整段漏译、章… |
 | 88 | `booth-tarkington_national-avenue` | ✅ 已入库 | [✅ **100%**](翻译项目/booth-tarkington_national-avenue/译文) (32篇) | [✅ 已审(B)](翻译项目/booth-tarkington_national-avenue/审核报告.md) | [📦 507KB](翻译项目/booth-tarkington_national-avenue/National Avenue.epub) | B 良好 | 全书 32 篇 539 块中英逐块核对，段落覆盖、数字、术语与… |
 | 89 | `booth-tarkington_the-magnificent-ambersons` | ✅ 已入库 | [✅ **100%**](翻译项目/booth-tarkington_the-magnificent-ambersons/译文) (35篇) | [✅ 已审(B)](翻译项目/booth-tarkington_the-magnificent-ambersons/审核报告.md) | [📦 522KB](翻译项目/booth-tarkington_the-magnificent-ambersons/The Magnificent Ambersons.epub) | B 良好 | 全书 35 篇、563 块中英对照整体忠实流畅，术语与时代词处… |
@@ -348,7 +348,7 @@
 | 323 | `hjalmar-soderberg_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_short-fiction_various-translators/译文) (19篇) | [✅ 已审(A)](翻译项目/hjalmar-soderberg_short-fiction_various-translators/审核报告.md) | [📦 121KB](翻译项目/hjalmar-soderberg_short-fiction_various-translators/瑟德尔贝里短篇集.epub) | A 优秀 | 全书 19 篇双语块对照严丝合缝，无任何语义错配、整段漏译、章… |
 | 324 | `honore-de-balzac_shorts-from-scenes-from-private-life_various-translators` | ✅ 已入库 | ⚪ 待译 (22篇) | — | — |  |
 | 325 | `honore-de-balzac_the-jealousies-of-a-country-town_ellen-marriage` | ✅ 已入库 | ⚪ 待译 (6篇) | — | — |  |
-| 326 | `hope-mirrlees_lud-in-the-mist` | ✅ 已入库 | [🟡 49.6%](翻译项目/hope-mirrlees_lud-in-the-mist/译文) (19/34) | — | — |  |
+| 326 | `hope-mirrlees_lud-in-the-mist` | ✅ 已入库 | [✅ **100%**](翻译项目/hope-mirrlees_lud-in-the-mist/译文) (34篇) | ⏳ 待审 | [📦 486KB](翻译项目/hope-mirrlees_lud-in-the-mist/雾中乡.epub) | 已译完待审 |
 | 327 | `hugh-walpole_the-dark-forest` | ✅ 已入库 | [✅ **100%**](翻译项目/hugh-walpole_the-dark-forest/译文) (17篇) | [✅ 已审(B)](翻译项目/hugh-walpole_the-dark-forest/审核报告.md) | [📦 474KB](翻译项目/hugh-walpole_the-dark-forest/黑森林.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 328 | `hugh-walpole_the-secret-city` | ✅ 已入库 | ⚪ 待译 (58篇) | — | — |  |
 | 329 | `isaac-asimov_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/isaac-asimov_short-science-fiction/译文) (5篇) | [✅ 已审(A)](翻译项目/isaac-asimov_short-science-fiction/审核报告.md) | [📦 131KB](翻译项目/isaac-asimov_short-science-fiction/Short Science Fiction.epub) | A 优秀 | 五篇译文整体质量上乘，无错配、无漏译、无截断，阿西莫夫冷幽默与… |
@@ -423,7 +423,7 @@
 | 398 | `john-william-polidori_the-vampire` | ✅ 已入库 | [✅ **100%**](翻译项目/john-william-polidori_the-vampire/译文) (3篇) | [✅ 已审(A)](翻译项目/john-william-polidori_the-vampire/审核报告.md) | [📦 60KB](翻译项目/john-william-polidori_the-vampire/吸血鬼.epub) | A 优秀 | 译笔典雅、哥特阴郁基调把握到位，语义对应完整、无漏译错配、无英… |
 | 399 | `johnston-mcculley_the-mark-of-zorro` | ✅ 已入库 | [✅ **100%**](翻译项目/johnston-mcculley_the-mark-of-zorro/译文) (39篇) | [✅ 已审(A)](翻译项目/johnston-mcculley_the-mark-of-zorro/审核报告.md) | [📦 331KB](翻译项目/johnston-mcculley_the-mark-of-zorro/The Mark of Zorro.epub) | A 优秀 | 全书 39 章 560 块双语对照逐块核验，块/段严格对称（5… |
 | 400 | `jonas-lie_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/jonas-lie_short-fiction_various-translators/译文) (14篇) | [✅ 已审(A)](翻译项目/jonas-lie_short-fiction_various-translators/审核报告.md) | [📦 189KB](翻译项目/jonas-lie_short-fiction_various-translators/约纳斯·利短篇集.epub) | A 优秀 | 全书 14 篇译文展现出极高水准的出版级文学质感，中英 230… |
-| 401 | `jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity` | ✅ 已入库 | ⚪ 待译 (6篇) | — | — |  |
+| 401 | `jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity` | ✅ 已入库 | [✅ **100%**](翻译项目/jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/译文) (6篇) | ⏳ 待审 | [📦 230KB](翻译项目/jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/An Inquiry Into the Accordancy of War with the Principles of Christianity.epub) | 已译完待审 |
 | 402 | `joseph-conrad-ford-madox-ford_the-nature-of-a-crime` | ✅ 已入库 | [✅ **100%**](翻译项目/joseph-conrad-ford-madox-ford_the-nature-of-a-crime/译文) (10篇) | [✅ 已审(A)](翻译项目/joseph-conrad-ford-madox-ford_the-nature-of-a-crime/审核报告.md) | [📦 78KB](翻译项目/joseph-conrad-ford-madox-ford_the-nature-of-a-crime/The Nature of a Crime.epub) | A 优秀 | 译文对康拉德式绵长迂回的告白体句法把握精准，心理独白的神经质节… |
 | 403 | `joseph-conrad_a-personal-record` | ✅ 已入库 | [✅ **100%**](翻译项目/joseph-conrad_a-personal-record/译文) (9篇) | [✅ 已审](翻译项目/joseph-conrad_a-personal-record/审核报告.md) | [📦 251KB](翻译项目/joseph-conrad_a-personal-record/个人记录：一些回忆.epub) | A（优秀） | 全书 9 篇结构完全契合双语对照规范，源文零漏译、章末零截断… |
 | 404 | `joseph-conrad_ford-madox-ford_romance` | ✅ 已入库 | ⚪ 待译 (42篇) | — | — |  |
@@ -663,14 +663,14 @@
 | 638 | `william-morris_the-well-at-the-worlds-end` | ✅ 已入库 | ⚪ 待译 (123篇) | — | — |  |
 | 639 | `william-wollaston_the-religion-of-nature-delineated` | ✅ 已入库 | ⚪ 待译 (14篇) | — | — |  |
 | 640 | `william-wycherley_the-country-wife` | ✅ 已入库 | [✅ **100%**](翻译项目/william-wycherley_the-country-wife/译文) (10篇) | [✅ 已审(B)](翻译项目/william-wycherley_the-country-wife/审核报告.md) | [📦 170KB](翻译项目/william-wycherley_the-country-wife/乡村妻子.epub) | B 良好 | 全剧译文才力雄健、神采飞扬，将 17 世纪王政复辟喜剧的市井机… |
-| 641 | `woodrow-wilson_the-new-freedom` | ✅ 已入库 | ⚪ 待译 (14篇) | — | — |  |
+| 641 | `woodrow-wilson_the-new-freedom` | ✅ 已入库 | [✅ **100%**](翻译项目/woodrow-wilson_the-new-freedom/译文) (14篇) | ⏳ 待审 | [📦 248KB](翻译项目/woodrow-wilson_the-new-freedom/新自由.epub) | 已译完待审 |
 | 642 | `xavier-de-maistre_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/xavier-de-maistre_short-fiction_various-translators/译文) (6篇) | [✅ 已审(A)](翻译项目/xavier-de-maistre_short-fiction_various-translators/审核报告.md) | [📦 354KB](翻译项目/xavier-de-maistre_short-fiction_various-translators/德迈斯特短篇集.epub) | A 优秀（出版预备级） | 英文镜像逐字节等同原文、逐章译率与术语落位正常；… |
 | 643 | `zane-grey_betty-zane` | ✅ 已入库 | [🟡 50.4%](翻译项目/zane-grey_betty-zane/译文) (11/19) | — | — | 翻译中 (done 11/19) |
 | 644 | `zeami-motokiyo_plays_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/zeami-motokiyo_plays_various-translators/译文) (9篇) | [✅ 已审(B)](翻译项目/zeami-motokiyo_plays_various-translators/审核报告.md) | [📦 80KB](翻译项目/zeami-motokiyo_plays_various-translators/高砂.epub) | B 良好 | 整体译笔忠实流畅、能乐术语与专名还原高度统一，仅存在个别数字错… |
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10397/18180 篇 (54.6%)** | **452 本完成** | **483 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10452/18180 篇 (55.0%)** | **452 本完成** | **487 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1202,6 +1202,7 @@
 | The Alchemist | Ben Jonson | `ben-jonson_the-alchemist` | 164KB | - | [`炼金术士.epub`](翻译项目/ben-jonson_the-alchemist/炼金术士.epub) |
 | 国民演义 | Benito Perez Galdos | `benito-perez-galdos_saragossa_minna-caroline-smith` | 354KB | - | [`国民演义.epub`](翻译项目/benito-perez-galdos_saragossa_minna-caroline-smith/国民演义.epub) |
 | Trafalgar | Benito Pérez Galdós | `benito-perez-galdos_trafalgar_clara-bell` | 283KB | - | [`Trafalgar.epub`](翻译项目/benito-perez-galdos_trafalgar_clara-bell/Trafalgar.epub) |
+| bertrand-russell_the-practice-and-theory-of-bolshevism | Bertrand Russell | `bertrand-russell_the-practice-and-theory-of-bolshevism` | 194KB | - | [`The Practice and Theory of Bolshevism.epub`](翻译项目/bertrand-russell_the-practice-and-theory-of-bolshevism/The Practice and Theory of Bolshevism.epub) |
 | The Autobiography of Ma-Ka-Tai-Me-She-Kia-Kiak, or Black Hawk | Black Hawk | `black-hawk_the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk` | 284KB | - | [`黑鹰自传.epub`](翻译项目/black-hawk_the-autobiography-of-ma-ka-tai-me-she-kia-kiak-or-black-hawk/黑鹰自传.epub) |
 | National Avenue | Booth Tarkington | `booth-tarkington_national-avenue` | 507KB | - | [`National Avenue.epub`](翻译项目/booth-tarkington_national-avenue/National Avenue.epub) |
 | The Magnificent Ambersons | Booth Tarkington | `booth-tarkington_the-magnificent-ambersons` | 522KB | - | [`The Magnificent Ambersons.epub`](翻译项目/booth-tarkington_the-magnificent-ambersons/The Magnificent Ambersons.epub) |
@@ -1387,6 +1388,7 @@
 | 奴役性国家 | Hilaire Belloc | `hilaire-belloc_the-servile-state` | 191KB | - | [`奴役性国家.epub`](翻译项目/hilaire-belloc_the-servile-state/奴役性国家.epub) |
 | Martin Birck’s Youth | Hjalmar Söderberg | `hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork` | 207KB | - | [`马丁·比尔克的青春.epub`](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/马丁·比尔克的青春.epub) |
 | Short Fiction | Hjalmar Söderberg | `hjalmar-soderberg_short-fiction_various-translators` | 121KB | - | [`瑟德尔贝里短篇集.epub`](翻译项目/hjalmar-soderberg_short-fiction_various-translators/瑟德尔贝里短篇集.epub) |
+| 雾中乡 | Hope Mirrlees | `hope-mirrlees_lud-in-the-mist` | 486KB | - | [`雾中乡.epub`](翻译项目/hope-mirrlees_lud-in-the-mist/雾中乡.epub) |
 | 黑森林 | Hugh Walpole | `hugh-walpole_the-dark-forest` | 474KB | - | [`黑森林.epub`](翻译项目/hugh-walpole_the-dark-forest/黑森林.epub) |
 | Short Science Fiction | Isaac Asimov | `isaac-asimov_short-science-fiction` | 131KB | - | [`Short Science Fiction.epub`](翻译项目/isaac-asimov_short-science-fiction/Short Science Fiction.epub) |
 | 布宁短篇集 | Ivan Bunin | `ivan-bunin_short-fiction_various-translators` | 456KB | - | [`布宁短篇集.epub`](翻译项目/ivan-bunin_short-fiction_various-translators/布宁短篇集.epub) |
@@ -1449,6 +1451,7 @@
 | The Vampire | John William Polidori | `john-william-polidori_the-vampire` | 60KB | - | [`吸血鬼.epub`](翻译项目/john-william-polidori_the-vampire/吸血鬼.epub) |
 | The Mark of Zorro | Johnston McCulley | `johnston-mcculley_the-mark-of-zorro` | 331KB | - | [`The Mark of Zorro.epub`](翻译项目/johnston-mcculley_the-mark-of-zorro/The Mark of Zorro.epub) |
 | Short Fiction | Jonas Lie | `jonas-lie_short-fiction_various-translators` | 189KB | - | [`约纳斯·利短篇集.epub`](翻译项目/jonas-lie_short-fiction_various-translators/约纳斯·利短篇集.epub) |
+| jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity | Jonathan Dymond | `jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity` | 230KB | - | [`An Inquiry Into the Accordancy of War with the Principles of Christianity.epub`](翻译项目/jonathan-dymond_an-inquiry-into-the-accordancy-of-war-with-the-principles-of-christianity/An Inquiry Into the Accordancy of War with the Principles of Christianity.epub) |
 | joseph-conrad-ford-madox-ford_the-nature-of-a-crime | Joseph Conrad Ford Madox Ford | `joseph-conrad-ford-madox-ford_the-nature-of-a-crime` | 78KB | - | [`The Nature of a Crime.epub`](翻译项目/joseph-conrad-ford-madox-ford_the-nature-of-a-crime/The Nature of a Crime.epub) |
 | A Personal Record | Joseph Conrad | `joseph-conrad_a-personal-record` | 251KB | - | [`个人记录：一些回忆.epub`](翻译项目/joseph-conrad_a-personal-record/个人记录：一些回忆.epub) |
 | The Inheritors | Joseph Conrad, Ford Madox Ford | `joseph-conrad_ford-madox-ford_the-inheritors` | 323KB | - | [`继承人.epub`](翻译项目/joseph-conrad_ford-madox-ford_the-inheritors/继承人.epub) |
@@ -1619,6 +1622,7 @@
 | The Roots of the Mountains | William Morris | `william-morris_the-roots-of-the-mountains` | 686KB | - | [`The Roots of the Mountains.epub`](翻译项目/william-morris_the-roots-of-the-mountains/The Roots of the Mountains.epub) |
 | 群山之根 | William Morris | `william-morris_the-sundering-flood` | 424KB | - | [`群山之根.epub`](翻译项目/william-morris_the-sundering-flood/群山之根.epub) |
 | The Country Wife | William Wycherley | `william-wycherley_the-country-wife` | 170KB | - | [`乡村妻子.epub`](翻译项目/william-wycherley_the-country-wife/乡村妻子.epub) |
+| 新自由 | Woodrow Wilson | `woodrow-wilson_the-new-freedom` | 248KB | - | [`新自由.epub`](翻译项目/woodrow-wilson_the-new-freedom/新自由.epub) |
 | Short Fiction | Xavier de Maistre | `xavier-de-maistre_short-fiction_various-translators` | 353KB | - | [`德迈斯特短篇集.epub`](翻译项目/xavier-de-maistre_short-fiction_various-translators/德迈斯特短篇集.epub) |
 | Plays | Zeami Motokiyo | `zeami-motokiyo_plays_various-translators` | 80KB | - | [`高砂.epub`](翻译项目/zeami-motokiyo_plays_various-translators/高砂.epub) |
 | American Indian Stories | Zitkála-Šá | `zitkala-sa_american-indian-stories` | 161KB | - | [`美国印第安故事.epub`](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) |
