@@ -11,6 +11,16 @@
 
 ### I /
 
+### I /
+
+### I /
+
+### I /
+
+### I /
+
+### I /
+
 ### I / 
 ===Original===
 
@@ -518,6 +528,16 @@ John Pentland rose slowly, painfully, for he had grown stiff and brittle with th
 
 ### II / 二
 
+### II /
+
+### II /
+
+### II /
+
+### II /
+
+### II /
+
 ### II / 
 ===Original===
 
@@ -676,6 +696,16 @@ When she reached the house she found it dark save for the light which burned per
 到了宅子跟前，她发现里面黑着，只有大厅里那盏长明的灯，幽幽照着一列列画像；也静着，只有老宅在夜的岑寂里那些憋不住的吱呀。
 
 ### III / 三
+
+### III /
+
+### III /
+
+### III /
+
+### III /
+
+### III / 
 ===Original===
 
 She was wakened early, after having slept badly, with the news that Michael had been kept in Boston the night before and would not be able to ride with her as usual. When the maid had gone away she grew depressed, for she had counted upon seeing him and coming to some definite plan. For a moment she even experienced a vague jealousy, which she put away at once as shameful. It was not, she told herself, that he ever neglected her; it was only that he grew more and more occupied as the autumn approached. It was not that there was any other woman involved; she felt certain of him. And yet there remained that strange, gnawing little suspicion placed in her mind when John Pentland had said, “He’s a clever Irishman on the make﻿ ﻿… and such gentlemen need watching.”
@@ -987,3 +1017,829 @@ He was talking earnestly, passionately, and when he paused for a moment she rema
 他说得恳切、热烈；他停下来时，她静着，不肯打断，等他说完。
 
 「我要说的话难说，彭特兰太太。简单说就是这样……我二十五，可我经历过生活。别笑！别当我是个要您把他当浪子的毛头小子。可我说的是实话。这种事我懂……我高兴我懂，因为这叫我更加确信，西比尔是世界上唯一配我的女人……我肯为她舍弃一切的那个女人。我也更懂得怎样叫她幸福，怎样温柔待她……怎样懂她。我学过了，这门功课要学……是一切生活里顶要紧的一课。这一点上法国人是对的。他们把爱情造成一件美好的、了不起的东西。”他忽然带着一点悲哀转过脸去。「这些我也许不该同您讲。……我同西比尔讲了。她懂。」
+
+===Original===
+
+“No,” said Olivia, “I think you’re right﻿ ﻿… perhaps.” She kept thinking of the long tragic story of John Pentland, and of Anson, who had always been ashamed of love and treated it as something distasteful. To them it had been a dark, strange thing always touched by shame. She kept thinking, despite anything she could do, of Anson’s clumsy, artificial attempts at lovemaking, and she was swept suddenly by shame for him. Anson, so proud and supercilious, was a poor thing, inferior even to his own groom.
+
+“But why,” she asked, “didn’t you tell me about Sybil sooner? Everyone has seen it, but you never spoke to me.”
+
+For a moment he did not answer her. An expression of pain clouded the blue eyes, and then, looking at her directly, he said, “It’s not easy to explain why. I was afraid to come to you for fear you mightn’t understand, and the longer I’ve been here, the longer I’ve put it off because﻿ ﻿… well, because here in Durham, ancestors, family, all that, seems to be the beginning and end of everything. It seems always to be a question of who one’s family is. There is only the past and no future at all. And, you see, in a way﻿ ﻿… I haven’t any family.” He shrugged his big shoulders and repeated, “In a way, I haven’t any family at all. You see, my mother was never married to my father.﻿ ﻿… I’ve no blood-right to the name of de Cyon. I’m﻿ ﻿… I’m﻿ ﻿… well, just a bastard, and it seemed hopeless for me even to talk to a Pentland about Sybil.”
+
+He saw that she was startled, disturbed, but he could not have known that the look in her eyes had very little to do with shock at what he had told her; rather she was thinking what a weapon the knowledge would be in the hands of Anson and Aunt Cassie and even John Pentland himself.
+
+He was talking again with the same passionate earnestness.
+
+“I shan’t let it make any difference, so long as Sybil will have me, but, you see, it’s very hard to explain, because it isn’t the way it seems. I want you to understand that my mother is a wonderful woman.﻿ ﻿… I wouldn’t bother to explain, to say anything﻿ ﻿… except to Sybil and to you.”
+
+“Sabine has told me about her.”
+
+“Mrs. Callendar has known her for a long time.﻿ ﻿… They’re great friends,” said Jean. “She understands.”
+
+“But she never told me﻿ ﻿… that. You mean that she’s known it all along?”
+
+===Chinese===
+
+「不，」奥利维娅说，「我想你说得对……大概吧。」她心里不住想着约翰·彭特兰那长长的悲剧，想着安森——他一向以爱情为耻，把它当作某种不堪入口的东西。对他们来说，那从来是一件黑暗的怪事，总沾着几分羞辱。她不由自主地总想起安森那些笨拙、做作的求爱姿态，忽然为他感到一阵脸红的羞惭。安森，那么高傲、那么目中无人，其实是个可怜虫，连自家的马夫都不如。
+
+「可是，」她问，「你为什么不早点同我谈西比尔？谁都看出来了，你却从没对我说过。」
+
+他有一会儿没有答话。一片痛楚蒙上那双蓝眼睛，随后他直望着她说：「这不好解释。我不敢来找您，怕您不能理解；我在这儿待得越久，越是一拖再拖，因为……唉，因为在达勒姆这地方，祖先、门第，这一切，仿佛就是天地的全部，仿佛永远只问一句：你家是什么人家。只有过去，根本没有将来。还有，您知道，从某种意义上说……我没有家。」他耸了耸宽大的肩膀，又说了一遍：「从某种意义上说，我压根儿没有家。您瞧，我母亲从没有同我父亲结过婚。……我对德·西翁（de Cyon）这个姓没有血统上的权利。我是……我是……唉，就是个私生子。所以我总觉得，同彭特兰家的人谈西比尔，是没有指望的事。」
+
+他看见她吃惊、不安；可他无从知道，她眼里的神色，同他这番话引起的震动关系甚少——她想的是，这消息落在安森、卡茜姑姑、甚至约翰·彭特兰本人手里，会成一件怎样的武器。
+
+他又说起来了，还是那样热烈恳切。
+
+「只要西比尔肯要我，我不会让这件事碍着什么。可是您知道，这很难解释，因为事情并不是看上去的那样。我要您明白，我母亲是个了不起的女人。……我本犯不着解释、犯不着说什么……只对西比尔说，对您说。」
+
+「萨宾同我讲过她。」
+
+「卡伦德太太认识她很久了。……她们是好朋友，」让说。「她明白。」
+
+「可她从没告诉过我……那件事。你是说，她一直都知道？」
+
+===Original===
+
+“It’s not an easy thing to tell﻿ ﻿… especially here in Durham, and I fancy she thought it might make trouble for me﻿ ﻿… after she saw what had happened to Sybil and me.”
+
+He went on quickly, telling her what he had told Sybil of his mother’s story, trying to make her understand what he understood, and Sabine and even his stepfather, the distinguished old de Cyon﻿ ﻿… trying to explain a thing which he himself knew was not to be explained. He told her that his mother had refused to marry her lover, “because in his life outside﻿ ﻿… the life which had nothing to do with her﻿ ﻿… she discovered that there were things she couldn’t support. She saw that it was better not to marry him﻿ ﻿… better for herself and for him and, most of all, for me.﻿ ﻿… He did things for the sake of success﻿—mean, dishonorable things﻿—which she couldn’t forgive﻿ ﻿… and so she wouldn’t marry him. And now, looking back, I think she was right. It made no great difference in her life. She lived abroad﻿ ﻿… as a widow, and very few people﻿—not more than two or three﻿—ever knew the truth. *He* never told because, being a politician, he was afraid of such a scandal. She didn’t want me to be brought up under such an influence, and I think she was right. He’s gone on doing things that were mean and dishonorable.﻿ ﻿… He’s still doing them today. You see he’s a politician﻿ ﻿… a rather cheap one. He’s a Senator now and he hasn’t changed. I could tell you his name.﻿ ﻿… I suppose some people would think him a distinguished man﻿ ﻿… only I promised her never to tell it. He thinks that I’m dead.﻿ ﻿… He came to her once and asked to see me, to have a hand in my education and my future. There were things, he said, that he could do for me in America﻿ ﻿… and she told him simply that I was dead﻿ ﻿… that I was killed in the war.” He finished in a sudden burst of enthusiasm, his face alight with affection. “But you must know her really to understand what I’ve been saying. Knowing her, you understand everything, because she’s one of the great people﻿ ﻿… the strong people of the world. You see, it’s one of the things which it is impossible to explain﻿—to you or even to Sybil﻿—impossible to explain to the others. One must know her.”
+
+===Chinese===
+
+「这种事不容易说出口……尤其在达勒姆这地方；我琢磨着，她是怕给我招祸……在她看见我和西比尔的事之后。」
+
+他滔滔地说下去，把他对西比尔讲过的他母亲的故事讲给她听，想叫她懂得他所懂得的、萨宾懂得的、甚至他继父——那位德高望重的老德·西翁——也懂得的……想解释一件他自己也知道无从解释的事。他告诉她，他母亲拒绝了她的情人，不肯嫁他，「因为在他另一种生活里……那种同她毫不相干的生活里……她发现了她受不了的东西。她看出不嫁给他更好……对她自己、对他、尤其是对我，都更好。……他为了成功做过些事——卑鄙的、不体面的事——她无法原谅……所以不肯嫁给他。如今回头看，我想她是对的。这对她的生活没多大影响。她侨居国外……以寡妇的身份；知道真相的人寥寥无几——不过两三个。*他*从没说出去，因为他是政界人物，怕这样的丑闻。她不愿我在这样的影响底下长大，我想她是对的。他一直在做卑鄙的、不体面的事。……如今还在做。您瞧，他是政客……还是个相当低档的。如今当上了参议员，人没有变。他的名字我本来可以说。……我估摸着有些人还要当他是个显赫人物……只是我答应过她，永远不说。他以为我死了。……他去找过她一次，要求见我，想插一手我的教育和前程。他说有些事他能在美国替我办……她只简简单单告诉他，说我死了……说我在战争中阵亡了。」末了他忽然迸出一阵热忱，脸上燃着爱意。「可您得真正认识她，才懂我说的话。认识了她，您就什么都懂了，因为她是伟人中的一个……世上坚强的人中的一个。您瞧，这是没法解释的事情之一——对您没法解释，对西比尔也没法解释——对旁人更不可能。必须认识她本人。」
+
+===Original===
+
+If she had had any doubts or fears, she knew now that it was too late to act; she saw that it was impossible to change the wills of two such lovers as Jean and Sybil. In a way, she came to understand the story of Jean’s mother more from watching him than by listening to his long explanation. There must be in her that same determination and ardor that was in her son﻿ ﻿… a thing in its way irresistible. And yet it was difficult; she was afraid, somehow, of this unexpected thing, perhaps because it seemed vaguely like the taint of Savina Pentland.
+
+She said, “If no one knows this, there is no reason to tell it here. It would only make unhappiness for all concerned. It is your business alone﻿ ﻿… and Sybil’s. The others have no right to interfere, even to know; but they will try, Jean﻿ ﻿… unless﻿ ﻿… unless you both do what you want﻿ ﻿… quickly. Sometimes I think they might do anything.”
+
+“You mean﻿ ﻿…” he began impatiently.
+
+Olivia fell back upon that vague hint which John Pentland had dropped to her the night before. She said, “There was once an elopement in the Pentland family.”
+
+“You wouldn’t mind that?” he asked eagerly. “You wouldn’t be hurt﻿ ﻿… if we did it that way?”
+
+“I shouldn’t know anything about it,” said Olivia quietly, “until it was too late to do anything.”
+
+“It’s funny,” he said; “we’d thought of that. We’ve talked of it, only Sybil was afraid you’d want to have a big wedding and all that.﻿ ﻿…”
+
+“No, I think it would be better not to have any wedding at all﻿ ﻿… especially under the circumstances.”
+
+“Mrs. Callendar suggested it as the best way out.﻿ ﻿… She offered to lend us her motor,” he said eagerly.
+
+“You discussed it with her and yet you didn’t speak to me?”
+
+“Well, you see, she’s different﻿ ﻿… she and Thérèse.﻿ ﻿… They don’t belong here in Durham. Besides, she spoke of it first. She knew what was going on. She always knows. I almost think that she planned the whole thing long ago.”
+
+Olivia, looking out of the window, saw entering the long drive the antiquated motor with Aunt Cassie, Miss Peavey, her flying veils and her Pekinese.
+
+“Mrs. Struthers is coming﻿ ﻿…” she said. “We mustn’t make her suspicious. And you’d best tell me nothing of your plans and then﻿ ﻿… I shan’t be able to interfere even if I wanted to. I might change my mind﻿ ﻿… one never knows.”
+
+===Chinese===
+
+倘若她心里还有疑虑或恐惧，此刻也知道行动为时已晚；她看出，要让和西比尔这样一对恋人回心转意，是办不到的。从某种意义上说，她母亲那个故事，她是望着让本人懂得的，胜过听他那长长的解释。那位母亲身上，想必有着同她儿子一样的心志与热忱……一样以它自己的方式无可抗拒的东西。然而这事难办；她不知怎的有点怕这桩意外，也许因为它隐隐像萨维娜·彭特兰身上那点污迹。
+
+她说：「既然没有人知道这件事，就没有理由在这儿说出去。那只会叫所有沾边的人不幸。这是你一个人的事……和西比尔的。旁人无权干涉，连知道都无权；可他们不会罢休的，让……除非……除非你们两个赶快……照自己的意思去做。有时候我想，他们什么都干得出来。」
+
+「您是说……」他不耐烦地开了头。
+
+奥利维娅搬出约翰·彭特兰前一晚丢给她的那句含糊的暗示。她说：「彭特兰家从前有过一回私奔。」
+
+「您不会介意吧？」他急切地问。「要是我们那样办……您不会伤心吧？」
+
+「那样的话，我什么都不会知道，」奥利维娅静静地说，「等我知道了，做什么也来不及了。」
+
+「真有意思，」他说，「我们也想到过这个。我们谈过，只是西比尔怕您要办一场排场的婚礼，诸如此类。……」
+
+「不，我看干脆什么婚礼都别办……尤其在眼下这情形里。」
+
+「卡伦德太太出的这个主意，说这是最好的出路。……她还提出把她的汽车借给我们，」他急切地说。
+
+「你们同她商量了，倒不同我谈？」
+
+「唉，您瞧，她不一样……她和泰蕾兹。……她们不属于达勒姆。再说，是她先提起的。她知道事情的进展。她什么都知道。我几乎觉得，这件事她早就整个盘算好了。」
+
+奥利维娅朝窗外望去，看见那辆老古董汽车正驶入长长的车道，车里是卡茜姑姑、皮维小姐，还有她飘飞的面纱和她的哈巴狗。
+
+「斯特拉瑟斯太太来了……」她说。「可不能叫她起疑。你顶好一点儿也别把你们的打算告诉我……这样……哪怕我想干涉也干涉不成。我说不定会变卦……谁知道呢。」
+
+===Original===
+
+He stood up and, coming over to her, took her hand and kissed it. “There’s nothing to say, Mrs. Pentland﻿ ﻿… except that you’ll be glad for what you’ve done. You needn’t worry about Sybil.﻿ ﻿… I shall make her happy.﻿ ﻿… I think I know how.”
+
+He left her, hurrying away past the ancestors in the long hall to find Sybil, thinking all the while how odd it would seem to have a woman so young and beautiful as Mrs. Pentland for a mother-in-law. She was a charming woman (he thought in his enthusiasm), a great woman, but she was so sad, as if she had never been very happy. There was always a cloud about her.
+
+---
+
+He did not escape quickly enough, for Aunt Cassie’s sharp eyes caught a glimpse of him as he left the house in the direction of the stables. She met Olivia in the doorway, kissing her and saying, “Was that Sybil’s young man I saw leaving?”
+
+“Yes,” said Olivia. “We’ve been talking about Sybil. I’ve been telling him that he mustn’t think of her as someone to marry.”
+
+The yellow face of Aunt Cassie lighted with a smile of approval. “I’m glad, my dear, that you’re being sensible about this. I was afraid you wouldn’t be, but I didn’t like to interfere. I never believe any good comes of it, unless one is forced to. He’s not the person for Sybil.﻿ ﻿… Why, no one knows anything about him. You can’t let a girl marry like that﻿ ﻿… just anyone who comes along. Besides, Mrs. Pulsifer writes me.﻿ ﻿… You remember her, Olivia, the Mannering boy’s aunt who used to have a house in Chestnut Street.﻿ ﻿… Well, she lives in Paris now at the Hotel Continental, and she writes me she’s discovered there’s some mystery about his mother. No one seems to know much about her.”
+
+“Why,” said Olivia, “should she write you such a thing? What made her think you’d be interested?”
+
+“Well, Kate Pulsifer and I went to school together and we still correspond now and then. I just happened to mention the boy’s name when I was writing her about Sabine. She says, by the way, that Sabine has very queer friends in Paris and that Sabine has never so much as called on her or asked her for tea. And there’s been some new scandal about Sabine’s husband and an Italian woman. It happened in Venice.﻿ ﻿…”
+
+“But he’s not her husband any longer.”
+
+===Chinese===
+
+他站起来，走到她跟前，拿起她的手吻了吻。「没什么可说的了，彭特兰太太……只有一句：您今天做的事，您会庆幸的。西比尔您不必担心。……我会叫她幸福。……我想我知道怎么叫她幸福。」
+
+他离开她，匆匆走过长廊里那些祖宗，去找西比尔，一路上想着：有彭特兰太太这样年轻漂亮的女人做岳母，会是多么奇怪的一件事。她是个迷人的女人（他在热忱里想），一个了不起的女人，只是那么忧郁，仿佛从没怎么幸福过。她身上总罩着一片云。
+
+---
+
+他走得不够快，卡茜姑姑那双尖眼睛瞥见了他离开宅子朝马房那边去。她在门口迎住奥利维娅，亲她，说：「我看见走掉的那个，是不是西比尔的年轻人？」
+
+「是，」奥利维娅说。「我们正谈西比尔来着。我一直在告诉他，别想把她当作可以结婚的人。」
+
+卡茜姑姑那张蜡黄的脸亮起一个赞许的笑。「我很高兴，亲爱的，你在这件事上明白事理。我还怕你想不开呢，可我又不愿多嘴。我一向不信多嘴有什么好处，除非迫不得已。他不是配西比尔的人。……哼，他的底细谁也不知道。总不能由着姑娘这样嫁人……随便来个什么人就嫁。再说，普尔西弗太太（Mrs. Pulsifer）来信了。……你记得她吧，奥利维娅，曼纳林家那孩子的姑姑，从前在栗树街（Chestnut Street）有座宅子的。……嗯，她如今住在巴黎的大陆旅馆（Hotel Continental），信上说，她发现他母亲有些蹊跷。她那个人的底细，好像谁也不大清楚。」
+
+「咦，」奥利维娅说，「她干吗给你写这种事？她凭什么觉得你会有兴趣？」
+
+「唉，凯特·普尔西弗和我从小同学，如今还时不时通信。我给她写萨宾的事的时候，顺口提了这孩子的名字。顺便说一句，她说萨宾在巴黎交的朋友都很古怪，说萨宾从没登门看过她，连杯茶也没请她喝过。还说萨宾的丈夫又出了新丑闻，同一个意大利女人。是在威尼斯出的事。……」
+
+「可他早就不是她的丈夫了。」
+
+===Original===
+
+The old lady seated herself and went on pouring forth the news from Kate Pulsifer’s letter; with each word she appeared to grow stronger and stronger, less and less yellow and worn.
+
+(“It must be,” thought Olivia, “the effect of so many calamities contained in one letter.”)
+
+She saw now that she had acted only just in time and she was glad that she had lied, so flatly, so abruptly, without thinking why she had done it. For Mrs. Pulsifer was certain to go to the bottom of the affair, if for no other reason than to do harm to Sabine; she had once lived in a house on Chestnut Street with a bow-window which swept the entrance to every house. She was one of John Pentland’s dead, who lived by watching others live.
+
+===Chinese===
+
+老太太坐下来，滔滔不绝地转述凯特·普尔西弗信里的新闻；每说一句，她仿佛都更精神一分，蜡黄憔悴之色一分分褪去。
+
+（「准是，」奥利维娅想，「一封信里装了这么多灾祸的功效。」）
+
+她如今看出自己行动得正是时候，庆幸自己撒了谎——撒得那么干脆、那么突兀，连想都没想为什么。因为普尔西弗太太必定要把这件事查个底朝天，哪怕只为着给萨宾使坏；她从前住在栗树街一座带凸窗的宅子里，那扇凸窗扫得着每一家的门洞。她是约翰·彭特兰的死人中的一个，靠看别人活着而活着。
+
+### IV / 四
+
+### IV / 
+===Original===
+
+From the moment she encountered Mr. Gavin on the turnpike until the tragedy which occurred two days later, life at Pentlands appeared to lose all reality for Olivia. When she thought of it long afterward, the hours became a sort of nightmare in which the old enchantment snapped and gave way to a strained sense of struggle between forces which, centering about herself, left her in the end bruised and a little broken, but secure.
+
+The breathless heat of the sort which from time to time enveloped that corner of New England, leaving the very leaves of the trees hanging limp and wilted, again settled down over the meadows and marshes, and in the midst of the afternoon appeared the rarest of sights﻿—the indolent Sabine stirring in the burning sun. Olivia watched her coming across the fields, protected from the blazing sun only by the frivolous yellow parasol. She came slowly, indifferently, and until she entered the cool, darkened drawing-room she appeared the familiar bored Sabine; only after she greeted Olivia the difference appeared.
+
+She said abruptly, “I’m leaving day after tomorrow,” and instead of seating herself to talk, she kept wandering restlessly about the room, examining Horace Pentland’s bibelots and turning the pages of books and magazines without seeing them.
+
+“Why?” asked Olivia. “I thought you were staying until October.”
+
+“No, I’m going away at once.” She turned and murmured, “I’ve hated Durham always. It’s unbearable to me now. I’m bored to death. I only came, in the first place, because I thought Thérèse ought to know her own people. But it’s no good. She’ll have none of them. I see now how like her father she is. They’re not her own people and never will be.﻿ ﻿… I don’t imagine Durham will ever see either of us again.”
+
+Olivia smiled. “I know it’s dull here.”
+
+“Oh, I don’t mean you, Olivia dear, or even Sybil or O’Hara, but there’s something in the air.﻿ ﻿… I’m going to Newport for two weeks and then to Biarritz for October. Thérèse wants to go to Oxford.” She grinned sardonically. “There’s a bit of New England in her, after all﻿ ﻿… this education business. I wanted a *femme du monde* for a daughter and God and New England sent me a scientist who would rather wear flat heels and look through a microscope. It’s funny how children turn out.”
+
+(“Even Thérèse and Sabine,” thought Olivia. “Even they belong to it.”)
+
+===Chinese===
+
+从在大路上撞见加文先生那一刻起，直到两天后惨剧发生，彭特兰家的生活在奥利维娅眼里仿佛失去了全部真实。事后很久再回想，那些时辰成了一场噩梦：旧日的魔法绷断了，让位于一种紧绷绷的角力之感——种种力量围着她一个中心，末了叫她伤痕累累、有点破碎，却安然无恙。
+
+那种时不时笼罩新英格兰这个角落的、闷得人喘不上气的暑热——热得连树上的叶子都蔫蔫地垂着——又一次落定在草场和沼泽上；午后正中，出现了最罕见的景象——懒散的萨宾顶着烈日活动起来了。奥利维娅望着她穿过田野走来，遮着毒日的只有那把轻佻的黄阳伞。她走得慢悠悠、心不在焉，直到走进阴凉昏暗的客厅，她都是那个大家熟悉的百无聊赖的萨宾；直到招呼过奥利维娅，分别才显出来。
+
+她劈头就说：「我后天走。」她不坐下谈，只管在屋里焦躁地转来转去，端详霍勒斯·彭特兰的那些小摆设，视而不见地翻着书报杂志。
+
+「为什么？」奥利维娅问。「我以为你要住到十月。」
+
+「不，我马上走。」她转过身，低声说：「我从来就恨达勒姆。如今简直受不了。闷死我了。我起初来，只当泰蕾兹该认识认识她的族人。可是没用。他们一个她也看不上。我如今看出她多像她父亲。那些人不是她的族人，永远也不会是。……我想达勒姆不会再见到我们俩任何一个了。」
+
+奥利维娅一笑。「我知道这儿闷。」
+
+「哦，我不是说你，亲爱的奥利维娅，也不是说西比尔或奥哈拉，可这空气里有点什么。……我去纽波特待两个星期，十月去比亚里茨（Biarritz）。泰蕾兹想上牛津。」她讥诮地咧嘴一笑。「她身上到底还有一点新英格兰……这念书的勾当。我本想要一个*交际名媛*（femme du monde）做女儿，上帝和新英格兰却给了我一个科学家——宁肯穿平底鞋、看显微镜的科学家。孩子长成什么样，真是说不准。」
+
+（「连泰蕾兹和萨宾也是，」奥利维娅想。「连她们也属于它。」）
+
+===Original===
+
+She watched Sabine, so worldly, so superbly dressed, so hard﻿—such a restless nomad; and as she watched her it occurred to her again that she was very like Aunt Cassie﻿—an Aunt Cassie in revolt against Aunt Cassie’s gods, an Aunt Cassie, as John Pentland had said, “turned inside out.”
+
+Without looking up from the pages of the *Nouvelle Revue*, Sabine said, “I’m glad this thing about Sybil is settled.”
+
+“Yes.”
+
+“He told you about his mother?”
+
+“Yes.”
+
+“You didn’t let that make any difference? You didn’t tell the others?”
+
+“No.﻿ ﻿… Anything I had to say would have made no difference.”
+
+“You were wise.﻿ ﻿… I think Thérèse is right, perhaps﻿ ﻿… righter than any of us. She says that nature has a contempt for marriage certificates. Respectability can’t turn decay into life﻿ ﻿… and Jean is alive.﻿ ﻿… So is his mother.”
+
+“I know what you are driving at.”
+
+“Certainly, my dear, you ought to know. You’ve suffered enough from it. And knowing his mother makes a difference. She’s no ordinary light woman, or even one who was weak enough to allow herself to be seduced. Once in fifty years there occurs a woman who can﻿ ﻿… how shall I say it?﻿ ﻿… get away with a thing like that. You have to be a great woman to do it. I don’t think it’s made much difference in her life, chiefly because she’s a woman of discretion and excellent taste. But it might have made a difference in Jean’s life if he had encountered a mother less wise than yourself.”
+
+“I don’t know whether I’m being wise or not. I believe in him and I want Sybil to escape.”
+
+Olivia understood that for the first time they were discussing the thing which none of them ever mentioned, the thing which up to now Sabine had only touched upon by insinuation. Sabine had turned away and stood looking out of the window across the meadows where the distant trees danced in waves of heat.
+
+“You spoiled my summer a bit, Olivia dear, by taking away my Irish friend from me.”
+
+Suddenly Olivia was angry as she was angry sometimes at the meddling of Aunt Cassie. “I didn’t take him away. I did everything possible to avoid him﻿ ﻿… until you came. It was you who threw us together. That’s why we’re all in a tangle now.” And she kept thinking what a strange woman Sabine Callendar really was, how intricate and unfathomable. She knew of no other woman in the world who could talk thus so dispassionately, so without emotion.
+
+===Chinese===
+
+她注视着萨宾——这样世故，这样衣饰华贵，这样硬心肠——这样一个不安分的游牧人；注视之间，她又想到她多么像卡茜姑姑——一个造了卡茜姑姑的诸神的反的卡茜姑姑，一个如约翰·彭特兰所说「翻了个面」的卡茜姑姑。
+
+萨宾的眼睛没有离开《新评论》（Nouvelle Revue）的书页，说：「西比尔的事定下来，我很高兴。」
+
+「是。」
+
+「他把母亲的事告诉你了？」
+
+「是。」
+
+「你没让那事改变什么？没告诉旁人？」
+
+「没有。……我要说什么也改变不了什么。」
+
+「你明智。……我看泰蕾兹是对的，也许……比我们谁都对。她说，天性看不起结婚证书。体面把腐朽变不回生命……而让是活的。……他母亲也是。」
+
+「我知道你指的是什么。」
+
+「当然，亲爱的，你理应知道。这方面你吃的苦够多了。认识他母亲，事情就不一样。她不是寻常的轻浮女人，也不是软弱到由人勾引的那种女人。五十年里会出一个这样的女人，能……怎么说呢？……把这样一件事干得滴水不漏。要做到这一点，得是个了不起的女人。我看这件事没怎么影响她的生活，主要因为她是个有分寸、趣味极佳的人。可要是让遇上一个不如你明智的母亲，那就可能影响让的一生了。」
+
+「我不知道自己算不算明智。我信他，我要西比尔逃出去。」
+
+奥利维娅明白，她们头一次谈起了那件她们谁也从不提起的事——那件至今萨宾只肯旁敲侧击碰到一点的事。萨宾已转过身去，站在窗前，望着草场那头在热浪里跳舞的远树。
+
+「你有点败坏了我的夏天，亲爱的奥利维娅，把我的爱尔兰朋友从我这里夺走了。」
+
+奥利维娅忽然动了怒，像她有时为卡茜姑姑的多管闲事动怒那样。「我没有夺走他。我千方百计躲着他……直到你来。是你把我们俩凑到一起的。所以我们如今才乱成一团。」她心里不住地想，萨宾·卡伦德这个女人多么奇怪，多么迂回莫测。她不认识世上第二个女人，能这样不动声色、这样不带感情地谈这样的话。
+
+===Original===
+
+“I thought I’d have him to amuse,” she was saying, “and instead of that he only uses me as a confidante. He comes to me for advice about another woman. And that, as you know, isn’t very interesting.﻿ ﻿…”
+
+Olivia sat suddenly erect. “What does he say? What right has he to do such a thing?”
+
+“Because I’ve asked him to. When I first came here, I promised to help him. You see, I’m very friendly with you both. I want you both to be happy and﻿ ﻿… besides I can think of nothing happening which could give me greater pleasure.”
+
+When Olivia did not answer her, she turned from the window and asked abruptly, “What are you going to do about him?”
+
+Again Olivia thought it best not to answer, but Sabine went on pushing home her point relentlessly, “You must forgive me for speaking plainly, but I have a great affection for you both﻿ ﻿… and I﻿ ﻿… well, I have a sense of conscience in the affair.”
+
+“You needn’t have. There’s nothing to have a conscience about.”
+
+“You’re not being very honest.”
+
+Suddenly Olivia burst out angrily, “And why should it concern you, Sabine﻿ ﻿… in the least? Why should I not do as I please, without interference?”
+
+“Because, here﻿ ﻿… and you know this as well as I do﻿ ﻿… here such a thing is impossible.”
+
+In a strange fashion she was suddenly afraid of Sabine, perhaps because she was so bent upon pushing things to a definite solution. It seemed to Olivia that she herself was losing all power of action, all capacity for anything save waiting, pretending, doing nothing.
+
+“And I’m interested,” continued Sabine slowly, “because I can’t bear the tragic spectacle of another John Pentland and Mrs. Soames.”
+
+“There won’t be,” said Olivia desperately. “My father-in-law is different from Michael.”
+
+“That’s true.﻿ ﻿…”
+
+“In a way﻿ ﻿… a finer man.” She found herself suddenly in the amazing position of actually defending Pentlands.
+
+“But not,” said Sabine with a terrifying reasonableness, “so wise a one﻿ ﻿… or one so intelligent.”
+
+“No. It’s impossible to say.﻿ ﻿…”
+
+“A thing like this is likely to come only once to a woman.”
+
+(“Why does she keep repeating the very things that I’ve been fighting all along,” thought Olivia.) Aloud she said, “Sabine, you must leave me in peace. It’s for me alone to settle.”
+
+“I don’t want you to do a thing you will regret the rest of your life﻿ ﻿… bitterly.”
+
+“You mean.﻿ ﻿…”
+
+“Oh, I mean simply to give him up.”
+
+===Chinese===
+
+「我本以为有他可以解解闷，」她接着说，「结果他只拿我当知己。他为着另一个女人来找我讨主意。这您是知道的，可不是多有趣的事。……」
+
+奥利维娅猛地坐直了。「他说什么？他有什么权利这样？」
+
+「因为我求他这样。我刚来这儿的时候，答应过帮他。您瞧，我同你们两个都交好。我要你们两个都幸福，而且……再说了，我想不出还有什么事能给我更大的乐趣。」
+
+奥利维娅没有答话，她便从窗前转过身，劈头问：「你打算把他怎么办？」
+
+奥利维娅又觉得顶好不答，可萨宾毫不留情，一句句把话钉进来：「原谅我直言，可我对你们两位都有很深的情分……而我……唉，我在这件事上是有良心的。」
+
+「用不着。没什么可动良心的。」
+
+「你这可不怎么诚实。」
+
+奥利维娅忽然怒冲冲地迸出一句：「这关你什么事，萨宾……半点关你什么事？凭什么我就不能自行其是，不受人干涉？」
+
+「因为，在这里……这一点你同我一样清楚……在这里，这样的事是不可能的。」
+
+她忽然莫名其妙地怕起萨宾来，也许因为她一味要把事情逼出一个明确的了结。在奥利维娅看来，她自己正在失去一切行动的能力，只剩下等待、装假、无所作为的本事。
+
+「我感兴趣，」萨宾缓缓接着说，「还因为我看不下去再出一场约翰·彭特兰和索姆斯太太那样的悲剧。」
+
+「不会的，」奥利维娅绝望地说。「我公公同迈克尔不一样。」
+
+「这倒是。……」
+
+「某种意义上……是个更高尚的人。」她发现自己竟然处在了替彭特兰家辩护的惊人立场上。
+
+「可不算，」萨宾带着一种叫人胆寒的通情达理说，「那么明智的一个……也不那么聪明。」
+
+「不。这难说。……」
+
+「这样的事，一个女人一生多半只遇上一次。」
+
+（「为什么她总在重复那些我一向苦苦抵挡的话，」奥利维娅想。）她出声说：「萨宾，你一定要放过我。这事只该我一个人来了结。」
+
+「我不想叫你做一件余生会后悔的事……悔到骨头里的事。」
+
+「你是说。……」
+
+「哦，我只是说：放弃他。」
+
+===Original===
+
+Again Olivia was silent, and Sabine asked suddenly. “Have you had a call from a Mr. Gavin? A gentleman with a bald head and a polished face?”
+
+Olivia looked at her sharply. “How could you know that?”
+
+“Because I sent him, my dear﻿ ﻿… for the same reason that I’m here now﻿ ﻿… because I wanted you to do something﻿ ﻿… to act. And I’m confessing now because I thought you ought to know the truth, since I’m going away. Otherwise you might think Aunt Cassie or Anson had done it﻿ ﻿… and trouble might come of that.”
+
+Again Olivia said nothing; she was lost in a sadness over the thought that, after all, Sabine was no better than the others.
+
+“It’s not easy to act in this house,” Sabine was saying. “It’s not easy to do anything but pretend and go on and on until at last you are an old woman and die. I did it to help you﻿ ﻿… for your own good.”
+
+“That’s what Aunt Cassie always says.”
+
+The shaft went home, for it silenced Sabine, and in the moment’s pause Sabine seemed less a woman than an amazing, disembodied, almost malevolent force. When she answered, it was with a shrug of the shoulders and a bitter smile which seemed doubly bitter on the frankly painted lips. “I suppose I *am* like Aunt Cassie. I mightn’t have been, though.﻿ ﻿… I might have been just a pleasant normal person﻿ ﻿… like Higgins or one of the servants.”
+
+The strange speech found an echo in Olivia’s heart. Lately the same thought had come to her again and again﻿—if only she could be simple like Higgins or the kitchen-maid. Such a state seemed to her at the moment the most desirable thing in the world. It was perhaps this strange desire which led Sabine to surround herself with what Durham called “queer people,” who were, after all, simply people like Higgins and the kitchen-maid who happened to occupy a higher place in society.
+
+“The air here needs clearing,” Sabine was saying. “It needs a thunderstorm, and it can be cleared only by acting.﻿ ﻿… This affair of Jean and Sybil will help. We are all caught up in a tangle of thoughts and ideas﻿ ﻿… which don’t matter﻿ ﻿… You can do it, Olivia. You can clear the air once and for all.”
+
+Then for the first time Olivia thought she saw what lay behind all this intriguing of Sabine; for a moment she fancied that she saw what it was Sabine wanted more passionately than anything else in the world.
+
+===Chinese===
+
+奥利维娅又沉默了，萨宾忽然问：「有位加文先生来找过你吗？一位秃头、脸刮得精光的先生？」
+
+奥利维娅锐利地看了她一眼。「你怎么会知道？」
+
+「因为是我派他去的，亲爱的……同我现在来这里是同一个道理……因为我要你做点什么……要你行动。我如今坦白，是因为我要走了，想你该知道真相。不然你兴许会当是卡茜姑姑或安森干的……那就要生出乱子来。」
+
+奥利维娅又没作声；她沉入一种悲哀里，想着萨宾到底也同旁人一样，好不到哪儿去。
+
+「在这座宅子里，行动不容易，」萨宾说，「除了装假，一件事接着一件事装下去，直到老了、死了，旁的都不容易。我那样做是为帮你……为你好。」
+
+「卡茜姑姑一天到晚也是这套话。」
+
+这支箭正中靶心，射得萨宾没了声；那一阵静默里，萨宾仿佛不大像个女人，倒像一股惊人的、无形的、近乎恶毒的力量。她开口回答时，只是耸耸肩，浮起一个苦笑——在那两片涂得堂堂正正的嘴唇上，这苦笑苦上加苦。「我看我*就是*像卡茜姑姑。不过我本可以不像的。……我本可以就是个讨人喜欢的正常人……像希金斯，或者随便哪个仆人。」
+
+这奇怪的话在奥利维娅心里找到了回声。近来同一个念头在她心里一再来——但愿她能像希金斯或厨娘那样简单。此时此刻，那样的境地在她看来是世上顶可羡慕的东西。也许正是这奇怪的欲望，引得萨宾把自己围在一群达勒姆人所谓的「怪人」中间——说到底，不过是些同希金斯和厨娘一样的人，只是碰巧在社会上占着高些的位置。
+
+「这里的空气需要涤一涤，」萨宾说。「需要一场雷雨，而涤清它只有靠行动。……让和西比尔这桩事会有帮助。我们全缠在一团思绪和观念里……其实都不要紧……你办得到的，奥利维娅。你能把空气一次涤清，永远涤清。」
+
+于是奥利维娅头一次觉得自己看清了萨宾这一切心机背后是什么；有一瞬间，她仿佛看见了萨宾在这世上比什么都热切想要的东西。
+
+===Original===
+
+Aloud she said it, “I could clear the air, but it would also be the destruction of everything.”
+
+Sabine looked at her directly. “Well?﻿ ﻿… and would you be sorry? Would you count it a loss? Would it make any difference?”
+
+Impulsively she touched Sabine’s hand. “Sabine,” she said, without looking at her, “I’m fond of you. You know that. Please don’t talk any more about this﻿ ﻿… please, because I want to go on being fond of you﻿ ﻿… and I can’t otherwise. It’s our affair, mine and Michael’s﻿ ﻿… and I’m going to settle it, tonight perhaps, as soon as I can have a talk with him.﻿ ﻿… I can’t go on any longer.”
+
+Taking up the yellow parasol, Sabine asked, “Do you expect me for dinner tonight?”
+
+“Of course, more than ever tonight.﻿ ﻿… I’m sorry you’ve decided to go so soon.﻿ ﻿… It’ll be dreary without you or Sybil.”
+
+“You can go, too,” said Sabine quickly. “There is a way. He’d give up everything for you﻿ ﻿… everything. I know that.” Suddenly she gave Olivia a sharp look. “You’re thirty-eight, aren’t you?”
+
+“Day after tomorrow I shall be forty!”
+
+Sabine was tracing the design of roses on Horace Pentland’s Savonnerie carpet with the tip of her parasol. “Gather them while you may,” she said and went out into the blazing heat to cross the meadows to Brook Cottage.
+
+Left alone, Olivia knew she was glad that day after tomorrow Sabine would no longer be here. She saw now what John Pentland meant when he said, “Sabine ought never to have come back here.”
+
+===Chinese===
+
+她把这话出了声：「我可以涤清空气，可那也会把一切都毁了。」
+
+萨宾直望着她。「那又如何？……你会惋惜吗？你会当作损失吗？会有什么两样吗？」
+
+她冲动地碰了碰萨宾的手。「萨宾，」她说，眼睛不看她，「我喜欢你。这你知道。求你别再谈这个了……求你，因为我还想一直喜欢你……不然我就喜欢不成了。这是我们的事，我的和迈克尔的事……我要来了结它，也许就在今晚，等我能同他谈一谈。……我撑不下去了。」
+
+萨宾拿起那把黄阳伞，问：「今晚还等我来晚饭吗？」
+
+「当然，今晚比哪天都盼。……你这么快决定走，真遗憾。……没有你和西比尔，日子会冷清的。」
+
+「你也可以走，」萨宾飞快地说。「有条路。他肯为你舍弃一切……一切。这我知道。」她忽然锐利地看了奥利维娅一眼。「你三十八了吧？」
+
+「后天我就四十了！」
+
+萨宾正用伞尖描着霍勒斯·彭特兰那块萨伏内里（Savonnerie）地毯上的玫瑰花纹。「花开堪折直须折，」她说着走出去，冒着灼人的热，穿过草场，往布鲁克小屋去了。
+
+留下独自一人，奥利维娅知道自己庆幸：后天萨宾就不在这里了。她如今明白了约翰·彭特兰说「萨宾压根就不该回来」时是什么意思。
+
+### V / 五
+
+### V / 
+===Original===
+
+The heat clung on far into the evening, penetrating with the darkness even the drawing-room where they sat﻿—Sabine and John Pentland and old Mrs. Soames and Olivia﻿—playing bridge for the last time, and as the evening wore on the game went more and more badly, with the old lady forgetting her cards and John Pentland being patient and Sabine sitting in a controlled and sardonic silence, with an expression on her face which said clearly, “I can endure this for tonight because tomorrow I shall escape again into the lively world.”
+
+Jean and Sybil sat for a time at the piano, and then fell to watching the bridge. No one spoke save to bid or to remind Mrs. Soames that it was time for her shaking hands to distribute the cards about the table. Even Olivia’s low, quiet voice sounded loud in the hot stillness of the old room.
+
+At nine o’clock Higgins appeared with a message for Olivia﻿—that Mr. O’Hara was being detained in town and that if he could get away before ten he would come down and stop at Pentlands if the lights were still burning in the drawing-room. Otherwise he would not be down to ride in the morning.
+
+Once during a pause in the game Sabine stirred herself to say, “I haven’t asked about Anson’s book. He must be near to the end.”
+
+“Very near,” said Olivia. “There’s very little more to be done. Men are coming tomorrow to photograph the portraits. He’s using them to illustrate the book.”
+
+At eleven, when they came to the end of a rubber, Sabine said, “I’m sorry, but I must stop. I must get up early tomorrow to see about the packing.” And turning to Jean she said, “Will you drive me home? Perhaps Sybil will ride over with us for the air. You can bring her back.”
+
+At the sound of her voice, Olivia wanted to cry out, “No, don’t go. You mustn’t leave me now﻿ ﻿… alone. You mustn’t go away like this!” But she managed to say quietly, in a voice which sounded far away, “Don’t stay too late, Sybil,” and mechanically, without knowing what she was doing, she began to put the cards back again in their boxes.
+
+She saw that Sabine went out first, and then John Pentland and old Mrs. Soames, and that Jean and Sybil remained behind until the others had gone, until John Pentland had helped the old lady gently into his motor and driven off with her. Then, looking up with a smile which somehow seemed to give her pain she said, “Well?”
+
+===Chinese===
+
+暑热一直缠到深夜，同黑暗一道渗进他们坐着的客厅——萨宾、约翰·彭特兰、老索姆斯太太和奥利维娅——最后一次打桥牌。夜越深，牌打得越糟：老太太忘了牌，约翰·彭特兰耐着性子，萨宾坐着，克制地、讥诮地不出声，脸上的神情说得明明白白：「今晚我忍得下，因为明天我又要逃回活泛的世界里去了。」
+
+让和西比尔在钢琴边坐了一阵，随后就看起桥牌来。没有人说话，除了叫牌，或是提醒索姆斯太太，该叫她那双发抖的手把牌往桌上各处分了。连奥利维娅低柔安静的嗓音，在老屋子闷热的寂静里也显得响。
+
+九点钟，希金斯来传话给奥利维娅——奥哈拉先生在城里被事情绊住了，要是十点前脱得了身，他就过来，到彭特兰家停一停，前提是客厅的灯还亮着。不然，明早他也不下来骑马了。
+
+牌局间歇里，萨宾振作了一下，说：「我还没问起安森的书呢。他准是快完了吧。」
+
+「快了，」奥利维娅说。「没多少可做的了。明天有人来给那些画像拍照。他要用它们给书作插图。」
+
+十一点，一局打完，萨宾说：「对不住，我得收了。明天得起早，照看装箱的事。」她转向让：「你开车送我回去好吗？兴许西比尔可以跟我们一起坐车去透透气。你再送她回来。」
+
+听到她的声音，奥利维娅想喊出来：「不，别走。这会儿你不能丢下我……一个人。你不能这样走掉！」可她还是安安静静地说了出来，嗓音听着远在天边：「别待得太晚，西比尔。」然后机械地、不知自己做什么地把牌一张张收回牌盒里。
+
+她看见萨宾先出去了，随后是约翰·彭特兰和老索姆斯太太；让和西比尔留在了后头，等旁人都走了，等约翰·彭特兰把老太太小心地扶进汽车、载着她开走了，才走。这时，她抬起头来，带着一个不知怎的叫她疼痛的笑，说：「怎么样？」
+
+===Original===
+
+And Sybil, coming to her side, kissed her and said in a low voice, “Goodbye, darling, for a little while.﻿ ﻿… I love you.﻿ ﻿…” And Jean kissed her in a shy fashion on both cheeks.
+
+She could find nothing to say. She knew Sybil would come back, but she would be a different Sybil, a Sybil who was a woman, no longer the child who even at eighteen sometimes had the absurd trick of sitting on her mother’s knee. And she was taking away with her something that until now had belonged to Olivia, something which she could never again claim. She could find nothing to say. She could only follow them to the door, from where she saw Sabine already sitting in the motor as if nothing in the least unusual were happening; and all the while she wanted to go with them, to run away anywhere at all.
+
+Through a mist she saw them turning to wave to her as the motor drove off, to wave gaily and happily because they were at the beginning of life.﻿ ﻿… She stood in the doorway to watch the motor-lights slipping away in silence down the lane and over the bridge through the blackness to the door of Brook Cottage. There was something about Brook Cottage﻿ ﻿… something that was lacking from the air of Pentlands: it was where Toby Cane and Savina Pentland had had their wanton meetings.
+
+In the still heat the sound of the distant surf came to her dimly across the marshes, and into her mind came absurdly words she had forgotten for years﻿ ﻿… “The breaking waves dashed high on the stern and rockbound coast.” Against the accompaniment of the surf, the crickets and katydids (harbingers of autumn) kept up a fiddling and singing; and far away in the direction of Marblehead she watched the eye of a lighthouse winking and winking. She was aware of every sight and sound and odor of the breathless night. It might storm, she thought, before they got into Connecticut. They would be motoring all the night.﻿ ﻿…
+
+The lights of Sabine’s motor were moving again now, away from Brook Cottage, through O’Hara’s land, on and on in the direction of the turnpike. In the deep hollow by the river they disappeared for a moment and then were to be seen once more against the black mass of the hill crowned by the town burial-ground. And then abruptly they were gone, leaving only the sound of the surf and the music of the crickets and the distant, ironically winking lighthouse.
+
+===Chinese===
+
+西比尔走到她身边，吻她，低声说：「再见，亲爱的，就一会儿。……我爱你。……」让也忸怩地在她两边脸颊上亲了亲。
+
+她找不出话来说。她知道西比尔会回来，可回来的会是另一个西比尔，一个成了女人的西比尔，不再是那个十八岁了还时不时犯傻气、坐到母亲膝头的孩子。而且她随身带走的，是直到此刻都属于奥利维娅的一样东西，一样她永远不能再索回的东西。她找不出话来说。她只能送他们到门口，从那里望见萨宾已经坐在汽车里，仿佛正在发生的事没有一丝一毫不寻常；而她自始至终想同他们一起走，随便逃到哪儿去都好。
+
+透过一层雾，她看见汽车开动时他们回头向她挥手，欢欢喜喜地挥着，因为他们正站在人生的开头。……她站在门洞里，望着车灯无声地滑下小路，过桥，穿过黑暗，直到布鲁克小屋的门前。布鲁克小屋有点什么……一点彭特兰家的空气里没有的东西：那是托比·凯恩和萨维娜·彭特兰幽会放纵的地方。
+
+凝滞的暑热里，远处涛声隐隐越过沼泽传来她耳中；几句忘了多年的诗荒唐地浮上心头……「拍岸的碎浪高高溅起，扑向那冷峻多岩的海岸。」涛声作着伴奏，蟋蟀和纺织娘（秋天的信使）一直吱吱地拉着琴、唱着；远处马布尔黑德（Marblehead）的方向，她望见一座灯塔的眼睛一眨一眨。这闷得喘不上气的夜里的一景一声一息，她全觉着。她想，他们到康涅狄格之前，兴许要起风暴。他们要开一整夜的车。……
+
+萨宾的车灯又动了，离开布鲁克小屋，穿过奥哈拉的地，一路朝着大路去了。在河边深深的洼地里，车灯隐没了一瞬，随后又亮了起来，衬在那座黑黢黢的山影上——山顶正是镇上的墓园。接着它们蓦地不见了，只剩下涛声、蟋蟀的琴声，和远处那座讥诮地眨着眼的灯塔。
+
+===Original===
+
+She kept seeing them side by side in the motor racing through the darkness, oblivious to all else in the world save their own happiness. Yes, something had gone away from her forever.﻿ ﻿… She felt a terrible, passionate envy that was like a physical pain, and all at once she knew that she was terribly alone standing in the darkness before the door of the old house.
+
+---
+
+She was roused by the sound of Anson’s voice asking, “Is that you, Olivia?”
+
+“Yes.”
+
+“What are you doing out there?”
+
+“I came out for some air.”
+
+“Where’s Sybil?”
+
+For a moment she did not answer, and then quite boldly she said, “She’s ridden over with Jean to take Sabine home.”
+
+“You know I don’t approve of that.” He had come through the hall now and was standing near her.
+
+“It can’t do any harm.”
+
+“That’s been said before.﻿ ﻿…”
+
+“Why are you so suspicious, Anson, of your own child?” She had no desire to argue with him. She wanted only to be left in peace, to go away to her room and lie there alone in the darkness, for she knew now that Michael was not coming.
+
+“Olivia,” Anson was saying, “come inside for a moment. I want to talk to you.”
+
+“Very well﻿ ﻿… but please don’t be disagreeable. I’m very tired.”
+
+“I shan’t be disagreeable.﻿ ﻿… I only want to settle something.”
+
+She knew then that he meant to be very disagreeable, and she told herself that she would not listen to him; she would think of something else while he was speaking﻿—a trick she had learned long ago. In the drawing-room she sat quietly and waited for him to begin. Standing by the mantelpiece, he appeared more tired and yellow than usual. She knew that he had worked on his book; she knew that he had poured all his vitality, all his being, into it; but as she watched him her imagination again played her the old trick of showing her Michael standing there in his place﻿ ﻿… defiant, a little sulky, and filled with a slow, steady, inexhaustible force.
+
+“It’s chiefly about Sybil,” he said. “I want her to give up seeing this boy.”
+
+“Don’t be a martinet, Anson. Nothing was ever gained by it.”
+
+(She thought, “They must be almost to Salem by now.”) And aloud she added, “You’re her father, Anson; why don’t you speak?”
+
+“It’s better for you. I’ve no influence with her.”
+
+“I have spoken,” she said, thinking bitterly that he could never guess what she meant.
+
+“And what’s the result? Look at her, going off at this hour of the night.﻿ ﻿…”
+
+===Chinese===
+
+她眼里一直是他们两个并排坐在汽车里，在黑暗中飞驰，除了自己的幸福，世上旁的一切都浑然不觉。是的，有一样东西从她身上永远地走了。……她感到一种可怕的、炽烈的艳羡，像肉体的疼痛一样；她忽然明白，自己独自站在老宅门前的黑暗里，孤独得可怕。
+
+---
+
+安森的声音唤醒了她：「是你吗，奥利维娅？」
+
+「是。」
+
+「你在那儿做什么？」
+
+「出来透透气。」
+
+「西比尔呢？」
+
+她顿了一下没答，随后大着胆子说：「她同让一起坐车送萨宾回去了。」
+
+「你知道我不赞成这样。」他这时已穿过门厅，站到她近旁。
+
+「这不至于出什么事。」
+
+「这话从前也有人说过。……」
+
+「安森，你怎么这样多疑，疑自己亲生的孩子？」她无心同他吵。她只求个清静，求回自己房里，独自在黑暗中躺着，因为她如今知道迈克尔不来了。
+
+「奥利维娅，」安森说，「进来一会儿。我要同你谈谈。」
+
+「好吧……可请你别找不痛快。我很累了。」
+
+「我不找不痛快。……我只是想定一件事。」
+
+她那时就知道，他是要大大地找不痛快了；她告诉自己不听他的，他说话时想别的——这是她多年前学会的窍门。在客厅里，她静静地坐着，等他开口。他站在壁炉边，比平日更显疲惫、更蜡黄。她知道他一直在赶那本书；她知道他把全部精力、全部生命都倾了进去；可她望着他时，想象力又给她玩了那套老把戏，让她看见站在那里的是迈克尔……倔头倔脑，有点阴沉，浑身是一股缓慢、沉稳、使不完的劲。
+
+「主要是西比尔的事，」他说。「我要她别再见这小子。」
+
+「别当个铁面教官，安森。靠这个从没得过什么好处。」
+
+（她想：「这会儿他们准是快到塞勒姆了。」）她出声添了一句：「你是她父亲，安森；你怎么不说？」
+
+「你说更好。我对她没有影响力。」
+
+「我说过了，」她说，心里苦苦地想，他永远猜不着她这话的意思。
+
+「结果怎样？瞧瞧她，这个钟点还往外跑。……」
+
+===Original===
+
+She shrugged her shoulders, filled with a warm sense of having outwitted the enemy, for at the moment Anson seemed to her an enemy not only of herself, but of Jean and Sybil, of all that was young and alive in the world.
+
+“Besides,” he was saying, “she hasn’t proper respect for me﻿ ﻿… her father. Sometimes I think it’s the ideas she got from you and from going abroad to school.”
+
+“What a nasty thing to say! But if you want the truth, I think it’s because you’ve never been a very good father. Sometimes I’ve thought you never wanted children. You’ve never paid much attention to them﻿ ﻿… not even to Jack﻿ ﻿… while he was alive. It wasn’t ever as if they were our children. You’ve always left them to me﻿ ﻿… alone.”
+
+The thin neck stiffened a little and he said, “There are reasons for that. I’m a busy man.﻿ ﻿… I’ve given most of my time, not to making money, but to doing things to better the world in some way. If I’ve neglected my children it’s been for a good reason﻿ ﻿… few men have as much on their minds. And there’s been the book to take all my energies. You’re being unjust, Olivia. You never could see me as I am.”
+
+“Perhaps,” said Olivia. (She wanted to say, “What difference does the book make to anyone in the world? Who cares whether it is written or not?”) She knew that she must keep up her deceit, so she said, “You needn’t worry, because Sabine is going away tomorrow and Jean will go with her.” She sighed. “After that your life won’t be disturbed any longer. Nothing in the least unusual is likely to happen.”
+
+“And there’s this other thing,” he said, “this disloyalty of yours to me and to all the family.”
+
+Stiffening slightly, she asked, “What can you mean by that?”
+
+“You know what I mean.”
+
+She saw that he was putting himself in the position of a wronged husband, assuming a martyrdom of the sort which Aunt Cassie practised so effectively. He meant to be a patient, well-meaning husband and to place her in the position of a shameful woman; and slowly, with a slow, heavy anger she resolved to circumvent his trick.
+
+“I think, Anson, that you’re talking nonsense. I haven’t been disloyal to anyone. Your father will tell you that.”
+
+===Chinese===
+
+她耸了耸肩，浑身是一股斗过了对头的暖烘烘的得意——因为此刻在她眼里，安森不但是她的对头，也是让和西比尔的，是世上一切年轻鲜活的东西的对头。
+
+「还有，」他接着说，「她对我……对她父亲，没有应有的敬重。有时候我想，那是她从你这儿、从出国上学得来的观念。」
+
+「这话多刻薄！可你要听实话的话，我看是因为你从来就算不上一个好父亲。有时候我想，你压根儿就没想要过孩子。你从没怎么把他们放在心上……连杰克……他活着的时候都没放在心上。从来不像是我们俩的孩子。你总把他们扔给我……一个人。」
+
+那根细脖子微微一硬，他说：「那是有缘由的。我是个忙人。……我的大部分时间，没有花在挣钱上，而是花在想法子改良世界的事上了。我若疏忽了孩子，那是为了正当的缘由……心上装的事，少有人比我更多。还有那本书，占去了我全部精力。你冤枉我了，奥利维娅。你从来就不能照我本来的样子看我。」
+
+「也许吧，」奥利维娅说。（她想说：「那本书对世上任何人有什么要紧？写不写得出来，谁在乎？」）她知道自己必须把骗局装下去，便说：「你不必担心，萨宾明天走，让也随她走。」她叹了口气。「那以后，你的生活不会再受搅扰了。再不大可能出什么不寻常的事了。」
+
+「还有一桩事，」他说，「你对我和对全家的这份不忠。」
+
+她微微一凛，问：「你这话什么意思？」
+
+「你知道我什么意思。」
+
+她看出他把自己摆进了受屈丈夫的位置，摆出卡茜姑姑演得那样到家的一种殉难姿态。他要做一个耐心、善意的丈夫，把她摆到可耻女人的位置上；于是，带着一股缓慢而沉重的怒气，她打定了主意要挫败他的伎俩。
+
+「我看，安森，你在胡说。我没有对谁不忠。你父亲会这样告诉你。」
+
+===Original===
+
+“My father was always weak where women are concerned and now he’s beginning to grow childish. He’s so old that he’s beginning to forgive and condone anything.” And then after a silence he said, “This O’Hara. I’m not such a fool as you think, Olivia.”
+
+For a long time neither of them said anything, and in the end it was Olivia who spoke, striking straight into the heart of the question. She said, “Anson, would you consider letting me divorce you?”
+
+The effect upon him was alarming. His face turned gray, and the long, thin, oversensitive hands began to tremble. She saw that she had touched him on the rawest of places, upon his immense sense of pride and dignity. It would be unbearable for him to believe that she would want to be rid of him in order to go to another man, especially to a man whom he professed to hold in contempt, a man who had the qualities which he himself did not possess. He could only see the request as a humiliation of his own precious dignity.
+
+He managed to grin, trying to turn the request to mockery, and said, “Have you lost your mind?”
+
+“No, Anson, not for a moment. What I ask is a simple thing. It has been done before.”
+
+He did not answer her at once, and began to move about the room in the deepest agitation, a strange figure curiously out of place in the midst of Horace Pentland’s exotic, beautiful pictures and chairs and bibelots﻿—as wrong in such a setting as he had been right a month or two earlier among the museum of Pentland family relics.
+
+“No,” he said again and again. “What you ask is preposterous! Tomorrow when you are less tired you will see how ridiculous it is. No﻿ ﻿… I couldn’t think of such a thing!”
+
+She made an effort to speak quietly. “Is it because you don’t want to put yourself in such a position?”
+
+“It has nothing to do with that. Why should you want a divorce? We are well off, content, comfortable, happy.﻿ ﻿…”
+
+She interrupted him, asking, “Are we?”
+
+“What is it you expect, Olivia﻿ ﻿… to live always in a sort of romantic glow? We’re happier than most.”
+
+===Chinese===
+
+「我父亲在女人的事上向来软弱，如今又开始孩子气了。他老到这个岁数，什么都开始原谅、开始将就了。」沉默了一阵，他说：「这个奥哈拉。我不像你想的那么傻，奥利维娅。」
+
+两个人好久都没作声，末了还是奥利维娅开口，一句话直捣问题的核心。她说：「安森，你肯不肯考虑让我跟你离婚？」
+
+这话对他生效之猛，叫人心惊。他的脸转成灰色，那双细长、过分敏感的手抖了起来。她看得出，自己触到了他最疼的地方，触到了他那份巨大的骄傲和尊严。要他相信她想甩掉他是为了投向另一个男人——尤其是一个他口口声声鄙夷的男人，一个具有他自己全不具备的素质的男人——那是他受不了的。他只能把这个要求看作对他宝贵尊严的一场羞辱。
+
+他勉强咧了咧嘴，想把这事朝戏弄引，说：「你疯了吗？」
+
+「没有，安森，一刻也没疯。我要的是件简单的事。从前有人做过。」
+
+他没有立刻回答，开始在屋里走来走去，激动到了极点——一个奇怪的身影，立在霍勒斯·彭特兰那些异域的、华美的画、椅子和小摆设中间，格格不入得奇怪——正如一两个月前，他立在彭特兰家那座家族遗物博物馆里时多么如鱼得水，如今在这样的陈设里他就多么错位。
+
+「不，」他一遍遍地说。「你的要求荒唐！明天你歇过来了，就看出这有多可笑。不……这种事我想都不去想！」
+
+她努力静着说：「是因为你不想把自己摆进那样的位置？」
+
+「同那不相干。你要离婚做什么？我们富足、安心、舒适、幸福。……」
+
+她打断他，问：「是吗？」
+
+「你指望什么呢，奥利维娅……指望永远活在一种浪漫的光晕里？我们比大多数人幸福。」
+
+===Original===
+
+“No,” she said slowly. “I don’t think happiness has ever meant much to you, Anson. Perhaps you’re above such things as happiness and unhappiness. Perhaps you’re more fortunate than most of us. I doubt if you have ever known happiness or unhappiness, for that matter. You’ve been uncomfortable when people annoyed you and got in your way, but﻿ ﻿… that’s all. Nothing more than that. Happiness﻿ ﻿… I mean it in the sensible way﻿ ﻿… has sometimes to do with delight in living, and I don’t think you’ve ever known that, even for a moment.”
+
+He turned toward her saying, “I’ve been an honest, God-fearing, conscientious man, and I think you’re talking nonsense!”
+
+“No, not for a moment.﻿ ﻿… Heaven knows I ought to know the truth of what I’ve been saying.”
+
+Again they reached an impasse in the conversation and again they both remained silent, disturbed perhaps and uneasy in the consciousness that between them they had destroyed something which could never be restored; and yet with Olivia there was a cold, sustained sense of balance which came to her miraculously at such times. She felt, too, that she stood with her back against a wall, fighting. At last she said, “I would even let you divorce me﻿—if that would be easier for you. I don’t mind putting myself in the wrong.”
+
+Again he began to tremble. “Are you trying to tell me that.﻿ ﻿…”
+
+“I’m not telling you anything. There hasn’t been anything at all﻿ ﻿… but﻿ ﻿… but I would give you grounds if you would agree.”
+
+He turned away from her in disgust. “That is even more impossible.﻿ ﻿… A gentleman never divorces his wife.”
+
+===Chinese===
+
+「不，」她慢慢地说。「我想幸福这个词，在你身上从来没有过多少分量，安森。也许你超脱在幸福与不幸这类事情之外。也许你比我们大多数人都走运。我疑心你到底也没尝过什么叫幸福，什么叫不幸。人们搅扰你、挡你的道，你不痛快过，可……也就这样了。再没有多的。幸福……我说的是实实在在的那种……有时同活着的欢喜连在一起；这个，我想你从来不知道，一刻也没知道过。」
+
+他朝她转过身来：「我是个正派的、敬畏上帝的、凭良心办事的人，我看你是在胡说！」
+
+「不，一刻也没胡说。……天知道，我这些话里有多少真货，我该比谁都清楚。」
+
+两个人又僵住了，又都不作声，隐隐地不安，觉出他们两个合力毁掉了一件再也无法挽回的东西；可奥利维娅心里同时有一股冷冷的、撑持得住的平稳，每逢这种时刻，它总奇迹似的来到她身上。她还觉得自己是背抵着墙在打。末了她说：「要是那样对你省事些，我甚至可以由你来跟我离……我不在乎把过错揽到自己身上。」
+
+他又抖了起来。「你是想告诉我……」
+
+「我什么也没有告诉你。根本什么都没有过……可是……只要你肯答应，我可以给你造出理由来。」
+
+他厌恶地扭过脸去。「那就更不可能了。……绅士从来不跟自己的妻子离婚。」
+
+===Original===
+
+“Let’s leave the gentlemen out of it, Anson,” she said. “I’m weary of hearing what gentlemen do and do not do. I want you to act as yourself, as Anson Pentland, and not as you think you ought to act. Let’s be honest. You know you married me only because you had to marry someone﻿ ﻿… and I﻿ ﻿… I wasn’t actually disreputable, even, as you remind me, if my father was shanty Irish. And﻿ ﻿… let’s be just too. I married you because I was alone and frightened and wanted to escape a horrible life with Aunt Alice.﻿ ﻿… I wanted a home. That was it, wasn’t it? We are both guilty, but that doesn’t change the reality in the least. No, I fancy you practised loving me through a sense of duty. You tried it as long as you could and you hated it always. Oh, I’ve known what was going on. I’ve been learning ever since I came to Pentlands for the first time.”
+
+He was regarding her now with a fixed expression of horrid fascination; he was perhaps even dazed at the sound of her voice, slowly, resolutely, tearing aside all the veils of pretense which had made their life possible for so long. He kept mumbling, “How can you talk this way? How can you say such things?”
+
+Slowly, terribly, she went on and on: “We’re both guilty﻿ ﻿… and it’s been a failure, from the very start. I’ve tried to do my best and perhaps sometimes I’ve failed. I’ve tried to be a good mother﻿ ﻿… and now that Sybil is grown and Jack﻿ ﻿… is dead, I want a chance at freedom. I’m still young enough to want to live a little before it is too late.”
+
+Between his teeth he said, “Don’t be a fool, Olivia.﻿ ﻿… You’re forty years old.﻿ ﻿…”
+
+“You needn’t remind me of that. Tomorrow I shall be forty. I know it﻿ ﻿… bitterly. But my being forty makes no difference to you. To you it would be all the same if I were seventy. But to me it makes a difference﻿ ﻿… a great difference.” She waited a moment, and then said, “That’s the truth, Anson; and it’s the truth that interests me tonight. Let me be free, Anson.﻿ ﻿… Let me go while being free still means something.”
+
+Perhaps if she had thrown herself at his feet in the attitude of a wretched, shameful woman, if she had made him feel strong and noble and heroic, she would have won; but it was a thing she could not do. She could only go on being coldly reasonable.
+
+===Chinese===
+
+「咱们把绅士撂开吧，安森，」她说。「绅士做什么、不做什么，我听腻了。我要你照你自己的样子行事，照安森·彭特兰的样子，不照你自以为该有的样子。咱们坦白些。你知道，你当年娶我，不过因为总得娶一个人……而我……我甚至算不上什么不体面人家的人，尽管你老提醒我，我父亲是爱尔兰穷光蛋。还有……咱们也讲讲公道。我嫁你，是因为我孤单、害怕，想逃开同艾丽斯姨母一起的那种可怕日子。……我想要个家。就是这么回事，对不对？我们两个都有罪，可这丝毫改不了事情的真面目。不，我看你那份爱是拿责任感练出来的。你撑得多久就撑了多久，心里始终厌恶它。哦，底下的事我全知道。打我头一回踏进彭特兰家的门，我就一直在学。」
+
+他此刻直瞪瞪望着她，一脸又惊又怕的出神；听她那声音沉着、决绝，把撑住他们这些年生活的一层层假面慢慢撕下来，他怕是都听呆了。他只是喃喃：「你怎么能这样说话？你怎么能说出这种话来？」
+
+她慢慢地、可怕地一句一句说下去：「我们两个都有罪……这桩事从头一天起就败了。我尽力做好我这份，也许有时候也失手。我尽力做个好母亲……如今西比尔长大了，杰克……又死了，我要一个自由的机会。趁还来得及，我还够年轻，还想稍微活一活。」
+
+他从牙缝里挤出来：「别犯傻，奥利维娅。……你都四十的人了。……」
+
+「用不着你提醒。明天我就四十了。我知道……知道得心里发苦。可我四十不四十，同你毫不相干。在你，我就是七十岁也一个样。可对我，这就有分别……天大的分别。」她停了停，随后说：「这就是实情，安森；今晚叫我上心的，就是实情。放我自由吧，安森。……趁自由二字对我还算数，放我走吧。」
+
+倘若她扑倒在他脚前，摆出一副可怜的、丢人女人的姿态，倘若她叫他觉得自己强壮、高贵、像个英雄，她说不定倒赢了；可这一套她做不来。她只能继续冷冷地讲理。
+
+===Original===
+
+“And you would give up all this?” he was saying. “You’d leave Pentlands and all it stands for to marry this cheap Irishman﻿ ﻿… a nobody, the son perhaps of an immigrant dock-laborer.”
+
+“He *is* the son of a dock-laborer,” she answered quietly. “And his mother was a housemaid. He’s told me so himself. And as to all this.﻿ ﻿… Why, Anson, it doesn’t mean anything to me﻿ ﻿… nothing at all that I can’t give up, nothing which means very much. I’m fond of your father, Anson, and I’m fond of you when you are yourself and not talking about what a gentleman would do. But I’d give it all up﻿ ﻿… everything﻿ ﻿… for the sake of this other thing.”
+
+For a moment his lips moved silently and in agitation, as if it were impossible for him to answer things so preposterous as those his wife had just spoken. At last he was able to say, “I think you must have lost your mind, Olivia﻿ ﻿… to even think of asking such a thing of me. You’ve lived here long enough to know how impossible it is. Some of us must make a stand in a community. There has never been a scandal, or even a divorce, in the Pentland family﻿ ﻿… never. We’ve come to stand for something. Three hundred years of clean, moral living can’t be dashed aside so easily.﻿ ﻿… We’re in a position where others look up to us. Can’t you see that? Can’t you understand such a responsibility?”
+
+For a moment she had a terrible, dizzy, intoxicating sense of power, of knowing that she held the means of destroying him and all this whited structure of pride and respectability. She had only to begin by saying, “There was Savina Pentland and her lover.﻿ ﻿…” The moment passed quickly and at once she knew that it was a thing she could not do. Instead, she murmured, “Ah, Anson, do you think the world really looks at us at all? Do you think it really cares what we do or don’t do? You can’t be as blind as that.”
+
+“I’m not blind﻿ ﻿… only there’s such a thing as honor and tradition. We stand for something.﻿ ﻿…”
+
+She interrupted him. “For what?”
+
+“For decency, for a glorious past, for stability﻿ ﻿… for endless things﻿ ﻿… all the things which count in a civilized community.”
+
+He really believed what he was saying; she knew that he must have believed it to have written all those thousands of dull, laborious words in glorification of the past.
+
+===Chinese===
+
+「那你舍得丢下这一切？」他说。「你要丢开彭特兰家，丢开它代表的一切，去嫁这个廉价的爱尔兰人……一个无名之辈，多半是码头苦力的儿子。」
+
+「他*就是*码头苦力的儿子，」她安安静静地回答。「他母亲是个帮佣的女仆。他自己对我说过。至于这一切……嗳，安森，这一切对我没有任何意思……没有一样我舍不得丢的东西，没有一样顶要紧的东西。我喜欢你父亲，安森；我也喜欢你——当你做你自己、不大谈绅士该怎么办的时候。可这一切我都肯丢下……丢下一切……为着另外那一样。」
+
+有一霎，他嘴唇无声地动着，人很激动，仿佛妻子刚才说出的这番话荒唐得叫他无从答起。末了他总算说出：「我看你准是疯了，奥利维娅……居然想向我提这种要求。你在这儿住得够久了，该知道这有多不可能。我们这班人，总得有人在地方上撑住场面。彭特兰家从来没有过丑闻，连离婚都没有过……从来没有。我们渐渐成了代表着什么的门第。三百年的干净、正派，不能就这么轻易扫开。……我们站在人家仰头看我们的位置上。你不明白吗？这样的责任，你不明白吗？」
+
+有一刻，她有一种可怕的、叫人头晕、叫人陶醉的权力感——她知道自己手里握着毁掉他、毁掉这整座粉刷一新的自尊体面大厦的手段。她只消起个头，说一句：「还有萨维娜·彭特兰和她的情人呢。……」这一刻很快过去了；她立刻明白，这样的事她做不出。她只低声说：「唉，安森，你真以为这世上有什么人看着我们吗？你真以为有什么人在乎我们做什么、不做什么吗？你总不能瞎到这个地步。」
+
+「我不瞎……只是这世上还有名誉、还有传统这样的东西。我们代表着点什么。……」
+
+她打断他：「代表什么？」
+
+「代表体面，代表光荣的过去，代表安稳……代表数不尽的东西……凡是在一个文明社会里算数的东西。」
+
+他说的这些，他自己句句都信；她知道，若不是句句都信，他绝写不出那成千上万枯燥、辛苦的字句，去颂扬那个过去。
+
+===Original===
+
+He went on. “No, what you ask is impossible. You knew it before you asked.﻿ ﻿… And it would be a kindness to me if you never mentioned it again.”
+
+He was still pale, but he had gained control of himself and his hands no longer trembled; as he talked, as his sense of virtue mounted, he even grew eloquent, and his voice took on a shade of that unction which had always colored the voice of the Apostle to the Genteel and made of him a celebrated and fashionable cleric. Perhaps for the first time since his childhood, since the days when the red-haired little Sabine had mocked his curls and velvet suits, he felt himself a strong and powerful person. There was a kind of fierce intoxication in the knowledge of his power over Olivia. In his virtuous ardor he seemed for a moment to become a positive, almost admirable person.
+
+At length she said quietly, “And what if I should simply go away﻿ ﻿… without bothering about a divorce?”
+
+The remark shattered all his confidence once more; and she knew that she had struck at the weakest point in all his defense﻿—the fear of a scandal. “You wouldn’t do that!” he cried. “You couldn’t﻿—you couldn’t behave like a common prostitute!”
+
+“Loving one man is not behaving like a common prostitute.﻿ ﻿… I never loved any other.”
+
+“You couldn’t bring such a disgrace on Sybil, even if you don’t care for the rest of us.”
+
+(“He knew, then, that I couldn’t do such a thing, that I haven’t the courage. He knows that I’ve lived too long in this world.”) Aloud she said, “You don’t know me, Anson.﻿ ﻿… In all these years you’ve never known me at all.”
+
+“Besides,” he added quickly, “he wouldn’t do such a thing. Such a climber isn’t likely to throw over his whole career by running away with a woman. You’d find out if you asked him.”
+
+“But he *is* willing. He’s already told me so. Perhaps you can’t understand such a thing.” When he did not answer, she said ironically, “Besides, I don’t think a gentleman would talk as you are talking. No, Anson.﻿ ﻿… I don’t think you know what the world is. You’ve lived here always, shut up in your own little corner.” Rising, she sighed and murmured, “But there’s no use in talk. I am going to bed.﻿ ﻿… I suppose we must struggle on as best we can﻿ ﻿… but there are times﻿ ﻿… times like tonight when you make it hard for me to bear it. Some day﻿ ﻿… who knows﻿ ﻿… there’s nothing any longer to keep me.﻿ ﻿…”
+
+===Chinese===
+
+他讲下去：「不行，你要的事不可能。你开口之前自己就知道。……你要是从此不再提它，就算体谅我了。」
+
+他脸色仍旧发白，可已经管住了自己，手也不抖了；他说着说着，那股德性越说越足，人竟然有了口才，嗓音里带上了一层油润的调门——「上流人的使徒」当年说话，就永远带着那层调门，凭它做成了个赫赫一时的时髦教士。也许打童年以来——打红头发的小萨宾嘲弄他的鬈发和天鹅绒衣裳的那些日子以来——这是头一回，他觉得自己是个坚强有力量的人。知道自己在奥利维娅身上握着权力，这里面有一种凶狠的醉意。在他那股德性的热劲里，他一时竟像个果断的、几乎叫人佩服的人了。
+
+末了她安安静静地说：「那要是我干脆走呢……不劳什么离婚？」
+
+这句话把他满腔的自信又砸了个粉碎；她知道自己打中了他全部防线里最软的一处……对丑闻的恐惧。「你不会那样做的！」他喊道。「你不能……你不能像街头的暗娼那样行事！」
+
+「爱一个男人，不等于做暗娼。……我从来没有爱过第二个。」
+
+「就算你不在乎我们其余这些人，你也不能把这样的耻辱带给西比尔。」
+
+（「这么说，他知道了，知道我做不出那样的事，我没有那份胆量。他知道我在这世界里活得太久了。」）嘴上她说：「你不了解我，安森。……这些年，你从来就没有了解过我。」
+
+「再说，」他赶紧补上一句，「他也干不出这种事。这样一个往上爬的人，不会肯带着一个女人私奔，把自己整个前程扔掉。你去问问他就知道了。」
+
+「可他*肯*。他已经亲口对我说了。这样的事，你恐怕不能理解。」他不做声，她便讥诮地说：「再说，我看绅士也不会像你这样讲话。不，安森。……我看你压根儿不知道世界是个什么样。你一向住在这儿，关在自己那个小角落里。」她站起身，叹了口气，低声说：「可是说也没有用了。我去睡了。……我想，我们只好各自苦苦撑下去……可有些时候……像今晚这样的时候，你叫我撑得实在吃力。总有一天……谁知道呢……再没有什么留住我的了。……」
+
+===Original===
+
+She went away without troubling to finish what she had meant to say, lost again in an overwhelming sense of the futility of everything. She felt, she thought, like an idiot standing in the middle of an empty field, making gestures.
+
+===Chinese===
+
+她走开了，也不费心把想说的话说完，整个人又沉进一种万事皆空的浩叹里。她觉得自己，她想，像个立在空场子当中的傻子，对着空处比划手势。
