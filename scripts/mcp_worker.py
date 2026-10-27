@@ -16,6 +16,9 @@ import translate_mcp
 SESSION_ID_FILE = os.path.join(ROOT, ".mcp_worker_session_id")
 
 def get_session_id():
+    env_sid = os.environ.get("MCP_WORKER_ID")
+    if env_sid:
+        return env_sid
     if os.path.exists(SESSION_ID_FILE):
         with open(SESSION_ID_FILE, "r", encoding="utf-8") as f:
             sid = f.read().strip()
