@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **487** 完 / **30** 译 / **130** 待（共 647 本） | **10452** / 18180 篇（**168144.0** / 305863.1 KB）· **55.0%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **35** 本待审 | 覆盖精读 **452** 本（**92.8%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **487** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **487** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **488** 完 / **33** 译 / **126** 待（共 647 本） | **10523** / 18180 篇（**169592.0** / 305863.1 KB）· **55.4%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **36** 本待审 | 覆盖精读 **452** 本（**92.6%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **488** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **488** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **487** 本译完，**452** 本完成独立审校，**487** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **488** 本译完，**452** 本完成独立审校，**488** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -342,7 +342,7 @@
 | 317 | `herminie-templeton-kavanagh_darby-ogill-and-the-good-people` | ✅ 已入库 | [✅ **100%**](翻译项目/herminie-templeton-kavanagh_darby-ogill-and-the-good-people/译文) (8篇) | [✅ 已审](翻译项目/herminie-templeton-kavanagh_darby-ogill-and-the-good-people/审核报告.md) | [📦 278KB](翻译项目/herminie-templeton-kavanagh_darby-ogill-and-the-good-people/达比·奥吉尔与精灵.epub) | B（良好） | 全书 8 篇结构严整，335 个双语块对照严密对应，无漏译、… |
 | 318 | `hilaire-belloc_the-cruise-of-the-nona` | ✅ 已入库 | [🟡 0.0%](翻译项目/hilaire-belloc_the-cruise-of-the-nona/译文) (1/18) | — | — |  |
 | 319 | `hilaire-belloc_the-four-men` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-four-men/译文) (9篇) | [✅ 已审](翻译项目/hilaire-belloc_the-four-men/审核报告.md) | [📦 271KB](翻译项目/hilaire-belloc_the-four-men/四个人.epub) | A（优秀） |
-| 320 | `hilaire-belloc_the-mercy-of-allah` | ✅ 已入库 | ⚪ 待译 (15篇) | — | — |  |
+| 320 | `hilaire-belloc_the-mercy-of-allah` | ✅ 已入库 | [🟡 69.4%](翻译项目/hilaire-belloc_the-mercy-of-allah/译文) (10/15) | — | — |  |
 | 321 | `hilaire-belloc_the-servile-state` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-servile-state/译文) (15篇) | ⏳ 待审 | [📦 191KB](翻译项目/hilaire-belloc_the-servile-state/奴役性国家.epub) | 已译完待审 |
 | 322 | `hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/译文) (36篇) | [✅ 已审](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/审核报告.md) | [📦 207KB](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/马丁·比尔克的青春.epub) | A 级（优秀 / Excellent） | > 全书 36 篇译文双语块与段… |
 | 323 | `hjalmar-soderberg_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_short-fiction_various-translators/译文) (19篇) | [✅ 已审(A)](翻译项目/hjalmar-soderberg_short-fiction_various-translators/审核报告.md) | [📦 121KB](翻译项目/hjalmar-soderberg_short-fiction_various-translators/瑟德尔贝里短篇集.epub) | A 优秀 | 全书 19 篇双语块对照严丝合缝，无任何语义错配、整段漏译、章… |
@@ -510,7 +510,7 @@
 | 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 221KB](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） | 译文整体质量… |
 | 486 | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | ✅ 已入库 | [✅ **100%**](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/译文) (22篇) | [✅ 已审(A)](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/审核报告.md) | [📦 401KB](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 487 | `octave-mirbeau_calvary_louis-rich` | ✅ 已入库 | [✅ **100%**](翻译项目/octave-mirbeau_calvary_louis-rich/译文) (12篇) | [✅ 已审(B)](翻译项目/octave-mirbeau_calvary_louis-rich/审核报告.md) | [📦 406KB](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
-| 488 | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | ✅ 已入库 | ⚪ 待译 (16篇) | — | — |  |
+| 488 | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | ✅ 已入库 | [✅ **100%**](翻译项目/olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano/译文) (16篇) | ⏳ 待审 | [📦 345KB](翻译项目/olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano/奥拉乌达·艾奎亚诺生平自述.epub) | 已译完待审 |
 | 489 | `oliver-la-farge_laughing-boy` | ✅ 已入库 | [✅ **100%**](翻译项目/oliver-la-farge_laughing-boy/译文) (23篇) | [✅ 已审](翻译项目/oliver-la-farge_laughing-boy/审核报告.md) | [📦 329KB](翻译项目/oliver-la-farge_laughing-boy/Laughing Boy.epub) | A（优秀） | 全书 23 篇共 1,624 对双语块实现 1:1 严格精准… |
 | 490 | `owen-johnson_stover-at-yale` | ✅ 已入库 | ⚪ 待译 (27篇) | — | — |  |
 | 491 | `p-g-wodehouse_a-damsel-in-distress` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_a-damsel-in-distress/译文) (28篇) | [✅ 已审(B)](翻译项目/p-g-wodehouse_a-damsel-in-distress/审核报告.md) | [📦 405KB](翻译项目/p-g-wodehouse_a-damsel-in-distress/A Damsel in Distress.epub) | B 良好 | 28 篇 / 605 组对照块逐块核查完毕，无 A 级错误——… |
@@ -579,7 +579,7 @@
 | 554 | `ring-lardner_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_poetry/译文) (4篇) | [✅ 已审(A)](翻译项目/ring-lardner_poetry/审核报告.md) | [📦 29KB](翻译项目/ring-lardner_poetry/拉德纳诗集.epub) | A 优秀 |
 | 555 | `ring-lardner_short-fiction` | ✅ 已入库 | ⚪ 待译 (74篇) | — | — |  |
 | 556 | `robert-derby-holmes_a-yankee-in-the-trenches` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/译文) (20篇) | [✅ 已审(A)](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/审核报告.md) | [📦 209KB](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/战壕里的美国佬.epub) | A 优秀 | 全书译文质量极高，生动传神地再现了一战西线战场美籍志愿兵与英国… |
-| 557 | `robert-e-howard_short-fiction` | ✅ 已入库 | ⚪ 待译 (28篇) | — | — |  |
+| 557 | `robert-e-howard_short-fiction` | ✅ 已入库 | [🟡 90.3%](翻译项目/robert-e-howard_short-fiction/译文) (27/28) | — | — |  |
 | 558 | `robert-hugh-benson_the-necromancers` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-hugh-benson_the-necromancers/译文) (19篇) | [✅ 已审(B)](翻译项目/robert-hugh-benson_the-necromancers/审核报告.md) | [📦 406KB](翻译项目/robert-hugh-benson_the-necromancers/招魂者.epub) | B 良好 | 前半 9 章译笔精良、哥特与宗教氛围还原到位，无错配/漏译/截… |
 | 559 | `robert-louis-stevenson_catriona` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-louis-stevenson_catriona/译文) (35篇) | ⏳ 待审 | [📦 462KB](翻译项目/robert-louis-stevenson_catriona/卡特琳娜.epub) | 已译完待审 |
 | 560 | `robert-louis-stevenson_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-louis-stevenson_poetry/译文) (14篇) | [✅ 已审(B)](翻译项目/robert-louis-stevenson_poetry/审核报告.md) | [📦 377KB](翻译项目/robert-louis-stevenson_poetry/斯蒂文森诗集.epub) | B 良好 | 前半 7 分片逐行完整、块对对应严密，儿童诗韵式（AABB/A… |
@@ -627,7 +627,7 @@
 | 602 | `w-e-b-du-bois_dark-princess` | ✅ 已入库 | ⚪ 待译 (6篇) | — | — |  |
 | 603 | `w-e-b-du-bois_darkwater` | ✅ 已入库 | [✅ **100%**](翻译项目/w-e-b-du-bois_darkwater/译文) (13篇) | ⏳ 待审 | [📦 359KB](翻译项目/w-e-b-du-bois_darkwater/暗水.epub) | 已译完待审 |
 | 604 | `w-e-b-du-bois_the-quest-of-the-silver-fleece` | ✅ 已入库 | [✅ **100%**](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/译文) (40篇) | [✅ 已审(B)](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/审核报告.md) | [📦 577KB](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/银色羊毛的追寻.epub) | B 良好 | 译文整体忠实、文学性上佳，方言分层（佐拉/老辈黑人/教育者）与… |
-| 605 | `w-h-hudson_the-purple-land` | ✅ 已入库 | ⚪ 待译 (31篇) | — | — |  |
+| 605 | `w-h-hudson_the-purple-land` | ✅ 已入库 | [🟡 54.9%](翻译项目/w-h-hudson_the-purple-land/译文) (18/31) | — | — |  |
 | 606 | `w-n-p-barbellion_the-journal-of-a-disappointed-man` | ✅ 已入库 | [✅ **100%**](翻译项目/w-n-p-barbellion_the-journal-of-a-disappointed-man/译文) (5篇) | ⏳ 待审 | [📦 526KB](翻译项目/w-n-p-barbellion_the-journal-of-a-disappointed-man/The Journal of a Disappointed Man.epub) | 已译完待审 |
 | 607 | `w-r-burnett_little-caesar` | ✅ 已入库 | [✅ **100%**](翻译项目/w-r-burnett_little-caesar/译文) (53篇) | [✅ 已审](翻译项目/w-r-burnett_little-caesar/审核报告.md) | [📦 217KB](翻译项目/w-r-burnett_little-caesar/小凯撒.epub) | 【 A 级 · 优秀 (Excellent) 】 | 全书 53 篇文件、4… |
 | 608 | `w-w-jacobs_the-lady-of-the-barge` | ✅ 已入库 | [✅ **100%**](翻译项目/w-w-jacobs_the-lady-of-the-barge/译文) (12篇) | [✅ 已审(B)](翻译项目/w-w-jacobs_the-lady-of-the-barge/审核报告.md) | [📦 224KB](翻译项目/w-w-jacobs_the-lady-of-the-barge/猴爪.epub) | B 良好（含 1 处 A 级情节误译） | 十二篇整体忠实流畅、水手腔与克制… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10452/18180 篇 (55.0%)** | **452 本完成** | **487 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10523/18180 篇 (55.4%)** | **452 本完成** | **488 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1510,6 +1510,7 @@
 | Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`短篇科幻集.epub`](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) |
 | 赌徒马布斯博士 | Norbert Jacques | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | 401KB | - | [`赌徒马布斯博士.epub`](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) |
 | 受难 | Octave Mirbeau | `octave-mirbeau_calvary_louis-rich` | 406KB | - | [`受难.epub`](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) |
+| 奥拉乌达·艾奎亚诺生平自述 | Olaudah Equiano | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | 345KB | - | [`奥拉乌达·艾奎亚诺生平自述.epub`](翻译项目/olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano/奥拉乌达·艾奎亚诺生平自述.epub) |
 | Laughing Boy | Oliver La Farge | `oliver-la-farge_laughing-boy` | 329KB | - | [`Laughing Boy.epub`](翻译项目/oliver-la-farge_laughing-boy/Laughing Boy.epub) |
 | A Damsel in Distress | P. G. Wodehouse | `p-g-wodehouse_a-damsel-in-distress` | 405KB | - | [`A Damsel in Distress.epub`](翻译项目/p-g-wodehouse_a-damsel-in-distress/A Damsel in Distress.epub) |
 | A Gentleman of Leisure | P. G. Wodehouse | `p-g-wodehouse_a-gentleman-of-leisure` | 364KB | - | [`A Gentleman of Leisure.epub`](翻译项目/p-g-wodehouse_a-gentleman-of-leisure/A Gentleman of Leisure.epub) |
