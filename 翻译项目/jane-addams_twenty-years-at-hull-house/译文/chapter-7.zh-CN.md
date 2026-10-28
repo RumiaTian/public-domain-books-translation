@@ -130,3 +130,103 @@ And yet this dream that men shall cease to waste strength in competition and sha
 我很少被热情感染得那样厉害，像有一回在达利奇出席英国合作者的集会：大会事务性的议程底下翻涌着的虔诚，真叫我招架不住；同样，1900 年我担任巴黎博览会评判员时，社会经济部的全部陈列里，再没有比那座陈列馆本身的建筑更气象堂皇的了——它由各合作工会营造，没有雇一个承包商。
 
 于是，人的信念得以常保常新，只消偶尔遇见一个实现了的更好人际关系的理想。至少，在个人主义的美国也找得到成功合作的痕迹。记得我动身去印第安纳州新和谐村演讲的那一天，我那份兴奋：欧文的传说我早听得心热，凡关心社会改革的年轻人无不如是；叫我喜欢的是，那么多他的精神还附着在这座小城上——很久以前，这里曾是他一项热烈试验的所在。其实，那几位多年自称赫尔会所朋友的老合作者（只因听说我们「办过一个合作煤业协会」），早就可以让我领教合作理想的执拗了。
+
+===Original===
+
+I have seldom been more infected by enthusiasm than I once was in Dulwich at a meeting of English cooperators where I was fairly overwhelmed by the fervor underlying the businesslike proceedings of the congress, and certainly when I served as a juror in the Paris Exposition of 1900, nothing in the entire display in the department of Social Economy was so imposing as the building housing the exhibit, which had been erected by cooperative trades-unions without the assistance of a single contractor.
+
+And so one’s faith is kept alive as one occasionally meets a realized ideal of better human relations. At least traces of successful cooperation are found even in individualistic America. I recall my enthusiasm on the day when I set forth to lecture at New Harmony, Indiana, for I had early been thrilled by the tale of Robert Owen, as every young person must be who is interested in social reform; I was delighted to find so much of his spirit still clinging to the little town which had long ago held one of his ardent experiments, although the poor old cooperators, who for many years claimed friendship at Hull House because they heard that we “had once tried a cooperative coal association,” might well have convinced me of the persistency of the cooperative ideal.
+
+===Chinese===
+
+我平生很少像有一回在达利奇的一场英国合作者集会上那样被热情感染得厉害，大会那副公事公办的程序底下涌动的热忱，几乎把我压倒；同样，一九〇〇年我担任巴黎博览会评审员时，社会经济部的全部陈列之中，再没有比容纳这展览的那座大楼更气象堂皇的了——那座楼是各合作工会不请一个承包商、自己建造起来的。
+
+就这样，人的信念得以长存，因为人偶尔会遇见一个实现了的理想——人与人之间更为美好的关系的理想。至少，即便在个人主义的美国，也寻得到成功合作的踪迹。我记得动身去印第安纳州新和谐村讲演那一天的热忱，因为我早已为罗伯特·欧文的故事激动过——凡关怀社会改造的青年，谁不曾如此呢；我高兴地发现，他的精神还有那么多萦绕在这座小镇上——它多年前曾容纳过他一场炽热的实验——虽说那几位可怜的老合作者，只因听说我们「办过一个合作煤业协会」，多年来便来赫尔会所攀朋友，本就尽可以叫我信服合作理想之顽强持久了。
+
+===Original===
+
+Many experiences in those early years, although vivid, seemed to contain no illumination; nevertheless they doubtless permanently affected our judgments concerning what is called crime and vice. I recall a series of striking episodes on the day when I took the wife and child, as well as the old godfather, of an Italian convict to visit him in the State Penitentiary. When we approached the prison, the sight of its heavy stone walls and armed sentries threw the godfather into a paroxysm of rage; he cast his hat upon the ground and stamped upon it, tore his hair, and loudly fulminated in weird Italian oaths, until one of the guards, seeing his strange actions, came to inquire if “the gentleman was having a fit.” When we finally saw the convict, his wife, to my extreme distress, talked of nothing but his striped clothing, until the poor man wept with chagrin. Upon our return journey to Chicago, the little son aged eight presented me with two oranges, so affectionately and gayly that I was filled with reflections upon the advantage of each generation making a fresh start, when the train boy, finding the stolen fruit in my lap, violently threatened to arrest the child. But stranger than any episode was the fact itself that neither the convict, his wife, nor his godfather for a moment considered him a criminal. He had merely gotten excited over cards and had stabbed his adversary with a knife. “Why should a man who took his luck badly be kept forever from the sun?” was their reiterated inquiry.
+
+===Chinese===
+
+早年这类经历，虽历历在目，却似乎并不给人启示；然而它们无疑永久地影响了我们对于所谓罪与堕落的判断。我记得有一天，我陪一名意大利囚犯的妻子和孩子、还有他的老教父去州立监狱探视他，那一天有一连串惊人的插曲。我们走近监狱时，那厚重的石墙和持枪哨兵的景象使老教父勃然大怒；他把帽子掼在地上用脚踩，扯着自己的头发，用古怪的意大利咒骂高声叫嚷，直到一名卫兵看见他奇怪的举动，过来问「这位先生是不是羊痫风犯了」。我们终于见到那囚犯时，他的妻子——令我极为难过——只顾念叨他身上的条纹囚衣，直到那可怜的人懊恼得落下泪来。回芝加哥的路上，八岁的小儿子那么亲热、那么快活地递给我两只橙子，使我满心感慨每一代人重新开始的好处，不料火车上卖货的小贩发现这偷来的水果就在我膝上，便凶狠地威吓要把孩子抓起来。可比任何插曲都更奇怪的是这件事本身：那囚犯、他的妻子、他的教父，谁都没有一刻把他当作罪犯。他不过是打牌打得动了火气，用刀子捅了对家。「一个牌运不好就沉不住气的人，凭什么就该永远见不着太阳？」——这是他们翻来覆去的问话。
+
+===Original===
+
+I recall our perplexity over the first girls who had “gone astray”﻿—the poor, little, forlorn objects, fifteen and sixteen years old, with their moral natures apparently untouched and unawakened; one of them whom the police had found in a professional house and asked us to shelter for a few days until she could be used as a witness, was clutching a battered doll which she had kept with her during her six months of an “evil life.” Two of these prematurely aged children came to us one day directly from the maternity ward of the Cook County hospital, each with a baby in her arms, asking for protection, because they did not want to go home for fear of “being licked.” For them were no jewels nor idle living such as the storybooks portrayed. The first of the older women whom I knew came to Hull House to ask that her young sister, who was about to arrive from Germany, might live near us; she wished to find her respectable work and wanted her to have the “decent pleasures” that Hull House afforded. After the arrangement had been completed and I had in a measure recovered from my astonishment at the businesslike way in which she spoke of her own life, I ventured to ask her history. In a very few words she told me that she had come from Germany as a music teacher to an American family. At the end of two years, in order to avoid a scandal involving the head of the house, she had come to Chicago where her child was born, but when the remittances ceased after its death, finding herself without home and resources, she had gradually become involved in her present mode of life. By dint of utilizing her family solicitude, we finally induced her to move into decent lodgings before her sister arrived, and for a difficult year she supported herself by her exquisite embroidery. At the end of that time, she gave up the struggle, the more easily as her young sister, well established in the dressmaking department of a large shop, had begun to suspect her past life.
+
+===Chinese===
+
+我记得我们对最初几个「失足」姑娘的束手无策——那些可怜、瘦小、无依的造物，十五六岁，道德天性似乎全未被触动、未被唤醒；其中一个，是警察在一家妓院里查获、托我们收容几日好让她日后出庭作证的，手里还紧攥着一只破旧的洋娃娃——她过那六个月「邪恶生活」期间一直带在身边。有两个这样未老先衰的孩子，有一天径直从库克县医院的产科病房来到我们这里，各人怀里抱着一个婴儿，请求庇护，因为她们不愿回家，怕「挨揍」。故事书里描绘的珠宝和闲适生活，她们是一概没有的。我认识的第一个年纪较大的妇人，是到赫尔会所来求我们让她的妹妹——她就要从德国来了——住在我们近旁；她想给她找体面的活计，也想让她享到赫尔会所提供的「正当娱乐」。安排妥当、我也多少从她谈论自己营生时那副公事公办的口气中回过神来之后，我才冒昧问起她的来历。她三言两语告诉我：她当年从德国来，给一户美国人家当音乐教师；两年之后，为躲开一桩牵连那家男主人的丑闻，她来到芝加哥，孩子在这里出生；孩子死后汇款断了，她发现自己无家可归、无以为生，便渐渐陷入如今这一行。借着她对家人的挂虑，我们终于劝得她在妹妹到达之前搬进了体面的寓所，并在艰难的一年里靠她一手精美的刺绣自食其力。一年期满，她放弃了挣扎——她那已在一家大商店女装部站稳脚跟的妹妹开始疑心她的过去之后，这挣扎也就更容易放弃了。
+
+===Original===
+
+But discouraging as these and other similar efforts often were, nevertheless the difficulties were infinitely less in those days when we dealt with “fallen girls” than in the years following when the “white slave traffic” became gradually established and when agonized parents, as well as the victims themselves, were totally unable to account for the situation. In the light of recent disclosures, it seems as if we were unaccountably dull not to have seen what was happening, especially to the Jewish girls among whom “the home trade of the white slave traffic” was first carried on and who were thus made to break through countless generations of chastity. We early encountered the difficulties of that old problem of restoring the woman, or even the child, into the society she has once outraged. I well remember our perplexity when we attempted to help two girls straight from a Virginia tobacco factory, who had been decoyed into a disreputable house when innocently seeking a lodging on the late evening of their arrival. Although they had been rescued promptly, the stigma remained, and we found it impossible to permit them to join any of the social clubs connected with Hull House, not so much because there was danger of contamination, as because the parents of the club members would have resented their presence most hotly. One of our trustees succeeded in persuading a repentant girl, fourteen years old, whom we tried to give a fresh start in another part of the city, to attend a Sunday School class of a large Chicago church. The trustee hoped that the contact with nice girls, as well as the moral training, would help the poor child on her hard road. But unfortunately tales of her shortcomings reached the superintendent who felt obliged, in order to protect the other girls, to forbid her the school. She came back to tell us about it, defiant as well as discouraged, and had it not been for the experience with our own clubs, we could easily have joined her indignation over a church which “acted as if its Sunday School was a show window for candy kids.”
+
+===Chinese===
+
+但尽管这些以及类似的其他努力常常令人气馁，当年我们同「失足姑娘」打交道时的困难，比起后来「白奴贸易」逐渐坐大、痛断肝肠的父母连同受害的姑娘本人都全然说不清境况由来的那些年头，还是小得不能同日而语。以近年来揭露出来的种种看，我们当时竟看不出正在发生的事情，尤其是最先盛行「白奴贸易的国内生意」、因而被迫冲决无数世代贞洁传统的犹太姑娘们的遭遇，似乎是迟钝得莫名其妙。把一个女人、甚至一个孩子，重新收进她曾经玷污过的社会——这个老难题的难处，我们很早就领教了。我清楚记得我们设法帮助两个直接来自弗吉尼亚一家烟草厂的女孩时的窘迫：她们抵达的那个深夜，天真地寻找一处宿处，却被诱进了一家声名不堪的宅子。她们虽被及时救出，污名却留了下来；我们发现根本不可能让她们加入赫尔会所的任何一个社交俱乐部，倒不甚是因为怕带坏旁人，而是因为俱乐部成员的父母会激烈反对她们在场。我们的一位理事劝得一个十四岁的悔过姑娘——我们正想让她在城的另一头重新开始——去芝加哥一家大教会的主日学校上一个班。理事希望，同好姑娘们的接触，加上道德的训练，能帮这可怜的孩子走好她艰难的路。不幸的是，她过失的流言传到了主管耳中，主管觉得为了保护其他姑娘，不得不禁止她入校。她回来把这事讲给我们听，又倔强又沮丧；倘若不是我们自己俱乐部里的那些经验，我们很容易附和她的愤慨，痛骂那家「把主日学校当成陈列甜乖孩子的橱窗」的教会。
+
+===Original===
+
+In spite of poignant experiences or, perhaps, because of them, the memory of the first years at Hull House is more or less blurred with fatigue, for we could of course become accustomed only gradually to the unending activity and to the confusion of a house constantly filling and refilling with groups of people. The little children who came to the kindergarten in the morning were followed by the afternoon clubs of older children, and those in turn made way for the educational and social organizations of adults, occupying every room in the house every evening. All one’s habits of living had to be readjusted, and any student’s tendency to sit with a book by the fire was of necessity definitely abandoned.
+
+To thus renounce “the luxury of personal preference” was, however, a mere trifle compared to our perplexity over the problems of an industrial neighborhood situated in an unorganized city. Life pressed hard in many directions and yet it has always seemed to me rather interesting that when we were so distressed over its stern aspects and so impressed with the lack of municipal regulations, the first building erected for Hull House should have been designed for an art gallery, for although it contained a reading-room on the first floor and a studio above, the largest space on the second floor was carefully designed and lighted for art exhibits, which had to do only with the cultivation of that which appealed to the powers of enjoyment as over against a wage-earning capacity. It was also significant that a Chicago business man, fond of pictures himself, responded to this first appeal of the new and certainly puzzling undertaking called a Settlement.
+
+===Chinese===
+
+尽管有这些锥心的经历——或者，正因为这些经历——赫尔会所最初几年的记忆多少被疲惫弄得模糊了，因为对于无休无止的活动、对于一幢不断被一群群人填满又填满的房子里的纷乱，我们当然只能渐渐地习惯。早晨来幼儿园的小孩子之后，接着是下午大孩子们的俱乐部，他们又把位置让给成年人的教育与社交团体，每晚屋里间间屋子都占满了。人的一切生活习性都得重新调整，至于学生想守着炉火捧一册书的积习，也只好断然戒除。
+
+然而，比起我们面对一座毫无组织的城市中的一个工业区时的种种困惑，舍弃「个人好恶这份奢侈」还只算小事。生活在许多方面步步紧逼；可我们当年一面为它严峻的一面痛心疾首、一面又对市政规章之缺失印象深刻，而赫尔会所第一座落成的房子竟是为美术馆设计的——这在我看来始终是件颇有意味的事。这楼底层有一间阅览室，楼上有一间画室，但二层最大的空间是精心设计、采光良好，专作美术展览之用的，它只关乎培养人的享受能力，而与挣钱的能力相对。同样意味深长的是，一位自己爱好图画的芝加哥商人，响应了称为「会所」的这个新奇而确实令人费解的事业发出的第一次呼吁。
+
+===Original===
+
+The situation was somewhat complicated by the fact that at the time the building was erected in 1891, our free lease of the land upon which Hull House stood expired in 1895. The donor of the building, however, overcame the difficulty by simply calling his gift a donation of a thousand dollars a year. This restriction of course necessitated the simplest sort of a structure, although I remember on the exciting day when the new building was promised to us, that I looked up my European notebook which contained the record of my experience in Ulm, hoping that I might find a description of what I then thought “a Cathedral of Humanity” ought to be. The description was “low and widespreading as to include all men in fellowship and mutual responsibility even as the older pinnacles and spires indicated communion with God.” The description did not prove of value as an architectural motive I am afraid, although the architects, who have remained our friends through all the years, performed marvels with a combination of complicated demands and little money. At the moment when I read this girlish outbreak it gave me much comfort, for in those days in addition to our other perplexities Hull House was often called irreligious.
+
+These first buildings were very precious to us and it afforded us the greatest pride and pleasure as one building after another was added to the Hull House group. They clothed in brick and mortar and made visible to the world that which we were trying to do; they stated to Chicago that education and recreation ought to be extended to the immigrants. The boys came in great numbers to our provisional gymnasium fitted up in a former saloon, and it seemed to us quite as natural that a Chicago man, fond of athletics, should erect a building for them, as that the boys should clamor for more room.
+
+I do not wish to give a false impression, for we were often bitterly pressed for money and worried by the prospect of unpaid bills, and we gave up one golden scheme after another because we could not afford it; we cooked the meals and kept the books and washed the windows without a thought of hardship if we thereby saved money for the consummation of some ardently desired undertaking.
+
+===Chinese===
+
+情形多少有些复杂：一八九一年楼房兴建之时，赫尔会所所踞土地的免费租约到一八九五年就到期了。不过捐楼人把难题一举化解——他干脆把他的馈赠称作每年一千美元的捐赠。这一限制当然决定了房子只能是最简朴的结构；可我还记得这新楼许给我们的那个激动人心的日子，我翻出那本载有我在乌尔姆经历的欧洲笔记，指望找到一段我当年认为「人类的教堂」该当如何的描述。那描述是：「低矮而铺展，把一切人都收进团契与共担之中，一如往昔的尖塔与塔尖指示与上帝的相通。」这段描述恐怕终究没有成为什么建筑动机，虽然那些建筑师们——他们多年来一直是我们的朋友——凭着复杂的要求和可怜的一点钱创造了奇迹。我重读这段少女式的迸发之语时，它给了我莫大的安慰，因为在那些日子里，除了别的困扰，赫尔会所还常常被指为离经叛道、不敬神明。
+
+这第一批楼房在我们极为宝贵；当一座座楼房陆续添入赫尔会所的建筑群时，我们自豪欢喜无以复加。它们给我们的所作所为一砖一瓦地穿上了衣服、使之昭然于世；它们向芝加哥宣告：教育与游乐也应推广到移民身上。男孩子成群结队来我们设在一家旧酒馆里的临时健身房，而一位爱好体育的芝加哥人会给他们盖一座楼，在我们看来，同孩子们吵着要多些房间一样自然而然。
+
+我不愿给人错误的印象，因为我们常常被钱逼得叫苦，为付不出的账单发愁，一个个金子般的计划因为付不起而作罢；我们自己做饭、记账、擦窗子，毫无怨言，只要这样能省下钱来成就某项热切想望的事业。
+
+===Original===
+
+But in spite of our financial stringency, I always believed that money would be given when we had once clearly reduced the Settlement idea to the actual deed. This chapter, therefore, would be incomplete if it did not record a certain theory of nonresistance or rather universal good will which I had worked out in connection with the Settlement idea and which was later so often and so rudely disturbed. At that time I had come to believe that if the activities of Hull House were ever misunderstood, it would be either because there was not time to fully explain or because our motives had become mixed, for I was convinced that disinterested action was like truth or beauty in its lucidity and power of appeal.
+
+But more gratifying than any understanding or response from without could possibly be, was the consciousness that a growing group of residents was gathering at Hull House, held together in that soundest of all social bonds, the companionship of mutual interests. These residents came primarily because they were genuinely interested in the social situation and believed that the Settlement was valuable as a method of approach to it. A house in which the men residents lived was opened across the street, and at the end of the first five years the Hull House residential force numbered fifteen, a majority of whom still remain identified with the Settlement.
+
+Even in those early years we caught glimpses of the fact that certain social sentiments, which are “the difficult and cumulating product of human growth” and which like all higher aims live only by communion and fellowship, are cultivated most easily in the fostering soil of a community life.
+
+Occasionally I obscurely felt as if a demand were being made upon us for a ritual which should express and carry forward the hope of the social movement. I was constantly bewildered by the number of requests I received to officiate at funeral services and by the curious confessions made to me by total strangers. For a time I accepted the former and on one awful occasion furnished “the poetic part” of a wedding ceremony really performed by a justice of the peace, but I soon learned to steadfastly refuse such offices, although I saw that for many people without church affiliations the vague humanitarianism the Settlement represented was the nearest approach they could find to an expression of their religious sentiments.
+
+===Chinese===
+
+但尽管手头拮据，我始终相信：只要我们把会所的主张真正落实为行动，钱自会有人捐来。因此，这一章若不记下我结合会所理想琢磨出的一套非抵抗主义、或者说普遍善意的理论，便不算完整；这套理论后来屡屡受到粗暴的搅扰。那时我已渐渐相信：赫尔会所的种种活动若是被误解，那必定不是因为来不及充分解释，就是因为我们的动机已经掺杂不纯，因为我确信，无私的行动正如真理与美，自有其明澈与感召之力。
+
+但比外界任何的理解或回应都更令人快慰的，是这样的自觉：一个日渐壮大的居民群体正在赫尔会所聚集，靠一切社会纽带中最坚实的一种——共同志趣的伙伴之情——维系在一起。这些居民来，首先是因为他们真心关切社会现状，并相信会所是接近它的一条有价值之路。街对面开设了一幢男居民的住所；头五年结束时，赫尔会所的居民已有十五人，其中大多数至今仍与会所相维系。
+
+即便在那些早年，我们已约略窥见：某些社会情操——它们是「人类成长中艰难而累积的产物」，同一切较高的目标一样，唯有在交往与共处中才得存活——在共同生活的沃土中最易培养。
+
+我时常隐约觉得，仿佛有一种要求向我们提出，要一种能把社会运动的希望表达出来并推向前进的仪式。我不断为收到的请我主持丧礼的请求之多、为素昧平生的人向我作的古怪自白而感到惶惑。有一阵子我接受了前者，还在一个糟糕透顶的场合为一桩实际由治安法官主持的婚礼提供了「诗的部分」，但我很快便学会坚决回绝这类职分，尽管我看得出，对许多没有教会归属的人来说，会所所代表的那种朦胧的人道主义，已是他们所能找到的表达宗教情感的最接近的方式。
+
+===Original===
+
+These hints of what the Settlement might mean to at least a few spirits among its contemporaries became clear to me for the first time one summer’s day in rural England, when I discussed with John Trevor his attempts to found a labor church and his desire to turn the toil and danger attached to the life of the workingman into the means of a universal fellowship. That very year a papyrus leaf brought to the British Museum from Egypt, containing among other sayings of Jesus, “Raise the stone, and there thou shalt find me; cleave the wood and I am there,” was a powerful reminder to all England of the basic relations between daily labor and Christian teaching.
+
+In those early years at Hull House we were, however, in no danger of losing ourselves in mazes of speculation or mysticism, and there was shrewd penetration in a compliment I received from one of our Scotch neighbors. He came down Polk Street as I was standing near the foundations of our new gymnasium, and in response to his friendly remark that “Hull House was spreading out,” I replied that “Perhaps we were spreading out too fast.” “Oh, no,” he rejoined, “you can afford to spread out wide, you are so well planted in the mud,” giving the compliment, however, a practical turn, as he glanced at the deep mire on the then unpaved street. It was this same condition of Polk Street which had caused the crown prince of Belgium when he was brought upon a visit to Hull House to shake his head and meditatively remark, “There is not such a street﻿—no, not one﻿—in all the territory of Belgium.”
+
+At the end of five years the residents of Hull House published some first found facts and our reflections thereon in a book called *Hull House Maps and Papers*. The maps were taken from information collected by one of the residents for the United States Bureau of Labor in the investigation into “the slums of great cities” and the papers treated of various neighborhood matters with candor and genuine concern if not with skill. The first edition became exhausted in two years, and apparently the Boston publisher did not consider the book worthy of a second.
+
+===Chinese===
+
+会所对于同时代人中至少若干心灵意味着什么——这些暗示，我是头一回在一个英格兰乡村的夏日里弄明白的：那天我与约翰·特雷弗讨论他创办劳动教会的种种尝试，以及他要把附着于工人生命的辛劳与危险转化为一种普遍团契之手段的心愿。就在那一年，一片从埃及运到不列颠博物馆的纸草叶，载有耶稣的言论，其中有「掀起石头，你在那里必找到我；劈开木头，我就在那里」，有力地提醒了整个英格兰：日常劳作与基督教训之间有着根本的关系。
+
+然而在赫尔会所的早年，我们绝无陷进玄思或神秘主义迷津的危险；我的一位苏格兰邻居给我的一句恭维话里，倒有一种精明的洞见。他沿波尔克街走来，那时我正站在新健身房的地基旁；他友好地说了句「赫尔会所铺张开了」，我答道「也许我们铺张得太快了」。「哦，不，」他应道，「你们铺得再开也负担得起，你们在泥里扎得这么稳」，不过他瞟了一眼当时尚未铺砌的街上深深的泥泞，把这句恭维落到了实处。正是波尔克街的这副模样，使来访的比利时王储摇头沉吟道：「在比利时全境——不，一条这样的街也没有。」
+
+五年结束时，赫尔会所的居民们把初步查明的事实和我们由此引发的思考，编成一本书出版，名为《赫尔会所地图与论文》。地图取自一位居民为美国劳工局调查「大城市的贫民窟」时收集的资料；各篇论文论述街坊种种事务，纵使不见功力，却也坦诚而出于真切的关怀。第一版两年内即告售罄，而波士顿的出版商显然认为此书不值再版。
