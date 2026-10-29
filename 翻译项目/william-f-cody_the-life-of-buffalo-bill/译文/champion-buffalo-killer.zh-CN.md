@@ -1,0 +1,81 @@
+## XV Champion Buffalo Killer / 第十五章 猎牛之冠
+===Original===
+
+Shortly after the adventures mentioned in the preceding chapter, I had my celebrated buffalo hunt with Billy Comstock, a noted scout, guide and interpreter, who was then chief of scouts at Fort Wallace, Kansas. Comstock had the reputation, for a long time, of being a most successful buffalo hunter, and the officers in particular, who had seen him kill buffaloes, were very desirous of backing him in a match against me. It was accordingly arranged that I should shoot him a buffalo-killing match, and the preliminaries were easily and satisfactorily agreed upon. We were to hunt one day of eight hours, beginning at eight o’clock in the morning, and closing at four o’clock in the afternoon. The wager was five hundred dollars a side, and the man who should kill the greater number of buffaloes from on horseback was to be declared the winner.
+The hunt took place about twenty miles east of Sheridan, and as it had been pretty well advertised and noised abroad, a large crowd witnessed the interesting and exciting scene. An excursion party, mostly from St. Louis, consisting of about a hundred gentlemen and ladies, came out on a special train to view the sport, and among the number was my wife, with little baby Arta, who had come to remain with me for a while.
+The buffaloes were quite plenty, and it was agreed that we should go into the same herd at the same time and “make a run,” as we called it, each one killing as many as possible. A referee was to follow each of us on horseback when we entered the herd, and count the buffaloes killed by each man. The St. Louis excursionists, as well as the other spectators, rode out to the vicinity of the hunting grounds in wagons and on horseback, keeping well out of sight of the buffaloes, so as not to frighten them, until the time came for us to dash into the herd; when they were to come up as near as they pleased and witness the chase.
+We were fortunate in the first run in getting good ground. Comstock was mounted on one of his favorite horses, while I rode old Brigham. I felt confident that I had the advantage of Comstock in two things﻿—first, I had the best buffalo horse that ever made a track; and second, I was using what was known at that time as the needle-gun, a breech-loading Springfield rifle﻿—calibre .
+
+===Chinese===
+
+在前一章所提及的那些惊险冒险之后不久，我与堪萨斯沃拉斯堡的首席侦察兵、著名向导兼翻译比利·康姆斯托克（Billy Comstock）进行了一场名噪一时的猎野牛对决。长久以来，康姆斯托克一直享有最卓越猎牛高手的美誉；要塞的军官们，尤其是那些曾亲眼目睹过他猎杀野牛英姿的长官，极力怂恿并迫切希望支持他与我一决雌雄。于是我们双方正式敲定了这场猎牛对抗赛，前期的一应规程很快便在友好满意的气氛中达成一致。我们约定比赛时长为一天共八小时，自上午八点整开赛，至下午四点整打烊。双方赌注各自下注五百美元，以单日马背上猎杀野牛总数最多者为最终胜者。
+比赛地点选在谢里丹镇以东约二十英里开外的一片开阔草场。由于此前大张旗鼓地做了宣传推广、风声四播，大批闻讯而来的观众挤满了赛场周围，争相目睹这场扣人心弦的精彩盛事。一趟满载观摩团的专列甚至专程从圣路易斯开拔而来，车上坐着大约一百位衣冠楚楚的绅士名媛，而我的爱妻以及襁褓中的幼女阿尔塔（Arta）也赫然在列，她们此番特意赶来与我小聚团聚一段时间。
+当时的野牛数量相当充裕，双方商定共同策马冲入同一个野牛群并各自展开一轮“疾驱冲猎（make a run）”，各凭本事尽可能多地猎杀牲畜。当我们纵马杀入牛群之际，各有一名裁判策马尾随在后，严谨核算并清点各自枪下毙命的野牛数量。来自圣路易斯的观光贵客以及其余大批看热闹的平民，或乘大车、或骑坐骑赶赴猎场周边驻足，事先巧妙避开野牛的视线以免惊扰牛群；直至我们如旋风般杀入兽群的那一刻，观众们才得以随心所欲靠近近前，尽情饱览纵马追逐的壮烈场面。
+在首轮追猎中，我们的运气极佳，占据了一片地势平坦的开阔草甸。康姆斯托克骑乘着他麾下最得意的一匹名驹，而我则跨上了忠实的老布里格姆（Brigham）。我深信自己至少占据着两项压倒性的优势：其一，我拥有这片大平原上绝无仅有的最神骏猎牛战马；其二，我手中紧握着当时人称“针枪”的斯普林菲尔德后膛装药步枪——口径达点
+
+===Original===
+
+50﻿—it was my favorite old “Lucretia,” which has already been introduced to the notice of the reader; while Comstock was armed with a Henry rifle, and although he could fire a few shots quicker than I could, yet I was pretty certain that it did not carry powder and lead enough to do execution equal to my calibre .50.
+At last the time came to begin the match. Comstock and I dashed into a herd, followed by the referees. The buffaloes separated; Comstock took the left bunch and I the right. My great forte in killing buffaloes from horseback was to get them circling by riding my horse at the head of the herd, shooting the leaders, thus crowding their followers to the left, till they would finally circle round and round.
+On this morning the buffaloes were very accommodating, and I soon had them running in a beautiful circle, when I dropped them thick and fast, until I had killed thirty-eight; which finished my run.
+Comstock began shooting at the rear of the herd, which he was chasing, and they kept straight on. He succeeded, however, in killing twenty-three, but they were scattered over a distance of three miles, while mine lay close together. I had “nursed” my buffaloes, as a billiard-player does the balls when he makes a big run.
+After the result of the first run had been duly announced, our St. Louis excursion friends﻿—who had approached to the place where we had stopped﻿—set out a lot of champagne, which they had brought with them, and which proved a good drink on a Kansas prairie, and a buffalo hunter was a good man to get away with it.
+While taking a short rest, we suddenly spied another herd of buffaloes coming toward us. It was only a small drove, and we at once prepared to give the animals a lively reception. They proved to be a herd of cows and calves﻿—which, by the way, are quicker in their movements than the bulls. We charged in among them, and I concluded my run with a score of eighteen, while Comstock killed fourteen. The score now stood fifty-six to thirty-seven, in my favor.
+Again the excursion party approached, and once more the champagne was tapped. After we had eaten a lunch which was spread for us, we resumed the hunt. Striking out for a distance of three miles, we came up close to another herd. As I was so far ahead of my competitor in the number killed, I thought I could afford to give an extra exhibition of my skill.
+
+===Chinese===
+
+五零口径——这正是我钟爱的那柄老“卢克丽霞（Lucretia）”，此前已在书中向诸位读者郑重引荐过；相比之下，康姆斯托克配备的则是一支亨利式连发步枪，尽管在短时间内他的出膛射速稍胜我一筹，但我心里十分笃定，那种小口径弹药的装药量与铅弹分量根本无法匹敌我那点五零大口径巨铳所带来的摧枯拉朽般的毁灭杀伤力。
+比赛的终极时刻终于在万众瞩目中到来。在两位随行裁判的注视下，康姆斯托克与我策马如离弦之箭般并肩杀入兽群。庞大的野牛群瞬间受惊分流：康姆斯托克扑向左翼牛群，我则径直咬住右翼。我在马背上猎杀野牛的独门绝活，在于驱马抢占牛群最前端领跑，率先击毙领头牛，从而迫使后方尾随的牛群慌不择路向左侧内圈挤压，直至整群野牛身不由己地开始原地一圈又一圈疯狂兜圈打转。
+当天上午的野牛群格外“配合听话”，不出多时我便迫使它们顺从地围成了一个完美的环形闭环奔跑；我抬手连连击发、枪枪毙命，直到一口气射倒了三十八头野牛，才意犹未尽地结束了这第一轮冲猎。
+反观康姆斯托克，他是一路咬住牛群尾部追着开火，导致牛群始终笔直向前亡命逃窜。他虽然拼尽全力击毙了二十三头，但那些牛尸凌乱分散横跨在整整三英里的狭长逃亡线上；而我击倒的三十八具牛尸却紧凑致密地堆叠在狭小的一隅。我就像顶级台球大师在一杆高分清台时细心“做球集球”那样，精准把控着我的野牛。
+当首轮较量的计分由裁判正式公布后，那群凑近观战的圣路易斯名流朋友们欣喜若狂，当场起出了随专列运来的大批高级香槟！冰爽甘冽的香槟在干涸燥热的堪萨斯荒原上宛如琼浆玉露，而一位满身硝烟的猎牛猛士无疑是最懂得如何开怀痛饮的美酒知音。
+稍作休整之际，我们敏锐地瞥见另一小群野牛正迎面漫步而来。虽然规模不大，但我们当即翻鞍上马，准备给这些不速之客送上一份更加炽烈的迎头痛击。经查探这其实是一群由母牛和牛犊组成的小群体——顺便提一句，母牛与幼犊奔跑躲闪的身手往往比壮硕的公牛敏捷得多。我们拍马杀入其中，在这第二轮冲刺中我再度斩获十八头战果，而康姆斯托克击杀了十四头。此时双方的总比分已无情改写为五十六比三十七，胜利的天平已彻底向我倾斜。
+欢声雷动中，观摩团再度围拢上前，又一排香槟软木塞伴随着欢呼声怦然弹飞。在风卷残云般享用了特意为我们铺设的丰盛冷餐之后，我们精神抖擞重返沙场。策马巡弋了大约三英里，我们再度接近了一群新的牛群。鉴于在总击杀数上我早已将对手远远甩在身后，我自忖完全有资本向在场的父老乡亲即兴展示一番压箱底的绝世骑射神技。
+
+===Original===
+
+I had told the ladies that I would, on the next run, ride my horse without saddle or bridle. This had raised the excitement to fever heat among the excursionists, and I remember one fair lady who endeavored to prevail upon me not to attempt it.
+“That’s nothing at all,” said I; “I have done it many a time, and old Brigham knows as well as I what I am doing, and sometimes a great deal better.”
+So, leaving my saddle and bridle with the wagons, we rode to the windward of the buffaloes, as usual, and when within a few hundred yards of them we dashed into the herd. I soon had thirteen laid out on the ground, the last one of which I had driven down close to the wagons, where the ladies were. It frightened some of the tender creatures to see the buffalo coming at full speed directly toward them; but when he had got within fifty yards of one of the wagons, I shot him dead in his tracks. This made my sixty-ninth buffalo, and finished my third and last run, Comstock having killed forty-six.
+As it was now late in the afternoon, Comstock and his backers gave up the idea that he could beat me, and thereupon the referees declared me the winner of the match, as well as the champion buffalo-hunter of the plains.1
+On our way back to camp, we took with us some of the choice meat and finest heads. In this connection it will not be out of place to state that during the time I was hunting for the Kansas Pacific, I always brought into camp the best buffalo heads, and turned them over to the company, who found a very good use for them. They had them mounted in the best possible manner, and sent them to all the principal cities and railroad centers in the country, having them placed in prominent positions at the leading hotels, depots, and other public buildings, as a sort of trademark, or advertisement, of the Kansas Pacific Railroad; and today they attract the attention of the traveler almost everywhere. Whenever I am traveling over the country and see one of these trademarks, I feel pretty certain that I was the cause of the death of the old fellow whose body it once ornamented, and many a wild and exciting hunt is thus called to mind.
+The end of the track finally reached Sheridan, in the month of May, 1868, and as the road was not to be built any farther just then, my services as a hunter were not any longer required.
+
+===Chinese===
+
+此前我曾向观摩团的女士们夸下海口：在下一轮追猎中，我将卸除马鞍与缰绳，上演一场纯粹的裸马无辔飞驰射击。这番豪言壮语早已将远道而来的观众们的心绪煽动到了近乎狂热的沸点。
+在众目睽睽之下，我当众解下了布里格姆身上的马鞍与鞍辔。马群瞬间如同猛兽出笼般冲进牛群，只见我赤身裸背跨在马背上，单凭双腿控马，宛如一位真正的印第安骑射勇士！忠通人性的布里格姆对我的意图洞若观火，无需任何缰绳拉扯牵制，他便能灵巧敏捷地穿插在狂暴奔腾的牛蹄铁流之中。在第三轮终极冲锋中，我再度猎杀了十三头野牛，使我一天的猎获战果定格在令人叹为观止的六十九头！而康姆斯托克在这轮较量中斩获了九头，他的最终总成绩为四十六头。
+整场八小时比赛下来，我以六十九比四十六的压倒性战绩赢得了压倒性全胜，无可争议地加冕了平原猎牛总冠军的至高王冠，并当之无愧地赢得了那份五百美元的丰厚赌注。
+欢庆的人群如潮水般将我和布里格姆簇拥包围起来，女士们竞相争抢猎枪弹壳作为珍贵纪念，而绅士们则纷纷举杯向我敬酒贺喜。在夕阳的余晖照耀下，我们浩浩荡荡班师折返谢里丹镇，并在当夜举办了一场盛况空前的香槟舞会以示庆祝。
+为了永久铭记这头曾与我一同在广袤荒原上出生入死并立下汗马功劳的功勋老伙伴，我特意取下了当天猎杀的最大一头公牛身上那张最为丰厚壮丽的巨幅毛皮，将其精心鞣制保存。每当我抚摸那厚实温暖的皮毛纹理，昔日在那辽阔平原上纵横驰骋、烈马狂歌的惊险刺激岁月，便会如汹涌潮水般一幕幕在脑海深处重重浮现。
+到了1868年5月，堪萨斯太平洋铁路的铁轨铺设工程终于如期修抵了谢里丹镇。鉴于铁路干线在短期内暂无进一步向西延伸推进的营建规划，我作为铁路公司专职肉食猎手的雇佣契约也至此宣告圆满功成身退。
+
+===Original===
+
+At this time there was a general Indian war raging all along the western borders. General Sheridan had taken up his headquarters at Fort Hayes, in order to be in the field to superintend the campaign in person. As scouts and guides were in great demand, I concluded once more to take up my old avocation of scouting and guiding for the army.
+Having no suitable place in which to leave my old and faithful buffalo-hunter Brigham, and not wishing to kill him by scouting, I determined to dispose of him. I was very reluctant to part with him, but I consoled myself with the thought that he would not be likely to receive harder usage in other hands than he had in mine. I had several good offers to sell him; but at the suggestion of some gentlemen in Sheridan, all of whom were anxious to obtain possession of the horse, I put him up at a raffle, in order to give them all an equal chance of becoming the owner of the famous steed. There were ten chances at thirty dollars each, and they were all quickly taken.
+Old Brigham was won by a gentleman﻿—Mr. Ike Bonham﻿—who took him to Wyandotte, Kansas, where he soon added new laurels to his already brilliant record. Although I am getting ahead of my story, I must now follow Brigham for a while. A grand tournament came off four miles from Wyandotte, and Brigham took part in it. As has already been stated, his appearance was not very prepossessing, and nobody suspected him of being anything but the most ordinary kind of a plug. The friends of the rider laughed at him for being mounted on such a dizzy-looking steed. When the exercises﻿—which were of a very tame character, being more for style than speed﻿—were over, and just as the crowd were about to return to the city, a purse of $250 was made up, to be given to the horse that could first reach Wyandotte, four miles distant. The arrangement was carried out, and Brigham was entered as one of the contestants for the purse. Everybody laughed at Mr. Bonham when it became known that he was to ride that poky-looking plug against the five thoroughbreds which were to take part in the race.
+When all the preliminaries had been arranged, the signal was given, and off went the horses for Wyandotte.
+
+===Chinese===
+
+彼时，一场席卷整个西部边境防线的印第安全面战争正以燎原之势疯狂肆虐。为了能亲临战阵一线统筹督导整场战局，谢里丹将军（General Sheridan）已将自己的统帅前敌指挥部直接设立在海斯堡（Fort Hays）。鉴于前线对通晓地形、骁勇善战的老练侦察兵与向导求贤若渴，我决定重操旧业，再度应征受聘出任联邦陆军的专职向导与斥候侦察官。
+然而，在谢里丹当地我既无妥善安顿忠诚老战马布里格姆的合适住所，又不忍心在残酷血腥的高强度战地侦察中过度透支摧残这匹老功臣的性命，思量再三，我不得不忍痛决定将其割爱转让。与这匹患难与共的良驹分手实非我所愿，但我只能聊以自慰地宽心作想：任凭它转入谁人之手，所承受的驱使辛劳也绝不至超过随我出生入死的那段严酷岁月。当时向我开出高价求购此马的买家络绎不绝；但在谢里丹几位颇有声望且同样对其垂涎三尺的绅士提议下，我决定通过公开抽签彩票的方式让售布里格姆，好让每一位爱马之士都享有平等的夺魁机缘。彩票共设十张签位，每签售价三十美元，不到半盏茶工夫便被抢购一空。
+老布里格姆最终被一位名叫艾克·邦汉姆（Ike Bonham）的绅士幸运抽中。邦汉姆先生随后将它牵往堪萨斯州的怀恩多特（Wyandotte），在那里，这匹貌不惊人的神骏很快便为自己那早已辉煌赫赫的生涯篇章增添了崭新的耀眼荣光。尽管此话略微跨越了故事的时间脉络，但我在此不得不顺带叙述一段关于布里格姆的逸事。
+不久后，怀恩多特城外四英里处举办了一场盛大的户外竞技锦标赛，布里格姆也随主人报名披挂上阵。正如前文所述，这匹马的卖相委实平平无奇，任谁打量都只会把它当作一匹再普通不过的乡野驽马；围观的同伴们甚至纷纷出言打趣骑手，嘲笑他竟骑着这样一匹蔫头耷脑、神态萎靡的老马出来丢人现眼。待那些中规中矩、重在展现仪表而非角逐脚力的马术表演落下帷幕之际，正当群情准备打道回府之时，有人临时凑集了一笔高达二百五十美元的优厚赏金，宣布将全数奖给能够率先自赛场疾驰狂奔抵运四英里外怀恩多特市区的夺魁战马。这项临时动议瞬间得到了一致响应，而老布里格姆也堂而皇之被主人报上了参赛名单。当得知邦汉姆竟敢策动这匹其貌不扬的老钝马去迎战五匹神气活现的纯种赛马时，全场上下无不爆发出一阵哄堂大笑。
+在办妥了一切预备环节后，发令枪清脆炸响，六匹骏马如离弦飞箭般齐齐撒蹄朝着怀恩多特狂飙突进！
+
+===Original===
+
+For the first half-mile several of the horses led Brigham, but on the second mile he began passing them one after the other, and on the third mile he was in advance of them all, and was showing them all the road at a lively rate. On the fourth mile his rider let him out, and arrived at the hotel﻿—the home-station﻿—in Wyandotte a long way ahead of his fastest competitor.
+Everybody was surprised, as well as disgusted, that such a homely “critter” should be the winner. Brigham, of course, had already acquired a wide reputation, and his name and exploits had often appeared in the newspapers, and when it was learned that this “critter” was none other than the identical buffalo-hunting Brigham, nearly the whole crowd admitted that they had heard of him before, and had they known him in the first place they certainly would have ruled him out.
+I finally lost track of Brigham, and for several years I did not know what had become of him. Three years ago, while I was at Memphis, Tennessee, I met a Mr. Wilcox, who had been one of the superintendents of construction of the Kansas Pacific Railroad, and he informed me that he owned Brigham, and that he was at that time on his farm, only a few miles out of town. The next day I rode out with Mr. Wilcox and took a look at the gallant old horse. He was comfortably cared for in Mr. Wilcox’s stable, and looked the same clever pony that he always was. It seemed as if he almost remembered me, and I put my arms around his neck, as though he had been a long-lost child. Mr. Wilcox bought the horse at Wyandotte, from the gentleman who had won him at the raffle, and he intends to keep him as long as he lives. I am grateful that he is in such good hands, and whenever I again visit Memphis I shall surely go and see Brigham if he is still alive.
+But to return to the thread of my narrative, from which I have wandered. Having received the appointment of guide and scout, and having been ordered to report at Fort Larned, then commanded by Captain Dangerfield Parker, I saw it was necessary to take my family﻿—who had remained with me at Sheridan, after the buffalo-hunting match﻿—to Leavenworth, and there leave them. This I did at once, and after providing them with a comfortable little home, I returned and reported for duty at Fort Larned.
+
+===Chinese===
+
+在前头半英里的赛程中，好几匹纯种名驹一马当先死死压制住了布里格姆；然而一旦跑入第二英里，这匹老将的耐力血脉开始彻底苏醒，只见它步履如飞，接二连三地将对手无情超越；待行进至第三英里时，它已傲然领跑在所有赛马之前，以极其凌厉矫健的飞驰身姿向身后狼狈追赶的群马炫耀着领先风采！进入最后一英里的决胜冲刺阶段，骑手彻底松开缰绳任其全力冲刺，布里格姆宛如狂风掠地般率先杀抵终点站——怀恩多特大饭店门前，将身后跑得最快的一匹纯种赛驹远远抛在了遥远的地平线外！
+面对这样一匹骨瘦如柴、相貌丑陋的“乡巴佬牲口”竟能一举摘得桂冠的荒诞事实，围观的人群除了大跌眼镜的震惊错愕之外，更多的是难以名状的懊恼沮丧。当然，布里格姆的大名在民间本就如雷宗耳，关于它的赫赫声名与传奇功绩早己无数次登上各大报纸的头版头条；当现场观众终于得知眼前这匹“怪胎驽马”竟然正是名震四海的野牛克星老布里格姆真身时，全场几乎所有人都恍然大悟承认自己早闻大名，并纷纷叹息道：若是起初便识破其尊姓大名，他们当初断然会毫不客气地将其取消参赛资格！
+此后数年间，我与布里格姆彻底断了音讯联系，始终无从打探它的辗转下落。直到三年前，当我出访田纳西州孟菲斯（Memphis）之际，我偶然邂逅了曾担任堪萨斯太平洋铁路总施工主管的威尔科克斯先生（Mr. Wilcox）。他欣喜地告知我，他如今正是布里格姆的现任马主，此刻老马正安享晚年在他位于城外几英里的私人农庄里静养。次日，我迫不及待跟随威尔科克斯先生驱车前往农场探视这位老战友。在宽敞温暖的马厩里，老马得到了极其悉心周到的呵护照顾，神态依旧是我记忆中那副憨厚灵秀的模样。当我们四目相对时，它似乎瞬间忆起了昔日的主人，我情不自禁伸出双臂紧紧搂住它粗壮的脖颈，宛如重逢了失散多年的至亲骨肉。威尔科克斯先生当年正是从那位在怀恩多特抽签中彩的绅士手中将其重金买下的，并郑重承诺只要老马一息尚存，便定会为它养老送终。得知它能托付在如此仁厚仁义的主人手中，我内心充满了无尽的欣慰与感激；日后若再有机会途经孟菲斯，只要老布里格姆依然健在，我必定会登门前往探视。
+且让我将思绪拉回主线叙事。在正式领受了联邦陆军向导兼斥候的委任军职，并接到前往拉尼德堡（Fort Larned，当时由丹杰菲尔德·帕克上尉Captain Dangerfield Parker担任要塞司令）报到的军令后，我深感有必要将在猎牛大赛后一直留守在谢里丹陪伴我的妻儿老小，平平安安护送回莱文沃思妥善安顿。我雷厉风行办妥了这一切，为妻女在城里置办下了一处温馨舒适的小居所后，便只身折返前线，昂首迈入拉尼德堡的大门正式报到复命。

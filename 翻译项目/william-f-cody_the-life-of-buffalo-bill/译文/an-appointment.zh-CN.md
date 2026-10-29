@@ -1,0 +1,66 @@
+## XVII An Appointment / 第十七章 领受任命
+===Original===
+
+General Sheridan highly complimented me for what I had done, and informed me that I need not report back to General Hazen, as he had more important work for me to do. He told me that the Fifth Cavalry﻿—one of the finest regiments in the army﻿—was on its way to the Department of the Missouri, and that he was going to send it on an expedition against the Dog Soldier Indians, who were infesting the Republican River region.
+“Cody,” continued he, “I have decided to appoint you as guide and chief of scouts with the command. How does that suit you?”
+“First-rate, General, and I thank you for the honor,” I replied, as gracefully as I knew how.
+The Dog Soldier Indians were a band of Cheyennes and unruly, turbulent members of other tribes, who would not enter into any treaty, or keep a treaty if they made one, and who had always refused to go upon a reservation. They were a warlike body of well-built, daring and restless braves, and were determined to hold possession of the country in the vicinity of the Republican and Solomon Rivers. They were called “Dog Soldiers” because they were principally Cheyennes﻿—a name derived from the French *chien*, a dog.
+After my conversation with the General, I went over to Hays City, where I met some of General Forsyth’s scouts, who had just returned from one of the severest battles ever fought with the Indians. As it will not be out of place in this connection, I will here give a brief history of that memorable event.
+The Indians had become quite troublesome, and General Sheridan had selected General George A. Forsyth to go out on an expedition, and punish them for their recent depredations. There was a scarcity of troops at Fort Hays at that time, so General Forsyth recruited a company of frontiersmen who could move rapidly, as they were to carry no luggage, and were to travel without the ordinary transportation. Thirty of these frontiersmen came from Fort Harker, and twenty from Fort Hays. It was certainly a small body of men, but nearly every one of them was an experienced hunter, guide, scout and Indian-fighter, and they could fight the redskins in their own way.
+In four days they were prepared to take the field, and on the morning of the 29th of August, 1868, they rode out of Fort Hays to meet the Indians. Lieutenant F. H. Beecher, of the Third Infantry, nephew of Henry Ward Beecher, was second in command; Brevet Major-General W.
+
+===Chinese===
+
+谢里丹将军（General Sheridan）对我此前的建树功勋给予了极高赞誉，并郑重通报我说我无需再向黑曾将军（General Hazen）报到复命，因为他手头有一项更为重大的紧迫使命要托付于我。他告诉我，全军最精锐的骑兵劲旅之一——第五骑兵团——正兼程赶往密苏里军区，他准备派遣该团出征，讨伐在里帕布利肯河流域大肆滋事劫掠的“狗兵”（Dog Soldier）印第安人。
+“科迪，”将军接着说道，“我已决意任命你为该远征军的总向导兼侦察兵总指挥。不知你意下如何？”
+“这再好不过了，将军，承蒙长官厚爱，我由衷深感荣幸。”我倾尽所能以最得体优雅的仪态回答道。
+所谓的“狗兵”印第安人，是由夏安族（Cheyennes）勇士以及其他部落中桀骜不驯、冥顽不灵的亡命之徒组成的一帮极端好战悍匪。他们绝不肯签署任何和平条约，即便签了字也撕毁协议绝不遵守，且长久以来誓死拒绝迁入印第安保留地。他们是一帮体魄魁梧强健、悍勇无畏、桀骜不驯的善战勇士，誓死要牢牢霸占里帕布利肯河与所罗门河流域的辽阔土地。他们之所以被称为“狗兵”，主要是因为他们绝大多数属于夏安人——夏安这一名称源自法文词汇*chien*，意为“狗”。
+与将军谈完话后，我信步前往海斯城，在那里偶遇了福赛斯将军（General Forsyth）麾下的几名幸存侦察兵，他们刚刚从印第安战史上最为惨烈悲壮的一场绝地血战中死里逃生归来。借此机会，在此记录下那场震撼边疆的著名战役的简短始末，倒也恰如其分。
+鉴于当时印第安人的犯境劫掠愈演愈烈，谢里丹将军特命乔治·A·福赛斯将军率部出征，狠狠惩戒他们近期的烧杀暴行。当时海斯堡驻军严重短缺，于是福赛斯将军在民间紧急招募了一支轻装机动的边疆民团，要求他们不携带任何沉重行李、完全脱离常规大车辎重补给，以便全速急行军追剿残敌。这支精锐民团中有30人来自哈克堡，20人来自海斯堡。这支队伍虽说满打满算仅有50人，但几乎人人都是身经百战的荒原老猎手、向导、侦察兵与印第安作战老手，个个精通如何用红皮肤土著自己的战术去消灭敌人。
+在短短四天之内他们便整装待发，于1868年8月29日清晨昂首策马开出海斯堡迎击印第安人。第三步兵团的F·H·比彻中尉（Lieutenant F. H. Beecher）——大名鼎鼎的亨利·沃德·比彻（Henry Ward Beecher）牧师的亲侄子——担任副统帅；名誉少将W·
+
+===Original===
+
+H. H. McCall, who had been in the volunteer army, acted as first sergeant; Dr. John Mowers, of Hays City, who had been a volunteer army surgeon, was the surgeon of the expedition; and Sharpe Grover was the chief guide.
+Resting at Fort Wallace, they started September 10th, for the town of Sheridan, thirteen miles distant, where a band of Indians had attacked a train, killed two teamsters, and stolen some cattle. Arriving at Sheridan they easily found the Indian trail, and followed it for some distance. On the eighth day out from Fort Wallace, the command went into camp late in the afternoon, on the Arickaree, which was then not more than eight or nine feet wide at that point, and only two or three inches deep. It was evident to the men that they were not far from the Indians, and it was decided that the next day they would find them and give them a fight.
+Early next morning, September 19th, the cry of “Indians” startled the command. Every man jumped for his horse. A half-dozen redskins, yelling and whooping and making a hideous racket, and firing their guns, rode up and attempted to stampede the horses, several of which, together with the four pack-mules, were so frightened that they broke loose and got away. The Indians then rode off, followed by a few shots. In a minute afterwards, hundreds of Indian warriors﻿—it was estimated that there were nearly one thousand﻿—came galloping down upon the command from every quarter, completely hemming them in.
+Acting under the order of General Forsyth, the men retreated to a small island, tied their horses in a circle to the bushes, and then, throwing themselves upon the ground, they began the defense by firing at the approaching enemy, who came pretty close and gave them a raking fire. The besieged scouts at the first opportunity threw up a small breastwork with their knives. The firing, however, continued back and forth, and early in the fight Forsyth was twice seriously wounded﻿—once in the right thigh, and once in the left leg. Dr. Mowers was also wounded in the head, and soon died. Two other men had been killed, and several wounded. All the horses of the command were killed by nine o’clock in the morning.
+
+===Chinese===
+
+曾服役于志愿军团的H·H·麦考尔（H. H. McCall）担任第一军士；海斯城名医、前志愿军军医约翰·莫尔斯医生（Dr. John Mowers）受聘担任远征队军医；而夏普·格罗弗（Sharpe Grover）则出任首席向导。
+在沃拉斯堡休整后，他们于9月10日拔营奔赴相距13英里外的谢里丹镇，此前一伙印第安暴徒袭击了当地的大车队，残忍杀害了两名车夫并劫走了一批耕牛。抵运谢里丹后，他们毫不费力便截获了敌人的足迹并一路紧追不舍。从沃拉斯堡出发后的第8天傍晚，部队在阿里卡里河（Arickaree）畔扎下了营寨；当时的阿里卡里河水流极其狭窄浅显，河面宽不过八九英尺，水深仅有两三英寸。官兵们心知肚明敌人已近在咫尺，遂敲定计划次日拂晓务必寻获敌踪与其决一死战。
+次日清晨，即9月19日拂晓，一声凄厉的“印第安人杀来啦！”惊醒了整座军营。所有人一个鲤鱼打挺翻身扑向战马。半打印第安狂徒一边放声怪叫狂呼，一边举枪乱射，策马猛冲营地企图惊骇冲散战马群；几匹战马连同4头驮骡在极度惊恐中挣断缰绳落荒而逃。印第安人随即勒马后撤，官兵们抬手还击了几枪。然而仅仅一分钟之后，数以百计的印第安狂暴骑兵——据推测足有近千人之众——如决堤山洪般从四面八方向这支孤军席卷冲杀而来，将他们团团包围得水泄不通。
+在福赛斯将军的果断指挥下，队员们临危不乱退守到河道当中的一处狭长小沙洲上，把战马围成一个圆形圆圈死死拴在灌木丛干上；随后全员卧倒在泥滩草丛中，举枪猛烈开火还击，顽强阻击自四面八方疯狂包抄压上、倾泻密集排枪的汹涌敌潮。受困的侦察兵们争分夺秒拔出随身猎刀挖掘沙土，抢筑了一道简易的胸墙掩体。然而交火极其惨烈，在战斗打响后不久，福赛斯将军便身负重伤连中两弹——一枪射穿右大腿，另一枪重创左小腿。莫尔斯医生脑部不幸中弹，不久便饮恨牺牲。另有两名队员当场阵亡，数人身负重伤。到了上午9点钟整，全队所有的坐骑战马已尽数中弹倒毙在血泊之中。
+
+===Original===
+
+Shortly afterwards over three hundred Dog-Soldier Indians commanded by old “Roman Nose,” charged down upon the little band of heroes, giving them volley after volley; but finally the scouts, at a favorable opportunity, returned their fire with telling effect. “Roman Nose” and “Medicine Man” were killed, and fell from their horses when within less than one rod of the scouts, who thereupon sent up a triumphant shout. The charging braves now weakened, and in a few moments they were driven back. It was a brilliant charge, and was most nobly and bravely repulsed. The scouts had again suffered severely, having several men wounded, among the number being Lieutenant Beecher who died that night. The Indians, too, had had quite a number killed, several of whom had fallen close to the earthworks. The dismounted Indian warriors still continued firing, but as the scouts had thrown up their entrenchments sufficiently to protect themselves by closely hugging the ground, little or no damage was done.
+A second charge was made by the mounted Indians about two o’clock in the afternoon, and they were again repulsed with a severe loss. Darkness finally came on, and then ensued a cessation of hostilities. Two of the scouts had been killed, four fatally wounded, and fourteen others were wounded more or less severely. There were just twenty-eight able-bodied men left out of the fifty. The supplies had run out, and as Dr. Mowers had been mortally wounded and the medical stores captured, the wounded men could not be properly cared for.
+Although they were entirely surrounded, and one hundred and ten miles from the nearest post, the men did not despair. They had an abundance of ammunition, plenty of water, underground only a short distance, and for food they had their horses and mules. At night two of the scouts, Tradeau and Stillwell, stole through the lines of the Indians, and started swiftly for Fort Wallace to obtain relief. It was a dangerous undertaking, but they were brave and experienced scouts. Stillwell was only nineteen or twenty years old, but he was, in every sense of the word, a thoroughbred frontiersman.
+During the night the besieged scouts threw up their breastworks considerably higher and piled the dead animals on top. They dug down to water, and also stored away a lot of horse and mule meat in the sand to keep it fresh as long as possible.
+
+===Chinese===
+
+不久之后，由凶名赫赫的老酋长“罗马鼻”（Roman Nose）亲自挂帅督战的300多名“狗兵”主力骑兵，如排山倒海之势猛扑这群受困沙洲的孤胆英雄，排枪如暴雨般一轮紧接着一轮倾泻而下；然而在这生死关头，侦察兵们沉着应战，抓住敌骑迫近的绝佳战机，同时开火倾泻出了致命而精准的毁灭性排枪。“罗马鼻”与其副手“巫医”（Medicine Man）双双中弹，在距离沙洲掩体不足一杆（rod，约5米）之遥的马背上应声轰然栽倒在地；见敌酋落马，守军顿时爆发出震天动地的胜利欢呼！这轮疯狂冲锋的印第安勇士阵脚大乱、斗志瓦解，片刻之内便被凶猛的火力硬生生打了回去。这是一场气壮山河的悲壮冲锋，更是一场被英雄们以无双壮烈与崇高英勇彻底粉碎的伟大防御战。然而侦察兵们同样付出了极度惨重的代价，数人负伤，其中比彻中尉因伤势过重于当晚壮烈殉职。印第安人同样伤亡惨重，多具敌尸横七竖八散落在掩体近前。失去马匹的印第安散兵依旧在四周持续放冷枪，但由于侦察兵们抢筑的沙土工事已足够深厚，只要全员紧紧贴地卧倒，敌人的冷枪便几乎造不成什么实质伤亡。
+当天下午两点钟左右，印第安骑兵再度发起了第二轮绝望冲锋，再度遭到迎头痛击被打退，丢下了惨重尸首。夜幕终于深沉降临，战火暂时平息。全队已有两人阵亡、四人伤重垂危，另有十四人受不同程度轻重伤。在最初的50名好汉中，仅仅剩下28人尚能荷枪实弹继续作战。全队的干粮物资早已告罄，随着莫尔斯医生阵亡、医药箱落入敌手，大批负伤将士根本无法得到像样的止血救治。
+尽管全员陷入了重重包围，距离最近的军事哨所足有110英里之遥，但英雄们从未丧失求生的希望与斗志。他们手头的弹药储备十分充足；地下水就在沙滩表层数英寸之下，随手可掘；而至于糊口的干粮，遍地倒毙的战马与骡子尸首便是充饥的肉食。夜深人静之际，特鲁多（Tradeau）与斯蒂尔韦尔（Stillwell）两名老练侦察兵借着夜色悄悄潜行穿透了印第安人的重重包围圈，风驰电掣般直奔沃拉斯堡拼死求援。这是一趟九死一生的绝命壮举，但二人个个是智勇双全的顶尖侦察兵。斯蒂尔韦尔当年虽仅有十九二十岁上下，却是一位在任何意义上都堪称万里挑一的纯正荒原硬汉。
+在漫漫长夜中，受困的侦察兵们合力将胸墙掩体大幅加高，把阵亡的马骡尸首层层码放在掩体顶端充当防弹护墙。他们向下挖出水井取水，并将大批战马与骡肉深埋在冰凉的沙土深处，尽可能延长其保鲜时间。
+
+===Original===
+
+The Indians renewed their firing next morning, and kept it up all day, doing but little injury, however, as the scouts were now well entrenched; but many an Indian was sent to his happy hunting ground.
+Night came again, and the prospects were indeed gloomy. An attempt was made by two more of the scouts to creep through the Indian lines, but they were detected by the enemy and had to return to their comrades. The next morning the Indians renewed hostilities as usual. Their women and children began to disappear about noon, and then the Indians tried to draw the scouts out by displaying a white flag for a truce. They appeared to want to have a talk with General Forsyth, but as their treachery was well-known, the scouts did not fall into this trap. The Indians had apparently become tired of fighting, especially as they found that they had a most stubborn foe to deal with.
+Night once more threw its mantle over the scene, and under the cover of the darkness Donovan and Plyley, two of the best scouts, stealthily made their way out of the camp, and started for Fort Wallace with a dispatch from General Forsyth, who gave a brief summary of the situation, and stated that if necessary he could hold out for six days longer.
+When the day dawned again, only a small number of warriors could be seen, and they probably remained to watch the scouts and keep them corraled. The uninjured men attended to the wounded as well as they could under the adverse circumstances, but from want of proper treatment, evidences of gangrene appeared in some of the wounds on the sixth day. The mule and horse meat became totally unfit for use, but they had nothing else to eat, and had to eat it or starve. Under these trying circumstances the General told the men that any who wished to go might do so, and take their chances; but they all resolved to remain, and die together, if need be.
+Relief came at last. Tradeau and Stillwell had safely reached Fort Wallace, and on the morning of the 25th of September, Colonel Carpenter and a detachment of cavalry arrived with supplies. This assistance to the besieged and starving scouts came like a vessel to shipwrecked men drifting and starving on a raft in mid-ocean.
+It was with the survivors of this terrible fight that I spent the few days at Hays City, prior to the arrival of the Fifth Cavalry.
+
+===Chinese===
+
+次日清晨，印第安人再度拉开阵势发起猛烈枪战，整整打了一整天；然而由于守军工事深固，并未造成什么伤亡，反倒有许多印第安凶徒在精准还击下被送往了他们的“快乐狩猎场”。
+夜幕再度低垂，前途可谓暗无天日、凶险至极。又有两名勇敢的侦察兵企图趁夜色潜行穿透敌阵突围求援，然而不幸被警惕的敌人察觉，被迫原路折返回阵地。第三天清晨，印第安人照旧如期开火围攻。到了正午时分，围攻阵地上的印第安妇女和孩童开始悄悄撤离消失，随后印第安人竟然打起了一面象征休战谈判的白旗，妄图诱骗守军走出掩体。他们摆出一副希望能与福赛斯将军当面和谈的姿态，但鉴于这帮生番反复无常的背信弃义早已恶名远扬，侦察兵们丝毫没有咬钩中计。久攻不下的印第安人显然早已打得精疲力竭、斗志全无，尤其是他们痛苦地意识到自己撞上了一群硬得连牙都能崩碎的钢铁劲敌。
+夜幕再度如黑纱般笼罩了这片血腥战场，在浓黑夜色的严密掩护下，多诺万（Donovan）与普莱利（Plyley）这两名全队最顶尖的侦察兵悄无声息潜行摸出营地，怀揣福赛斯将军的亲笔加急求援信直奔沃拉斯堡——将军在信中简明扼要汇报了危急军情，并坚定地表示倘若形势所需，自己率部至少还能在这座孤岛上死守坚持六天！
+当黎明再度破晓之际，旷野上只剩下极少数的敌方斥候在游弋监视，这帮人留守在此显然只是为了盯死残局防止守军突围。未曾负伤的弟兄们在极度恶劣的环境下尽其所能照料看护着伤员；然而由于缺乏最基本的消炎救治药物，到了被困第6天，部分伤员的伤口不可避免地开始出现坏疽溃烂。原本深埋沙中的马肉与骡肉彻底腐败变质恶臭难闻，但在断粮绝境下大家别无选择，要么硬着头皮吞下腐肉，要么就只能活活饿死。面对如此绝望严酷的生死折磨，将军痛心地对全员宣告：任何人只要愿意冒险突围逃生，大可自行决断碰碰运气；然而全军将士众志成城，誓言生死相依共同坚守到底，纵然同归于尽也绝不苟且偷生！
+援军终于天降神兵般杀到了！特鲁多与斯蒂尔韦尔历经千难万险平安赶抵沃拉斯堡；在9月25日清晨，卡彭特上校（Colonel Carpenter）率领一支全副武装的骑兵突击纵队携带着急救给养如疾风般风驰电掣杀入战场！对于这群身陷重围、饥寒濒死的受难英雄而言，这批从天而降的救命给养，宛如一艘搭救在茫茫大洋中心绝望漂流、濒死受困木筏之上的遇难水手的方舟巨舰！
+在第五骑兵团整编开赴前线之前，我正是与这群历经这场惊天地泣鬼神绝地血战的幸存孤胆英雄们，在海斯城共同度过了数日难忘的相聚时光。
