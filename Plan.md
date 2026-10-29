@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-27，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-10-28，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **488** 完 / **33** 译 / **126** 待（共 647 本） | **10523** / 18180 篇（**169592.0** / 305863.1 KB）· **55.4%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **36** 本待审 | 覆盖精读 **452** 本（**92.6%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **488** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **488** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **492** 完 / **30** 译 / **125** 待（共 647 本） | **10591** / 18180 篇（**170505.2** / 305863.1 KB）· **55.7%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **40** 本待审 | 覆盖精读 **452** 本（**91.9%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **492** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **492** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **488** 本译完，**452** 本完成独立审校，**488** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **492** 本译完，**452** 本完成独立审校，**492** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -285,7 +285,7 @@
 | 260 | `george-du-maurier_trilby` | ✅ 已入库 | ⚪ 待译 (9篇) | — | — |  |
 | 261 | `george-eliot_daniel-deronda` | ✅ 已入库 | ⚪ 待译 (82篇) | — | — |  |
 | 262 | `george-grey_polynesian-mythology` | ✅ 已入库 | [✅ **100%**](翻译项目/george-grey_polynesian-mythology/译文) (29篇) | ⏳ 待审 | [📦 391KB](翻译项目/george-grey_polynesian-mythology/波利尼西亚神话与古俗.epub) | 已译完待审 |
-| 263 | `george-macdonald_lilith` | ✅ 已入库 | ⚪ 待译 (49篇) | — | — |  |
+| 263 | `george-macdonald_lilith` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_lilith/译文) (49篇) | ⏳ 待审 | [📦 493KB](翻译项目/george-macdonald_lilith/莉莉丝.epub) | 已译完待审 |
 | 264 | `george-macdonald_phantastes` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_phantastes/译文) (26篇) | [✅ 已审(B)](翻译项目/george-macdonald_phantastes/审核报告.md) | [📦 342KB](翻译项目/george-macdonald_phantastes/Phantastes.epub) | B 良好 | 全书 381 块逐块核对，语义准确、覆盖完整、术语主体落位良好… |
 | 265 | `george-macdonald_poetry` | ✅ 已入库 | ⚪ 待译 (230篇) | — | — |  |
 | 266 | `george-macdonald_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_short-fiction/译文) (19篇) | [✅ 已审(A)](翻译项目/george-macdonald_short-fiction/审核报告.md) | [📦 593KB](翻译项目/george-macdonald_short-fiction/金钥匙.epub) | A 优秀 | 前 7 篇译笔典雅、忠实度高、无漏译无错配，仅有个别英文残留、… |
@@ -342,7 +342,7 @@
 | 317 | `herminie-templeton-kavanagh_darby-ogill-and-the-good-people` | ✅ 已入库 | [✅ **100%**](翻译项目/herminie-templeton-kavanagh_darby-ogill-and-the-good-people/译文) (8篇) | [✅ 已审](翻译项目/herminie-templeton-kavanagh_darby-ogill-and-the-good-people/审核报告.md) | [📦 278KB](翻译项目/herminie-templeton-kavanagh_darby-ogill-and-the-good-people/达比·奥吉尔与精灵.epub) | B（良好） | 全书 8 篇结构严整，335 个双语块对照严密对应，无漏译、… |
 | 318 | `hilaire-belloc_the-cruise-of-the-nona` | ✅ 已入库 | [🟡 0.0%](翻译项目/hilaire-belloc_the-cruise-of-the-nona/译文) (1/18) | — | — |  |
 | 319 | `hilaire-belloc_the-four-men` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-four-men/译文) (9篇) | [✅ 已审](翻译项目/hilaire-belloc_the-four-men/审核报告.md) | [📦 271KB](翻译项目/hilaire-belloc_the-four-men/四个人.epub) | A（优秀） |
-| 320 | `hilaire-belloc_the-mercy-of-allah` | ✅ 已入库 | [🟡 69.4%](翻译项目/hilaire-belloc_the-mercy-of-allah/译文) (10/15) | — | — |  |
+| 320 | `hilaire-belloc_the-mercy-of-allah` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-mercy-of-allah/译文) (15篇) | ⏳ 待审 | [📦 473KB](翻译项目/hilaire-belloc_the-mercy-of-allah/真主的仁慈.epub) | 已译完待审 |
 | 321 | `hilaire-belloc_the-servile-state` | ✅ 已入库 | [✅ **100%**](翻译项目/hilaire-belloc_the-servile-state/译文) (15篇) | ⏳ 待审 | [📦 191KB](翻译项目/hilaire-belloc_the-servile-state/奴役性国家.epub) | 已译完待审 |
 | 322 | `hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/译文) (36篇) | [✅ 已审](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/审核报告.md) | [📦 207KB](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/马丁·比尔克的青春.epub) | A 级（优秀 / Excellent） | > 全书 36 篇译文双语块与段… |
 | 323 | `hjalmar-soderberg_short-fiction_various-translators` | ✅ 已入库 | [✅ **100%**](翻译项目/hjalmar-soderberg_short-fiction_various-translators/译文) (19篇) | [✅ 已审(A)](翻译项目/hjalmar-soderberg_short-fiction_various-translators/审核报告.md) | [📦 121KB](翻译项目/hjalmar-soderberg_short-fiction_various-translators/瑟德尔贝里短篇集.epub) | A 优秀 | 全书 19 篇双语块对照严丝合缝，无任何语义错配、整段漏译、章… |
@@ -579,7 +579,7 @@
 | 554 | `ring-lardner_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_poetry/译文) (4篇) | [✅ 已审(A)](翻译项目/ring-lardner_poetry/审核报告.md) | [📦 29KB](翻译项目/ring-lardner_poetry/拉德纳诗集.epub) | A 优秀 |
 | 555 | `ring-lardner_short-fiction` | ✅ 已入库 | ⚪ 待译 (74篇) | — | — |  |
 | 556 | `robert-derby-holmes_a-yankee-in-the-trenches` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/译文) (20篇) | [✅ 已审(A)](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/审核报告.md) | [📦 209KB](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/战壕里的美国佬.epub) | A 优秀 | 全书译文质量极高，生动传神地再现了一战西线战场美籍志愿兵与英国… |
-| 557 | `robert-e-howard_short-fiction` | ✅ 已入库 | [🟡 90.3%](翻译项目/robert-e-howard_short-fiction/译文) (27/28) | — | — |  |
+| 557 | `robert-e-howard_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-e-howard_short-fiction/译文) (28篇) | ⏳ 待审 | [📦 465KB](翻译项目/robert-e-howard_short-fiction/罗伯特·E·霍华德短篇小说集.epub) | 已译完待审 |
 | 558 | `robert-hugh-benson_the-necromancers` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-hugh-benson_the-necromancers/译文) (19篇) | [✅ 已审(B)](翻译项目/robert-hugh-benson_the-necromancers/审核报告.md) | [📦 406KB](翻译项目/robert-hugh-benson_the-necromancers/招魂者.epub) | B 良好 | 前半 9 章译笔精良、哥特与宗教氛围还原到位，无错配/漏译/截… |
 | 559 | `robert-louis-stevenson_catriona` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-louis-stevenson_catriona/译文) (35篇) | ⏳ 待审 | [📦 462KB](翻译项目/robert-louis-stevenson_catriona/卡特琳娜.epub) | 已译完待审 |
 | 560 | `robert-louis-stevenson_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-louis-stevenson_poetry/译文) (14篇) | [✅ 已审(B)](翻译项目/robert-louis-stevenson_poetry/审核报告.md) | [📦 377KB](翻译项目/robert-louis-stevenson_poetry/斯蒂文森诗集.epub) | B 良好 | 前半 7 分片逐行完整、块对对应严密，儿童诗韵式（AABB/A… |
@@ -627,7 +627,7 @@
 | 602 | `w-e-b-du-bois_dark-princess` | ✅ 已入库 | ⚪ 待译 (6篇) | — | — |  |
 | 603 | `w-e-b-du-bois_darkwater` | ✅ 已入库 | [✅ **100%**](翻译项目/w-e-b-du-bois_darkwater/译文) (13篇) | ⏳ 待审 | [📦 359KB](翻译项目/w-e-b-du-bois_darkwater/暗水.epub) | 已译完待审 |
 | 604 | `w-e-b-du-bois_the-quest-of-the-silver-fleece` | ✅ 已入库 | [✅ **100%**](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/译文) (40篇) | [✅ 已审(B)](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/审核报告.md) | [📦 577KB](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/银色羊毛的追寻.epub) | B 良好 | 译文整体忠实、文学性上佳，方言分层（佐拉/老辈黑人/教育者）与… |
-| 605 | `w-h-hudson_the-purple-land` | ✅ 已入库 | [🟡 54.9%](翻译项目/w-h-hudson_the-purple-land/译文) (18/31) | — | — |  |
+| 605 | `w-h-hudson_the-purple-land` | ✅ 已入库 | [✅ **100%**](翻译项目/w-h-hudson_the-purple-land/译文) (31篇) | ⏳ 待审 | [📦 583KB](翻译项目/w-h-hudson_the-purple-land/紫色国土.epub) | 已译完待审 |
 | 606 | `w-n-p-barbellion_the-journal-of-a-disappointed-man` | ✅ 已入库 | [✅ **100%**](翻译项目/w-n-p-barbellion_the-journal-of-a-disappointed-man/译文) (5篇) | ⏳ 待审 | [📦 526KB](翻译项目/w-n-p-barbellion_the-journal-of-a-disappointed-man/The Journal of a Disappointed Man.epub) | 已译完待审 |
 | 607 | `w-r-burnett_little-caesar` | ✅ 已入库 | [✅ **100%**](翻译项目/w-r-burnett_little-caesar/译文) (53篇) | [✅ 已审](翻译项目/w-r-burnett_little-caesar/审核报告.md) | [📦 217KB](翻译项目/w-r-burnett_little-caesar/小凯撒.epub) | 【 A 级 · 优秀 (Excellent) 】 | 全书 53 篇文件、4… |
 | 608 | `w-w-jacobs_the-lady-of-the-barge` | ✅ 已入库 | [✅ **100%**](翻译项目/w-w-jacobs_the-lady-of-the-barge/译文) (12篇) | [✅ 已审(B)](翻译项目/w-w-jacobs_the-lady-of-the-barge/审核报告.md) | [📦 224KB](翻译项目/w-w-jacobs_the-lady-of-the-barge/猴爪.epub) | B 良好（含 1 处 A 级情节误译） | 十二篇整体忠实流畅、水手腔与克制… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10523/18180 篇 (55.4%)** | **452 本完成** | **488 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10591/18180 篇 (55.7%)** | **452 本完成** | **492 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1342,6 +1342,7 @@
 | Fanny’s First Play | George Bernard Shaw | `george-bernard-shaw_fannys-first-play` | 133KB | - | [`Fanny’s First Play.epub`](翻译项目/george-bernard-shaw_fannys-first-play/Fanny’s First Play.epub) |
 | george-dilnot_the-lazy-detective | George Dilnot | `george-dilnot_the-lazy-detective` | 358KB | - | [`The Lazy Detective.epub`](翻译项目/george-dilnot_the-lazy-detective/The Lazy Detective.epub) |
 | 波利尼西亚神话与古俗 | George Grey | `george-grey_polynesian-mythology` | 391KB | - | [`波利尼西亚神话与古俗.epub`](翻译项目/george-grey_polynesian-mythology/波利尼西亚神话与古俗.epub) |
+| 莉莉丝 | George Macdonald | `george-macdonald_lilith` | 493KB | - | [`莉莉丝.epub`](翻译项目/george-macdonald_lilith/莉莉丝.epub) |
 | Phantastes | George MacDonald | `george-macdonald_phantastes` | 342KB | - | [`Phantastes.epub`](翻译项目/george-macdonald_phantastes/Phantastes.epub) |
 | Short Fiction | George MacDonald | `george-macdonald_short-fiction` | 593KB | - | [`金钥匙.epub`](翻译项目/george-macdonald_short-fiction/金钥匙.epub) |
 | The Portent | George MacDonald | `george-macdonald_the-portent` | 206KB | - | [`预兆.epub`](翻译项目/george-macdonald_the-portent/预兆.epub) |
@@ -1385,6 +1386,7 @@
 | The House of Rimmon | Henry van Dyke Jr. | `henry-van-dyke-jr_the-house-of-rimmon` | 65KB | - | [`列王纪下.epub`](翻译项目/henry-van-dyke-jr_the-house-of-rimmon/列王纪下.epub) |
 | Darby O’Gill and the Good People | Herminie Templeton Kavanagh | `herminie-templeton-kavanagh_darby-ogill-and-the-good-people` | 278KB | - | [`达比·奥吉尔与精灵.epub`](翻译项目/herminie-templeton-kavanagh_darby-ogill-and-the-good-people/达比·奥吉尔与精灵.epub) |
 | The Four Men | Hilaire Belloc | `hilaire-belloc_the-four-men` | 271KB | - | [`四个人.epub`](翻译项目/hilaire-belloc_the-four-men/四个人.epub) |
+| 真主的仁慈 | Hilaire Belloc | `hilaire-belloc_the-mercy-of-allah` | 473KB | - | [`真主的仁慈.epub`](翻译项目/hilaire-belloc_the-mercy-of-allah/真主的仁慈.epub) |
 | 奴役性国家 | Hilaire Belloc | `hilaire-belloc_the-servile-state` | 191KB | - | [`奴役性国家.epub`](翻译项目/hilaire-belloc_the-servile-state/奴役性国家.epub) |
 | Martin Birck’s Youth | Hjalmar Söderberg | `hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork` | 207KB | - | [`马丁·比尔克的青春.epub`](翻译项目/hjalmar-soderberg_martin-bircks-youth_charles-wharton-stork/马丁·比尔克的青春.epub) |
 | Short Fiction | Hjalmar Söderberg | `hjalmar-soderberg_short-fiction_various-translators` | 121KB | - | [`瑟德尔贝里短篇集.epub`](翻译项目/hjalmar-soderberg_short-fiction_various-translators/瑟德尔贝里短篇集.epub) |
@@ -1561,6 +1563,7 @@
 | My Four Weeks in France | Ring Lardner | `ring-lardner_my-four-weeks-in-france` | 166KB | - | [`My Four Weeks in France.epub`](翻译项目/ring-lardner_my-four-weeks-in-france/My Four Weeks in France.epub) |
 | Poetry | Ring Lardner | `ring-lardner_poetry` | 29KB | - | [`拉德纳诗集.epub`](翻译项目/ring-lardner_poetry/拉德纳诗集.epub) |
 | A Yankee in the Trenches | Robert Derby Holmes | `robert-derby-holmes_a-yankee-in-the-trenches` | 209KB | - | [`战壕里的美国佬.epub`](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/战壕里的美国佬.epub) |
+| 罗伯特·E·霍华德短篇小说集 | Robert E Howard | `robert-e-howard_short-fiction` | 465KB | - | [`罗伯特·E·霍华德短篇小说集.epub`](翻译项目/robert-e-howard_short-fiction/罗伯特·E·霍华德短篇小说集.epub) |
 | The Necromancers | Robert Hugh Benson | `robert-hugh-benson_the-necromancers` | 406KB | - | [`招魂者.epub`](翻译项目/robert-hugh-benson_the-necromancers/招魂者.epub) |
 | 卡特琳娜 | Robert Louis Stevenson | `robert-louis-stevenson_catriona` | 462KB | - | [`卡特琳娜.epub`](翻译项目/robert-louis-stevenson_catriona/卡特琳娜.epub) |
 | Poetry | Robert Louis Stevenson | `robert-louis-stevenson_poetry` | 377KB | - | [`斯蒂文森诗集.epub`](翻译项目/robert-louis-stevenson_poetry/斯蒂文森诗集.epub) |
@@ -1600,6 +1603,7 @@
 | Short Fiction | Voltairine de Cleyre | `voltairine-de-cleyre_short-fiction` | 135KB | - | [`沃尔泰琳·德·克莱尔短篇小说集.epub`](翻译项目/voltairine-de-cleyre_short-fiction/沃尔泰琳·德·克莱尔短篇小说集.epub) |
 | 暗水 | W E B Du Bois | `w-e-b-du-bois_darkwater` | 359KB | - | [`暗水.epub`](翻译项目/w-e-b-du-bois_darkwater/暗水.epub) |
 | The Quest of the Silver Fleece | W. E. B. Du Bois | `w-e-b-du-bois_the-quest-of-the-silver-fleece` | 577KB | - | [`银色羊毛的追寻.epub`](翻译项目/w-e-b-du-bois_the-quest-of-the-silver-fleece/银色羊毛的追寻.epub) |
+| 紫色国土 | W H Hudson | `w-h-hudson_the-purple-land` | 583KB | - | [`紫色国土.epub`](翻译项目/w-h-hudson_the-purple-land/紫色国土.epub) |
 | w-n-p-barbellion_the-journal-of-a-disappointed-man | W N P Barbellion | `w-n-p-barbellion_the-journal-of-a-disappointed-man` | 526KB | - | [`The Journal of a Disappointed Man.epub`](翻译项目/w-n-p-barbellion_the-journal-of-a-disappointed-man/The Journal of a Disappointed Man.epub) |
 | Little Caesar | W. R. Burnett | `w-r-burnett_little-caesar` | 217KB | - | [`小凯撒.epub`](翻译项目/w-r-burnett_little-caesar/小凯撒.epub) |
 | The Lady of the Barge | W. W. Jacobs | `w-w-jacobs_the-lady-of-the-barge` | 224KB | - | [`猴爪.epub`](翻译项目/w-w-jacobs_the-lady-of-the-barge/猴爪.epub) |
