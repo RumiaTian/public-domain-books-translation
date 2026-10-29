@@ -1,0 +1,110 @@
+### XIV / 十四
+===Original===
+
+Saïd awoke to a headache and violent sickness. Supposing himself on the sea in a tempest, he marvelled at the quiet all about him. Presently he sat up and essayed to rub his eyes, but sudden dizziness caused him to fall back again with a groan. His couch was hard and wooden, like the planked deck of a ship, strewn, however, with something soft and powdery, like sand or sawdust. The place where he lay was dark and had a nauseous smell. He was distressed with thirst. “Water!﻿—Water!” he moaned. “In the name of Allah, bring me a little water!﻿—”
+But the tones of his voice rang lonely in an empty room.
+Events of the previous night loomed on his mind, as forms seen gigantic through mist. Sore shame and anguish fell upon him, illumined in a moment by a sudden terror. His money, his last ray of hope﻿—where was it? He felt in the bosom of his robe, fingering his hairy chest frantically. The pouch and the string which held it were gone﻿—stolen! He fumbled in every part of his clothing and scoured the floor with his hands; but in vain. “O Allah, All-merciful!﻿—” He beat his breast with hoarse cries of rage and despair.
+From a trance of grief, embittered by feverish thirst, he was roused by the noise of footsteps in an adjoining room. A light shone yellow through a glass hatch in the wall of partition, throwing long shadows of bottles upon the pane. He could hear a swishing noise, as of someone sweeping diligently with a broom. His eyes, sharpened by the habit of darkness, saw every part of the chamber in which he lay. It was the same to which the sailor had brought him. At sight of the tables and benches his shame redoubled so that he wept aloud. He picked up his tarbûsh and turban, which had been kicked under a trestle, and made haste to put them on. It degraded him to know that he had played the buffoon, bareheaded, in the sight of unbelievers. The sound of his lamentation filled the room.
+A door opened and a woman looked in upon him. She held a candle aloft in one hand, while with the other she screened her eyes from the flame. The light reddened between her fingers and shed a warm glow on her dirty face. She yawned as one not yet wide awake, and spoke crossly to him.
+
+===Chinese===
+
+萨义德醒来，头疼欲裂，呕吐连连。他只当还在海上、还在风暴里，满耳的静反倒叫他纳帘。过了一会儿他坐起来想揉眼，一阵晕眩又把他掀倒，哼了一声。他的铺又硬又木，像船上的板铺，上面撒了一层软粉粉的东西，像沙，像锯末。他躺的地方黑，一股恶心味。渴折磨他。「水！——水！」他呻吟。「看在安拉份上，给俺一点水！——」
+可他的嗓音在空屋里荡出一片孤零。
+昨夜的事在他脑子里浮起，像透过雾看见的巨影。一阵剧痛的羞耻压下来，又被一记突然的恐怖照亮。他的钱——他最后一星指望——哪儿去了？他往袍子怀里摸，手指在毛茸茸的胸口狂扒。钱袋、拴袋的绳，都没了——偷了！他把浑身上下摸了个遍，两只手把地面刮了一遍；白费。「安拉啊，大慈的！——」他捶着胸口，发出嘶哑的怒嚎和绝望。
+他从悲恸的出神里——又被热渴腌着——叫隔壁屋的脚步声惊起。一星黄光从隔墙的玻璃小窗透进来，把瓶子的长影投在窗上。他听得见嘕嘕的响，像谁在起劲挥扫帚。他的眼睛叫黑暗惯出了尖，把躺的这间屋看得一清二楚。还是水手带他来的那间。一看见桌子和条凳，他的羞耻翻了一倍，放声哭出来。他拾起叫人踢到条凳底下的毡帽和缠头巾，赶紧戴上。他记起自己曾光着头、在异教徒面前耍过活宝，这一知，又矮了一截。他哀哭的声音灌满屋子。
+一扇门开了，一个女人朝他张望。她一手高举蜡烛，另一手遮着眼挡火。光从她指缝里透出红，把她那张脏脸照得暖暖的。她打着哈欠，像没全醒，凶巴巴地对他说话。
+
+===Original===
+
+He stretched out his hands, beseeching her by gestures to give him to drink; but she only grew angry, and setting down the candlestick upon a bench, shook her fist in his face and nodded significantly towards the door. Saïd strove to reason with her, craving only a little water to quench the thirst ravaging him; but she cried out and pushed him from her. The noise of approaching footsteps and a man’s voice came to second her endeavours. Hearing those sounds and dreading fresh violence at the hands of the lord of the house, Saïd suffered the dirty woman to unbar the door for him, and fled out precipitately into the sharp air of the morning.
+Having made a few paces, he turned with a shiver to look back at the place he was leaving. It was a two-storeyed house, flanked with two chimneys. A board upon the face of it seemed to be painted with characters or symbols, but he could not see much in the dark with only a distant lamp to help him. It stood in a region of blind walls and scattered dwellings of dilapidated appearance. There was a flagstaff on the roof, which made Saïd think it was a consulate. Beyond, the masts and rigging of great ships seemed drawn with a pencil upon the first pale mist of dawn. In the gloom of the door by which he had come forth he descried the form of a big man in act to watch him; and he shuffled hurriedly away, his face pinched with the cold.
+He walked aimlessly forward, not knowing which way to take, desirous only to escape from that wicked quarter to some part of the city where men of honour dwelt, where he might happen on a Muslim in the streets. More than once he found his way blocked by a dingy wall and had to retrace his steps. Many men passed him, clad in soiled garments and carrying tools or sacks. They stared, turning their faces after him; but, being sleepy for the most part, they did not hinder or molest him. Day broke at his back, suffusing the dun mist wanly. It showed a thin dust like salt whitening the ground, the housetops, and along the coping of the walls. The air was biting; it stung his nostrils so that he smelt blood. To get a little warmth, he tucked his hands beneath his robe and stamped his slippered feet hard upon the pavement.
+In the shelter of an entry he found a little dry dust, with which he rubbed his face, hands and feet preparatory to saying his prayers.
+
+===Chinese===
+
+他伸出两手，打手势哀求她给口水喝；她只管发火，把烛台往条凳上一放，朝他脸前挥拳头，又朝门口意味深长地点头。萨义德想同她讲理，只讨一点水，压一压那啃他的渴；她喊起来，把他往外推。渐近的脚步和一个男人的嗓音来给她助阵。听见这动静，怕屋主再动粗，萨义德由那脏女人替他拔了门闩，一头抢出门，扎进清晨刺骨的空气里。
+走出去几步，他打着寒噤回头，看一眼正离开的地方。一座两层楼，两个烟囱分列两翼。楼面上挂一块板，像写画着字或符，可天黑，只有远处一盏灯，看不大清。四下是一带盲墙和东倒西歪的零星住屋。屋顶上一根旗杆，叫萨义德当成了领事馆。再远处，大船的桅樯索具像拿铅笔画在破晓第一片淡雾上。他出来的那扇门的暗影里，他瞥见一条大汉的身影正要盯他；他赶紧蹭开，脸叫冷风夹得生疼。
+他漫无目的地往前走，不知该挑哪一头，一心只想逃离那片恶人窝，到城里体面人住的地方去，好歹街上撞见一个穆斯林。不止一回，一堵灰墙堵死他的路，只得原路折回。多少男人打他身边过，衣裳油污，扛着家伙或麻袋。他们瞪着他，脸跟着他转；可多半没睡醒，也没拦他、没撩他。天在他背后破晓，把灰黄的雾淡淡染开。天光显出一层细尘，像盐，白了地面、屋顶，和沿墙的压顶。空气咬人；呛他鼻孔，呛得他闻见血。为讨一点暖，他把手拢进袍底，趿着拖鞋的脚在石板上狠狠跺。
+一处门道的荫蔽里，他寻到一小撮干土，拿它搓脸、搓手、搓脚，预备礼拜。
+
+===Original===
+
+In the midst of his devotions, however, heavy footfalls sounded in the street, and a tall man, darkly-clad, with a strange form of hat and a cudgel stuck in his belt, spoke roughly and hit him on the back. He rose to his feet, expostulating, but the man made urgent signs to him to move on, and his mien was so full of authority that Saïd dared not disregard the bidding of his outstretched hand. “Allah pardon!” he muttered as he went his way, feeling that the day had begun badly.
+Presently he came into a spacious street, so long that he could not see the end of it. The sun, just risen, looking sickly through the wreathing vapours, shed a milky stain on the roadway and parts of the buildings, casting the faintest of grey shadows. But for gilt signs on some of the houses, Saïd would scarcely have known that it shone at all. He strode on with his back to the light, wrapped close in his long robe, trembling with cold, very conscious of the inquisitive gaze of other wayfarers. The road was thronged with carriages, great and small, of shapes unknown to him. Some were like wheeled houses, crowded with people inside and upon the roof. These queer conveyances pleased him by their gay colours, which he admired, as he did also certain hoardings decked with painted paper﻿—as much as a hopeless and utterly destitute man can admire anything.
+Suddenly hoots and yells of derision struck his ears, and he became aware of a horde of ragged urchins following him, capering, grimacing, and howling with all the strength of their lungs. They picked things out of the gutter to throw at him, bespattering his raiment with filthy refuse. He rounded upon them with a snarl, showing white eyes and teeth; whereat they fled helter-skelter, only to return again and pester him the moment his back was turned. He looked appealingly at the passersby for help; but they laughed for the most part, though some of the women had eyes of pity, and a man who seemed to rank superior to the multitude stopped and spoke sternly to the pursuers. Saïd was beginning to despair of ever getting rid of them, when the rabble suddenly dispersed of its own accord, flying this way and that like small fry at the approach of some big fish of prey.
+
+===Chinese===
+
+礼拜正做到一半，街上一阵沉重的脚步，一条黑衣大汉——帽子样式古怪，腰里别一根短棍——粗声粗气说话，一巴掌拍在他背上。他站起来分辩，那人只管一个劲儿挥手叫他走；那副威风满得叫萨义德不敢不依他伸出的手。「安拉饶恕！」他边走边咕哝，只觉这一天开张不吉。
+不多时他进了一条大街，长得望不见头。太阳刚起，隔着缭绕的雾气一脸病容，在路面和一带房屋上涂了一片奶渍似的亮，投下淡到没有的灰影。要不是有些宅子上挂着描金的招牌，萨义德简直不知它亮没亮。他背着光大步走，长袍裹得紧紧的，冷得发抖，一路觉出行路人打量的眼。路上挤满了马车，大的小的，样式他一概不识。有几辆像装了轮子的房子，车里、车顶全是人。这些怪车叫他欢喜，欢喜那份花花绿绿——他欣赏着，如同欣赏几面糊了彩纸的围板——一个没了指望、光到底的人，还能欣赏的，也就这么多了。
+忽然一阵嘲骂的尖啸怪叫扎进他耳朵：一伙破衣烂衫的小瘪三跟上他了，又蹦又做鬼脸，扯开嗓子嚎。他们从阴沟里抓东西砸他，把他的袍子溅满脏水烂渣。他回身一声低吼，翻出白眼白牙；他们抱头鼠窜，可他背刚一转，又围上来缠。他向过路人投去求告的眼；多半人笑，虽然有几个女人眼里有怜悯，一个瞧着高出众人一头的男人停下来，朝那伙追赶者厉声说了几句。萨义德正绝望于甩不掉他们，那群乌合忽然自行散了，东一头西一头，像小鱼群见了大鱼逼近。
+
+===Original===
+
+Looking in astonishment for the cause of his deliverance, he beheld a man in a tall, dome-shaped hat and dark clothing, having a bludgeon in his belt, so like the party who had cut short his orisons, that Saïd believed it was the same. He saw in this individual, drawing near with deliberate tread and solemn bearing, a high officer of the irregular troops charged with the maintenance of peace and order. He bowed low to the personage and invoked blessings on him in passing.
+In the relief of being unmolested for a while, his spirits rose, and he felt almost happy. The streets grew ever more crowded as he advanced. The road was filled with two streams of wheeled vehicles, going in opposite directions. The throng on the footway jostled and elbowed him roughly, giving no more heed than the sea gives to a piece of driftwood. It surprised him to see no horsemen nor pack-animals, not so much as a train of mules. All was busy, yet orderly. Though the press of the traffic was so great that the wheels of one vehicle grated those of another, and the nose of a carriage-horse was in the back of a cart in front, there was no frenzied shouting, such as might have been expected, no gesticulation on the part of drivers, but only a dull rumble and roar akin to thunder.
+A display of familiar dainties in a vast window caught his eyes and held them for a while. He flattened his nose against the pane, gloating on oranges and lemons, bananas and pomegranates, dried figs and dates and raisins, with grins of delightful recognition. He stood a long time gazing at them, shouldered impatiently by wayfarers. It was with a sigh that at last he turned away and pursued his endless walk.
+Many women and girls passed him, clad in the immodest fashion of the Franks, which excites a man by its cunning suggestion of the form beneath. They wore strange headgear, such as never man saw. Some were young and beautiful, so that Saïd leered at them meaningly. One fair girl of provoking charm, who was walking with an elder woman, laughed at him and touched her companion’s arm. At that Saïd tingled in every vein, believing that she wished for him. All that the dragoman had told concerning the beauties of Lûndra surged gladly in his brain. His pulse quickened; he forgot that it was cold.
+
+===Chinese===
+
+他惊愕地寻找解围的缘由，看见一个戴高圆顶帽、穿黑衣、腰里别短棍的人——同打断他礼拜的那位像透了，萨义德认作同一个。他看这个人迈着沉稳的步子、端着庄严的架子走近，认作非正规军里一位维持治安的高官。他朝这位人物深深一躬，路过时为他祝了福。
+得了一阵清净，他的精神头起来了，几乎算得上快活。越往前，街越挤。路面上两股车流，方向相反。人行道上的人潮粗粗地挤他撞他，理都不理，像海理一块浮木。叫他奇怪的是，见不着骑马的，见不着驮货的，连一队骡子都没有。处处忙，处处有秩序。车挤得轮子磨轮子、辕马的鼻子顶着前头货车的后帮，却没有预想中那种狂喊，赶车的也不手舞足蹈，只有一片沉雷似的隆隆。
+一面大橱窗里陈列的熟识吃食勾住他的眼，扣了好一会儿。他把鼻子贴上玻璃，馋眯眯地看橙子柠檬、香蕉石榴、干无花果、椰枣葡萄干，咧出一张张欢喜的认亲脸。他站着看了老大半天，被行人一次次不耐烦地挤。末了他叹口气，转身接着走他那走不完的路。
+多少女人姑娘打他身边过，一身法兰克人那种挑逗的装束——那装束狡猾地暗示底下的形，勾人的火。她们头上戴的物件古怪，人间没见过。有几个年轻貌美，萨义德朝她们意味深长地瞟。一个俊俏得恼人的姑娘，同一位年长女人走着，朝他一笑，碰了碰同伴的胳膊。这一下萨义德浑身血脉发麻，只当她有意思。通译讲过的伦德拉的美人，一齐欢欢喜喜涌上他的脑子。他脉快了；忘了冷。
+
+===Original===
+
+Turning, he overtook the two women and walked at the young one’s side, grinning into her face, and speaking words of love in Arabic. She shrank from him, pale with fright, and clung to the older woman’s arm; but he kept close to her, wooing her hotly with every term of endearment. They hastened their steps, so that he had to run to keep up with them. All at once they stopped short, and the old woman, who wore a fine cloak of fur and a headdress of many colours, spoke earnestly with a tall man clad in the sombre uniform already known to Saïd, having a high, dome-shaped hat and a leather truncheon in his belt. He stepped forward and seized the fisherman by the shoulders, shaking him and speaking sternly to him in a tone there was no gainsaying. Then, as the women made their escape, he pointed imperiously up the street and gave Saïd a push in that direction. The Muslim, completely taken aback, obeyed mechanically, the policeman following him a little way to mark his behaviour.
+All day long he strayed on purposeless, growing more and more weary, a prey to thirst, and hunger, and intense cold. After noon the gloom deepened, the puny sun becoming quite obscured in cloud. He found a large piece of Frankish bread in a gutter, which he ate ravenously; and a little later, by good luck came to a drinking-fountain with a cup fixed to a chain for the service of poor wayfarers. Feeling refreshed, he prepared to face the night, and looked about for some sheltered place where he might sleep undisturbed. In a square court surrounded by high houses there was a sort of garden planted with sorry trees and shrubs, black with the prevailing soot, having seats and paved walks, and in the midst a great idol upon a pedestal. He stretched himself on one of the benches and composed his limbs to rest. But the cold was so great that he dared not fall asleep, but was fain to get up and walk again lest he should stiffen and die.
+The streets by night were even more bewildering than in the daytime. The long vistas of yellow lamps, branching endlessly one out of another, confused his brain. Every wheeled vehicle had monstrous bright eyes to frighten him. The mist of light was blinding﻿—the eternal mist of cloud by day, of fire by night, from which the dull roar of traffic seemed inseparable.
+
+===Chinese===
+
+他一转身，追上那两个女人，挨着年轻的走，朝她脸咧嘴，用阿拉伯语讲情话。她吓得脸白，直缩，死抓着年长女人的胳膊；他贴住不放，把各种甜话热热地泼过去。两人加快脚步，他只得小跑才跟得上。忽然两人猛一站住：老女人——穿一件讲究的毛皮斗篷，头上多层彩——热切地同一个高个男人讲，那人穿的正是萨义德已认得的暗色号衣：高圆顶帽，腰里一支皮短棍。他上前一把抓渔夫的双肩，摇他，狠狠说话，那口气不容分说。两个女人脱身走脱，他威严地朝街那头一指，朝那个方向推了萨义德一把。穆斯林全无防备，机械地照办，警察跟了他一小段，看他的行止。
+一整天他漫无目的地流浪，越走越乏，被渴、饿和透骨的冷轮班啃。晌午过后，昏暗更深，那点可怜的太阳整个叫云吞了。他在阴沟里捾到一大块法兰西面包，狼吞虎咽；过不多时，运气好，撞上一座饮泉——泉上拴着链子挂一只杯，专供穷路人。缓过点劲儿，他预备对付这一夜，四下寻一处背风、睡得安稳的地方。一个四方院子，四面高楼，当中一片小园子，栽着可怜巴巴的树木，叫遍城的煤烟熏得漆黑；有座椅，有石铺的小径，正中立一尊基座上的大神像。他往一张长椅上一伸，把四肢安顿下歇。可冷得太狠，他不敢睡实，只得起来再走，怕一僵就死。
+夜里的街比白天更惑人。黄灯的长巷一望无尽，一巷叉出一巷，没有头，搅昏他的脑子。每一辆带轮子的车都长着怪亮的眼睛吓他。光的雾晃瞎人——白昼是云的雾，黑夜是火的雾，那沉闷的交通轰响，像跟雾长在一起，拆不开。
+
+===Original===
+
+The crowd where no man saluted other, no one looked friendly at his neighbour, but every face was grim with a set purpose, seemed awful to him. He feared it with the fear of evil spirits. The cries which assailed his ears were mournful as a wailing for the dead.
+At length, after hours of wandering, he found an archway giving access to a quiet court and flung himself down in its gloom, too weary to know or care that the stones were icy cold. But it seemed that he had scarcely fallen asleep ere he was awakened by the flash of a lantern in his face. A gruff voice made a humming in his ears, and the form of a policeman loomed tremendous in his heavy eyes﻿—a dark form holding the light which dazed him. He struggled to his feet, and seeing the enemy in the act to step forward and seize him, made off through the archway and down the sounding street as fast as his stiff limbs would carry him.
+After that he dared not lie down again, but wandered on, sometimes resting on a doorstep, sometimes leaning against a wall or some railings, until a pallor of dawn appeared in the east. He found a quiet place where he said his prayers undisturbed, and soon after, by the grace of Allah, lighted on another crust of bread﻿—a huge chunk on which he broke his fast. Then, when the day was fully come, he entered a public garden enclosed with palings and lay down upon the first seat he came to.
+How long he slept he could not tell, for when he awoke the sky was completely overcast, and the brown fog had no point of brightness to indicate the sun’s whereabouts. But the place where he lay was noisy with the play of ragged children, some of whom fled pell-mell as his eyes opened on them. His limbs were numbed so that, setting foot to the ground, he had to support himself by the back of the seat; and it was long ere he could walk safely.
+As he issued from the garden he espied a well-known object amid the hurrying crowd on the footway of a great thoroughfare﻿—a scarlet tarbûsh. With the strength of hope renewed, he ran as fast as he could to overtake its wearer. He came up with him, panting a salutation. But the face turned to him was not the face of the son of an Arab, but darker and of an olive tint not far removed from mouse-colour, the eyes set closer together.
+
+===Chinese===
+
+那人群，无人招呼人，无人朝邻人投一记友好的眼，张张脸都绷着一份狠目的——在他瞧来可畏。他怕它，像怕恶灵。灌进他耳朵的种种叫卖，哀得像哭丧。
+流浪了几个钟头，末了他寻到一座拱门，通一个静院；他扑进那片幽暗里，乏得顾不上——也认不出——石头冰冷。可像才合眼，一盏灯笼的光就刷在他脸上。一个粗嗓门在他耳朵里嗡嗡，警察的身影在他沉重的眼皮前涨成一片巨物——一条黑影，举着晃他眼的光。他挣扎着爬起来，见对头正要上前来抓，夺路穿过拱门，顺着咚咚响的街，两条僵腿能带多快跑多快。
+打那以后他不敢再躺，接着晃荡，一时坐人家门槛，一时靠墙、靠栏杆，直到东天泛出黎明的苍白。他寻了处清静地方，不受搅扰地做了礼拜；随后不久，托安拉的恩，又撞上一块面包皮——好大一块，他开了斋。天大亮之后，他进了一座围木木栅的公园，头一张椅子就躺下了。
+睡了多久他说不上：醒来时天阴得严实，棕色的雾没有一个亮点能透出太阳在哪儿。可他躺的地方叫一群破衣孩子闹翻了，他眼睛一睁，几个撒腿就跑。他的肢体麻透了，脚落地时不得不扶着椅背；好半天他才敢放开步子。
+出园的时候，他在一条大街的人行道上、匆匆的人潮里，望见一样认得的东西——一顶猩红毡帽。指望还了魂，他撒腿追那戴帽的，能跑多快跑多快。追上了，喘着招呼。可转过来的那张脸，不是阿拉伯人的子孙的脸：更黑，一层橄榄色，离耗子色不远，两眼挤得近。
+
+===Original===
+
+The reply to his salutation was in an unknown language; it was the speech of an unbeliever, in which the name of Allah did not occur. With a gesture of apology, expressive also of the deepest despair, Saïd fell back from him.
+He got little heartbreaking reminders of the East from the form of a building here and there, and from homely objects in the shop windows. The sullen roar of the city was terrible in his ears, seeming now the voice of a cruel monster, now the growl of thunder﻿—always hostile and inhuman. His eyes, unused to the subdued light, unable to appreciate its half tints, met a grey-brown horror everywhere. The women, too, dressed to provoke desire, had a share in his loathing of the scene. He would have liked to kill them for the involuntary thrill they gave.
+Men and women with great baskets crouched by the edge of the roadway, selling flowers. Some of the foot-passengers stopped to buy them. Saïd met people with nosegays in their hands, and it surprised him that they did not smell at them as folks used to in the East; but on reflection it seemed likely that in this land of gloom and disappointment the blossoms had no smell or, if any, a foul one. He saw the sign of the cross often in all sorts of places, and spat on the ground for hatred of it, cursing the religion of the country secretly under his breath.
+His brain grew confused. He was hunting for the sunlight which was lost. Little patches of colour drew his eyes and caused him a moment’s rejoicing as for a treasure found at last. But each disillusion left him more despairing. Of a sudden, at the turning of a street, a blare of trumpets smote his ears, together with the rhythmic beat of a drum. In the heart of an eager, hurrying crowd, of like hue with the houses, the fog and the mud of the roadway, marched a company of soldiers clad in gorgeous scarlet﻿—a hundred of them moving as one man. Their brightness and the marvel of their going attracted Saïd. He followed them spellbound, yet with a kind of horror such as one has of jin in the night-season. He knew nothing of the crowd’s roughness. The moving streak of red glowed like a flowerbed in that sombre street﻿—like a bed of wild anemones amid the dull rocks of his native land. He battled to get near to them, but could not.
+
+===Chinese===
+
+对他招呼的回话，是一种不识的语言；异教徒的话，里头没有安拉的尊名。萨义德拿一个道歉的手势——也道尽了最深的绝望——从他身边退开。
+这里一座楼的样式、那里橱窗里一件家常物什，都给他送来一阵阵剜心的东方。这城阴沉的轰响灌在他耳朵里可怕极了，一时像一头凶兽的声音，一时像雷的滚——总是敌意的，总不是人的。他的眼睛不惯这收敛的光，辨不出它的半调，处处撞上一片灰棕的恐怖。那些女人也一样，一身惹火的装束，在他对这景象的憎恶里占了一份。她们那不由他来的战栗，叫他恨不得杀了她们。
+卖花的人，男男女女，挎着大篮子蹲在路边。有些行人停下买。萨义德遇见手里擎着花束的人；叫他奇怪的是，他们不凑上去闻，东方人个个要闻的；转念一想，在这片昏暗和扫兴的土地上，花兴许没有香——有，也是臭的。他处处见十字的记号，各式地方都有，他朝地上啐，压着嗓子暗咒这国的教门。
+他的脑子乱了。他在找那丢失的阳光。一小片一小片的颜色勾他的眼，叫他一时欢喜，像终于寻着了宝。可每一场破灭都把他丢进更深的绝望。忽然，在一条街的拐角，一阵喇叭劈头灌进他耳朵，还有一通有板的鼓。在一群同房屋、同雾、同街泥一个颜色的、急匆匆的人潮正中，开过来一队兵，一身华贵的猩红——一百个人，行动如一人。那份亮、那种走法，把萨义德迷住了。他跟着他们，入了定，又带着一种怕——像人对夜里精尼的怕。人潮的推搡他一概不知。那一条移动的红，在阴沉的街上烧得像一片花床——像他故乡灰石间的一片野银莲。他拚了命要挨近，挨不近。
+
+===Original===
+
+To his mind, unhinged by fatigue and exposure, it was clear that, if only he could win to walk with them he would be saved. They were his life, his destiny, and they were slipping from him.
+At length he lost sight of them altogether and the blackest despair took hold of him. He wandered into a region of quiet streets. The air had grown perceptibly warmer since the morning, and now a fine rain began to fall. Of a sudden, as it seemed to him, lamps were lighted; it was night. The sky lowered as a vast cloud; it was like a close lid oppressing him. Here was a maze in a box, shut out from sun, moon and stars, and he was doomed to roam in it forever. All at once he felt deadly cold; the next minute he was burning from head to foot. It occurred to him to pray to Allah; but where was the use of prayer when he was already condemned and in torment? He ceased to fight against his lot.
+A host of evil spirits beset him, gibbering, snapping their fingers, grinning, and mocking his wretched plight. Things faded and grew dim. He knew the horror of a great army coloured like blood, thousands moving in silence as one man. Shrieking, he clung to some railings for protection, vaguely aware that a crowd was gathering about him in a place which, a minute before, had been quite deserted. Then he was back again in his native land.
+
+===Chinese===
+
+在他那叫疲乏和风霜卸了轴的脑子里，事情清楚得很：只要能赢得同他们并排走，他就得救了。他们是他的命，他的运数，正从他手边溜走。
+末了他彻底望不见他们了，最黑的绝望攦住了他。他晃进一带安静的街。打早上起，空气已暖了些；这会儿下起细雨。像是忽然之间，灯全亮了；到夜里了。天压下来，像一整块云；像一口贴身的盖，闷着他。这是一只匣子里的迷阵，日月星辰全关在外头，他判了在这里头永世转悠。骤然他冷得要死；下一分钟他又从头到脚烧起来。他想起该求告安拉；可他已经判了、已经在受刑，祷告还有什么用？他不再同他的命争了。
+一群恶鬼围上他，咭咭笑，捻着响指，龇着牙，嘲他这副惨状。东西淡了，暗了。他看见一支大军，血一样颜色，几千人没一点声息、行动如一人的恐怖。他尖叫着抱住一道栏杆求庇护，迷迷糊糊觉出人正围拢来——在一分钟前还空无一人的地方。随后，他回到了故乡。
