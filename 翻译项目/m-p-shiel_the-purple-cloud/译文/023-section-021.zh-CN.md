@@ -1,0 +1,9 @@
+===Original===
+
+I knew that I was at Franz Josef Land, somewhere or other in the neighbourhood of C. Fligely (about 82° N.), and though it was so late, and getting cold, I still had the hope of reaching Spitzbergen that year, by alternately sailing all open water, and dragging the kayak over the slack drift-ice. All the ice which I saw was good flat fjord-ice, and the plan seemed feasible enough; so after coasting about a little, and then three days’ good rest in the tent at the bottom of a ravine of columnar basalt opening upon the shore, I packed some bear and walrus flesh, with what artificial food was left, into the kayak, and I set out early in the morning, coasting the shore-ice with sail and paddle. In the afternoon I managed to climb a little way up an iceberg, and made out that I was in a bay whose terminating headlands were invisible. I accordingly decided to make S. W. by W. to cross it, but, in doing so, I was hardly out of sight of land, when a northern storm overtook me toward midnight; before I could think, the little sail was all but whiffed away, and the kayak upset. I only saved it by the happy chance of being near a floe with an ice-foot, which, projecting under the water, gave me foothold; and I lay on the floe in a mooning state the whole night under the storm, for I was half drowned.
+And at once, on recovering myself, I abandoned all thought of whalers and of Europe for that year. Happily, my instruments, etc., had been saved by the kayak-deck when she capsized.
+
+===Chinese===
+
+我知道自己到了法兰士约瑟夫地，就在弗利格利角（约北纬 82 度）这一带的什么地方；虽然时节已晚，天气渐冷，我仍抱着当年就到斯匹次卑尔根的希望，打算交替着：凡开阔水面便行船，遇松散浮冰便拖着皮筏走。我看见的冰全是上好的平坦峡湾冰，这计划似乎颇为可行；于是我沿岸略作侦察，又在一处临海的玄武岩石柱峡谷底上的帐篷里好好歇了三天，然后把一些熊肉、海象肉，连同剩下的人工口粮，装进皮筏，一清早便出发，扬帆打桨沿着岸边的水道而行。下午，我设法爬上一座冰山一小段，看清自己正处在一个海湾里，两端的岬角都望不见。于是我决定取西南偏西的方向横渡；可这样走时，我离陆地还没望不见呢，一场北来的风暴便在午夜前后追上了我；我还来不及想，小帆几乎被一卷而空，皮筏也翻了。只因侥幸挨着一块带冰脚的浮冰，那冰脚在水面下探出来，给了我立足之处，我才把它救住；风暴里，我半身湿透、神志恍惚，在浮冰上躺了整夜。
+一缓过来，我立刻打消了当年找到捕鲸船、回欧洲去的念头。所幸船具仪器等等，在皮筏倾覆时都被筏甲挡住，保住了。
