@@ -6,12 +6,12 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-28，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-10-29，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **492** 完 / **30** 译 / **125** 待（共 647 本） | **10591** / 18180 篇（**170505.2** / 305863.1 KB）· **55.7%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段二：翻译执行 (Translation)** | **492** 完 / **34** 译 / **121** 待（共 647 本） | **10670** / 18180 篇（**171860.3** / 305863.1 KB）· **56.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
 | **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **40** 本待审 | 覆盖精读 **452** 本（**91.9%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
 | **阶段四：出版打包 (EPUB Packaging)** | **492** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **492** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
@@ -93,7 +93,7 @@
 | 68 | `barbara-newhall-follett_the-house-without-windows` | ✅ 已入库 | [✅ **100%**](翻译项目/barbara-newhall-follett_the-house-without-windows/译文) (6篇) | [✅ 已审(A)](翻译项目/barbara-newhall-follett_the-house-without-windows/审核报告.md) | [📦 165KB](翻译项目/barbara-newhall-follett_the-house-without-windows/没有窗户的房子.epub) | A 优秀 | 全书译文空灵纯真、诗韵盎然，极富文学感染力地再现了神童少女芭芭… |
 | 69 | `baroness-orczy_el-dorado` | ✅ 已入库 | [🟡 0.8%](翻译项目/baroness-orczy_el-dorado/译文) (1/53) | — | — |  |
 | 70 | `baroness-orczy_i-will-repay` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_i-will-repay/译文) (32篇) | [✅ 已审(B)](翻译项目/baroness-orczy_i-will-repay/审核报告.md) | [📦 343KB](翻译项目/baroness-orczy_i-will-repay/I Will Repay.epub) | B 良好 | 全书 471 块逐块对照后，仅发现 1 处 A 级文本缺失（第… |
-| 71 | `baroness-orczy_lord-tonys-wife` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
+| 71 | `baroness-orczy_lord-tonys-wife` | ✅ 已入库 | [🟡 69.1%](翻译项目/baroness-orczy_lord-tonys-wife/译文) (16/24) | — | — |  |
 | 72 | `baroness-orczy_pimpernel-and-rosemary` | ✅ 已入库 | [🟡 3.3%](翻译项目/baroness-orczy_pimpernel-and-rosemary/译文) (1/49) | — | — |  |
 | 73 | `baroness-orczy_sir-percy-hits-back` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_sir-percy-hits-back/译文) (39篇) | [✅ 已审(A)](翻译项目/baroness-orczy_sir-percy-hits-back/审核报告.md) | [📦 455KB](翻译项目/baroness-orczy_sir-percy-hits-back/珀西爵士反击.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 74 | `baroness-orczy_the-elusive-pimpernel` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_the-elusive-pimpernel/译文) (36篇) | [✅ 已审(B)](翻译项目/baroness-orczy_the-elusive-pimpernel/审核报告.md) | [📦 443KB](翻译项目/baroness-orczy_the-elusive-pimpernel/The Elusive Pimpernel.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
@@ -231,7 +231,7 @@
 | 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
 | 207 | `emile-gaboriau_the-slaves-of-paris_charles-scribners-sons` | ✅ 已入库 | ⚪ 待译 (64篇) | — | — |  |
 | 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [✅ **100%**](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (36篇) | ⏳ 待审 | [📦 415KB](翻译项目/emma-goldman_my-disillusionment-in-russia/我在俄国的幻灭.epub) | 已译完待审 |
-| 209 | `ernest-bramah_kai-lungs-golden-hours` | ✅ 已入库 | ⚪ 待译 (13篇) | — | — |  |
+| 209 | `ernest-bramah_kai-lungs-golden-hours` | ✅ 已入库 | [🟡 73.3%](翻译项目/ernest-bramah_kai-lungs-golden-hours/译文) (10/13) | — | — |  |
 | 210 | `ernest-howard-crosby_captain-jinks-hero` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-howard-crosby_captain-jinks-hero/译文) (17篇) | [✅ 已审(B)](翻译项目/ernest-howard-crosby_captain-jinks-hero/审核报告.md) | [📦 338KB](翻译项目/ernest-howard-crosby_captain-jinks-hero/金克斯上尉：英雄.epub) | B 良好 | 全书17章完整精译、无断章漏译与A级错误，讽刺神韵传神，唯个别… |
 | 211 | `ernest-poole_his-family` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-poole_his-family/译文) (45篇) | ⏳ 待审 | [📦 466KB](翻译项目/ernest-poole_his-family/His Family.epub) | 已译完待审 |
 | 212 | `ernest-shackleton_south` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
@@ -381,7 +381,7 @@
 | 356 | `james-branch-cabell_chivalry` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_chivalry/译文) (15篇) | [✅ 已审(C)](翻译项目/james-branch-cabell_chivalry/审核报告.md) | [📦 314KB](翻译项目/james-branch-cabell_chivalry/骑士精神.epub) | C 需关注 | 全书 602 对双语块配对完整、正文无整段漏译与章末截断、文… |
 | 357 | `james-branch-cabell_domnei` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_domnei/译文) (44篇) | [✅ 已审(A)](翻译项目/james-branch-cabell_domnei/审核报告.md) | [📦 210KB](翻译项目/james-branch-cabell_domnei/多姆内伊.epub) | A 优秀 | 全书译笔典雅古朴、反讽戏谑拿捏精妙，44 篇 202 个双语块… |
 | 358 | `james-branch-cabell_figures-of-earth` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_figures-of-earth/译文) (48篇) | [✅ 已审(A)](翻译项目/james-branch-cabell_figures-of-earth/审核报告.md) | [📦 395KB](翻译项目/james-branch-cabell_figures-of-earth/大地的形象.epub) | A 优秀（出版预备级） | 全书 48 篇章节文件 100% 逐章逐段完成双… |
-| 359 | `james-branch-cabell_jurgen` | ✅ 已入库 | ⚪ 待译 (54篇) | — | — |  |
+| 359 | `james-branch-cabell_jurgen` | ✅ 已入库 | [🟡 68.9%](翻译项目/james-branch-cabell_jurgen/译文) (36/54) | — | — |  |
 | 360 | `james-branch-cabell_the-cords-of-vanity` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_the-cords-of-vanity/译文) (37篇) | [✅ 已审(B)](翻译项目/james-branch-cabell_the-cords-of-vanity/审核报告.md) | [📦 504KB](翻译项目/james-branch-cabell_the-cords-of-vanity/The Cords of Vanity.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 361 | `james-branch-cabell_the-cream-of-the-jest` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_the-cream-of-the-jest/译文) (47篇) | [✅ 已审](翻译项目/james-branch-cabell_the-cream-of-the-jest/审核报告.md) | [📦 261KB](翻译项目/james-branch-cabell_the-cream-of-the-jest/The Cream of the Jest.epub) | 译稿整体质量很高——语义忠实、行文雅正、术语执行严格、全书无一整段漏译与章末… |
 | 362 | `james-branch-cabell_the-line-of-love` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_the-line-of-love/译文) (10篇) | [✅ 已审(A)](翻译项目/james-branch-cabell_the-line-of-love/审核报告.md) | [📦 303KB](翻译项目/james-branch-cabell_the-line-of-love/爱之血脉：婚姻十篇.epub) | A 优秀 | 译稿语域把握准确——仿中古典雅与冷嘲戏谑兼备，术语表执行严格，… |
@@ -651,7 +651,7 @@
 | 626 | `william-craft_ellen-craft_running-a-thousand-miles-for-freedom` | ✅ 已入库 | [✅ **100%**](翻译项目/william-craft_ellen-craft_running-a-thousand-miles-for-freedom/译文) (4篇) | [✅ 已审(A)](翻译项目/william-craft_ellen-craft_running-a-thousand-miles-for-freedom/审核报告.md) | [📦 121KB](翻译项目/william-craft_ellen-craft_running-a-thousand-miles-for-freedom/Running a Thousand Miles for Freedom.epub) | A 优秀 | 译文高度忠实于原文，块对块语义对应完整、无漏译与截断，人名/地… |
 | 627 | `william-dean-howells_a-hazard-of-new-fortunes` | ✅ 已入库 | ⚪ 待译 (69篇) | — | — |  |
 | 628 | `william-dean-howells_indian-summer` | ✅ 已入库 | [✅ **100%**](翻译项目/william-dean-howells_indian-summer/译文) (24篇) | ⏳ 待审 | [📦 443KB](翻译项目/william-dean-howells_indian-summer/印第安之夏.epub) | 已译完待审 |
-| 629 | `william-f-cody_the-life-of-buffalo-bill` | ✅ 已入库 | ⚪ 待译 (35篇) | — | — |  |
+| 629 | `william-f-cody_the-life-of-buffalo-bill` | ✅ 已入库 | [🟡 54.7%](翻译项目/william-f-cody_the-life-of-buffalo-bill/译文) (17/35) | — | — |  |
 | 630 | `william-gerhardie_futility` | ✅ 已入库 | [✅ **100%**](翻译项目/william-gerhardie_futility/译文) (39篇) | [✅ 已审](翻译项目/william-gerhardie_futility/审核报告.md) | [📦 316KB](翻译项目/william-gerhardie_futility/徒劳.epub) | A |
 | 631 | `william-hazlitt_table-talk` | ✅ 已入库 | ⚪ 待译 (36篇) | — | — |  |
 | 632 | `william-hope-hodgson_the-house-on-the-borderland` | ✅ 已入库 | [✅ **100%**](翻译项目/william-hope-hodgson_the-house-on-the-borderland/译文) (30篇) | [✅ 已审(A)](翻译项目/william-hope-hodgson_the-house-on-the-borderland/审核报告.md) | [📦 244KB](翻译项目/william-hope-hodgson_the-house-on-the-borderland/边境之屋.epub) | A 优秀 | 前半 15 篇译稿质量上乘——无错配、无漏译、无截断、无英文残… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10591/18180 篇 (55.7%)** | **452 本完成** | **492 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10670/18180 篇 (56.2%)** | **452 本完成** | **492 本完成** | 全流程四阶段闭环 |
 
 ---
 
