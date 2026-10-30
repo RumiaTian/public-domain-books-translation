@@ -97,19 +97,19 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 
 | # | 篇名 | 大小 | 状态 |
 |---|------|------|------|
-| 0 | Preface（贝洛克序） | 8.0KB | todo |
-| 1 | I. The Encountering of Six Within a Wood | 15.2KB | todo |
-| 2 | II. The Inexorable Justice of the Mandarin Shan Tien | 45.2KB | todo |
-| 3 | III. The Degraded Persistence of the Effete Ming-Shu | 53.6KB | todo |
-| 4 | IV. The Inopportune Behaviour of the Covetous Li-Loe | 16.1KB | todo |
-| 5 | V. The Timely Intervention of the Mandarin Shan Tien's Lucky Day | 36.4KB | todo |
-| 6 | VI. The High-Minded Strategy of the Amiable Hwa-Mei | 33.4KB | todo |
-| 7 | VII. Not Concerned with Any Particular Attribute of Those Who Are Involved | 37.6KB | todo |
-| 8 | VIII. The Timely Disputation Among Those of an Inner Chamber of Yu-Ping | 54.0KB | todo |
-| 9 | IX. The Propitious Dissension Between Two Whose General Attributes… | 52.7KB | todo |
-| 10 | X. The Incredible Obtuseness of Those Who Had Opposed the Virtuous Kai Lung | 58.2KB | todo |
-| 11 | XI. Of Which It Is Written: "In Shallow Water Dragons…" | 10.8KB | todo |
-| 12 | XII. The Out-Passing Into a State of Assured Felicity of the Much-Enduring Two… | 59.2KB | todo |
+| 0 | Preface（贝洛克序） | 8.0KB | done |
+| 1 | I. The Encountering of Six Within a Wood | 15.2KB | done |
+| 2 | II. The Inexorable Justice of the Mandarin Shan Tien | 45.2KB | done |
+| 3 | III. The Degraded Persistence of the Effete Ming-Shu | 53.6KB | done |
+| 4 | IV. The Inopportune Behaviour of the Covetous Li-Loe | 16.1KB | done |
+| 5 | V. The Timely Intervention of the Mandarin Shan Tien's Lucky Day | 36.4KB | done |
+| 6 | VI. The High-Minded Strategy of the Amiable Hwa-Mei | 33.4KB | done |
+| 7 | VII. Not Concerned with Any Particular Attribute of Those Who Are Involved | 37.6KB | done |
+| 8 | VIII. The Timely Disputation Among Those of an Inner Chamber of Yu-Ping | 54.0KB | done |
+| 9 | IX. The Propitious Dissension Between Two Whose General Attributes… | 52.7KB | done |
+| 10 | X. The Incredible Obtuseness of Those Who Had Opposed the Virtuous Kai Lung | 58.2KB | done |
+| 11 | XI. Of Which It Is Written: "In Shallow Water Dragons…" | 10.8KB | done |
+| 12 | XII. The Out-Passing Into a State of Assured Felicity of the Much-Enduring Two… | 59.2KB | done |
 
 ## 运行日志
 
@@ -117,4 +117,4 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
-| - | - | - | （尚未运行） |
+| 2026-10-30 | 10-12章全书收官 | 完成 | 10、11、12章全部译毕并通过check_bilingual校验，全书todo归零 |
