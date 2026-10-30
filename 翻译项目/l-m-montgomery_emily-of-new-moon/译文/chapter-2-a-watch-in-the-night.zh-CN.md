@@ -152,3 +152,41 @@ And I leaned down and touched her cheek﻿—and oh, it was so cold. It made me 
 “我告诉奥利弗·默里——是他就你的事来同我谈的——只要我活着一天，就不同我的孩子分开。他说：‘你什么时候改了主意，捎个信来。’可我没有改主意——连三年后大夫说我必须放下工作的时候也没改。‘不放，我给你一年，’他说，‘放了，尽量在户外过活，我给你三年——说不定四年。’他是个好预言家。我来了这儿，我们一起过了四年可爱的日子，是不是，小心肝？”
 “是——哦，是！”
 “这些年，加上我在这些年里教你的东西，是我能留给你的全部遗产，艾米丽。我们一直靠一小笔进项过活——是一位老伯父的遗产里分给我的终身权益，他在我成婚前就去世了。如今产业归了一家慈善机构，这所小房子也是租的。”},
+
+===Original===
+
+From a worldly point of view I’ve certainly been a failure. But your mother’s people will care for you﻿—I know that. The Murray pride will guarantee so much, if nothing else. And they can’t help loving you. Perhaps I should have sent for them before﻿—perhaps I ought to do it yet. But I have pride of a kind, too﻿—the Starrs are not entirely traditionless﻿—and the Murrays said some very bitter things to me when I married your mother. Will I send to New Moon and ask them to come, Emily?”
+“No!” said Emily, almost fiercely.
+She did not want anyone to come between her and Father for the few precious days left. The thought was horrible to her. It would be bad enough if they had to come﻿—afterwards. But she would not mind anything much﻿—then.
+“We’ll stay together to the very end, then, little Emily-child. We won’t be parted for a minute. And I want you to be brave. You mustn’t be afraid of *anything*, Emily. Death isn’t terrible. The universe is full of love﻿—and spring comes everywhere﻿—and in death you open and shut a door. There are beautiful things on the other side of the door. I’ll find your mother there﻿—I’ve doubted many things, but I’ve never doubted *that*. Sometimes I’ve been afraid that she would get so far ahead of me in the ways of eternity that I’d never catch up. But I feel *now* that she’s waiting for me. And we’ll wait for you﻿—we won’t hurry﻿—we’ll loiter and linger till you catch up with us.”
+“I wish you﻿—could take me right through the door with you,” whispered Emily.
+“After a little while you won’t wish that. You have yet to learn how kind time is. And life has something for you﻿—I feel it. Go forward to meet it fearlessly, dear. I know you don’t feel like that just now﻿—but you will remember my words by and by.”
+“I feel just now,” said Emily, who couldn’t bear to hide anything from Father, “that I don’t like God any more.”
+Douglas Starr laughed﻿—the laugh Emily liked best. It was such a dear laugh﻿—she caught her breath over the dearness of it. She felt his arms tightening round her.
+“Yes, you do, honey. You can’t help liking God. He is Love itself, you know. You mustn’t mix Him up with Ellen Greene’s God, of course.”
+Emily didn’t know exactly what Father meant. But all at once she found that she wasn’t afraid any longer﻿—and the bitterness had gone out of her sorrow, and the unbearable pain out of her heart.
+
+===Chinese===
+
+“从世俗的眼光看，我这辈子自然是失败了。可你母亲家的人会照顾你的——这个我知道。默里家的傲气至少能担保这一点。何况他们没法不爱你。也许我早就该捎信叫他们来——也许如今也还该去叫。可我也有我的一点傲气——斯塔尔家也不是全无家风的——当年我娶你母亲的时候，默里家的人对我说过些顶刻薄的话。要不要给新月庄园（New Moon）捎信，叫他们来，艾米丽？”
+“不！”艾米丽说，几乎是凶狠狠的。
+剩下这几日金贵的日子，她不要任何人插到她同爸爸中间来。这个念头让她觉得可怕。等事到临头他们不得不来——那也够糟的了。可到了那时候，什么都不要紧了。
+“那就咱们俩守到最后一刻，小艾米丽。一分钟也不分开。我要你勇敢。什么都不要怕，艾米丽。死并不可怕。宇宙里满是爱——春天哪儿都来——死不过是开一扇门、关一扇门。门那一边有美好的事物。我会在那儿找见你母亲——许多事我都疑惑过，唯独这个我从不疑惑。有时候我还担心，她在永恒那条路上走得太前，我一辈子也赶不上她。可这会儿我觉得，她正在等我呢。我们也会等你——我们不急——我们就慢慢走、慢慢逛，一直等你赶上我们。”
+“我但愿——你能带着我一道从那扇门里过去。”艾米丽悄悄说。
+“过一阵你就不这么盼了。你还不知道时间是多么仁慈的东西。而且生活里有你的份儿——我感觉得到。勇敢地迎上去吧，亲爱的。我知道你这会儿不是这么想的——可往后你会记得我这话的。”
+“我这会儿觉得，”艾米丽说——她什么事都瞒不住爸爸——“我不再喜欢上帝了。”
+道格拉斯·斯塔尔（Douglas Starr）笑了——那是艾米丽顶喜欢的笑。多么可爱的笑啊——那份可爱让她屏住了呼吸。她觉出他的胳膊把她搂得更紧了。
+“不，你喜欢的，宝贝儿。你没法不喜欢上帝。他就是爱本身，你知道的。可你千万别把他同艾伦·格林的那个上帝搅在一块儿。”
+艾米丽不大明白爸爸的意思。可是忽然间她发现自己不再害怕了——悲哀里的那点苦味没有了，心头那阵难忍的疼痛也没有了。
+
+===Original===
+
+She felt as if love was all about her and around her, breathed out from some great, invisible, hovering Tenderness. One couldn’t be afraid or bitter where love was﻿—and love was everywhere. Father was going through the door﻿—no, he was going to lift a curtain﻿—she liked *that* thought better, because a curtain wasn’t as hard and fast as a door﻿—and he would slip into that world of which the flash had given her glimpses. He would be there in its beauty﻿—never very far away from her. She could bear anything if she could only feel that Father wasn’t very far away from her﻿—just beyond that wavering curtain.
+Douglas Starr held her until she fell asleep; and then in spite of his weakness he managed to lay her down in her little bed.
+“She will love deeply﻿—she will suffer terribly﻿—she will have glorious moments to compensate﻿—as I have had. As her mother’s people deal with her, so may God deal with them,” he murmured brokenly.
+
+===Chinese===
+
+她觉得爱就在她四周、在她身边，从某个巨大、无形、悬临着的温柔里呼出来。有爱的地方，人就害怕不起来、苦不起来——而爱是无处不在的。爸爸就要从那扇门里过去了——不，他是要掀起一幅帘子——这个念头她更喜欢，因为帘子不像门那样又硬又板——他要悄悄溜进那个世界，灵光（the flash）曾让她瞥见过它几眼。他会在那片美里待着——永远离她不远。只要能觉出爸爸离她不远——就在那幅微微晃动的帘子那边——她就什么都受得住。
+道格拉斯·斯塔尔抱着她，直到她睡熟；然后他不顾自己虚弱，还是设法把她安放到小床上。
+“她会深深地爱——她会受大苦——她也会有璀璨的时刻来补偿——像我一样。她母亲家的人怎样待她，愿上帝也怎样待他们。”他断断续续地低声说。
