@@ -189,3 +189,223 @@ Knowing what I did know, that struck me as being rather a remarkable conclusion 
 "胡说！"
 
  "不是胡说——我倒巴不得是胡说。如我所说，我完完全全意识到，某种可怕的祸殃正扑向保罗。
+
+===Original===
+
+I did not know what it was, but I did know that it was something altogether awful, of which merely to think was to shudder. I wanted to go to his assistance, I tried to, more than once; but I couldn’t, and I knew that I couldn’t﻿—I knew that I couldn’t move as much as a finger to help him.﻿—Stop﻿—let me finish!﻿—I told myself that it was absurd, but it wouldn’t do; absurd or not, there was the terror with me in the room. I knelt down, and I prayed, but the words wouldn’t come. I tried to ask God to remove this burden from my brain, but my longings wouldn’t shape themselves into words, and my tongue was palsied. I don’t know how long I struggled, but, at last, I came to understand that, for some cause, God had chosen to leave me to fight the fight alone. So I got up, and undressed, and went to bed﻿—and that was the worst of all. I had sent my maid away in the first rush of my terror, afraid, and, I think, ashamed, to let her see my fear. Now I would have given anything to summon her back again, but I couldn’t do it, I couldn’t even ring the bell. So, as I say, I got into bed.”
+She paused, as if to collect her thoughts. To listen to her words, and to think of the suffering which they meant to her, was almost more than I could endure. I would have thrown away the world to have been able to take her in my arms, and soothe her fears. I knew her to be, in general, the least hysterical of young women; little wont to become the prey of mere delusions; and, incredible though it sounded, I had an innate conviction that, even in its wildest periods, her story had some sort of basis in solid fact. What that basis amounted to, it would be my business, at any and every cost, quickly to determine.
+“You know how you have always laughed at me because of my objection to﻿—cockroaches, and how, in spring, the neighbourhood of May-bugs has always made me uneasy. As soon as I got into bed I felt that something of the kind was in the room.”
+“Something of what kind?”
+“Some kind of﻿—beetle. I could hear the whirring of its wings; I could hear its droning in the air; I knew that it was hovering above my head; that it was coming lower and lower, nearer and nearer. I hid myself; I covered myself all over with the clothes﻿—then I felt it bumping against the coverlet. And, Sydney!” She drew closer. Her blanched cheeks and frightened eyes made my heart bleed.
+
+===Chinese===
+
+“我说不出那是什么，只知道那是彻头彻尾可怕的东西，只要想一想便叫人战栗。我想去救他，试了不止一次；可我做不到，而且我知道我做不到——我知道自己连一根指头也抬不起来去帮他。——等等——让我说完！——我对自己说这太荒唐了，可没有用；荒唐也罢，不荒唐也罢，那恐怖就在房里，同我在一起。我跪下来祷告，可话就是出不来。我想求上帝把这重担从我的脑子里挪走，可我的心愿化不成言语，我的舌头瘫住了。我不知道自己挣扎了多久，但到最后我终于明白：出于某种缘由，上帝选择让我独自打这一仗。于是我起身，脱了衣裳，上了床——那才是最糟糕的。起初恐怖袭来时，我已把女仆打发走了，我害怕，而且我想，也羞于让她看见我的恐惧。这会儿我情愿付出一切把她叫回来，可我做不到，我连铃都拉不了。就这样，如我所说，我上了床。”
+她停了停，似乎在整理思绪。听她讲这些话，想到这些话对她意味着怎样的苦楚，我几乎承受不住。只要能把她搂进怀里，抚慰她的恐惧，我情愿把整个世界抛掉。我知道她素来是最不歇斯底里的年轻女子，绝少沦为纯粹妄念的猎物；而且，尽管听起来难以置信，我却有一种本能的确信：她的故事即便在最离奇的段落里，也有某种坚实的事实作底。那底细究竟是什么，不惜任何代价、迅速查清它，便是我的分内之事。
+“你是一向怎样笑话我的——笑我见不得蟑螂；还有，一到春天，五月金龟子近了身，我总是不安。我刚一上床，便觉得那类东西就在房里。”
+“哪类东西？”
+“某种——甲虫。我听得见它翅膀的嗡嗡声；听得见它在空中营营地叫；我知道它正盘旋在我头顶上，越飞越低，越逼越近。我把自己藏起来，用被子把全身蒙住——接着我便觉出它撞在床罩上。还有，悉尼！”她凑近了些。她那煞白的脸颊和惊惶的眼睛让我心头泣血。
+
+===Original===
+
+Her voice became but an echo of itself. “It followed me.”
+“Marjorie!”
+“It got into the bed.”
+“You imagined it.”
+“I didn’t imagine it. I heard it crawl along the sheets, till it found a way between them, and then it crawled towards me. And I felt it﻿—against my face.﻿—And it’s there now.”
+“Where?”
+She raised the forefinger of her left hand.
+“There!﻿—Can’t you hear it droning?”
+She listened, intently. I listened too. Oddly enough, at that instant the droning of an insect did become audible.
+“It’s only a bee, child, which has found its way through the open window.”
+“I wish it were only a bee, I wish it were.﻿—Sydney, don’t you feel as if you were in the presence of evil? Don’t you want to get away from it, back into the presence of God?”
+“Marjorie!”
+“Pray, Sydney, pray!﻿—I can’t!﻿—I don’t know why, but I can’t!”
+She flung her arms about my neck, and pressed herself against me in paroxysmal agitation. The violence of her emotion bade fair to unman me too. It was so unlike Marjorie﻿—and I would have given my life to save her from a toothache. She kept repeating her own words﻿—as if she could not help it.
+“Pray, Sydney, pray!”
+At last I did as she wished me. At least, there is no harm in praying﻿—I never heard of its bringing hurt to anyone. I repeated aloud the Lord’s Prayer﻿—the first time for I know not how long. As the divine sentences came from my lips, hesitatingly enough, I make no doubt, her tremors ceased. She became calmer. Until, as I reached the last great petition, “Deliver us from evil,” she loosed her arms from about my neck, and dropped upon her knees, close to my feet. And she joined me in the closing words, as a sort of chorus.
+“For Thine is the Kingdom, the Power, and the Glory, forever and ever. Amen.”
+When the prayer was ended, we both of us were still. She with her head bowed, and her hands clasped; and I with something tugging at my heartstrings which I had not felt there for many and many a year, almost as if it had been my mother’s hand;﻿—I daresay that sometimes she does stretch out her hand, from her place among the angels, to touch my heartstrings, and I know nothing of it all the while.
+As the silence still continued, I chanced to glance up, and there was old Lindon peeping at us from his hiding-place behind the screen.
+
+===Chinese===
+
+她的声音低得只剩了自己的一缕回音。“它跟着我。”
+“玛乔丽！”
+“它钻进了被窝。”
+“你是想象出来的。”
+“我不是想象。我听见它顺着床单爬，直到寻见被子间的缝隙，便朝我爬过来。我觉出了它——贴在我的脸上。——它现在就在那儿。”
+“在哪儿？”
+她抬起左手的食指。
+“那儿！——你听不见它在营营地叫吗？”
+她凝神听着。我也听。说来也怪，就在那一刻，一只虫子的嗡鸣当真清晰可闻。
+“不过是一只蜜蜂，孩子，从敞开的窗子飞进来的。”
+“我但愿那只是一只蜜蜂，我但愿如此。——悉尼，你是不是觉得，自己正站在邪祟面前？你是不是想躲开它，回到上帝面前去？”
+“玛乔丽！”
+“祷告吧，悉尼，祷告吧！——我祷告不了！——不知道为什么，我就是祷告不了！”
+她一把搂住我的脖子，激动得浑身抽搐般贴在我身上。她情绪的猛烈几乎也要把我这个男子汉击垮。这太不像玛乔丽了——而为了不让她受一颗牙疼的罪，我都肯舍出性命。她一遍遍重复着自己的话——仿佛身不由己。
+“祷告吧，悉尼，祷告吧！”
+我终于依了她。至少，祷告没有坏处——我从没听说祷告伤过谁。我出声背诵了主祷文——这是不知多少年来的头一回。当那些神圣的句子从我唇间流出时——我毫不怀疑，颇有些迟疑结巴——她的战栗止住了。她平静下来。直到我念到那最后一项伟大的祈求，“救我们脱离凶恶”，她才松开搂着我脖子的双臂，跌跪在我脚边。她还跟着我一同念了结尾的话，像是应和的合唱。
+“因为国度、权柄、荣耀，全是你的，直到永远永远。阿们。”
+祷告完了，我们两个都静静不动。她低着头，双手交握；我心里则有一样东西在揪动心弦，那是许多许多年不曾有过的感觉，几乎就像是我母亲的手；——我想，她有时候兴许真会从她天使中间的座位上伸过手来，碰一碰我的心弦，而我浑然不觉。
+静默还在继续，我偶然抬眼一望——老林登正从屏风后面的藏身处偷看我们。
+
+===Original===
+
+The look of amazed perplexity which was on his big red face struck me with such a keen sense of the incongruous that it was all I could do to keep from laughter. Apparently the sight of us did nothing to lighten the fog which was in his brain, for he stammered out, in what was possibly intended for a whisper,
+“Is﻿—is she m-mad?”
+The whisper﻿—if it was meant for a whisper﻿—was more than sufficiently audible to catch his daughter’s ears. She started﻿—raised her head﻿—sprang to her feet﻿—turned﻿—and saw her father.
+“Papa!”
+Immediately her sire was seized with an access of stuttering.
+“W-w-what the d-devil’s the﻿—the m-m-meaning of this?”
+Her utterance was clear enough﻿—I fancy her parent found it almost painfully clear.
+“Rather it is for me to ask, what is the meaning of this! Is it possible, that, all the time, you have actually been concealed behind that﻿—screen?”
+Unless I am mistaken the old gentleman cowered before the directness of his daughter’s gaze﻿—and endeavoured to conceal the fact by an explosion of passion.
+“Do-don’t you s-speak to me li-like that, you un-undutiful girl! I﻿—I’m your father!”
+“You certainly are my father; though I was unaware until now that my father was capable of playing the part of eavesdropper.”
+Rage rendered him speechless﻿—or, at any rate, he chose to let us believe that that was the determining cause of his continuing silence. So Marjorie turned to me﻿—and, on the whole, I had rather she had not. Her manner was very different from what it had been just now﻿—it was more than civil, it was freezing.
+“Am I to understand, Mr. Atherton, that this has been done with your cognisance? That while you suffered me to pour out my heart to you unchecked, you were aware, all the time, that there was a listener behind the screen?”
+I became keenly aware, on a sudden, that I had borne my share in playing her a very shabby trick﻿—I should have liked to throw old Lindon through the window.
+“The thing was not of my contriving. Had I had the opportunity I would have compelled Mr. Lindon to face you when you came in. But your distress caused me to lose my balance. And you will do me the justice to remember that I endeavoured to induce you to come with me into another room.”
+“But I do not seem to remember your hinting at there being any particular reason why I should have gone.”
+“You never gave me a chance.”
+“Sydney!
+
+===Chinese===
+
+他那张大红脸上惊愕茫然的表情，让我生出一种如此强烈的不协调之感，我好不容易才忍住笑。看来我们这般景象丝毫没有驱散他脑子里的迷雾，只见他期期艾艾地开口，用的兴许是想说成耳语的声气：
+“她——她疯——疯了吗？”
+这声耳语——倘若算耳语——传进他女儿耳朵里绰绰有余。她一惊——抬起头——跳将起来——转过身——看见了她父亲。
+“爸爸！”
+她的尊大人立刻犯起一阵结巴。
+“这——这到底是——是搞——搞的什么鬼？”
+她的口齿可是清楚得很——我想她那做父亲的听来，清楚得几乎扎耳朵。
+“这话倒该我来问：这是怎么回事！难道说，您从头到尾当真一直藏在那扇——屏风后面？”
+要是我没看错，面对女儿目光的直视，老先生畏缩了——随即用一阵勃然大怒来掩饰这一点。
+“你——你不许那——那样跟我说话，你这不——不孝的东西！我——我是你父亲！”
+“您当然是我父亲；只是我直到现在才知道，我父亲竟干得出偷听的勾当。”
+愤怒堵得他说不出话——或者说，他索性让我们相信，他一言不发正是这个缘故。于是玛乔丽转向我——总的来讲，我倒宁愿她没有。她的态度与方才判若两人——岂止是客气，简直是冷若冰霜。
+“我是不是可以这样理解，阿瑟顿先生：这件事您是知情参与的？您任由我把心里话一股脑儿倒给您，而您自始至终明知屏风后面有个偷听的人？”
+我猛然痛切地意识到，这场对她的卑劣捉弄里也有我的一份——我真想把老林登从窗户扔出去。
+“这事不是我的谋划。但凡有机会，您进来时我本会逼着林登先生出来同您照面的。可您的悲苦让我乱了方寸。而且您主持公道，总还记得我曾劝您随我到另一间屋里去。”
+“可我似乎不记得，您暗示过有什么特别的缘故要我走。”
+“您没给我机会。”
+“悉尼！”
+
+===Original===
+
+﻿—I had not thought you would have played me such a trick!”
+When she said that﻿—in such a tone!﻿—the woman whom I loved!﻿—I could have hammered my head against the wall. The hound I was to have treated her so scurvily!
+Perceiving I was crushed she turned again to face her father, cool, calm, stately;﻿—she was, on a sudden, once more, the Marjorie with whom I was familiar. The demeanour of parent and child was in striking contrast. If appearances went for aught, the odds were heavy that in any encounter which might be coming the senior would suffer.
+“I hope, papa, that you are going to tell me that there has been some curious mistake, and that nothing was farther from your intention than to listen at a keyhole. What would you have thought﻿—and said﻿—if I had attempted to play the spy on you? And I have always understood that men were so particular on points of honour.”
+Old Lindon was still hardly fit to do much else than splutter﻿—certainly not qualified to chop phrases with this sharp-tongued maiden.
+“D-don’t talk to me li-like that, girl!﻿—I﻿—I believe you’re s-stark mad!” He turned to me. “W-what was that tomfoolery she was talking to you about?”
+“To what do you allude?”
+“About a rub-rubbishing b-beetle, and g-goodness alone knows what﻿—d-diseased and m-morbid imagination﻿—r-reared on the literature of the gutter!﻿—I never thought that a child of mine could have s-sunk to such a depth!﻿—Now, Atherton, I ask you to t-tell me frankly﻿—what do you think of a child who behaves as she has done? Who t-takes a nameless vagabond into the house and con-conceals his presence from her father? And m-mark the sequel! even the vagabond warns her against the r-rascal Lessingham!﻿—Now, Atherton, tell me what you think of a girl who behaves like that?” I shrugged my shoulders. “I﻿—I know very well what you d-do think of her﻿—don’t be afraid to say it out because she’s present.”
+“No; Sydney, don’t be afraid.”
+I saw that her eyes were dancing﻿—in a manner of speaking, her looks brightened under the sunshine of her father’s displeasure.
+“Let’s hear what you think of her as a﻿—as a m-man of the world!”
+“Pray, Sydney, do!”
+“What you feel for her in your﻿—your heart of hearts!”
+“Yes, Sydney, what do you feel for me in your heart of hearts?”
+The baggage beamed with heartless sweetness﻿—she was making a mock of me. Her father turned as if he would have rent her.
+
+===Chinese===
+
+“——我真没想到，你竟会这样捉弄我！”
+她这样说着——用这样的声调！——我爱的这个女人！——我真要拿脑袋往墙上撞。我这条恶棍，竟这样下作地待她！
+见我一蹶不振，她又转过身去面对父亲，冷静、沉着、端庄；——霎时间，她忽然又成了我熟悉的那个玛乔丽。父女俩的仪态恰成对照。倘若表象作数，那么不管接下来有没有交锋，吃亏的十有八九是老的那位。
+“爸爸，我希望您接下来会告诉我，这里头出了个古怪的误会，而您绝没有半点趴在锁眼上偷听的念头。要是我想法子侦察您，您会怎么想——怎么说？我还一向听说，男人们在荣誉的问题上最讲究。”
+老林登这会儿除了干瞪眼、冒白沫，旁的什么也做不来——要同这位伶牙俐齿的姑娘斗嘴过招，更是不够格。
+“别——别那样跟我说话，丫头！——我——我看你是疯——疯透了！”他转向我。“她——她跟你胡扯的那些蠢话是——是怎么回事？”
+“您指的是什么？”
+“什么甲——甲壳虫，还——还有老天爷才知道的什么——病——病态的、阴——阴郁的想象力——全是阴——阴沟里那路书喂出来的！——我从没想到，我的孩子会堕——堕落到这步田地！——好了，阿瑟顿，我请你坦——坦白告诉我——你怎么看一个像她这样行事的孩子？把一个没名没姓的流浪汉领进家门，还向她父亲瞒——瞒着他的存在？再——再看看后头这出！连那流浪汉都警告她提防莱辛厄姆那个恶——恶棍！——好了，阿瑟顿，你说，你怎么看一个这样行事的姑娘？”我耸了耸肩。“我——我可清楚得很，你对她是怎么——怎么想的——别因为她当面站着，就不敢大声说出来。”
+“是啊，悉尼，别怕。”
+我看见她的眼睛亮晶晶地闪着——可以这么说，父亲的恼怒如日光照临，她的脸色反而焕发起来。
+“让咱们听听，你作为一介——一介阅——阅世之士，怎么看她！”
+“请吧，悉尼，说吧！”
+“你在你——你的内心深处，对她作何感想！”
+“是啊，悉尼，你在你的内心深处，对我作何感想？”
+这鬼丫头笑得甜腻无情——她在把我当猴耍。她父亲气得转身过去，仿佛要把她撕碎。
+
+===Original===
+
+“D-don’t you speak until you’re spoken to! Atherton, I﻿—I hope I’m not deceived in you; I﻿—I hope you’re the man I﻿—I took you for; that you’re willing and﻿—and ready to play the part of a-a-an honest friend to this mis-misguided simpleton. T-this is not the time for mincing words, it﻿—it’s the time for candid speech. Tell this﻿—this weak minded young woman, right out, whether this man Lessingham is, or is not, a damned scoundrel.”
+“Papa!﻿—Do you really think that Sydney’s opinion, or your opinion, is likely to alter facts?”
+“Do you hear, Atherton, tell this wretched girl the truth!”
+“My dear Mr. Lindon, I have already told you that I know nothing either for or against Mr. Lessingham except what is known to all the world.”
+“Exactly﻿—and all the world knows him to be a miserable adventurer who is scheming to entrap my daughter.”
+“I am bound to say, since you press me, that your language appears to me to be unnecessarily strong.”
+“Atherton, I﻿—I’m ashamed of you!”
+“You see, Sydney, even papa is ashamed of you; now you are outside the pale.﻿—My dear papa, if you will allow me to speak, I will tell you what I know to be the truth, the whole truth, and nothing but the truth.﻿—That Mr. Lessingham is a man with great gifts goes without saying﻿—permit me, papa! He is a man of genius. He is a man of honour. He is a man of the loftiest ambitions, of the highest aims. He has dedicated his whole life to the improvement of the conditions amidst which the less fortunate of his fellow countrymen are at present compelled to exist. That seems to me to be an object well worth having. He has asked me to share his lifework, and I have told him that I will; when, and where, and how, he wants me to. And I will. I do not suppose his life has been free from peccadilloes. I have no delusion on the point. What man’s life has? Who among men can claim to be without sin? Even the members of our highest families sometimes hide behind screens. But I know that he is, at least, as good a man as I ever met, I am persuaded that I shall never meet a better; and I thank God that I have found favour in his eyes.﻿—Goodbye, Sydney.﻿—I suppose I shall see you again, papa.”
+With the merest inclination of her head to both of us she straightway left the room. Lindon would have stopped her.
+“S-stay, y-y-y-you﻿—” he stuttered.
+But I caught him by the arm.
+
+===Chinese===
+
+“没——没问你，不许——不许你说话！阿瑟顿，我——我希望我没看错你；我——我希望你就是我——我当初认定的那个人；愿意而且——而且随时准备给这误——误入歧途的傻丫头当一介正——正直的朋友。现——现在不是咬文嚼字的时候，是——是开诚布公的时候。直截了当地告诉这个——这个脑子糊涂的年轻女人：莱辛厄姆这个人，到底是不是一个天杀的恶棍。”
+“爸爸！——您当真以为，悉尼的意见，或者您的意见，能改变事实吗？”
+“听见没有，阿瑟顿，把实话告诉这个可怜的丫头！”
+“亲爱的林登先生，我已经告诉过您，关于莱辛厄姆先生，除了世人皆知的情况，我别无所知，既无不利于他的，也无有利于他的。”
+“这就对了——而世人全知道他是个卑鄙的冒险家，正设着圈套诱捕我的女儿。”
+“既然您逼我说，那我不得不说，您的措辞在我看来未免过重了。”
+“阿瑟顿，我——我为你害臊！”
+“你瞧，悉尼，连爸爸都为你害臊；这下你可被逐出正人君子之列了。——亲爱的爸爸，若蒙您容我一言，我要把我确知的事实告诉您，全部的事实，惟有事实。——莱辛厄姆先生才华出众，这自不待言——容我说下去，爸爸！他是个天才。他是个君子。他是个抱负最崇高、志向最远大的人。他毕生致力于改善他那些较不幸的同胞如今被迫挣扎求存的境况。依我看，那才是一个值得毕生以求的目标。他邀我分享他的毕生事业，我已应允；何时、何地、以何种方式，全凭他要我如何。而且我一定做到。我不认为他此生毫无小过。在这一点上我不抱幻想。谁的一生没有呢？世人之中谁敢自称无瑕无罪？连我们最高门第的族人，有时也会藏到屏风后面去呢。但我知道，他至少不逊于我平生所遇的任何一个好人，我深信我永远遇不到更好的了；我感谢上帝，蒙他垂青于我。——再见，悉尼。——爸爸，我想我还会见到您的。”
+她朝我们两个微微一颔首，随即径自离了房间。林登本想拦她。
+“站——站住，你——你——你——”他结结巴巴地说。
+可我一把抓住了他的胳膊。
+
+===Original===
+
+“If you will be advised by me, you will let her go. No good purpose will be served by a multiplication of words.”
+“Atherton, I﻿—I’m disappointed in you. You﻿—you haven’t behaved as I expected. I﻿—I haven’t received from you the assistance which I looked for.”
+“My dear Lindon, it seems to me that your method of diverting the young lady from the path which she has set herself to tread is calculated to send her furiously along it.”
+“C-confound the women! c-confound the women! I don’t mind telling you, in c-confidence, that at﻿—at times, her mother was the devil, and I’ll be﻿—I’ll be hanged if her daughter isn’t worse.﻿—What was the tomfoolery she was talking to you about? Is she mad?”
+“No﻿—I don’t think she’s mad.”
+“I never heard such stuff, it made my blood run cold to hear her. What’s the matter with the girl?”
+“Well﻿—you must excuse my saying that I don’t fancy you quite understand women.”
+“I﻿—I don’t﻿—and I﻿—I﻿—I don’t want to either.”
+I hesitated; then resolved on a taradiddle﻿—in Marjorie’s interest.
+“Marjorie is high-strung﻿—extremely sensitive. Her imagination is quickly aflame. Perhaps, last night, you drove her as far as was safe. You heard for yourself how, in consequence, she suffered. You don’t want people to say you have driven her into a lunatic asylum.”
+“I﻿—good heavens, no! I﻿—I’ll send for the doctor directly I get home﻿—I﻿—I’ll have the best opinion in town.”
+“You’ll do nothing of the kind﻿—you’ll only make her worse. What you have to do is to be patient with her, and let her have peace.﻿—As for this affair of Lessingham’s, I have a suspicion that it may not be all such plain sailing as she supposes.”
+“What do you mean?”
+“I mean nothing. I only wish you to understand that until you hear from me again you had better let matters slide. Give the girl her head.”
+“Give the girl her head! H-haven’t I﻿—I g-given the g-girl her h-head all her l-life!” He looked at his watch. “Why, the day’s half gone!” He began scurrying towards the front door, I following at his heels. “I’ve got a committee meeting on at the club﻿—m-most important! For weeks they’ve been giving us the worst food you ever tasted in your life﻿—p-played havoc with my digestion, and I﻿—I’m going to tell them if﻿—things aren’t changed, they﻿—they’ll have to pay my doctor’s bills.
+
+===Chinese===
+
+“您若肯听我一句劝，就让她走。多费唇舌，无济于事。”
+“阿瑟顿，我——我对你失望。你——你行事不合我的指望。我——我没从你那里得到我指望的援手。”
+“亲爱的林登，依我看，您那套劝小姐别走她认定的那条路的法子，只会催得她沿那条路发狂地奔。”
+“女——女人真该死！女——女人真该死！我不妨私——私下告诉你，她——她母亲有时候就是个魔鬼，她这女儿要不是更——更邪乎，我就不——不得好死。——她方才跟你胡扯的那通蠢话是——是怎么回事？她疯了吗？”
+“不——我看她没疯。”
+“我从没听过这种话，听得我血都凉了。这丫头到底是怎么了？”
+“呃——恕我直言，我看您并不怎么了解女人。”
+“我——我不了解——而且我——我——我也无意了解。”
+我踌躇了一下；随即打定主意撒个小谎——为了玛乔丽的缘故。
+“玛乔丽神经紧绷——极其敏感。她的想象力一点就着。昨夜您逼迫她，或许已逼到了安全线上的极限。您亲耳听到了她因此受了怎样的罪。您总不愿人家说，是您把她逼进疯人院的吧。”
+“我——老天爷，那可不行！我——我一到家就派人去请医生——我——我要请全城最高明的诊断。”
+“您什么都不能做——那只会让她更糟。您要做的，是对她有耐心，让她安生。——至于莱辛厄姆这桩事，我有点疑心，事情未必像她想的那样一帆风顺。”
+“你是什么意思？”
+“没什么意思。我只望您明白：在我再给您音讯之前，您最好让事情先缓一缓。松开缰绳，由那丫头去。”
+“由她去！我——我这一辈子，何——何尝不是由——由着这丫——丫头的性——性子！”他看了看表。“哎呀，白天都过去一半了！”他急匆匆朝前门奔去，我紧随其后。“俱乐部里还有个委员会要开会呢——最——最要紧的事！好几个礼拜了，他们给咱们吃的伙食糟糕透顶，你一辈子都没尝过的——把我的肠胃全搞坏了，我——我要告诉他们，要——要是再不改变，他——他们就得出我的医药费。”
+
+===Original===
+
+﻿—As for that man, Lessingham﻿—”
+As he spoke, he himself opened the hall door, and there, standing on the step was “that man Lessingham” himself. Lindon was a picture. The Apostle was as cool as a cucumber. He held out his hand.
+“Good morning, Mr. Lindon. What delightful weather we are having.”
+Lindon put his hand behind his back﻿—and behaved as stupidly as he very well could have done.
+“You will understand, Mr. Lessingham, that, in future, I don’t know you, and that I shall decline to recognise you anywhere; and that what I say applies equally to any member of my family.”
+With his hat very much on the back of his head he went down the steps like an inflated turkeycock.
+
+===Chinese===
+
+“——至于莱辛厄姆那个人嘛——”
+他正说着，亲手拉开了大厅的门——台阶上站着的，正是“莱辛厄姆那个人”本人。林登那副样子真堪入画。这位使徒却镇定自若。他伸出手来。
+“早上好，林登先生。今儿天气真宜人。”
+林登把手背到身后——那份蠢态，演得真是再到家不过了。
+“您要明白，莱辛厄姆先生，今后我不认识您，而且无论在哪里，我都将拒绝同您招呼；我这话，对我家里任何成员一律适用。”
+他把帽子大大咧咧地扣在后脑勺上，像一只气鼓鼓的雄火鸡，迈下台阶去了。
