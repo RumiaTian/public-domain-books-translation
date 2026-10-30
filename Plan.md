@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-29，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-10-30，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **492** 完 / **34** 译 / **121** 待（共 647 本） | **10670** / 18180 篇（**171860.3** / 305863.1 KB）· **56.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **40** 本待审 | 覆盖精读 **452** 本（**91.9%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **492** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **492** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **493** 完 / **33** 译 / **121** 待（共 647 本） | **10673** / 18180 篇（**171988.5** / 305863.1 KB）· **56.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **41** 本待审 | 覆盖精读 **452** 本（**91.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **493** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **493** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **492** 本译完，**452** 本完成独立审校，**492** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **493** 本译完，**452** 本完成独立审校，**493** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -231,7 +231,7 @@
 | 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
 | 207 | `emile-gaboriau_the-slaves-of-paris_charles-scribners-sons` | ✅ 已入库 | ⚪ 待译 (64篇) | — | — |  |
 | 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [✅ **100%**](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (36篇) | ⏳ 待审 | [📦 415KB](翻译项目/emma-goldman_my-disillusionment-in-russia/我在俄国的幻灭.epub) | 已译完待审 |
-| 209 | `ernest-bramah_kai-lungs-golden-hours` | ✅ 已入库 | [🟡 73.3%](翻译项目/ernest-bramah_kai-lungs-golden-hours/译文) (10/13) | — | — |  |
+| 209 | `ernest-bramah_kai-lungs-golden-hours` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-bramah_kai-lungs-golden-hours/译文) (13篇) | ⏳ 待审 | [📦 480KB](翻译项目/ernest-bramah_kai-lungs-golden-hours/凯龙的黄金时光.epub) | 已译完待审 |
 | 210 | `ernest-howard-crosby_captain-jinks-hero` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-howard-crosby_captain-jinks-hero/译文) (17篇) | [✅ 已审(B)](翻译项目/ernest-howard-crosby_captain-jinks-hero/审核报告.md) | [📦 338KB](翻译项目/ernest-howard-crosby_captain-jinks-hero/金克斯上尉：英雄.epub) | B 良好 | 全书17章完整精译、无断章漏译与A级错误，讽刺神韵传神，唯个别… |
 | 211 | `ernest-poole_his-family` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-poole_his-family/译文) (45篇) | ⏳ 待审 | [📦 466KB](翻译项目/ernest-poole_his-family/His Family.epub) | 已译完待审 |
 | 212 | `ernest-shackleton_south` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10670/18180 篇 (56.2%)** | **452 本完成** | **492 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10673/18180 篇 (56.2%)** | **452 本完成** | **493 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1306,6 +1306,7 @@
 | Wired Love | Ella Cheever Thayer | `ella-cheever-thayer_wired-love` | 267KB | - | [`有线之恋.epub`](翻译项目/ella-cheever-thayer_wired-love/有线之恋.epub) |
 | Jibby Jones | Ellis Parker Butler | `ellis-parker-butler_jibby-jones` | 269KB | - | [`吉比·琼斯.epub`](翻译项目/ellis-parker-butler_jibby-jones/吉比·琼斯.epub) |
 | 我在俄国的幻灭 | Emma Goldman | `emma-goldman_my-disillusionment-in-russia` | 415KB | - | [`我在俄国的幻灭.epub`](翻译项目/emma-goldman_my-disillusionment-in-russia/我在俄国的幻灭.epub) |
+| 凯龙的黄金时光 | Ernest Bramah | `ernest-bramah_kai-lungs-golden-hours` | 480KB | - | [`凯龙的黄金时光.epub`](翻译项目/ernest-bramah_kai-lungs-golden-hours/凯龙的黄金时光.epub) |
 | Captain Jinks, Hero | Ernest Howard Crosby | `ernest-howard-crosby_captain-jinks-hero` | 338KB | - | [`金克斯上尉：英雄.epub`](翻译项目/ernest-howard-crosby_captain-jinks-hero/金克斯上尉：英雄.epub) |
 | ernest-poole_his-family | Ernest Poole | `ernest-poole_his-family` | 466KB | - | [`His Family.epub`](翻译项目/ernest-poole_his-family/His Family.epub) |
 | 马拉泰斯塔政论集 | Errico Malatesta | `errico-malatesta_essays_various-translators` | 166KB | - | [`马拉泰斯塔政论集.epub`](翻译项目/errico-malatesta_essays_various-translators/马拉泰斯塔政论集.epub) |
