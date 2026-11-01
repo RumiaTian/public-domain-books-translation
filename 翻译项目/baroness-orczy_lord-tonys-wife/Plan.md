@@ -108,30 +108,30 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 
 | # | 篇名 | 源文 | 大小 | 状态 |
 |---|------|------|------|------|
-| 0 | 题献 | 00-dedication.md | 0.1KB | todo |
-| 1 | 序章：南特，1789 | 01-nantes-1789.md | 49.2KB | todo |
-| 2 | 卷一题名页：巴斯，1793 | 02-book-1-bath-1793.md | 0.0KB | todo |
-| 3 | 荒野（I） | 03-the-moor.md | 11.1KB | todo |
-| 4 | 「底」客栈（II） | 04-the-bottom-inn.md | 46.1KB | todo |
-| 5 | 舞会厅（III） | 05-the-assembly-rooms.md | 34.6KB | todo |
-| 6 | 父亲（IV） | 06-the-father.md | 13.7KB | todo |
-| 7 | 巢（V） | 07-the-nest.md | 21.2KB | todo |
-| 8 | 红花侠（VI） | 08-the-scarlet-pimpernel.md | 11.4KB | todo |
-| 9 | 玛格丽特（VII） | 09-marguerite.md | 6.3KB | todo |
-| 10 | 通往波蒂斯黑德之路（VIII） | 10-the-road-to-portishead.md | 21.0KB | todo |
-| 11 | 法国海岸（IX） | 11-the-coast-of-france.md | 20.5KB | todo |
-| 12 | 卷二题名页：南特，1793 年 12 月 | 12-book-2-nantes-december-1793.md | 0.0KB | todo |
-| 13 | 虎穴（I） | 13-the-tiger-s-lair.md | 51.9KB | todo |
-| 14 | 布法伊（II） | 14-le-bouffay.md | 26.5KB | todo |
-| 15 | 猎鸟人（III） | 15-the-fowlers.md | 35.9KB | todo |
-| 16 | 罗 网（IV） | 16-the-net.md | 36.2KB | todo |
-| 17 | 希望的讯息（V） | 17-the-message-of-hope.md | 16.6KB | todo |
-| 18 | 「死鼠」酒馆（VI） | 18-the-rat-mort.md | 18.3KB | todo |
-| 19 | 酒馆混战（VII） | 19-the-fracas-in-the-tavern.md | 31.3KB | todo |
-| 20 | 英格兰冒险家们（VIII） | 20-the-english-adventurers.md | 22.1KB | todo |
-| 21 | 总督（IX） | 21-the-proconsul.md | 22.4KB | todo |
-| 22 | 托尼勋爵（X） | 22-lord-tony.md | 9.2KB | todo |
-| 23 | 尾注 | 23-endnotes.md | 0.1KB | todo |
+| 0 | 题献 | 00-dedication.md | 0.1KB | done |
+| 1 | 序章：南特，1789 | 01-nantes-1789.md | 49.2KB | done |
+| 2 | 卷一题名页：巴斯，1793 | 02-book-1-bath-1793.md | 0.0KB | done |
+| 3 | 荒野（I） | 03-the-moor.md | 11.1KB | done |
+| 4 | 「底」客栈（II） | 04-the-bottom-inn.md | 46.1KB | done |
+| 5 | 舞会厅（III） | 05-the-assembly-rooms.md | 34.6KB | done |
+| 6 | 父亲（IV） | 06-the-father.md | 13.7KB | done |
+| 7 | 巢（V） | 07-the-nest.md | 21.2KB | done |
+| 8 | 红花侠（VI） | 08-the-scarlet-pimpernel.md | 11.4KB | done |
+| 9 | 玛格丽特（VII） | 09-marguerite.md | 6.3KB | done |
+| 10 | 通往波蒂斯黑德之路（VIII） | 10-the-road-to-portishead.md | 21.0KB | done |
+| 11 | 法国海岸（IX） | 11-the-coast-of-france.md | 20.5KB | done |
+| 12 | 卷二题名页：南特，1793 年 12 月 | 12-book-2-nantes-december-1793.md | 0.0KB | done |
+| 13 | 虎穴（I） | 13-the-tiger-s-lair.md | 51.9KB | done |
+| 14 | 布法伊（II） | 14-le-bouffay.md | 26.5KB | done |
+| 15 | 猎鸟人（III） | 15-the-fowlers.md | 35.9KB | done |
+| 16 | 罗 网（IV） | 16-the-net.md | 36.2KB | done |
+| 17 | 希望的讯息（V） | 17-the-message-of-hope.md | 16.6KB | done |
+| 18 | 「死鼠」酒馆（VI） | 18-the-rat-mort.md | 18.3KB | done |
+| 19 | 酒馆混战（VII） | 19-the-fracas-in-the-tavern.md | 31.3KB | done |
+| 20 | 英格兰冒险家们（VIII） | 20-the-english-adventurers.md | 22.1KB | done |
+| 21 | 总督（IX） | 21-the-proconsul.md | 22.4KB | done |
+| 22 | 托尼勋爵（X） | 22-lord-tony.md | 9.2KB | done |
+| 23 | 尾注 | 23-endnotes.md | 0.1KB | done |
 
 ---
 
@@ -141,4 +141,4 @@ python scripts/check_bilingual.py 译文/对应篇名.zh-CN.md
 
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
-| - | - | - | （尚未运行） |
+| 2026-10-30 | 16-23章全书收官 | 完成 | 16-23章全部译毕并通过check_bilingual校验，全书todo清零100%完工 |
