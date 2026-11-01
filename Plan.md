@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-10-30，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-11-01，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **493** 完 / **33** 译 / **121** 待（共 647 本） | **10673** / 18180 篇（**171988.5** / 305863.1 KB）· **56.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **41** 本待审 | 覆盖精读 **452** 本（**91.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **493** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **493** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **494** 完 / **32** 译 / **121** 待（共 647 本） | **10681** / 18180 篇（**172144.7** / 305863.1 KB）· **56.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **42** 本待审 | 覆盖精读 **452** 本（**91.5%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **494** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **494** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **493** 本译完，**452** 本完成独立审校，**493** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **494** 本译完，**452** 本完成独立审校，**494** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -93,7 +93,7 @@
 | 68 | `barbara-newhall-follett_the-house-without-windows` | ✅ 已入库 | [✅ **100%**](翻译项目/barbara-newhall-follett_the-house-without-windows/译文) (6篇) | [✅ 已审(A)](翻译项目/barbara-newhall-follett_the-house-without-windows/审核报告.md) | [📦 165KB](翻译项目/barbara-newhall-follett_the-house-without-windows/没有窗户的房子.epub) | A 优秀 | 全书译文空灵纯真、诗韵盎然，极富文学感染力地再现了神童少女芭芭… |
 | 69 | `baroness-orczy_el-dorado` | ✅ 已入库 | [🟡 0.8%](翻译项目/baroness-orczy_el-dorado/译文) (1/53) | — | — |  |
 | 70 | `baroness-orczy_i-will-repay` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_i-will-repay/译文) (32篇) | [✅ 已审(B)](翻译项目/baroness-orczy_i-will-repay/审核报告.md) | [📦 343KB](翻译项目/baroness-orczy_i-will-repay/I Will Repay.epub) | B 良好 | 全书 471 块逐块对照后，仅发现 1 处 A 级文本缺失（第… |
-| 71 | `baroness-orczy_lord-tonys-wife` | ✅ 已入库 | [🟡 69.1%](翻译项目/baroness-orczy_lord-tonys-wife/译文) (16/24) | — | — |  |
+| 71 | `baroness-orczy_lord-tonys-wife` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_lord-tonys-wife/译文) (24篇) | ⏳ 待审 | [📦 474KB](翻译项目/baroness-orczy_lord-tonys-wife/托尼勋爵的妻子.epub) | 已译完待审 |
 | 72 | `baroness-orczy_pimpernel-and-rosemary` | ✅ 已入库 | [🟡 3.3%](翻译项目/baroness-orczy_pimpernel-and-rosemary/译文) (1/49) | — | — |  |
 | 73 | `baroness-orczy_sir-percy-hits-back` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_sir-percy-hits-back/译文) (39篇) | [✅ 已审(A)](翻译项目/baroness-orczy_sir-percy-hits-back/审核报告.md) | [📦 455KB](翻译项目/baroness-orczy_sir-percy-hits-back/珀西爵士反击.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 74 | `baroness-orczy_the-elusive-pimpernel` | ✅ 已入库 | [✅ **100%**](翻译项目/baroness-orczy_the-elusive-pimpernel/译文) (36篇) | [✅ 已审(B)](翻译项目/baroness-orczy_the-elusive-pimpernel/审核报告.md) | [📦 443KB](翻译项目/baroness-orczy_the-elusive-pimpernel/The Elusive Pimpernel.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10673/18180 篇 (56.2%)** | **452 本完成** | **493 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10681/18180 篇 (56.3%)** | **452 本完成** | **494 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1192,6 +1192,7 @@
 | An Outback Marriage | Banjo Paterson | `banjo-paterson_an-outback-marriage` | 329KB | - | [`An Outback Marriage.epub`](翻译项目/banjo-paterson_an-outback-marriage/An Outback Marriage.epub) |
 | The House Without Windows | Barbara Newhall Follett | `barbara-newhall-follett_the-house-without-windows` | 165KB | - | [`没有窗户的房子.epub`](翻译项目/barbara-newhall-follett_the-house-without-windows/没有窗户的房子.epub) |
 | I Will Repay | Baroness Orczy | `baroness-orczy_i-will-repay` | 343KB | - | [`I Will Repay.epub`](翻译项目/baroness-orczy_i-will-repay/I Will Repay.epub) |
+| 托尼勋爵的妻子 | Baroness Orczy | `baroness-orczy_lord-tonys-wife` | 474KB | - | [`托尼勋爵的妻子.epub`](翻译项目/baroness-orczy_lord-tonys-wife/托尼勋爵的妻子.epub) |
 | 珀西爵士反击 | Baroness Orczy | `baroness-orczy_sir-percy-hits-back` | 455KB | - | [`珀西爵士反击.epub`](翻译项目/baroness-orczy_sir-percy-hits-back/珀西爵士反击.epub) |
 | baroness-orczy_the-elusive-pimpernel | Baroness Orczy | `baroness-orczy_the-elusive-pimpernel` | 443KB | - | [`The Elusive Pimpernel.epub`](翻译项目/baroness-orczy_the-elusive-pimpernel/The Elusive Pimpernel.epub) |
 | 笑面骑士 | Baroness Orczy | `baroness-orczy_the-first-sir-percy` | 478KB | - | [`笑面骑士.epub`](翻译项目/baroness-orczy_the-first-sir-percy/笑面骑士.epub) |
