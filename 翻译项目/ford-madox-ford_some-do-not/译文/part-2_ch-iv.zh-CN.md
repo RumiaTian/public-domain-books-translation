@@ -419,3 +419,491 @@ To all these diatribes Valentine Wannop answered hardly anything. It was no part
 
 他有过一回机会了：如今嘛，为了她，他可以白白吃亏。麦克马斯特得自己还，可他永远还不起，他贴补家用的数目摆在那儿。而且，麻烦还在后头。麦克马斯特为萨里那处小产业动心思，说要这样那样改一改，得请教蒂金斯。可那地方的门槛，蒂金斯的脚永远休想踏进去！永远！那将意味着诸多不快；不如说，意味着干脆一下：咔——嚓！然后：没影儿喽！杜什明太太时常——而且效果极佳——屈尊用一两句当日最生动的行话。
 对这一篇篇控诉，瓦伦丁·万诺普几乎不答腔。这本不特别关她的事；即便她一时对克里斯托弗起了独占的心——她偶尔会的——她也并不特别希望他同麦克马斯特夫妇的交情延续，因为她知道他本人也并不希望延续。她想象他不声不响、好脾气地一句挖苦，把他们打发了。说真的，这方面她大体同意伊迪丝·艾塞尔：文森特这样软弱的小男人，身边有个永远敞开钱袋的朋友，是会学坏的。蒂金斯原不该摆王爷谱：这是个毛病，一个她个人并不欣赏的品性。至于杜什明太太拿丈夫的钱给麦克马斯特用，体面不体面，她存而不论。那钱实际上就是杜什明太太的；她当时若把克里斯托弗的债还清，倒也明智。她看得出，后来这事变得极碍手脚。不过男人的标准也得考虑；麦克马斯特至少还算个男人。蒂金斯既然在别人的事上那样明，在这上头多半也明：万一杜什明太太从产业里挪两千镑的事日后败露，受托人和法定继承人间不知要生多少龃龉。万诺普家从来算不上大产业人家，可瓦伦丁也听过不少旁系亲属为小小的家内手脚争吵的事，深知那可以闹到多难堪。
+
+===Original===
+
+So she had made little or no comment; sometimes she had even faintly agreed as to the demoralisation of Macmaster and that had sufficed. For Mrs. Duchemin had been certain of her rightness and cared nothing at all for the opinion of Valentine Wannop, or else took it for granted.
+And when Tietjens had been gone to France for a little time Mrs. Duchemin seemed to forget the matter, contenting herself with saying that he might very likely not come back. He was the sort of clumsy man who generally got killed. In that case, since no I.O.U.s or paper had passed, Mrs. Tietjens would have no claim. So that would be all right.
+But two days after the return of Christopher﻿—and that was how Valentine knew he had come back!﻿—Mrs. Duchemin with a lowering brow exclaimed:
+“That oaf, Tietjens, is in England, perfectly safe and sound. And now the whole miserable business of Vincent’s indebtedness.﻿ ﻿… Oh!”
+She had stopped so suddenly and so markedly that even the stoppage of Valentine’s own heart couldn’t conceal the oddness from her. Indeed it was as if there were an interval before she completely realised what the news was and as if, during that interval, she said to herself:
+“It’s very queer. It’s exactly as if Edith Ethel has stopped abusing him on my account.﻿ ﻿… As if she *knew*!” But how could Edith Ethel know that she loved the man who had returned? It was impossible! She hardly knew herself. Then the great wave of relief rolled over her: he was in England. One day she would see him, there: in the great room. For these colloquies with Edith Ethel always took place in the great room where she had last seen Tietjens. It looked suddenly beautiful and she was resigned to sitting there, waiting for the distinguished.
+It was indeed a beautiful room: it had become so during the years. It was long and high﻿—matching the Tietjens’. A great cut-glass chandelier from the rectory hung dimly coruscating in the centre, reflected and re-reflected in convex gilt mirrors, topped by eagles. A great number of books had gone to make place on the white panelled walls for the mirrors, and for the fair orange and brown pictures by Turner, also from the rectory.
+
+===Chinese===
+
+于是她几乎不作评论；有时甚至淡淡附和一句，说麦克马斯特确实被带坏了，也就够了。因为杜什明太太自信自己有理，对瓦伦丁·万诺普的看法全不放在心上——或者干脆想当然。
+蒂金斯去法国一小段时间后，杜什明太太似乎把这事忘了，只满足于说一句：他很可能回不来了。他属于那种笨手笨脚、十有八九送命的男人。真到那时，既然从没立过借据、没过一字纸据，蒂金斯太太什么名分也讨不着。那就万事大吉了。
+可是克里斯托弗回来两天之后——瓦伦丁正是这样得知他回来了！——杜什明太太眉头一沉，嚷了起来：
+“那个蠢货蒂金斯，人在英国，好端端毫发无伤。这下文森特那笔倒债的破事全来了。……哎呀！”
+她收口收得那样突然、那样扎眼，就连瓦伦丁自己那颗骤停的心，也遮不住这份古怪。真的，仿佛隔了那么一瞬她才完全明白这消息是什么，仿佛就在那一瞬里她对自己说：
+“真怪。恰恰像是伊迪丝·艾塞尔看在我的份上不再骂他了。……像是她*知道*！”可伊迪丝·艾塞尔怎么会知道她爱那个回来的人？不可能！她自己都几乎不知道。随即一阵如释重负的巨浪涌过她全身：他在英国了。总有一天她会见到他，就在那儿：在那间大厅里。因为她同伊迪丝·艾塞尔的这些谈话，向来都在那间大厅里进行——她最后一次见到蒂金斯也是在那里。那房间忽然显得美起来，她也甘愿坐在那儿，等着那些名流。
+那确实是间美的屋子：是这些年间一年年美起来的。又长又高——与蒂金斯家的那间相仿。一盏从教区牧师宅搬来的大切割玻璃吊灯，在屋子中央幽幽地闪，映在凸面镀金镜里，一重又一重，镜顶上装点着鹰雕。许许多多的书让了位，给白镶板墙上腾出地方挂镜子，还有透纳那些橙色与棕色相间的清淡画幅——也是从教区牧师宅来的。
+
+===Original===
+
+From the rectory had come the immense scarlet and lapis lazuli carpet, the great brass fire-basket and appendages, the great curtains that, in the three long windows, on their peacock blue Chinese silk showed parti-coloured cranes ascending in long flights﻿—and all the polished Chippendale armchairs. Amongst all these, gracious, trailing, stopping with a tender gesture to rearrange very slightly the crimson roses in the famous silver bowls, still in dark blue silks, with an amber necklace and her elaborate black hair, waved exactly like that of Julia Domma of the Musée Lapidaire at Arles, moved Mrs. Macmaster﻿—also from the rectory. Macmaster had achieved his desire: even to the shortbread cakes and the peculiarly scented tea that came every Friday morning from Princes Street. And, if Mrs. Macmaster hadn’t the pawky, relishing humour of the great Scots ladies of past days, she had in exchange her deep aspect of comprehension and tenderness. An astonishingly beautiful and impressive woman: dark hair; dark, straight eyebrows; a straight nose; dark blue eyes in the shadows of her hair and bowed, pomegranate lips in a chin curved like the bow of a Greek boat.﻿ ﻿…
+The etiquette of the place on Fridays was regulated as if by a royal protocol. The most distinguished and, if possible, titled person was led to a great walnut wood fluted chair that stood askew by the fireplace, its back and seat of blue velvet, heaven knows how old. Over him would hover Mrs. Duchemin: or, if he were *very* distinguished, both Mr. and Mrs. Macmaster. The not so distinguished were led up by turns to be presented to the celebrity and would then arrange themselves in a half-circle in the beautiful armchairs; the less distinguished still, in outer groups in chairs that had no arms: the almost undistinguished stood, also in groups or languished, awestruck on the scarlet leather window seats. When all were there Macmaster would establish himself on the incredibly unique hearthrug and would address wise sayings to the celebrity; occasionally, however, saying a kind thing to the youngest man present﻿—to give him a chance of distinguishing himself. Macmaster’s hair, at that date, was still black, but not quite so stiff or so well brushed; his beard had in it greyish streaks and his teeth, not being quite so white, looked less strong.
+
+===Chinese===
+
+从教区牧师宅来的还有那张深红与青金蓝的大地毯、那座黄铜大火篮及全套家什、那几大幅帷幔——三扇长窗上，孔雀蓝的中国绸面里，五彩仙鹤排成长阵冉冉升腾——还有全部打磨光亮的奇彭代尔扶手椅。在这一切之中，仪态雍容、裙裾曳地，不时停步，以一个温柔的手势把名贵银钵里的绯红玫瑰轻轻拨弄一两下，依旧一身深蓝绸衣，挂着琥珀项链，一头精工细作的黑色鬈发，纹丝不差地像阿尔勒石刻博物馆里朱莉娅·多玛的发型——麦克马斯特太太就这样走动——她也是从教区牧师宅来的。麦克马斯特如愿以偿了：连每星期五早晨从王子街送来的黄油酥饼和那气味别致的茶叶都在内。麦克马斯特太太虽没有往昔苏格兰贵妇那种含蓄有味的幽默，却另有一副深情体谅、温婉动人的气度。一个美得惊人、令人望之肃然的女人：黑发；黑而平直的眉毛；端正的鼻子；双眸深蓝，藏在发影里；双唇微抿如石榴，衬着希腊船弓般弯出的下巴。……
+每逢星期五，此地的礼仪照章办理，俨然宫廷仪典。最尊贵、最好有头衔的客人，被引到壁炉旁一把歪斜放着的大胡桃木槽纹扶手椅上，椅背椅座蒙着蓝丝绒，天知道有多少年头了。杜什明太太会在他头顶盘桓献殷勤：倘若来客*极其*尊贵，便麦克马斯特先生太太一齐出马。次一等的客人挨个被领上前去谒见这位名流，随后在那些漂亮的扶手椅里围坐成半圈；再次一等的，在外圈成群坐着没有扶手的椅子；几乎不入流的便站着，也成堆，或者恹恹地、诚惶诚恐地坐在深红皮面的窗座上。人齐之后，麦克马斯特便在那块举世无双的炉前地毯上站定，向名流发表智慧的隽语；不过偶尔也说句体恤话给在座最年轻的男人——给他一个崭露头角的机会。那时候麦克马斯特的头发还是黑的，只是不那么硬挺、不那么梳理得一丝不苟了；胡子里添了灰白的一绺绺，牙也不那么白，看着便不那么结实。
+
+===Original===
+
+He wore also a single eyeglass, the retaining of which in his right eye gave him a slightly agonised expression. It gave him, however, the privilege of putting his face very close to the face of anyone upon whom he wished to make a deep impression. He had lately become much interested in the drama, so that there were usually several large﻿—and, of course, very reputable and serious actresses in the room. On rare occasions Mrs. Duchemin would say across the room in her deep voice:
+“Valentine, a cup of tea for his highness,” or “Sir Thomas,” as the case might be, and when Valentine had threaded her way through the chairs with a cup of tea Mrs. Duchemin, with a kind, aloof smile, would say: “Your highness, this is my little brown bird.” But as a rule Valentine sat alone at the tea-table, the guests fetching from her what they wanted.
+Tietjens came to the Fridays twice during the five months of his stay at Ealing. On each occasion he accompanied Mrs. Wannop.
+In earlier days﻿—during the earliest Fridays﻿—Mrs. Wannop, if she ever came, had always been installed, with her flowing black, in the throne and, like an enlarged Queen Victoria, had sat there whilst suppliants were led up to this great writer. But now: on the first occasion Mrs. Wannop got a chair without arms in the outer ring, whilst a general officer commanding lately in chief somewhere in the East, whose military success had not been considerable, but whose despatches were considered very literary, occupied, rather blazingly, the throne. But Mrs. Wannop had chatted very contentedly all the afternoon with Tietjens, and it had been comforting to Valentine to see Tietjens’ large, uncouth, but quite collected figure, and to observe the affection that these two had for each other.
+But, on the second occasion, the throne was occupied by a very young woman who talked a great deal and with great assurance. Valentine didn’t know who she was. Mrs. Wannop, very gay and distracted, stood nearly the whole afternoon by a window. And even at that, Valentine was contented, quite a number of young men crowding round the old lady and leaving the younger one’s circle rather bare.
+There came in a very tall, clean run and beautiful, fair woman, dressed in nothing particular. She stood with extreme﻿—with noticeable﻿—unconcern near the doorway.
+
+===Chinese===
+
+他还戴一副单片眼镜，要让镜片稳在右眼里，脸上便带出一副微微吃力的神情。不过这也给他一项特权：对谁想留下深刻印象，便可以把脸凑得极近地贴上去。他新近对戏剧大感兴趣，所以屋里通常总有几位块头很大的女演员——当然，都是极有名声、极其严肃的正路人物。偶尔，杜什明太太会隔着屋子用她低沉的嗓音说：
+“瓦伦丁，给大人上一杯茶，”或者“给托马斯爵士”，看是谁；等瓦伦丁端着茶从椅子间穿过去，杜什明太太便带着慈和而疏远的微笑说：“大人，这是我的小褐雀。”但平常瓦伦丁总独自坐在茶桌边，客人们要什么自己来取。
+蒂金斯驻伊灵那五个月里，来过两次星期五聚会。两次都是陪万诺普太太来的。
+早年间——最早的那些星期五——万诺普太太若是来了，总被安置在那把宝座里，一身飘垂的黑衣，像一尊放大了的维多利亚女王，坐在那儿，接受一个个求见者被领到这位大作家面前。可如今：头一回，万诺普太太坐的是外圈一把没有扶手的椅子，宝座上倒是相当煊赫地坐着一位不久前在东方某地统率大军的将军，战功不算怎么辉煌，战报却公认极有文采。不过万诺普太太同蒂金斯聊了一下午，聊得心满意足；看着蒂金斯那高大粗拙却十分沉着的身影，看着这两个人彼此间的情意，瓦伦丁心里是安慰的。
+可第二回，宝座上坐的是一位很年轻的女人，话说得多，口气也大。瓦伦丁不知道她是谁。万诺普太太快快活活、心不在焉，几乎在窗边站了一下午。即便这样瓦伦丁也满足了：好些年轻男子围着老太太，把那位年轻名流的圈子撂得冷冷清清。
+这时进来一位非常高挑、身段利落、金发漂亮的女人，穿得毫不出奇。她站在门边，带着一种极度的——引人注目的——漠然。
+
+===Original===
+
+She let her eyes rest on Valentine, but looked away before Valentine could speak. She must have had an enormous quantity of fair tawny hair, for it was coiled in a great surface over her ears. She had in her hand several visiting cards which she looked at with a puzzled expression and then laid on a card table. She was no one who had ever been there before.
+Edith Ethel﻿—it was for the second time!﻿—had just broken up the ring that surrounded Mrs. Wannop, bearing the young men tributary to the young women in the walnut chair and leaving Tietjens and the older woman high and dry in a window: thus Tietjens saw the stranger, and there was no doubt left in Valentine’s mind. He came, diagonally, right down the room to his wife and marched her straight up to Edith Ethel. His face was perfectly without expression.
+Macmaster, perched on the centre of the hearthrug, had an emotion that was extraordinarily comic to witness, but that Valentine was quite unable to analyse. He jumped two paces forward to meet Mrs. Tietjens, held out a little hand, half withdrew it, retreated half a step. The eyeglass fell from his perturbed eye: this gave him actually an expression less perturbed, but, in revenge, the hairs on the back of his scalp grew suddenly untidy. Sylvia, wavering along beside her husband, held out her long arm and careless hand. Macmaster winced almost at the contact, as if his fingers had been pinched in a vise. Sylvia wavered desultorily towards Edith Ethel, who was suddenly small, insignificant and relatively coarse. As for the young woman celebrity in the armchair, she appeared to be about the size of a white rabbit.
+A complete silence had fallen on the room. Every woman in it was counting the pleats of Sylvia’s skirt and the amount of material in it. Valentine Wannop knew that because she was doing it herself. If one had that amount of material and that number of pleats one’s skirt might hang like that.﻿ ﻿… For it was extraordinary: it fitted close round the hips, and gave an effect of length and swing﻿—yet it did not descend as low as the ankles. It was, no doubt, the amount of material that did that, like the Highlander’s kilt that takes twelve yards to make. And from the silence Valentine could tell that every woman and most of the men﻿—if they didn’t know that this was Mrs.
+
+===Chinese===
+
+她让目光落在瓦伦丁身上，可不等瓦伦丁开口就移开了。她那一头金褐色的头发必定多得惊人，因为发髻在耳上盘成厚厚一大片。她手里捏着几张名片，带着困惑的神情看了看，随即搁在牌桌上。她是从前来过的客人里没有过的。
+伊迪丝·艾塞尔——这已是第二回了！——刚刚拆散围着万诺普太太的那个圈子，把年轻男子像纳贡一般引到胡桃木椅那位年轻女人跟前，把蒂金斯和老太太撂在窗边干晾着：蒂金斯就这样看见了那个陌生女人，瓦伦丁心里也就再无怀疑。他斜穿过整个房间，径直走到妻子面前，把她一路带到伊迪丝·艾塞尔跟前。他脸上毫无表情。
+麦克马斯特蹲踞在炉前地毯中央，那副心情神态旁观起来滑稽透顶，瓦伦丁却全然无法分析。他抢上两步迎蒂金斯太太，伸出一只小手，又收回一半，倒退半步。单片眼镜从慌乱的眼里掉了下来：这倒真让他的表情不那么慌乱了，只是作为报偿，后脑勺的头发根根乍了起来。西尔维娅曳步跟在丈夫身边，伸出长长的胳膊和漫不经心的手。麦克马斯特几乎一碰就打了个激灵，仿佛手指被虎钳夹了一下。西尔维娅懒懒散散地飘向伊迪丝·艾塞尔——伊迪丝·艾塞尔忽然显得矮小、寒碜、相当粗气了。至于扶手椅里那位年轻的名媛，看上去约莫一只白兔的尺寸。
+满屋一片彻底的寂静。屋里每个女人都在数西尔维娅裙子上的褶和用料有多少。瓦伦丁·万诺普知道，因为她自己就在数。一个人若有那样的料子、那样数目的褶，裙子才可能那样垂挂。……因为那真不寻常：裙子紧贴着臀，显出修长摇曳的效果——却又垂不到脚踝。无疑，正是那料子的分量才有这样子，就像苏格兰高地的褶裙，做一条得用十二码料。而从这寂静里瓦伦丁听得出来，每个女人和大多数男人——倘若他们不知道这位是
+
+===Original===
+
+Christopher Tietjens﻿—knew that this was a personage of *Illustrated Weekly*, as who should say of county family, rank. Little Mrs. Swan, lately married, actually got up, crossed the room and sat down beside her bridegroom. It was a movement with which Valentine could sympathise.
+And Sylvia, having just faintly greeted Mrs. Duchemin, and completely ignored the celebrity in the armchair﻿—in spite of the fact that Mrs. Duchemin had tried half-heartedly to effect an introduction﻿—stood still, looking round her. She gave the effect of a lady in a nurseryman’s hothouse considering what flower should interest her, collectedly ignoring the nurserymen who bowed round her. She had just dropped her eyelashes, twice, in recognition of two staff officers with a good deal of scarlet streak about them who were tentatively rising from their chairs. The staff officers who came to the Tietjens were not of the first vintages; still they had the labels and passed as such.
+Valentine was by that time beside her mother, who had been standing all alone between two windows. She had dispossessed, in hot indignation, a stout musical critic of his chair and had sat her mother in it. And, just as Mrs. Duchemin’s deep voice sounded, yet a little waveringly:
+“Valentine﻿ ﻿… a cup of tea for﻿ ﻿…” Valentine was carrying a cup of tea to her mother.
+Her indignation had conquered her despairing jealousy, if you could call it jealousy. For what was the good of living or loving when Tietjens had beside him, forever, the radiant, kind and gracious perfection. On the other hand, of her two deep passions, the second was for her mother.
+Rightly or wrongly, Valentine regarded Mrs. Wannop as a great, an august figure: a great brain, a high and generous intelligence. She had written, at least, one great book, and if the rest of her time had been frittered away in the desperate struggle to live that had taken both their lives, that could not detract from that one achievement that should last and forever take her mother’s name down time. That this greatness should not weigh with the Macmasters had hitherto neither astonished nor irritated Valentine. The Macmasters had their game to play and, for the matter of that, they had their predilections. Their game kept them amongst the officially influential, the semiofficial and the officially accredited. They moved with such C.B.
+
+===Chinese===
+
+克里斯托弗·蒂金斯太太——就知道这是《画报周刊》一流的人物，好比说，郡望世家、有身份的人。新婚不久的小斯旺太太竟站起身，穿过屋子，挨着她新郎坐下了。这个举动瓦伦丁是能体谅的。
+西尔维娅呢，对杜什明太太淡淡的招呼刚打过，对扶手椅里的名媛全然不理——尽管杜什明太太有心没心地试图引见——便站定了，环顾四周。她那样子，像花匠暖房里的一位贵妇，掂量着哪一株花值得一看，从容不迫地不去理会四下里向她躬身的花匠们。她刚刚两次垂下长睫毛，算是答谢两位参谋军官——他们军服上红道道颇不少，正试探着从椅子里起身。到蒂金斯家来的参谋们算不上一等陈酿；好在瓶上有标签，也就充得过去。
+那时瓦伦丁已在母亲身边，母亲一直独自站在两扇窗之间。她正一腔怒火，把一位胖胖的音乐评论家从椅子里赶了出来，安置母亲坐下。恰在此时，杜什明太太低沉的嗓音响起，还微微发颤：
+“瓦伦丁……给……上一杯茶，”瓦伦丁已经把一杯茶端向母亲。
+她的义愤压倒了绝望的醋意——如果那也算醋意的话。因为蒂金斯身边既然永远有着那样光彩照人、和蔼可亲、仪态万方的完美，活着和相爱还有什么意思。另一方面，她平生两大深情，第二份便是给母亲的。
+不管对不对，瓦伦丁把万诺普太太看作一个伟大、庄严的人物：一颗伟大的头脑，一种高贵而慷慨的智性。她至少写出过一本伟大的书；纵然她此后的光阴都在为生计苦苦挣扎中虚掷了——那场挣扎耗尽了母女两人的半生——也减损不了那一件成就，它将长存，把她母亲的名字永远流传下去。这份伟大在麦克马斯特夫妇那里一文不值——这此前既不使瓦伦丁惊异，也不使她气恼。麦克马斯特夫妇有他们的牌局要打，说到底，也有他们的偏好。他们的牌局要他们在官场得势的人物、半官方人物和官方钦定人物中间周旋。他们结交的是这样一批挂着C.B.
+
+===Original===
+
+s, knights, presidents, and the rest as dabbled in writing or the arts: they went upwards with such reviewers, art critics, musical writers and archæologists as had posts in, if possible, first-class public offices or permanent positions on the more august periodicals. If an imaginative author seemed assured of position and lasting popularity Macmaster would send out feelers towards him, would make himself humbly useful, and sooner or later either Mrs. Duchemin would be carrying on with him one of her high-souled correspondences﻿—or she wouldn’t.
+Mrs. Wannop they had formerly accepted as permanent leader writer and chief critic of a great organ, but the great organ having dwindled and now disappeared the Macmasters no longer wanted her at their parties. That was the game﻿—and Valentine accepted it. But that it should have been done with such insolence, so obviously meant to be noted﻿—for in twice breaking up Mrs. Wannop’s little circle Mrs. Duchemin had not even once so much as said: “How d’ye do?” to the elder lady!﻿—that was almost more than Valentine could, for the moment, bear, and she would have taken her mother away at once and would never have reentered the house, but for the compensations.
+Her mother had lately written and even found a publisher for a book﻿—and the book had showed no signs of failing powers. On the contrary, having been perforce stopped off the perpetual journalism that had dissipated her energies, Mrs. Wannop had turned out something that Valentine knew was sound, sane and well done. Abstractions of failing attention to the outside world are not necessarily in a writer signs of failing, as a writer. It may mean merely that she is giving so much thought to her work that her outside contacts suffer. If that is the case her work will gain. That this might be the case with her mother was Valentine’s great and secret hope. Her mother was barely sixty: many great works have been written by writers aged between sixty and seventy.﻿ ﻿…
+And the crowding of youngish men round the old lady had given Valentine a little confirmation of that hope. The book naturally, in the maelstrom flux and reflux of the time, had attracted no attention, and poor Mrs.
+
+===Chinese===
+
+头衔的、封了爵士的、当上会长的，以及一切在写作或艺术里沾一手的人物：他们往上爬，靠的是那些评论家、美术批评家、音乐评论撰稿人和考古学家——最好是在头等官署里有个职位，或在更庄严的刊物上有个终身位置。哪位想象力作家若看来地位稳固、声名可久，麦克马斯特便向他放出触角，低声下气地卖力效劳，或早或晚，杜什明太太要么就同他展开一场她那种灵魂高洁的通信——要么就不。
+万诺普太太，他们从前是接纳的，当她是大报的正式社论撰稿人兼首席评论家；可那份大报萎缩了，如今干脆消失，麦克马斯特夫妇的聚会上便不再需要她了。牌局就是这样——瓦伦丁认了。可这局牌竟打得如此放肆，如此存心做给人看——杜什明太太两回拆散万诺普太太的小圈子，对这位年长的夫人竟连一句“你好”都没有说过！——这几乎叫瓦伦丁一时受不了，若不是还有些补偿，她当场就带母亲走，再也不进这家的门。
+她母亲新近写完了一本书，甚至找到了出版商——而这本书毫无才力衰退的迹象。相反，被迫从那耗尽她精力的无休止的新闻业里断开之后，万诺普太太拿出了一部瓦伦丁深知扎实、健全、出手不凡的东西。对外界心不在焉、疏远隔膜，对作家未必是才力衰退的征兆。那可能只意味着，她把心思全给了作品，外界的交往便顾不上了。若真如此，作品只会受益。母亲也许正属此例——这是瓦伦丁最大也最隐秘的希望。母亲才六十岁上下：六十到七十岁之间写出伟大作品的，大有人在。……
+而年轻男子们围着老太太的那番簇拥，也给了瓦伦丁一点确认。那本书自然在当时的大漩涡涨落里没引起任何注意，可怜的万诺普
+
+===Original===
+
+Wannop had not succeeded in extracting a penny for it from her adamantine publisher: she hadn’t, indeed, made a penny for several months, and they existed almost at starvation point in their little den of a villa﻿—on Valentine’s earnings as athletic teacher.﻿ ﻿… But that little bit of attention in that semipublic place had seemed, at least, as a confirmation to Valentine: there probably was something sound, sane and well done in her mother’s work. That was almost all she asked of life.
+And, indeed, whilst she stood by her mother’s chair, thinking with a little bitter pathos that if Edith Ethel had left the three or four young men to her mother the three or four might have done her poor mother a little good, with innocent puffs and the like﻿—and heaven knew they needed that little good badly enough!﻿—a very thin and untidy young man *did* drift back to Mrs. Wannop and asked, precisely, if he might make a note or two for publication as to what Mrs. Wannop was doing. “Her book,” he said, “had attracted so much attention. They hadn’t known that they had still writers among them﻿ ﻿…”
+A singular, triangular drive had begun through the chairs from the fireplace. That was how it had seemed to Valentine! Mrs. Tietjens had looked at them, had asked Christopher a question and, immediately, as if she were coming through waist-high surf, had borne down Macmaster and Mrs. Duchemin, flanking her obsequiously, setting aside chairs and their occupants, Tietjens and the two, rather bashfully following staff officers, broadening out the wedge.
+Sylvia, her long arm held out from a yard or so away, was stretching out her hand to Valentine’s mother. With her clear, high, unembarrassed voice she exclaimed, also from a yard or so away, so as to be heard by everyone in the room:
+“You’re Mrs. Wannop. The great writer! I’m Christopher Tietjens’ wife.”
+The old lady, with her dim eyes, looked up at the younger woman towering above her.
+“You’re Christopher’s wife!” she said. “I must kiss you for all the kindness he has shown me.”
+Valentine felt her eyes filling with tears. She saw her mother stand up, place both her hands on the other woman’s shoulders. She heard her mother say:
+“You’re a most beautiful creature. I’m sure you’re good!”
+Sylvia stood, smiling faintly, bending a little to accept the embrace.
+
+===Chinese===
+
+太太也没能从她那铁石心肠的出版商那里抠出一个子儿来：说实话，好几个月她一文钱也没挣到，母女俩在那小窝棚似的别墅里几乎到了挨饿的地步——全靠瓦伦丁当体育教员的薪水。……可在那个半公开的场合受到的那一点注意，至少在瓦伦丁看来是一种确认：母亲的作品里，多半真有些扎实、健全、出手不凡的东西。这差不多就是她对人生的全部所求了。
+而且，果不其然，她正站在母亲椅边，略带辛酸地想：伊迪丝·艾塞尔若把那三四个年轻男子留给母亲，那三四个人也许能给可怜的母亲带来点小小的好处，几篇天真的吹捧文章之类——天知道她们多需要这点好处！——一个瘦得一把骨头、邋里邋遢的年轻男人*当真*飘回到万诺普太太跟前，一本正经地问，可不可以记一两笔拿去发表，说说万诺普太太近况如何。“她那本书，”他说，“引起了那么大的注意。大家还不知道他们中间仍有作家在呢……”
+一阵奇特的三角楔形的推进，从壁炉那边穿过椅子间开始了。在瓦伦丁眼里就是这样！蒂金斯太太朝他们望了一眼，问了克里斯托弗一句话，随即，仿佛蹚着齐腰深的浪，一路压了过来，麦克马斯特和杜什明太太巴结地护卫两翼，拨开椅子和椅子上的人，蒂金斯和两位怯生生的参谋跟在后面，把楔形阵越撑越宽。
+西尔维娅隔着一步开外就伸出长长的手臂，把手递向瓦伦丁的母亲。她那清亮、高扬、毫不扭捏的嗓音，也是隔着一步开外，让满屋的人都听得见：
+“您是万诺普太太吧。大作家！我是克里斯托弗·蒂金斯的妻子。”
+老太太抬起昏花的眼睛，仰望这位高出她一头、亭亭而立的年轻女人。
+“你是克里斯托弗的妻子！”她说。“他待我那么多好处，我一定要亲亲你。”
+瓦伦丁觉得眼里涌上了泪。她看见母亲站起来，把双手放在对方肩上。她听见母亲说：
+“你真是个美人。我敢说你心肠也好！”
+西尔维娅站着，浅浅微笑，微微俯身受了这个拥抱。
+
+===Original===
+
+Behind the Macmasters, Tietjens and the staff officers, a little crowd of goggle eyes had ranged itself.
+Valentine was crying. She slipped back behind the tea-urns, though she could hardly feel the way. Beautiful! The most beautiful woman she had ever seen! And good! Kind! You could see it in the lovely way she had given her cheek to that poor old woman’s lips.﻿ ﻿… And to live all day, forever, beside him﻿ ﻿… she, Valentine, ought to be ready to lay down her life for Sylvia Tietjens.﻿ ﻿…
+The voice of Tietjens said, just above her head:
+“Your mother seems to be having a regular triumph,” and, with his good-natured cynicism, he added, “it seems to have upset some applecarts!” They were confronted with the spectacle of Macmaster conducting the young celebrity from her deserted armchair across the room to be lost in the horseshoe of crowd that surrounded Mrs. Wannop.
+Valentine said:
+“You’re quite gay today. Your voice is different. I suppose you’re better?” She did not look at him. His voice came:
+“Yes! I’m relatively gay!” It went on: “I thought you might like to know. A little of my mathematical brain seems to have come to life again. I’ve worked out two or three silly problems﻿ ﻿…”
+She said:
+“Mrs. Tietjens will be pleased.”
+“Oh!” the answer came. “Mathematics don’t interest her any more than cockfighting.” With immense swiftness, between word and word, Valentine read into that a hope! This splendid creature did not sympathise with her husband’s activities. But he crushed it heavily by saying: “Why should she? She’s so many occupations of her own that she’s unrivalled at!”
+He began to tell her, rather minutely, of a calculation he had made only that day at lunch. He had gone into the Department of Statistics and had had rather a row with Lord Ingleby of Lincoln. A pretty title the fellow had taken! They had wanted him to ask to be seconded to his old department for a certain job. But he had said he’d be damned if he would. He detested and despised the work they were doing.
+Valentine, for the first time in her life, hardly listened to what he said. Did the fact that Sylvia Tietjens had so many occupations of her own mean that Tietjens found her unsympathetic? Of their relationships she knew nothing. Sylvia had been so much of a mystery as hardly to exist as a problem hitherto. Macmaster, Valentine knew, hated her. She knew that through Mrs.
+
+===Chinese===
+
+在麦克马斯特夫妇、蒂金斯和参谋们身后，一小圈瞪圆了的眼睛排成了行。
+瓦伦丁哭了。她退到茶炊后面，几乎感觉不到自己是怎么走过去的。美！她见过的最美的女人！还善良！和气！看她把脸颊凑给那可怜老太太的嘴唇时那份可爱劲儿，就知道了。……而她要整天整日、永远永远地活在他身边……她瓦伦丁，真该情愿为西尔维娅·蒂金斯舍出性命。……
+蒂金斯的嗓音就落在她头顶：
+“你母亲看来是大获全胜了，”他又带着他那好脾气的挖苦补了一句，“看来掀翻了几辆苹果车呢！”呈现在他们面前的一幕是：麦克马斯特正把那位年轻名媛从她那被冷落的扶手椅里引出来，穿过屋子，引进围着万诺普太太的马蹄形人圈里去了。
+瓦伦丁说：
+“你今天挺快活。声音都不一样了。我猜你好些了？”她没看他。他的声音传来：
+“是啊！算是快活！”接着说：“我想你会愿意知道的。我那数学脑袋好像又活了过来一点。我算出了两三道傻题目……”
+她说：
+“蒂金斯太太会高兴的。”
+“哦！”回答来了。“数学于她，同斗鸡一样无趣。”瓦伦丁在一字一句的极快间隙里，从中读出了一线希望！这位出色的造物并不欣赏丈夫的事业。可他一句话就把这希望碾了个结实：“她何必感兴趣？她自己有的是营生，样样无人能及！”
+他开始相当细致地告诉她当天午饭时做的一个计算。他到统计司去了一趟，同林肯的英格尔比勋爵闹了场不痛快。那家伙给自己挑的好头衔！他们要他申请调回旧部去办一件差事。可他说他见鬼去吧，他不干。他厌恶并鄙视他们正在干的那套勾当。
+瓦伦丁平生第一次几乎没有听他在说什么。西尔维娅·蒂金斯自有那么多营生，这一点是否意味着蒂金斯觉得她气味不投？他们夫妻之间的关系，她一无所知。西尔维娅一直是个谜，谜到此前几乎不成其为问题。麦克马斯特恨她，这瓦伦丁知道。她是听杜什明
+
+===Original===
+
+Duchemin; she had heard it ages ago, but she didn’t know why. She had never come to the Macmaster afternoons; but that was natural. Macmaster passed for a bachelor, and it was excusable for a young woman of the highest fashion not to come to bachelor teas of literary and artistic people. On the other hand, Macmaster dined at the Tietjens quite often enough to make it public that he was a friend of that family. Sylvia, too, had never come down to see Mrs. Wannop. But then it would, in the old days, have been a long way to come for a lady of fashion with no especial literary interests. And no one, in mercy, could have been expected to call on poor them in their dog kennel in an outer suburb. They had had to sell almost all their pretty things.
+Tietjens was saying that after his tempestuous interview with Lord Ingleby of Lincoln﻿—she wished he would not be so rude to powerful people!﻿—he had dropped in on Macmaster in his private room, and finding him puzzled over a lot of figures had, in the merest spirit of bravado, taken Macmaster and his papers out to lunch. And, he said, chancing to look, without any hope at all, at the figures, he had suddenly worked out an ingenious mystification. It had just come!
+His voice had been so gay and triumphant that she hadn’t been able to resist looking up at him. His cheeks were fresh coloured, his hair shining; his blue eyes had a little of their old arrogance﻿—and tenderness! Her heart seemed to sing with joy! He was, she felt, her man. She imagined the arms of his mind stretching out to enfold her.
+He went on explaining. He had rather, in his recovered self-confidence, gibed at Macmaster. Between themselves, wasn’t it easy to do what the Department, under orders, wanted done? They had wanted to rub into our allies that their losses by devastation had been nothing to write home about﻿—so as to avoid sending reinforcements to their lines! Well, if you took just the bricks and mortar of the devastated districts, you could prove that the loss in bricks, tiles, woodwork and the rest didn’t﻿—and the figures with a little manipulation would prove it!﻿—amount to more than a normal year’s dilapidations spread over the whole country in peace time.﻿ ﻿… House repairs in a normal year had cost several million sterling. The enemy had only destroyed just about so many million sterling in bricks and mortar.
+
+===Chinese===
+
+太太说的；很久以前听的了，可她不知道缘故。西尔维娅从没来过麦克马斯特的午后聚会；不过这也自然。麦克马斯特对外算单身汉，一位最时髦圈里的年轻太太不来文人艺客的单身茶会，情有可原。另一方面，麦克马斯特在蒂金斯家吃饭又吃得够勤，足以公开表明他是那家的朋友。西尔维娅也从未下乡来看过万诺普太太。可话说回来，在早年间，让一位对文学没什么特别兴致的时髦贵妇跑这么远的路，也确实勉为其难。再说，发发善心，谁也不该指望谁来他们那远郊的狗窝里做客。他们几乎把漂亮东西卖尽了。
+蒂金斯正说着，同林肯的英格尔比勋爵那场大吵之后——她真希望他别对有权势的人这么无礼！——他顺路到麦克马斯特的私室串门，见他正对着一堆数字发愁，便纯粹出于逞能的心思，拉着麦克马斯特连同文件一起出去吃了午饭。他说，他抱着全无指望的心思扫了一眼那些数字，忽然就想出了一套巧妙的障眼法。它就这么来了！
+他的声音那样快活、那样得意，她忍不住抬头看了他一眼。他双颊红润，头发发亮；蓝眼睛里有了点旧日的那种傲慢——还有温柔！她的心欢乐得像要唱歌！他，她感到，是她的人。她想象着他心灵的臂膀伸出来拥住了她。
+他继续解释。他在恢复的自信里，把麦克马斯特抢白了几句。咱们私下说，司里奉命要办的事，办起来不是很容易吗？他们要让咱们的盟友牢牢记住：他们被蹂躏地区的损失不值一提——好省下兵员不给他们增补防线！那么好，只拿被蹂躏地区的砖石灰泥来算，就能证明砖瓦、木料等等的损失——数字稍一摆弄就能证明！——抵不上和平时期摊到全国一年的寻常修缮费。……正常年景一年的房屋修缮就要花几百万镑。敌人毁掉的砖石灰泥，折算下来也就差不多这个数。
+
+===Original===
+
+And what was a mere year’s dilapidations in house property! You just neglected to do them and did them next year.
+So, if you ignored the lost harvests of three years, the lost industrial output of the richest industrial region of the country, the smashed machinery, the barked fruit trees, the three years’ loss of four and a half-tenths of the coal output for three years﻿—and the loss of life!﻿—we could go to our allies and say:
+“All your yappings about losses are the merest bulls. You can perfectly well afford to reinforce the weak places of your own lines. We intend to send our new troops to the Near East, where lies our true interest!” And though they might sooner or later point out the fallacy, you would by so much have put off the abhorrent expedient of a single command.
+Valentine, though it took her away from her own thoughts, couldn’t help saying:
+“But weren’t you arguing against your own convictions?”
+He said:
+“Yes, of course I was. In the lightness of my heart! It’s always a good thing to formulate the other fellow’s objections.”
+She had turned half round in her chair. They were gazing into each other’s eyes, he from above, she from below. She had no doubt of his love: he, she knew, could have no doubt of hers. She said:
+“But isn’t it dangerous? To show these people how to do it?”
+He said:
+“Oh, no, no. No! You don’t know what a good soul little Vinnie is. I don’t think you’ve ever been quite just to Vincent Macmaster! He’d as soon think of picking my pocket as of picking my brains. The soul of honour!”
+Valentine had felt a queer, queer sensation. She was not sure afterwards whether she had felt it before she had realised that Sylvia Tietjens was looking at them. She stood there, very erect, a queer smile on her face. Valentine could not be sure whether it was kind, cruel, or merely distantly ironic; but she was perfectly sure it showed, whatever was behind it, that its wearer knew all that there was to know of her, Valentine’s, feelings for Tietjens and for Tietjens’ feelings for her.﻿ ﻿… It was like being a woman and man in adultery in Trafalgar Square.
+Behind Sylvia’s back, their mouths agape, were the two staff officers. Their dark hairs were too untidy for them to amount to much, but, such as they were, they were the two most presentable males of the assembly﻿—and Sylvia had snaffled them.
+Mrs. Tietjens said:
+“Oh, Christopher!
+
+===Chinese===
+
+区区一年房屋修缮算得了什么！今年不做，明年补上就是了。
+于是，只要你无视那三年歉收的庄稼、全国最富庶工业区损失的工业产出、砸烂的机器、剥了皮的果树、三年里十之四五的煤炭减产——还有人命的损失！——我们就可以对盟友说：
+“你们那些关于损失的聒噪全是瞎扯。你们完全有余力给自己的防线薄弱处增兵。我们打算把新部队派往近东，那才是我们真正的利益所在！”纵然人家迟早会戳穿这套谬论，可单一指挥这项可憎的权宜之计，你就又推延了那么久。
+瓦伦丁虽然这会打断自己的心思，还是忍不住说：
+“可你这不是在论证同自己的信念相反的东西吗？”
+他说：
+“是啊，当然是。心情轻快嘛！把对方的论点替他摆出来，永远是件好事。”
+她在椅子里转过半个身子。两人对视着，他自上而下，她自下而上。她对他的爱毫无疑问：他，她也知道，对她的爱毫无疑问。她说：
+“可这不危险吗？把这套路数演示给这些人看？”
+他说：
+“哦，不，不。不！你不知道小文尼是多好的一个人。我看你对文森特·麦克马斯特从来都不算公道！他若会剽窃我的脑力，他早就会掏我的腰包了。荣誉的化身！”
+瓦伦丁感到了一种奇异的、奇异的感觉。事后她也说不清，这感觉是在她意识到西尔维娅·蒂金斯正看着他们之前还是之后。她站在那里，腰背笔直，脸上一副奇怪的笑。瓦伦丁断不定那是善意、狠心，还是仅仅遥远的讥诮；但她万分肯定，那笑容不管背后是什么，都在表明它的主人对一切无所不知——她瓦伦丁对蒂金斯的情意，蒂金斯对她的情意，无一漏过。……那感觉就像一对通奸的男女站在特拉法尔加广场上。
+西尔维娅背后，两位参谋张着嘴。他们一头黑发太邋遢，成不了什么大器；不过就现有货色论，他们已是全场最拿得出手的男人了——而西尔维娅把他们截下了。
+蒂金斯太太说：
+“哦，克里斯托弗！”
+
+===Original===
+
+I’m going on to the Basil’s.”
+Tietjens said:
+“All right. I’ll pop Mrs. Wannop into the tube as soon as she’s had enough of it, and come along and pick you up!”
+Sylvia had just drooped her long eyelashes, in sign of salutation, to Valentine Wannop, and had drifted through the door, followed by her rather unmilitary military escort in khaki and scarlet.
+From that moment Valentine Wannop never had any doubt. She knew that Sylvia Tietjens knew that her husband loved her, Valentine Wannop, and that she, Valentine Wannop, loved her husband﻿—with a passion absolute and ineffable. The one thing she, Valentine, didn’t know, the one mystery that remained impenetrable, was whether Sylvia Tietjens was good to her husband!
+A long time afterwards Edith Ethel had come to her beside the teacups and had apologised for not having known, earlier than Sylvia’s demonstration, that Mrs. Wannop was in the room. She hoped that they might see Mrs. Wannop much more often. She added after a moment that she hoped Mrs. Wannop wouldn’t, in future, find it necessary to come under the escort of Mr. Tietjens. They were too old friends for that, surely.
+Valentine said:
+“Look here, Ethel, if you think that you can keep friends with mother and turn on Mr. Tietjens after all he’s done for you, you’re mistaken. You are really. And mother’s a great deal of influence. I don’t want to see you making any mistakes: just at this juncture. It’s a mistake to make nasty rows. And you’d make a very nasty one if you said anything against Mr. Tietjens to mother. She knows a great deal. Remember. She lived next door to the rectory for a number of years. And she’s got a dreadfully incisive tongue﻿ ﻿…”
+Edith Ethel coiled back on her feet as if her whole body were threaded by a steel spring. Her mouth opened, but she bit her lower lip and then wiped it with a very white handkerchief. She said:
+“I hate that man! I detest that man! I shudder when he comes near me.”
+“I know you do!” Valentine Wannop answered. “But I wouldn’t let other people know it if I were you. It doesn’t do you any real credit. He’s a good man.”
+Edith Ethel looked at her with a long, calculating glance. Then she went to stand before the fireplace.
+
+===Chinese===
+
+“我这就去巴西尔家。”
+蒂金斯说：
+“好。万诺普太太一尽兴，我就送她进地铁，然后过去接你！”
+西尔维娅刚对瓦伦丁·万诺普垂下长睫毛致意，便飘出了门，身后跟着她那不太像军人的军人卫队，卡其与猩红。
+从那一刻起，瓦伦丁·万诺普再没有过疑惑。她知道西尔维娅·蒂金斯已经知道丈夫爱她瓦伦丁·万诺普，也知道她瓦伦丁·万诺普爱她丈夫——以一种绝对的、难以言说的激情。只有一件事她瓦伦丁不知道，唯一仍参不透的谜，就是西尔维娅·蒂金斯待她丈夫好不好！
+过了很久，伊迪丝·艾塞尔才到茶杯边来找她，为着没在西尔维娅那一手之前发觉万诺普太太也在屋里而道歉。她希望今后能多多见到万诺普太太。过了一会儿她又补上一句，希望万诺普太太往后不必再由蒂金斯先生陪同前来。到底这么多年的老朋友了，总不至于还要这样吧。
+瓦伦丁说：
+“听我说，艾塞尔，你要是以为你能一边同母亲做朋友，一边在蒂金斯先生为你出了这么多力之后反咬他一口，那你就想错了。真的想错了。而且母亲的影响力大得很。我不想看你出错：眼下正是节骨眼。闹出难看的争吵就是个错。你要是对母亲说了蒂金斯先生半句坏话，那架吵起来可难看得很。她知道的事多了。别忘了。她在教区牧师宅隔壁住了好些年。她那张嘴，厉害得吓人……”
+伊迪丝·艾塞尔整个人往后一收，仿佛周身穿着一根钢簧。她张了张嘴，却咬住下唇，随后用一方雪白的手帕抿了抿。她说：
+“我恨那个人！我厌恶那个人！他一走近我，我就发抖。”
+“我知道你恨！”瓦伦丁·万诺普答道。“可我要是你，就不会让别人知道。这对你实在没什么光彩。他是个好人。”
+伊迪丝·艾塞尔用长长的、盘算的一瞥看了看她。随后她走过去，站到壁炉前。
+
+===Original===
+
+That had been five﻿—or at most six﻿—Fridays before Valentine sat with Mark Tietjens in the War Office waiting hall, and, on the Friday immediately before that again, all the guests being gone, Edith Ethel had come to the tea-table and, with her velvet kindness, had placed her right hand on Valentine’s left. Admiring the gesture with a deep fervour, Valentine knew that that was the end.
+Three days before, on the Monday, Valentine, in her school uniform, in a great store to which she had gone to buy athletic paraphernalia, had run into Mrs. Duchemin, who was buying flowers. Mrs. Duchemin had been horribly distressed to observe the costume. She had said:
+“But do you go *about* in that? It’s really dreadful.”
+Valentine had answered:
+“Oh, yes. When I’m doing business for the school in school hours I’m expected to wear it. And I wear it if I’m going anywhere in a hurry after school hours. It saves my dresses. I haven’t got too many.”
+“But *any*one might meet you,” Edith Ethel said in a note of agony. “It’s very inconsiderate. Don’t you *think* you’ve been very inconsiderate? You might meet any of the people who come to our Fridays!”
+“I frequently do,” Valentine said. “But they don’t seem to mind. Perhaps they think I’m a Waac officer. That would be quite respectable﻿ ﻿…”
+Mrs. Duchemin drifted away, her arms full of flowers and real agony upon her face.
+Now, beside the tea-table she said, very softly:
+“My dear, we’ve decided not to have our usual Friday afternoon next week.” Valentine wondered whether this was merely a lie to get rid of her. But Edith Ethel went on: “We’ve decided to have a little evening festivity. After a great deal of thought we’ve come to the conclusion that we ought, now, to make our union public.” She paused to await comment, but Valentine making none she went on: “It coincides very happily﻿—I can’t help feeling it coincides very happily!﻿—with another event. Not that we set much store by these things.﻿ ﻿… But it has been whispered to Vincent that next Friday.﻿ ﻿… Perhaps, my dear Valentine, you, too, will have heard﻿ ﻿…”
+Valentine said:
+“No. I haven’t. I suppose he’s got the O.B.E. I’m very glad.”
+“The Sovereign,” Mrs. Duchemin said, “is seeing fit to confer the honour of knighthood on him.”
+“Well!” Valentine said. “He’s had a quick career. I’ve no doubt he deserves it. He’s worked very hard. I do sincerely congratulate you.
+
+===Chinese===
+
+那是瓦伦丁同马克·蒂金斯坐在陆军部候见厅里之前的第五个——至多第六个——星期五。而再往前一个星期五，客人散尽之后，伊迪丝·艾塞尔走到茶桌边，带着她那丝绒般的和气，把右手放在了瓦伦丁的左手上。瓦伦丁以深深的热情欣赏着这个手势，心里明白：这就是终局了。
+再往前三天，星期一，瓦伦丁穿着学校制服，到一家大商场去买体育用具，迎面撞上了正在买花的杜什明太太。杜什明太太看到那身衣装，苦恼得不行。她说：
+“你就这样*到处*走？真是要命。”
+瓦伦丁答：
+“哦，是啊。上课时间替学校办事就得穿它。放学后要赶着去哪儿，我也穿。省衣裳。我的衣裳并不多。”
+“可*随便什么人*都可能撞见你呀，”伊迪丝·艾塞尔用痛苦的声调说。“太不为别人着想了。你*不觉得*你太不为别人着想了吗？你可能撞见我们星期五聚会上的随便哪位客人！”
+“我常撞见，”瓦伦丁说。“可他们好像并不在意。也许他们当我是女子辅助军团的女官。那倒相当体面……”
+杜什明太太飘开了，满怀的花，一脸真切的痛苦。
+此刻，在茶桌边，她柔声说：
+“亲爱的，我们决定下星期五不办平日的午后聚了。”瓦伦丁寻思这是不是只是打发她的托辞。可伊迪丝·艾塞尔接着说：“我们决定办一个小小的晚间庆祝。经过反复思量，我们得出结论：如今，该把我们的结合公开了。”她停下来等一句评语，瓦伦丁没给，她便接着说：“这事同另一桩巧事碰得再好不过——我禁不住觉得碰得再好不过！——虽说这些身外之物我们并不怎么放在心上。……不过有人向文森特耳语，说下星期五。……也许，亲爱的瓦伦丁，你也已经听说了……”
+瓦伦丁说：
+“没有。没听说。我猜他是得了O.B.E.吧。我很高兴。”
+“君上，”杜什明太太说，“有意赐他爵士之荣。”
+“哎呀！”瓦伦丁说。“他这前程来得真快。想必是应得的。他很勤勉。我诚心诚意地贺你。
+
+===Original===
+
+It’ll be a great help to you.”
+“It’s,” Mrs. Duchemin said, “not for mere plodding. That’s what makes it so gratifying. It’s for a special piece of brilliance, that has marked him out. It’s, of course, a secret. But﻿ ﻿…”
+“Oh, I know!” Valentine said. “He’s worked out some calculations to prove that losses in the devastated districts, if you ignore machinery, coal output, orchard trees, harvests, industrial products and so on, don’t amount to more than a year’s household dilapidations for the﻿ ﻿…”
+Mrs. Duchemin said with real horror:
+“But how did you know? How on *earth* did you know?﻿ ﻿…” She paused. “It’s such a *dead* secret.﻿ ﻿… That fellow must have told you.﻿ ﻿… But how on earth could *he* know?”
+“I haven’t seen Mr. Tietjens to speak to since the last time he was here,” Valentine said. She saw, from Edith Ethel’s bewilderment, the whole situation. The miserable Macmaster hadn’t even confided to his wife that the practically stolen figures weren’t his own. He desired to have a little prestige in the family circle; for once a little prestige! Well! Why shouldn’t he have it? Tietjens, she knew, would wish him to have all he could get. She said therefore:
+“Oh, it’s probably in the air.﻿ ﻿… It’s known the Government want to break their claims to the higher command. And anyone who could help them to that would get a knighthood﻿ ﻿…”
+Mrs. Duchemin was more calm.
+“It’s certainly,” she said, “Burke’d, as you call it, those beastly people.” She reflected for a moment. “It’s probably that,” she went on. “It’s in the air. Anything that can help to influence public opinion against those horrible people is to be welcomed. That’s known pretty widely.﻿ ﻿… No! It could hardly be Christopher Tietjens who thought of it and told you. It wouldn’t enter his head. He’s their friend. He would be﻿ ﻿…”
+“He’s certainly,” Valentine said, “not a friend of his country’s enemies. I’m not myself.”
+Mrs. Duchemin exclaimed sharply, her eyes dilated:
+“What do you mean? What on earth do you dare to mean? I thought you were a pro-German!”
+Valentine said:
+“I’m not! I’m not!﻿ ﻿… I hate men’s deaths.﻿ ﻿… I hate any men’s deaths.﻿ ﻿… Any men﻿ ﻿…” She calmed herself by main force. “Mr. Tietjens says that the more we hinder our allies the more we drag the war on and the more lives are lost.﻿ ﻿… More lives, do you understand?﻿ ﻿…”
+Mrs.
+
+===Chinese===
+
+“这对你们帮助会很大。”
+“这可不是，”杜什明太太说，“奖给死做活的。所以才这样叫人欣慰。是奖给一桩特出的才智之作，那才叫他脱颖而出。当然，是机密。可是……”
+“哦，我知道！”瓦伦丁说。“他算出了一笔数，证明被蹂躏地区的损失，只要撇开机器、煤产、果园的树、收成、工业品等等，抵不上全年家宅修缮……”
+杜什明太太带着真切的惊骇说：
+“可你怎么知道的？你到底*怎么*知道的？……”她顿了顿。“这是绝*顶*的机密。……准是那个人告诉你的。……可他到底怎么会知道呢？”
+“上回蒂金斯先生在这儿之后，我就没同他说过话，”瓦伦丁说。她从伊迪丝·艾塞尔的惶惑里看清了全局。这个可怜的麦克马斯特，连那笔几乎是偷来的数字并非他自己的算计这一点，都没向妻子交底。他不过想在自家的小圈子里有点威望；就一回，有点威望！唉！他为什么不该有呢？蒂金斯，她知道，会愿他有多少要多少。于是她说：
+“哦，怕是风声传的。……谁都知道政府要驳掉他们索求最高指挥权的由头。谁能帮着办成这一件，谁就得爵士……”
+杜什明太太平静了些。
+“这确实，”她说，“像你说的，把他们那些可恶的人上了伯克氏谱。”她想了一想。“多半是这个，”她接着说。“是风声传的。凡能帮着把舆论往反对那些可怕的人那边推的，都受欢迎。这事儿传得挺广。……不！总不会是克里斯托弗·蒂金斯想出来的讲给你听。他脑子里不会有这个。他是他们的朋友。他要真是……”
+“他当然，”瓦伦丁说，“不是国家之敌的朋友。我自己也不是。”
+杜什明太太厉声嚷了起来，眼睛睁得老大：
+“你什么意思？你到底敢什么意思？我还当你是亲德派！”
+瓦伦丁说：
+“我不是！我不是！……我恨男人们的死。……我恨任何男人的死。……任何男人……”她硬生生把自己压住。“蒂金斯先生说，我们越是拖盟友的后腿，战争就拖得越长，死的人就越多。……死更多的人，你明白吗？……”
+杜什明
+
+===Original===
+
+Duchemin assumed her most aloof, tender and high air: “My poor child,” she said, “what possible concern can the opinions of that broken fellow cause anyone? You can warn him from me that he does himself no good by going on uttering these discredited opinions. He’s a marked man. Finished! It’s no good Guggums, my husband, trying to stand up for him.”
+“He *does* stand up for him?” Valentine asked. “Though I don’t see why it’s needed. Mr. Tietjens is surely able to take care of himself.”
+“My good child,” Edith Ethel said, “you may as well know the worst. There’s not a more discredited man in London than Christopher Tietjens, and my husband does himself infinite harm in standing up for him. It’s our one quarrel.”
+She went on again:
+“It was all very well whilst that fellow had brains. He was said to have some intellect, though I could never see it. But now that, with his drunkenness and debaucheries, he has got himself into the state he is in; for there’s no other way of accounting for his condition! They’re striking him, I don’t mind telling you, off the roll of his office﻿ ﻿…”
+It was there that, for the first time, the thought went through Valentine Wannop’s mind, like a mad inspiration: this woman must at one time have been in love with Tietjens. It was possible, men being what they were, that she had even once been Tietjens’ mistress. For it was impossible otherwise to account for this spite, which to Valentine seemed almost meaningless. She had, on the other hand, no impulse to defend Tietjens against accusations that could not have any possible grounds.
+Mrs. Duchemin was going on with her kind loftiness:
+“Of course a fellow like that﻿—in that condition!﻿—could not understand matters of high policy. It is imperative that these fellows should not have the higher command. It would pander to their insane spirit of militarism. They *must* be hindered. I’m talking, of course, between ourselves, but my husband says that that is the conviction in the very highest circles. To let them have their way, even if it led to earlier success, would be to establish a precedent﻿—so my husband says!﻿—compared with which the loss of a few lives﻿ ﻿…”
+Valentine sprang up, her face distorted.
+“For the sake of Christ,” she cried out, “as you believe that Christ died for you, try to understand that millions of men’s lives are at stake﻿ ﻿…”
+Mrs. Duchemin smiled.
+
+===Chinese===
+
+太太摆出她最超然、最温存、最高贵的架势：“我可怜的孩子，”她说，“那个垮掉了的家伙的意见，关谁什么事呢？你可以替我警告他：再这样嚷那些声名扫地的意见，于他没有半点好处。他是挂了号的人了。完蛋了！古古姆斯——就是我丈夫——想替他撑腰，也是白搭。”
+“他*还*替他撑腰？”瓦伦丁问。“虽然我不明白有什么必要。蒂金斯先生总归照顾得了自己。”
+“我的好孩子，”伊迪丝·艾塞尔说，“你不如知道最坏的吧。伦敦城里再没有比克里斯托弗·蒂金斯更名誉扫地的人了，我丈夫替他撑腰，是自己害自己，害到无穷。这是我们两口子唯一吵的一件事。”
+她又说下去：
+“那家伙当年有脑子，倒也罢了。据说他有些才智，虽然我从来看不出。可如今他酗酒荒唐，把自己糟践成现在这副样子；他的境况没有别的解释！我不妨告诉你，他们正把他从部里的名册上除名……”
+就在这里，一个念头头一次像疯狂的灵光一样穿过瓦伦丁·万诺普的心：这个女人从前一定爱过蒂金斯。男人既是这样一种东西，她甚至可能做过蒂金斯的情妇。因为这份怨毒，在瓦伦丁看来几乎无理可喻，舍此便无从解释。另一方面，对这些不可能有任何根据的指控，她也毫无要为蒂金斯辩护的冲动。
+杜什明太太正带着她的慈和高贵说下去：
+“当然，那样一个人——那样一副境地！——是懂不了高层的政策的。这帮家伙万万不可得到最高指挥权。那会助长他们疯狂的军国主义精神。必须*拦住*他们。当然，这是咱们私下说的，可我丈夫说，这是最高层圈子里的定论。让他们得逞，哪怕能带来更早的胜利，也将开一个先例——我丈夫说的！——同这个先例相比，死几个人……”
+瓦伦丁跳了起来，脸都变了形。
+“看在基督的份上，”她喊道，“你既信基督为你而死，就设法明白明白：几百万条人命悬在一线上……”
+杜什明太太微微一笑。
+
+===Original===
+
+“My poor child,” she said, “if you moved in the higher circles you would look at these things with more aloofness﻿ ﻿…”
+Valentine leant on the back of a high chair for support.
+“You don’t move in the higher circles,” she said. “For Heaven’s sake﻿—for your own﻿—remember that you are a woman, not forever and for always a snob. You were a good woman once. You stuck to your husband for quite a long time﻿ ﻿…”
+Mrs. Duchemin, in her chair, had thrown herself back.
+“My good girl,” she said, “have you gone mad?”
+Valentine said:
+“Yes, very nearly. I’ve got a brother at sea; I’ve had a man I loved out there for an infinite time. You can understand that, I suppose, even if you can’t understand how one can go mad merely at the thoughts of suffering at all.﻿ ﻿… And I know, Edith Ethel, that you are afraid of my opinion of you, or you wouldn’t have put up all the subterfuges and concealments of all these years﻿ ﻿…”
+Mrs. Duchemin said quickly:
+“Oh, my good girl.﻿ ﻿… If you’ve got personal interests at stake you can’t be expected to take abstract views of the higher matters. We had better change the subject.”
+Valentine said:
+“Yes, do. Get on with your excuses for not asking me and mother to your knighthood party.”
+Mrs. Duchemin, too, rose at that. She felt at her amber beads with long fingers that turned very slightly at the tips. She had behind her all her mirrors, the drops of her lustres, shining points of gilt and of the polish of dark woods. Valentine thought that she had never seen anyone so absolutely impersonate kindness, tenderness and dignity. She said:
+“My dear, I was going to suggest that it was the sort of party to which you might not care to come.﻿ ﻿… The people will be stiff and formal and you probably haven’t got a frock.”
+Valentine said:
+“Oh, I’ve got a frock all right. But there’s a Jacob’s ladder in my party stockings and that’s the sort of ladder you can’t kick down.” She couldn’t help saying that.
+Mrs. Duchemin stood motionless and very slowly redness mounted into her face. It was most curious to see against that scarlet background the vivid white of the eyes and the dark, straight eyebrows that nearly met. And, slowly again her face went perfectly white; then her dark blue eyes became marked. She seemed to wipe her long, white hands one in the other, inserting her right hand into her left drawing it out again.
+“I’m sorry,” she said in a dead voice.
+
+===Chinese===
+
+“我可怜的孩子，”她说，“你要是在高层圈子里走动，看这些事情就会超脱些……”
+瓦伦丁扶着一把高背椅的椅背撑住自己。
+“你并不是在高层圈子里走动，”她说。“看在老天份上——也看在你自己份上——记住你是个女人，不是永永远远的势利鬼。你从前是个好女人。你守着你丈夫，守了相当长的时候……”
+杜什明太太在椅子里把身子一仰。
+“我的好姑娘，”她说，“你疯了吗？”
+瓦伦丁说：
+“是，快了。我弟弟在海上；我爱的一个人在那边，待了无穷无尽的时日。这个你总明白吧，哪怕你不明白一个人怎么会单是想到苦难就发疯。……而且我知道，伊迪丝·艾塞尔，你怕的是我对你的看法，不然你这些年不至于遮遮掩掩、躲躲藏藏……”
+杜什明太太赶紧说：
+“哦，我的好姑娘。……你既然有切身的利害牵在里头，自然不能指望你对高尚的事务持抽象的见解。咱们还是换个话题吧。”
+瓦伦丁说：
+“好，换吧。接着说你为什么不请我和母亲去你的授爵庆会的那套托词吧。”
+杜什明太太闻言也站了起来。她用修长的手指抚着琥珀珠串，指尖微微发扭。她身后是她的全部镜子、烛架上的垂饰、镀金的亮点和深色木器的光泽。瓦伦丁想，她从未见过谁这样彻头彻尾地化身仁慈、温存与庄严。她说：
+“亲爱的，我正想委婉地说，这种聚会，也许你不乐意来。……客人都是拘谨的人物，你多半也没有礼服。”
+瓦伦丁说：
+“哦，礼服我倒有。只是我赴会的那双长袜里有一道雅各天梯，那种梯子可是踢不掉的。”这话她忍不住说了。
+杜什明太太站着一动不动，红色慢慢地爬上她的脸。衬着那片猩红，眼睛的鲜活的白和几乎连成一线的乌黑平眉，看起来最是古怪。而后，慢慢地，她的脸又变得全无血色；她那双深蓝的眼睛便显了出来。她像是在把两只雪白的长手彼此擦拭，右手插进左手，又抽出来。
+“对不起，”她用死气沉沉的声音说。
+
+===Original===
+
+“We had hoped that, if that man went to France﻿—or if other things happened﻿—we might have continued on the old friendly footing. But you yourself must see that, with our official position, we can’t be expected to connive﻿ ﻿…”
+Valentine said:
+“I don’t understand!”
+“Perhaps you’d rather I didn’t go on!” Mrs. Duchemin retorted. “I’d much rather not go on.”
+“You’d probably better,” Valentine answered.
+“We had meant,” the elder woman said, “to have a quiet little dinner﻿—we two and you, before the party﻿—for auld lang syne. But that fellow has forced himself in, and you see for yourself that we can’t have you as well.”
+Valentine said:
+“I don’t see why not. I always like to see Mr. Tietjens!”
+Mrs. Duchemin looked hard at her.
+“I don’t see the use,” she said, “of your keeping on that mask. It is surely bad enough that your mother should go about with that man and that terrible scenes like that of the other Friday should occur. Mrs. Tietjens was heroic; nothing less than heroic. But you have no right to subject us, your friends, to such ordeals.”
+Valentine said:
+“You mean﻿ ﻿… Mrs. Christopher Tietjens﻿ ﻿…”
+Mrs. Duchemin went on:
+“My husband insists that I should ask you. But I will not. I simply will not. I invented for you the excuse of the frock. Of course we could have given you a frock if that man is so mean or so penniless as not to keep you decent. But I repeat, with our official position we cannot﻿—we cannot; it would be madness!﻿—connive at this intrigue. And all the more as the wife appears likely to be friendly with us. She has been once: she may well come again.” She paused and went on solemnly: “And I warn you, if the split comes﻿—as it must, for what woman could stand it!﻿—it is Mrs. Tietjens we shall support. She will always find a home here.”
+An extraordinary picture of Sylvia Tietjens standing beside Edith Ethel and dwarfing her as a giraffe dwarfs an emu, came into Valentine’s head. She said:
+“Ethel! Have I gone mad? Or is it you? Upon my word I can’t understand﻿ ﻿…”
+Mrs. Duchemin exclaimed:
+“For God’s sake hold your tongue, you shameless thing! You’ve had a child by the man, haven’t you?”
+Valentine saw suddenly the tall silver candlesticks, the dark polished panels of the rectory and Edith Ethel’s mad face and mad hair whirling before them.
+She said:
+“No! I certainly haven’t. Can you get that into your head? I certainly haven’t.”
+
+===Chinese===
+
+“我们本来指望，那个人去了法国——或者别的什么事发生——我们还能照旧友好地来往。可你自己也明白，以我们如今的官面身份，总不能指望我们对……睁一只眼闭一只眼……”
+瓦伦丁说：
+“我不明白！”
+“也许你倒宁愿我别说下去！”杜什明太太反唇相讥。“我也宁可不说。”
+“你还是说的好，”瓦伦丁答。
+“我们本想，”年长的女人说，“在庆会之前，安安静静吃一顿小晚饭——我们两个加你一个，叙叙旧情。可那个家伙硬挤了进来，你自己也看得出来，再加你就加不下了。”
+瓦伦丁说：
+“我不明白为什么加不下。我见了蒂金斯先生总是高兴的！”
+杜什明太太狠狠盯着她。
+“我不明白，”她说，“你还戴着那副面具做什么。你母亲同那个男人出出入入，上个星期五又闹出那样难堪的场面，这难道还不够糟吗。蒂金斯太太真是有涵养；何止有涵养，简直是英雄气概。可你没有权利让我们，让你的朋友们，受这样的煎熬。”
+瓦伦丁说：
+“你是说……克里斯托弗·蒂金斯太太……”
+杜什明太太接着说：
+“我丈夫一定要我请你。可我不请。坚决不请。礼服那套托词是我替你编的。当然，要是那个男人那样小气、那样一文不名，置不起你一身体面行头，我们是本可以送你一件礼服的。可我再说一遍，以我们的官面身份，我们不能——不能；那是发疯！——纵容这桩私情。何况那位太太看来是愿意同我们交好的。她来过一次：很可能再来。”她顿了顿，郑重地说下去：“而且我警告你，一旦他们散伙——散是必然的，哪个女人受得了！——我们要站在蒂金斯太太一边。她在这里永远有家可归。”
+一幅异样的图景浮上瓦伦丁的心头：西尔维娅·蒂金斯站在伊迪丝·艾塞尔身旁，把她比下去，如长颈鹿比下鸸鹋。她说：
+“艾塞尔！是我疯了？还是你疯了？说真的，我简直不明白……”
+杜什明太太嚷了起来：
+“看上帝份上住嘴吧，你这不要脸的东西！你跟那个男人生过孩子了，是不是？”
+瓦伦丁眼前蓦地现出高高的银烛台、教区牧师宅幽暗的护壁板，和伊迪丝·艾塞尔那张疯狂的脸、一头疯狂的发，在前面打着旋。
+她说：
+“没有！肯定没有。这话你能装进脑子里去吗？肯定没有。”
+
+===Original===
+
+She made a further effort over immense fatigue. “I assure you﻿—I beg you to believe if it will give you any ease﻿—that Mr. Tietjens has never addressed a word of love to me in his life. Nor have I to him. We have hardly talked to each other in all the time we have known each other.”
+Mrs. Duchemin said in a harsh voice:
+“Seven people in the last five weeks have told me you have had a child by that brute beast: he’s ruined because he has to keep you and your mother and the child. You won’t deny that he has a child somewhere hidden away?﻿ ﻿…”
+Valentine exclaimed suddenly:
+“Oh, Ethel, you mustn’t﻿ ﻿… you *mustn’t* be jealous of me! If you only knew you wouldn’t be jealous of me.﻿ ﻿… I suppose the child you were going to have was by Christopher? Men are like that.﻿ ﻿… But not of me! You need never, never. I’ve been the best friend you can ever have had﻿ ﻿…”
+Mrs. Duchemin exclaimed harshly, as if she were being strangled:
+“A sort of blackmail! I knew it would come to that! It always does with your sort. Then do your damnedest, you harlot. You never set foot in this house again! Go you and rot﻿ ﻿…” Her face suddenly expressed extreme fear and with great swiftness she ran up the room. Immediately afterwards she was tenderly bending over a great bowl of roses beneath the lustre. The voice of Vincent Macmaster from the door had said:
+“Come in, old man. Of course I’ve got ten minutes. The book’s in here somewhere﻿ ﻿…”
+Macmaster was beside her, rubbing his hands, bending with his curious, rather abject manner, and surveying her agonisedly with his eyeglass, which enormously magnified his lashes, his red lower lid and the veins on his cornea.
+“Valentine!” he said, “my dear Valentine.﻿ ﻿… You’ve heard? We’ve decided to make it public.﻿ ﻿… Guggums will have invited you to our little feast. And there will be a surprise I believe﻿ ﻿…”
+Edith Ethel looked, as she bent, lamentably and sharply, over her shoulder at Valentine.
+“Yes,” she said bravely, aiming her voice at Edith Ethel, “Ethel has invited me. I’ll try to come﻿ ﻿…”
+“Oh, but you must,” Macmaster said, “just you and Christopher, who’ve been so kind to us. For old time’s sake. You could not﻿ ﻿…”
+Christopher Tietjens was ballooning slowly from the door, his hand tentatively held out to her. As they practically never shook hands at home it was easy to avoid his hand. She said to herself: “Oh! How is it possible!
+
+===Chinese===
+
+她强撑着再说了一句，疲倦已极。“我向你担保——求你相信，若这能让你安心——蒂金斯先生平生从没对我说过一个情字。我也没对他说过。我们相识这么多年，彼此几乎没说过几句话。”
+杜什明太太声音发狠地说：
+“这五个星期里，已经有七个人告诉我，你同那个畜生生了一个孩子：他是被你们拖垮的，他要养活你、你母亲、还有那孩子。他有个孩子藏在什么地方，这你总不能否认吧？……”
+瓦伦丁忽然喊了起来：
+“哦，艾塞尔，你千万……千万*不要*嫉妒我！你要是知道就好了，你就不会嫉妒我了。……我猜你当年怀的那个，就是克里斯托弗的？男人都是这样。……可不该嫉妒我！你永远、永远不必。我是你此生能有过的最好的朋友……”
+杜什明太太狠狠地嚷道，像被人掐住了喉咙：
+“敲诈！我就知道要走到这一步！你们这种人到头来都是这样。那你就使出最毒的招数吧，你这荡妇。这屋子你休想再踏进一步！去烂吧你……”她的脸忽然露出极度的恐惧，飞快地朝屋子那头跑去。转眼间，她已温存地俯身在烛架下一大钵玫瑰前。文森特·麦克马斯特的声音在门口说过：
+“进来吧，老兄。十分钟我当然有。书就在这屋里什么地方……”
+麦克马斯特到了她身边，搓着手，带着他那种古怪而颇为卑屈的姿态躬着身，用单片眼镜苦兮兮地端详她——镜片把他睫毛、红红的下眼睑和角膜上的血丝放大到吓人。
+“瓦伦丁！”他说，“我亲爱的瓦伦丁。……你听说了？我们决定公开了。……古古姆斯该请了你来参加我们的小庆会。而且我相信还有一件惊喜……”
+伊迪丝·艾塞尔一面俯身，一面回首，凄惶而尖利地看了瓦伦丁一眼。
+“是的，”她鼓起勇气说，声音冲着伊迪丝·艾塞尔去，“艾塞尔请了我。我尽量来……”
+“哦，你可一定要来，”麦克马斯特说，“就是你同克里斯托弗，你们待我们这么好。念着旧日情分。你不能……”
+克里斯托弗·蒂金斯正从门口缓缓地胀过来，一只手试探着向她伸出。他们在家几乎从不握手，避开这只手是容易的。她对自己说：“哦！这怎么可能！”
+
+===Original===
+
+How could he have﻿ ﻿…” And the terrible situation poured itself over her mind: the miserable little husband, the desperately nonchalant lover﻿—and Edith Ethel mad with jealousy! A doomed household. She hoped Edith Ethel had seen her refuse her hand to Christopher.
+But Edith Ethel, bent over her rose bowl, was burying her beautiful face in flower after flower. She was accustomed to do this for many minutes on end: she thought that, so, she resembled a picture by the subject of her husband’s first little monograph. And so, Valentine thought, she did. She was trying to tell Macmaster that Friday evenings were difficult times for her to get away. But her throat ached too much. That, she knew, was her last sight of Edith Ethel, whom she had loved very much. That also, she hoped, would be her last sight of Christopher Tietjens﻿—whom also she had loved very much.﻿ ﻿… He was browsing along a bookshelf, very big and very clumsy.
+Macmaster pursued her into the stony hall with clamorous repetitions of his invitation. She couldn’t speak. At the great iron-lined door he held her hand for an eternity, gazing lamentably, his face close up against hers. He exclaimed in accents of great fear:
+“Has Guggums?﻿ ﻿… She *hasn’t*﻿ ﻿…” His face, which when you saw it so closely was a little blotched, distorted itself with anxiety: he glanced aside with panic at the drawing-room door.
+Valentine burst a voice through her agonised throat.
+“Ethel,” she said, “has told me she’s to be Lady Macmaster. I’m so glad. I’m so truly glad for you. You’ve got what you wanted, haven’t you?”
+His relief let him get out distractedly, yet as if he were too tired to be any more agitated:
+“Yes! yes!﻿ ﻿… It’s, of course, a secret.﻿ ﻿… I don’t want *him* told till Friday next﻿ ﻿… so as to be a sort of *bonne bouche*﻿ ﻿… He’s practically certain to go out again on Saturday.﻿ ﻿… They’re sending out a great batch of them﻿ ﻿… for the big push﻿ ﻿…” At that she tried to draw her hand from his: she missed what he was saying. It was something to the effect that he would give it all for a happy little party. She caught the rather astonishing words: “*Wie in alter schoenen Zeit.*” She couldn’t tell whether it was his or her eyes that were full of tears. She said:
+“I believe﻿ ﻿… I believe you’re a kind man!”
+
+===Chinese===
+
+“他怎么可能……”可怕的处境整个浇上她的心头：那可怜的小丈夫，那拼命装作若无其事的情人——还有妒火中烧的伊迪丝·艾塞尔！一个注定了的家。但愿伊迪丝·艾塞尔看见了她拒绝同克里斯托弗握手。
+伊迪丝·艾塞尔却只顾俯在玫瑰钵上，把美丽的脸埋进一朵又一朵花里。她惯于这样一连埋上好几分钟：她以为这样一来，自己就像她丈夫第一本小专著所写的那位画家的画中人了。而且，瓦伦丁想，也真像。她想告诉麦克马斯特，星期五晚上她很难脱身。可她喉咙疼得太厉害了。这，她知道，是她见到伊迪丝·艾塞尔的最后一面——这个她曾经深爱的人。这，她希望，也是她见到克里斯托弗·蒂金斯的最后一面——这个她同样深爱的人。……他正沿着书架一路翻看，块头很大，动作很笨。
+麦克马斯特追着她进了石砌的门厅，把他的邀请吵吵嚷嚷地重复了一遍又一遍。她说不出话。在那扇包铁皮的大门前，他握着她的手握了无穷久，凄惶地凝视着，脸几乎贴着她的脸。他用极度惊惶的声调说：
+“古古姆斯没有……？她*不致于*……”他的脸凑这么近看是有些斑驳的，这时焦虑得扭歪了：他慌慌张张地斜眼瞟着客厅的门。
+瓦伦丁从痛苦发紧的喉咙里挤出了声音。
+“艾塞尔，”她说，“已经告诉我她就要做麦克马斯特爵士夫人了。我真高兴。我真心为你高兴。你得到想要的了，不是吗？”
+松了一口气，他失魂落魄地说了出来，却像是累得再也激动不动了：
+“是啊！是啊！……当然，是机密。……我不想让*他*在下星期五之前知道……好算一份*小小的美点*……他星期六多半又要开拔了。……他们要送一大批人过去……打大攻势……”听到这里她想把子抽回来：他后面的话她没听全。大意是，为了一个快活的小小聚会，这一切他都舍得。她听清了那句相当叫人吃惊的话：“*就像从前那些美好的日子。*”她分不清含泪的是他的眼睛还是她自己的。她说：
+“我相信……我相信你是个好心人！”
+
+===Original===
+
+In the great stone hall, hung with long Japanese paintings on silk, the electric light suddenly jumped; it was at best a sad, brown place.
+He exclaimed:
+“I, too, beg you to believe that I will never abandon﻿ ﻿…” He glanced again at the inner door and added: “You both﻿ ﻿… I will never abandon﻿ ﻿… you both!” he repeated.
+He let go her hand: she was on the stone stairs in the damp air. The great door closed irresistibly behind her, sending a whisper of air downwards.
+
+===Chinese===
+
+在挂着长幅日本绢画的大石厅里，电灯忽然一跳；这地方充其量是个幽暗发褐的所在。
+他喊道：
+“我也求你相信，我永远不会背弃……”他又瞟了一眼内室的门，补了一句：“你们两位……我永远不会背弃……你们两位！”他重复道。
+他松开她的手：她已站在湿漉漉的空气里的石阶上。大门不由分说地在她身后合上，送下一缕低语的气流。
