@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-11-01，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-11-06，全库生命周期总控）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **494** 完 / **32** 译 / **121** 待（共 647 本） | **10681** / 18180 篇（**172144.7** / 305863.1 KB）· **56.3%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **42** 本待审 | 覆盖精读 **452** 本（**91.5%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **494** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **494** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **502** 完 / **30** 译 / **115** 待（共 647 本） | **10876** / 18180 篇（**175783.0** / 305863.1 KB）· **57.5%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **50** 本待审 | 覆盖精读 **452** 本（**90.0%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **494** 本已打包 / **8** 本待打包 | 交付标准双语 EPUB **494** 本（**98.4%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **494** 本译完，**452** 本完成独立审校，**494** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **502** 本译完，**452** 本完成独立审校，**494** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -30,7 +30,7 @@
 | 5 | `aldous-huxley_antic-hay` | ✅ 已入库 | [✅ **100%**](翻译项目/aldous-huxley_antic-hay/译文) (23篇) | [✅ 已审](翻译项目/aldous-huxley_antic-hay/审核报告.md) | [📦 476KB](翻译项目/aldous-huxley_antic-hay/滑稽的环舞.epub) | 全书 23 篇译文架构严丝合缝，499 组双语对照块实现 100% 严格闭合… |
 | 6 | `aldous-huxley_those-barren-leaves` | ✅ 已入库 | [✅ **100%**](翻译项目/aldous-huxley_those-barren-leaves/译文) (47篇) | [✅ 已审(A)](翻译项目/aldous-huxley_those-barren-leaves/审核报告.md) | [📦 646KB](翻译项目/aldous-huxley_those-barren-leaves/光秃秃的树叶.epub) | A 优秀 | 全书5大部47章双语块经双代理分区100%逐段精读对照，英文零… |
 | 7 | `aleksandr-kuprin_short-fiction_various-translators` | ✅ 已入库 | ⚪ 待译 (49篇) | — | — |  |
-| 8 | `alexander-berkman_the-bolshevik-myth` | ✅ 已入库 | ⚪ 待译 (42篇) | — | — |  |
+| 8 | `alexander-berkman_the-bolshevik-myth` | ✅ 已入库 | [✅ **100%**](翻译项目/alexander-berkman_the-bolshevik-myth/译文) (42篇) | ⏳ 待审 | — | 已译完待审 |
 | 9 | `alexander-mackenzie_journals` | ✅ 已入库 | [🟡 0.6%](翻译项目/alexander-mackenzie_journals/译文) (1/27) | — | — |  |
 | 10 | `alexandre-dumas_the-wolf-leader` | ✅ 已入库 | [✅ **100%**](翻译项目/alexandre-dumas_the-wolf-leader/译文) (25篇) | [✅ 已审(B)](翻译项目/alexandre-dumas_the-wolf-leader/审核报告.md) | [📦 443KB](翻译项目/alexandre-dumas_the-wolf-leader/狼之领主.epub) | B 良好 | 译笔总体优秀、忠实且有文学质感，人物/地名术语跨章高度一致；主… |
 | 11 | `algernon-blackwood_john-silence-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/algernon-blackwood_john-silence-stories/译文) (6篇) | [✅ 已审(A)](翻译项目/algernon-blackwood_john-silence-stories/审核报告.md) | [📦 573KB](翻译项目/algernon-blackwood_john-silence-stories/约翰·寂静医生的故事.epub) | A 优秀 | 两篇译稿质量上乘，忠实且文气典雅克制，灵异氛围与黑色幽默并存的… |
@@ -282,7 +282,7 @@
 | 257 | `george-bernard-shaw_short-plays` | ✅ 已入库 | ⚪ 待译 (17篇) | — | — |  |
 | 258 | `george-borrow_lavengro` | ✅ 已入库 | ⚪ 待译 (168篇) | — | — |  |
 | 259 | `george-dilnot_the-lazy-detective` | ✅ 已入库 | [✅ **100%**](翻译项目/george-dilnot_the-lazy-detective/译文) (30篇) | [✅ 已审(A)](翻译项目/george-dilnot_the-lazy-detective/审核报告.md) | [📦 358KB](翻译项目/george-dilnot_the-lazy-detective/The Lazy Detective.epub) | A 优秀（出版预备级） | 全书 30 章逐块逐段全文精读对照无遗漏，双语块… |
-| 260 | `george-du-maurier_trilby` | ✅ 已入库 | ⚪ 待译 (9篇) | — | — |  |
+| 260 | `george-du-maurier_trilby` | ✅ 已入库 | [✅ **100%**](翻译项目/george-du-maurier_trilby/译文) (9篇) | ⏳ 待审 | — | 已译完待审 |
 | 261 | `george-eliot_daniel-deronda` | ✅ 已入库 | ⚪ 待译 (82篇) | — | — |  |
 | 262 | `george-grey_polynesian-mythology` | ✅ 已入库 | [✅ **100%**](翻译项目/george-grey_polynesian-mythology/译文) (29篇) | ⏳ 待审 | [📦 391KB](翻译项目/george-grey_polynesian-mythology/波利尼西亚神话与古俗.epub) | 已译完待审 |
 | 263 | `george-macdonald_lilith` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_lilith/译文) (49篇) | ⏳ 待审 | [📦 493KB](翻译项目/george-macdonald_lilith/莉莉丝.epub) | 已译完待审 |
@@ -291,7 +291,7 @@
 | 266 | `george-macdonald_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_short-fiction/译文) (19篇) | [✅ 已审(A)](翻译项目/george-macdonald_short-fiction/审核报告.md) | [📦 593KB](翻译项目/george-macdonald_short-fiction/金钥匙.epub) | A 优秀 | 前 7 篇译笔典雅、忠实度高、无漏译无错配，仅有个别英文残留、… |
 | 267 | `george-macdonald_the-portent` | ✅ 已入库 | [✅ **100%**](翻译项目/george-macdonald_the-portent/译文) (27篇) | [✅ 已审(A)](翻译项目/george-macdonald_the-portent/审核报告.md) | [📦 206KB](翻译项目/george-macdonald_the-portent/预兆.epub) | A 优秀 | 全书 27 章逐块对照未见语义错配、漏译、英文残留或截断，术语… |
 | 268 | `george-macdonald_unspoken-sermons` | ✅ 已入库 | ⚪ 待译 (44篇) | — | — |  |
-| 269 | `george-meredith_the-shaving-of-shagpat` | ✅ 已入库 | ⚪ 待译 (24篇) | — | — |  |
+| 269 | `george-meredith_the-shaving-of-shagpat` | ✅ 已入库 | [✅ **100%**](翻译项目/george-meredith_the-shaving-of-shagpat/译文) (24篇) | ⏳ 待审 | — | 已译完待审 |
 | 270 | `george-schuyler_black-no-more` | ✅ 已入库 | [✅ **100%**](翻译项目/george-schuyler_black-no-more/译文) (15篇) | ⏳ 待审 | [📦 299KB](翻译项目/george-schuyler_black-no-more/Black No More.epub) | 已译完待审 |
 | 271 | `george-william-russell_the-national-being` | ✅ 已入库 | [✅ **100%**](翻译项目/george-william-russell_the-national-being/译文) (22篇) | [✅ 已审(A)](翻译项目/george-william-russell_the-national-being/审核报告.md) | [📦 205KB](翻译项目/george-william-russell_the-national-being/国家存在.epub) | A 优秀（出版预备级） | 全书 22 篇 100% 逐块通读对照，结构块对… |
 | 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_beauvallet/译文) (29篇) | ⏳ 待审 | [📦 467KB](翻译项目/georgette-heyer_beauvallet/博瓦莱.epub) | 已译完待审 |
@@ -381,7 +381,7 @@
 | 356 | `james-branch-cabell_chivalry` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_chivalry/译文) (15篇) | [✅ 已审(C)](翻译项目/james-branch-cabell_chivalry/审核报告.md) | [📦 314KB](翻译项目/james-branch-cabell_chivalry/骑士精神.epub) | C 需关注 | 全书 602 对双语块配对完整、正文无整段漏译与章末截断、文… |
 | 357 | `james-branch-cabell_domnei` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_domnei/译文) (44篇) | [✅ 已审(A)](翻译项目/james-branch-cabell_domnei/审核报告.md) | [📦 210KB](翻译项目/james-branch-cabell_domnei/多姆内伊.epub) | A 优秀 | 全书译笔典雅古朴、反讽戏谑拿捏精妙，44 篇 202 个双语块… |
 | 358 | `james-branch-cabell_figures-of-earth` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_figures-of-earth/译文) (48篇) | [✅ 已审(A)](翻译项目/james-branch-cabell_figures-of-earth/审核报告.md) | [📦 395KB](翻译项目/james-branch-cabell_figures-of-earth/大地的形象.epub) | A 优秀（出版预备级） | 全书 48 篇章节文件 100% 逐章逐段完成双… |
-| 359 | `james-branch-cabell_jurgen` | ✅ 已入库 | [🟡 68.9%](翻译项目/james-branch-cabell_jurgen/译文) (36/54) | — | — |  |
+| 359 | `james-branch-cabell_jurgen` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_jurgen/译文) (54篇) | ⏳ 待审 | — | 已译完待审 |
 | 360 | `james-branch-cabell_the-cords-of-vanity` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_the-cords-of-vanity/译文) (37篇) | [✅ 已审(B)](翻译项目/james-branch-cabell_the-cords-of-vanity/审核报告.md) | [📦 504KB](翻译项目/james-branch-cabell_the-cords-of-vanity/The Cords of Vanity.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 361 | `james-branch-cabell_the-cream-of-the-jest` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_the-cream-of-the-jest/译文) (47篇) | [✅ 已审](翻译项目/james-branch-cabell_the-cream-of-the-jest/审核报告.md) | [📦 261KB](翻译项目/james-branch-cabell_the-cream-of-the-jest/The Cream of the Jest.epub) | 译稿整体质量很高——语义忠实、行文雅正、术语执行严格、全书无一整段漏译与章末… |
 | 362 | `james-branch-cabell_the-line-of-love` | ✅ 已入库 | [✅ **100%**](翻译项目/james-branch-cabell_the-line-of-love/译文) (10篇) | [✅ 已审(A)](翻译项目/james-branch-cabell_the-line-of-love/审核报告.md) | [📦 303KB](翻译项目/james-branch-cabell_the-line-of-love/爱之血脉：婚姻十篇.epub) | A 优秀 | 译稿语域把握准确——仿中古典雅与冷嘲戏谑兼备，术语表执行严格，… |
@@ -498,7 +498,7 @@
 | 473 | `max-beerbohm_the-works-of-max-beerbohm` | ✅ 已入库 | [✅ **100%**](翻译项目/max-beerbohm_the-works-of-max-beerbohm/译文) (10篇) | [✅ 已审(B)](翻译项目/max-beerbohm_the-works-of-max-beerbohm/审核报告.md) | [📦 189KB](翻译项目/max-beerbohm_the-works-of-max-beerbohm/马克斯·比尔博姆散文集.epub) | B 良好 | 全书译稿典雅华丽、机锋密集、极富 1890 年代《黄皮书》唯美… |
 | 474 | `may-sinclair_mary-olivier-a-life` | ✅ 已入库 | [🟡 1.6%](翻译项目/may-sinclair_mary-olivier-a-life/译文) (1/35) | — | — |  |
 | 475 | `metta-victor_the-dead-letter` | ✅ 已入库 | [✅ **100%**](翻译项目/metta-victor_the-dead-letter/译文) (25篇) | ⏳ 待审 | [📦 453KB](翻译项目/metta-victor_the-dead-letter/死信.epub) | 已译完待审 |
-| 476 | `michael-arlen_the-green-hat` | ✅ 已入库 | ⚪ 待译 (12篇) | — | — |  |
+| 476 | `michael-arlen_the-green-hat` | ✅ 已入库 | [✅ **100%**](翻译项目/michael-arlen_the-green-hat/译文) (12篇) | ⏳ 待审 | — | 已译完待审 |
 | 477 | `mignon-g-eberhart_the-patient-in-room-18` | ✅ 已入库 | [✅ **100%**](翻译项目/mignon-g-eberhart_the-patient-in-room-18/译文) (19篇) | [✅ 已审(B)](翻译项目/mignon-g-eberhart_the-patient-in-room-18/审核报告.md) | [📦 406KB](翻译项目/mignon-g-eberhart_the-patient-in-room-18/The Patient in Room 18.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 478 | `miles-franklin_my-brilliant-career` | ✅ 已入库 | [✅ **100%**](翻译项目/miles-franklin_my-brilliant-career/译文) (41篇) | [✅ 已审(A)](翻译项目/miles-franklin_my-brilliant-career/审核报告.md) | [📦 469KB](翻译项目/miles-franklin_my-brilliant-career/My Brilliant Career.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 479 | `mina-loy_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/mina-loy_poetry/译文) (2篇) | [✅ 已审(A)](翻译项目/mina-loy_poetry/审核报告.md) | [📦 5KB](翻译项目/mina-loy_poetry/米娜·洛伊诗集.epub) | A 优秀 |
@@ -507,7 +507,7 @@
 | 482 | `nella-larsen_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/nella-larsen_short-fiction/译文) (2篇) | [✅ 已审(B)](翻译项目/nella-larsen_short-fiction/审核报告.md) | [📦 192KB](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) | B 良好 | 译文文学质感浓厚、语感极佳，南方黑人方言口吻与哈莱姆沙龙心理意… |
 | 483 | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | ✅ 已入库 | [✅ **100%**](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/译文) (19篇) | [✅ 已审](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/审核报告.md) | [📦 229KB](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) | A 级（优秀 / Excellent） | 全书 19 篇 200 个双语对… |
 | 484 | `noel-coward_the-vortex` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-coward_the-vortex/译文) (5篇) | [✅ 已审(B)](翻译项目/noel-coward_the-vortex/审核报告.md) | [📦 90KB](翻译项目/noel-coward_the-vortex/The Vortex.epub) | B 良好 | 译文整体文风极佳，精准捕捉了诺埃尔·考沃德 1920 年代上流… |
-| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 221KB](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） | 译文整体质量… |
+| 485 | `noel-loomis_short-science-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/noel-loomis_short-science-fiction/译文) (9篇) | [✅ 已审(B)](翻译项目/noel-loomis_short-science-fiction/审核报告.md) | [📦 19KB](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) | B 良好（接近优秀，无 A 级问题，B 级仅 3 处轻微） | 译文整体质量… |
 | 486 | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | ✅ 已入库 | [✅ **100%**](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/译文) (22篇) | [✅ 已审(A)](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/审核报告.md) | [📦 401KB](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 487 | `octave-mirbeau_calvary_louis-rich` | ✅ 已入库 | [✅ **100%**](翻译项目/octave-mirbeau_calvary_louis-rich/译文) (12篇) | [✅ 已审(B)](翻译项目/octave-mirbeau_calvary_louis-rich/审核报告.md) | [📦 406KB](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 488 | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | ✅ 已入库 | [✅ **100%**](翻译项目/olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano/译文) (16篇) | ⏳ 待审 | [📦 345KB](翻译项目/olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano/奥拉乌达·艾奎亚诺生平自述.epub) | 已译完待审 |
@@ -546,10 +546,10 @@
 | 521 | `philip-francis-nowlan_armageddon-2419-a-d` | ✅ 已入库 | [✅ **100%**](翻译项目/philip-francis-nowlan_armageddon-2419-a-d/译文) (14篇) | [✅ 已审(A)](翻译项目/philip-francis-nowlan_armageddon-2419-a-d/审核报告.md) | [📦 138KB](翻译项目/philip-francis-nowlan_armageddon-2419-a-d/大决战 2419.epub) | A 优秀 | 全书 14 篇双语对照块完整严密，无任何漏译、截断或错配；专有… |
 | 522 | `philip-francis-nowlan_the-airlords-of-han` | ✅ 已入库 | [✅ **100%**](翻译项目/philip-francis-nowlan_the-airlords-of-han/译文) (16篇) | [✅ 已审(A)](翻译项目/philip-francis-nowlan_the-airlords-of-han/审核报告.md) | [📦 150KB](翻译项目/philip-francis-nowlan_the-airlords-of-han/The Airlords of Han.epub) | A 优秀 | 全书 16 章双语块对照严丝合缝，无语义错配、漏译或截断；术语… |
 | 523 | `philip-gibbs_now-it-can-be-told` | ✅ 已入库 | ⚪ 待译 (9篇) | — | — |  |
-| 524 | `philip-james-bailey_festus` | ✅ 已入库 | ⚪ 待译 (40篇) | — | — |  |
+| 524 | `philip-james-bailey_festus` | ✅ 已入库 | [✅ **100%**](翻译项目/philip-james-bailey_festus/译文) (40篇) | ⏳ 待审 | — | 已译完待审 |
 | 525 | `philip-wylie_gladiator` | ✅ 已入库 | [✅ **100%**](翻译项目/philip-wylie_gladiator/译文) (24篇) | [✅ 已审(A)](翻译项目/philip-wylie_gladiator/审核报告.md) | [📦 405KB](翻译项目/philip-wylie_gladiator/Gladiator.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
 | 526 | `phillis-wheatley_poems-on-various-subjects-religious-and-moral` | ✅ 已入库 | [✅ **100%**](翻译项目/phillis-wheatley_poems-on-various-subjects-religious-and-moral/译文) (5篇) | [✅ 已审(A)](翻译项目/phillis-wheatley_poems-on-various-subjects-religious-and-moral/审核报告.md) | [📦 92KB](翻译项目/phillis-wheatley_poems-on-various-subjects-religious-and-moral/论各种宗教与道德主题的诗集.epub) | A 优秀 | 全书 5 篇译文与 39 首诗作的双语块对照严丝合缝（1770… |
-| 527 | `pierre-souvestre_marcel-allain_fantomas_cranstoun-metcalfe` | ✅ 已入库 | ⚪ 待译 (32篇) | — | — |  |
+| 527 | `pierre-souvestre_marcel-allain_fantomas_cranstoun-metcalfe` | ✅ 已入库 | [✅ **100%**](翻译项目/pierre-souvestre_marcel-allain_fantomas_cranstoun-metcalfe/译文) (32篇) | ⏳ 待审 | — | 已译完待审 |
 | 528 | `pindar_victory-odes_arthur-s-way` | ✅ 已入库 | [✅ **100%**](翻译项目/pindar_victory-odes_arthur-s-way/译文) (6篇) | [✅ 已审(B)](翻译项目/pindar_victory-odes_arthur-s-way/审核报告.md) | [📦 256KB](翻译项目/pindar_victory-odes_arthur-s-way/品达胜利颂诗.epub) | B 良好（文学性极高，古典风骨凛然，极度接近 A 级优秀；全书 757 对双… |
 | 529 | `r-a-lafferty_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/r-a-lafferty_short-fiction/译文) (10篇) | [✅ 已审(A)](翻译项目/r-a-lafferty_short-fiction/审核报告.md) | [📦 190KB](翻译项目/r-a-lafferty_short-fiction/Short Fiction.epub) | A 优秀 | 全书十篇译稿展现了极高水准的文学翻译造诣，精准捕捉并再现了拉弗… |
 | 530 | `r-austin-freeman_the-darblay-mystery` | ✅ 已入库 | [✅ **100%**](翻译项目/r-austin-freeman_the-darblay-mystery/译文) (19篇) | [✅ 已审(B)](翻译项目/r-austin-freeman_the-darblay-mystery/审核报告.md) | [📦 403KB](翻译项目/r-austin-freeman_the-darblay-mystery/达布雷之谜.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
@@ -651,7 +651,7 @@
 | 626 | `william-craft_ellen-craft_running-a-thousand-miles-for-freedom` | ✅ 已入库 | [✅ **100%**](翻译项目/william-craft_ellen-craft_running-a-thousand-miles-for-freedom/译文) (4篇) | [✅ 已审(A)](翻译项目/william-craft_ellen-craft_running-a-thousand-miles-for-freedom/审核报告.md) | [📦 121KB](翻译项目/william-craft_ellen-craft_running-a-thousand-miles-for-freedom/Running a Thousand Miles for Freedom.epub) | A 优秀 | 译文高度忠实于原文，块对块语义对应完整、无漏译与截断，人名/地… |
 | 627 | `william-dean-howells_a-hazard-of-new-fortunes` | ✅ 已入库 | ⚪ 待译 (69篇) | — | — |  |
 | 628 | `william-dean-howells_indian-summer` | ✅ 已入库 | [✅ **100%**](翻译项目/william-dean-howells_indian-summer/译文) (24篇) | ⏳ 待审 | [📦 443KB](翻译项目/william-dean-howells_indian-summer/印第安之夏.epub) | 已译完待审 |
-| 629 | `william-f-cody_the-life-of-buffalo-bill` | ✅ 已入库 | [🟡 54.7%](翻译项目/william-f-cody_the-life-of-buffalo-bill/译文) (17/35) | — | — |  |
+| 629 | `william-f-cody_the-life-of-buffalo-bill` | ✅ 已入库 | [✅ **100%**](翻译项目/william-f-cody_the-life-of-buffalo-bill/译文) (35篇) | ⏳ 待审 | — | 已译完待审 |
 | 630 | `william-gerhardie_futility` | ✅ 已入库 | [✅ **100%**](翻译项目/william-gerhardie_futility/译文) (39篇) | [✅ 已审](翻译项目/william-gerhardie_futility/审核报告.md) | [📦 316KB](翻译项目/william-gerhardie_futility/徒劳.epub) | A |
 | 631 | `william-hazlitt_table-talk` | ✅ 已入库 | ⚪ 待译 (36篇) | — | — |  |
 | 632 | `william-hope-hodgson_the-house-on-the-borderland` | ✅ 已入库 | [✅ **100%**](翻译项目/william-hope-hodgson_the-house-on-the-borderland/译文) (30篇) | [✅ 已审(A)](翻译项目/william-hope-hodgson_the-house-on-the-borderland/审核报告.md) | [📦 244KB](翻译项目/william-hope-hodgson_the-house-on-the-borderland/边境之屋.epub) | A 优秀 | 前半 15 篇译稿质量上乘——无错配、无漏译、无截断、无英文残… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10681/18180 篇 (56.3%)** | **452 本完成** | **494 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10876/18180 篇 (57.5%)** | **452 本完成** | **494 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1511,7 +1511,7 @@
 | Short Fiction | Nella Larsen | `nella-larsen_short-fiction` | 192KB | - | [`内拉·拉森短篇小说集.epub`](翻译项目/nella-larsen_short-fiction/内拉·拉森短篇小说集.epub) |
 | Our Baseball Club and How It Won the Championship | Noah Brooks | `noah-brooks_our-baseball-club-and-how-it-won-the-championship` | 229KB | - | [`我们的棒球俱乐部.epub`](翻译项目/noah-brooks_our-baseball-club-and-how-it-won-the-championship/我们的棒球俱乐部.epub) |
 | The Vortex | Noël Coward | `noel-coward_the-vortex` | 90KB | - | [`The Vortex.epub`](翻译项目/noel-coward_the-vortex/The Vortex.epub) |
-| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`短篇科幻集.epub`](翻译项目/noel-loomis_short-science-fiction/短篇科幻集.epub) |
+| Short Science Fiction | Noel Loomis | `noel-loomis_short-science-fiction` | 19KB | - | [`Day-s-Work-双语.epub`](翻译项目/noel-loomis_short-science-fiction/Day-s-Work-双语.epub) |
 | 赌徒马布斯博士 | Norbert Jacques | `norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare` | 401KB | - | [`赌徒马布斯博士.epub`](翻译项目/norbert-jacques_dr-mabuse-the-gambler_lilian-a-clare/赌徒马布斯博士.epub) |
 | 受难 | Octave Mirbeau | `octave-mirbeau_calvary_louis-rich` | 406KB | - | [`受难.epub`](翻译项目/octave-mirbeau_calvary_louis-rich/受难.epub) |
 | 奥拉乌达·艾奎亚诺生平自述 | Olaudah Equiano | `olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano` | 345KB | - | [`奥拉乌达·艾奎亚诺生平自述.epub`](翻译项目/olaudah-equiano_the-interesting-narrative-of-the-life-of-olaudah-equiano/奥拉乌达·艾奎亚诺生平自述.epub) |
