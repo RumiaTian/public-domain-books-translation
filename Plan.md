@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **502** 完 / **30** 译 / **115** 待（共 647 本） | **10876** / 18180 篇（**175783.0** / 305863.1 KB）· **57.5%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **50** 本待审 | 覆盖精读 **452** 本（**90.0%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **494** 本已打包 / **8** 本待打包 | 交付标准双语 EPUB **494** 本（**98.4%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **504** 完 / **30** 译 / **113** 待（共 647 本） | **10937** / 18180 篇（**176939.2** / 305863.1 KB）· **57.8%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **52** 本待审 | 覆盖精读 **452** 本（**89.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **494** 本已打包 / **10** 本待打包 | 交付标准双语 EPUB **494** 本（**98.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **502** 本译完，**452** 本完成独立审校，**494** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **504** 本译完，**452** 本完成独立审校，**494** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -228,7 +228,7 @@
 | 203 | `ellis-parker-butler_jibby-jones` | ✅ 已入库 | [✅ **100%**](翻译项目/ellis-parker-butler_jibby-jones/译文) (24篇) | [✅ 已审(B)](翻译项目/ellis-parker-butler_jibby-jones/审核报告.md) | [📦 269KB](翻译项目/ellis-parker-butler_jibby-jones/吉比·琼斯.epub) | B 良好 | 全书无漏译、无截断、术语表硬约束全部达标，译文可读性和文学口吻… |
 | 204 | `emile-gaboriau_file-no-113_james-r-osgood-co` | ✅ 已入库 | ⚪ 待译 (25篇) | — | — |  |
 | 205 | `emile-gaboriau_monsieur-lecoq_laura-e-kendall` | ✅ 已入库 | ⚪ 待译 (84篇) | — | — |  |
-| 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | ⚪ 待译 (29篇) | — | — |  |
+| 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | [✅ **100%**](翻译项目/emile-gaboriau_the-mystery-of-orcival_holt-williams/译文) (29篇) | ⏳ 待审 | — | 已译完待审 |
 | 207 | `emile-gaboriau_the-slaves-of-paris_charles-scribners-sons` | ✅ 已入库 | ⚪ 待译 (64篇) | — | — |  |
 | 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [✅ **100%**](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (36篇) | ⏳ 待审 | [📦 415KB](翻译项目/emma-goldman_my-disillusionment-in-russia/我在俄国的幻灭.epub) | 已译完待审 |
 | 209 | `ernest-bramah_kai-lungs-golden-hours` | ✅ 已入库 | [✅ **100%**](翻译项目/ernest-bramah_kai-lungs-golden-hours/译文) (13篇) | ⏳ 待审 | [📦 480KB](翻译项目/ernest-bramah_kai-lungs-golden-hours/凯龙的黄金时光.epub) | 已译完待审 |
@@ -240,7 +240,7 @@
 | 215 | `evelyn-underhill_practical-mysticism` | ✅ 已入库 | [✅ **100%**](翻译项目/evelyn-underhill_practical-mysticism/译文) (13篇) | [✅ 已审(B)](翻译项目/evelyn-underhill_practical-mysticism/审核报告.md) | [📦 169KB](翻译项目/evelyn-underhill_practical-mysticism/实用神秘主义.epub) | B 良好（极度接近 A 优秀；待补齐 1 处 A 级漏句后即升为 A 优秀 … |
 | 216 | `f-marion-crawford_khaled` | ✅ 已入库 | [✅ **100%**](翻译项目/f-marion-crawford_khaled/译文) (12篇) | [✅ 已审](翻译项目/f-marion-crawford_khaled/审核报告.md) | [📦 264KB](翻译项目/f-marion-crawford_khaled/哈立德.epub) | B。 | 全书 12 章双语块完整对应、无 A 级硬伤，文学性与叙事流畅度上… |
 | 217 | `fanny-burney_evelina` | ✅ 已入库 | ⚪ 待译 (88篇) | — | — |  |
-| 218 | `fitz-hugh-ludlow_the-hashish-eater` | ✅ 已入库 | ⚪ 待译 (32篇) | — | — |  |
+| 218 | `fitz-hugh-ludlow_the-hashish-eater` | ✅ 已入库 | [✅ **100%**](翻译项目/fitz-hugh-ludlow_the-hashish-eater/译文) (32篇) | ⏳ 待审 | — | 已译完待审 |
 | 219 | `ford-madox-ford_a-man-could-stand-up` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_a-man-could-stand-up/译文) (15篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_a-man-could-stand-up/审核报告.md) | [📦 365KB](翻译项目/ford-madox-ford_a-man-could-stand-up/男人可以站起来.epub) | B 良好（合格可出版 / 出版预备级） | 全书 15 篇双语章节（395 … |
 | 220 | `ford-madox-ford_no-more-parades` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_no-more-parades/译文) (12篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_no-more-parades/审核报告.md) | [📦 416KB](翻译项目/ford-madox-ford_no-more-parades/再无检阅.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 221 | `ford-madox-ford_privy-seal` | ✅ 已入库 | [✅ **100%**](翻译项目/ford-madox-ford_privy-seal/译文) (21篇) | [✅ 已审(B)](翻译项目/ford-madox-ford_privy-seal/审核报告.md) | [📦 307KB](翻译项目/ford-madox-ford_privy-seal/御玺.epub) | B 良好 | 译文忠实、完整、文学再现力强（345/345 块无漏译、无截断… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10876/18180 篇 (57.5%)** | **452 本完成** | **494 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10937/18180 篇 (57.8%)** | **452 本完成** | **494 本完成** | 全流程四阶段闭环 |
 
 ---
 
