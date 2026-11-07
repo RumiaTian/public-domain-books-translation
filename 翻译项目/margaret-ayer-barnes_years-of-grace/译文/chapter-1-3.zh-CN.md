@@ -8,6 +8,10 @@
 三
 
 #### I / 一
+
+#### I /
+
+#### I / 
 ===Original===
 
 “I don’t know why you want to go,” said Jane’s mother, “anyway.”
@@ -369,6 +373,10 @@ Jane made no comment. It was really a backhanded compliment for André, if her m
 简没答话。母亲哪里知道，这其实是替安德烈捎的一句转弯的恭维。这一回母亲倒说对了，虽然说了也没用。简心里明镜似的：一个快十七岁的姑娘，本不该只同一对同龄人坐克拉克街的缆车进城，去听托马斯的音乐会。
 
 #### II / 二
+
+#### II /
+
+#### II / 
 ===Original===
 
 “Don’t get oil on that coat!” called Jane’s mother from the dining-room window. Jane was oiling her bicycle under the willow tree.
@@ -1002,6 +1010,10 @@ Jane unlocked the door.
 「关了，」简说着，继续走过过道。「他爱我，」她推开自己卧室门时想。「安德烈爱我。」
 
 #### III / 三
+
+#### III /
+
+#### III / 
 ===Original===
 
 Jane came downstairs, next morning, a little late to breakfast. The family were all at the table. Isabel was talking of Robin Bridges. He had invited her to go to the theatre with Rosalie and Freddy Waters. As Rosalie and Freddy were engaged, Isabel thought it would be quite proper for the four of them to go alone. But her mother was standing firm.
@@ -1355,3 +1367,247 @@ Her father still held her hand.
 父亲仍握着她的手。
 
 「你——你和安德烈——不能——结婚。」
+
+===Original===
+
+Happiness! Jane threw a tearful glance at André. He looked very proud and stern, standing there before her father. He gave her a tremulous smile.
+
+“Papa,” said Jane, “I know I’d be happy with André﻿—”
+
+“Don’t *talk* like that!” cried her mother sharply. But her father silenced her.
+
+“You think so now, kid,” he said kindly. “But you can’t tell. You don’t know anything about it, either of you. André’s nineteen years old. He’s got five or six years of education ahead of him, on his own say-so, before he can be any kind of a sculptor. You were seventeen last month. You’ve known André for four years and you’ve never said three words to any other boy. You can’t know your own mind and he can’t know his, either. Five or six years from now, you might both understand what you were talking about. André’s going to France next week, to live. He’s a Frenchman and that’s where he belongs. You’ve got to stay here with your mother and me and grow up into a woman before you talk about marrying anyone.”
+
+“I﻿—I don’t have to﻿—marry him,” said Jane faintly. “I just want to﻿—to promise that I will when we’re old enough. I just want﻿—”
+
+“Jane,” said her mother very reasonably, “we’ll cross that bridge when we come to it. We don’t have to think of that now.”
+
+“I just﻿—want to﻿—wait for him,” faltered Jane. Then, with a flash of spirit, “You can’t help my waiting!”
+
+“Of course not,” said her father pacifically. “But no promises, André, on either side.”
+
+“And no letters,” put in her mother. Jane’s father shook his head at her, but she insisted. “No, John. No letters until Jane’s twenty-one. You must promise that, André. I won’t have her tied down to any understanding.”
+
+“I guess that’s right, André,” said Jane’s father soberly. “You’d better promise.”
+
+Jane and André exchanged a glance of despair. There was a brief pause.
+
+“How about it, my boy?” said Jane’s father.
+
+“I﻿—I promise,” said André huskily.
+
+Jane’s mother gave a sigh of relief. She had the situation in hand now.
+
+“I think you had better go, André,” she said very kindly.
+
+“Can I see Jane again?” André asked.
+
+“I think you’d better not,” said Jane’s mother. “It would only be painful.”
+
+“Then I’d like﻿—I’d like﻿—” said André steadily, “to say goodbye to her now.”
+
+“Of course,” said Jane’s father, very promptly rising. “Come, Lizzie.”
+
+Jane’s mother looked very reluctant to leave the room.
+
+“I don’t like this,” she said.
+
+===Chinese===
+
+幸福！简含着泪看了安德烈一眼。他站在她父亲面前，神情又骄傲又严峻。他朝她颤颤地笑了一笑。
+
+「爸爸，」简说，「我知道同安德烈在一起我会幸福——」
+
+「不许这样说！」母亲尖声喊。可父亲止住了她。
+
+「你现在是这么想，小家伙，」他和气地说。「可说不准。你们俩谁也不懂这个。安德烈十九岁。照他自己的说法，他还得念五年六年书，才能成个像样的雕塑家。你上个月才满十七。你认识安德烈四年，同别的男孩连三句话都没说过。你没法知道自己要什么，他也一样。再过五年六年，你们俩也许就懂如今说的这些话了。安德烈下星期就去法国，去长住。他是法国人，那里才是他的地方。你得待在这儿，跟着我和你母亲，先长成一个大人，再来谈嫁人的事。」
+
+「我——我不用——现在就嫁他，」简微弱地说。「我只想——只想许个愿，等我们年纪够了我就嫁。我只想——」
+
+「简，」母亲十分在理地说，「船到桥头自然直。这会儿用不着想那么远。」
+
+「我只想——只想——等他，」简结结巴巴地说。随后一股倔劲儿冒上来：「你们拦不住我等！」
+
+「当然拦不住，」父亲平心静气地说。「可是不许许愿，安德烈，两边都不许。」
+
+「也不许通信，」母亲插进来。简的父亲朝她摇头，她却不依。「不，约翰。简满二十一岁之前不许通信。你必须答应这个，安德烈。我不能让她被什么婚约束缚住。」
+
+「我想这样也对，安德烈，」简的父亲正色说。「你还是答应吧。」
+
+简同安德烈交换了一个绝望的眼色。静了短短一会儿。
+
+「怎么样，孩子？」简的父亲说。
+
+「我——我答应，」安德烈哑着嗓子说。
+
+简的母亲宽慰地舒了口气。如今局面在她手里了。
+
+「我看你还是走吧，安德烈，」她非常和气地说。
+
+「我还能再见简么？」安德烈问。
+
+「我看还是不见的好，」简的母亲说。「见了只有更难受。」
+
+「那么我想——我想——」安德烈稳稳地说，「现在就同她道别。」
+
+「当然，」简的父亲说着，立刻站起身。「来，莉齐。」
+
+简的母亲很不情愿离开这间屋子。
+
+「我不喜欢这样，」她说。
+
+===Original===
+
+“Mrs. Ward,” said André, “you can trust me.”
+
+Jane’s father threw him an admiring glance. He fairly pushed her mother from the room. He closed the door behind them. Jane turned to gaze at André.
+
+“André,” she said breathlessly, “what﻿—what can we do?”
+
+“We can wait,” said André. “And we can think of each other.”
+
+“André,” said Jane earnestly, “did﻿—did your father and mother talk like that, too?”
+
+“They didn’t talk like that﻿—but they thought the same things. I﻿—I could see them thinking.”
+
+“They didn’t﻿—like it?”
+
+“They like you,” said André. “Father said you were a girl in a thousand.”
+
+“Well, then?” said Jane.
+
+“Mother thought I was much too young and she thought I ought to be able to support a wife before I asked a girl to marry me. She thought it was pretty rotten﻿—my asking you. And Father﻿—well, Father had always expected me to marry in France, of course. And we’re﻿—we’re all Catholics. That doesn’t mean much to me, but it does to him. But when I told them how﻿—how I felt about you﻿—well, they said﻿—all right I could try my luck with your father. I﻿—didn’t have much. Though he was awfully decent. I haven’t a leg to stand on, of course. I *can’t* support you and I﻿—I’ve *got* to go to France﻿—you﻿—you﻿—understand that, Jane﻿—I’ve *got* to go﻿—to study, you know, if I’m ever going to amount to anything. Father and Mother both said that. I couldn’t do *anything* here. I﻿—I guess I don’t sound like much of a son-in-law﻿—”
+
+“But, André,” said Jane, “do you mean﻿—do you mean that there’s nothing, absolutely nothing, that we can do?”
+
+“Well,” said André, “what is there?” What was there, indeed?
+
+“I﻿—I *shouldn’t* have asked you,” said André.
+
+“Oh, André!” cried Jane. “You must *never* think that!”
+
+“Why not?” said André.
+
+“You made me so happy,” said Jane simply.
+
+André took a quick step toward her. Then he stopped. He remembered.
+
+“Oh, Jane!” he said, and dropped down on the sofa. “Jane﻿—my love!” He buried his face in his hands.
+
+Jane sank down on her knees beside him. She pulled his hands away from his face. André was crying. She took him in her arms.
+
+“André!” she said breathlessly, “André!” She looked eagerly up at him.
+
+“I﻿—I promised your mother,” he said huskily.
+
+“I didn’t promise anyone!” cried Jane desperately. “André﻿—you must kiss me goodbye!”
+
+===Chinese===
+
+「沃德太太，」安德烈说，「您信得过我。」
+
+简的父亲赞许地看了他一眼。他几乎是把母亲推出房去，随手把门带上。简转过身，凝望安德烈。
+
+「安德烈，」她气都喘不匀地说，「我们——我们还能怎么办？」
+
+「我们可以等，」安德烈说。「我们可以想着彼此。」
+
+「安德烈，」简恳切地说，「你——你父亲母亲也这样说来着？」
+
+「他们没有这样说——可他们想的是一样的事。我——我看得见他们在想。」
+
+「他们——不乐意？」
+
+「他们喜欢你，」安德烈说。「父亲说你是千里挑一的姑娘。」
+
+「那——不就结了？」简说。
+
+「母亲觉得我太年轻，觉得我总得先养得起妻子，才能向姑娘求婚。她认为我向你求婚——相当不像话。父亲呢——父亲一向指望我在法国结婚，当然。还有我们——我们全家都是天主教徒。这对我算不了什么，对他却不然。可等我告诉他们我——我对你的感情——他们说——好吧，可以去找你父亲碰碰运气。我——胜算不大。虽然他客气极了。我当然一点立脚的地儿也没有。我养不起你，而我——我非去法国不可——你——你——明白这个，简——我非去不可——去念书，你知道，不然我这辈子成不了什么气候。父亲和母亲都这么说。我在这儿什么都做不成。我——我想我这个女婿听起来实在不怎么像样——」
+
+「可是，安德烈，」简说，「你是说——你是说一点儿办法也没有了，绝对没有了？」
+
+「是啊，」安德烈说，「还能有什么办法？」还能有什么办法呢？
+
+「我——我根本不该向你开口，」安德烈说。
+
+「哦，安德烈！」简喊道。「你千万别这么想！」
+
+「为什么不该？」安德烈说。
+
+「你叫我这么快活，」简直截了当地说。
+
+安德烈朝她抢近一步。又停住。他想起来了。
+
+「哦，简！」他说着，跌坐在沙发上。「简——我的爱人！」他把脸埋进双手。
+
+简在他身旁跪下去。她把他的手从脸上拉开。安德烈在哭。她把他搂进怀里。
+
+「安德烈！」她气都喘不匀地说，「安德烈！」她急切地仰望着他。
+
+「我——我答应了你母亲，」他哑着嗓子说。
+
+「我可没答应过谁！」简绝望地喊。「安德烈——你一定要吻我道别！」
+
+===Original===
+
+He took her in his arms. His lips met hers. The world was lost again. But this time Jane knew that it was really there, pressing close about them, menacing them, parting them, saying they were﻿—young. She slipped from his embrace. She rose to her feet. André stood up, too, and held out his hands. She seized them in her own. He stooped to kiss her fingers.
+
+“Goodbye,” he said.
+
+“André,” she said, “I’ll always﻿—”
+
+He managed a wavering smile.
+
+“No promises,” he said. “Just thoughts.”
+
+“*All* my thoughts!” said Jane. He stumbled toward the door. On the threshold he turned again.
+
+“Goodbye,” he said.
+
+“André!” cried Jane. “I﻿—I can’t bear it!” She heard her father’s voice in the hall.
+
+“I’m sorry, André. You﻿—you’ve behaved so well, both of you.” Their steps died down the passage. Jane heard the front door open and close. She rushed to the window. André was walking, furiously fast, up Pine Street. At the corner he turned to look back. She waved wildly. She kissed her hand. He smiled again, very bravely. Then turned and vanished. Jane flung herself face downward on the sofa. The mark of André’s elbow was still on the pillow. She buried her face in it passionately. She heard her father enter the room. He walked slowly over to the sofa.
+
+“Little Jane,” he said, “don’t cry like that.”
+
+Jane only buried her face the deeper. There was a little pause.
+
+“Kid,” said her father, “you’re so young that you don’t know that you’ll get over it. You get over everything.”
+
+Jane thought that was a horrible philosophy. She heard her father moving about a little helplessly. Then he bent over and touched her shoulder.
+
+“I’ll see you go to Bryn Mawr,” he said, “with Agnes.”
+
+“Oh, let me alone!” cried Jane. “Just﻿—let﻿—me﻿—alone!” She heard her father turn and walk quietly out of the room. Jane put both her arms tightly around André’s pillow. She was sobbing as if her heart would break. She thought it was breaking.
+
+===Chinese===
+
+他把她搂进怀里。他的唇贴上她的唇。世界又不见了。可这一回简知道它真是在那儿，紧贴着他们，威胁着他们，拆散着他们，说他们——年轻。她从他怀抱里滑出来，站起身。安德烈也站起来，伸出双手。她把它们紧紧攥在自己手里。他俯身吻她的手指。
+
+「再见，」他说。
+
+「安德烈，」她说，「我要永远——」
+
+他勉强摆出一个颤颤的笑。
+
+「不许许愿，」他说。「只许想念。」
+
+「我所有的想念！」简说。他跌跌撞撞朝门口走去。在门槛上他又回过头。
+
+「再见，」他说。
+
+「安德烈！」简喊。「我——我受不住！」她听见父亲在过道里的声音。
+
+「对不起，安德烈。你们——你们俩都很有气度。」脚步声在过道里消逝。简听见前门开了又关上。她冲到窗前。安德烈正沿着松树街疾走，快得发狠。到了街角他回头望。她拼命挥手。她吻自己的手。他又笑了一笑，笑得很勇敢。随即转过身，不见了。简扑倒在沙发上。枕头上还留着安德烈胳膊压出的印子。她把脸死死埋进去。她听见父亲进屋来。他慢慢走到沙发旁。
+
+「小简，」他说，「别这么哭。」
+
+简只把脸埋得更深。静了一小会儿。
+
+「小家伙，」父亲说，「你太年轻了，还不知道这事会过去的。什么都会过去。」
+
+简觉得这哲学可怕极了。她听见父亲无可奈何地走动了几步。随后他俯身碰了碰她的肩。
+
+「我保你上布林莫尔，」他说，「同艾格尼丝一起。」
+
+「哦，别管我！」简喊。「就——让我——一个人待着！」她听见父亲转身轻轻走出房去。简把两条手臂紧紧搂住安德烈的枕头。她哭得像心都要碎了。她也当它真碎了。
