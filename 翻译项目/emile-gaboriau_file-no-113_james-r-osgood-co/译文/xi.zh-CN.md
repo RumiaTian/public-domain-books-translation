@@ -214,3 +214,460 @@ He abruptly stopped. Three or four of his auditors rushed to the assistance of M
 有一次她挣扎着想从椅子上起身；却像浑身脱了力，又跌坐回去，只得听他讲完。
 “到末了，女士们、先生们，”小丑接着说，“满满的首饰匣见了底。那一天来了：夫人再没有东西可给。就在那时，小恶棍起了歹心，要去偷李福大人那颗碧玉扣子——一件价值连城的稀世奇珍，既是大人身份的凭证，收在一只花岗岩石匣里，昼夜有三名兵丁把守。啊！老夫人抗拒了好久！她知道，按北京的规矩，那几个无辜的兵丁是要顶罪问斩的；这个念头拴住了她。可她的情人苦苦哀求，柔情百种，她终于招架不住；于是——碧玉扣子被盗了。第四幅画画的就是这对罪人蹑手蹑脚溜下私家楼梯：瞧他们那副惊惶——瞧——”
 他猛地收了声。三四位听客抢上去掠佛维尔
+
+===Original===
+
+Fauvel, who seemed about to faint; and at the same time he felt his arm roughly seized by someone behind him.
+He turned around and faced De Clameran and Lagors, both of whom were pale with anger.
+“What do you want, gentlemen?” he inquired politely.
+“To speak to you,” they both answered.
+“I am at your service.”
+And he followed them to the end of the picture-gallery, near a window opening on a balcony.
+Here they were unobserved except by the man in the Venetian cloak, whom the clown had so respectfully addressed as “M. the Count.”
+The minuet having ended, the orchestras were resting, and the crowd began to rapidly fill the gallery.
+The sudden faintness of Mme. Fauvel had passed off unnoticed save by a few, who attributed it to the heat of the room. M. Fauvel had been sent for; but when he came hurrying in, and found his wife composedly talking to Madeleine, his alarm was dissipated, and he returned to the card-tables.
+Not having as much control over his temper as Raoul, M. de Clameran angrily said:
+“In the first place, monsieur, I would like to know who you are.”
+The clown, determined to answer as if he thought the question were a jest, replied in the bantering tone of a buffoon:
+“You want my passport, do you, my lord doge? I left it in the hands of the city authorities; it contains my name, age, profession, domicile, and every detail﻿—”
+With an angry gesture, M. de Clameran interrupted him.
+“You have just committed a gross insult!”
+“I, my lord doge?”
+“Yes, you! What do you mean by telling this abominable story in this house?”
+“Abominable! You may call it abominable; but I, who composed it, have a different opinion of it.”
+“Enough, monsieur; you will at least have the courage to acknowledge that your performance was a vile insinuation against Mme. Fauvel?”
+The clown stood with his head thrown back, and mouth wide open, as if astounded at what he heard.
+But anyone who knew him would have seen his bright black eyes sparkling with malicious satisfaction.
+“Bless my heart!” he cried, as if speaking to himself. “This is the strangest thing I ever heard of! How can my drama of the Mandarine Li-Fô have any reference to Mme. Fauvel, whom I don’t know from Adam or Eve? I can’t think how the resemblance﻿—unless﻿—but no, that is impossible.”
+“Do you pretend,” said M. de Clameran, “to be ignorant of M. Fauvel’s misfortune?”
+
+===Chinese===
+
+太太眼看就要晕倒；也就在这时，小丑觉得自己的胳膊被什么人从背后狠狠抓住了。
+他转过身，正对着德·克拉默朗和拉戈尔，两人都气得脸色发白。
+“两位有何见教？”他彬彬有礼地问。
+“有话同你讲。”两人齐声答道。
+“愿闻其详。”
+于是他跟着两人走到画廊尽头，一扇开向阳台的窗子跟前。
+在这里，除了那个披威尼斯斗篷的人——方才小丑尊称他“伯爵先生”的那位——再没有谁注意他们。
+小步舞曲已经终了，两支乐队都在歇息，人群开始涌进画廊，把它挤得满满当当。
+佛维尔太太那阵突如其来的眩晕，除了寥寥几个人，谁也不曾留意，都只当是屋里热的。有人去请佛维尔先生；待他急匆匆赶来，见妻子正安安静静地同玛德莱娜说话，惊慌顿时消散，便又回牌桌去了。
+德·克拉默朗不及拉乌尔沉得住气，怒冲冲地开了口：
+“首先，先生，我想知道你是什么人。”
+小丑打定主意，只当这话是句戏言，便用丑角打诨的腔调答道：
+“总督大人要看我的护照，是吧？护照押在市政当局手里了；上面写着我的姓名、年纪、职业、住址，样样俱全——”
+德·克拉默朗怒气冲冲做了个手势，打断了他。
+“你方才犯下了弥天的冒犯！”
+“我，总督大人？”
+“就是你！你在这家人家讲那段伤天害理的故事，是什么意思？”
+“伤天害理！您尽可以说它伤天害理；可我是这故事的编者，对它自有另一番见地。”
+“够了，先生；至少你总该有胆量承认，你那番表演是对佛维尔太太的卑劣影射吧？”
+小丑仰着头站在那里，嘴张得老大，仿佛听得呆了。
+可凡是认得他的人都看得出，他那一双亮晶晶的黑眼睛里，正闪着恶意的快意。
+“我的天！”他像自言自语似的喊道，“这是我生平闻所未闻的奇事！我那出李福大人的戏，怎么会跟佛维尔太太扯上干系？这位太太，我压根儿就不认识！我想不出这相像从何而来——除非——不，绝无可能。”
+“你莫非想装聋作哑，”德·克拉默朗说，“装作不知道佛维尔先生遭的不幸？”
+
+===Original===
+
+The clown looked very innocent, and asked:
+“What misfortune?”
+“The robbery of which M. Fauvel was the victim. It has been in everyone’s mouth, and you must have heard of it.”
+“Ah, yes, yes; I remember. His cashier ran off with three hundred and fifty thousand francs. *Pardieu!* It is a thing that almost daily happens. But, as to discovering any connection between this robbery and my play, that is another matter.”
+M. de Clameran made no reply. A nudge from Lagors had calmed him as if by enchantment.
+He looked quietly at the clown, and seemed to regret having uttered the significant words forced from him by angry excitement.
+“Very well,” he finally said in his usual haughty tone; “I must have been mistaken. I accept your explanation.”
+But the clown, hitherto so humble and silly-looking, seemed to take offence at the word, and, assuming a defiant attitude, said:
+“I have not made, nor do I intend making, any explanation.”
+“Monsieur,” began De Clameran.
+“Allow me to finish, if you please. If, unintentionally, I have offended the wife of a man whom I highly esteem, it is his business to seek redress, and not yours. Perhaps you will tell me he is too old to demand satisfaction: if so, let him send one of his sons. I saw one of them in the ballroom tonight; let him come. You asked me who I am; in return I ask you who are you﻿—you who undertake to act as Mme. Fauvel’s champion? Are you her relative, friend, or ally? What right have you to insult her by pretending to discover an allusion to her in a play invented for amusement?”
+There was nothing to be said in reply to this. M. de Clameran sought a means of escape.
+“I am a friend of M. Fauvel,” he said, “and this title gives me the right to be as jealous of his reputation as if it were my own. If this is not a sufficient reason for my interference, I must inform you that his family will shortly be mine: I regard myself as his nephew.”
+“Ah!”
+“Next week, monsieur, my marriage with Madeleine will be publicly announced.”
+This news was so unexpected, so startling that for a moment the clown was dumb; and now his surprise was genuine.
+But he soon recovered himself, and, bowing with deference, said, with covert irony:
+“Permit me to offer my congratulations, monsieur. Besides being the belle tonight, Mlle. Madeleine is worth, I hear, half a million.”
+
+===Chinese===
+
+小丑一脸无辜，问：
+“遭了什么不幸？”
+“佛维尔先生失盗的案子。满城人都挂在嘴上，你总该听说了。”
+“啊，对，对，我想起来了。他的出纳主任卷走三十五万法郎逃之夭夭。*可不是嘛！*这种事差不多天天都有。可要从这桩失盗案里找出同我那出戏的干系，那可就是另一回事了。”
+德·克拉默朗没有答话。拉戈尔在旁边轻轻一撞，他竟像着了法术似的平静下来。
+他不动声色地打量小丑，似乎后悔不该在盛怒之下漏出那句意味深长的话。
+“很好，”他终于摆出平日那副倨傲的腔调说，“想必是我错了。我接受你的解释。”
+不料小丑——方才还那般低声下气、蠢相毕露——倒像被“解释”二字触怒了，摆出一副不肯罢休的架势说：
+“我没有解释过什么，也不打算解释什么。”
+“先生——”德·克拉默朗又要开口。
+“对不起，请容我把话说完。倘若我无心开罪了一位我深为敬重的人的妻子，那么该由他本人来讨公道，轮不到您。您或许要说，他年事太高，没法子讨这个公道了：那么，就叫他派个儿子来。今晚舞会上我见过他一位公子；叫他来好了。您方才问我是什么人；我倒要请教您是什么人——凭什么替佛维尔太太出头？您是她的亲眷，是朋友，还是同谋？我编一出逗乐的戏，您却偏要在里头寻出对她的影射来作践她，您有什么权利？”
+这话噎得人再无可对。德·克拉默朗寻起脱身之计。
+“我是佛维尔先生的朋友，”他说，“单凭这个身份，我就有权像珍惜自己的名声一样珍惜他的名声。倘若这还不配作我出头的理由，那我再奉告一句：他的家庭不久便是我的一家了——我把自己看作他的侄婿。”
+“哦！”
+“下星期，先生，我同玛德莱娜的婚约便要公之于世了。”
+这消息来得太意外、太惊人，小丑一时竟张口结舌；这一回，他的错愕是真情实意。
+但他随即定住神，恭恭敬敬躬了躬身，话里藏着讥诮：
+“请容我道贺，先生。玛德莱娜小姐今晚既是全场第一美人，据人说，还坐拥五十万法郎的身家呢。
+
+===Original===
+
+Raoul de Lagors had anxiously been watching the people near them, to see if they overheard this conversation.
+“We have had enough of this gossip,” he said, in a disdainful tone; “I will only say one thing more, master clown, and that is, that your tongue is too long.”
+“Perhaps it is, my pretty youth, perhaps it is; but my arm is still longer.”
+De Clameran here interrupted them by saying:
+“It is impossible for one to seek an explanation from a man who conceals his identity under the guise of a fool.”
+“You are at liberty, my lord doge, to ask the master of the house who I am﻿—if you dare.”
+“You are,” cried Clameran, “you are﻿—”
+A warning look from Raoul checked the forge-master from using an epithet which would have led to an affray, or at least a scandalous scene.
+The clown stood by with a sardonic smile, and, after a moment’s silence, stared M. de Clameran steadily in the face, and in measured tones said:
+“I was the best friend, monsieur, that your brother Gaston ever had. I was his adviser, and the confidant of his last wishes.”
+These few words fell like a clap of thunder upon De Clameran.
+He turned deadly pale, and stared back with his hands stretched out before him, as if shrinking from a phantom.
+He tried to answer, to protest against this assertion, but the words froze on his lips. His fright was pitiable.
+“Come, let us go,” said Lagors, who was perfectly cool.
+And he dragged Clameran away, half supporting him, for he staggered like a drunken man, and clung to every object he passed, to prevent falling.
+“Oh,” exclaimed the clown, in three different tones, “oh, oh!”
+He himself was almost as much astonished as the forge-master, and remained rooted to the spot, watching the latter as he slowly left the room.
+It was with no decided object in view that he had ventured to use the last mysteriously threatening words, but he had been inspired to do so by his wonderful instinct, which with him was like the scent of a bloodhound.
+“What can this mean?” he murmured. “Why was he so frightened? What terrible memory have I awakened in his base soul? I need not boast of my penetration, or the subtlety of my plans. There is a great master, who, without any effort, in an instant destroys all my chimeras; he is called ‘Chance.’ ”
+His mind had wandered far from the present scene, when he was brought back to his situation by someone touching him on the shoulder.
+
+===Chinese===
+
+拉乌尔·德·拉戈尔一直提心吊胆地留意身旁的人，生怕这场谈话叫人听了去。
+“这种闲话我们听够了，”他不屑地说，“我只再奉告一句，丑角师傅：你的舌头太长。”
+“兴许是长了，俊俏的哥儿，兴许是；可我的胳膊比舌头还长。”
+德·克拉默朗这时插嘴道：
+“对一个把姓名藏在傻子行头底下的人，没法子讨什么说法。”
+“总督大人只管去问这宅子的主人我是谁——您若有这个胆量。”
+“你是，”克拉默朗嚷道，“你是——”
+拉乌尔递去一个警告的眼色，止住了铁厂老板就要出口的恶骂——那可是要惹出一场厮打、至少也是一桩大丑闻的。
+小丑站在一旁，脸挂讥笑；沉默片刻，他直盯住德·克拉默朗的脸，一字一板地说：
+“先生，我是你哥哥加斯东生前最好的朋友。我是他的参谋，是他临终嘱托的知己。”
+这几句话，像一声炸雷落在德·克拉默朗头顶。
+他面如死灰，双手直挺挺伸在身前瞪眼回望，像在躲避一个鬼影。
+他想回答，想驳斥这句话，话却在唇边冻住了。他那副惊惶，实在可怜。
+“走，我们走。”拉戈尔说，他冷静至极。
+他半搀半架地把克拉默朗拖走了；那人醉汉一般脚步踉跄，一路抓着每件经过的东西，才不至栽倒。
+“哦，”小丑换了三种声调叹道，“哦，哦！”
+他自己也几乎同铁厂老板一样吃惊，钉在原地，望着那人一步一步挪出客厅。
+他冒险抛出那句神秘兮兮的威吓，原本并无一定的算计，全凭他那惊人的直觉指使——在他身上，直觉就像猎犬的鼻子。
+“这是什么道理？”他喃喃自语，“他怎么会吓成这样？我在他卑污的灵魂里，惊醒了什么可怕的记忆？我不必夸自己的眼力，也不必夸计谋的周密。有位大行家，不费吹灰之力，转眼间便把我的一切空中楼阁推倒净尽；他的名号，叫做‘机缘’。”
+他正想得远，忽觉有人在他肩上一碰，才回到眼前的处境里。
+
+===Original===
+
+It was the man in the Venetian cloak.
+“Are you very satisfied, M. Verduret?” he inquired.
+“Yes, and no, M. the Count. No, because I have not completely achieved the object I had in view when I asked you for an invitation here tonight; yes, because these two rascals behaved in a manner which dispels all doubt.”
+“And yet you complain﻿—”
+“I do not complain, M. the Count: on the contrary, I bless chance, or rather Providence, which has just revealed to me the existence of a secret that I did not before even suspect.”
+Five or six people approached the count, and he went off with them after giving the clown a friendly nod.
+The latter instantly threw aside his banner, and started in pursuit of Mme. Fauvel. He found her sitting on a sofa in the large salon, engaged in an animated conversation with Madeleine.
+“Of course they are talking over the scene; but what has become of Lagors and De Clameran?”
+He soon saw them wandering among the groups scattered about the room, and eagerly asking questions.
+“I will bet my head these honorable gentlemen are trying to find out who I am. Keep it up, my friends, ask everybody in the room; I wish you success!”
+They soon gave it up, but were so preoccupied, and anxious to be alone in order to reflect and deliberate, that, without waiting for supper, they took leave of Mme. Fauvel and her niece, saying they were going home.
+The clown saw them go up to the dressing-room for their cloaks, and in a few minutes leave the house.
+“I have nothing more to do here,” he murmured; “I might as well go too.”
+He completely covered his dress with a domino, and started for home, thinking the cold frosty air would cool his confused brain.
+He lit a cigar, and, walking up the Rue St. Lazare, crossed the Rue Notre Dame de Lorette, and struck into the Faubourg Montmartre.
+A man suddenly started out from some place of concealment, and rushed upon him with a dagger.
+Fortunately the clown had a catlike instinct, which enabled him to protect himself against immediate danger, and detect any which threatened.
+He saw, or rather divined, the man crouching in the dark shadow of a house, and had the presence of mind to strike an attitude which enabled him to ward off the assassin by spreading out his arms before him.
+
+===Chinese===
+
+来人正是披威尼斯斗篷的那位。
+“您十分满意了吗，韦尔迪雷先生？”他问。
+“满意，也不满意，伯爵先生。不满意，是因为我今晚求您弄张请帖进来，所图的事还没有办全；满意，是因为这两个无赖的做派，把我满腹的疑团荡涤干净了。”
+“可您还抱怨——”
+“我不是抱怨，伯爵先生：恰恰相反，我倒要称谢机缘，或者不如说称谢天意，它刚刚向我揭示出一桩秘密的存在——这秘密，我先前连疑都不曾疑到。”
+五六个人朝伯爵围拢过来，他向小丑友善地一点头，随他们去了。
+小丑当即撇下幡子，动身去寻佛维尔太太。只见她在大客厅一张长沙发上坐着，正同玛德莱娜谈得起劲。
+“她们自然是在讲方才那一场；可拉戈尔和德·克拉默朗上哪儿去了？”
+不多时他便望见他俩在满屋散处的人群里穿来穿去，急煎煎地打听什么。
+“我拿脑袋打赌，这两位体面先生正四处探问我是谁。探吧，二位朋友，把这屋里的人问个遍；预祝马到成功！”
+两人很快歇了手，可心事重重，急着寻个清静地方去思量合计，于是不等夜宵，便向佛维尔太太和她侄女告辞，说是要回家去。
+小丑望着他们上更衣室取斗篷，几分钟工夫便出了宅门。
+“我在这儿的事了了，”他咕哝道，“不如也回去吧。”
+他把一身行头整个罩进一件化装斗篷，动身回旅馆，心想霜夜清冽的空气，正好给他发昏的脑袋降降温。
+他点上一支雪茄，沿圣拉扎尔街上行，穿过洛雷特圣母街，拐进蒙马特郊区街。
+猛不丁一个人从藏身处窜出，举着匕首向他扑来。
+幸而小丑生就一副猫儿般的本能，眼前的祸事挡得住，暗地里的凶机也嗅得出。
+他看见——不如说凭直觉察觉——那人正蜷在一所房子的黑影里，登时沉得住气，把身子一摆，双臂朝前张开，架开了刺客。
+
+===Original===
+
+This movement certainly saved his life; for he received in his arm a furious stab, which would have instantly killed him had it penetrated his breast.
+Anger, more than pain, made him cry out:
+“Ah, you villain!”
+And recoiling a few feet, he put himself on the defensive.
+But the precaution was useless.
+Seeing his blow miss, the assassin did not return to the attack, but made rapidly off.
+“That was certainly Lagors,” said the clown, “and Clameran must be somewhere near. While I walked around one side of the church, they must have gone the other and lain in wait for me.”
+His wound began to pain him; he stood under a gas-lamp to examine it.
+It did not appear to be dangerous, but the arm was cut through to the bone.
+He tore his handkerchief into four bands, and tied his arm up with the dexterity of a surgeon.
+“I must be on the track of some great crime, since these fellows are resolved upon murder. When such cunning rogues are only in danger of the police court, they do not gratuitously risk the chance of being tried for murder.”
+He thought by enduring a great deal of pain he might still use his arm; so he started in pursuit of his enemy, taking care to keep in the middle of the road, and avoid all dark corners.
+Although he saw no one, he was convinced that he was being pursued.
+He was not mistaken. When he reached the Boulevard Montmartre, he crossed the street, and, as he did so, distinguished two shadows which he recognized. They crossed the same street a little higher up.
+“I have to deal with desperate men,” he muttered. “They do not even take pains to conceal their pursuit of me. They seem to be accustomed to this kind of adventure, and the carriage trick which fooled Fanferlot would never succeed with them. Besides, my light hat is a perfect beacon to lead them on in the night.” He continued his way up the boulevard, and, without turning his head, was sure that his enemies were thirty feet behind him.
+“I must get rid of them somehow,” he said to himself. “I can neither return home nor to the Archangel with these devils at my heels. They are following me to find out where I live, and who I am. If they discover that the clown is M. Verduret, and that M. Verduret is M. Lecoq, my plans will be ruined. They will escape abroad with the money, and I shall be left to console myself with a wounded arm. A pleasant ending to all my exertions!”
+
+===Chinese===
+
+这一下当真救了他的命：那一刀恶狠狠扎进他的胳膊，若是透了胸膛，他当场便没命了。
+恼怒盖过了疼痛，他大喊一声：
+“啊，你这恶棍！”
+随即倒退几步，摆开守势。
+可这防备是多余的了。
+刺客见一刀落空，并不回身再扑，撒腿飞快跑了。
+“那准是拉戈尔，”小丑说，“克拉默朗必定就在左近。我打教堂一边兜过来，他们定是从另一边抢先一步，埋伏着等我。”
+伤口疼将起来；他站到一盏煤气灯下查看。
+伤势瞧着不碍性命，胳膊却已切到骨头。
+他把手帕撕作四条，拿外科医生的利落手法，把胳膊扎缚停当。
+“我准是踩上了什么大案的尾巴，这班人才起了杀心。这般奸刁的恶棍，若只在违警法庭上挂点干系，断不肯白白去担一桩谋杀官司。”
+他想，忍住剧痛，胳膊兴许还使得，便起身追赶仇人，留神走在街心，避开一切黑暗的角落。
+一个人影也不见，他却断定背后有人钉梢。
+他没有想错。走到蒙马特大道，他穿过街去；恰在此时，他辨出两条熟识的人影，在略靠上首的地方也穿过了同一条街。
+“对付的是两个亡命之徒，”他咕哝道，“他们连钉我的梢都懒得遮掩。看来这路勾当他们是做惯了的；哄过法费尔洛的那套马车把戏，对他们断然使不上。何况我这顶轻飘飘的帽子，黑夜里正好做给他们引路的灯塔。”他顺着大道走去，头也不回，却拿得稳两个仇人就跟在三十步外。
+“总得设法甩脱他们，”他暗自盘算，“这两个魔头钉在脚跟后，我既回不得住处，也回不得大天使旅馆。他们钉我，为的是探我住在何处、我是什么人。一旦叫他们识破小丑就是韦尔迪雷先生，韦尔迪雷先生就是勒科克先生，我的全盘打算就毁了个干净。他们卷着钱逃往国外，留我抱一条挂彩的胳膊聊以自慰。我这一番辛苦，好一个圆满收场！”
+
+===Original===
+
+The idea of Raoul and Clameran escaping him so exasperated him that for an instant he thought of having them arrested at once.
+This was easy; for he had only to rush upon them, scream for help, and they would all three be arrested, carried to the watch-house, and consigned to the commissary of police.
+The police often resort to this ingenious and simple means of arresting a malefactor for whom they are on the lookout, and whom they cannot seize without a warrant.
+The next day there is a general explanation, and the parties, if innocent, are dismissed.
+The clown had sufficient proof to sustain him in the arrest of Lagors. He could show the letter and the mutilated prayerbook, he could reveal the existence of the pawnbroker’s tickets in the house at Vésinet, he could display his wounded arm. He could force Raoul to confess how and why he had assumed the name of Lagors, and what his motive was in passing himself off for a relative of M. Fauvel.
+On the other hand, in acting thus hastily, he was insuring the safety of the principal plotter, De Clameran. What proofs had he against him? Not one. He had strong suspicions, but no well-grounded charge to produce against him.
+On reflection the clown decided that he would act alone, as he had thus far done, and that alone and unaided he would discover the truth of all his suspicions.
+Having reached this decision, the first step to be taken was to put his followers on the wrong scent.
+He walked rapidly up the Rue Sebastopol, and, reaching the square of the Arts et Métiers, he abruptly stopped, and asked some insignificant questions of two constables who were standing talking together.
+The manoeuvre had the result he expected; Raoul and Clameran stood perfectly still about twenty steps off, not daring to advance.
+Twenty steps! That was as much start as the clown wanted. While talking with the constables, he had pulled the bell of the door before which they were standing, and its hollow sound apprised him that the door was open. He bowed, and entered the house.
+A minute later the constables had passed on, and Lagors and Clameran in their turn rang the bell. When the concierge appeared, they asked who it was that had just gone in disguised as a clown.
+They were told that no such person had entered, and that none of the lodgers had gone out disguised that night.
+
+===Chinese===
+
+拉乌尔和克拉默朗就要这样从他手心里溜走，这个念头气得他一时真想当场把他们拿下。
+这易如反掌：他只消扑上去大喊救命，三个人便一齐被扭送派出所，移交到警察所长手里。
+警方对正在访拿而无拘票可执的恶徒，往往就用这条简便而巧妙的手法。
+第二天彼此一说明白，若是清白无辜，一放了事。
+小丑手里的凭据，足够把拉戈尔送进官府：他可以出示那封信和那本剪损的祈祷书，可以揭出韦西内宅子里当票的下落，可以亮出自己这条刀伤的胳膊。他可以逼拉乌尔招认，他怎样、为何顶了拉戈尔这个名字，又出于什么居心，把自己装扮成佛维尔先生的亲戚。
+可是话说回来，这般仓促行事，反倒保住了主谋德·克拉默朗。他手里有什么凭据？一件也没有。疑心纵然重重，却拿不出一条站得住的罪状。
+反复思量之后，小丑拿定主意：仍旧像此前一样独来独往，凭一己之力，把满腹疑团一一坐实。
+主意既定，头一步便是给这两条尾巴指一条岔道。
+他疾步走上塞瓦斯托波尔街，到了艺术与工艺广场，猛地收住脚，向两个正站着交谈的巡警问了几句不痛不痒的话。
+这一手立竿见影：拉乌尔和克拉默朗在二十步外钉住不动，再不敢上前。
+二十步！小丑要的正是这点起脚的余地。他同巡警搭话的当儿，顺手拉了拉两人面前那扇门的门铃，铃里空空的声响告诉他：门没有上闩。他一躬身，进了那所房子。
+一分钟后，巡警巡过去了；拉戈尔和克拉默朗也上前拉铃。门房出来，他们便问，方才进去的那个扮小丑的是什么人。
+回答说，并无此人进门，当夜房客里也没有谁化装外出。
+
+===Original===
+
+“However,” added the concierge, “I am not very sure, for this house has a back door which opens on the Rue St. Denis.”
+“We are tricked,” interrupted Lagors, “and will never know who the clown is.”
+“Unless we learn it too soon for our own good,” said Clameran musingly.
+While Lagors and Clameran were anxiously trying to devise some means of discovering the clown’s identity, Verduret hurried up the back street, and reached the Archangel as the clock struck three.
+Prosper, who was watching from his window, saw him in the distance, and ran down to open the door for him.
+“What have you learned?” he said; “what did you find out? Did you see Madeleine? Were Raoul and Clameran at the ball?”
+But M. Verduret was not in the habit of discussing private affairs where he might be overheard.
+“First of all, let us go into your room, and get some water to wash this cut, which burns like fire.”
+“Heavens! Are you wounded?”
+“Yes, it is a little souvenir of your friend Raoul. Ah, I will soon teach him the danger of chopping up a man’s arm!”
+Prosper was surprised at the look of merciless rage on his friend’s face, as he calmly washed and dressed his arm.
+“Now, Prosper, we will talk as much as you please. Our enemies are on the alert, and we must crush them instantly, or not at all. I have made a mistake. I have been on the wrong track; it is an accident liable to happen to any man, no matter how intelligent he may be. I took the effect for the cause. The day I was convinced that culpable relations existed between Raoul and Mme. Fauvel, I thought I held the end of the thread that must lead us to the truth. I should have been more mistrustful; this solution was too simple, too natural.”
+“Do you suppose Mme. Fauvel to be innocent?”
+“Certainly not. But her guilt is not such as I first supposed. I imagined that, infatuated with a seductive young adventurer, Mme. Fauvel had first bestowed upon him the name of one of her relatives, and then introduced him as her nephew. This was an adroit stratagem to gain him admission to her husband’s house.
+“She began by giving him all the money she could dispose of; later she let him take her jewels to the pawnbrokers; when she had nothing more to give, she allowed him to steal the money from her husband’s safe. That is what I first thought.”
+“And in this way everything was explained?”
+
+===Chinese===
+
+“不过，”门房补了一句，“我也说不准；这房子有道后门，开在圣德尼街上。”
+“咱们叫人耍了，”拉戈尔截住话头，“这辈子休想弄清那小丑是谁了。”
+“除非知道得太早，误了自家的性命。”克拉默朗沉吟道。
+拉戈尔和克拉默朗正焦头烂额、设法打探小丑底细的当儿，韦尔迪雷已抄后街赶回大天使旅馆，时钟正敲三点。
+普罗斯佩正在窗口守望，远远望见了他，跑下楼来替他开门。
+“打听到什么了？”他说，“查出了什么？见到玛德莱娜没有？拉乌尔和克拉默朗去舞会了吗？”
+可韦尔迪雷先生向来不肯在可能叫人听去的场合谈论私事。
+“先到你屋里去，弄点水来洗洗这道口子，火烧火燎地疼。”
+“天哪！您挂彩了？”
+“是啊，算是你那位朋友拉乌尔留的一点纪念。啊，我很快就要教他明白，把人家胳膊剁着玩儿是什么下场！”
+朋友不动声色地洗着、扎着胳膊；普罗斯佩望着他脸上那股毫不容情的狠劲，不由得心里发怵。
+“好了，普罗斯佩，你要谈多久，我们就谈多久。仇家已经警觉，我们必须即刻把他们碾碎，迟一步就休想。我走岔了一步。我追错了线索；这种意外，任凭多聪明的人也在所难免。我把结果当成了原因。那天我认定拉乌尔同佛维尔太太之间有了苟且，还道自己攥住了线头，一抽就能抽到真相。我本该多存几分戒心：这个答案太简单、太顺理成章了。”
+“那么您认为佛维尔太太是清白的？”
+“当然不是。可她的罪，不是我起初设想的那一种。我原以为，佛维尔太太迷上了一个风流少年，先把自家一门亲戚的姓氏安在他头上，又把他当侄子引见进门。这是条巧计，好教他登堂入室，进她丈夫的家。
+“起先，她把名下能动用的钱尽数给了他；后来任他拿首饰去典当；等到再无可给，便由他去偷她丈夫保险柜里的钱了。我起初想的是这样。”
+“这样一说，桩桩件件不都讲通了？”
+
+===Original===
+
+“No, this did not explain everything, as I well knew at the time, and should, consequently, have studied my characters more thoroughly. How is Clameran’s position to be accounted for, if my first idea was the correct one?”
+“Clameran is Lagors’s accomplice of course.”
+“Ah, there is the mistake! I for a long time believed Lagors to be the principal person, when, in fact, he is not. Yesterday, in a dispute between them, the forge-master said to his dear friend, ‘And, above all things, my friend, I would advise you not to resist me, for if you do I will crush you to atoms.’ That explains all. The elegant Lagors is not the lover of Mme. Fauvel, but the tool of Clameran. Besides, did our first suppositions account for the resigned obedience of Madeleine? It is Clameran, and not Lagors, whom Madeleine obeys.”
+Prosper began to remonstrate.
+M. Verduret shrugged his shoulders. To convince Prosper he had only to utter one word: to tell him that three hours ago Clameran had announced his intended marriage with Madeleine; but he did not.
+“Clameran,” he continued, “Clameran alone has Mme. Fauvel in his power. Now, the question is, what is the secret of this terrible influence he has gained over her? I have positive proof that they have not met since their early youth until fifteen months ago; and, as Mme. Fauvel’s reputation has always been above the reach of slander, we must seek in the past for the cause of her resigned obedience to his will.”
+“We can never discover it,” said Prosper mournfully.
+“We can discover it as soon as we know Clameran’s past life. Ah, tonight he turned as white as a sheet when I mentioned his brother Gaston’s name. And then I remembered that Gaston died suddenly, while his brother Louis was making a visit.”
+“Do you think he was murdered?”
+“I think the men who tried to assassinate me would do anything. The robbery, my friend, has now become a secondary detail. It is quite easily explained, and, if that were all to be accounted for, I would say to you, My task is done, let us go ask the judge of instruction for a warrant of arrest.”
+Prosper started up with sparkling eyes.
+“Ah, you know﻿—is it possible?”
+“Yes, I know who gave the key, and I know who told the secret word.”
+“The key might have been M. Fauvel’s. But the word﻿—”
+“The word you were foolish enough to give. You have forgotten, I suppose. But fortunately Gypsy remembered.
+
+===Chinese===
+
+“不，桩桩件件并没有讲通；这一点我当初便心知肚明，也就更该把这几个人物细细揣摩。倘若我头一个念头是对的，克拉默朗的地位又作何解释？”
+“克拉默朗自然是拉戈尔的同党。”
+“啊，毛病恰恰出在这里！有很长一段时间，我都把拉戈尔当作主谋，其实他不是。昨天他们两人拌嘴，铁厂老板对那位亲爱的朋友说：‘我的朋友，我劝你顶要紧的是别同我顶牛；你若顶牛，我就把你碾成齑粉。’这一句便全盘道破。那位风雅的拉戈尔，不是佛维尔太太的情人，而是克拉默朗手里的工具。再说，我们起初那些设想，解释得了玛德莱娜那逆来顺受的听命吗？玛德莱娜听从的是克拉默朗，不是拉戈尔。”
+普罗斯佩待要分辩。
+韦尔迪雷先生耸了耸肩。要说动普罗斯佩，他只消一句话：告诉他三小时前克拉默朗刚刚宣布了同玛德莱娜的婚约；可他没有说。
+“克拉默朗，”他接着说，“唯有克拉默朗一人，把佛维尔太太攥在手心。现在的问题是，他这份可怕威权的来历是什么？我有确凿的证据：他们自少年时代一别，直到十五个月前才重新见面；而佛维尔太太的清名，从来无人能够玷污；所以，她这般忍气吞声、听命于人的缘由，必得到往事里去寻。”
+“我们永远查不出来了。”普罗斯佩凄然说。
+“只要查清克拉默朗的过去，就查得出来。啊，今晚我一提他哥哥加斯东的名字，他登时面如死灰。我这才记起，加斯东死得突然，而他弟弟路易当时正出门在外做客。”
+“您疑心他是被人害死的？”
+“我疑心那两个想行刺我的人，什么事都做得出来。朋友，失盗案如今反倒成了次要的枝节。它不难解释；倘若要交代仅止于此，我就对你说：我的差事办完了，去见预审法官领拘票吧。”
+普罗斯佩霍地立起，双眼放光。
+“啊，您已经知道——这可能吗？”
+“是的，钥匙是谁交出去的，我知道；那个暗语字是谁泄露的，我也知道。”
+“钥匙或许正是佛维尔先生本人的。可那个字——”
+“那个字，正是你糊涂透顶、亲口说出去的。你是忘了，我猜？幸亏吉普赛还记得。
+
+===Original===
+
+You know that, two days before the robbery, you took Lagors and two other friends to sup with Mme. Gypsy? Nina was sad, and reproached you for not being more devoted to her.”
+“Yes, I remember that.”
+“But do you remember what you replied to her?”
+“No, I do not,” said Prosper after thinking a moment.
+“Well, I will tell you: ‘Nina, you are unjust in reproaching me with not thinking constantly of you; for at this very moment your dear name guards M. Fauvel’s safe.’ ”
+The truth suddenly burst upon Prosper like a thunderclap. He wrung his hands despairingly, and cried:
+“Yes, oh, yes! I remember now.”
+“Then you can easily understand the rest. One of the scoundrels went to Mme. Fauvel, and compelled her to give up her husband’s key; then, at a venture, placed the movable buttons on the name of Gypsy, opened the safe, and took the three hundred and fifty thousand francs. And Mme. Fauvel must have been terribly frightened before she yielded. The day after the robbery the poor woman was near dying; and it was she who at the greatest risk sent you the ten thousand francs.”
+“But which was the thief, Raoul or Clameran? What enables them to thus tyrannize over Mme. Fauvel? And how does Madeleine come to be mixed up in the affair?”
+“These questions, my dear Prosper, I cannot yet answer; therefore I postpone seeing the judge. I only ask you to wait ten days; and, if I cannot in that time discover the solution of this mystery, I will return and go with you to report to M. Patrigent all that we know.”
+“Are you going to leave the city?”
+“In an hour I shall be on the road to Beaucaire. It was from that neighborhood that Clameran came, as well as Mme. Fauvel, who was a Mlle. de la Verberie before marriage.”
+“Yes, I knew both families.”
+“I must go there to study them. Neither Raoul nor Clameran can escape during my absence. The police are watching them. But you, Prosper, must be prudent. Promise me to remain a prisoner here during my trip.”
+All that M. Verduret asked, Prosper willingly promised. But he did not wish to be left in complete ignorance of his projects for the future, or of his motives in the past.
+“Will you not tell me, monsieur, who you are, and what reasons you had for coming to my rescue?”
+The extraordinary man smiled sadly, and said:
+“I tell, in the presence of Nina, on the day before your marriage with Madeleine.”
+
+===Chinese===
+
+“你可记得，失盗前两天，你带拉乌尔和另外两个朋友上吉普赛太太家吃夜宵？妮娜心中不快，怪你不把她放在心上。”
+“这我记得。”
+“可你记得你回答她的话吗？”
+“记不得了。”普罗斯佩想了想说。
+“那我告诉你：‘妮娜，你怪我不时时刻刻惦记你，未免冤枉；因为此时此刻，你亲爱的名字正替佛维尔先生守着保险柜呢。’
+真相像晴天霹雳，兜头劈在普罗斯佩身上。他绝望地绞着双手喊道：
+“对，啊，对！我想起来了。”
+“那么底下的事，你就容易想明白了。两个恶棍里有一个去找佛维尔太太，逼她交出丈夫的钥匙；随后瞎碰乱试，把活动旋钮拨到‘吉普赛’这个名字上，打开保险柜，取走了三十五万法郎。佛维尔太太交出钥匙之前，想必叫他们吓得魂不附体。失盗第二天，那可怜的女人几乎丧命；后来冒着天大干系送你一万法郎的，也正是她。”
+“可动手偷的到底是谁，拉乌尔还是克拉默朗？他们凭什么这样拿捏佛维尔太太？玛德莱娜又是怎么牵进这桩事里来的？”
+“这几个问题，亲爱的普罗斯佩，我眼下还答不上来；所以我才缓着不去见法官。我只求你等十天；十天之内，我若寻不出这个谜的谜底，就回来同你一道去见帕特里让先生，把我们知道的一概奉告。”
+“您要出城？”
+“一个钟头后，我就上通往博凯尔的大道了。克拉默朗是那一带的人，佛维尔太太也是——她出阁前是德·拉韦尔伯里小姐。”
+“不错，两家我都认得。”
+“我必得到那边去，研究他们两家。我不在时，拉乌尔和克拉默朗谁也逃不掉，警察正盯着他们。倒是你，普罗斯佩，务须谨慎。答应我，在我出门期间，闭门不出，把自己当囚徒关在这里。”
+韦尔迪雷先生有什么吩咐，普罗斯佩无不乐从。可他不情愿对恩主日后的打算、昔日的缘由，始终蒙在鼓里。
+“先生，您总肯告诉我了吧：您究竟是谁，当初又为什么来搭救我？”
+这位非凡的人物凄然一笑，说：
+“等你同玛德莱娜成婚前一天，我当着妮娜的面讲。”
+
+===Original===
+
+Once left to his own reflections, Prosper began to appreciate the powerful assistance rendered by his friend.
+Recalling the field of investigation gone over by his mysterious protector, he was amazed at its extent.
+How many facts had been discovered in a week, and with what precision, although he had pretended to be on the wrong track! Verduret had grouped his evidence, and reached a result which Prosper felt he never could have hoped to attain by his own exertions.
+He was conscious that he possessed neither Verduret’s penetration nor his subtlety. He did not possess this art of compelling obedience, of creating friends at every step, and the science of making men and circumstances unite in the attainment of a common result.
+He began to regret the absence of his friend, who had risen up in the hour of adversity. He missed the sometimes rough but always kindly voice, which had encouraged and consoled him.
+He felt woefully lost and helpless, not daring to act or think for himself, more timid than a child when deserted by his nurse.
+He had the good sense to follow the recommendations of his mentor. He remained shut up in the Archangel, not even appearing at the windows.
+Twice he had news of M. Verduret. The first time he received a letter in which this friend said he had seen his father, and had had a long talk with him. Afterward, Dubois, M. de Clameran’s valet, came to tell him that his “patron” reported everything as progressing finely.
+On the ninth day of his voluntary seclusion, Prosper began to feel restless, and at ten o’clock at night set forth to take a walk, thinking the fresh air would relieve the headache which had kept him awake the previous night.
+Mme. Alexandre, who seemed to have some knowledge of M. Verduret’s affairs, begged Prosper to remain at home.
+“What can I risk by taking a walk at this time, in a quiet part of the city?” he asked. “I can certainly stroll as far as the Jardin des Plantes without meeting anyone.”
+Unfortunately he did not strictly follow this programme; for, having reached the Orleans railway station, he went into a café near by, and called for a glass of ale.
+As he sat sipping his glass, he picked up a daily paper, *The Sun*, and under the head of “Fashionable Gossip,” signed Jacques Durand, read the following:
+
+===Chinese===
+
+只剩普罗斯佩一个人对着自己的心事时，他才掂出这位朋友帮衬的力量有多重。
+回想这位神秘保护人踏勘过的那一整片调查天地，其阔大叫他吃惊。
+一个星期里查出多少事实，又查得何等精准——尽管他还口口声声走岔了道！韦尔迪雷把证据归拢齐整，得出的结果，普罗斯佩自知凭一己之力永远莫想企及。
+他明白，自己既无韦尔迪雷的眼力，亦无韦尔迪雷的机变。他没有那门本事：能叫人俯首听命，能一路走一路结交朋友，能把人事与时势拧成一股绳，共赴一个结局。
+他开始惋惜这位朋友的离去——正当他倒运的时辰，此公从天而降。他想念那有时生硬、却始终温厚的嗓音，那曾给他打气、也给他宽慰的嗓音。
+他只觉凄惶无主，不敢自作主张，连独自拿个主意都不敢，比乳娘撇下的婴孩还怯懦三分。
+好在他有这份自知之明，肯听恩师的叮嘱。他闭门守在大天使旅馆，连窗口也不露面。
+他两次得着韦尔迪雷先生的消息。头一回是收到一封信，这位朋友在信里说，他见过他父亲了，还同他长谈了一番。随后，德·克拉默朗的贴身仆人迪布瓦来传话，说他的“东家”报告一切进展顺利。
+自动幽闭的第九天，普罗斯佩渐渐心神不宁，晚上十点钟出门散步，心想夜气清新，兴许能治治那闹了他一宿的头疼。
+亚历山大太太似乎于韦尔迪雷先生的事略知一二，苦劝普罗斯佩待在家里。
+“这样的时辰，在城里清静地段散个步，能有什么风险？”他说，“走到植物园，保管撞不上一个人。”
+可惜他没有严格照这章程行事：走到奥尔良火车站，他进了近旁一家咖啡馆，要了一杯啤酒。
+他坐着慢慢啜酒的当儿，随手捡起一份日报《太阳报》，在署名雅克·迪朗的《时尚闲话》一栏里，读到下面这段文字：
+
+===Original===
+
+> We understand that the niece of one of our most prominent bankers, M. André Fauvel, will shortly be married to M. le Marquis Louis de Clameran. The engagement has been announced.
+
+This news, coming upon him so unexpectedly, proved to Prosper the justness of M. Verduret’s calculations.
+Alas! why did not this certainty inspire him with absolute faith? why did it not give him courage to wait, the strength of mind to refrain from acting on his own responsibility?
+Frenzied by distress of mind, he already saw Madeleine indissolubly united to this villain, and, thinking that M. Verduret would perhaps arrive too late to be of use, determined at all risks to throw an obstacle in the way of the marriage.
+He called for pen and paper, and forgetting that no situation can excuse the mean cowardice of an anonymous letter, wrote in a disguised hand the following lines to M. Fauvel:
+
+> Dear Sir﻿—You consigned your cashier to prison; you acted prudently, since you were convinced of his dishonesty and faithlessness.
+> But, even if he stole three hundred and fifty thousand francs from your safe, does it follow that he also stole Mme. Fauvel’s diamonds, and pawned them at the Mont-de-Piété, where they now are?
+> Warned as you are, if I were you, I would not be the subject of public scandal. I would watch my wife, and would be distrustful of handsome cousins.
+> Moreover, I would, before signing the marriage contract of Mlle. Madeleine, inquire at the Préfecture of Police, and obtain some information concerning the noble Marquis de Clameran.
+> A Friend.
+
+===Chinese===
+
+> 敬启者：据悉我行翘楚、银行家安德烈·佛维尔先生之侄女，不久将与路易·德·克拉默朗侯爵先生缔结良缘。婚约已经宣布。
+这消息来得猝不及防，倒向普罗斯佩证明了韦尔迪雷先生算无遗策。
+唉！这份确信，为什么不能给他注入绝对的信念？为什么不能给他守候的勇气、不自作主张的定力？
+他愁肠百结，如醉如狂，恍惚已看见玛德莱娜同这个恶棍结成再也解不开的连理，又想到韦尔迪雷先生或许赶不及了，便铤而走险，说什么也要给这桩婚事设下一道障碍。
+他唤来纸笔，全忘了天下没有任何处境开脱得了匿名信的下流与怯懦，用一笔刻意改样的字迹，给佛维尔先生写了如下几行：
+
+> 亲爱的先生——您把出纳主任送进了监狱；您做得谨慎，因为您认定他不老实、无信义。
+> 可是，纵然他从您的保险柜里偷了三十五万法郎，难道便能说，佛维尔太太的钻石也是他偷的、也是他当进公营当铺的吗？钻石此刻还在那里。
+> 您既得了警醒，换了我，断不肯闹成满城风雨。我会看住自己的太太，也会提防那些漂亮的表亲。
+> 再者，在玛德莱娜小姐婚约签字之前，我会先到警察总局走一遭，探一探那位高贵的克拉默朗侯爵先生的底细。
+> 一位朋友
+
+===Original===
+
+Prosper hastened off to post his letter. Fearing that it would not reach M. Fauvel in time, he walked up to the Rue Cardinal Lemoine, and put it in the main letter-box, so as to be certain of its speedy delivery.
+Until now he had not doubted the propriety of his action.
+But now when too late, when he heard the sound of his letter falling into the box, a thousand scruples filled his mind. Was it not wrong to act thus hurriedly? Would not this letter interfere with M. Verduret’s plans? Upon reaching the hotel, his doubts were changed into bitter regrets.
+Joseph Dubois was waiting for him; he had received a despatch from his patron, saying that his business was finished, and that he would return the next evening at nine o’clock.
+Prosper was wretched. He would have given all he had to recover the anonymous letter.
+And he had cause for regret.
+At that very hour M. Verduret was taking his seat in the cars at Tarascon, meditating upon the most advantageous plan to be adopted in pursuance of his discoveries.
+For he had discovered everything, and now must bring matters to a crisis.
+Adding to what he already knew, the story of an old nurse of Mlle. de la Verberie, the affidavit of an old servant who had always lived in the Clameran family, and the depositions of the Vésinet husband and wife who attended M. Lagors at his country house, the latter having been sent to him by Dubois (Fanferlot), with a good deal of information obtained from the prefecture of police, he had worked up a complete case, and could now act upon a chain of evidence without a missing link.
+As he had predicted, he had been compelled to search into the distant past for the first causes of the crime of which Prosper had been the victim.
+The following is the drama, as he wrote it out for the benefit of the judge of instruction, knowing that it would contain grounds for an indictment against the malefactors.
+
+===Chinese===
+
+普罗斯佩急急忙忙赶去寄信。他怕信赶不及送到佛维尔先生手里，索性一路走到红衣主教勒穆瓦纳街，投进总邮箱，好稳稳当当、日限之内必到。
+直到此刻，他对自己此举的是非曲直，从未起过一丝疑心。
+可如今太迟了——一听见信纸落进信箱的那声响，千百条顾忌涌上心头：这般仓促行事，难道不是错吗？这封信，会不会搅了韦尔迪雷先生的部署？回到旅馆，疑心已经酿成苦涩的悔恨。
+约瑟夫·迪布瓦正候着他；东家来了电报，说事情已了结，明晚九点回来。
+普罗斯佩懊丧欲绝。只要收回那封匿名信，他情愿倾其所有。
+他也确有得后悔。
+就在这个时辰，韦尔迪雷先生正在塔拉斯孔登上火车，心里盘算着，如何顺着种种发现，择定一条最有胜算的路子。
+因为他已把一切查个水落石出，如今该图穷匕见了。
+在原有的一点一滴之外，再加上德·拉韦尔伯里小姐当年乳母的叙述、一位毕生不曾离开克拉默朗家的老仆的证词、在乡下宅邸伺候拉戈尔先生的那对韦西内夫妇的口供——后者是迪布瓦（法费尔洛）给他送来的——还有从警察总局弄到的一大批材料，他把全案办得铁案如山，如今凭一条环环相扣、绝无缺口的证据链，尽可放手行事了。
+正如他所预言，为了追索普罗斯佩受害一案的最初起因，他不得不掘开遥远的往事。
+以下便是这出戏——他把它写出来呈给预审法官过目，深知其中自有足以把恶徒们送上被告席的罪状。
