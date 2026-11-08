@@ -13,6 +13,8 @@ VII
 
 ### I / 一
 
+### I /
+
 ### I / 
 ===Original===
 
@@ -71,6 +73,8 @@ So the web of fate was spun, and men who thought they were directing the destiny
 命运的网就这样织成了；那些自以为在指挥世界命运的人，不过是缠在织好的丝线里，像拴着线的傀儡，被扯着跳舞。那是古老的死亡之舞，在人类的愚蠢里，从前也上演过。
 
 ### II / 二
+
+### II /
 
 ### II / 
 ===Original===
@@ -150,6 +154,8 @@ Of those things General Ludendorff does not write in his *Memoirs*, which deal w
 这些事，鲁登道夫将军在《回忆录》里不写——那本书写的是战争的战略与机器。
 
 ### III / 三
+
+### III /
 
 ### III / 
 ===Original===
@@ -317,6 +323,8 @@ But only one of us went really mad and tried to cut his throat, and died. One of
 可我们中间只有一个真疯了，割了自己的喉咙，死了。他是最好的一个，我见过他最好的时候。
 
 ### IV / 四
+
+### IV / 
 ===Original===
 
 The battles of the Third Army beyond Arras petered out and on June 7th there was the battle of Messines and Wytschaete when the Second Army revealed its mastery of organization and detail. It was the beginning of a vastly ambitious scheme to capture the whole line of ridges through Flanders, of which this was the southern hook, and then to liberate the Belgian coast as far inland as Bruges by a combined sea-and-land attack with shoregoing tanks, directed by the Fourth Army. This first blow at the Messines Ridge was completely and wonderfully successful, due to the explosion of seventeen enormous mines under the German positions, followed by an attack “in depth,” divisions passing through each other, or “leapfrogging,” as it was called, to the final objectives against an enemy demoralized by the earthquake of the explosions.
@@ -386,6 +394,8 @@ At this time the enemy was developing his use of a new poison-gas﻿—mustard g
 这时敌人正加紧使用一种新的毒气——芥子气——蒸汽凝成微红的粉末的地方，它烫起水疱、烧人的皮肉，把人的眼睛弄瞎一星期甚至更久，有时永远，把肺变成水。我在海岸的加拿大第三伤员后送站见过几百个这样的病例，我们整条前线有几千。在尼乌波特附近的奥斯特敦克勒克，我吸过一口，嘴唇和眼皮有一种灼烧感，此后一星期不时呕吐，夜里心跳仿佛只剩微弱的几下，那种古怪的颤动把我吓着了。这足以叫人「心里發毛」。我们的人怕这新的危险，它的来路那么神秘、那么悄悄。它是战争的新瘟疫之一。
 
 ### V / 五
+
+### V / 
 ===Original===
 
 The battle of Flanders began round Ypres on July 31st, with a greater intensity of artillery on our side than had ever been seen before in this war in spite of the Somme and Messines, when on big days of battle two thousand guns opened fire on a single corps front. The enemy was strong also in artillery arranged in great groups, often shifting to enfilade our lines of attack. The natural strength of his position along the ridges, which were like a great bony hand outstretched through Flanders, with streams or “beeks,” as they are called, flowing in the valleys which ran between the fingers of that clawlike range, were strengthened by chains of little concrete forts or “pillboxes,” as our soldiers called them, so arranged that they could defend one another by enfilade machine-gun fire. These were held by garrisons of machine-gunners of proved resolution, whose duty was to break up our waves of attack until, even if successful in gaining ground, only small bodies of survivors would be in a position to resist the counterattacks launched by German divisions farther back. The strength of the pillboxes made of concrete two inches thick resisted everything but the direct hit of heavy shells, and they were not easy targets at long range. The garrisons within them fought often with the utmost courage, even when surrounded, and again and again this method of defense proved terribly effective against the desperate heroic assaults of British infantry.
@@ -523,6 +533,8 @@ To British and to Germans it meant the same.
 对英国人和德国人，它意味着同一个。
 
 ### VI / 六
+
+### VI / 
 ===Original===
 
 During the four and a half months of that fighting the war correspondents were billeted in the old town of Cassel, where, perched on a hill which looks over a wide stretch of Flanders, through our glasses we could see the sand-dunes beyond Dunkirk and with the naked eyes the whole vista of the battle-line round Ypres and in the wide curve all the countryside lying between Aire and Hazebrouck and Notre Dame de Lorette. My billet was in a monastery for old priests, on the eastern edge of the town, and at night my window was lighted by distant shellfire, and I gazed out to a sky of darkness rent by vivid flashes, bursts of red flame, and rockets rising high. The priests used to tap at my door when I came back from the battlefields all muddy, with a slime-plastered face, writing furiously, and an old padre used to plague me like that, saying:
@@ -664,6 +676,8 @@ Our men were not mythical heroes exalted by the gods above the limitations of na
 我们的人不是被众神抬到自然局限之上的神话英雄。他们是人，有妻儿，或有母亲姐妹，盼着再见。他们恨这场战争。死对他们没有诱惑，除了偶尔作为逃脱炮火下无法忍受的生活的一条路。若他们的精神不起而反抗——尽管纪律仍然效忠——那他们才是超人：反抗沼泽里战争的污秽条件；在那大约四个月的战斗里，尽管有这一切，他们完成了大群的人服从命令之下人类勇气与忍耐的最伟大的努力。
 
 ### VII / 七
+
+### VII / 
 ===Original===
 
 At the end of those battles happened that surprising, audacious adventure in the Cambrai salient organized by the Third Army under General Byng, when on November 20, 1917, squadrons of tanks broke through the Hindenburg line, and infantry streamed through the breach, captured hundreds of guns, ten thousand prisoners, many villages and ridges, and gave a monstrous shock to the German High Command.
@@ -719,3 +733,386 @@ The command was carried on by a young lieutenant, who rode with his men until th
 ===Chinese===
 
 指挥交到一位年轻中尉手里。他带着人马一路骑到鲁米利村东南那条掩了伪装的路上，分批从堤岸里隐蔽的敌人火力下穿越。在那里他们撞上一队野炮，其中一门朝他们平射。他们冲了炮队，打瘫了炮，打死一些炮手。没被消灭的投降了，俘虏留给后续部队送回。中队接着收拾附近的德国步兵：有的跑了，有的被打死或投降。这一切都在侧翼碉堡的火力下策马疾驰完成。随后中队放慢到步行，占住鲁米利以东一公里一条凹道里的阵地。黑暗罩下来，他们渐渐被带机枪的德国步兵围住，大有被俘或被歼的危险。他们的马只剩五匹没中弹，指挥的中尉决定：必须设法杀出去回去。马群被朝敌人的方向驱赶，引开机枪火力；就在这些无人骑的马从凹道一头狂奔而出时，军官和他活着的骑兵从另一头脱了身。回去的路上他们撞见四伙敌人，冲上去打垮了。有一回他们得以脱身，靠的是另一个年轻中尉的狡黠——他会德语，在黑暗里同敌人搭话，骗得他们摸不清这支部队的身份，直到他们能出其不意、杀开一条路。这位中尉脸上挨了一颗子弹；当他带着人马赶在后卫之前回到马尼耶尔时，只勉强作完报告，就瘫倒了。
+
+===Original===
+
+Other small bodies of cavalry﻿—among them the 8th Dragoons and 5th Hussars﻿—had wild, heroic adventures in the Cambrai salient, where they rode under blasts of machine-gun fire and rounded up prisoners in the ruined villages of Noyelles and Fontaine Notre Dame. Some of them went into the Folie Wood nearby and met seven German officers strolling about the glades, as though no war was on. They took them prisoners, but had to release some of them later, as they could not be bothered with them. Later they came across six ammunition-wagons and destroyed them. In the heart of the wood was one of the German divisional headquarters, and one of our cavalry officers dismounted and approached the cottage stealthily, and looked through the windows. Inside was a party of German officers seated at a table, with beer mugs in front of them, apparently unconscious of any danger near them. Our officer fired his revolver through the windows and then, like a schoolboy who has thrown a stone, ran away as hard as he could and joined his troop. Youthful folly of gallant hearts!
+
+After the enemy’s surprise his resistance stiffened and he held the village of Fontaine Notre Dame, and Bourlon Wood, on the hill above, with strong rearguards. Very quickly, too, he brought new batteries into action, and things became unpleasant in fields and villages where our men, as I saw them on those days, hunted around for souvenirs in German dugouts and found field-glasses, automatic pistols, and other good booty.
+
+It seemed to me that the plan as outlined by Gen. Louis Vaughan, not to exploit success farther than justified by the initial surprise, was abandoned for a time. A brigade of Guards was put in to attack Fontaine Notre Dame, and suffered heavily from machine-gun fire before taking it. The 62nd (Yorkshire) Division lost many good men in Bourlon Village and Bourlon Wood, into which the enemy poured gas-shells and high explosives.
+
+Then on November 30th the Germans, under the direction of General von Marwitz, came back upon us with a tiger’s pounce, in a surprise attack which we ought to have anticipated. I happened to be on the way to Gouzeaucourt early that morning, and, going through the village of Fins, next to it, I saw men straggling back in some disorder, and gun-teams wedged in a dense traffic moving in what seemed to me the wrong direction.
+
+===Chinese===
+
+另一些小股骑兵——其中有第八龙骑兵和第五骠骑兵——在康布雷突出部经历了狂野而英勇的奇遇：他们顶着机枪火力的扫射纵马奔驰，在努瓦耶勒（Noyelles）和丰坦圣母村（Fontaine Notre Dame）的废墟村庄里围拢俘虏。他们有些人进了附近的福利林（Folie Wood），撞见七名德国军官正在林间空地上闲逛，仿佛世上没有战争。他们把他们抓了俘虏，可后来不得不放掉几个——懒得带着他们。随后他们又撞见六辆弹药车，把它们毁掉了。林子深处是德军的一个师部，我方一名骑兵军官下了马，蹑手蹑脚摸到那座村舍跟前，往窗子里张望。里面一桌德国军官正坐着，面前摆着啤酒杯，浑然不觉近在咫尺的危险。我们的军官朝窗户开了一枪，随后像扔了石头的顽童一样，撒腿拼命跑回自己的队伍。英武之心少年式的莽撞！
+
+敌人从突袭中回过神来，抵抗转硬，以强大的后卫部队据守丰坦圣母村，以及山上高处的布尔隆林（Bourlon Wood）。他也很快调新的炮兵连投入战斗，田野和村庄里的情形变得不妙——那些日子里我看见我们的人正在德国掩体里四处搜寻纪念品，捡到望远镜、自动手枪和其他不错的战利品。
+
+在我看来，路易·沃恩将军所定下的方略——不把成功推进到初始奇袭所能支撑的范围之外——一时被抛开了。一个近卫军旅被投入去攻丰坦圣母村，在拿下它之前挨了惨重的机枪火力。第六十二（约克郡）师在布尔隆村和布尔隆林里损失了许多好汉——敌人向那林子里倾泻毒气弹和高爆炸药。
+
+随后，十一月三十日，德军在冯·马尔维茨将军的指挥下，以饿虎扑食之势反扑回来——一场我们本该料到的突袭。那天清晨我恰好在去古佐库尔的路上，途经紧挨着它的凡斯村，看见士兵们有些凌乱地零零落落往回走，炮车马队挤在稠密的车流里，朝着一个在我看来方向不对的方向挪动。
+
+===Original===
+
+“I don’t know what to do,” said a young gunner officer. “My battery has been captured and I can’t get into touch with the brigade.”
+
+“What has happened?” I asked.
+
+He looked at me in surprise.
+
+“Don’t you know? The enemy has broken through.”
+
+“Broken through where?”
+
+The gunner officer pointed down the road.
+
+“At the present moment he’s in Gouzeaucourt.”
+
+I went northward, and saw that places like Hermies and Havrincourt, which had been peaceful spots for a few days, were under heavy fire. Bourlon Wood beyond was a fiery furnace. Hell had broken out again and things looked bad. There was a general packing up of dumps and field hospitals and heavy batteries. In Gouzeaucourt and other places our divisional and brigade headquarters were caught napping. Officers were in their pajamas or in their baths when they heard the snap of machine-gun bullets. I saw the Guards go forward to Gouzeaucourt for a counterattack. They came along munching apples and whistling, as though on peace maneuvers. Next day, after they had gained back Gouzeaucourt, I saw many of them wounded, lying under tarpaulins, all dirty and bloody.
+
+The Germans had adopted our own way of attack. They had assembled masses of troops secretly, moving them forward by night under the cover of woods, so that our air scouts saw no movement by day. Our line was weakly held along the front﻿—the 55th Division, thinned out by losses, was holding a line of thirteen thousand yards, three times as much as any troops can hold, in safety﻿—and the German storm-troops, after a short, terrific bombardment, broke through to a distance of five miles.
+
+Our tired men, who had gained the first victory, fought heroic rearguard actions back from Masnières and Marcoing, and back from Bourlon Wood on the northern side of the salient. They made the enemy pay a high price in blood for the success of his counterattack, but we lost many thousands of brave fellows, and the joy bells which had rung in London on November 20th became sad and ironical music in the hearts of our disappointed people.
+
+So ended 1917, our black year; and in the spring of 1918, after all the losses of that year, our armies on the western front were threatened by the greatest menace that had ever drawn near to them, and the British Empire was in jeopardy.
+
+===Chinese===
+
+“我不知道该怎么办，”年轻的炮兵军官说。“我的炮兵连被俘了，我联系不上旅部。”
+
+“出什么事了？”我问。
+
+他诧异地看着我。
+
+“你还不知道？敌人突破过来了。”
+
+“在哪里突破的？”
+
+炮兵军官朝路那头一指。
+
+“这会儿他已经在古佐库尔了。”
+
+我向北去，看见埃尔米、阿弗兰库尔这些地方——几天前还是太平去处——正处在猛烈炮火之下。远处的布尔隆林是一座烈火熔炉。地狱又爆发了，局面不妙。弹药堆、野战医院、重炮连纷纷收拾后撤。在古佐库尔和其他地方，我们的师部旅部被打了个措手不及。军官们还穿着睡衣、或正在洗澡，就听见了机枪子弹的爆响。我看见近卫军开上去向古佐库尔反击。他们一路嚼着苹果打着呼哨走来，仿佛在和平演习。第二天，他们夺回古佐库尔之后，我看见他们许多人负了伤，躺在防水布下，一身泥污和血污。
+
+德国人采用了我们自己的攻击方式。他们秘密集结大部队，趁夜在树林掩护下前移，使我们的空中侦察白天看不见任何调动。我们的防线沿线兵力单薄——第五十五师被伤亡削薄，守着一条一万三千码的防线，是任何部队所能安全守御的三倍——而德军突击部队经过短暂而可怕的炮击之后，突破进去达五英里之深。
+
+我们那些打赢了第一仗的疲惫士兵，从马尼埃尔和马尔宽一路打着英雄的后卫战退回来，又从突出部北侧的布尔隆林退回来。他们让敌人用高昂的血价为反击的成功付了账，但我们也折损了好几千勇敢的弟兄，而十一月二十日在伦敦敲响的欢乐钟声，在我们失望的人民心里，成了悲伤而讽刺的音乐。
+
+一九一七年——我们的黑色年份——就这样收了场；到了一九一八年春天，经过那一年的种种损失，我们在西线的军队面临着有史以来逼近它们的最巨大的威胁，大英帝国危在旦夕。
+
+### VIII / 八
+===Original===
+
+In the autumn of 1917 the Italian disaster of Caporetto had happened, and Sir Herbert Plumer, with his chief of staff, Sir John Harington, and many staff-officers of the Second Army, had, as I have told, been sent to Italy with some of our best divisions, so weakening Sir Douglas Haig’s command. At that very time, also, after the bloody losses in Flanders, the French government and General Headquarters brought severe pressure upon the British War Council to take over a greater length of line in France, in order to release some of the older classes of the French army who had been under arms since 1914. We yielded to that pressure and Sir Douglas Haig extended his lines north and south of St.-Quentin, where the Fifth Army, under General Gough, was entrusted with the defense.
+
+I went over all that new ground of ours, out from Noyon to Chaulny and Barisis and the floods of the Oise by La Fère; out from Ham to Holmon Forest and Francilly and the Epine de Dullon, and the Fort de Liez by St.-Quentin; and from Péronne to Hargicourt and Jeancourt and La Verguier. It was a pleasant country, with living trees and green fields not annihilated by shellfire, though with the naked eye I could see the scarred walls of St.-Quentin cathedral, and the villages near the front-lines had been damaged in the usual way. It was dead quiet there for miles, except for short bursts of harassing fire now and then, and odd shells here and there, and bursts of black shrapnel in the blue sky of mild days.
+
+“Paradise, after Flanders!” said our men, but I knew that there was a great movement of troops westward from Russia, and wondered how long this paradise would last.
+
+I looked about for trench systems, support lines, and did not see them, and wondered what our defense would be if the enemy attacked here in great strength. Our army seemed wonderfully thinned out. There were few men to be seen in our outpost line or in reserve. It was all strangely quiet. Alarmingly quiet.
+
+===Chinese===
+
+一九一七年秋天，意大利的卡波雷托惨祸发生了，正如我已讲过的，赫伯特·普卢默爵士带着他的参谋长约翰·哈灵顿爵士和第二集团军的许多参谋军官，同我们几个最好的师一起被派去了意大利，从而削弱了道格拉斯·黑格爵士的指挥力量。也正是在那个时候，法兰德斯的血腥损失之后，法国政府和法国总司令部向英国战争会议施加沉重压力，要我们在法国接防更长的一段战线，好让法军中那些一九一四年以来一直在役的年长征龄兵退役。我们屈服于这个压力，道格拉斯·黑格爵士把他的防线向圣康坦南北两翼延伸，防务交由高夫将军麾下的第五集团军承担。
+
+我把我们的这片新防区走了个遍：从努瓦永出来，到肖尔尼、巴里西，到拉费尔附近瓦兹河的泛滥水域；从阿姆出来，到奥尔蒙森林、弗朗西利、迪隆埃皮讷（Epine de Dullon），到圣康坦旁边的利埃堡（Fort de Liez）；再从佩罗讷到阿尔吉库尔、让库尔、拉韦尔吉耶。那是一片宜人的乡野，活着的树木、绿色的田野没有被炮火毁灭，虽然肉眼望得见圣康坦大教堂布满疤痕的墙壁，前线附近的村庄也照例受了些损坏。那里一连几英里死一般的寂静，只偶尔有短促的扰乱射击，东一发西一发的零星炮弹，还有温和日子里蓝天上炸开的一团团黑色榴霰弹烟。
+
+“法兰德斯过后，这里就是天堂！”我们的人说。可我知道正有一场从俄国往西的大规模兵力移动，心想这个天堂能维持多久。
+
+我四处寻找堑壕体系、支援防线，却没有看见，心想倘若敌人在这里以强大兵力来攻，我们的防御靠什么。我们的军队似乎稀薄得出奇。前哨线上、预备队里都见不到多少人。一切都是那么出奇地安静。安静得吓人。
+
+===Original===
+
+Yet, pleasant for the time being. I had a brother commanding a battery along the railway line south of St.-Quentin. I went to see him, and we had a picnic meal on a little hill staring straight toward St.-Quentin cathedral. One of his junior officers set the gramophone going. The colonel of the artillery brigade came jogging up on his horse and called out, “Fine morning, and a pretty spot!” The infantry divisions were cheerful. “Like a rest-cure!” they said. They had sports almost within sight of the German lines. I saw a boxing-match in an Irish battalion, and while two fellows hammered each other I glanced away from them to winding, wavy lines of chalk on the opposite hillsides, and wondered what was happening behind them in that quietude.
+
+“What do you think about this German offensive?” I asked the general of a London division (General Gorringe of the 47th) standing on a wagon and watching a tug-of-war. From that place also we could see the German positions.
+
+“G.H.Q. has got the windup,” he said. “It is all bluff.”
+
+General Hall, temporarily commanding the Irish Division, was of the same opinion, and took some pains to explain the folly of thinking the Germans would attack. Yet day after day, week after week, the Intelligence reports were full of evidence of immense movements of troops westward, of intensive training of German divisions in back areas, of new hospitals, ammunition-dumps, airplanes, battery positions. There was overwhelming evidence as to the enemy’s intentions. Intelligence officers took me on one side and said: “England ought to know. The people ought to be prepared. All this is very serious. We shall be ‘up against it.’ ” G.H.Q. was convinced. On February 23rd the war correspondents published articles summarizing the evidence, pointing out the gravity of the menace, and they were passed by the censorship. But England was not scared. Dances were in full swing in London. Little ladies laughed as usual, lighthearted. Flanders had made no difference to national optimism, though the hospitals were crowded with blind and maimed and shell-shocked.
+
+“I am skeptical of the German offensive” said Mr. Bonar Law.
+
+===Chinese===
+
+然而，眼下终究是惬意的。我有一个兄弟在圣康坦以南沿铁路线指挥一个炮兵连。我去看他，我们在一座小山上野餐，山头正对着圣康坦大教堂。他手下一名下级军官放起了留声机。炮兵旅的上校骑马小跑过来，喊道：“早晨真好，地方真美！”步兵师们兴高采烈。“像疗养！”他们说。他们几乎在德军战线望得见的地方开运动会。我看过一个爱尔兰营里的拳击比赛，当两个小伙子彼此挥拳猛捶时，我的目光离开他们，落到对面山坡上一道道蜿蜒起伏的白垩线条上，心想那片寂静背后正在发生什么。
+
+“您怎么看德国人要进攻这件事？”我问一个伦敦师的将军（第四十七师的戈林奇将军），他正站在一辆马车上看拔河。从那个地方我们也能望见德军阵地。
+
+“总司令部吓破胆了，”他说。“全是唬人。”
+
+临时指挥爱尔兰师的霍尔将军持同样的看法，还颇费口舌地解释指望德国人来攻是多么愚蠢。然而一天又一天，一周又一周，情报报告里满是从东往西大规模调动兵力的证据：德军各师在后方地带的强化训练，新建的医院、弹药堆、飞机、炮兵阵地。关于敌人的意图，证据压倒一切。情报军官把我拉到一边说：“英国应该知道。人民应该有准备。这一切非常严重。我们要‘日子难熬’了。”总司令部被说服了。二月二十三日，随军记者们发表了综述这些证据的文章，指出威胁的严重性，文章通过了新闻检查。可是英国没有害怕。伦敦的舞会正开得火热。小姑娘们照常轻快地笑。法兰德斯对全国的乐观情绪没有产生丝毫影响，尽管医院里挤满了失明的、伤残的、患炮弹休克症的。
+
+“我不相信德国人会进攻。”博纳·劳先生说。
+
+===Original===
+
+Nobody believed the war correspondents. Nobody ever did believe us, though some of us wrote the truth from first to last as far as the facts of war go apart from deeper psychology, and a naked realism of horrors and losses, and criticism of facts, which did not come within our liberty of the pen.
+
+They were strange months for me. I felt that I was in possession, as indeed I was, of a terrible secret which might lead to the ending of the world﻿—our world, as we knew it﻿—with our liberties and power. For weeks I had been pledged to say no word about it, to write not a word about it, and it was like being haunted by a specter all day long. One laughed, but the specter echoed one’s laughter and said, “Wait!” The mild sunshine of those spring days was pleasant to one’s spirit in the woods above La Fère, and in fields where machine-guns chattered a little, while overhead our airplanes dodged German “Archies.” But the specter chilled one’s blood at the reminder of vast masses of field-gray men drawing nearer to our lines in overwhelming numbers. I motored to many parts of the front, and my companion sometimes was a little Frenchman who had lost a leg in the war﻿—D’Artagnan with a wooden peg, most valiant, most gay. Along the way he recited the poems of Ronsard. At the journey’s end one day he sang old French chansons, in an English mess, within gunshot of the German lines. He climbed up a tree and gazed at the German positions, and made sketches while he hummed little tunes and said between them, “*Ah, les sacrés Boches!*﻿ ﻿… If only I could fight again!”
+
+===Chinese===
+
+没有人相信随军记者。从来也没有人相信过我们，尽管我们中间有些人自始至终写的都是实情——就战争的事实而言，撇开更深的心理、对恐怖与损失的赤裸写实、以及对事实的批评不谈，那些不在我们笔下自由的范围之内。
+
+对我，那是奇特的几个月。我感到自己——实际上也确实是——掌握着一个可怕的秘密，一个可能导致世界——我们所认识的、连同我们的自由与力量的这个世界——终结的秘密。一连几个星期我发过誓对它一字不提、一字不写，这就像整天被一个幽灵缠着。你笑，那幽灵也回响你的笑，说：“等着！”那些春日和煦的阳光，在拉费尔上方的树林里、在机枪哒哒轻响的田野间，让人心旷神怡，头顶上我们的飞机躲闪着德国人的“阿尔奇”高射炮。可一想到大片大片灰军装的人正以压倒的数量逼近我们的战线，那幽灵便叫人血都凉了。我乘车跑遍了前线的许多地段，同行的有时是一个在战争中失去一条腿的小个子法国人——装着木腿的达尔达尼央，最勇武，最快活。一路上他朗诵龙萨的诗。有一天旅程终了，他在一个英军食堂里，在德军炮火射程之内，唱起古老的法国歌谣。他爬上一棵树眺望德军阵地，一边哼着小调一边写生，小调之间说道：“啊，这些该死的德国佬！……要是我还能打仗该多好！”
+
+===Original===
+
+I remember a pleasant dinner in the old town of Noyon, in a little restaurant where two pretty girls waited. They had come from Paris with their parents to start this business, now that Noyon was safe. (Safe, O Lord!) And everything was very dainty and clean. At dinner that night there was a hostile air raid overhead. Bombs crashed. But the girls were brave. One of them volunteered to go with an officer across the square to show him the way to the A.P.M., from where he had to get a pass to stay for dinner. Shrapnel bullets were whipping the flagstones of the Grande Place, from antiaircraft guns. The officer wore his steel helmet. The girl was going out without any hat above her braided hair. We did not let her go, and the officer had another guide. One night I brought my brother to the place from his battery near St.-Quentin. We dined well, slept well.
+
+“Noyon is a good spot,” he said. “I shall come here again when you give me a lift.”
+
+A few days later my brother was firing at masses of Germans with open sights, and the British army was in a full-tide retreat, and the junior officer who had played his gramophone was dead, with other officers and men of that battery. When I next passed through Noyon shells were falling into it, and later I saw it in ruins, with the glory of the Romanesque cathedral sadly scarred. I have ofttimes wondered what happened to the little family in the old hotel.
+
+So March 21st came, as we knew it would come, even to the very date, and Ludendorff played his trump cards and the great game.
+
+Before that date I had an interview with General Gough, commanding the Fifth Army. He pulled out his maps, showed his method of forward redoubts beyond the main battle zone, and in a quiet, amiable way spoke some words which froze my blood.
+
+“We may have to give ground,” he said, “if the enemy attacks in strength. We may have to fall back to our main battle zone. That will not matter very much. It is possible that we may have to go farther back. Our real line of defense is the Somme. It will be nothing like a tragedy if we hold that. If we lose the crossings of the Somme it will, of course, be serious. But not a tragedy even then. It will only be tragic if we lose Amiens, and we must not do that.”
+
+“The crossings of the Somme﻿ ﻿… Amiens!”
+
+Such a thought had never entered my imagination. General Gough had suggested terrible possibilities.
+
+===Chinese===
+
+我记得在努瓦永老城一顿愉快的晚餐，一家小餐馆，两个漂亮姑娘做招待。努瓦永既已安全，她们随父母从巴黎来开这间铺子。（安全，主啊！）一切都雅致洁净。那天晚饭时头顶正有一场敌机空袭。炸弹轰轰炸响。可姑娘们很勇敢。其中一个自告奋勇陪一位军官穿过广场，领他去宪兵值班处（A.P.M.）——他得从那里办一张留下吃晚饭的通行证。高射炮的榴霰弹弹丸正抽打着大广场的石板路面。军官戴着钢盔。姑娘却要光着头、辫子上什么也不戴就出门。我们没让她去，军官另找了向导。一天夜里我把兄弟从圣康坦附近的炮兵连接到这里。我们吃得好，睡得好。
+
+“努瓦永是个好地方，”他说。“下次你捎我，我还来。”
+
+几天之后，我的兄弟就在用直瞄射击轰击成群的德国人，英国军队正在满潮般的退却之中，而那个放留声机的下级军官已经死了，同该炮兵连的其他军官和士兵一起。我下一次经过努瓦永时，炮弹正落进城里；再后来我看见它成了废墟，罗马式大教堂的荣光带着悲惨的疤痕。我不止一次想过，那家老旅馆里的小小一家人后来怎样了。
+
+于是三月二十一日来了，正如我们知道它会来、连日子都知道，鲁登道夫打出了他的王牌，押上了这场大赌局。
+
+在那日子之前，我采访了指挥第五集团军的高夫将军。他摊开地图，给我看他在主战斗地带之外设置前方堡垒的方法，然后以一种平静、和气的方式说了几句让我血液冻结的话。
+
+“倘若敌人以强兵来攻，我们可能要放弃一些地面，”他说。“我们可能要退到主战斗地带。那没有太大关系。我们可能还要退得更远。我们真正的防线是索姆河。守住它，就完全算不上悲剧。如果丢了索姆河上的渡口，那当然严重。但即使那样也不是悲剧。只有丢了亚眠才是悲剧，而我们绝不能丢掉它。”
+
+“索姆河的渡口……亚眠！”
+
+这样的念头从未进过我的想象。高夫将军提示了可怕的可能性。
+
+===Original===
+
+All but the worst happened. In my despatches, reprinted in book form with explanatory prefaces, I have told in full detail the meaning and measure of the British retreat, when forty-eight of our divisions were attacked by one hundred and fourteen German divisions and fell back fighting stubborn rearguard actions which at last brought the enemy to a dead halt outside Amiens and along the River Ancre northward from Albert, where afterward in a northern attack the enemy under Prince Rupprecht of Bavaria broke through the Portuguese between Givenchy and Festubert, where our wings held, drove up to Bailleul, which was burned to the ground, and caused us to abandon all the ridges of Flanders which had been gained at such great cost, and fall back to the edge of Ypres. In this book I need not narrate all this history again.
+
+They were evil days for us. The German offensive was conducted with masterly skill, according to the new method of “infiltration” which had been tried against Italy with great success in the autumn of ’17 at Caporetto.
+
+===Chinese===
+
+除了最坏的结局，一切都发生了。在我的战地通讯里——后附说明性序言汇集成书——我已详详细细讲过英国大退却的意义与规模：我们的四十八个师遭到德军一百一十四个师的攻击，一路打着顽强的后卫战退下来，终于在亚眠城外、沿昂克河从阿尔贝向北一线，把敌人死死挡住；而在其后的一次北线攻势中，巴伐利亚的鲁普雷希特亲王所部在给尚与费斯蒂贝尔之间突破了葡萄牙军的防线——我们的两翼在那里守住了——直扑巴约勒，把那城烧成平地，害得我们放弃了以惨重代价换来的法兰德斯全部山脊，退到伊普尔城边。在本书里我不必再把这些历史重述一遍。
+
+那是我们的凶险日子。德军的攻势以精湛的技艺进行，依照的是新式的“渗透”战法——这套战法一九一七年秋在卡波雷托对意大利人试用，大获成功。
+
+===Original===
+
+It consisted in a penetration of our lines by wedges of machine-gunners constantly reinforced and working inward so that our men, attacked frontally after terrific bombardment, found themselves under flanking fire on their right and left and in danger of being cut off. Taking advantage of a dense fog, for which they had waited according to meteorological forecast, the Germans had easily made their way between our forward redoubts on the Fifth Army front, where our garrisons held out for a long time, completely surrounded, and penetrated our inner battle zone. Through the gaps they made they came in masses at a great pace with immense machine-gun strength and light artillery. On the Third Army front where penetrations were made, notably near Bullecourt between the 6th and 51st Divisions, the whole of our army machine was upset for a time like a watch with a broken mainspring and loose wheels. Staffs lost touch with fighting units. Communications were broken down. Orders were given but not received. After enormous losses of men and guns, our heavy artillery was choking the roads of escape, while our rearguards fought for time rather than for ground. The crossings of the Somme were lost too easily. In the confusion and tumult of those days some of our men, being human, were demoralized and panic-stricken, and gave ground which might have been longer held. But on the whole, and in the mass, there was no panic, and a most grim valor of men who fought for days and nights without sleep; fought when they were almost surrounded or quite surrounded, and until few of them remained to hold any kind of line. Fortunately the Germans were unable to drag their heavy guns over the desert they had made a year before in their own retreat, and at the end of a week their pace slackened and they halted, in exhaustion.
+
+===Chinese===
+
+这套战法是：以不断获得增援、向纵深楔进的机枪手楔子穿透我军战线，使我军士兵在可怕炮击之后又遭正面攻击时，发觉自己左右两翼都处在侧射火力之下，且有被切断的危险。德国人借着一场浓雾——那是他们按气象预报等来的——轻易地插进了第五集团军前线我们的前方堡垒之间；我们的守军被完全包围，坚守了很久；德军由此突入我们的内层战斗地带。他们从撕开的缺口里，以强大的机枪火力和轻炮兵，大股大股、高速涌进。在第三集团军前线被突破的地段，尤其是第六师与第五十一师之间布勒库尔附近，我们整部战争机器一时乱了套，像一只发条断裂、齿轮松脱的表。参谋部与战斗部队失去联系。通讯断绝。命令发出却收不到。在人员与火炮的巨大损失之后，我们的重炮堵塞着撤退的道路，而我们的后卫为争取时间而战，不为地面而战。索姆河上的渡口丢得太容易了。在那些日子的混乱与喧嚣中，我们的有些士兵——毕竟是血肉之人——士气崩溃、惊慌失措，放弃了本可以守得更久的阵地。但总体上、就大多数而言，没有惊慌，有的是一种极其冷峻的英勇：士兵们几天几夜不合眼地战斗；在被几乎合围或彻底合围时战斗；一直战到剩下没有几个人还能守住任何一条战线。所幸德国人无法把他们的重炮拖过他们一年前在自己的退却中造出的那片荒漠，一个星期下来，他们的脚步迟缓了，精疲力竭地停住了。
+
+===Original===
+
+I went into the swirl of our retreat day after day up by Guiscard and Hum; then, as the line moved back, by Péronne and Bapaume, and at last on a dreadful day by the windmill at Pozières, our old heroic fighting-ground, where once again after many battles the enemy was in Courcelette and High Wood and Delville Wood, and, as I saw by going to the right through Albert, driving hard up to Mametz and Montauban. That meant the loss of all the old Somme battlefields, and that struck a chill in one’s heart. But what I marveled at always was the absence of panic, the fatalistic acceptance of the turn of fortune’s wheel by many officers and men, and the refusal of corps and divisional staffs to give way to despair in those days of tragedy and crisis.
+
+The northern attack was in many ways worse to bear and worse to see. The menace to the coast was frightful when the enemy struck up to Bailleul and captured Kemmel Hill from a French regiment which had come up to relieve some of our exhausted and unsupported men. All through this country between Estaires and Merville, to Steenwerck, Metern, and Bailleul, thousands of civilians had been living on the edge of the battlefields, believing themselves safe behind our lines. Now the line had slipped and they were caught by German shellfire and German guns, and after nearly four years of war had to abandon their homes like the first fugitives. I saw old women coming down lanes where 5.9’s were bursting and where our gunners were getting into action. I saw young mothers packing their babies and their bundles into perambulators while shells came hurtling over the thatched roofs of their cottages. I stood on the Mont des Chats looking down upon a wide sweep of battle, and saw many little farmsteads on fire and Bailleul one torch of flame and smoke.
+
+===Chinese===
+
+一天又一天，我走进我们退却的漩涡：先是在吉斯卡尔和于姆一带；随后战线后移，到佩罗讷和巴波姆；最后，在一个可怕的日子里，到了波齐耶尔的风车旁——我们旧日英雄的战地。经过许多战役之后，敌人又一次进了库尔瑟莱特、高林（High Wood）和德尔维尔林，而且——我向右取道阿尔贝看见——正猛扑马梅茨和蒙托邦。这意味着旧日索姆河战场的全部丧失，这让人心里打了个寒噤。但我始终惊叹的是没有惊慌，是许多军官和士兵对命运之轮转折的宿命般的接受，是军和师的参谋人员在那悲剧与危机的日子里拒不向绝望低头。
+
+北线的攻势在许多方面更难承受、也更不忍看。当敌人打到巴约勒城下、从前来换防我们那些精疲力竭又无支援部队的一个法国团手里夺下凯梅尔山时，海岸受到了可怕的威胁。在埃斯泰尔与梅尔维尔之间、直到斯滕韦克、梅泰尔恩和巴约勒的这片乡野，成千上万的平民一直生活在战场边缘，自以为在我们的防线后面安全无事。如今战线滑脱了，他们被德国的炮火逮住了，在将近四年的战争之后，不得不像最初的难民一样抛家舍业。我看见老妇人顺着小巷走来，5.9英寸炮弹正在巷子里炸开，我们的炮手正在那里进入阵地。我看见年轻的母亲们把婴儿和包袱塞进婴儿车，炮弹正呼啸着掠过他们农舍的茅草屋顶。我站在猫山（Mont des Chats）上俯瞰一片开阔的战场，看见许多小小的农庄在燃烧，巴约勒成了一支火焰与浓烟的火炬。
+
+===Original===
+
+There was an old monastery on the Mont des Chats which had been in the midst of a cavalry battle in October of 1914, when Prince Max of Hesse, the Kaiser’s cousin, was mortally wounded by a shot from one of our troopers. He was carried into the cell of the old prior, who watched over him in his dying hours when he spoke of his family and friends. Then his body was borne down the hill at night and buried secretly by a parish priest; and when the Kaiser wrote to the Pope, desiring to know the whereabouts of his cousin’s grave, the priest to whom his message was conveyed said, “Tell the Kaiser he shall know when the German armies have departed from Belgium and when reparation has been made for all their evil deeds.” It was the prior who told me that story and who described to me how the British cavalry had forged their way up the hill. He showed me the scars of bullets on the walls and the windows from which the monks looked out upon the battle.
+
+“All that is a wonderful memory,” said the prior. “Thanks to the English, we are safe and beyond the range of German shells.”
+
+I thought of his words that day I climbed the hill to see the sweep of battle beyond. The monastery was no longer beyond the range of German shells. An eight-inch shell had just smashed into the prior’s parlor. Others had opened gaps in the high roofs and walls. The monks had fled by order of the prior, who stayed behind, like the captain of a sinking ship. His corridors resounded to the tramp of army boots. The Ulster gunners had made their headquarters in the refectory, but did not stay there long. A few days later the monastery was a ruin.
+
+From many little villages caught by the oncoming tide of war our soldiers helped the people to escape in lorries or on gun-wagons. They did not weep, nor say much, but were wonderfully brave. I remember a little family in Robecq whom I packed into my car when shells began to fall among the houses. A pretty girl, with a little invalid brother in her arms, and a mother by her side, pointed the way to a cottage in a wood some miles away. She was gay and smiling when she said, “*Au revoir et merci!*” A few days later the cottage and the wood were behind the German lines.
+
+===Chinese===
+
+猫山上有一座古老的修道院，一九一四年十月一场骑兵战曾在它中间进行，德皇的表弟黑森的马克斯亲王被我们一名骑兵击中一枪，受了致命伤。他被抬进老院长的修道小室，老院长在他临终的时辰守护着他，听他谈起家人与朋友。随后他的遗体在夜里被抬下山，由一位本堂神父秘密安葬；当德皇致信教皇、想知道他表弟坟墓的下落时，传话给那位神父，神父说：“告诉德皇，等德国军队撤出比利时、等他们为一切恶行做出赔偿之后，他就会知道。”给我讲这故事的就是那位院长，他还向我描绘英国骑兵怎样硬冲上这座山。他给我看墙上子弹的疤痕，和修士们当年凭眺战场的那几扇窗。
+
+“那是一段奇妙的记忆，”院长说。“多亏英国人，我们安全了，在德国炮弹的射程之外。”
+
+我后来爬上山去看山那边开阔战场的那一天，想起了他的话。修道院已不再在德国炮弹的射程之外了。一发八英寸炮弹刚刚砸进院长的客厅。另外几发已在高高的屋顶和墙上打开了豁口。修士们奉院长之命逃走了，他自己留下来，像一条沉船的船长。他的回廊里回响着军靴的脚步声。厄尔斯特炮兵把他们的指挥部设在了斋堂里，但没待多久。几天之后，修道院成了废墟。
+
+在许多被涌来的战争潮水吞没的小村庄里，我们的士兵帮助百姓乘卡车或炮车逃难。他们不哭，话也不多，却出奇地勇敢。我记得罗贝克的一户小小人家，炮弹开始落进房屋之间时，我把他们塞进我的汽车。一个漂亮的姑娘，怀里抱着瘫痪的小弟弟，身边跟着母亲，指给我几英里外林中一座农舍的路。她说“再见，谢谢你们！”的时候，又快活又带笑。几天之后，那座农舍和那片树林，已经在德军防线后面了。
+
+===Original===
+
+The northern defense, by the 55th Lancashires, 51st Highlanders (who had been all through the Somme retreat), the 25th Division of Cheshires, Wiltshires and Lancashire Fusiliers, and the 9th Scottish Division, and others, who fought “with their backs to the wall,” as Sir Douglas Haig demanded of them, without reliefs, until they were worn thin, was heroic and tragic in its ordeal, until Foch sent up his cavalry (I saw them riding in clouds of dust and heard the panting of their horses), followed by divisions of blue men in hundreds of blue lorries tearing up the roads, and forming a strong blue line behind our thin brown line. Prince Rupprecht of Bavaria had twenty-six fresh divisions in reserve, but had to hold them until other plans were developed﻿—the Crown Prince’s plan against the French, and the attack on Arras.
+
+The defense of Arras by the 3rd and 56th Divisions﻿—the Iron Division and the London Division on the left, and by the 15th Division and Guards on the right, saved the center of our line and all our line. We had a breathing-space while heavy blows fell against the French and against three British divisions who had been sent to hold “a quiet sector” on their right. The Germans drove across the Chemin des Dames, struck right and left, terrific blows, beat the French back, reached the Marne again, and threatened Paris.
+
+Foch waited to strike. The genius of Foch was that he waited until the last minute of safety, taking immense risks in order to be certain of his counter-stroke. For a time he had to dissipate his reserves, but he gathered them together again. As quick as the blue men had come up behind our lines they were withdrawn again. Three of our divisions went with them, the 51st Highlanders and 15th Scottish, and the 48th English. The flower of the French army, the veterans of many battles, was massed behind the Marne, and at Château Thierry the American marines and infantry were given their first big job to do. What happened all the world knows. The Crown Prince’s army was attacked on both flanks and in the center, and was sent reeling back to escape complete annihilation.
+
+===Chinese===
+
+北线的防御——由第五十五兰开夏师、第五十一高地师（他们从头到尾经历了索姆河退却）、由柴郡团、威尔特郡团和兰开夏燧发枪手编成的第二十五师、第九苏格兰师以及其他部队承担——他们按道格拉斯·黑格爵士对他们的要求，“背靠着墙”作战，没有换防，一直战到兵力磨得单薄，他们的磨难既英勇又悲惨；直到福煦把他的骑兵派了上来（我看见他们骑马驰过扬起的烟尘，听见他们战马的喘息），随后是蓝衣士兵的各师，乘着几百辆撕开道路的蓝色卡车开来，在我们单薄的褐色防线后面形成一道坚强的蓝色战线。巴伐利亚的鲁普雷希特亲王手里有二十六个生力师作预备队，却不得不扣住它们，等其他计划展开——皇太子对法军的计划，和对阿拉斯的攻击。
+
+第三师与第五十六师——铁师与伦敦师——在左翼、第十五师与近卫军在右翼对阿拉斯的防御，救了我们战线的中央，也救了整条战线。我们得到了一段喘息时间，重拳落向法军，也落向被派去防守其右翼“安静地段”的三个英国师。德军冲过贵妇小径（Chemin des Dames），左右开弓，打出可怕的重击，把法军打退，再次抵达马恩河，威胁巴黎。
+
+福煦等着出击。福煦的天才就在于他等到安全的最后一分钟，冒着巨大的风险以求反击的一击万无一失。有一阵他不得不分散预备队，但随后又把它们攥拢了。蓝衣人来我们防线后面有多快，撤走又有多快。我们的三个师随他们一起去了：第五十一高地师、第十五苏格兰师和第四十八英格兰师。法军的精华、百战的老兵，集结在马恩河后面；在蒂耶里堡（Château Thierry），美国海军陆战队和步兵领到了他们的第一件大差事。发生了什么，全世界都知道。皇太子的军队两翼和中央同时遭到攻击，踉跄后退，才算逃过全军覆没。
+
+### IX / 九
+===Original===
+
+Ludendorff’s great offensive had failed and had turned to ruin. Some of the twenty-six fresh divisions under Rupprecht of Bavaria were put into the melting-pot to save the Crown Prince. The British army, with its gaps filled up by 300,000 new drafts from England, the young brothers of the elder brothers who had gone before, was ready to strike again, and on August 8th the Canadians and Australians north and south of the Somme, led by many tanks, broke the enemy’s line beyond Amiens and slowly but surely rolled it back with enormous losses.
+
+For the first time in the war the cavalry had their chance of pursuit, and made full use of it, rounding up great batches of prisoners, capturing batteries of heavy and light guns, and fighting in many actions.
+
+“August 8th,” writes Ludendorff, “was the black day of the German army in the history of this war.”
+
+He describes from the German point of view what I and others have described from the British point of view, and the general narrative is the same﻿—a succession of hammer-blows by the British armies, which broke not only the German war-machine, but the German spirit. It was a marvelous feat when the 19th Division and the Welsh waded at dusk across the foul waters of the River Ancre, under the heights of Thièpval, assembled under the guns of the enemy up there, and then, wet to their skins, and in small numbers compared with the strength of the enemy, stormed the huge ridges from both sides, and hurled the enemy back from what he thought was an impregnable position, and followed him day by day, taking thousands of prisoners and smashing his rearguard defenses one by one.
+
+===Chinese===
+
+鲁登道夫的大攻势失败了，而且变成了毁灭。巴伐利亚的鲁普雷希特手下那二十六个生力师里，有几个被投进熔炉去救皇太子。英国军队以从英格兰开来的三十万新补充兵填满了缺口——先行者们的弟弟——重新做好了打击的准备；八月八日，加拿大人和澳大利亚人在索姆河南北两岸，由许多坦克引领，突破了亚眠以外的敌军战线，缓慢而确凿地把它碾了回去，使敌人损失惨重。
+
+战争中头一回，骑兵得到了追击的机会，并且充分加以利用：围拢一批批俘虏，缴获成连的重炮轻炮，打了许多仗。
+
+“八月八日，”鲁登道夫写道，“是这场战争史上德军最黑暗的日子。”
+
+他从德国人的角度描述了我和其他人从英国人角度描述过的事情，大致的叙述是一致的——英军各集团军一连串的锤击，砸碎的不只是德国的战争机器，还有德国的精神。那是一桩奇迹般的功业：第十九师和威尔士部队在暮色里涉过昂克河污秽的河水，在蒂耶普瓦尔高地之下、在头顶上敌军炮口底下集结，随后，浑身湿透、兵力与敌人相比单薄得多，从两侧猛攻那些巨大的山脊，把敌人从自以为坚不可摧的阵地上掷了回去，并且一天一天追着它打，俘获数千战俘，把它一座一座砸碎后卫防御阵地。
+
+===Original===
+
+The most decisive battle of the British front in the “comeback,” after our days of retreat, was when with the gallant help of American troops of the 27th New York Division our men of the English Midlands, the 46th Division, and others, broke the main Hindenburg line along the St.-Quentin Canal. That canal was sixty feet wide, with steep cliffs rising sheer to a wonderful system of German machine-gun redoubts and tunneled defenses, between the villages of Bellicourt and Bellinglis. It seemed to me an impossible place to assault and capture. If the enemy could not hold that line they could hold nothing. In a dense fog on Sunday morning, September 30th, our men, with the Americans and Australians in support, went down to the canal-bank, waded across where the water was shallow, swam across in life-belts where it was deep, or got across somehow and anyhow, under blasts of machine-gun fire, by rafts and plank bridges. A few hours after the beginning of the battle they were far out beyond the German side of the canal, with masses of prisoners in their hands. The Americans on the left of the attack, where the canal goes below ground, showed superb and reckless gallantry (they forgot, however, to “mop up” behind them, so that the enemy came out of his tunnels and the Australians had to cut their way through), and that evening I met their escorts with droves of captured Germans. They had helped to break the last defensive system of the enemy opposite the British front, and after that our troops fought through open country on the way to victory.
+
+===Chinese===
+
+在我们退却的那些日子之后的“翻盘”中，英军战线上最具决定性的一役，是英格兰中部子弟——第四十六师及其他部队——在美国第二十七纽约师部队英勇的协助下，沿圣康坦运河突破了兴登堡主线。那条运河有六十英尺宽，陡峭的崖壁笔直升起，顶上是德军机枪堡垒与坑道防御的精妙体系，在贝利库尔与贝兰格利两村之间。在我看来那是无法攻取的地方。敌人若守不住那条防线，便什么也守不住了。九月三十日星期日早晨，一场浓雾里，我们的士兵在美军和澳军的支援下下到运河岸边：水浅处涉水而过，深处套着救生圈游过去，再不然就靠着木筏和木板桥，顶着机枪火力的扫射，这样那样地过了河。开战几个小时后，他们已远远冲出运河德军一侧，手里握着大群的俘虏。在攻击左翼运河转入地下的地段，美国人表现出超群而无畏的英勇（只是他们忘了在身后“扫荡”，结果敌人从坑道里钻了出来，澳大利亚人只得一路砍杀过去），那天傍晚我遇见他们的押送队押着一群群被俘的德国人。他们帮助砸碎了英军当面敌人最后一套防御体系，此后我们的部队便在开阔地带里一路打进，直奔胜利。
+
+===Original===
+
+I saw many of the scenes which led up to Mons and Le Cateau and afterward to the Rhine. Something of the horror of war passed when the enemy drew back slowly in retreat from the lands he had invaded, and we liberated great cities like Lille and Roubaix and Tourcoing, and scores of towns and villages where the people had been waiting for us so long, and now wept with joy to see us. The entry into Lille was unforgetable, when old men and women and girls and boys and little children crowded round us and kissed our hands. So it was in other places. Yet not all the horror had passed. In Courtrai, in St.-Amand by Valenciennes, in Bohain, and other villages, the enemy’s shellfire and poison-gas killed and injured many of the people who had been under the German yoke so long and now thought they were safe. Hospitals were filled with women gasping for breath, with gas-fumes in their lungs, and with dying children. In Valenciennes the cellars were flooded when I walked there on its day of capture, so that when shells began to fall the people could not go down to shelter. Some of them did not try to go down. At an open window sat an old veteran of 1870 with his medal on his breast, and with his daughter and granddaughter on each side of his chair. He called out, “*Merci! Merci!*” when English soldiers passed, and when I stopped a moment clasped my hands through the window and could not speak for the tears which fell down his white and withered cheeks. A few dead Germans lay about the streets, and in Maubeuge on the day before the armistice I saw the last dead German of the war in that part of the line. He lay stretched outside the railway station into which many shells had crashed. It was as though he had walked from his own comrades toward our line before a bullet caught him.
+
+===Chinese===
+
+通往蒙斯、勒卡托、而后通往莱茵河的沿途情景，我看到了许多。当敌人从他们侵占的土地上缓缓退去，战争的恐怖便消散了一部分：我们解放了里尔、鲁贝、图尔宽这样的大城，解放了几十座市镇和村庄，那里的人民等了我们那么久，见到我们时喜极而泣。进入里尔的情景无法忘怀：老人、妇女、姑娘、小伙、小孩子把我们团团围住，亲吻我们的手。别处也是这样。然而恐怖并没有全部过去。在科特赖克，在瓦朗谢讷旁边的圣阿芒，在博安和其他村庄，敌人的炮火和毒气杀死杀伤了许多人，他们在德国枷锁下熬了那么久，如今自以为已经安全。医院里挤满喘息的妇女，肺里满是毒气，还有垂死的孩子。瓦朗谢讷被攻占那天我在城里走过，地窖都被水淹了，炮弹落下来时百姓无处可躲。有些人索性不下去躲。一扇敞开的窗前坐着一八七○年的老战士，胸前挂着勋章，女儿和外孙女分坐椅旁。英国士兵经过时他喊道：“谢谢！谢谢！”我在那儿停了片刻，他隔着窗口紧握我的双手，泪珠顺着苍白干瘦的脸颊滚落，说不出话来。街上横着几具德国人的尸体；而在停战前一天，我在莫伯日看见了那段战线上战争里最后一个死去的德国兵。他直挺挺躺在火车站外，许多炮弹曾砸进那车站。仿佛他是从自己同志那边朝我们战线走来，半路上一颗子弹追上了他。
+
+===Original===
+
+Ludendorff writes of the broken morale of the German troops, and of how his men surrendered to single troopers of ours, while whole detachments gave themselves up to tanks. “Retiring troops,” he wrote, “greeted one particular division (the cavalry) that was going up fresh and gallantly to the attack, with shouts of ‘Blacklegs!’ and ‘War-prolongers!’ ” That is true. When the Germans left Bohain they shouted out to the French girls: “The English are coming. Bravo! The war will soon be over!” On a day in September, when British troops broke the Drocourt﻿–﻿Quéant line, I saw the Second German Guards coming along in batches, like companies, and after they had been put in barbed-wire enclosures they laughed and clapped at the sight of other crowds of comrades coming down as prisoners. I thought then, “Something has broken in the German spirit.” For the first time the end seemed very near.
+
+Yet the German rearguards fought stubbornly in many places, especially in the last battles round Cambrai, where, on the north, the Canadian corps had to fight desperately, and suffered heavy and bitter losses under machine-gun fire, while on the south our naval division and others were badly cut up.
+
+General Currie, whom I saw during those days, was anxious and disheartened. He was losing more men in machine-gun actions round Cambrai than in bigger battles. I watched those actions from Bourlon Wood, saw the last German railway train steam out of the town, and went into the city early on the morning of its capture, when there was a roaring fire in the heart of it and the Canadians were routing out the last Germans from their hiding-places.
+
+===Chinese===
+
+鲁登道夫写到了德军士气的崩溃，写到他的人怎样向我方单个骑兵投降，整队整队的士兵向坦克缴械。“撤退的部队，”他写道，“向某一个师（骑兵师）呼喊‘工贼！’‘拖长战争的人！’——那个师正精神抖擞、意气昂扬地开上去攻击。”这是真的。德国人撤离博安时朝法国姑娘们喊道：“英国人来啦。好哇！战争快结束啦！”九月里的一天，英国部队突破德罗库尔—康昂防线时，我看见德国第二近卫军成批成批地走过来，像整连整连的样子，被关进铁丝网围栏之后，他们望着另一群群战友也被押下来，竟又笑又鼓掌。我当时想：“德国精神里有什么东西断了。”头一回，结局显得近在眼前。
+
+然而德军后卫在许多地方仍在顽强作战，尤其是在康布雷周围的最后几仗里：北面加拿大军不得不拼命苦战，在机枪火力下承受了惨重而痛心的损失；南面我们的海军师和其他部队也被狠狠咬了几口。
+
+那些天里我见到柯里将军，他焦虑而沮丧。他在康布雷周围的机枪战里损失的人，比更大的战役还多。我从布尔隆林上观望那些战斗，看见最后一列德国火车喷着汽驶出城去；城破的第二天清晨我进了城，城中心一片呼啸的大火，加拿大人正把最后的德国人从藏身之处赶出来。
+
+===Original===
+
+The British army could not have gone on much farther after November 11th, when the armistice brought us to a halt. For three months our troops had fought incessantly, storming many villages strongly garrisoned with machine-gunners, crossing many canals under heavy fire, and losing many comrades all along the way. The pace could not have been kept up. There is a limit even to the valor of British troops, and for a time we had reached that limit. There were not many divisions who could have staggered on to new attacks without rest and relief. But they had broken the German armies against them by a succession of hammer-strokes astounding in their rapidity and in their continuity, which I need not here describe in detail, because in my despatches, now in book form, I have narrated that history as I was a witness of it day by day.
+
+Elsewhere the French and Americans had done their part with steady, driving pressure. The illimitable reserves of Americans, and their fighting quality, which triumphed over a faulty organization of transport and supplies, left the German High Command without hope even for a final gamble.
+
+Before them the German troops were in revolt, at last, against the bloody, futile sacrifice of their manhood and people. A blinding light had come to them, revealing the criminality of their war lords in this “Great Swindle” against their race. It was defeat and agony which enlightened them, as most people﻿—even ourselves﻿—are enlightened only by suffering and disillusionment, and never by successes.
+
+===Chinese===
+
+十一月十一日停战协定使我们停下来之后，英国军队本来也前进不了多远了。三个月里我们的部队一直在不停地作战：强攻许多由机枪手重兵把守的村庄，在猛烈火力下渡过一条条运河，一路上失去许多战友。这样的速度维持不下去了。英国军队的英勇也有极限，有一阵我们已经到了那个极限。没有几个师还能不经休整轮换便踉跄着投入新的攻击。但他们已用一连串锤击砸碎了当面的德国各集团军——那锤击的迅疾与连贯令人骇异——这些我不必在此细述，因为在我的战地通讯里（现已成书），我已作为逐日的见证人叙述过那段历史。
+
+在别处，法国人和美国人以持续而有力的压迫完成了他们的份内之事。美国人无穷无尽的预备兵力，以及他们克服了运输补给组织不善的战斗素质，使德国最高统帅部连最后一场豪赌的希望也没有了。
+
+在这一切面前，德国军队终于起来造反了，反抗对他们男子汉与人民的血腥而徒劳的牺牲。一道刺目的光来到他们眼前，照出他们的战争枭雄在这场针对自己种族的“大骗局”里的罪恶性。是失败和痛苦照亮了他们，正如大多数人——连我们自己也不例外——只有在苦难与幻灭中才得到启迪，从来不会在成功中。
+
+### X / 十
+===Original===
+
+After the armistice I went with our troops to the Rhine, and entered Cologne with them. That was the most fantastic adventure of all in four and a half years of strange and terrible adventures. To me there was no wild exultation in the thought of being in Cologne with our conquering army. The thought of all the losses on the way, and of all the futility of this strife, smote at one’s heart. What fools the Germans had been, what tragic fools! What a mad villainy there had been among rival dynasties and powers and politicians and peoples to lead to this massacre! What had anyone gained out of it all? Nothing except ruin. Nothing except great death and poverty and remorse and revolt.
+
+The German people received us humbly. They were eager to show us courtesy and submission. It was a chance for our young Junkers, for the Prussian in the hearts of young pups of ours, who could play the petty tyrant, shout at German waiters, refuse to pay their bills, bully shopkeepers, insult unoffending citizens. A few young staff-officers behaved like that, disgustingly. The officers of fighting battalions and the men were very different. It was a strange study in psychology to watch them. Here they were among the “Huns.” The men they passed in the streets and sat with in the restaurants had been in German uniforms a few weeks before, or a few days. They were “the enemy,” the men they had tried to kill, the men who had tried to kill them. They had actually fought against them in the same places. At the Domhof Hotel I overheard a conversation between a young waiter and three of our cavalry officers. They had been in the same fight in the village of Noyelles, near Cambrai, a tiny place of ruin, where they had crouched under machine-gun fire. The waiter drew a diagram on the tablecloth. “I was just there.” The three cavalry officers laughed. “Extraordinary! We were a few yards away.” They chatted with the waiter as though he were an old acquaintance who had played against them in a famous football-match. They did not try to kill him with a table-knife. He did not put poison in the soup.
+
+===Chinese===
+
+停战之后，我随我们的部队开赴莱茵河，同他们一起进了科隆。在四年半离奇而可怕的历险里，这是最不可思议的一场。对我而言，随我们得胜的军队置身科隆，并没有什么狂野的欢欣。一路种种损失的念头、这场争斗全然徒劳的念头，捶打着人的心。德国人曾经多么愚蠢，多么可悲的愚蠢！彼此争竞的王朝、强权、政客和民族之间，是怎样的疯狂作恶，才引出了这场大屠杀！这一切里谁得到了什么？什么也没有，只有毁灭。只有浩大的死亡、贫穷、悔恨与叛乱。
+
+德国人民谦卑地接待我们。他们急切地向我们表示礼敬与恭顺。这倒给了我们年轻的容克们一个机会——给我们这些小崽子心里的普鲁士人一个机会——好摆摆小暴君的谱：冲德国侍者吼叫，吃饭不给钱，欺压店主，侮辱无辜的市民。少数年轻参谋军官就这样行事，令人作呕。作战营的军官和士兵们却截然不同。观察他们是心理学上一门奇特的功课。他们如今置身“匈奴人”中间了。街上擦肩而过、饭馆里同坐一桌的人，几个星期前、或者几天前还穿着德国军装。他们是“敌人”，是他们曾设法杀死的人，是曾设法杀死他们的人。他们真真切切在同一片地方互相打过仗。在多姆霍夫旅馆，我无意间听到一个年轻侍者同我们三名骑兵军官的谈话。他们打过同一仗，在康布雷附近的努瓦耶勒村——一个小小的废墟之地——他们曾在那里一同蹲在机枪火力下。侍者在桌布上画了个示意图。“我当时就在那儿。”三名骑兵军官笑了。“真巧！我们就在几码之外。”他们同那侍者闲聊，仿佛他是同他们踢过一场著名足球赛的老相识。他们没有试图用餐刀杀死他。他也没有往汤里下毒。
+
+===Original===
+
+That young waiter had served in a hotel in Manchester, where he had served a friend of mine, to whom he now expressed his opinion on the folly of the war, and the criminality of his war lords, and things in general. Among these last he uttered an epigram which I remember for its brutal simplicity. It was when a staff-officer of ours, rather the worse for wine, had been making a scene with the head waiter, bullying him in a strident voice.
+
+“Some English gentlemen are swine,” said the young waiter. “But all German gentlemen are swine.”
+
+Some of our officers and men billeted in houses outside Cologne or across the Rhine endeavored to stand on distant terms with the “Huns.” But it was impossible to be discourteous when the old lady of the house brought them an early cup of coffee before breakfast, warmed their boots before the kitchen fire, said, “God be praised, the war is over.” For English soldiers, anything like hostility was ridiculous in the presence of German boys and girls who swarmed round their horses and guns, kissed their hands, brought them little pictures and gifts.
+
+“Kids are kids,” said a sergeant-major. “I don’t want to cut their throats! Queer, ain’t it?”
+
+Many of the “kids” looked half starved. Our men gave them bread and biscuit and bully beef. In Cologne the people seemed pleased to see British soldiers. There was no sense of humiliation. No agony of grief at this foreign occupation. Was it lack of pride, cringing﻿—or a profound relief that the river of blood had ceased to flow and even a sense of protection against the revolutionary mob which had looted their houses before our entry? Almost every family had lost one son. Some of them two, three, even five sons, in that orgy of slaughter. They had paid a dreadful price for pride. Their ambition had been drowned in blood.
+
+===Chinese===
+
+那个年轻侍者曾在曼彻斯特一家旅馆做过，招待过我的一位朋友；如今他向这位朋友发表他对这场战争之愚蠢、对他的战争枭雄之罪恶、以及对世事的总体看法。在最后这几句里，他说出一句警语，我因其粗暴的简洁而记住了它。那是在我们的一名参谋军官——酒喝得相当多了——正同侍者领班大吵大闹、尖着嗓子训人的时候。
+
+“有些英国绅士是猪，”年轻侍者说，“可所有德国绅士都是猪。”
+
+我们有些官兵驻扎在科隆城外或莱茵河对岸的人家里，起初还努力同“匈奴人”保持距离。可是，当家里的老太太早餐前给他们端来一杯早咖啡、在厨房火边替他们烘暖靴子、说一句“感谢上帝，仗打完了”的时候，谁也不可能失礼。对英国士兵来说，在围着他们的战马和大炮打转、吻他们的手、给他们送来小画片和礼物的德国男孩女孩面前，任何敌意都显得可笑。
+
+“孩子总是孩子，”一个军士长说。“我又不想割他们的喉咙！怪不怪？”
+
+许多“孩子”看上去半饥半饱。我们的人给他们面包、饼干和罐头咸牛肉。在科隆，百姓见到英国士兵似乎很高兴。没有受辱之感。对外国人的占领没有痛心疾首。这是缺乏自尊、卑躬屈膝吗——还是因为血的河流终于停止奔流而深感宽慰，甚至因为在我们进城之前洗劫过他们房屋的革命暴民而今有了防护之感？几乎家家都失去了一个儿子。有的失去两个、三个、甚至五个儿子，在那场屠杀的狂欢里。他们为骄傲付出了可怕的代价。他们的野心溺死在了血泊里。
+
+===Original===
+
+In the restaurants orchestras played gay music. Once I heard them playing old English melodies, and I sickened a little at that. That was going too far! I looked round the Café Bauer﻿—a strange scene after four and a half years Hun-hating. English soldiers were chatting with Germans, clinking beer mugs with them. The Germans lifted their hats to English “Tommies”; our men, Canadian and English, said “Cheerio!” to German soldiers in uniforms without shoulder-straps or buttons. English people still talking of Huns, demanding vengeance, the maintenance of the blockade, would have become hysterical if they had come suddenly to this German café before the signing of peace.
+
+Long before peace was signed at Versailles it had been made on the Rhine. Stronger than the hate of war was human nature. Face to face, British soldiers found that every German had two eyes, a nose, and a mouth, in spite of being a “Hun.” As ecclesiastics would say when not roused to patriotic fury, they had been made “in the image of God.” There were pleasant-spoken women in the shops and in the farmhouses. Blue-eyed girls with flaxen pigtails courtesied very prettily to English officers. They were clean. Their houses were clean, more spotless even than English homes. When soldiers turned on a tap they found water came out of it. Wonderful! The sanitary arrangements were good. Servants were hardworking and dutiful. There was something, after all, in German Kultur. At night the children said their prayer to the Christian God. Most of them were Catholics, and very pious.
+
+“They seem good people,” said English soldiers.
+
+At night, in the streets of Cologne, were women not so good. Shameless women, though daintily dressed and comely. British soldiers﻿—English, Scottish, and Canadian﻿—grinned back at their laughing eyes, entered into converse with them, found they could all speak English, went down side-streets with them to narrow-fronted houses. There were squalid scenes when the A.P.M. raided these houses and broke up an entente cordiale that was flagrant and scandalous.
+
+===Chinese===
+
+餐馆里乐队演奏欢快的音乐。有一次我听见他们奏起古老的英国曲调，我心里有点发腻。这就太过分了！我环顾鲍尔咖啡馆——四年半仇视“匈奴”之后的一幅奇景。英国士兵同德国人聊天，同他们碰啤酒杯。德国人向英国“汤米”们举帽致意；我们的人，加拿大人和英格兰人，朝那些肩章铜扣都已摘去的德国士兵说一声“珍重再见！”。倘若在和约签订之前，那些还在大谈匈奴、要求复仇、要求维持封锁的英国人突然来到这家德国咖啡馆，准会歇斯底里大发作。
+
+早在凡尔赛签订和约之前，和平已经在莱茵河畔做成了。比战争的仇恨更强的是人性。面对面时，英国士兵发现每个德国人都有两只眼睛、一个鼻子、一张嘴，尽管他是“匈奴”。正如教士们在未被爱国义愤激起来时所说的，他们是“按上帝的形象”造的。店铺里、农舍里有言语可亲的妇人。蓝眼睛、亚麻色发辫的姑娘们向英国军官行十分优美的屈膝礼。他们干净。他们的房子干净，甚至比英国家庭还要一尘不染。士兵们拧开水龙头，发现水真的流了出来。了不得！卫生设施良好。仆人们勤劳尽职。德国的教化到底还是有些名堂的。夜里，孩子们向基督徒的上帝做祷告。他们多数是天主教徒，非常虔诚。
+
+“他们看上去是好人。”英国士兵说。
+
+夜里，科隆的街上也有不那么好的女人。无耻的女人，虽然穿着雅致、模样周正。英国士兵——英格兰的、苏格兰的、加拿大的——对着她们含笑的眼睛咧嘴回笑，同她们搭起话来，发现她们个个会说英语，随她们走进小街里门面狭窄的房子。宪兵值班处搜查这些房子、拆散那桩明目张胆、伤风败俗的“协约亲善”时，出现过许多不堪的场面。
+
+===Original===
+
+Astonishing climax to the drama of war! No general orders could stop fraternization before peace was signed. Human nature asserted itself against all artificial restrictions and false passion. Friends of mine who had been violent in their hatred of all Germans became thoughtful, and said: “Of course there are exceptions,” and, “The innocent must not suffer for the guilty,” and, “We can afford to be a little generous now.”
+
+===Chinese===
+
+战争这出戏竟有如此离奇的高潮！和约签订之前，任何将军的命令都拦不住兵民亲善。人性冲破一切人为的禁令与虚假的激情，显示了自己的力量。我那些曾对一切德国人恨得咬牙的朋友们变得若有所思，说道：“当然也有例外”，“不能让无辜者为有罪者受苦”，“如今我们大度一点也大度得起啦”。
+
+===Original===
+
+But the innocent were made to suffer for the guilty and we were not generous. We maintained the blockade, and German children starved, and German mothers weakened, and German girls swooned in the tramcars, and German babies died. Ludendorff did not starve or die. Neither did Hindenburg, nor any German war lord, nor any profiteer. Down the streets of Cologne came people of the rich middle classes, who gorged themselves on buns and cakes for afternoon tea. They were cakes of ersatz flour with ersatz cream, and not very healthy or nutritious, though very expensive. But in the side-streets, among the working-women, there was, as I found, the wolf of hunger standing with open jaws by every doorway. It was not actual starvation, but what the Germans call *unternährung* (undernourishment), producing rickety children, consumptive girls, and men out of whom vitality had gone. They stinted and scraped on miserable substitutes, and never had enough to eat. Yet they were the people who for two years at least had denounced the war, had sent up petitions for peace, and had written to their men in the trenches about the Great Swindle and the Gilded Ones. They were powerless, as some of them told me, because of the secret police and martial law. What could they do against the government, with all their men away at the front? They were treated like pigs, like dirt. They could only suffer and pray. They had a little hope that in the future, if France and England were not too hard, they might pay back for the guilt of their war lords and see a new Germany arise out of its ruin, freed from militarism and with greater liberties. So humble people talked to us when I went among them with a friend who spoke good German, better than my elementary knowledge. I believed in their sincerity, which had come through suffering, though I believed that newspaper editors, many people in the official classes, and the old military caste were still implacable in hatred and unrepentant.
+
+===Chinese===
+
+可无辜者偏偏为有罪者受了苦，而我们并不大度。我们维持着封锁，德国的孩子挨饿，德国的母亲衰弱下去，德国的姑娘们在电车里晕倒，德国的婴儿死去。鲁登道夫没有挨饿，也没有死。兴登堡没有，任何德国战争枭雄没有，任何发战争财的人也没有。科隆的街上走着富裕中产阶级的人们，下午茶时大嚼小圆面包和蛋糕。那是代用粉做的蛋糕、代用奶油，谈不上健康营养，价钱却极贵。可是在小街陋巷里，在劳动妇女中间，如我所发现的，饥饿的恶狼张着大嘴守在每一家门口。那还不算真正的饥荒，而是德国人所说的营养不良（unternährung），养出佝偻的孩子、痨病的姑娘、和耗尽了元气的男人。他们靠可怜的代食品省了又省、抠了又抠，从来吃不饱。然而正是这些人民，至少两年来一直在谴责这场战争，一直递交求和的请愿书，一直在给堑壕里的男人写信，讲那场大骗局和那些镀金的老爷们。他们无能为力——有些人这样告诉我——因为秘密警察和戒严令。男人全都开到了前方，他们拿政府能有什么办法？他们被当猪对待，当泥土对待。他们只能受苦，只能祈祷。他们怀着一点小小的希望：将来，倘若法国和英格兰不要太苛刻，他们也许能偿还他们战争枭雄的罪债，看见一个新的德国从废墟里站起来，摆脱军国主义，享有更多的自由。我同一个德语讲得很好的朋友走到他们中间时，卑微的人们就是这样对我们说的——他的德语比我的初级水平好。我相信他们的真诚，那是从苦难里熬出来的真诚；尽管我也相信，报纸编辑们、官场里的许多人、旧的军人阶层，依然仇恨难消，毫无悔意。
+
+===Original===
+
+The German people deserved punishment for their share in the guilt of war. They had been punished by frightful losses of life, by a multitude of cripples, by the ruin of their Empire. When they told me of their hunger I could not forget the hungry wives and children of France and Belgium, who had been captives in their own land behind German lines, nor our prisoners who had been starved, until many of them died. When I walked through German villages and pitied the women who yearned for their men, still prisoners in our hands, nearly a year after the armistice, and long after peace (a cruelty which shamed us, I think), I remembered hundreds of French villages broken into dust by German gunfire, burned by incendiary shells, and that vast desert of the battlefields in France and Belgium which never in our time will regain its life as a place of human habitation. When Germans said, “Our industry is ruined,” “Our trade is killed,” I thought of the factories in Lille and many towns from which all machinery had been taken or in which all machinery had been broken. I thought of the thousand crimes of their war, the agony of millions of people upon whose liberties they had trampled and upon whose necks they had imposed a brutal yoke. Yet even with all those memories of tragic scenes which in this book are but lightly sketched, I hoped that the peace we should impose would not be one of vengeance, by which the innocent would pay for the sins of the guilty, the children for their fathers’ lust, the women for their war lords, the soldiers who hated war for those who drove them to the shambles; but that this peace should in justice and mercy lead the working-people of Europe out of the misery in which all were plunged, and by a policy no higher than common sense, but as high as that, establish a new phase of civilization in which military force would be reduced to the limits of safety for European peoples eager to end the folly of war and get back to work.
+
+I hoped too much. There was no such peace.
+
+===Chinese===
+
+德国人民在战争罪责中有一份，理应受罚。他们已经受了罚：以可怕的生命损失，以成群的残废者，以他们帝国的毁灭。当他们向我诉说饥饿时，我忘不了法国和比利时那些饥饿的妻子儿女——他们在自己国土上、在德军防线后面当了俘虏——也忘不了我们那些被饿得死了一片的战俘。当我走过德国的村庄、怜惜那些渴盼着丈夫的女人——停战之后近一年、和约签订许久之后，她们的男人还在我们手里当俘虏（我以为这是一种令我们蒙羞的残忍）——我想起几百座被德国炮火捣成齑粉、被燃烧弹烧掉的法国村庄，想起法比两境那片浩瀚的战场荒漠，在我们这个时代，它永远恢复不了人居住地的生机。当德国人说“我们的工业毁了”“我们的贸易完了”时，我想起里尔和许多城镇的工厂，机器被搬了个精光，或者砸了个稀烂。我想起他们战争的千百桩罪行，想起千百万人的苦难——他们践踏了这些人的自由，把残暴的枷锁套上这些人的脖颈。然而，纵然怀着这全部悲惨景象的记忆——在本书里它们只是轻描了几笔——我仍然希望，我们将要强加的和平不要成为复仇的和平：不要让无辜者为有罪者付罪，让孩子为父亲的贪欲付罪，让女人为战争枭雄付罪，让憎恨战争的士兵为驱赶他们进屠宰场的人付罪；我希望这和平能以正义与仁慈，引领欧洲的劳动人民走出人人陷身其中的苦难，以一种不高于常识、但也高到常识的政策，开创文明的新阶段——军力被削减到安全限度之内，让急于结束战争的愚蠢、重返工作的欧洲各民族得享安宁。
+
+我期望得太多了。那样的和平并没有到来。
