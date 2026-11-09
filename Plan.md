@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-11-06，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-11-07，全库生命周期总控）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **504** 完 / **30** 译 / **113** 待（共 647 本） | **10937** / 18180 篇（**176939.2** / 305863.1 KB）· **57.8%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **52** 本待审 | 覆盖精读 **452** 本（**89.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **494** 本已打包 / **10** 本待打包 | 交付标准双语 EPUB **494** 本（**98.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **506** 完 / **30** 译 / **111** 待（共 647 本） | **10984** / 18180 篇（**178121.9** / 305863.1 KB）· **58.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **54** 本待审 | 覆盖精读 **452** 本（**89.3%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **494** 本已打包 / **12** 本待打包 | 交付标准双语 EPUB **494** 本（**97.6%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **504** 本译完，**452** 本完成独立审校，**494** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **506** 本译完，**452** 本完成独立审校，**494** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -300,7 +300,7 @@
 | 275 | `georgette-heyer_the-great-roxhythe` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-great-roxhythe/译文) (56篇) | [✅ 已审(B)](翻译项目/georgette-heyer_the-great-roxhythe/审核报告.md) | [📦 607KB](翻译项目/georgette-heyer_the-great-roxhythe/罗克斯海斯大人.epub) | B 良好 | 全书51章文笔典雅传神，但存在2处段句漏译及少量术语微差，经针… |
 | 276 | `georgette-heyer_the-masqueraders` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-masqueraders/译文) (33篇) | [✅ 已审(B)](翻译项目/georgette-heyer_the-masqueraders/审核报告.md) | [📦 482KB](翻译项目/georgette-heyer_the-masqueraders/化装舞会者.epub) | B 良好 | 数据层近满分（英文对照块逐字零损坏、源文覆盖 100%、数字零… |
 | 277 | `georgette-heyer_the-transformation-of-philip-jettan` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-transformation-of-philip-jettan/译文) (20篇) | [✅ 已审](翻译项目/georgette-heyer_the-transformation-of-philip-jettan/审核报告.md) | [📦 255KB](翻译项目/georgette-heyer_the-transformation-of-philip-jettan/The Transformation of Philip Jettan.epub) | - |
-| 278 | `georgette-heyer_these-old-shades` | ✅ 已入库 | ⚪ 待译 (33篇) | — | — |  |
+| 278 | `georgette-heyer_these-old-shades` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_these-old-shades/译文) (33篇) | ⏳ 待审 | — | 已译完待审 |
 | 279 | `georgia-douglas-johnson_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/georgia-douglas-johnson_poetry/译文) (1篇) | [✅ 已审(A)](翻译项目/georgia-douglas-johnson_poetry/审核报告.md) | [📦 90KB](翻译项目/georgia-douglas-johnson_poetry/佐治亚·道格拉斯·约翰逊诗集.epub) | A 优秀 | 全书 209 首诗歌全部实现 1:1 双语块对照与「英文 / … |
 | 280 | `geronimo_geronimos-story-of-his-life` | ✅ 已入库 | [✅ **100%**](翻译项目/geronimo_geronimos-story-of-his-life/译文) (32篇) | [✅ 已审(B)](翻译项目/geronimo_geronimos-story-of-his-life/审核报告.md) | [📦 163KB](翻译项目/geronimo_geronimos-story-of-his-life/杰罗尼莫自述生平.epub) | B 良好 | 全书译笔统一、口述语体把握精准、专名跨篇一致性高，无 A 级问… |
 | 281 | `godfrey-r-benson_tracks-in-the-snow` | ✅ 已入库 | [✅ **100%**](翻译项目/godfrey-r-benson_tracks-in-the-snow/译文) (24篇) | [✅ 已审](翻译项目/godfrey-r-benson_tracks-in-the-snow/审核报告.md) | [📦 279KB](翻译项目/godfrey-r-benson_tracks-in-the-snow/雪地踪迹.epub) | B（接近 A） —— 译文忠实、完整、流畅：无整段漏译，无章末截断，无重大数… |
@@ -399,7 +399,7 @@
 | 374 | `jean-toomer_cane` | ✅ 已入库 | [✅ **100%**](翻译项目/jean-toomer_cane/译文) (32篇) | [✅ 已审(A)](翻译项目/jean-toomer_cane/审核报告.md) | [📦 74KB](翻译项目/jean-toomer_cane/甘蔗.epub) | A 优秀 | 译文整体水准很高——诗歌一行对一行、意象密度与节奏感俱佳，南方… |
 | 375 | `jessie-redmon-fauset_plum-bun` | ✅ 已入库 | [✅ **100%**](翻译项目/jessie-redmon-fauset_plum-bun/译文) (34篇) | ⏳ 待审 | [📦 462KB](翻译项目/jessie-redmon-fauset_plum-bun/Plum Bun.epub) | 已译完待审 |
 | 376 | `jessie-redmon-fauset_there-is-confusion` | ✅ 已入库 | [✅ **100%**](翻译项目/jessie-redmon-fauset_there-is-confusion/译文) (38篇) | [✅ 已审(B)](翻译项目/jessie-redmon-fauset_there-is-confusion/审核报告.md) | [📦 455KB](翻译项目/jessie-redmon-fauset_there-is-confusion/纷乱.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
-| 377 | `joel-barlow_the-columbiad` | ✅ 已入库 | ⚪ 待译 (14篇) | — | — |  |
+| 377 | `joel-barlow_the-columbiad` | ✅ 已入库 | [✅ **100%**](翻译项目/joel-barlow_the-columbiad/译文) (14篇) | ⏳ 待审 | — | 已译完待审 |
 | 378 | `johanna-spyri_cornelli_elisabeth-p-stork` | ✅ 已入库 | [✅ **100%**](翻译项目/johanna-spyri_cornelli_elisabeth-p-stork/译文) (10篇) | [✅ 已审](翻译项目/johanna-spyri_cornelli_elisabeth-p-stork/审核报告.md) | [📦 226KB](翻译项目/johanna-spyri_cornelli_elisabeth-p-stork/Cornelli.epub) | A 级（优秀 · 附局部专项修复指引） | > 全书翻译极富文学感染力与纯正… |
 | 379 | `john-a-lomax_songs-of-the-cattle-trail-and-cow-camp` | ✅ 已入库 | [✅ **100%**](翻译项目/john-a-lomax_songs-of-the-cattle-trail-and-cow-camp/译文) (78篇) | [✅ 已审(B)](翻译项目/john-a-lomax_songs-of-the-cattle-trail-and-cow-camp/审核报告.md) | [📦 154KB](翻译项目/john-a-lomax_songs-of-the-cattle-trail-and-cow-camp/牛道与牧场歌谣.epub) | B 良好（高分接近优秀，无重大缺陷） | 全书 78 篇全部严格落实中英双语… |
 | 380 | `john-buchan_huntingtower` | ✅ 已入库 | [✅ **100%**](翻译项目/john-buchan_huntingtower/译文) (19篇) | [✅ 已审(A)](翻译项目/john-buchan_huntingtower/审核报告.md) | [📦 419KB](翻译项目/john-buchan_huntingtower/Huntingtower.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10937/18180 篇 (57.8%)** | **452 本完成** | **494 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **10984/18180 篇 (58.2%)** | **452 本完成** | **494 本完成** | 全流程四阶段闭环 |
 
 ---
 
