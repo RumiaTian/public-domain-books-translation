@@ -88,3 +88,65 @@ At this moment there was a murmur as of a great coming arrival, and then an open
 “我们的参议员可没这闲工夫，”参议员说。
 “可你们做工是拿薪水的。”
 “凡指望人做工的都该给薪水。
+
+===Original===
+
+Then the work will be done, or those who pay will know the reason why.”
+“I must speak to Lord Rufford,” said Morton. “If you’ll come with me, I’ll introduce you.” The Senator followed willingly enough and the introduction was made while his lordship was still standing by his horse. The two men had known each other in London, and it was natural that Morton, as owner of the ground, should come out and speak to the only man who knew him. It soon was spread about that the gentleman talking to Lord Rufford was John Morton, and many who lived in the county came up to shake hands with him. To some of these the Senator was introduced and the conversation for a few minutes seemed to interrupt the business on hand. “I am sorry you should be on foot, Mr. Gotobed,” said the lord.
+“And I am sorry that I cannot mount him,” said Mr. Morton.
+“We can soon get over that difficulty if he will allow me to offer him a horse.”
+The Senator looked as though he would almost like it, but he didn’t quite like it. “Perhaps your horse might kick me off, my lord.”
+“I can’t answer for that; but he isn’t given to kicking, and there he is, if you’ll get on him.” But the Senator felt that the exhibition would suit neither his age nor position, and refused.
+“We’d better be moving,” said Captain Glomax. “I suppose, Lord Rufford, we might as well trot over to Dillsborough Wood at once. I saw Bean as I came along and he seemed to wish we should draw the wood first.” Then there was a little whispering between his lordship and the Master and Tony Tuppett. His lordship thought that as Mr. Morton was there the hounds might as well be run through the Bragton spinnies. Tony made a wry face and shook his head. He knew that though the Old Kennels might be a very good place for meeting there was no chance of finding a fox at Bragton. And Captain Glomax, who, being an itinerary master, had no respect whatever for a country gentleman who didn’t preserve, also made a long face and also shook his head. But Lord Rufford, who knew the wisdom of reconciling a newcomer in the county to foxhunting, prevailed and the hounds and men were taken round a part of Bragton Park.
+“What ’d t’ old squire ’ve said if he’d ’ve known there hadn’t been a fox at Bragton for more nor ten year?” This remark was made by Tuppett to Mr. Runciman who was riding by him. Mr. Runciman replied that there was a great difference in people.
+
+===Chinese===
+
+“这样活儿才干得成，不然出钱的人定要问个明白。”
+“我得同拉德福勋爵讲句话，”莫顿说。“您肯同来的话，我给您引见。”参议员欣然跟上；引见的时候，勋爵大人还站在自己马旁。两人原在伦敦相识；莫顿身为这片地的主人，出来同唯一认识自己的人打个招呼，也是人之常情。不多时便传开了：同拉德福勋爵谈话的那位绅士就是约翰·莫顿；本地好些人便凑过来同他握手。其中几位跟前，参议员也被引见了；寒暄问答有几分钟，仿佛把正事都打断了。“真抱歉让您步行，戈托贝德先生，”勋爵说。
+“我也抱歉没法给他备马，”莫顿先生说。
+“只要他肯赏脸骑我的马，这点难处立刻就解了。”
+参议员那神气几乎是动了心，可终究不大愿意。“您那马没准儿会把我甩下来呢，勋爵大人。”
+“这个我可不敢打包票；不过它没有踢人的毛病。马就在那儿，您只管上。”无奈参议员觉得这一番出风头既不合他的年纪，也不合他的身份，便谢绝了。
+“咱们该动身了，”格洛马克斯上尉说。“拉德福勋爵，我看不如这就小跑着到迪尔斯伯勒树林去。我来的路上瞧见比恩了，他像是盼着咱们先搜那片林子。”接着勋爵大人同猎队主人和托尼·塔珀特咬了一阵耳朵。勋爵大人想，莫顿先生既在这儿，猎犬不妨把布拉格顿的小片树林也搜一遍。托尼苦着脸直摇头。他知道，“老猎犬场”虽是个顶好的集合地，布拉格顿却断乎找不到狐狸。格洛马克斯上尉是个跑四方的猎队主人，对不养狐狸的乡绅素来不放在眼里，也拉长了脸摇头。可拉德福勋爵深知把郡里新来的人笼络进猎狐这一行的妙处，终于依了他；猎犬和人马便绕着布拉格顿园走了一段。
+“老乡绅要是知道布拉格顿十多年都没得着狐狸，他老人家会咋说？”这话是塔珀特对骑在他旁边的伦西曼先生说的。伦西曼先生回说，人与人实在大不相同。
+
+===Original===
+
+“You may say that, Mr. Runciman. It’s all changes. His lordship’s father couldn’t bear the sight of a hound nor a horse and saddle. Well;﻿—I suppose I needn’t gammon any furder. We’ll just trot across to the wood at once.”
+“They haven’t begun yet as far as I can see,” said Mr. Gotobed standing up in the carriage.
+“They haven’t found as yet,” replied Morton.
+“They must go on till they find a fox? They never bring him with them?” Then there was an explanation as to bagged foxes, Morton not being very conversant with the subject he had to explain. “And if they shouldn’t find one all day?”
+“Then it’ll be a blank.”
+“And these hundred gentlemen will go home quite satisfied with themselves?”
+“No;﻿—they’ll go home quite dissatisfied.”
+“And have paid their money and given their time for nothing? Do you know it doesn’t seem to me the most heart-stirring thing in the world. Don’t they ride faster than that?” At this moment Tony with the hounds at his heels was trotting across the park at a huntsman’s usual pace from covert to covert. The Senator was certainly ungracious. Nothing that he saw produced from him a single word expressive of satisfaction.
+Less than a mile brought them to the gate and road leading up to Chowton Farm. They passed close by Larry Twentyman’s door, and not a few, though it was not yet more than half-past eleven, stopped to have a glass of Larry’s beer. When the hounds were in the neighbourhood Larry’s beer was always ready. But Tony and his attendants trotted by with eyes averted, as though no thought of beer was in their minds. Nothing had been done, and a huntsman is not entitled to beer till he has found a fox. Captain Glomax followed with Lord Rufford and a host of others. There was plenty of way here for carriages, and half a dozen vehicles passed through Larry’s farmyard. Immediately behind the house was a meadow, and at the bottom of the meadow a stubble field, next to which was the ditch and bank which formed the bounds of Dillsborough Wood. Just at this side of the gate leading into the stubble-field there was already a concourse of people when Tony arrived near it with the hounds, and immediately there was a holloaing and loud screeching of directions, which was soon understood to mean that the hounds were at once to be taken away! The Captain rode on rapidly, and then sharply gave his orders. Tony was to take the hounds back to Mr.
+
+===Chinese===
+
+“可不是嘛，伦西曼先生。世道全变啦。这位勋爵的老太爷，见了猎犬、见了鞍马就容不得。得啦——我想我也不必再打趣绕弯子啦。咱们这就小跑着上林子去。”
+“照我看还没开场呢，”戈托贝德先生在马车里站起身来说。
+“还没找到狐狸呢，”莫顿答道。
+“那他们就得一直找下去，找到为止？从来不自带一只狐狸？”接着便解释起袋装狐狸来——这题目莫顿自己也说不利索，却不得不硬着头皮讲。“要是他们一整天都找不着呢？”
+“那就叫空场。”
+“这一百来位绅士就这样心满意足地回家去？”
+“不——他们要一肚子不痛快地回家去。”
+“钱也花了，工夫也搭了，全打了水漂？您可知道，这在我眼里实在算不得天下顶提神的事儿。他们就不能骑快点吗？”这时托尼正带着脚跟后的猎犬群，按猎户从一片围场到另一片围场惯常的步子，小跑着穿过园子。参议员实在是失礼。他眼里看见的，没有一样能叫他吐出半句称心的话来。
+不到一英里，他们便到了通往乔顿农场的栅门和大路。一行人打拉里·特温特曼门前经过；虽然还不过十一点半，停下来喝一杯拉里啤酒的却不少。猎犬一到这一带，拉里的啤酒总是现成的。可托尼同他的随从们眼观他处、小跑而过，仿佛心里压根没有啤酒这回事。正事还没影儿呢——没找到狐狸之前，猎户没资格喝啤酒。格洛马克斯上尉在后头跟着，同行的有拉德福勋爵和一大群人。这里马车通行无碍，有五六辆车打拉里的场院里穿了过去。宅子背后便是一片草场，草场尽头是块茬子地；再过去便是那条沟和土坡，正是迪尔斯伯勒树林的边界。托尼带着猎犬挨近通往茬子地的栅门时，门的这一边早已聚了一堆人；跟着便是一片呼喊、尖声指手画脚，不多时大家就听明白了：猎犬得马上带走！上尉催马疾进，随即厉声下令：托尼要火速把猎犬带回
+
+===Original===
+
+Twentyman’s farmyard as fast as he could, and shut them up in a barn. The whips were put into violent commotion. Tony was eagerly at work. Not a hound was to be allowed near the gate. And then, as the crowd of horsemen and carriages came on, the word “poison” was passed among them from mouth to mouth!
+“What does all this mean?” said the Senator.
+“I don’t at all know. I’m afraid there’s something wrong,” replied Morton.
+“I heard that man say ‘poison.’ They have taken the dogs back again.” Then the Senator and Morton got out of the carriage and made their way into the crowd. The riders who had grooms on second horses were soon on foot, and a circle was made, inside which there was some object of intense interest. In the meantime the hounds had been secured in one of Mr. Twentyman’s barns.
+What was that object of interest shall be told in the next chapter.
+
+===Chinese===
+
+特温特曼先生的场院，关进一座谷仓。几名鞭手登时忙作一团。托尼手脚不停。一只猎犬也不许靠近栅门。这时骑马的、坐车的人群涌了上来，“毒药”这个词便口口相传开了！
+“这到底是怎么回事？”参议员问。
+“我全然不知。恐怕是出事了，”莫顿答道。
+“我听见有人说‘毒药’。他们又把狗带走了。”于是参议员和莫顿下了车，挤进人群。那些带着马夫牵副马的人都很快下了马；人们围成一个圈，圈里有什么东西引起了一片强烈的关切。这时猎犬已经关进特温特曼先生的一座谷仓。
+那引人关切的东西究竟是什么，且听下章分解。
