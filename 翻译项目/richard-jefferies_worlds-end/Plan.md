@@ -35,8 +35,16 @@
 | 2026-11-12 | viii-2.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | x-2.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | xi-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ix-3.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | xii-2.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | xiii-2.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | xiv-2.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | i-3.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | xv-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ii-3.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | iii-3.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | iv-3.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ix-3.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ii-3.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | xi-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ix-3.md | 成功 | check_bilingual 校验通过，标记 done |
