@@ -58,4 +58,9 @@
 | 2026-11-12 | ii.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | iii.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | iv.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ix.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | persons.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | results.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | v.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | vi.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | vii.md | 成功 | check_bilingual 校验通过，标记 done |
