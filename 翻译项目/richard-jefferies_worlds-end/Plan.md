@@ -29,3 +29,9 @@
 | 2026-11-12 | iii-2.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | iv-2.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | ix-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | v-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | vi-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | vii-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | viii-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | x-2.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | vi-2.md | 成功 | check_bilingual 校验通过，标记 done |
