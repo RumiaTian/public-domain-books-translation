@@ -8,10 +8,6 @@
 ​
 
 ## I Silence / 一 寂静
-
-## I Silence /
-
-## I Silence / 
 ===Original===
 
 At the end of October, or the beginning of November, the city of Balaklava, that most original corner of the variegated Russian Empire, begins to live a life all its own. The days are still warm and pleasant, as they sometimes are in the fall, but at night it grows cold and the ground resounds under your step. The last summer visitors have gone to Sebastopol with their bundles, suitcases, trunks, sickly children, and *decadente* young ladies. As mementos of the recent guests, there still remain grape-skins which the invalid summer visitors had scattered in abundant quantities on every pier and in every narrow street, all for the purpose of aiding their precious health, and piles of paper, refuse, cigarette stumps, scraps of letters and newspapers, which always remain behind when the summer visitors go away.
@@ -63,10 +59,6 @@ The slow, lazy footsteps of the night-watchman are heard at a distance, and I di
 远处传来守夜人缓慢而懒洋洋的脚步声，我不仅听清他钉着铁掌的渔夫重靴敲在人行道石头上的每一下，还听清他每第二步脚跟蹭地的一下。在这片寂静里，声音那么清楚，仿佛我正同他并肩走着，虽然我确信他离我在一俄里开外。可如今他拐进了哪条黑巷子，或者在哪张长椅上坐下了：脚步声听不见了。万籁俱寂。一片漆黑。
 
 ## II The Mackerel / 二 鲭鱼
-
-## II The Mackerel /
-
-## II The Mackerel / 
 ===Original===
 
 The autumn is coming fast. The water becomes colder and colder. Just now one can catch only small fish with dragnets, those large vases of netting which are thrown to the bottom from the boat. But suddenly a rumor is set afloat that Yura Paratino had rigged his boat and had sent it to the spot where his mackerel-nets were placed, between the Capes of Aya and Laspi.
@@ -182,10 +174,6 @@ For many days the air is full of the strong odor of fresh fish and the burning s
 许多天里，空气中都是鲜鱼的浓腥和煎鱼的焦香。轻飘飘、黏糊糊的鱼鳞落满木头码头、街上的石板、幸福的主妇们的手和衣裳，也落满在秋阳下懒懒泛着细浪的蓝色的湾水。
 
 ## III Poaching / 三 偷捕
-
-## III Poaching /
-
-## III Poaching / 
 ===Original===
 
 It is evening. We are sitting in Ivan Yuryich’s coffeehouse, that is lighted by two hanging lamps. Thick clouds of tobacco smoke hang in the air. All the tables are occupied. Some of us play cards or dominos, others sip their coffee, others again simply lounge about, revelling in the light and warmth and exchanging remarks. A long, lazy, cozy, pleasant evening ennui has taken hold of the entire coffeehouse.
@@ -267,8 +255,6 @@ This is my share of the booty. I nod. But now I am somewhat ashamed of my crime.
 这是我那份赃。我点点头。可这会儿我有点为自己的罪过害臊了。不过，看见四周投来的心照不宣的、飞快的一瞥，又有些安慰。看来那晚偷捕的不止我们一伙。
 
 ## IV White Sturgeon / 四 白鲟
-
-## IV White Sturgeon / 
 ===Original===
 
 Winter is setting in. One evening it began to snow, and during the night everything had become white, the embankment, the boats on the beach, the roofs, the trees. Only the water of the bay remains black and sombre, and splashes restlessly in this calm white frame.
@@ -356,8 +342,6 @@ From that day Vanya’s reputation as a real saltwater *ataman* was firmly estab
 打那天起，万尼亚作为真正的海上阿塔曼的名声，牢牢立起来了。
 
 ## V The Lord’s Fish / 五 主的鱼
-
-## V The Lord’s Fish / 
 ===Original===
 
 This charming ancient legend was related to me at Balaklava by the *ataman*, Kolya Konstandi, a real saltwater Greek, an excellent seaman, and a heavy drinker.
@@ -439,8 +423,6 @@ A few days later I learned that the Lord’s fish has also another name, that of
 几天以后我才知道，主的鱼还有另一个名字，叫宙斯鱼。谁知道这则旁传的故事，往岁月的母腹里上溯，要上溯多远呢？
 
 ## VI Bora / 六 布拉风
-
-## VI Bora / 
 ===Original===
 
 O dear, simple men, stout hearts, naive, primitive souls, strong bodies, swept by the salt-sea breezes, sinewy hands, sharp eyes, that have so often looked into the face of death, into its very pupils!
@@ -512,8 +494,6 @@ Before entering the bay they lowered their sails and took to oars; their entry w
 进湾前他们降了帆，抄起了桨；他们进湾是全速的，凯旋式的，仿佛满载了一船好鲟鱼回来。四周的人欢喜得直哭：母亲们，妻子们，未婚妻们，姐妹们，小兄弟们。你以为全队里有哪一个软了心、落了泪、扑在谁怀里哭？才不呢！六个人浑身水湿、嗓音嘶哑、让风吹透，径直进了尤拉的咖啡店，要了酒和音乐，一连好几个钟头喊唱，疯子似的跳舞，地板上留下一摊摊盐水。深夜里，伙伴们把他们一个个醉醺醺、瘫软地背回家；每人一觉睡了二十个钟头。醒来以后，这一趟在他们眼里，不过是去塞瓦斯托波尔逛了一趟，玩了个痛快，然后回家。
 
 ## VII The Divers / 七 潜水员
-
-## VII The Divers / 
 ===Original===
 
 
@@ -523,8 +503,6 @@ Before entering the bay they lowered their sails and took to oars; their entry w
 ​
 
 #### I / 一
-
-#### I / 
 ===Original===
 
 Probably since the Crimean War no steamer, except perhaps an occasional torpedo-boat on manoeuvres, has entered the narrow-mouthed, sinuous, and oblong Balaklava Bay. And really what business could bring steamers to this out-of-the-way fishing settlement, half village, half town? Its only cargo, fish, is bought up on the spot by middlemen and is carted to the markets of Sebastopol, thirteen versts away. It is also from Sebastopol that a few people come to spend the summer months at Balaklava, using for that purpose the mail-coach, which charges them fifty copecks for the trip. The small but desperately brave steam-tug, *The Hero*, which plies daily between Yalta and Alupka, panting like a fagged-out dog, and tossing and pitching in the slightest breeze as if caught in a hurricane, tried to establish passenger communication with Balaklava. But this attempt, repeated three or four times, resulted merely in a waste of time and coal. *The Hero* came and left empty. And the Balaklava Greeks, the distant descendants of the bloodthirsty Homeric Laestrygonians, standing on the landing-place with their hands in their pockets, greeted it and saw it off with cutting words, ambiguous advice, and stinging Godspeeds.
@@ -538,19 +516,6 @@ I do not know whether the late Emperor Nicholas I ever visited Balaklava. It sta
 可围攻塞瓦斯托波尔那阵子，这迷人的淡蓝色巴拉克拉瓦湾，庇护过几乎四分之一的联军舰队。那个英雄的时代在巴拉克拉瓦留下了一些确实的痕迹：英国工兵在凯法洛-夫里西峡谷里开出的陡路；藏在巴拉克拉瓦山顶葡萄园中间的意大利人墓地；还有那短短的石膏和骨头做的烟斗——联军士兵半个世纪前抽过的，如今还时不时让葡萄园里翻土的人刨出来。
 可传说开得更艳。巴拉克拉瓦的希腊人至今深信，塞瓦斯托波尔能撑那么久，全亏他们巴拉克拉瓦营的顽强。可不是，从前巴拉克拉瓦住的是铁心肠和傲骨头。民间口耳相传下来一个故事，正好显他们的傲。
 我不大清楚已故的尼古拉一世皇上驾临过巴拉克拉瓦没有。按理说，克里米亚战争期间他没工夫来。
-可当地的志书言之凿凿地记载：一次阅兵，那位可怕的皇帝驰马逼近巴拉克拉瓦营，让他们那军人的气概、火辣辣的眼睛和黑黑的大唇髭吃了一惊，便雷鸣似的、欢欢喜喜地喊：
-“早安，弟兄们！”
-可全营不作声。
-皇帝把问候重复了几遍，很快火起来。士兵里还是没有一点声音！末了，皇帝完全按捺不住，冲到带队的军官跟前，用他那吓人的嗓门喊：
-“怎么回事，见他们的鬼，怎么不回答？我这不是用明白俄语说了：‘早安，弟兄们！’”
-“这儿没有*弟兄们*，”军官谦恭地回答。“他们全是船长。”
-于是尼古拉——故事这么说——笑了（他还能怎么办呢？），重新喊：
-“早安，船长们！”
-英勇的拉厄斯特律戈涅斯人便快活地齐声回答：
-“*卡莱梅拉*（日安），陛下！”
-这事情是不是照这样发生过，或者根本发生过没有，缺少确凿的史料，难说。可是直到今天，勇敢的巴拉克拉瓦人里有相当一部分姓卡皮塔纳基；你要是碰上一个姓卡皮塔纳基的希腊人，尽管放心，他本人或者他的近祖，准是巴拉克拉瓦人。
-而想象力开得最艳最亮的花，是装扮在巴拉克拉瓦岸边沉没的英国分舰队的故事上的。一个漆黑的冬夜，几艘英国船正驶向巴拉克拉瓦湾避风暴。其中有一艘漂亮的三桅巡防舰，“黑王子号”，载着给联军发饷的钱。船上载着六千万卢布的英国金子。老人们连准确的数目都知道。
-那些老人还说，如今再不刮那晚肆虐的那种飓风了。怪物似的巨浪打在直立的峭壁上，把浪沫一直掀到热那亚塔的塔根——五十码高！——冲刷着它灰色的老墙。舰队找不着湾口那道窄门，或者，找到了，军舰也进不了湾。
 
 ===Original===
 
@@ -570,8 +535,19 @@ The same old men say that nowadays there blow no longer such hurricanes as the o
 
 ===Chinese===
 
-船全在礁石上撞碎了，连同堂皇的“黑王子号”和英国的黄金，沉在白石旁边——直到今天，你一出巴拉克拉瓦，在湾口朝海放宽、朝右手的地方，白石还威胁似地从海里立着。
-如今汽船都离湾远远地过，十五到二十俄里开外。从热那亚要塞上，几乎分辨不出那暗色的、仿佛不动的船身，那长长的、拖着的、渐渐化开的灰烟尾巴，和那两根优雅地朝后弯的桅杆。可渔人的利眼几乎百不失一地认得出这些船，凭的记号是我们的眼力和经验全然不懂的：这是一条从叶夫帕托里亚来的货船。……这是“俄国公司”的班轮。……这是“俄罗斯”号的……那条是科什金家的船。……这是“普希金号”，在细浪上颠簸——这条船风平浪静也晃。
+可当地的志书言之凿凿地记载：一次阅兵，那位可怕的皇帝驰马逼近巴拉克拉瓦营，让他们那军人的气概、火辣辣的眼睛和黑黑的大唇髭吃了一惊，便雷鸣似的、欢欢喜喜地喊：
+“早安，弟兄们！”
+可全营不作声。
+皇帝把问候重复了几遍，很快火起来。士兵里还是没有一点声音！末了，皇帝完全按捺不住，冲到带队的军官跟前，用他那吓人的嗓门喊：
+“怎么回事，见他们的鬼，怎么不回答？我这不是用明白俄语说了：‘早安，弟兄们！’”
+“这儿没有*弟兄们*，”军官谦恭地回答。“他们全是船长。”
+于是尼古拉——故事这么说——笑了（他还能怎么办呢？），重新喊：
+“早安，船长们！”
+英勇的拉厄斯特律戈涅斯人便快活地齐声回答：
+“*卡莱梅拉*（日安），陛下！”
+这事情是不是照这样发生过，或者根本发生过没有，缺少确凿的史料，难说。可是直到今天，勇敢的巴拉克拉瓦人里有相当一部分姓卡皮塔纳基；你要是碰上一个姓卡皮塔纳基的希腊人，尽管放心，他本人或者他的近祖，准是巴拉克拉瓦人。
+而想象力开得最艳最亮的花，是装扮在巴拉克拉瓦岸边沉没的英国分舰队的故事上的。一个漆黑的冬夜，几艘英国船正驶向巴拉克拉瓦湾避风暴。其中有一艘漂亮的三桅巡防舰，“黑王子号”，载着给联军发饷的钱。船上载着六千万卢布的英国金子。老人们连准确的数目都知道。
+那些老人还说，如今再不刮那晚肆虐的那种飓风了。怪物似的巨浪打在直立的峭壁上，把浪沫一直掀到热那亚塔的塔根——五十码高！——冲刷着它灰色的老墙。舰队找不着湾口那道窄门，或者，找到了，军舰也进不了湾。
 
 ===Original===
 
@@ -580,10 +556,8 @@ Nowadays steamers pass far away from the bay, fifteen to twenty versts off. From
 
 ===Chinese===
 
-有一天，完全出人意料，一条又大又老式、脏得出奇的意大利汽船“热那亚号”进了湾。那是在傍晚，正赶上避暑客都已北归、海却还暖、正经渔汛未起的时候，渔人们闲闲地补着网，备着钩，在咖啡店里玩多米诺，喝酒，一句话，享受着他们暂时的清闲。
-傍晚安静而黑暗，大的、安静的星星在天上、在打盹的湾水里同时眨眼。沿堤岸亮起一串黄点子组成的灯链。铺子亮亮的方窗一个个熄了。轻盈的黑色人影在街上、人行道上慢慢地移动。……后来，不知是谁——多半是在热那亚塔边玩的孩子们——送来了消息：海上拐进来一条汽船，朝湾口来了。
-几分钟工夫，全城的男性原住民都在码头上了。谁都知道，希腊人永远是希腊人，因此第一是好奇。不错，在巴拉克拉瓦希腊人身上，除了后来掺进的热那亚血，你还感觉得出一股神秘的、太古的、多半是斯基泰的血脉——这窝海盗兼渔人的土著居民的血。你会见到许多高大的、壮实的、气度堂堂的身影；不时碰上端正高贵的脸型；浅色头发的、甚至蓝眼睛的也很多。巴拉克拉瓦的希腊人不贪财，不谄媚；举止有尊严；在海上大胆，却不胡乱逞能；是好朋友，说话算话。真可说是希腊民族的一个独立的、排外的分支，它能保存下来，主要因为多少代人的祖先都在这个小城里出生、生活、死亡，通婚不出街坊。可希腊的殖民者也在今日巴拉克拉瓦居民的心理组织里留下了自己最典型的一点——连伯里克利时代就出名的那一点：好奇，爱打听新闻。
-汽船慢慢地、先亮出它小小的前灯，拐过那个急弯，朝湾口驶来。
+船全在礁石上撞碎了，连同堂皇的“黑王子号”和英国的黄金，沉在白石旁边——直到今天，你一出巴拉克拉瓦，在湾口朝海放宽、朝右手的地方，白石还威胁似地从海里立着。
+如今汽船都离湾远远地过，十五到二十俄里开外。从热那亚要塞上，几乎分辨不出那暗色的、仿佛不动的船身，那长长的、拖着的、渐渐化开的灰烟尾巴，和那两根优雅地朝后弯的桅杆。可渔人的利眼几乎百不失一地认得出这些船，凭的记号是我们的眼力和经验全然不懂的：这是一条从叶夫帕托里亚来的货船。……这是“俄国公司”的班轮。……这是“俄罗斯”号的……那条是科什金家的船。……这是“普希金号”，在细浪上颠簸——这条船风平浪静也晃。
 
 #### II / 二
 ===Original===
@@ -595,16 +569,10 @@ Slowly, at first showing its tiny front light, the steamer turned the sharp bend
 
 ===Chinese===
 
-在夜的浓重温暖的黑暗里，远处看不见它的轮廓，可桅杆高处的一串灯、舰桥上的信号灯、沿栏杆一排圆亮舷窗，让人猜得出它的大小和形状。在码头沿岸停着的成百条小船小艇的注视下，汽船几乎不知不觉地朝岸边挪来，带着那种又小心又笨拙的谨慎——一个高大有力的人穿过撒满易碎玩具的育儿室时的那种。
-渔人们猜着。他们当中有许多人跑过商船，更多的是跑过军舰。
-“你们说什么呢？我看不见？当然，是俄国公司的货船。”
-“不，不是俄国船。”
-“机器准是坏了，开进来修的。”
-“兴许是条军舰？”
-“扯淡！”
-只有科利亚·康斯坦迪——他在黑海和地中海的一条炮舰上干过多年——猜对了，断定是条意大利船。而且也是在汽船离滩很近、能看清它那褪了色的、掉皮的船板、从舱口流下的脏水道子和甲板上杂色的船员以后，才断定的。
-一根缆绳头从船上螺旋似的甩出来，在空中像蛇一样抖开，朝看客们的头上飞来。把绳头从船上灵巧地甩出去，再同样灵巧地接住，谁都知道，这是海上头一等的体面。年轻的阿波斯托利季嘴里不拿掉香烟，一把接住绳头，那副神气像这一天里已干过一百回，随后看样子漫不经心、实际结结实实地，把它拴在堤岸上那两尊自古就有、直栽在地里的铸铁炮上。
-从汽船上放下一条小艇。三个意大利人跳上岸，忙起缆绳来。一个戴呢帽，一个戴直四角帽檐的制帽，第三个头上是一顶不三不四的针织帽。他们都小个儿、壮实、机警、精瘦，像猴子。他们不客气地拿肩膀拱人群，用他们那又快、又软、又好听的热那亚话吹里咕噜，同船上的人搭着腔。
+有一天，完全出人意料，一条又大又老式、脏得出奇的意大利汽船“热那亚号”进了湾。那是在傍晚，正赶上避暑客都已北归、海却还暖、正经渔汛未起的时候，渔人们闲闲地补着网，备着钩，在咖啡店里玩多米诺，喝酒，一句话，享受着他们暂时的清闲。
+傍晚安静而黑暗，大的、安静的星星在天上、在打盹的湾水里同时眨眼。沿堤岸亮起一串黄点子组成的灯链。铺子亮亮的方窗一个个熄了。轻盈的黑色人影在街上、人行道上慢慢地移动。……后来，不知是谁——多半是在热那亚塔边玩的孩子们——送来了消息：海上拐进来一条汽船，朝湾口来了。
+几分钟工夫，全城的男性原住民都在码头上了。谁都知道，希腊人永远是希腊人，因此第一是好奇。不错，在巴拉克拉瓦希腊人身上，除了后来掺进的热那亚血，你还感觉得出一股神秘的、太古的、多半是斯基泰的血脉——这窝海盗兼渔人的土著居民的血。你会见到许多高大的、壮实的、气度堂堂的身影；不时碰上端正高贵的脸型；浅色头发的、甚至蓝眼睛的也很多。巴拉克拉瓦的希腊人不贪财，不谄媚；举止有尊严；在海上大胆，却不胡乱逞能；是好朋友，说话算话。真可说是希腊民族的一个独立的、排外的分支，它能保存下来，主要因为多少代人的祖先都在这个小城里出生、生活、死亡，通婚不出街坊。可希腊的殖民者也在今日巴拉克拉瓦居民的心理组织里留下了自己最典型的一点——连伯里克利时代就出名的那一点：好奇，爱打听新闻。
+汽船慢慢地、先亮出它小小的前灯，拐过那个急弯，朝湾口驶来。
 
 ===Original===
 
@@ -621,12 +589,16 @@ A boat pulled off from the steamer. Three Italians leaped ashore and busied them
 
 ===Chinese===
 
-他们那双又大又黑的眼睛一直和善地、叫人愉快地笑着，晒黑的脸上白白的、年轻的牙齿闪着光。
-“*晚上好。……意大利人。……水手！*”科利亚赞许地说。
-“*哦！晚上好，先生！*”意大利人快活地齐声回答。
-锚链哗啦啦地响、尖叫。汽船肚子里有什么东西咕咕嘶嘶起来。桅灯上的灯灭了。半个钟头后，意大利水手们放上了岸。
-这些意大利人，矮个儿、黑皮肤、年轻，原来是些爱交际的快活人。他们浑身是轻松可爱的爽利，当天晚上就在啤酒馆和小酒馆里向渔人们搭讪。可本地人干巴巴地、存着戒心接待他们。他们多半是想让这些外来人看看：外国船来访在他们不算稀罕，这样的事天天有，因此犯不着大惊小怪。这是他们地方的自尊心在说话么？
-而且——哦！——那天晚上渔人们跟这班好心、快活、轻信的意大利人开的玩笑，实在不成体统：意大利人指着面包、酒、干酪和别的东西，问它们的俄语说法时，他们还憨憨地亮出一口好牙。渔人们教给客人的，就是那么一些词儿——后来热那亚人一进铺子、一上集市想用俄语同人搭话，伙计们就哄堂大笑，女人们害臊得捂脸就跑。也就是那天晚上，全城传开一个电报似的飞快消息（天知道怎么传的）：意大利人就是专来打捞沉舰“黑王子号”和它那一舱金子的，这项工程要干整整一冬。
+在夜的浓重温暖的黑暗里，远处看不见它的轮廓，可桅杆高处的一串灯、舰桥上的信号灯、沿栏杆一排圆亮舷窗，让人猜得出它的大小和形状。在码头沿岸停着的成百条小船小艇的注视下，汽船几乎不知不觉地朝岸边挪来，带着那种又小心又笨拙的谨慎——一个高大有力的人穿过撒满易碎玩具的育儿室时的那种。
+渔人们猜着。他们当中有许多人跑过商船，更多的是跑过军舰。
+“你们说什么呢？我看不见？当然，是俄国公司的货船。”
+“不，不是俄国船。”
+“机器准是坏了，开进来修的。”
+“兴许是条军舰？”
+“扯淡！”
+只有科利亚·康斯坦迪——他在黑海和地中海的一条炮舰上干过多年——猜对了，断定是条意大利船。而且也是在汽船离滩很近、能看清它那褪了色的、掉皮的船板、从舱口流下的脏水道子和甲板上杂色的船员以后，才断定的。
+一根缆绳头从船上螺旋似的甩出来，在空中像蛇一样抖开，朝看客们的头上飞来。把绳头从船上灵巧地甩出去，再同样灵巧地接住，谁都知道，这是海上头一等的体面。年轻的阿波斯托利季嘴里不拿掉香烟，一把接住绳头，那副神气像这一天里已干过一百回，随后看样子漫不经心、实际结结实实地，把它拴在堤岸上那两尊自古就有、直栽在地里的铸铁炮上。
+从汽船上放下一条小艇。三个意大利人跳上岸，忙起缆绳来。一个戴呢帽，一个戴直四角帽檐的制帽，第三个头上是一顶不三不四的针织帽。他们都小个儿、壮实、机警、精瘦，像猴子。他们不客气地拿肩膀拱人群，用他们那又快、又软、又好听的热那亚话吹里咕噜，同船上的人搭着腔。
 
 ===Original===
 
@@ -639,10 +611,12 @@ And﻿—oh! it was an unseemly trick that they played that evening on the good,
 
 ===Chinese===
 
-巴拉克拉瓦没有一个人相信这事能成。首先，那宗海底财宝上当然有魔咒。白发苍苍的老头们，一个个让年纪压弯了，说：打捞英国金子的尝试早就有过：英国人来过，还有神话似的美国人也来过，成堆的钱糟蹋了，空着两手离开了巴拉克拉瓦。可不是，当年巴拉克拉瓦的传奇英雄们都没办成，英国人美国人这号人能有什么办法？自然，那时候的天气、鱼汛、长船、帆和人，都跟如今这班小崽子完全两样。从前住着神话里的斯皮罗。他能潜到任何深度，在水底下待一刻钟。就是这个斯皮罗，两脚夹一块三磅重的石头，下到一百码深的海底——沉没分舰队的残骸就在那儿安息。斯皮罗什么都看见了：船，金子，可他什么也拿不上来……*它不放你拿。*
-“该叫信使萨什卡去试试，”听的人里有一个会狡猾地说。“他是咱们头一号潜水的好手。”
-大家都笑了，笑得最响的是萨什卡·阿尔吉里迪，绰号“信使萨什卡”，笑着露出他漂亮的、骄傲的嘴。
-这位人物——蓝眼睛，一副硬朗的古典侧影——是整个克里米亚海滨最大的懒虫、骗子和活宝。他的外号是这么来的：有时，正当夏季生意的旺月，他往帽箍上缝两道金线，往旅馆跟前的街上一坐。哪位轻浮的游客不幸向这位自封的向导问上一句话，那就再没有尘世的力量能救他们不落进萨什卡的手掌。他拖着他们翻山、穿院子、逛葡萄园、看墓地，拿种种不可能的故事款待他们。他跑进谁家院子，磕碎一块旧罐子片，再哄游客们买这些碎片——他赌咒说，那是基督纪元前的古希腊花瓶的残片。
+他们那双又大又黑的眼睛一直和善地、叫人愉快地笑着，晒黑的脸上白白的、年轻的牙齿闪着光。
+“*晚上好。……意大利人。……水手！*”科利亚赞许地说。
+“*哦！晚上好，先生！*”意大利人快活地齐声回答。
+锚链哗啦啦地响、尖叫。汽船肚子里有什么东西咕咕嘶嘶起来。桅灯上的灯灭了。半个钟头后，意大利水手们放上了岸。
+这些意大利人，矮个儿、黑皮肤、年轻，原来是些爱交际的快活人。他们浑身是轻松可爱的爽利，当天晚上就在啤酒馆和小酒馆里向渔人们搭讪。可本地人干巴巴地、存着戒心接待他们。他们多半是想让这些外来人看看：外国船来访在他们不算稀罕，这样的事天天有，因此犯不着大惊小怪。这是他们地方的自尊心在说话么？
+而且——哦！——那天晚上渔人们跟这班好心、快活、轻信的意大利人开的玩笑，实在不成体统：意大利人指着面包、酒、干酪和别的东西，问它们的俄语说法时，他们还憨憨地亮出一口好牙。渔人们教给客人的，就是那么一些词儿——后来热那亚人一进铺子、一上集市想用俄语同人搭话，伙计们就哄堂大笑，女人们害臊得捂脸就跑。也就是那天晚上，全城传开一个电报似的飞快消息（天知道怎么传的）：意大利人就是专来打捞沉舰“黑王子号”和它那一舱金子的，这项工程要干整整一冬。
 
 #### III / 三
 ===Original===
@@ -654,11 +628,10 @@ This worthy﻿—a superb, blue-eyed man, with a hard classic profile﻿—is th
 
 ===Chinese===
 
-另一些时候，他朝游客鼻子跟前举起一块顶普通的、薄薄的、椭圆形、带槽的鹅卵石——渔人拿它做网坠的——极力劝说这些可怜的游客：没有哪个希腊渔人不带这样一件护符出海，它是在圣尼古拉祠上祝圣过的，能保人躲过风暴。
-可他顶了不起的把戏是潜水。陪着一船老实游客出海带逛，把他们用“我们的大海荒凉啊”、“沿着伏尔加母亲河”之类的歌烦够了，他就巧妙地、不着痕迹地把话头引到沉没的分舰队、神话里的斯皮罗和潜水上来。水底一刻钟——连船上轻信的客人听着也像撒谎，像希腊人特有的谎。两三分钟，嗯，兴许可能。……可十五分钟！当然，萨什卡自尊心大受损伤。……他皱眉，见怪。……好吧，要是人家不信，他当场、立刻、这会儿就证明，他萨什卡能潜下去，在水底足足待上十分钟。
-“不瞒各位，这可不是闹着玩的，”他相当阴沉地说。“到晚上，我的眼睛耳朵里要渗血的。……可我不能让人说萨什卡·阿尔吉里迪是吹牛的。”
-游客们想跟他讲道理，劝他别干这种莽撞事，全白搭，因为这人顶娇嫩的地方受了伤。他三下两下、气呼呼地脱掉上衣和裤子，一转眼剥了个精光——太太们直扭脸，拿伞遮挡——随后扑通一声、溅起老高的水花，头朝下扎进水里，不过没忘了拿眼丈量小船到附近男浴场的距离。
-萨什卡真是出色的游泳和潜水好手。他在水底下绕过船的龙骨，径直朝浴场游去。船上度假日的人正慌作一团——互相埋怨，总之又吵又闹——萨什卡呢，正坐在浴场的一级台阶上，急急忙忙抽完谁的一截烟头。
+巴拉克拉瓦没有一个人相信这事能成。首先，那宗海底财宝上当然有魔咒。白发苍苍的老头们，一个个让年纪压弯了，说：打捞英国金子的尝试早就有过：英国人来过，还有神话似的美国人也来过，成堆的钱糟蹋了，空着两手离开了巴拉克拉瓦。可不是，当年巴拉克拉瓦的传奇英雄们都没办成，英国人美国人这号人能有什么办法？自然，那时候的天气、鱼汛、长船、帆和人，都跟如今这班小崽子完全两样。从前住着神话里的斯皮罗。他能潜到任何深度，在水底下待一刻钟。就是这个斯皮罗，两脚夹一块三磅重的石头，下到一百码深的海底——沉没分舰队的残骸就在那儿安息。斯皮罗什么都看见了：船，金子，可他什么也拿不上来……*它不放你拿。*
+“该叫信使萨什卡去试试，”听的人里有一个会狡猾地说。“他是咱们头一号潜水的好手。”
+大家都笑了，笑得最响的是萨什卡·阿尔吉里迪，绰号“信使萨什卡”，笑着露出他漂亮的、骄傲的嘴。
+这位人物——蓝眼睛，一副硬朗的古典侧影——是整个克里米亚海滨最大的懒虫、骗子和活宝。他的外号是这么来的：有时，正当夏季生意的旺月，他往帽箍上缝两道金线，往旅馆跟前的街上一坐。哪位轻浮的游客不幸向这位自封的向导问上一句话，那就再没有尘世的力量能救他们不落进萨什卡的手掌。他拖着他们翻山、穿院子、逛葡萄园、看墓地，拿种种不可能的故事款待他们。他跑进谁家院子，磕碎一块旧罐子片，再哄游客们买这些碎片——他赌咒说，那是基督纪元前的古希腊花瓶的残片。
 
 ===Original===
 
@@ -670,8 +643,11 @@ Sashka is really an excellent swimmer and diver. Deep down in the water he turns
 
 ===Chinese===
 
-他原路回来，出人意料地在船边上从水里冒出来——大家又宽心又欢喜——尽力瞪着眼、喘着胸，做出使劲的架势。
-当然，这一套戏法是萨什卡的一项进项。可也得承认，指引他玩这些花招的，根本不是贪心，倒是他身上住着的那股淘气男孩的快活劲儿。
+另一些时候，他朝游客鼻子跟前举起一块顶普通的、薄薄的、椭圆形、带槽的鹅卵石——渔人拿它做网坠的——极力劝说这些可怜的游客：没有哪个希腊渔人不带这样一件护符出海，它是在圣尼古拉祠上祝圣过的，能保人躲过风暴。
+可他顶了不起的把戏是潜水。陪着一船老实游客出海带逛，把他们用“我们的大海荒凉啊”、“沿着伏尔加母亲河”之类的歌烦够了，他就巧妙地、不着痕迹地把话头引到沉没的分舰队、神话里的斯皮罗和潜水上来。水底一刻钟——连船上轻信的客人听着也像撒谎，像希腊人特有的谎。两三分钟，嗯，兴许可能。……可十五分钟！当然，萨什卡自尊心大受损伤。……他皱眉，见怪。……好吧，要是人家不信，他当场、立刻、这会儿就证明，他萨什卡能潜下去，在水底足足待上十分钟。
+“不瞒各位，这可不是闹着玩的，”他相当阴沉地说。“到晚上，我的眼睛耳朵里要渗血的。……可我不能让人说萨什卡·阿尔吉里迪是吹牛的。”
+游客们想跟他讲道理，劝他别干这种莽撞事，全白搭，因为这人顶娇嫩的地方受了伤。他三下两下、气呼呼地脱掉上衣和裤子，一转眼剥了个精光——太太们直扭脸，拿伞遮挡——随后扑通一声、溅起老高的水花，头朝下扎进水里，不过没忘了拿眼丈量小船到附近男浴场的距离。
+萨什卡真是出色的游泳和潜水好手。他在水底下绕过船的龙骨，径直朝浴场游去。船上度假日的人正慌作一团——互相埋怨，总之又吵又闹——萨什卡呢，正坐在浴场的一级台阶上，急急忙忙抽完谁的一截烟头。
 
 ===Original===
 
@@ -680,9 +656,8 @@ Of course, all this hocus-pocus is for Sashka a source of income. But it must be
 
 ===Chinese===
 
-意大利人不隐瞒他们来访的目的：他们来巴拉克拉瓦，就是专勘海难的现场，情况允许的话，把海底一切值钱的残余捞上来——当然，主要是那份传说中的黄金。探险队由朱塞佩·雷斯塔齐带队，一位工程师，一种专门潜水器的发明人。他中等年纪，高个儿，寡言，永远穿一身灰，灰色的长脸，头发几乎白了，一只眼上有白翳——总之，与其说像意大利人，不如说像英国人。他下榻在海滩边的旅馆里；傍晚你去看他，他请你喝基安蒂酒，还请听他心爱的诗人斯泰凯蒂的诗：
-
-> “女人的爱情像煤：烧着时烫人，冷了时脏人。”
+他原路回来，出人意料地在船边上从水里冒出来——大家又宽心又欢喜——尽力瞪着眼、喘着胸，做出使劲的架势。
+当然，这一套戏法是萨什卡的一项进项。可也得承认，指引他玩这些花招的，根本不是贪心，倒是他身上住着的那股淘气男孩的快活劲儿。
 
 #### IV / 四
 ===Original===
@@ -693,12 +668,9 @@ The Italians did not conceal the purpose of their visit: they came to Balaklava 
 
 ===Chinese===
 
-虽然他用意大利语、用他软软的音乐般的口音念这些诗，意思却不用翻译就明白，全亏他那妙极了的表意手势：他把被想象中的火燎着的手那么突然疼似的一缩，又那么一脸嫌恶地一脚踢开那块冷炭！
-船上还有船长和两位大副。可全船顶了不起的人物，当然是那位潜水员——*帕隆巴罗*——一位体面的热那亚人，名叫萨尔瓦托雷·特拉马。
-他那又大又圆的、古铜色的脸上，一条条充血的青筋像小蛇，脸上密布着黑点，像让火药崩过似的。他个子不高，可胸围出奇地大，肩膀又宽，脖子又粗壮有力，看上去像个很胖的人。他两手插在裤兜里、迈着懒洋洋的步子、两脚撇开沿堤岸走的时候，远看像一块走动的方块——他的宽度不小于他的高度。
-萨尔瓦托雷·特拉马是个和气、懒洋洋地快活、轻信的人，有中风的趋向。他不拒绝讲他职业经历里的种种离奇怪事。
-有一回，在比斯开湾，他下到五十码深的海底。忽然，在深处的绿色幽暗里，他注意到一团巨大的影子从上方直朝他压下来。随后影子停住了。透过潜水盔的圆窗，萨尔瓦托雷看见自己头顶上一码远的地方，是一条巨大的电鳐，直径约五码，“有这间屋子这么大”，特拉马比划着说。它一动不动地悬着，摆动着它那又圆又扁的身体的边缘。它的双尾上带着强大的电荷，只要轻轻碰潜水员一下，勇敢的特拉马就没命了。那两分钟的等待——末了那怪物似乎改了主意，慢慢游开了，抖着薄薄的、波浪似的侧翼——特拉马认为是他那艰险一生里顶可怕的时分。
-他还讲到他怎样在水底下遇见过被抛下海的死水兵。
+意大利人不隐瞒他们来访的目的：他们来巴拉克拉瓦，就是专勘海难的现场，情况允许的话，把海底一切值钱的残余捞上来——当然，主要是那份传说中的黄金。探险队由朱塞佩·雷斯塔齐带队，一位工程师，一种专门潜水器的发明人。他中等年纪，高个儿，寡言，永远穿一身灰，灰色的长脸，头发几乎白了，一只眼上有白翳——总之，与其说像意大利人，不如说像英国人。他下榻在海滩边的旅馆里；傍晚你去看他，他请你喝基安蒂酒，还请听他心爱的诗人斯泰凯蒂的诗：
+
+> “女人的爱情像煤：烧着时烫人，冷了时脏人。”
 
 ===Original===
 
@@ -711,12 +683,12 @@ He spoke also of how he met under water dead sailors, who had been thrown overbo
 
 ===Chinese===
 
-尽管脚上坠着重物，又因为尸体腐烂发胀，他们停在一层密度特殊的水里，既沉不下去也浮不上来。他们直挺挺地立着，脚上拴着炮弹，顺着缓流在水里旅行。
-特拉马还讲过另一名潜水员——他的亲戚和师父——遭的一场神秘的意外。那是个上了年纪、健壮、冷静、大胆的人，找遍了全球几乎所有的海底。这门特别而危险的营生，他像每个真正的潜水员一样，打心眼里热爱。
-有一回，这人在敷设海底电缆，得下到比较浅的地方。可他刚一到底、发了信号，就发出了警报信号：“拉我上去。有危险。”
-人们急忙把他拖上来，摘掉连着潜水服的黄铜盔，人人都被他那吓坏了的神情吓了一跳：脸白了，眼直了。大家给他剥掉衣服，灌了几口白兰地，百般安抚。他的牙床骨咯咯地响了半天，一个字也说不出。末了他缓过来，说：
-“够了！我再也不下去了！我看见过了。…”
-直到咽气，他没对任何人说过究竟是什么样的景象或幻象把他的神经吓成这样。话头一碰到这件事，他就闷声不响，立刻抽身离开。……他说话算话：从此再没有下过海底。
+虽然他用意大利语、用他软软的音乐般的口音念这些诗，意思却不用翻译就明白，全亏他那妙极了的表意手势：他把被想象中的火燎着的手那么突然疼似的一缩，又那么一脸嫌恶地一脚踢开那块冷炭！
+船上还有船长和两位大副。可全船顶了不起的人物，当然是那位潜水员——*帕隆巴罗*——一位体面的热那亚人，名叫萨尔瓦托雷·特拉马。
+他那又大又圆的、古铜色的脸上，一条条充血的青筋像小蛇，脸上密布着黑点，像让火药崩过似的。他个子不高，可胸围出奇地大，肩膀又宽，脖子又粗壮有力，看上去像个很胖的人。他两手插在裤兜里、迈着懒洋洋的步子、两脚撇开沿堤岸走的时候，远看像一块走动的方块——他的宽度不小于他的高度。
+萨尔瓦托雷·特拉马是个和气、懒洋洋地快活、轻信的人，有中风的趋向。他不拒绝讲他职业经历里的种种离奇怪事。
+有一回，在比斯开湾，他下到五十码深的海底。忽然，在深处的绿色幽暗里，他注意到一团巨大的影子从上方直朝他压下来。随后影子停住了。透过潜水盔的圆窗，萨尔瓦托雷看见自己头顶上一码远的地方，是一条巨大的电鳐，直径约五码，“有这间屋子这么大”，特拉马比划着说。它一动不动地悬着，摆动着它那又圆又扁的身体的边缘。它的双尾上带着强大的电荷，只要轻轻碰潜水员一下，勇敢的特拉马就没命了。那两分钟的等待——末了那怪物似乎改了主意，慢慢游开了，抖着薄薄的、波浪似的侧翼——特拉马认为是他那艰险一生里顶可怕的时分。
+他还讲到他怎样在水底下遇见过被抛下海的死水兵。
 
 ===Original===
 
@@ -729,11 +701,12 @@ Until his dying hour he told no one what sight or hallucination had shaken his m
 
 ===Chinese===
 
-“热那亚号”上有十五个上下的水手。他们全住在船上，很少上岸。他们同巴拉克拉瓦渔人的关系，一直疏远而客气。只有科利亚·康斯坦迪不时好心地同他们打招呼：
-“*日安，诸位先生。红酒。…*”
-这些快活的南方小伙子，逛过里约热内卢、马达加斯加、爱尔兰、非洲和欧洲大陆多少热闹的港口之后，在巴拉克拉瓦准是闷得慌。海上，是不断的危险和全身力气绷到极处；岸上，是酒、女人、唱歌、跳舞，再打一架痛快的——这才是真正的水手的日子。可巴拉克拉瓦只是个小小的、安静的地方，一条窄窄的淡蓝色的水湾，藏没在秃崖中间，崖上蹲着几十间棚屋。这儿的酒又酸又冲——至于女人，供风流水手消遣的一个也没有。巴拉克拉瓦的妻子和女儿们过着端静贞洁的日子。她们唯一的消遣，是在泉水池边慢慢闲聊——主妇们都上那儿灌水。男人之间，哪怕是至交或亲戚，也不兴串门，宁可约在咖啡店或码头上见。
-不过有一回，渔人们倒给意大利人帮了个小忙。“热那亚号”上有一条汽艇，装着一部又老又坏的机器。几个水手在大副带领下，坐这条汽艇出了海。可是，像黑海上常有的，从岸上刮起一阵狂风，把这条轻飘的小艇越推越快地推向大海。意大利人有好一阵不肯认输：同风浪搏斗了一个钟头，从礁石上看那只顶着一条烟尾巴的小贝壳，真叫人心焦：一会儿蹿上浪峰，一会儿整个不见了，像沉进浪里。汽艇顶不住风，被越推越远。末了，从热那亚要塞上望船的人看见烟囱上升起一块白布。用信号的话说，那是：“我遇险了。”巴拉克拉瓦两条最好的帆船，“俄罗斯光荣号”和“斯维特兰娜号”，立刻扬帆出海。
-两个钟头后，她们把汽艇拖了回来。意大利人有点垂头丧气，拿相当勉强的方式自嘲处境。
+尽管脚上坠着重物，又因为尸体腐烂发胀，他们停在一层密度特殊的水里，既沉不下去也浮不上来。他们直挺挺地立着，脚上拴着炮弹，顺着缓流在水里旅行。
+特拉马还讲过另一名潜水员——他的亲戚和师父——遭的一场神秘的意外。那是个上了年纪、健壮、冷静、大胆的人，找遍了全球几乎所有的海底。这门特别而危险的营生，他像每个真正的潜水员一样，打心眼里热爱。
+有一回，这人在敷设海底电缆，得下到比较浅的地方。可他刚一到底、发了信号，就发出了警报信号：“拉我上去。有危险。”
+人们急忙把他拖上来，摘掉连着潜水服的黄铜盔，人人都被他那吓坏了的神情吓了一跳：脸白了，眼直了。大家给他剥掉衣服，灌了几口白兰地，百般安抚。他的牙床骨咯咯地响了半天，一个字也说不出。末了他缓过来，说：
+“够了！我再也不下去了！我看见过了。…”
+直到咽气，他没对任何人说过究竟是什么样的景象或幻象把他的神经吓成这样。话头一碰到这件事，他就闷声不响，立刻抽身离开。……他说话算话：从此再没有下过海底。
 
 #### V / 五
 ===Original===
@@ -746,10 +719,11 @@ Two hours later they towed in the launch. The Italians were somewhat crestfallen
 
 ===Chinese===
 
-渔人们也说笑话，可带着明显的居高临下。
-有时，捕比目鱼或白鲟的时候，渔人们碰巧钩上一种海猫——电鳐的一种。渔人们小心翼翼地摘下它，抛回海里。可不知是谁——多半是那位意大利语学生科利亚——放出风声，说意大利人把海猫奉为至味。打那以后，常常有渔人从海上回来，路过汽船时朝上喊：
-“*意大利人，先生们！*拿去当午饭吧！”
-那条又圆又扁的电鳐穿过空中飞过去，沉甸甸地砸在甲板上。意大利人笑着，亮出一口好牙，好脾气地摇头，用他们的话咕哝着什么。他们多半在想：海猫被视为本地顶讲究的美味，他们不愿意拒绝好心的渔人的美意而失礼。…
+“热那亚号”上有十五个上下的水手。他们全住在船上，很少上岸。他们同巴拉克拉瓦渔人的关系，一直疏远而客气。只有科利亚·康斯坦迪不时好心地同他们打招呼：
+“*日安，诸位先生。红酒。…*”
+这些快活的南方小伙子，逛过里约热内卢、马达加斯加、爱尔兰、非洲和欧洲大陆多少热闹的港口之后，在巴拉克拉瓦准是闷得慌。海上，是不断的危险和全身力气绷到极处；岸上，是酒、女人、唱歌、跳舞，再打一架痛快的——这才是真正的水手的日子。可巴拉克拉瓦只是个小小的、安静的地方，一条窄窄的淡蓝色的水湾，藏没在秃崖中间，崖上蹲着几十间棚屋。这儿的酒又酸又冲——至于女人，供风流水手消遣的一个也没有。巴拉克拉瓦的妻子和女儿们过着端静贞洁的日子。她们唯一的消遣，是在泉水池边慢慢闲聊——主妇们都上那儿灌水。男人之间，哪怕是至交或亲戚，也不兴串门，宁可约在咖啡店或码头上见。
+不过有一回，渔人们倒给意大利人帮了个小忙。“热那亚号”上有一条汽艇，装着一部又老又坏的机器。几个水手在大副带领下，坐这条汽艇出了海。可是，像黑海上常有的，从岸上刮起一阵狂风，把这条轻飘的小艇越推越快地推向大海。意大利人有好一阵不肯认输：同风浪搏斗了一个钟头，从礁石上看那只顶着一条烟尾巴的小贝壳，真叫人心焦：一会儿蹿上浪峰，一会儿整个不见了，像沉进浪里。汽艇顶不住风，被越推越远。末了，从热那亚要塞上望船的人看见烟囱上升起一块白布。用信号的话说，那是：“我遇险了。”巴拉克拉瓦两条最好的帆船，“俄罗斯光荣号”和“斯维特兰娜号”，立刻扬帆出海。
+两个钟头后，她们把汽艇拖了回来。意大利人有点垂头丧气，拿相当勉强的方式自嘲处境。
 
 ===Original===
 
@@ -760,14 +734,32 @@ The round, flat electric ray would shoot through the air and fall on the deck wi
 
 ===Chinese===
 
-来到两个星期以后，意大利人造成并放下了一只大木筏，上面装了蒸汽机——一台打气机。起重机的长臂像一根巨大的钓竿，斜斜地立在筏子上。一个礼拜天，萨尔瓦托雷·特拉马头一回被放进湾水里。他穿着普通的灰色潜水胶衣——穿上显得比平常更大——铅底鞋，胸口的铁胸甲，还有罩住脑袋的圆铜盔。他在湾底走了约莫半个钟头，一路的水面上冒着升上来的大团气泡。一星期后，全巴拉克拉瓦都知道了：第二天潜水员要下到白石那里，下一百码深。到了那个早晨，那条又小又寒磣的汽艇把筏子拖到湾口时，几乎全部停泊在湾里的渔船都等在白石那儿了。
-雷斯塔齐先生这项发明的主要长处，在于它能让潜水员下到那样的深度——穿普通潜水服的人在那儿会被水的巨大压力压碎。我们的渔人怀着惊奇、无论如何怀着深深的敬意，看着在眼前进行的准备。先是蒸汽起重机吊起一个怪匣子，稍微像一具去了头和胳膊的人形。它是厚铜板做的，外面罩着淡蓝色的珐琅。随后这只潜水服像一只巨大的雪茄盒那样打开，里面要放的不是雪茄，是一个活人的身体。萨尔瓦托雷·特拉马叼着烟卷，平静地看着这些准备，懒懒地微笑，不时说两句闲话。随后他把烟头往舷外一扔，摇摇摆摆走到匣子跟前，跨了进去。几个机械师在他身上忙了好一阵，装配上种种器械；可以说，完事之后，潜水员的那副样子相当吓人。只有两条胳膊留在外面，身体其余部分关在一口分量沉重的、淡蓝色珐琅的棺材里。
+渔人们也说笑话，可带着明显的居高临下。
+有时，捕比目鱼或白鲟的时候，渔人们碰巧钩上一种海猫——电鳐的一种。渔人们小心翼翼地摘下它，抛回海里。可不知是谁——多半是那位意大利语学生科利亚——放出风声，说意大利人把海猫奉为至味。打那以后，常常有渔人从海上回来，路过汽船时朝上喊：
+“*意大利人，先生们！*拿去当午饭吧！”
+那条又圆又扁的电鳐穿过空中飞过去，沉甸甸地砸在甲板上。意大利人笑着，亮出一口好牙，好脾气地摇头，用他们的话咕哝着什么。他们多半在想：海猫被视为本地顶讲究的美味，他们不愿意拒绝好心的渔人的美意而失礼。…
 
 #### VI / 六
 ===Original===
 
 Two weeks after their arrival, the Italians built and launched a large raft, on which they placed a steam-engine, an air-pumping machinery. The long shaft of a crane, like a huge fishing-rod, rose slantingly over the raft. Once, on a Sunday, Salvatore Trama was lowered for the first time into the water of the bay. He wore the ordinary gray rubber suit of a diver, in which he appeared larger than usual, shoes with leaden soles, and iron shirtfront on his chest, and a round brass helmet which encased his head. He walked on the bottom of the bay for about half an hour, and his road was marked by a mass of air-bubbles which welled up to the surface. And a week later all Balaklava learned that on the following day the diver was to go down at the White Stones, to the depth of a hundred yards. And when on that morrow the small, miserable launch towed the raft to the mouth of the bay, almost all the fishermen’s barks which were stationed in the bay were waiting at the White Stones.
 The main advantage of Mr. Restucci’s invention was that it enabled a diver to reach a depth at which a man in an ordinary scaphander would be crushed by the tremendous pressure of the water. It was with surprise and, at any rate, with a feeling of deep respect that our fishermen watched the preparations which were being made before their eyes. First the steam crane lifted up and set down a strange case which resembled slightly the human figure deprived of its head and arms. It was made of a thick sheet of copper, on the outside covered with pale-blue enamel. Then this scaphander was opened like a gigantic cigar-case, in which, instead of a cigar, a human body was to be placed. Salvatore Trama, smoking a cigarette, calmly watched these preparations and lazily smiled, passing careless remarks from time to time. Then he flung the cigarette end overboard, waddled over to the case, and slid into it. Several mechanics busied themselves over him for a long time, setting up all sorts of apparatus, and it must be said that when the work was done, the diver presented quite a dreadful spectacle. Only his arms remained outside, the rest of his body being shut up in a solid pale-blue enamelled coffin of tremendous weight.
+
+===Chinese===
+
+来到两个星期以后，意大利人造成并放下了一只大木筏，上面装了蒸汽机——一台打气机。起重机的长臂像一根巨大的钓竿，斜斜地立在筏子上。一个礼拜天，萨尔瓦托雷·特拉马头一回被放进湾水里。他穿着普通的灰色潜水胶衣——穿上显得比平常更大——铅底鞋，胸口的铁胸甲，还有罩住脑袋的圆铜盔。他在湾底走了约莫半个钟头，一路的水面上冒着升上来的大团气泡。一星期后，全巴拉克拉瓦都知道了：第二天潜水员要下到白石那里，下一百码深。到了那个早晨，那条又小又寒磣的汽艇把筏子拖到湾口时，几乎全部停泊在湾里的渔船都等在白石那儿了。
+雷斯塔齐先生这项发明的主要长处，在于它能让潜水员下到那样的深度——穿普通潜水服的人在那儿会被水的巨大压力压碎。我们的渔人怀着惊奇、无论如何怀着深深的敬意，看着在眼前进行的准备。先是蒸汽起重机吊起一个怪匣子，稍微像一具去了头和胳膊的人形。它是厚铜板做的，外面罩着淡蓝色的珐琅。随后这只潜水服像一只巨大的雪茄盒那样打开，里面要放的不是雪茄，是一个活人的身体。萨尔瓦托雷·特拉马叼着烟卷，平静地看着这些准备，懒懒地微笑，不时说两句闲话。随后他把烟头往舷外一扔，摇摇摆摆走到匣子跟前，跨了进去。几个机械师在他身上忙了好一阵，装配上种种器械；可以说，完事之后，潜水员的那副样子相当吓人。只有两条胳膊留在外面，身体其余部分关在一口分量沉重的、淡蓝色珐琅的棺材里。
+
+===Original===
+
+A huge pale-blue ball, with three bull’s-eyes﻿—one in the front and two on the sides﻿—and with an electric lantern in the forehead, hid his head; the main cable, a rubber pipe for air, a signalling rope, a telephone wire, and a light-conducting wire seemed to cover the apparatus with a net, increasing the air of oddity and dread which rested on this pale-blue massive mummy, provided with living human arms.
+The steam-engine gave a signal, and the air resounded with the clatter of chains. The bizarre, pale-blue box separated itself from the deck of the raft and it sailed through the air calmly, twirling on its vertical axis, then started downward slowly. First it touched the surface of the water, then plunged down to its feet, its waist, its shoulders.﻿ ﻿… Presently the head, too, disappeared, and finally nothing was seen except the steel cable, slowly descending into the water. Silently and seriously the fishermen exchanged glances and shook their heads.﻿ ﻿…
+Engineer Restucci is at the telephone. From time to time he flings short commands to the mechanic who regulates the movements of the rope. All around in the boats reigns complete, deep silence, interrupted only by the hissing of the air-pumping machine, the noise of pinions, the whizzing of the steel cable on the pulleys, and the abrupt words of the engineer. All eyes are fixed on the spot where the terrible ball-like head had disappeared.
+The descent is painfully long. It lasts more than an hour. But finally Restucci becomes animated, speaks several times into the telephone receiver, and suddenly utters a short command:
+“Stop!﻿ ﻿…”
+Now all the spectators understand that the diver has reached the bottom, and everyone heaves a sigh of relief. The most terrible part is over.﻿ ﻿…
+Squeezed into his metallic case, with only his arms free, Trama was unable to move on the sea bottom. The only thing he could do was to order through the telephone that he be transported forward together with the raft or moved to the side by means of the crane, lifted up, or lowered down. Without leaving the telephone, Restucci calmly and imperiously repeated his orders and it seemed as if the raft, the crane, and all the machines were set in motion by the will of an invisible, mysterious being under the water.
+Twenty minutes later Salvatore Trama gave a signal that he be lifted up.
 
 ===Chinese===
 
@@ -779,3 +771,56 @@ The main advantage of Mr. Restucci’s invention was that it enabled a diver to
 此刻看客们全明白了：潜水员到海底了，人人都松了口气。顶可怕的过去了。…
 特拉马紧紧塞在他那金属匣子里，只有两只胳膊露着，在海底动弹不得。他惟一能做的，是通过电话吩咐人把他连筏子朝前挪，或者用起重机挪到边上，吊起来，或者放下去。雷斯塔齐不离开电话，平静而专断地重发着他的命令，仿佛筏子、起重机和一切机器，都听命于水底下那个看不见的、神秘的存在。
 二十分钟后，萨尔瓦托雷·特拉马发出信号，要人把他拉上去。
+
+===Original===
+
+Slowly, as before, he was dragged up to the surface, and when he was again suspended in the air, he gave the odd impression of a terrible and at the same time helpless animal, miraculously extracted from the deep.
+At last the case stood on the deck. The sailors quickly and adroitly took off the helmet and unpacked the case. Trama emerged from it sweating, choking, his face almost black with blood congestion. He seemed to make an effort to smile, but the result was a grimace of suffering and weariness. The fishermen in their boats remained respectfully silent and shook their heads as a sign of amazement and, according to the Greek custom, clacked their tongues significantly.
+An hour later all Balaklava knew what the diver had seen on the sea bottom, at the White Stones. Most of the ships were so thoroughly buried in mud and all sorts of dirt, that there was no hope of lifting them up. As for the three-mast frigate with gold, which had been sucked in by the sea bottom, the only part of it which was still visible was a bit of the prow on which were the green copper letters: “*… ck Pr.﻿ ﻿…*”
+Trama also told that around the sunken squadron he saw many boat anchors, and this news moved the fishermen, because each of them, at least once in his life, had to leave his anchor there, caught in the rocks and the fragments of the ill-fated fleet.
+
+===Chinese===
+
+他像先前一样被慢慢拖上水面，重新吊在半空的时候，给人的印象古怪极了：一头可怕的、可同时又是无能为力的动物，奇迹似的从深渊里捞了出来。
+匣子终于立在甲板上。水手们麻利地卸下头盔，打开匣子。特拉马从里面钻出来，满身汗，喘不上气，脸憋得几乎发黑，全是淤积的血。他像是想笑一笑，结果只做出一副痛苦疲惫的怪相。渔人们坐在各自船里，恭敬地不作声，摇着头表示惊叹，又按希腊人的习惯，意味深长地咂着舌头。
+一个钟头以后，潜水员在白石海底看见了什么，全巴拉克拉瓦都知道了。大部分船让淤泥和各种脏东西埋得严严实实，没有指望捞上来了。至于那条载金子的三桅巡防舰，早叫海底吸了进去，还看得见的只剩船头上一小块，上面有发绿的铜字母：“…ck Pr.…”（黑王子号）
+特拉马还说，沉没的舰队四周他看见许多小船的锚。这消息很叫渔人们动情：他们每个人，一辈子至少有过一回，不得不把自家的锚丢在那里——卡在礁石里，卡在那倒霉舰队的残骸中间。
+
+#### VII / 七
+===Original===
+
+The Balaklava fishermen, too, once succeeded in offering the Italians an extraordinary and, in a sense, magnificent spectacle. It was on the 6th of January, on the day of our Lord’s baptism, which at Balaklava is celebrated in quite a peculiar manner.
+By this time the Italian divers were completely convinced of the uselessness of further efforts to lift up the squadron. In a few days they were to sail home to their beloved gay Genoa, and they were hastily putting the steamer in order, scrubbing and washing the deck, and cleaning the engines.
+The church procession, the clergy in gold-wrought vestures, the banners, the cross, and the saints’ images, the church singing﻿—all this attracted their attention and they stood on the deck, leaning over its railing.
+The clergy ascended the boards of the landing-place. Behind them women, old men, and children were crowded together. As for the younger men, they sat in their boats, which formed a narrow semicircle around the landing-place.
+The day was sunny, transparent, and cold. The snow which had fallen the night before covered the streets, roofs, and the bald, brown hills; the water in the bay was an amethyst blue, and the azure of the heavens smiled festively.
+The young fishermen wore underwear merely for the sake of decorum, and many of them were stripped to the waist. They all shivered with cold, and rubbed their frozen hands and chests. The singing of the chorus, harmonious and sweet, floated over the motionless stretch of the clear waters.
+“On the river Jordan﻿ ﻿…” sang the priest in a thin falsetto, and the cross, raised high, sparkled in his hand.﻿ ﻿… The most critical moment had arrived. The fishermen stood each on the prow of his boat, all half-naked, bending forward in impatient expectation.
+The priest again raised his voice and the chorus joined in harmoniously and joyfully: “On the river Jordan.” At last, the cross rose for the third time above the crowd, and suddenly, sent flying by the priest’s hand, it described a shining arc in the air and fell into the sea with a splash.
+At the same moment dozens of strong, muscular bodies leaped from the boats into the sea, head first, shouting and splashing the water. Three, four seconds passed. The empty boats rocked and bowed; the churned-up water pitched and tossed.﻿ ﻿…
+
+===Chinese===
+
+巴拉克拉瓦的渔人们，也有过一回，成功地向意大利人献上了一场出奇的、某种意义上堪称壮丽的奇观。那是在一月六号，主领洗节，这个节日在巴拉克拉瓦的过法相当特别。
+到这时候，意大利的潜水员们已经完全相信，再想把那支舰队捞上来是白费劲了。再过几天他们就要启航回心爱的、快活的热那亚去，正赶紧收拾汽船：擦洗冲刷甲板，清理机器。
+教会的行列、穿金线绣花法衣的教士们、幡、十字架和圣像、教堂的歌声——这一切吸引了他们的注意，他们站在甲板上，倚着栏杆。
+教士们登上码头的跳板。他们身后挤着妇女、老人和孩子。年轻些的男人则坐在自家船里，船在码头四周围成一个窄窄的半圆。
+天气晴朗、透亮、寒冷。头天夜里落的雪盖住了街道、屋顶和光秃秃的褐色山冈；湾里的水是紫晶般的蓝，天空的碧蓝欢欢喜喜地微笑着。
+年轻的渔人们穿内衣裤只是为了体面，好些人干脆光着上身。他们全都冻得发抖，搓着冻僵的手和胸膛。唱诗班的歌声和谐而甜美，飘在清澈水面一平如镜的上方。
+“在约旦河畔……”神父用细细的假声唱道，高举的十字架在他手里闪闪发亮。……最要紧的时刻到了。渔人们个个立在自家船头，全都半裸着身子，焦灼地探身向前。
+神父又一次扬起嗓音，唱诗班和谐而欢快地接了上去：“在约旦河畔。”末了，十字架第三次在人群头顶举起，忽然，从神父手里飞出，在空中划出一道发亮的弧线，扑通一声落进海里。
+同一瞬间，几十条结实筋肉的身子从船上头朝下跳进海里，喊叫着，溅着水花。三秒，四秒过去了。空船摇晃着点头；搅翻的水上下颠腾。……
+
+===Original===
+
+Then one after the other, shaking, snorting heads, with hair falling over their eyes, began to appear above the water. The last one to emerge was young Yani Lipiadi. He held the cross in his hand.
+The gay Italians could not remain serious at the sight of this extraordinary, half-sportlike, half-religious rite, hallowed by immemorial antiquity. They met the winner with such noisy applause that even the kindly priest shook his head disapprovingly:
+“Very unseemly.﻿ ﻿… Very unseemly, indeed.﻿ ﻿… Is this a theatrical performance for them?”
+The snow sparkled dazzlingly, the blue water caressed the eye, the sun flooded with its gold the bay, the hills, and the people, and the sea exhaled a strong, thick, and powerful odor. Fine!
+
+===Chinese===
+
+随后，一个接一个，摇晃着、喷着鼻息的脑袋开始冒出水面，头发耷拉到眼睛上。最后钻出来的是年轻的亚尼·利皮阿季。他手里攥着十字架。
+快活的意大利人见了这场出奇的、半像游戏半像宗教的、经太古习俗圣化了的仪式，忍不住板不起脸。他们朝得胜者那样喧闹地鼓掌，连和善的神父都摇头表示不以为然：
+“太不成体统。……真太不成体统了。……他们当这是看戏吗？”
+雪晃眼地闪着光，蓝水抚着人的眼睛，太阳把它的金子泼洒在海湾上、山冈上、人们身上，海呼出浓烈、厚重而有力的气息。真好！

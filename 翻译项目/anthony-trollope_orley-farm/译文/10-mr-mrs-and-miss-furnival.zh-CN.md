@@ -1,0 +1,113 @@
+## X Mr., Mrs., and Miss Furnival / 十 弗尼瓦尔先生、太太与小姐
+===Original===
+
+I will now ask my readers to come with me up to London, in order that I may introduce them to the family of the Furnivals. We shall see much of the Furnivals before we reach the end of our present undertaking, and it will be well that we should commence our acquaintance with them as early as may be done.
+Mr. Furnival was a lawyer﻿—I mean a barrister﻿—belonging to Lincoln’s Inn, and living at the time at which our story is supposed to commence in Harley Street. But he had not been long a resident in Harley Street, having left the less fashionable neighbourhood of Russell Square only two or three years before that period. On his marriage he had located himself in a small house in Keppel Street, and had there remained till professional success, long waited for, enabled him to move further west, and indulge himself with the comforts of larger rooms and more servants. At the time of which I am now speaking Mr. Furnival was known, and well known, as a successful man; but he had struggled long and hard before that success had come to him, and during the earliest years of his married life had found the work of keeping the wolf from the door to be almost more than enough for his energies.
+Mr. Furnival practised at the common law bar, and early in life had attached himself to the home circuit. I cannot say why he obtained no great success till he was nearer fifty than forty years of age. At that time I fancy that barristers did not come to their prime till a period of life at which other men are supposed to be in their decadence. Nevertheless, he had married on nothing, and had kept the wolf from the door. To do this he had been constant at his work in season and out of season, during the long hours of day and the long hours of night. Throughout his term times he had toiled in court, and during the vacations he had toiled out of court. He had reported volumes of cases, having been himself his own shorthand writer﻿—as it is well known to most young lawyers, who as a rule always fill an upper shelf in their law libraries with Furnival and Staples’ seventeen volumes in calf. He had worked for the booksellers, and for the newspapers, and for the attorneys﻿—always working, however, with reference to the law; and though he had worked for years with the lowest pay, no man had heard him complain.
+
+===Chinese===
+
+现在请各位读者随我上伦敦去，容我把弗尼瓦尔一家引见一二。眼下这桩事业抵达终点之前，弗尼瓦尔家的事我们还要见到许多；同他们的相识，趁早开始为好。
+
+弗尼瓦尔先生是位法律家——我是说出庭律师——隶属林肯律师学院；本书假定开场的时日，他住在哈利街。只是哈利街他住得还不久——两三年前，才从不那么时髦的罗素广场左近迁来。成婚时，他在凯佩尔街置了一所小宅，一直住到事业的成功——久候方至的成功——容他再往西迁，纵容自己享用大些的房间、多些的仆人。我此刻讲述的年月里，弗尼瓦尔先生功成名就，无人不晓；可成功临头之前，他挣扎得又久又苦；婚后最初几年，把饿狼挡在门外这份活计，几乎耗尽了他的全力。
+
+弗尼瓦尔先生执普通法律师业，早年便归入了内巡回区。他为何直到年近五十、四十已过才有大成就，我说不出所以然。想是那个年月，出庭律师不到旁人算作走下坡路的岁数，成不了气候。饶是如此，他成婚时身无长物，却到底把饿狼挡在了门外。为这份家业，他寒暑无间，白日的长时、黑夜的长时，一律伏案。开庭季里他在法庭苦熬，休庭季里他在庭外苦熬。判例他编过好几卷，速记也是他自兼——这一点大多数年轻律师无不知晓：他们律师事务所的书架上，照例有一格上层摆着小牛皮面的《弗尼瓦尔-斯特普尔斯判例集》十七卷。他替书商干过，替报纸干过，替事务律师干过——干的却始终围着法律转；报酬低到尘埃里的年头他熬了许多，却没听哪个男人听他抱怨过。
+
+===Original===
+
+That no woman had heard him do so, I will not say; as it is more than probable that into the sympathising ears of Mrs. Furnival he did pour forth plaints as to the small wages which the legal world meted out to him in return for his labours. He was a constant, hard, patient man, and at last there came to him the full reward of all his industry. What was the special case by which Mr. Furnival obtained his great success no man could say. In all probability there was no special case. Gradually it began to be understood that he was a safe man, understanding his trade, true to his clients, and very damaging as an opponent. Legal gentlemen are, I believe, quite as often bought off as bought up. Sir Richard and Mr. Furnival could not both be required on the same side, seeing what a tower of strength each was in himself; but then Sir Richard would be absolutely neutralized if Mr. Furnival were employed on the other side. This is a system well understood by attorneys, and has been found to be extremely lucrative by gentlemen leading at the bar.
+Mr. Furnival was now fifty-five years of age, and was beginning to show in his face some traces of his hard work. Not that he was becoming old, or weak, or worn; but his eye had lost its fire﻿—except the fire peculiar to his profession; and there were wrinkles in his forehead and cheeks; and his upper lip, except when he was speaking, hung heavily over the lower; and the loose skin below his eye was forming into saucers; and his hair had become grizzled; and on his shoulders, except when in court, there was a slight stoop. As seen in his wig and gown he was a man of commanding presence﻿—and for ten men in London who knew him in this garb, hardly one knew him without it. He was nearly six feet high, and stood forth prominently, with square, broad shoulders and a large body. His head also was large; his forehead was high, and marked strongly by signs of intellect; his nose was long and straight, his eyes were very gray, and capable to an extraordinary degree both of direct severity and of concealed sarcasm. Witnesses have been heard to say that they could endure all that Mr. Furnival could say to them, and continue in some sort to answer all his questions, if only he would refrain from looking at them. But he would never refrain; and therefore it was now well understood how great a thing it was to secure the services of Mr.
+
+===Chinese===
+
+至于没有女人听他抱怨过，这话我不说；十有八九，弗尼瓦尔太太那双善解人意的耳朵，没少接住他倾倒的苦水：法律界付他辛劳的工钱，何其微薄。他是条恒心、苦干、能忍的汉子；到头来，全部勤勉的报偿一并到了他手里。
+
+弗尼瓦尔先生凭哪一桩案子成就的大名，谁也说不清。多半根本没有哪一桩。渐渐地，人们公认他是个靠得住的人：本行精熟，对委托人尽心，做对手又极具杀伤力。法律界的先生们，我相信，被人收买同被人延聘，机会常常不相上下。理查德爵士和弗尼瓦尔先生没法请到同一边——两人各自都是一座堡垒；可若把弗尼瓦尔先生延到对家，理查德爵士便等于全数作废。这套体系，事务律师们深有领会；律界领袖诸公也发觉它获利极丰。
+
+弗尼瓦尔先生如今五十五岁，脸上开始见出苦干的痕迹。倒不是老了、弱了、磨残了；只是眼里那点火——行业特有的那把除外——熄了；额头腮上起了皱纹；不说话时，上唇沉沉搭在下唇上；眼下的松皮窝成了小碟；头发花白；肩膀，出庭时除外——微微有些佝。戴上假发、穿上法袍看，他是位威仪堂堂的人物——伦敦认得他这身行头的有十个，认得他卸了行头的，难有一个。他身量近六英尺，方肩宽阔，身躯魁伟，望之赫然。头也大；额头高，智性的印记刻得深；鼻子长而直；眼睛极灰，那双眼出奇地既能正颜厉色、又能藏刀于笑。有证人说过：弗尼瓦尔先生说什么他们都熬得住，问什么他们好歹都答得上——只要他不看他们。可他从来照看不误；于是，能延得动
+
+===Original===
+
+Furnival. “Sir,” an attorney would say to an unfortunate client doubtful as to the expenditure, “your witnesses will not be able to stand in the box if we allow Mr. Furnival to be engaged on the other side.” I am inclined to think that Mr. Furnival owed to this power of his eyes his almost unequalled perfection in that peculiar branch of his profession. His voice was powerful, and not unpleasant when used within the precincts of a court, though it grated somewhat harshly on the ears in the smaller compass of a private room. His flow of words was free and good, and seemed to come from him without the slightest effort. Such at least was always the case with him when standing wigged and gowned before a judge. Latterly, however, he had tried his eloquence on another arena, and not altogether with equal success. He was now in Parliament, sitting as member for the Essex Marshes, and he had not as yet carried either the country or the House with him, although he had been frequently on his legs. Some men said that with a little practice he would yet become very serviceable as an honourable and learned member; but others expressed a fear that he had come too late in life to these new duties.
+I have spoken of Mr. Furnival’s great success in that branch of his profession which required from him the examination of evidence, but I would not have it thought that he was great only in this, or even mainly in this. There are gentlemen at the bar, among whom I may perhaps notice my old friend Mr. Chaffanbrass as the most conspicuous, who have confined their talents to the browbeating of witnesses﻿—greatly to their own profit, and no doubt to the advantage of society. But I would have it understood that Mr. Furnival was by no means one of these. He had been no Old Bailey lawyer, devoting himself to the manumission of murderers, or the security of the swindling world in general. He had been employed on abstruse points of law, had been great in will cases, very learned as to the rights of railways, peculiarly apt in enforcing the dowries of married women, and successful above all things in separating husbands and wives whose lives had not been passed in accordance with the recognised rules of Hymen.
+
+===Chinese===
+
+弗尼瓦尔先生，是何等要紧的一件事，如今人人皆知。“先生，”事务律师会对心疼钱袋的倒霉委托人说，“若是放任对方请了弗尼瓦尔先生，您的证人站不住证人席的。”
+
+我倾向于认为：他那行当里那门独门的几乎无双的造诣，全靠他这双眼的威力。他的嗓音洪亮，在法院四墙之内用起来不算刺耳；只是移到私室的小天地里，便有些刮耳。他言辞滔滔，流畅漂亮，仿佛全不费力。至少，假发法袍上身、立在大法官面前时，永远如此。只是近来他把口才挪到另一处场子试了试，成绩未算并驾。他如今身在议会，代表埃塞克斯沼泽选区；起立发言虽已多回，全国也罢、议院也罢，都还没被他拿下。有人说，稍稍历练，他还不失为一位顶有用的尊敬的博学议员；也有人担心，这些新职分他上得太晚，来不及了。
+
+弗尼瓦尔先生在需要盘查证据的那一科里成就极大，我说过了；可别因此以为他只在这里、或主要在这里伟大。律师界有那么一批先生——容我举老友沙凡布拉斯先生为最显赫者——把才华尽数用在吓唬证人上头，自己获利极丰，社会想必也蒙其利。可我要说明白：弗尼瓦尔先生绝非此中人。他不是老贝利的讼师，一门心思替杀人犯解脱，保诈骗天下平安。他受聘办的都是法律的深奥难点：遗嘱案里他是大家，铁路的权利他学问精深，已婚妇人嫁妆的追讨他尤其拿手；而最最所向披靡的，是拆散那些不曾遵照许门公认的规矩过日子的夫妻。
+
+===Original===
+
+Indeed there is no branch of the Common Law in which he was not regarded as great and powerful, though perhaps his proficiency in damaging the general characters of his opponents has been recognised as his especial forte. Under these circumstances I should grieve to have him confounded with such men as Mr. Chaffanbrass, who is hardly known by the profession beyond the precincts of his own peculiar court in the City. Mr. Furnival’s reputation has spread itself wherever stuff gowns and horsehair wigs are held in estimation.
+Mr. Furnival when clothed in his forensic habiliments certainly possessed a solemn and severe dignity which had its weight even with the judges. Those who scrutinised his appearance critically might have said that it was in some respects pretentious; but the ordinary jurymen of this country are not critical scrutinisers of appearance, and by them he was never held in light estimation. When in his addresses to them, appealing to their intelligence, education, and enlightened justice, he would declare that the property of his clients was perfectly safe in their hands, he looked to be such an advocate as a litigant would fain possess when dreading the soundness of his own cause. Any cause was sound to him when once he had been feed for its support, and he carried in his countenance his assurance of this soundness﻿—and the assurance of unsoundness in the cause of his opponent. Even he did not always win; but on the occasion of his losing, those of the uninitiated who had heard the pleadings would express their astonishment that he should not have been successful.
+When he was divested of his wig his appearance was not so perfect. There was then a hard, long straightness about his head and face, giving to his countenance the form of a parallelogram, to which there belonged a certain meanness of expression. He wanted the roundness of forehead, the short lines, and the graceful curves of face which are necessary to unadorned manly comeliness. His whiskers were small, grizzled, and ill grown, and required the ample relief of his wig. In no guise did he look other than a clever man; but in his dress as a simple citizen he would perhaps be taken as a clever man in whose tenderness of heart and cordiality of feeling one would not at first sight place implicit trust.
+As a poor man Mr.
+
+===Chinese===
+
+说实在的，普通法各科，科科都推他伟大而有力；不过败坏对手的整体人品这门功夫，兴许被公认为他的独门绝艺。因此，把他同沙凡布拉斯先生之流混为一谈，我要痛心的——那位先生出了城里他自己那座专科法庭的四至，本行里几乎没人认得。弗尼瓦尔先生的名声，凡看重布法袍、马鬃假发的地方，无处不到。
+
+法衣上身的弗尼瓦尔先生，自有一股庄重森严的威仪，连法官们也要掂一掂分量。挑剔打量他仪表的人也许会说，某些方面未免做作；可本国的寻常陪审员不是挑剔仪表的人，在他们眼里，他从未轻过。当他向他们陈词，诉诸他们的智慧、教养与开明的公正，宣称委托人的财产搁在他们手里万无一失时——他那副样子，正是一个案情心虚的讼客梦寐以求的辩护士。只要收了辩护金，任何案子到他手里都是稳的；这份稳当，他写在脸上——对手案子的不稳当，他也写在脸上。他当然也有输的时候；可他一输，听过庭辩的外行人无不惊诧：他怎么会输。
+
+假发一摘，他的仪表便逊了。头脸显出一种硬邦邦的长直，整张脸成了个平行四边形，附带几分寒碜的气象。他缺一副圆润的额头、短线条和脸部的雅致弧线——不施藻饰的男子俊美，非这些不可。他的连鬓胡稀疏、花白、长得潦草，全亏假发的宏大荫庇。无论何种装束，他看上去都无疑是聪明人；只是布衣市民的打扮下，人们多半把他看作这样一个聪明人：心肠的温热、性情的敦厚，初见之下不敢全信。
+
+穷的时候，
+
+===Original===
+
+Furnival had done his duty well by his wife and family﻿—for as a poor man he had been blessed with four children. Three of these had died as they were becoming men and women, and now, as a rich man, he was left with one daughter, an only child. As a poor man Mr. Furnival had been an excellent husband, going forth in the morning to his work, struggling through the day, and then returning to his meagre dinner and his long evenings of unremitting drudgery. The bodily strength which had supported him through his work in those days must have been immense, for he had allowed himself no holidays. And then success and money had come﻿—and Mrs. Furnival sometimes found herself not quite so happy as she had been when watching beside him in the days of their poverty.
+The equal mind﻿—as mortal Delius was bidden to remember, and as Mr. Furnival might also have remembered had time been allowed him to cultivate the classics﻿—the equal mind should be as sedulously maintained when things run well, as well as when they run hardly; and perhaps the maintenance of such equal mind is more difficult in the former than in the latter stage of life. Be that as it may, Mr. Furnival could now be very cross on certain domestic occasions, and could also be very unjust. And there was worse than this﻿—much worse behind. He, who in the heyday of his youth would spend night after night poring over his books, copying out reports, and never asking to see a female habiliment brighter or more attractive than his wife’s Sunday gown, he, at the age of fifty-five, was now running after strange goddesses! The member for the Essex Marshes, in these his latter days, was obtaining for himself among other successes the character of a Lothario; and Mrs. Furnival, sitting at home in her genteel drawing-room near Cavendish Square, would remember with regret the small dingy parlour in Keppel Street.
+Mrs. Furnival in discussing her grievances would attribute them mainly to port wine. In his early days Mr. Furnival had been essentially an abstemious man. Young men who work fifteen hours a day must be so. But now he had a strong opinion about certain Portuguese vintages, was convinced that there was no port wine in London equal to the contents of his own bin, saving always a certain green cork appertaining to his own club, which was to be extracted at the rate of thirty shillings a cork. And Mrs.
+
+===Chinese===
+
+弗尼瓦尔先生对妻子儿女尽足了本分——穷的时候，他得赐四个儿女。三个长到将成男女时夭了；如今富了，身边剩下一个女儿，独生的。穷时，弗尼瓦尔先生是位极好的丈夫：清晨出门上工，苦熬一日，回家用一顿寒素的正餐，再熬一整晚不见歇的苦役。支撑他熬过那些年头的体魄，必是惊人：节假日，他一天没给自己放过。后来，成功和钱财来了——弗尼瓦尔太太有时发觉，自己竟不如当年守在苦熬的丈夫身边时快活。
+
+心境的持平——尘世的德利乌斯受嘱须常记，弗尼瓦尔先生若当年有闲修习古典，本也该记得——境遇顺遂时要用心持守，同境遇艰难时一样；而这份持守，人生的顺境一节，怕是比逆境更难。无论如何，如今在家庭内的某些场合，弗尼瓦尔先生会非常乖戾，还会非常不公道。还有比这更糟的——糟得多的在后头。他——青春全盛时一夜一夜伏案啃书、抄判例、从不曾要求看一件比妻子礼拜天的裙衫更鲜亮更动人的女服的人——五十五岁上，竟追逐起外路神女来了！这位埃塞克斯沼泽选区的议员，晚近在种种成就之外，又给自己挣下了一顶浪荡子的名头；弗尼瓦尔太太坐在卡文迪什广场附近自家体面的客厅里，时时追悔凯佩尔街那间昏暗的小客厅。
+
+论及自己的冤苦，弗尼瓦尔太太主要归罪于红葡萄酒。早年，弗尼瓦尔先生本质上是节饮的人。一天干十五个钟头的年轻人，不能不如此。可如今他对葡萄牙的某几种年份自有高见，深信全伦敦的红酒没有一瓶及得上自家酒窖里的存货——唯一的例外，是本俱乐部某支绿木塞的酒，那塞子起一瓶，三十先令。弗尼
+
+===Original===
+
+Furnival attributed to these latter studies not only a certain purple hue which was suffusing his nose and cheeks, but also that unevenness of character and those supposed domestic improprieties to which allusion has been made. It may, however, be as well to explain that Mrs. Ball, the old family cook and housekeeper, who had ascended with the Furnivals in the world, opined that made-dishes did the mischief. He dined out too often, and was a deal too particular about his dinner when he dined at home. If Providence would see fit to visit him with a sharp attack of the gout, it would﻿—so thought Mrs. Ball﻿—be better for all parties.
+Whether or no it may have been that Mrs. Furnival at fifty-five﻿—for she and her lord were of the same age﻿—was not herself as attractive in her husband’s eyes as she had been at thirty, I will not pretend to say. There can have been no just reason for any such change in feeling, seeing that the two had grown old together. She, poor woman, would have been quite content with the attentions of Mr. Furnival, though his hair was grizzled and his nose was blue; nor did she ever think of attracting to herself the admiration of any swain whose general comeliness might be more free from all taint of age. Why then should he wander afield﻿—at the age of fifty-five? That he did wander afield, poor Mrs. Furnival felt in her agony convinced; and among those ladies whom on this account she most thoroughly detested was our friend Lady Mason of Orley Farm. Lady Mason and the lawyer had first become acquainted in the days of the trial, now long gone by, on which occasion Mr. Furnival had been employed as the junior counsel; and that acquaintance had ripened into friendship, and now flourished in full vigour﻿—to Mrs. Furnival’s great sorrow and disturbance.
+Mrs. Furnival herself was a stout, solid woman, sensible on most points, but better adapted, perhaps, to the life in Keppel Street than that to which she had now been promoted. As Kitty Blacker she had possessed feminine charms which would have been famous had they been better known. Mr. Furnival had fetched her from farther East﻿—from the region of Great Ormond street and the neighbourhood of Southampton Buildings. Her cherry cheeks, and her round eye, and her full bust, and her fresh lip, had conquered the hard-tasked lawyer; and so they had gone forth to fight the world together.
+
+===Chinese===
+
+瓦尔太太把两桩事一并归了这些后来的功课：一是正漫上他鼻头脸颊的某层紫晕，二是方才影射过的那性情失平和那些传闻中的家门失检。不过不妨说明：波尔太太——随弗尼瓦尔家一同发迹的老厨娘兼管家——持的是另一说：闯祸的是那些荤素杂烩的细菜。他在外应酬太频，在家吃饭又太挑。上天若肯赏他一场急痛风，波尔太太想——各方都好。
+
+至于五十五岁的弗尼瓦尔太太——她与夫君同庚——在丈夫眼里是否已不及她三十岁时动人，我不妄断。这样的情变，照理不该有：两人是一起变老的。她这可怜的女人，头发花白也罢、鼻子发青也罢，弗尼瓦尔先生的殷勤她便知足；她自己，可从没想过要去招哪个面目更不见老态的年轻人的爱慕。那他——五十五岁的人——何苦还往外野？他确乎野了出去——这一点，苦痛中的弗尼瓦尔太太深信不疑；因这笔账，她恨得最彻底的女人里，便有我们的朋友、奥利农场的梅森夫人。梅森夫人同这位律师，初识在当年那场官司里——已久远了——彼时弗尼瓦尔先生受聘为初级律师；那段相识后来熟成了交情，如今正枝繁叶茂——叫弗尼瓦尔太太忧痛不宁。
+
+弗尼瓦尔太太本人是位壮实厚重的妇人，大面上通达事理；只是那副质地，配凯佩尔街的日子，怕比配如今擢升的日子更相宜。做基蒂·布莱克的年月，她自有几般女性魅力，若名声再响些，早成名动一方。弗尼瓦尔先生是从更东边把她娶来的——大奥蒙德街、南安普敦楼群那一带。她樱红的脸颊、滚圆的眼睛、丰满的胸脯、鲜润的嘴唇，降服了这位苦役加身的律师；于是两人携手闯世界去了。
+
+===Original===
+
+Her eye was still round, and her cheek red, and her bust full﻿—there had certainly been no falling off there; nor will I say that her lip had lost its freshness. But the bloom of her charms had passed away, and she was now a solid, stout, motherly woman, not bright in converse, but by no means deficient in mother-wit, recognizing well the duties which she owed to others, but recognizing equally well those which others owed to her. All the charms of her youth﻿—had they not been given to him, and also all her solicitude, all her anxious fighting with the hard world? When they had been poor together, had she not patched and turned and twisted, sitting silently by his side into the long nights, because she would not ask him for the price of a new dress? And yet now, now that they were rich﻿—? Mrs. Furnival, when she put such questions within her own mind, could hardly answer this latter one with patience. Others might be afraid of the great Mr. Furnival in his wig and gown; others might be struck dumb by his power of eye and mouth; but she, she, the wife of his bosom, she could catch him without his armour. She would so catch him and let him know what she thought of all her wrongs. So she said to herself many a day, and yet the great deed, in all its explosiveness, had never yet been done. Small attacks of words there had been many, but hitherto the courage to speak out her griefs openly had been wanting to her.
+I can now allow myself but a small space to say a few words of Sophia Furnival, and yet in that small space must be confined all the direct description which can be given of one of the principal personages of this story. At nineteen Miss Furnival was in all respects a young woman. She was forward in acquirements, in manner, in general intelligence, and in powers of conversation. She was a handsome, tall girl, with expressive gray eyes and dark-brown hair. Her mouth, and hair, and a certain motion of her neck and turn of her head, had come to her from her mother, but her eyes were those of her father: they were less sharp perhaps, less eager after their prey; but they were bright as his had been bright, and sometimes had in them more of absolute command than he was ever able to throw into his own.
+Their golden days had come on them at a period of her life which enabled her to make a better use of them than her mother could do.
+
+===Chinese===
+
+眼睛依旧滚圆，脸颊依旧红，胸脯依旧丰满——这一项确乎没有衰减；嘴唇是否失了鲜润，我也不说。只是魅力的花期过了；如今的她，是位厚实、壮健、慈母型的妇人，谈吐不见灵光，天生的机敏却半分不缺；自己欠人的本分，她认得清；人欠自己的本分，她认得同样清。她青春的全部魅力——不都给了他么？还有全部的操心，同这硬心肠世界的一场场苦斗。两人一起受穷时，补补缀缀、翻翻改改，长夜默默坐他身边——只因不肯开口向他讨一件新衣裳的钱——她没有过么？可如今，如今他们富了——？弗尼瓦尔太太在心里这样自问，问到后半句，忍耐便难了。旁人怕的是假发法袍里伟大的弗尼瓦尔先生；旁人叫他眼与口的威力震得哑口无言；可她，她，他的结发妻，她能逮他不披甲胄的时候。她要这样逮住他，让他知道她满腹冤屈的分量。多少天来她这样对自己说；可那件大事，那件天崩地裂的大事，至今不曾做。嘴上的小交锋有过许多回；只是把冤屈和盘托出的胆气，她至今还欠着。
+
+如今我只许自己一小块篇幅，说几句索菲娅·弗尼瓦尔；本书主要人物之一的正面描摹，也只好都挤在这一小块里。十九岁的弗尼瓦尔小姐，方方面面都已是个年轻女人。学识、风度、见闻、谈锋，样样在前。她是个标致的高挑姑娘，灰眼睛传神，深棕色头发。嘴、头发、脖颈的某种动法、头的某种侧法，得自母亲；眼睛却是父亲的：锋芒许是略逊，猎物前的急切许是略减；可父亲当年有多亮，它们就有多亮；有时里面那种绝对的号令，比父亲灌注进自己眼里的还要多。
+
+他们的黄金岁月降临的时节，恰在她人生里能用得更好的一段——比她母亲当年用得好。
+
+===Original===
+
+She never felt herself to be struck dumb by rank or fashion, nor did she in the drawing-rooms of the great ever show signs of an Eastern origin. She could adapt herself without an effort to the manners of Cavendish Square;﻿—ay, and if need were, to the ways of more glorious squares even than that. Therefore was her father never ashamed to be seen with her on his arm in the houses of his new friends, though on such occasions he was willing enough to go out without disturbing the repose of his wife. No mother could have loved her children with a warmer affection than that which had warmed the heart of poor Mrs. Furnival; but under such circumstances as these was it singular that she should occasionally become jealous of her own daughter?
+Sophia Furnival was, as I have said, a clever, attractive girl, handsome, well-read, able to hold her own with the old as well as with the young, capable of hiding her vanity if she had any, mild and gentle to girls less gifted, animated in conversation, and yet possessing an eye that could fall softly to the ground, as a woman’s eye always should fall upon occasions.
+Nevertheless she was not altogether charming. “I don’t feel quite sure that she is real,” Mrs. Orme had said of her, when on a certain occasion Miss Furnival had spent a day and a night at The Cleeve.
+
+===Chinese===
+
+门第与时髦从未叫她自惭失语；在豪门客厅里，她也从不露出半点出身东头的痕迹。卡文迪什广场的风度，她不费气力便能安放自如；——是啊，若真需要，比卡文迪什更辉煌的广场的路数，也一样。因此，在新交们的宅子里，父亲挽她同出从不嫌丢人——虽说这种场合，他倒是十分乐意出门，不去搅扰太太的清静。天底下做母亲的，疼儿女再热也热不过可怜的弗尼瓦尔太太的那颗心；可境况既然如此，她偶尔要嫉妒自己的亲生女儿，又有什么奇怪？
+
+索菲娅·弗尼瓦尔，我说过，是个聪明迷人的姑娘：标致，博识，同老者谈得，同少者也谈得；虚荣若有，也藏得住；对天资逊色的女孩温婉和气；谈笑间神采飞扬，却仍有一双该垂时便柔柔垂下的眼睛——女人的眼睛，逢到时节，原该这样垂下。
+
+话虽如此，她并非全然讨人喜欢。“我总拿不准她是不是真。”某回弗尼瓦尔小姐在克利夫过了一天一夜之后，奥姆太太这样评价她。
