@@ -64,3 +64,10 @@
 | 2026-11-12 | v.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | vi.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | vii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | viii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | x.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | xi.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | xii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | xiii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | xiv.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | xv.md | 成功 | check_bilingual 校验通过，标记 done |
