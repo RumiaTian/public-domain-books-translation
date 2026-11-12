@@ -54,3 +54,8 @@
 | 2026-11-12 | xiii-3.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | xiv-3.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | facts.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | i.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | iii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | iv.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | persons.md | 成功 | check_bilingual 校验通过，标记 done |
