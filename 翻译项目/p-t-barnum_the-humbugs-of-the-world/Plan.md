@@ -33,18 +33,8 @@
 | 2026-11-12 | ii.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | iii.md | 成功 | check_bilingual 校验通过，标记 done |
 | 2026-11-12 | introduction.md | 成功 | check_bilingual 校验通过，标记 done |
-| 2026-11-12 | iv.md | 失败 | 异常跳过: [*] 待翻译篇数: 1
-[*] 开始翻译 iv.md (共 6 块, 命中 0 术语)...
-[-] 第 1 次 API 调用异常: 500 INTERNAL |
-| 2026-11-12 | ix.md | 失败 | 异常跳过: [*] 待翻译篇数: 1
-[*] 开始翻译 ix.md (共 7 块, 命中 0 术语)...
-[-] 第 1 次 API 调用异常: 500 INTERNAL |
-| 2026-11-12 | l.md | 失败 | 异常跳过: [*] 待翻译篇数: 1
-[*] 开始翻译 l.md (共 7 块, 命中 0 术语)...
-[-] 第 1 次 API 调用异常: 500 INTERNAL. |
-| 2026-11-12 | medicine-and-quacks.md | 失败 | 异常跳过: [*] 待翻译篇数: 1
-[*] 开始翻译 medicine-and-quacks.md (共 1 块, 命中 0 术语)...
-[-] 第 1 次 API 调 |
-| 2026-11-12 | money-manias.md | 失败 | 异常跳过: [*] 待翻译篇数: 1
-[*] 开始翻译 money-manias.md (共 1 块, 命中 0 术语)...
-[-] 第 1 次 API 调用异常: 50 |
+| 2026-11-12 | iv.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | ix.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | l.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | medicine-and-quacks.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | money-manias.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |

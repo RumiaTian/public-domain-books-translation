@@ -48,7 +48,8 @@ def append_plan_log(pdir, completed_records):
     today = time.strftime("%Y-%m-%d")
     new_lines = []
     for fn, res, note in completed_records:
-        new_lines.append(f"| {today} | {fn} | {res} | {note} |")
+        clean_note = note.replace("\n", " ").replace("\r", " ").strip()
+        new_lines.append(f"| {today} | {fn} | {res} | {clean_note} |")
 
     with open(plan_path, "r", encoding="utf-8") as f:
         content = f.read()
