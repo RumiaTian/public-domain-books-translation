@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-11-13，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-11-13，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
@@ -359,7 +359,7 @@
 | 334 | `j-j-connington_nordenholts-million` | ✅ 已入库 | [🟡 68.6%](翻译项目/j-j-connington_nordenholts-million/译文) (13/22) | — | — | 翻译中 (done 13/22) |
 | 335 | `j-j-connington_the-case-with-nine-solutions` | ✅ 已入库 | [✅ **100%**](翻译项目/j-j-connington_the-case-with-nine-solutions/译文) (19篇) | [✅ 已审(B)](翻译项目/j-j-connington_the-case-with-nine-solutions/审核报告.md) | [📦 359KB](翻译项目/j-j-connington_the-case-with-nine-solutions/九种解答.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 336 | `j-j-connington_tragedy-at-ravensthorpe` | ✅ 已入库 | [✅ **100%**](翻译项目/j-j-connington_tragedy-at-ravensthorpe/译文) (15篇) | [✅ 已审(A)](翻译项目/j-j-connington_tragedy-at-ravensthorpe/审核报告.md) | [📦 339KB](翻译项目/j-j-connington_tragedy-at-ravensthorpe/拉文斯索普悲剧.epub) | A 优秀 | 全书710块段落完全闭合、数字零差错、文风典雅，仅查出个别同名… |
-| 337 | `j-k-huysmans_la-bas_keene-wallace` | ✅ 已入库 | [✅ **100%**](翻译项目/j-k-huysmans_la-bas_keene-wallace/译文) (23篇) | ⏳ 待审 | [📦 460KB](翻译项目/j-k-huysmans_la-bas_keene-wallace/Là-Bas.epub) | 已译完待审 |
+| 337 | `j-k-huysmans_la-bas_keene-wallace` | ✅ 已入库 | [✅ **100%**](翻译项目/j-k-huysmans_la-bas_keene-wallace/译文) (23篇) | ⏳ 待审 | [📦 460KB](翻译项目/j-k-huysmans_la-bas_keene-wallace/Là-Bas.epub) | 已译完待审 |
 | 338 | `j-m-barrie_the-little-white-bird` | ✅ 已入库 | [✅ **100%**](翻译项目/j-m-barrie_the-little-white-bird/译文) (26篇) | [✅ 已审(C)](翻译项目/j-m-barrie_the-little-white-bird/审核报告.md) | [📦 313KB](翻译项目/j-m-barrie_the-little-white-bird/小小白鸟.epub) | C 需关注 | 全书 26 章 484 块逐块核读，段落覆盖整体可靠、叙述者… |
 | 339 | `j-s-fletcher_the-borough-treasurer` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-borough-treasurer/译文) (31篇) | [✅ 已审(B)](翻译项目/j-s-fletcher_the-borough-treasurer/审核报告.md) | [📦 383KB](翻译项目/j-s-fletcher_the-borough-treasurer/The Borough Treasurer.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 340 | `j-s-fletcher_the-charing-cross-mystery` | ✅ 已入库 | [✅ **100%**](翻译项目/j-s-fletcher_the-charing-cross-mystery/译文) (28篇) | [✅ 已审(A)](翻译项目/j-s-fletcher_the-charing-cross-mystery/审核报告.md) | [📦 374KB](翻译项目/j-s-fletcher_the-charing-cross-mystery/查令十字街之谜.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
@@ -1407,7 +1407,7 @@
 | j-j-connington_mystery-at-lynden-sands | J J Connington | `j-j-connington_mystery-at-lynden-sands` | 408KB | - | [`Mystery at Lynden Sands.epub`](翻译项目/j-j-connington_mystery-at-lynden-sands/Mystery at Lynden Sands.epub) |
 | 九种解答 | J J Connington | `j-j-connington_the-case-with-nine-solutions` | 359KB | - | [`九种解答.epub`](翻译项目/j-j-connington_the-case-with-nine-solutions/九种解答.epub) |
 | Tragedy at Ravensthorpe | J. J. Connington | `j-j-connington_tragedy-at-ravensthorpe` | 339KB | - | [`拉文斯索普悲剧.epub`](翻译项目/j-j-connington_tragedy-at-ravensthorpe/拉文斯索普悲剧.epub) |
-| j-k-huysmans_la-bas_keene-wallace | J K Huysmans | `j-k-huysmans_la-bas_keene-wallace` | 460KB | - | [`Là-Bas.epub`](翻译项目/j-k-huysmans_la-bas_keene-wallace/Là-Bas.epub) |
+| j-k-huysmans_la-bas_keene-wallace | J K Huysmans | `j-k-huysmans_la-bas_keene-wallace` | 460KB | - | [`Là-Bas.epub`](翻译项目/j-k-huysmans_la-bas_keene-wallace/Là-Bas.epub) |
 | The Little White Bird | J. M. Barrie | `j-m-barrie_the-little-white-bird` | 313KB | - | [`小小白鸟.epub`](翻译项目/j-m-barrie_the-little-white-bird/小小白鸟.epub) |
 | j-s-fletcher_the-borough-treasurer | J S Fletcher | `j-s-fletcher_the-borough-treasurer` | 383KB | - | [`The Borough Treasurer.epub`](翻译项目/j-s-fletcher_the-borough-treasurer/The Borough Treasurer.epub) |
 | 查令十字街之谜 | J S Fletcher | `j-s-fletcher_the-charing-cross-mystery` | 374KB | - | [`查令十字街之谜.epub`](翻译项目/j-s-fletcher_the-charing-cross-mystery/查令十字街之谜.epub) |
