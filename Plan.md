@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-11-12，全库生命周期总控）
+## 📊 全局四阶段总览（快照：2026-11-13，全库生命周期总控）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **503** 完 / **31** 译 / **113** 待（共 647 本） | **10932** / 18180 篇（**176529.0** / 305863.1 KB）· **57.7%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段二：翻译执行 (Translation)** | **503** 完 / **33** 译 / **111** 待（共 647 本） | **11007** / 18180 篇（**177691.3** / 305863.1 KB）· **58.1%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
 | **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **51** 本待审 | 覆盖精读 **452** 本（**89.9%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **502** 本已打包 / **1** 本待打包 | 交付标准双语 EPUB **502** 本（**99.8%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段四：出版打包 (EPUB Packaging)** | **503** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **503** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **503** 本译完，**452** 本完成独立审校，**502** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **503** 本译完，**452** 本完成独立审校，**503** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -219,7 +219,7 @@
 | 194 | `edward-bulwer-lytton_the-coming-race` | ✅ 已入库 | [✅ **100%**](翻译项目/edward-bulwer-lytton_the-coming-race/译文) (30篇) | [✅ 已审](翻译项目/edward-bulwer-lytton_the-coming-race/审核报告.md) | [📦 272KB](翻译项目/edward-bulwer-lytton_the-coming-race/未来种族.epub) | A 级（优秀 / Excellent） | > 全书 30 篇 142 块双… |
 | 195 | `edward-eggleston_the-hoosier-schoolmaster` | ✅ 已入库 | [✅ **100%**](翻译项目/edward-eggleston_the-hoosier-schoolmaster/译文) (37篇) | [✅ 已审](翻译项目/edward-eggleston_the-hoosier-schoolmaster/审核报告.md) | [📦 270KB](翻译项目/edward-eggleston_the-hoosier-schoolmaster/胡希尔校长.epub) | A 级（优秀 / 出版预备级） | > 全书 37 篇、243 对双语对照块… |
 | 196 | `edward-noyes-westcott_david-harum` | ✅ 已入库 | ⚪ 待译 (50篇) | — | — |  |
-| 197 | `edward-payson-roe_barriers-burned-away` | ✅ 已入库 | ⚪ 待译 (52篇) | — | — |  |
+| 197 | `edward-payson-roe_barriers-burned-away` | ✅ 已入库 | [🟡 77.8%](翻译项目/edward-payson-roe_barriers-burned-away/译文) (40/52) | — | — |  |
 | 198 | `edward-payson-roe_driven-back-to-eden` | ✅ 已入库 | [✅ **100%**](翻译项目/edward-payson-roe_driven-back-to-eden/译文) (47篇) | [✅ 已审(B)](翻译项目/edward-payson-roe_driven-back-to-eden/审核报告.md) | [📦 344KB](翻译项目/edward-payson-roe_driven-back-to-eden/Driven Back to Eden.epub) | B 良好 | 全书 47 篇逐块精读对照，语文水准高、技术细节可靠、无漏译与… |
 | 199 | `edward-thomas_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/edward-thomas_poetry/译文) (2篇) | [✅ 已审(A)](翻译项目/edward-thomas_poetry/审核报告.md) | [📦 138KB](翻译项目/edward-thomas_poetry/爱德华·托马斯诗集.epub) | A 优秀 | 全书 138 首诗歌与 1 条尾注全部实现 1:1 双语块与逐… |
 | 200 | `edward-whymper_scrambles-amongst-the-alps-in-the-years-1860-69` | ✅ 已入库 | ⚪ 待译 (36篇) | — | — |  |
@@ -558,7 +558,7 @@
 | 533 | `r-d-blackmore_the-maid-of-sker` | ✅ 已入库 | ⚪ 待译 (70篇) | — | — |  |
 | 534 | `r-h-tawney_the-acquisitive-society` | ✅ 已入库 | [✅ **100%**](翻译项目/r-h-tawney_the-acquisitive-society/译文) (12篇) | [✅ 已审(B)](翻译项目/r-h-tawney_the-acquisitive-society/审核报告.md) | [📦 238KB](翻译项目/r-h-tawney_the-acquisitive-society/占有性社会.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 535 | `radclyffe-hall_adams-breed` | ✅ 已入库 | ⚪ 待译 (37篇) | — | — |  |
-| 536 | `rafael-sabatini_bellarion-the-fortunate` | ✅ 已入库 | ⚪ 待译 (50篇) | — | — |  |
+| 536 | `rafael-sabatini_bellarion-the-fortunate` | ✅ 已入库 | [🟡 69.8%](翻译项目/rafael-sabatini_bellarion-the-fortunate/译文) (35/50) | — | — |  |
 | 537 | `rafael-sabatini_captain-blood` | ✅ 已入库 | [🟡 2.7%](翻译项目/rafael-sabatini_captain-blood/译文) (1/31) | — | — |  |
 | 538 | `rafael-sabatini_scaramouche` | ✅ 已入库 | ⚪ 待译 (41篇) | — | — |  |
 | 539 | `rafael-sabatini_the-sea-hawk` | ✅ 已入库 | ⚪ 待译 (37篇) | — | — |  |
@@ -567,7 +567,7 @@
 | 542 | `richard-jefferies_amaryllis-at-the-fair` | ✅ 已入库 | [✅ **100%**](翻译项目/richard-jefferies_amaryllis-at-the-fair/译文) (38篇) | [✅ 已审(B)](翻译项目/richard-jefferies_amaryllis-at-the-fair/审核报告.md) | [📦 316KB](翻译项目/richard-jefferies_amaryllis-at-the-fair/集市上的阿玛丽莉斯.epub) | B 良好 | 译文整体文学质量良好——622 个双语块全部配对、无块级错配与… |
 | 543 | `richard-jefferies_greene-ferne-farm` | ✅ 已入库 | [✅ **100%**](翻译项目/richard-jefferies_greene-ferne-farm/译文) (12篇) | [✅ 已审](翻译项目/richard-jefferies_greene-ferne-farm/审核报告.md) | [📦 217KB](翻译项目/richard-jefferies_greene-ferne-farm/格林费恩农场.epub) | A（优秀） | 全书译文文学造诣极高，忠实再现了维多利亚晚期杰弗里斯笔下威尔… |
 | 544 | `richard-jefferies_the-dewy-morn` | ✅ 已入库 | [✅ **100%**](翻译项目/richard-jefferies_the-dewy-morn/译文) (57篇) | ⏳ 待审 | [📦 452KB](翻译项目/richard-jefferies_the-dewy-morn/带露的清晨.epub) | 已译完待审 |
-| 545 | `richard-jefferies_worlds-end` | ✅ 已入库 | [✅ **100%**](翻译项目/richard-jefferies_worlds-end/译文) (47篇) | ⏳ 待审 | — | 已译完待审 |
+| 545 | `richard-jefferies_worlds-end` | ✅ 已入库 | [✅ **100%**](翻译项目/richard-jefferies_worlds-end/译文) (47篇) | ⏳ 待审 | [📦 752KB](翻译项目/richard-jefferies_worlds-end/世界尽头.epub) | 已译完待审 |
 | 546 | `richard-marsh_the-beetle` | ✅ 已入库 | [🟡 0.0%](翻译项目/richard-marsh_the-beetle/译文) (1/52) | — | — |  |
 | 547 | `richard-steele_the-conscious-lovers` | ✅ 已入库 | [✅ **100%**](翻译项目/richard-steele_the-conscious-lovers/译文) (11篇) | [✅ 已审(B)](翻译项目/richard-steele_the-conscious-lovers/审核报告.md) | [📦 142KB](翻译项目/richard-steele_the-conscious-lovers/有情的恋人.epub) | B 良好（接近 A 优秀） | 全书 11 篇共 149 对双语块逐篇对照精… |
 | 548 | `richmal-crompton_just-william` | ✅ 已入库 | [✅ **100%**](翻译项目/richmal-crompton_just-william/译文) (12篇) | [✅ 已审(A)](翻译项目/richmal-crompton_just-william/审核报告.md) | [📦 244KB](翻译项目/richmal-crompton_just-william/正是威廉.epub) | A 优秀 | 全书 12 篇、469 组双语对照块结构 100% 闭合合规，… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **10932/18180 篇 (57.7%)** | **452 本完成** | **502 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **11007/18180 篇 (58.1%)** | **452 本完成** | **503 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1564,6 +1564,7 @@
 | Amaryllis at the Fair | Richard Jefferies | `richard-jefferies_amaryllis-at-the-fair` | 316KB | - | [`集市上的阿玛丽莉斯.epub`](翻译项目/richard-jefferies_amaryllis-at-the-fair/集市上的阿玛丽莉斯.epub) |
 | Greene Ferne Farm | Richard Jefferies | `richard-jefferies_greene-ferne-farm` | 217KB | - | [`格林费恩农场.epub`](翻译项目/richard-jefferies_greene-ferne-farm/格林费恩农场.epub) |
 | 带露的清晨 | Richard Jefferies | `richard-jefferies_the-dewy-morn` | 452KB | - | [`带露的清晨.epub`](翻译项目/richard-jefferies_the-dewy-morn/带露的清晨.epub) |
+| 世界尽头 | Richard Jefferies | `richard-jefferies_worlds-end` | 752KB | - | [`世界尽头.epub`](翻译项目/richard-jefferies_worlds-end/世界尽头.epub) |
 | The Conscious Lovers | Richard Steele | `richard-steele_the-conscious-lovers` | 142KB | - | [`有情的恋人.epub`](翻译项目/richard-steele_the-conscious-lovers/有情的恋人.epub) |
 | Just William | Richmal Crompton | `richmal-crompton_just-william` | 244KB | - | [`正是威廉.epub`](翻译项目/richmal-crompton_just-william/正是威廉.epub) |
 | 六月之月 | Ring Lardner George S Kaufman | `ring-lardner-george-s-kaufman_june-moon` | 111KB | - | [`六月之月.epub`](翻译项目/ring-lardner-george-s-kaufman_june-moon/六月之月.epub) |
