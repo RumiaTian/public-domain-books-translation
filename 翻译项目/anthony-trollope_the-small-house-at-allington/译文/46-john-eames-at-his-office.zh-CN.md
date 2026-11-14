@@ -98,3 +98,175 @@ I fear that the Crown did not get out of John Eames an adequate return for his s
 ===Chinese===
 
 我恐怕，那一天，王室付约翰·伊姆斯的薪水，是收不回相当的工钱的。不过，他前一阵子的工钱出得相当足，所以收入税办公室上下都在传：他要升了——克雷德尔、费希尔等同僚兼好友，个个眼红。传言派给他的那个位子，在文官的圈子里，向来被看作人间的一块极乐净土。据传言说，他要当第一专员的私人秘书。这一升，他就撤出眼下坐着的那间不铺地毯的大屋；撤出同另一个人合用的那张写字台——他一直觉得同那人拴在一起有失体面，正如狗被并了缰绳时的感受。这间屋子是部里的斗兽场。十二到十四个人坐在里头。每天一点钟，大号的白镴酒壶成打地抬进来，给屋子添一股不上流的气。屋里资历最老的一位，洛夫先生，算是不成文的主子——旧派的人物，迟钝、沉闷、无大志，住在伊斯灵顿更远的那一头，出了办公室的门，年轻同事里没一个认得他。大家公认，这屋子的坏风气是他带的。再者，这屋的书记们还不时挨训——结结实实的训——训人的是位官老爷，主任书记基辛：论资历比我们方才说的那位高得多，论年纪却轻。他会从隔壁自己那间屋里闯出来，脚步急促，鼻孔朝天，蕗着办公用的便鞋，每回那副神气，都像唯恐整个文官体系当场要垮；他一开口就是硬话，大屋里有些人实在咽不下。他的头发永远直刷刷向上，眼睛永远瞪得滚圆——手里通常抱着一本大函件簿，一根手指头掐着夹页。这簿子重得他险些抱不动；他把它啪的一声，一时摔在这人桌上、一时摔在那人桌上；多年摔将下来，人人恨他入骨。为着一桩旧怨，他同——
+
+===Original===
+
+Love did not speak to each other; and for this reason, on all occasions of faultfinding, the blown-up young man would refer Mr. Kissing to his enemy.
+“I know nothing about it,” Mr. Love would say, not lifting his face from his desk for a moment.
+“I shall certainly lay the matter before the Board,” Mr. Kissing would reply, and would then shuffle out of the room with the big book.
+Sometimes Mr. Kissing would lay the matter before the Board, and then he, and Mr. Love, and two or three delinquent clerks would be summoned thither. It seldom led to much. The delinquent clerks would be cautioned. One Commissioner would say a word in private to Mr. Love, and another a word in private to Mr. Kissing. Then, when left alone, the Commissioners would have their little jokes, saying that Kissing, they feared, went by favour; and that Love should still be lord of all. But these things were done in the mild days, before Sir Raffle Buffle came to the Board.
+There had been some fun in this at first; but of late John Eames had become tired of it. He disliked Mr. Kissing, and the big book out of which Mr. Kissing was always endeavouring to convict him of some official sin, and had got tired of that joke of setting Kissing and Love by the ears together. When the Assistant Secretary first suggested to him that Sir Raffle had an idea of selecting him as private secretary, and when he remembered the cosy little room, all carpeted, with a leathern armchair and a separate washing-stand, which in such case would be devoted to his use, and remembered also that he would be put into receipt of an additional hundred a year, and would stand in the way of still better promotion, he was overjoyed. But there were certain drawbacks. The present private secretary﻿—who had been private secretary also to the late First Commissioner﻿—was giving up his Elysium because he could not endure the tones of Sir Raffle’s voice. It was understood that Sir Raffle required rather more of a private secretary, in the way of obsequious attendance, than was desirable, and Eames almost doubted his own fitness for the place.
+“And why should he choose me?” he had asked the Assistant Secretary.
+“Well, we have talked it over together, and I think that he prefers you to any other that has been named.”
+“But he was so very hard upon me about the affair at the railway station.”
+
+===Chinese===
+
+洛夫先生互不理睬；因此每逢挑错的场合，挨训的年轻人便把基辛先生支到他的对头那里去。
+“这事我一概不知。”洛夫先生会说，脸一瞬也不从书桌上抬起来。
+“我一定要把这事呈报委员会。”基辛先生会答道，然后拖着那本大账本蹭出屋去。
+有时基辛先生当真把事情呈报委员会，于是他本人、洛夫先生，还有两三个犯了事的书记员，便被传唤过去。这也很少闹出什么名堂。犯事的书记员受一顿申饬了事。一位专员私下对洛夫先生说句话，另一位专员私下对基辛先生说句话。随后剩他们自己人时，专员们便开点小玩笑，说基辛嘛，恐怕是靠宠幸行事的；说洛夫呢，仍该做万事之主。可这些都是温和岁月里的事，在拉夫尔·巴弗尔爵士进委员会之前。
+起初这里面还有些趣味；可是近来约翰·伊姆斯已经腻了。他不喜欢基辛先生，不喜欢那本总被基辛先生用来给他定办公罪状的大账本，也腻了那套让基辛和洛夫互咬的把戏。当助理秘书头一回向他暗示，说拉夫尔爵士有意挑他做私人秘书时，他想起那间舒舒服服的小屋——满铺地毯，有一把皮扶手椅、一个独用的洗脸架——到那时便归他专用；又想起自己将加薪一百镑一年，还挡着更大升迁的路，不由得大喜过望。但也有几样美中不足。现任私人秘书——他在已故第一专员手下也是私人秘书——正要放弃他的极乐世界，因为拉夫尔爵士说话的腔调他受不了。据说拉夫尔爵士要私人秘书做的殷勤侍候，超出了合宜的程度，伊姆斯几乎怀疑自己是否胜任这个位子。
+“可他干吗挑中我呢？”他问过助理秘书。
+“呃，我们商量过了，我想在提过名的人里头，他顶中意你。”
+“可火车站那桩事，他待我凶得很哪。”
+
+===Original===
+
+“I think he has heard more about that since; I think that some message has reached him from your friend, Earl De Guest.”
+“Oh, indeed!” said Johnny, beginning to comprehend what it was to have an earl for his friend. Since his acquaintance with the nobleman had commenced, he had studiously avoided all mention of the earl’s name at his office; and yet he received almost daily intimation that the fact was well known there, and not a little considered.
+“But he is so very rough,” said Johnny.
+“You can put up with that,” said his friend the Assistant Secretary. “His bark is worse than his bite, as you know; and then a hundred a year is worth having.” Eames was at that moment inclined to take a gloomy view of life in general, and was disposed to refuse the place, should it be offered to him. He had not then received the earl’s letter; but now, as he sat with that letter open before him, lying in the drawer beneath his desk so that he could still read it as he leaned back in his chair, he was enabled to look at things in general through a different atmosphere. In the first place, Lilian Dale’s husband ought to have a room to himself, with a carpet and an armchair; and then that additional hundred a year would raise his income at once to the sum as to which the earl had made some sort of stipulation. But could he get that leave of absence at Easter? If he consented to be Sir Raffle’s private secretary, he would make that a part of the bargain.
+At this moment the door of the big room was opened, and Mr. Kissing shuffled in with very quick little steps. He shuffled in, and coming direct up to John’s desk, flopped his ledger down upon it before its owner had had time to close the drawer which contained the precious letter.
+“What have you got in that drawer, Mr. Eames?”
+“A private letter, Mr. Kissing.”
+“Oh;﻿—a private letter!” said Mr. Kissing, feeling strongly convinced there was a novel hidden there, but not daring to express his belief. “I have been half the morning, Mr. Eames, looking for this letter to the Admiralty, and you’ve put it under S!” A bystander listening to Mr. Kissing’s tone would have been led to believe that the whole Income-tax Office was jeopardized by the terrible iniquity thus disclosed.
+“Somerset House,” pleaded Johnny.
+“Psha;﻿—Somerset House! Half the offices in London﻿—”
+“You’d better ask Mr. Love,” said Eames.
+
+===Chinese===
+
+“我想他后来又听说了些；我想你那位朋友德格斯特伯爵给他带了话去。”
+“哦，原来如此！”约翰尼说，开始明白有个伯爵朋友是怎么回事了。自从结识这位贵族以来，他在办公室里一直刻意避免提起伯爵的名字；可他几乎天天得到暗示：这件事那边人人尽知，还挺受看重。
+“可他粗鲁得很哪。”约翰尼说。
+“那个你受得了，”他这位助理秘书朋友说。“他叫得凶，咬人不狠，你是知道的；再说一年一百镑也值得拿。”这时候伊姆斯对整个人生正倾向于作灰暗之观，倘若这职位当真给他，他倒想回绝。那时他还没收到伯爵的信；可现在，他坐在那里，信摊在眼前，躺在书桌底下的抽屉里，让他靠着椅背也还读得见——他便能透过另一种气氛来看待万事了。首先，莉莲·戴尔的丈夫理应有一间独用的屋子，有地毯，有扶手椅；其次，那加添的一百镑一年，立时便把他的收入抬到伯爵信里定下的那个数目上。可复活节他能请下假来吗？他若应承做拉夫尔爵士的私人秘书，便要把这一条写进买卖里。
+正在这时，大屋的门开了，基辛先生迈着又碎又急的步子蹭了进来。他蹭进来，径直走到约翰的书桌前，啪的一声把他的总账撂在桌上——桌的主人还没来得及关上那盛着宝信的抽屉。
+“你那抽屉里搁着什么，伊姆斯先生？”
+“一封私信，基辛先生。”
+“哦；——一封私信！”基辛先生说，心里笃定那儿藏着一本小说，却不敢把他的怀疑说出口。“我找了半个上午，伊姆斯先生，找这封给海军部的信，你倒把它归到S字底下去了！”旁人若听基辛先生的口气，准会以为整个收入税办公室都被这桩暴露出来的骇人罪孽置于险地了。
+“是萨默塞特宫嘛。”约翰尼辩道。
+“呸；——萨默塞特宫！伦敦半数的衙门——”
+“您最好问问洛夫先生。”伊姆斯说。
+
+===Original===
+
+“It’s all done under his special instructions.” Mr. Kissing looked at Mr. Love, and Mr. Love looked steadfastly at his desk. “Mr. Love knows all about the indexing,” continued Johnny. “He’s index master general to the department.”
+“No, I’m not, Mr. Eames,” said Mr. Love, who rather liked John Eames, and hated Mr. Kissing with his whole heart. “But I believe the indexes, on the whole, are very well done in this room. Some people don’t know how to find letters.”
+“Mr. Eames,” began Mr. Kissing, still pointing with a finger of bitter reproach to the misused S, and beginning an oration which was intended for the benefit of the whole room, and for the annihilation of old Mr. Love, “if you have yet to learn that the word Admiralty begins with A and not with S, you have much to learn which should have been acquired before you first came into this office. Somerset House is not a department.” Then he turned round to the room at large, and repeated the last words, as though they might become very useful if taken well to heart﻿—“Is not a department. The Treasury is a department; the Home Office is a department; the India Board is a department﻿—”
+“No, Mr. Kissing, it isn’t,” said a young clerk from the other end of the room.
+“You know very well what I mean, sir. The India Office is a department.”
+“There’s no Board, sir.”
+“Never mind; but how any gentleman who has been in the service three months﻿—not to say three years﻿—can suppose Somerset House to be a department, is beyond my comprehension. If you have been improperly instructed﻿—”
+“We shall know all about it another time,” said Eames. “Mr. Love will make a memorandum of it.”
+“I shan’t do anything of the kind,” said Mr. Love.
+“If you have been wrongly instructed﻿—” Mr. Kissing began again, stealing a glance at Mr. Love as he did so; but at this moment the door was again opened, and a messenger summoned Johnny to the presence of the really great man. “Mr. Eames, to wait upon Sir Raffle.” Upon hearing this Johnny immediately started, and left Mr. Kissing and the big book in possession of his desk. How the battle was waged, and how it raged in the large room, we cannot stop to hear, as it is necessary that we should follow our hero into the presence of Sir Raffle Buffle.
+“Ah, Eames﻿—yes,” said Sir Raffle, looking up from his desk when the young man entered; “just wait half a minute, will you?”
+
+===Chinese===
+
+“那全是按他的特别指示办的。”基辛先生望向洛夫先生，洛夫先生目不转睛地望着自己的书桌。“索引的事洛夫先生全懂，”约翰尼接着说。“他是本部门的索引总管。”
+“不，我不是，伊姆斯先生。”洛夫先生说——他颇喜欢约翰·伊姆斯，心里恨透了基辛先生。“不过我相信，这间屋里的索引，总的来说做得很好。有些人不大会找信。”
+“伊姆斯先生，”基辛先生开腔了，那根手指依旧苦大仇深地指着那个被错用的S，开始一篇既为全屋人的教益、也为把老洛夫先生斩于马下的演说，“倘若你还得学习‘海军部’一词以A开头而非以S开头，那你不懂的东西可就多了，而那些本该在你进这衙门之前就学到手。萨默塞特宫不是一个部。”随后他转身面向全屋，把末一句话又重复一遍，仿佛这话若能牢记在心必有大用——“不是一个部。财政部是一个部；内政部是一个部；印度事务委员会是一个部——”
+“不，基辛先生，它不是。”屋子那一头一个年轻书记员说。
+“你明知我是什么意思，先生。印度事务部是一个部。”
+“没有委员会这一说，先生。”
+“不碍事；可一位在公职里待了三个月——更别说三年——的先生，居然会当萨默塞特宫是一个部，这真出于我的理解之外。倘使有人教错了你——”
+“下回我们自会全知道，”伊姆斯说。“洛夫先生会记个备忘录。”
+“我才不记那种东西。”洛夫先生说。
+“倘使有人教错了你——”基辛先生重新开腔，一面偷觑洛夫先生一眼；可正在这时，门又开了，一个信差来传约翰尼去见那位真正的大人物。“伊姆斯先生，去见拉夫尔爵士。”一听见这话，约翰尼立刻起身，把基辛先生和那本大账本留在自己书桌旁当家做主。这一仗怎么打的、怎么在大屋里燃成一片的，我们无暇细听，因为我们必须跟随主人公去见拉夫尔·巴弗尔爵士了。
+“啊，伊姆斯——唔，”年轻人进去时，拉夫尔爵士从书桌上抬起眼来，“稍等半分钟，行吗？”
+
+===Original===
+
+And the knight went to work at his papers, as though fearing that any delay in what he was doing might be very prejudicial to the nation at large. “Ah, Eames﻿—well﻿—yes,” he said again, as he pushed away from him, almost with a jerk, the papers on which he had been writing. “They tell me that you know the business of this office pretty well.”
+“Some of it, sir,” said Eames.
+“Well, yes; some of it. But you’ll have to understand the whole of it if you come to me. And you must be very sharp about it too. You know that FitzHoward is leaving me?”
+“I have heard of it, sir.”
+“A very excellent young man, though perhaps not﻿—But we won’t mind that. The work is a little too much for him, and he’s going back into the office. I believe Lord De Guest is a friend of yours; isn’t he?”
+“Yes; he is a friend of mine, certainly. He’s been very kind to me.”
+“Ah, well. I’ve known the earl for many years﻿—for very many years; and intimately at one time. Perhaps you may have heard him mention my name?”
+“Yes, I have, Sir Raffle.”
+“We were intimate once, but those things go off, you know. He’s been the country mouse and I’ve been the town mouse. Ha, ha, ha! You may tell him that I say so. He won’t mind that coming from me.”
+“Oh, no; not at all,” said Eames.
+“Mind you tell him when you see him. The earl is a man for whom I’ve always had a great respect﻿—a very great respect﻿—I may say regard. And now, Eames, what do you say to taking FitzHoward’s place? The work is hard. It is fair that I should tell you that. The work will, no doubt, be very hard. I take a greater share of what’s going than my predecessors have done; and I don’t mind telling you that I have been sent here, because a man was wanted who would do that.” The voice of Sir Raffle, as he continued, became more and more harsh, and Eames began to think how wise FitzHoward had been. “I mean to do my duty, and I shall expect that my private secretary will do his. But, Mr. Eames, I never forget a man. Whether he be good or bad, I never forget a man. You don’t dislike late hours, I suppose.”
+“Coming late to the office, you mean? Oh, no, not in the least.”
+“Staying late﻿—staying late. Six or seven o’clock if necessary﻿—putting your shoulder to the wheel when the coach gets into the mud. That’s what I’ve been doing all my life. They’ve known what I am very well. They’ve always kept me for the heavy roads.
+
+===Chinese===
+
+这位爵士随即伏案办他的公文，仿佛生怕手头的事稍有耽搁，便大有害于举国上下。“啊，伊姆斯——呃——唔，”他又说了一遍，几乎是一甩手，把方才书写的公文从面前推开。“他们告诉我，这衙门的业务你相当熟悉。”
+“一部分吧，先生。”伊姆斯说。
+“呃，是；一部分。可你若到我这儿来，就得全部精通，手脚还非得很麻利不可。你知道菲茨霍华德要离开我了吧？”
+“听说了，先生。”
+“一个非常出色的年轻人，虽然也许不——不过这个不消计较。这差事他有点吃不消，他要回大屋里去了。我想德格斯特勋爵是你的朋友；是吗？”
+“是，他当然是位朋友。他待我一直很好。”
+“啊，是。我认识伯爵多年了——很多很多年了；一度还过从甚密。也许你听他提起过我的名字？”
+“是的，提过，拉夫尔爵士。”
+“我们一度很亲密，可这类交情会淡的，你知道。他是做惯了乡下的老鼠，我是做惯了城里的老鼠。哈，哈，哈！你可以告诉他我这么说。这话出于我之口，他不会见怪。”
+“哦，不会；一点也不。”伊姆斯说。
+“记着，见了他务必告诉他。伯爵这个人，我一向极其敬重——极其敬重——可以说还有情分。好了，伊姆斯，接替菲茨霍华德的位子，你觉得怎么样？差事辛苦。这话我该向你说明白，才算公道。这差事无疑会非常辛苦。眼下的事务，我揽的比我历任前任都多；我也不妨告诉你，把我派到这儿来，正因为需要一个肯这么干的人。”拉夫尔爵士说着说着，嗓音越来越严厉，伊姆斯开始觉得菲茨霍华德何等英明。“我打算尽我的职分，我也指望我的私人秘书尽他的职分。不过，伊姆斯先生，我从不忘记一个人。不管他是好是坏，我从不忘记一个人。你不讨厌晚下班吧，我猜。”
+“您是说晚到办公室？哦，不，一点也不。”
+“是晚走——晚走。必要时待到六点七点——马车陷进泥里，就得把肩膀抵上轮子。我一辈子干的就是这个。他们很清楚我是个什么人。他们总把我留着走烂路。”
+
+===Original===
+
+If they paid, in the Civil Service, by the hour, I believe I should have drawn a larger income than any man in it. If you take the vacant chair in the next room you’ll find it’s no joke. It’s only fair that I should tell you that.”
+“I can work as hard as any man,” said Eames.
+“That’s right. That’s right. Stick to that and I’ll stick to you. It will be a great gratification to me to have by me a friend of my old friend De Guest. Tell him I say so. And now you may as well get into harness at once. FitzHoward is there. You can go in to him, and at half-past four exactly I’ll see you both. I’m very exact, mind﻿—very;﻿—and therefore you must be exact.” Then Sir Raffle looked as though he desired to be left alone.
+“Sir Raffle, there’s one favour I want to ask of you,” said Johnny.
+“And what’s that?”
+“I am most anxious to be absent for a fortnight or three weeks, just at Easter. I shall want to go in about ten days.”
+“Absent for three weeks at Easter, when the parliamentary work is beginning! That won’t do for a private secretary.”
+“But it’s very important, Sir Raffle.”
+“Out of the question, Eames; quite out of the question.”
+“It’s almost life and death to me.”
+“Almost life and death. Why, what are you going to do?” With all his grandeur and national importance, Sir Raffle would be very curious as to little people.
+“Well, I can’t exactly tell you, and I’m not quite sure myself.”
+“Then don’t talk nonsense. It’s impossible that I should spare my private secretary just at that time of the year. I couldn’t do it. The service won’t admit of it. You’re not entitled to leave at that season. Private secretaries always take their leave in the autumn.”
+“I should like to be absent in the autumn too, but﻿—”
+“It’s out of the question, Mr. Eames.”
+Then John Eames reflected that it behoved him in such an emergency to fire off his big gun. He had a great dislike to firing this big gun, but, as he said to himself, there are occasions which make a big gun very necessary. “I got a letter from Lord De Guest this morning, pressing me very much to go to him at Easter. It’s about business,” added Johnny. “If there was any difficulty, he said, he should write to you.”
+“Write to me,” said Sir Raffle, who did not like to be approached too familiarly in his office, even by an earl.
+“Of course I shouldn’t tell him to do that.
+
+===Chinese===
+
+“文官系统里若按钟点发薪，我相信我领的收入准比谁都多。隔壁屋里那把空椅子你若坐上去，会发现那可不是玩笑。这话我该向你说明白，才算公道。”
+“我干活不输任何人。”伊姆斯说。
+“这就对了。这就对了。你咬住这句，我就咬住你不放。我老朋友德格斯特的朋友在我身边，对我是件大快意事。告诉他我这么说。那么你现在就不妨立刻套上挽具。菲茨霍华德在那儿。你可以到他那儿去，四点半整我见你们两位。我是极讲准时刻的，记住——极讲；——所以你也必须准时。”说罢拉夫尔爵士的神气，仿佛不愿再有人打扰。
+“拉夫尔爵士，我有件事想求您。”约翰尼说。
+“什么事？”
+“我急得不得了，想在复活节前后离开两三个星期。大约十天后我就得动身。”
+“复活节离开三个星期，正是议会事务开场的时候！私人秘书可不能这样。”
+“可这事万分要紧，拉夫尔爵士。”
+“不必谈了，伊姆斯；完全不必谈了。”
+“这于我几乎是生死攸关。”
+“生死攸关。嗬，你要去做什么？”拉夫尔爵士尽管一身的威严与国家大事，对小人物的事却极好奇。
+“呃，我说不准，连我自己也不大有把握。”
+“那就别胡说。一年当中正是那个时节，我绝不能放走我的私人秘书。我做不到。公务不容许。那个季节你没有休假的资格。私人秘书一律秋季休假。”
+“秋季我也想休假，可是——”
+“不必谈了，伊姆斯先生。”
+于是约翰·伊姆斯盘算起来：当此紧急关头，该放大炮了。他极不愿意放这门大炮，可正如他对自己说的，有些场合非大炮不可。“我今天早晨收到德格斯特勋爵的信，恳切之至，要我复活节去他那儿。是为正事。”约翰尼补充道。“他说，若有为难，他就给您写信。”
+“给我写信，”拉夫尔爵士说——他不喜欢人在他的衙门里跟他过分亲热，哪怕是一位伯爵。
+“我当然不会叫他这么办。”
+
+===Original===
+
+But, Sir Raffle, if I remained out there, in the office,” and Johnny pointed towards the big room with his head, “I could choose April for my month. And as the matter is so important to me, and to the earl﻿—”
+“What can it be?” said Sir Raffle.
+“It’s quite private,” said John Eames.
+Hereupon Sir Raffle became very petulant, feeling that a bargain was being made with him. This young man would only consent to become his private secretary upon certain terms! “Well, go in to FitzHoward now. I can’t lose all my day in this way.”
+“But I shall be able to get away at Easter?”
+“I don’t know. We shall see about it. But don’t stand talking there now.” Then John Eames went into FitzHoward’s room, and received that gentleman’s congratulations on his appointment. “I hope you like being rung for, like a servant, every minute, for he’s always ringing that bell. And he’ll roar at you till you’re deaf. You must give up all dinner engagements, for though there is not much to do, he’ll never let you go. I don’t think anybody ever asks him out to dinner, for he likes being here till seven. And you’ll have to write all manner of lies about big people. And, sometimes, when he has sent Rafferty out about his private business, he’ll ask you to bring him his shoes.” Now Rafferty was the First Commissioner’s messenger.
+It must be remembered, however, that this little account was given by an outgoing and discomfited private secretary. “A man is not asked to bring another man his shoes,” said Eames to himself, “until he shows himself fit for that sort of business.” Then he made within his own breast a little resolution about Sir Raffle’s shoes.
+
+===Chinese===
+
+“可是，拉夫尔爵士，倘若我留在外头，留在大屋里办事，”约翰尼朝大屋那边摆了摆头，“我就可以挑四月做我的休假月。况且这事对我和对伯爵都这样要紧——”
+“能是什么事呢？”拉夫尔爵士说。
+“纯属私事。”约翰·伊姆斯说。
+一听这话，拉夫尔爵士登时焦躁起来，觉得人家在同他讲条件。这个年轻人，竟要讲定了条款才肯做他的私人秘书！“好吧，现在就到菲茨霍华德那儿去吧。我不能这样赔掉一整天。”
+“那复活节我能走成了？”
+“不知道。到时候看吧。不过现在别站在那儿嚼舌头了。”于是约翰·伊姆斯进了菲茨霍华德的屋子，接受了这位先生对他荣任的道贺。“但愿你喜欢一分钟一次被人打铃召唤，像个仆人似的，因为他那个铃总在响。他还会朝你吼，吼到你耳朵发聋。你所有的饭局都得取消，因为虽然没多少事做，他永远不放你走。我看从来没有人请他出去吃饭，因为他乐意在这儿待到七点。你还得替他写各种各样关于大人物的鬼话。有时候，他把拉弗蒂差出去办私事，会叫你给他拿鞋来。”——拉弗蒂是第一专员的听差。
+不过别忘了，这份小账出自一位下台而心怀不忿的私人秘书之口。“一个人不会被人叫去替另一个人拿鞋，”伊姆斯心里想，“除非他先露了形迹，叫人看出他配干那一类差事。”于是他在心底里暗暗下了一个关于拉夫尔爵士的鞋的小小决心。
