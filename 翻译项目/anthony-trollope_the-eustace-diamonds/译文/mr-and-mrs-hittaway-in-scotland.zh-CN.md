@@ -1,0 +1,79 @@
+## XXXII Mr. and Mrs. Hittaway in Scotland / XXXII 希塔韦夫妇在苏格兰 / 第三十二章
+===Original===
+
+A great many people go to Scotland in the autumn. When you have your autumn holiday in hand to dispose of it, there is nothing more aristocratic that you can do than go to Scotland. Dukes are more plentiful there than in Pall Mall, and you will meet an earl or at least a lord on every mountain. Of course, if you merely travel about from inn to inn, and neither have a moor of your own nor stay with any great friend, you don’t quite enjoy the cream of it; but to go to Scotland in August and stay there, perhaps, till the end of September, is about the most certain step you can take towards autumnal fashion. Switzerland and the Tyrol, and even Italy, are all redolent of Mr. Cook, and in those beautiful lands you become subject at least to suspicion.
+By no persons was the duty of adhering to the best side of society more clearly appreciated than by Mr. and Mrs. Hittaway of Warwick Square. Mr. Hittaway was Chairman of the Board of Civil Appeals, and was a man who quite understood that there are chairmen﻿—and chairmen. He could name to you three or four men holding responsible permanent official positions quite as good as that he filled in regard to salary﻿—which, as he often said of his own, was a mere nothing, just a poor two thousand pounds a year, not as much as a grocer would make in a decent business﻿—but they were simply head clerks and nothing more. Nobody knew anything of them. They had no names. You did not meet them anywhere. Cabinet ministers never heard of them; and nobody out of their own offices ever consulted them. But there are others, and Mr. Hittaway felt greatly conscious that he was one of them, who move altogether in a different sphere. One minister of State would ask another whether Hittaway had been consulted on this or on that measure;﻿—so at least the Hittawayites were in the habit of reporting. The names of Mr. and Mrs. Hittaway were constantly in the papers. They were invited to evening gatherings at the houses of both the alternate Prime Ministers. They were to be seen at fashionable gatherings up the river. They attended concerts at Buckingham Palace. Once a year they gave a dinner-party which was inserted in the *Morning Post*. On such occasions at least one Cabinet Minister always graced the board. In fact, Mr. Hittaway, as Chairman of the Board of Civil Appeals, was somebody; and Mrs.
+
+===Chinese===
+
+秋天去苏格兰的人多得很。手里的秋假要打发，再没有比去苏格兰更贵族气的花法了。那边公爵比帕尔马尔街还稠，每座山上都能遇着一位伯爵，至少一位勋爵。当然，你若只是从旅馆游到旅馆，既没有自家的猎场，又不投哪位显赫的朋友，便尝不到它的精髓；可是八月去苏格兰、一住也许住到九月底，这差不多是你踏进秋季时髦最稳妥的一步。瑞士、蒂罗尔、连意大利，处处一股库克先生的味道，在那几处好山好水，你至少免不了招疑。
+紧紧攀住上流社会最好的一面这份义务，再没有谁比沃里克广场的希塔韦先生夫妇掂得更清楚了。希塔韦先生是民事上诉委员会的主席，深知主席同主席大不一样。他能给你数出三四个人，占着同样要紧的常任官职、薪俸同他的一般好——他常说自己那份不过区区，一年可怜的两千镑，抵不上一个杂货商像样生意的进项——可那些人无非是主任文书罢了。没人知道他们。他们没有名姓。哪儿也碰不见他们。内阁大臣从没听说过他们；本衙门之外没人请教他们。可另有一种人——希塔韦先生深深自觉属于其中——活动的完全是另一个天地。一位国务大臣会问另一位：这项或那项办法请教过希塔韦没有；——至少希塔韦党人惯于这样相传。希塔韦先生夫妇的名字常常见报。两位轮值首相的宅子请晚会，他们都受邀。泰晙士河上游的时髦聚会见得着他们。白金汉宫的音乐会他们出席。一年一度他们设一次晚宴，登在《晨邮报》上。那种场合，至少总有一位内阁大臣赏光。总之，希塔韦先生身为民事上诉委员会的主席，是个人物；希塔
+
+===Original===
+
+Hittaway, as his wife and as sister to a peer, was somebody also. The reader will remember that Mrs. Hittaway had been a Fawn before she married.
+There is this drawback upon the happy condition which Mr. Hittaway had achieved﻿—that it demands a certain expenditure. Let nobody dream that he can be somebody without having to pay for that honour;﻿—unless, indeed, he be a clergyman. When you go to a concert at Buckingham Palace you pay nothing, it is true, for your ticket; and a Cabinet Minister dining with you does not eat or drink more than your old friend Jones the attorney. But in some insidious, unforeseen manner﻿—in a way that can only be understood after much experience﻿—these luxuries of fashion do make a heavy pull on a modest income. Mrs. Hittaway knew this thoroughly, having much experience, and did make her fight bravely. For Mr. Hittaway’s income was no more than modest. A few thousand pounds he had of his own when he married, and his Clara had brought to him the unpretending sum of fifteen hundred. But, beyond that, the poor official salary﻿—which was less than what a decent grocer would make﻿—was their all. The house in Warwick Square they had prudently purchased on their marriage﻿—when houses in Warwick Square were cheaper than they are now﻿—and there they carried on their battle, certainly with success. But two thousand a year does not go very far in Warwick Square, even though you sit rent free, if you have a family and absolutely must keep a carriage. It therefore resulted that when Mr. and Mrs. Hittaway went to Scotland, which they would endeavour to do every year, it was very important that they should accomplish their aristocratic holiday as visitors at the house of some aristocratic friend. So well had they played their cards in this respect, that they seldom failed altogether. In one year they had been the guests of a great marquis quite in the north, and that had been a very glorious year. To talk of Stackallan was, indeed, a thing of beauty. But in that year Mr. Hittaway had made himself very useful in London. Since that they had been at delicious shooting lodges in Ross and Inverness-shire, had visited a millionaire at his palace amidst the Argyle mountains, had been fêted in a western island, had been bored by a Dundee dowager, and put up with a Lothian laird.
+
+===Chinese===
+
+韦太太身为他的太太、又是位勋爵的姐妹，也是个人物。读者当记得，希塔韦太太出嫁前是福恩家的小姐。
+希塔韦先生挣下的这份福境有一样短处——它要一笔开销。谁也别做梦不破费就做人物；——除非他是牧师。去白金汉宫听音乐会，票确实不要钱；来赴宴的内阁大臣，吃喝也不比你老朋友讼师琼斯多。可是这些时髦的奢侈，总有一种阴柔的、料不到的法子——只有历练多年才参得透的法子——把一份薄进项抽走一大截。希塔韦太太阅历深厚，深谙此道，勇敢地打她的仗。因为希塔韦先生的进项实在只有薄薄一份。结婚时他自己有几千镑，他的克拉拉带来一千五百镑这个不张场的数目。除此便是那点可怜的官俸——比像样杂货商还少——便是他们的全部。沃里克广场的宅子是他们结婚时趁便宜买的——那时沃里克广场的宅子比现在贱——他们便在那里打这场仗，仗打得确实不坏。可是一年两千镑在沃里克广场撑不了多远，纵然不用付房钱，只要拖家带口、又断不可没有一辆马车。于是便有了这个结果：希塔韦夫妇去苏格兰——他们力争年年去——要紧的是务必以贵客的身份、住进某位贵族朋友的宅子，把这贵族假期办成。这一手牌他们打得太好，几乎从没落空过。有一年他们在极北边做了某位大侯爵的客人，那是极风光的一年。提起斯塔卡兰，实在是一桩体面。只是那一年希塔韦先生在伦敦出了大力。此后他们住过罗斯郡、因弗内斯郡妙不可言的猎屋，拜访过一位百万富翁在阿盖尔群山间的宫殿，在一座西部海岛上受过盛宴，被邓迪的一位太夫人闷过，又将就过一位洛锡安的地主。
+
+===Original===
+
+But the thing had been almost always done, and the Hittaways were known as people that went to Scotland. He could handle a gun, and was clever enough never to shoot a keeper. She could read aloud, could act a little, could talk or hold her tongue; and let her hosts be who they would and as mighty as you please, never caused them trouble by seeming to be out of their circle, and on that account requiring peculiar attention.
+On this occasion Mr. and Mrs. Hittaway were the guests of old Lady Pierrepoint, in Dumfries. There was nothing special to recommend Lady Pierrepoint except that she had a large house and a good income, and that she liked to have people with her of whom everybody knew something. So far was Lady Pierrepoint from being high in the Hittaway world, that Mrs. Hittaway felt herself called upon to explain to her friends that she was forced to go to Dumdum House by the duties of old friendship. Dear old Lady Pierrepoint had been insisting on it for the last ten years. And there was this advantage, that Dumfriesshire is next to Ayrshire, that Dumdum was not very far﻿—some twenty or thirty miles﻿—from Portray, and that she might learn something about Lizzie Eustace in her country house.
+It was nearly the end of August when the Hittaways left London to stay an entire month with Lady Pierrepoint. Mr. Hittaway had very frequently explained his defalcation as to fashion﻿—in that he was remaining in London for three weeks after Parliament had broken up﻿—by the peculiar exigencies of the Board of Appeals in that year. To one or two very intimate friends Mrs. Hittaway had hinted that everything must be made to give way to this horrid business of Fawn’s marriage. “Whatever happens, and at whatever cost, that must be stopped,” she had ventured to say to Lady Glencora Palliser﻿—who, however, could hardly be called one of her very intimate friends. “I don’t see it at all,” said Lady Glencora. “I think Lady Eustace is very nice. And why shouldn’t she marry Lord Fawn if she’s engaged to him?” “But you have heard of the necklace, Lady Glencora?” “Yes, I’ve heard of it. I wish anybody would come to me and try and get my diamonds! They should hear what I would say.” Mrs. Hittaway greatly admired Lady Glencora, but not the less was she determined to persevere.
+
+===Chinese===
+
+可事情几乎年年办成，希塔韦夫妇以「去苏格兰的人家」闻名。他会使枪，又乖觉得从没打过看守。她能朗读，能来两下子戏，能说话也能住口；主人是谁也罢、多大的架子也罢，她从不因显得格格不入、须人另眼照应而给人添麻烦。
+这一回，希塔韦夫妇是邓弗里斯老皮尔庞特夫人的客人。皮尔庞特夫人没有什么特别可称之处，只有一处大宅、一笔好进项，又喜欢身边有各路人皆知一二的人物。皮尔庞特夫人在希塔韦的天平上离高格远得很，希塔韦太太只得向朋友们解释：她是被老交情的义务逼着去邓德姆宅的。亲爱的皮尔庞特夫人十年来一直絮叨着请她。再说还有一层便利：邓弗里斯郡挨着艾尔郡，邓德姆离波特雷不算远——二三十英里——她可以在自己的乡居里打探莉齐·尤斯塔斯的底细。
+八月底，希塔韦夫妇离开伦敦，要在皮尔庞特夫人处住满一个月。议会散会之后希塔韦先生还在伦敦多留了三个星期，这份时髦上的亏空，他屡屡解释为上诉委员会今年特别的急务。对一两位至交，希塔韦太太透露过：福恩这桩婚事的可恶勾当，什么都得给它让路。「不管怎么样、不管什么代价，这门亲必须拦下，」她曾斗胆对伦科拉·帕利瑟夫人说——虽说这位实在算不得她的至交。「我全看不出，」伦科拉夫人说。「我觉得尤斯塔斯夫人很好嘛。她既同福恩勋爵订了婚，为什么不能嫁？」「可那条项链您听说了，伦科拉夫人？」「听说了。谁敢来同我要我的钻石试试！叫他们听听我的话。」希塔韦太太极佩服伦科拉夫人，可她照样拿定主意干到底。
+
+===Original===
+
+Had Lord Fawn been altogether candid and open with his family at this time, some trouble might have been saved; for he had almost altogether resolved that, let the consequences be what they might, he would not marry Lizzie Eustace. But he was afraid to say this even to his own sister. He had promised to marry the woman, and he must walk very warily, or the objurgations of the world would be too many for him. “It must depend altogether on her conduct, Clara,” he had said when last his sister had persecuted him on the subject. She was not, however, sorry to have an opportunity of learning something of the lady’s doings. Mr. Hittaway had more than once called on Mr. Camperdown. “Yes,” Mr. Camperdown had said in answer to a question from Lord Fawn’s brother-in-law; “she would play old gooseberry with the property if we hadn’t someone to look after it. There’s a fellow named Gowran who has lived there all his life, and we depend very much upon him.”
+It is certainly true, that as to many points of conduct, women are less nice than men. Mr. Hittaway would not probably have condescended himself to employ espionage, but Mrs. Hittaway was less scrupulous. She actually went down to Troon and had an interview with Mr. Gowran, using freely the names of Mr. Camperdown and of Lord Fawn; and some ten days afterwards Mr. Gowran travelled as far as Dumfries, and Dumdum, and had an interview with Mrs. Hittaway. The result of all this, and of further inquiries, will be shown by the following letter from Mrs. Hittaway to her sister Amelia:﻿—
+
+===Chinese===
+
+福恩勋爵这时若对家里人全然坦诚相见，多少麻烦本可省掉；因为他已几乎拿定主意：任凭后果如何，也不娶莉齐·尤斯塔斯。可这话他连亲姐妹也不敢说。他答应过娶那个女人，脚下须走得极稳，不然世人的责骂他招架不住。「这全看她的行止了，克拉拉，」上次妹妹又为这事逼他时他说。她自然乐得有机会探探那位夫人行止的底细。希塔韦先生拜访过坎珀登先生不止一回。「是啊，」坎珀登先生回答福恩勋爵这位内兄的话说，「要不是有人替我们看着，那份家产真要叫她糟蹋个够。有个叫高兰的，在那儿住了一辈子，我们全指望他。」
+的确是实情：在行止的好些关节上，女人比男人更不讲究。希塔韦先生自己多半不屑于雇人刺探，希塔韦太太可没那么多的顾忌。她当真跑到特伦，会了高兰先生，坎珀登先生同福恩勋爵的名头张口就来；约莫十天后，高兰先生赶了远路到邓弗里斯、到邓德姆，回拜了希塔韦太太。这一切、连同进一步的查访，结果如何，看希塔韦太太给她妹妹阿米莉亚的这封信便知：
+
+===Original===
+
+> My dear Amelia,
+> Here we are, and here we have to remain to the end of the month. Of course it suits, and all that; but it is awfully dull. Richmond for this time of the year is a paradise to it; and as for coming to Scotland every autumn, I am sick of it. Only what is one to do if one lives in London? If it wasn’t for Orlando and the children, I’d brazen it out, and let people say what they pleased. As for health, I’m never so well as at home, and I do like having my own things about me. Orlando has literally nothing to do here. There is no shooting, except pheasants, and that doesn’t begin till October.
+> But I’m very glad I’ve come as to Frederic, and the more so, as I have learned the truth as to that Mr. Greystock. She, Lady Eustace, is a bad creature in every way. She still pretends that she is engaged to Frederic, and tells everybody that the marriage is not broken off, and yet she has her cousin with her, making love to him in the most indecent way. People used to say in her favour that at any rate she never flirted. I never quite know what people mean when they talk of flirting. But you may take my word for it that she allows her cousin to embrace her, and *embraces him*. I would not say it if I could not prove it. It is horrible to think of it, when one remembers that she is almost justified in saying that Frederic is engaged to her.
+> No doubt he was engaged to her. It was a great misfortune, but, thank God, is not yet past remedy. He has some foolish feeling of what he calls honour; as if a man can be bound in honour to marry a woman who has deceived him in every point! She still sticks to the diamonds﻿—if she has not sold them, as I believe she has; and Mr. Camperdown is going to bring an action against her in the High Court of Chancery. But still Frederic will not absolutely declare the thing off. I feel, therefore, that it is my duty to let him know what I have learned. I should be the last to stir in such a matter unless I was sure I could prove it. But I don’t quite like to write to Frederic. Will mamma see him, and tell him what I say? Of course you will show this letter to mamma. If not, I must postpone it till I am in town;﻿—but I think it would come better from mamma. Mamma may be sure that she is a bad woman.
+> And now what do you think of your Mr. Greystock?
+
+===Chinese===
+
+> 亲爱的阿米莉亚：
+> 我们到了，还得在这儿待到月底。自然一切都还合适，如此等等；可是闷得要死。这地方比这个时节的里士满差着天堂；至于年年秋天跑苏格兰，我腻透了。只是住在伦敦的人家又有什么办法？若不是看奥兰多和孩子们的份上，我就豁出脸去，随人家说什么。论身子，我在家从来最舒坦，我就爱自己东西围绕的日子。奥兰多在这儿简直无事可做。没有猎可打，只有野鸡，还不到十月开不了。
+> 可为着弗雷德里克，我来得非常值，更值的是我探到了那位格雷斯托克先生的实情。她，尤斯塔斯夫人，样样是个坏东西。她还硬说同弗雷德里克订着婚，逢人便说婚约没有解除，同时却又把表哥带在身边，用最不成体统的样子同他调情。从前人家替她说好话，说她至少从不卖俏。人家说卖俏二字，我从来闹不清是什么意思。可我这句话你只管信：她任凭表哥搂抱，还搂抱他。这话我不能证实便不说。想想真可怕——想想她还几乎有脸说弗雷德里克同她订着婚。
+> 订自然是订了。那是一场大不幸，可是谢天谢地，还没到不可救药。他心里存着一点他所谓的荣誉感的傻念头；仿佛女人样样骗了他，他还有荣誉捆着非娶不可！她还死攢着钻石——若不是早卖了的话；我相信是卖了；坎珀登先生要向大法官高等法院告她了。可弗雷德里克还是不肯把事情干脆回绝。我因此觉得，把我探得的告诉他，是我的本分。这种事，没有十足把握拿出证据，我最不肯插手。可我不大愿意直接写信给弗雷德里克。妈妈肯不肯去见他，把我的话转告他？这封信你自然会给妈妈看。若不然，我只好回城再说；——可我想这话由妈妈说出来更妥。妈妈只管拿稳：她是个坏女人。
+> 现在说说你那位格雷斯托克先生，你怎么看？
+
+===Original===
+
+As sure as I am here he was seen with his arm round his cousin’s waist, sitting out of doors﻿—*kissing her!* I was never taken in by that story of his marrying Lucy Morris. He is the last man in the world to marry a governess. He is over head and ears in debt, and if he marries at all, he must marry someone with money. I really think that mamma, and you, and all of you have been soft about that girl. I believe she has been a good governess﻿—that is, good after mamma’s easy fashion; and I don’t for a moment suppose that she is doing anything underhand. But a governess with a lover never does suit, and I’m sure it won’t suit in this case. If I were you I would tell her. I think it would be the best charity. Whether they mean to marry I can’t tell﻿—Mr. Greystock, that is, and this woman; *but they ought to mean it*;﻿—that’s all.
+> Let me know at once whether mamma will see Frederic, and speak to him openly. She is quite at liberty to use my name; only nobody but mamma should see this letter.
+> Love to them all,
+
+Your most affectionate sister,
+> Clara Hittaway.
+
+In writing to Amelia instead of to her mother, Mrs. Hittaway was sure that she was communicating her ideas to at least two persons at Fawn Court, and that therefore there would be discussion. Had she written to her mother, her mother might probably have held her peace, and done nothing.
+
+===Chinese===
+
+> 千真万确，有人亲眼见他搂着表妹的腰坐在露天——还吻她！说他要娶露西·莫里斯那套话，我从来不信。天下再没有比他更娶不得女陪伴的男人。他债台高筑，倘若结婚，非娶个带钱的不可。我实在觉得，妈妈、你、你们全家，对那姑娘都太软了。我相信她做女陪伴是尽职的——就是说，照妈妈那套宽和的样子尽职；她背着人搞什么名堂，我倒一刻也不疑心。可带情人的女陪伴怎么也合不来，这一桩我拿得稳也合不来。我要是你，就告诉她。我想这是顶好的慈悲。他们打不打算结婚我说不上——我是说格雷斯托克先生同这个女人；可他们该打算；——这就够了。
+> 妈妈肯不肯去见弗雷德里克、当面同他摊开说，即刻回我一个信。她尽管用我的名字；只是这封信除妈妈外谁也不许看。
+> 问大家好。
+> 你们最亲爱的姐姐
+> 克拉拉·希塔韦
+
+她不写信给母亲而写给阿米莉亚，拿得稳这样一来她在福恩苑至少传到两个人耳朵里，于是必有一场议论。倘若写给母亲，母亲多半会一声不响、毫无动作。
