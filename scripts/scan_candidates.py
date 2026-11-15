@@ -25,9 +25,33 @@ import zlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJ_DIR = os.path.join(ROOT, "翻译项目")
+PARTITION_FILE = os.path.join(ROOT, "mcp", "分区覆盖.csv")  # 显式批次分配（与 translate_mcp.py 一致）
+
+_PARTITION_OVERRIDE_CACHE = None
+
+
+def _load_partition_override():
+    # 每次进程运行时读一次（与 translate_mcp.py 的 per-call 读取语义一致，脚本为一次性进程）
+    global _PARTITION_OVERRIDE_CACHE
+    if _PARTITION_OVERRIDE_CACHE is None:
+        _PARTITION_OVERRIDE_CACHE = {}
+        if os.path.isfile(PARTITION_FILE):
+            with open(PARTITION_FILE, "r", encoding="utf-8", errors="ignore") as f:
+                for ln in f:
+                    s = ln.strip()
+                    if s and not s.startswith("#") and "," in s:
+                        name, _, b = s.rpartition(",")
+                        try:
+                            _PARTITION_OVERRIDE_CACHE[name.strip()] = int(b)
+                        except ValueError:
+                            pass
+    return _PARTITION_OVERRIDE_CACHE
 
 
 def get_batch_assignment(proj_name, index, method="index", total_batches=3):
+    ovr = _load_partition_override().get(proj_name)
+    if ovr is not None:
+        return ovr
     if method == "crc32":
         return (zlib.crc32(proj_name.encode("utf-8")) % total_batches) + 1
     else:

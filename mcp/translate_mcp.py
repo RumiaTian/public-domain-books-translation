@@ -52,6 +52,7 @@ CHECKER = os.path.join(ROOT, "scripts", "check_bilingual.py")
 LOCK_DIR = os.path.join(os.path.expanduser("~"), ".translate_mcp_locks")  # 跨进程队列锁集中存放，不污染仓库
 _MCP_DIR = os.path.dirname(os.path.abspath(__file__))
 BLOCKLIST_FILE = os.path.join(_MCP_DIR, "拦截清单.txt")   # 1301 内容拦截回避书目（一行一书名，# 注释）
+PARTITION_FILE = os.path.join(_MCP_DIR, "分区覆盖.csv")   # 显式批次分配（项目名,批次；未列出仍走 sorted下标%3+1）
 ACTIVITY_LOG = os.path.join(_MCP_DIR, "活动日志.txt")     # 工具活动足迹：worker 暴毙时供调度会话定位卡住的书
 
 TOTAL_BATCHES = 3        # 红线：与 scan_candidates.py 默认一致，冻结
@@ -343,6 +344,21 @@ def _load_blocklist():
     return out
 
 
+def _load_partition_override():
+    if not os.path.isfile(PARTITION_FILE):
+        return {}
+    out = {}
+    for ln in _read_text(PARTITION_FILE).splitlines():
+        s = ln.strip()
+        if s and not s.startswith("#") and "," in s:
+            name, _, b = s.rpartition(",")
+            try:
+                out[name.strip()] = int(b)
+            except ValueError:
+                pass
+    return out
+
+
 def _log_activity(tool, project, fname=""):
     try:
         with open(ACTIVITY_LOG, "a", encoding="utf-8") as f:
@@ -355,12 +371,13 @@ def tool_batch_begin(batch_id, dry_run=False):
     if batch_id not in (0, 1, 2, 3):
         raise ToolError("batch_id 取值 1/2/3（0=只读全局总览）")
     blocklist = _load_blocklist()
+    part_ovr = _load_partition_override()
     all_dirs = sorted(d for d in os.listdir(PROJ_DIR) if os.path.isdir(os.path.join(PROJ_DIR, d)))
     retry_queue, backfilled, pending_next = [], [], []
     candidates = []
     checked = 0
     for idx, name in enumerate(all_dirs):
-        b = idx % TOTAL_BATCHES + 1
+        b = part_ovr.get(name, idx % TOTAL_BATCHES + 1)
         q = os.path.join(PROJ_DIR, name, "translation_queue.csv")
         if not os.path.isfile(q):
             continue
