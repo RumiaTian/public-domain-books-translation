@@ -24,4 +24,17 @@
 
 | 日期 | 篇目 | 结果 | 备注 |
 |------|------|------|------|
-| - | - | - | （尚未运行） |
+| 2026-11-12 | adventurers.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | endnotes.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | epigraph.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ghosts-and-witchcrafts.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | hoaxes.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | i.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | ii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | iii.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | introduction.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-12 | iv.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | ix.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | l.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | medicine-and-quacks.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-12 | money-manias.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
