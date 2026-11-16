@@ -3777,3 +3777,1285 @@ He stirred a little and groaned.
 咳嗽或搭话。
 
 一朵说："这是两个半
+
+===Original===
+
+On his face and hands. It was dew. He lay on his back
+
+And stared at a blowing cloud and a moist, dark sky.
+
+“Old charioteer,” he thought.
+ He remembered dully
+
+The charge. The charge had come. They had beaten the charge.
+
+Now it was moist dark sky and the dew and his pain.
+He tried to get his canteen but he couldn’t reach it.
+
+That made him afraid.
+ “I want some water,” he said.
+
+He turned his head through stiff ages.
+ Two feet away
+
+A man was lying quietly, fast asleep,
+
+A bearded man in an enemy uniform.
+
+He had a canteen. Ellyat wet his lips with his tongue.
+
+“Hey Johnnie, got some water?” he whispered weakly.
+
+Then he saw that the Johnnie had only half a head,
+
+And frowned because such men could not lend canteens.
+He was half-delirious now, and it seemed to him
+
+As if he had two bodies, one that was pain
+
+And one that lay beyond pain, on a couch of dew,
+
+And stared at the other with sober wondering eyes.
+
+“Everyone’s dead around here but me,” he thought,
+
+“And as long as I don’t sing out, they’ll think that I’m dead
+
+And those stretcher-bearers won’t find me﻿—there goes their lantern
+
+No, it’s the moon﻿—Sing out and tell ’em you’re here.”
+
+The hot body cried and groaned. The cool watched it idly.
+
+The yellow moon burst open like a ripe fruit
+
+And from it rolled on a dark, streaked shelf of sky
+
+A car and horses, bearing the brazen ball
+
+Of the unbearable sun, that halted above him
+
+In full rush forward, yet frozen, a motion congealed,
+
+Heavy with light.
+ Toy death above Gettysburg.
+He saw it so and cried out in a weak, thin voice
+
+While something jagged fitted into his heart
+
+And the cool body watched idly.
+ And then it was
+
+A lantern, bobbing along through the clumped dead men,
+
+That halted now for an instant. He cried again.
+A voice said, “Listen, Jerry, you’re hearing things,
+
+I’ve passed that feller twice and he’s dead all right,
+
+I’ll bet you money.”
+ Ellyat heard himself piping,
+
+“I’m alive, God damn you! Can’t you hear I’m alive?”
+Something laughed, quite close now.
+ “All right, Bub,” said a cloud,
+
+“We’ll take your word for it. My, but the boy’s got language!
+
+Go ahead and cuss while we get you up on the stretcher﻿—
+
+It helps some﻿—easy there, Joe.”
+ Jack Ellyat fell
+
+Out of his bodies into a whispering blackness
+
+Through which, now and then, he could hear certain talking clouds
+
+Cough or remark.
+ One said. “That’s two and a half
+
+===Chinese===
+
+在他的脸上和手上。是露水。他仰面躺着，
+
+瞪着一片飞的云和湿润、黑暗的天空。
+
+“老驭手，”他想。
+ 他麻木地记起
+
+冲锋。冲锋来过了。他们打退了冲锋。
+
+现在是湿润的黑夜、露水和他的疼痛。
+他想去拿水壶，但够不着。
+
+这让他害怕。
+ “我想要点水，”他说。
+
+他把头转过僵硬的漫长世纪。
+ 两英尺外
+
+一个人安静地躺着，睡得死沉，
+
+一个穿敌军制服的大胡子。
+
+他有个水壶。埃利亚特用舌头舦湿嘴唇。
+
+“喂，约翰尼，有水吗？”他有气无力地低声说。
+
+然后他看见那约翰尼只剩半个脑袋，
+
+皱起眉来，因为这样的人没法出借水壶。
+他现在半谵妄了，在他看来
+
+仿佛他有两个身体，一个是疼痛，
+
+一个躺在疼痛之外，卧在露水的榻上，
+
+用清醒而好奇的眼睛看着另一个。
+
+“这周围除了我人人都死了，”他想，
+
+“只要我不出声，他们就会当我死了，
+
+那些担架兵就找不到我——那是他们的灯——
+
+不，是月亮——出声告诉他们你在这儿。”
+
+热的身体哭喊呻吟。凉的那个懒懒地看着它。
+
+黄的月亮像一颗熟透的果子裂开，
+
+从里面，在天空一条黑暗的有条纹的搁板上，滚出
+
+一辆车和几匹马，载着黄铜的球，
+
+那不可忍受的太阳，停在他上方，
+
+正全力前冲，却冻结了，一个凝固的动作，
+
+沉满着光。
+ 葛底斯堡上空的玩具死亡。
+他这样看见它，用微弱、细小的声音喊出来，
+
+同时有什么锯齿状的东西嵌进他的心脏，
+
+凉的身体懒懒看着。
+ 然后那成了
+
+一盏灯笼，在一丛丛死人中间颠簸着走，
+
+此刻停了一瞬。他又喊。
+一个声音说：“听着，杰里，你听见鬼了，
+
+那家伙我经过两回了，死得透透的，
+
+我敢跟你赌钱。”
+ 埃利亚特听见自己在尖声喊，
+
+“我活着，该死的！听不出我活着吗？”
+有什么笑了，就在近旁。
+ “行，小家伙，”一朵云说，
+
+“我们信你这话。嗬，这小子嘴还挺冲！
+
+趁我们把你抬上担架，接着骂吧——
+
+有点用——轻点，乔。”
+ 杰克·埃利亚特
+
+从他的身体们里跌进一片窃窃私语的黑，
+
+在其中，他不时听见某些会说话的云
+
+咳嗽一声或搭句话。
+ 一朵说。“那是两块半
+
+===Original===
+
+You owe me, Joe. You’re pickin’ ’em wrong tonight.”
+
+“Well, poor suckers,” said Joseph. “But all the same,
+
+If this one doesn’t last till the dressing station
+
+The bet’s off﻿—take it slower, Jerry﻿—it hurts him.”
+---
+Another clear dawn breaks over Gettysburg,
+
+Promising heat and fair weather﻿—and with the dawn
+
+The guns are crashing again.
+ It is the third day.
+
+The morning wears with a stubborn fight at Culp’s Hill
+
+That ends at last in Confederate repulse
+
+And that barb-end of the fish-hook cleared of the grey.
+Lee has tried his strokes on the right and left of the line.
+
+The centre remains﻿—that centre yesterday pierced
+
+For a brief, wild moment in Wilcox’s attack,
+
+But since then trenched, reinforced and alive with guns.
+
+It is a chance. All war is a chance like that.
+
+Lee considers the chance and the force he has left to spend
+
+And states his will.
+ Dutch Longstreet, the independent,
+
+Demurs, as he has demurred since the fight began.
+
+He had disapproved of this battle from the first
+
+And that disapproval has added and is to add
+
+Another weight in the balance against the grey.
+
+It is not our task to try him for sense or folly,
+
+Such men are the men they are﻿—but an hour comes
+
+Sometimes, to fix such men in most fateful parts,
+
+As now with Longstreet who, if he had his orders
+
+As they were given, neither obeyed them quite
+
+Nor quite refused them, but acted as he thought best,
+
+So did the half-thing, failed as he thought he would,
+
+Felt justified and wrote all of his reasons down
+
+Later in controversy.
+ We do not need
+
+Such controversies to see that pugnacious man
+
+Talking to Lee, a stubborn line in his brow
+
+And that unseen fate between them.
+ Lee hears him out
+
+Unmoved, unchanging.
+ “The enemy is there
+
+And I am going to strike him,” says Lee, inflexibly.
+---
+Wingate cursed with an equal stress
+
+The guns in the sky and his weariness,
+
+The nightmare riding of yesterday
+
+When they slept in the saddle by whole platoons
+
+And the Pennsylvania farmer’s grey
+
+With hocks as puffy as toy balloons,
+
+A graceless horse, without gaits or speed,
+
+But all he had for his time of need.
+
+“I’d as soon be riding a Jersey cow.”
+
+But the Black Horse Troop was piebald now
+
+And the Black Horse Troop was worn to the blade
+
+With the dull fatigue of this last, long raid.
+
+Huger Shepley rode in a tense
+
+Gloom of the spirit that found offence
+
+In all things under the summer skies
+
+===Chinese===
+
+你欠我的，乔。你今晚净挑错人。”
+
+“唉，可怜的家伙们，”约瑟夫说，“不过话说回来，
+
+这一个要是撑不到包扎站，
+
+赌就吹了——骑慢点，杰里——他疼。”
+---
+又一个晴朗的黎明照上葛底斯堡，
+
+许下炎热和好天气——而随着黎明
+
+炮义轰响起来。
+ 这是第三天。
+
+上午在卡尔普山一场执拗的苦战里消磨，
+
+终于以邦联的受挫收场，
+
+鱼钩的倒钩尖上也扫净了灰衣。
+李在战线的左右两翼都试过了手。
+
+中央还在——那中央昨天在威尔科克斯的攻击中
+
+被短暂而狂乱地穿透过一刻，
+
+但自那以后已掘壕、增援、架满了炮。
+
+这是一个机会。所有的战争都是这样的机会。
+
+李掂量这机会和他还花得起的兵力，
+
+说出了他的意志。
+ 荷兰佬朗斯特里特，那个自作主张的，
+
+照旧提出异议，从开战起他就一直在异议。
+
+他从一开始就不赞成这一仗，
+
+而那不赞成已经加上、还要再加上
+
+一颗砝码，压向灰衣那头的天平。
+
+审判他是明智还是愚蠢不是我们的任务，
+
+这样的人就是那样的人——但有时一个时辰到来，
+
+把这样的人钉进最关系命运的位置，
+
+就像现在的朗斯特里特：他接到的命令
+
+原样给定，他既不照办
+
+也不干脆拒绝，而是照自己认为最好的做，
+
+做了一半，如他所料地失败了，
+
+自觉有理，后来在论战中
+
+把他的理由一条条写了下来。
+ 我们不需要
+
+那些论战，也能看见那个好斗的人
+
+同李说话，眉心一道固执的纹，
+
+两人之间那看不见的命运。
+ 李听他说完，
+
+不为所动，不改一字。
+ “敌人在那儿，
+
+我要打他，”李说，斩钉截铁。
+---
+温盖特用同样的力气咒骂
+
+天上的炮火和他自己的疲惫，
+
+咒骂昨天梦魇似的骑行，
+
+整个排整个排在马背上睡着，
+
+咒骂那匹宾夕法尼亚农夫的灰马，
+
+飞节肿得像玩具气球，
+
+一匹没相的马，没步法没速度，
+
+却是他急难时仅有的全部。
+
+“我倒宁愿骑一头泽西奶牛。”
+
+可黑马骑队如今成了花马，
+
+黑马骑队磨得只剩刀刃，
+
+被这最后一场漫长突袭的钝疲磨的。
+
+休格·谢普利骑着马，陷入一种绷紧的
+
+心灵的阴郁，在夏日天空下的
+
+一切事物里都找得出冒犯
+
+===Original===
+
+And the recklessness in Bristol’s eyes
+
+Had lost its color of merriment.
+
+Horses and men, they were well-nigh spent.
+
+Wingate grinned as he heard the “Mount,”
+
+“Reckon we look sort of no-account,
+
+But we’re here at last for somebody’s fight.”
+
+They rode toward the curve of the Union right.
+---
+At one o’clock the first signal-gun was fired
+
+And the solid ground began to be sick anew.
+
+For two hours then that sickness, the unhushed roar
+
+Of two hundred and fifty cannon firing like one.
+By Philadelphia, eighty-odd miles away,
+
+An old man stooped and put his ear to the ground
+
+And heard that roar, it is said, like the vague sea-clash
+
+In a hollow conch-shell, there, in his flowerbeds.
+
+He had planted trumpet-flowers for fifteen years
+
+But now the flowers were blowing an iron noise
+
+Through earth itself. He wiped his face on his sleeve
+
+And tottered back to his house with fear in his eyes.
+The caissons began to blow up in the Union batteries.﻿ ﻿…
+---
+The cannonade fell still. All along the fish-hook line,
+
+The tired men stared at the smoke and waited for it to clear;
+
+The men in the centre waited, their rifles gripped in their hands,
+
+By the trees of the riding fate, and the low stone wall, and the guns.
+These were Hancock’s men, the men of the Second Corps,
+
+Eleven States were mixed there, where Minnesota stood
+
+In battle-order with Maine, and Rhode Island beside New York,
+
+The metals of all the North, cooled into an axe of war.
+The strong sticks of the North, bound into a fasces-shape,
+
+The hard winters of snow, the wind with the cutting edge,
+
+And against them came that summer that does not die with the year,
+
+Magnolia and honeysuckle and the blue Virginia flag.
+Tall Pickett went up to Longstreet﻿—his handsome face was drawn.
+
+George Pickett, old friend of Lincoln’s in days gone by with the blast,
+
+When he was a courteous youth and Lincoln the strange shawled man
+
+Who would talk in a Springfield street with a boy who dreamt of a sword.
+Dreamt of a martial sword, as swords are martial in dreams,
+
+And the courtesy to use it, in the old bright way of the tales.
+
+Those days are gone with the blast. He has his sword in his hand.
+
+And he will use it today, and remember that using long.
+He came to Longstreet for orders, but Longstreet would not speak.
+
+He saw Old Peter’s mouth and the thought in Old Peter’s mind.
+
+===Chinese===
+
+连布里斯托尔眼里的那股悍气
+
+也失去了它快活的颜色。
+
+马和人，都快耗干了。
+
+温盖特听见“上马”，咧嘴一笑，
+
+“估摸咱们看着像个不中用的，
+
+可我们总算赶上了谁的一场仗。”
+
+他们朝联邦军右翼的弧线驰去。
+---
+一点钟，第一发信号炮打响，
+
+坚实的大地重新病了起来。
+
+然后是两个小时那种病，那不息的轰鸣，
+
+两百五十门炮齐响如同一门。
+在八十多英里外的费城附近，
+
+一个老人俯身把耳朵贴在地上，
+
+听见了那轰鸣，据说，像空海螺里
+
+模糊的海涛拍击，就在他的花圃里。
+
+他种了十五年喇叭花，
+
+可如今那些花正把一阵铁的噪声
+
+吹过大地本身。他用袖子擦了擦脸，
+
+眼里带着恐惧，蹒跚着回屋去了。
+联邦炮位上，弹药车开始爆炸。……
+---
+炮击停了。沿着整条鱼钩防线，
+
+疲惫的人盯着烟，等它散去；
+
+中央的人等着，步枪攥在手里，
+
+在驰骋命运的那些树旁，在低矮石墙旁，在炮旁。
+这些是汉考克的人，第二军的人，
+
+十一个州混在那里，明尼苏达
+
+同缅因并肩列阵，罗得岛挨着纽约，
+
+整个北方各样的金属，冷凝成一柄战斧。
+北方的硬枝条，捆成一束法西斯，
+
+落雪的严冬，带利刃的风，
+
+而冲它们来的，是那个不随年岁死去的夏天，
+
+木兰花、金银花和弗吉尼亚的蓝旗。
+高大的皮克特走向朗斯特里特——他俊美的脸绷着。
+
+乔治·皮克特，从前爆炸声里林肯的老朋友，
+
+那时他是彬彬有礼的少年，林肯是那个披披巾的怪人，
+
+会在斯普林菲尔德街头同一个梦想宝剑的男孩说话。
+梦想一柄英武的剑，像梦里那样英武，
+
+还有挥剑的礼数，像古老传说里那样明亮堂皇。
+
+那些日子随爆炸声去了。他手里握着他的剑。
+
+他今天就要用它，并且长久记住这次挥用。
+他来找朗斯特里特要命令，可朗斯特里特不肯开口。
+
+他看见老彼得的嘴和老彼得心里的念头。
+
+===Original===
+
+He knew the task that was set and the men that he had to lead
+
+And a pride came into his face while Longstreet stood there dumb.
+“I shall go forward, sir,” he said and turned to his men.
+
+The commands went down the line. The grey ranks started to move.
+
+Slowly at first, then faster, in order, stepping like deer,
+
+The Virginians, the fifteen thousand, the seventh wave of the tide.
+There was a death-torn mile of broken ground to cross,
+
+And a low stone wall at the end, and behind it the Second Corps,
+
+And behind that force another, fresh men who had not yet fought.
+
+They started to cross that ground. The guns began to tear them.
+From the hill they say that it seemed more like a sea than a wave,
+
+A sea continually torn by stones flung out of the sky,
+
+And yet, as it came, still closing, closing and rolling on,
+
+As the moving sea closes over the flaws and rips of the tide.
+You could mark the path that they took by the dead that they left behind,
+
+Spilled from that deadly march as a cart spills meal on a road,
+
+And yet they came on unceasing, the fifteen thousand no more,
+
+And the blue Virginia flag did not fall, did not fall, did not fall.
+They halted but once to fire as they came. Then the smoke closed down
+
+And you could not see them, and then, as it cleared again for a breath,
+
+They were coming still but divided, gnawed at by blue attacks,
+
+One flank half-severed and halted, but the centre still like a tide.
+Cushing ran down the last of his guns to the battle-line.
+
+The rest had been smashed to scrap by Lee’s artillery fire.
+
+He held his guts in his hand as the charge came up to the wall
+
+And his gun spoke out for him once before he fell to the ground.
+Armistead leapt the wall and laid his hand on the gun,
+
+The last of the three brigadiers who ordered Pickett’s brigades,
+
+He waved his hat on his sword and “Give ’em the steel!” he cried,
+
+A few men followed him over. The rest were beaten or dead.
+A few men followed him over. There had been fifteen thousand
+
+When that sea began its march toward the fish-hook ridge and the wall.
+
+So they came on in strength, light-footed, stepping like deer,
+
+So they died or were taken. So the iron entered their flesh.
+Lee, a mile away, in the shade of a little wood,
+
+Stared, with his mouth shut down, and saw them go and be slain,
+
+And then saw for a single moment, the blue Virginia flag
+
+===Chinese===
+
+他知道派下的任务和他必须率领的人，
+
+朗斯特里特哑立在那里时，一股豪情上了他的脸。
+“我将前进，长官，”他说，转身走向他的人。
+
+命令顺防线传下去。灰色的行列开始移动。
+
+起初慢，然后快，队形不乱，迈步如鹿，
+
+弗吉尼亚人，那一万五千人，潮水的第七道浪。
+要穿过的是一英里被死亡撕碎的破地，
+
+尽头一道低矮石墙，墙后是第二军，
+
+那支兵力后面还有一支，没打过仗的生力。
+
+他们开始穿过那片地。炮火开始撕碎他们。
+从山上望去，据说那不像一道浪，更像一片海，
+
+一片不断被天上掷下的石头撕裂的海，
+
+然而它涌来时，仍旧合拢，合拢，滚滚向前，
+
+像流动的海合拢潮水的裂口和撕痕。
+他们走过的路可以用留下的死者标出，
+
+从那致命的行军里洒落，像马车在路上洒出谷粉，
+
+然而他们不停涌来，一万五千已不复存在，
+
+而弗吉尼亚的蓝旗没有倒，没有倒，没有倒。
+行进中他们只停下一次开火。然后烟幕压下来，
+
+看不见他们了，然后，烟再散开一口气的工夫，
+
+他们仍在过来，但已被切开，被蓝色的攻击啃噬，
+
+一侧半断、停住，可中央仍像一道潮。
+卡欣把他最后一门炮推上战线。
+
+其余的都被李的炮火砸成了废铁。
+
+冲锋抵墙时他手捧着自己的肠子，
+
+倒下之前，他的炮替他最后说了一次话。
+阿米斯特德跃过墙，把手按在那门炮上，
+
+指挥皮克特各旅的三位旅长中的最后一位，
+
+他把帽子挑在剑上挥着，喊“给他们上刺刀！”，
+
+几个人跟着他翻了过去。其余的被击垮或死去。
+几个人跟着他翻了过去。那片海开始
+
+朝鱼钩山脊和石墙进军时，曾有一万五千人。
+
+他们就这样浩荡而来，脚步轻捷，迈步如鹿，
+
+就这样死去或被俘。铁就这样进了他们的肉。
+李，在一英里外一片小树林的荫翳里，
+
+瞪视着，抿紧了嘴，看他们去、看他们被杀，
+
+然后在单独的一瞬，看见弗吉尼亚的蓝旗
+
+===Original===
+
+Planted beyond the wall, by that other flag that he knew.
+The two flags planted together, one instant, like hostile flowers.
+
+Then the smoke wrapped both in a mantle﻿—and when it had blown away,
+
+Armistead lay in his blood, and the rest were dead or down,
+
+And the valley grey with the fallen and the wreck of the broken wave.
+Pickett gazed around him, the boy who had dreamt of a sword
+
+And talked with a man named Lincoln. The sword was still in his hand.
+
+He had gone out with fifteen thousand. He came back to his lines with five.
+
+He fought well till the war was over, but a thing was cracked in his heart.
+---
+Wingate, waiting the sultry sound
+
+That would pour the troop over hostile ground,
+
+Petted his grey like a loving son
+
+And wondered whether the brute would run
+
+When it came to fighting, or merely shy
+
+There was a look in the rolling eye
+
+That he knew too well to criticize
+
+Having seen it sometimes in other eyes.
+
+“Poor old Fatty,” he said. “Don’t fret,
+
+It’s tough, but it hasn’t happened yet
+
+And we may get through it if you behave,
+
+Though it looks just now like a right close shave.
+There’s something funny about this fight﻿—”
+
+He thought of Lucy in candlelight,
+
+White and gold as the evening star,
+
+Giving bright ribbons to men at war.
+
+But the face grew dimmer and ever dimmer,
+
+The gold was there but the gold was fainter,
+
+And a slow brush streaked it with something grimmer
+
+Than the proper tint of a lady’s painter
+
+Till the shadow she cast was a ruddy shadow.
+
+He rubbed his eyes and stared at the meadow.﻿ ﻿…
+“There was a girl I used to go with,
+
+Long ago, when the skies were cooler,
+
+There was a tree we used to grow with
+
+Marking our heights with a stolen ruler.
+There was a cave where we hid and fought once.
+
+There was a pool where the wind kept writing.
+
+There was a possum-child we caught once.
+
+Caged it awhile, for all its biting.
+There was a gap in a fence to see there,
+
+Down where the sparrows were always wrangling.
+
+There was a girl who used to be there,
+
+Dark and thin, with her long braids dangling.
+Dark and thin in her scuffed brown slippers
+
+With a boy’s sling stuck in her apron-pocket,
+
+With a sting in her tongue like a gallinipper’s
+
+And the eyes of a ghost in a silver locket.
+White and gold, white and gold,
+
+You cannot be cold as she was cold,
+
+Cold of the air and the running stream
+
+===Chinese===
+
+插到了墙那边，挨着他认得的那面旗。
+两面旗插在一起，一瞬，像两朵敌对的花。
+
+然后烟把两面旗裹进一件斗篷——烟吹散后，
+
+阿米斯特德躺在他的血里，其余的死了或倒着，
+
+山谷灰蒙蒙，铺满倒下的人和解体浪的残骸。
+皮克特环顾四周，那个梦想过宝剑的男孩，
+
+同一个名叫林肯的人说过话的男孩。剑还在他手里。
+
+他带一万五千人出去。他带五个回到自己的防线。
+
+他打仗一直打到战争结束，可有什么东西在他心里裂了。
+---
+温盖特等着那闷热的声音，
+
+它将把骑队倾泻过敌对的地面，
+
+他像爱子一样抚着他的灰马，
+
+琢磨这畜生到了打仗的时候
+是会撒腿跑呢，还是只是往旁一闪。
+那双骨碌转的眼睛里有种神色，
+
+他太熟悉了，熟悉得没法苛责，
+
+因为他有时也在别的眼睛里见过。
+
+“可怜的老肥仔，”他说。“别烦，
+
+是难，可还没到那一步呢，
+
+只要你放乖，没准能闯过去，
+
+虽说这会儿瞧着，险得贴着皮剃。
+这场仗有点邪门——”
+
+他想起烛光里的露西，
+
+白与金，像黄昏的长庚星，
+
+把鲜亮的缎带送给出征的男人。
+
+可那张脸越来越暗、越来越暗，
+
+金色还在，可金色越来越淡，
+
+一支慢笔给它抹上比仕女画师
+
+该用的颜色更阴冷的东西，
+
+直到她投下的影子成了血红的影子。
+
+他揉揉眼，瞪着草场。……
+“从前有个姑娘常跟我一起玩，
+
+很久以前，那时天还凉些，
+
+有一棵树跟着我们一起长，
+
+用一把偷来的尺子刻下我们的身高。
+有一个岩洞，我们躲进去打过一仗。
+
+有一个池塘，风老在上面写字。
+
+有一只小负鼠，我们逮住过一回，
+
+关了些日子，任它怎么咬。
+有一道篱笆豁子，从那儿望得见，
+
+底下麻雀永远在吵嚷。
+
+有一个姑娘总在那儿，
+
+黑瘦黑瘦的，长辫子垂荡。
+黑瘦黑瘦的，趿着蹭坏的棕色便鞋，
+
+围裙口袋里插着男孩的弹弓，
+
+舌头上的刺跟大蚊虫的一样毒，
+
+银坠盒里一双幽灵的眼睛。
+白与金，白与金，
+
+你不可能像她那样冷，
+
+冷得像空气和奔流的溪水
+
+===Original===
+
+And cold of the ice-tempered dream.
+Gold and white, gold and white,
+
+You burn with the heat of candlelight.
+
+But what if I set you down alone
+
+Beside the burning meteor-stone?
+Blow North, blow South, blow hot, blow cold,
+
+My body is pledged to white and gold,
+
+My honor given to kith and kin,
+
+And my doom-clothes ready to wrap me in
+
+For the shut heart and the open hand
+
+As long as Wingate Hall shall stand
+
+And the fire burn and the water cool
+
+And a fool beget another fool﻿—
+But now, in the hour before this fight,
+
+I have forgotten gold and white.
+
+I will remember lost delight.
+
+She has the Appleton mouth, it seems,
+
+And the Appleton way of riding,
+
+But if she quarrels or when she gleams,
+
+Something comes out from hiding.
+
+She can sew all day on an Appleton hem
+
+And look like a saint in plaster,
+
+But when the fiddles begin to play,
+
+And her feet beat fast but her heart beats faster,
+
+An alien grace is alive in them
+
+And she looks like her father, the dancing-master,
+
+The scapegrace elegant, ‘French Dupré.’ ”
+Then the word came and the bugle sang
+
+And he was part of the running clang,
+
+The rush and the shock and the sabres licking
+
+And the fallen horses screaming and kicking.
+
+His grey was tired and his arm unsteady
+
+And he whirled like a leaf in a shrieking eddy
+
+Where every man was fighting his neighbor
+
+And there was no room for the tricks of sabre
+
+But only a wild and nightmare sickling.
+
+His head felt burnt﻿—there was something trickling
+
+Into his eyes﻿—then the new charge broke
+
+The eddy apart like scattered smoke;
+
+The cut on his head half made him blind.
+
+If he had a mind, he had lost that mind.
+He came to himself in a battered place,
+
+Staring at Wainscott Bristol’s face,
+
+The dried blood made it a ferret’s mask.
+“What happened?” he croaked.
+ “Well, you can ask,”
+
+Said Bristol, drawling, “But don’t ask me,
+
+For any facts of the jamboree.
+
+I reckon we’ve been to an Irish wake
+
+Or maybe cuttin’ a johnny-cake
+
+With most of the Union cavalry-corps.
+
+I don’t know yet, but it was a war.
+
+Are you crazy still? You were for a piece.
+
+You yelled you were Destiny’s long-lost niece
+
+And wanted to charge the whole Yank line
+
+Because they’d stolen your valentine.
+
+You fought like a fool but you talked right wild.
+
+You got a bad bump, too.”
+ Wingate smiled
+
+“I reckon I did, but I don’t know when.
+
+Did we win or what?”
+ “And I say again,”
+
+===Chinese===
+
+也冷得像冰里淬过的梦。
+金与白，金与白，
+
+你烧着烛火的热。
+
+可要是我把你独自放下，
+
+放在烧着的陨石旁呢？
+吹北风，吹南风，吹热，吹冷，
+
+我的身体许给了白与金，
+
+我的荣誉交给了亲族，
+
+我的寿衣已经备好等裹上我，
+
+为这颗关死的心和这只张开的手，
+
+只要温盖特府还立着，
+
+只要火还烧着水还凉着，
+
+只要一个傻瓜还生下一个傻瓜——
+可现在，这一仗之前的时辰里，
+
+我把金与白都忘了。
+
+我要记起那失去的欢愉。
+
+她有阿普尔顿家的嘴，看来，
+
+有阿普尔顿家的骑姿，
+
+可她一吵架也好、眼波一流转也好，
+
+有什么东西从躲藏里出来了。
+
+她能整天缝一条阿普尔顿家的贴边，
+
+像一尊石膏圣像，
+
+可琴弓一拉起来，
+
+她的脚跳得快、心跳得更快时，
+
+一种异邦的优雅在她们身上活了，
+
+她就长得像她父亲，那个舞蹈教师，
+
+那个风流体面的浪子，‘法国佬杜普雷。’”
+然后口令传来，号角唱起，
+
+他成了那奔流的铿锵的一部分，
+
+冲撞、冲击、马刀翻飞，
+
+倒下的马尖叫着踢蹬。
+
+他的灰马累了，他的手臂不稳，
+
+他像一片叶子在尖啸的漩涡里打转，
+
+那里人人都在跟身边的人搏杀，
+
+没有施展刀法的余地，
+
+只有一场狂乱的梦魇般的挥镰。
+
+他的头烧了起来——有什么东西
+
+流进他眼睛——然后新的冲锋
+
+把那漩涡冲散，像吹散的烟；
+
+头上的口子叫他半瞎。
+
+他要是有神志，那神志也没了。
+他清醒过来时人在一个砸烂的地方，
+
+瞪着温斯科特·布里斯托尔的脸，
+
+干血把它弄成了一张雪貂的面具。
+“出什么事了？”他哑着嗓子问。
+ “喏，你可以问，”
+
+布里斯托尔拖着腔说，“可别问我，
+
+问这场狂欢的任何实情。
+
+我估摸咱们去了一个爱尔兰式的守灵，
+
+要么就是跟联邦骑兵军的大半个
+
+一起切了一块玉米饼。
+
+我还没弄清，反正那是一场战争。
+
+你还疯着吗？你疯了好一阵子。
+
+你嚷嚷说你是命运失散多年的外甥女，
+
+要冲整个北佬防线，
+
+因为他们偷了你的情人卡。
+
+你打起来像个傻子，说起话来野得很。
+
+你还重重磕了个包。”
+ 温盖特笑了
+
+“估摸是磕了，可我不知道啥时候。
+
+我们赢了没有？”
+ “那我再说一遍，”
+
+===Original===
+
+Said Bristol, heavily, “don’t ask me.
+
+Inquire of General Robert Lee.
+
+I know we’re in for a long night ride
+
+And they say we got whipped on the other side.
+
+What’s left of the Troop are down by the road.
+
+We lost John Leicester and Harry Spode
+
+And the Lawley boys and Ballantyne.
+
+The Major’s all right﻿—but there’s Jim Devine
+
+And Francis Carroll and Judson White﻿—
+
+I wish I had some liquor tonight.”
+Wingate touched the cut on his head.
+
+It burned, but it no longer bled.
+
+“I wish I could sleep ten years,” he said.
+---
+The night of the third day falls. The battle is done.
+
+Lee entrenches that night upon Seminary Ridge.
+
+All next day the battered armies still face each other
+
+Like enchanted beasts.
+ Lee thinks he may be attacked,
+
+Hopes for it, perhaps, is not, and prepares his retreat.
+Vicksburg has fallen, hollow Vicksburg has fallen,
+
+The cavedwellers creep from their caves and blink at the sun.
+
+The pan of the Southern balance goes down and down.
+
+The cotton is withering.
+Army of Northern Virginia, haggard and tattered,
+
+Tramping back on the pikes, through the dust-white summer,
+
+With your wounds still fresh, your burden of prisoners,
+
+Your burden of sick and wounded,
+
+“One long groan of human anguish six miles long.”
+
+You reach the swollen Potomac at long last,
+
+A foe behind, a risen river in front,
+
+And fording that swollen river, in the dim starlight,
+
+In the yellow and early dawn,
+
+Still have heart enough for the tall, long-striding soldiers
+
+To mock the short, half swept away by the stream.
+
+“Better change our name to Lee’s Waders, boys!”
+
+“Come on you shorty﻿—get a ride on my back.”
+
+“Aw, it’s just we ain’t had a bath in seven years
+
+And General Lee, he knows we need a good bath.”
+So you splash and slip through the water and come at last
+
+Safe, to the Southern side, while Meade does not strike;
+
+Safe to take other roads, safe to march upon roads you know
+
+For two long years. And yet﻿—each road that you take,
+
+Each dusty road leads to Appomattox now.
+
+===Chinese===
+
+布里斯托尔沉重地说，“别问我。
+
+去问罗伯特·李将军。
+
+我只知道咱们还得连夜赶一整夜的路，
+
+人家说另一头咱们挨了揍。
+
+骑队剩下的都在路边。
+
+咱们折了约翰·莱斯特和哈里·斯波德，
+
+还有劳利家两兄弟和巴兰坦。
+
+少校没事——可吉姆·德文
+
+还有弗朗西斯·卡罗尔和贾德森·怀特——
+
+今晚我真相来点酒喝。”
+温盖特摸摸头上的口子。
+
+还烧着，可不再流血了。
+
+“我真想睡上十年，”他说。
+---
+第三天的夜落下来。仗打完了。
+
+李当夜在神学院岭掘壕固守。
+
+第二天一整天，两支打烂的军队仍面对着面，
+
+像一对着了魔的野兽。
+ 李想着自己可能被攻击，
+
+或许还盼着，却没有，于是准备撤退。
+维克斯堡陷落了，空洞的维克斯堡陷落了，
+
+穴居人从洞穴里爬出来，对着太阳眨眼。
+
+南方天平的秤盘一路沉、一路沉。
+
+棉花在枯萎。
+北弗吉尼亚军团，憔悴而褴褛，
+
+踩着大路回撤，穿过尘土发白的夏天，
+
+带着还新鲜的伤口，带着俘虏的重负，
+
+带着病号和伤员的重负，
+
+“一声长长的、六英里长的人类痛苦的呻吟。”
+
+你终于抵达涨水的波托马克，
+
+身后一个敌人，面前一条涨起的河，
+
+而涉过那条涨水的河，在昏暗的星光里，
+
+在黄黄的初生的黎明里，
+
+高个的、大步的士兵们还有闲心
+
+取笑被河水冲得半站不稳的矮个。
+
+“伙计们，咱们干脆改名李家涉水队吧！”
+
+“来，小矮子——上我背来骑一段。”
+
+“嗐，不就是咱们七年没洗澡了嘛，
+
+李将军他知道咱们该好好洗个澡。”
+你就这样哗啦着、打着滑蹚过水，终于
+
+安然上了南岸，而米德没有出击；
+
+安然走上别的路，安然行军在你熟悉的路上，
+
+整整两年。然而——你走的每一条路，
+
+如今每一条尘土的路，都通向阿波马托克斯。
