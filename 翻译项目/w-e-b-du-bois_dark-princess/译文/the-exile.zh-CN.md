@@ -441,3 +441,387 @@ Matthew stared at her, as she continued:
 “这个，”公主说，“我一向也这样信；可我同阁下说过了，我在莫斯科得到的一些印象，叫我很认真地想了想——第一，想我们对黑人种族能力的判断；第二——”她沉思地顿了顿——“想一切阶级和民族彼此的能力高下。”
 马修瞪着她，她接着说：
 “您要知道，莫斯科有报告，对世界大众的详尽报告。而关于美国黑人的那份报告，令人震惊。
+
+===Original===
+
+At the time, I doubted its truth: their education, their work, their property, their organizations; and the odds, the terrible, crushing odds against which, inch by inch and heartbreak by heartbreak, they have forged their unfaltering way upward. If the report is true, they are a nation today, a modern nation worthy to stand beside any nation here.”
+“But can we put any faith in Moscow?” asked the Egyptian. “Are we not keeping dangerous company and leaning on broken reeds?”
+“Well,” said Matthew, “if they are as sound in everything as in this report from America, they’ll bear listening to.”
+The young Indian spoke gently and evenly, but with bright eyes.
+“Naturally,” he said, “one can see Mr. Towns needs must agree with the Bolshevik estimate of the lower classes.”
+Matthew felt the slight slur and winced. He thought he saw the lips of the Princess tighten ever so little. He started to answer quickly, with aplomb if not actual swagger.
+“I reckon,” he began﻿—then something changed within him. It was as if he had faced and made a decision, as though some great voice, crying and reverberating within his soul, spoke for him and yet was him. He had started to say, “I reckon there’s as much highborn blood among American Negroes as among any people. We’ve had our kings, presidents, and judges” He started to say this, but he did not finish. He found himself saying quite calmly and with slightly lifted chin:
+“I reckon you’re right. We American blacks are very common people. My grandfather was a whipped and driven slave; my father was never really free and died in jail. My mother plows and washes for a living. We come out of the depths﻿—the blood and mud of battle. And from just such depths, I take it, came most of the worthwhile things in this old world. If they didn’t, God help us.”
+The table was very still, save for the very faint clink of china as the servants brought in the creamed and iced fruit.
+The Princess turned, and he could feel her dark eyes full upon him.
+“I wonder I wonder,” she murmured, almost catching her breath.
+The Indian frowned. The Japanese smiled, and the Egyptian whispered to the Arab.
+“I believe that is true,” said the Chinese lady thoughtfully, “and if it is, this world is glorious.”
+“And if it is not?” asked the Egyptian icily.
+“It is perhaps both true and untrue,” the Japanese suggested. “Certainly Mr.
+
+===Chinese===
+
+当时我怀疑它的真实性：他们的教育、他们的工作、他们的财产、他们的组织；还有他们顶着的那种几率——可怕地、压倒一切地不利的几率，他们就是顶着它，一寸一寸、一场心碎一场心碎，锻造出自己坚定的向上之路。倘若那份报告属实，他们今天已然是一个民族，一个现代民族，配同这里的任何民族并肩而立。”
+“可我们能信莫斯科吗？”埃及人问，“我们这不是在与危险的家伙为伍，倚着断了的芦苇吗？”
+“唔，”马修说，“要是他们在一切事情上都像这份来自美国的报告这样可靠，那他们值得一听。”
+年轻的印度人语调温和平缓，眼睛却亮着。
+“自然，”他说，“诸位看得出，唐斯先生势必赞同布尔什维克对下层阶级的估量。”
+马修感到这轻轻的一记讥刺，缩了一下。他仿佛看见公主的嘴唇极轻微地抿紧。他急急开口作答，与其说是自负，不如说是硬撑着派头。
+“我估摸——”他开了口——随即他心里有什么变了。仿佛他已面对并作出了决断，仿佛有个巨大的声音，在他灵魂里呼喊、回荡，替他说了话，却也就是他自己。他本要说：“我估摸美国黑人里的高贵血统，不比哪一个民族的少。我们有过我们的君王、总统和法官。”这话他起了头，却没有说完。他发现自己说得相当平静，下巴微微扬着：
+“我估摸您说得对。我们美国黑人是顶普通的百姓。我祖父是个挨鞭子、被驱赶的奴隶；我父亲从来没有真正自由过，死在牢里。我母亲靠种地洗衣过活。我们是从深处走出来的——从战斗的血和泥。而我想，这个旧世界里大多数有价值的东西，正是从这样的深处走出来的。倘若不是，那就求上帝可怜我们。”
+餐桌上一片安静，只有侍者们端上奶油冰镇水果时，瓷器碰出极轻的叮声。
+公主转过身来，他觉出她那双黑眼睛满满地落在他身上。
+“我想不到——真想不到，”她喃喃道，几乎屏住了呼吸。
+印度人皱起眉。日本人微笑，埃及人同阿拉伯人耳语。
+“我相信这是真话，”中国女士若有所思地说，“倘若如此，这个世界便是辉煌的。”
+“倘若不是呢？”埃及人冷冷地问。
+“也许真假参半吧。”日本人提了个话头，“当然，唐
+
+===Original===
+
+Towns has expressed a fine and human hope, although I fear that always blood must tell.”
+“No, it mustn’t,” cried Matthew, “unless it is allowed to talk. Its speech is accidental today. There is some weak, thin stuff called blood, which not even a crown can make speak intelligently; and at the same time some of the noblest blood God ever made is dumb with chains and poverty.”
+The elder Indian straightened, with blazing eyes.
+“Surely,” he said, slowly and calmly, “surely the gentleman does not mean to reflect on royal blood?”
+Matthew started, flushed darkly, and glanced quickly at the Princess. She smiled and said lightly, “Certainly not,” and then with a pause and a look straight across the table to the turban and tunic, “nor will royal blood offer insult to him.” The Indian bowed to the tablecloth and was silent.
+As they rose and sauntered out to coffee in the silk and golden drawing-room, there was a discussion, started of course by the Egyptian, first of the style of the elaborate piano case and then of Schönberg’s new and unobtrusive transcription of Bach’s triumphant choral Prelude, “Komm, Gott, Schöpfer.”
+The Princess sat down. Matthew could not take his eyes from her. Her fingers idly caressed the keys as her tiny feet sought the pedals. From white, pearl-embroidered slippers, her young limbs, smooth in pale, dull silk, swept up in long, low lines. Even the delicate curving of her knees he saw as she drew aside her drapery and struck the first warm tones. She played the phrase in dispute﻿—great chords of aspiration and vision that melted to soft melody. The Egyptian acknowledged his fault. “Yes﻿—yes, that was the theme I had forgotten.”
+Again, Matthew felt his lack of culture audible, and not simply of his own culture, but of all the culture in white America he had unconsciously and foolishly, as he now realized, made his norm. Yet withal Matthew was not unhappy. If he was a bit out of it, if he sensed divided counsels and opposition, yet he still felt almost fiercely that that was his world. Here are culture, wealth, and beauty. Here was power, and here he had some recognized part. God! If he could just do his part, any part! And he waited impatiently for the real talk to begin again.
+It began and lasted until after midnight.
+
+===Chinese===
+
+斯先生表达了一个美好而富有人情的期望，只是我担心，血统终究是要说话的。”
+“不，未必，”马修喊道，“除非容它开口。如今它说的话纯属偶然。有一种稀薄孱弱的玩意儿叫血统，连王冠也逼不出它一句聪明话；同时，上帝造的一些最高贵的血统，却被锁链和贫穷憋成了哑巴。”
+年长的印度人挺直了身子，目光灼灼。
+“恕我冒昧，”他缓缓地、平静地说，“这位先生该不是有意指摘王室的血统吧？”
+马修一惊，脸黑黑地涨红了，飞快看了公主一眼。她微笑着轻描淡写地说：“当然不是。”随后一顿，目光径直越过餐桌，望向那顶头巾和那件束腰长袍：“王室的血统也不会侮辱于他。”印度人朝桌布一躬，沉默了。
+众人起身，踱进那间绸缎金黄的客厅去用咖啡。席间起了一场议论，当然是埃及人开的头，先谈那架考究琴匣的式样，又谈勋伯格新编的、不事张扬的巴赫凯旋圣咏前奏曲《来吧，上帝，创造者》。
+公主坐下。马修的眼睛离不开她。她的手指闲闲地抚着琴键，小小的脚去寻踏板。从绣珠的白缎鞋往上，她年轻的肢体裹在素净的暗色绸里，顺着低低的长线一路起伏。她撩开衣裙、敲下最初几个和暖的音时，连她膝头那一线精致的弧曲，他也看见了。她弹了那句起争议的乐句——向往与远望的大和弦，融成柔曼的旋律。埃及人认了错：“对——对，这就是我忘掉的那个主题。”
+马修又一次觉得自己缺教养缺得刺耳——缺的不止是他自己的教养，还有整个白人美国的教养；他如今才明白，他曾不自觉地、愚蠢地把它当成了标准。然而马修毕竟不是不快活的。就算他有点格格不入，就算他嗅得出意见分歧和对立，他仍旧近乎凶悍地觉得，这是他的世界。这里有文化、财富和美，这里有权力，而他在这里有一份公认的位置。上帝啊！但求让他尽他的一份力，随便哪一份！他不耐烦地等着真正的谈话重新开始。
+谈话开始了，一直持续到后半夜。
+
+===Original===
+
+It started on lines so familiar to Matthew that he had to shut his eyes and stare again at their swarthy faces: Superior races﻿—the right to rule﻿—born to command﻿—inferior breeds﻿—the lower classes﻿—the rabble. How the Egyptian rolled off his tongue his contempt for the “r‑r‑rabble”! How contemptuous was the young Indian of inferior races! But how humorous it was to Matthew to see all tables turned; the rabble now was the white workers of Europe; the inferior races were the ruling whites of Europe and America. The superior races were yellow and brown.
+“You see,” said the Japanese, “Mr. Town, we here are all agreed and not agreed. We are agreed that the present white hegemony of the world is nonsense; that the darker peoples are the best the natural aristocracy, the makers of art, religion, philosophy, life, everything except brazen machines.”
+“But why?”
+“Because of the longer rule of natural aristocracy among us. We count our millenniums of history where Europe counts her centuries. We have our own carefully thought-out philosophy and civilization, while Europe has sought to adopt an ill-fitting mélange of the cultures of the world.”
+“But does this not all come out the same gate, with the majority of mankind serving the minority? And if this is the only ideal of civilization, does the tint of a skin matter in the question of who leads?” Thus Matthew summed it up.
+“Not a whit﻿—it is the natural inborn superiority that matters,” said the Japanese, “and it is that which the present color bar of Europe is holding back.”
+“And what guarantees, in the future more than in the past and with colored more than with white, the wise rule of the gifted and powerful?”
+“Self-interest and the inclusion in their ranks of all really superior men of all colors﻿—the best of Asia together with the best of the British aristocracy, of the German Adel, of the French writers and financiers﻿—of the rulers, artists, and poets of all peoples.”
+“And suppose we found that ability and talent and art is not entirely or even mainly among the reigning aristocrats of Asia and Europe, but buried among millions of men down in the great sodden masses of all men and even in Black Africa?”
+“It would come forth.”
+“Would it?”
+“Yes,” said the Princess, “it would come forth, but when and how? In slow and tenderly nourished efflorescence, or in wild and bloody upheaval with all that bitter loss?”
+
+===Chinese===
+
+开头的话路，马修熟悉得只能闭上眼睛，再盯着这些黝黑的面孔重看一遍：优等种族——统治的权利——生而指挥——劣等人种——下等阶级——暴民。埃及人舌头一滚，把“暴——暴——暴民”的轻蔑滚得多顺！年轻的印度人对劣等种族又是何等不屑！可在马修看来，这一切何其滑稽——所有的牌桌全翻了过来：如今暴民是欧洲的白人工人；劣等种族是欧美掌权的白人。优等种族，是黄种人和棕色人种。
+“您看，”日本人说，“唐斯先生，我们这些人既一致又不一致。我们一致认为，当今白人对世界的霸权是无稽的；一致认为，更深的民族才是天然的至上贵族——是艺术、宗教、哲学、生活，除赤裸裸的机器之外一切东西的创造者。”
+“可为什么？”
+“因为天然贵族在我们中间统治得更久。我们数我们的历史以千年计，欧洲数她的是百年。我们有自己的深思熟虑的哲学和文明，而欧洲只求得了一套东拼西凑、并不合身的世界文化大杂烩。”
+“可这一切岂不都出自同一道门——多数人类伺候少数人类？倘若这就是文明的唯一理想，那么谁来领跑这件事上，皮肤的色调还重要吗？”马修就这样归结。
+“毫不重要——要紧的是天然的、生来的优越。”日本人说，“而恰恰这一点，被今日欧洲的肤色栅栏拦住了。”
+“那么有什么保证——将来比过去更能、有色人比白人更能——保证有才有势者的明智统治？”
+“利害之心，加上把一切颜色的真正优越者收进他们的行列——亚洲的精华，连同英吉利贵族、德意志容克、法兰西文人与金融家的精华——连同一切民族的主宰者、艺术家和诗人。”
+“假如我们发现，能力、才华和艺术并不全在、甚至主要不在亚欧在位的贵族那里，而是埋在千百万人的大水洼般的众生之中，甚至埋在黑色非洲呢？”
+“那它自会破土而出。”
+“当真？”
+“当真，”公主说，“它自会破土而出。可是何时？怎样？是在缓慢的、精心培育的花期里，还是在狂野血腥的大动荡里，连同那一切惨痛的损耗？”
+
+===Original===
+
+“Pah!” blurted the Egyptian﻿—“pardon, Royal Highness﻿—but what art ever came from the canaille!”
+The blood rushed to Matthew’s face. He threw back his head and closed his eyes, and with the movement he heard again the Great Song. He saw his father in the old log church by the river, leading the moaning singers in the Great Song of Emancipation. Clearly, plainly he heard that mighty voice and saw the rhythmic swing and beat of the thick brown arm. Matthew swung his arm and beat the table; the silver tinkled. Silence dropped on all, and suddenly Matthew found himself singing. His voice full, untrained but mellow, quivered down the first plaintive bar:
+
+> “When Israel was in Egypt land﻿—”
+
+Then it gathered depth:
+
+> “Let my people go!”
+
+He forgot his audience and saw only the shining river and the bowed and shouting throng:
+
+> “Oppressed so hard, they could not stand,
+
+Let my people go.”
+
+Then Matthew let go restraint and sang as his people sang in Virginia, twenty years ago. His great voice, gathered in one long deep breath, rolled the Call of God:
+
+> “Go down, Moses!
+
+Way down into the Egypt land,
+
+Tell Old Pharaoh
+
+To let my people go!”
+
+===Chinese===
+
+“呸！”埃及人冲口而出，“殿下恕罪——可是，从暴民里能出什么艺术！”
+血涌上马修的脸。他仰起头，闭上眼，随着这个动作，他又听见了那首大歌。他看见他父亲在河边古老的木教堂里，领着呜咽的歌手们唱《解放大歌》。清晰、真切，他听见那洪大的嗓音，看见那条厚实的棕色手臂有节奏的挥击。马修挥起手臂，一掌拍在桌上，银器叮当作响。满座倏然无声，忽然，马修发觉自己在唱歌。他的嗓音饱满，未经训练却圆润，颤出第一句哀婉的调子：
+
+> “当以色列人在埃及地——”
+
+随后它沉厚起来：
+
+> “让我的百姓走吧！”
+
+他忘了听众，只看见那条亮闪闪的河，和那些俯身欢呼的人群：
+
+> “受压太深，站也站不住，
+
+让我的百姓走吧。”
+
+随后马修放开了拘束，像二十年前在弗吉尼亚他的族人那样唱。他伟大的嗓音，蓄在一口悠长的深呼吸里，滚出上帝的呼召：
+
+> “下去吧，摩西！
+
+一路下到埃及地，
+
+告诉老法老：
+
+让我的百姓走吧！”
+
+===Original===
+
+He stopped as quickly as he had begun, ashamed, and beads of sweat gathered on his forehead. Still there was silence﻿—silence almost breathless. The voice of the Chinese woman broke it.
+“It was an American slave song! I know it. How﻿—how wonderful.”
+A chorus of approval poured out, led by the Egyptian.
+“That,” said Matthew, “came out of the black rabble of America.” And he trilled his *r*. They all smiled as the tension broke.
+“You assume then,” said the Princess at last, “that the mass of the workers of the world can rule as well as be ruled?”
+“Yes﻿—or rather can work as well as be worked, can live as well as be kept alive. America is teaching the world one thing and only one thing of real value, and that is, that ability and capacity for culture is not the hereditary monopoly of a few, but the widespread possibility for the majority of mankind if they only have a decent chance in life.”
+The Chinaman spoke: “If Mr. Towns’ assumption is true, and I believe it is, and recognized, as some time it must be, it will revolutionize the world.”
+“It will revolutionize the world,” smiled the Japanese, “but not﻿—today.”
+“Nor this *siécle*,” growled the Arab.
+“Nor the next﻿—and so *in saecula saeculorum*,” laughed the Egyptian.
+“Well,” said the little Chinese lady, “the unexpected happens.”
+And Matthew added ruefully, “It’s about all that does happen!”
+He lapsed into blank silence, wondering how he had come to express the astonishing philosophy which had leapt unpremeditated from his lips. Did he himself believe it? As they arose from the table the Princess called him aside.
+VII
+“I trust you will pardon the interruption at this late hour,” said the Japanese. Matthew glanced up in surprise as the Japanese, the two Indians, and the Arab entered his room. “Sure,” said he cheerily, “have any seats you can find. Sorry there’s so little space.”
+It was three o’clock in the morning. He was in his shirt sleeves without collar, and he was packing hastily, wondering how on earth all these things had ever come out of his two valises. The little room on the fifth floor of the Roter Adler Hotel did look rather a mess. But his guests smiled and so politely deprecated any excuses or discomfort that he laughed too, and leaned against the window, while they stood about door and bed.
+
+===Chinese===
+
+他收得同起头一样突兀，羞愧起来，额上沁出汗珠。依旧是寂静——寂静得近乎屏息。中国女士的声音打破了它。
+“这是一首美国奴隶歌！我知道它。多——多了不起。”
+一片赞许涌了出来，领头的正是埃及人。
+“那，”马修说，“正是从美国的黑色暴民里长出来的。”他卷着舌头打了个颤音。紧张的空气散了，众人都笑了。
+“那么您认定，”公主终于说，“世界的劳工大众既能被统治，也能去统治？”
+“是——更确切地说，既能被驱使干活，也能自己干活；既能被人养活，也能自己活。美国正在教给世界一样东西，只有一样真正有价值的东西，那就是：文化上的能力与才具，并非少数人的世袭专利，而是多数人类的普遍可能——只要他们在生活里得到一个过得去的机会。”
+中国人开口了：“倘若唐斯先生的假定成立——我相信它成立——并且有朝一日被承认——它必被承认——它将革了世界的命。”
+“它会革了世界的命，”日本人微笑道，“但不是——今天。”
+“也不是这个世纪。”阿拉伯人咕哝。
+“也不是下个世纪——如此世世代代，永无穷尽。”埃及人笑道。
+“唔，”娇小的中国女士说，“意外总会发生。”
+马修苦笑着补了一句：“发生的大概也只有意外了！”
+他坠入一片茫然的沉默，纳闷自己怎么讲出了这套惊人的哲学——不假思索地跳到唇边的哲学。他自己信吗？众人离席时，公主把他唤到一旁。
+七
+“深更半夜打扰，还望海涵。”日本人说。马修惊讶地抬头，日本人、两位印度人和阿拉伯人正走进他的房间。“当然，”他快活地说，“找得着什么就坐什么。地方太窄，抱歉。”
+凌晨三点钟。他没戴领子，只穿着衬衫，正匆匆收拾行李，纳闷这么多东西当初究竟是怎么从两只手提箱里变出来的。红鹰旅馆五楼这间小屋看上去确实够乱。可客人们客客气气地笑着，把一切歉意和不适都挡了回去，他也笑了，倚在窗边，他们便分站在门口和床边。
+
+===Original===
+
+“You had, I believe,” continued the Japanese, “an interview with her Royal Highness, the Princess, before you left her home tonight.”
+“Yes.”
+“I﻿—er﻿—presume you realize, Mr. Towns, that the Princess of Bwodpur is a lady of very high station﻿—of great wealth and influence.”
+“I cannot imagine anybody higher.”
+The elder Indian interrupted. “There are,” he said, “of course, some persons of higher hereditary rank than her Royal Highness, but not many. She is of royal blood by many scores of generations of direct descent. She is a ruling potentate in her own right over six millions of loyal subjects and yields to no human being in the ancient splendor of her heritage. Her income, her wealth in treasure and jewels, is uncounted. Sir, there are few people in the world who have the right to touch the hem of her garment.” The Indian drew himself to full height and looked at Matthew.
+“I’m strongly inclined to agree with you there,” said Matthew, smiling genially.
+“I had feared,” continued the younger Indian, also looking Matthew squarely in the eye, “that perhaps, being American, and unused to the ceremony of countries of rank, you might misunderstand the democratic graciousness of her Royal Highness toward you. We appreciate, sir, more than we can say,” and both Indians bowed low, “your inestimable service to the Princess yesterday, in protecting her royal person from insufferable insult. But the very incident illustrates and explains our errand.
+“The Princess is young and headstrong. She delights, in her new European independence, to elude her escort, and has given us moments of greatest solicitude and even fright. Meeting her as you did yesterday, it was natural for you to take her graciousness toward you as the camaraderie of an equal, and﻿—quite unconsciously, I am sure﻿—your attitude toward her has caused us grave misgiving.”
+“You mean that I have not treated the Princess with courtesy?” asked Matthew in consternation. “In what way? Tell me.”
+“It is nothing﻿—nothing, now that it is past, and since the Princess was gracious enough to allow it.
+
+===Chinese===
+
+“我想，”日本人接着说，“今晚离开她府上之前，您同公主殿下有一番谈话。”
+“是。”
+“我——呃——想唐斯先生明白，布沃德普尔的公主是位身份极崇高的贵妇——有巨大的财富和势力。”
+“我想不出还有谁更高。”
+年长的印度人插进来。“当然，”他说，“世上有几位血统门第比殿下更高的，但为数不多。她身负王族血统，直系传承数十代。她凭自身便是统治六百万忠顺臣民的君主，论家世的古老煊赫，不让人世间的任何人。她的岁入，她珍宝的财富，无从计数。先生，这世上够资格碰她衣角的人，屈指可数。”印度人挺足身量，看着马修。
+“这一点上我十二分乐意赞同您。”马修和蔼地笑着说。
+“我一直担心，”年轻的印度人也直视着马修的眼睛，接着说，“您是美国人，又不习惯有身份国家的礼数，也许会误解殿下对您那份民主的亲切。我们感激您，先生，言语无法表达，”两位印度人齐齐深深一躬，“感激您昨天护卫公主御体、使其免遭难堪侮辱的那份无可估量的功劳。而恰恰是那件事，说明也解释了我们此来的缘由。
+“公主年轻，任性。她新得了欧洲式的独立，喜欢甩开随从自去游玩，不止一次叫我们揪心彻骨，甚至魂飞魄散。昨天您那样同她相遇，自然会把她的亲切当作平等者的情谊，而且——我敢说全然是无意的——您对她的态度，引起了我们严重的疑惧。”
+“您是说，我对公主失礼了？”马修惶然问，“在哪里？请讲。”
+“没有什么——事情既已过去，公主又宽宏地不予计较，就没有什么了。
+
+===Original===
+
+But you may recall that you never addressed her by her rightful title of ‘Royal Highness’; you several times interrupted her conversation and addressed her before being addressed; you occupied the seat of honor without even an attempted refusal and actually shook her Highness’ hand, which we are taught to regard as unpardonable familiarity.”
+Matthew grinned cheerfully. “I reckon if the Princess hadn’t liked all that she’d have said so﻿—”
+The Japanese quickly intervened. “This is, pardon me, beside our main errand,” he said. “We realize that you admire and revere the Princess not only as a supremely beautiful woman of high rank, but as one of rare intelligence and high ideals.”
+“I certainly do.”
+“And we assume that anything you could do﻿—anyway you could cooperate with us for her safety and future, we could count upon your doing?”
+“To my very life.”
+“Good﻿—excellent﻿—you see, my friends,” turning to the still disturbed Indians and the silent, sullen Arab, “it is as I rightly divined.”
+They did not appear wholly convinced, but the Japanese continued:
+“In her interview with you she told you a story she had heard in Moscow, of a widespread and carefully planned uprising of the American blacks. She has entrusted you with a letter to the alleged leader of this organization and asked you to report to her your impressions and recommendations; and even to deliver the letter, if you deem it wise.
+“Now, my dear Mr. Towns, consider the situation: First of all, our beloved Princess introduces you, a total stranger, into our counsels and tells you some of our general plans. Fortunately, you prove to be a gentleman who can be trusted; and yet you yourself must admit this procedure was not exactly wise. Further than that, through this letter, our reputations, our very lives, are put in danger by this well-meaning but young and undisciplined lady. Her unfortunate visit to Russia has inoculated her with Bolshevism of a mild but dangerous type. The letter contains money to encourage treason. You know perfectly well that the American Negroes will neither rebel nor fight unless put up to it or led like dumb cattle by whites. You have never even heard of the alleged leader, as you acknowledged to the Princess.”
+“She is evidently well spied upon.”
+“She is, and will always be, well guarded,” answered the elder Indian tensely.
+“Except yesterday,” said Matthew.
+
+===Chinese===
+
+可您或许记得：您从没有用她应得的尊称‘殿下’称呼过她；您几次打断她的话，不等她开口您先开口；您占了尊座，连虚让一下都没有；您还真的握了殿下的手——在我们受的教育里，那是不可饶恕的放肆。”
+马修痛快地咧嘴一笑。“我估摸，公主要是不喜欢这些，她早说了——”
+日本人连忙拦住话头。“这个，恕我直言，离我们的正题远了。”他说，“我们知道，您敬慕公主，不只因为她是一位位分极崇高的绝色佳人，更因为她智力罕有、志向高洁。”
+“当然。”
+“那么我们假定：凡您做得到的、凡您能同我们合作以保她安全与将来的，我们都指望您去做，对吗？”
+“舍命也在所不辞。”
+“好——好极了——你们看，诸位，”他转向仍愤愤不平的印度人和沉默阴沉的阿拉伯人，“我猜得不错吧。”
+他们似乎并未全然信服，日本人却继续说下去：
+“在同您的谈话里，她把在莫斯科听到的一个故事讲给了您：美国黑人一场范围广泛、计划周密的起义。她把一封给那个所谓领袖的信托付给您，请您把您的印象和建议报告给她；倘若您认为妥当，甚至请您把信送到。
+“现在，亲爱的唐斯先生，请想一想这局面：第一，我们敬爱的公主把您——一个全然陌生的人——引进了我们的谋划，还把我们的若干总计划讲给您听。所幸您证明是位可以信托的君子；可您自己也得承认，这一步并不怎么高明。再者，通过这封信，我们的名誉、我们的性命，都悬在这位好心的、然而年轻而无纪律的贵妇手里。她那趟不幸的俄国之行，叫她染上了一种温和却危险型的布尔什维主义。那封信里装着煽动叛乱的钱。您完全清楚，美国的黑人既不会造反，也不会战斗，除非有人撺掇，或者像牲口一样被白人牵着走。就连那位所谓的领袖，正如您向公主承认的，您也从没听说过。”
+“她显然被人严密监视着。”
+“她被严密保护着，今后也永远会这样。”年长的印度人紧张地答道。
+“昨天除外。”马修说。
+
+===Original===
+
+But the Japanese quickly proceeded. “Why then go on this wild goose chase? Why deliver dynamite to children?”
+“Thank you.”
+“I beg your pardon. I may speak harshly, but I speak frankly. You are an exception among your people.”
+“I’ve heard that before. Once I believed it. Now I do not.”
+“You are generous, but you are an exception, and you know you are.”
+“Most people are exceptions.”
+“You know that your people are cowards.”
+“That’s a lie; they are the bravest people fighting for justice today.”
+“I wish it were so, but I do not believe it, and neither do you. Every report from America﻿—and believe me, we have many﻿—contradicts this statement for you. I am not blaming them, poor things, they were slaves and children of slaves. They cannot even begin to rise in a century. We Samurai have been lords a thousand years and more; the ancestors of her Royal Highness have ruled for twenty centuries﻿—how can you think to place yourselves beside us as equals? No﻿—no﻿—restrain your natural anger and distaste for such truth. Our situation is too delicate for niceties. We have been almost betrayed by an impulsive woman, high and royal personage though she be. We have come to get that letter and to ask you to write a report now, to be delivered later, thoroughly disenchanting our dear Princess of this black American chimera.”
+“And if I refuse?”
+The Japanese looked pained but patient. The others moved impatiently, and perceptibly narrowed the circle about Matthew. He was thinking rapidly; the letter was in his coat pocket on the bed beyond the Japanese and within easy reach of the Indians if they had known it. If he jumped out the window, he would be dead, and they would eventually secure the letter. If he fought, they were undoubtedly armed, and four to one. The Japanese was elderly and negligible as an opponent, but the young Indian and the Arab were formidable, and the older Indian dangerous. He might perhaps kill one and disable another and raise enough hullabaloo to arouse the hotel, but how would such a course affect the Princess?
+The Japanese watched him sadly.
+“Why speak of unpleasant things,” he said gently, “or contemplate futilities? We are not barbarians. We are men of thought and culture. Be assured our plans have been laid with care. We know the host of this hotel well. Resistance on your part would be absolutely futile.
+
+===Chinese===
+
+日本人却赶忙接了下去。“那又何必去追这空头野鹅？何必把炸药送到孩子手里？”
+“多谢夸奖。”
+“恕我失言。我或许说得重，但我说的是实话。您是您的民族中的例外。”
+“这话我听过。从前我信。如今不信了。”
+“您宽宏大量，可您是例外，您自己也知道。”
+“大多数人都是例外。”
+“您知道您的人民是懦夫。”
+“那是谎话；他们是当今为正义而战的最勇敢的民族。”
+“但愿如此，可我不信，您也不信。来自美国的一切报告——请相信，我们看到过许多——都驳斥您这句话。我不怪他们，可怜的人，他们是奴隶和奴隶的儿女，一百年里连个头也开不了。我们武士做上等人已有一千多年；殿下的祖先统治了二十个世纪——您怎么想同我们并肩而立、平起平坐？不——不——请按住您对这种事实的自然愤怒与反感。我们的处境太微妙，容不得客套。我们险些被一个任性的女人出卖——尽管她是位尊贵的王室人物。我们是来取那封信的，并请您现在就写一份报告，日后呈上，好彻底祛除我们亲爱的公主对这个美国黑蜃楼的迷梦。”
+“要是我拒绝呢？”
+日本人面露痛色，却仍耐心。其余的人不耐烦地动了动，围着马修的圈子眼见地收紧了。他脑筋飞转：信就在床上、日本人身后他那件外套的口袋里，印度人一伸手就够得着——倘若他们知道的话。跳窗，他会摔死，信最终也保不住。动手，他们必定带着家伙，四对一。日本人上了年纪，作为对手可以不计；年轻的印度人和阿拉伯人是硬手，年长的那个更危险。他或许能结果一个、废掉另一个，闹出足够大的动静惊起全旅馆——可这样一场面，又会把公主置于何地？
+日本人忧伤地望着他。
+“何必说这些不愉快的事，”他温和地说，“何必想那些无用功？我们不是野蛮人。我们是思想和文化的人。请放心，我们的计划布置周密。这家旅馆的老板我们熟得很。您若抵抗，绝无用处。
+
+===Original===
+
+The back stairs opposite your entrance are quite clear and will be kept clear until we go. And when we go, the letter will go with us.”
+Matthew set his back firmly against the window. His thoughts raced. They were armed, but they would use their arms only as a last resort; pistols were noisy and knives were messy. Oh, they would use them﻿—one look at their hard, set eyes showed that; but not first. Good! Then first, instead of lurching forward to attack as they might expect, he would do a first-base slide and spike the Japanese in the ankles. It was a mean trick, but anything was fair now. He remembered once when they were playing the DeWitt Clinton High﻿—But he jerked his thoughts back. The Japanese was nearest him; the fiery younger Indian just behind him and a bit to the right, bringing him nearer the bed and blocking the aisle. By the door was the elder Indian, and at the foot of the bed, the Arab.
+Good! He would, at the very first movement of the young Indian, who he instinctively knew, would begin the mélée, slide feet forward into the ankles of the Japanese, catching him a little to the right so that he would fall or lurch between him and the Indian. Then he would with the same movement slide under the low iron bed and rise with the bed as weapon and shield. But he would not keep it. No; he would hurl it sideways and to the left, pinning the young Indian to the wall and the Japanese to the floor. With the same movement he would attempt a football tackle on the Arab. The Arab was a tough customer﻿—tall, sinewy, and hard. If he turned left, got his knife and struck down, quick and sure, Matthew would be done for. But most probably he would, at Matthew’s first movement, turn right toward his fellows. If he did, he was done for. He would go down in the heap, knocking the old Indian against the door.
+Beside that door was the electric switch. Matthew would turn it and make a last fight for the door. He might get out, and if he did, the stairs were clear. The coat and letter? Leave them, so long as he got his story to the Princess. It was all last desperate throw. He calculated that he had good chances against the Japanese’s shins, about even chances to get under the bed unscathed, and one in two to tackle the Arab. He had not more than one chance in three of making the door unscathed, but this was the only way.
+
+===Chinese===
+
+您房门对面的后楼梯空着，在我们走之前会一直空着。而我们走的时候，信会跟我们一道走。”
+马修把背死死抵住窗户。他的念头飞奔。他们带着家伙，可家伙只到万不得已才用：手枪响声大，刀子见血脏。哦，他们会用的——看看他们那几双僵硬冷酷的眼睛就知道——但不会先用。好！那么先下手：不照他们料想的那样扑上前攻击，他要来一记垒上滑铲，直铲日本人的脚踝。这招是损了点，可眼下什么都算公平。他记得有一回对德威特·克林顿中学——他把念头拽了回来。日本人离他最近；火性的年轻印度人就在日本人身后偏右一点，倒把他往床边逼，堵住了过道。门边是年长的印度人，床脚是阿拉伯人。
+好！年轻印度人一有动作——他本能地断定，混战将由这人开头——他就两脚前滑，铲进日本人的脚踝，偏右一点铲，叫他跌向或者扑向自己同印度人之间。然后借着同一个动作从那张低矮的铁床底下钻过去，再连床带起，拿床当武器当盾牌。可他不会久拿。不；他要把床朝左侧猛掷，把年轻印度人钉在墙上，把日本人压在地下。再借同一个动作，朝阿拉伯人来一记橄榄球抱摔。那阿拉伯人是块硬料——高大，精瘦，结实。他若左转身，摸到刀，又快又稳地劈下来，马修就完了。可多半，马修一动，他会右转向自己的同伴。那样，他就完了。他会整个人塌下去，把老印度人撞在门上。
+门边就是电门。马修会摁下它，为夺门做最后一搏。他或许出得去，出得去，楼梯是空的。外套和信？丢下就是，只要他能把原委传到公主耳朵里。这是孤注一掷。他盘算：对付日本人的胫骨，胜算颇大；全身钻到床底，胜算各半；抱摔阿拉伯人，一比一。要不带伤冲到门边，三成把握不到——可只有这一条路。
+
+===Original===
+
+If he surrendered without a fight﻿—That was unthinkable. And after all, what had he to lose? Life? Well, his prospects were not brilliant anyhow. And to die for the Princess﻿—silly, of course, but it made his blood race. For the first time he glimpsed the glory of death. Meantime﻿—he said﻿—be sensible! It would not hurt to spar for time.
+He pretended to be weighing the matter.
+“Suppose you do steal the letter by force, do you think you can make me write a report?”
+“No, a voluntary report would be desirable but not necessary. You left with the Princess, you will remember, a page of directions and information about America to guide her in the trip she is preparing to make and from which we hope to dissuade her. You appended your signature and address. From this it will be easy to draft a report in handwriting so similar to yours as to be indistinguishable by ordinary eyes.”
+“You add forgery to your many accomplishments.”
+“In the pursuit of our duty, we do not hesitate at theft or forgery.”
+Still Matthew parried: “Suppose,” he said, “I pretended to acquiesce, gave you the letter and reported to the Princess. Suppose even I told the German newspapers of what I have seen and heard tonight.”
+There was a faraway look in the eyes of the Japanese as he answered slowly: “We must follow Fate, my dear Mr. Towns, even if Fate leads﻿—to murder. We will not let you communicate with the Princess, and you are leaving Berlin tonight.”
+The Indians gave a low sigh almost like relief.
+Matthew straightened and spoke slowly and firmly.
+“Very well. I won’t surrender that letter to anybody but the Princess﻿—not while I’m alive. And if I go out of here dead I won’t be the only corpse.”
+Every eye was on the Japanese, and Matthew knew his life was in the balance. The pause was tense; then came the patient voice of the Japanese again.
+“You﻿—admire the Princess, do you not?”
+“With all my heart.”
+The Indians winced.
+“You would do her a service?”
+“To the limit of my strength.”
+“Very well. Let us assume that I am wrong. Assume that the Negroes are worth freedom and ready to fight for it. Can you not see that the name of this young, beautiful, and highborn lady must under no circumstances be mixed up with them, whether they gain or lose? What would not Great Britain give thus to compromise an Indian ruler?”
+“That is for the Princess to decide.”
+“No!
+
+===Chinese===
+
+不战而降——想都别想。再说，他有什么可输的？命？唉，他的前程本也不怎么光明。而为公主去死——当然傻，可这念头叫他血液奔涌。他头一回窥见了死亡的光荣。眼下呢——他对自己说——放明白些！拖一拖时间，没什么坏处。
+他装出掂量的样子。
+“就算你们用武力抢走那封信，你们以为还能逼我写报告？”
+“不，报告出于自愿当然最好，但并非必需。您还记得，您留给公主一页关于美国的说明和资料，为她筹划中的那次旅行作引导——我们也正想劝她放弃那次旅行。那页纸上附着您的签名和地址。凭这个，仿您的笔迹拟一份报告轻而易举，寻常的眼睛分辨不出。”
+“在你们的诸般才艺上头，还添了伪造。”
+“为履行职责，偷窃伪造，在所不惜。”
+马修还在周旋：“假如，”他说，“我假装应承，把信交给你们，再报告公主。假如我干脆把今晚的所见所闻捅给德国的报纸呢？”
+日本人眼里现出一种渺远的神色，缓缓答道：“我们必须追随命运，亲爱的唐斯先生，哪怕命运引向——杀戮。我们不会让您同公主通消息，而且您今夜就离开柏林。”
+两位印度人低低舒了一口气，近乎如释重负。
+马修挺直身子，说得缓慢而坚定。
+“很好。只要我活着，这封信除了公主本人，我不交给任何人。要是我横着出这扇门，尸首也绝不止我一具。”
+所有的眼睛都望着日本人，马修知道自己的命悬在天平上。停顿绷得紧紧的；然后又传来日本人那耐心的声音。
+“您——爱慕公主，是吗？”
+“全心全意。”
+印度人一阵瑟缩。
+“您愿意为她效劳？”
+“竭尽我的力气。”
+“很好。就当是我错了。就当黑人配得上自由，也准备为自由而战。您难道不明白：这位年轻、美丽、出身高贵的女士的名字，无论他们成败，都万万不能同他们搅在一起？大英帝国还有什么不肯给的，只要这样扳倒一位印度王侯？”
+“那要由公主自己决定。”
+“不！
+
+===Original===
+
+She is a mere woman﻿—an inexperienced girl. You are a man of the world. For the last time, will you rescue her Royal Highness from herself?”
+“No. The Princess herself must decide.”
+“Then﻿—”
+“Then,” said the Princess’ full voice, “the Princess will decide.” She stood in the open doorway, the obsequious and scared landlord beside her with his passkeys. She had thrown an opera cloak over her evening gown, and stood unhatted, white-slippered, and ungloved. She threw one glance at the Indians, and they bowed low with outstretched hands, She stamped her foot angrily, and they went to their knees. She wheeled to the Arab. Without a word, he stalked out. The Japanese alone remained, calm and imperturbable.
+“We have failed,” he said, with a low bow.
+The Princess looked at him.
+“You have failed,” she said. “I am glad there is no blood on your hands.”
+“A drop of blood more or less matters little in the great cause for which you and I fight, and if I have incurred your Royal Highness’ displeasure tonight, remember that, for the same great cause, I stand ready tomorrow night to repeat the deed and seal it with my life.”
+The Princess looked at him with troubled eyes. Then she seated herself in the only and rather rickety chair and motioned for her two subjects to arise. Matthew never forgot that scene: he, collarless and in shirt sleeves, with sweat pouring off his face; the room in disorder, mean, narrow, small, and dingy; the Japanese standing in the same place as when he entered, in unruffled evening dress; the Indians on their knees with hidden faces; the Princess, disturbed, yet radiant. She spoke in low tones.
+“I may be wrong,” she said, “and I know how right, but infinitely and calmly right, you usually are. But some voice within calls me. I have started to fight for the dark and oppressed peoples of the world; now suddenly I have seen a light. A light which illumines the mass of men and not simply its rulers, white and yellow and black. I want to see if this thing is true, if it can possibly be true that wallowing masses often conceal submerged kings. I have decided not simply to send a messenger to America but shortly to sail myself perhaps this week on the *Gigantic*. I want to see for myself if slaves can become men in a generation. If they can﻿—well, it makes the world new for you and me.”
+
+===Chinese===
+
+她不过是个女人——一个不更事的女孩。您是个见过世面的男人。最后一次问您：您肯不肯把殿下从她自己手里救出来？”
+“不。要由公主自己决定。”
+“那么——”
+“那么，”公主那圆润的嗓音说，“公主就自己决定。”她立在敞开的门口，身边是那位卑躬屈膝、惊惶失措的房东，手里拿着万能钥匙。她往晚礼服上披了件观剧斗篷，不戴帽，穿白缎鞋，光着手。她朝两位印度人扫了一眼，两人长揖到地、双手前伸；她怒得顿脚，两人便跪了下去。她转向阿拉伯人。他一言不发，大步走了出去。只剩日本人留在原地，平静而纹丝不动。
+“我们失败了。”他深深一躬，说。
+公主看着他。
+“你们失败了，”她说，“我很高兴你们手上没有血。”
+“多一滴血少一滴血，在你我共赴的大业里算不得什么。倘若今晚我招了殿下的不快，请记住：为了同一桩大业，明晚我随时准备故技重施，并以性命作保。”
+公主用不安的眼睛看了他片刻，随后在屋里唯一那把摇摇晃晃的椅子上坐下，示意她的两个臣民起身。马修永远忘不了那一幕：他，没领子，只穿衬衫，满脸淌汗；屋子凌乱、寒碜、窄小、昏暗；日本人站在进门时的原地，晚礼服一丝不乱；两位印度人跪着，掩着脸；公主，心绪激荡，却神采照人。她低声说话。
+“我也许错了，”她说，“我也知道您们通常何等正确——无限地、平静地正确。可我心里有个声音唤我。我已经开始为世界上深色皮肤和受压迫的民族而战；如今我突然看见了一道光。一道照亮大众而不只照亮其主宰的光——白的、黄的、黑的。我想看一看这件事是不是真的：沉浮打滚的大众里，会不会常常藏着没顶的王。我已决定，不只是派一位信使去美国，我自己随后就乘船出发，也许就在这个礼拜，乘‘巨人号’。我要亲眼看看，奴隶能不能在一代人的时间里变成人。倘若能——那它就把你我脚下的世界翻新了。”
+
+===Original===
+
+The Japanese started to speak, but she would not pause:
+“There is no need for protest or advice. I am going. Mr. Towns will perform his mission as we agreed, if he is still so minded, and as long as he is in Europe, these two gentlemen,” she glanced at the Indians, “will bear his safety on their heads, at my command. Go!”
+The Indians bowed and walked out slowly, backward. She turned to the Japanese.
+“Your Highness, I bid you good night and goodbye. I shall write you.”
+Gravely the Japanese kissed her hand, bowed, and withdrew. The Princess looked at Matthew. He became acutely conscious of his appearance as she looked at him almost a full minute with her great, haunting eyes.
+“Thank you, again,” she said slowly. “You are a brave man﻿—and loyal.” She held out her hand, low, to shake his.
+But the tension of the night broke him; he quivered, and taking her hand in both his, kissed it.
+She rose quickly, drew herself up, and looked at first almost affronted; then when she saw his swimming eyes, a kind of startled wonder flashed in hers. Slowly she held out her hand again, regally, palm down and the long fingers drooping.
+“You are very young,” she said.
+He was. He was only twenty-five. The Princess was all of twenty-three.
+
+===Chinese===
+
+日本人正要开口，她不容停顿：
+“不必抗议，也不必劝谏。我这就去。唐斯先生将按我们的约定完成他的使命，只要他还愿意；而且只要他在欧洲一日，这两位先生，”她瞥了印度人一眼，“奉我之命，要拿他们的头颅担保他的安全。去吧！”
+两位印度人躬身，倒退着缓缓出去了。她转向日本人。
+“殿下，我祝您晚安，也道别。我会写信给您。”
+日本人庄重地吻了她的手，一躬，退了出去。公主看着马修。她那双摄人心魄的大眼睛把他看了几乎整整一分钟，他猛然意识到自己这副模样。
+“再次谢谢您。”她缓缓地说，“您是个勇敢的人——又忠诚。”她把手低低伸出，同他相握。
+可这一夜的紧张把他压垮了；他颤抖着，双手捧住她的手，吻了它。
+她迅速站起来，挺直身子，起初看去几乎像是受了冒犯；待看见他盈泪的眼睛，她的眼里也闪过一种吃惊的诧异。她缓缓地又一次伸出手来，一派庄严，掌心向下，长长的手指垂着。
+“您很年轻。”她说。
+他确实年轻。他不过二十五岁。公主呢，整二十三岁。
