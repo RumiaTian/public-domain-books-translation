@@ -150,3 +150,31 @@ She smiled at the boy Miguel, and he smiled back at her. She had seen the same l
 仆人在桌上点了一盏灯，白蛾绕着它扑打。珍妮特望着灯光里现出的那些脸，忽然清清楚楚得到一个印象，一样她从未遇过的东西——一种不以自我显露为耻的热忱，因为它又立在一场启示之上。堂·亚历杭德罗，眉骨高耸、五官小巧——路易斯，金褐色皮肤、眼睛灼灼——年轻的萨拉尼加，眉毛细巧、嘴严正而近乎阴沉——他们身上有一种天真的使徒气。他们被一个念头攥住了。他们的爱国主义是一场冒险，因为他们的国家尚待造就。
 她朝少年米格尔微笑，他也朝她笑。小时候她在开赴弗兰德斯的年轻人脸上见过同样的神情。这是一个新地平线骤然敞开的人。路易斯读懂了她的心思。
 “我们要造一个能给青年前程的国家，”他说。
+
+===Original===
+
+“Our young men will no longer have to leave Olifa, or, if they stay at home, stagnate on their estates. Their future will be their country’s future, for they will govern it, and thereby we shall have an advantage over that great people whom Sandro so much dislikes. We shall invent a new civilisation in this continent, which will be a bridge between the old world and the new.”
+Sandy’s face suddenly appeared in the circle of light, and behind him Blenkiron and Castor. There was a hush, inevitable when serious talk is suddenly overheard. Blenkiron’s jolly laugh broke it.
+“Looks as if you folk had been picking on my poor little country,” he said.
+“No, indeed we haven’t,” said Janet. “We have only been deciding that Olifa is going to be neither a satellite nor an enemy of America, but an honourable rival.”
+“That’s fine! They’ll be mighty glad to hear it in Washington.”
+Archie and Barbara and the young Zarraniga presently joined them, and the group reassorted itself. Janet sat very still, her eyes on two faces, Castor’s and Sandy’s. In the first she saw what she had not observed before, a certain kinship to the men with whom she had been talking. It was a subtle resemblance, a thing not of feature or manner, but of a look in the eyes, a tone in the voice. Castor belonged here after all. He could be captured by a dream.﻿ ﻿… She had once said that he had a short-range imagination, and it was true. He was the ready slave of an idea.﻿ ﻿… And he was young. He had never been anything else but young. She looked at Sandy, and suddenly felt that they were old﻿—he and she and Archie and Blenkiron﻿—even Barbara. They could not be happily rapt into a dream, because they dragged too great a weight of tradition behind them. They were children of an ancient world, and could not break from it.﻿ ﻿… She no longer felt herself a sharer in their enterprise, but a benevolent stranger.﻿ ﻿… And Sandy? The burden had left his shoulders and he looked a little bewildered. Perhaps a little homesick? These others had found a country. Might it not be that he was longing for his own?
+She lay awake for some time after she went to bed, puzzling over this new direction of her thoughts. Might not something great come out of this venture, something of high moment for the world? And then she thought of a look she had caught on Barbara’s face, and she fell asleep with her mind on a fresh trail.﻿ ﻿…
+
+===Chinese===
+
+“我们的青年将不必再离开奥利法，或者即便留在国内，也不必在自己的庄园上萎靡度日。他们的前途就是国家的前途，因为他们将亲自治理这个国家，由此我们便胜过桑德罗如此厌恶的那个伟大民族一筹。我们要在这片大陆上创造一种新的文明，它将成为旧世界与新世界之间的桥梁。”
+桑迪的脸忽然出现在灯光圈内，他身后是布伦基伦和卡斯特。一阵沉默——严肃的谈话被人无意听见时难免如此。布伦基伦快活的笑声打破了它。
+“看来你们这帮人刚才是在数落我那可怜的小国家，”他说。
+“没有，真的没有，”珍妮特说，“我们只是在断定，奥利法将来既不做美国的卫星，也不做美国的敌人，而要做它一个体面的对手。”
+“好极了！华盛顿听了准会大喜过望。”
+阿奇、芭芭拉和年轻的萨拉尼加不一会儿也加入了他们，人群重新组合。珍妮特一动不动地坐着，眼睛盯着两张脸——卡斯特的和桑迪的。在前一张脸上，她看到了先前不曾察觉的东西：一种与方才同她谈话的那些人的亲缘。那是微妙的相似，不在容貌举止，而在眼中的神情、语中的声调。卡斯特毕竟属于这里。他可以被一个梦想俘获。……她曾说他的想象力只在近处起作用，果然如此。他是现成的思想的奴仆。……而且他年轻。他从来只会年轻。她看向桑迪，忽然觉得他们老了——他和她，阿奇和布伦基伦——连芭芭拉也是。他们无法欢欣地沉醉进一个梦里去，因为他们身后拖着太重的传统的包袱。他们是古老世界的孩子，挣不脱它。……她不再觉得自己是这项事业的一分子，而只是一名善意的旁观者。……那么桑迪呢？重担已从他肩头卸下，他看上去有点茫然。或许还有点想家？这些人都找到了一个国家。他会不会正在思念他自己的国家？
+上床之后她醒躺了许久，琢磨着自己思路的这个新走向。这次冒险会不会结出伟大的果实，产出某种对世界举足轻重的东西？接着她想起曾在芭芭拉脸上捕捉到的一种神情，便带着一线新的思绪入睡了。……
+
+===Original===
+
+She was awakened at three o’clock by the sound of departing motorcars. That would be Blenkiron on his way to Santa Ana. Her friends might have no spiritual share in the fervours of the rebellion, but they had a very practical part to play in it.
+
+===Chinese===
+
+三点钟，她被汽车发动的声响吵醒。那该是布伦基伦动身去圣安娜了。她的朋友们在这场叛乱的热忱里也许没有精神的份儿，但在实际行动中却有实实在在的角色要扮演。
