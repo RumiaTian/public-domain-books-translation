@@ -9,6 +9,30 @@
 
 ## I / 一
 
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
+## I /
+
 ## I / 
 ===Original===
 
@@ -220,6 +244,30 @@ It began with the tale of a little child who wandered out into the lanes to pick
 
 ## II / 二
 
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
+## II /
+
 ## II / 
 ===Original===
 
@@ -262,6 +310,30 @@ Most horrible of all these horrors, perhaps, was the affair of the Highway, a lo
 这些恐怖里最恐怖的，也许要算公路那一案了。那是一条荒僻冷清的小路，在高而荒凉的地面上蜿蜒许多英里。离任何人家一英里远的地方，一座黑森林的边上立着一座小屋，住着雇工威廉斯（Williams）一家：他、他的妻子和三个孩子。一个炎热的夏日傍晚，一个在三四英里外牧师宅做了一天园圃活计的人经过小屋，停下来同雇工威廉斯闲谈了几分钟；威廉斯正在自己园子里磨蹭，孩子们在门边的小径上玩耍。两人说着街坊，说着土豆，直到威廉斯太太出现在门口说晚饭好了，威廉斯转身进屋。这时大约八点；照常例，一家人吃了晚饭，九点、最迟九点半便上床了。当夜十点，本地医生驱车沿公路回家。他的马猛地一惊，随即死死停住，正对着小屋的院门。医生下了车，被眼前的景象吓坏了：路上躺着威廉斯、他的妻子和三个孩子，全都死透了。他们的头颅被砸得凹陷，像被什么沉重的铁器砸的；他们的脸被打成了肉酱。
 
 ## III / 三
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
+
+## III /
 
 ## III / 
 ===Original===
@@ -430,6 +502,30 @@ The foreman and jury collapsed and accepted what they could not avoid. But the r
 
 ## IV / 四
 
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
+## IV /
+
 ## IV / 
 ===Original===
 
@@ -572,6 +668,30 @@ Full of this discovery, as he thought it, he went one night to see Dr. Lewis an
 “我想同你谈谈，”雷姆南特对医生说，“谈谈我暂且命名为Z射线的东西。”
 
 ## V / 五
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V /
+
+## V / 
 ===Original===
 
 The Incident of the Unknown Tree
@@ -733,6 +853,30 @@ The mass of the tree﻿—the tree that couldn’t be there﻿—stood out again
 “正在那一刻，里间屋门上响起打雷似的叩门声，我的仆人进来告诉我，加斯那边即刻要我过去，老特雷弗·威廉斯先生病得很重。我知道他的心脏不值几个钱了，只好立刻出门，把雷姆南特撂在那里随他自己想去。”
 
 ## VI / 六
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI /
+
+## VI / 
 ===Original===
 
 Mr. Remnant’s Z-Ray
@@ -942,6 +1086,30 @@ Merritt shrugged his shoulders.
 “人们说德国人已经登陆了，藏在全各地的地下。”
 
 ## VII / 七
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII /
+
+## VII / 
 ===Original===
 
 The Case of the Hidden Germans
@@ -1119,6 +1287,30 @@ Lewis did not know that since the panic of the horses men had died terribly in t
 刘易斯不知道，自马群恐慌之后，那营里已经有人死得很惨；不知道它如今已是一处设防的营地，四围是又深又宽的壕沟，一圈凶恶的铁丝网，每个角上架着一挺机枪。
 
 ## VIII / 八
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII /
+
+## VIII / 
 ===Original===
 
 What Mr. Merritt Found
@@ -1276,6 +1468,30 @@ For example, there was the case of the *Mary Ann*, the rowing-boat which came to
 譬如“玛丽·安号”（Mary Ann）一案：那条划艇就是在梅里特眼皮底下，以那样奇特的方式罹的难。照我看，他把那条小艇和艇上人的可怜命运，同他在“玛丽·安号”倾覆那天下午察觉到——或自以为察觉到——的一套灯光信号系统牵在一起，是大错特错的。我认为他那信号理论全是胡说，尽管那可疑的房子里确住着一位入了英国籍的德国家庭女教师，同她的东家一起。可在另一方面，我自己毫不怀疑：艇的倾覆、艇中人的溺毙，是恐惧的作为。
 
 ## IX / 九
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX /
+
+## IX / 
 ===Original===
 
 The Light on the Water
@@ -1327,3 +1543,1030 @@ Now it is certain, unfortunately, that the *Mary Ann* was capsized and that two 
 随后他注意到离岸约两百码处的一条小划艇。艇上有两三个人，他数不太清，他们像是在摆弄一根钓线；无疑是在钓鱼。梅里特（他不喜欢鱼）纳闷，人们怎么会糟蹋这样的下午、这样的海、这样澄澈明净的空气，去钓那些白乎乎、软塌塌、气味难闻的东西——烧熟了还要腻死人的东西。他对这问题疑惑了一阵，又抛开它去赏玩深红的海岬。这时，他说，他察觉到信号正在发送。极强的闪光，他一口咬定，来自海岸高处的那些农庄之一；仿佛白火正从那里喷涌。那光起了又灭，梅里特确信有某种讯息在发送，只悔自己不懂得日光反射信号。三短，一长而极亮，又两短。梅里特在口袋里摸索铅笔和纸，想把这些信号记下来；眼光落回海面时，他惊愕而骇怖地发现：那条船不见了。他能看见的只有西边远远一个模糊的黑东西，正随退潮向外海漂去。
 
 而不幸确凿的是，“玛丽·安号”倾覆了，艇上两个男学生和看艇的水手都淹死了。船的残骸在海岸远处岩石间找到，三具尸身也都被冲上了岸。水手全然不会游泳，男孩们也只会一点；要同彭加雷格角外奔流的退潮吸力搏斗，得是特别出色的泳者才行。
+
+===Original===
+
+But I have no belief whatever in Merritt’s theory. He held (and still holds, for all I know), that the flashes of light which he saw coming from Penyrhaul, the farmhouse oh the height, had some connection with the disaster to the *Mary Ann*. When it was ascertained that a family were spending their summer at the farm, and that the governess was a German, though a long naturalized German, Merritt could not see that there was anything left to argue about, though there might be many details to discover. But, in my opinion, all this was a mere mare’s nest; the flashes of brilliant light were caused, no doubt, by the sun lighting up one window of the farmhouse after the other.
+
+Still, Merritt was convinced from the very first, even before the damning circumstance of the German governess was brought to light; and on the evening of the disaster, as Lewis and he sat together after dinner, he was endeavoring to put what he called the common sense of the matter to the doctor.
+
+“If you hear a shot,” said Merritt, “and you see a man fall, you know pretty well what killed him.”
+
+There was a flutter of wild wings in the room. A great moth beat to and fro and dashed itself madly against the ceiling, the walls, the glass bookcase. Then a sputtering sound, a momentary dimming of the lamp. The moth had succeeded in its mysterious quest.
+
+“Can you tell me,” said Lewis as if he were answering Merritt, “why moths rush into the flame?”
+
+---
+
+Lewis had put his question as to the strange habits of the common moth to Merritt with the deliberate intent of closing the debate on death by heliograph. The query was suggested, of course, by the incident of the moth in the lamp, and Lewis thought that he had said, “Oh, shut up!” in a somewhat elegant manner. And, in fact Merritt looked dignified, remained silent, and helped himself to port.
+
+===Chinese===
+
+可是我对梅里特的理论没有半点相信。他认定（据我所知，至今仍认定），他从高处的农庄佩尼劳尔（Penyrhaul）看见的那一阵阵闪光，同“玛丽·安号”的惨祸有某种关联。等到查明有一户人家正在那农庄里度夏、那家的家庭女教师是个德国人——虽说是个归化多年的德国人——梅里特便觉得再没有什么可争辩的了，尽管还有许多细节待查。但依我看，这一切不过是一场虚惊；那灿烂的闪光，无疑只是太阳先后照亮农庄的一扇扇窗子罢了。
+
+话虽如此，梅里特从一开始就深信不疑，甚至还在德国女教师这一要命的情节败露之前；惨祸发生的那天晚上，他同刘易斯饭后对坐，正竭力向医生陈述他所谓此事的常识。
+
+“倘若你听见一声枪响，”梅里特说，“又看见一个人倒下，那是什么打死他的，你多半心里有数了。”
+
+屋里响起一阵野翅的扑棱。一只大飞蛾来回扑击，发疯似的撞天花板、撞墙壁、撞玻璃书柜。随后噗的一声轻响，灯暗了一暗。那飞蛾在它神秘的求索里成功了。
+
+“你能告诉我吗，”刘易斯说，仿佛是在回答梅里特，“飞蛾为什么要扑火？”
+
+---
+
+刘易斯向梅里特提出这个关于普通飞蛾的奇怪习性的问题，是存心要结束这场关于日光信号杀人的辩论。这一问，自然是由灯里那只飞蛾引出来的；刘易斯觉得，自己算是用一种相当文雅的方式说了声“住口吧”。果然，梅里特摆出尊严的面孔，一言不发，自顾斟了一杯波特酒。
+
+===Original===
+
+That was the end that the doctor had desired. He had no doubt in his own mind that the affair of the *Mary Ann* was but one more item in the long account of horrors that grew larger almost with every day; and he was in no humor to listen to wild and futile theories as to the manner in which the disaster had been accomplished. Here was a proof that the terror that was upon them was mighty not only on the land but on the waters; for Lewis could not see that the boat could have been attacked by any ordinary means of destruction. From Merritt’s story, it must have been in shallow water. The shore of Larnac Bay shelves very gradually, and the Admiralty charts showed the depth of water two hundred yards out to be only two fathoms; this would be too shallow for a submarine. And it could not have been shelled, and it could not have been torpedoed; there was no explosion. The disaster might have been due to carelessness; boys, he considered, will play the fool anywhere, even in a boat; but he did not think so; the sailor would have stopped them. And, it may be mentioned, that the two boys were as a matter of fact extremely steady, sensible young fellows, not in the least likely to play foolish tricks of any kind.
+
+Lewis was immersed in these reflections, having successfully silenced his brother-in-law; he was trying in vain to find some clue to the horrible enigma. The Midlingham theory of a concealed German force, hiding in places under the earth, was extravagant enough, and yet it seemed the only solution that approached plausibility; but then again even a subterranean German host would hardly account for this wreckage of a boat, floating on a calm sea. And then what of the tree with the burning in it that had appeared in the garden there a few weeks ago, and the cloud with a burning in it that had shown over the trees of the Midland village?
+
+===Chinese===
+
+这正是医生盼望的收场。他心里毫不怀疑，“玛丽·安号”一事，不过是那几乎与日俱长的一长串恐怖账目上又添了一笔；他没有心思去听人胡乱争论这场灾祸是怎么办成的。这件事证明，压在他们头上的恐惧不但在陆上逞威，也在水上逞威；因为在刘易斯看来，那条小艇不可能是被任何寻常的毁灭手段袭击的。照梅里特的叙述，出事地点必在浅水里。拉尔纳克湾的海岸坡降极缓，海军部的海图标明，离岸两百码的水深不过两英寻；潜艇到不了这么浅的地方。它也不曾中炮，也不曾中鱼雷；并没有爆炸。灾祸也许出于疏忽；他想，男孩子在哪里都会胡闹，在小艇上也不例外；可他不这样看；那水手会拦住他们的。况且不妨一说，那两个男孩事实上都是极稳重、极明白事的少年，绝不像会闹什么恶作剧的人。
+
+刘易斯成功地封住了内兄的嘴，便沉入了这些思索；他竭力想从这可怕的谜团里找出一点头绪，却是徒然。米德尔汉姆那个理论——一支潜藏的德军，藏在地下什么地方——固然够荒唐，却似乎是唯一近情理的解答；可是话又说回来，连一支地下的德国大军，也难以解释一条小艇如何在风平浪静的海上倾覆。再说，几星期前出现在那边园子里的那棵燃烧着的树，又怎么说？笼罩着中部地区那座村子树梢的那团燃烧着的云，又怎么说？
+
+===Original===
+
+I think I have already written something of the probable emotions of the mathematician confronted suddenly with an undoubted two-sided triangle. I said, if I remember, that he would be forced, in decency, to go mad; and I believe that Lewis was very near to this point. He felt himself confronted with an intolerable problem that most instantly demanded solution, and yet, with the same breath, as it were, denied the possibility of there being any solution. People were being killed in an inscrutable manner by some inscrutable means, day after day, and one asked “why” and “how”; and there seemed no answer. In the Midlands, where every kind of munitionment was manufactured, the explanation of German agency was plausible; and even if the subterranean notion was to be rejected as savoring altogether too much of the fairytale, or rather of the sensational romance, yet it was possible that the backbone of the theory was true; the Germans might have planted their agents in some way or another in the midst of our factories. But here in Meirion, what serious effect could be produced by the casual and indiscriminate slaughter of a couple of schoolboys in a boat, of a harmless holidaymaker in a marsh? The creation of an atmosphere of terror and dismay? It was possible, of course, but it hardly seemed tolerable, in spite of the enormities of Louvain and of the *Lusitania*.
+
+Into these meditations, and into the still dignified silence of Merritt broke the rap on the door of Lewis’s man, and those words which harass the ease of the country doctor when he tries to take any ease: “You’re wanted in the surgery, if you please, sir.” Lewis bustled out, and appeared no more that night.
+
+The doctor had been summoned to a little hamlet on the outskirts of Porth, separated from it by half a mile or three-quarters of road. One dignifies, indeed, this settlement without a name in calling it a hamlet; it was a mere row of four cottages, built about a hundred years ago for the accommodation of the workers in a quarry long since disused. In one of these cottages the doctor found a father and mother weeping and crying out to “doctor bach, doctor bach,” and two frightened children, and one little body, still and dead. It was the youngest of the three, little Johnnie, and he was dead.
+
+===Chinese===
+
+我想我已经写过几笔数学家突然面对一个确凿无疑的双边三角形时大概会有的心情。我记得我说过，他为了体面起见，也不得不发疯；而我相信，刘易斯离这一步已经不远了。他觉得自己面对着一个无法忍受的问题，它最急切地要求解答，却又仿佛同时一口否定了有任何解答的可能。人们一天天地以不可解的方式、被不可解的手段杀死，人问“为什么”“怎么办”；却似乎没有答案。在中部地区，那里制造着各式各样的军火，德国人暗中作祟的解释是说得通的；即便那个地下的设想因为太像童话——或者不如说太像惊险小说——而必须摒弃，这理论的脊梁却可能是真的；德国人也许用这样那样的法子，把他们的爪牙安插进了我们的工厂。可是在梅里昂这里，胡乱杀掉小艇上的两个男学生、杀掉沼地里一个无害的度假人，能收到什么重大的效果？制造恐怖和惊惶的气氛？这当然可能，但很难说得过去，尽管有卢万和“卢西塔尼亚号”那样的暴行在前。
+
+正沉浸在这些冥想里、而梅里特还保持着尊严的沉默时，刘易斯的男仆敲响了门，说出了那句乡间医生想歇口气时最怕听的话：“老爷，诊疗室里有请您。”刘易斯匆匆出去，当夜再没有露面。
+
+医生是被叫到波思郊外的一个小村子去，离城半英里或四分之三英里的路。把这个没有名字的聚落称作村子，实在是抬举了它；那不过是四座小屋排成的一行，约莫一百年前为一家早已废弃的采石场的工人们盖的。在其中一座小屋里，医生看见一对父母哭喊着“亲医生、亲医生”（doctor bach），两个吓坏了的孩子，和一具小小的、僵卧的尸身。那是三个孩子中最小的小约翰尼，他死了。
+
+===Original===
+
+The doctor found that the child had been asphyxiated. He felt the clothes; they were dry; it was not a case of drowning. He looked at the neck; there was no mark of strangling. He asked the father how it had happened, and father and mother, weeping most lamentably, declared they had no knowledge of how their child had been killed: “unless it was the People that had done it.” The Celtic fairies are still malignant. Lewis asked what had happened that evening; where had the child been?
+
+“Was he with his brother and sister? Don’t they know anything about it?”
+
+Reduced into some sort of order from its original piteous confusion, this is the story that the doctor gathered.
+
+All three children had been well and happy through the day. They had walked in with the mother, Mrs. Roberts, to Porth on a marketing expedition in the afternoon; they had returned to the cottage, had had their tea, and afterwards played about on the road in front of the house. John Roberts had come home somewhat late from his work, and it was after dusk when the family sat down to supper. Supper over, the three children went out again to play with other children from the cottage next door, Mrs. Roberts telling them that they might have half an hour before going to bed.
+
+The two mothers came to the cottage gates at the same moment and called out to their children to come along and be quick about it. The two small families had been playing on the strip of turf across the road, just by the stile into the fields. The children ran across the road; all of them except Johnnie Roberts. His brother Willie said that just as their mother called them he heard Johnnie cry out:
+
+“Oh, what is that beautiful shiny thing over the stile?”
+
+===Chinese===
+
+医生查明孩子是被窒息死的。他摸了摸衣裳；是干的；不是落水。他看那脖颈；没有勒痕。他问父亲这是怎么回事，父亲和母亲哭得凄凄惨惨，一口咬定不知道孩子是怎么被害的：“除非是‘仙家’（the People）下的手。”凯尔特的仙灵至今仍怀着恶意。刘易斯问那天傍晚出了什么事；孩子到哪里去了？
+
+“他没同哥哥姐姐在一起吗？他们一点也不知道？”
+
+从他原先那种哀哀切切的颠三倒四里理出个头绪来，医生听到的是这样一个故事。
+
+三个孩子一整天都好好的、快快活活的。下午他们跟着母亲罗伯茨太太步行进波思去赶集；回到小屋，吃了茶点，随后就在屋前路上玩耍。约翰·罗伯茨收工回来得晚了些，一家人坐下吃晚饭时天已经擦黑。晚饭吃过，三个孩子又出去同隔壁小屋的孩子们玩，罗伯茨太太许他们睡前再玩半个钟头。
+
+两位母亲同时走到各自的院门口，喊孩子们快回来。两家的几个小家伙本来在路对面那条草皮上玩，就在通田野的栅栏踏级旁边。孩子们跑过路来；都来了，只有约翰尼·罗伯茨没来。他哥哥威利说，正当母亲喊他们的时候，他听见约翰尼喊了一声：
+
+“哎呀，栅栏踏级那边那个亮晶晶的漂亮东西是什么呀？”
+
+## X / 十
+===Original===
+
+The Child and the Moth
+
+The little Roberts’s ran across the road, up the path, and into the lighted room. Then they noticed that Johnnie had not followed them. Mrs. Roberts was doing something in the back kitchen, and Mr. Roberts had gone out to the shed to bring in some sticks for the next morning’s fire. Mrs. Roberts heard the children run in and went on with her work. The children whispered to one another that Johnnie would “catch it” when their mother came out of the back room and found him missing; but they expected he would run in through the open door any minute. But six or seven, perhaps ten, minutes passed, and there was no Johnnie. Then the father and mother came into the kitchen together, and saw that their little boy was not there.
+
+They thought it was some small piece of mischief﻿—that the two other children had hidden the boy somewhere in the room: in the big cupboard perhaps.
+
+“What have you done with him then?” said Mrs. Roberts. “Come out, you little rascal, directly in a minute.”
+
+There was no little rascal to come out, and Margaret Roberts, the girl, said that Johnnie had not come across the road with them: he must be still playing all by himself by the hedge.
+
+“What did you let him stay like that for?” said Mrs. Roberts. “Can’t I trust you for two minutes together? Indeed to goodness, you are all of you more trouble than you are worth.” She went to the open door:
+
+“Johnnie! Come you in directly, or you will be sorry for it. Johnnie!”
+
+The poor woman called at the door. She went out to the gate and called there:
+
+“Come you, little Johnnie. Come you, bachgen, there’s a good boy. I do see you hiding there.”
+
+She thought he must be hiding in the shadow of the hedge, and that he would come running and laughing﻿—“he was always such a happy little fellow”﻿—to her across the road. But no little merry figure danced out of the gloom of the still, dark night; it was all silence.
+
+It was then, as the mother’s heart began to chill, though she still called cheerfully to the missing child, that the elder boy told how Johnnie had said there was something beautiful by the stile: “and perhaps he did climb over, and he is running now about the meadow, and has lost his way.”
+
+The father got his lantern then, and the whole family went crying and calling about the meadow, promising cakes and sweets and a fine toy to poor Johnnie if he would come to them.
+
+===Chinese===
+
+孩子与飞蛾
+
+罗伯茨家的孩子们跑过路，上了小径，进了灯亮的屋子。这时他们才发觉约翰尼没有跟来。罗伯茨太太在后面厨房里忙些什么，罗伯茨先生到棚子里去取第二天早晨生火的柴枝。罗伯茨太太听见孩子们跑进来，便接着做她的事。孩子们彼此悄悄说，等母亲从后屋出来发觉少了约翰尼，他可要“挨骂”了；但他们想他随时会从敞开的门里跑进来。可是过了六七分钟，也许十分钟，还是不见约翰尼。随后父亲母亲一同走进厨房，看见他们的小儿子不在。
+
+他们以为不过是小小的淘气——是另外两个孩子把他藏在屋里什么地方了：也许藏在大橱柜里。
+
+“那你们把他怎么啦？”罗伯茨太太说。“快出来，你这个小捣蛋，马上给我出来。”
+
+小捣蛋没有出来，女孩玛格丽特·罗伯茨说，约翰尼没有同他们一起过路：他准是一个人还在篱边玩。
+
+“那你们怎么由着他待在那儿？”罗伯茨太太说。“我连两分钟也信不过你们？天晓得，你们一个个都是麻烦多于用处。”她走到敞开的门口：
+
+“约翰尼！快进来，不然有你好看的。约翰尼！”
+
+可怜的母亲在门口喊。她走到院门口，又在那里喊：
+
+“来吧，小约翰尼。来吧，小宝贝，乖孩子。我可看见你藏在那儿了。”
+
+她想他一定是躲在树篱的影子里，随时会又跑又笑地——“他一向是那么个快快活活的小家伙”——穿过路来到她跟前。可是幽静漆黑的夜里，没有小小的欢快身影从暗处舞出来；四下里只有寂静。
+
+就在这时，做母亲的心开始发凉，虽然她还在朝那失踪的孩子快活地喊，大孩子才说出约翰尼讲过踏级边有个什么漂亮东西：“他说不定翻过去了，这会儿正在草场上跑，迷了路呢。”
+
+父亲于是取来提灯，全家哭着喊着在草场上四处寻找，许愿说小约翰尼要是肯回到他们身边，就给他糕饼、糖果和一个好玩具。
+
+===Original===
+
+They found the little body, under the ashgrove in the middle of the field. He was quite still and dead, so still that a great moth had settled on his forehead, fluttering away when they lifted him up.
+
+Dr. Lewis heard this story. There was nothing to be done; little to be said to these most unhappy people.
+
+“Take care of the two that you have left to you,” said the doctor as he went away. “Don’t let them out of your sight if you can help it. It is dreadful times that we are living in.”
+
+It is curious to record, that all through these dreadful times the simple little “season” went through its accustomed course at Porth. The war and its consequences had somewhat thinned the numbers of the summer visitors; still a very fair contingent of them occupied the hotels and boardinghouses and lodging-houses and bathed from the old-fashioned machines on one beach, or from the new-fashioned tents on the other, and sauntered in the sun, or lay stretched out in the shade under the trees that grow down almost to the water’s edge. Porth never tolerated Ethiopians or shows of any kind on its sands, but “The Rockets” did very well during that summer in their garden entertainment, given in the castle grounds, and the fit-up companies that came to the Assembly Rooms are said to have paid their bills to a woman and to a man.
+
+Porth depends very largely on its midland and northern custom, custom of a prosperous, well-established sort. People who think Llandudno overcrowded and Colwyn Bay too raw and red and new, come year after year to the placid old town in the southwest and delight in its peace; and as I say, they enjoyed themselves much as usual there in the summer of 1915. Now and then they became conscious, as Mr. Merritt became conscious, that they could not wander about quite in the old way; but they accepted sentries and coast-watchers and people who politely pointed out the advantages of seeing the view from this point rather than from that as very necessary consequences of the dreadful war that was being waged; nay, as a Manchester man said, after having been turned back from his favorite walk to Castell Coch, it was gratifying to think that they were so well looked after.
+
+===Chinese===
+
+他们在一块草场中央的梣树林下找到了那小小的尸身。他静静地死了，静得一只大飞蛾落在了他的额头上，人们抱起他时才扑翅飞走。
+
+刘易斯医生听了这个故事。无事可做了；对这些最不幸的人，也没有什么可说的了。
+
+“看好你们剩下的两个孩子吧，”医生临走时说。“能不让他们离开眼前，就不让他们离开。我们活着的是个可怕的年月。”
+
+说来奇怪，在这些可怕的日子里，波思那个简简单单的小“避暑季”仍旧照着老规矩过。战争和它的种种后果使夏季游客少了些；可仍旧有相当可观的一批人住满了旅馆、公寓和寄宿人家，从这一边海滩老式的更衣车里、或那一边海滩新式的帐篷里下海洗浴，在太阳下散步，或摊开手脚躺在几乎长到水边的树荫里。波思从来不许黑脸艺人或任何杂耍上它的沙滩，可那年夏天“火箭班”在城堡园地里举办的游园会生意很好，到集会厅来演出的那些流动戏班，据说也是一个个分文不欠地付清了账单。
+
+波思的生意大大仰仗中部和北部的客源，都是殷实稳当的一路客人。嫌兰迪德诺太挤、嫌科尔温湾太生太艳太新的人们，年复一年来到西南这座安静的古镇，喜爱它的安宁；而我说了，1915年夏天，他们在那里照旧过得快活。时不时地他们也察觉——像梅里特先生察觉的那样——不能照老样子随处闲逛了；但他们把岗哨、海岸瞭望员、以及那些客客气气指出“从这一点看风景比从那一点看更佳”的人们，当作那场正在进行的可怕战争的必要结果接受下来；不但如此，一位曼彻斯特人从卡斯尔科奇那条他心爱的散步路上被拦回来之后还说，想到自己受到这样周到的保护，实在叫人心里舒坦。
+
+===Original===
+
+“So far as I can see,” he added, “there’s nothing to prevent a submarine from standing out there by Ynys Sant and landing half a dozen men in a collapsible boat in any of these little coves. And pretty fools we should look, shouldn’t we, with our throats cut on the sands; or carried back to Germany in the submarine?” He tipped the coast-watcher half-a-crown.
+
+“That’s right, lad,” he said, “you give us the tip.”
+
+Now here was a strange thing. The north-countryman had his thoughts on elusive submarines and German raiders; the watcher had simply received instructions to keep people off the Castell Coch fields, without reason assigned. And there can be no doubt that the authorities themselves, while they marked out the fields as in the “terror zone,” gave their orders in the dark and were themselves profoundly in the dark as to the manner of the slaughter that had been done there; for if they had understood what had happened, they would have understood also that their restrictions were useless.
+
+The Manchester man was warned off his walk about ten days after Johnnie Roberts’s death. The Watcher had been placed at his post because, the night before, a young farmer had been found by his wife lying in the grass close to the Castle, with no scar on him, nor any mark of violence, but stone dead.
+
+The wife of the dead man, Joseph Cradock, finding her husband lying motionless on the dewy turf, went white and stricken up the path to the village and got two men who bore the body to the farm. Lewis was sent for, and knew, at once when he saw the dead man that he had perished in the way that the little Roberts boy had perished﻿—whatever that awful way might be. Cradock had been asphyxiated; and here again there was no mark of a grip on the throat. It might have been a piece of work by Burke and Hare, the doctor reflected; a pitch plaster might have been clapped over the man’s mouth and nostrils and held there.
+
+===Chinese===
+
+“照我看，”他又说，“潜水艇尽可以在伊尼桑特（Ynys Sant）外头停着，放一条折叠艇把六个人送上这些小海湾随便哪个里头。那时候我们可就好看得很了，是不是？喉咙在沙滩上给人割了；或是被潜艇捎回德国去？”他赏了海岸瞭望员半克朗。
+
+“这就对了，小伙子，”他说，“多谢你提个醒。”
+
+这里就有一件怪事。北方人心里想的是神出鬼没的潜艇和德国的突击队；瞭望员领到的指示却只是不许人们进入卡斯尔科奇那几块地，也没说为什么。而且毫无疑问，当局自己把那几块地划进“恐惧地带”时，也是蒙在鼓里下的命令，对那里行凶杀人的方式自己也全然不知；因为倘若他们明白了发生的是怎么一回事，他们也会明白这些禁令是全无用处的。
+
+那位曼彻斯特人被劝离他的散步路，是在约翰尼·罗伯茨死后十来天。瞭望员被派到岗位上，是因为前一天夜里，一个年轻农夫被他的妻子发现躺在紧挨城堡的草里，身上没有伤疤，也没有暴力的痕迹，却已经死透了。
+
+死者的妻子——死者名叫约瑟夫·克拉多克——看见丈夫一动不动躺在露湿的草皮上，脸白得没了人色，跌跌撞撞上了通村子的小路，寻来两个男人，把尸身抬回农庄。刘易斯被请了去，一看见死者就明白了：他是同小罗伯茨男孩一样死的——不管那可怕的方式究竟是什么。克拉多克是被窒息死的；脖颈上照旧没有扼痕。这倒像是伯克与黑尔那一流的手笔，医生暗想；也许是把一块沥青膏严严实实捂在人的口鼻上，按住了。
+
+===Original===
+
+Then a thought struck him; his brother-in-law had talked of a new kind of poison gas that was said to be used against the munition workers in the Midlands: was it possible that the deaths of the man and the boy were due to some such instrument? He applied his tests but could find no trace of any gas having been employed. Carbonic acid gas? A man could not be killed with that in the open air; to be fatal that required a confined space, such a position as the bottom of a huge vat or of a well.
+
+He did not know how Cradock had been killed; he confessed it to himself. He had been suffocated; that was all he could say.
+
+It seemed that the man had gone out at about half-past nine to look after some beasts. The field in which they were was about five minutes’ walk from the house. He told his wife he would be back in a quarter of an hour or twenty minutes. He did not return, and when he had been gone for three-quarters of an hour Mrs. Cradock went out to look for him. She went into the field where the beasts were, and everything seemed all right, but there was no trace of Cradock. She called out; there was no answer.
+
+Now the meadow in which the cattle were pastured is high ground; a hedge divides it from the fields which fall gently down to the castle and the sea. Mrs. Cradock hardly seemed able to say why, having failed to find her husband among his beasts, she turned to the path which led to Castell Coch. She said at first that she had thought that one of the oxen might have broken through the hedge and strayed, and that Cradock had perhaps gone after it. And then, correcting herself, she said:
+
+“There was that; and then there was something else that I could not make out at all. It seemed to me that the hedge did look different from usual. To be sure, things do look different at night, and there was a bit of sea mist about, but somehow it did look odd to me, and I said to myself, ‘have I lost my way, then?’ ”
+
+===Chinese===
+
+随后他心里闪过一个念头；他内兄讲起过一种据说用来对付中部地区军火工人的新毒气：这人和这孩子的死，会不会就是这类东西造成的？他做了他的种种检验，却查不出用过任何气体的痕迹。碳酸气？在露天里那是杀不死人的；要致命，得有个密闭的空间，比如大桶的桶底或井底那样的地方。
+
+他不知道克拉多克是怎么被杀的；他对自己承认这一点。他是被闷死的；他能说的只有这一句。
+
+据说是那天九点半钟左右，男人出去照看牲口。牲口所在的那块地离屋子约莫五分钟的路。他告诉妻子，一刻钟或二十分钟就回来。他没有回来，等了他三刻钟还不回来，克拉多克太太便出门去找。她走进牲口所在的地里，一切都好好的，却不见克拉多克的影子。她喊；没有人应。
+
+放牛的那块草场是高地；一道树篱把它同缓缓下降通往城堡和大海的地隔开。克拉多克太太几乎说不清，为什么在牲口里没找到丈夫之后，她转向了通往卡斯尔科奇的小路。她起初说，她当时想，也许有头牛钻破树篱跑出去了，克拉多克追它去了。随后她又更正道：
+
+“有那么一层；可还有一样东西，我全然摸不着头脑。依我看，那树篱的确同平常不一样。固然，夜里看东西是会走样，海上又起了点雾，可不知怎么，它在我眼里就是古怪，我对自己说：‘莫非我是迷了路？’”
+
+===Original===
+
+She declared that the shape of the trees in the hedge appeared to have changed, and besides, it had a look “as if it was lighted up, somehow,” and so she went on towards the stile to see what all this could be, and when she came near everything was as usual. She looked over the stile and called and hoped to see her husband coming towards her or to hear his voice; but there was no answer, and glancing down the path she saw, or thought she saw, some sort of brightness on the ground, “a dim sort of light like a bunch of glowworms in a hedge-bank.
+
+“And so I climbed over the stile and went down the path, and the light seemed to melt away; and there was my poor husband lying on his back, saying not a word to me when I spoke to him and touched him.”
+
+---
+
+So for Lewis the terror blackened and became altogether intolerable, and others, he perceived, felt as he did. He did not know, he never asked whether the men at the club had heard of these deaths of the child and the young farmer; but no one spoke of them. Indeed, the change was evident; at the beginning of the terror men spoke of nothing else; now it had become all too awful for ingenious chatter or labored and grotesque theories. And Lewis had received a letter from his brother-in-law at Midlingham; it contained the sentence, “I am afraid Fanny’s health has not greatly benefited by her visit to Porth; there are still several symptoms I don’t at all like.” And this told him, in a phraseology that the doctor and Merritt had agreed upon, that the terror remained heavy in the Midland town.
+
+---
+
+===Chinese===
+
+她一口咬定，树篱里那些树的形状像是变了；况且它还有种神气，“像是不知怎么被照亮了”；于是她朝踏级走去，要看个究竟，等她走近了，一切又都如常。她隔着踏级张望、呼唤，指望看见丈夫朝她走来，或听见他的声音；可是没有回应；眼光落到下面的小路上，她看见——或者说以为看见——地上有一种亮光，“一种朦朦胧胧的光，像树篱埂上一丛萤火虫。
+
+“于是我翻过踏级，顺着小路走下去，那光仿佛化掉了；我那可怜的丈夫仰面躺在那儿，我同他说话、碰他，他一个字也不回我。”
+
+---
+
+于是在刘易斯看来，恐惧黑沉沉地压下来，变得全然无法忍受了；他也察觉，别人同他一样。他不知道、也从未问过俱乐部里的人可曾听说了孩子和年轻农夫的死讯；可是谁也不提。变化是明摆着的：恐惧初起时，人们谈论的尽是它；如今它已可怕得叫人说不出俏皮话、编不出费劲而荒唐的理论了。刘易斯还收到内兄从米德尔汉姆来的信；信里有一句：“恐怕范妮在波思小住，身子没得到多大益处；还有几样症候，我很不喜欢。”用医生和梅里特约好的暗语来说，这就是告诉他：那座中部城镇的恐惧依然沉重。
+
+===Original===
+
+It was soon after the death of Cradock that people began to tell strange tales of a sound that was to be heard of nights about the hills and valleys to the northward of Porth. A man who had missed the last train from Meiros and had been forced to tramp the ten miles between Meiros and Porth seems to have been the first to hear it. He said he had got to the top of the hill by Tredonoc, somewhere between half-past ten and eleven, when he first noticed an odd noise that he could not make out at all; it was like a shout, a long, drawn-out, dismal wail coming from a great way off, faint with distance. He stopped to listen, thinking at first that it might be owls hooting in the woods; but it was different, he said, from that: it was a long cry, and then there was silence and then it began over again. He could make nothing of it, and feeling frightened, he did not quite know of what, he walked on briskly and was glad to see the lights of Porth station.
+
+He told his wife of this dismal sound that night, and she told the neighbors, and most of them thought that it was “all fancy”﻿—or drink, or the owls after all. But the night after, two or three people, who had been to some small merrymaking in a cottage just off the Meiros road, heard the sound as they were going home, soon after ten. They, too, described it as a long, wailing cry, indescribably dismal in the stillness of the autumn night; “like the ghost of a voice,” said one; “as if it came up from the bottom of the earth,” said another.
+
+===Chinese===
+
+克拉多克死后不久，人们开始传讲一种声音的怪事：夜里，在波思以北的丘壑之间听得见它。一个没赶上从梅罗斯发出的末班车、只得徒步走完梅罗斯到波思十英里路的人，似乎是头一个听见它的。他说，十点半到十一点之间，他走到特雷多诺克（Tredonoc）旁边的山顶上，初次注意到一种古怪的声响，全然辨不出来；像是一声呼喊，一声拖得长长的、凄凉的哀号，从极远的地方来，远得发虚。他停下来听，起初以为也许是林子里的猫头鹰叫；可他说，同那个不一样：那是一声长长的呼号，随后静了，随后又重新来一遍。他听不出个所以然，心里害怕起来——怕什么他自己也说不清——便加快脚步走，望见波思车站的灯火时才松了口气。
+
+当晚他把这凄凉的声音讲给妻子听，妻子又讲给邻居们，大多数人以为那全是“瞎想”——要么是喝多了，要么到底还是猫头鹰。可是第二天夜里，两三个在梅罗斯路边一所小屋里小小聚了聚乐的人，十点刚过回家时，也听见了那声音。他们也把它形容成一声长长的、哀号的呼喊，在秋夜的寂静里凄惨得说不出来；“像一个声音的鬼魂，”一个说；“像是从地底下冒上来的，”另一个说。
+
+## XI / 十一
+===Original===
+
+At Treff Loyne Farm
+
+Let it be remembered, again and again, that, all the while that the terror lasted, there was no common stock of information as to the dreadful things that were being done. The press had not said one word upon it, there was no criterion by which the mass of the people could separate fact from mere vague rumor, no test by which ordinary misadventure or disaster could be distinguished from the achievements of the secret and awful force that was at work.
+
+And so with every event of the passing day. A harmless commercial traveler might show himself in the course of his business in the tumbledown main street of Meiros and find himself regarded with looks of fear and suspicion as a possible worker of murder, while it is likely enough that the true agents of the terror went quite unnoticed. And since the real nature of all this mystery of death was unknown, it followed easily that the signs and warnings and omens of it were all the more unknown. Here was horror, there was horror; but there was no links to join one horror with another; no common basis of knowledge from which the connection between this horror and that horror might be inferred.
+
+So there was no one who suspected at all that this dismal and hollow sound that was now heard of nights in the region to the north of Porth, had any relation at all to the case of the little girl who went out one afternoon to pick purple flowers and never returned, or to the case of the man whose body was taken out of the peaty slime of the marsh, or to the case of Cradock, dead in his fields, with a strange glimmering of light about his body, as his wife reported. And it is a question as to how far the rumor of this melancholy, nocturnal summons got abroad at all. Lewis heard of it, as a country doctor hears of most things, driving up and down the lanes, but he heard of it without much interest, with no sense that it was in any sort of relation to the terror. Remnant had been given the story of the hollow and echoing voice of the darkness in a colored and picturesque form; he employed a Tredonoc man to work in his garden once a week. The gardener had not heard the summons himself, but he knew a man who had done so.
+
+===Chinese===
+
+在特雷夫洛因农庄
+
+请一而再、再而三地记住这一点：在恐惧持续的整个期间，关于正在做出的那些可怕的事，并没有一个大家共享的消息来源。报纸对此一字不提，民众无从把事实同含糊的传闻分开，也没有法子把寻常的意外灾祸同那股暗中作祟的可怕力量的作为区别开来。
+
+日子里的每一件事都是如此。一个无害的行商，因着业务在梅罗斯那条破败的大街上露露面，就会发现自己被恐惧而疑忌的眼光盯着，当作可能的凶手；而恐惧的真正使者，倒十有八九无人注意。这死亡之谜的真实性质既然无人知晓，那么它的征兆、警示与凶象就更加无人知晓了。这里是恐怖，那里也是恐怖；却没有链环把这一恐怖同那一恐怖连起来；没有一个共同的知识基础，可以由此推出这恐怖与那恐怖之间的关联。
+
+所以，如今夜里在波思以北地区听得见的那种空洞凄凉的声音，没有任何人疑心它同一个下午出门采紫花、再没有回来的小女孩有什么关系，同那个尸身从沼泽泥炭里捞出来的男人有什么关系，同那个——据他妻子说——死在自己地里、身上带着奇异微光的克拉多克有什么关系。这凄凉的夜间召唤到底传出去多远，也还是个疑问。刘易斯听说了它——乡间医生就是在巷子里驾车来去，什么事都听得到——但听得并不怎么在意，没觉出它同恐惧有半点关系。雷姆南特听到的那个黑暗中空洞回荡的声音的故事，就添了油加了醋；他雇了一个特雷多诺克人，每星期来他园子里做一回工。那园丁自己没有听过那召唤，可他认识一个听过的人。
+
+===Original===
+
+“Thomas Jenkins, Pentoppin, he did put his head out late last night to see what the weather was like, as he was cutting a field of corn the next day, and he did tell me that when he was with the Methodists in Cardigan he did never hear no singing eloquence in the chapels that was like to it. He did declare it was like a wailing of Judgment Day.”
+
+Remnant considered the matter, and was inclined to think that the sound must be caused by a subterranean inlet of the sea; there might be, he supposed, an imperfect or half-opened or tortuous blowhole in the Tredonoc woods, and the noise of the tide, surging up below, might very well produce that effect of a hollow wailing, far away. But neither he nor anyone else paid much attention to the matter; save the few who heard the call at dead of night, as it echoed awfully over the black hills.
+
+The sound had been heard for three or perhaps four nights, when the people coming out of Tredonoc church after morning service on Sunday noticed that there was a big yellow sheepdog in the churchyard. The dog, it appeared, had been waiting for the congregation; for it at once attached itself to them, at first to the whole body, and then to a group of half a dozen who took the turning to the right. Two of these presently went off over the fields to their respective houses, and four strolled on in the leisurely Sunday-morning manner of the country, and these the dog followed, keeping to heel all the time. The men were talking hay, corn and markets and paid no attention to the animal, and so they strolled along the autumn lane till they came to a gate in the hedge, whence a roughly made farm road went through the fields, and dipped down into the woods and to Treff Loyne farm.
+
+Then the dog became like a possessed creature. He barked furiously. He ran up to one of the men and looked up at him, “as if he were begging for his life,” as the man said, and then rushed to the gate and stood by it, wagging his tail and barking at intervals. The men stared and laughed.
+
+“Whose dog will that be?” said one of them.
+
+“It will be Thomas Griffith’s, Treff Loyne,” said another.
+
+“Well, then, why doesn’t he go home? Go home then!” He went through the gesture of picking up a stone from the road and throwing it at the dog. “Go home, then! Over the gate with you.”
+
+===Chinese===
+
+“彭托平（Pentoppin）的托马斯·詹金斯，昨儿夜里晚了把头探出去看天气，因为他第二天要割一块地的麦子；他跟我讲，他当年在卡迪根跟卫理公会的时候，礼拜堂里就没有听见过那样的唱功。他一口咬定，那像审判日的哀哭。”
+
+雷姆南特把这事掂量了一番，倾向于认为那声音必定是海的一道地下入口造成的；他猜想在特雷多诺克的林子里，也许有个不完善的、半开的或七弯八绕的喷水洞，潮水在下面涌上来，声音这样响，很可能就有那种空空洞洞、远远哀号的效果。但无论他还是别的什么人，都没把这事故在心上；除了那几个夜半听见召唤的人——那召唤在黑黢黢的山上骇人地回荡着。
+
+那声音已经响了三夜、也许四夜，一个星期天早晨礼拜散了，人们从特雷多诺克教堂里出来，发觉教堂墓地里有一条大黄牧羊犬。看样子，那狗是在等会众；因为它立刻贴上了他们，先是贴着全体，后来贴上往右拐的六个人一伙。这六个人里，有两个不久便各自越过田野回家去了，剩下四个照乡下人星期天早晨那种不慌不忙的步子往前逛，那狗便跟着他们，一直跟在脚跟边。男人们谈着干草、麦子和集市，不理会那畜生，就这样沿着秋天的巷子逛到树篱间的一扇门前，一条粗糙的农庄路从那里穿过田野，向下没入林子，通到特雷夫洛因（Treff Loyne）农庄。
+
+这时那狗变得像被什么附了体。它狂吠起来。它跑到一个人跟前，仰头望着他，“像是在讨饶命，”那人后来说，随后又冲到门前，守在门边，摇着尾巴，一阵一阵地叫。男人们瞪着眼笑。
+
+“这是谁家的狗？”一个说。
+
+“准是特雷夫洛因托马斯·格里菲思家的，”另一个说。
+
+“那么它怎么不回家？回家去！”他做了个从路上捡石头砸狗的姿势。“回家去！翻过门去。”
+
+===Original===
+
+But the dog never stirred. He barked and whined and ran up to the men and then back to the gate. At last he came to one of them, and crawled and abased himself on the ground and then took hold of the man’s coat and tried to pull him in the direction of the gate. The farmer shook the dog off, and the four went on their way; and the dog stood in the road and watched them and then put up its head and uttered a long and dismal howl that was despair.
+
+The four farmers thought nothing of it; sheepdogs in the country are dogs to look after sheep, and their whims and fancies are not studied. But the yellow dog﻿—he was a kind of degenerate collie﻿—haunted the Tredonoc lanes from that day. He came to a cottage door one night and scratched at it, and when it was opened lay down, and then, barking, ran to the garden gate and waited, entreating, as it seemed, the cottager to follow him. They drove him away and again he gave that long howl of anguish. It was almost as bad, they said, as the noise that they had heard a few nights before. And then it occurred to somebody, so far as I can make out with no particular reference to the odd conduct of the Treff Loyne sheepdog, that Thomas Griffith had not been seen for some time past. He had missed market day at Porth, he had not been at Tredonoc church, where he was a pretty regular attendant on Sunday; and then, as heads were put together, it appeared that nobody had seen any of the Griffith family for days and days.
+
+Now in a town, even in a small town, this process of putting heads together is a pretty quick business. In the country, especially in a countryside of wild lands and scattered and lonely farms and cottages, the affair takes time. Harvest was going on, everybody was busy in his own fields, and after the long day’s hard work neither the farmer nor his men felt inclined to stroll about in search of news or gossip. A harvester at the day’s end is ready for supper and sleep and for nothing else.
+
+And so it was late in that week when it was discovered that Thomas Griffith and all his house had vanished from this world.
+
+===Chinese===
+
+可那狗一动不动。它叫着，呜咽着，跑到人们跟前，又跑回门边。末了它走到一个人面前，伏在地上匍匐哀恳，随后叼住那人的衣角，朝门的方向拽。农夫甩开狗，四个人自管赶路；狗立在路当中望着他们，随后昂起头，发出一声悠长凄凉的嗥叫，那便是绝望。
+
+四个农夫没把这事放在心上；乡下的牧羊犬是看羊的狗，它的脾气兴致没人为之费心。可是那条黄狗——它是种退化了的柯利——从那天起就出没在特雷多诺克的小巷里。一夜它来到一户小屋门前抓门，门开了它却卧下，随后吠着跑到院门口等着，像是在恳求那屋里人跟它去。人们把它轰走，它又发出那声长长的、痛苦的嗥叫。那声音，他们说，几乎同几天前夜里听见的那种一样糟。随后不知是谁灵机一动——据我揣想，同特雷夫洛因牧羊犬的古怪行径并没什么特别的关联——想起托马斯·格里菲思有些日子不见了。他误了波斯的集市日，也不来做礼拜，而在特雷多诺克教堂他原是礼拜日相当准时的会众；随后，各人的脑袋凑到一处，才弄明白，格里菲思一家人已经好多天谁也没见着了。
+
+在城里，哪怕小城里，这种凑脑袋的功夫是桩很快的营生。在乡下，尤其在一片荒地、农家小屋零零落落各自孤悬的乡下，这事情就费时候。正收着庄稼，人人都在自家田里忙，一天的苦活下来，农夫和他的伙计谁也不愿再遛达着去打听新闻闲话。收割的人一天到头，只想着晚饭和睡觉，别的什么都不想。
+
+于是，一直拖到那个星期快过完，人们才发现托马斯·格里菲思和他全家已经从这人世间消失了。
+
+===Original===
+
+I have often been reproached for my curiosity over questions which are apparently of slight importance, or of no importance at all. I love to inquire, for instance, into the question of the visibility of a lighted candle at a distance. Suppose, that is, a candle lighted on a still, dark night in the country; what is the greatest distance at which you can see that there is a light at all? And then as to the human voice; what is its carrying distance, under good conditions, as a mere sound, apart from any matter of making out words that may be uttered?
+
+They are trivial questions, no doubt, but they have always interested me, and the latter point has its application to the strange business of Treff Loyne. That melancholy and hollow sound, that wailing summons that appalled the hearts of those who heard it was, indeed, a human voice, produced in a very exceptional manner; and it seems to have been heard at points varying from a mile and a half to two miles from the farm. I do not know whether this is anything extraordinary; I do not know whether the peculiar method of production was calculated to increase or to diminish the carrying power of the sound.
+
+Again and again I have laid emphasis in this story of the terror on the strange isolation of many of the farms and cottages in Meirion. I have done so in the effort to convince the townsman of something that he has never known. To the Londoner a house a quarter of a mile from the outlying suburban lamp, with no other dwelling within two hundred yards, is a lonely house, a place to fit with ghosts and mysteries and terrors. How can he understand then, the true loneliness of the white farmhouses of Meirion, dotted here and there, for the most part not even on the little lanes and deep winding byways, but set in the very heart of the fields, or alone on huge bastioned headlands facing the sea, and whether on the high verge of the sea or on the hills or in the hollows of the inner country, hidden from the sight of men, far from the sound of any common call. There is Penyrhaul, for example, the farm from which the foolish Merritt thought he saw signals of light being made: from seaward it is of course, widely visible; but from landward, owing partly to the curving and indented configuration of the bay, I doubt whether any other habitation views it from a nearer distance than three miles.
+
+===Chinese===
+
+我常因好奇那些看来轻描淡写、或根本无关紧要的问题而受人责备。譬如说，我爱追问一支点着的蜡烛的能见距离的问题。就是说，假定一支蜡烛在乡间一个无风的黑夜里点着；你能看出“那里有光”的最远距离是多少？再说人声；在好条件下，单作为一种声响——不管辨听字句——它能传多远？
+
+这些问题无疑琐碎，可它们一向让我入迷，而后一问用在特雷夫洛因的怪案上正合适。那凄凉空洞的声响，那叫听见的人心胆俱裂的哀号召唤，其实是一副人声，只是以极不寻常的方式发出；而它被听见的地方，离农场近一英里半、远至两英里不等。这算不算出奇，我不知道；我也不知道那种特殊的发声法，是会加强还是会削弱声音的传程。
+
+在这个恐惧的故事里，我一再强调梅里昂许多农舍小屋异样的孤绝。我这样做，是想让城里人信一件他从不曾知道的事。对伦敦人来说，一座房子离郊外最末一盏路灯四分之一英里，二百码内没有别的住家，便是孤零零的房子了，尽可以安放鬼怪、疑团与恐怖。那么他又怎能懂得梅里昂那些白色农舍真正的孤绝？它们星星点点散在各处，多半连小小的巷子和深深的弯路也不沿，而是深深安在田地当中，或独自立在临海的巨大壁垒般的岬角上；无论在高高的海边、山冈上，还是腹地的洼地里，都避开了人的目光，离任何寻常的呼唤声远远的。比如佩尼劳尔，就是梅里特那蠢人自以为望见打灯光信号的那座农舍：从海上看它自然一览无遗；可从陆地一面，由于海湾曲折回互的地形，我怀疑有没有哪座住家是从三英里以内望得见它的。
+
+===Original===
+
+And of all these hidden and remote places, I doubt if any is so deeply buried as Treff Loyne. I have little or no Welsh, I am sorry to say, but I suppose that the name is corrupted from Trellwyn, or Tref-y-llwyn, “the place in the grove,” and, indeed, it lies in the very heart of dark, overhanging woods. A deep, narrow valley runs down from the high lands of the Allt, through these woods, through steep hillsides of bracken and gorse, right down to the great marsh, whence Merritt saw the dead man being carried. The valley lies away from any road, even from that byroad, little better than a bridlepath, where the four farmers, returning from church were perplexed by the strange antics of the sheepdog. One cannot say that the valley is overlooked, even from a distance, for so narrow is it that the ashgroves that rim it on either side seem to meet and shut it in. I, at all events, have never found any high place from which Treff Loyne is visible; though, looking down from the Allt, I have seen blue wood-smoke rising from its hidden chimneys.
+
+Such was the place, then, to which one September afternoon a party went up to discover what had happened to Griffith and his family. There were half a dozen farmers, a couple of policemen, and four soldiers, carrying their arms; those last had been lent by the officer commanding at the camp. Lewis, too, was of the party; he had heard by chance that no one knew what had become of Griffith and his family; and he was anxious about a young fellow, a painter, of his acquaintance, who had been lodging at Treff Loyne all the summer.
+
+They all met by the gate of Tredonoc churchyard, and tramped solemnly along the narrow lane; all of them, I think, with some vague discomfort of mind, with a certain shadowy fear, as of men who do not quite know what they may encounter. Lewis heard the corporal and the three soldiers arguing over their orders.
+
+“The Captain says to me,” muttered the corporal, “ ‘Don’t hesitate to shoot if there’s any trouble.’ ‘Shoot what, sir,’ I says. ‘The trouble,’ says he, and that’s all I could get out of him.”
+
+The men grumbled in reply; Lewis thought he heard some obscure reference to ratpoison, and wondered what they were talking about.
+
+===Chinese===
+
+而在所有这些隐秘偏僻的地方里，我疑心没有哪一处比特雷夫洛因埋得更深。很抱歉，我几乎不懂威尔士话，可我想这名字是由特雷卢因（Trellwyn）或 Tref-y-llwyn 讹变来的，意即“树丛中的地方”；而它也确实卧在阴沉低垂的树林最中心。一道又深又窄的峡谷从阿勒特高地上下来，穿过这些树林，穿过长满蕨草荆豆的陡坡，一直落到大沼泽，梅里特正是从那里望见死人被抬走。峡谷离开一切道路，连那条比马道好不了多少的小路也不沾——四个农夫做完礼拜回来，就是在那条小路上被牧羊犬的古怪把戏弄糊涂的。谁也不能说这峡谷能从远处俯瞰；它窄到那种地步，两岸镶边的白蜡树丛仿佛接到一处，把它整个封了起来。至少，我从来不曾找到任何一个高处能望见特雷夫洛因；虽然从阿勒特上望下来，我见过蓝色的柴烟从它隐秘的烟囱里升起。
+
+九月的一个下午，一队人便这样上山去，要看格里菲思一家人究竟出了什么事。那是六个农夫、两个警察、四个带枪的士兵；士兵是营地指挥官借出来的。刘易斯也在队里；他碰巧听说没人知道格里菲思一家的下落；他惦记一个他认识的年轻人，一个画家，整个夏天都寄宿在特雷夫洛因。
+
+他们在特雷多诺克教堂墓地的门口会齐，沿着窄巷肃然跋涉；我想他们个个心里都有些说不清的不自在，有一层淡淡的惧意，像是不知会撞见什么东西的人。刘易斯听见下士和三个士兵议论他们的命令。
+
+“上尉跟我说，”下士咕哝道，“‘出了乱子别犹豫，开枪。’‘开谁的枪，长官，’我说。‘开乱子的枪，’他说，我再问不出一个字了。”
+
+士兵们嘟嘟囔囔回答；刘易斯觉得自己听见什么耗子药之类的含混话，纳闷他们说的是什么。
+
+===Original===
+
+They came to the gate in the hedge, where the farm road led down to Treff Loyne. They followed this track, roughly made, with grass growing up between its loosely laid stones, down by the hedge from field to wood, till at last they came to the sudden walls of the valley, and the sheltering groves of the ash trees. Here the way curved down the steep hillside, and bent southward, and followed henceforward the hidden hollow of the valley, under the shadow of the trees.
+
+Here was the farm enclosure; the outlying walls of the yard and the barns and sheds and outhouses. One of the farmers threw open the gate and walked into the yard, and forthwith began bellowing at the top of his voice:
+
+“Thomas Griffith! Thomas Griffith! Where be you, Thomas Griffith?”
+
+The rest followed him. The corporal snapped out an order over his shoulder, and there was a rattling metallic noise as the men fixed their bayonets and became in an instant dreadful dealers out of death, in place of harmless fellows with a feeling for beer.
+
+“Thomas Griffith!” again bellowed the farmer.
+
+There was no answer to this summons. But they found poor Griffith lying on his face at the edge of the pond in the middle of the yard. There was a ghastly wound in his side, as if a sharp stake had been driven into his body.
+
+===Chinese===
+
+他们来到篱笆上那道门，农路从这里下去通特雷夫洛因。他们顺着这条粗粗修成的路走，松散的铺石间长着草，沿着篱笆从田地到树林，末了来到峡谷突然壁立的坡沿，和那环护着的白蜡树丛。路在这里顺陡坡盘下，折向南去，从此沿着峡谷隐秘的洼处、在树影底下走。
+
+这里便是农场的院落；院子和谷仓、棚舍、附属屋的外墙。一个农夫推开院门走进院子，随即扯开嗓子高声喊：
+
+“托马斯·格里菲思！托马斯·格里菲思！你在哪儿，托马斯·格里菲思？”
+
+其余的人跟着他。下士回头厉声下了口令，一阵金属的咔啦声，士兵们上了刺刀，一转眼便从爱喝啤酒的老实人变成了煞气凛然的死亡发放者。
+
+“托马斯·格里菲思！”那农夫又喊。
+
+这声召唤无人应。可他们找到了可怜的格里菲思，脸朝下伏在院子当中池塘边上。他胁下有一处狰狞的伤口，像被一根尖桩刺进了身体。
+
+## XII / 十二
+
+## XII /
+
+## XII /
+
+## XII /
+
+## XII /
+
+## XII /
+
+## XII /
+
+## XII /
+
+## XII / 
+===Original===
+
+The Letter of Wrath
+
+It was a still September afternoon. No wind stirred in the hanging woods that were dark all about the ancient house of Treff Loyne; the only sound in the dim air was the lowing of the cattle; they had wandered, it seemed, from the fields and had come in by the gate of the farmyard and stood there melancholy, as if they mourned for their dead master. And the horses; four great, heavy, patient-looking beasts they were there too, and in the lower field the sheep were standing, as if they waited to be fed.
+
+“You would think they all knew there was something wrong,” one of the soldiers muttered to another. A pale sun showed for a moment and glittered on their bayonets. They were standing about the body of poor, dead Griffith, with a certain grimness growing on their faces and hardening there. Their corporal snapped something at them again; they were quite ready. Lewis knelt down by the dead man and looked closely at the great gaping wound in his side.
+
+“He’s been dead a long time,” he said. “A week, two weeks, perhaps. He was killed by some sharp pointed weapon. How about the family? How many are there of them? I never attended them.”
+
+“There was Griffith, and his wife, and his son Thomas and Mary Griffith, his daughter. And I do think there was a gentleman lodging with them this summer.”
+
+That was from one of the farmers. They all looked at one another, this party of rescue, who knew nothing of the danger that had smitten this house of quiet people, nothing of the peril which had brought them to this pass of a farmyard with a dead man in it, and his beasts standing patiently about him, as if they waited for the farmer to rise up and give them their food. Then the party turned to the house. It was an old, sixteenth century building, with the singular round, “Flemish” chimney that is characteristic of Meirion. The walls were snowy with whitewash, the windows were deeply set and stone mullioned, and a solid, stone-tiled porch sheltered the doorway from any winds that might penetrate to the hollow of that hidden valley. The windows were shut tight. There was no sign of any life or movement about the place. The party of men looked at one another, and the churchwarden amongst the farmers, the sergeant of police, Lewis, and the corporal drew together.
+
+“What is it to goodness, doctor?” said the churchwarden.
+
+===Chinese===
+
+愤怒之书
+
+那是一个沉静的九月午后。悬垂的树林里没有一丝风，黑沉沉地环抱着特雷夫洛因这座老宅；昏暗的空气中只有牛的哞鸣；它们像是离了田地，从农场的院门进来，郁郁地立在那里，仿佛哀悼它们死去的主人。马也在那儿，四匹高大、沉重、一脸忍耐的牲口；下面那块田里，羊群立着，像在等人喂食。
+
+“你会当它们全知道出了事呢，”一个士兵低声对另一个说。苍白的太阳露了一瞬，在他们的刺刀上闪了闪。他们围在可怜的、死去的格里菲思身旁，一种冷峻的神色渐渐浮上他们的脸，凝在那里。下士又朝他们厉声说了句什么；他们早已准备好了。刘易斯在死人身边跪下，细看他胁下那个豁开的大伤口。
+
+“他死了很久了，”他说。“一星期，也许两星期。他是被一件尖锐的兵器杀死的。家里人呢？家里有几口？我没给他们看过病。”
+
+“有格里菲思，他的妻子，儿子小托马斯，还有女儿玛丽·格里菲思。我想这个夏天还有位先生寄宿在他们家。”
+
+那是一个农夫说的。这一队搭救的人面面相觑，他们对降在这户安静人家头上的危险一无所知，对把他们引到这步田地——一座死着人的农院，牲口耐性地围着死人，仿佛等农夫起来给它们添食——的祸患一无所知。随后这一队人转向那房子。那是一座十六世纪的老屋，有着梅里昂特有的那种圆滚滚的“佛兰芒”烟囱。墙上刷着雪白的石灰，窗户深深地嵌在石砌的棂格里，一座结实的石瓦门廊替门口挡着可能钻进这隐秘峡谷洼地里来的风。窗户关得严严实实。四下不见一点生命的动静。人们互相望了望，农夫中的教堂执事、警长、刘易斯和下士聚拢来。
+
+“老天爷，这是怎么回事，医生？”教堂执事说。
+
+===Original===
+
+“I can tell you nothing at all﻿—except that that poor man there has been pierced to the heart,” said Lewis.
+
+“Do you think they are inside and they will shoot us?” said another farmer. He had no notion of what he meant by “they,” and no one of them knew better than he. They did not know what the danger was, or where it might strike them, or whether it was from without or from within. They stared at the murdered man, and gazed dismally at one another.
+
+“Come!” said Lewis, “we must do something. We must get into the house and see what is wrong.”
+
+“Yes, but suppose they are at us while we are getting in,” said the sergeant. “Where shall we be then, Doctor Lewis?”
+
+The corporal put one of his men by the gate at the top of the farmyard, another at the gate by the bottom of the farmyard, and told them to challenge and shoot. The doctor and the rest opened the little gate of the front garden and went up to the porch and stood listening by the door. It was all dead silence. Lewis took an ash stick from one of the farmers and beat heavily three times on the old, black, oaken door studded with antique nails.
+
+He struck three thundering blows, and then they all waited. There was no answer from within. He beat again, and still silence. He shouted to the people within, but there was no answer. They all turned and looked at one another, that party of quest and rescue who knew not what they sought, what enemy they were to encounter. There was an iron ring on the door. Lewis turned it but the door stood fast; it was evidently barred and bolted. The sergeant of police called out to open, but again there was no answer.
+
+They consulted together. There was nothing for it but to blow the door open, and some one of them called in a loud voice to anybody that might be within to stand away from the door, or they would be killed. And at this very moment the yellow sheepdog came bounding up the yard from the woods and licked their hands and fawned on them and barked joyfully.
+
+“Indeed now,” said one of the farmers; “he did know that there was something amiss. A pity it was, Thomas Williams, that we did not follow him when he implored us last Sunday.”
+
+===Chinese===
+
+“我什么也说不上来——只知道那边那个可怜人是被刺穿了心脏，”刘易斯说。
+
+“你想他们在里头，会朝我们开枪么？”另一个农夫说。他说“他们”，自己也不知道指的是什么；他们中间也没有谁比他知道得多。他们不知道危险是什么，会在哪里降临，是来自外面还是来自里面。他们瞪着那被杀的人，惨然相顾。
+
+“来！”刘易斯说，“总得做点什么。得进屋去看看出了什么事。”
+
+“是，可要是我们进门的当口他们扑我们呢，”警长说。“那我们往哪儿站，刘易斯医生？”
+
+下士把一个士兵安置在农院上首的门口，另一个安置在下首的门口，吩咐他们盘问、开枪。医生和其余的人推开前园的小门，走到门廊下，立在门边听。四下死一样的寂静。刘易斯从一个农夫手里拿了根白蜡木棍，在那扇钉满古旧铁钉的黑色老橡木门上重重敲了三下。
+
+他敲了三记雷鸣般的重击，随后大家都等着。里面没有回应。他又敲，仍旧寂静。他朝屋里的人喊，还是没有回应。他们全都转过脸来面面相觑，这一队寻访搭救的人，不知道自己寻的是什么，要遭遇的又是什么敌手。门上有一个铁门环。刘易斯转了转，门纹丝不动；显然是上了闩加了杠。警长喊着叫开门，还是没有回应。
+
+他们商量了一阵。没法子，只有把门轰开，他们中有一人高声喊话，叫屋里不管什么人离门远些，否则性命不保。正在这当口，那条黄牧羊犬从树林里蹦跳着跑上院子，舔他们的手，偎他们，欢快地吠着。
+
+“可不是，”一个农夫说，“它早知道出了岔子。可惜呀，托马斯·威廉斯，上礼拜天它求我们跟它去的时候，我们没有跟。”
+
+===Original===
+
+The corporal motioned the rest of the party back, and they stood looking fearfully about them at the entrance to the porch. The corporal disengaged his bayonet and shot into the keyhole, calling out once more before he fired. He shot and shot again; so heavy and firm was the ancient door, so stout its bolts and fastenings. At last he had to fire at the massive hinges, and then they all pushed together and the door lurched open and fell forward. The corporal raised his left hand and stepped back a few paces. He hailed his two men at the top and bottom of the farmyard. They were all right, they said. And so the party climbed and struggled over the fallen door into the passage, and into the kitchen of the farmhouse.
+
+Young Griffith was lying dead before the hearth, before a dead fire of white wood ashes. They went on towards the “parlor,” and in the doorway of the room was the body of the artist, Secretan, as if he had fallen in trying to get to the kitchen. Upstairs the two women, Mrs. Griffith and her daughter, a girl of eighteen, were lying together on the bed in the big bedroom, clasped in each others’ arms.
+
+They went about the house, searched the pantries, the back kitchen and the cellars; there was no life in it.
+
+“Look!” said Dr. Lewis, when they came back to the big kitchen, “look! It is as if they had been besieged. Do you see that piece of bacon, half gnawed through?”
+
+Then they found these pieces of bacon, cut from the sides on the kitchen wall, here and there about the house. There was no bread in the place, no milk, no water.
+
+“And,” said one of the farmers, “they had the best water here in all Meirion. The well is down there in the wood; it is most famous water. The old people did use to call it Ffynnon Teilo; it was Saint Teilo’s Well, they did say.”
+
+“They must have died of thirst,” said Lewis. “They have been dead for days and days.”
+
+The group of men stood in the big kitchen and stared at one another, a dreadful perplexity in their eyes. The dead were all about them, within the house and without it; and it was in vain to ask why they had died thus. The old man had been killed with the piercing thrust of some sharp weapon; the rest had perished, it seemed probable, of thirst; but what possible enemy was this that besieged the farm and shut in its inhabitants? There was no answer.
+
+===Chinese===
+
+下士招呼其余的人退后，他们站在门廊口，惊惶地四下张望。下士卸下刺刀，朝锁眼里开了一枪，开枪前又喊了一声。他一枪又一枪；那扇古门如此厚重坚实，门闩扣具如此坚固。末了他只得朝那粗大的铰链开枪，随后大家一齐推，门踉跄着朝前倒下。下士举起左手，退后几步。他招呼院里上首下首他的两个兵。他们说，都好。于是这一队人手脚并用地爬过倒下的门，进了过道，进了农舍的大厨房。
+
+小格里菲思直挺挺死在壁炉前，死在一堆烧成白灰的死火前。他们朝“客厅”走去，房门口躺着画家塞克雷坦（Secretan）的尸身，像是倒在往厨房逃的半路上。楼上，两个女人，格里菲思太太和她十八岁的女儿，并排躺在大卧室的床上，彼此拥在怀里。
+
+他们把整座屋子走了一遍，搜了食品间、后厨房和地窖；里面没有一点生气。
+
+“看！”刘易斯医生说，那时他们回到大厨房，“看！倒像被围困过似的。你们看见那块培根没有，咬掉了一半？”
+
+随后他们在屋里各处发现了这些一片片从厨房墙上的腌肉上割下来的培根。屋里没有面包，没有牛奶，没有水。
+
+“再说，”一个农夫说，“这里的水是全梅里昂最好的。井就在下头林子里；是顶有名的泉水。老辈人管它叫菲农·泰洛（Ffynnon Teilo）；他们说，那是圣泰洛泉。”
+
+“他们准是渴死的，”刘易斯说。“他们死了好多天了。”
+
+这一群人立在大厨房里，面面相觑，眼里是骇人的惶惑。死者四面围着他们，屋里屋外；而他们何以这样死法，问了也是白问。老人是被某种尖锐兵器的穿刺杀死的；其余的人，看样子，多半是渴死的；可是，围困这座农舍、把里面的人封死的，究竟会是什么样的仇敌？没有答案。
+
+===Original===
+
+The sergeant of police spoke of getting a cart and taking the bodies into Porth, and Dr. Lewis went into the parlor that Secretan had used as a sitting-room, intending to gather any possessions or effects of the dead artist that he might find there. Half a dozen portfolios were piled up in one corner, there were some books on a side table, a fishing-rod and basket behind the door﻿—that seemed all. No doubt there would be clothes and such matters upstairs, and Lewis was about to rejoin the rest of the party in the kitchen, when he looked down at some scattered papers lying with the books on the side table. On one of the sheets he read to his astonishment the words: “Dr. James Lewis, Porth.” This was written in a staggering trembling scrawl, and examining the other leaves he saw that they were covered with writing.
+
+The table stood in a dark corner of the room, and Lewis gathered up the sheets of paper and took them to the window-ledge and began to read, amazed at certain phrases that had caught his eye. But the manuscript was in disorder; as if the dead man who had written it had not been equal to the task of gathering the leaves into their proper sequence; it was some time before the doctor had each page in its place. This was the statement that he read, with ever-growing wonder, while a couple of the farmers were harnessing one of the horses in the yard to a cart, and the others were bringing down the dead women.
+
+I do not think that I can last much longer. We shared out the last drops of water a long time ago. I do not know how many days ago. We fall asleep and dream and walk about the house in our dreams, and I am often not sure whether I am awake or still dreaming, and so the days and nights are confused in my mind. I awoke not long ago, at least I suppose I awoke and found I was lying in the passage. I had a confused feeling that I had had an awful dream which seemed horribly real, and I thought for a moment what a relief it was to know that it wasn’t true, whatever it might have been. I made up my mind to have a good long walk to freshen myself up, and then I looked round and found that I had been lying on the stones of the passage; and it all came back to me. There was no walk for me.
+
+===Chinese===
+
+警长说要雇一辆车，把尸首运进波斯，刘易斯医生便走进塞克雷坦当作起居室的那间客厅，想收拾收拾死去的画家可能留在那里的遗物什物。六七个画夹堆在一个角落，一张边桌上有几本书，门背后一根钓竿、一只鱼篓——似乎就这些。楼上想必还有衣裳之类的物事，刘易斯正要回厨房去归队，目光落在边桌上同书放在一起的几页散纸上。其中一页上，他惊愕地读到这样几个字：“波斯，詹姆斯·刘易斯医生”。那是一笔踉踉跄跄、抖抖索索的潦草字迹；再查看其余几页，只见满纸都写满了字。
+
+桌子立在屋子一个幽暗的角落，刘易斯把那几页纸收拢，拿到窗台上，开始读起来，几处掠过眼底的句子令他惊异。可那手稿次序凌乱；仿佛写下它的那个死人已无力把纸页按先后理清；医生过了好一阵才把每一页安放到位。院子里，几个农夫正给一匹马上套车，另几个往楼下抬那两个死去的女人；他读到的便是这份陈述，愈读愈觉匪夷所思。
+
+我想我撑不了多久了。最后几滴水我们早就分着喝完了。不知是几天前的事。我们睡着了，做梦，在梦里满屋走；我常常拿不准自己是醒着还是仍在梦中，于是白天黑夜在我心里搅成一团。不久前我醒了——至少我算是醒了——发现自己躺在过道里。我心头糊里糊涂觉得方才做了个可怕至极、真实至极的梦，有一瞬我想，管它梦见了什么，知道那不是真的，多么松快。我打定主意好好走一大段路，让自己清爽清爽；随后我四下一望，发觉自己一直躺在过道的石头地上；一切都想起来了。我没有什么路可走了。
+
+===Original===
+
+I have not seen Mrs. Griffith or her daughter for a long while. They said they were going upstairs to have a rest. I heard them moving about the room at first, now I can hear nothing. Young Griffith is lying in the kitchen, before the hearth. He was talking to himself about the harvest and the weather when I last went into the kitchen. He didn’t seem to know I was there, as he went gabbling on in a low voice very fast, and then he began to call the dog, Tiger.
+
+There seems no hope for any of us. We are in the dream of death.﻿ ﻿…
+
+Here the manuscript became unintelligible for half a dozen lines. Secretan had written the words “dream of death” three or four times over. He had begun a fresh word and had scratched it out and then followed strange, unmeaning characters, the script, as Lewis thought, of a terrible language. And then the writing became clear, clearer than it was at the beginning of the manuscript, and the sentences flowed more easily, as if the cloud on Secretan’s mind had lifted for a while. There was a fresh start, as it were, and the writer began again, in ordinary letter-form:
+
+Dear Lewis,
+
+I hope you will excuse all this confusion and wandering. I intended to begin a proper letter to you, and now I find all that stuff that you have been reading﻿—if this ever gets into your hands. I have not the energy even to tear it up. If you read it you will know to what a sad pass I had come when it was written. It looks like delirium or a bad dream, and even now, though my mind seems to have cleared up a good deal, I have to hold myself in tightly to be sure that the experiences of the last days in this awful place are true, real things, not a long nightmare from which I shall wake up presently and find myself in my rooms at Chelsea.
+
+I have said of what I am writing, “if it ever gets into your hands,” and I am not at all sure that it ever will. If what is happening here is happening everywhere else, then I suppose, the world is coming to an end. I cannot understand it, even now I can hardly believe it. I know that I dream such wild dreams and walk in such mad fancies that I have to look out and look about me to make sure that I am not still dreaming.
+
+===Chinese===
+
+我很久没有见格里菲思太太和她女儿了。她们说要去楼上歇一歇。起先我还听得见她们在房里走动，如今什么也听不见了。小格里菲思躺在厨房里，壁炉前。我最后一次进厨房时，他正自言自语，说着收成和天气。他好像不知道我在跟前，只顾低声飞快地咕哝，随后他开始唤那条狗，泰格。
+
+我们谁都没有指望了。我们在死的梦里。……
+
+手稿到这里有六七行不可辨识。塞克雷坦把“死的梦”三个字反反复复写了三四遍。他起了一个新字的头，又涂掉，随后是一串古怪无义的符号，那字迹，刘易斯觉得，像是一种可怕的文字。再往后，字迹清楚起来，比手稿开头还清楚，句子也流畅了，仿佛塞克雷坦心头的阴云散了一阵。好比重新起了个头，写的人用平常的书信格式重新写起来：
+
+亲爱的刘易斯：
+
+望你原谅这一切的混乱与颠倒。我本打算给你好好写一封信的，如今却添上了你方才读到的那些东西——倘若这信真会到你手里。我连撕掉它们的气力也没有了。你若读了它，便知道我写下它们时到了怎样凄惨的地步。它像谵妄，像噩梦；即便此刻，我的头脑似乎清明了不少，我却仍须紧紧按住自己，才能确信这几天在这可怕地方的经历是真事、实有的事，而不是一场长噩梦——不是那种我一觉醒来、发现自己身在切尔西寓所的长噩梦。
+
+我说我写的这些“倘若真会到你手里”，是因为我全然拿不准它到底会不会。倘若这里发生的事也发生在别处，那么我想，世界是到头了。我弄不懂；至今我几乎不能相信。我知道自己净做些狂乱的梦，净在疯想里走路，以致不得不朝外望、朝四下望，确认自己不是还在梦里。
+
+===Original===
+
+Do you remember that talk we had about two months ago when I dined with you? We got on, somehow or other, to space and time, and I think we agreed that as soon as one tried to reason about space and time one was landed in a maze of contradictions. You said something to the effect that it was very curious but this was just like a dream. “A man will sometimes wake himself from his crazy dream,” you said, “by realizing that he is thinking nonsense.” And we both wondered whether these contradictions that one can’t avoid if one begins to think of time and space may not really be proofs that the whole of life is a dream, and the moon and the stars bits of nightmare. I have often thought over that lately. I kick at the walls as Dr. Johnson kicked at the stone, to make sure that the things about me are there. And then that other question gets into my mind﻿—is the world really coming to an end, the world as we have always known it; and what on earth will this new world be like? I can’t imagine it; it’s a story like Noah’s Ark and the Flood. People used to talk about the end of the world and fire, but no one ever thought of anything like this.
+
+And then there’s another thing that bothers me. Now and then I wonder whether we are not all mad together in this house. In spite of what I see and know, or, perhaps, I should say, because what I see and know is so impossible, I wonder whether we are not all suffering from a delusion. Perhaps we are our own gaolers, and we are really free to go out and live. Perhaps what we think we see is not there at all. I believe I have heard of whole families going mad together, and I may have come under the influence of the house, having lived in it for the last four months. I know there have been people who have been kept alive by their keepers forcing food down their throats, because they are quite sure that their throats are closed, so that they feel they are unable to swallow a morsel. I wonder now and then whether we are all like this in Treff Loyne; yet in my heart I feel sure that it is not so.
+
+===Chinese===
+
+你可记得大约两个月前我在你家用饭的那次长谈？不知怎么谈到了空间与时间，我想我们一致认为，人一旦想对空间和时间推理，便陷入一座矛盾的迷宫。你说了一句大意如此的话：这事很奇怪，可它偏偏像一场梦。“人有时候，”你说，“会靠醒悟到自己在胡思乱想，把自己从疯狂的梦里唤醒。”我们俩都疑心：这些一想时空便躲不开的矛盾，莫非真是证据，证明整个人生是一场梦，月亮和星星不过是梦魇的碎片。这话我后来常想。我像约翰逊博士踢那块石头一样踢墙，好确认我周围的东西确实在那里。随后另一个问题又钻进我心里——世界当真要到头了么，我们一向所知的这个世界；而这新世界又究竟是什么样子？我想象不出；那像挪亚方舟和大洪水的故事。从前人们也讲世界的末日与火，可谁也不曾想到这样的事。
+
+还有一桩叫我烦心的。我时不时疑心，我们这一屋人莫不是一齐疯了。不管我亲眼所见、亲心所知的是什么——或者，也许我该说，正因为我所见所知的事如此不可能——我疑心我们是不是全都害着同一种妄想。也许我们自己就是自己的狱卒，其实尽可以出去、活下去。也许我们自以为看见的东西根本不在那里。我记得听说过有成户人家一齐发疯的事；我在这屋里住了四个月，也许受了它的影响。我知道历来有人被看护强灌食物吊住性命，因为他们咬定自己的喉咙是闭着的，觉得一口也咽不下去。我如今时不时想，我们在特雷夫洛因是不是全都这样；可在我心里，我觉得定然不是。
+
+===Original===
+
+Still, I do not want to leave a madman’s letter behind me, and so I will not tell you the full story of what I have seen, or believe I have seen. If I am a sane man you will be able to fill in the blanks for yourself from your own knowledge. If I am mad, burn the letter and say nothing about it. Or perhaps﻿—and indeed, I am not quite sure﻿—I may wake up and hear Mary Griffith calling to me in her cheerful singsong that breakfast will be ready “directly, in a minute,” and I shall enjoy it and walk over to Porth and tell you the queerest, most horrible dream that a man ever had, and ask what I had better take.
+
+I think that it was on a Tuesday that we first noticed that there was something queer about, only at the time we didn’t know that there was anything really queer in what we noticed. I had been out since nine o’clock in the morning trying to paint the marsh, and I found it a very tough job. I came home about five or six o’clock and found the family at Treff Loyne laughing at old Tiger, the sheepdog. He was making short runs from the farmyard to the door of the house, barking, with quick, short yelps. Mrs. Griffith and Miss Griffith were standing by the porch, and the dog would go to them, look in their faces, and then run up the farmyard to the gate, and then look back with that eager yelping bark, as if he were waiting for the women to follow him. Then, again and again, he ran up to them and tugged at their skirts as if he would pull them by main force away from the house.
+
+Then the men came home from the fields and he repeated this performance. The dog was running all up and down the farmyard, in and out of the barn and sheds yelping, barking; and always with that eager run to the person he addressed, and running away directly, and looking back as, if to see whether we were following him. When the house door was shut and they all sat down to supper, he would give them no peace, till at last they turned him out of doors. And then he sat in the porch and scratched at the door with his claws, barking all the while. When the daughter brought in my meal, she said: “We can’t think what is come to old Tiger, and indeed, he has always been a good dog, too.”
+
+===Chinese===
+
+我想我们是先在一个星期二觉出事情蹊跷的，只是当时我们不觉得我们注意到的真有什么蹊跷。我从早上九点出去画那张沼泽，画到觉得是桩苦差。五六点钟回到家，见特雷夫洛因一家人正笑那条老牧羊犬泰格。它从场院到屋门一段一段短跑，吠着，叫声急促而短。格里菲思太太和格里菲思小姐立在门廊边，狗跑到她们跟前，仰脸望她们，随后跑上场院到门口，再回头望，带着那种急切的、尖叫式的吠声，仿佛等这两个女人跟它走。随后它一次又一次跑到她们跟前，拽她们的裙子，仿佛要凭蛮力把她们从房子跟前拖开。
+
+随后男人们下地回来了，它又把这出戏重演一遍。狗满场院跑进跑出，谷仓棚舍里外穿，吠着叫着；总是先急急跑到它要打招呼的人跟前，随即跑开，又回头望，看我们跟上了没有。屋门关了，大家坐下吃晚饭，它便不肯安生，末了他们把它轰出门去。它就卧在门廊里，用爪子抓门，一路吠个不停。当女儿给我端饭来时，她说：“我们想不透老泰格这是怎么了；说真的，它向来是条好狗啊。”
+
+===Original===
+
+The dog barked and yelped and whined and scratched at the door all through the evening. They let him in once, but he seemed to have become quite frantic. He ran up to one member of the family after another; his eyes were bloodshot and his mouth was foaming, and he tore at their clothes till they drove him out again into the darkness. Then he broke into a long, lamentable howl of anguish, and we heard no more of him.
+
+===Chinese===
+
+整晚上那狗吠着、叫着、呜咽着，抓着门。他们放它进来过一次，可它像是完全疯了。它挨个儿跑到家里一个人跟前；它眼睛通红，嘴上淌着白沫，撕扯他们的衣裳，直到他们又把它轰回黑夜里去。随后它迸出一声悠长哀切的痛苦嗥叫，我们再没有听到它的消息。
+
+## XIII / 十三
+
+## XIII /
+
+## XIII /
+
+## XIII / 
+===Original===
+
+The Last Words of Mr. Secretan
+
+I slept ill that night I awoke again and again from uneasy dreams, and I seemed in my sleep to hear strange calls and noises and a sound of murmurs and beatings on the door. There were deep, hollow voices, too, that echoed in my sleep, and when I woke I could hear the autumn wind, mournful, on the hills above us. I started up once with a dreadful scream in my ears; but then the house was all still, and I fell again into uneasy sleep.
+
+It was soon after dawn when I finally roused myself. The people in the house were talking to each other in high voices, arguing about something that I did not understand.
+
+“It is those damned gypsies, I tell you,” said old Griffith.
+
+“What would they do a thing like that for?” asked Mrs. Griffith. “If it was stealing now﻿—”
+
+“It is more likely that John Jenkins has done it out of spite,” said the son. “He said that he would remember you when we did catch him poaching.”
+
+They seemed puzzled and angry, so far as I could make out, but not at all frightened. I got up and began to dress. I don’t think I looked out of the window. The glass on my dressing-table is high and broad, and the window is small; one would have to poke one’s head round the glass to see anything.
+
+The voices were still arguing downstairs. I heard the old man say, “Well, here’s for a beginning anyhow,” and then the door slammed.
+
+A minute later the old man shouted, I think, to his son. Then there was a great noise which I will not describe more particularly, and a dreadful screaming and crying inside the house and a sound of rushing feet. They all cried out at once to each other. I heard the daughter crying, “it is no good, mother, he is dead, indeed they have killed him,” and Mrs. Griffith screaming to the girl to let her go. And then one of them rushed out of the kitchen and shot the great bolts of oak across the door, just as something beat against it with a thundering crash.
+
+I ran downstairs. I found them all in wild confusion, in an agony of grief and horror and amazement. They were like people who had seen something so awful that they had gone mad.
+
+I went to the window looking out on the farmyard. I won’t tell you all that I saw. But I saw poor old Griffith lying by the pond, with the blood pouring out of his side.
+
+===Chinese===
+
+塞克雷坦先生的遗言
+
+那晚我睡得不好，一次次从不安稳的梦里醒来，睡梦里仿佛听见古怪的呼喊声、嘈杂声，还有一种低语和扑打门户的声息。还有深沉空洞的嗓音在我梦里回荡；醒来时，只听见秋风在我们头顶的山上哀号。有一次我惊跳起来，耳边一声惨叫；可随后满屋寂静，我又坠入不安的睡眠。
+
+天刚亮我才真正醒来。屋里的人高声交谈着，为一件我不明白的事争执。
+
+“准是那些该死的吉卜赛人，我跟你说，”老格里菲思说。
+
+“他们干这种事图什么呀？”格里菲思太太问。“要是偷东西倒也罢了——”
+
+“多半是约翰·詹金斯挟恨干的，”儿子说。“他说过，等我们逮着他偷猎，有他好受的。”
+
+照我能听出的，他们又困惑又气愤，却一点也不害怕。我起床穿衣。我想我没有朝窗外看。梳妆台上的镜子又高又宽，窗户又小；人得把头从镜子边上探出去才看得见什么。
+
+楼下的声音还在争执。我听见老头子说：“嗯，不管怎样，这算是个开头。”随后门砰的一声。
+
+一分钟后老头子喊了起来，我想是喊他儿子。随后是一阵我不愿细描的巨响，屋里一片凄厉的哭喊，一阵奔逃的脚步。他们同时互相叫喊着。我听见女儿哭着说：“没有用了，妈，他死了，他们真把他杀了，”格里菲思太太尖叫着叫姑娘放开她。随后有人从厨房冲出来，把那几根大橡木门闩咔啦推上，正好什么东西轰的一声砸在门上。
+
+我跑下楼。见他们乱作一团，悲痛、恐怖、惊愕交织。他们像看见了什么可怕到令人发疯的东西的人。
+
+我走到朝场院的窗前。我不把看见的都告诉你。可我看见可怜的老格里菲思躺在池塘边，血从他胁下涌出来。
+
+===Original===
+
+I wanted to go out to him and bring him in. But they told me that he must be stone dead, and such things also that it was quite plain that anyone who went out of the house would not live more than a moment. We could not believe it, even as we gazed at the body of the dead man; but it was there. I used to wonder sometimes what one would feel like if one saw an apple drop from the tree and shoot up into the air and disappear. I think I know now how one would feel.
+
+Even then we couldn’t believe that it would last. We were not seriously afraid for ourselves. We spoke of getting out in an hour or two, before dinner anyhow. It couldn’t last, because it was impossible. Indeed, at twelve o’clock young Griffith said he would go down to the well by the back way and draw another pail of water. I went to the door and stood by it. He had not gone a dozen yards before they were on him. He ran for his life, and we had all we could do to bar the door in time. And then I began to get frightened.
+
+Still we could not believe in it. Somebody would come along shouting in an hour or two and it would all melt away and vanish. There could not be any real danger. There was plenty of bacon in the house, and half the weekly baking of loaves and some beer in the cellar and a pound or so of tea, and a whole pitcher of water that had been drawn from the well the night before. We could do all right for the day and in the morning it would have all gone away.
+
+But day followed day and it was still there. I knew Treff Loyne was a lonely place﻿—that was why I had gone there, to have a long rest from all the jangle and rattle and turmoil of London, that makes a man alive and kills him too. I went to Treff Loyne because it was buried in the narrow valley under the ash trees, far away from any track. There was not so much as a footpath that was near it; no one ever came that way. Young Griffith had told me that it was a mile and a half to the nearest house, and the thought of the silent peace and retirement of the farm used to be a delight to me.
+
+===Chinese===
+
+我想出去把他抬进来。可他们告诉我，他必是死透了，又说了一些话，大意很清楚：谁出这屋子，活不过一刻。我们不信，虽然我们眼睁睁望着死人的尸首；可它就在那里。我从前有时纳闷，人若看见一只苹果从树上落下、却射上半空不见了，心里会是什么滋味。我想我如今知道了。
+
+即便那时我们也不信这会持久。我们并不真为自己害怕。我们说着一两个钟头、至迟午饭前就出去。它持久不了，因为它不可能。真的，十二点钟的时候，小格里菲思说，他要走后门下井里再打一桶水。我走到门边立着。他走出去不到十几码，它们就扑上了他。他逃命，我们好容易才及时把门闩上。从那时起我才开始害怕。
+
+可我们仍旧不能相信。总有人会路过、会喊叫，一两个钟头后它就会烟消云散。不可能真有什么危险。屋里培根有的是，一星期烤的面包还剩一半，地窖里有啤酒，一磅来茶叶，还有前一晚从井里打上来的一整罐水。这一天尽对付得过去，到早晨它自会烟消云散。
+
+可一天连着一天，它还在那里。我原知道特雷夫洛因是个孤绝的地方——我为这个才去那里的，想从伦敦的喧嚣、嘈杂和纷扰里长久歇一歇；那些东西使人活着，也杀死人。我去特雷夫洛因，正因为它埋在白蜡树下的窄谷里，远离一切路径。连一条像样的人行道也不通它；谁也不走那边。小格里菲思告诉过我，到最近的人家也有一英里半；这农场的静默、清寂，从前想来是叫我心喜的。
+
+===Original===
+
+And now this thought came back without delight, with terror. Griffith thought that a shout might be heard on a still night up away on the Allt, “if a man was listening for it,” he added, doubtfully. My voice was clearer and stronger than his, and on the second night I said I would go up to my bedroom and call for help through the open window. I waited till it was all dark and still, and looked out through the window before opening it. And then I saw over the ridge of the long barn across the yard what looked like a tree, though I knew there was no tree there. It was a dark mass against the sky, with widespread boughs, a tree of thick, dense growth. I wondered what this could be, and I threw open the window, not only because I was going to call for help, but because I wanted to see more clearly what the dark growth over the barn really was.
+
+I saw in the depth of the dark of it points of fire, and colors in light, all glowing and moving, and the air trembled. I stared out into the night, and the dark tree lifted over the roof of the barn and rose up in the air and floated towards me. I did not move till at the last moment when it was close to the house; and then I saw what it was and banged the window down only just in time. I had to fight, and I saw the tree that was like a burning cloud rise up in the night and sink again and settle over the barn.
+
+I told them downstairs of this. They sat with white faces, and Mrs. Griffith said that ancient devils were let loose and had come out of the trees and out of the old hills because of the wickedness that was on the earth. She began to, murmur something to herself, something that sounded to me like broken-down Latin.
+
+I went up to my room again an hour later, but the dark tree swelled over the barn. Another day went by, and at dusk I looked out, but the eyes of fire were watching me. I dared not open the window.
+
+===Chinese===
+
+如今这念头回来了，不带喜，只带怕。格里菲思想，一个无风的夜里，喊声也许传得上阿勒特山顶，“要是有人专门听着的话，”他又疑疑惑惑地补一句。我的嗓音比他清亮、比他足，第二天夜里我说，我要上楼到卧房里，开着窗呼救。我等到全黑全静了，先隔窗望了望才开窗。于是，隔着场院，在长谷仓的屋脊上，我望见一样像树的东西，虽然我知道那里没有树。那是一团逆着天的黑影，枝柯四张，一棵枝叶浓密的树。我纳闷这是什么，推开窗——不单因为要呼救，也因为想看清楚谷仓上头那团黑影究竟是什么。
+
+我在它浓黑的深处看见火的点子，光里的颜色，全都灼灼发亮、移动不停，空气也在颤。我朝夜外凝望，那黑树从谷仓屋顶上抬起来，升上空中，朝我浮来。直到最后一刻它挨近房子了我才动；随后我看清了它是什么，咔地一声把窗放下，只差那么一点。我不得不搏斗，我看见那棵像燃烧的云的树在夜里升起来，又落下去，覆在谷仓上。
+
+我把这告诉了楼下的人。他们坐着，脸雪白，格里菲思太太说，古老的魔鬼放出来了，从树里、从古老的山里出来了，因为地上满了罪恶。她开始对自己喃喃念叨什么，那声音在我听来像破碎的拉丁文。
+
+一个钟头后我又上楼回房，可那黑树还在谷仓上头鼓胀着。又过了一天，黄昏时我朝外望，火的眼睛在望着我。我不敢开窗。
+
+===Original===
+
+And then I thought of another plan. There was the great old fireplace, with the round Flemish chimney going high above the house. If I stood beneath it and shouted I thought perhaps the sound might be carried better than if I called out of the window; for all I knew the round chimney might act as a sort of megaphone. Night after night, then, I stood in the hearth and called for help from nine o’clock to eleven. I thought of the lonely place, deep in the valley of the ashtrees, of the lonely hills and lands about it. I thought of the little cottages far away and hoped that my voice might reach to those within them. I thought of the winding lane high on the Allt, and of the few men that came there of nights; but I hoped that my cry might come to one of them.
+
+But we had drunk up the beer, and we would only let ourselves have water by little drops, and on the fourth night my throat was dry, and I began to feel strange and weak; I knew that all the voice I had in my lungs would hardly reach the length of the field by the farm.
+
+It was then we began to dream of wells and fountains, and water coming very cold, in little drops, out of rocky places in the middle of a cool wood. We had given up all meals; now and then one would cut a lump from the sides of bacon on the kitchen wall and chew a bit of it, but the saltness was like fire.
+
+There was a great shower of rain one night. The girl said we might open a window and hold out bowls and basins and catch the rain. I spoke of the cloud with burning eyes. She said “we will go to the window in the dairy at the back, and one of us can get some water at all events,” She stood up with her basin on the stone slab in the dairy and looked out and heard the plashing of the rain, falling very fast. And she unfastened the catch of the window and had just opened it gently with one hand, for about an inch, and had her basin in the other hand. “And then,” said she, “there was something that began to tremble and shudder and shake as it did when we went to the Choral Festival at St. Teilo’s, and the organ played, and there was the cloud and the burning close before me.”
+
+===Chinese===
+
+随后我想出了另一个法子。有一座巨大的老壁炉，那圆滚滚的佛兰芒烟囱高高拔出屋顶。倘若我立在烟囱底下喊，声音也许比从窗里喊传得远；说不定那圆烟囱能当一只扩音喇叭。于是一夜又一夜，我立在壁炉里，从九点到十一点呼救。我想着这地方的孤绝，深深藏在白蜡树的谷底，想着四周孤绝的山丘土地。我想着远处小小的村舍，盼我的声音能传到屋里人的耳中。我想着阿勒特高处那条弯弯的小巷，夜里偶尔走那边的几个人；可我盼我的呼喊能落到其中一个的耳朵里。
+
+可啤酒喝完了，水只许一滴一滴地喝，到第四夜我的喉咙干了，开始觉得虚乏发飘；我知道我肺里的全部声音，也难传出农场那块田的长度。
+
+就在那时我们开始梦见井和泉，梦见水怎样极冷地、一滴一滴地从清凉树林中央的岩缝里渗出来。我们已经断了正餐；时不时有人从厨房墙上的腌肉上割一块，嚼上一小口，可那咸味像火。
+
+有一夜下了场大雨。姑娘说，我们可以开窗，把碗盆伸出去接雨。我说起那团带火眼的云。她说：“我们到后头奶品间窗前去，好歹能接点水。”她端着盆立在奶品间的石板上，朝外望着，听见雨点急急落下的泼溅声。她解开了窗钩，一只手轻轻推开了一寸来宽的缝，另一只手端着盆。“随后，”她说，“有一样东西开始颤动、抖索、摇晃起来，像我们去圣泰洛唱诗节那时一样，风琴奏起来，那团云和那片火就贴在我眼前。”
+
+===Original===
+
+And then we began to dream, as I say. I woke up in my sitting-room one hot afternoon when the sun was shining, and I had been looking and searching in my dream all through the house, and I had gone down to the old cellar that wasn’t used, the cellar with the pillars and the vaulted room, with an iron pike in my hand. Something said to me that there was water there, and in my dream I went to a heavy stone by the middle pillar and raised it up, and there beneath was a bubbling well of cold, clear water, and I had just hollowed my hand to drink it when I woke. I went into the kitchen and told young Griffith. I said I was sure there was water there. He shook his head, but he took up the great kitchen poker and we went down to the old cellar. I showed him the stone by the pillar, and he raised it up. But there was no well.
+
+Do you know, I reminded myself of many people whom I have met in life? I would not be convinced. I was sure that, after all, there was a well there. They had a butcher’s cleaver in the kitchen and I took it down to the old cellar and hacked at the ground with it. The others didn’t interfere with me. We were getting past that. We hardly ever spoke to one another. Each one would be wandering about the house, upstairs and downstairs, each one of us, I suppose, bent on his own foolish plan and mad design, but we hardly ever spoke. Years ago, I was an actor for a bit, and I remember how it was on first nights; the actors treading softly up and down the wings, by their entrance, their lips moving and muttering over the words of their parts, but without a word for one another. So it was with us. I came upon young Griffith one evening evidently trying to make a subterranean passage under one of the walls of the house. I knew he was mad, as he knew I was mad when he saw me digging for a well in the cellar; but neither said anything to the other.
+
+Now we are past all this. We are too weak. We dream when we are awake and when we dream we think we wake. Night and day come and go and we mistake one for another; I hear Griffith murmuring to himself about the stars when the sun is high at noonday, and at midnight I have found myself thinking that I walked in bright sunlit meadows beside cold, rushing streams that flowed from high rocks.
+
+===Chinese===
+
+随后我们开始做梦，如我所说。一个炎热的下午，太阳照着，我在起居室里醒来；我在梦里一直在屋里到处找、到处寻，一直下到那间不用的老地窖，那有柱子、有穹顶的地窖，手里拿着一根铁钎。有什么对我说，那里有水；梦里我走到中柱旁一块重石头前，把它掀起来，底下果然是一眼咕嘟冒泡的井，凉水清冽，我刚要掬水来喝，就醒了。我走进厨房告诉小格里菲思。我说我确信那里有水。他摇头，可他拿起那根大拨火棍，我们下了老地窖。我把柱子旁那块石头指给他看，他掀了起来。可那里没有井。
+
+你可知道，我想起我一生里遇见过的许多人来了。我不肯罢休。我确信那里到底有井。厨房里有把剁肉斧，我把它拿到老地窖，抡起来砍地。别人不来干涉我。我们已经过了那个阶段了。我们几乎彼此不说话。各人在屋里游荡，楼上楼下，我们每一个人，我想，都在打各自愚蠢的算盘、疯狂的主意，可我们几乎不开口。多年以前我做过一阵子演员，我记得首演之夜是怎样的光景：演员们在侧幕里、在上场口轻轻地踱来踱去，嘴唇翕动，默诵着各自角色的台词，彼此却一言不发。我们便是如此。有天傍晚我撞见小格里菲思，他分明在房子一面墙底下挖地道。我知道他疯了，正如他看见我在地窖里掘井时知道我疯了一样；可谁也不对谁说。
+
+如今我们连这个也过去了。我们太虚弱了。醒着的时候做梦，做梦的时候以为醒了。黑夜白昼来了又去，我们彼此错认；正午日头高悬时，我听见格里菲思喃喃说着星星；午夜时分，我发觉自己在想，我正走在阳光灿烂的草场上，走在从高岩奔泻而下的清凉湍溪旁边。
+
+===Original===
+
+Then at the dawn figures in black robes, carrying lighted tapers in their hands pass slowly about and about; and I hear great rolling organ music that sounds as if some tremendous rite were to begin, and voices crying in an ancient song shrill from the depths of the earth.
+
+Only a little while ago I heard a voice which sounded as if it were at my very ears, but rang and echoed and resounded as if it were rolling and reverberated from the vault of some cathedral, chanting in terrible modulations. I heard the words quite clearly.
+
+“*Incipit liber irae Domini Dei nostri.*” (Here beginneth The Book of the Wrath of the Lord our God.)
+
+And then the voice sang the word “Aleph,” prolonging it, it seemed through ages, and a light was extinguished as it began the chapter:
+
+“In that day, saith the Lord, there shall be a cloud over the land, and in the cloud a burning and a shape of fire, and out of the cloud shall issue forth my messengers; they shall run all together, they shall not turn aside; this shall be a day of exceeding bitterness, without salvation. And on every high hill, saith the Lord of Hosts, I will set my sentinels, and my armies shall encamp in the place of every valley; in the house that is amongst rushes I will execute judgment, and in vain shall they fly for refuge to the munitions of the rocks. In the groves of the woods, in the places where the leaves are as a tent above them, they shall find the sword of the slayer; and they that put their trust in walled cities shall be confounded. Woe unto the armed man, woe unto him that taketh pleasure in the strength of his artillery, for a little thing shall smite him, and by one that hath no might shall he be brought down into the dust. That which is low shall be set on high; I will make the lamb and the young sheep to be as the lion from the swellings of Jordan; they shall not spare, saith the Lord, and the doves shall be as eagles on the hill Engedi; none shall be found that may abide the onset of their battle.”
+
+===Chinese===
+
+随后在黎明里，一些穿黑袍的身影，手里擎着点着的细烛，缓缓地绕行又绕行；我听见风琴的音乐滚滚而来，像什么盛大的仪式就要开始，有嗓音用一支古老的歌，从大地的深处尖声哭喊。
+
+就在不久前，我听见一个声音，它听上去贴着我的耳朵，却又震响、回荡、轰鸣，像从一座大教堂的穹顶里滚滚回荡；那声音以可怕的转调吟诵着。那些字我听得清清楚楚。
+
+“Incipit liber irae Domini Dei nostri.”（主我们神的愤怒之书，由此开始。）
+
+随后那声音唱出“阿列夫（Aleph）”这个词，把它拖长，仿佛拖过一个个世代；灯灭了一盏，它开始念这一章：
+
+“那日，主说，地上必有一云，云中有火焚烧、有火的形状，云中必发出我的使者；他们要一同奔跑，并不转身；那必是极度苦痛之日，无有拯救。万军之主说，在每一座高山上，我必设立我的哨兵，我的军队必在每一处谷中扎营；在芦苇丛中的房屋里，我必施行审判，他们投奔岩石的保障也是徒然。在树林的丛林中，在树叶如帐棚遮蔽他们之处，他们必遇见杀戮者的刀剑；倚靠城墙的必致羞愧。佩刀的人有祸了，以他炮火之力为乐的有祸了，微小的东西必击打他，无力气的必将他打倒在地。低微的必升为高；我必使羊羔和小羊如约旦河旁胀水的狮子；他们必不留情，主说；鸽子必如隐基底山上的鹰；无人能抵挡他们的阵前。”
+
+===Original===
+
+Even now I can hear the voice rolling far away, as if it came from the altar of a great church and I stood at the door. There are lights very far away in the hollow of a vast darkness, and one by one they are put out. I hear a voice chanting again with that endless modulation that climbs and aspires to the stars, and shines there, and rushes down to the dark depths of the earth, again to ascend; the word is “Zain.”
+
+Here the manuscript lapsed again, and finally into utter, lamentable confusion. There were scrawled lines wavering across the page on which Secretan seemed to have been trying to note the unearthly music that swelled in his dying ears. As the scrapes and scratches of ink showed, he had tried hard to begin a new sentence. The pen had dropped at last out of his hand upon the paper, leaving a blot and a smear upon it.
+
+Lewis heard the tramp of feet along the passage; they were carrying out the dead to the cart.
+
+===Chinese===
+
+至今我仍能听见那声音远远滚动，像从一座大教堂的祭坛传来，而我立在门口。极远的黑暗的洼处有灯火，一盏一盏地熄了。我听见一个声音又吟诵起来，带着那无穷无尽的转调，攀上星空，在那里闪耀，又泻下大地的黑暗深处，再度上升；那词是“扎因（Zain）”。
+
+手稿到这里又断了，末了断成一片无法辨识的哀乱。一页页上歪歪斜斜画着潦草的线，塞克雷坦似乎想把在他垂死的耳中涨起来的那非人间的音乐记下来。从墨水的划痕看，他曾竭力想起新句。笔终于从他手里落在纸上，留下一团墨渍和一片涂抹。
+
+刘易斯听见过道里一阵脚步；他们正把死者抬出去上车。
+
+## XIV / 十四
+
+## XIV /
+
+## XIV / 
+===Original===
+
+The End of the Terror
+
+Dr. Lewis maintained that we should never begin to understand the real significance of life until we began to study just those aspects of it which we now dismiss and overlook as utterly inexplicable, and therefore, unimportant.
+
+We were discussing a few months ago the awful shadow of the terror which at length had passed away from the land. I had formed my opinion, partly from observation, partly from certain facts which had been communicated to me, and the passwords having been exchanged, I found that Lewis had come by very different ways to the same end.
+
+“And yet,” he said, “it is not a true end, or rather, it is like all the ends of human inquiry, it leads one to a great mystery. We must confess that what has happened might have happened at any time in the history of the world. It did not happen till a year ago as a matter of fact, and therefore we made up our minds that it never could happen; or, one would better say, it was outside the range even of imagination. But this is our way. Most people are quite sure that the Black Death﻿—otherwise the Plague﻿—will never invade Europe again. They have made up their complacent minds that it was due to dirt and bad drainage. As a matter of fact the Plague had nothing to do with dirt or with drains; and there is nothing to prevent its ravaging England tomorrow. But if you tell people so, they won’t believe you. They won’t believe in anything that isn’t there at the particular moment when you are talking to them. As with the Plague, so with the Terror. We could not believe that such a thing could ever happen. Remnant said, truly enough, that whatever it was, it was outside theory, outside our theory. Flatland cannot believe in the cube or the sphere.”
+
+I agreed with all this. I added that sometimes the world was incapable of seeing, much less believing, that which was before its own eyes.
+
+“Look,” I said, “at any eighteenth century print of a Gothic cathedral. You will find that the trained artistic eye even could not behold in any true sense the building that was before it. I have seen an old print of Peterborough Cathedral that looks as if the artist had drawn it from a clumsy model, constructed of bent wire and children’s bricks.”
+
+===Chinese===
+
+恐惧的终结
+
+刘易斯医生坚持认为，直到我们开始研究生命中那些我们如今斥为全然无法解释、因而无足轻重而撇开不顾的方面之前，我们永远不会开始理解生命的真正意义。
+
+几个月前，我们讨论过那终于从这片土地上退去的恐惧的可怕阴影。我已形成了我的见解，一半凭观察，一半凭传达给我的某些事实；口令对过之后，我发现刘易斯从很不同的路走到了同一个终点。
+
+“然而，”他说，“这不是一个真正的终点；或者说，它像人类一切探究的终点，把人引到一座巨大的奥秘跟前。我们必须承认，已经发生的这些事，本可以在世界史上的任何时代发生。而事实上直到一年前它才发生，于是我们断定它永不可能发生；或者不如说，它甚至在想象力的范围之外。可我们便是这样。大多数人深信黑死病——也就是鼠疫——永不会再侵入欧洲。他们打定了那个自满的主意：它源于肮脏和糟糕的下水道。事实上鼠疫同肮脏或下水道毫不相干；也没有什么能阻止它明天再来蹂躏英格兰。可你这样告诉人们，他们不信。凡不在他们同你说话的那一刻现成摆着的东西，他们一概不信。鼠疫如此，恐惧也如此。我们不能相信这样的事竟会发生。雷姆南特说得实在不错：不管它是什么，它在理论之外，在我们的理论之外。平面国（Flatland）不能相信立方体，也不能相信球。”
+
+这一切我都同意。我补充说，有时候，世界没有能力看见、更谈不上相信那摆在它自己眼前的东西。
+
+“你看，”我说，“任何一张十八世纪的哥特式大教堂的版画。你会发现，就连训练有素的艺术之眼，也不能在真正的意义上看见摆在他面前的建筑。我见过一张彼得伯勒大教堂（Peterborough Cathedral）的老版画，那大教堂画得像艺术家照着一个笨拙的模型描的，模型是铁丝弯的、积木搭的。”
+
+===Original===
+
+“Exactly; because Gothic was outside the aesthetic theory (and therefore vision) of the time. You can’t believe what you don’t see: rather, you can’t see what you don’t believe. It was so during the time of the Terror. All this bears out what Coleridge said as to the necessity of having the idea before the facts could be of any service to one. Of course, he was right; mere facts, without the correlating idea, are nothing and lead to no conclusion. We had plenty of facts, but we could make nothing of them. I went home at the tail of that dreadful procession from Treff Loyne in a state of mind very near to madness. I heard one of the soldiers saying to the other: ‘There’s no rat that’ll spike a man to the heart, Bill.’ I don’t know why, but I felt that if I heard any more of such talk as that I should go crazy; it seemed to me that the anchors of reason were parting. I left the party and took the shortcut across the fields into Porth. I looked up Davies in the High Street and arranged with him that he should take on any cases I might have that evening, and then I went home and gave my man his instructions to send people on. And then I shut myself up to think it all out﻿—if I could.
+
+“You must not suppose that my experiences of that afternoon had afforded me the slightest illumination. Indeed, if it had not been that I had seen poor old Griffith’s body lying pierced in his own farmyard, I think I should have been inclined to accept one of Secretan’s hints, and to believe that the whole family had fallen a victim to a collective delusion or hallucination, and had shut themselves up and died of thirst through sheer madness. I think there have been such cases. It’s the insanity of inhibition, the belief that you can’t do something which you are really perfectly capable of doing. But; I had seen the body of the murdered man and the wound that had killed him.
+
+===Chinese===
+
+“正是；因为哥特式在那时代的美学理论（因而也是视觉）之外。你不能相信你看不见的东西；不如说，你不能看见你不相信的东西。恐惧流行的整个时期便是如此。这一切印证了柯勒律治（Coleridge）的话：必须先有观念，事实才能于人有用。他当然是对的；单有事实而没有起关联作用的观念，什么也不是，得不出任何结论。我们有的是事实，可我们从中理不出名堂。我跟在那支从特雷夫洛因出发的可怕的送葬行列的末尾回家，心里那种状态近乎发疯。我听见一个士兵对另一个说：‘没有哪只老鼠会用尖桩把人钉穿心脏的，比尔。’不知为什么，我觉得再听一句这样的话我就要疯了；仿佛理性的锚一个个崩断了。我离开那一队人，取近路穿过田野进了波斯。我在大街上寻到戴维斯，同他说好，我当晚可能有病人都归他；随后我回到家，吩咐我的仆人把来客往他那里引。然后我把自己关起来，把这一切想个透——倘若想得透。
+
+“你别以为那天下午的经历给了我丝毫的启发。的确，若不是我亲眼见过可怜的老格里菲思被刺穿在他自己的场院里，我想我多半会接受塞克雷坦暗示中的一个，认为那一家人是集体妄想或幻觉的牺牲品，把自己关在屋里，活活疯了、渴死了。我想是有过这样的病例的。那是禁制性的疯狂，是相信自己做不成某件其实完全做得到的事的信念。可是，我见过那被杀者的尸身和那致命的伤口。
+
+===Original===
+
+“Did the manuscript left by Secretan give me no hint? Well, it seemed to me to make confusion worse confounded. You have seen it; you know that in certain places it is evidently mere delirium, the wanderings of a dying mind. How was I to separate the facts from the phantasms﻿—lacking the key to the whole enigma. Delirium is often a sort of cloud-castle, a sort of magnified and distorted shadow of actualities, but it is a very difficult thing, almost an impossible thing, to reconstruct the real house from the distortion of it, thrown on the clouds of the patient’s brain. You see, Secretan in writing that extraordinary document almost insisted on the fact that he was not in his proper sense; that for days he had been part asleep, part awake, part delirious. How was one to judge his statement, to separate delirium from fact? In one thing he stood confirmed; you remember he speaks of calling for help up the old chimney of Treff Loyne; that did seem to fit in with the tales of a hollow, moaning cry that had been heard upon the Allt: so far one could take him as a recorder of actual experiences. And I looked in the old cellars of the farm and found a frantic sort of rabbit-hole dug by one of the pillars; again he was confirmed. But what was one to make of that story of the chanting voice, and the letters of the Hebrew alphabet, and the chapter out of some unknown Minor Prophet? When one has the key it is easy enough to sort out the facts, or the hints of facts from the delusions; but I hadn’t the key on that September evening. I was forgetting the ‘tree’ with lights and fires in it; that, I think, impressed me more than anything with the feeling that Secretan’s story was, in the main, a true story. I had seen a like appearance down there in my own garden; but what was it?
+
+“Now, I was saying that, paradoxically, it is only by the inexplicable things that life can be explained. We are apt to say, you know, ‘a very odd coincidence’ and pass the matter by, as if there were no more to be said, or as if that were the end of it. Well, I believe that the only real path lies through the blind alleys.”
+
+“How do you mean?”
+
+===Chinese===
+
+“塞克雷坦留下的手稿没有给我提示么？嗯，它在我看来只是把混乱搅得更乱。你见过它；你知道有些地方分明是谵妄，是一颗垂死心灵的游语。缺了那把解开全谜的钥匙，我怎样把事实同幻象分开？谵妄往往是一种空中楼阁，是实际事物放大而歪曲的影子；可要从投在病人脑海之云上的那歪曲影像里重构出真实的房子，是一件非常难、几乎不可能的事。你看，塞克雷坦写那份非同寻常的文件时，几乎是执意申明自己神志不清；说他一连几天半睡半醒、半醒半谵。对他的陈述怎么下判断，怎么把谵妄同事实分开？有一件事他站得住；你记得他说起对着特雷夫洛因的老烟囱呼救；这倒同阿勒特山上听见的那种空洞哀号的传说对得上：到这里为止，可以把他当作实际经历的记录者。我在农舍的老地窖里查看过，在一个柱子旁边发现过一个疯狂掘出的兔子洞似的坑；这一处他又被证实了。可那吟诵的声音、希伯来字母、还有那出自某位无名小先知的一章，又该怎么看？有了钥匙，把事实、或事实的暗示从妄想里挑出来本不费难；可那个九月的黄昏，我手里没有钥匙。我差点忘了那棵有灯火火焰的‘树’；我想，正是它最让我感到塞克雷坦的故事大体上是个真故事。类似的景象，我在自己家的园子里朝下望时见过；可那是什么呢？
+
+“刚才我说，说也奇怪，唯有凭着无法解释的事物，生命才能得到解释。我们惯会说‘真是无巧不成书’，便把这事情撂在一边，仿佛再没什么可说的，仿佛这就到头了。嗯，我相信，唯一的路恰恰穿过那些死胡同。”
+
+“怎么讲？”
+
+===Original===
+
+“Well, this is an instance of what I mean. I told you about Merritt, my brother-in-law, and the capsizing of that boat, the *Mary Ann*. He had seen, he said, signal lights flashing from one of the farms on the coast, and he was quite certain that the two things were intimately connected as cause and effect. I thought it all nonsense, and I was wondering how I was going to shut him up when a big moth flew into the room through that window, fluttered about, and succeeded in burning itself alive in the lamp. That gave me my cue; I asked Merritt if he knew why moths made for lamps or something of the kind; I thought it would be a hint to him that I was sick of his flashlights and his half-baked theories. So it was﻿—he looked sulky and held his tongue.
+
+“But a few minutes later I was called out by a man who had found his little boy dead in a field near his cottage about an hour before. The child was so still, they said, that a great moth had settled on his forehead and only fluttered away when they lifted up the body. It was absolutely illogical; but it was this odd ‘coincidence’ of the moth in my lamp and the moth on the dead boy’s forehead that first set me on the track. I can’t say that it guided me in any real sense; it was more like a great flare of red paint on a wall; it rang up my attention, if I may say so; it was a sort of shock like a bang on the big drum. No doubt Merritt was talking great nonsense that evening so far as his particular instance went; the flashes of light from the farm had nothing to do with the wreck of the boat. But his general principle was sound; when you hear a gun go off and see a man fall it is idle to talk of ‘a mere coincidence.’ I think a very interesting book might be written on this question: I would call it ‘A Grammar of Coincidence.’
+
+===Chinese===
+
+“嗯，我这就有个现成的例子。我同你讲过我内兄梅里特，还有那条翻掉的船，‘玛丽·安号’。他看见——他这么说——沿海一座农场上打出信号灯，便咬定这两件事作为因果紧密相连。我认为全是胡说，正想着怎么堵他的嘴，一只大飞蛾从那扇窗飞进屋来，扑腾一阵，成功地把自己活活烧死在灯里。这倒给了我话头；我问梅里特可知道飞蛾为什么扑灯，之类的话；我想给他个暗示：他那套闪光灯和半生不熟的理论我听腻了。效果也有——他沉着脸不言语了。
+
+“可几分钟之后，有人来请我出诊；那人的小儿子一个来钟头前死在自家小屋近旁的田里。孩子安静得很，他们说，一只大飞蛾停在他额头上，直到人们抱起尸身才飞走。这全然不合逻辑；可正是灯里一只蛾、死孩子额上一只蛾这个古怪的‘巧合’，头一回把我引上了正路。我不能说它真正指引了我；它更像涂在墙上的一大抹红漆；可以说，它唤起了我的注意；它像大鼓上重重一击那样的一个震动。无疑，那天晚上就他那桩个例而言，梅里特说的全是昏话；农场的闪光同那条船的失事毫无干系。可他的一般原则是对的：听见一声炮响又看见一个人倒下，再谈‘纯属巧合’便是空话。我想这个问题上倒可以写一本很有意思的书；书名我就叫《巧合的文法》。
+
+===Original===
+
+“But as you will remember, from having read my notes on the matter, I was called in about ten days later to see a man named Cradock, who had been found in a field near his farm quite dead. This also was at night. His wife found him, and there were some very queer things in her story. She said that the hedge of the field looked as if it were changed; she began to be afraid that she had lost her way and got into the wrong field. Then she said the hedge was lighted up as if there were a lot of glowworms in it, and when she peered over the stile there seemed to be some kind of glimmering upon the ground, and then the glimmering melted away, and she found her husband’s body near where this light had been. Now this man Cradock had been suffocated just as the little boy Roberts had been suffocated, and as that man in the Midlands who took a shortcut one night had been suffocated. Then I remembered that poor Johnnie Roberts had called out about ‘something shiny’ over the stile just before he played truant. Then, on my part, I had to contribute the very remarkable sight I witnessed here, as I looked down over the garden; the appearance as of a spreading tree where I knew there was no such tree, and then the shining and burning of lights and moving colors. Like the poor child and Mrs. Cradock, I had seen something shiny, just as some man in Stratfordshire had seen a dark cloud with points of fire in it floating over the trees. And Mrs. Cradock thought that the shape of the trees in the hedge had changed.
+
+===Chinese===
+
+“可你记得的，从你读过的我的那些笔记里也可以看到，约十天后我被人请去看一个姓克拉多克的人，他被发现死在自己农场近旁的田里，死透了。这也是在夜里。他的妻子找到他的，她的故事里有几样顶古怪的东西。她说，那块田的篱笆像是变了样；她开始害怕自己走错了路，走错了田。随后她说篱笆亮着，像里面落了一群萤火虫；她从台阶上张望时，地上似乎有一种微光，随后微光化开了，她就在那光待过的地方附近找到丈夫的尸身。这个克拉多克是被闷死的，同小罗伯茨男孩的死法一样，同中部地区那个某夜抄近路的人的死法一样。随后我想起，可怜的约翰尼·罗伯茨走失前喊过台阶上头有‘什么亮晶晶的东西’。再往下，就该轮到我贡献我自己在这里亲眼看见的那一幕奇景了；我朝园子下面望过去，看见一棵铺展开来的树的幻象，在我明知没有树的地方；随后是灯火与流转的颜色的明灭燃烧。像那可怜的孩子和克拉多克太太一样，我看见了什么亮晶晶的东西，正像斯特拉特福德郡有人在树上望见一团带火点的黑云。而克拉多克太太觉得篱笆里树木的形状变了。
+
+===Original===
+
+“My mind almost uttered the word that was wanted; but you see the difficulties. This set of circumstances could not, so far as I could see, have any relation with the other circumstances of the Terror. How could I connect all this with the bombs and machine-guns of the Midlands, with the armed men who kept watch about the munition shops by day and night. Then there was the long list of people here who had fallen over the cliffs or into the quarry; there were the cases of the men stifled in the slime of the marshes; there was the affair of the family murdered in front of their cottage on the Highway; there was the capsized *Mary Ann*. I could not see any thread that could bring all these incidents together; they seemed to me to be hopelessly disconnected. I could not make out any relation between the agency that beat out the brains of the Williams’s and the agency that overturned the boat. I don’t know, but I think it’s very likely if nothing more had happened that I should have put the whole thing down as an unaccountable series of crimes and accidents which chanced to occur in Meirion in the summer of 1915. Well, of course, that would have been an impossible standpoint in view of certain incidents in Merritt’s story. Still, if one is confronted by the insoluble, one lets it go at last. If the mystery is inexplicable, one pretends that there isn’t any mystery. That is the justification for what is called free thinking.
+
+“Then came that extraordinary business of Treff Loyne. I couldn’t put that on one side. I couldn’t pretend that nothing strange or out of the way had happened. There was no getting over it or getting round it. I had seen with my eyes that there was a mystery, and a most horrible mystery. I have forgotten my logic, but one might say that Treff Loyne demonstrated the existence of a mystery in the figure of Death.
+
+===Chinese===
+
+“我的头脑几乎要说出那个需要的词了；可你看难处所在。照我所能看的，这一组情况同恐惧的其它情况不可能有什么关联。我怎么能把这些同中部地区的炸弹和机枪联系起来，同那些日夜持枪看守军火工厂的武装人员联系起来？再说这里还有一长串坠崖、坠采石场的人；有闷死在沼泽泥浆里的人的案子；有在公路上自家小屋门前被害的一家人；有翻掉的‘玛丽·安号’。我看不出有任何一根线能把这一切串到一起；在我眼里它们是没有指望地互不相干。我看不出打碎威廉斯一家人脑袋的那股力量，同掀翻那条船的那股力量之间有什么关系。我不知道，可我想，倘若再没有别的事发生，我很可能把整个事情归结为一连串无从解释的罪案与祸事，恰巧发生在一九一五年夏天的梅里昂。嗯，当然，鉴于梅里特故事里的某些情节，那会是一个站不住的立场。话虽如此，人面对无解之事，到头来也就由它去了。谜若不可解，人便装作没有谜。这便是所谓自由思想的辩词。
+
+“随后来了特雷夫洛因那桩奇案。我没法把它放在一边。我没法假装没有出过什么古怪出格的事。绕不过去，也绕不开。我亲眼看见了一个谜，一个可怕至极的谜。我的逻辑丢了，可不妨这样说：特雷夫洛因以‘死亡’这个形相，证明了谜的存在。
+
+===Original===
+
+“I took it all home, as I have told you, and sat down for the evening before it. It appalled me, not only by its horror, but here again by the discrepancy between its terms. Old Griffith, so far as I could judge, had been killed by the thrust of a pike or perhaps of a sharpened stake: how could one relate this to the burning tree that had floated over the ridge of the barn. It was as if I said to you: ‘here is a man drowned, and here is a man burned alive: show that each death was caused by the same agency!’ And the moment that I left this particular case of Treff Loyne, and tried to get some light on it from other instances of the Terror, I would think of the man in the Midlands who heard the feet of a thousand men rustling in the wood, and their voices as if dead men sat up in their bones and talked. And then I would say to myself, ‘and how about that boat overturned in a calm sea?’ There seemed no end to it, no hope of any solution.
+
+“It was, I believe, a sudden leap of the mind that liberated me from the tangle. It was quite beyond logic. I went back to that evening when Merritt was boring me with his flashlights, to the moth in the candle, and to the moth on the forehead of poor Johnnie Roberts. There was no sense in it; but I suddenly determined that the child and Joseph Cradock the farmer, and that unnamed Stratfordshire man, all found at night, all asphyxiated, had been choked by vast swarms of moths. I don’t pretend even now that this is demonstrated, but I’m sure it’s true.
+
+“Now suppose you encounter a swarm of these creatures in the dark. Suppose the smaller ones fly up your nostrils. You will gasp for breath and open your mouth. Then, suppose some hundreds of them fly into your mouth, into your gullet, into your windpipe, what will happen to you? You will be dead in a very short time, choked, asphyxiated.”
+
+“But the moths would be dead too. They would be found in the bodies.”
+
+“The moths? Do you know that it is extremely difficult to kill a moth with cyanide of potassium? Take a frog, kill it, open its stomach. There you will find its dinner of moths and small beetles, and the ‘dinner’ will shake itself and walk off cheerily, to resume an entirely active existence. No; that is no difficulty.
+
+===Chinese===
+
+“我把这一切带回家，如我告诉过你的，整晚坐在它面前。它叫我胆寒，不单因它的恐怖，也因这里又一次出现的词项间的扞格。老格里菲思，照我所能判断的，是被长矛、也许是一根削尖的木桩刺死的：这怎么能同那棵从谷仓屋脊上浮过来的燃烧的树挂上钩？这就仿佛我对你说：‘这里是淹死的人，这里是活活烧死的人：请证明两种死出诸同一只手！’而当我一离开特雷夫洛因这个个案，想从恐惧的其它实例里讨一点光，我就想起中部地区那个人，听见一千个人的脚步在林子里窸窣作响，听见他们的嗓音，像死人坐在自己的骨头里说话。随后我对自己说：‘那条在平静海面上翻掉的船又怎么说？’看来没有尽头，没有任何解答的希望。
+
+“把我从这团乱麻里解放出来的，我相信，是心智的一次突然的跳跃。它全然超出逻辑。我回到梅里特拿他的闪光灯烦我的那个夜晚，回到烛里的飞蛾，回到可怜的约翰尼·罗伯茨额头上的飞蛾。这里头毫无道理；可我突然断定：那孩子，农夫约瑟夫·克拉多克，还有那个没留下姓名的斯特拉特福德郡人，都是在夜里被找到的，都是窒息死的，全都是被大群大群的飞蛾堵死了呼吸。哪怕现在我也不装作这已经论证成立，可我确信它是真的。
+
+“现在设想你在黑暗里撞见这样一群东西。设想小一些的飞进你的鼻孔。你会喘气，会张开嘴。随后，设想几百只飞进你的嘴，飞进你的食管、你的气管，你会怎样？很短的时间内你就会死掉，堵住，窒息。”
+
+“可飞蛾也会死掉。尸身里会找到它们的。”
+
+“飞蛾？你可知道，用氰化钾杀死一只飞蛾是极其困难的？拿一只青蛙，弄死它，剖开它的胃。你会在里面找到它那顿飞蛾和甲虫的‘晚餐’，而那顿‘晚餐’会抖一抖身子，快快活活走开，重过十足活跃的日子。不；那算不得难处。
+
+===Original===
+
+“Well, now I came to this. I was shutting out all the other cases. I was confining myself to those that came under the one formula. I got to the assumption or conclusion, whichever you like, that certain people had been asphyxiated by the action of moths. I had accounted for that extraordinary appearance of burning or colored lights that I had witnessed myself, when I saw the growth of that strange tree in my garden. That was clearly the cloud with points of fire in it that the Stratfordshire man took for a new and terrible kind of poison gas, that was the shiny something that poor little Johnnie Roberts had seen over the stile, that was the glimmering light that had led Mrs. Cradock to her husband’s dead body, that was the assemblage of terrible eyes that had watched over Treff Loyne by night. Once on the right track I understood all this, for coming into this room in the dark, I have been amazed by the wonderful burning and the strange fiery colors of the eyes of a single moth, as it crept up the pane of glass, outside. Imagine the effect of myriads of such eyes, of the movement of these lights and fires in a vast swarm of moths, each insect being in constant motion while it kept its place in the mass: I felt that all this was clear and certain.
+
+“Then the next step. Of course, we know nothing really about moths; rather, we know nothing of moth reality. For all I know there may be hundreds of books which treat of moth and nothing but moth. But these are scientific books, and science only deals with surfaces; it has nothing to do with realities﻿—it is impertinent if it attempts to do with realities. To take a very minor matter; we don’t even know why the moth desires the flame. But we do know what the moth does not do; it does not gather itself into swarms with the object of destroying human life. But here, by the hypothesis, were cases in which the moth had done this very thing; the moth race had entered, it seemed, into a malignant conspiracy against the human race. It was quite impossible, no doubt﻿—that is to say, it had never happened before﻿—but I could see no escape from this conclusion.
+
+===Chinese===
+
+“嗯，于是我走到了这一步。我把其它一切病例都撇在一边。我只把自己局限在归得进同一个公式之下的那些病例里。我达到这样一个设定——或者结论，随你怎么叫：某些人是被飞蛾的作为窒息死的。我自己亲眼目睹的那一幕燃烧彩色之光的奇观——我在园子里望见那棵怪树生长——也有了着落。那分明就是斯特拉特福德郡人当作新式可怕毒气的那团带火点的云；就是可怜的小约翰尼·罗伯茨在台阶上望见的那个亮晶晶的东西；就是把克拉多克太太引到她丈夫尸身旁的那团微光；就是夜里守在特雷夫洛因上空的那一大团可怕的眼睛。一旦上了正路，这一切我都明白了；因为黑暗中走进这间屋子时，我曾为单独一只飞蛾那奇妙的燃烧、那火焰般的异色而惊叹，看它在窗玻璃外面向上爬。想象无数只这样的眼睛，想象这些灯火与光焰在一大群飞蛾里的流动，每一只虫都在不停地动、又保持它在群里的位置：我觉得这一切又清楚，又确凿。
+
+“随后是下一步。当然，关于飞蛾我们其实一无所知；不如说，关于飞蛾的实在，我们一无所知。据我所知，专讲飞蛾、只讲飞蛾的书也许有几百本。可那是科学书籍，而科学只对付表面；它同实在毫无干系——它若想染指实在，便是僭越。举一件顶小的事：我们甚至不知道飞蛾为什么恋火。可我们确实知道飞蛾不做的一件事：它不以毁人性命为目的聚成大群。可在这里，照这个假设，偏偏就有了飞蛾干出这等事的病例；飞蛾一族，看来是卷入了一场针对人类的恶毒阴谋。这无疑绝无可能——也就是说，它先前从未发生过——可我看不出怎样逃出这个结论。
+
+===Original===
+
+“These insects, then, were definitely hostile to man; and then I stopped, for I could not see the next step, obvious though it seems to me now. I believe that the soldiers’ scraps of talk on the way to Treff Loyne and back flung the next plank over the gulf. They had spoken of ‘rat poison,’ of no rat being able to spike a man through the heart; and then, suddenly, I saw my way clear. If the moths were infected with hatred of men, and possessed the design and the power of combining against him; why not suppose this hatred, this design, this power shared by other nonhuman creatures.
+
+“The secret of the Terror might be condensed into a sentence: the animals had revolted against men.
+
+“Now, the puzzle became easy enough; one had only to classify. Take the cases of the people who met their deaths by falling over cliffs or over the edge of quarries. We think of sheep as timid creatures, who always ran away. But suppose sheep that don’t run away; and, after all, in reason why should they run away? Quarry or no quarry, cliff or no cliff; what would happen to you if a hundred sheep ran after you instead of running from you? There would be no help for it; they would have you down and beat you to death or stifle you. Then suppose man, woman, or child near a cliff’s edge or a quarry-side, and a sudden rush of sheep. Clearly there is no help; there is nothing for it but to go over. There can be no doubt that that, is what happened in all these cases.
+
+===Chinese===
+
+“这些虫子于是分明与人族为敌；随后我停住了，因为我看不见下一步，虽然如今它在我眼里显而易见。我相信，是去特雷夫洛因来回路上士兵们的只言片语，把下一块跳板搭过了深渊。他们说起‘耗子药’，说起没有哪只耗子能把人钉穿心脏；随后，猛然间，我豁然开朗。倘若飞蛾感染了对人的憎恨，怀有连结成群以对付人的图谋与力量；为什么不想，这份憎恨、这图谋、这力量，也为其他非人的族类所共有。
+
+“恐惧的秘密可以凝成一句话：动物起来造人的反了。
+
+“于是，难题变得容易了；只须分分类就是。拿那些坠崖、坠采石场边而死的人来说。我们把羊想作怯懦的畜生，见人就逃。可设想羊不逃；说到底，凭什么它们该逃？采石场也罢，不采石场也罢，悬崖也罢，不悬崖也罢；倘若一百只羊追你，而不躲你，你会怎样？没有救的；它们会把你扑倒，打死你，或者闷死你。再设想一个男人、女人或孩子正立在崖边、采石场沿上，羊群突然一涌而来。显然无可解救；只有下去一条路。不必怀疑，所有这些案子出的事正是如此。
+
+===Original===
+
+“And again; you know the country and you know how a herd of cattle will sometimes pursue people through the fields in a solemn, stolid sort of way. They behave as if they wanted to close in on you. Townspeople sometimes get frightened and scream and run; you or I would take no notice, or at the utmost, wave our sticks at the herd, which will stop dead or lumber off. But suppose they don’t lumber off. The mildest old cow, remember, is stronger than any man. What can one man or half a dozen men do against half a hundred of these beasts no longer restrained by that mysterious inhibition, which has made for ages the strong the humble slaves of the weak? But if you are botanizing in the marsh, like that poor fellow who was staying at Porth, and forty or fifty young cattle gradually close round you, and refuse to move when you shout and wave your stick, but get closer and closer instead, and get you into the slime. Again, where is your help? If you haven’t got an automatic pistol, you must go down and stay down, while the beasts lie quietly on you for five minutes. It was a quicker death for poor Griffith of Treff Loyne﻿—one of his own beasts gored him to death with one sharp thrust of its horn into his heart. And from that morning those within the house were closely besieged by their own cattle and horses and sheep; and when those unhappy people within opened a window to call for help or to catch a few drops of rain water to relieve their burning thirst, the cloud waited for them with its myriad eyes of fire. Can you wonder that Secretan’s statement reads in places like mania? You perceive the horrible position of those people in Treff Loyne; not only did they see death advancing on them, but advancing with incredible steps, as if one were to die not only in nightmare but by nightmare. But no one in his wildest, most fiery dreams had ever imagined such a fate. I am not astonished that Secretan at one moment suspected the evidence of his own senses, at another surmised that the world’s end had come.”
+
+“And how about the Williams’s who were murdered on the Highway near here?”
+
+===Chinese===
+
+“再说；你熟悉乡间，你也知道一群牛有时会怎样穿过田地追赶人，那样子一本正经、死气沉沉。它们那做派像是想把你围拢来。城里人有时吓坏了，尖叫着奔逃；你我却会不理会，至多朝牛群挥挥手杖，它们便站住，或慢吞吞踱开。可设想它们不踱开。要记得，最温和的老母牛也比任何男人有力气。一个人，或者半打人，对上五六十头不再受那种神秘禁制约束的畜生，又能如何？多少世代以来，正是那禁制使强者做了弱者谦卑的奴隶。可倘若你在沼泽里采植物标本，像那位在波斯消夏的可怜人，四五十头年轻牲口渐渐围拢你，你喊叫、挥手杖它们也不挪动，反而越围越近，把你逼进泥浆。试问你的解救又在哪里？若没有一支自动手枪，你便只有倒下，且一直躺着，让那些畜生安安静静趴在你身上待上五分钟。特雷夫洛因那可怜的格里菲思死得倒快些——他自己的一头牲口一角刺进他的心脏，把他抵死了。而从那个早晨起，屋里的人便被自家的牛、马、羊紧紧围困；当那些屋里的苦人开窗呼救，或想接几滴雨水解一解灼人的干渴时，那团云便带着它千万只火眼等着他们。你还会奇怪塞克雷坦的陈述读来处处像疯话么？你看得见特雷夫洛因那些人的可怕处境；他们不但看见死亡向自己进逼，而且是以不可思议的步子进逼，仿佛人不但死在梦魇里，而且死于梦魇。可再狂野、再火热的梦里，也没有人想象过这样的命运。塞克雷坦一时疑心自己感官的证据，一时猜度世界的末日到了，我并不诧异。”
+
+“那么在附近公路上被害的威廉斯一家人呢？”
+
+===Original===
+
+“The horses were the murderers; the horses that afterwards stampeded the camp below. By some means which is still obscure to me they lured that family into the road and beat their brains out; their shod hoofs were the instruments of execution. And, as for the *Mary Ann*, the boat that was capsized, I have no doubt that it was overturned by a sudden rush of the porpoises that were gamboling about in the water of Larnac Bay. A porpoise is a heavy beast﻿—half a dozen of them could easily upset a light rowing-boat. The munition works? Their enemy was rats. I believe that it has been calculated that in ‘greater London’ the number of rats is about equal to the number of human beings, that is, there are about seven millions of them. The proportion would be about the same in all the great centers of population; and the rat, moreover, is, on occasion, migratory in its habits. You can understand now that story of the *Semiramis*, beating about the mouth of the Thames, and at last cast away by Arcachon, her only crew dry heaps of bones. The rat is an expert boarder of ships. And so one can understand the tale told by the frightened man who took the path by the wood that led up from the new munition works. He thought he heard a thousand men treading softly through the wood and chattering to one another in some horrible tongue; what he did hear was the marshaling of an army of rats﻿—their array before the battle.
+
+“And conceive the terror of such an attack. Even one rat in a fury is said to be an ugly customer to meet; conceive then, the irruption of these terrible, swarming myriads, rushing upon the helpless, unprepared, astonished workers in the munition shops.”
+
+---
+
+===Chinese===
+
+“凶手是马；就是后来冲散山下营地的那群马。它们用什么法子把那一家人诱到路上，我至今仍不明白；它们踏碎了他们的脑袋；他们钉了蹄铁的蹄子便是行刑的家伙。至于‘玛丽·安号’，那条翻掉的船，我毫不怀疑，它是被在拉尔纳克湾水里嬉戏的一群鼠海豚突然一冲掀翻的。鼠海豚是沉重的兽——半打便不难掀翻一条轻划艇。军火工厂呢？它们的仇敌是耗子。我相信有人估算过，在‘大伦敦’，耗子的数目约略同人口相等，也就是说，大约七百万只。各大人口中心的比例想必相仿；何况耗子这种东西，习性上原是会迁徙的。如今你便懂得‘塞米勒米斯号’（Semiramis）的故事了：它在泰晤士河口外来回打转，最后搁浅在阿卡雄，船上仅剩的水手是几堆干骨头。耗子是登船的行家。于是也懂得那个吓坏了的人讲的故事，他走的那条小路穿过树林，从新军火工厂上来。他以为听见一千个人轻步穿过树林、用某种可怕的语言彼此交谈；他实际听见的，是一支耗子大军的集结——他们临战前的列阵。
+
+“再设想这样一场攻击的恐怖。据说连一只狂怒的耗子都是个不好惹的对头；再设想这些可怕的、蜂拥的千万只一齐冲出，扑向军火工厂里那些无援的、毫无准备的、惊愕的工人。”
+
+---
+
+===Original===
+
+There can be no doubt, I think, that Dr. Lewis was entirely justified in these extraordinary conclusions. As I say, I had arrived at pretty much the same end, by different ways; but this rather as to the general situation, while Lewis had made his own particular study of those circumstances of the Terror that were within his immediate purview, as a physician in large practice in the southern part of Meirion. Of some of the cases which he reviewed he had, no doubt, no immediate or firsthand knowledge; but he judged these instances by their similarity to the facts which had come under his personal notice. He spoke of the affairs of the quarry at Llanfihangel on the analogy of the people who were found dead at the bottom of the cliffs near Porth, and he was no doubt justified in doing so. He told me that, thinking the whole matter over, he was hardly more astonished by the Terror in itself than by the strange way in which he had arrived at his conclusions.
+
+“You know,” he said, “those certain evidences of animal malevolence which we knew of, the bees that stung the child to death, the trusted sheepdog’s turning savage, and so forth. Well, I got no light whatever from all this; it suggested nothing to me﻿—simply because I had not got that ‘idea’ which Coleridge rightly holds necessary in all inquiry; facts qua facts, as we said, mean nothing and, come to nothing. You do not believe, therefore you cannot see.
+
+“And then, when the truth at last appeared it was through the whimsical ‘coincidence’ as we call such signs, of the moth in my lamp and the moth on the dead child’s forehead. This, I think, is very extraordinary.”
+
+“And there seems to have been one beast that remained faithful; the dog at Treff Loyne. That is strange.”
+
+“That remains a mystery.”
+
+---
+
+===Chinese===
+
+我想，刘易斯医生在这些惊人的结论上是全然有理的。如我所说，我从不同的路也走到了大抵相同的终点；不过这多半是就总的形势而言，刘易斯则对在他眼前经过的、他身为梅里昂南部业务繁忙的医生所亲历的那些恐惧的情状，做过他自己专门的研究。他评论的案子中，有一些他无疑没有直接的第一手了解；可他依据的是这些实例同他亲自留意到的事实之间的相似。他谈兰菲汉格尔采石场的案子，是比照那些死在波斯附近崖脚的人，而他这样做无疑是有道理的。他告诉我，把整件事从头想过来，他惊异的与其说是恐惧本身，不如说是他达到自己结论的那条离奇的路。
+
+“你知道，”他说，“我们见过的那些动物恶意的种种迹象：把小孩蜇死的蜜蜂，温驯的牧羊犬翻脸变凶，等等。可我从这一切里没有得到半点光；它什么也没有提示我——只因为我没有拿到柯勒律治所正确主张的、一切探究所必需的那个‘观念’；如我们说过的，事实本身意味着什么，也成不了什么。你不相信，所以你看不见。
+
+“随后，真相终于露头时，它却是透过那个我们称之为‘巧合’的古怪征兆——灯里的飞蛾和死去孩子额头上的飞蛾。我想，这非常离奇。”
+
+“似乎倒有一只兽始终忠心；特雷夫洛因那条狗。这才奇怪呢。”
+
+“那仍是个谜。”
+
+---
+
+===Original===
+
+It would not be wise, even now, to describe too closely the terrible scenes that were to be seen in the munition areas of the north and the Midlands during the black months of the Terror. Out of the factories issued at black midnight the shrouded dead in their coffins, and their very kinsfolk did not know how they had come by their deaths. All the towns were full of houses of mourning, were full of dark and terrible rumors; incredible, as the incredible reality. There were things done and suffered that perhaps never will be brought to light, memories and secret traditions of these things will be whispered in families, delivered from father to son, growing wilder with the passage of the years, but never growing wilder than the truth.
+
+It is enough to say that the cause of the Allies was for awhile in deadly peril. The men at the front called in their extremity for guns and shells. No one told them what was happening in the places where these munitions were made.
+
+At first the position was nothing less than desperate; men in high places were almost ready to cry “mercy” to the enemy. But, after the first panic, measures were taken such as those described by Merritt in his account of the matter. The workers were armed with special weapons, guards were mounted, machine-guns were placed in position, bombs and liquid flame were ready against the obscene hordes of the enemy, and the “burning clouds” found a fire fiercer than their own. Many deaths occurred amongst the airmen; but they, too, were given special guns, arms that scattered shot broadcast, and so drove away the dark flights that threatened the airplanes.
+
+And, then, in the winter of 1915﻿–﻿16, the Terror ended suddenly as it had begun. Once more a sheep was a frightened beast that ran instinctively from a little child; the cattle were again solemn, stupid creatures, void of harm; the spirit and the convention of malignant design passed out of the hearts of all the animals. The chains that they had cast off for awhile were thrown again about them.
+
+And, finally, there comes the inevitable “why?” Why did the beasts who had been humbly and patiently subject to man, or affrighted by his presence, suddenly know their strength and learn how to league together, and declare bitter war against their ancient master?
+
+===Chinese===
+
+即便现在，把恐惧的那些黑月份里北方和中部军火区可见的惨状描摹得太细，也是不明智的。一个个工厂在漆黑的午夜运出一口口钉了盖的棺材，连至亲骨肉也不知道他们是怎样死的。所有的镇子都满是想哀的人家，满是黑暗可怕的传闻；传闻骇人听闻，一如那骇人听闻的现实。有些做出的事、受过的罪，也许永远不会大白于世；对这些事的记忆和秘传将在各家各户里窃窃私语，父传子，随着年头的过去愈传愈野，却永远不会野过真相。
+
+只消说一句：协约国的事业一度陷于死境。前线的人在绝境里呼喊要枪、要炮弹。没有人告诉他们，在这些军械出生的地方正出着什么事。
+
+起初局势无异于绝望；高位上的人几乎要朝敌人喊“饶”了。可是第一阵惊惶过后，梅里特在他那篇记事里描写的那些措施便采取了。工人们配发了特别的武器，设了岗哨，架起了机枪，备下了炸弹和液体火焰，对付敌人那些污秽的群队；于是那些“燃烧的云”遇见了比它们自己更猛的火。飞行员中死了不少人；可他们也领到了特别的枪，四散射散弹的武器，于是赶散了那些威胁飞机的黑色飞翔的群队。
+
+随后，在一九一五至一六年的冬天，恐惧像它来时一样突然地结束了。羊重新成了见了一个小孩子也本能地逃开的怯物；牛重新成了庄重、愚钝、无害的造物；恶毒图谋的灵与约，从一切兽的心里退了出去。它们一度挣脱的锁链，又重新套上了它们。
+
+末了，来了那不可避免的“为什么”。那些多少世代以来对人谦卑忍耐、或被人影惊走的兽，为什么忽然知道了自己的力量，学会了结盟，向它们古老的主人宣起苦战？
+
+===Original===
+
+It is a most difficult and obscure question. I give what explanation I have to give with very great diffidence, and an eminent disposition to be corrected, if a clearer light can be found.
+
+Some friends of mine, for whose judgment I have very great respect, are inclined to think that there was a certain contagion of hate. They hold that the fury of the whole world at war, the great passion of death that seems driving all humanity to destruction, infected at last these lower creatures, and in place of their native instinct of submission, gave them rage and wrath and ravening.
+
+This may be the explanation. I cannot say that it is not so, because I do not profess to understand the working of the universe. But I confess that the theory strikes me as fanciful. There may be a contagion of hate as there is a contagion of smallpox; I do not know, but I hardly believe it.
+
+In my opinion, and it is only an opinion, the source of the great revolt of the beasts is to be sought in a much subtler region of inquiry. I believe that the subjects revolted because the king abdicated. Man has dominated the beasts throughout the ages, the spiritual has reigned over the rational through the peculiar quality and grace of spirituality that men possess, that makes a man to be that which he is. And when he maintained this power and grace, I think it is pretty clear that between him and the animals there was a certain treaty and alliance. There was supremacy on the one hand, and submission on the other; but at the same time there was between the two that cordiality which exists between lords and subjects in a well-organized state. I know a socialist who maintains that Chaucer’s *Canterbury Tales* give a picture of true democracy. I do not know about that, but I see that knight and miller were able to get on quite pleasantly together, just because the knight knew that he was a knight and the miller knew that he was a miller. If the knight had had conscientious objections to his knightly grade, while the miller saw no reason why he should not be a knight, I am sure that their intercourse would have been difficult, unpleasant, and perhaps murderous.
+
+===Chinese===
+
+这是一个极难极暗的问题。我给出我所能给出的解释时，怀着极大的惶恐，和一副热望受正的心肠，倘若能找到更亮的光。
+
+我有几位朋友，他们的见识我是极敬重的，他们倾向于认为那是一场憎恨的传染。他们认为，全世界交战的狂怒，那仿佛驱着全人类走向毁灭的死亡的大激情，终于感染了这些低等的造物，在它们天生的驯服本能的位置上，安放了狂怒、暴怒与饕餮。
+
+这也许是解释。我不能说不是这样，因为我不冒充懂得宇宙的运行。可我承认，这理论在我眼里近于玄想。憎恨也许像天花一样会传染；我不知道，可我不大信。
+
+照我的意见——那不过是个意见——兽的大叛乱的源头，要到一层精微得多的探究领域里去找。我相信，是臣民造了反，因为君王逊了位。人多少世代君临着群兽；灵性凭人所独具的、那特异的属灵之质与恩典，统治理性——凭借这质，人才成为人。而当他保有这权柄与恩典时，我想相当清楚，在他与兽之间是有一纸条约、一个盟谊的。一面是至尊，一面是臣服；可同时，两者之间又存在一种在组织良善的国家里君与民之间存在的敦睦。我认得一个社会主义者，他坚称乔叟（Chaucer）的《坎特伯雷故事集》（Canterbury Tales）画出了真民主的图景。这我不知道；可我看见骑士和磨坊主能处得相当融洽，正因为骑士知道自己是个骑士，磨坊主知道自己是个磨坊主。倘若骑士对他的骑士品级存着良心上的异议，而磨坊主又看不出自己为什么不该做骑士，他们之间的交往，我敢说，必定困难、不快，也许还要出人命。
+
+===Original===
+
+So with man. I believe in the strength and truth of tradition. A learned man said to me a few weeks ago: “When I have to choose between the evidence of tradition and the evidence of a document, I always believe the evidence of tradition. Documents may be falsified, and often are falsified; tradition is never falsified.” This is true; and, therefore, I think, one may put trust in the vast body of folklore which asserts that there was once a worthy and friendly alliance between man and the beasts. Our popular tale of Dick Whittington and his Cat no doubt represents the adaptation of a very ancient legend to a comparatively modern personage, but we may go back into the ages and find the popular tradition asserting that not only are the animals the subjects, but also the friends of man.
+
+All that was in virtue of that singular spiritual element in man which the rational animals do not possess. Spiritual does not mean respectable, it does not even mean moral, it does not mean “good” in the ordinary acceptation of the word. It signifies the royal prerogative of man, differentiating him from the beasts.
+
+For long ages he has been putting off this royal robe, he has been wiping the balm of consecration from his own breast. He has declared, again and again, that he is not spiritual, but rational, that is, the equal of the beasts over whom he was once sovereign. He has vowed that he is not Orpheus but Caliban.
+
+But the beasts also have within them something which corresponds to the spiritual quality in men﻿—we are content to call it instinct. They perceived that the throne was vacant﻿—not even friendship was possible between them and the self-deposed monarch. If he were not king he was a sham, an imposter, a thing to be destroyed.
+
+Hence, I think, the Terror. They have risen once﻿—they may rise again.
+
+===Chinese===
+
+人也如此。我相信传统的力量与真实。几个星期前一位有学问的人对我说：“当我必须在传统的证据和文书的证据之间做选择时，我永远信传统的证据。文书可以伪造，也常常伪造；传统从不伪造。”这是真的；因此我想，人尽可以信任那一大堆民间传说，它们断言人与兽之间曾有过一纸可敬而友好的盟约。我们流行的迪克·惠廷顿（Dick Whittington）和他的猫的故事，无疑是一个极古老的传说安在一位较晚近的人物身上的改作；可我们尽可以退回那些世代里去，听见民间的传统在那里断言：兽不但是人的臣属，而且是人的朋友。
+
+这一切，都系于人里面那一特异的属灵之质，理性兽类所不具备的质。属灵并不意味着可敬，甚至也不意味着道德，不意味着寻常意义下的“好”。它标示的是人的王者特权，把他同兽区别开来的那一份。
+
+多少世代以来，他一直在卸下这袭王袍，一直从自己胸前揩去膏立的香膏。他一再申明，自己不是属灵的，而是理性的；也就是说，是他曾经君临的群兽的平等同类。他起誓说，自己不是俄耳甫斯（Orpheus），而是凯列班（Caliban）。
+
+可兽里面也有一样东西，同人心里的属灵之质相对应——我们乐于管它叫本能。它们觉出那宝座空了——于是连友谊也不可能在它们和这位自废的君王之间成立。他既不是王，便是个赝品，一个僭冒者，一件该毁掉的东西。
+
+所以，我想，才有那恐惧。它们起来过一次——它们还可能再起来。
