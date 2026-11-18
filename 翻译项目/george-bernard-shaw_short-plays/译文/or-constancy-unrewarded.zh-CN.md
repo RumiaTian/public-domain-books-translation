@@ -19,6 +19,10 @@ Being the Novel of Cashel Byron’s Profession Done Into a Stage Play in Three A
 
 ### Preface /
 
+### Preface /
+
+### Preface /
+
 ### Preface / 
 ===Original===
 
@@ -91,6 +95,10 @@ And I trust the result will be found satisfactory.
 
 ### Dramatis Personae /
 
+### Dramatis Personae /
+
+### Dramatis Personae /
+
 ### Dramatis Personae / 
 ===Original===
 
@@ -127,6 +135,10 @@ And I trust the result will be found satisfactory.
 ### Act I / 第一幕
 
 ### Act I / 第一幕
+
+### Act I /
+
+### Act I /
 
 ### Act I /
 
@@ -675,6 +687,10 @@ Lydia: to thee!
 
 ### Act II /
 
+### Act II /
+
+### Act II /
+
 ### Act II / 
 ===Original===
 
@@ -687,6 +703,10 @@ Lydia: to thee!
 #### Scene I / 第一场
 
 #### Scene I / 第一场
+
+#### Scene I /
+
+#### Scene I /
 
 #### Scene I /
 
@@ -2093,6 +2113,10 @@ My love must speak: ’twas my respect was dumb.
 
 #### Scene II /
 
+#### Scene II /
+
+#### Scene II /
+
 #### Scene II / 
 ===Original===
 
@@ -2580,6 +2604,10 @@ Was bitten out of me.
 *（一片愕然。**莉迪亚**尖叫一声，晕倒在**卡谢尔**怀里。）*
 
 ### Act III / 第三幕
+
+### Act III /
+
+### Act III /
 
 ### Act III / 
 ===Original===
@@ -3442,6 +3470,10 @@ And up to London drive with might and main.
 
 ### Note on Modern Prizefighting / 现代拳击谈
 
+### Note on Modern Prizefighting /
+
+### Note on Modern Prizefighting /
+
 ### Note on Modern Prizefighting / 
 ===Original===
 
@@ -3474,3 +3506,125 @@ This development got its first impulse from the discovery by sparring competitor
 
 以为这样的连击戴拳击手套就施加不了，这念头只有没用过、也没见人用过手套的人才抱着。我可以说，我自己在一次事故里脸上挨过一拳，脸上打了两个碎石路似的窟窿，比最强悍的拳师光着指节能给我的任何一拳都重。那一拳并没有叫我晕眩或一时失能。反过来，我见过一个人被最豪华的一种拳击手套轻轻一点，就完全打傻了——持套的是位毫不运动员的文人，平生头一回练拳。人的下颚骨同人的人骨一样，凡是拳击手都知道，长着一处“麻筋”；拳手若走运，一拳震在那麻筋上，对手至少十秒钟任他摆布。这样的一拳叫“击倒”。麻筋加十秒钟规则，解释了昆斯伯里练拳怎样发展成现代的击倒赛即手套赛。
 这一发展的第一推动，来自练拳赛选手们的发现：一个拳手，无论多巧，要想稳拿对自己有利的裁决，唯一的办法是把对手击倒。凡是记得当年那班拳坛法官的人，都不难明白这一点。比赛的“裁判”清一色是往届冠军：也就是自己赢过历届比赛的人。而司法的才能，即便不完全是个法律虚构，至少在寻常事务利于培养它、训练人不动感情的行当里，也相当稀有。在拳师中间，它十有八九根本不存在。寻常的拳师是个激烈的偏袒者，看一场火爆的交手，难得不比交手双方更兴奋。再者，他通常满怀乡土爱国心：他是伦敦人，就视贬损外埠人为义务；他是外埠人，就死保外埠人对抗伦敦佬。此外他还有私宠，下了重注押人家赢。像年度大赛这样的盛典上，晚饭后（决赛排在晚饭后）他比饭前更少司法气、更多酒兴。
+
+===Original===
+
+Being seldom a fine boxer, he often regards skill and style as a reflection on his own deficiencies, and applauds all verdicts given for “game” alone. When he is a technically good boxer, he is all the less likely to be a good critic, as Providence seldom lavishes two rare gifts on the same individual. Even if we take the sanguine and patriotic view that when you appoint such a man a judge, and thus stop his betting, you may depend on his sense of honor and responsibility to neutralize all the other disqualifications, they are sure to be exhibited most extremely by the audience before which he has to deliver his verdict. Now it takes a good deal of strength of mind to give an unpopular verdict; and this strength of mind is not necessarily associated with the bodily hardihood of the champion boxer. Consequently, when the strength of mind is not forthcoming, the audience becomes the judge, and the popular competitor gets the verdict. And the shortest way to the heart of a big audience is to stick to your man; stop his blows bravely with your nose and return them with interest; cover yourself and him with your own gore; and outlast him in a hearty punching match.
+It was under these circumstances that the competitors for sparring championships concluded that they had better decide the bouts themselves by knocking their opponents out, and waste no time in cultivating a skill and style for which they got little credit, and which actually set some of the judges against them. The public instantly began to take an interest in the sport. And so, by a pretty rapid evolution, the dexterities which the boxing glove and the Queensberry rules were supposed to substitute for the old brutalities of Sayers and Heenan were really abolished by them.
+Let me describe the process as I saw it myself. Twenty years ago a poet friend of mine, who, like all poets, delighted in combats, insisted on my sharing his interest in pugilism, and took me about to all the boxing competitions of the day. I was nothing loth; for, my own share of original sin apart, anyone with a sense of comedy must find the arts of self-defence delightful (for a time) through their pedantry, their quackery, and their action and reaction between amateur romantic illusion and professional eye to business.
+
+===Chinese===
+
+他难得是个好拳手，便常常把技巧和风度看作对自己短处的讥刺，凡单凭“勇气”作出的裁决他一概喝彩。他若当真技术过硬，倒更难成为好裁判，因为造物很少把两样稀有的禀赋滥施于同一人。就算我们抱着乐观而爱国的见解，认为一旦委这种人做裁判、就此断了他的赌注，便可以指望他的荣誉感和责任心把其余种种不合格之处中和掉，可他总得当着满场观众宣判，而那班观众必定把他的不合格之处激发到极致。须知，作出一个不受欢迎的裁决，需要相当的心力；而这心力未必同冠军拳手那副钢筋铁骨结伴而来。于是心力一旦接济不上，观众便成了裁判，得人心的那个选手便赢得裁决。而打进一大群观众心坎的捷径，就是死缠住你的对手不退；勇敢地用鼻子去挡他的拳头，再连本带利地奉还；让你自己的鲜血浇透你一身也浇透他一身；在一场痛快的互擂里熬到他先倒下。
+
+正是在这种情形之下，锦标赛的参赛者们得出结论：不如自己动手了断，把对手击倒，再不必浪费工夫去修炼那门技巧与风度——那玩意儿换不来几分称许，倒真会招来某些裁判的敌意。公众登时对这项运动来了兴致。于是，经过一段颇为迅速的演化，那些本该由拳击手套和昆斯伯里规则用来取代塞耶斯、希南式旧日残暴的灵巧技艺，实际上反倒是被它们废除了。
+
+让我把自己亲眼目睹的这一过程描述一番。二十年前，我的一位诗人朋友——诗人无不酷嗜搏斗——非拉我分享他对象拳的兴趣不可，带我跑遍了当时各处的拳击比赛。我巴不得呢；因为撇开我自己那份原罪不谈，凡有喜剧感的人，见自卫诸术中的学究气、江湖骗术，以及业余的浪漫幻想同职业的生意眼之间的反复拉锯，都难免（一度）觉得妙不可言。
+
+===Original===
+
+The fencing world, as Molière well knew, is perhaps a more exquisite example of a fool’s paradise than the boxing world; but it is too restricted and expensive to allow play for popular character in a non-duelling country, as the boxing world (formerly called quite appropriately “the Fancy”) does. At all events, it was the boxing world that came under my notice; and as I was amused and sceptically observant, whilst the true amateurs about me were, for the most part, merely excited and duped, my evidence may have a certain value when the question comes up again for legislative consideration, as it assuredly will some day.
+The first competitions I attended were at the beginning of the eighties, at Lillie Bridge, for the Queensberry championships. There were but few competitors, including a fair number of gentlemen; and the style of boxing aimed at was the “science” bequeathed from the old prize-ring by Ned Donnelly, a pupil of Nat Langham. Langham had once defeated Sayers, and thereby taught him the tactics by which he defeated Heenan. There was as yet no special technique of glove fighting: the traditions and influence of the old ring were unquestioned and supreme; and they distinctly made for brains, skill, quickness, and mobility, as against brute violence, not at all on moral grounds, but because experience had proved that giants did not succeed in the ring under the old rules, and that crafty middleweights did.
+This did not last long. The spectators did not want to see skill defeating violence: they wanted to see violence drawing blood and pounding its way to a savage and exciting victory in the shortest possible time (the old prizefight usually dragged on for hours, and was ended by exhaustion rather than by victory). So did most of the judges. And the public and the judges naturally had their wish; for the competitors, as I have already explained, soon discovered that the only way to make sure of a favorable verdict was to “knock out” their adversary. All pretence of sparring “for points”: that is, for marks on an examination paper filled up by the judges, and representing nothing but impracticable academic pedantry in its last ditch, was dropped; and the competitions became frank fights, with abundance of blood drawn, and “knockouts” always imminent. Needless to add, the glove fight soon began to pay.
+
+===Chinese===
+
+剑术界，正如莫里哀深知的，也许比拳击界更是愚人天堂的一个精妙标本；只是在一个不决斗的国度里，它太狭窄、太昂贵，腾不出大众性格的用武之地，不像拳击界（旧称“雅好界”（the Fancy），倒也名副其实）那样。无论如何，进入我眼界的是拳击界；而我当时一面被逗乐、一面冷眼存疑，我周围的真业余家们却多半只是兴奋、只是受骗；所以等到这个问题有朝一日重新提到立法层面审议时——这一天笃定会来——我的证词也许还有些价值。
+
+我最早观看的比赛是在八十年代初，利利桥（Lillie Bridge）的昆斯伯里锦标赛。参赛者寥寥，其中颇有几位绅士；所追求的拳风，是旧拳坛由内德·唐纳利（Ned Donnelly）传下来的那门“科学”，唐纳利师从纳特·兰厄姆（Nat Langham）。兰厄姆曾击败塞耶斯，并由此把后来塞耶斯击败希南的那套战术教给了他。那时还没有专门的拳套格斗技术：旧拳坛的传统与威望不容置疑、至高无上；而且它们明确地站在头脑、技巧、速度与机动一边，同蛮力作对——倒全不是出于道德理由，而是因为经验早已证明：在旧规则之下，巨人在拳坛成不了事，成事的是诡诈的中量级。
+
+这局面维持不了多久。观众并不想看技巧制服暴力：他们要看暴力见血，要在尽可能短的时限里，眼看它一路捶出一场野蛮而刺激的胜利（旧式拳击动辄缠斗几个钟头，以力竭告终，而非以胜负告终）。多数裁判也不想。而公众与裁判的愿望自然是照办了的；因为如前所述，参赛者们很快便发现，稳拿有利裁决的唯一法门，就是把对手“击倒”。一切“为点数”而斗的虚文——所谓点数，就是由裁判填写的一张考卷，代表的不过是钻进死胡同还硬撑的学院迂腐——统统丢开；比赛成了赤裸裸的真打，见血丰盛，“击倒”随时高悬。不必说，拳套赛不久便开始赚钱了。
+
+===Original===
+
+The select and thinly attended spars on the turf at Lillie Bridge gave way to crowded exhibitions on the hard boards of St. James’s Hall. These were organized by the Boxing Association; and to them the provinces, notably Birmingham, sent up a new race of boxers whose sole aim was to knock their opponent insensible by a right-hand blow on the jaw, knowing well that no Birmingham man could depend on a verdict before a London audience for any less undeniable achievement.
+The final step was taken by an American pugilist. He threw off the last shred of the old hypocrisy of the gloved hand by challenging the whole world to produce a man who could stand before him for a specified time without being knocked out. His brief but glorious career completely reestablished pugilism by giving a worldwide advertisement to the fact that the boxing glove spares nothing but the public conscience, and that as much ferocity, bloodshed, pain, and risk of serious injury or death can be enjoyed at a glove fight as at an old-fashioned prizefight, whilst the strain on the combatants is much greater. It is true that these horrors are greatly exaggerated by the popular imagination, and that if boxing were really as dangerous as bicycling, a good many of its heroes would give it up from simple fright; but this only means that there is a maximum of damage to the spectator by demoralization, combined with the minimum of deterrent risk to the poor scrapper in the ring.
+Poor scrapper, though, is hardly the word for a modern fashionable American pugilist. To him the exploits of Cashel Byron will seem ludicrously obscure and low-lived. The contests in which he engages are like Handel Festivals: they take place in huge halls before enormous audiences, with cinematographs hard at work recording the scene for reproduction in London and elsewhere. The combatants divide thousands of dollars of gate-money between them: indeed, if an impecunious English curate were to go to America and challenge the premier pugilist, the spectacle of a match between the Church and the Ring would attract a colossal crowd; and the loser’s share of the gate would be a fortune to a curate﻿—assuming that the curate would be the loser, which is by no means a foregone conclusion. At all events, it would be well worth a bruise or two.
+
+===Chinese===
+
+利利桥草皮上那班看客寥寥的高雅练拳，让位给了圣詹姆斯厅（St. James's Hall）硬地板上人满为患的表演赛。这些赛事由拳击协会（Boxing Association）主办；外郡——尤其是伯明翰——送上来新一代拳手，他们唯一的目标，就是用一记右拳砸在对手下颚上，把人打得不省人事；他们深知，一个伯明翰人想在伦敦观众面前稳得裁决，比这再轻省的成就是靠不住的。
+
+最后一步由一位美国拳手迈出。他索性扯掉拳套那套旧虚伪的最后一缕，向全世界叫阵：请随便哪位来，只消在他面前撑满指定的时限而不被击倒。他那短暂而辉煌的生涯彻底振兴了拳击，向全世界广而告之：拳击手套什么都放过，独独不放过公众的良心；在拳套赛里所能享用的凶悍、见血、疼痛、重伤乃至送命的风险，同老式光拳赛里一样多，而交手双方受的熬炼犹有过之。诚然，这些恐怖大半出自大众想象力的夸张；拳击倘若真同骑自行车一样危险，它的不少英雄早就吓得撂挑子了；可这不过意味着：败坏观众的程度达到了极值，而震慑拳台上那可怜虫的风险只剩最小值。
+
+不过，“可怜虫”这个词儿实在安不到一位时髦的现代美国拳手头上。在他看来，卡谢尔·拜伦的事迹未免显得可笑地无名而卑贱。他参加的那些比赛像亨德尔音乐节（Handel Festivals）：在巨厅里当着如山的观众举行，几架电影机吭哧吭哧把场面拍下来，好在伦敦等地重映。交手双方瓜分的门票钱动辄数千美元：真的，倘若一位囊空如洗的英国副牧师渡海去美国，向头号拳手下战书，教会与拳坛对阵这一景观保管招来人山人海；败方的门票分成，对一位副牧师就是一笔家财——姑且假定败的是副牧师，这可远非定局。无论如何，这总归值一两块青淤。
+
+===Original===
+
+So my story of the Agricultural Hall, where William Paradise sparred for half a guinea, and Cashel Byron stood out for ten guineas, is no doubt read by the profession in America with amused contempt. In 1882 it was, like most of my conceptions, a daring anticipation of coming social developments, though today it seems as far out of date as Slender pulling Sackerson’s chain.
+Of these latter-day commercial developments of glove fighting I know nothing beyond what I gather from the newspapers. The banging matches of the eighties, in which not one competitor in twenty either exhibited artistic skill, or, in his efforts to knock out his adversary, succeeded in anything but tiring and disappointing himself, were for the most part tedious beyond human endurance. When, after wading through *Boxiana* and the files of *Bell’s Life* at the British Museum, I had written *Cashel Byron’s Profession*, I found I had exhausted the comedy of the subject; and as a game of patience or solitaire was decidedly superior to an average spar for a championship in point of excitement, I went no more to the competitions. Since then six or seven generations of boxers have passed into peaceful pursuits; and I have no doubt that my experience is in some respects out of date. The National Sporting Club has arisen; and though I have never attended its reunions, I take its record of three pugilists slain as proving an enormous multiplication of contests, since such accidents are very rare, and in fact do not happen to reasonably healthy men. I am prepared to admit also that the disappearance of the old prize-ring technique must by this time have been compensated by the importation from America of a new glove-fighting technique; for even in a knocking-out match, brains will try conclusions with brawn, and finally establish a standard of skill; but I notice that in the leading contests in America luck seems to be on the side of brawn, and brain frequently finishes in a state of concussion, a loser after performing miracles of “science.” I use the word luck advisedly; for one of the fascinations of boxing to the gambler (who is the main pillar of the sporting world) is that it is a game of hardihood, pugnacity and skill, all at the mercy of chance. The knockout itself is a pure chance.
+
+===Chinese===
+
+于是，我那个农业会馆的故事——威廉·帕拉代斯在那儿为半个几尼同人练拳、卡谢尔·拜伦非十个几尼不出场的故事——如今在美国同行读来，多半带着好笑的轻蔑。在一八八二年，它同我的多数构思一样，是对未来社会发展的大胆预判；今天读来，却陈旧得像斯伦德（Slender）牵萨克森（Sackerson）的锁链。
+
+拳套格斗这些晚近的商业发展，我除了从报纸上得来的，一无所知。八十年代那些闷头猛轰的比赛——二十个参赛者里难得有一个显出艺术技巧，其余的人在努力击倒对手之余，除了把自己累个半死、叫观众大失所望之外一无所成——多半乏味得超出人的忍受限度。待我在大英博物馆啃完《拳坛纪事》（Boxiana）和《贝尔生活报》（Bell's Life）的过刊、写完《卡谢尔·拜伦的职业》，我发觉这题目的喜剧性已被我榨干了；何况论刺激，一局单人纸牌戏分明胜过一场平平常常的锦标赛练拳，我便不再去赛场了。此后六七代拳手相继改行，归了太平营生；我毫不怀疑，我的经验在某些方面已经过时。全国体育俱乐部（National Sporting Club）起来了；我虽从未赴过它的盛会，但它账下三名拳手丧命的纪录，我拿来证明比赛场次翻了不知多少倍——这样的意外极其罕见，实际上轮不到身子骨正常的人头上。我也乐于承认，旧拳坛技术的消亡，到这时想必已由从美国引进的新拳套技术补偿了；因为即便在击倒赛里，头脑也要同膂力见个高下，终究会立起一套技巧的标准；只是我注意到，在美国的头几场比赛里，运气似乎总站在膂力一边，头脑常常在演完一身“科学”的奇迹之后，以脑震荡收场，做了败者。“运气”一词我是斟酌过的；拳击对赌徒（赌徒是体育世界的顶梁柱）的魅力之一，正在于它是一场集勇力、斗性与技巧于一身的游戏，却全凭运气摆布。击倒本身就是纯粹的运气。
+
+===Original===
+
+I have seen two powerful laborers batter one another’s jaws with all their might for several rounds apparently without giving one another as much as a toothache. And I have seen a winning pugilist collapse at a trifling knock landed by a fluke at the fatal angle. I once asked an ancient prizefighter what a knockout was like when it did happen. He was a man of limited descriptive powers; so he simply pointed to the heavens and said, “Up in a balloon.” An amateur pugilist, with greater command of language, told me that “all the milk in his head suddenly boiled over.” I am aware that some modern glove fighters of the American school profess to have reduced the knockout to a science. But the results of the leading American combats conclusively discredit the pretension. When a boxer so superior to his opponent in skill as to be able practically to hit him where he pleases not only fails to knock him out, but finally gets knocked out himself, it is clear that the phenomenon is as complete a mystery pugilistically as it is physiologically, though every pugilist and every doctor may pretend to understand it. It is only fair to add that it has not been proved that any permanent injury to the brain results from it. In any case the brain, as English society is at present constituted, can hardly be considered a vital organ.
+This, to the best of my knowledge, is the technical history of the modern revival of pugilism. It is only one more example of the fact that legislators, like other people, must learn their business by their own mistakes, and that the first attempts to suppress an evil by law generally intensify it. Prizefighting, though often connived at, was never legal. Even in its palmiest days prizefights were banished from certain counties by hostile magistrates, just as they have been driven from the United States and England to Belgium on certain occasions in our own time. But as the exercise of sparring, conducted by a couple of gentlemen with boxing gloves on, was regarded as part of a manly physical education, a convention grew up by which it became practically legal to make a citizen’s nose bleed by a punch from the gloved fist, and illegal to do the same thing with the naked knuckles.
+
+===Chinese===
+
+我见过两个壮工抡圆了互砸对方的下颚，砸了好几个回合，看上去连牙疼都没能给对方砸出一处。我也见过占尽上风的拳手，被一记侥幸落在要命角度上的轻击撂倒在地。我曾问过一位老拳师，击倒真发生时是什么滋味。此人文墨有限，便只朝天上一点：“像坐上了气球。”一位业余拳手措辞高明些，告诉我：“脑袋里的牛奶一下子全煮沸了。”我知道美国派的某些现代拳手，自称已把击倒练成了一门科学。但美国几场头等交锋的结果，断然拆穿了这份自负。一位拳手，技巧远高于对手，简直想打哪儿就能打哪儿，却不但没能把对手击倒，末了自己反倒被击倒了——可见这现象在拳理上同在生理上一样，是个十足的谜，尽管每个拳师、每个医生都可以装作懂得它。公道起见补一句：迄今并没有证据表明击倒造成任何永久性的脑损伤。况且，照英国社会眼下的构成，脑子这东西很难算什么要害器官。
+
+据我所知，这便是拳击现代复兴的技术史。它不过又添一例：立法者同旁人一样，非得从自己的错误里学不可；而用法律压制某种祸害的头一番尝试，通常只会使它变本加厉。光拳赛虽常被默许，却从来不曾合法。即便在全盛年代，它也遭怀有敌意的治安官逐出某些郡，正如在我们这个时代，它几度被从美国和英格兰赶到比利时。可是，两位绅士戴上拳击手套练拳，既被视为男子汉体育教育的一部分，一桩惯例便渐渐养成：用戴套的拳头把一个公民的鼻子打出血，实际上合法；用光着的指节干同样的事，却不合法。
+
+===Original===
+
+A code of glove-fighting rules was drawn up by a prominent patron of pugilism; and this code was practically legalized by the fact that even when a death resulted from a contest under these rules the accessories were not punished. No question was raised as to whether the principals were paid to fight for the amusement of the spectators, or whether a prize for the winner was provided in stakes, share of the gate, or a belt with the title of champion. These, the true criteria of prizefighting, were ignored; and the sole issue raised was whether the famous dictum of Dr. Watts, “Your little hands were never made, etc.,” had been duly considered by providing the said little hands with a larger hitting surface, a longer range, and four ounces extra weight.
+In short, then, what has happened has been the virtual legalization of prizefighting under cover of the boxing glove. And this is exactly what public opinion desires. We do not like fighting; but we like looking on at fights: therefore we require a law which will punish the prizefighter if he hits us, and secure us the protection of the police whilst we sit in a comfortable hall and watch him hitting another prizefighter. And that is just the law we have got at present.
+Thus Cashel Byron’s plea for a share of the legal toleration accorded to the vivisector has been virtually granted since he made it. The legalization of cruelty to domestic animals under cover of the anesthetic is only the extreme instance of the same social phenomenon as the legalization of prizefighting under cover of the boxing glove. The same passion explains the fascination of both practices; and in both, the professors﻿—pugilists and physiologists alike﻿—have to persuade the Home Office that their pursuits are painless and beneficial. But there is also between them the remarkable difference that the pugilist, who has to suffer as much as he inflicts, wants his work to be as painless and harmless as possible whilst persuading the public that it is thrillingly dangerous and destructive, whilst the vivisector wants to enjoy a total exemption from humane restrictions in his laboratory whilst persuading the public that pain is unknown there. Consequently the vivisector is not only crueller than the prizefighter, but, through the pressure of public opinion, a much more resolute and uncompromising liar.
+
+===Chinese===
+
+一位拳术显贵起草了一套拳套格斗规则；这套规则实际上被合法化了，因为即便有比赛在这些规则之下闹出人命，从犯也未受惩处。没有人过问：出赛双方究竟是不是拿了钱为观众的消遣而打；也没有人过问：是否为胜者备下了奖金——赌注也好，门票分成也好，缀着冠军头衔的腰带也好。这些光拳赛的真正标准，一概无人理会；唯一提出的问题只是：沃茨博士（Dr. Watts）那句名言——“你的小手原不是造来”云云——是否业经妥善考量，办法是给上述小手配上更大的打击面、更长的触及，以及四盎司的额外配重。
+
+简言之，实际发生的事，就是光拳赛在拳击手套的掩护之下变相合法化了。而这正是舆论所愿。我们不喜欢打架；可我们喜欢看打架：所以我们需要一条法律，拳手要是打了我们，就惩罚他；而我们舒舒服服坐在大厅里，看他打另一个拳手时，则派警察保护我们。眼下的法律，恰好就是这一条。
+
+这样，卡谢尔·拜伦要求分得一份给予活体解剖者的法律宽容，自他开口以来，实际上已经批准了。麻醉剂掩护之下对家养动物施虐的合法化，同拳击手套掩护之下光拳赛的合法化，本是同一社会现象的两个实例。同一种激情，解释了两种行当的魅力；两边的行家——拳手同生理学家一样——都得劝说内政部相信，他们的营生无痛而有益。但两者之间也有一个显著的差别：拳手自己挨多少就得打多少，故而愿意自己的营生尽量无痛无害，同时却要劝说公众相信它惊险得很、毁伤得很；活体解剖者却要在实验室里享受人道限制的全面豁免，同时要劝说公众相信那里头疼痛绝无。因此，活体解剖者不但比拳手残忍，而且——拜舆论压力所赐——是个远更坚决、绝不通融的说谎者。
+
+===Original===
+
+For this no one but a Pharisee will single him out for special blame. All public men lie, as a matter of good taste, on subjects which are considered serious (in England a serious occasion means simply an occasion on which nobody tells the truth); and however illogical or capricious the point of honor may be in man, it is too absurd to assume that the doctors who, from among innumerable methods of research, select that of tormenting animals hideously, will hesitate to come on a platform and tell a soothing fib to prevent the public from punishing them. No criminal is expected to plead guilty, or to refrain from pleading not guilty with all the plausibility at his command. In prizefighting such mendacity is not necessary: on the contrary, if a famous pugilist were to assure the public that a blow delivered with a boxing glove could do no injury and cause no pain, and the public believed him, the sport would instantly lose its following. It is the prizefighter’s interest to abolish the real cruelties of the ring and to exaggerate the imaginary cruelties of it. It is the vivisector’s interest to refine upon the cruelties of the laboratory, whilst persuading the public that his victims pass into a delicious euthanasia and leave behind them a row of bottles containing infallible cures for all the diseases. Just so, too, does the trainer of performing animals assure us that his dogs and cats and elephants and lions are taught their senseless feats by pure kindness.
+The public, as Julius Caesar remarked nearly two thousand years ago, believes, on the whole, just what it wants to believe. The laboring masses do not believe the false excuses of the vivisector, because they know that the vivisector experiments on hospital patients; and the masses belong to the hospital patient class. The well-to-do people who do not go to hospitals, and who think they benefit by the experiments made there, believe the vivisectors’ excuses, and angrily abuse and denounce the anti-vivisectors. The people who “love animals,” who keep pets, and stick pins through butterflies, support the performing dog people, and are sure that kindness will teach a horse to waltz. And the people who enjoy a fight will persuade themselves that boxing gloves do not hurt, and that sparring is an exercise which teaches self-control and exercises all the muscles in the body more efficiently than any other.
+
+===Chinese===
+
+为这一点而单单把他挑出来严加责难的，只有法利赛人。一切公众人物，出于雅趣，在被认作严肃的问题上一律撒谎（在英国，所谓严肃的场合，简单说就是没人讲真话的场合）；不论男人这点荣誉感何等不合逻辑、何等任性，倘若假定那些医生——他们从无数研究方法里偏偏挑中酷刑折磨动物这一条——会不好意思登上讲坛，说一通气抚人心的小谎，免得公众惩罚他们，那就太荒唐了。没有哪个罪犯被指望自认有罪，或者不竭尽口才自辩无罪。在拳击里，这种撒谎并无必要：恰恰相反，倘若一位名拳手向公众担保，戴套的一拳既不能致伤，也不致疼痛，而公众竟信了他，这项运动立时就要失掉拥趸。拳手的利益，在于废除拳台上真实的残忍，而夸大拳台上想象的残忍。活体解剖者的利益，在于把实验室里的残忍精益求精，同时劝公众相信，他的受难者们是在一种极乐的安乐死里瞑目的，身后留下一排药瓶，瓶瓶装着包治百病的万灵丹。驯兽师也正是这样向我们担保的：他的狗、猫、大象和狮子，那些蠢把戏全是靠纯粹的仁慈教会的。
+
+公众，正如尤利乌斯·恺撒近两千年前所言，大体上相信自己愿意信的东西。劳动大众不相信活体解剖者的虚假托词，因为他们知道活体解剖者拿医院的病人做试验；而大众自己就属于住院病人那个阶级。那些不上医院的有钱人，自以为沾了那里试验的光，便相信活体解剖者的托词，怒气冲冲地辱骂、痛斥反活体解剖者。那些“爱动物”、养宠物、拿大头针穿透蝴蝶的人，支持耍狗的班子，坚信仁慈能教会马跳华尔兹。而喜欢看打架的人，则会说服自己：拳击手套打不疼人，练拳是一门教人克己的功课，比任何别的运动都更能锻炼全身的肌肉。
+
+===Original===
+
+My own view of prizefighting may be gathered from Cashel Byron’s Profession, and from the play written by me more than ten years later, entitled *Mrs. Warren’s Profession*. As long as society is so organized that the destitute athlete and the destitute beauty are forced to choose between underpaid drudgery as industrial producers, and comparative self-respect, plenty, and popularity as prizefighters and mercenary brides, licit or illicit, it is idle to affect virtuous indignation at their expense. The word prostitute should either not be used at all, or else applied impartially to all persons who do things for money that they would not do if they had any other assured means of livelihood. The evil caused by the prostitution of the Press and the Pulpit is so gigantic that the prostitution of the prize-ring, which at least makes no serious moral pretensions, is comparatively negligible by comparison. Let us not forget, however, that the throwing of a hard word such as prostitution does not help the persons thus vituperated out of their difficulty. If the soldier and gladiator fight for money, if men and women marry for money, if the journalist and novelist write for money, and the parson preaches for money, it must be remembered that it is an exceedingly difficult and doubtful thing for an individual to set up his own scruples or fancies (he cannot himself be sure which they are) against the demand of the community when it says, Do thus and thus, or starve. It was easy for Ruskin to lay down the rule of dying rather than doing unjustly; but death is a plain thing: justice a very obscure thing. How is an ordinary man to draw the line between right and wrong otherwise than by accepting public opinion on the subject; and what more conclusive expression of sincere public opinion can there be than market demand? Even when we repudiate that and fall back on our private judgment, the matter gathers doubt instead of clearness.
+
+===Chinese===
+
+我自己对光拳赛的看法，可从《卡谢尔·拜伦的职业》，以及我十多年后写的那出戏《华伦夫人的职业》（Mrs. Warren's Profession）里看出来。只要社会是这样组织的：赤贫的运动员和赤贫的美人，不得不在两条路里挑一条——要么作为产业生产者领着贱价工资服苦役，要么做拳手、做为钱而嫁的新娘（明媒正娶也罢，不然也罢），换得相对的自尊、温饱与人缘——那么，对着他们摆出一副道德义愤，就是无聊。“卖淫”这个词，要么索性不用，要么就得一视同仁：凡为了钱做自己别无生计便决不肯做的事的人，一概适用。新闻界与布道界的卖淫为祸之巨，相形之下，拳坛的卖淫几可忽略——拳坛起码不装模作样讲什么大道理。但也别忘记，扔出“卖淫”这样一个硬字眼，帮不了挨骂的人脱出困境。士兵同角斗士为钱而斗，男男女女为钱成婚，记者同小说家为钱执笔，牧师为钱布道，这时须记取：个人拿自己的一己顾忌或癖好（他自己也说不清是哪样）去顶撞社会的号令——社会说，照办，不然饿死——是件极其艰难、极其没把握的事。罗斯金定下“宁死不为不义”的规矩，说来容易；可死是桩明白事，义却是桩糊涂事。一个普通人，除了接受公众舆论关于是非的裁断，还能怎样去划那条线？而市场需求，岂不正是真诚的公众舆论最无可辩驳的表达？即便我们撇开它，退回一己的判断，事情也是疑窦越积越多，而非越理越明。
+
+===Original===
+
+The popular notion of morality and piety is to simply beg all the most important questions in life for other people; but when these questions come home to ourselves, we suddenly discover that the devil’s advocate has a stronger case than we thought: we remember that the way of righteousness or death was the way of the Inquisition; that hell is paved, not with bad intentions, but with good ones; that the deeper seers have suggested that the way to save your soul is perhaps to give it away, casting your spiritual bread on the waters, so to speak. No doubt, if you are a man of genius, a Ruskin or an Ibsen, you can divine your way and finally force your passage. If you have the conceit of fanaticism you can die a martyr like Charles I. If you are a criminal, or a gentleman of independent means, you can leave society out of the question and prey on it. But if you are an ordinary person you take your bread as it comes to you, doing whatever you can make most money by doing. And you are really showing yourself a disciplined citizen and acting with perfect social propriety in so doing. Society may be, and generally is, grossly wrong in its offer to you; and you may be, and generally are, grossly wrong in supporting the existing political structure; but this only means, to the successful modern prizefighter, that he must reform society before he can reform himself. A conclusion which I recommend to the consideration of those foolish misers of personal righteousness who think they can dispose of social problems by bidding reformers of society reform themselves first.
+Practically, then, the question raised is whether fighting with gloves shall be brought, like cockfighting, bear-baiting, and gloveless fist fighting, explicitly under the ban of the law. I do not propose to argue that question out here. But of two things I am certain. First, that glove fighting is quite as fierce a sport as fist fighting. Second, that if an application were made to the Borough Council of which I am a member, to hire the Town Hall for a boxing competition, I should vote against the applicants.
+This second point being evidently the practical one, I had better give my reason. Exhibition pugilism is essentially a branch of Art: that is to say, it acts and attracts by propagating feeling. The feeling it propagates is pugnacity.
+
+===Chinese===
+
+通俗的道德观与虔诚观，无非是把人生一切顶要紧的问题，都替旁人预支了答案；可这些问题一旦落到自己头上，我们便猛然发现，魔鬼的辩护人手里那副牌，比我们料想的更硬：我们记起，“宁行义毋宁死”的路正是宗教裁判所的路；地狱是用善意——而非恶意——铺成的；深刻的先知们提示过，救灵魂的法子，兴许是把灵魂送出去，把你的灵粮撒在水面上。不错，你若是天才，一位罗斯金或易卜生，你能凭直觉辨路，终至硬闯出一条通路来。你若有狂热者的自负，可以死成一位殉道者，像查理一世。你若是罪犯，或有独立财源的绅士，可以索性把社会撇在问题之外，专事剪伐。可你若是个普通人，面包来了便接住，什么行当挣钱最多便干什么行当。而你这么做的当口，恰恰显出是个守纪律的公民，行事在社交上无可挑剔。社会给你开的价码可能错得离谱，通常也果真错得离谱；你支持现存的政治构架，可能错得离谱，通常也果真错得离谱；可这在成功的现代拳手听来，只是说：他必须先改造社会，然后才能改造自己。这个结论，我谨推荐给那些个人清白的吝啬鬼们——他们以为，只消嘱咐社会改革家先改革自己，社会问题便打发掉了。
+
+那么，实际上提出来的问题就是：拳套格斗要不要像斗鸡、纵犬咬熊、光拳格斗一样，明文置于法律的禁令之下。我不打算在这里把这场官司打完。但有两点我是确信的。第一，拳套赛同光拳赛一样凶残。第二，倘若有人向我所供职的自治市议会申请租用市政厅，办一场拳击锦标赛，我会投反对票。
+
+第二点显然是实际的，我不妨把理由摆出来。表演拳击本质上是艺术的一支：这就是说，它靠传播情感而起作用、而来吸引人。它传播的情感，是斗性。
+
+===Original===
+
+Sense of danger, dread of danger, impulse to batter and destroy what threatens and opposes, triumphant delight in succeeding: this is pugnacity, the great adversary of the social impulse to live and let live; to establish our rights by shouldering our share of the social burden; to face and examine danger instead of striking at it; to understand everything to the point of pardoning (and righting) everything; to conclude an amnesty with Nature wide enough to include even those we know the worst of: namely, ourselves. If two men quarrelled, and asked the Borough Council to lend them a room to fight it out in with their fists, on the ground that a few minutes’ hearty punching of one another’s heads would work off their bad blood and leave them better friends, each desiring, not victory, but *satisfaction*, I am not sure that I should not vote for compliance. But if a syndicate of showmen came and said, Here we have two men who have no quarrel, but who will, if you pay them, fight before your constituency and thereby make a great propaganda of pugnacity in it, sharing the profits with us and with you, I should indignantly oppose the proposition. And if the majority were against me, I should try to persuade them to at least impose the condition that the fight should be with naked fists under the old rules, so that the combatants should, like Sayers and Langham, depend on bunging up each other’s eyes rather than, like the modern knocker-out, giving one another concussion of the brain.
+I may add, finally, that the present halting between the legal toleration and suppression of commercial pugilism is much worse than the extreme of either, because it takes away the healthy publicity and sense of responsibility which legality and respectability give, without suppressing the blackguardism which finds its opportunity in shady pursuits. I use the term commercial advisedly. Put a stop to boxing for money; and pugilism will give society no further trouble.
+
+===Chinese===
+
+对危险的知觉，对危险的畏惧，把威胁者、阻拦者砸烂捣毁的冲动，得手时的扬扬得意：这便是斗性，它同社会性冲动正相对垒——那社会性冲动，是要自己活也让别人活；是要靠分担社会的担子来立自己的权利；是要面对危险去审视，而不是扑上去就打；是要理解一切，理解到宽恕（并纠正）一切的地步；是要同自然缔结一笔大赦，宽到连我们所知最坏的家伙也包括在内：那最坏的家伙不是别人，正是我们自己。倘若两个人吵了架，请求市议会借一间屋子，让他们用拳头分个高下，理由是痛痛快快互擂几分钟脑袋，就能泄掉恶血、重修旧好，两人所求的不是胜利，而是*满足*（satisfaction），我说不准自己会不会投票赞成照办。可倘若一班艺人凑成股份公司找上门来，说：我们这儿有两个人，无怨无仇，只要你肯出钱，他们就当着你的选民打一场，在选民心里替我们大张旗鼓地宣传斗性，利润你我三方均分——我便要愤然反对这项提议。倘若多数人站在我的对面，我也要力争至少加上一条：这一场须按旧规光拳进行，好叫交手双方像塞耶斯同兰厄姆那样，靠把彼此的眼睛打肿取胜，而不像现代的击倒专家那样，彼此送上一记脑震荡。
+
+末了还可以补一句：当今对营业性拳赛在法律宽容与法律取缔之间的首鼠两端，比走任何一个极端都糟得多；因为它一面剥掉了合法与体面所带来的健全的公开性与责任感，一面却照旧压不掉那种在不明不白的营生里钻空子的流氓气。“营业性”一词，我是斟酌过的。把为钱的拳击一停，拳术就再不会给社会添麻烦了。

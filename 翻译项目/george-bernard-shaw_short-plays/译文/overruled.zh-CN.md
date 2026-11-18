@@ -8,6 +8,10 @@
 ​
 
 ### Preface to Overruled / 《被驳回》序
+
+### Preface to Overruled /
+
+### Preface to Overruled / 
 ===Original===
 
 The Alleviations of Monogamy
@@ -180,6 +184,10 @@ My playlet, which I offer as a model to all future writers of farcical comedy, m
 我对原罪论这一面的异议在于：人性中任何必要而必然的运作，都断无道理被看作罪；反过来假定的道德是荒谬的道德，唯有靠虚伪撑住门面。当年人们羞于卫生问题，不肯正视，任它在污秽与隐秘中自行了断，了断出来的结果是黑死病。在性问题上施行同一政策，也自行了断了，了断出一场比黑死病更坏的瘟疫；对症之药不是洒尔佛散，而是健全的道德卫生，其第一块基石，是戒掉我们的撒谎习惯——不但戒那些我们明知不该说的、为害尚浅的谎，也戒那些我们愚蠢地以为该说的、为祸至烈的谎。
 
 ### Dramatis Personae / 人物表
+
+### Dramatis Personae /
+
+### Dramatis Personae / 
 ===Original===
 
 - Mrs. Juno
@@ -195,6 +203,10 @@ My playlet, which I offer as a model to all future writers of farcical comedy, m
 - 塞拉菲塔·伦恩太太（Mrs. Seraphita Lunn）
 
 ### Overruled / 被驳回
+
+### Overruled /
+
+### Overruled / 
 ===Original===
 
 A **Lady** and **Gentleman** are sitting together on a chesterfield in a retired corner of the lounge of a seaside hotel. It is a summer night: the French window behind them stands open. The terrace without overlooks a moonlit harbor. The lounge is dark. The chesterfield, upholstered in silver grey, and the two figures on it in evening dress, catch the light from an arc lamp somewhere; but the walls, covered with a dark green paper, are in gloom. There are two stray chairs, one on each side. On the **Gentleman’s** right, behind him up near the window, is an unused fireplace. Opposite it on the **Lady’s** left is a door. The **Gentleman** is on the **Lady’s** right.
@@ -607,3 +619,781 @@ Mrs. Lunn
 朱诺太太　荒唐！哦！咱们这是在做梦。咱们——*门开；**西布索普·朱诺**（Sibthorpe Juno）偕**伦恩太太**出现在走廊的玫瑰色光晕里（走廊恰好糊着粉红墙纸），俨然维纳斯山中的唐怀瑟。他是个风风火火、忙忙叨叨的小个子男人，拿发蜡捻胡子尖、衣着一丝不苟，给自己造出几分风流气。她是个高挑、气派、美艳、慵懒的女人，黑眸灼灼，长睫低垂。两人径直走向长榻，全然没注意两侧幽暗里贴墙屏息的两个身影。两个身影悄没声地一掠出窗，没了。*
 朱诺　*献着殷勤。*啊：到了。*他在前引路至榻边。*坐：您一定累了。*她坐下。*这就对了。*他在她左侧坐下。*咦！*他起身*这沙发是热的。
 伦恩太太　*意兴阑珊。*是吗？我没觉出来。怕是太阳晒的。
+
+===Original===
+
+Juno
+I felt it quite distinctly: I’m more thinly clad than you. *He sits down again, and proceeds, with a sigh of satisfaction.* What a relief to get off the ship and have a private room! That’s the worst of a ship. You’re under observation all the time.
+Mrs. Lunn
+But why not?
+Juno
+Well, of course there’s no reason: at least I suppose not. But, you know, part of the romance of a journey is that a man keeps imagining that something might happen; and he can’t do that if there are a lot of people about and it simply can’t happen.
+Mrs. Lunn
+Mr. Juno: romance is all very well on board ship; but when your foot touches the soil of England there’s an end of it.
+Juno
+No: believe me, that’s a foreigner’s mistake: we are the most romantic people in the world, we English. Why, my very presence here is a romance.
+Mrs. Lunn
+*Faintly ironical.* Indeed?
+Juno
+Yes. You’ve guessed, of course, that I’m a married man.
+Mrs. Lunn
+Oh, that’s all right. I’m a married woman.
+Juno
+Thank Heaven for that! To my English mind, passion is not real passion without guilt. I am a red-blooded man, Mrs. Lunn: I can’t help it. The tragedy of my life is that I married, when quite young, a woman whom I couldn’t help being very fond of. I longed for a guilty passion﻿—for the real thing﻿—the wicked thing; and yet I couldn’t care twopence for any other woman when my wife was about. Year after year went by: I felt my youth slipping away without ever having had a romance in my life; for marriage is all very well; but it isn’t romance. There’s nothing wrong in it, you see.
+Mrs. Lunn
+Poor man! How you must have suffered!
+Juno
+No: that was what was so tame about it. I *wanted* to suffer. You get so sick of being happily married. It’s always the happy marriages that break up. At last my wife and I agreed that we ought to take a holiday.
+Mrs. Lunn
+Hadn’t you holidays every year?
+Juno
+Oh, the seaside and so on! That’s not what we meant. We meant a holiday from one another.
+Mrs. Lunn
+How very odd!
+Juno
+She said it was an excellent idea; that domestic felicity was making us perfectly idiotic; that she wanted a holiday, too. So we agreed to go round the world in opposite directions. I started for Suez on the day she sailed for New York.
+Mrs. Lunn
+*Suddenly becoming attentive.* That’s precisely what Gregory and I did. Now I wonder did he want a holiday from me!
+
+===Chinese===
+
+朱诺　我感觉得清清楚楚：我穿得比您单薄。*他重新坐下，舒了口气，接着往下说。*下了船，有了间私人客厅，真是如释重负！船最糟就糟在这儿：你时时刻刻都在人眼皮子底下。
+伦恩太太　可这有什么不好？
+朱诺　呃，当然没什么道理：至少我想是没有。可是您知道，旅途的一段罗曼史，就在于一个男人总在想象可能出什么事；要是周围全是人，那事压根儿不可能发生，他也就想象不成了。
+伦恩太太　朱诺先生：罗曼史在船上怎么都好；可您的脚一沾英格兰的土地，罗曼史就到头了。
+朱诺　不：请您相信，那是外国人的误解：我们英国人是天下最罗曼蒂克的民族。瞧，我此刻坐在这里，本身就是一桩罗曼史。
+伦恩太太　*带着淡淡的讥诮。*是吗？
+朱诺　是的。您当然猜到了，我是个有妇之夫。
+伦恩太太　哦，那正好。我是个有夫之妇。
+朱诺　谢天谢地！在我这颗英国头脑看来，没有罪孽的激情算不得真正的激情。我是个血气旺盛的男人，伦恩太太：我管不住自己。我这辈子的悲剧是：年纪轻轻娶了一位叫我不能不恩爱的太太。我渴望一段罪孽的激情——渴望真格的那一回——坏的那一回；可只要我太太在跟前，别的女人我就是爱不上一个铜板。一年又一年过去：我觉得青春从指缝里溜走，一辈子连一段罗曼史都没捞着；因为婚姻固然不坏；可它不是罗曼史。您瞧，这里头没有一点错处。
+伦恩太太　可怜的人！您受的那个罪哟！
+朱诺　不：要命的正在这儿，太温吞了。我*想*受罪。幸福美满的婚姻会把人腻死。散伙的从来都是美满婚姻。到后来，我太太和我商定：我们该放个假。
+伦恩太太　你们不是年年放假吗？
+朱诺　哦，到海边之类！那不是我们的意思。我们的意思是：互相放个假。
+伦恩太太　多新鲜！
+朱诺　她说这主意妙极了；说家庭的安乐正把我们变成一对十足的傻子；说她自己也想放个假。于是我们商定，绕着地球朝相反的方向各走一圈。她起航去纽约那天，我动身去了苏伊士（Suez）。
+伦恩太太　*陡然来了精神。*这同我和格雷戈里做的一模一样。这我就纳闷了：他当时是不是也想跟我放个假！
+
+===Original===
+
+What he said was that he wanted the delight of meeting me after a long absence.
+Juno
+Could anything be more romantic than that? Would anyone else than an Englishman have thought of it? I daresay my temperament seems tame to your boiling southern blood﻿—
+Mrs. Lunn
+My what!
+Juno
+Your southern blood. Don’t you remember how you told me, that night in the saloon when I sang “Farewell and adieu to you dear Spanish ladies,” that you were by birth a lady of Spain? Your splendid Andalusian beauty speaks for itself.
+Mrs. Lunn
+Stuff! I was born in Gibraltar. My father was Captain Jenkins. In the artillery.
+Juno
+*Ardently.* It is climate and not race that determines the temperament. The fiery sun of Spain blazed on your cradle; and it rocked to the roar of British cannon.
+Mrs. Lunn
+What eloquence! It reminds me of my husband when he was in love﻿—before we were married. Are you in love?
+Juno
+Yes; and with the same woman.
+Mrs. Lunn
+Well, of course, I didn’t suppose you were in love with two women.
+Juno
+I don’t think you quite understand. I meant that I am in love with you.
+Mrs. Lunn
+*Relapsing into deepest boredom.* Oh, that! Men do fall in love with me. They all seem to think me a creature with volcanic passions: I’m sure I don’t know why; for all the volcanic women I know are plain little creatures with sandy hair. I don’t consider human volcanoes respectable. And I’m so tired of the subject! Our house is always full of women who are in love with my husband and men who are in love with me. We encourage it because it’s pleasant to have company.
+Juno
+And is your husband as insensible as yourself?
+Mrs. Lunn
+Oh, Gregory’s not insensible: very far from it; but I am the only woman in the world for him.
+Juno
+But you? Are you really as insensible as you say you are?
+Mrs. Lunn
+I never said anything of the kind. I’m not at all insensible by nature; but (I don’t know whether you’ve noticed it) I am what people call rather a fine figure of a woman.
+Juno
+*Passionately.* Noticed it! Oh, Mrs. Lunn! Have I been able to notice anything else since we met?
+Mrs. Lunn
+There you go, like all the rest of them! I ask you, how do you expect a woman to keep up what you call her sensibility when this sort of thing has happened to her about three times a week ever since she was seventeen? It used to upset me and terrify me at first. Then I got rather a taste for it.
+
+===Chinese===
+
+他说的是，他想享受久别重逢、再见着我的快乐。
+朱诺　还有比这更罗曼蒂克的吗？除了英国人，谁想得出这一出？我敢说，在您那沸腾的南方热血看来，我的气质未免温吞——
+伦恩太太　我的什么！
+朱诺　您的南方热血。您不记得了吗，那晚在客厅里，我唱着“别了，向你们致敬，亲爱的西班牙女士们”，您对我说，您生来是位西班牙贵妇？您那安达卢西亚式的倾城之美，自己会说话。
+伦恩太太　瞎说！我生在直布罗陀（Gibraltar）。我父亲是詹金斯上尉（Captain Jenkins）。炮兵。
+朱诺　*热烈地。*决定气质的是气候，不是血统。西班牙的烈日灼照过您的摇篮；那摇篮还在英国炮的轰鸣里摇晃呢。
+伦恩太太　好口才！叫我想起我丈夫谈恋爱那阵子——结婚以前。您在恋爱吗？
+朱诺　在；而且是同一位女士。
+伦恩太太　呃，当然，我没以为您同时爱着两位。
+朱诺　我看您没听明白。我是说，我爱上您了。
+伦恩太太　*重新陷入深深的厌倦。*哦，这个呀！男人们总是爱上我。他们个个都当我是座火山似的尤物：我实在不明白为什么；因为我认得的火山女人，净是些黄头发的矮个儿，长相平平。我不认为人形火山有什么体面。这题目我早听腻了！我们家常年满屋子都是爱上我丈夫的女人和爱上我的男人。我们纵容这个，因为有客热闹。
+朱诺　那么您丈夫也同您一样无动于衷？
+伦恩太太　哦，格雷戈里可不是无动于衷：差得远呢；不过我是这世上他唯一的女人。
+朱诺　那您呢？您当真像自己说的那样无动于衷？
+伦恩太太　我可从来没说过这种话。我天性一点也不麻木；只是（不知您留意没有）我就是人们所谓一等一的好身材的女人。
+朱诺　*激情满怀地。*留意！哦，伦恩太太！自打见面，我还留意过别的吗？
+伦恩太太　瞧您，跟其余那些人一个样！我问您，这种事打十七岁起一礼拜总要碰上三回，您叫一个女人怎么维持您所谓的那点敏感劲儿？起初我也着慌、也害怕。后来倒咂摸出点滋味来了。
+
+===Original===
+
+It came to a climax with Gregory: that was why I married him. Then it became a mild lark, hardly worth the trouble. After that I found it valuable once or twice as a spinal tonic when I was run down; but now it’s an unmitigated bore. I don’t mind your declaration: I daresay it gives you a certain pleasure to make it. I quite understand that you adore me; but (if you don’t mind) I’d rather you didn’t keep on saying so.
+Juno
+Is there then no hope for me?
+Mrs. Lunn
+Oh, yes. Gregory has an idea that married women keep lists of the men they’ll marry if they become widows. I’ll put your name down, if that will satisfy you.
+Juno
+Is the list a long one?
+Mrs. Lunn
+Do you mean the real list? Not the one I show to Gregory: there are hundreds of names on that; but the little private list that he’d better not see?
+Juno
+Oh, will you really put me on that? Say you will.
+Mrs. Lunn
+Well, perhaps I will. *He kisses her hand.* Now don’t begin abusing the privilege.
+Juno
+May I call you by your Christian name?
+Mrs. Lunn
+No: it’s too long. You can’t go about calling a woman Seraphita.
+Juno
+*Ecstatically.* Seraphita!
+Mrs. Lunn
+I used to be called Sally at home; but when I married a man named Lunn, of course that became ridiculous. That’s my one little pet joke. Call me Mrs. Lunn for short. And change the subject, or I shall go to sleep.
+Juno
+I can’t change the subject. For me there is no other subject. Why else have you put me on your list?
+Mrs. Lunn
+Because you’re a solicitor. Gregory’s a solicitor. I’m accustomed to my husband being a solicitor and telling me things he oughtn’t to tell anybody.
+Juno
+*Ruefully.* Is that all? Oh, I can’t believe that the voice of love has ever thoroughly awakened you.
+Mrs. Lunn
+No: it sends me to sleep. ***Juno** appeals against this by an amorous demonstration.* It’s no use, Mr. Juno: I’m hopelessly respectable: the Jenkinses always were. Don’t you realize that unless most women were like that, the world couldn’t go on as it does?
+Juno
+*Darkly.* You think it goes on respectably; but I can tell you as a solicitor﻿—
+Mrs. Lunn
+Stuff! of course all the disreputable people who get into trouble go to you, just as all the sick people go to the doctors; but most people never go to a solicitor.
+Juno
+*Rising, with a growing sense of injury.* Look here, Mrs. Lunn: do you think a man’s heart is a potato? or a turnip? or a ball of knitting wool?
+
+===Chinese===
+
+到了格雷戈里那儿算是登峰造极：所以我就嫁了他。再往后，成了桩不痛不痒的风流小案，费那个劲都不值。后来有一两回身子亏空，我发现它当脊椎滋补剂还挺管用；可如今是彻头彻尾的麻烦。我不怪您表白：我敢说表白那么一下，也给您几分快感。您崇拜我，这我完全明白；只是（您别见怪）求您别反反复复挂在嘴上。
+朱诺　那么我没有指望了？
+伦恩太太　哦，有。格雷戈里有个见解：凡做太太的都备着一张单子，开列万一守了寡要嫁的男人。您要是满意，我把您名字写上。
+朱诺　那张单子长吗？
+伦恩太太　您问的是真单子？不是给格雷戈里看的那张：那张上头几百个名字；我是说那张他最好别瞧见的小小私单？
+朱诺　哦，您真肯把我写上那张？说您肯。
+伦恩太太　唔，兴许肯。*他吻她的手。*得了，别得寸进尺。
+朱诺　我可以叫您的教名吗？
+伦恩太太　不行：太长。您总不能满处去管一位女士叫塞拉菲塔。
+朱诺　*心醉神迷地。*塞拉菲塔！
+伦恩太太　我在家从前叫萨莉（Sally）；可等嫁了一位姓伦恩的先生，这名字自然就滑稽了。这是我私藏的小玩笑。简称还是伦恩太太吧。换个话题，不然我要睡着了。
+朱诺　我换不了。对我来说没有别的话题。不然您干嘛把我写上单子？
+伦恩太太　因为您是位律师。格雷戈里也是律师。我惯了我丈夫当律师、惯了他对我说那些他谁也不该告诉的事。
+朱诺　*哭丧着脸。*就为这个？哦，我不信爱神的声音真正唤醒过您。
+伦恩太太　没有：它催眠。*朱诺以一个恩爱动作表示抗议。*没用的，朱诺先生：我体面得不可救药：詹金斯家的人从来如此。您难道不明白，要不是大多数女人都这样，世界哪能照现在这么转？
+朱诺　*阴沉地。*您当它转得体面；可我以律师的身份告诉您——
+伦恩太太　瞎说！自然，招灾惹祸的不体面人全上您那儿去，正如害病的人全去找大夫；可大多数人一辈子不打律师的交道。
+朱诺　*起身，委屈渐涨。*听着，伦恩太太：您当男人的心是颗土豆？是颗芜菁？还是一团绒线？
+
+===Original===
+
+that you can throw it away like this?
+Mrs. Lunn
+I don’t throw away balls of knitting wool. A man’s heart seems to me much like a sponge: it sops up dirty water as well as clean.
+Juno
+I have never been treated like this in my life. Here am I, a married man, with a most attractive wife: a wife I adore, and who adores me, and has never as much as looked at any other man since we were married. I come and throw all this at your feet. I! I, a solicitor! braving the risk of your husband putting me into the divorce court and making me a beggar and an outcast! I do this for your sake. And you go on as if I were making no sacrifice: as if I had told you it’s a fine evening, or asked you to have a cup of tea. It’s not human. It’s not right. Love has its rights as well as respectability. *He sits down again, aloof and sulky.*
+Mrs. Lunn
+Nonsense! Here, here’s a flower. *She gives him one.* Go and dream over it until you feel hungry. Nothing brings people to their senses like hunger.
+Juno
+*Contemplating the flower without rapture.* What good’s this?
+Mrs. Lunn
+*Snatching it from him.* Oh! you don’t love me a bit.
+Juno
+Yes I do. Or at least I did. But I’m an Englishman; and I think you ought to respect the conventions of English life.
+Mrs. Lunn
+But I am respecting them; and you’re not.
+Juno
+Pardon me. I may be doing wrong; but I’m doing it in a proper and customary manner. You may be doing right; but you’re doing it in an unusual and questionable manner. I am not prepared to put up with that. I can stand being badly treated: I’m no baby, and can take care of myself with anybody. And of course I can stand being well treated. But the thing I can’t stand is being unexpectedly treated. It’s outside my scheme of life. So come now! you’ve got to behave naturally and straightforwardly with me. You can leave husband and child, home, friends, and country, for my sake, and come with me to some southern isle﻿—or say South America﻿—where we can be all in all to one another. Or you can tell your husband and let him jolly well punch my head if he can. But I’m damned if I’m going to stand any eccentricity. It’s not respectable.
+Gregory
+*Coming in from the terrace and advancing with dignity to his wife’s end of the chesterfield.* Will you have the goodness, sir, in addressing this lady, to keep your temper and refrain from using profane language?
+Mrs. Lunn
+*Rising, delighted.* Gregory!
+
+===Chinese===
+
+——由得您就这么扔？
+伦恩太太　我可不扔绒线团。男人的心在我看来倒像块海绵：脏水清水一样吸。
+朱诺　我这辈子没受过这种待遇。我，一个有妇之夫，家里一位千娇百媚的太太：我爱她爱得死心塌地，她也爱我，打结婚起正眼没瞧过第二个男人。我跑来把这一切都捧到您脚前。我！我，一个律师！冒着您丈夫把我拖进离婚法庭、把我变成乞丐、逐出体面的风险！我这是为您。您倒好，只当我不曾牺牲半分：只当我说了句今晚天气真好，或请您喝了杯茶。这不像话。这不对。爱情同体面一样，有它的权利。*他重新坐下，冷淡而愠怒。*
+伦恩太太　胡说！来，这朵花儿给您。*她给他一朵花。*拿着做梦去吧，做到肚子饿。什么都治糊涂，饿最灵。
+朱诺　*对着花端详，无动于衷。*这有什么用？
+伦恩太太　*一把夺回。*哦！您压根儿不爱我。
+朱诺　爱，我当然爱。至少从前爱。可我是英国人；我以为您该尊重英国生活的成规。
+伦恩太太　我正尊重着呢；倒是您不尊重。
+朱诺　不敢苟同。我也许在作恶；可我作得得体、合乎惯例。您也许在行善；可您行得古怪、招人物议。这个我不能答应。我可以受虐待：我不是娃娃，跟谁过招都照料得了自己。我当然也受得了善待。可我受不了的，是待遇来得出人意料。它在我的人生方案之外。所以说定了！您得对我自然一点、爽直一点。您可以为我抛下丈夫孩子、家园朋友和祖国，随我到什么南方岛屿去——或者说南美去——在那里你我彼此就是彼此的一切。您也可以告诉您丈夫，让他有本事就狠狠揍我脑袋。可我死也不受这份古怪。这不体面。
+格雷戈里　*从露台进来，庄重地走到长靠榻他妻子那一头。*先生，劳您驾，同这位女士讲话时，请您守住体统，勿出秽言。
+伦恩太太　*起身，喜出望外。*格雷戈里！
+
+===Original===
+
+Darling! *She enfolds him in a copious embrace.*
+Juno
+*Rising.* You make love to another man to my face!
+Mrs. Lunn
+Why, he’s my husband.
+Juno
+That takes away the last rag of excuse for such conduct. A nice world it would be if married people were to carry on their endearments before everybody!
+Gregory
+This is ridiculous. What the devil business is it of yours what passes between my wife and myself? You’re not her husband, are you?
+Juno
+Not at present; but I’m on the list. I’m her prospective husband: you’re only her actual one. I’m the anticipation: you’re the disappointment.
+Mrs. Lunn
+Oh, my Gregory is not a disappointment. *Fondly.* Are you, dear?
+Gregory
+You just wait, my pet. I’ll settle this chap for you. *He disengages himself from her embrace, and faces **Juno**. She sits down placidly.* You call me a disappointment, do you? Well, I suppose every husband’s a disappointment. What about yourself? Don’t try to look like an unmarried man. I happen to know the lady you disappointed. I travelled in the same ship with her; and﻿—
+Juno
+And you fell in love with her.
+Gregory
+*Taken aback.* Who told you that?
+Juno
+Aha! you confess it. Well, if you want to know, nobody told me. Everybody falls in love with my wife.
+Gregory
+And do you fall in love with everybody’s wife?
+Juno
+Certainly not. Only with yours.
+Mrs. Lunn
+But what’s the good of saying that, Mr. Juno? I’m married to him; and there’s an end of it.
+Juno
+Not at all. You can get a divorce.
+Mrs. Lunn
+What for?
+Juno
+For his misconduct with my wife.
+Gregory
+*Deeply indignant.* How dare you, sir, asperse the character of that sweet lady? a lady whom I have taken under my protection.
+Juno
+Protection!
+Mrs. Juno
+*Returning hastily.* Really you must be more careful what you say about me, Mr. Lunn.
+Juno
+My precious! *He embraces her.* Pardon this betrayal of my feeling; but I’ve not seen my wife for several weeks; and she is very dear to me.
+Gregory
+I call this cheek. Who is making love to his own wife before people now, pray?
+Mrs. Lunn
+Won’t you introduce me to your wife, Mr. Juno?
+Mrs. Juno
+How do you do? *They shake hands; and **Mrs. Juno** sits down beside **Mrs. Lunn**, on her left.*
+Mrs. Lunn
+I’m so glad to find you do credit to Gregory’s taste. I’m naturally rather particular about the women he falls in love with.
+Juno
+*Sternly.* This is no way to take your husband’s unfaithfulness. *To **Lunn**.
+
+===Chinese===
+
+心肝儿！*她张开双臂，把他结结实实抱了个满怀。*
+朱诺　*起身。*您当着我的面同别的男人调情！
+伦恩太太　嗐，他是我丈夫。
+朱诺　这可把这种行径的最后一块遮羞布也扒掉了。做夫妻的若当着众人施展恩爱，这世界成什么体统！
+格雷戈里　荒唐透顶。我跟我太太之间的事，干您什么事？您不是她丈夫，对吧？
+朱诺　眼下不是；可我在单子上。我是她未来式的丈夫：您不过是现在式的。我是盼望：您是失望。
+伦恩太太　哦，我的格雷戈里可不算失望。*娇痴地。*对不对，亲爱的？
+格雷戈里　你等着，宝贝儿。我替你收拾这家伙。*他从她怀里挣出来，面对**朱诺**。她安然坐下。*你管我叫失望，是吗？唉，我想天下丈夫个个是失望。那你自己呢？别装单身汉了。我恰好认得你叫失望的那位太太。我同她搭的同一班船；而且——
+朱诺　而且你爱上了她。
+格雷戈里　*猝不及防。*谁告诉你的？
+朱诺　啊哈！招认了。不瞒你说——想知道吗，没人告诉我。人人都要爱上我太太。
+格雷戈里　那么你见人家的太太就爱吗？
+朱诺　当然不。独独爱你的。
+伦恩太太　可说这个有什么用呢，朱诺先生？我嫁的是他；木已成舟。
+朱诺　一点也不。可以离婚嘛。
+伦恩太太　凭什么离？
+朱诺　凭他同我太太的行为失当。
+格雷戈里　*义愤填膺。*先生，您怎敢玷污那位可爱女士的名节？她如今是在我保护之下的女士。
+朱诺　保护！
+朱诺太太　*匆匆返回。*伦恩先生，往后谈论我，请您嘴下留神。
+朱诺　我的宝贝儿！*他拥抱她。*恕我一时情动失态；我几个礼拜没见我太太了；她于我是极亲爱的。
+格雷戈里　我说这叫不要脸。这会儿当着人大搞恩爱的，请问又是谁跟他自己的太太？
+伦恩太太　不给我们引见一下您太太吗，朱诺先生？
+朱诺太太　您好。*两人握手；**朱诺太太**在**伦恩太太**左侧、她身旁坐下。*
+伦恩太太　真高兴，您总算配得上格雷戈里的眼光。他爱上的那些女人，我天然是要挑剔挑剔的。
+朱诺　*声色俱厉。*丈夫不忠，可不是这等应付法。*转向**伦恩**。*
+
+===Original===
+
+* You ought to teach your wife better. Where’s her feelings? It’s scandalous.
+Gregory
+What about your own conduct, pray?
+Juno
+I don’t defend it; and there’s an end of the matter.
+Gregory
+Well, upon my soul! What difference does your not defending it make?
+Juno
+A fundamental difference. To serious people I may appear wicked. I don’t defend myself: I am wicked, though not bad at heart. To thoughtless people I may even appear comic. Well, laugh at me: I have given myself away. But Mrs. Lunn seems to have no opinion at all about me. She doesn’t seem to know whether I’m wicked or comic. She doesn’t seem to care. She has no moral sense. I say it’s not right. I repeat, I have sinned; and I’m prepared to suffer.
+Mrs. Juno
+Have you really sinned, Tops?
+Mrs. Lunn
+*Blandly.* I don’t remember your sinning. I have a shocking bad memory for trifles; but I think I should remember that﻿—if you mean me.
+Juno
+*Raging.* Trifles! I have fallen in love with a monster.
+Gregory
+Don’t you dare call my wife a monster.
+Mrs. Juno
+*Rising quickly and coming between them.* Please don’t lose your temper, Mr. Lunn: I won’t have my Tops bullied.
+Gregory
+Well, then, let him not brag about sinning with my wife. *He turns impulsively to his wife; makes her rise; and takes her proudly on his arm.* What pretension has he to any such honor?
+Juno
+I sinned in intention. ***Mrs. Juno** abandons him and resumes her seat, chilled.* I’m as guilty as if I had actually sinned. And I insist on being treated as a sinner, and not walked over as if I’d done nothing, by your wife or any other man.
+Mrs. Lunn
+Tush! *She sits down again contemptuously.*
+Juno
+*Furious.* I won’t be belittled.
+Mrs. Lunn
+*To **Mrs. Juno**.* I hope you’ll come and stay with us now that you and Gregory are such friends, Mrs. Juno.
+Juno
+This insane magnanimity﻿—
+Mrs. Lunn
+Don’t you think you’ve said enough, Mr. Juno? This is a matter for two women to settle. Won’t you take a stroll on the beach with my Gregory while we talk it over. Gregory is a splendid listener.
+Juno
+I don’t think any good can come of a conversation between Mr. Lunn and myself. We can hardly be expected to improve one another’s morals. *He passes behind the chesterfield to **Mrs. Lunn’s** end; seizes a chair; deliberately pushes it between **Gregory** and **Mrs. Lunn**; and sits down with folded arms, resolved not to budge.*
+Gregory
+Oh! Indeed! Oh, all right.
+
+===Chinese===
+
+您该把您太太调教得好一点。她的感情哪儿去了？成何体统。
+格雷戈里　那你自己的行径呢，请问？
+朱诺　我不辩护；此事到此为止。
+格雷戈里　嗬，我的老天！你辩不辩护，有什么两样？
+朱诺　根本的两样。在正经人眼里，我也许显得恶。我不辩护：我是恶，尽管心不坏。在轻浮人眼里，我甚至显得滑稽。好，笑我吧：我自己全招了。可伦恩太太似乎对我全无看法。她似乎吃不准我是恶还是滑稽。她似乎也不在乎。她没有道德感。我说这不对。我再说一遍：我犯了罪；我也预备受罚。
+朱诺太太　你真犯罪了吗，托普斯？
+伦恩太太　*和颜悦色地。*我不记得你犯过罪。我对鸡毛蒜皮记性坏得吓人；不过那桩，我想我该记得——如果你指我的话。
+朱诺　*勃然大怒。*鸡毛蒜皮！我爱上了一个怪物。
+格雷戈里　你敢叫我太太怪物。
+朱诺太太　*一跃而起，插到两人中间。*请别动气，伦恩先生：不许人欺负我的托普斯。
+格雷戈里　那么，就别让他吹嘘同我太太犯罪。*他冲动地转向自己太太；拉她起身；得意地挽上她的手臂。*他哪一点配得上这份光荣？
+朱诺　我犯了心意之罪。***朱诺太太**撇下他，心灰意冷地坐回原位。*我的罪，同真犯了的一样重。我坚持要人按罪人待我；不许你太太也好、别的男人也好，拿我当没事人一样从身上踩过去。
+伦恩太太　啐！*她不屑地重新坐下。*
+朱诺　*狂怒。*我不许人小看我。
+伦恩太太　*对**朱诺太太**。*既然您同格雷戈里如今这么要好，朱诺太太，望您来我们这儿住住。
+朱诺　这种疯癫的大度——
+伦恩太太　您不觉得自己说得够多了吗，朱诺先生？这是两位女士之间的事。趁我们商量，请您陪我的格雷戈里去海滩遛个弯儿，好不好。格雷戈里是位顶好的听众。
+朱诺　我看伦恩先生同我谈不出什么好来。总不能指望我们俩互相提升道德吧。*他从长榻后绕到**伦恩太太**那一头；抓过一把椅子；不紧不慢地把它塞到**格雷戈里**和**伦恩太太**中间；抱臂坐下，打定主意不挪窝。*
+格雷戈里　哦！好啊！哦，行啊。
+
+===Original===
+
+If you come to that﻿—*He crosses to **Mrs. Juno**; plants a chair by her side; and sits down with equal determination.*
+Juno
+Now we are both equally guilty.
+Gregory
+Pardon me. I’m not guilty.
+Juno
+In intention. Don’t quibble. You were guilty in intention, as I was.
+Gregory
+No. I should rather describe myself guilty in fact, but not in intention.
+*Rising and exclaiming simultaneously.*
+Juno
+What!
+Mrs. Juno
+No, really﻿—
+Mrs. Lunn
+Gregory!
+Gregory
+Yes: I maintain that I am responsible for my intentions only, and not for reflex actions over which I have no control. ***Mrs. Juno** sits down, ashamed.* I promised my mother that I would never tell a lie, and that I would never make love to a married woman. I never have told a lie﻿—
+Mrs. Lunn
+*Remonstrating.* Gregory! *She sits down again.*
+Gregory
+I say never. On many occasions I have resorted to prevarication; but on great occasions I have always told the truth. I regard this as a great occasion; and I won’t be intimidated into breaking my promise. I solemnly declare that I did not know until this evening that Mrs. Juno was married. She will bear me out when I say that from that moment my intentions were strictly and resolutely honorable; though my conduct, which I could not control and am therefore not responsible for, was disgraceful﻿—or would have been had this gentleman not walked in and begun making love to my wife under my very nose.
+Juno
+*Flinging himself back into his chair.* Well, I like this!
+Mrs. Lunn
+Really, darling, there’s no use in the pot calling the kettle black.
+Gregory
+When you say darling, may I ask which of us you are addressing?
+Mrs. Lunn
+I really don’t know. I’m getting hopelessly confused.
+Juno
+Why don’t you let my wife say something? I don’t think she ought to be thrust into the background like this.
+Mrs. Lunn
+I’m sorry, I’m sure. Please excuse me, dear.
+Mrs. Juno
+*Thoughtfully.* I don’t know what to say. I must think over it. I have always been rather severe on this sort of thing; but when it came to the point I didn’t behave as I thought I should behave. I didn’t intend to be wicked; but somehow or other, Nature, or whatever you choose to call it, didn’t take much notice of my intentions. ***Gregory** instinctively seeks her hand and presses it.* And I really did think, Tops, that I was the only woman in the world for you.
+Juno
+*Cheerfully.* Oh, that’s all right, my precious. Mrs.
+
+===Chinese===
+
+要论这个嘛——*他走到**朱诺太太**那边；在她身旁落一把椅子；以同等的决心坐下。*
+朱诺　这下咱们俩一样有罪了。
+格雷戈里　对不起。我没罪。
+朱诺　有罪在心。别抠字眼。你在心意上有罪，同我一样。
+格雷戈里　不。我倒宁可说自己有罪在行，无罪在心。
+*两人同时起身，同时惊呼。*
+朱诺　什么！
+朱诺太太　不，当真——
+伦恩太太　格雷戈里！
+格雷戈里　是：我坚持认为，我只对自己的心意负责；至于反射动作，我管不住，概不负责。***朱诺太太**羞惭坐下。*我答应过我母亲，一辈子不说谎，一辈子不向有夫之妇求爱。我从没说过谎——
+伦恩太太　*出言规劝。*格雷戈里！*她重新坐下。*
+格雷戈里　我说从没。多少场合，我借遁词搪塞过；但遇大事，我句句是实话。今天我就当它是大事；谁也吓不破我的承诺。我郑重声明：直到今晚之前，我并不知道朱诺太太是有夫之妇。我这样说，她是会作证的：从那一刻起，我的心意就严格而坚决地端正了；至于我的行为——我管不住、因而不必负责的行为——则是丢人的——或者说，倘若不是这位先生闯进来、当着我的鼻子向我太太求爱，它本会是很丢人的。
+朱诺　*整个人摔回椅子里。*嗬，好嘛！
+伦恩太太　得了，亲爱的，五十步就别笑百步了。
+格雷戈里　你说“亲爱的”，请问你叫的是我们哪一位？
+伦恩太太　我真不知道。我已经糊涂得一塌糊涂了。
+朱诺　怎么不让我太太说句话？她不该这么被挤到边上。
+伦恩太太　抱歉，实在抱歉。请别见怪，亲爱的。
+朱诺太太　*若有所思。*我不知道说什么好。我得想一想。这种事我一向挺严厉；可事到临头，我的表现并不像自己料想的那样。我没打算使坏；可不知怎么，自然——随便您管它叫什么——并不怎么理会我的心意。***格雷戈里**不由自主地寻到她的手，握住。*托普斯，我还真一直以为，这世上我是你唯一的女人呢。
+朱诺　*高高兴兴地。*哦，没事了，我的宝贝儿。伦恩太太还当自己是世上他唯一的女人呢。
+
+===Original===
+
+Lunn thought she was the only woman in the world for him.
+Gregory
+*Reflectively.* So she is, in a sort of way.
+Juno
+*Flaring up.* And so is my wife. Don’t you set up to be a better husband than I am; for you’re not. I’ve owned I’m wrong. You haven’t.
+Mrs. Lunn
+Are you sorry, Gregory?
+Gregory
+*Perplexed.* Sorry?
+Mrs. Lunn
+Yes, sorry. I think it’s time for you to say you’re sorry, and to make friends with Mr. Juno before we all dine together.
+Gregory
+Seraphita: I promised my mother﻿—
+Mrs. Juno
+*Involuntarily.* Oh, bother your mother! *Recovering herself.* I beg your pardon.
+Gregory
+A promise is a promise. I can’t tell a deliberate lie. I know I ought to be sorry; but the flat fact is that I’m not sorry. I find that in this business, somehow or other, there is a disastrous separation between my moral principles and my conduct.
+Juno
+There’s nothing disastrous about it. It doesn’t matter about your conduct if your principles are all right.
+Gregory
+Bosh! It doesn’t matter about your principles if your conduct is all right.
+Juno
+But your conduct isn’t all right; and my principles are.
+Gregory
+What’s the good of your principles being right if they won’t work?
+Juno
+They *will* work, sir, if you exercise self-sacrifice.
+Gregory
+Oh yes: if, if, if. You know jolly well that self-sacrifice doesn’t work either when you really want a thing. How much have you sacrificed yourself, pray?
+Mrs. Lunn
+Oh, a great deal, Gregory. Don’t be rude. Mr. Juno is a very nice man: he has been most attentive to me on the voyage.
+Gregory
+And Mrs. Juno’s a very nice woman. She oughtn’t to be; but she is.
+Juno
+Why oughtn’t she to be a nice woman, pray?
+Gregory
+I mean she oughtn’t to be nice to me. And you oughtn’t to be nice to my wife. And your wife oughtn’t to like me. And my wife oughtn’t to like you. And if they do, they oughtn’t to go on liking us. And I oughtn’t to like your wife; and you oughtn’t to like mine; and if we do we oughtn’t to go on liking them. But we do, all of us. We oughtn’t; but we do.
+Juno
+But, my dear boy, if we admit we are in the wrong where’s the harm of it? We’re not perfect; but as long as we keep the ideal before us﻿—
+Gregory
+How?
+Juno
+By admitting we’re wrong.
+Mrs. Lunn
+*Springing up, out of patience, and pacing round the lounge intolerantly.* Well, really, I must have my dinner.
+
+===Chinese===
+
+格雷戈里　*若有所思。*某种意义上，她确实是。
+朱诺　*火冒三丈。*我太太也是。少充比我高明的丈夫；你不配。我认了错。你还没认呢。
+伦恩太太　你后悔了吗，格雷戈里？
+格雷戈里　*犯难。*后悔？
+伦恩太太　对，后悔。我看时候到了，你该说声后悔，同朱诺先生言归于好，咱们好一齐入席用饭。
+格雷戈里　塞拉菲塔：我答应过我母亲——
+朱诺太太　*脱口而出。*哦，去你的母亲吧！*自觉失言。*对不起。
+格雷戈里　承诺就是承诺。我不能存心说谎。我知道我该后悔；可白纸黑字的事实是：我不后悔。我发现在这桩事里，不知怎么，我的道德原则同我的行为之间，发生了一场灾难性的分离。
+朱诺　这没什么灾难性。原则只要站得住，行为不当紧。
+格雷戈里　呸！行为只要站得住，原则不当紧。
+朱诺　可你的行为站不住；我的原则站得住。
+格雷戈里　你的原则站得住却使不出来，有什么用？
+朱诺　使得出，先生，只要你肯自我牺牲。
+格雷戈里　哦，是，要是，要是，要是。你心里明镜似的：真想要一样东西的时候，自我牺牲同样使不出来。请问你自己牺牲了多少？
+伦恩太太　哦，可不少呢，格雷戈里。别没规矩。朱诺先生是位很好的先生：这一路上待我殷勤极了。
+格雷戈里　朱诺太太也是位很好的女士。她本不该是；可她就是。
+朱诺　请问，她凭什么不该是位好女士？
+格雷戈里　我的意思是，她不该对我好。而你也不该对我太太好。你太太不该喜欢我。我太太也不该喜欢你。她们要是喜欢了，就不该继续喜欢下去。我呢，不该喜欢你太太；你呢，不该喜欢我太太；咱们要是喜欢了，就不该继续喜欢下去。可咱们全都喜欢。不该；可就是喜欢。
+朱诺　可是，亲爱的伙计，咱们既认了错，错处又伤着谁了？咱们不是完人；可只要理想始终悬在眼前——
+格雷戈里　怎么悬？
+朱诺　认错呗。
+伦恩太太　*一跃而起，忍无可忍，绕着休息厅焦躁地踱步。*好了，说真的，我必须吃饭了。
+
+===Original===
+
+These two men, with their morality, and their promises to their mothers, and their admissions that they were wrong, and their sinning and suffering, and their going on at one another as if it meant anything, or as if it mattered, are getting on my nerves. *Stooping over the back of the chesterfield to address **Mrs. Juno**.* If you will be so very good, my dear, as to take my sentimental husband off my hands occasionally, I shall be more than obliged to you: I’m sure you can stand more male sentimentality than I can. *Sweeping away to the fireplace.* I, on my part, will do my best to amuse your excellent husband when you find him tiresome.
+Juno
+I call this polyandry.
+Mrs. Lunn
+I wish you wouldn’t call innocent things by offensive names, Mr. Juno. What do you call your own conduct?
+Juno
+*Rising.* I tell you I have admitted﻿—
+Gregory
+What’s the good of keeping on at that?
+Mrs. Juno
+Oh, not that again, please.
+Mrs. Lunn
+Tops: I’ll scream if you say that again.
+Juno
+Oh, well, if you won’t listen to me﻿—! *He sits down again.*
+Mrs. Juno
+What is the position now exactly? ***Mrs. Lunn** shrugs her shoulders and gives up the conundrum. **Gregory** looks at **Juno**. **Juno** turns away his head huffily.* I mean, what are we going to do?
+Mrs. Lunn
+What would you advise, Mr. Juno?
+Juno
+I should advise you to divorce your husband.
+Mrs. Lunn
+Do you want me to drag your wife into court and disgrace her?
+Juno
+No: I forgot that. Excuse me; but for the moment I thought I was married to you.
+Gregory
+I think we had better let bygones be bygones. *To **Mrs. Juno**, very tenderly.* You will forgive me, won’t you? Why should you let a moment’s forgetfulness embitter all our future life?
+Mrs. Juno
+But it’s Mrs. Lunn who has to forgive you.
+Gregory
+Oh, dash it, I forgot. This is getting ridiculous.
+Mrs. Lunn
+I’m getting hungry.
+Mrs. Juno
+Do you really mind, Mrs. Lunn?
+Mrs. Lunn
+My dear Mrs. Juno, Gregory is one of those terribly uxorious men who ought to have ten wives. If any really nice woman will take him off my hands for a day or two occasionally, I shall be greatly obliged to her.
+Gregory
+Seraphita: you cut me to the soul. *He weeps.*
+Mrs. Lunn
+Serve you right! You’d think it quite proper if it cut me to the soul.
+Mrs. Juno
+Am I to take Sibthorpe off your hands too, Mrs. Lunn?
+Juno
+*Rising.* Do you suppose I’ll allow this?
+Mrs.
+
+===Chinese===
+
+这两个男人，带着他们的道德，他们给母亲的承诺，他们认的错，他们的犯罪与受罚，还这么你来我往、没完没了，倒像这些顶什么用、顶什么似的，把我的神经全搅毛了。*俯身从长靠榻背上对**朱诺太太**说话。*亲爱的，您若肯发发慈悲，时不时把我这位伤感的丈夫接过去，我就感激不尽了：您对男人的伤感，耐受度准比我高。*一甩身走到壁炉前。*我呢，也必尽力，在您嫌他烦的时候，替您解闷您那位出色的丈夫。
+朱诺　我把这叫一妻多夫。
+伦恩太太　请您别拿难听的字眼称呼无辜的事，朱诺先生。那您自己的行径叫什么呢？
+朱诺　*起身。*我告诉过您，我认了——
+格雷戈里　翻来覆去认错有什么用？
+朱诺太太　哦，拜托，别又来了。
+伦恩太太　托普斯：再说一遍，我可要尖叫了。
+朱诺　哦，好吧，既然你们不听我的——！*他重新坐下。*
+朱诺太太　现在的局面究竟怎样？***伦恩太太**耸耸肩，放弃了这道谜题。**格雷戈里**看着**朱诺**。**朱诺**怄气地扭过头去。*我是说，咱们打算怎么办？
+伦恩太太　您有何高见，朱诺先生？
+朱诺　我建议您同丈夫离婚。
+伦恩太太　您想让我把您太太拖上法庭、出她的丑？
+朱诺　不：这层我忘了。原谅我；刚才那一瞬，我只当自己是嫁了您的。
+格雷戈里　我看咱们最好既往不咎。*对**朱诺太太**，无限温柔。*您会原谅我的，对不对？何必让片刻的忘乎所以，苦了咱们往后的日子？
+朱诺太太　可该原谅您的是伦恩太太呀。
+格雷戈里　哦，该死，又忘了。这下要闹成笑话了。
+伦恩太太　我饿了。
+朱诺太太　您真往心里去吗，伦恩太太？
+伦恩太太　亲爱的朱诺太太，格雷戈里是那种怕老婆怕得吓人的男人，本该配十个太太。哪位真正的好女士肯偶尔把他接手一两天，我都对她感激不尽。
+格雷戈里　塞拉菲塔：你戳到我心窝子了。*他垂泪。*
+伦恩太太　活该！要是戳的是我的心窝子，你看就体面了。
+朱诺太太　那我也把西布索普接接手吗，伦恩太太？
+朱诺　*起身。*你们当我会答应这个？
+朱诺太太
+
+===Original===
+
+Juno
+You’ve admitted that you’ve done wrong, Tops. What’s the use of your allowing or not allowing after that?
+Juno
+I do not admit that I have done wrong. I admit that what I did was wrong.
+Gregory
+Can you explain the distinction?
+Juno
+It’s quite plain to anyone but an imbecile. If you tell me I’ve done something wrong you insult me. But if you say that something that I did is wrong you simply raise a question of morals. I tell you flatly if you say I did anything wrong you will have to fight me. In fact I think we ought to fight anyhow. I don’t particularly want to; but I feel that England expects us to.
+Gregory
+I won’t fight. If you beat me my wife would share my humiliation. If I beat you, she would sympathize with you and loathe me for my brutality.
+Mrs. Lunn
+Not to mention that as we are human beings and not reindeer or barndoor fowl, if two men presumed to fight for us we couldn’t decently ever speak to either of them again.
+Gregory
+Besides, neither of us could beat the other, as we neither of us know how to fight. We should only blacken each other’s eyes and make fools of ourselves.
+Juno
+I don’t admit that. Every Englishman can use his fists.
+Gregory
+You’re an Englishman. Can you use yours?
+Juno
+I presume so: I never tried.
+Mrs. Juno
+You never told me you couldn’t fight, Tops. I thought you were an accomplished boxer.
+Juno
+My precious: I never gave you any ground for such a belief.
+Mrs. Juno
+You always talked as if it were a matter of course. You spoke with the greatest contempt of men who didn’t kick other men downstairs.
+Juno
+Well, I can’t kick Mr. Lunn downstairs. We’re on the ground floor.
+Mrs. Juno
+You could throw him into the harbor.
+Gregory
+Do you want me to be thrown into the harbor?
+Mrs. Juno
+No: I only want to show Tops that he’s making a ghastly fool of himself.
+Gregory
+*Rising and prowling disgustedly between the chesterfield and the windows.* We’re all making fools of ourselves.
+Juno
+*Following him.* Well, if we’re not to fight, I must insist at least on your never speaking to my wife again.
+Gregory
+Does my speaking to your wife do you any harm?
+Juno
+No. But it’s the proper course to take. *Emphatically.* We *must* behave with some sort of decency.
+Mrs. Lunn
+And are you never going to speak to me again, Mr. Juno?
+Juno
+I’m prepared to promise never to do so. I think your husband has a right to demand that.
+
+===Chinese===
+
+你们认过错啦，托普斯。都到这份上了，还谈什么答应不答应？
+朱诺　我不承认我做错了。我承认我做的事是错的。
+格雷戈里　这个区别，能讲讲吗？
+朱诺　除了白痴，谁都明白。您说我做错了事，是侮辱我。可您说某件我做过的事是错的，那只是提出一个道德问题。我把话放这儿：您再说我做错了什么，就得跟我决斗。其实我想，反正咱们都该决斗。我并不特别想；可我感到英国指望咱们这样。
+格雷戈里　我不决斗。你打赢了，我太太分我的羞辱；我打赢了，她倒同情你，嫌我粗暴。
+伦恩太太　更别提咱们是人，不是驯鹿，也不是场院里的鸡：两个男人要是敢为咱们动手，咱们从此再理他们任何一个，都不像话。
+格雷戈里　再说，咱俩谁也打不赢谁，因为咱俩都不知道怎么打架。只会互打折人家的黑眼镜，自出洋相。
+朱诺　这一点我不认。凡英国人都会使拳头。
+格雷戈里　你就是英国人。你会使吗？
+朱诺　想必会：从没试过。
+朱诺太太　你从没告诉我你不会打架，托普斯。我一直当你是个精通拳术的人。
+朱诺　我的宝贝儿：我从没给过您这种想头。
+朱诺太太　你张口闭口不当回事似的。你说起那些不肯把人一脚踹下楼梯的男人，满脸的不屑。
+朱诺　这个嘛，我可没法把伦恩先生踹下楼梯。咱们在一楼。
+朱诺太太　你可以把他扔进海港里。
+格雷戈里　您要我被人扔进海港吗？
+朱诺太太　不：我只想让托普斯明白，他这会儿把自己弄成了个天大的傻子。
+格雷戈里　*起身，满心厌恶地在长靠榻和窗子之间来回踱。*咱们全在把自己弄成傻子。
+朱诺　*跟在他身后。*好吧，既然不打架，那我至少坚持一条：您往后永远不许再同我太太说话。
+格雷戈里　我同你太太说话，碍着你什么了？
+朱诺　不碍。可这是正当步骤。*斩钉截铁。*咱们*务必*守一点体统。
+伦恩太太　那您就永远不同我说话了吗，朱诺先生？
+朱诺　我可以答应永远不说。我想您丈夫有权这样要求。
+
+===Original===
+
+Then if I speak to you after, it will not be his fault. It will be a breach of my promise; and I shall not attempt to defend my conduct.
+Gregory
+*Facing him.* I shall talk to your wife as often as she’ll let me.
+Mrs. Juno
+I have no objection to your speaking to me, Mr. Lunn.
+Juno
+Then I shall take steps.
+Gregory
+What steps?
+Juno
+Steps. Measures. Proceedings. What steps as may seem advisable.
+Mrs. Lunn
+*To **Mrs. Juno**.* Can your husband afford a scandal, Mrs. Juno?
+Mrs. Juno
+No.
+Mrs. Lunn
+Neither can mine.
+Gregory
+Mrs. Juno: I’m very sorry I let you in for all this. I don’t know how it is that we contrive to make feelings like ours, which seems to me to be beautiful and sacred feelings, and which lead to such interesting and exciting adventures, end in vulgar squabbles and degrading scenes.
+Juno
+I decline to admit that my conduct has been vulgar or degrading.
+Gregory
+I promised﻿—
+Juno
+Look here, old chap: I don’t say a word against your mother; and I’m sorry she’s dead; but really, you know, most women are mothers; and they all die some time or other; yet that doesn’t make them infallible authorities on morals, does it?
+Gregory
+I was about to say so myself. Let me add that if you do things merely because you think some other fool expects you to do them, and he expects you to do them because he thinks you expect him to expect you to do them, it will end in everybody doing what nobody wants to do, which is in my opinion a silly state of things.
+Juno
+Lunn: I love your wife; and that’s all about it.
+Gregory
+Juno: I love yours. What then?
+Juno
+Clearly she must never see you again.
+Mrs. Juno
+Why not?
+Juno
+Why not! My love: I’m surprised at you.
+Mrs. Juno
+Am I to speak only to men who dislike me?
+Juno
+Yes: I think that is, properly speaking, a married woman’s duty.
+Mrs. Juno
+Then I won’t do it: that’s flat. I like to be liked. I like to be loved. I want everyone round me to love me. I don’t want to meet or speak to anyone who doesn’t like me.
+Juno
+But, my precious, this is the most horrible immorality.
+Mrs. Lunn
+I don’t intend to give up meeting you, Mr. Juno. You amuse me very much. I don’t like being loved: it bores me. But I do like to be amused.
+Juno
+I hope we shall meet very often. But I hope also we shall not defend our conduct.
+Mrs. Juno
+*Rising.* This is unendurable. We’ve all been flirting. Need we go on footling about it?
+Juno
+*Huffily.
+
+===Chinese===
+
+那之后我要是同您说了，也不怪他。那是我失信；我的行径，我也不打算辩护。
+格雷戈里　*面对他。*你太太肯让我说，我就说个够。
+朱诺太太　我不反对您同我说话，伦恩先生。
+朱诺　那我就要采取措施了。
+格雷戈里　什么措施？
+朱诺　措施。手段。程序。凡属看来适当的措施。
+伦恩太太　*对**朱诺太太**。*您丈夫出得起一场丑闻吗，朱诺太太？
+朱诺太太　出不起。
+伦恩太太　我丈夫也出不起。
+格雷戈里　朱诺太太：让您跟着卷进这一切，我很抱歉。我也不明白怎么回事：咱们这样的感情——在我看来又美又神圣的感情，又引出这么有趣、这么刺激的奇遇——到头来竟收在庸俗的吵嘴和下三滥的场面里。
+朱诺　我拒绝承认我的行径庸俗或下三滥。
+格雷戈里　我答应过——
+朱诺　听着，老伙计：您母亲半个字的坏我都没说；她故去了，我也难过；可是您知道，天下的女人多半都当过母亲；她们迟早都要死的；这就叫她们成了道德上不会错的权威了吗，嗯？
+格雷戈里　我正要说这个呢。让我再添一句：你做事，若只是因为你以为别的什么傻子指望你做；而他指望你做，又只是因为他以为你指望他指望你做——到头来，就是人人都在做谁也不想做的事，依我看，这局面蠢透了。
+朱诺　伦恩：我爱你太太；就这一句。
+格雷戈里　朱诺：我爱你的。又怎样？
+朱诺　明摆着，她从此不许再见你。
+朱诺太太　为什么不许？
+朱诺　为什么不许！我的爱：您真叫我吃惊。
+朱诺太太　那我只许同不喜欢我的男人说话？
+朱诺　对：我以为，严格说来，这正是做太太的本分。
+朱诺太太　那我不干：明说了吧。我喜欢被人喜欢。我喜欢被人爱。我要身边人人爱我。不喜欢我的人，我不想见，也不想搭理。
+朱诺　可是，我的宝贝儿，这是最骇人的伤风败俗。
+伦恩太太　我可不打算不再见您，朱诺先生。您太逗我了。我不喜欢被人爱：腻味。可我喜欢被逗乐。
+朱诺　希望咱们常见。可我也希望，咱们别再给自己的行径辩护。
+朱诺太太　*起身。*这没法忍了。咱们全调了情。还非要这么没完没了吗？
+朱诺　*怄着气。*
+
+===Original===
+
+* I don’t know what you call footling﻿—
+Mrs. Juno
+*Cutting him short.* You do. You’re footling. Mr. Lunn is footling. Can’t we admit that we’re human and have done with it?
+Juno
+I have admitted it all along. I﻿—
+Mrs. Juno
+*Almost screaming.* Then stop footling.
+*The dinner gong sounds.*
+Mrs. Lunn
+*Rising.* Thank heaven! Let’s go in to dinner. Gregory: take in Mrs. Juno.
+Gregory
+But surely I ought to take in our guest, and not my own wife.
+Mrs. Lunn
+Well, Mrs. Juno is not your wife, is she?
+Gregory
+Oh, of course: I beg your pardon. I’m hopelessly confused. *He offers his arm to **Mrs. Juno**, rather apprehensively.*
+Mrs. Juno
+You seem quite afraid of me. *She takes his arm.*
+Gregory
+I am. I simply adore you. *They go out together; and as they pass through the door he turns and says in a ringing voice to the other couple.* I have said to Mrs. Juno that I simply adore her. *He takes her out defiantly.*
+Mrs. Lunn
+*Calling after him.* Yes, dear. She’s a darling. *To **Juno**.* Now, Sibthorpe.
+Juno
+*Giving her his arm gallantly.* You have called me Sibthorpe! Thank you. I think Lunn’s conduct fully justifies me in allowing you to do it.
+Mrs. Lunn
+Yes: I think you may let yourself go now.
+Juno
+Seraphita: I worship you beyond expression.
+Mrs. Lunn
+Sibthorpe: you amuse me beyond description. Come. *They go in to dinner together.*
+
+===Chinese===
+
+我不知道你们管什么叫没完没了——
+朱诺太太　*打断他。*你知道。你就是没完没了。伦恩先生也没完没了。咱们就不能承认自己是凡人，就此了结吗？
+朱诺　我从头认到现在。我——
+朱诺太太　*几乎尖叫。*那就别再磨叽。
+*晚饭锣响。*
+伦恩太太　*起身。*谢天谢地！进餐厅用饭吧。格雷戈里：挽朱诺太太入席。
+格雷戈里　可按理，我该挽咱们的客人，而不是我自己的太太呀。
+伦恩太太　嗐，朱诺太太不就不是你太太吗？
+格雷戈里　哦，当然：恕我失礼。我糊涂得一塌糊涂了。*他颇有些惴惴地向**朱诺太太**伸出手臂。*
+朱诺太太　您好像挺怕我。*她挽上他的手臂。*
+格雷戈里　是。我简直崇拜您。*两人一同出去；经过门口时，他回头，朝另一对朗声说。*我同朱诺太太说了，我简直崇拜她。*他昂然带她出去。*
+伦恩太太　*朝他背后喊。*好，亲爱的。她是个可人儿。*对**朱诺**。*来吧，西布索普。
+朱诺　*殷勤地把手臂递给她。*您叫了我西布索普！谢谢。伦恩先生的行径，我看充分证明您这么叫是对的。
+伦恩太太　是：我看这会儿，您可以放开了。
+朱诺　塞拉菲塔：我崇拜您，非言语所能表达。
+伦恩太太　西布索普：您逗我乐，非笔墨所能形容。来。*两人一同进餐厅用饭。*
