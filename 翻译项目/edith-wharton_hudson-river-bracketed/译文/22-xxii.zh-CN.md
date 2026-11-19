@@ -50,3 +50,129 @@ At the Coconut Tree they met other fellows who were writing or painting, or doin
 愉快的寒暄过后，塔兰特看了看表：「一点半了，老天——我约了世纪俱乐部，同老威尔斯登吃饭。」历史学家威尔斯登答应给《时论》写一篇《本杰明·富兰克林的新一面》；塔兰特匆匆走了，说：「细节你和埃里克谈。回头再来，好不好？」
 埃里克·劳赫提议万斯同他去附近的椰子树便餐馆吃午饭；两人一路走去，万斯的脚步在街上跳跳蹦蹦，仿佛灰暗的人行道就是海滩。同劳赫这样的人谈话，对他像头一回见海一样新鲜，也几乎一样叫人兴奋。……
 在椰子树，他们遇见了几个或写或画、或在艺术上做点什么的人。对这两年眼界大开过的万斯来说，两三位年长者的名字已算熟识；可劳赫最看重的几位——他解释说，是前卫人物——看上去同万斯一样年轻，万斯却闻所未闻。大家都和气地同他打招呼，其中一位评论家雷德曼说：「喂，什么时候给咱们一部小说？」
+
+===Original===
+
+“*The Hour*’s going to see to that,” Rauch rejoined briskly; and another young man, with bruised eyelids in a sallow illumined face, and a many-syllabled name ending in “ovsky,” adjured Vance with ardent Slav gestures: “For God’s sake tackle something big﻿—colossal﻿—cosmic﻿—get away from the village pump﻿ ﻿…” while a shabbily dressed girl with a greasy mop of black hair and bold gay eyes pushed up to the table, exclaiming: “Eric, why don’t you introduce me? I’m the sculptress Rebecca Stram, and I want to do your head one of these days,” she explained to Vance.
+“Well, I guess you will, if you want to,” said Rauch humorously; “only let the poor devil have something to eat before you begin to feel his bumps.”
+It all sent a novel glow through Vance, and he thought how wonderful life would be, spent among these fellows who talked of art as freely and familiarly as his father did of real estate deals. Eric Rauch explained who they were, what they had written or painted or carved (“That Stram girl﻿—she’s a regular headhunter; bright idea, doing all the newcomers﻿ ﻿…”), and which ones were likely to “get there.” For the first time Vance was inducted into the world of literary competitions and rewards. Eric Rauch said there was a big campaign on already for this year’s Pulsifer Prize; hadn’t Vance heard of it? Best short story of the year﻿ ﻿… Two thousand dollars; and of course *The Hour* was going to try for it for “Unclaimed.” “And, by the way, what have you got on the stocks now?” And then the business talk began.
+Rauch said he had been charged by Tarrant to come to an understanding with Weston. They believed in him at *The Hour*﻿—their policy was forward-looking; they wanted to make their own discoveries, not to butt in where somebody else had already staked out a claim. Weston, now﻿—he wouldn’t mind Rauch’s saying frankly that as a writer he was utterly unknown? Because, unluckily, owing to muddleheaded mismanagement, his first story, “One Day,” had been allowed to fall flat, drop out of sight as completely as if it had never been written. And they would have to build up his reputation all over again with “Unclaimed,” which, they thought, was quite as remarkable as the other; though of course they couldn’t guarantee the public’s taking to it, with the silly prejudice there was against war stories. Anyhow, it was a good gamble, and they were glad to risk it.
+
+===Chinese===
+
+「那个，《时论》自会张罗。」劳赫爽快地接道；另一个年轻人，蜡黄发亮的脸上眼皮乌青，名字一大串音节、以「斯基」收尾，用热烈的斯拉夫手势敦劝万斯：「看在上帝份上，弄点大的——宏伟的——宇宙级的——离开村子水井那一摊子……」这时一个衣衫寒酸的姑娘挤到桌边，一头油腻腻的乱黑发，一双大胆快活的眼睛，嚷道：「埃里克，怎么不给我引见？我是雕塑家丽贝卡·斯特拉姆，哪天我要给你塑个头像。」她向万斯说明道。
+「好啊，你想塑准塑得成。」劳赫打趣道，「只是先让这可怜虫吃点东西，再开始摸他的头包。」
+这一切给万斯送来一阵新奇的热流；他想，同这些把艺术谈得像他父亲谈地产买卖一样随便亲热的人一起过日子，该多么美妙。埃里克·劳赫一一说明他们是谁，写过画过雕过些什么（「那个斯特拉姆姑娘——十足一个专猎脑袋的；好主意，把新来的全猎了去……」），哪些人有指望「熬出头」。万斯生平头一回被引进了文学竞赛与奖赏的世界。埃里克·劳赫说，今年的普尔西弗奖已经拉开了阵仗；万斯没听说过？年度最佳短篇小说……两千块钱；当然《时论》要拿《无人认领》去争。「对了，你眼下手上在写什么？」接着正事谈开了。
+劳赫说，塔兰特授意他来同韦斯顿谈妥个谅解。《时论》的人看重他——他们的方针是向前看的；他们要自己发现新人，不肯插足别人已经立桩圈下的地盘。就说韦斯顿吧——劳赫直言不讳，说他身为作家还全然无名，韦斯顿不见怪吧？因为不幸，由于一塌糊涂的瞎经营，他的第一篇小说《一天》被晾得无声无息，销声匿迹得如同从没写过一般。他们只好拿《无人认领》替他把名声重新垒起来——他们认为这一篇同那一篇同样出色；当然公众买不买账他们不能打包票，谁叫世人对战争小说存着那种愚蠢的偏见。不管怎么说，这是场有赚头的赌博，他们甘愿冒险。
+
+===Original===
+
+And to prove their faith in Weston, they were willing to go farther; willing to take an option on his whole output, articles, short stories and novels, for the next three years. Rauch didn’t know if Weston realized what a chance that was for a beginner, who﻿—well, wasn’t in a position, let’s say, to order himself an eight-cylinder Cadillac﻿ ﻿… for the present, anyhow.﻿ ﻿…
+But Tarrant wanted to do more. He understood that Weston was just married, and he knew that when a man takes on domestic responsibilities there’s nothing like a steady job, even a small one, for making his mind easy. *The Hour* therefore proposed to let Vance try his hand at a monthly article on current literary events. They’d find a racy title, and let him have full swing﻿—no editorial interference if the first articles took. A fresh eye and personal views were what they were after﻿—none of the old mummified traditions. And for those twelve articles they would guarantee him a salary of fifteen hundred a year for three years, without prejudice to what he earned by his fiction: say a hundred and fifty for the next two stories after “Unclaimed,” and double that for the following year, if he would guarantee three stories a year, or possibly four. Only, of course, he was to pledge himself not to write for any other paper or publisher﻿—no other publisher, because *The Hour*’s solicitude included an arrangement for book publication with their own publishers, Dreck and Saltzer. Tarrant had gone into all that so that Weston should be able to get to work at once, free from business worries. He’d had some difficulty in getting a publisher to look at it that way and sign for three years, but he’d fought it out with them, and as Dreck and Saltzer were great believers in *The Hour* they’d finally agreed, and had the contract ready. “So now all you’ll have to do is to lie back and turn out masterpieces,” Rauch cheerfully concluded, lighting a final cigarette. “Say though, it’s pretty near time to get back to the office,” he added, with a glance at his watch. “Shall we go now and settle things on the spot?”
+Vance sat flushed and brooding, his brows drawn together in the effort to calculate his yearly income on the basis suggested. Figures always puzzled him, and a fortnight earlier he would have acquiesced at once, to get rid of troublesome preliminaries.
+
+===Chinese===
+
+为了证明他们对韦斯顿的信心，他们还肯再进一步；肯出价买下他今后三年全部产出的优先权——文章、短篇和长篇小说都在内。劳赫不知道韦斯顿想没想过，这对一个新手是多大的机会——这位新手呢，呃，这么说吧，还订不起一辆八缸卡迪拉克……至少眼下还订不起。……
+可塔兰特还想做得更多。他知道韦斯顿刚结了婚，也知道男人一旦挑起家累，再没有比一份稳定的差事——哪怕小小的差事——更能让他心安的了。因此《时论》提议让万斯试着操刀一个每月一篇的专栏，谈当前的文坛动态。标题他们会起个有滋味的，然后放手让他写——头几篇若能立住，编辑部绝不干涉。他们要的就是一双新鲜的眼睛和个人的见解——那套老掉牙的陈规一概不要。这十二篇文章，他们保他年薪一千五，一保三年，小说挣的还不算在内：《无人认领》之后的两篇各一百五，来年翻倍——条件是他保证一年三篇，或许四篇。只是，当然，他得立誓不给任何别的报刊或出版商写稿——不许别的出版商，因为《时论》的关照还包括一揽子出书安排，由他们自家的出版商德雷克-萨尔泽出。这一切塔兰特都料理妥帖了，好叫韦斯顿立刻安心开工，不为俗务分心。让一家出版商肯这么看、肯签三年，他费了好一番劲，但他同他们磨到底了；德雷克-萨尔泽又是《时论》的忠实信徒，终于应承下来，合同都备好了。「这么说，如今你只消往椅背上一靠，炮制杰作就是了。」劳赫点上最后一支香烟，愉快地收了尾。「不过我说，差不多该回编辑部了。」他看了一眼表，补上一句。「这就走，当场把事敲定，好不好？」
+万斯坐在那儿，红着脸出神，眉头拧紧，极力按对方提的路数盘算自己的岁入。数字从来叫他犯晕；两个星期前，为了省掉这些麻烦的前置手续，他会一口应承下来的。
+
+===Original===
+
+But with Laura Lou in the background it was different.﻿ ﻿… He tried writing out the figures mentally on the tablecloth, but when it came to adding them up they became blurred and vanished.﻿ ﻿…
+“Well, I guess that wouldn’t total up to much over two thousand dollars a year, would it?” he ventured, trying to give his voice a businesslike sound.
+Erich Rauch arched his eyebrows in a way that signified: “Well﻿—for a beginner? For a gamble?” Then, as Vance was silent, he threw off: “There’s nothing to prevent your writing a novel, you know.”
+“What would you give me for a novel?” Vance asked.
+Eric Rauch’s eyebrows flattened themselves out meditatively. “What sort of a novel would you give us?” Then, with a laugh: “See here, I don’t see that we need look as far ahead just yet.﻿ ﻿… A novel takes time; but meanwhile there’s the Pulsifer Prize, don’t forget. We’re going to put up a big fight to get that for you.”
+Vance looked at him, perplexed. The Pulsifer Prize﻿—two thousand dollars for the best short story of the year! He could pay off Bunty Hayes at a stroke, and live on Easy Street with the balance﻿ ﻿… buy Laura Lou some pretty clothes, and have time to think over subjects, and look round.﻿ ﻿… His heart beat excitedly.﻿ ﻿… But what could *The Hour* do about it? he asked.
+“Why, boom you for all we’re worth. You can get even a short story into the limelight nowadays with money. And we mean to spend money on ‘Unclaimed.’ ”
+“But I don’t understand. Who gives this Pulsifer Prize anyhow?”
+“Oh, a rich society woman: widow of old Pulsifer, the railroad man. It’s the event of her life﻿—”
+“Why, does she award the prize herself?”
+“Bless you, no: it’s done the usual way. Bunch of highbrows as judges.” Rauch paused, and added with his exquisite smile: “Even judges are human.﻿ ﻿…” He let the rest of the smile drift away through his cigarette spirals.
+Vance understood and winced. The use of the business vocabulary was what he recoiled from. That there should be “deals,” transactions, compromises in business was a matter of course to him. That *was* business, as he understood it; his father’s life was a labyrinth of such underground arrangements. But Vance had never taken any interest in business, or heard applied to it the standards of loyalty which are supposed to regulate men’s private lives, and which he had always thought of as prevailing in the republic of letters.
+
+===Chinese===
+
+可如今幕后有了劳拉·卢，情形不同了。……他在桌布上用心默写那些数字，可一到加总，它们就模糊了、散掉了。……
+「呃——我猜这些加起来，一年也超不出两千多少，是吧？」他试着让口气带点生意腔，小心地说。
+埃里克·劳赫扬起眉毛，那神情意思分明：「哦——对一个新手？对一场赌博？」见万斯不作声，他随口抛出一句：「再说了，写部长篇，可没人拦着你。」
+「一部长篇你们给多少？」万斯问。
+埃里克·劳赫的眉毛若有所思地摊平了。「那你会给我们一部什么样的长篇呢？」随即一笑：「听我说，我看眼下还犯不着望那么远。……长篇费工夫；可眼下有普尔西弗奖呢，别忘了。我们要为你大干一场，把它夺到手。」
+万斯望着他，困惑不解。普尔西弗奖——年度最佳短篇小说，两千块！一笔就能还清邦蒂·海斯，余下的够舒舒服服过日子……给劳拉·卢添几件漂亮衣裳，还有工夫琢磨题材，四下看看。……他的心激动地跳着。……可《时论》又能做些什么呢？他问。
+「怎么不能？全力给你造势。如今有了钱，连一篇短篇都能捧进聚光灯。我们就是打算往《无人认领》上花钱。」
+「可我不明白。这普尔西弗奖到底是谁发的？」
+「哦，一位阔气的社交界太太：老普尔西弗——那个铁路大王——的遗孀。这是她一辈子的大事——」
+「怎么，奖是她亲自评的？」
+「哪儿的话，不是：照老规矩办。一帮子学问人当评委。」劳赫顿了顿，带着他那精致的微笑添上一句：「评委也是人啊……」余下的一缕笑意，他任它随烟圈的螺旋飘散了。
+万斯懂了，也为之一缩。叫他往后退的，是那套生意字眼的使用。生意场里有「交易」、有买卖、有妥协，在他本是天经地义。那才叫生意，照他的理解；他父亲的一生就是这类地下安排织成的迷宫。可万斯从不曾对生意有过什么兴趣，也不曾听说把那套据说是规范私人生活的忠信标准用到这里来——他一直以为，在文学的共和国里通行的，正是那些标准。
+
+===Original===
+
+To him an artist’s work was essentially a part of the private life, something closer than the marrow to the bone. Anything that touched the sanctity, the incorruptibility, of the creative art was too contemptible to be seriously considered. As well go back to doing write-ups for the *Free Speaker*.﻿ ﻿… Vance looked at the clever youth behind the smoke wreaths, and thought: “Queer that a fellow who writes poetry can care for that sort of success﻿ ﻿…” for the poets seemed to him hardly lower than the angels.
+He said curtly that he didn’t care a darn for prizes, and Eric rejoined: “Not for two-thousand-dollar ones?”
+Vance, a little dizzy, nevertheless echoed: “Not a darn﻿—”
+“Well, *The Hour* does, then. It’s something you owe us if we take you on﻿—see? A beginner﻿ ﻿… Everything’s a question of give and take﻿ ﻿… fair play. Not that I mean﻿ ﻿… of course little O’Fallery may pull off the prize anyhow, with ‘Limp Collars.’ Shouldn’t wonder if he did. His publisher’s hustling round for him﻿—I know that. And we don’t guarantee anything﻿ ﻿… See?”
+The last phrase brought a vague reassurance to Vance. Of course they couldn’t guarantee anything﻿ ﻿… of course little O’Fallery might get the prize. Vance had read “Limp Collars,” and thought it well-named﻿ ﻿… pretty poor stuff.﻿ ﻿… Seemed a pity.﻿ ﻿… Anyhow, he saw with relief that he must have misunderstood Rauch. Of course *The Hour* wasn’t going to try to corrupt the judges﻿—what an absurdity! They were simply going to direct public opinion: that was what “limelight” meant. Any fellow’s publisher had a right to commend his goods.﻿ ﻿…
+Laura Lou had been captivated by a girl who sat near them at the theatre in a peach-coloured silk﻿ ﻿… or lace, or something﻿ ﻿… not a patch on Laura Lou, the girl wasn’t, but even Vance could see there was a look about the dress.﻿ ﻿… His Laura Lou! There wouldn’t be one of ’em could touch her if only he could give her togs like that.﻿ ﻿…
+
+> “When she moves, you see
+
+Like water from a crystal overflowed,
+
+Fresh beauty tremble out of her, and lave
+
+Her fair sides to the ground﻿ ﻿…”
+
+===Chinese===
+
+在他看来，艺术家的作品本质上是私人生活的一部分，是比骨髓贴着骨头还贴得紧的东西。凡是碰到创造艺术的圣洁、碰到它的不可收买的东西，都卑劣得不值一顾。那还不如回去给《自由发言者报》写应景文字呢。……万斯望着烟圈后面那张伶俐的年轻脸孔，心想：「怪了，一个写诗的家伙，居然会稀罕那种成功……」因为在他眼里，诗人只比天使低那么一点。
+他生硬地说，奖不奖的他毫不在乎；埃里克接道：「两千块一枚的也不在乎？」
+万斯有点发晕，还是跟了一句：「毫不在乎——」
+「那么《时论》可在乎。我们既然收你，这就有点你欠我们的情——明白吗？一个新手……什么都是个有来有往的问题……要公道。倒不是我那个意思……当然啦，小奥法勒里反正也可能凭《软领子》把奖夺走。真夺走了我一点不奇怪。他的出版商正替他四处奔走——这我知道。再说我方才也讲了，我们什么也不担保……明白？」
+最后一句给万斯带来一阵模糊的宽慰。当然他们什么也担保不了……当然小奥法勒里也可能得奖。万斯读过《软领子》，觉得这题目起得名副其实……东西相当蹩脚。……怪可惜的。……总之，他松了口气地看出，准是他误会了劳赫。《时论》当然不会去收买评委——多荒唐的念头！他们不过是打算引导公众舆论：「聚光灯」指的就是这个。谁家的出版商都有权夸自家的货。……
+劳拉·卢让戏院里坐在他们近旁的一个姑娘迷住了，那姑娘穿一身桃红色的绸子……还是花边，还是别的什么料子……那姑娘给劳拉·卢提鞋都不配，这倒不假；可连万斯也看得出，那身衣裳确有一股气派。……
+
+> 「她一动，你看
+
+仿佛水从盈满的水晶中溢出，
+
+新鲜的美自她周身颤涌而出，
+
+沐洗她姣好的双胁，直垂到地……」
+
+===Original===
+
+He shut his eyes on the vision and thought: “And yet even the ones that look like that want finery!”
+“Of course I’d like that prize first-rate,” he mumbled.
+“Well, I guess it’s yours﻿—on the merit of the story alone. Only, our job is to get that merit known,” Eric Rauch explained patiently, as they rose to get their hats and coats. They walked back together to the office, and before Vance left he had signed the two contracts which lay ready for him on Tarrant’s desk: one surrendering to *The Hour* all his serial rights for three years, the other pledging him for the same period of time to Dreck and Saltzer for book publication.
+On the way downstairs, late in the afternoon, he remembered meeting Frenside coming down the same stairs in the morning, and recalled his warning: “Keep free.”
+“Oh, well,” Vance said to himself, “what’s he made of his life, anyway?” For Frenside already seemed to him as remote as old age and failure. His head was brimming with ideas for his article, and for others to follow, and it was agreed (at his suggestion) that the series should appear under the caption of “The Coconut Tree,” in memory of the spot where the bargain had been struck. “I want a tree to climb, to get a bird’s-eye view from,” Vance had said, laughing; and Rauch replied that he was sure the title would take Tarrant’s fancy. He pressed a copy of his poems on Vance, and the latter set off, his heart beating high at the thought of announcing to Laura Lou that he was a member of the editorial staff of *The Hour*, had signed a three years’ contract with a big publisher. “She won’t understand what it’s all about, but it’ll sound good to her,” he thought. And so it did to him.
+Laura Lou showed the radiant incomprehension he had foreseen. “Oh, Vance, isn’t it great?” She clung to him and worshipped; then, loosening her arms, drew back and lifted ineffable eyes to his. “Oh, Vanny﻿—”
+He laughed and recaptured her. “Guess you’re thinking already what show we’ll pick for tonight, aren’t you?” He grew reckless. “And, say, darling, if there’s anything particular you want to buy﻿ ﻿…” He knew there would be no pay till the end of the coming month, but time seemed as negligible as age while she lifted her trembling smile to him.
+“Oh, Vanny﻿ ﻿… I wonder, could we go out and buy something to take back to Mother?”
+“Sure.” He laughed with relief. Mrs.
+
+===Chinese===
+
+他闭上眼不看这幻象，想道：「可是连长得像这样的，也还是想要漂亮衣裳！」
+「那个奖，我当然顶喜欢。」他咕哝道。
+「这么说，它跑不了是你的——单凭小说本身的优点。我们的事，不过是让这优点为人所知。」埃里克·劳赫耐心解释道；这时两人起身去取帽子外套。他们一同走回编辑部；万斯临走之前，已在塔兰特书桌上那两份备好的合同上签了字：一份把今后三年的全部连载版权让与《时论》，另一份在同一期限内把出书的事许给了德雷克-萨尔泽。
+下午很晚了，下楼的时候，他记起上午在同一道楼梯上遇见下楼来的弗伦赛德，想起他的告诫：「保持自由。」
+「哦，好吧，」万斯自语，「他自己这辈子又混出个什么名堂来了呢？」因为弗伦赛德在他看来已像老年和失败一样遥远了。他满脑子都是他这篇文章的构想，还有后续一篇一篇的构想；大家说定（这是他提议的）这个专栏以「椰子树」为题发表，纪念这桩买卖成交的地方。「我要一棵可爬的树，好从上头鸟瞰。」万斯笑着说过；劳赫答道，这题目保管合塔兰特的意。他硬塞给万斯一册自己的诗集，万斯便动身了，一想到要向劳拉·卢宣布他已是《时论》编辑部的一员、同一家大出版商签了三年合同，他的心便高高地跳。「这里头的究竟她不会懂的，可听着总归了不起。」他想。他自己听着也了不起。
+劳拉·卢露出的正是他预料的那种光彩照人的茫然。「哦，万斯，这不是了不起吗？」她攀住他，膜拜他；随后松开手臂，往后退了退，向他抬起一双说不尽的眼睛。「哦，小万——」
+他笑了，把她重新揽住。「我猜你已经在琢磨今晚挑哪出戏了，是不是？」他撒起野来。「还有，我说，宝贝，要是有什么特别想买的东西……」他知道要到下月底才有钱进账；可她朝他抬起那颤巍巍的笑时，时间同年纪一样，都算不得什么了。
+「哦，小万……我在想，咱们能不能出去买点东西，带回去给妈妈？」
+「当然。」他如释重负地笑了。特雷西
+
+===Original===
+
+Tracy’s wants could be more inexpensively supplied than her daughter’s; and besides, he liked Laura Lou’s not instantly asking for something for herself. Then he looked again and noticed a shadow of anxiety on her radiance. He saw that she *was* asking for something for herself, but inwardly, because she dared not speak it. “What is it, sweet? Anything bothering you?”
+Yes, something was: her mother. They’d been gone four days now, she reminded Vance, and Mrs. Tracy didn’t even know where they were, and must have been fretting dreadfully over that letter her daughter had left; and what Laura Lou wanted, oh, beyond anything, was to start right off for Paul’s Landing﻿—oh, Vance, truly, couldn’t they?﻿—and surprise her mother with the splendid news, and make everything all right that very day. Oh, wouldn’t Vance help her to pack up at once, and maybe they could catch the five o’clock express, and pop in on Mrs. Tracy just as she was clearing away supper?
+Their hotel was close to the train, their packing was soon done. Secretly, Vance was relieved by his wife’s suggestion. The rush of his happiness had swept away all resentment against Mrs. Tracy, and he felt obscurely in the wrong in having persuaded Laura Lou to marry without her mother’s knowledge. Only the certainty of Mrs. Tracy’s opposition had made him do so; but he could not shake off his compunction, for he knew her life had been full of disappointments, and that Laura Lou’s flight would be the bitterest. Now it was all different; with his two contracts in his pocket he could face his mother-in-law with head erect. She would surely rather see Laura Lou married to the assistant editor of *The Hour* than to the barker of a sightseeing car; and if Vance should capture the Pulsifer Prize the Hayes debt would be cancelled at once. They paid in haste and hurried to the station, finding time on the way to select for Mrs. Tracy a black silk bag mounted in imitation amber. “She never has anything pretty,” Laura Lou explained, as if excusing so frivolous a choice; and Vance, remembering the basket of sweet peas with the stuffed dove, mused once more on the mysterious utility of the useless.
+
+===Chinese===
+
+太太想要的东西，可以比她女儿的更省着办；再说，他也喜欢劳拉·卢这股不马上替自己讨东西的劲儿。可他再看一眼，便看见她那光彩上罩着一层焦灼的影子。他明白了：她其实正在替自己讨东西，只是在心里讨，因为不敢说出口。「怎么了，宝贝？有什么叫你犯愁的？」
+是有事：她妈妈。他们出来已经四天了，她提醒万斯说，特雷西太太连他们在哪儿都不知道，对着女儿留下的那封信，准已愁得要命；而劳拉·卢想要的，哦，比什么都想要的，就是马上动身去保罗兰丁——哦，万斯，真的，去不成吗？——把这了不得的好消息给妈妈一个意外之喜，当天就把一切圆过来。哦，万斯这就帮她收拾行装好不好，兴许还赶得上五点钟的快车，趁特雷西太太正收拾晚饭桌子的当口，一下子闯到她面前？
+旅馆离车站近，行装很快收好。私下里，万斯倒为妻子这个提议松了口气。幸福的大潮早把他对特雷西太太的怨气冲了个干净；自己劝着劳拉·卢瞒着母亲结了婚，他隐隐觉得亏了理。当初只是断定特雷西太太必定反对，他才出此下策；可那份歉疚他甩不脱，因为他知道她这一生失望累累，而劳拉·卢这一跑，将是最苦的一回。如今全不一样了；兜里揣着两份合同，他可以昂着头去见岳母。看到劳拉·卢嫁的是《时论》的副主编，而不是观光汽车的招揽员，她总归要称心些；万一万斯再把普尔西弗奖夺到手，欠海斯家的那笔账当即就能勾销。两人匆匆付了账，赶去车站，路上还匀出工夫，给特雷西太太挑了一只黑绸面子、镶着仿琥珀饰件的手提包。「她从来没有什么漂亮东西。」劳拉·卢解释道，像在为这样轻浮的选择告罪；万斯想起那只香豌豆花篮提手上栖着的标本鸽，又一次默想无用之物的神秘效用。
