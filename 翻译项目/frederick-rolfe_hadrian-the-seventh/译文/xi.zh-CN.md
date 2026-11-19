@@ -577,4 +577,126 @@ The Pontiff spoke of Spain. Signor Panciera chopped his right wrist with his lef
 
 “自然，”哈德良插言，“意大利要看着事变，照她的利益定她的方针。”
 “但要稳。”大使应道。
-宗提起西班牙。潘恰埃拉先生左手一刀砍在右腕上。西班牙完了。葡萄牙？葡萄牙是英国的。英国？英国就是英国。教宗同大使各人笑了一笑：一个笑里是种族得胜的骄傲；一个，是无边的、心明的钦佩。哈德良一竿子扫向东方：巴尔干诸国呢？阁下开始分辨起来：那一小撮各自为政的邦国，难办得很。他仿佛在斟酌字眼：——这题目自然叫他兴味极浓。教宗出奇地静。祂那黑沉沉、厚墩墩的客人踱过祂跟前时，祂不时丢进一问。巴尔干诸国？潘恰埃拉先生径直走向窗口，仿佛答案在那里；折回来；起了个头；又回窗口；再折回来，带回新鲜六七个字，照不亮什么。哈德良走到一口柜前：取出两颗棕色的小台球；放进这位王家大使手里。“给阁下谈话助兴的，”祂带一个深奥的微笑咕噜说。“别局促。人人都有这么一手。我们的一手是玩戒指、扶眼镜。您的朋友菲亚马，编他腰带的穗子。枢机团团长摸他假发上权充剃发盘的那片螺钿。国务卿嚼他的新牙。而您——若我们记得不错——爱捏一对台球。您方才说，那一小撮各自为政的邦国，难办得很。难在他们眼下的自治？”
+宗提起西班牙。潘恰埃拉先生左手一刀砍在右腕上。西班牙完了。葡萄牙？葡萄牙是英国的。英国？英国就是英国。教宗同大使各人笑了一笑：一个笑里是种族得胜的骄傲；一个，是无边的、心明的钦佩。哈德良一竿子扫向东方：巴尔干诸国呢？阁下开始分辨起来：那一小撮各自为政的邦国，难办得很。他仿佛在斟酌字眼：——这题目自然叫他兴味极浓。教宗出奇地静。祂那黑沉沉、厚墩墩的客人踱过祂跟前时，祂不时丢进一问。巴尔干诸国？潘恰埃拉先生径直走向窗口，仿佛答案在那里；折回来；起了个头；又回窗口；再折回来，带回新鲜六七个字，照不亮什么。哈德良走到一口柜前：取出两颗棕色的小台球；放进这位王家大使手里。“给阁下谈话助兴的，”祂带一个深奥的微笑咕噜说。“别局促。人人都有这么一手。
+
+===Original===
+
+Ours is to play with Our rings or to push up Our glasses. Your friend Fiamma plaits the fringe of his sash. The Cardinal-Dean strokes the mother-of-pearl disk which stands on his wig for the tonsure. The Secretary of State munches his new teeth. And you like to click a pair of bagatelle-balls, if We rightly remember. You were saying that that little group of separate sovereignties was very difficult. Because of their present autonomy?”
+*Click-click-click* went the balls on the brown palm: and the ambassador tralated their clicking. “Yes Holiness, for that reason: but also, I think, because they are racially distinct from the nations with which they expect to be incorporated.”
+“Russia, Germany, Austria, Turkey, for example?”
+(*Click*) “I think we may neglect Russia.”
+“Yes? In the case of Romania?”
+“I think that Romanian sentiment has veered round toward Germany.”
+“Well now, let us ignore opinions; and go to these racial differences of which you speak.”
+“I am of opinion that the Romanian people find themselves in sympathy with the German peoples,” Signor Panciera persisted.
+“Bulgaria then?”
+Signor Panciera took two or three journeys to the window and back, vigorously clicking the balls. “Holiness, You do not ask for my opinion; and I only can give You the speculations of an amateur ethnologist.” (*Click-click*) “I have﻿—” (*Click*) “I can tell You what my studies have taught me﻿—no more.”
+“But that is most interesting, Signore. We are all students. Some are anxious to learn: some are not: but both are better off than the man who knows that he has nothing more to learn. Tell Us what your studies have taught you.”
+“I really believe that the principalities south of the Danube contain the descendants of those Byzantines who were pushed northward by the incursion of Turks in the fifteenth century.”
+“Why?”
+(*Click*) “First from physiognomy:” (*Click*) “second from the structure of their languages.”
+“Wonderful! And you have noted points of similarity?”
+“I will go further than that, Holiness. I ought to say that my attention was attracted to this subject by my Lord the King, who, you know, deigned to marry a Montenegrin Princess. His Majesty used to speak much at one time on this point to me and also to the Minister of Public Instruction﻿—”
+“That is Signor Cabelli?”
+“Surely.
+
+===Chinese===
+
+我们的一手是玩戒指、扶眼镜。您的朋友菲亚马，编他腰带的穗子。枢机团团长摸他假发上权充剃发盘的那片螺钿。国务卿嚼他的新牙。而您——若我们记得不错——爱捏一对台球。您方才说，那一小撮各自为政的邦国，难办得很。难在他们眼下的自治？”
+棕色手掌上，台球*咔嗒咔嗒*直响；大使便把这响声译成言语。“是的，陛下，为的是那个缘故；不过我想，还因为他们种族上不同于他们指望并入的那些民族。”
+“比如俄国、德国、奥地利、土耳其？”
+（*咔嗒*）“我想俄国可以撇开不论。”
+“是吗？罗马尼亚的情形呢？”
+“我以为罗马尼亚的人心已经转向德国那面了。”
+“那么，咱们撇开各人的成见，谈谈您所说的种族差异。”
+“依我看，罗马尼亚人自觉同日耳曼诸民声气相通。”潘恰埃拉先生坚持道。
+“那么保加利亚？”
+潘恰埃拉先生到窗口往返了两三趟，一路使劲捏得球响。“陛下，您并没有征询我的意见；我能献给您的，无非一个业余人种学者的推想。”（*咔嗒咔嗒*）“我——”（*咔嗒*）“我只能告诉您我的研究教给了我什么——仅此而已。”
+“可这顶有趣了，先生。我们全是学生。有的急于学：有的不急：可两样人都比那一种人强——他知道自己再没什么可学的了。告诉我们，您的研究教给了您什么。”
+“我真心相信，多瑙河以南诸公国里住着的，是那些拜占庭人的苗裔——十五世纪土耳其人闯进来，把他们往北挤了出去。”
+“何以见得？”
+（*咔嗒*）“第一从面貌：”（*咔嗒*）“第二从他们语言的结构。”
+“妙极！那您记下了相似之点？”
+“这还不止呢，陛下。我该说，把这题目引到我眼前的，是我主国王——您知道，他蒙恩娶了一位黑山公主。有一阵子，王上就这一点同我、也同公共教育大臣谈得极多——”
+“是卡贝利先生？”
+“正是。
+
+===Original===
+
+We examined the matter for His Majesty; and our investigations all seemed to point to the fact that the Turks, in coming from Asia, swept across the Byzantine Empire in a westerly and northerly direction. Then, examining the outlets and the fringes, we found Byzantine characteristics all along the northern boundary of Turkey, that is to say not in Bulgaria which is Slav, but in Albania, Herzegovina, Bosnia, and Montenegro; and, more, we found them along the Adriatic coast of Italy. Your Holiness will see that these places are of a contiguity which would render them likely refuges for the Christians who fled before, or were expelled by, the Muslim.”
+“Yes.”
+“There is one thing more. We found traces of an earlier migration than the Byzantine. We believe that in Eastern Italy from Taranto to Ortona, and also in Southern Albania, may be seen the lineal descendants of the Athenians of Perikles’ day.”
+“But Greece, Excellency?”
+“Holiness, the Greeks of today are degenerate from the dirty-knuckled Laconians crossed with the Ottoman Infidel, their conquistators.”
+“That is splendid, Signore. And it marches with an opinion which We formed some dozen years ago, at least in regard to your Italian Greeks. We have seen those with Our Own eyes. In Apulia, for instance, the Elgin Marbles have their living counterfeits: the charcoal-burners and the fishermen look as though they had stepped out of the Frieze of the Parthenon. Once We heard a fisherman summon his boy by the word ‘Páddy’﻿—to give it an English form. An Italian would have cried ‘Putto.’ But ‘Páddy,’﻿—what vocative is that but *Παιδε*, pronounced as Alkibiades would have pronounced it? Oh, We see your point. And is your Lord the King still interested in the subject?”
+“I believe that His Majesty is intensely interested. I hope I may venture to repeat the corroboration which Your Holiness has given me. I am sure that His Majesty﻿—”
+“By all means. Of course you merely will repeat the conversation. You will not intrude Us before the King’s Majesty in Our apostolic character: but merely﻿—”
+“Your Holiness’s wish shall be respected.”
+“But to resume:﻿—We agree to identify those states south of the Danube with the Byzantines in general; and Montenegro and South Albania with the Greeks in particular. What about North Albania?”
+(*Click*) “That is Turkish.”
+“All Albania is Turkish.”
+“But South Albania is Christian.
+
+===Chinese===
+
+我们替王上查考过这件事；种种调查仿佛都指向一个事实：土耳其人从亚洲来，是朝西、朝北两路扫过拜占庭帝国的。随后，查考那些出口和边地，我们发现土耳其北部边界一路都有拜占庭的特征——就是说，不在斯拉夫的保加利亚，而在阿尔巴尼亚、黑塞哥维那、波斯尼亚和黑山；更进一层，在意大利的亚得里亚海沿岸也有。教宗陛下自会看出，这些地方连成一片，正宜作那些基督徒的逋逃之薮——他们或是在穆斯林面前逃走的，或是被穆斯林逐出的。”
+“是了。”
+“还有一层。我们找到了比拜占庭更早一次迁徙的痕迹。我们相信，在东意大利，从塔兰托到奥尔托纳，还有在南阿尔巴尼亚，可以看见伯里克利时代雅典人的嫡传苗裔。”
+“那么希腊呢，阁下？”
+“陛下，今日的希腊人，是满手污垢的拉科尼亚人同他们的征服者奥斯曼异教徒杂交所出的退化种。”
+“这话精彩，先生。这同我们十几年前形成的一个见解正相吻合，至少就您那些意大利希腊人而论。我们是亲眼见过那种人的。比如在阿普利亚，埃尔金大理石雕有它们的活的翻版：烧炭的、打鱼的，看着就像才从帕特农神庙的饰带上走下来的。有一次我们听见一个渔夫唤他的小子，用的那个词，按英文写出来是‘帕迪’。意大利人会喊‘普托’。可这声‘帕迪’——那呼格除了*Παιδε*还能是什么？读音正是阿尔基比亚德斯会有的读法。哦，我们明白您的用意了。您的主上国王还关心这题目么？”
+“我想王上兴味极浓。但愿我斗胆可以把教宗陛下给我的这番印证复述给他。我确信王上——”
+“尽管说去。当然，您只是把这场谈话复述一遍。您不必以我们使徒的身份把我们引到王上御前：只是——”
+“教宗陛下的意愿必得遵行。”
+“不过接着方才的话：——我们同意，多瑙河以南那些邦国大体上可认作拜占庭人；黑山和南阿尔巴尼亚则特殊地可认作希腊人。北阿尔巴尼亚呢？”
+（*咔嗒*）“那是土耳其的。”
+“全阿尔巴尼亚都是土耳其的。”
+“可南阿尔巴尼亚是基督徒的。
+
+===Original===
+
+And all Albania, Christian and Muslim, reverences Madonna﻿—*Panagia*, *Παναγια*, ‘Lady of All,’ they call her.”
+“How very extraordinary! Well now let us take their present situation. Suppose, Signore Panciera, that we reverse our positions. Instead of hearing your opinion, We will state Ours; and you shall comment on it. Is that fair? Is that agreeable?”
+“Most fair: most agreeable. I always learn from Englishmen and I shall learn from Your Holiness.”
+“Good. We believe that Montenegro is happy and contented under the paternal rule of Prince Nicholas.”
+(*Click-click-click*) “That is so, Holiness.”
+“We hear that Albania is shaping well under Prince Ghin Kastriotis.”
+(*Click*: a walk to the window and back; and more clicks) “Since the murder of Abdul Hamid, and the erection of Albania into a principality, progress has been astounding. The beautiful country, (*click*) the splendid people, are a prize to any ruler. Sultan Ismail is the only cloud in the sky. He does not approve of the loss of that slice of his empire. But Albania will take care of herself.”
+“Serbia, and her yearning for the restoration of the Serbian Empire?”
+“Impossible. A nation which murders two kings in four years cannot be an Empire.”
+“Quite impossible. Bulgaria, a country of heretics of the most notorious and dreadful kind, atrocious brigands to a man, ruled (or rather not ruled) by a foreigner who is a contemptible cur.”
+“Your Holiness would propose﻿—”
+“The deposition of Prince Ferdinand﻿—an easy task now that Russia has her hands full﻿—and the annexation of Bulgaria and Serbia by Montenegro under the protection of Italy.”
+(*Click-click-click*) “There, Holiness, we come to the ground of high politics.” (*Click-click-click-click*) “One must walk very warily.”
+“Yes,” Hadrian mewed: “until Italy and Germany have made up their minds.”
+The ambassador bowed.
+“Please leave the bagatelle-balls, Excellency; and accept Our thanks for your very agreeable conversation,” said the Pope.
+In giving an account of this interview to the king, the ambassador concluded “and, Sire, His Holiness spoke like an Englishman.”
+“Oh did He,” said Victor Emanuel. “In what way?”
+“Majesty, he was profound and limpid, He was large and particular, He was bold and careful.”
+“Basta! Go again as often as you please; and let me hear more of this Englishman.”
+“With the favour of Your Majesty.”
+
+===Chinese===
+
+而全阿尔巴尼亚，基督徒也罢穆斯林也罢，都敬奉圣母——*帕纳吉亚*（*Panagia*，*Παναγια*），‘万有之女主’，他们这样称她。”
+“这真是闻所未闻！好，现在来看看他们眼下的处境。潘恰埃拉先生，假设咱们对换个位置。不听您的意见，我们来陈述我们的；您来品评。公道么？合意么？”
+“再公道不过：再合意不过。我一向从英国人身上受教，如今又要从教宗陛下身上受教了。”
+“好。我们相信，黑山在尼古拉亲王的家长式统治之下，安泰而知足。”
+（*咔嗒咔嗒咔嗒*）“正是如此，陛下。”
+“我们听说，阿尔巴尼亚在吉恩·卡斯特里奥蒂斯亲王治下气象日新。”
+（*咔嗒*：到窗口走一个来回；又是几声咔嗒）“自阿卜杜勒·哈米德被弑、阿尔巴尼亚立为公国以来，进步惊人。那美丽的国土，（*咔嗒*）那出色的人民，落到哪位统治者手里都是一份厚赏。苏丹伊斯梅尔是天边仅有的一片云。他不赞成丢掉那一角帝国。但阿尔巴尼亚自会照管自己。”
+“塞尔维亚呢，还有她复兴塞尔维亚帝国的渴望？”
+“不可能。一个四年里弑了两个国王的民族，做不成帝国。”
+“断乎不可能。保加利亚，一个举国皆最臭名昭著、最可憎的异端、人人凶残如土匪的国度，由一个外国佬统治着——或者不如说无人统治着——那家伙是条可鄙的癞狗。”
+“教宗陛下想提议——”
+“废黜斐迪南亲王——如今俄国正忙得脱不开身，这是件轻而易举的事——再由黑山在意大利的保护下吞并保加利亚和塞尔维亚。”
+（*咔嗒咔嗒咔嗒*）“说到这里，陛下，我们就踏上高层政治的地界了。”（*咔嗒咔嗒咔嗒咔嗒*）“脚下须走得极稳。”
+“是啊，”哈德良咪声说，“等意大利同德国拿定了主意。”
+大使鞠了一躬。
+“台球请留下吧，阁下；并请接受我们的谢意，谢您这一场愉快的谈话。”教宗说。
+这位大使向国王回报这次觐见时，末了说道：“还有，陛下，教宗陛下说起话来像个英国人。”
+“哦，是么，”维托里奥·埃马努埃莱说，“像在哪些地方？”
+“陛下，他深厚而澄澈，宏大而细致，胆大而心细。”
+“够了！您爱去多少回去就去多少回；多让我听听这位英国人的事。”
+“托陛下的福。
