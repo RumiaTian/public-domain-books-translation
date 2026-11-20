@@ -158,3 +158,223 @@ They drove to the little station, a large party. Lady Caroline, who was the elem
 一行人坐车去小车站。卡罗琳夫人——其中的愁与悲的元素——为着旅人强把烦恼抛在身后。大家在小小的月台上踱着等那班慢吞吞的地方车来，倒是她看着最快活——快活得她母亲和妹妹甘愿受骗，几乎不信这就是方才同她们分手时「傻得伤心」的那个人。自她结婚以来，林多雷斯勋爵同这个女儿之间总隔着一层影子和冷淡；可是今天，连他似乎也觉出她眼色里无言的谴责不见了，同卡丽相处得自在。火车到之前，约翰·厄斯金也上月台来送他的朋友们。约翰是全伙里最垂头丧气的一个。「你们回来之前我就腐烂在这儿了，」他对林多雷斯夫人说，不敢看伊迪丝；伊迪丝照样含笑听着，笑他的感伤。此刻他说什么她都不怕。
 
 「一个月后的今天来接我们，」她说，「看看您是发了叶还是开了花，厄斯金先生。」
+
+===Original===
+
+John gave her a reproachful glance. He did not feel in the humour even to answer with a compliment﻿—with a hint that the sunshine which encourages blossom would be veiled over till she came back, though some loverlike conceit of the kind had floated vaguely through his thoughts. When the travellers disappeared at last, the three who remained were left standing forlorn on the platform, flanked by the entire strength of the station (one man and a boy, besides the stationmaster), which had turned out to see his lordship and her ladyship off. They looked blankly at each other, as those who are left behind can scarcely fail to do. Nora was the only one who kept up a cheerful aspect. “It is only for a month, after all,” she said, consoling her companions. But Carry dropped back in a moment out of her false courage, and John looked black as a thundercloud at the well-meant utterance. He was so rude as to turn his back upon the comforter, giving Lady Caroline his arm to take her to her carriage. With her he was in perfect sympathy﻿—he even gave her hand a little pressure in brotherly kindness and fellow-feeling: there was nothing to be said in words. Neither did she say anything to him; but she gave him a grateful glance, acknowledging that mute demonstration. At this moment the stillness which had fallen round the little place, after the painful puffing off of the train, was interrupted by the sound of horse’s hoofs, and Torrance came thundering along on his black horse. Lady Caroline made a hurried spring into the carriage, recognising the sound, and hid herself in its depths before her husband came up.
+
+“Holloa!” he cried. “Gone, are they! I thought I should have been in time to say goodbye. But there are plenty of you without me. Why, Car, you look as if you had buried them all, both you and Erskine. What’s the matter? is she going to faint?”
+
+“I never faint,” said Lady Caroline, softly, from the carriage window. “I am tired a little. Nora, we need not wait now.”
+
+“And you look like a dead cat, Erskine,” said the civil squire. “It must have been a tremendous parting, to leave you all like this. Hey! wait a moment; don’t be in such a hurry. When will you come over and dine, and help Lady Car to cheer up a bit? After this she’ll want somebody to talk to, and she don’t appreciate me in that line. Have we anything on for Tuesday, Car, or will that suit?”
+
+===Chinese===
+
+约翰投给她一个嗔怪的眼色。他连用一句恭维话作答的心情都没有——本可以暗示一句：催开百花的阳光，要等她回来才会露脸——虽然某种这路的情人式俏皮话曾模糊地掠过他的心头。待旅人们终于消失，留下的三个人凄凄地立在月台上，两旁站着车站的全部班底（站长之外，还有一个男人和一个孩子），都是出来给勋爵和夫人送行的。他们面面相觑，黯然无话——被留下的人差不多都免不了这样。只有诺拉还强撑出一副高兴模样。「毕竟不过一个月，」她说，安慰同伴们。可是卡丽霎时从她那勉强的勇气里垮了下来，而约翰对这句好话黑着一张脸，阴沉得像雷雨云。他竟粗鲁到转身背对那位安慰者，把手臂递给卡罗琳夫人，送她上马车。同她，他是完全的同心——他甚至带着兄弟般的善意和同病相怜，轻轻握了握她的手：话是用不着说的。她也没对他说什么；只投给他一个感激的眼色，领受那无声的表示。就在这时，火车痛苦地喷着气开走之后，笼罩在小站四周的寂静，被一阵马蹄声打断——托伦斯骑着他的黑马轰轰隆隆地冲了过来。卡罗琳夫人听出这声音，慌忙一纵身躲进马车，赶在丈夫来到之前藏进了车厢深处。
+
+「嗬！」他喊。「走了，是吗！我还当来得及道个别呢。不过有我没我，你们人也够多了。哎呀，卡丽，你瞧你这副样子，像把他们全埋了似的——你和厄斯金都是。怎么啦？她要晕了吗？」
+
+「我从来不晕，」卡罗琳夫人从车窗里轻声说。「我只是有点累。诺拉，咱们现在不用等了。」
+
+「你瞧着倒像只死猫，厄斯金，」这位客气的乡绅说。「准是一场惊天动地的离别，把你们弄成这样。嘿！等一下；别这么急。你哪天过来吃顿饭，帮卡丽夫人宽宽心？往后她得有个人说说话，这方面她又不大赏识我。咱们礼拜二有安排吗，卡丽，还是礼拜二合适？」
+
+===Original===
+
+“Any day that is convenient for Mr. Erskine,” said Carry, faltering, looking out with pitiful deprecation and a sort of entreaty at John standing by. Her wistful eyes seemed to implore him not to think her husband a brute, yet to acknowledge that he was so all the same.
+
+“Then we’ll say Tuesday,” said Torrance. “Come over early and see the place. I don’t suppose you have so many invitations that you need to be asked weeks in advance. But don’t think I am going to cheat you of your state dinner. Oh, you shall have that in good time, and all the old fogeys in the county. In the meantime, as you’re such old friends, it’s for Lady Car I’m asking you now.” This was said with a laugh which struck John’s strained nerves as the most insolent he had ever heard.
+
+“I need not say that I am at Lady Caroline’s disposition﻿—when she pleases,” he replied, very gravely.
+
+“Oh, not for me﻿—not for me,” she cried, under her breath. Then recovering herself﻿—“I mean﻿—forgive me; I was thinking of something else. On Tuesday, if you will come, Mr. Erskine﻿—it will be most kind to come. And, Nora, you will come too. To Chiefswood,” she said, as the servant shut the door, falling back with a look of relief into the shelter of the carriage. The two men stood for a moment looking after it as it whirled away. Why they should thus stand in a kind of forced antagonism, John Erskine, at least, did not know. The railway forces looked on vaguely behind; and Torrance, curbing his impatient horse, made a great din and commotion on the country road.
+
+“Be quiet, you brute! We didn’t bargain for Nora﻿—eh, Erskine? she’s thrown in,” said Torrance, with that familiarity which was so offensive to John. “To be sure, three’s no company, they say. It’s a pity they play their cards so openly﻿—or rather, it’s a great thing for you, my fine fellow. You were put on your guard directly, I should say. I could have told them, no man was ever caught like that﻿—and few men know better than I do all the ways of it,” he said, with a laugh.
+
+“You have the advantage of me,” said Erskine, coldly. “I don’t know who is playing cards, or what I have to do with them. Till Tuesday﻿—since I have Lady Caroline’s commands,” he said, lifting his hat.
+
+===Chinese===
+
+「厄斯金先生哪天方便就哪天，」卡丽结结巴巴地说，带着可怜的告饶和一种恳求，望着站在一旁的约翰。她那双忧郁的眼睛似乎在求他别把她丈夫想成畜生，却又承认他终究就是个畜生。
+
+「那就定礼拜二，」托伦斯说。「早点过来，看看这地方。我想你请帖也不多，用不着提前几个礼拜下帖子。可别以为我要赖掉你的那顿正宴。哦，那个迟早会有的，连同全县的老古董们一起请来。眼下呢，你们是这么老的朋友，我这回可是替卡丽夫人请你。」这话伴着一阵笑，砸在约翰紧绷的神经上，是他平生听过的最放肆的笑。
+
+「不用说，我听凭卡罗琳夫人差遣——她什么时候乐意都行，」他答道，非常庄重。
+
+「哦，别为我——别为我，」她压着嗓子喊。随即定下神来——「我是说——原谅我；我刚才在想别的事。礼拜二，您若肯来，厄斯金先生——肯来就是天大的好了。还有诺拉，你也来。去契夫斯伍德，」仆人关车门时她说，带着松一口气的神情退回车厢的荫蔽里。马车飞驰而去，两个男人立了一刻，望着它的后影。他们何以就这样摆出一种被迫的敌对，至少约翰·厄斯金自己也不知道。铁路上的人马在后面茫然望着；托伦斯勒住他那匹不耐烦的马，在乡路上闹出好大一阵喧腾。
+
+「安静，你这畜生！咱们可没把诺拉算在里头——呃，厄斯金？她是搭头，」托伦斯说，带着那种让约翰格外厌恶的亲狎。「可不是，三个人不成席，人家说的。可惜他们把牌打得太露——或者说，对你可是件大好事，我的好伙计。我敢说你一下子就有了防备。我可以告诉她们，没有哪个男人是这样上钩的——这条里的种种门道，懂得比我多的也没几个，」他笑着说。
+
+「阁下倒比我占先，」厄斯金冷冷地说。「我不知道谁在打牌，也不知道牌跟我有什么相干。礼拜二见——既然有卡罗琳夫人的吩咐，」他说着，举了举帽子。
+
+===Original===
+
+“Confound﻿—” the other said, under his breath; but John had already turned away. Torrance stared after him, with a doubt in his eyes whether he should not pursue and pick a quarrel on the spot; but a moment’s reflection changed his plans. “I’ll get more fun out of him yet before I’m done with him,” he said, half to himself. Then he became aware of the observation of Sandy Struthers the porter and the boy who had formed the background, and were listening calmly to all that was said. He turned round upon them quickly. “Hey, Sandy! what’s wrong, my man? Were you waiting to spy upon Mr. Erskine and me?”
+
+“Me﻿—spying! No’ me; what would I spy for?” was the porter’s reply. He was too cool to be taken by surprise. “What’s that to me if twa gentlemen spit and scratch at ilk ither, like cats or women folk,” he said, slowly. He had known Tinto “a’ his days,” and was not afraid of him. A porter at a little roadside station may be pardoned if he is misanthropical. He did not even change his position, as a man less accustomed to waiting about with his hands hanging by his side might have done.
+
+“You scoundrel! how dare you talk of spitting and scratching to me?”
+
+“ ’Deed, I daur mair than that,” said Sandy, calmly. “You’ll no’ take the trouble to complain to the Directors, Tinto, and I’m feared for naebody else. But you shouldna quarrel﻿—gentlemen shouldna quarrel. It sets a bad example to the countryside.”
+
+“Quarrel! nothing of the sort. That’s your imagination. I was asking Mr. Erskine to dinner,” said Tinto, with his big laugh.
+
+“Weel, it looked real like it. I wouldna gang to your dinner, Tinto, if you asked me like that.”
+
+“Perhaps you wouldn’t take a shilling if I tossed it to you like that.”
+
+“It’s a’thegither different,” said Sandy, catching the coin adroitly enough. “I see nae analogy atween the twa. But jist take you my advice and quarrel nane, sir, especially with that young lad: thae Erskines are a dour race.”
+
+===Chinese===
+
+「见鬼——」那一位压着嗓子说；可约翰已经转身走了。托伦斯盯着他的背影，眼里犯着疑虑：要不要追上去当场寻一场衅；但转念一想，改了主意。「我跟他没完之前，还要从他身上多榨出点乐子呢，」他半自语道。随后他察觉到搬行李的桑迪·斯特拉瑟斯和那孩子正在背后望着，方才的话他们平平静静听了个全。他猛地转身冲着他们。「嘿，桑迪！怎么啦，老兄？你守在这儿偷看厄斯金先生和我的事吗？」
+
+「我？偷看！可不是我；我偷看做啥？」搬运行李的答道。他镇定得很，吓不着。「两位先生像猫儿娘们儿似的又啐又抓，关我什么事，」他慢吞吞地说。他「打小」就认得廷托，不怕他。一个路边小站的脚夫，脾气厌世些也是可以原谅的。他连姿势都没换——换个不惯于两手垂着干站的人，怕早就换了。
+
+「你这恶棍！怎么敢跟我讲什么啐呀抓的？」
+
+「当真，俺的胆子还大着呢，」桑迪平平静静地说。「您才不高兴费那个神，去董事们跟前告状呢，廷托，旁人俺一个也不怕。不过您不该吵架——老爷们儿不该吵架。给乡里带个坏头。」
+
+「吵架！没的事。那是你想出来的。我这是请厄斯金先生吃饭，」廷托说着，哈哈大笑。
+
+「唔，瞧着倒真像那么回事。您要是这么请我，廷托，俺可不去吃您的饭。」
+
+「说不定我这么扔给你一先令，你也不要呢。」
+
+「那可全不是一码事，」桑迪说着，相当利落地接住那枚硬币。「俺瞧这两件事没啥相干。不过您就听俺一句劝，别吵架，老爷，尤其别跟那后生吵：厄斯金家这族人，倔着呢。」
+
+===Original===
+
+“You idiot! I was asking him to dinner,” Torrance said. He was on friendly terms with all the common people, with a certain jocular roughness which did not displease them. Sandy stood imperturbable, with all the calm of a man accustomed to stand most of his time looking on at the vague and quiet doings of the world about him. Very little ever happened about the station. To have had a crack with Tinto was a great entertainment after the morning excitement, enough to maintain life upon for a long time, of having helped the luggage into the van, and assisted my lord and my lady to get away.
+
+“I wish,” cried Nora, as they rolled along the quiet road, “that you would not drag me in wherever John Erskine is going, Car!”
+
+They all called him John Erskine. It was the habit of the neighbourhood, from which even strangers could scarcely get free.
+
+“I drag you in! Ah, see how selfish we are without knowing!” said Carry. “I thought only that between Mr. Torrance and myself﻿—there would be little amusement.”
+
+“Amusement!” cried Nora﻿—“always amusement! Is that all that is ever to be thought of even at a dinner-party?”
+
+Carry was too serious to take up this challenge. “Dear Nora,” she said, “I am afraid of John Erskine, though I cannot tell you why. I think Mr. Torrance tries to irritate him: he does not mean it﻿—but they are so different. I know by my own experience that sometimes a tone, a look﻿—which is nothing, which means nothing﻿—will drive one beside one’s self. That is why I would rather he did not come; and when he comes, I want someone﻿—someone indifferent﻿—to help me to make it seem like a common little dinner﻿—like every day.”
+
+“Is it not like every day? Is there﻿—anything? If you want me, Carry, of course there is not a word to be said.” Nora looked at her with anxious, somewhat astonished eyes. She, too, was aware that before Carry’s marriage﻿—before the family came to Lindores﻿—there had been *someone else*. But if that had been John, how then did it happen that Edith﻿—Nora stopped short, confounded. To her young imagination the idea, not so very dreadful a one, that a man who had loved one sister might afterwards console himself with another, was a sort of sacrilege. But friendship went above all.
+
+===Chinese===
+
+「你这傻瓜！我这是请他吃饭，」托伦斯说。他跟下等人全都处得来，带着一种说笑式的粗豪，人家倒也不讨厌。桑迪屹然不动，满是一副惯于整天站着旁观周围世界那些模糊而安静的事儿的人的镇定。车站上是难得有什么事的。帮着把行李塞进车厢、伺候老爷和夫人动身，经过早晨那一番兴奋，再同廷托斗一场嘴，便是一桩大消遣，够滋养他的生计好一阵子了。
+
+「我倒盼着，」马车在安静的路上辘辘走着，诺拉喊道，「别约翰·厄斯金去哪儿你都把我捎上，卡丽！」
+
+大家都叫他约翰·厄斯金。四邻的习惯如此，连外乡人也躲不脱。
+
+「我把你捎上！啊，瞧我们不知不觉有多自私！」卡丽说。「我只想到，托伦斯先生跟我之间——怕是没什么乐趣。」
+
+「乐趣！」诺拉喊——「张口闭口乐趣！难道连一顿饭局上，心里想的也永远只有这个吗？」
+
+卡丽太认真，没接这个茬。「亲爱的诺拉，」她说，「我怕约翰·厄斯金，虽然我说不清为什么。我觉得托伦斯先生存心撩他：他不是有意的——可他们太不一样了。我凭自己的经验知道，有时候一个腔调、一个眼色——本来什么也不是、什么意思也没有——能把人逼得发狂。所以我宁可他不来；他来了呢，我也要有个人——一个不相干的人——帮我把这顿饭弄得像一顿普普通通的小小晚饭——像平常日子一样。」
+
+「难道平常不是这样？有什么——事儿吗？你要是需要我，卡丽，那自然没二话。」诺拉用焦急而略带惊异的眼光望着她。她也风闻过，卡丽结婚以前——这一家搬来林多雷斯以前——曾有过另外一个人。可倘若那人就是约翰，那又怎么会轮到伊迪丝——诺拉猛地收住，懵了。在她年轻的想象里，一个男人爱过一个姐姐、回头又拿妹妹安慰自己——这念头虽不怎么可怕——却近乎一种亵渎。可是友谊高于一切。
+
+===Original===
+
+“I do not think I can explain it to you, Nora,” said Lady Caroline. “There are so many things one cannot explain. Scarcely anything in this world concerns one’s very self alone and nobody else. That always seems to make confidences so impossible.”
+
+“Never mind confidences,” cried Nora, wounded. “I did not ask why. I said if you really *wanted* me, Carry﻿—”
+
+“I know you would not ask why. And there is nothing to tell. Mr. Torrance has had a mistaken idea. But it is not that altogether. I am frightened without any reason. I suppose it is as my mother says, because of all the old associations he brings back. Marriage is so strange a thing. It cuts your life in two. What was before seems to belong to someone else﻿—to another world.”
+
+“Is it always so, I wonder?” said Nora, wistfully.
+
+“So far as I know,” Carry said.
+
+“Then I think St. Paul is right,” cried the girl, decisively, “and that it is not good in that case to marry; but never mind, if you want me. There is nothing to be frightened about in John Erskine. He is nice enough. He would not do anything to make you uncomfortable. He is not ill-tempered nor ready to take offence.”
+
+“I did not know that you knew him so well, Nora.”
+
+“Oh yes﻿—when you have a man thrust upon you as he has been﻿—when you have always heard of him all your life; when people have said for years﻿—in fun, you know, of course, but still they have said it﻿—‘Wait till you see John Erskine!’ ”
+
+Nora’s tone was slightly aggrieved. She could not help feeling herself a little injured that, after so much preparation and so many indications of fate, John Erskine should turn out to be nothing to her after all.
+
+Lady Caroline listened with an eager countenance. Before Nora had done speaking, she turned upon her, taking both her hands. Her soft grey eyes widened out with anxious questions. The corners of her mouth drooped. “Nora, dear child, dear child!” she said, “you cannot mean﻿—you do not say﻿—”
+
+===Chinese===
+
+「我想我没法跟你解释，诺拉，」卡罗琳夫人说。「世上有那么多没法解释的事。这世上几乎没有一件事，单单关系你自己一个人、不关别人。知心话才总是因此说不成。」
+
+「知心话就算了，」诺拉喊，有点受伤。「我没问为什么。我说的是，你要是真的需要我，卡丽——」
+
+「我知道你不会问为什么。也确实没什么可说的。托伦斯先生有个误会。可又不全是那个。我是无缘无故地害怕。我猜就像我母亲说的，因为他带回来那么多旧日的关联。婚姻是这么奇怪的一件事。它把你的生命切成两半。以前的一切像是属于另一个人——另一个世界。」
+
+「不知道是不是永远都这样？」诺拉怅然说。
+
+「据我所知是这样，」卡丽说。
+
+「那我认为圣保罗说得对，」姑娘斩钉截铁地喊，「这种情形还是不嫁的好；不过没关系，只要你要我。约翰·厄斯金没什么可怕的。他人够好的。他不会做什么叫你不自在的事。他不坏脾气，也不动不动见怪。」
+
+「我倒不知道你这么了解他，诺拉。」
+
+「哦，可不是——一个从小被人这么塞给你的人——一辈子耳朵里听的都是他；人家说了那么些年——当然是玩笑话，你知道，可他们到底是说了——『等着吧，等你见了约翰·厄斯金！』」
+
+诺拉的语气略带委屈。经过这么多铺垫、这么多命定的兆头，约翰·厄斯金到头来竟跟她什么也不是——她不由得觉得自己有点吃了亏。
+
+卡罗琳夫人急切地听着。诺拉话没说完，她就转过身来，握住她的双手。她柔和的灰眼睛睁大了，盛满焦灼的疑问。嘴角垂了下来。「诺拉，亲爱的孩子，亲爱的孩子！」她说，「你不会是那个意思——你不是说——」
+
+===Original===
+
+“Oh, I don’t say anything at all,” cried Nora, half angry, half amused, with a laugh at herself which was about a quarter part inclined to crying. “No, of course not, Car. How could I care for him﻿—a man I had never seen? But just﻿—it seems so ludicrous, after this going on all one’s life, that it should come to nothing in a moment. I never can help laughing when I think of it. ‘Oh, wait till you see John Erskine!’ Since I was fifteen everybody has said that. And then when he did appear at last, oh﻿—I thought him very nice﻿—I had no objection to him﻿—I was not a bit unwilling﻿—to see him calmly turn his back upon me, as he did today at the station!”
+
+Nora laughed till the tears came into her eyes; but Lady Caroline, whose seriousness precluded any admixture of humour in the situation, took the younger girl in her arms and kissed her, with a pitying tenderness and enthusiasm of consolation. “My little Nora! my little Nora!” she said. She was too much moved with the most genuine emotion and sympathy to say more; at which Nora, half accepting the crisis, half struggling against it, laughed again and again till the tears rolled over her cheeks.
+
+“Lady Car! Lady Car! it is not for sorrow; it is the fun of it﻿—the fun of it!” she cried.
+
+But Carry did not see the fun. She wanted to soothe the sorrow away.
+
+“Dearest Nora, this sort of disappointment is only visionary,” she said. “It is your imagination that is concerned, not your heart. Oh, believe me, dear, you will laugh at it afterwards; you will think it nothing at all. How little he knows! I shall think less of his good sense, less of his discrimination, than I was disposed to do. To think of a man so left to himself as to throw my Nora away!”
+
+“He has not thrown me away,” cried Nora, with a little pride; “because, thank heaven, he never knew that he had me in his power! But you must think more, not less, of his discrimination, Carry; for if he never had any eyes for me, it was for the excellent good reason that he had seen Edith before. So my pride is saved﻿—quite saved,” the girl cried.
+
+“Edith!” Carry repeated after her. And then her voice rose almost to a shriek﻿—“Edith! You cannot mean that?”
+
+===Chinese===
+
+「哦，我什么也没说呀，」诺拉喊，一半恼一半好笑，笑的是她自己，笑里又有约莫四分之一的哭意。「不，当然不，卡丽。我怎么会对他有意——一个我从没见过的人？只是——闹了一辈子的事，霎时间落了空，显得这么滑稽。我一想起来就忍不住笑。『哦，等着吧，等你见了约翰·厄斯金！』我十五岁起人人都这么说。可等他终于露面了，哦——我觉得他挺好——我不讨厌他——我也一点不嫌弃——却眼看着他冷冷地把背朝向我，就像今天在车站上那样！」
+
+诺拉笑出了眼泪；可卡罗琳夫人——她的认真容不得这局面里掺半点玩笑——把年轻的姑娘搂进怀里吻她，带着怜惜的温柔和热烈到近乎虔诚的安慰。「我的小诺拉！我的小诺拉！」她说。她被最真挚的情感和同情激动得说不出更多的话；诺拉呢，一半领受这个郑重的关口，一半又挣扎着抵抗，笑了一遍又一遍，笑得眼泪顺着脸颊滚下来。
+
+「卡丽夫人！卡丽夫人！这不是伤心；是这事好笑——它太好笑了！」她喊。
+
+可是卡丽不觉得好笑。她要把那伤心抚平。
+
+「最亲爱的诺拉，这种失望只存在于幻想里，」她说。「动的是你的想象，不是你的心。哦，相信我，亲爱的，你往后会笑它的；你会觉得它根本不算什么。他多不了解啊！我往后要把他的见识看得更低些，把他的眼力也看得更低些。想想看，一个男人竟这样没人点醒，把我的诺拉白白领放了！」
+
+「他没有领放我，」诺拉喊，带一点骄傲；「因为，谢天谢地，他从不知道我曾经任他摆布！可你得把他的眼力看得更高些，不是更低，卡丽；因为他若从来对我目不斜视，那有个顶好顶好的理由——他先见了伊迪丝。所以我的骄傲保住了——全保住了，」姑娘喊。
+
+「伊迪丝！」卡丽跟着她重复。随即她的声音几乎拔成一声尖叫——「伊迪丝！你不会是这个意思吧？」
+
+===Original===
+
+“But I do mean it. Oh, I know there will be a thousand difficulties. Lord Lindores will never consent: that is why they go and do it, I suppose. Because she was the last person he ought to have fallen in love with, as they say in the *Critic*﻿—”
+
+“Edith!” repeated Carry again. Nora was half satisfied, half disappointed, to find that her own part of the story faded altogether from her friend’s mind when this astonishing peace of intelligence came in. Then she whispered in an awestricken voice, “Does my mother know?”
+
+“Nobody knows﻿—not even Edith herself. I saw it because, you know﻿—And of course,” cried Nora, in delightful self-contradiction, “it does not matter at all when I meet him now; for he is not thinking of me any longer, but of her. Oh, he never did think of me, except to say to himself, ‘There is that horrid girl again!’ ”
+
+This time Nora’s laugh passed without any notice from Carry, whose thoughts were absorbed in her sister’s concerns. “Was not I right,” she said, clasping her hands, “when I said I was frightened for John Erskine? I said so to my mother today. What I was thinking of was very different: that he might quarrel with Mr. Torrance﻿—that harm might come in that way. But oh, this is worse, far worse! Edith! I thought she at least would be safe. How shortsighted we are even in our instincts! Oh, my little sister! What can I do, Nora, what can I do to save her?”
+
+Nora received this appeal with a countenance trembling between mirth and vexation. She did not think Edith at all to be pitied. If there was any victim﻿—and the whole matter was so absurd that she felt it ought not to be looked at in so serious a light﻿—but if there was a victim, it was not Edith, but herself. She could only reply to Carry’s anxiety with a renewed outbreak of not very comfortable laughter. “Save her! You forget,” she said, with sudden gravity, “that Edith is not one to be saved unless she pleases. And if she should like Mr. Erskine﻿—”
+
+“My father will kill her!” Lady Caroline cried.
+
+===Chinese===
+
+「可我就是这个意思。哦，我知道会有千难万难。林多雷斯勋爵绝不会答应：所以我猜，他们才偏偏去做了。因为她恰恰是他最不该爱上的人，就像《批评家》里说的那样——」
+
+「伊迪丝！」卡丽又说了一遍。这件惊人的消息一进来，她自己那一段故事就从朋友心里整个退了出去——诺拉见状，一半满意，一半失望。然后她用敬畏的声音低问：「我母亲知道吗？」
+
+「没人知道——连伊迪丝自己都不知道。我看出来是因为，你知道——当然啦，」诺拉喊，满心欢喜地自相矛盾，「往后我见了他一点也不碍事了；因为他想的不再是我，是她。哦，他从来就没想过我，除了自言自语：『那个讨厌的丫头又来了！』」
+
+这一回诺拉的笑没有从卡丽那里得到任何回应，卡丽的心思全叫妹妹的事占满了。「我说怕约翰·厄斯金，难道说得不对？」她绞着双手说，「今天我还这么跟母亲说了。我想的本是另一回事：怕他跟托伦斯先生吵起来——怕从那条路上生出祸事。可是哦，这个更糟，糟得多！伊迪丝！我还当她至少是安全的。我们连自己的直觉都这样短视！哦，我的小妹妹！我能做什么，诺拉，我能做什么救她？」
+
+诺拉听着这番恳求，脸上的神情又想笑又着恼，直打颤。她一点也不觉得伊迪丝有什么可怜。倘若真有受害者——这整桩事荒唐透顶，她觉得根本不该看得这么严重——可倘若真有受害者，那也不是伊迪丝，而是她自己。对卡丽的焦灼，她只能报以一阵再度爆发的、并不怎么痛快的笑。「救她！你忘了，」她忽然郑重地说，「伊迪丝可不是任人搭救的人，除非她自己乐意。倘若她喜欢厄斯金先生——」
+
+「我父亲会杀了她！」卡罗琳夫人喊。
