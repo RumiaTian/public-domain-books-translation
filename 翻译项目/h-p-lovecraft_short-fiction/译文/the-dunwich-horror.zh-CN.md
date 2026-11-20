@@ -13,6 +13,18 @@
 
 ### I / 一
 
+### I /
+
+### I /
+
+### I /
+
+### I /
+
+### I /
+
+### I /
+
 ### I / 
 ===Original===
 
@@ -68,6 +80,18 @@ These tales, of course, are obsolete and ridiculous; because they come down from
 
 ### II / 二
 
+### II /
+
+### II /
+
+### II /
+
+### II /
+
+### II /
+
+### II /
+
 ### II / 
 ===Original===
 
@@ -121,6 +145,18 @@ The next January gossips were mildly interested in the fact that “Lavinny’s 
 
 ### III / 三
 
+### III /
+
+### III /
+
+### III /
+
+### III /
+
+### III /
+
+### III /
+
 ### III / 
 ===Original===
 
@@ -161,6 +197,18 @@ In 1917 the war came, and Squire Sawyer Whateley, as chairman of the local draft
 那所宅子的稀客，常常见拉维尼娅独自在楼下，而钉死的二层楼上响着古怪的喊声和脚步。她从不肯说她父亲和那孩子在上面干什么，只有一次，一个爱开玩笑的鱼贩子去捾那道通往楼梯的锁着的门，她脸都白了，露出反常的恐惧。那贩子对敦威治村杂货店的闲人说，他好像听见上面那层楼有马在刨蹄。闲人们想了想那扇门、那条坡道，又想了想消失得那样快的牛，不由得寒毛直竖，记起老惠特利年轻时那些传说，想起按时辰向某些异教神献祭公牛时、从地里召出来的那些怪东西。有一阵子大家已注意到，狗对整座惠特利宅子的恨与怕，已经同恨和怕小威尔伯本人一样凶了。
 
 ### IV / 四
+
+### IV /
+
+### IV /
+
+### IV /
+
+### IV /
+
+### IV /
+
+### IV /
 
 ### IV / 
 ===Original===
@@ -244,6 +292,18 @@ In the summer of 1927 Wilbur repaired two sheds in the farmyard and began moving
 1927年夏天，威尔伯修好场院里的两间棚子，开始把书和家什搬过去。不久厄尔·索耶告诉奥斯本店的闲人，惠特利农庄里又动起了木工。威尔伯正把底层的门窗统统封死，又像四年前他同外公在楼上干的那样拆隔墙。他住在一间棚里，索耶觉得他显得异样地忧心、发抖。人们普遍疑心他知道他母亲的下落，如今很少有人走近他那片地方。他的身量已过七英尺，而且毫无住手的迹象。
 
 ### V / 五
+
+### V /
+
+### V /
+
+### V /
+
+### V /
+
+### V /
+
+### V / 
 ===Original===
 
 The following winter brought an event no less strange than Wilbur’s first trip outside the Dunwich region. Correspondence with the Widener Library at Harvard, the Bibliotheque Nationale in Paris, the British Museum, the University of Buenos Aires, and the Library of Miskatonic University at Arkham had failed to get him the loan of a book he desperately wanted; so at length he set out in person, shabby, dirty, bearded, and uncouth of dialect, to consult the copy at Miskatonic, which was the nearest to him geographically. Almost eight feet tall, and carrying a cheap new valise from Osborn’s general store, this dark and goatish gargoyle appeared one day in Arkham in quest of the dreaded volume kept under lock and key at the college library﻿—the hideous *Necronomicon* of the mad Arab Alhazred in Olaus Wormius’ Latin version, as printed in Spain in the seventeenth century. He had never seen a city before, but had no thought save to find his way to the university grounds; where, indeed, he passed heedlessly by the great white-fanged watchdog that barked with unnatural fury and enmity, and tugged frantically at its stout chain.
@@ -309,6 +369,18 @@ During the ensuing weeks Dr. Armitage set about to collect all possible data on
 随后几个星期，阿米蒂奇博士着手收集一切可能到手的关于威尔伯·惠特利和敦威治周遭无形存在的材料。他同艾尔斯伯里的霍顿医生接上了头——霍顿最后为老惠特利看过病——从医生转述的老人遗言里找到许多值得深思的东西。去敦威治村一趟没问出多少新东西；但把《死灵之书》里威尔伯如饥似渴翻检过的那些部分细细研究一遍，似乎为这个隐隐威胁着地球的怪恶的性质、手法与欲望，提供了崭新而可怕的线索。在波士顿同几位古学研究者谈话，又给各地许多旁人写信，他的惊异步步升级，缓缓穿过层层警报，落进一种真正尖锐的心灵恐惧。入夏之后他隐约觉得，对潜伏在米斯卡塔尼克上游河谷的恐怖、对那个世人称作威尔伯·惠特利的怪物，总该做点什么了。
 
 ### VI / 六
+
+### VI /
+
+### VI /
+
+### VI /
+
+### VI /
+
+### VI /
+
+### VI / 
 ===Original===
 
 The Dunwich horror itself came between Lammas and the equinox in 1928, and Dr. Armitage was among those who witnessed its monstrous prologue. He had heard, meanwhile, of Whateley’s grotesque trip to Cambridge, and of his frantic efforts to borrow or copy from the *Necronomicon* at the Widener Library. Those efforts had been in vain, since Armitage had issued warnings of the keenest intensity to all librarians having charge of the dreaded volume. Wilbur had been shockingly nervous at Cambridge; anxious for the book, yet almost equally anxious to get home again, as if he feared the results of being away long.
@@ -364,6 +436,18 @@ Meanwhile frightful changes were taking place on the floor. One need not describ
 三个人的在场似乎唤醒了那垂死的东西，它头也不抬、身也不转地咕哝起来。阿米蒂奇博士没有笔录那些呓语，却斩钉截铁地说，里面没有一个英文字。起初那些音节同地球上任何语言都对不上号，到末了却出来几句不连贯的残片，分明出自《死灵之书》——那东西正是为了这部渎神巨著丧的命。阿米蒂奇记得的残片，大致是“恩盖……恩戛戛……伯格-绍戈格，耶哈；犹格-索托斯，犹格-索托斯。……”三声夜鹰以不圣洁的期待一浪浪有节奏地尖啸，那声音便消散在虚无里。
 
 ### VII / 七
+
+### VII /
+
+### VII /
+
+### VII /
+
+### VII /
+
+### VII /
+
+### VII / 
 ===Original===
 
 Yet all this was only the prologue of the actual Dunwich horror. Formalities were gone through by bewildered officials, abnormal details were duly kept from press and public, and men were sent to Dunwich and Aylesbury to look up property and notify any who might be heirs of the late Wilbur Whateley. They found the countryside in great agitation, both because of the growing rumblings beneath the domed hills, and because of the unwonted stench and the surging, lapping sounds which came increasingly from the great empty shell formed by Whateley’s boarded-up farmhouse. Earl Sawyer, who tended the horse and cattle during Wilbur’s absence, had developed a woefully acute case of nerves. The officials devised excuses not to enter the noisome boarded place; and were glad to confine their survey of the deceased’s living quarters, the newly mended sheds, to a single visit. They filed a ponderous report at the courthouse in Aylesbury, and litigations concerning heirship are said to be still in progress amongst the innumerable Whateleys, decayed and undecayed, of the upper Miskatonic valley.
@@ -467,3 +551,380 @@ Thursday night began much like the others, but it ended less happily. The whippo
 ===Chinese===
 
 夜里封堵又照演一遍，只是聚在一处的家庭少了。早晨，弗赖家和塞思·毕晓普家都报告狗躁动不安，远处有隐约的声响和臭气；早出的探看者则惊骇地发现，绕哨兵山的那条路上又添了一串新鲜的大脚印。同先前一样，路两侧的压痕显出那渎神巨物的骇人体量；而脚印的形貌却表明是双向的通行，仿佛那座行走的山从冷泉谷来，又顺着原路回冷泉谷去。山脚一条三十英尺宽的碎灌残木之路陡直向上，探看的人倒抽冷气：连最陡直的地方也拦不住那一条不由分说的踪迹。无论那恐怖是什么，它爬得上一面几乎全然垂直的石崖；绕着安全的路径登上山顶的调查者看见，踪迹到顶为止——或者说，到顶掉头。
+
+### VIII / 八
+
+### VIII /
+
+### VIII /
+
+### VIII /
+
+### VIII / 八
+
+### VIII / 八
+===Original===
+
+In the meantime a quieter yet even more spiritually poignant phase of the horror had been blackly unwinding itself behind the closed door of a shelf-lined room in Arkham. The curious manuscript record or diary of Wilbur Whateley, delivered to Miskatonic University for translation, had caused much worry and bafflement among the experts in languages both ancient and modern; its very alphabet, notwithstanding a general resemblance to the heavily shaded Arabic used in Mesopotamia, being absolutely unknown to any available authority. The final conclusion of the linguists was that the text represented an artificial alphabet, giving the effect of a cipher; though none of the usual methods of cryptographic solution seemed to furnish any clue, even when applied on the basis of every tongue the writer might conceivably have used. The ancient books taken from Whateley’s quarters, while absorbingly interesting and in several cases promising to open up new and terrible lines of research among philosophers and men of science, were of no assistance whatever in this matter. One of them, a heavy tome with an iron clasp, was in another unknown alphabet﻿—this one of a very different cast, and resembling Sanskrit more than anything else. The old ledger was at length given wholly into the charge of Dr. Armitage, both because of his peculiar interest in the Whateley matter, and because of his wide linguistic learning and skill in the mystical formulae of antiquity and the Middle Ages.
+
+Armitage had an idea that the alphabet might be something esoterically used by certain forbidden cults which have come down from old times, and which have inherited many forms and traditions from the wizards of the Saracenic world. That question, however, he did not deem vital; since it would be unnecessary to know the origin of the symbols if, as he suspected, they were used as a cipher in a modern language. It was his belief that, considering the great amount of text involved, the writer would scarcely have wished the trouble of using another speech than his own, save perhaps in certain special formulae and incantations. Accordingly he attacked the manuscript with the preliminary assumption that the bulk of it was in English.
+
+===Chinese===
+
+与此同时，这场恐怖还孕育着一段更为沉静、却在心灵上愈见惨痛的阶段，正在阿卡姆一间四壁皆书的房门背后，幽然自行展开。威尔伯·惠特利那份被送交米斯卡塔尼克大学以求译解的手稿记录——或者说日记——早已令研治古今语言的诸位专家大费踌躇、无从下手；那上面的字母，尽管大体近似美索不达米亚通行的那种笔画浓重的阿拉伯文，却是任何一位可供咨询的权威所全然不识。语言学家们最终的结论是：文本使用的是一种人造字母，效果近乎密码；然而种种惯常的破译方法，纵使以执笔者可能使用的每一种语言为基准逐一施用，似乎也寻不出半点头绪。自惠特利住处取来的那些古籍，虽然引人入胜之极，其中数部还大有为哲学家和科学家开辟崭新而可怖研究路线之势，在这件事上却毫无助益。其中一部带铁扣的厚重大书，用的是又一种无人认识的字母——那一种面目迥异，比什么都更像梵文。那册旧账簿最终被全权交到阿米蒂奇博士手里，一则因为他在惠特利事件上的特殊关切，二则因为他的语言学养渊博，又娴于古代与中世纪的神秘法式。
+
+阿米蒂奇有一个想法：这种字母，或许是某些自古沿袭下来的禁忌教派所秘用，那些教派从萨拉森世界的巫师们那里承袭了众多的形式与传统。不过这个问题他并不认为紧要；因为倘若如他所疑，这些符号是当作密码用来书写一种现代语言，那么考究符号的来历便无必要。他相信，念在文本份量如此之大，执笔者除却若干特殊的法式与咒文，断不至于自寻烦恼去用另一种语言，而非他自己的母语。于是他着手破解这份手稿，预先立下一条假设：其主体是英文。
+
+===Original===
+
+Dr. Armitage knew, from the repeated failures of his colleagues, that the riddle was a deep and complex one, and that no simple mode of solution could merit even a trial. All through late August he fortified himself with the massed lore of cryptography, drawing upon the fullest resources of his own library, and wading night after night amidst the arcana of Trithemius’ *Poligraphia*, Giambattista Porta’s *De Furtivis Literarum Notis*, De Vigenere’s *Traité des Chiffres*, Falconer’s *Cryptomenysis Patefacta*, Davys’ and Thicknesse’s eighteenth century treatises, and such fairly modern authorities as Blair, von Marten, and Klüber’s *Kryptographik*. He interspersed his study of the books with attacks on the manuscript itself, and in time became convinced that he had to deal with one of those subtlest and most ingenious of cryptograms, in which many separate lists of corresponding letters are arranged like the multiplication table, and the message built up with arbitrary key-words known only to the initiated. The older authorities seemed rather more helpful than the newer ones, and Armitage concluded that the code of the manuscript was one of great antiquity, no doubt handed down through a long line of mystical experimenters. Several times he seemed near daylight, only to be set back by some unforeseen obstacle. Then, as September approached, the clouds began to clear. Certain letters, as used in certain parts of the manuscript, emerged definitely and unmistakably; and it became obvious that the text was indeed in English.
+
+On the evening of September second the last major barrier gave way, and Dr. Armitage read for the first time a continuous passage of Wilbur Whateley’s annals. It was in truth a diary, as all had thought; and it was couched in a style clearly showing the mixed occult erudition and general illiteracy of the strange being who wrote it. Almost the first long passage that Armitage deciphered, an entry dated November 26, 1916, proved highly startling and disquieting. It was written, he remembered, by a child of three and a half who looked like a lad of twelve or thirteen.
+
+===Chinese===
+
+阿米蒂奇博士从同僚们接连的失败中早已明白，这个谜团既深且繁，任何简单肤浅的解法都不值一试。整个八月下旬，他都以前人的密码学浩帙自固，动用自家藏书的全部资源，夜复一夜地浸淫于特里特米乌斯的《复字书》（Poligraphia）、詹巴蒂斯塔·波尔塔的《论文字的隐秘记法》（De Furtivis Literarum Notis）、德·维热内的《密码论》（Traité des Chiffres）、法尔科内的《密码术发微》（Cryptomenysis Patefacta）、戴维斯与西克尼斯的十八世纪诸论著，以及布莱尔、冯·马滕与克吕贝尔的《密码学》（Kryptographik）一类较新的权威之间。他在攻读群书之余不断回身攻击手稿本身，渐渐确信自己面对的是那等最精微、最巧妙的密码：许多张两两对应的字母表排列得有如乘法表，讯息则凭只有入会者才知晓的任意密钥词搭建而成。较古老的权威反倒比较新的更为有用，阿米蒂奇于是断定，手稿所用的代码渊源极古，无疑是经一长列神秘实验者之手递传下来的。有几回他似乎已望见天光，却又被某个始料未及的障碍挡回黑暗。随后，九月将近，阴霾开始消散。某几个字母在手稿某几处的用法，确凿无疑地显出了真容；于是文本确系英文，这一点已然昭然。
+
+9月2日傍晚，最后一道大关告破，阿米蒂奇博士第一次连贯读通了威尔伯·惠特利编年录中的一段文字。那确是一部日记，一如众人所料；其行文风格分明透出执笔者那种秘术博学与整体蒙昧的奇异杂糅。阿米蒂奇解读出的头几段长文里，几乎第一段——记于1916年11月26日——便惊人得令人心悸。他记得，写下这段文字的是一个三岁半的孩子，瞧上去却已是十二三岁的少年。
+
+===Original===
+
+Today learned the Aklo for the Sabaoth, [it ran] which did not like, it being answerable from the hill and not from the air. That upstairs more ahead of me than I had thought it would be, and is not like to have much Earth brain. Shot Elam Hutchins’s collie Jack when he went to bite me, and Elam says he would kill me if he dast. I guess he won’t. Grandfather kept me saying the Dho formula last night, and I think I saw the inner city at the 2 magnetic poles. I shall go to those poles when the Earth is cleared off, if I can’t break through with the Dho-Hna formula when I commit it. They from the air told me at Sabbat that it will be years before I can clear off the Earth, and I guess Grandfather will be dead then, so I shall have to learn all the angles of the planes and all the formulas between the Yr and the Nhhngr. They from outside will help, but they can not take body without human blood. That upstairs looks it will have the right cast. I can see it a little when I make the Yoorish sign or blow the power of Ibn Ghazi at it, and it is near like them at May Eve on the Hill. The other face may wear off some. I wonder how I shall look when the Earth is cleared and there are no Earth beings on it. He that came with the Aklo Sabaoth said I may be transfigured, there being much of outside to work on.
+
+Morning found Dr. Armitage in a cold sweat of terror and a frenzy of wakeful concentration. He had not left the manuscript all night, but sat at his table under the electric light turning page after page with shaking hands as fast as he could decipher the cryptic text. He had nervously telephoned his wife he would not be home, and when she brought him a breakfast from the house he could scarcely dispose of a mouthful. All that day he read on, now and then halted maddeningly as a reapplication of the complex key became necessary. Lunch and dinner were brought him, but he ate only the smallest fraction of either. Toward the middle of the next night he drowsed off in his chair, but soon woke out of a tangle of nightmares almost as hideous as the truths and menaces to man’s existence that he had uncovered.
+
+===Chinese===
+
+今天学会了萨巴奥特所用的阿克洛咒文，【日记如此写道】俺不喜欢它，应它的来自山丘，不来自天空。楼上那东西比俺原想的更走在前头，多半不会有太多的地球脑子。伊莱姆·哈钦斯家的牧羊犬杰克要咬俺，俺开枪打死了它，伊莱姆说他敢就来杀俺。俺谅他不敢。祖父昨夜逼俺念多霍公式（Dho formula），俺想俺看见了两个磁极上的内城。等地球清空之后，俺要到那两极去——要是俺念成多霍-赫纳公式（Dho-Hna formula）还破不开的话。空中来的他们在巫魔会（Sabbat）上告诉俺，还得好些年才能把地球清空，俺猜到那时祖父早死了，所以俺得学会诸平面的全部交角，还有Yr与Nhhngr之间的全部公式。外界来的他们会帮忙，可他们没有人血便不能取得肉身。楼上那东西看来资质对头。俺打出尤里什手印（Yoorish sign）、或者朝它吹动伊本·加齐之力的时候，能望见它一小会儿，它真像五月节前夜山上的他们。另外那张脸兴许会磨掉一些。俺不知等到地球清空、地上再没有地球生灵的时候，俺自己会是什么模样。同阿克洛·萨巴奥特一起来的那位说，俺或许会变形，因为俺身上有那么多外界的东西好供驱遣。
+
+破晓时分，阿米蒂奇博士发觉自己冷汗涔涔，沉在一种清醒的癫狂专注里。他一夜不曾离开手稿，只坐在电灯下的桌前，抖着双手，以解读得出的最快速度一页页翻下去。他神经紧张地打电话告诉妻子不回家了；妻子从家里给他送来早饭，他也几乎咽不下一口。那一整天他读个不停，不时因要重新套用那套复杂的密钥而气恼地停顿。午饭晚饭都送了来，他两餐只动了极少的几口。到次日夜半，他在椅子里打起盹来，却很快从一团噩梦中惊醒，那些梦几乎同他揭示出的、关乎人类生存的真相与威胁一般可怖。
+
+===Original===
+
+On the morning of September fourth Professor Rice and Dr. Morgan insisted on seeing him for a while, and departed trembling and ashen-gray. That evening he went to bed, but slept only fitfully. Wednesday﻿—the next day﻿—he was back at the manuscript, and began to take copious notes both from the current sections and from those he had already deciphered. In the small hours of that night he slept a little in an easy-chair in his office, but was at the manuscript again before dawn. Some time before noon his physician, Dr. Hartwell, called to see him and insisted that he cease work. He refused, intimating that it was of the most vital importance for him to complete the reading of the diary, and promising an explanation in due course of time.
+
+That evening, just as twilight fell, he finished his terrible perusal and sank back exhausted. His wife, bringing his dinner, found him in a half-comatose state; but he was conscious enough to warn her off with a sharp cry when he saw her eyes wander toward the notes he had taken. Weakly rising, he gathered up the scribbled papers and sealed them all in a great envelope, which he immediately placed in his inside coat pocket. He had sufficient strength to get home, but was so clearly in need of medical aid that Dr. Hartwell was summoned at once. As the doctor put him to bed he could only mutter over and over again, “*But what, in God’s name, can we do?*”
+
+Dr. Armitage slept, but was partly delirious the next day. He made no explanations to Hartwell, but in his calmer moments spoke of the imperative need of a long conference with Rice and Morgan. His wilder wanderings were very startling indeed, including frantic appeals that something in a boarded-up farmhouse be destroyed, and fantastic references to some plan for the extirpation of the entire human race and all animal and vegetable life from the Earth by some terrible elder race of beings from another dimension. He would shout that the world was in danger, since the Elder Things wished to strip it and drag it away from the solar system and cosmos of matter into some other plane or phase of entity from which it had once fallen, vigintillions of eons ago. At other times he would call for the dreaded *Necronomicon* and the *Daemonolatreia* of Remigius, in which he seemed hopeful of finding some formula to check the peril he conjured up.
+
+===Chinese===
+
+9月4日上午，赖斯教授与摩根博士执意来看了他一阵，走时浑身发抖、面如死灰。当晚他上了床，睡得断断续续。星期三——第二天——他又伏回手稿之上，开始从当前各节与已解读的各节里大量摘录。那夜后半夜，他在办公室的安乐椅里小睡了片刻，天不亮又回到手稿跟前。将近中午，他的医生哈特韦尔博士前来探视，坚持要他停手。他拒绝了，暗示读完这本日记事关至重，并允诺日后自会解释。
+
+那天傍晚，暮色四合之际，他读完了那场可怕的通读，精疲力竭地向后瘫倒。妻子送晚饭进来，见他已近半昏迷；但他神志尚清，一见她的目光飘向那沓笔记，便失声厉喝，把她喝退。他挣扎着起身，把涂满潦草字迹的纸页悉数收拢，封进一个大信封，随即揣进外衣内袋。他还剩足够的力气回家去，但显然急需医治，哈特韦尔博士当即被请了来。医生安顿他上床时，他只能翻来覆去地喃喃一句：“看在上帝份上，我们究竟还能做什么？”
+
+阿米蒂奇博士睡着了，次日却半在谵妄之中。他没有向哈特韦尔解释什么，只在较平静的时刻说到，务必与赖斯和摩根作一次长谈。他狂乱时的呓语实在骇人：一时疯狂地恳求把某座门窗钉死的农舍里的什么东西毁掉，一时又语无伦次地提起某个计划——由某个来自另一维度的可怕太古族类，将全人类连同一切动植物从地球上斩尽杀绝。他会高喊世界危在旦夕，因为古神们要将它剥光，拖出太阳系、拖出物质的宇宙，拖进它在亿亿万万年之前一度坠离的另一个平面、另一种存在的相位里去。另一些时候，他又叫人取来那可怕的《死灵之书》和雷米吉乌斯的《魔鬼崇拜论》（Daemonolatreia），似乎指望从里面寻出什么法式，遏止他自己招来的这场祸患。
+
+===Original===
+
+“Stop them, stop them!” he would shout. “Those Whateleys meant to let them in, and the worst of all is left! Tell Rice and Morgan we must do something﻿—it’s a blind business, but I know how to make the powder.﻿ ﻿… It hasn’t been fed since the second of August, when Wilbur came here to his death, and at that rate.﻿ ﻿…”
+
+But Armitage had a sound physique despite his seventy-three years, and slept off his disorder that night without developing any real fever. He woke late Friday, clear of head, though sober, with a gnawing fear and tremendous sense of responsibility. Saturday afternoon he felt able to go over to the library and summon Rice and Morgan for a conference, and the rest of that day and evening the three men tortured their brains in the wildest speculation and the most desperate debate. Strange and terrible books were drawn voluminously from the stack shelves and from secure places of storage, and diagrams and formulae were copied with feverish haste and in bewildering abundance. Of skepticism there was none. All three had seen the body of Wilbur Whateley as it lay on the floor in a room of that very building, and after that not one of them could feel even slightly inclined to treat the diary as a madman’s raving.
+
+Opinions were divided as to notifying the Massachusetts State Police, and the negative finally won. There were things involved which simply could not be believed by those who had not seen a sample, as indeed was made clear during certain subsequent investigations. Late at night the conference disbanded without having developed a definite plan, but all day Sunday Armitage was busy comparing formulae and mixing chemicals obtained from the college laboratory. The more he reflected on the hellish diary, the more he was inclined to doubt the efficacy of any material agent in stamping out the entity which Wilbur Whateley had left behind him﻿—the Earth-threatening entity which, unknown to him, was to burst forth in a few hours and become the memorable Dunwich horror.
+
+===Chinese===
+
+“拦住它们，拦住它们！”他会这样喊。“那帮惠特利是要放它们进来，最坏的那一个还留着！告诉赖斯和摩根，我们必须动手——这差事没头没脑，可我知道怎么配那药粉。……它从8月2日起就没喂过，就是威尔伯上这儿来送命的那天，照那个吃法……”
+
+但阿米蒂奇虽已七十三岁，底子却还硬朗，当夜一觉把这场紊乱睡了过去，并未发起真正的热病。星期五他醒得很晚，头脑清明，神色沉肃，怀着一股啃噬内心的恐惧与千钧的责任之感。星期六下午，他自觉能够出门，便到图书馆去召集赖斯与摩根商议；那一日直到夜晚，三个人在最狂野的揣测与最绝望的争辩中煎熬着头脑。一本本怪异可怖的书从书库架上、从妥善存放之处大宗大宗地搬了下来，图表与法式被人以发热般的急促、令人眼花缭乱地抄录着。怀疑是没有的。三人都亲眼见过威尔伯·惠特利的尸身躺在那栋楼里一间屋子的地板上；自那以后，谁也不可能再把这本日记当作疯人的呓语等闲视之。
+
+在是否通报马萨诸塞州警的问题上众人意见相左，主张不报的一方最终占了上风。这里面牵涉的事情，没亲眼见过样本的人是断然不会相信的——后来几番调查也确实证明了这一点。深夜，会议散去，并未议出明确的方略；但整个星期日，阿米蒂奇都忙于比勘法式、调配从学院实验室取来的药剂。他对那本地狱般的日记思之愈深，便愈怀疑任何物质手段能否扑灭威尔伯·惠特利身后留下的那个存在——那个威胁着地球的存在；他还不知道，它几小时之后就要破土而出，成为那场令人难忘的敦威治恐怖。
+
+===Original===
+
+Monday was a repetition of Sunday with Dr. Armitage, for the task in hand required an infinity of research and experiment. Further consultations of the monstrous diary brought about various changes of plan, and he knew that even in the end a large amount of uncertainty must remain. By Tuesday he had a definite line of action mapped out, and believed he would try a trip to Dunwich within a week. Then, on Wednesday, the great shock came. Tucked obscurely away in a corner of the *Arkham Advertiser* was a facetious little item from the Associated Press, telling what a record-breaking monster the bootleg whisky of Dunwich had raised up. Armitage, half stunned, could only telephone for Rice and Morgan. Far into the night they discussed, and the next day was a whirlwind of preparation on the part of them all. Armitage knew he would be meddling with terrible powers, yet saw that there was no other way to annul the deeper and more malign meddling which others had done before him.
+
+===Chinese===
+
+对阿米蒂奇博士来说，星期一又是星期日的重演，因为手头这件差事需要无穷的研究与试验。那本骇人日记的再三翻检使计划屡有更动，他也明白，即便到了最后，仍必得留着一大截的不确定。到星期二，他已拟出一条明确的行动路线，打算一周之内试往敦威治一行。随后，星期三，晴天霹雳来了。《阿卡姆广告报》一个不起眼的角落里，登着美联社一条戏笔小讯，说敦威治的私酿威士忌养出了一头破天荒的巨怪。阿米蒂奇几乎发懵，只能打电话唤来赖斯与摩根。三人直议论到深夜，次日一整天，人人都是一场旋风般的整备。阿米蒂奇知道自己将要去插手可怕的力量，却也明白，除此之外再无办法，好去抵消旁人先他一手做下的那番更深、更毒的插手。
+
+### IX /
+
+### IX / 
+===Original===
+
+Friday morning Armitage, Rice and Morgan set out by motor for Dunwich, arriving at the village about one in the afternoon. The day was pleasant, but even in the brightest sunlight a kind of quiet dread and portent seemed to hover about the strangely domed hills and the deep, shadowy ravines of the stricken region. Now and then on some mountain top a gaunt circle of stones could be glimpsed against the sky. From the air of hushed fright at Osborn’s store they knew something hideous had happened, and soon learned of the annihilation of the Elmer Frye house and family. Throughout that afternoon they rode around Dunwich, questioning the natives concerning all that had occurred, and seeing for themselves with rising pangs of horror the drear Frye ruins with their lingering traces of the tarry stickiness, the blasphemous tracks in the Frye yard, the wounded Seth Bishop cattle, and the enormous swaths of disturbed vegetation in various places. The trail up and down Sentinel Hill seemed to Armitage of almost cataclysmic significance, and he looked long at the sinister altarlike stone on the summit.
+
+At length the visitors, apprised of a party of State Police which had come from Aylesbury that morning in response to the first telephone reports of the Frye tragedy, decided to seek out the officers and compare notes as far as practicable. This, however, they found more easily planned than performed; since no sign of the party could be found in any direction. There had been five of them in a car, but now the car stood empty near the ruins in the Frye yard. The natives, all of whom had talked with the policemen, seemed at first as perplexed as Armitage and his companions. Then old Sam Hutchins thought of something and turned pale, nudging Fred Farr and pointing to the dank, deep hollow that yawned close by.
+
+“Gawd,” he gasped, “I telled ’em not ter go daown into the glen, an’ I never thought nobody’d dew it with them tracks an’ that smell an’ the whippoorwills a-screechin’ daown thar in the dark o’ noonday.﻿ ﻿…”
+
+===Chinese===
+
+星期五早晨，阿米蒂奇、赖斯和摩根乘汽车出发去敦威治，下午一点前后到了村子。天气晴好，可纵在最明亮的日光下，一种静默的恐惧与凶兆，也仿佛萦回在这灾区古怪的穹丘与幽深的峡谷之间。不时有一座山顶衬着天，露出嶙峋的一圈石柱。奥斯本店里那种屏息敛气的惊惶，叫他们知道出了骇人之事，不多时便问明了埃尔默·弗赖全家连屋带人的湮灭。整个下午，他们驱车走遍敦威治，向乡民查问种种情由，又怀着节节高涨的恐怖亲眼去看：弗赖家凄凉的废墟上流连不去的柏油似的黏渍、弗赖家院里渎神的脚印、塞思·毕晓普家受伤的牛，还有各处一片片被踏乱的草木。哨兵山上上下下的那条踪迹，在阿米蒂奇眼里几乎带着灾变的分量；他久久望着山顶那块不祥的、祭坛般的石头。
+
+后来，来访的人们听说一队州警当天早晨从艾尔斯伯里赶来，查办弗赖惨案的第一批电话报案，便决意寻着警官们对一对情况，能对到什么程度算什么。然而此事说来容易做来难：四面八方都寻不见那队人的踪影。他们五个乘一辆车；如今那辆车空空的，停在弗赖家院里的废墟旁。乡民都同警察说过话，起初似乎同阿米蒂奇一行一样纳闷。后来老萨姆·哈钦斯想起什么，脸色发白，用胳膊肘捅捅弗雷德·法尔，指着近旁那道阴湿幽深、豁然张口的洼谷。
+
+「老天爷，」他倒抽一口气，「俺跟他们说了别下谷里去，俺压根儿没想还有人会下去——带着那些印子、那股味儿，正晌午天黑黢黢的底下，三声夜鹰还在那儿叫唤……」
+
+===Original===
+
+A cold shudder ran through natives and visitors alike, and every ear seemed strained in a kind of instinctive, unconscious listening. Armitage, now that he had actually come upon the horror and its monstrous work, trembled with the responsibility he felt to be his. Night would soon fall, and it was then that the mountainous blasphemy lumbered upon its eldritch course. *Negotium perambulans in tenebris.﻿ ﻿…* The old librarian rehearsed the formulae he had memorized, and clutched the paper containing the alternative ones he had not memorized. He saw that his electric flashlight was in working order. Rice, beside him, took from a valise a metal sprayer of the sort used in combating insects; whilst Morgan uncased the big-game rifle on which he relied despite his colleague’s warnings that no material weapon would be of help.
+
+Armitage, having read the hideous diary, knew painfully well what kind of a manifestation to expect, but he did not add to the fright of the Dunwich people by giving any hints or clues. He hoped that it might be conquered without any revelation to the world of the monstrous thing it had escaped. As the shadows gathered, the natives commenced to disperse homeward, anxious to bar themselves indoors despite the present evidence that all human locks and bolts were useless before a force that could bend trees and crush houses when it chose. They shook their heads at the visitors’ plan to stand guard at the Frye ruins near the glen; and as they left, had little expectancy of ever seeing the watchers again.
+
+There were rumblings under the hills that night, and the whippoorwills piped threateningly. Once in a while a wind, sweeping up out of Cold Spring Glen, would bring a touch of ineffable fetor to the heavy night air; such a fetor as all three of the watchers had smelled once before, when they stood above a dying thing that had passed for fifteen years and a half as a human being. But the looked-for terror did not appear. Whatever was down there in the glen was biding its time, and Armitage told his colleagues it would be suicidal to try to attack it in the dark.
+
+===Chinese===
+
+一股寒战穿过乡民，也穿过来客；每只耳朵都仿佛本能地、不自觉地绷紧了听着。阿米蒂奇如今真真切切撞上了这恐怖和它骇人的作为，为他自觉肩上的责任发着抖。夜就要降临了，而入夜之后，那山一样的渎神之物便要拖着鬼异的步态上路。黑暗中游行的灾殃……老馆员默诵着背熟的法式，攥紧那张写着备选法式——他没背下来的那些——的纸。他查了查那支电筒好不好使。他身边的赖斯从手提箱里取出一只金属喷雾器，就是除虫用的那种；摩根则把那支猎兽步枪从套里取出来——尽管同事警告过，任何物质的武器都帮不上忙，他仍然倚重这杆枪。
+
+阿米蒂奇读过那本骇人的日记，痛切地知道等着出现的是何等样的显现；可他没有向敦威治人漏半点口风，免得再添惊怖。他指望这事能了结掉，而不让世人知晓它逃脱的是何等怪物。暮色聚拢，乡民开始四散回家，急着闩门闭户——尽管眼下的种种明摆着：在那股兴起时能弯树塌屋的力量面前，人间一切的锁闩都是白搭。他们对来访者们守在谷边弗赖废墟的主意直摇头；走的时候，几乎不指望再活着见到这几个守夜人。
+
+那夜山底闷响阵阵，三声夜鹰的啼声带着威吓。偶或一阵风从冷泉谷卷上来，给沉甸甸的夜气捎来一缕说不出的腐臭；这样的臭，三个守夜人从前都闻过一回——那时他们站在一个垂死之物上方，那东西顶着人形活了十五年半。可等候的恐怖没有露面。谷底下无论有什么，都在候它的时辰。阿米蒂奇对同事说，黑地里去攻它，无异自寻死路。
+
+===Original===
+
+Morning came wanly, and the night-sounds ceased. It was a gray, bleak day, with now and then a drizzle of rain; and heavier and heavier clouds seemed to be piling themselves up beyond the hills to the northwest. The men from Arkham were undecided what to do. Seeking shelter from the increasing rainfall beneath one of the few undestroyed Frye outbuildings, they debated the wisdom of waiting, or of taking the aggressive and going down into the glen in quest of their nameless, monstrous quarry. The downpour waxed in heaviness, and distant peals of thunder sounded from far horizons. Sheet lightning shimmered, and then a forky bolt flashed near at hand, as if descending into the accursed glen itself. The sky grew very dark, and the watchers hoped that the storm would prove a short, sharp one followed by clear weather.
+
+It was still gruesomely dark when, not much over an hour later, a confused babel of voices sounded down the road. Another moment brought to view a frightened group of more than a dozen men, running, shouting, and even whimpering hysterically. Someone in the lead began sobbing out words, and the Arkham men started violently when those words developed a coherent form.
+
+“Oh, my Gawd, my Gawd!” the voice choked out; “it’s a-goin’ agin, *an’ this time by day*! It’s aout﻿—it’s aout an’ a-movin’ this very minute, an’ only the Lord knows when it’ll be on us all!”
+
+The speaker panted into silence, but another took up his message.
+
+“Nigh on a haour ago Zeb Whateley here heerd the phone a-ringin’, an’ it was Mis’ Corey, George’s wife that lives daown by the junction. She says the hired boy Luther was aout drivin’ in the caows from the storm arter the big bolt, when he see all the trees a-bendin’ at the maouth o’ the glen﻿—opposite side ter this﻿—an’ smelt the same awful smell like he smelt when he faound the big tracks las’ Monday mornin’. An’ she says he says they was a swishin’, lappin’ saound, more nor what the bendin’ trees an’ bushes could make, an’ all on a suddent the trees along the rud begun ter git pushed one side, an’ they was a awful stompin’ an’ splashin’ in the mud. But mind ye, Luther he didn’t see nothin’ at all, only jest the bendin’ trees an’ underbrush.
+
+===Chinese===
+
+天色灰白地亮了，夜的声息止了。这是个阴沉荒寒的日子，间或飘一阵毛毛雨；西北群山背后，铅云越堆越重。阿卡姆来的人拿不定主意。他们躲进弗赖家残存的几间棚屋之一避那越下越大的雨，争着是干等下去稳妥，还是主动出击、下谷去寻他们那无名的怪物猎物。骤雨滂沱，远远的天际滚过阵阵雷声。片电微微发亮，跟着一道杈状巨闪当头劈下，仿佛直落进那受诅的谷里。天黑得怕人；守夜的人们指望这场风暴短促而猛烈，过后便是晴空。
+
+一个多钟头后，天还黑得瘆人，大路上响起一片嘈杂的人声。又过片刻，望见十几个惊惶的人奔来，连跑带喊，甚至歇斯底里地呜咽。领头的一个开始抽噎着说话；等那些话连成了句，阿卡姆来的人猛地一震。
+
+「哦，俺的天，俺的天！」那声音哽咽着喊；「它又动啦，这回是白日里！它出来了——这会儿正出来正挪着呢，只有主知道它啥时候落到俺们大伙头上！」
+
+说话的人喘作一团没了声，另一个接过了话头。
+
+「差不多一个钟头前，这儿的泽布·惠特利听见电话铃响，是科里太太，乔治的媳妇，住在岔路口下头的。她说雇工卢瑟在大雷闪过后出去往棚里赶牛，看见谷口那一边——冲着这边这一面——的树全在弯，还闻见那股子邪味儿，跟他上礼拜一早上瞅见大脚印时间的一个味儿。她说他说，还有一阵子唰唰的、舔水似的响动，比树弯灌木能闹出来的动静大得多；冷不丁的，沿路的树就开始往一边挤，泥里是骇人的踩踏和扑腾。可你听着，卢瑟他自个儿啥也没瞅见，就瞅见树和灌木在弯。」
+
+===Original===
+
+“Then fur ahead where Bishop’s Brook goes under the rud he heerd a awful creakin’ an’ strainin’ on the bridge, an’ says he could tell the saound o’ wood a-startin’ to crack an’ split. An’ all the whiles he never see a thing, only them trees an’ bushes a-bendin’. An’ when the swishin’ saound got very fur off﻿—on the rud towards Wizard Whateley’s an’ Sentinel Hill﻿—Luther he had the guts ter step up whar he’d heerd it fust an’ look at the graound. It was all mud an’ water, an’ the sky was dark, an’ the rain was wipin’ aout all tracks abaout as fast as could be; but beginnin’ at the glen maouth, whar the trees bed moved, they was still some o’ them awful prints big as bar’ls like he seen Monday.”
+
+At this point the first excited speaker interrupted.
+
+“But *that* ain’t the trouble naow﻿—that was only the start. Zeb here was callin’ folks up an’ everybody was a-listenin’ in when a call from Seth Bishop’s cut in. His haousekeeper Sally was carryin’ on fit ter kill﻿—she’d jest seed the trees a-bendin’ beside the rud, an’ says they was a kind o’ mushy saound, like a elephant puffin’ an’ treadin’, a-headin’ fer the haouse. Then she up an’ spoke suddent of a fearful smell, an’ says her boy Cha’ncey was a-screamin’ as haow it was jest like what he smelt up to the Whateley rewins Monday mornin’. An’ the dogs was all barkin’ an’ whinin’ awful.
+
+“An’ then she let aout a turrible yell, an’ says the shed daown the rud hed jest caved in like the storm hed blowed it over, only the wind wa’n’t strong enough to dew that. Everybody was a-listenin’, an’ ye could hear lots o’ folks on the wire a-gaspin’. All to onct Sally she yelled agin, an’ says the front yard picket fence bed jest crumpled up, though they wa’n’t no sign o’ what done it. Then everybody on the line could hear Cha’ncey an’ ol’ Seth Bishop a-yellin’, tew, an’ Sally was shriekin’ aout that suthin’ heavy hed struck the haouse﻿—not lightnin’ nor nothin’, but suthin’ heavy agin’ the front, that kep’ a-launchin’ itself agin an’ agin, though ye couldn’t see nuthin’ aout the front winders. An’ then﻿ ﻿… an’ then.﻿ ﻿…”
+
+Lines of fright deepened on every face; and Armitage, shaken as he was, had barely poise enough to prompt the speaker.
+
+===Chinese===
+
+「再往前，到毕晓普溪打路底下过的那地方，他听见桥上一阵骇人的吱嘎叫劲，他说他听得出木头开始裂、开始劈的声儿。这一路他啥也没瞅见，就那些树和灌木在弯。等那唰唰声走远——上了往巫师惠特利家和哨兵山去的道——卢瑟这才来了胆子，蹭到他头一遭听见响的地方，瞅了瞅地皮。满地是泥是水，天黑着，雨把脚印冲的，冲得要多快有多快；可打谷口起，树挪动过的地方，还剩着些那种大得跟木桶似的骇人印子，跟他礼拜一瞅见的一个样。」
+
+说到这儿，头一个激动的人插了进来。
+
+「可那不是眼下的麻烦——那才起了个头。这儿的泽布正挨家摇电话，人人都在线上听，塞思·毕晓普家的电话插了进来。他家管饭婆萨莉闹腾得死去活来——她刚瞅见路边的树在弯，说有一股子软塌塌的响动，像头大象喘着粗气踩着步，直奔房子去。跟着她冷不丁说起一股吓死人的味儿，说她小子蔡斯嚎起来，说是跟他上礼拜一早上在惠特利家废墟上闻的一个味儿分毫不差。狗也全在没命地吠、没命地哼。
+
+「跟着她嚎出一嗓子，说路那头的棚屋刚刚塌了，像叫风掀翻的，可那点儿风根本掀不动。人人都在线上，听得见好些人在倒抽气。猛不丁萨莉又嚎起来，说前院的尖桩栅栏整个瘪下去了，可啥东西弄的，连个影儿也没见。跟着线上人人听得见蔡斯和老塞思·毕晓普也嚎上了，萨莉尖声喊着，说个沉家伙砸在房子上——不是雷也不是啥，是个沉家伙顶着前脸，一下一下往上撞，虽说打前窗往外啥也瞅不见。跟着……跟着……」
+
+惊惧的纹路在每张脸上加深；阿米蒂奇自己也在发抖，却勉强稳住，催那说话的人讲下去。
+
+===Original===
+
+“An’ then﻿ ﻿… Sally she yelled aout, ‘O help, the haouse is a-cavin’ in’﻿ ﻿… an’ on the wire we could hoar a turrible crashin’, an’ a hull flock o’ screamin’﻿ ﻿… jest like when Elmer Frye’s place was took, only wuss.﻿ ﻿…”
+
+The man paused, and another of the crowd spoke.
+
+“That’s all﻿—not a saound nor squeak over the phone arter that. Jest still-like. We that heerd it got aout Fords an’ wagons an’ raounded up as many able-bodied menfolks as we could get, at Corey’s place, an’ come up here ter see what yew thought best ter dew. Not but what I think it’s the Lord’s judgment fer our iniquities, that no mortal kin ever set aside.”
+
+Armitage saw that the time for positive action had come, and spoke decisively to the faltering group of frightened rustics.
+
+“We must follow it, boys.” He made his voice as reassuring as possible. “I believe there’s a chance of putting it out of business. You men know that those Whateleys were wizards﻿—well, this thing is a thing of wizardry, and must be put down by the same means. I’ve seen Wilbur Whateley’s diary and read some of the strange old books he used to read, and I think I know the right kind of a spell to recite to make the thing fade away. Of course, one can’t be sure, but we can always take a chance. It’s invisible﻿—I knew it would be﻿—but there’s a powder in this long-distance sprayer that might make it show up for a second. Later on we’ll try it. It’s a frightful thing to have alive, but it isn’t as bad as what Wilbur would have let in if he’d lived longer. You’ll never know what the world has escaped. Now we’ve only this one thing to fight, and it can’t multiply. It can, though, do a lot of harm; so we mustn’t hesitate to rid the community of it.
+
+“We must follow it﻿—and the way to begin is to go to the place that has just been wrecked. Let somebody lead the way﻿—I don’t know your roads very well, but I’ve an idea there might be a shorter cut across lots. How about it?”
+
+The men shuffled about a moment, and then Earl Sawyer spoke softly, pointing with a grimy finger through the steadily lessening rain.
+
+“I guess ye kin git to Seth Bishop’s quickest by cuttin’ acrost the lower medder here, wadin’ the brook at the low place, an’ climbin’ through Carrier’s mowin’ an’ the timber-lot beyont. That comes aout on the upper rud mighty nigh Seth’s﻿—a leetle t’other side.”
+
+===Chinese===
+
+「跟着……萨莉嚎出来：『哦救命，房子塌啦……』线上听得见天塌地陷一声巨响，跟着一大片哭嚎……跟埃尔默·弗赖家被端那回一个样，只是更凶……」
+
+那人住了口；人群里又一个开了腔。
+
+「就这些——打那以后电话里没一点声儿气儿。死一样静。俺们听见的，开了福特、套了马车，在科里家凑上能凑的带把子男人，上这儿来问问你们看着咋办好。依俺说，这是主降的刑罚，罚俺们的罪孽，凡人谁也免不了。」
+
+阿米蒂奇看出，放手一搏的时辰到了，便斩钉截铁地对这一群发慌的乡民开口。
+
+「我们得追它，乡亲们。」他把嗓音放得尽量安稳。「我相信有机会叫它玩完。你们都知道那伙惠特利是巫师——唔，这东西就是巫术的东西，就得拿同样的法子治。我看过威尔伯·惠特利的日记，读过他从前读的一些古怪旧书，我想我念得出叫它消散的正经咒。当然，保不齐，可我们总能赌一把。它看不见——我早知道它准看不见——可这远程喷雾器里有一种药粉，兴许能让它显形一秒钟。回头我们就试。这东西活着是吓人，可比不得威尔伯要是多活几年放进来的那个。你们永远不会知道这世界躲过了什么。眼下我们只消对付这一个，它生不出小的来。不过它祸害起人来不含糊；所以我们不能犹豫，得替这地方除了它。
+
+「我们得追它——头一步，去它刚砸的地方。哪位带个路——你们这些道我不熟，可我想抄地块斜插过去，兴许有条近道。怎么样？」
+
+人们挪蹭了片刻，随后厄尔·索耶柔声开了口，拿一根脏手指隔着渐渐小下去的雨点指过去。
+
+「打这下头的草甸子斜插过去，在洼处蹚过小溪，再钻卡里尔的草地和那片树林子，上塞思·毕晓普家顶快。那条道出来就在上道上，离塞思家近得很——偏过去一丁点儿。」
+
+===Original===
+
+Armitage, with Rice and Morgan, started to walk in the direction indicated; and most of the natives followed slowly. The sky was growing lighter, and there were signs that the storm had worn itself away. When Armitage inadvertently took a wrong direction, Joe Osborn warned him and walked ahead to show the right one. Courage and confidence were mounting; though the twilight of the almost perpendicular wooded hill which lay toward the end of their shortcut, and among whose fantastic ancient trees they had to scramble as if up a ladder, put these qualities to a severe test.
+
+At length they emerged on a muddy road to find the sun coming out. They were a little beyond the Seth Bishop place, but bent trees and hideously unmistakable tracks showed what had passed by. Only a few moments were consumed in surveying the ruins just around the bend. It was the Frye incident all over again, and nothing dead or living was found in either of the collapsed shells which had been the Bishop house and barn. No one cared to remain there amidst the stench and the tarry stickiness, but all turned instinctively to the line of horrible prints leading on toward the wrecked Whateley farmhouse and the altar-crowned slopes of Sentinel Hill.
+
+As the men passed the site of Wilbur Whateley’s abode they shuddered visibly, and seemed again to mix hesitancy with their zeal. It was no joke tracking down something as big as a house that one could not see, but that had all the vicious malevolence of a demon. Opposite the base of Sentinel Hill the tracks left the road, and there was a fresh bending and matting visible along the broad swath marking the monster’s former route to and from the summit.
+
+Armitage produced a pocket telescope of considerable power and scanned the steep green side of the hill. Then he handed the instrument to Morgan, whose sight was keener. After a moment of gazing Morgan cried out sharply, passing the glass to Earl Sawyer and indicating a certain spot on the slope with his finger. Sawyer, as clumsy as most non-users of optical devices are, fumbled a while; but eventually focused the lenses with Armitage’s aid. When he did so his cry was less restrained than Morgan’s had been.
+
+“Gawd almighty, the grass an’ bushes is a-movin’! It’s a-goin’ up﻿—slow-like﻿—creepin’ up ter the top this minute, heaven only knows what fer!”
+
+===Chinese===
+
+阿米蒂奇同赖斯和摩根朝所指的方向走去；乡民们大半远远跟上。天越来越亮，暴风雨有把自己耗尽的迹象。阿米蒂奇一时不留神走岔了道，乔·奥斯本提醒他，走到前头领路。勇气和信心在高涨；只是近道尽头那座几乎直上直下的林山——他们得在满山古怪的老树间像爬梯子一样攀——狠狠考了考这两样。
+
+终于他们踏上泥路，太阳出来了。他们已过了塞思·毕晓普家一点儿；弯倒的树和一望而知、骇人听闻的脚印，显出了什么打这里过。绕过弯去，勘察废墟只花了几分钟。弗赖事件原样重演：塌成两座空壳的毕晓普家的房和谷仓里，死的活的什么也没有。谁也不愿在那恶臭和柏油似的黏渍里多待，都本能地转向那串通向惠特利家残庄、通向祭坛冠顶的哨兵山的可怖脚印，继续向前。
+
+经过威尔伯·惠特利旧居的地场时，人们肉眼可见地发起抖来，热忱里又掺上了迟疑。追一头房子那么大、看不见、却怀着一个恶魔全部歹毒的东西，可不是闹着玩儿的。到哨兵山脚下，脚印离开了大路；那标识怪物前番上下山路径的宽阔条带上，新近压弯、压伏的草木历历可见。
+
+阿米蒂奇取出一支倍数可观的小望远镜，扫视山体陡峭的绿坡，随后递给眼更尖的摩根。摩根凝望片刻，尖声叫起来，把镜子递给厄尔·索耶，手指着山坡上一处。索耶跟大多数不惯摆弄光学玩意儿的人一样笨手笨脚，摸弄了好一阵，总算靠阿米蒂奇帮忙对上了焦。看清之后，他那一嗓子可就比摩根的不加管束多了。
+
+「全能的主啊，草和树子都在动！它上去了——慢慢悠悠——这会儿正往顶上蹭呢，天知道要干啥！」
+
+===Original===
+
+Then the germ of panic seemed to spread among the seekers. It was one thing to chase the nameless entity, but quite another to find it. Spells might be all right﻿—but suppose they weren’t? Voices began questioning Armitage about what he knew of the thing, and no reply seemed quite to satisfy. Everyone seemed to feel himself in close proximity to phases of nature and of being utterly forbidden, and wholly outside the sane experience of mankind.
+
+===Chinese===
+
+随后，恐慌的胚芽仿佛在寻踪的人们中间散开了。追那无名之物是一回事，找见它是另一回事。咒语兴许灵——可万一不灵呢？人们开始七嘴八舌地问阿米蒂奇，这东西他都知道些什么；怎么答，似乎都没人真个儿满意。人人仿佛都觉得，自己正贴着自然与存在的某些断面站着——那全然被禁的、全然在人类清明经验之外的断面。
+
+### X / 十
+
+### X /
+
+### X /
+
+### X / 
+===Original===
+
+In the end the three men from Arkham﻿—old, white-bearded Dr. Armitage, stocky, iron-gray Professor Rice, and lean, youngish Dr. Morgan﻿—ascended the mountain alone. After much patient instruction regarding its focusing and use, they left the telescope with the frightened group that remained in the road; and as they climbed they were watched closely by those among whom the glass was passed around. It was hard going, and Armitage had to be helped more than once. High above the toiling group the great swath trembled as its hellish maker repassed with snail-like deliberateness. Then it was obvious that the pursuers were gaining.
+
+Curtis Whateley﻿—of the undecayed branch﻿—was holding the telescope when the Arkham party detoured radically from the swath. He told the crowd that the men were evidently trying to get to a subordinate peak which overlooked the swath at a point considerably ahead of where the shrubbery was now bending. This, indeed, proved to be true; and the party were seen to gain the minor elevation only a short time after the invisible blasphemy had passed it.
+
+Then Wesley Corey, who had taken the glass, cried out that Armitage was adjusting the sprayer which Rice held, and that something must be about to happen. The crowd stirred uneasily, recalling that this sprayer was expected to give the unseen horror a moment of visibility. Two or three men shut their eyes, but Curtis Whateley snatched back the telescope and strained his vision to the utmost. He saw that Rice, from the party’s point of vantage above and behind the entity, had an excellent chance of spreading the potent powder with marvelous effect.
+
+Those without the telescope saw only an instant’s flash of gray cloud﻿—a cloud about the size of a moderately large building﻿—near the top of the mountain. Curtis, who had held the instrument, dropped it with a piercing shriek into the ankle-deep mud of the road. He reeled, and would have crumpled to the ground had not two or three others seized and steadied him. All he could do was moan half-inaudibly:
+
+“Oh, oh, great Gawd﻿ ﻿… *that﻿ ﻿… that*.﻿ ﻿…”
+
+There was a pandemonium of questioning, and only Henry Wheeler thought to rescue the fallen telescope and wipe it clean of mud. Curtis was past all coherence, and even isolated replies were almost too much for him.
+
+===Chinese===
+
+末了，阿卡姆来的三个人——年迈白须的阿米蒂奇博士、敦实铁灰的赖斯教授、精瘦尚轻的摩根博士——独自登上了山。他们耐心指点了半晌聚焦与用法，把望远镜留在路上那群惊惶的人手里；一路攀爬时，镜子在他们中间传着，众人紧紧盯住三人。路难走，阿米蒂奇不止一回要人搀一把。在攀行的人群高上方，那条大条带颤动着——它地狱般的制造者正以蜗牛般的沉稳，再度行经那里。随后便看得出，追赶的人逼上去了。
+
+阿卡姆一行人大幅绕开条带时，拿望远镜的是未败落那一支的柯蒂斯·惠特利。他告诉众人，那三人显然想抢到灌木弯伏处前头相当远的一段，去占一座俯瞰条带的次峰。事实果真如此；那看不见的渎神之物刚过那处没多久，人们便见一行人登上了那座小高岗。
+
+随后，接过镜子的韦斯利·科里叫起来，说阿米蒂奇在调赖斯举着的喷雾器，说该有事情要发生了。人群不安地骚动起来，想起正是指望这喷雾器给那看不见的恐怖片刻的显形。有两三个人闭上了眼；柯蒂斯·惠特利却一把抢回望远镜，把目力瞪到极限。他看见，赖斯所处的位置在那东西的后上方，居高临下，有大好的机会把那烈性药粉撒出神效。
+
+没有望远镜的人只看见山顶近旁灰云一闪——一朵云，约莫一座中大号建筑那么大。方才持镜的柯蒂斯一声尖啸，把镜子撂进路上没踝的泥里。他一个趔趄，不是两三个人抢上去扶住，早瘫倒了。他只能半出声地哼哼：
+
+「哦，哦，老天爷……那个……那个……」
+
+一片乌泱泱的追问，只有亨利·惠勒想着把摔了的望远镜捡起来，揩净泥污。柯蒂斯全然语无伦次，连单蹦儿的答话都几乎顶不住。
+
+===Original===
+
+“Bigger ’n a barn﻿ ﻿… all made o’ squirmin’ ropes﻿ ﻿… hull thing sort o’ shaped like a hen’s egg bigger’n anything, with dozens o’ legs like hogsheads that haff shut up when they step﻿ ﻿… nothin’ solid abaout it﻿—all like jelly, an’ made o’ sep’rit wrigglin’ ropes pushed clost together﻿ ﻿… great bulgin’ eyes all over it﻿ ﻿… ten or twenty maouths or trunks a-stickin’ aout all along the sides, big as stovepipes, an’ all a-tossin’ an’ openin’ an’ shuttin’﻿ ﻿… all gray, with kinder blue or purple rings﻿ ﻿… *an’ Gawd in Heaven﻿—that haff face on top*!﻿ ﻿…”
+
+This final memory, whatever it was, proved too much for poor Curtis, and he collapsed completely before he could say more. Fred Farr and Will Hutchins carried him to the roadside and laid him on the damp grass. Henry Wheeler, trembling, turned the rescued telescope on the mountain to see what he might. Through the lenses were discernible three tiny figures, apparently running toward the summit as fast as the steep incline allowed. Only these﻿—nothing more. Then everyone noticed a strangely unseasonable noise in the deep valley behind, and even in the underbrush of Sentinel Hill itself. It was the piping of unnumbered whippoorwills, and in their shrill chorus there seemed to lurk a note of tense and evil expectancy.
+
+Earl Sawyer now took the telescope and reported the three figures as standing on the topmost ridge, virtually level with the altar-stone but at a considerable distance from it. One figure, he said, seemed to be raising its hands above its head at rhythmic intervals; and as Sawyer mentioned the circumstance the crowd seemed to hear a faint, half-musical sound from the distance, as if a loud chant were accompanying the gestures. The weird silhouette on that remote peak must have been a spectacle of infinite grotesqueness and impressiveness, but no observer was in a mood for esthetic appreciation. “I guess he’s sayin’ the spell,” whispered Wheeler as he snatched back the telescope. The whippoorwills were piping wildly, and in a singularly curious irregular rhythm quite unlike that of the visible ritual.
+
+===Chinese===
+
+「比谷仓还大……浑身是拧动的索子……整个儿模样像只鸡蛋，比啥都大，几十条腿跟大桶似的，迈步就半收拢……身上没一点硬实东西——整个儿像胶冻，一条条乱拧的索子挤在一块儿……满身鼓眼球……十张二十张嘴、要不就是长鼻子，沿四边戳出来，炉筒子那么粗，全在翻腾、张开、合拢……浑身灰的，带点子蓝圈儿紫圈儿……老天爷在上——顶上那半张脸！……」
+
+这最后的记忆，不管是什么，对可怜的柯蒂斯实在过于沉重，他没来得及再说一个字，整个人彻底垮了。弗雷德·法尔和威尔·哈钦斯把他抬到路边，放在湿草上。亨利·惠勒抖着，把抢救下来的望远镜转向山，看还能看见什么。镜片里辨出三个小小的人影，正朝山顶奔，陡坡容许多快便多快。只有这三个——再无别的。随后，人人都留意到背后深谷里、连哨兵山自家的灌丛里，响起一阵古怪地不合时令的喧声。那是数不清的三声夜鹰在啼；尖利的合唱里，仿佛蛰着一缕绷紧而邪恶的期待。
+
+这时厄尔·索耶接过望远镜，报告说三个人影立在最高的山脊上，几乎与祭坛石齐平，却隔着老远。其中一个，他说，似乎一板一眼、有节奏地举双手过顶；索耶说起这情形时，人群仿佛听见远处飘来一缕隐约的、近乎音乐的声音，仿佛高声的吟唱正给那些手势伴着拍。那远峰上的怪影，该是无限怪诞、无限慑人的奇观；可没有一个观者还有心思品评好看。「俺猜他在念咒，」惠勒夺回望远镜时低声说。三声夜鹰啼得发了狂，节奏古怪地参差，全然不像那看得见的仪式。
+
+===Original===
+
+Suddenly the sunshine seemed to lessen without the intervention of any discernible cloud. It was a very peculiar phenomenon, and was plainly marked by all. A rumbling sound seemed brewing beneath the hills, mixed strangely with a concordant rumbling which clearly came from the sky. Lightning flashed aloft, and the wondering crowd looked in vain for the portents of storm. The chanting of the men from Arkham now became unmistakable, and Wheeler saw through the glass that they were all raising their arms in the rhythmic incantation. From some farmhouse far away came the frantic barking of dogs.
+
+The change in the quality of the daylight increased, and the crowd gazed about the horizon in wonder. A purplish darkness, born of nothing more than a spectral deepening of the sky’s blue, pressed down upon the rumbling hills. Then the lightning flashed again, somewhat brighter than before, and the crowd fancied that it had showed a certain mistiness around the altar-stone on the distant height. No one, however, had been using the telescope at that instant. The whippoorwills continued their irregular pulsation, and the men of Dunwich braced themselves tensely against some imponderable menace with which the atmosphere seemed surcharged.
+
+Without warning came those deep, cracked, raucous vocal sounds which will never leave the memory of the stricken group who heard them. Not from any human throat were they born, for the organs of man can yield no such acoustic perversions. Rather would one have said they came from the pit itself, had not their source been so unmistakably the altar-stone on the peak. It is almost erroneous to call them *sounds* at all, since so much of their ghastly, infra-bass timbre spoke to dim seats of consciousness and terror far subtler than the ear; yet one must do so, since their form was indisputably though vaguely that of half-articulate *words*. They were loud﻿—loud as the rumblings and the thunder above which they echoed﻿—yet did they come from no visible being. And because imagination might suggest a conjectural source in the world of non-visible beings, the huddled crowd at the mountain’s base huddled still closer, and winced as if in expectation of a blow.
+
+“*Ygnaiih﻿ ﻿… ygnaiih﻿ ﻿… thflthkh’ngha﻿ ﻿… Yog-Sothoth.﻿ ﻿…*” rang the hideous croaking out of space. “*Y’bthnk﻿ ﻿… h’ehye﻿ ﻿… n’grkdl’lh.﻿ ﻿…*”
+
+===Chinese===
+
+骤然间，日光仿佛弱了下去，却并无一丝可辨的云来遮拦。这景象古怪至极，人人看得明明白白。群山底下似乎闷响在酝酿，又古怪地混着一片分明来自天上的轰鸣。电光在高处炸开，惊疑的人群徒劳地四下搜寻风暴的征兆。阿卡姆来的人的吟诵，此刻确凿可闻；惠勒从镜中看见，三人正随咒文的节奏齐齐举臂。远处哪座农庄里，狗狂吠起来。
+
+日光质变加剧，人群惊疑地环顾地平线四周。一种紫色的黑暗——无非天空之蓝幽幽一沉所生——压向闷响的群山。跟着电光再闪，比先前更亮，众人恍然觉得，它照出了远方高处祭坛石四周的一团迷蒙。不过那一瞬，正巧没有人在用望远镜。三声夜鹰照旧不规则地一涨一落；敦威治的人们绷紧了，硬顶着大气里仿佛充盈欲溢的某种无形的威胁。
+
+毫无预警地，响起了那些深沉、破裂、嘶哑的声音——受难的这一群人，余生再忘不掉它们。它们并非生于任何人类的喉咙，因为人的器官发不出那样倒错的声响。若非来源分明就是峰顶那块祭坛石，无可置疑，人倒要说它们出自地穴本身。几乎连称它们为「声音」都不对，因为它们那许多阴森的次低音质地，诉诸的是比耳朵幽微得多的意识与恐惧的席位；可又只能这样称，因为它们的形式，虽模糊，却无可争辩地是半吐半吞的「字」。它们响——响得盖过它们回荡于其上的闷雷——却不出自任何可见之物。而正因为想象力或许会在不可见之物的世界里，给它们设想出一个源头，山脚下蜷缩的那群人蜷得更紧了，缩脖端肩，仿佛在等一记痛击。
+
+「Ygnaiih…ygnaiih…thflthkh'ngha…犹格-索托斯……」那骇人的嘶鸣响彻虚空。「Y'bthnk…h'ehye…n'grkdl'lh……」
+
+===Original===
+
+The speaking impulse seemed to falter here, as if some frightful psychic struggle were going on. Henry Wheeler strained his eye at the telescope, but saw only the three grotesquely silhouetted human figures on the peak, all moving their arms furiously in strange gestures as their incantation drew near its culmination. From what black wells of Acherontic fear or feeling, from what unplumbed gulfs of extra-cosmic consciousness or obscure, long-latent heredity, were those half-articulate thunder-croakings drawn? Presently they began to gather renewed force and coherence as they grew in stark, utter, ultimate frenzy.
+
+“*Eh-ya-ya-ya-yahaah﻿ ﻿… e’yaya-yayaaaa﻿ ﻿… ngh’aaaa﻿ ﻿… ngh’aaaa*﻿ ﻿… h’yuh﻿ ﻿… h’yuh﻿ ﻿… **Help! Help!**﻿ ﻿… *ff﻿—ff﻿—ff*﻿—**Father! Father! Yog-Sothoth!﻿ ﻿…**”
+
+But that was all. The pallid group in the road, still reeling at the *indisputably English* syllables that had poured thickly and thunderously down from the frantic vacancy beside that shocking altar-stone, were never to hear such syllables again. Instead, they jumped violently at the terrific report which seemed to rend the hills; the deafening, cataclysmic peal whose source, be it inner earth or sky, no hearer was ever able to place. A single lightning bolt shot from the purple zenith to the altar-stone, and a great tidal wave of viewless force and indescribable stench swept down from the hill to all the countryside. Trees, grass, and underbrush were whipped into a fury; and the frightened crowd at the mountain’s base, weakened by the lethal fetor that seemed about to asphyxiate them, were almost hurled off their feet. Dogs howled from the distance, green grass and foliage wilted to a curious, sickly yellow-gray, and over field and forest were scattered the bodies of dead whippoorwills.
+
+The stench left quickly, but the vegetation never came right again. To this day there is something queer and unholy about the growths on and around that fearsome hill. Curtis Whateley was only just regaining consciousness when the Arkham men came slowly down the mountain in the beams of a sunlight once more brilliant and untainted. They were grave and quiet, and seemed shaken by memories and reflections even more terrible than those which had reduced the group of natives to a state of cowed quivering. In reply to a jumble of questions they only shook their heads and reaffirmed one vital fact.
+
+===Chinese===
+
+说话的冲动到这里仿佛一下子衰竭了，仿佛一场骇人的灵界搏斗正在进行。亨利·惠勒把眼睛死瞪在望远镜上，只看见峰顶三个怪影剪影似的人形，正狂乱地抡着臂膀、打着古怪的手势，咒文眼看要推向顶点。那些半吐半吞的雷霆嘶鸣，是从阿刻戎式的恐惧与情感的哪几口黑井里、从超宇宙意识的哪几重无底深渊、或哪一股幽晦而久伏的遗传里，汲上来的？不多时，它们重新聚起力量和条理，一路涨到赤裸裸、彻头彻尾、登峰造极的癫狂。
+
+「Eh-ya-ya-ya-yahaah…e'yaya-yayaaaa…ngh'aaaa…ngh'aaaa…h'yuh…h'yuh…救救我！救救我！…ff—ff—ff——父亲！父亲！犹格-索托斯！……」
+
+但仅此而已。路上那群面无人色的人——那分明是英文的音节，从那骇人的祭坛石旁一片癫狂的虚空里，浓重而如雷地泼洒下来，把他们震得至今摇摇欲坠——这样的音节，他们从此再没有听到。替代它的，是他们被一声仿佛撕碎群山的巨响惊得齐齐一跳；那震耳欲聋、天崩地陷般的一声巨鸣，出自地心还是天上，没有一个听的人后来能说定。一道孤零零的闪电从紫色的天顶直劈祭坛石；一股无形之力与莫名恶臭的大潮，顺山而下，扫向整个乡野。树木、青草、灌丛被抽打成一片狂怒；山脚下惊惶的人群，被那仿佛要把他们憋死的致命恶臭熏得浑身发软，险些儿被掀个跟头。远处狗嚎成一片；绿草和树叶萎成一种古怪的、病态的黄灰；田野和林间，散落满地三声夜鹰的死尸。
+
+恶臭很快散了，草木却从此再没缓过来。直到今天，那座可怖的山上山下，草木仍带着一股古怪而不洁的劲儿。阿卡姆来的人重新明亮而纯净的阳光里缓缓下山时，柯蒂斯·惠特利才刚刚还过魂来。他们面色凝重，一言不发，仿佛被些个回忆和思虑震撼着——那些，比叫乡民瘫成一团筛糠的还要可怕。对乱纷纷的一堆追问，他们只是摇头，只重申一条要紧的事实。
+
+===Original===
+
+“The thing has gone forever,” Armitage said. “It has been split up into what it was originally made of, and can never exist again. It was an impossibility in a normal world. Only the least fraction was really matter in any sense we know. It was like its father﻿—and most of it has gone back to him in some vague realm or dimension outside our material universe; some vague abyss out of which only the most accursed rites of human blasphemy could ever have called him for a moment on the hills.”
+
+There was a brief silence, and in that pause the scattered senses of poor Curtis Whateley began to knit back into a sort of continuity; so that he put his hands to his head with a moan. Memory seemed to pick itself up where it had left off, and the horror of the sight that had prostrated him burst in upon him again.
+
+“*Oh, oh, my Gawd, that haff face﻿ ﻿… that haff face on top of it﻿ ﻿… that face with the red eyes an’ crinkly albino hair, an’ no chin, like the Whateleys.﻿ ﻿… It was a octopus, centipede, spider kind o’ thing, but they was a haff-shaped man’s face on top of it, an’ it looked like Wizard Whateley’s, only it was yards an’ yards acrost.﻿ ﻿…*”
+
+He paused exhausted, as the whole group of natives stared in a bewilderment not quite crystallized into fresh terror. Only old Zebulon Whateley, who wanderingly remembered ancient things but who had been silent heretofore, spoke aloud.
+
+“Fifteen year’ gone,” he rambled, “I heerd Ol’ Whateley say as haow some day we’d hear a child o’ Lavinny’s a-callin’ its father’s name on the top o’ Sentinel Hill.﻿ ﻿…”
+
+But Joe Osborn interrupted him to question the Arkham men anew.
+
+“*What was it, anyhaow*, an’ haowever did young Wizard Whateley call it aout o’ the air it come from?”
+
+Armitage chose his words carefully.
+
+===Chinese===
+
+「那东西永远去了，」阿米蒂奇说。「它已经拆散回它本来由之构成的东西，再不能存在了。在一个正常的世界里，它原本就是不可能之物。只有最细末的一小股，在任何我们所说的意义上算得上物质。它像它的父亲——它的大部，已经回到他那里去了，回到我们这个物质宇宙之外的某个茫茫界域、某个茫茫深渊里去了；若非人类那些最该诅咒的渎神仪式，他绝无可能被唤到山上来，哪怕片刻。」
+
+一阵短短的静默；就在这一歇里，可怜的柯蒂斯·惠特利涣散的神志开始重新续上茬儿，他双手抱头，呻吟出声。记忆仿佛从断掉的地方自己拾了起来；那曾把他击倒的所见的恐怖，又劈头浇下。
+
+「哦，哦，俺的老天，那半张脸……顶上那半张脸……红眼睛、白化病的卷毛、没下巴，惠特利家那副长相……它是个章鱼、蜈蚣、蜘蛛一路的东西，可顶上擎着半张人脸，长得像巫师惠特利，只是横竖有几码几码宽……」
+
+他力竭而止；一众乡民瞪着眼发怔，惶惑还没有凝成新的恐怖。只有老泽布伦·惠特利——他恍恍惚惚还记得些老辈子的事，先前一直没言语——开了腔。
+
+「十五年前，」他迷迷瞪瞪地说，「俺听老惠特利说来着，有朝一日，俺们会听见拉维妮的娃在哨兵山顶上喊他爹的名字……」
+
+可乔·奥斯本把他打断了，重新追问阿卡姆来的人。
+
+「那到底是个啥？还有，小巫师惠特利到底是咋把它从它打来的空气里叫出来的？」
+
+阿米蒂奇字斟句酌。
+
+===Original===
+
+“It was﻿—well, it was mostly a kind of force that doesn’t belong in our part of space; a kind of force that acts and grows and shapes itself by other laws than those of our sort of Nature. We have no business calling in such things from outside, and only very wicked people and very wicked cults ever try to. There was some of it in Wilbur Whateley himself﻿—enough to make a devil and a precocious monster of him, and to make his passing out a pretty terrible sight. I’m going to burn his accursed diary, and if you men are wise you’ll dynamite that altar-stone up there, and pull down all the rings of standing stones on the other hills. Things like that brought down the beings those Whateleys were so fond of﻿—the beings they were going to let in tangibly to wipe out the human race and drag the Earth off to some nameless place for some nameless purpose.
+
+“But as to this thing we’ve just sent back﻿—the Whateleys raised it for a terrible part in the doings that were to come. It grew fast and big from the same reason that Wilbur grew fast and big﻿—but it beat him because it had a greater share of the *outsideness* in it. You needn’t ask how Wilbur called it out of the air. He didn’t call it out. *It was his twin brother, but it looked more like the father than he did.*”
+
+===Chinese===
+
+「它是——唔，它大半是一种不属于我们这部分空间的力量；一种力量，行动、生长、赋形，依的是别的法则，不是我们这种自然的法则。把这样的东西从外面召进来，不干我们的事；只有顶恶的人、顶恶的邪教才会去试。威尔伯·惠特利自己身上就带着几分——足够把他捏成一个魔鬼、一个早熟的怪物，也足够叫他咽气的那一幕相当骇人。我要把他那本招咒的日记烧了；你们各位要有见识，就把上头那块祭坛石炸了，把别的山上的立石圈都拉倒。就是那样的东西，把那伙惠特利宝贝得不行的存在召了下来——他们原要实实在在放进来的存在，好把人类抹光，把地球拖去某个无名的地方，为着某个无名的用场。
+
+「至于我们刚刚送回去的这个——惠特利家养它，是为了日后那场勾当里一个可怕的角色。它长得又快又大，缘由同威尔伯长得又快又大一样——只是它压过了他，因为它身上『外来性』的分量更重。你们不必问威尔伯是怎么把它从空气里叫出来的。不是他叫出来的。它是他的孪生兄弟，只是论模样，它比他更像父亲。」
