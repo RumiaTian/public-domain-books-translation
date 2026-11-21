@@ -296,3 +296,181 @@ Then there was silence between us for perhaps half a mile, and yet I was driving
 「那您为何不做？」
 「啊！我为何不做？我们为何不人人只做该做的事？可凭什么轮到您来盘问我？前些天我问您问题，您可不肯答。」
 「您既说但愿应了霍斯金
+
+===Original===
+
+Hoskins. Why do you not do so?” said I, continuing my cross-examination.
+“Because I have a vain ambition﻿—a foolish ambition﻿—a silly, moth-like ambition﻿—by which, if I indulge it, I shall only burn my wings. Because I am such an utter ass that I would fain make myself an Englishwoman.”
+“I don’t see that you need burn your wings!”
+“Yes; should I go there I shall find myself to be nobody, whereas here I am in good repute. Here I could make my husband a man of mark by dint of my own power. There I doubt whether even his esteem would so shield and cover me as to make me endurable. Do you think that I do not know the difference; that I am not aware of what makes social excellence there? And yet, though I know it all, and covet it, I despise it. Social distinction with us is given on sounder terms than it is with you, and is more frequently the deserved reward of merit. Tell me; if I go to London they will ask who was my grandfather?”
+“Indeed, no; they will not ask even of your father unless you speak of him.”
+“No; their manners are too good. But they will speak of their fathers, and how shall I talk with them? Not but what my grandfather was a good man; and you are not to suppose that I am ashamed of him because he stood in a store and sold leather with his own hands. Or rather, I am ashamed of it. I should tell my husband’s old friends and my new acquaintances that it was so because I am not a coward; and yet, as I told them, I should be ashamed. His brother is what you call a baronet.”
+“Just so!”
+“And what would the baronet’s wife say to me with all my sharp Boston notions? Can’t you see her looking at me over the length of the drawing-room? And can’t you fancy how pert I should be, and what snappish words I should say to the she baronet? Upon the whole, don’t you think I should do better with Mr. Hoskins?”
+Again I sat silent for some time. She had now asked me a question to which I was bound to give her a true answer﻿—an answer that should be true as to herself without reference to Pryor. She was sitting back in the sleigh, tamed as it were by her own thoughts, and she had looked at me as though she had really wanted counsel. “If I am to answer you in truth﻿—” I said.
+“You are to answer me in truth.”
+“Then,” said I, “I can only bid you take him of the two whom you love; that is, if it be the case that you love either.”
+“Love!” she said.
+
+===Chinese===
+
+「霍斯金斯。那你为什么不接受他？」我说，继续我的盘问。
+「因为我有一个虚荣的野心——一个愚蠢的野心——一个飞蛾似的傻野心——纵容它，只会烧掉我的翅膀。因为我是一头十足的蠢驴，一心想把自己变成一个英国女人。」
+「我看不出你有什么必要烧掉翅膀！」
+「不；我若是到了那边，就会发觉自己什么也不是，而在这里我有的是好名声。在这里，凭我自己的力量，我能把我丈夫造成一个响当当的人物。在那边，我怕连他的敬重也未必能这样庇护我、罩住我，让我变得可以被容忍。你以为我不知道这层分别？你以为我不明白那边的社会体面靠的是什么？然而我全知道，全垂涎，又全瞧不起。我们这边的社交地位，给的条款比你们的扎实，也更常常是实至名归的报偿。你倒是说说；我若到了伦敦，人家头一句就会问：我祖父是什么人？」
+「真的不会；连你父亲他们也不会问起，除非你自己提起。」
+「不错；他们的教养太好，问是不会问的。可他们要谈他们各自的父亲，那我拿什么跟他们谈呢？倒不是我祖父不是好人；你也别以为我因为他站过店铺、亲手卖过皮革，就为他害臊。或者说，我就是害臊。我会把这事告诉我丈夫的老朋友和我的新相识，因为我不是懦夫；可是一边告诉他们，一边我还是害臊。他的兄弟就是你们叫做从男爵的那种人。」
+「正是！」
+「那么那位从男爵夫人见了满脑子波士顿尖刻念头的人，会怎么说呢？你难道看不见她隔着整间客厅打量我的样子？你难道想不出我会多么冒失、会对那位从男爵夫人说出多么尖刻的话来？总而言之，你不觉得我还是跟霍斯金斯先生好些吗？」
+我又一次沉默了半晌。她此刻问了我一个问题，我非给她一个真实的回答不可——一个只就她本人而言的真实，不牵涉普赖尔。她靠坐在雪橇后座上，仿佛被自己的念头驯服了；她方才望着我，那神情像是真心要讨一个主意。「我若是要对你说实话——」我说。
+「你就是得对我说实话。」
+「那么，」我说，「我只能劝你，两个人里挑一个你爱的；当然，前提是你当真爱着其中一个。」
+「爱！」她说。
+
+===Original===
+
+“And if it be the case,” I continued, “that you love neither, then leave them both as they are.”
+“I am not then to think of the man’s happiness?”
+“Certainly not by marrying him without affection.”
+“Ah! but I may regret him﻿—with affection.”
+“And for which of them do you feel affection?” I asked. And as I asked, we were already within the streets of Boston.
+She again remained silent, almost till I had placed her at her own door; then she looked at me with eyes full, not only of meaning, but of love also;﻿—with that in her eyes for which I had not hitherto given her credit.
+“You know the two men,” she said, “and do you ask me that?” When these words were spoken, she jumped from the sleigh, and hurried up the steps to her father’s door. In very truth, the hat and gloves of Hannibal Hoskins had influenced her as they had influenced me, and they had done so although she knew how devoted he was as a son and a brother.
+For a full month after that I had no further conversation with Miss Gledd or with Mr. Pryor on the subject. At this time I was living in habits of daily intimacy with Pryor, but as he did not speak to me about Ophelia, I did not often mention her name to him. I was aware that he was often with her﻿—or at any rate often in her company. But I did not believe that he had any daily habit of going to the house, as he would have done had he been her accepted suitor. And indeed I believed him to be a man who would be very persevering in offering his love; but who, if persistently refused, would not probably tender it again. He still talked of returning to England, though he had fixed no day. I myself purposed doing so early in May, and used such influence as I had in endeavouring to keep him at Boston till that time. Miss Gledd, also, I constantly saw. Indeed, one could not live in the society of Boston without seeing her almost daily, and I was aware that Mr. Hoskins was frequently with her. But, as regarded her, this betokened nothing, as I have before endeavoured to explain. She never deserted a friend, and had no idea of being reserved in her manners with a man because it was reported that such man was her lover. She would be very gracious to Hannibal in Mr. Pryor’s presence; and yet it was evident, at any rate to me, that in doing so, she had no thought of grieving her English admirer.
+
+===Chinese===
+
+「倘若情况是，」我接着说，「你两个都不爱，那就让两个人都保持原样吧。」
+「那我就不必顾那个男人的幸福了？」
+「当然不能靠没有爱情的婚姻去顾。」
+「啊！可我也许会惦记他——带着感情惦记。」
+「那么你对哪一个有感情？」我问。问话之间，我们已经进了波士顿的街区。
+她又沉默下去，几乎一直沉默到我把她送到自家门口；然后她望着我，眼睛里不只有深意，还有爱；——眼睛里那点东西，是我此前不曾信她所有的。
+「你认识这两个男人，」她说，「还问我这个？」话音一落，她便跳下雪橇，匆匆登上她父亲家门前的台阶。千真万确，汉尼拔·霍斯金斯的帽子和手套对她起的作用，同对我起的作用一样；尽管她明知他做儿子、做兄弟是何等尽心，那作用照样生了效。
+此后整整一个月，我没有再同格莱德小姐或普赖尔先生谈起这个题目。那时我同普赖尔天天厮混在一起，但他既不向我提起奥菲莉亚，我便也不常向他提她的名字。我知道他常同她在一起——或者至少常出入她的交际。但我不信他有天天登门的习惯；他若已被她接受，本该是这样的。而且我实在认为，他是那种求爱会百折不挠的人；可一旦被一拒再拒，多半不会再来献殷勤。他仍在说要回英国，只是没定日子。我自己打算五月初动身，便用我仅有的一点影响力，设法把他留在波士顿到那时。格莱德小姐我也不断见到。真的，人只要活在波士顿社交界，就免不了几乎天天见到她；我也知道霍斯金斯先生常在她身边。但就她而论，这什么也说明不了，我前面已经交代过。她从不抛弃朋友，也绝没有因为传闻某人是她的情人，便对他端起架子。她会当着普赖尔先生的面待汉尼拔十分亲热；然而很明显——至少我看得出——她这样做，绝没有一丝要刺痛她那位英国爱慕者的意思。
+
+===Original===
+
+I was one day seated in my room at the hotel when a servant brought me up a card. “Misther Hoskins; he’s a waiting below, and wants to see yer honour very partickler,” said the raw Irishman. Mr. Hoskins had never done me the honour of calling on me before, nor had I ever become intimate with him even at the club; but, nevertheless, as he had come to me, of course I was willing to see him, and so he was shown up into my room. When he entered, his hat was, I suppose, in his hand; but it looked as though it had been on one side of his head the moment before, and as though it would be on one side again the moment he left me.
+“I beg your pardon, Mr. Green,” said he. “Perhaps I ought not to intrude upon you here.”
+“No intrusion at all. Won’t you take a chair, and put your hat down?” He did take a chair, but he wouldn’t put his hat down. I confess that I had been actuated by a foolish desire to see it placed for a few minutes in a properly perpendicular position.
+“I’ve just come﻿—I’ll tell you why I’ve come. There are some things, Mr. Green, in which a man doesn’t like to be interfered with.” I could not but agree with this, but in doing so I expressed a hope that Mr. Hoskins had not been interfered with to any very disagreeable extent. “Well!” I scorn to say that the Boston dandy said “wa’all,” but if this story were written by any Englishman less conscientious than myself, that latter form of letters is the one which he would adopt in his endeavour to convey the sound as uttered by Mr. Hoskins. “Well, I don’t quite know about that. Now, Mr. Green, I’m not a quarrelsome man. I don’t go about with six-shooters in my pocket, and I don’t want to fight, nohow, if I can help it.”
+In answer to this I was obliged to tell him that I sincerely hoped that he would not have to fight; but that if fighting became necessary to him, I trusted that his fighting propensities would not be directed against any friend of mine.
+“We don’t do much in that way on our side of the water,” said I.
+“I am well aware of that,” said he. “I don’t want anyone to teach me what are usages of genteel life in England. I was there the whole fall, two years ago.”
+“As regards myself,” said I, “I don’t think much good was ever done by duelling.”
+“That depends, Sir, on how things eventuate. But, Mr. Green, satisfaction of that description is not what I desiderate on the present occasion.
+
+===Chinese===
+
+一天我正坐在旅馆自己的房间里，一个侍者送上一张名片。「霍什金斯先生；他在楼下等着，有顶顶要紧的事想见您老爷。」那爱尔兰生手说。霍斯金斯先生从前从未赏光拜访过我，连在俱乐部里我也不曾同他熟络过；然而他既然来了，我自然愿意见他，于是他被引上楼进了我的房间。他进屋时，帽子想必是拿在手里的；可那帽子看去仿佛前一刻还歪戴在头上，仿佛他一离开我，下一刻又会歪戴上。
+「恕我冒昧，格林先生，」他说，「或许我不该到这里来打扰您。」
+「一点也不打扰。请坐，把帽子放下吧。」椅子他是坐了，帽子却怎么也不肯放。我承认，我是存了个傻念头，想看那帽子端端正正、笔直地立上几分钟。
+「我来是——我这就告诉您我为什么来。有些事情，格林先生，一个男人是不喜欢别人插手的。」这话我没法不同意，只是同意之余，表示希望霍斯金斯先生被插手的程度还不至于太不愉快。「Well！」我是不屑于写明这位波士顿纨绔把这个词念成「wa'all」的；可这故事若是出自哪个不如我这么讲究的英国人手笔，为了描摹霍斯金斯先生发音的神韵，他多半就要采用后一种拼法了。「Well，这我可说不好。这么着，格林先生，我不是个好斗的人。我不会揣着六响枪到处走，只要躲得开，我怎么也不想打架，怎么都不想。」
+对此我只得告诉他，我衷心希望他不必打架；但倘若实在免不了，我指望他的斗性不要指向我的任何朋友。
+「在我们水那一边，这种事是不大兴的。」我说。
+「这我清楚得很，」他说，「不用谁来教我英国上流生活的规矩。两年前的整个秋天，我就在那边。」
+「就我自己而论，」我说，「我从来不觉得决斗办成过什么好事。」
+「那要看事情怎样收场了，先生。不过，格林先生，那一类的『满足』，并非我此番想要的东西。
+
+===Original===
+
+I wish to know whether Mr. Pryor is, or is not, engaged to marry Miss Ophelia Gledd.”
+“If he is, Mr. Hoskins, I don’t know it.”
+“But, Sir, you are his friend.”
+This I admitted, but again assured Mr. Hoskins that I knew nothing of any such engagement. He pleaded also that I was her friend as well as his. This, too, I admitted, but again declared that from neither side had I been made aware of the fact of any such engagement.
+“Then, Mr. Green,” said he, “may I ask you for your own private opinion?”
+Upon the whole I was inclined to think that he might not, and so I told him in what most courteous words I could find for the occasion. His bust at first grew very long and stiff, and his hat became more and still more sloped as he held it. I began to fear, that though he might not have a six-shooter in his pocket, he had nevertheless some kind of pistol in his thoughts. At last he started up on his feet and confronted me, as I thought, with a look of great anger. But his words when they came were no longer angry.
+“Mr. Green,” said he, “if you knew all that I’ve done to get that girl!”
+My heart was instantly softened to him.
+“For aught that I know,” said I, “you may have her this moment for asking.”
+“No,” said he, “no.” His voice was very melancholy, and as he spoke he looked into his sloping hat. “No; I’ve just come from Chesnut Street, and I think she’s rather more turned against me than ever.”
+He was a tall man, good-looking after a fashion, dark, with thick black shiny hair, and huge bold moustachios. I myself do not like his style of appearance, but he certainly had a manly bearing. And in the society of Boston generally he was regarded as a stout fellow, well able to hold his own; as a man, by no means soft, or green, or feminine. And yet now, in the presence of me, a stranger to him, he was almost crying about his lady love. In England no man tells another that he has been rejected; but then in England so few men tell to others anything of their real feeling. As Ophelia had said to me, we are hard and polished, and nobody knows anything about anybody’s anything. What could I say to him? I did say something. I went so far as to assure him that I had heard Miss Gledd speak of him in the highest language; and at last perhaps I hinted﻿—though I don’t think I did quite hint it﻿—that if Pryor were out of the way, Hoskins might find the lady more kind.
+
+===Chinese===
+
+我想知道，普赖尔先生究竟订没订婚，订的是不是同奥菲莉亚·格莱德小姐。」
+「他若订了，霍斯金斯先生，我也不知道。」
+「可是，先生，您是他的朋友。」
+这一点我承认了，但还是向霍斯金斯先生保证，这样的婚约我一无所知。他又申说，我不但是他的朋友，也是她的朋友。这一点我也承认了，但还是声明，两边谁都没有向我透过硬是有这么一桩婚约。
+「那么，格林先生，」他说，「我可不可以请教您个人的私见？」
+总的说来，我倾向于认为不可以，便用当场能找到的最客气的字眼这样告诉了他。他的上半身起初绷得又长又直，手里那顶帽子越托越歪。我开始担心，他口袋里虽未必有六响枪，脑子里却未必没有一支什么手枪。终于他霍地站起，同我照面，我看那神情是大怒。可口中的话出来时，已不带怒气了。
+「格林先生，」他说，「您要是知道我为了得到那姑娘，都做过些什么！」
+我的心立时对他软了下来。
+「就我所知，」我说，「您这会儿开口去求，兴许就到手了。」
+「不，」他说，「不。」他的声音很凄凉，说话时眼睛望着那顶歪帽子。「不；我刚从切斯纳特街来，我看她比先前更不肯理我了。」
+他个子高，模样也算得上俊俏，肤色深，一头浓黑发亮的头发，两撇大胆的大髭。他那一副仪容，我自己并不喜欢；可他确实有股男子汉气概。在波士顿社交界，人们一般把他看作一条硬汉，很能立得住脚；断不是个面软的、生嫩的、女人气的男人。然而此刻，当着我这么个素不相识的人，他几乎要为他心上的姑娘哭出来。在英国，没有男人会告诉另一个男人自己被拒绝了；不过在英国，肯把真实心事告诉别人的男人本来也没有几个。正像奥菲莉亚对我说的，我们又硬又光，谁也不知道任何人的任何事。我能对他说什么呢？我到底还是说了几句。我甚至向他保证，我听过格莱德小姐用最高的词句说起他；末了也许我还暗示了——虽然我想算不上明示——倘若普赖尔出了局，霍斯金斯或许会发现那位小姐温柔得多。
+
+===Original===
+
+He soon became quite confidential, as though I were his bosom friend. He perceived, I think, that I was not anxious that Pryor should carry off the prize, and he wished me to teach Pryor that the prize was not such a prize as would suit him.
+“She’s the very girl for Boston,” he said, in his energy; “but, I put it to you, Mr. Green, she hasn’t the gait of going that would suit London.”
+Whether her gait of going would or would not suit our metropolis, I did not undertake to say in the presence of Mr. Hoskins, but I did at last say that I would speak to Pryor, so that the field might be left open for others if he had no intention of running for the cup himself.
+I could not but be taken, and indeed charmed, by the honest strength of affection which Hannibal Hoskins felt for the object of his adoration. He had come into my room determined to display himself as a man of will, of courage, and of fashion. But he had broken down in all that, under his extreme desire to obtain assistance in getting the one thing which he wanted. When he parted with me he shook hands almost boisterously, while he offered me most exuberant thanks. And yet I had not suggested that I could do anything for him. I did think that Ophelia Gledd would accept his offer as soon as Pryor was gone; but I had not told him that I thought so.
+About two days afterwards I had a very long and a very serious conversation with Pryor, and at that time I do not think that he had made up his mind as to what he intended to do. He was the very opposite to Hoskins in all his ways and all his moods. There was not only no swagger with him, but a propriety and quiescence of demeanour the very opposite to swagger. In conversation his most violent opposition was conveyed by a smile. He displayed no other energy than what might be shown in the slight curl of his upper lip. If he reproved you he did it by silence. There could be no greater contrast than that between him and Hoskins, and there could be no doubt which man would recommend himself most to our English world by his gait and demeanour. But I think there may be a doubt as to which was the best man, and a doubt also as to which would make the best husband.
+
+===Chinese===
+
+他很快就推心置腹起来，仿佛我是他的知己。我想他看出来了，我并不盼着普赖尔夺走那奖品；他便希望我去开导普赖尔：那奖品并非配他的奖品。
+「她正是配波士顿的姑娘，」他起劲地说，「可是，格林先生，我把话摆在您面前：她没有那副走得进伦敦的步态。」
+她的步态究竟配不配我们那座都城，当着霍斯金斯先生的面我不便置评；但我最后说了，我会同普赖尔谈一谈，好让他若无意亲自下场夺杯，便把场子留给旁人。
+汉尼拔·霍斯金斯对他所崇拜的对象怀着的那份老实的深情，不由得让我动容，简直让我着迷。他进我房间时，原打定主意要摆出一副有意志、有胆量、有时尚的人物架势。可这一切全垮了，只因他急于求人相助，弄到他那唯一想要的东西。临别时他同我握手，几乎有些喧闹，向我千恩万谢，热忱无比。而我其实并没有表示我能为他做什么。我确实想，普赖尔一走，奥菲莉亚·格莱德就会接受他的求婚；但我没有把这想法告诉他。
+约莫两天之后，我同普赖尔进行了一次很长、很郑重的谈话；那时我想他还拿不定主意究竟何去何从。他的一举一动、一情一绪，处处同霍斯金斯相反。他非但没有一点虚张声势，反倒有一种规矩沉静的气度，同虚张声势截然相反。交谈中，他最激烈的反对也只用一个微笑传达。他全部的劲道，至多不过显在上唇轻轻一撇里。他若责备你，用的是沉默。他同霍斯金斯之间的对比，再没有比这更大的了；单论步态与风度，哪一位更讨我们英国社交界的欢心，也没有疑问。可是哪一位是更好的人，我却想未必没有疑问；哪一位会是个更好的丈夫，也一样。
+
+===Original===
+
+That my friend was not then engaged to Miss Gledd I did learn﻿—but I learned nothing further﻿—except this, that he would take his departure with me the first week in May, unless anything special occurred to keep him in Boston.
+It was some time early in April that I got a note from Miss Gledd, asking me to call on her.
+“Come at once,” she said, “as I want your advice above all things.” And she signed herself, “Yours in all truth, O. G.”
+I had had many notes from her, but none written in this strain; and therefore, feeling that there was some circumstance to justify such instant notice, I got up and went to her then, at ten o’clock in the morning. She jumped up to meet me, giving me both her hands.
+“Oh, Mr. Green,” she said to me, “I’m so glad you have come to me. It is all over.”
+“What is over?” said I.
+“My chance of escape from the she baronet. I gave in last night. Pray tell me that I was right. Yet I want you to tell me the truth. And yet, above all things, you must not tell me that I have been wrong.”
+“Then you have accepted Mr. Pryor?”
+“I could not help it,” she said. “The temptation was too much for me. I love the very cut of his coat, the turn of his lip, the tone of his voice. The very sound which he makes as he closes the door behind him is too much for me. I believe that I ought to have let him go﻿—but I could not do it.”
+“And what will Mr. Hoskins do?”
+“I wrote to him immediately and told him everything. Of course I had John’s leave for doing so.”
+This calling of my sedate friend by the name of John was, to my feeling, a most wonderful breaking down of all proprieties.
+“I told him the exact truth. This morning I got an answer from him saying that he should visit Russia. I am so sorry because of his mother and sisters.”
+“And when is it to be?”
+“Oh, at once, immediately. So John says. When we resolve on doing these things here, on taking the plunge, we never stand shilly-shallying on the brink as your girls do in England. And that is one reason why I have sent for you. You must promise to go over with us. Do you know I am half afraid of him﻿—much more afraid of him than I am of you.”
+They were to be married very early in May, and of course I promised to put off my return for a week or two to suit them.
+“And then for the she baronet,” she said, “and for all the terrible grandeur of London!”
+
+===Chinese===
+
+我的朋友当时并未同格莱德小姐订婚——这一点我打听出来了——旁的却一无所获；只知道一件事：五月的头一个星期，他将同我一道动身，除非有什么特殊情况把他留在波士顿。
+四月初的某一天，我收到格莱德小姐一张便条，请我去见她。
+「立刻就来，」她写道，「因为我比什么都要你的主意。」署名是「以全部真诚属于你的，奥·格」。
+她的便条我收过许多，从没有一张用这样的口吻；因此我料想必有要事，配得上这样急如星火的召唤，便当即起身，早晨十点钟就去见她。她跳起来迎我，把双手都伸给我。
+「哦，格林先生，」她对我说，「你来了我太高兴了。一切都完了。」
+「什么完了？」我说。
+「我从那位从男爵夫人手底逃出去的机会完了。我昨晚投降了。快对我说我做对了。可我又要你说实话。然而顶要紧的是，你千万不能说我错了。」
+「那么你接受了普赖尔先生？」
+「我忍不住，」她说，「那诱惑太大了。我爱他上衣的剪裁、嘴唇的弧线、嗓音的调子。连他随手带门时那一声响，都让我受不了。我相信我本该放他走——可我做不到。」
+「那霍斯金斯先生怎么办？」
+「我立刻写了信给他，把一切都告诉了他。当然，我是得了约翰的允许才这样做的。」
+我那位端庄的朋友竟被唤作「约翰」，在我听来，这真是把一切体统统统拆掉了。
+「我把实情原原本本告诉了他。今天早晨我接到他的回信，说他要去游历俄国。我很难过，是为了他的母亲和姐妹们。」
+「那婚事定在什么时候？」
+「哦，就在眼前，马上。约翰是这么说的。我们这里的人一旦拿定主意做这种事，要往下一跳，就从不像你们英国的姑娘那样在崖边磨蹭。我把你找来，这也是一个缘故。你必须答应同我们一起过去。你知道吗，我有点怕他——比怕你还怕得多。」
+他们的婚礼定在五月初，我自然答应把归期推迟一两个星期，将就他们。
+「接下来就要面对那位从男爵夫人了，」她说，「还有伦敦那可怕的富贵气派！」
+
+===Original===
+
+When I endeavoured to explain to her that she would encounter no great grandeur, she very quickly corrected me.
+“It is not grandeur of that sort, but the grandeur of coldness that I mean. I fear that I shall not do for them. But, Mr. Green, I must tell you one thing. I have not cut off from myself all means of retreat.”
+“Why, what do you mean? You have resolved to marry him.”
+“Yes, I have promised to do so; but I did not promise till he had said that if I could not be made to suit his people in Old England, he would return here with me and teach himself to suit my people in New England. The task will be very much easier.”
+They were married in Boston, not without some considerable splendour of ceremony, as far as the splendour of Boston went. She was so unusual a favourite that everyone wished to be at her wedding, and she had no idea of giving herself airs and denying her friends a favour. She was married with much éclat, and, as far as I could judge, seemed to enjoy the marriage herself.
+Now comes the question; will she or will she not be received in London as a lady﻿—as such a lady as my friend Pryor might have been expected to take for his wife?
+
+===Chinese===
+
+我刚想对她解释，说她会遇到的算不得什么大场面，她立刻便纠正了我。
+「我说的不是那一类的气派，是冷冰冰的气派。我怕我配不上他们那一家人。可是，格林先生，有一件事我得告诉你。我并没有把自己所有的退路都斩断。」
+「咦，这话怎么讲？你不是拿定主意要嫁给他了么。」
+「是，我答应嫁他了；可我是等他说了一句话之后才答应的——他说，若是我在旧英格兰怎么也合不拢他家里人的意，他就同我回到这里来，教他自己来合拢我家里人在新英格兰的意。这差事可容易得多。」
+他们在波士顿成的婚，就波士顿的体面而论，婚礼不算不铺张。她那样得人缘是少有的，人人都想出席她的婚礼；她也丝毫没有摆架子、驳朋友面子的意思。她风风光光地嫁了；据我看，她自己也似乎很享受这场婚礼。
+现在问题来了：她在伦敦会不会被当作一位淑女来接纳——当作我朋友普赖尔理当娶的那样一位淑女？
