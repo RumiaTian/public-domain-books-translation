@@ -96,12 +96,27 @@ def finalize_book(project):
     print("==================================================")
 
 
+FATAL_ERROR_PATTERNS = (
+    "Cookie 认证失败",
+    "Session transition failed",
+    "accounts.google.com",
+    "ConnectionRefusedError",
+    "401 UNAUTHENTICATED",
+)
+
+
+def is_fatal_global_error(msg):
+    return any(pat in msg for pat in FATAL_ERROR_PATTERNS)
+
+
 def main():
     parser = argparse.ArgumentParser(description="批量翻译调度 Runner")
     parser.add_argument("--project", required=True, help="项目名称")
     parser.add_argument("--model", default="gemini-3.8-flash", help="模型名称")
     parser.add_argument("--batch-size", type=int, default=8, help="每批次篇数 (到达后自动归档提交，0表示无限制全量)")
     parser.add_argument("--max-total", type=int, default=0, help="最多处理总篇数 (0表示处理所有todo)")
+    parser.add_argument("--min-interval", type=float, default=60.0, help="相邻两次 API 调用最小间隔秒数 (默认 60s)")
+    parser.add_argument("--max-retries", type=int, default=1, help="单章最大重试次数 (默认 1 次，即最多共尝试 2 次)")
     args = parser.parse_args()
 
     pdir = os.path.join(PROJ_DIR, args.project)
@@ -114,21 +129,27 @@ def main():
     batch_done = []
     total_processed = 0
     failed_files = set()
+    last_call_start = 0.0
+    aborted_reason = None
 
     while True:
         rows = get_queue_status(pdir)
-        todos = [r["file"] for r in rows if r.get("status") == "todo" and r["file"] not in failed_files]
+        all_todos = [r["file"] for r in rows if r.get("status") == "todo"]
+        todos = [f for f in all_todos if f not in failed_files]
         dones = [r["file"] for r in rows if r.get("status") == "done"]
 
-        print(f"\n[*] 状态概览: todo={len(todos)}, done={len(dones)}, total={len(rows)}")
+        print(f"\n[*] 状态概览: todo={len(all_todos)} (可调度={len(todos)}), done={len(dones)}, total={len(rows)}", flush=True)
 
         if not todos:
-            print("[+] 所有章节已全部翻译完成 (todo=0)！")
             if batch_done:
                 append_plan_log(pdir, batch_done)
                 git_commit_batch(args.project, len(batch_done))
                 batch_done = []
-            finalize_book(args.project)
+            if not all_todos:
+                print("[+] 所有章节已全部翻译完成 (todo=0)！")
+                finalize_book(args.project)
+            else:
+                print(f"[!] 剩余 {len(all_todos)} 篇异常跳过未完成: {all_todos}")
             break
 
         if args.max_total > 0 and total_processed >= args.max_total:
@@ -139,15 +160,23 @@ def main():
             break
 
         target_file = todos[0]
-        print(f"\n>>> [{total_processed + 1}] 开始处理: {target_file} (剩余待译: {len(todos)})")
+        print(f"\n>>> [{total_processed + 1}] 开始处理: {target_file} (剩余待译: {len(todos)})", flush=True)
 
         success = False
         err_msg = ""
-        for attempt in range(2):
-            if attempt > 0:
-                print(f"[*] 对 {target_file} 进行第 {attempt + 1} 次尝试...")
-                time.sleep(3)
+        max_attempts = 1 + max(0, args.max_retries)
+        for attempt in range(max_attempts):
+            if last_call_start > 0 and args.min_interval > 0:
+                elapsed_since_last = time.time() - last_call_start
+                wait_sec = args.min_interval - elapsed_since_last
+                if wait_sec > 0:
+                    print(f"[*] 遵守频控 ({args.min_interval:.0f}s/次)，等待 {wait_sec:.1f}s 后发起请求...", flush=True)
+                    time.sleep(wait_sec)
 
+            if attempt > 0:
+                print(f"[*] 对 {target_file} 进行第 {attempt + 1} 次尝试...", flush=True)
+
+            last_call_start = time.time()
             cmd = [
                 python_bin,
                 GENAI_PY,
@@ -161,21 +190,33 @@ def main():
             p = subprocess.run(cmd, capture_output=True, text=True, cwd=ROOT)
             stdout = p.stdout.strip()
             stderr = p.stderr.strip()
-            print(stdout)
+            print(stdout, flush=True)
             if stderr:
-                print(f"[stderr] {stderr}")
+                print(f"[stderr] {stderr}", flush=True)
 
             if p.returncode == 0 and "[SUCCESS]" in stdout:
                 success = True
                 break
             else:
-                err_msg = stderr or stdout or "未知异常"
+                err_msg = f"{stdout}\n{stderr}".strip() or "未知异常"
+                if is_fatal_global_error(err_msg):
+                    aborted_reason = f"检测到全局认证/连接阻断，立即熔断停止: {err_msg[:200]}"
+                    break
+
+        if aborted_reason:
+            print(f"\n[!] {aborted_reason}", flush=True)
+            batch_done.append((target_file, "中断", f"全局熔断: {err_msg[:80]}"))
+            if batch_done:
+                append_plan_log(pdir, batch_done)
+                git_commit_batch(args.project, len(batch_done))
+                batch_done = []
+            break
 
         if success:
             batch_done.append((target_file, "成功", "check_bilingual 校验通过，标记 done"))
             total_processed += 1
         else:
-            print(f"[-] 章节 {target_file} 尝试 2 次均失败，跳过该章节。原因: {err_msg[:200]}")
+            print(f"[-] 章节 {target_file} 尝试 {max_attempts} 次均失败，跳过该章节。原因: {err_msg[:200]}", flush=True)
             batch_done.append((target_file, "失败", f"异常跳过: {err_msg[:80]}"))
             failed_files.add(target_file)
             total_processed += 1

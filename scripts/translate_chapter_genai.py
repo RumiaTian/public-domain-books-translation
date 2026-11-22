@@ -376,24 +376,16 @@ def translate_chapter(project_name, fname, client, model="gemini-3.8-flash", dry
         return True
 
     print(f"[*] 开始翻译 {fname} (共 {len(blocks)} 块, 命中 {len(matched_terms)} 术语)...")
-    response = None
-    elapsed = 0.0
-    for attempt in range(2):
-        t0 = time.time()
-        try:
-            response = client.models.generate_content(
-                model=model,
-                contents=prompt,
-            )
-            elapsed = time.time() - t0
-            break
-        except Exception as e:
-            print(f"[-] 第 {attempt+1} 次 API 调用异常: {e}")
-            if attempt == 0:
-                print("[*] 等待 2 秒后进行第 2 次重试...")
-                time.sleep(2)
-            else:
-                return False
+    t0 = time.time()
+    try:
+        response = client.models.generate_content(
+            model=model,
+            contents=prompt,
+        )
+    except Exception as e:
+        print(f"[-] API 调用异常: {e}")
+        return False
+    elapsed = time.time() - t0
     resp_text = response.text or ""
     print(f"[+] API 回复耗时: {elapsed:.1f}s, 输出长度: {len(resp_text)} 字符")
 
