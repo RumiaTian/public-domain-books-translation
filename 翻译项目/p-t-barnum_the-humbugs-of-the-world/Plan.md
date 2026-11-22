@@ -38,3 +38,5 @@
 | 2026-11-12 | l.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
 | 2026-11-12 | medicine-and-quacks.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
 | 2026-11-12 | money-manias.md | 失败 | 代理服务 Cookie 失效 (500 Internal Error) |
+| 2026-11-22 | iv.md | 成功 | check_bilingual 校验通过，标记 done |
+| 2026-11-22 | v.md | 中断 | 全局熔断: [*] 待翻译篇数: 1 [*] 开始翻译 v.md (共 4 块, 命中 0 术语)... [-] API 调用异常: 500 INTERNAL. {'err |
