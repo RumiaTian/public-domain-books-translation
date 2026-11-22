@@ -113,6 +113,7 @@ def main():
     parser = argparse.ArgumentParser(description="批量翻译调度 Runner")
     parser.add_argument("--project", required=True, help="项目名称")
     parser.add_argument("--model", default="gemini-3.8-flash", help="模型名称")
+    parser.add_argument("--base-url", default="http://192.168.0.11:8989", help="代理基础 URL")
     parser.add_argument("--batch-size", type=int, default=8, help="每批次篇数 (到达后自动归档提交，0表示无限制全量)")
     parser.add_argument("--max-total", type=int, default=0, help="最多处理总篇数 (0表示处理所有todo)")
     parser.add_argument("--min-interval", type=float, default=60.0, help="相邻两次 API 调用最小间隔秒数 (默认 60s)")
@@ -184,6 +185,8 @@ def main():
                 args.project,
                 "--model",
                 args.model,
+                "--base-url",
+                args.base_url,
                 "--file",
                 target_file,
             ]

@@ -387,6 +387,20 @@ def translate_chapter(project_name, fname, client, model="gemini-3.8-flash", dry
         return False
     elapsed = time.time() - t0
     resp_text = response.text or ""
+    if not resp_text and getattr(response, "candidates", None):
+        # 兜底从 candidates.content.parts 提取非 thought 文本并打印诊断
+        parts_text = []
+        for cand in response.candidates:
+            fr = getattr(cand, "finish_reason", None)
+            content = getattr(cand, "content", None)
+            parts = getattr(content, "parts", None) or []
+            print(f"[DEBUG] candidate finish_reason={fr}, parts_count={len(parts)}")
+            for p in parts:
+                is_thought = getattr(p, "thought", False)
+                pt = getattr(p, "text", "") or ""
+                if not is_thought and pt:
+                    parts_text.append(pt)
+        resp_text = "\n".join(parts_text).strip()
     print(f"[+] API 回复耗时: {elapsed:.1f}s, 输出长度: {len(resp_text)} 字符")
 
     trans_map, err = parse_model_response(resp_text, len(blocks))
@@ -420,7 +434,7 @@ def main():
     parser.add_argument("--all", action="store_true", help="连续处理所有 todo 章节")
     parser.add_argument("--model", default="gemini-3.8-flash", help="模型名称")
     parser.add_argument("--api-key", default="tian233", help="API Key")
-    parser.add_argument("--base-url", default="http://10.38.1.94:8989", help="代理基础 URL")
+    parser.add_argument("--base-url", default="http://192.168.0.11:8989", help="代理基础 URL")
     parser.add_argument("--dry-run", action="store_true", help="演练模式，不实际调用 API")
     args = parser.parse_args()
 
