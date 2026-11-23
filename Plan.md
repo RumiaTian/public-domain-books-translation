@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **620** 完 / **14** 译 / **13** 待（共 647 本） | **16733** / 18180 篇（**282979.2** / 305863.1 KB）· **92.5%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **168** 本待审 | 覆盖精读 **452** 本（**72.9%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **620** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **620** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **621** 完 / **13** 译 / **13** 待（共 647 本） | **16753** / 18180 篇（**283434.1** / 305863.1 KB）· **92.7%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **169** 本待审 | 覆盖精读 **452** 本（**72.8%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **621** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **621** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **620** 本译完，**452** 本完成独立审校，**620** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **621** 本译完，**452** 本完成独立审校，**621** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -471,7 +471,7 @@
 | 446 | `margaret-oliphant_miss-marjoribanks` | ✅ 已入库 | [✅ **100%**](翻译项目/margaret-oliphant_miss-marjoribanks/译文) (53篇) | ⏳ 待审 | [📦 891KB](翻译项目/margaret-oliphant_miss-marjoribanks/Miss Marjoribanks.epub) | 已译完待审 |
 | 447 | `margaret-oliphant_phoebe-junior` | ✅ 已入库 | [✅ **100%**](翻译项目/margaret-oliphant_phoebe-junior/译文) (45篇) | ⏳ 待审 | [📦 718KB](翻译项目/margaret-oliphant_phoebe-junior/小菲比.epub) | 已译完待审 |
 | 448 | `margaret-oliphant_salem-chapel` | ✅ 已入库 | [✅ **100%**](翻译项目/margaret-oliphant_salem-chapel/译文) (43篇) | ⏳ 待审 | [📦 773KB](翻译项目/margaret-oliphant_salem-chapel/塞勒姆礼拜堂.epub) | 已译完待审 |
-| 449 | `margaret-oliphant_the-ladies-lindores` | ✅ 已入库 | [🟡 62.2%](翻译项目/margaret-oliphant_the-ladies-lindores/译文) (30/50) | — | — | 翻译中 (done 30/50) |
+| 449 | `margaret-oliphant_the-ladies-lindores` | ✅ 已入库 | [✅ **100%**](翻译项目/margaret-oliphant_the-ladies-lindores/译文) (50篇) | ⏳ 待审 | [📦 1003KB](翻译项目/margaret-oliphant_the-ladies-lindores/林多雷斯家的女人们.epub) | 已译完待审 |
 | 450 | `margaret-oliphant_the-perpetual-curate` | ✅ 已入库 | [✅ **100%**](翻译项目/margaret-oliphant_the-perpetual-curate/译文) (50篇) | ⏳ 待审 | [📦 872KB](翻译项目/margaret-oliphant_the-perpetual-curate/终身牧师.epub) | 已译完待审 |
 | 451 | `margaret-oliphant_the-rector-and-the-doctors-family` | ✅ 已入库 | [✅ **100%**](翻译项目/margaret-oliphant_the-rector-and-the-doctors-family/译文) (24篇) | [✅ 已审(B)](翻译项目/margaret-oliphant_the-rector-and-the-doctors-family/审核报告.md) | [📦 343KB](翻译项目/margaret-oliphant_the-rector-and-the-doctors-family/The Rector and The Doctor's Family.epub) | B 良好 | 全书 24 篇、232 块内容完整，语义准确，数字、专名无实质… |
 | 452 | `margaret-wilson_the-able-mclaughlins` | ✅ 已入库 | [✅ **100%**](翻译项目/margaret-wilson_the-able-mclaughlins/译文) (22篇) | [✅ 已审(B)](翻译项目/margaret-wilson_the-able-mclaughlins/审核报告.md) | [📦 322KB](翻译项目/margaret-wilson_the-able-mclaughlins/能干的麦克劳克林家.epub) | B 良好 | 22 章 306 块 1036 段逐块精读，段落覆盖与数字、专… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **16733/18180 篇 (92.5%)** | **452 本完成** | **620 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **16753/18180 篇 (92.7%)** | **452 本完成** | **621 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1572,6 +1572,7 @@
 | margaret-oliphant_miss-marjoribanks | Margaret Oliphant | `margaret-oliphant_miss-marjoribanks` | 891KB | - | [`Miss Marjoribanks.epub`](翻译项目/margaret-oliphant_miss-marjoribanks/Miss Marjoribanks.epub) |
 | 小菲比 | Margaret Oliphant | `margaret-oliphant_phoebe-junior` | 718KB | - | [`小菲比.epub`](翻译项目/margaret-oliphant_phoebe-junior/小菲比.epub) |
 | 塞勒姆礼拜堂 | Margaret Oliphant | `margaret-oliphant_salem-chapel` | 773KB | - | [`塞勒姆礼拜堂.epub`](翻译项目/margaret-oliphant_salem-chapel/塞勒姆礼拜堂.epub) |
+| 林多雷斯家的女人们 | Margaret Oliphant | `margaret-oliphant_the-ladies-lindores` | 1003KB | - | [`林多雷斯家的女人们.epub`](翻译项目/margaret-oliphant_the-ladies-lindores/林多雷斯家的女人们.epub) |
 | 终身牧师 | Margaret Oliphant | `margaret-oliphant_the-perpetual-curate` | 872KB | - | [`终身牧师.epub`](翻译项目/margaret-oliphant_the-perpetual-curate/终身牧师.epub) |
 | The Rector and The Doctor’s Family | Margaret Oliphant | `margaret-oliphant_the-rector-and-the-doctors-family` | 343KB | - | [`The Rector and The Doctor's Family.epub`](翻译项目/margaret-oliphant_the-rector-and-the-doctors-family/The Rector and The Doctor's Family.epub) |
 | The Able McLaughlins | Margaret Wilson | `margaret-wilson_the-able-mclaughlins` | 322KB | - | [`能干的麦克劳克林家.epub`](翻译项目/margaret-wilson_the-able-mclaughlins/能干的麦克劳克林家.epub) |
