@@ -1,7 +1,0 @@
-{
-  "plugins": {
-    "enabledPlugins": {
-      "android-emulator@zcode-plugins-official": true
-    }
-  }
-}

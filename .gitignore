@@ -35,3 +35,6 @@ zb_*.txt
 
 # MCP 运行时活动足迹（worker 暴毙定位用）
 mcp/活动日志.txt
+
+# Local agent workspace config
+.zcode/
