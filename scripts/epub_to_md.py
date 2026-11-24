@@ -14,6 +14,11 @@ epub_to_md.py — 从 Standard Ebooks 风格的 EPUB 中按 spine 顺序提取�
 - 去除 epub:type 标记的 frontmatter（titlepage/imprint/colophon/uncopyright）等非正文
 - 文件名用章节标题转 kebab-case；无标题的用 spine 序号
 - 输出 UTF-8 不带 BOM
+- 拆完后默认在输出目录写 translation_queue.csv（spine 顺序；已存在则不动，防止覆盖进度）
+
+其它脚本复用：
+    spine_entries(epub_path) → 仅解析不落盘，返回 spine 顺序条目列表
+    （每项 dict：file/kb/sig；sig 为正文特征串，供与已有 原文/*.md 做内容对齐）
 """
 import sys
 import os
@@ -309,16 +314,28 @@ def has_skipped_type(root):
     return False
 
 
-def emit_md(title, lines, out_dir, seen_titles, written):
-    """按标题写一个 md 文件（kebab + 去重），并记入 written。"""
+def emit_md(title, lines, out_dir, seen_titles, written, write=True):
+    """按标题记一个 md 条目（kebab + 去重）；write=True 时落盘。条目含正文特征串。"""
     base = kebab(title)
     n = seen_titles.get(base, 0) + 1
     seen_titles[base] = n
     fname = base if n == 1 else f"{base}-{n}"
-    out_path = os.path.join(out_dir, fname + ".md")
-    with open(out_path, "w", encoding="utf-8", newline="\n") as f:
-        f.write("\n".join(lines) + "\n")
-    written.append((fname + ".md", len("\n".join(lines).encode("utf-8")) / 1024.0))
+    if write:
+        out_path = os.path.join(out_dir, fname + ".md")
+        with open(out_path, "w", encoding="utf-8", newline="\n") as f:
+            f.write("\n".join(lines) + "\n")
+    written.append({
+        "file": fname + ".md",
+        "kb": len("\n".join(lines).encode("utf-8")) / 1024.0,
+        "sig": _sig_of(lines),
+    })
+
+
+def _sig_of(lines):
+    """正文特征串：去 markdown 标记后取前 400 字符，供与既有 md 做内容对齐。"""
+    s = " ".join(lines)
+    s = re.sub(r"[^A-Za-z0-9]+", " ", s).strip().lower()
+    return s[:400]
 
 
 def extract_title_in(el):
@@ -334,8 +351,9 @@ def extract_title_in(el):
     return None
 
 
-def process_epub(epub_path, out_dir):
-    os.makedirs(out_dir, exist_ok=True)
+def process_epub(epub_path, out_dir, write=True):
+    if write:
+        os.makedirs(out_dir, exist_ok=True)
     with zipfile.ZipFile(epub_path) as zf:
         names = zf.namelist()
         # 找 container.xml
@@ -401,7 +419,7 @@ def process_epub(epub_path, out_dir):
                     art_lines = clean_lines(art_lines)
                     if not art_lines:
                         continue
-                    emit_md(art_title, art_lines, out_dir, seen_titles, written)
+                    emit_md(art_title, art_lines, out_dir, seen_titles, written, write=write)
                 continue
             lines = []
             # 直接遍历 body 下的顶层 article/section/p 等
@@ -420,8 +438,13 @@ def process_epub(epub_path, out_dir):
             lines = clean_lines(lines)
             if not lines:
                 continue
-            emit_md(title, lines, out_dir, seen_titles, written)
+            emit_md(title, lines, out_dir, seen_titles, written, write=write)
         return written
+
+
+def spine_entries(epub_path):
+    """仅解析不落盘：返回 spine 顺序条目列表（dict：file/kb/sig），供队列排序与内容对齐复用。"""
+    return process_epub(epub_path, None, write=False)
 
 
 def main():
@@ -433,8 +456,18 @@ def main():
         sys.stderr.write(f"找不到 epub: {epub_path}\n")
         sys.exit(2)
     written = process_epub(epub_path, out_dir)
-    for fname, size in written:
-        print(f"{fname}\t{size:.1f}KB")
+    # 同步输出 spine 序队列：已存在则不动（防止覆盖翻译进度）
+    queue_path = os.path.join(out_dir, "translation_queue.csv")
+    if os.path.isfile(queue_path):
+        print(f"translation_queue.csv 已存在，保持不动: {queue_path}")
+    else:
+        with open(queue_path, "w", encoding="utf-8", newline="\n") as f:
+            f.write("file,size_kb,status\n")
+            for e in written:
+                f.write(f"{e['file']},{e['kb']:.1f},todo\n")
+        print(f"已按 spine 顺序写出 {queue_path}")
+    for e in written:
+        print(f"{e['file']}\t{e['kb']:.1f}KB")
 
 
 if __name__ == "__main__":
