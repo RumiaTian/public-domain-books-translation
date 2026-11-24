@@ -38,3 +38,7 @@ mcp/活动日志.txt
 
 # Local agent workspace config
 .zcode/
+
+# Worker scratch files (translation session leftovers)
+_tmp_*
+.tmp_*
