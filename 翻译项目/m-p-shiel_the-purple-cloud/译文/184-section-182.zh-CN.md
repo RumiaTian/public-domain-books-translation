@@ -1,0 +1,14 @@
+===Original===
+
+On the morning of the 8th April, when I had been separated thirteen weeks from her, I boarded several ships in the Inner Port, a lunacy in my heart, and selected what looked like a very swift boat, one of the smaller Atlantic air-steamers called the *Stettin*, which seemed to require the least labour in oiling, etc., in order to fit her for the sea: for the boat in which I had come to England was a mere tub, though sound, and I pined for the wings of a dove, that I might fly away to her, and be at rest.
+I toiled with fluttering hands that day, and I believe that I was of the colour of ashes to my very lips. By half-past two o’clock I was finished, and by three was coasting down Southampton Water by Netley Hospital and the Hamble-mouth, having said not one word about anything at the telephone, or even to my own guilty heart not a word. But in the silent depths of my being I felt this fact: that this must be a 35-knot boat, and that, if driven hard, hard, in spite of the heavy garment of seaweed which she trailed, she would do 30; also that Havre was 120 miles away, and at 7 p.m. I should be on its quay.
+And when I was away, and out on the bright and breezy sea, I called to her, crying out: “*I am coming!*” And I knew that she heard me, and that her heart leapt to meet me, for mine leapt, too, and felt her answering.
+The sun went down: it set. I was tired of the day’s work, and of standing at the high-set wheel; and I could not yet see the coast of France. And a thought smote me, and after another ten minutes I turned the ship’s head back, my face screwed with pain, God knows, like a man whose thumbs are ground between the screws, and his body drawn out and out on the rack to tenuous length, and his flesh massacred with pincers: and I fell upon the floor of the bridge contorted with anguish: for I could not go to her. But after a time that paroxysm passed, and I rose up sullen and resentful, and resumed my place at the wheel, steering back for England: for a fixed resolve was in my breast, and I said: “Oh no, no more. If I could bear it, I would, I would﻿ ﻿… but if it is impossible, how can I? Tomorrow night as the sun sets﻿—without fail﻿—so help me God﻿—I will kill myself.”
+
+===Chinese===
+
+4月8日早晨，我同她分开已十三个星期；心里揣着一团瘋念，我登上内港里的好几条船，挑中一条看着极快的艇——一条较小的大西洋空气动力汽船，名叫*斯德丁号*——上油、装配等等的功夫，数它省：因为我来英国坐的那条船虽结实，却是个水缸；我渴慕鸽子的翅膀，好飞到她那里去，得享安息。
+那天我干得两手直颤，我相信自己灰得连嘴唇都是灰的。两点半我收拾停当，三点已驶下南安普顿水道，掠过内特利医院和汉布尔河口——电话里我一个字没有提，连对自己这颗负疚的心，也没吐一个字。可在我存在的沉默深处，我掠着这几个数目：这是一条三十五节的船；若是拼命地赶、拼命地赶，哪怕拖着一袭沉重的海草长裙，也能跑出三十节；而勒阿弗尔在一百二十英里外，晚上七点，我就能站上它的码头。
+待我出了港，驶上明亮多风的海面，我唤她，高喊：“*我来了！*”我知道她听见了，知道她的心跃起来迎我，因为我的心也在跃，感到了她的回答。
+太阳沉下去：落下去了。我倦于这一天的劳作，倦于站在高处把舵；而法国的海岸还望不见。一个念头击中了我；又过了十分钟，我把船头调了回来，脸痛苦得扭作一团——上帝知道——像一个人，拇指被螺丝碾着，身子在拉肢刑架上被越拉越长、长到稀薄，皮肉受着钳子的屠戮：我扑倒在舰桥地板上，痛苦地扭动：因为我去不了她那里。
+可过了一阵，那阵剧痛过去了，我站起来，阴沉而怨愤，重新握舵，朝英国驶回：因为我胸中已定了一个死主意，我说：“哦不，再不能了。忍得住的话，我忍，我忍……可若是忍无可忍，教我怎么忍？明晚日落时分——绝不失约——上帝助我——我就自杀。”

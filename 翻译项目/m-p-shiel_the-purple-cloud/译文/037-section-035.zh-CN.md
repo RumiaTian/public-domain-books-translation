@@ -1,0 +1,64 @@
+===Original===
+
+Well, on the 15th August I had another of those maniac raptures, whose passing away would have left an elephant racked and prostrate. During four days I had seen not one sign of present life on the Norway coast, only hills, hills, dead and dark, and floating craft, all dead and dark; and my eyes now, I found, had acquired a crazy fixity of stare into the very bottom of the vacant abyss of nothingness, while I remained unconscious of being, save of one point, rainbow-blue, far down in the infinite, which passed slowly from left to right before my consciousness a little way, then vanished, came back, and passed slowly again, from left to right continually; till some prick, or voice, in my brain would startle me into the consciousness that I was staring, whispering the profound confidential warning: You must not stare so, or it is over with you! Well, lost in a blank trance of this sort, I was leaning over the wheel during the afternoon of the 15th, when it was as if some instinct or premonition in my soul leapt up, and said aloud: “If you look just yonder, *you will see*﻿ ﻿… !” I started, and in one instant had surged up from all that depth of reverie to reality: I glanced to the right: and there, at last, my God, I saw something human which moved, rapidly moved: at last!﻿—and it came to me.
+That sense of recovery, of waking, of new solidity, of the comfortable usual, a million-fold too intense for words﻿—how sweetly consoling it was! Again now, as I write, I can fancy and feel it﻿—the rocky solidity, the adamant ordinary, on which to base the feet, and live. From the day when I stood at the Pole, and saw there the dizzy thing that made me swoon, there had come into my way not one sign or trace that other beings like myself were alive on the earth with me: till now, suddenly, I had the sweet indubitable proof: for on the southwestern sea, not four knots away, I saw a large, swift ship: and her bows, which were sharp as a hatchet, were steadily chipping through the smooth sea at a pretty high pace, throwing out profuse ribbony foams that went wide-vawering, with outward undulations, far behind her length, as she ran the sea in haste, straight northward.
+At the moment, I was steering about S. E. by S.
+
+===Chinese===
+
+嗯，8月15日，我又经历了一回那种疯癫的狂喜，它一旦退去，怕是连大象也要被折磨得瘫倒。整整四天，我在挪威海岸没有见到一丝现世生命的迹象，只有山、山，死寂而黝黑，还有漂浮的船只，同样死寂而黝黑；这时我发现，我的眼睛已经养成了一种疯狂的凝滞，直勾勾盯进那虚空的深渊之底；我对自身的存在浑然不觉，只意识到一个点，虹彩般的蓝色，在无限深处远远的，在我意识前面缓缓从左向右移过一小段，随即隐没，又回来，又缓缓移过，不住地从左到右；直到我脑子里的某一下刺痛，或某个声音，惊醒我、让我意识到自己正在凝视，一边低声说出那深沉的、知己般的警告：切不可这样盯视，不然你就完了！嗯，正是沉在这样一种茫然的出神里，15日下午，我伏在舵轮上，忽然仿佛我灵魂里某种本能或预感跳了起来，大声说：『往那边看一眼，*你会看见*……！』我一个激灵，一瞬间便从冥想的深处涌回了现实：我朝右一瞥：在那里，终于，我的上帝，我看见了一个人形的东西在动，飞快地动：终于！——它朝我来了。
+那种复原之感、苏醒之感、重新结实之感、寻常安稳之感，强烈得千言万语也道不出百万分之一——它是何等甜蜜的慰藉！此刻写作，我又能想象它、感到它了——那岩石般的坚实，那坚不可摧的寻常，人可以在上面立足、活下去。自从我立在北极、看见那令我晕厥的眩晕之物的那一天起，一路上再没有一丝迹象、一点痕迹，表明还有别的像我一样的生灵活在世上：直到此刻，忽然间，我得到了甜蜜而确凿的证明：因为在西南方的海上，不出四海里，我看见一艘巨大的疾驶的船：她那斧刃般锋利的船首，正以相当高的速度不断削开平滑的海面，抛出大量缎带似的泡沫，一圈圈向外荡漾，在她船尾后远远扩展开去，她正急急地赶海，笔直向北。
+那时我正朝东南偏南行驶
+
+===Original===
+
+, fifteen miles out from a shadowy-blue series of Norway mountains; and just giving the wheel one frantic spin to starboard to bring me down upon her, I flew to the bridge, leant my back on the mainmast, which passed through it, put a foot on the white iron rail before me, and there at once felt all the mocking devils of distracted revelry possess me, as I caught the cap from my long hairs, and commenced to wave and wave and wave, red-faced maniac that I was: for at the second nearer glance, I saw that she was flying an ensign at the main, and a long pennant at the main-top, and I did not know what she was flying those flags there for: and I was embittered and driven mad.
+With distinct minuteness did she print herself upon my consciousness in that five minutes’ interval: she was painted a dull and cholera yellow, like many Russian ships, and there was a faded pink space at her bows under the line where the yellow ceased: the ensign at her main I made out to be the blue-and-white saltire, and she was clearly a Russian passenger-liner, two-masted, two-funnelled, though from her funnels came no trace of smoke, and the position of her steam-cones was anywhere. All about her course the sea was spotted with wobbling splendours of the low sun, large coarse blots of glory near the eye, but lessening to a smaller pattern in the distance, and at the horizon refined to a homogeneous band of livid silver.
+The double speed of the *Boreal* and the other, hastening opposite ways, must have been thirty-eight or forty knots, and the meeting was accomplished in certainly less than five minutes: yet into that time I crowded years of life. I was shouting passionately at her, my eyes starting from my head, my face all inflamed with rage the most prone, loud and urgent. For she did not stop, nor signal, nor make sign of seeing me, but came furrowing down upon me like Juggernaut, with steadfast run. I lost reason, thought, memory, purpose, sense of relation, in that access of delirium which transported me, and can only remember now that in the midst of my shouting, a word, uttered by the fiends who used my throat to express their frenzy, set me laughing high and madly: for I was crying: “Hi! Bravo! Why don’t you stop? *Madmen! I have been to the Pole!
+
+===Chinese===
+
+，离一列影影绰绰的蓝色挪威群山十五英里；我把舵轮拚命往右一转，好朝她压下去，随即飞奔上舰桥，背靠着穿过舰桥的主桅，一脚蹬在面前的白铁栏杆上，顿时觉得所有狂欢乱舞的嘲弄魔鬼附上了我身：我从长发里抓下便帽，开始挥啊，挥啊，挥啊，我这个满脸涨红的疯子：因为再靠近一眼看去，我看见她主桅上飘着一面军旗，主桅顶上飘着长长的三角旗，我不明白她挂那些旗做什么：我又怨又狂。
+就在那五分钟里，她以分明入微的清晰印进了我的意识：她漆着一色晦暗的霍乱黄，同许多俄国船一样，船首黄漆尽头以下有一块褪色的粉红：她主桅上的军旗我认出是蓝白斜十字旗，她显然是一艘俄国客轮，双桅双烟囱，虽然烟囱里不见一缕烟，她的蒸汽锥也不知去向。她的航路四周，海面布满低垂太阳摇曳晃动的光斑，近处是一团团粗大的辉煌，远处渐次缩成细小的纹样，到了天边，则凝成一色的青银光带。
+*博雷尔*号与对方相向疾驶，合起来的速度总有三十八到四十节，相遇不出五分钟便完成了：可我把多年的生命挤进了那几分钟。我朝她狂热地呼喊，眼睛从头颅里迸出来，满脸烧着最暴烈、最喧腾、最急迫的狂怒。因为她不停船，不打信号，也不做出看见我的样子，只像一辆贾格纳特战车，岿然疾驰，破浪向我压来。在那阵攫住我的谵狂里，我失去了理智、思想、记忆、目的、关系之感，如今只记得：在我呼喊的正中间，一个字——那借我的喉咙宣泄狂热的魔鬼们喊出的——让我高高疯狂地大笑起来：因为我正叫着：『喂！好啊！你们怎么不停船？*疯子们！我到过北极！
+
+===Original===
+
+*”
+That instant an odour arose, and came, and struck upon my brain, most detestable, most execrable; and while one might count ten, I was aware of her near-sounding engines, and that cursed charnel went tearing past me on her maenad way, not fifteen yards from my eyes and nostrils. She was a thing, my God, from which the vulture and the jackal, prowling for offal, would fly with shrieks of loathing. I had a glimpse of decks piled thick with her festered dead.
+In big black letters on the round retreating yellow stern my eye-corner caught the word *Yaroslav*, as I bent over the rail to retch and cough and vomit at her. She was a horrid thing.
+This ship had certainly been pretty far south in tropical or subtropical latitudes with her great crowd of dead: for all the bodies which I had seen till then, so far from smelling ill, seemed to give out a certain perfume of the peach. She was evidently one of those many ships of late years which have substituted liquid air for steam, yet retained their old steam-funnels, etc., in case of emergency: for air, I believe, was still looked at askance by several builders, on account of the terrible accidents which it sometimes caused. The *Boreal* herself is a similar instance of both motors. This vessel, the *Yaroslav*, must have been left with working engines when her crew were overtaken by death, and, her air-tanks being still unexhausted, must have been ranging the ocean with impunity ever since, during I knew not how many months, or, it might be, years.
+Well, I coasted Norway for nearly a hundred and sixty miles without once going nearer land than two or three miles: for something held me back. But passing the fjord-mouth where I knew that Aadheim was, I suddenly turned the helm to port, almost before I knew that I was doing it, and made for land.
+In half an hour I was moving up an opening in the land with mountains on either hand, streaky crags at their summit, umbrageous boscage below; and the whole softened, as it were, by veils woven of the rainbow.
+This arm of water lies curved about like a thread which one drops, only the curves are much more pointed, so that every few minutes the scene was changed, though the vessel just crawled her way up, and I could see behind me nothing of what was passed, or only a landlocked gleam like a lake.
+
+===Chinese===
+
+*』就在那一瞬，一股气味升起、飘来、击上我的脑门，最可憎，最可咒；不过数十拍的工夫，我听见了她近在耳边的机器声，那艘该咒的藏骸堂便顺着她酒神祭司般的疯路，从我眼前鼻端不到十五码的地方呼啸而过。她是一件东西，我的上帝，连巡食腐肉的秃鹫和豺狼，见了也要厌恶地尖叫着飞逃。我瞥见她的甲板上层层堆满溃烂的死者。
+我伏在栏杆上朝她干呕、咳嗽、呕吐时，眼角从她那圆圆退去的黄色船尾上，扫到几个黑色大字：*雅罗斯拉夫*（*Yaroslav*）。她是一件可怖的东西。
+这艘船载着那一大群死者，肯定到过南方很远的热带或亚热带纬度：因为在那之前我见过的一切尸体，非但没有腐味，似乎还散着一股桃子的香气。她显然是近年来那许多以液体空气代替蒸汽、却保留旧蒸汽烟囱等等以备急用的船之一：因为据我所知，由于液体空气有时造成可怕的事故，几家造船厂对它仍心存疑忌。*博雷尔*号本身就是双动力并存的一个例子。这艘船，『雅罗斯拉夫』号，必定是船员们被死亡追上时机器还在运转；她的空气罐尚未耗尽，此后想必一直无人拘管地巡游大洋，不知已有多少个月，或者，多少年。
+嗯，我沿着挪威海岸走了将近一百六十英里，一次也没有靠近陆地两三英里以内：因为有什么东西拽着我。可经过我知道有阿德海姆的那处峡湾口时，我几乎还没意识到自己在做什么，就突然把舵转向左舷，朝陆地驶去。
+半小时后，我正驶入陆地上的一道豁口，两侧皆是高山，山顶是条纹斑驳的峭岩，山下是浓荫的树丛；整个景色仿佛被彩虹织成的面纱柔化了。
+这条水臂弯弯曲曲，像一根随手落下的丝线，只是弯折得更尖些，所以每隔几分钟景色便换了一副，虽然船只是缓缓向上爬，我身后已驶过的一切再看不见，或只余一汪困在陆间、湖泊似的微光。
+
+===Original===
+
+I never saw water so polished and glassy, like clarid polished marble, reflecting everything quite clean-cut in its lucid abysm, over which hardly the faintest zephyr breathed that still sundown; it wimpled about the bluff *Boreal*, which seemed to move as if careful not to bruise it, in rich wrinkles and creases, like glycerine, or dewy-trickling lotus-oil; yet it was only the sea: and the spectacle yonder was only crags, and autumn-foliage and mountain-slope: yet all seemed caught-up and chaste, rapt in a trance of rose and purple, and made of the stuff of dreams and bubbles, of pollen-of-flowers, and rinds of the peach.
+I saw it not only with delight, but with complete astonishment: having forgotten, as was too natural in all that long barrenness of ice and sea, that anything could be so ethereally fair: yet homely, too, human, familiar, and consoling. The air here was richly spiced with that peachy scent, and there was a Sabbath and a nepenthe and a charm in that place at that hour, as it were of those gardens of Hesperus, and fields of asphodel, reserved for the spirits of the just.
+Alas! but I had the glass at my side, and for me nepenthe was mixed with a despair immense as the vault of heaven, my good God: for anon I would take it up to spy some perched hut of the peasant, or burg of the “bonder,” on the peaks: and I saw no one there; and to the left, at the third marked bend of the fjord, where there is one of those watchtowers that these people used for watching incoming fish, I spied, lying on a craggy slope just before the tower, a body which looked as if it must surely tumble headlong, but did not. And when I saw that, I felt definitely, for the first time, that shoreless despair which I alone of men have felt, high beyond the stars, and deep as hell; and I fell to staring again that blank stare of Nirvana and the lunacy of Nothingness, wherein Time merges in Eternity, and all being, like one drop of water, flies scattered to fill the bottomless void of space, and is lost.
+The *Boreal*’s bow walking over a little empty fishing-boat roused me, and a minute later, just before I came to a new promontory and bend, I saw two people.
+
+===Chinese===
+
+我从没见过这样光洁如镜的水，像打磨莹澈的大理石，把万物清清楚楚映在它澄明的深底；那个静穆的日暮，几乎最轻的微风也不曾在水面上呼吸；它在敦实的*博雷尔*号四周泛起褶皱，浓密的皱纹曲曲折折，像甘油，像露珠滚淌的荷油，而船行其间，仿佛小心翼翼，唯恐碰伤了它：可这不过是海：那边的美景也不过是峭岩、秋叶和山坡：然而一切都仿佛被摄去了魂，圣洁无瑕，痴痴沉浸在玫瑰与紫色的恍惚里，由梦与泡沫、花之粉、桃之皮做成。
+我见了它，不但欢喜，而且全然惊愕：在那漫长的冰与海的荒芜里，我太自然地忘了世上竟有如此缥缈的美景：而这美又是家常的，人性的，亲切的，抚慰的。这里的空气馥郁地调着那股桃子香，那个时辰的那个地方，有一种安息、一种忘忧、一种魅力，仿佛赫斯珀洛斯的花园、留给义人灵魂的水仙原野。
+唉！可我手边带着望远镜，对我的忘忧药里，掺着同穹苍一样浩大的绝望，我的上帝：因为不一会儿我就会举起它，去窥探峰顶上某座悬踞的农舍，或哪位『邦德』的自耕农庄：我在那里看不到一个人；左边，在峡湾第三个显眼的弯道处，立着一座这些人用来瞭望鱼群来临的瞭望塔，我瞥见塔前的一片乱石坡上躺着一个身体，看样子必定一头要栽下去，却始终没有栽。一见那情形，我头一回确确切切感到了那种无岸的绝望——普天之下唯我一人尝过的绝望，高过星辰，深如地狱；我又堕入了那种涅槃般的茫然凝视、那虚无的癫狂：在那里，时间没入永恒，一切存在像一滴水，飞散开来去填满空间无底的虚空，就此消亡。
+*博雷尔*号的船首跨过一条空空的小渔船，这才惊醒了我；一分钟后，就在我驶到一处新的海岬和弯道之前，我看见了两个人。
+
+===Original===
+
+The shore there is some three feet above the water, and edged with boulders of rock, about which grows a fringe of shrubs and small trees: behind this fringe is a path, curving upward through a sombre wooded little gorge; and on the path, near the water, I saw a driver of one of those Norwegian sulkies that were called karjolers: he, on the high front seat, was dead, lying sideways and backwards, with low head resting on the wheel; and on a trunk strapped to a frame on the axle behind was a boy, his head, too, resting sideways on the wheel, near the other’s; and the little pony was dead, pitched forward on its head and fore-knees, tilting the shafts downward; and some distance from them on the water floated an empty skiff.
+
+===Chinese===
+
+那里的岸高出水面约三英尺，镶着一圈巨砾，砾石四周长着一簇灌木和小树：树簇后面有一条小径，蜿蜒向上穿过一道幽暗多树的小峡谷；就在近水的径上，我看见一个车夫，赶的是挪威人称作『卡里奥尔』的那种单座轻马车：他坐在高高的前座上，死了，侧身向后仰着，低垂的头搁在车轮上；车轴后头捆在货架上的箱子上坐着一个男孩，他的头也侧枕在车轮上，挨着那车夫的头；那匹小马也死了，头和前膝栽在地上，把车辕压得斜翘；离他们一段距离的水面上，漂着一条空空的小船。

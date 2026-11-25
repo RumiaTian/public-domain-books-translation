@@ -1,4 +1,5 @@
 file,size_kb,status
+dedication.md,1.1,todo
 chapter-1.md,20.6,todo
 chapter-2.md,19.8,todo
 chapter-3.md,20.2,todo
@@ -26,6 +27,5 @@ chapter-24.md,30.1,todo
 chapter-25.md,25.7,todo
 chapter-26.md,22.5,todo
 chapter-27.md,12.8,todo
-dedication.md,1.1,todo
-endnotes.md,0.2,todo
 epilogue.md,2.8,todo
+endnotes.md,0.2,todo

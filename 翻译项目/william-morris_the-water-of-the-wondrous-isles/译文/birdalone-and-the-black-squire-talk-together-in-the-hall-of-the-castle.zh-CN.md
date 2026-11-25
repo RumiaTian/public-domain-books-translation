@@ -1,0 +1,50 @@
+## XI Birdalone and the Black Squire Talk Together in the Hall of the Castle / XI 鸟独与黑衣侍从在城堡大厅中倾谈
+===Original===
+
+Now within a few days was the body of Baudoin laid in earth in the chapel of the castle; and in the solemnest of fashions was the burial done. When it was over, the two knights and Sir Aymeris turned them heartily to dighting the war against the Red Hold, and less than a month thereafter was the hosting at the Castle of the Quest, and if the host were not very many (for it went not above sixteen hundreds of men all told), yet the men were of the choicest, both of knights and sergeants and archers. There then they held a mote without the castle, whereas Arthur the Black Squire was chosen for captain, and in three days they were to depart for the Red Hold.
+Now this while Birdalone had seen but little of Arthur, who was ever busy about many matters, and never had she had any privy talk with him, though sore she longed for it; yet indeed it was more by her will than his that so it was. But when it was come to the very last day before the departure, she said that she must needs see him before he went, and he perchance never to come back again. So when men were quiet after dinner she went into the hall and found him there, pacing up and down the floor. For indeed she had sent a word to him by Leonard the priest that he should be there.
+So she went up to him, and all simply she took him by the hand and led him into a shot-window and set him down by her; and he, all trembling for love and fear of her, might not forbear, but kissed her face and her mouth many times; and she grew as hot as fire, and somewhat she wept.
+Then she spake after a while: Dear friend, I had it in my mind to say to thee many things that meseems were sage, but now neither will the thought of them come into my mind, nor the words into my mouth. And this is a short hour. And therewith she fell to kissing him, till he was well-nigh beside himself betwixt desire and joy and the grief of departure, and the hardness of the case.
+But at last she forbore and said: Will it not be when thou art gone tomorrow as it was when ye were away upon the Quest, and I knew not how to bear myself, so heavy lay all the world and its doings and its fashion upon me? It will be hard to me, he said; evil and grim will be the days. She said: And yet, even now in these last days, when I see thee oft, every day my soul is worn with grief, and I know not what to do with myself.
+
+===Chinese===
+
+没过几天，博杜安的遗体便安葬在城堡的礼拜堂里；葬礼以最庄重的方式举行。葬礼过后，两位骑士和艾默里斯爵士（Sir Aymeris）便一心一意筹备对红寨的战事；不出一个月，大军便在探求城堡集结。这支队伍人数虽不算多（总共不过一千六百人），却个个是精锐，无论骑士、军士还是弓箭手。他们在城外开了一次大会，会上黑衣侍从亚瑟被推选为统帅，三天后便要开赴红寨。
+这段日子里，鸟独很少见到亚瑟，他总是忙于诸多事务；她也从未与他单独交谈过，尽管她渴望极了；而事实上，这更多是她自己的意愿，而非他的。但到了开拔前的最后一天，她说务必在他走之前见他一面——他这一去，也许永远回不来了。于是，午饭后众人安静下来时，她走进大厅，见他正在地板上来回踱步。原来她已托伦纳德（Leonard）神父捎了话，让他届时在那里。
+她走上前去，坦然地牵起他的手，把他领到一扇凸窗前，让他在自己身旁坐下；他因对她的爱与畏惧而浑身颤抖，禁不住吻了她的脸和唇许多次；她浑身火烫，微微哭泣起来。
+过了一会儿她说道：亲爱的朋友，我本想对你说许多话，自以为都很明智，可此刻那些念头既进不了我的心，那些话也到不了我的嘴边。而时光这样短促。说着她又频频吻他，弄得他几乎神魂颠倒，夹在欲望与欢喜、离别的悲伤与处境的艰难之间。
+但终于她停了下来，说道：明天你走后，会不会又像你们出征探求那时一样，我不知如何自处，整个世界及其事务、其模样都沉沉压在我身上？那对我将是难熬的，他说；那些日子会又阴暗又残酷。她说：然而即便是现在这些最后的日子，我常常见到你，我的灵魂还是天天被忧伤磨损，我不知道拿自己如何是好。
+
+===Original===
+
+I shall come back, he said, and bear my love with me, and then belike we shall seek some remedy. She was silent a while, and then she said: Meanwhile of thy coming, and I see thee not at all for many days, how will it be with my grief then? Quoth he: More than enough of grief no soul may bear; for either death comes, or else some dullness of the pain, and then by little and little the pain weareth. Then she said: And how would it be if thou come not back and I see thee never again, or if when thou come back thou find me not, for that I be either dead or gone away out of thy reach? He said: I know not how it would be. When thou sayest thou shalt die, dost thou wholly believe it in thy sense or thy body otherwise than Holy Church would? I will tell thee, she said, that now I am sitting by thee and seeing thy face and hearing thy voice, it is that only which I believe in; for I may think of nought else of either grief or joy. Yea, when I wept e’en now, it was not for sorrow that I wept, but for I cannot rightly tell what. And she took his hand and looked fondly upon him.
+But presently she looked on his hand, and said: And now meseemeth that we twain are grown to be such close friends that I may ask thee what I will, and thou be neither angry, nor wonder thereat. I see on thy finger here the ring that I brought with me from the Isle of Increase, and which thereafter thou hadst of me when I gave thee back also the shoon which were lent unto me. Tell me how thou hadst it back from Atra, as I suppose thou gavest it unto her. But how now art thou angry? for I see the blood come up in thy face. Nay, beloved, said he, I am not angry, but whenso I hear of Atra, or think of her closely, shame comes on me and confusion, and maybe fear. But now will I answer thee. For even in those hours which we wore on the Isle of the Young and the Old, when all we should have been so happy together, she divined somewhat of my case, or indeed, why do I not say it out, all thereof. And she spake to me such words (for she is both tender and wise and strong of heart) that I cowered before her and her grief and pain; and she gave me back the said ring, which forsooth I gave to her in the Sending Boat in the first hour that the Isle of Increase lay astern of us. And I wear it now as a token of my grief for her grief.
+
+===Chinese===
+
+我会回来的，他说，带着我的爱一同回来，到那时我们或许能找到什么补救的办法。她沉默了一会儿，然后说：可在你回来之前，许多天见不到你，我的悲伤又会怎样呢？他说：再多的悲伤，灵魂也承受得有限；要么是死亡降临，要么是疼痛变钝，然后痛苦便一点一点磨薄了。她又说：倘若你不回来了，我再也见不到你，那会怎样？或者你回来了，却找不到我，因为我已死去，或已走出了你所能触及的地方，那又会怎样？他说：我不知道会怎样。你说你会死的时候，你可真在心思或身体里相信它，与神圣教会所教导的不同么？我告诉你吧，她说，此刻我坐在你身旁，看着你的脸，听着你的声音，我所相信的唯有这个；因为无论悲伤还是欢喜，其余一切我都无法去想。是啊（Yea），方才我哭泣，也并非为悲伤而哭，而是为——我说不清是为了什么。她握住他的手，深情地望着他。
+但不久她看着他的手，说道：如今我觉得咱俩已成了这么亲近的朋友，我想问什么便可以问什么，你既不会动怒，也不会惊讶。我看见你手指上戴着的，正是我从不期而获之岛带来的那枚戒指，后来我归还借我的鞋时，它便到了你手里。告诉我，你是怎样又从阿特拉那里拿回它的——我想你准是把它送给了她。咦，你怎么恼了？我看见你脸上充血了。不（Nay），亲爱的，他说，我没有恼；只是每当听到阿特拉的名字，或细细想起她，我便感到羞愧、慌乱，也许还有恐惧。不过我现在就回答你。早在我们同在青春与老朽之岛的那段时光——那时我们本该一起过得那么快活——她便猜到了我的心事几分，或者说，为什么我不直说呢——猜到了全部。她对我说了那样一些话（因为她既温柔，又聪慧，内心又坚强），我在她和她的悲伤痛苦面前低下了头；她把那枚戒指还给了我——确实（Forsooth），那是不期而获之岛在我们船尾消失后的头一个时辰，我在遣行舟上送给她的。如今我戴着它，作为我为她的悲伤而悲伤的信物。
+
+===Original===
+
+See now, love, since I have answered thee this question without anger or amaze, thou needest not fear to ask me any other; for this of all things lies closest to my heart.
+Birdalone drooped her head, and she spake in a low voice: Lo now! the shadow of parting and the shadow of death could not come between our present joy; but this shadow of the third one cometh between us and is present between us. Woe’s me! how little did I think of this when thou wert away and I was sick of longing for the sight of thee, and deemed that that would heal it all.
+He spake not, but took her hand and held it; and presently she looked up again and said: Thou art good, and wilt not be angry if I ask thee something else; this it is: Why wert thou so grim with me that other day when ye found me in that evil plight in tow of the Red Tyrant, so that I deemed that thou of all others hadst cast me off? That was worse to me than the witch’s stripes, and I kept thinking to myself: How simple was my trouble once, and now how tangled and weary!
+Then he might not refrain him, but threw himself upon her, and clipped her and kissed her all he might, and she felt all the sweetness of love, and lacked nought of kindness and love to him. And thereafter they sat still awhile, and he said, as if her question had but that moment left her lips: This, forsooth, was the cause that I looked grim on thee: first, that from the time I first saw thee and heard thy tale, and of thy deeds, I had deemed thee wise above the wisdom of women. But this going forth of thee to the Black Valley, whereof came the slaying of Baudoin, seemed unto me a mere folly, till again I had heard thy tale of that also; and then the tale and thy speech overcame me. But again, though I was grieved and disappointed hereat, belike that had passed from me speedily, but then there was this also which would not let my soul rest, to wit, that I feared concerning that slain knight whose head the Red One had hung about thy neck; for how else, methought, might he have been so wroth with him and thee; and meseemed, moreover, that thou wert kind in thine heart to the dead man, even when we were come to thee; and then, seest thou, my desire for thee and the trouble of Baudoin’s slaying, and the black trouble aforesaid. Lo now, I have told thee this. When wilt thou cease to be angry with me?
+
+===Chinese===
+
+你看，爱人，我既已不恼不惊地回答了你这个问题，你便不必怕问我任何别的问题；因为这件事在一切事情里离我的心最近。
+鸟独垂下头，低声说道：看啊！离别之影与死亡之影都未能介入我们此刻的欢喜；可这第三个人的影子却插到我们中间，就在我们中间。唉！你不在的时候，我渴望见到你渴望得成病，以为见到你便能治愈一切，那时我多么想不到这一层啊。
+他没有说话，只握住她的手握着；不久她又抬起头说：你是善良的，我再问你别的事你也不会恼；是这一件：那天你们发现我落在红色暴君（Red Tyrant）手里、处境那样狼狈时，你为何对我那样冷峻，让我以为所有人当中偏偏是你抛弃了我？那比女巫的鞭子还让我难受，我一直在心里想：我的烦恼曾经多么简单，如今却多么纠缠、多么疲惫！
+于是他再也按捺不住，扑到她身上，尽情地搂抱她、亲吻她；她感到爱情全部的甜蜜，对他的柔情与爱意毫无欠缺。随后两人静坐了一会儿，他开口了，仿佛她的问题刚刚才离她的唇：我对你面色冷峻，原因确实如此：其一，从初次见到你、听到你的经历和你的作为时起，我便认为你具有超出女子智慧的智慧。可你那次前往黑谷之举——博杜安之死正是由它而起——在我看来简直是愚妄，直到后来我又听你亲口讲了那件事，你的讲述和言辞才把我说服。不过，虽然我为此难过、失望，那情绪或许很快便会消散，可还有另一桩事让我的灵魂不得安宁，那就是：我为那被杀的骑士忧心——红寨之主把他的头挂在你颈上；我想，若非别有隐情，他怎会对他和你那样狂怒；而且我甚至觉得，即便在我们到达你身边时，你心里对那死者仍有好感；再加上，你瞧，我对你的渴望，博杜安被杀的祸事，还有方才说的那重黑色的忧烦。你看，我已把这一切告诉了你。你什么时候才肯不再生我的气？
+
+===Original===
+
+She said: I ceased to be grieved with thine anger when thine anger died; yet strange, meseemeth, that thou shouldst trust me so little when thou lovest me so much!
+And she leaned against him and caressed him gently, and again was he at point to take her in his arms, when lo! the sound of men coming unto the screen of the hall; so then those two stood up and went to meet them, and there was the speech of their sundering done. Yet belike for a little while both those twain were happy.
+
+===Chinese===
+
+她说：你的怒气消了，我对它的怨怼也就消了；只是我觉得奇怪，你这样爱我，怎么竟这样少信我！
+她偎着他，温柔地爱抚他；他正要再度把她揽入怀中，看啊！传来人们走向大厅屏风处的脚步声；于是两人起身迎了上去，在那里道别的话说完。不过在短短的一刻里，这两人都还是幸福的。

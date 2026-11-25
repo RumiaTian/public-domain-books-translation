@@ -1,0 +1,16 @@
+===Original===
+
+About eight in the morning I rose and made my way to the front, intending that that should be my last night in this ruined place: for all the night, sleeping and waking, the thing which had happened filled my brain, growing from one depth of incredibility to a deeper, so that at last I arrived at a sort of certainty that it could be nothing but a drunken dream: but as I opened my eyes afresh, the deep-cutting realisation of that impossibility smote like a pang of lightning-stroke through my being: and I said: “I will go again to the far Orient, and forget”: and I started out from the court, not knowing what had become of her during the night, till, having reached the outer chamber, with a wild start I saw her lying there at the door in the very spot where I had flung her, asleep sideways, head on arm﻿ ﻿… Softly, softly, I stepped over her, got out, and went running at a cautious clandestine trot. The morning was in high fête, most fresh and pure, and to breathe was to be young, and to see such a sunlight lighten even upon ruin so vast was to be blithe. After running two hundred yards to one of the great broken bazaar-portals, I looked back to see if I was followed: but all that space was desolately empty. I then walked on past the arch, on which a green oblong, once inscribed, as usual, with some text in gilt hieroglyphs, is still discernible; and, emerging, saw the great panorama of destruction, a few vast standing walls, with hollow Oriental windows framing deep sky beyond, and here and there a pillar, or half-minaret, and down within the walls of the old Seraglio still some leafless, branchless trunks, and in Eyoub and Phanar leafless forests, and on the northern horizon Pera with the steep upper-half of the Iani-Chircha street still there, and on the height the European houses, and all between blackness, stones, a rolling landscape of ravine, like the hilly pack-ice of the North if its snow were ink, and to the right Scutari, black, laid low, with its vast region of tombs, and rare stumps of its forests, and the blithe blue sea, with the widening semicircle of floating debris, looking like brown foul scum at some points, congested before the bridgeless Golden Horn: for I stood pretty high in the centre of Stamboul somewhere in the region of the Suleimanieh, or of Sultan-Selim, as I judged, with immense purviews into abstract distances and mirage.
+
+===Chinese===
+
+早晨八点来钟我起身，朝前院走去，打定主意那该是我在这片废墟的最后一夜：因为一整夜，睡着醒着，发生的那件事都塞满我的脑子，从一层难以置信陷进更深的一层，到最后我几乎确信，那只能是一场醉酒的梦：可待我重新睁开眼，那件不可能之事深切入骨的真实，便像一道闪电的剧痛劈过我的全身：于是我说：“我要再去远东，忘了它”：我走出院子，不知道她夜里怎么样了，直到进了外间，我惊得一个趔趄——她就躺在门口，躺在我昨晚摔下她的那个地方，侧身睡着，头枕着胳膊……我轻轻地，轻轻地，从她身上跨过去，出了门，迈开一种鬼祟的小跑，一路跑着。
+早晨正盛大节日似的欢快，最清新，最纯净，呼吸一下就叫人年轻，眼看这样的阳光连如此浩大的废墟都照亮，不由人不欢畅。跑到两百码外一座残破的大市场门洞，我回头看了看有没有人跟来：那片空间空得荒凉。随后我走过那道拱门，门上一方绿色长匾还依稀可辨，像通常那样，原先题着金色花体字的经文；一走出来，便望见那幅毁灭的大全景：几面兀立的高墙，空空的东方式窗洞里嵌着深远的蓝天；这里一根石柱，那里半座宣礼塔；旧苏丹后宫（塞拉利奥）的宫墙内还立着些无叶无枝的树干，埃于普和芬纳尔是无叶的森林；北面地平线上是佩拉，亚尼-切尔沙街陡峭的上一半还立在那里，高岗上还有欧人的宅子；这中间的一切是黑，是石头，是一片起伏的沟壑之景，像北方的丘状浮冰群，只是它的雪都换成了墨；右边是斯库塔里，黑压压，塌平了，连同它那大片大片的墓园和森林剩下的稀疏残桩；还有欢快的蓝海，漂着半圆的浮碴，越摊越宽，有些地方像褐色的脏沫子，淤塞在没有桥的金角湾前：因为我站得相当高，正在斯坦布尔中心某处——我判断是在苏莱曼尼耶一带，或是苏丹塞利姆寺一带——一眼望进去，是无穷无尽的抽象远方和蜃景。
+
+===Original===
+
+And to me it seemed too vast, too lonesome, and after advancing a few hundred yards beyond the bazaar, I turned again.
+
+===Chinese===
+
+这一切在我看来太浩大，太荒凉了；走出市场几百码之后，我又折了回去。

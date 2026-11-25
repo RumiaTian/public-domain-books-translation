@@ -1,0 +1,134 @@
+## XX / 二十
+===Original===
+
+That inclination or predilection of Westray’s for Anastasia, which he had been able to persuade himself was love, had passed away. His peace of mind was now completely restored, and he discounted the humiliation of refusal, by reflecting that the girl’s affections must have been already engaged at the time of his proposal. He was ready to admit that Lord Blandamer would in any case have been a formidable competitor, but if they had started for the race at the same time he would have been quite prepared to back his own chances. Against his rival’s position and wealth, might surely have been set his own youth, regularity of life, and professional skill; but it was a mere tilting against windmills to try to win a heart that was already another’s. Thus disturbing influences were gradually composed, and he was able to devote an undivided attention to his professional work.
+As the winter evenings set in, he found congenial occupation in an attempt to elucidate the heraldry of the great window at the end of the south transept. He made sketches of the various shields blazoned in it, and with the aid of a county history, and a manual which Dr. Ennefer had lent him, succeeded in tracing most of the alliances represented by the various quarterings. These all related to marriages of the Blandamer family, for Van Linge had filled the window with glass to the order of the third Lord Blandamer, and the sea-green and silver of the nebuly coat was many times repeated, beside figuring in chief at the head of the window. In these studies Westray was glad to have Martin Joliffe’s papers by him. There was in them a mass of information which bore on the subject of the architect’s inquiries, for Martin had taken the published genealogy of the Blandamer family, and elaborated and corrected it by all kinds of investigation as to marriages and collaterals.
+The story of Martin’s delusion, the idea of the doited greybeard whom the boys called “Old Nebuly,” had been so firmly impressed on Westray’s mind, that when he first turned over the papers he expected to find in them little more than the hallucinations of a madman. But by degrees he became aware that however disconnected many of Martin’s notes might appear, they possessed a good deal of interest, and the coherence which results from a particular object being kept more or less continuously in view.
+
+===Chinese===
+
+韦斯特雷对安娜斯塔西娅的那份倾心——他曾说服自己相信那是爱情——已经过去了。他的心境如今完全恢复，他用这样的想法把遭拒的羞辱打了折扣：他求婚的时候，那姑娘的心必早已另有所属。他乐于承认，布兰达默勋爵无论如何都是个可畏的对手；可倘若两人同时起跑，他是满有准备押自己一注的。对手的爵位和家财之外，尽可以摆上他的青春、生活的规律和专业的本领；可是，去争夺一颗早已属于别人的心，不过是同风车格斗。于是纷扰渐渐平定，他得以把全副注意力交给他的本行。
+冬夜渐长，他在一项工作中寻到了合意的事做：考释南耳堂尽头那面大窗的纹章。他把窗上各家盾徽一一描下，靠一部郡志和恩纳弗医生借他的一册手册，把各代姻亲的支徽追考出了大半。这些全同布兰达默家的婚娶有关：范·林厄（Van Linge）奉第三代布兰达默勋爵之命为这窗配满了玻璃，尼布里纹章的海绿与银白在窗上反复出现，又在窗顶正中高踞首席。这一番研读中，有马丁·乔利夫的文件在手，韦斯特雷觉得帮益不小。那里头一大堆材料正切合他的考问，因为马丁拿布兰达默家公开的世系作底子，又用种种关于婚娶和旁支的调查加以补订。
+马丁执念的那个故事——孩子们唤作「老尼布里」的糊涂老头的念头——在韦斯特雷心里印得太深，初翻这些文件时，他料想里头无非一个疯人的呓语。可是渐渐地他看出：马丁的笔记虽多散乱，却自有兴味，也有那一种连贯——一个特定目标或多或少始终在望的连贯。
+
+===Original===
+
+Besides endless genealogies and bits of family history extracted from books, there were recorded all kinds of personal impressions and experiences, which Martin had met with in his journeyings. But in all his researches and expeditions he professed to have but one object﻿—the discovery of his father’s name; though what record he hoped to find, or where or how he hoped to find it, whether in document or register or inscription, was nowhere set out.
+It was evident that the old fancy that he was the rightful owner of Fording, which had been suggested to him in his Oxford days, had taken such hold of his mind that no subsequent experience had been able to dislodge it. Of half his parentage there was no doubt. His mother was that Sophia Flannery who had married Yeoman Joliffe, had painted the famous picture of the flowers and caterpillar, and done many other things less reputable; but over his father hung a veil of obscurity which Martin had tried all his life to lift. Westray had heard those early stories from Clerk Janaway a dozen times, how that when Yeoman Joliffe took Sophia to church she brought him a four-year-old son by a former marriage. By a former *marriage* Martin had always stoutly maintained, as in duty bound, for any other theory would have dishonoured himself. With his mother’s honour he had little concern, for where was the use of defending the memory of a mother who had made shipwreck of her own reputation with soldiers and horse-copers? It was this previous marriage that Martin had tried so hard to establish, tried all the harder because other folk had wagged their heads and said there was no marriage to discover, that Sophia was neither wife nor widow.
+Towards the end of his notes it seemed as if he had found some clue﻿—had found some clue, or thought that he had found it. In this game of hunt the slipper he had imagined that he was growing “hotter” and “hotter” till death balked him at the finish. Westray recollected Mr. Sharnall saying more than once that Martin had been on the brink of solving the riddle when the end overtook him. And Sharnall, too, had he not almost grasped the Will-of-the-wisp when fate tripped *him* on that windy night? Many thoughts came to Westray’s mind as he turned these papers, many memories of others who had turned them before him.
+
+===Chinese===
+
+除开从书里摘出的无穷无尽的谱系和家族掌故，这里还录着各样见闻和经历，都是马丁游历时收来的。可在他全部的查考和远行里，他声言只有一个目标——查明他父亲的名字；至于他指望寻到什么记录，在哪里、怎样寻到，是文书、簿册还是刻铭，却处处没有一个交代。
+显然，牛津时代种下的那个幻觉——他是福丁的正主——在他心里扎得这样深，后来的一切阅历都拔它不动。他一半的血统没有疑问：他母亲就是嫁给自耕农乔利夫的索菲娅·弗拉纳里，就是画那幅有名的花与毛虫的人，也做过许多别的不大光彩的事；可他父亲头上悬着一幅暗幕，马丁一辈子都在设法揭它。这些早年的故事韦斯特雷从司事贾纳韦那里听过十几遍：自耕农乔利夫带索菲娅上教堂时，她带来一个四岁的儿子，是前夫所生。*前夫*——马丁始终咬定是前夫，势所必然地咬定，因为别的说法辱没的是他自己。他母亲的体面他倒不很措意：一位同大兵马贩子一道毁了自己名节的母亲，替她的亡灵辩护又有什么用？他千辛万苦要证实的正是这桩先前的婚姻；越有人说根本没有婚姻可寻、说索菲娅非妻非寡，他寻得越苦。
+笔记将近末尾，他仿佛寻到了什么线索——寻到了，或自以为寻到了。在这场「寻拖鞋」的游戏里，他想象自己愈摸愈「热」，直到死亡在终点处截住了他。韦斯特雷想起沙纳尔先生不止一次说过：马丁正当要解开谜的时候，结局追上了他。而沙纳尔自己呢，命运在那个刮风的夜里绊倒*他*的时候，他岂不也几乎抓住了那团鬼火？韦斯特雷翻着这些纸，许多念头涌上心头，也想起在他之前翻过这些纸的别人。
+
+===Original===
+
+He thought of clever, worthless Martin, who had wasted his days on their writing, who had neglected home and family for their sake; he thought of the little organist who had held them in his feverish hands, who had hoped by some dramatic discovery to illumine the dark setting of his own life. And as Westray read, the interest grew with him too, till it absorbed the heraldry of the Blandamer window from which the whole matter had started. He began to comprehend the vision that had possessed Martin, that had so stirred the organist’s feelings; he began to think that it was reserved for himself to make the long-sought discovery, and that he had in his own hand the clue to the strangest of romances.
+One evening as he sat by the fire, with a plan in his hands and a litter of Martin’s papers lying on a table at his side, there was a tap at the door, and Miss Joliffe entered. They were still close friends in spite of his leaving Bellevue Lodge. However sorry she had been at the time to lose her lodger, she recognised that the course he had taken was correct, and, indeed, obligatory. She was glad that he had seen his duty in this matter; it would have been quite impossible for any man of ordinary human feelings, to continue to live on in the same house under such circumstances. To have made a bid for Anstice’s hand, and to have been refused, was a blow that moved her deepest pity, and she endeavoured in many ways to show her consideration for the victim. Providence had no doubt overruled everything for the best in ordaining that Anstice should refuse Mr. Westray, but Miss Joliffe had favoured his suit, and had been sorry at the time that it was not successful. So there existed between them that curious sympathy, which generally exists between a rejected lover and a woman who has done her best to further his proposal. They had since met not unfrequently, and the year which had elapsed had sufficiently blunted the edge of Westray’s disappointment, to enable him to talk of the matter with equanimity. He took a sad pleasure in discussing with Miss Joliffe the motives which might have conduced to so inexplicable a refusal, and in considering whether his offer would have been accepted if it had been made a little sooner or in another manner.
+
+===Chinese===
+
+他想起聪明而无行的马丁，把日子全耗在这些纸上，为了它们荒了家园；想起那瘦小的管风琴师，曾用滚烫的双手捧着它们，指望靠一个戏剧性的发现照亮自己晦暗的人生。韦斯特雷读着读着，兴味也在他心里生长，直到把布兰达默窗的纹章——这整桩事的起点——都吞没了。他开始懂得攫住马丁的那个幻象，懂得它怎样搅动了管风琴师的感情；他开始想：那久寻不得的发现，或许正留给他自己来做；那桩最离奇的罗曼司的线索，此刻正握在他手里。
+一天晚上，他坐在炉边，手里拿着图纸，身边桌上摊着一堆马丁的文件，有人叩门，乔利夫小姐进来了。他虽然搬出了美景小筑，两人仍是至交。当年失掉这位房客她无论怎样难过，也承认他走的这一步是对的，简直是义不容辞。她高兴他在这件事上认清了本分：换了任何一个有常人感情的男人，那样的处境之下也万万没法再住下去。向安斯蒂丝求婚而遭拒，是叫她动了最深怜悯的一击；她多方体贴这位伤者。上天安排安斯蒂丝回绝韦斯特雷先生，无疑一切都归于至善；可乔利夫小姐原是赞助这门亲事的，当时也不免惋惜它不成。于是两人之间存着那样一种古怪的同情——遭拒的恋人和一位曾竭力成全他求婚的妇人之间常有的那种。此后两人也不时见面；过了一年，韦斯特雷失意的锋芒已钝得足以叫他就此事从容谈笑了。他带着一点凄凉的乐趣，同乔利夫小姐讨论究竟什么动机促成了这样无从解释的回绝，又琢磨倘若他提得早一点、或换个方式，那求婚是否就会被接受。
+
+===Original===
+
+Nor was the subject in any way distasteful to her, for she felt a reflected glory in the fact of her niece having first refused a thoroughly eligible proposal, and having afterwards accepted one transcendently better.
+“Forgive me, sir﻿—forgive me, Mr. Westray,” she corrected herself, remembering that their relation was no longer one of landlady and lodger. “I am sorry to intrude on you so late, but it is difficult to find you in during the day. There is a matter that has been weighing lately on my mind. You have never taken away the picture of the flowers, which you and dear Mr. Sharnall purchased of me. I have not hurried in the matter, feeling I should like to see you nicely settled in before it was moved, but now it is time all was set right, so I have brought it over tonight.”
+If her dress was no longer threadbare, it was still of the neatest black, and if she had taken to wearing every day the moss-agate brooch which had formerly been reserved for Sundays, she was still the very same old sweet-tempered, spontaneous, Miss Joliffe as in time past. Westray looked at her with something like affection.
+“Sit down,” he said, offering her a chair; “did you say you had brought the picture with you?” and he scanned her as if he expected to see it produced from her pocket.
+“Yes,” she said; “my maid is bringing it upstairs”﻿—and there was just a suspicion of hesitation on the word “maid,” that showed that she was still unaccustomed to the luxury of being waited on.
+It was with great difficulty that she had been persuaded to accept such an allowance at Anastasia’s hands, as would enable her to live on at Bellevue Lodge and keep a single servant; and if it brought her infinite relief to find that Lord Blandamer had paid all Martin’s bills within a week of his engagement, such generosity filled her at the same time with a multitude of scruples. Lord Blandamer had wished her to live with them at Fording, but he was far too considerate and appreciative of the situation to insist on this proposal when he saw that such a change would be uncongenial to her. So she remained at Cullerne, and spent her time in receiving with dignity visits from the innumerable friends that she found she now possessed, and in the fullest enjoyment of church services, meetings, parish work, and other privileges.
+
+===Chinese===
+
+这个题目她也决不嫌腻：她的侄女先回绝了一门十足合格的亲事，随后又接受了一门好到无以复加的——这份荣光，她觉得也照在自己身上。
+「恕我，先生——恕我，韦斯特雷先生，」她改口说，想起两人的关系已不再是房东太太和房客。「这么晚来搅扰，真对不起；白天实在难得找到您在家。有一桩事，近来一直压在我心上。那幅花的画，您和亲爱的沙纳尔先生从我手里买下的那幅，您一直没有取走。这事我没有催，想着总要瞧您安顿妥帖了再搬；可如今该有个了结了，所以我今晚把它带来了。」
+她的衣裳虽不再露线，却仍是顶素净的黑；那枚从前专留给星期天的苔纹玛瑙胸针，如今虽日日戴着，人也还是从前那位温厚、天真的乔利夫小姐。韦斯特雷望着她，目光里带着近乎亲爱。
+「请坐，」他递过椅子说；「您说把画也带来了？」他打量她，仿佛盼着她从衣袋里把画掏出来。
+「是，」她说；「我的女仆正搬上楼来」——说到「女仆」两个字时略略一顿，透出她对这份使唤人的阔气还不大惯。
+当初劝她收下安娜斯塔西娅名下的一笔津贴、好让她留居美景小筑雇一个佣人，就费了大劲；而发现布兰达默勋爵在订婚一星期内付清了马丁的全部账单，这慷慨固然叫她如释重负，同时又叫她生出千般不安。布兰达默勋爵原要她随他们同住福丁；可他太能体谅、太明白大局，见这一变动于她不宜，便不再坚持。于是她留在卡勒恩，把光阴用来体面地接见她发现自己如今拥有的那无数朋友，用来充分享受礼拜、聚会、教区事务，和别种种福分。
+
+===Original===
+
+“It is very good of you, Miss Joliffe,” Westray said; “it is very kind of you to think of the picture. But,” he went on, with a too vivid recollection of the painting, “I know how much you have always prized it, and I could not bear to take it away from Bellevue Lodge. You see, Mr. Sharnall, who was part owner with me, is dead; I am only making you a present of half of it, so you must accept that from me as a little token of gratitude for all the kindness you have shown me. You *have* been very kind to me, you know,” he said with a sigh, which was meant to recall Miss Joliffe’s friendliness, and his own grief, in the affair of the proposal.
+Miss Joliffe was quick to take the cue, and her voice was full of sympathy. “Dear Mr. Westray, you know how glad I should have been if all could have happened as you wished. Yet we should try to recognise the ordering of Providence in these things, and bear sorrow with meekness. But about the picture, you must let me have my own way this once. There may come a time, and that before very long, when I shall be able to buy it back from you just as we arranged, and then I am sure you will let me have it. But for the present it must be with you, and if anything should happen to me I should wish you to keep it altogether.”
+Westray had meant to insist on her retaining the picture; he would not for a second time submit to be haunted with the gaudy flowers and the green caterpillar. But while she spoke, there fell upon him one of those gusty changes of purpose to which he was peculiarly liable. There came into his mind that strange insistence with which Sharnall had begged him at all hazards to retain possession of the picture. It seemed as if there might be some mysterious influence which had brought Miss Joliffe with it just now, and that he might be playing false to his trust with Sharnall if he sent it back again. So he did not remain obdurate, but said: “Well, if you really wish it, I will keep the picture for a time, and whenever you want it you can take it back again.” While he was speaking there was a sound of stumbling on the stairs outside, and a bang as if something heavy had been let drop.
+“It is that stupid girl again,” Miss Joliffe said; “she is always tumbling about. I am sure she has broken more china in the six months she has been with me than was broken before in six years.”
+
+===Chinese===
+
+「您太好了，乔利夫小姐，」韦斯特雷说；「还惦记着这幅画，真叫人感念。不过，」他接着说，脑子里那幅画的模样太鲜活了，「我知道您一向怎样珍重它，我不忍把它带离美景小筑。您想，同我共有的沙纳尔先生已经不在了；我只能把我那一半送还给您——就算我一点小小心意，谢您待我的一切好处。您待我*实在*好，您知道的，」他叹一口气说，那叹息有意唤起乔利夫小姐对求婚一事的旧谊，和他自己的旧创。
+乔利夫小姐立刻接住了话头，嗓音里满是同情。「亲爱的韦斯特雷先生，您知道，倘若一切能如你所愿，我该多么高兴。可这样的事，咱们总得认天意，柔顺地担当忧伤。只是这画，您这回务必依我一回。说不定用不着多久，就有那么一天，我能照咱们原先的约定把它从您手里买回来；那时您总会还我的。可眼下它必须在您那里；倘若我有个三长两短，我愿意它干脆就归您。」
+韦斯特雷原打算坚持叫她留下画；他再不想同那俗艳的花和绿毛虫纠缠第二回。可她说着说着，他心里又起了那种阵风似的变卦，他偏偏最易犯这个。他想起沙纳尔那回怎样苦苦地、异样地恳求他务必把画留在手边。仿佛冥冥中有一种什么力量，此刻正把乔利夫小姐连画一齐送来；倘若他再把画送回去，倒像负了沙纳尔的托付。于是他没有再执拗，只说：「好吧，既是您真愿意，我就替您收些时日；您什么时候要，随时取回去就是。」正说着，外头楼梯上一声踉跄，又砰的一响，像什么重物落了地。
+「又是那个蠢丫头，」乔利夫小姐说；「一天到晚跌跌撞撞。她跟我六个月打碎的碗盏，我敢说比先前六年打碎的还多。」
+
+===Original===
+
+They went to the door, and as Westray opened it great red-faced and smiling Anne Janaway walked in, bearing the glorious picture of the flowers and caterpillar.
+“What have you been doing now?” her mistress asked sharply.
+“Very sorry, mum,” said the maid, mingling some indignation with her apology, “this here gurt paint tripped I up. I’m sure I hope I haven’t hurt un”﻿—and she planted the picture on the floor against the table.
+Miss Joliffe scanned the picture with an eye which was trained to detect the very flakiest chip on a saucer, the very faintest scratch upon a teapot.
+“Dear me, dear me!” she said, “the beautiful frame is ruined; the bottom piece is broken almost clean off.”
+“Oh, come,” Westray said in a pacifying tone, while he lifted the picture and laid it flat on the table, “things are not so bad as all that.”
+He saw that the piece which formed the bottom of the frame was indeed detached at both corners and ready to fall away, but he pushed it back into position with his hand till it stuck in its place, and left little damage apparent to a casual observer.
+“See,” he said, “it looks nearly all right. A little glue will quite repair the mischief tomorrow. I am sure I wonder how your servant managed to get it up here at all﻿—it is such a weight and size.”
+As a matter of fact, Miss Joliffe herself had helped Ann to carry the picture as far as the Grands Mulets of the last landing. The final ascent she thought could be accomplished in safety by the girl alone, while it would have been derogatory to her new position of an independent lady to appear before Westray carrying the picture herself.
+“Do not vex yourself,” Westray begged; “look, there is a nail in the wall here under the ceiling which will do capitally for hanging it till I can find a better place; the old cord is just the right length.” He climbed on a chair and adjusted the picture, standing back as if to admire it, till Miss Joliffe’s complacency was fairly restored.
+Westray was busied that night long after Miss Joliffe had left him, and the hands of the loud-ticking clock on the mantelpiece showed that midnight was near before he had finished his work. Then he sat a little while before the dying fire, thinking much of Mr. Sharnall, whom the picture had recalled to his mind, until the blackening embers warned him that it was time to go to bed.
+
+===Chinese===
+
+两人走向门口；韦斯特雷一开门，红光满面、笑嘻嘻的大个子安妮·贾纳韦（Anne Janaway）走了进来，抱着那幅辉煌的花与毛虫。
+「你又干什么了？」她的女主人厉声问。
+「对不起，太太，」女仆一面赔罪一面憋着气，「这张大画绊了我一跤。但愿没磕坏它」——她把画往桌边一靠，支在了地板上。
+乔利夫小姐用一双练得能瞧出碟上最细一星崩瓷、壶上最淡一道划痕的眼睛检视那画。
+「哎呀，哎呀！」她说，「这漂亮的框子毁了；底下那条几乎整个断下来了。」
+「哦，不至于，」韦斯特雷用安抚的口吻说，一面把画抬起平放桌上，「没有坏到那个地步。」
+他见构成框底的那条木片果然两头脱了榫，眼看要掉，便用手把它推回原位，卡住了；在漫不经心的人眼里，损伤几乎看不出来。
+「瞧，」他说，「差不多没事了。明天一点胶水就把伤治好了。我真奇怪您的女仆一个人怎么拿得上楼——这么沉、这么大的一件。」
+其实乔利夫小姐自己一直帮安妮把画抬到最后一段楼梯的「大冰营」（Grands Mulets）；最后一段冲刺，她想姑娘独自一人尽可保无虞，而她这独立门户的女主人身份，若亲自抱着画出现在韦斯特雷面前，未免跌份。
+「别着急，」韦斯特雷央告说；「瞧，天花板底下这儿正好有颗钉子，先挂它再合适不过，等我寻着更好的地方；旧绳子的长短正合适。」他登上椅子把画挂好，又退后两步装作欣赏，直到乔利夫小姐的得意完全恢复。
+那晚乔利夫小姐走后，韦斯特雷还忙了很久；壁炉上那只嘀嗒很响的钟指着快半夜，他才收工。随后他在将熄的炉火前坐了一会儿，想念沙纳尔先生——这幅画把他带回心头——直到发黑的余烬提醒他该睡了。
+
+===Original===
+
+He was rising from his chair, when he heard behind him a noise as of something falling, and looking round, saw that the bottom of the picture-frame, which he had temporarily pushed into position, had broken away again of its own weight, and was fallen on the floor. The frame was handsomely wrought with a peculiar interlacing fillet, as he had noticed many times before. It was curious that so poor a picture should have obtained a rich setting, and sometimes he thought that Sophia Flannery must have bought the frame at a sale, and had afterwards daubed the flower-piece to fill it.
+The room had grown suddenly cold with the chill which dogs the heels of a dying fire on an early winter’s night. An icy breath blew in under the door, and made something flutter that lay on the floor close to the broken frame. Westray stooped to pick it up, and found that he had in his hand a piece of folded paper.
+He felt a curious reluctance in handling it. Those fantastic scruples to which he was so often a prey assailed him. He asked himself had he any right to examine this piece of paper? It might be a letter; he did not know whence it had come, nor whose it was, and he certainly did not wish to be guilty of opening someone else’s letter. He even went so far as to put it solemnly on the table, like a skipper on whose deck the phantom whaleboat of the *Flying Dutchman* has deposited a packet of mails. After a few minutes, however, he appreciated the absurdity of the situation, and with an effort unfolded the mysterious missive.
+It was a long narrow piece of paper, yellowed with years, and lined with the creases of a generation; and had on it both printed and written characters. He recognised it instantly for a certificate of marriage﻿—those “marriage lines” on which so often hang both the law and the prophets. There it was with all the little pigeonholes duly filled in, and set forth how that on “March 15, 1800, at the Church of Saint Medard Within, one Horatio Sebastian Fynes, bachelor, aged twenty-one, son of Horatio Sebastian Fynes, gentleman, was married to one Sophia Flannery, spinster, aged twenty-one, daughter of James Flannery, merchant,” with witnesses duly attesting. And underneath an ill-formed straggling hand had added a superscription in ink that was now brown and wasted: “Martin born January 2, 1801, at ten minutes past twelve, night.”
+
+===Chinese===
+
+他正要起身，听见背后啪嗒一响，回头一看，那暂时推回原位的画框底条，又因自重脱落，掉在了地板上。这框子用一种交缠的窄饰条精工镶成，他从前就留意过许多回。一幅这样寒碜的画竟得了这样阔气的装裱，说来奇怪；有时他想，必是索菲娅·弗拉纳里在大减价上买来这框子，后来才涂抹那幅花卉凑它的框。
+屋子骤然冷了下来——初冬之夜，紧随将熄炉火的那股寒气。一股冰冷的风从门底下吹进来，吹得摊在破框近旁地板上的什么东西窸窣一动。韦斯特雷俯身去拾，手里已是一张折起的纸。
+他捏着它，心里起了一种古怪的不情愿。他常作那许多奇想的顾忌的俘虏，此刻它们又围拢来。他问自己：他有什么权利查看这张纸？它也许是一封信；他不知道它从哪里来、是谁的，他也决不想担私拆别人信件的罪名。他甚至郑重其事把它放到桌上，像「飞翔的荷兰人」（*Flying Dutchman*）的鬼船把一包邮件放在船长甲板上那样。不过几分钟他就觉出了这局面的可笑，一使劲，展开了这封神秘的信。
+那是一张狭长的纸，经年发黄，折痕里嵌着一辈子的皱；上面印的字、写的字都有。他一眼认出：这是一纸婚姻证书——那上面往往系着律法和先知的「结婚文书」。一格一格的小空栏都已填得停停当当：1800年3月15日，于圣梅达堂（城内），霍雷肖·塞巴斯蒂安·法因斯，单身汉，二十一岁，父霍雷肖·塞巴斯蒂安·法因斯，绅士，娶索菲娅·弗拉纳里，闺女，二十一岁，父詹姆斯·弗拉纳里，商人；证人签押齐全。底下另有一笔拙劣涣散的字，用如今已褐色斑驳的墨水添了一行题记：「马丁生，1801年1月2日，夜里十二点过十分。」
+
+===Original===
+
+He laid it on the table and folded it out flat, and knew that he had under his eyes that certificate of the first marriage (of the only true marriage) of Martin’s mother, which Martin had longed all his life to see, and had not seen; that patent of legitimacy which Martin thought he had within his grasp when death overtook him, that clue which Sharnall thought that he had within his grasp when death overtook him also.
+On March 15, 1800, Sophia Flannery was married by special licence to Horatio Sebastian Fynes, gentleman, and on January 2, 1801, at ten minutes past twelve, night, Martin was born. Horatio Sebastian﻿—the names were familiar enough to Westray. Who was this Horatio Sebastian Fynes, son of Horatio Sebastian Fynes, gentleman? It was only a formal question that he asked himself, for he knew the answer very well. This document that he had before him might be no legal proof, but not all the lawyers in Christendom could change his conviction, his intuition, that the “gentleman” Sophia Flannery had married was none other than the octogenarian Lord Blandamer deceased three years ago. There was to his eyes an air of authenticity about that yellowed strip of paper that nothing could upset, and the date of Martin’s birth given in the straggling hand at the bottom coincided exactly with his own information. He sat down again in the cold with his elbows on the table and his head between his hands while he took in some of the corollaries of the position. If the old Lord Blandamer had married Sophia Flannery on March 15, 1800, then his second marriage was no marriage at all, for Sophia was living long after that, and there had been no divorce. But if his second marriage was no marriage, then his son, Lord Blandamer, who was drowned in Cullerne Bay, had been illegitimate, and his grandson, Lord Blandamer, who now sat on the throne of Fording, was illegitimate too. And Martin’s dream had been true. Selfish, thriftless, idle Martin, whom the boys called “Old Nebuly,” had not been mad after all, but had been Lord Blandamer.
+It all hung on this strip of paper, this bolt fallen from the blue, this message that had come from no one knew where. Whence *had* it come? Could Miss Joliffe have dropped it?
+
+===Chinese===
+
+他把它放平在桌上摊开，知道自己眼前这一纸，正是马丁母亲初婚（唯一的真婚）的证书——马丁渴慕了一生、终未见到的那一纸；那件马丁自以为唾手而得却被死亡截住的身分凭证；那条沙纳尔自以为唾手而得、也被死亡截住的线索。
+1800年3月15日，索菲娅·弗拉纳里凭特许证书嫁了霍雷肖·塞巴斯蒂安·法因斯，绅士；1801年1月2日夜里十二点过十分，马丁出生。霍雷肖·塞巴斯蒂安——这几个名字韦斯特雷太熟悉了。这位霍雷肖·塞巴斯蒂安·法因斯，绅士霍雷肖·塞巴斯蒂安·法因斯之子，究竟是谁？他这样自问，不过是照例一问，答案他早知道了。眼前这文书也许算不得法律上的铁证；可哪怕把基督教世界的律师全请来，也改不了他的确信、他的直觉：索菲娅·弗拉纳里嫁的那位「绅士」，不是别人，正是三年前去世的那位八十开外的布兰达默勋爵。在他眼里，那张发黄的纸条自有一种任什么也推翻不了的真确气；末尾那行涣散字迹所记的马丁生辰，同他手头的资料恰好吻合。他重新在冷屋里坐下，肘支着桌，头埋在两手间，掂量这局面的几重推论。倘若老布兰达默勋爵确在1800年3月15日娶了索菲娅·弗拉纳里，那么他的第二次婚姻根本不成其为婚姻：索菲娅此后还活了许多年，其间并无离异。可若第二次婚姻不成其为婚姻，那么溺死在卡勒恩湾的儿子布兰达默勋爵便是私生，如今坐在福丁宝座上的孙子布兰达默勋爵也是私生。马丁的梦竟是真的。自私、挥霍、游手的马丁，孩子们唤作「老尼布里」的马丁，原来根本没有疯——他本是布兰达默勋爵。
+一切都悬在这一条纸上，这枚晴天里落下的霹雳，这封不知从何处来的信。它究竟从哪里来？会不会是乔利夫小姐失落的？
+
+===Original===
+
+No, that was impossible; she would certainly have told him if she had any information of this kind, for she knew that he had been trying for months to unravel the tangle of Martin’s papers. It must have been hidden behind the picture, and have fallen out when the bottom piece of the frame fell.
+He went to the picture. There was the vase of flaunting, ill-drawn flowers, there was the green caterpillar wriggling on the tabletop, but at the bottom was something that he had never seen before. A long narrow margin of another painting was now visible where the frame was broken away; it seemed as if the flower-piece had been painted over some other subject, as if Sophia Flannery had not even been at the pains to take the canvas out, and had only carried her daub up to the edge of the frame. There was no question that the flowers masked some better painting, some portrait, no doubt, for enough was shown at the bottom to enable him to make out a strip of a brown velvet coat, and even one mother-of-pearl button of a brown velvet waistcoat. He stared at the flowers, he held a candle close to them in the hope of being able to trace some outline, to discover something of what lay behind. But the colour had been laid on with no sparing hand, the veil was impenetrable. Even the green caterpillar seemed to mock him, for as he looked at it closely, he saw that Sophia in her wantonness had put some minute touches of colour, which gave its head two eyes and a grinning mouth.
+He sat down again at the table where the certificate still lay open before him. That entry of Martin’s birth must be in the handwriting of Sophia Flannery, of faithless, irresponsible Sophia Flannery, flaunting as her own flowers, mocking as the face of her own caterpillar.
+There was a dead silence over all, the utter blank silence that falls upon a country town in the early morning hours. Only the loud-ticking clock on the mantelpiece kept telling of time’s passage till the carillon of Saint Sepulchre’s woke the silence with New Sabbath. It was three o’clock, and the room was deadly cold, but that chill was nothing to the chill that was rising to his own heart. He knew it all now, he said to himself﻿—he knew the secret of Anastasia’s marriage, and of Sharnall’s death, and of Martin’s death.
+
+===Chinese===
+
+不，那不可能；她若有这样的东西，必定早告诉他了，因为她知道他为解开马丁文件这团乱麻已查了几个月。它必是藏在画框背後，框底一落，才掉了出来。
+他走到画前。那瓶俗艳而笔致拙劣的花还在，绿毛虫还在桌面上蠕动；可底部现出了一样他从未见过的东西。画框脱落的地方，露出另一幅画狭长的一条边：仿佛那幅花卉是画在别的画上头的，仿佛索菲娅·弗拉纳里连把画布取下来的工夫都不肯花，只把她那涂抹一路涂到框边为止。毫无疑问，花卉底下遮着一幅更好的画——多半是一幅肖像，因为底边露出的一线已够他辨认出棕色丝绒外衣的一条，连丝绒马甲上的一颗珠母纽扣也看得见。他盯着那些花看，又把蜡烛凑近，想追出一点轮廓，探一探后面画的究竟。可那颜色涂得毫不吝惜，帷幕捅不破。连那条绿毛虫也像在嘲弄他：凑近细看，他发现索菲娅存心使坏，点了几笔极细的颜色，给那虫头安上了两只眼睛、一张咧开的嘴。
+他又在桌边坐下，证书还摊在面前。马丁生辰那一笔，必是索菲娅·弗拉纳里的手迹——那个负心、无信的索菲娅·弗拉纳里，同她自己的花一样招摇，同她自己的毛虫那张脸一样嘲弄人。
+四下死寂，乡间小城凌晨时分降临的那一片全然的空寂。只有壁炉上嘀嗒很响的钟不断报着时间的流逝，直到圣墓教堂的排钟奏起《新安息日》，惊破了寂静。三点钟了，屋里冷得刺骨；可这点冷，同他心里升起的冷相比，又算不得什么。他全知道了，他对自己说——他知道了安娜斯塔西娅那桩婚事的秘密，知道了沙纳尔的死，也知道了马丁的死。

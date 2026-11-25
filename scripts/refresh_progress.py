@@ -39,11 +39,6 @@ EPUB_POOL_DIR = os.path.join(HOME_DL, "1499_books_epub")
 CATALOG_JSON = os.path.join(EPUB_POOL_DIR, "archive_scripts", "catalog.json")
 
 
-def natural_key(name):
-    nums = re.findall(r"\d+", name)
-    return [int(n) for n in nums] if nums else [9999]
-
-
 def load_catalog():
     """加载 1499 本全量图书元数据"""
     catalog_map = {}
@@ -232,7 +227,7 @@ def extract_project_info(name, proj_path, catalog_map):
         except Exception:
             pass
 
-    rows.sort(key=lambda r: natural_key(r.get("file", "")))
+    # 行序即阅读序：保留项目 translation_queue.csv 的原始物理行序，不做任何重排
     done = todo = doing = 0
     tot_kb = done_kb = 0.0
     for r in rows:

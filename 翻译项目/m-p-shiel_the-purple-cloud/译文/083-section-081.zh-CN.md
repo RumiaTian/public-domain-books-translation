@@ -1,0 +1,7 @@
+===Original===
+
+I have said to myself: “I will ravage and riot in my Kingdoms. I will rage like the Caesars, and be a withering blight where I pass like Sennacherib, and wallow in soft delights like Sardanapalus. I will build me a palace, vast as a city, in which to strut and parade my Monarchy before the Heavens, with stones of pure molten gold, and rough frontispiece of diamond, and cupola of amethyst, and pillars of pearl. For there were many men to the eye: but there was One only, really: and I was he. And always I knew it:﻿—some faintest secret whisper which whispered me: ‘*You* are the Arch-one, the motif of the world, Adam, and the rest of men not much.’ And they are gone﻿—all! all!﻿—as no doubt they deserved: and I, as was meet, remain. And there are wines, and opiums, and haschish; and there are oils, and spices, fruits and bivalves, and soft-breathing Cyclades, and scarlet luxurious Orients. I will be restless and turbulent in my territories: and again, I will be languishing and fond. I will say to my soul: ‘Be Full.’ ”
+
+===Chinese===
+
+我曾对自己说：「我要在我的王国里劫掠与纵乐。我要像凯撒们那样发狂，像西拿基立那样所过之处尽成焦土，像萨丹纳帕路斯那样在软玉温香里打滚。我要给自己造一座宫殿，大如一座城，好在诸天面前大摇大摆地炫耀我的君权：用纯熔的黄金砌石，用钻石镶粗犷的门面，用紫晶做穹顶，用珍珠做殿柱。因为世人看去虽有许多人：其实真正的只有一位：那就是我。这一点我一直都知道：——总有极细极密的低语向我低语：『*你*就是那元一，世界的主题，亚当，其余的人算不了什么。』如今他们去了——全去了！全去了！——想必是罪有应得：而我，理所当然，留了下来。这里有美酒，有鸦片，有大麻；这里有香膏，香料，鲜果与贝壳之属，有柔声呼吸的基克拉泽斯群岛，有绯红奢靡的东方诸邦。我要在我的疆土上躁动不宁、掀起风浪：我也要慵懒缠绵、温存旖旎。我要对我的灵魂说：『满足吧。』」

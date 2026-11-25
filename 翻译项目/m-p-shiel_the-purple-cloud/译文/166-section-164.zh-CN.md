@@ -1,0 +1,13 @@
+===Original===
+
+That ever I should write such a thing! I am driven out from Imbros!
+I was walking up in a wood yesterday to the west﻿—it was a calm clear evening about seven, the sun having just set. I had the book in which I have written so far in my hand, for I had thought of making a sketch of an old windmill to the northwest to show her. Twenty minutes before she had been with me, for I had chanced to meet her, and she had come, but kept darting on ahead after peeping fruit, gathering armfuls of amaranth, nenuphar, and red-berried asphodel, till, weary of my life, I had called to her: “Go away! out of my sight”﻿—and she, with suddenly pushed underlip, had walked off.
+Well, I was continuing my stroll, when I seemed to feel some quaking of the ground, and before one could count twenty, it was as if the island was bent upon wracking itself to pieces. My first thought was of her, and in great scare I went running, calling in the direction which she had gone, staggering as on the deck of some labouring ship, falling, picking myself up, running again. The air was quite full of uproar, and the land waving like the sea: and as I went plunging, not knowing whither, I saw to my right some three or four acres of forest droop and sink into a gulf which opened to receive them. Up I flung my arms, crying out: “Good God! save the girl!” and a minute later rushed out, to my surprise, into open space on a hillside. On the lower ground I could see the palace, and beyond it, a small space of white sea which had the awful appearance of being higher than the land. Down the hillside I staggered, driven by the impulse to fly somewhither, but about halfway down was startled afresh by a shrill pattering like musical hail, and the next moment saw the entire palace rush with the jangling clatter of a thousand bells into the heaving lake.
+Some seconds after this, the earthquake, having lasted fully ten minutes, began to lull, and soon ceased. I found her an hour later standing among the ruins of her little yali.
+
+===Chinese===
+
+我竟会写下这样一件事！我从因姆罗兹被赶出来了！
+昨天傍晚七点来钟，我在西边一片林子里往上走——那是个无风晴朗的傍晚，太阳刚刚落山。手里拿着这本我一路写来的册子，因为我想画一张西北面那座老风车的速写给她看。二十分钟前她还同我在一起，我是碰巧遇上她的，她也跟上来了，只是一路窜在前头，一会儿窥探浆果，一会儿抱起大捧的苋花、睡莲和结红果的日光兰，直到我对她厌得要命，喝了一声：「走开！别在我眼前晃」——她嘴唇忽然一撅，走了。
+好，我正继续散步，忽然觉出地面有些震动，还数不到二十，整座岛仿佛打定了主意要把自己摇成碎片。我的头一个念头是她，我大惊之下朝她去的方向奔去，一路喊，走得像在颠簸的甲板上一样踉跄，跌倒，爬起，再跑。空气里满是轰响，大地像海一样起伏：我跌跌撞撞，不知跑向何处，只见右边三四英亩的林子一沉，陷进一道张开等着它们的深渊。我猛地扬起双臂，喊道：「上帝！救救那姑娘！」一分钟后，我竟冲出到了一片山坡的空地上，自己也吃了一惊。低处望得见宫殿，宫殿之外是一小片白色的海，海面高过陆地，那样子怕人。我跌跌撞撞往山下奔，被一阵逃向何方都行的冲动驱赶着，可下到半山，又被一阵尖细的、像音乐冰雹似的噼啪声惊住，紧接着，看见整座宫殿带着千百只铃铛哐啷哐啷的巨响，冲进了翻涌的湖里。
+这之后几秒钟，这场足足持续了十分钟的地震渐渐平息，不久就停了。一个钟头后，我在她那座小雅宅的废墟中间找到了她，她站在那儿。

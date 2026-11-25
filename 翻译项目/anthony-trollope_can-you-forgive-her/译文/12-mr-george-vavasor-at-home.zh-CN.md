@@ -1,0 +1,107 @@
+## XII Mr. George Vavasor at Home / 十二 乔治·瓦瓦索尔在家
+===Original===
+
+It cannot perhaps fairly be said that George Vavasor was an unhospitable man, seeing that it was his custom to entertain his friends occasionally at Greenwich, Richmond, or such places; and he would now and again have a friend to dine with him at his club. But he never gave breakfasts, dinners, or suppers under his own roof. During a short period of his wine-selling career, at which time he had occupied handsome rooms over his place of business in New Burlington Street, he had presided at certain feasts given to customers or expectant customers by the firm; but he had not found this employment to his taste, and had soon relinquished it to one of the other partners. Since that he had lived in lodgings in Cecil Street﻿—down at the bottom of that retired nook, near to the river and away from the Strand. Here he had simply two rooms on the first floor, and hither his friends came to him very rarely. They came very rarely on any account. A stray man might now and then pass an hour with him here; but on such occasions the chances were that the visit had some reference, near or distant, to affairs of business. Eating or drinking there was never any to be found here by the most intimate of his allies. His lodgings were his private retreat, and they were so private that but few of his friends knew where he lived.
+And had it been possible he would have wished that no one should have known his whereabouts. I am not aware that he had any special reason for this peculiarity, or that there was anything about his mode of life that required hiding; but he was a man who had always lived as though secrecy in certain matters might at any time become useful to him. He had a mode of dressing himself when he went out at night that made it almost impossible that anyone should recognise him. The people at his lodgings did not even know that he had relatives, and his nearest relatives hardly knew that he had lodgings. Even Kate had never been at the rooms in Cecil Street, and addressed all her letters to his place of business or his club. He was a man who would bear no inquiry into himself. If he had been out of view for a month, and his friends asked him where he had been, he always answered the question falsely, or left it unanswered.
+
+===Chinese===
+
+也许不能公道地说乔治·瓦瓦索尔是个不好客的人：他惯常在格林尼治、里士满这类地方款待朋友；也偶尔约个朋友在他俱乐部吃饭。可他从不在自家屋顶底下开过早饭、正餐或夜宵。卖酒那一行的短短一段时期——那时他在新伯灵顿街铺面上占着几间漂亮屋子——他主持过商号款待主顾或有望成为主顾的人的几席宴会；可他不觉得那差事合口味，不久就卸给了另一位合伙人。此后他住在塞西尔街的寄宿屋里——在那退僻旮旯的底上，近河，离河滨街远。这里他在二楼只有两间屋，朋友极少到他这里来。他们因无论什么事都极少来。偶尔哪个单身汉会来消磨一个钟头；可那种场合，多半那来访同生意上的事有或近或远的干系。吃食酒水，再亲的伙伴也在这里寻不出一样。他的寄宿屋是他私人的退隐所，私到他的朋友没几个知道他住在哪里。
+倘若办得到，他还巴不得谁也不知道他的下落。我不晓得他这怪癖有什么特别的因由，也不晓得他的生活方式有什么见不得人的；可他这个人，过日子一向像是在某些事上，机密随时可能派上用场。他夜里出门有一种装束，装得几乎叫人认不出他。寄宿屋那家人连他有亲戚都不知道；他顶近的亲戚几乎不知道他有寄宿屋。连凯特也从不曾到过塞西尔街那两间屋，信一概寄到他的铺面或俱乐部。他这个人，容不得谁来查问他。他倘若一个月不露面，朋友问他去了哪里，他不是虚答，就是不答。
+
+===Original===
+
+There are many men of whom everybody knows all about all their belongings;﻿—as to whom everybody knows where they live, whither they go, what is their means, and how they spend it. But there are others of whom no man knows anything, and George Vavasor was such a one. For myself I like the open babbler the best. Babbling may be a weakness, but to my thinking mystery is a vice.
+Vavasor also maintained another little establishment, down in Oxfordshire; but the two establishments did not even know of each other’s existence. There was a third, too, very closely hidden from the world’s eye, which shall be nameless; but of the establishment in Oxfordshire he did sometimes speak, in very humble words, among his friends. When he found himself among hunting men, he would speak of his two nags at Roebury, saying that he had never yet been able to mount a regular hunting stable, and that he supposed he never would; but that there were at Roebury two indifferent beasts of his if anyone chose to buy them. And men very often did buy Vavasor’s horses. When he was on them they always went well and sold themselves readily. And though he thus spoke of two, and perhaps did not keep more during the summer, he always seemed to have horses enough when he was down in the country. No one even knew George Vavasor not to hunt because he was short of stuff. And here, at Roebury, he kept a trusty servant, an ancient groom with two little bushy grey eyes which looked as though they could see through a stable door. Many were the long whisperings which George and Bat Smithers carried on at the stable door, in the very back depth of the yard attached to the hunting inn at Roebury. Bat regarded his master as a man wholly devoted to horses, but often wondered why he was not more regular in his sojournings in Oxfordshire. Of any other portion of his master’s life Bat knew nothing. Bat could give the address of his master’s club in London, but he could give no other address.
+But though Vavasor’s private lodgings were so very private, he had, nevertheless, taken some trouble in adorning them. The furniture in the sitting-room was very neat, and the bookshelves were filled with volumes that shone with gilding on their backs. The inkstand, the paperweight, the envelope case on his writing-table were all handsome. He had a single good portrait of a woman’s head hanging on one of his walls.
+
+===Chinese===
+
+有许多人，他们的家当人人都知道个底朝天——住在哪里，去往何处，进项多少，怎样花销，人人皆知。可也有另一种人，谁对他们也一无所知，乔治·瓦瓦索尔便是这样的一个。至于我自己，我喜欢那敞开嘴乱说的。乱说也许是弱点，可在我想来，故作神秘是一种恶德。
+瓦瓦索尔还在牛津郡底下养着另一处小小的门户；那两处门户彼此竟不知道对方的存在。还有第三处，瞞世人的眼瞞得更严，这里不提名字；至于牛津郡那一处，他倒有时在朋友中间拿很谦逊的字眼提起。混在猎狐人中间时，他会说起他在罗伯里的两匹马，说自家从来置不起一爿像样的猎厩，想今生也置不起；可罗伯里有两匹不怎么样的畜生，谁要买谁买。瓦瓦索尔的马，人们当真常常买。他骑着的时候，马总是走得好，卖也好卖。他虽说只提两匹，夏天或许也只养两匹，可他一下乡，马总像是够骑的。谁也不曾见乔治·瓦瓦索尔因缺马料而不出猎。就在这罗伯里，他养着一个可靠的下人——一个老马夫，一双毛茸茸的小灰眼，看去能透过马厩的门看人。乔治同巴特·史密瑟斯在马厩门口——罗伯里猎客客栈院子顶里头——咬耳朵的长谈，不知有过多少场。巴特拿主人当一个一心为马的人，只是常纳闷他何以在牛津郡住得这样不勤。主人生活的其余部分，巴特一无所知。主人伦敦俱乐部的地址巴特说得出，别的地址他说不出。
+可瓦瓦索尔的私人寄宿屋虽这样私密，他却费过一番心思妆点它们。起坐间的家具很精致，书架上排满书脊金光闪闪的册子。书桌上墨水台、镇纸、信封匣，样样漂亮。墙上挂着一幅单幅的好画：一个女人的头。
+
+===Original===
+
+He had a special place adapted for his pistols, others for his foils, and again another for his whips. The room was as pretty a bachelor’s room as you would wish to enter, but you might see, by the position of the single easy-chair that was brought forward, that it was seldom appropriated to the comfort of more than one person. Here he sat lounging over his breakfast, late on a Sunday morning in September, when all the world was out of town. He was reading a letter which had just been brought down to him from his club. Though the writer of it was his sister Kate, she had not been privileged to address it to his private lodgings. He read it very quickly, running rapidly over its contents, and then threw it aside from him as though it were of no moment, keeping, however, an enclosure in his hand. And yet the letter was of much moment, and made him think deeply. “If I did it at all,” said he, “it would be more with the object of cutting him out than with any other.”
+The reader will hardly require to be told that the him in question was John Grey, and that Kate’s letter was one instigating her brother to renew his love affair with Alice. And Vavasor was in truth well inclined to renew it, and would have begun the renewing it at once, had he not doubted his power with his cousin. Indeed it has been seen that he had already attempted some commencement of such renewal at Basle. He had told Kate more than once that Alice’s fortune was not much, and that her beauty was past its prime; and he would no doubt repeat the same objections to his sister with some pretence of disinclination. It was not his custom to show his hand to the players at any game that he played. But he was, in truth, very anxious to obtain from Alice a second promise of her hand. How soon after that he might marry her, would be another question.
+Perhaps it was not Alice’s beauty that he coveted, nor yet her money exclusively. Nevertheless he thought her very beautiful, and was fully aware that her money would be of great service to him. But I believe that he was true in that word that he spoke to himself, and that his chief attraction was the delight which he would have in robbing Mr. Grey of his wife. Alice had once been his love, had clung to his side, had whispered love to him, and he had enough of the weakness of humanity in him to feel the soreness arising from her affection for another.
+
+===Chinese===
+
+他有一个专放手枪的位置，另几处放花剑，还有一处放马鞭。这房间是一间你再乐意进不过的漂亮单身房间；可你看那唯一一把扶手椅摆的位子，就知道它难得供第二个人舒服。九月一个星期日早晨，全伦敦的人都出了城，他还穿着睡袍，懒懒散散靠在扶手椅里吃早饭，读着一封刚从俱乐部送下来的信。写信的虽是他妹妹凯特，也没有特权把信寄到他私人寓所来。他飞快地读，一目十行，随后把信往旁边一掠，仿佛无足轻重，手里却攒住了随信附来的一页。而那信实在非同小可，叫他深深想了。「我若真要干，」他说，「顶要紧的因头也是先把他挤出去，别的都在其次。」
+不用说读者也知道：那个「他」便是约翰·格雷；凯特这封信，是撺撽她哥哥对爱丽丝重续旧情。瓦瓦索尔也实在有意重续，只愁自家对堂妹未必有那么大的力量，不然当场就动手续了。其实我们已经见过：他在巴塞尔就已经试过一回开场了。他不止一次对凯特说，爱丽丝的财产有限，姿色也过了盛时；他无疑还要拿几分假意的勉强，向妹妹重弹这些老调。他打牌，向来不惯把底牌亮给同桌的人。可他实在急切，想从爱丽丝手里再讨一回许婚。至于那以后多快娶她，另是一回事。
+或许他觊觎的不是爱丽丝的美貌，也不单是她的钱。虽然如此，他觉得她很美，也全然明白她的钱于他大有用处。可我相信他自言自语的这句话是实话：顶引他的，是抢走格雷先生的太太那一份快意。爱丽丝从前是他的人，依偲过他身边，同他喁喁说过情话；他人性里的弱点也够叫他觉出，她另有所爱带来的那一分痛。
+
+===Original===
+
+When she broke away from him he had acknowledged that he had been wrong, and when, since her engagement with Mr. Grey, he had congratulated her, he had told her in his quiet, half-whispered, impressive words how right she was; but not the less, therefore, did he feel himself hurt that John Grey should be her lover. And when he had met this man he had spoken well of him to his sister, saying that he was a gentleman, a scholar, and a man of parts; but not the less had he hated him from the first moment of his seeing him. Such hatred under such circumstances was almost pardonable. But George Vavasor, when he hated, was apt to follow up his hatred with injury. He could not violently dislike a man and yet not wish to do him any harm. At present, as he sat lounging in his chair, he thought that he would like to marry his cousin Alice; but he was quite sure that he would like to be the means of putting a stop to the proposed marriage between Alice and John Grey.
+Kate had been very false to her friend, and had sent up to her brother the very letter which Alice had written to her after that meeting in Queen Anne Street which was described in the last chapter﻿—or rather a portion of it, for with the reserve common to women she had kept back the other half. Alice had declared to herself that she would be sure of her cousin’s sympathy, and had written out all her heart on the matter, as was her wont when writing to Kate. “But you must understand,” she wrote, “that all that I said to him went with him for nothing. I had determined to make him know that everything between us must be over, but I failed. I found that I had no words at command, but that he was able to talk to me as though I were a child. He told me that I was sick and full of fantasies, and bade me change the air. As he spoke in this way, I could not help feeling how right he was to use me so; but I felt also that he, in his mighty superiority, could never be a fitting husband for a creature so inferior to him as I am. Though I altogether failed to make him understand that it was so, every moment that we were together made me more fixed in my resolution.”
+This letter from Alice to Kate, Vavasor read over and over again, though Kate’s letter to himself, which was the longer one, he had thrown aside after the first glance. There was nothing that he could learn from that.
+
+===Chinese===
+
+她同他决裂时，他认过错；她同格雷先生订婚以后，他道贺时，也拿他安详的、半低语的恳切字眼告诉过她，她做得怎样对；可这并不稍减他心头的那份伤：做她情人的，竟是约翰·格雷。同这人见面之后，他对妹妹称道过他，说他是绅士、学者、有才具的人；可他从见他第一眼起就恨他。这样的处境下，这样的恨几乎情有可原。可乔治·瓦瓦索尔一恨，惯于把恨跟上一层伤害。他不能痛恨一个人而不想坑他。此刻懒懒坐在椅里，他想的是他愿意娶堂妹爱丽丝；可他更拿得稳：他乐意做那把爱丽丝同约翰·格雷之间拟议中的婚事攪黄的手。
+凯特对她的朋友十分亏心，把爱丽丝在上一章写的安妮女王街那番会面之后写给她的信——寄给了她哥哥——或者说寄了半封，因为凭着女人们惯有的保留，另一半她扣下了。爱丽丝认定堂妹必定同情她，照她写给凯特的惯例，把一腔心事全写了出来。「可你必得明白，」她写道，「我对他说的一切，全当耳边风。我打定主意叫他知道，我们之间的一切必得完结，可我败了。我发觉我没话可使，他却能对我讲话，仿佛我是个孩子。他说我病了、满脑子幻想，叫我换换空气。他这样说着，我不由得觉得他这样待我多么对；可我也觉出，凭他那高高在上的优越，做一个远不如他的造物的丈夫，永远不会相配。我虽全然没能叫他明白这一点，我们在一起的每一刻，都叫我在这决意上更定一分。」
+爱丽丝给凯特的这封信，瓦瓦索尔翻来覆去地读；凯特写给他的那封较长的，他却头一瞥就掠开了。那封信上没有他可学的东西。
+
+===Original===
+
+He was as good a judge of the manner in which he would play his own game as Kate could be; but in this matter he was to learn how he would play his game from a knowledge of the other girl’s mind. “She’ll never marry him, at any rate,” he said to himself, “and she is right. He’d make an upper servant of her; very respectable, no doubt, but still only an upper servant. Now with me;﻿—well, I hardly know what I should make of her. I cannot think of myself as a man married.” Then he threw her letter after Kate’s, and betook himself to his newspaper and his cigar.
+It was two hours after this, and he still wore his dressing-gown, and he was still lounging in his easy-chair, when the waiting-maid at the lodgings brought him up word that a gentleman wished to see him. Vavasor kept no servant of his own except that confidential groom down at Bicester. It was a rule with him that people could be better served and cheaper served by other people’s servants than by their own. Even in the stables at Bicester the innkeeper had to find what assistance was wanted, and charge for it in the bill. And George Vavasor was no Sybarite. He did not deem it impracticable to put on his own trousers without having a man standing at his foot to hold up the leg of the garment. A valet about a man knows a great deal of a man’s ways, and therefore George had no valet.
+“A gentleman!” said he to the girl. “Does the gentleman look like a public-house keeper?”
+“Well, I think he do,” said the girl.
+“Then show him up,” said George.
+And the gentleman was a public-house keeper. Vavasor was pretty sure of his visitor before he desired the servant to give him entrance. It was Mr. Grimes from the Handsome Man public-house and tavern, in the Brompton Road, and he had come by appointment to have a little conversation with Mr. Vavasor on matters political. Mr. Grimes was a man who knew that business was business, and as such had some considerable weight in his own neighbourhood. With him politics was business, as well as beer, and omnibus-horses, and foreign wines;﻿—in the fabrication of which latter article Mr. Grimes was supposed to have an extended experience. To such as him, when intent on business, Mr. Vavasor was not averse to make known the secrets of his lodging-house; and now, when the idle of London world was either at morning church or still in bed, Mr.
+
+===Chinese===
+
+他自己这场牌怎样打，他是同凯特一样的好判官；可这一局，他要从那另一个姑娘的心思里学他的打法。「反正她永不会嫁他，」他自语道，「她是对的。他会把她做成一个上等仆人；无疑很体面，可到底只是个上等仆人。至于我呢——嗯，我会把她做成什么，我也说不上。我想象不出自家是个娶了亲的人。」说罢他把她的信掠到凯特那封后头，自家去弄报纸和雪茄。
+两个钟头以后，他还穿着睡袍，还赖在扶手椅里，寄宿屋的侍女上来传话：有位先生要见他。瓦瓦索尔除了比斯特那位心腹马夫，自家不雇仆人。他有一条定规：人用人家的仆人伺候，比用自家的又好又省。连比斯特的马厩里，要什么帮手也由客栈老板现找，开在账上。何况乔治·瓦瓦索尔不是个享福的阔少。他不认为自家穿裤子非得有个人立在脚边替他提着裤腿不行。贴身仆人对一个人的底细知道得太多，所以乔治不雇贴身仆人。
+「一位先生！」他对那姑娘说。「那位先生像不像开酒馆的？」
+「嗯，我看像，」姑娘说。
+「那就领他上来，」乔治说。
+来的那位先生果然是开酒馆的。瓦瓦索尔叫仆人放他进来之前，早把来人猜了个八九分。是格里姆斯先生，「美男子」酒馆兼客栈的老板，馆子在布朗普顿路，按约前来，同瓦瓦索尔先生谈一点政治。格里姆斯先生是个明白「生意就是生意」的人，因此在自家那片地面上颇有分量。在他，政治同啤酒、公共马车马、洋酒一样是生意；——最后那一项的炮制，据信格里姆斯先生经验丰富。对这样一心做生意的人，瓦瓦索尔先生并不吝于泄露寄宿屋的秘密；如今，趁伦敦的闲人不是上早礼拜、便是还赖在床上的时分，格里姆斯先生已按约前来，找这位新近落选的切尔西各区议员，办一点政治上的生意。
+
+===Original===
+
+Grimes had come out by appointment to do a little political business with the lately-rejected member for the Chelsea Districts.
+Vavasor had been, as I have said, lately rejected, and the new member who had beaten him at the hustings had sat now for one session in parliament. Under his present reign he was destined to the honour of one other session, and then the period of his existing glory﻿—for which he was said to have paid nearly six thousand pounds﻿—would be over. But he might be elected again, perhaps for a full period of six sessions; and it might be hoped that this second election would be conducted on more economical principles. To this, the economical view of the matter, Mr. Grimes was very much opposed, and was now waiting upon George Vavasor in Cecil Street, chiefly with the object of opposing the new member’s wishes on this head. No doubt Mr. Grimes was personally an advocate for the return of Mr. Vavasor, and would do all in his power to prevent the reelection of the young Lord Kilfenora, whose father, the Marquis of Bunratty, had scattered that six thousand pounds among the electors and non-electors of Chelsea; but his main object was that money should be spent. “ ’Tain’t altogether for myself,” he said to a confidential friend in the same way of business; “I don’t get so much on it. Perhaps sometimes not none. May be I’ve a bill agin some of those gents not paid this werry moment. But it’s the game I looks to. If the game dies away, it’ll never be got up again;﻿—never. Who’ll care about elections then? Anybody’d go and get hisself elected if we was to let the game go by!” And so, that the game might not go by, Mr. Grimes was now present in Mr. George Vavasor’s rooms.
+“Well Mr. Grimes,” said George, “how are you this morning? Sit down, Mr. Grimes. If every man were as punctual as you are, the world would go like clockwork; wouldn’t it?”
+“Business is business, Mr. Vavasor,” said the publican, after having made his salute, and having taken his chair with some little show of mock modesty. “That’s my maxim. If I didn’t stick to that, nothing wouldn’t ever stick to me; and nothing doesn’t much as it is. Times is very bad, Mr. Vavasor.”
+“Of course they are. They’re always bad. What was the Devil made for, except that they should be bad? But I should have thought you publicans were the last men who ought to complain.”
+“Lord love you, Mr.
+
+===Chinese===
+
+我方才说过，瓦瓦索尔新近落了选；在选举台上打败他的那位新议员，如今在议会里坐满了一届会期。照眼下的气数，他还命中注定再享一届会期的荣耀，随后他现存的光荣——据说是花了近六千镑买来的——便要完了。可他还可能再当选，兴许一当选便是满满六届；而且可以指望，这第二回选举会用更俭省的原则来办。对这俭省一派的看法，格里姆斯先生极力反对；他此刻上塞西尔街来拜乔治·瓦瓦索尔，主要的目便是要驳回那位新议员在这一头的心愿。无疑，格里姆斯先生本人是瓦瓦索尔先生回任的拥护者，必尽力阻止年轻的基尔芬诺拉勋爵连任——勋爵的父亲邦拉蒂侯爵，把那六千镑撒遍了切尔西的选民和非选民；可他的主旨是：钱总得花出去。「倒不全是为我自家，」他对同行的知己说；「这上头我挣不着几个。有时兴许一个子儿也挣不着。说不定这会儿我手里还有哪位爷没付清的账单呢。可我看重的是这局牌。这局牌要是散了，就再也聚不起来了；——再也起不来了。到那时谁还把选举放在心上？我们若放这局牌过去，随便哪个阿猫阿狗都能去选上！」于是，为叫这局牌不至于过去，格里姆斯先生此刻便坐在乔治·瓦瓦索尔先生的房间里。
+「呃，格里姆斯先生，」乔治说，「你早晨好？坐，格里姆斯先生。人人都像你这样准时，这世界就同钟表一样走了；是不是？」
+「生意就是生意，瓦瓦索尔先生，」酒馆老板行过礼，带着几分假谦虚落了座。「这是我的格言。我要不守住它，什么都守不住我；如今能守住我的也已经不多了。时世坏得很哪，瓦瓦索尔先生。」
+「自然是坏。时世老是坏的。魔鬼造出来，不为叫时世坏，还为什么？可我还当你们开酒馆的，是顶没资格叫苦的人。」
+
+===Original===
+
+Vavasor; why, I suppose of all the men as is put upon, we’re put upon the worst. What’s the good of drawing of beer, if the more you draw the more you don’t make. Yesterday as ever was was Saturday, and we drawed three pound ten and nine. What’ll that come to, Mr. Vavasor, when you reckons it up with the brewer? Why, it’s a next to nothing. You knows that well enough.”
+“Upon my word I don’t. But I know you don’t sell a pint of beer without getting a profit out of it.”
+“Lord love you, Mr. Vavasor. If I hadn’t nothink to look to but beer I couldn’t keep a house over my head; no I couldn’t. That house of mine belongs to Meux’s people; and very good people they are too;﻿—have made a sight of money; haven’t they, Mr. Vavasor? I has to get my beer from them in course. Why not, when it’s their house? But if I sells their stuff as I gets it, there ain’t a halfpenny coming to me out of a gallon. Look at that, now.”
+“But then you don’t sell it as you get it. You stretch it.”
+“That’s in course. I’m not going to tell you a lie, Mr. Vavasor. You know what’s what as well as I do, and a sight better, I expect. There’s a dozen different ways of handling beer, Mr. Vavasor. But what’s the use of that, when they can take four or five pounds a day over the counter for their rotgut stuff at the Cadogan Arms, and I can’t do no better nor yet perhaps so well, for a real honest glass of beer. Stretch it! It’s my belief the more you poison their liquor, the more the people likes it!”
+Mr. Grimes was a stout man, not very tall, with a mottled red face, and large protruding eyes. As regards his own person, Mr. Grimes might have been taken as a fair sample of the English innkeeper, as described for many years past. But in his outer garments he was very unlike that description. He wore a black, swallow-tailed coat, made, however, to set very loose upon his back, a black waistcoat, and black pantaloons. He carried, moreover, in his hands a black chimney-pot hat. Not only have the top-boots and breeches vanished from the costume of innkeepers, but also the long, parti-coloured waistcoat, and the birds’-eye fogle round their necks. They get themselves up to look like Dissenting ministers or undertakers, except that there is still a something about their rosy gills which tells a tale of the spigot and corkscrew.
+Mr.
+
+===Chinese===
+
+「老天爷疼你，瓦瓦索尔先生；唉，我看在一切受气的人里头，我们受气受得顶狠。卖啤酒有个什么好？卖得越多，挣得越不见。昨天是礼拜六，我们卖出去三镑十先令九便士。这同酿酒的怎么算法，瓦瓦索尔先生？剩下来的，几乎就是个零。这个你老人家清楚得很。」
+「天晓得，我不清楚。我只知道你卖一品脱啤酒，就没有不挣头的。」
+「老天爷疼你，瓦瓦索尔先生。我要是只有啤酒一项可指望，房顶也盖不起来了；真的盖不起来。我那爿店是缪克斯家的产业；人家也是顶好的东家——发的财大了去了；是不是，瓦瓦索尔先生？我的啤酒自然得从他们那里进。是他们的房子，为什么不在他们那儿进？可我照原样卖他们的货，一加仑里落不到我半个便士。你瞧这个。」
+「可你不照原样卖。你兑水。」
+「那自然。我不对你撒谎，瓦瓦索尔先生。你懂行，不比我差——我看还强得多。摆弄啤酒的路数有十几样，瓦瓦索尔先生。可那有什么用？卡多根酒馆在柜台那头，拿他们的马尿一天进四五镑，我卖真正老实的啤酒，还赶不上他们——兴许还差一截。兑水！依我看，酒里的毒下得越重，人们越爱喝！」
+格里姆斯先生是个壮实汉子，个子不高，红脸上斑斑点点，一双暴眼。论他这个人，尽可以当作英国酒馆老板的合格标本——同多年来的描写一个样。论外衣，他就全不像那描写了。他穿一件黑燕尾服——做得却极宽大——黑背心、黑长裤，手里还捏一顶黑烟囱帽。酒馆老板装束上的长统靴和马裤不但不见了，连那件长长的杂色背心、脖子上那方鸟眼纹手帕也不见了。他们把自家拾摄得像非国教牧师或殡葬人，只是红喷喷的腮帮子上还有那么一点东西，诉说着酒桶塞和开塞钻的故事。
+
+===Original===
+
+Grimes had only just finished the tale of his own hard ways as a publican, when the doorbell was again rung. “There’s Scruby,” said George Vavasor, “and now we can go to business.”
+
+===Chinese===
+
+格里姆斯先生刚讲完他当酒馆老板的这番苦经，门铃又响了。「斯克鲁比来了，」乔治·瓦瓦索尔说，「这下我们可以谈正事了。」

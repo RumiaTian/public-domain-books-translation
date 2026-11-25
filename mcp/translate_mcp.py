@@ -52,6 +52,7 @@ CHECKER = os.path.join(ROOT, "scripts", "check_bilingual.py")
 LOCK_DIR = os.path.join(os.path.expanduser("~"), ".translate_mcp_locks")  # 跨进程队列锁集中存放，不污染仓库
 _MCP_DIR = os.path.dirname(os.path.abspath(__file__))
 BLOCKLIST_FILE = os.path.join(_MCP_DIR, "拦截清单.txt")   # 1301 内容拦截回避书目（一行一书名，# 注释）
+PARTITION_FILE = os.path.join(_MCP_DIR, "分区覆盖.csv")   # 显式批次分配（项目名,批次；未列出仍走 sorted下标%3+1）
 ACTIVITY_LOG = os.path.join(_MCP_DIR, "活动日志.txt")     # 工具活动足迹：worker 暴毙时供调度会话定位卡住的书
 
 TOTAL_BATCHES = 3        # 红线：与 scan_candidates.py 默认一致，冻结
@@ -343,6 +344,21 @@ def _load_blocklist():
     return out
 
 
+def _load_partition_override():
+    if not os.path.isfile(PARTITION_FILE):
+        return {}
+    out = {}
+    for ln in _read_text(PARTITION_FILE).splitlines():
+        s = ln.strip()
+        if s and not s.startswith("#") and "," in s:
+            name, _, b = s.rpartition(",")
+            try:
+                out[name.strip()] = int(b)
+            except ValueError:
+                pass
+    return out
+
+
 def _log_activity(tool, project, fname=""):
     try:
         with open(ACTIVITY_LOG, "a", encoding="utf-8") as f:
@@ -355,12 +371,13 @@ def tool_batch_begin(batch_id, dry_run=False):
     if batch_id not in (0, 1, 2, 3):
         raise ToolError("batch_id 取值 1/2/3（0=只读全局总览）")
     blocklist = _load_blocklist()
+    part_ovr = _load_partition_override()
     all_dirs = sorted(d for d in os.listdir(PROJ_DIR) if os.path.isdir(os.path.join(PROJ_DIR, d)))
     retry_queue, backfilled, pending_next = [], [], []
     candidates = []
     checked = 0
     for idx, name in enumerate(all_dirs):
-        b = idx % TOTAL_BATCHES + 1
+        b = part_ovr.get(name, idx % TOTAL_BATCHES + 1)
         q = os.path.join(PROJ_DIR, name, "translation_queue.csv")
         if not os.path.isfile(q):
             continue
@@ -507,6 +524,28 @@ def _parse_glossary(path):
     return terms
 
 
+def _queue_prev_chapter(project, fname):
+    """translation_queue.csv 物理行序（=阅读序）中 fname 的上一行文件名。
+    返回 (found, prev)：found=True 表示 fname 在队列中（prev 可为 None=首行）；
+    found=False 表示队列中找不到该文件。"""
+    q = os.path.join(_proj_path(project), "translation_queue.csv")
+    if not os.path.isfile(q):
+        return False, None
+    try:
+        _, rows = _read_queue(project)
+    except ToolError:
+        return False, None
+    prev = None
+    for row in rows[1:]:
+        if not row:
+            continue
+        cur = row[0].strip()
+        if cur == fname:
+            return True, prev
+        prev = cur
+    return False, None
+
+
 def tool_context_pack(project, fname):
     _safe_component(fname)
     _log_activity("context_pack", project, fname)
@@ -556,18 +595,27 @@ def tool_context_pack(project, fname):
         out.append(f"\n【黄金样本节选·{golden}】")
         out.extend(_read_text(os.path.join(zh_dir, golden), 9000).splitlines()[:PACK_GOLDEN_LINES])
 
-    # 前章末尾
+    # 前章末尾：主逻辑按 translation_queue.csv 物理行序（阅读序）定位上一章；
+    # 仅当文件不在队列中时退回字母序兜底（严禁以 原文/ 目录字母序作主逻辑）
     src_dir = os.path.join(pdir, "原文")
-    if os.path.isdir(src_dir):
+    prev = None
+    tail_file = None
+    found, q_prev = _queue_prev_chapter(project, fname)
+    if found:
+        prev = q_prev
+        if prev:
+            prev_zh = _zh_path(project, prev)
+            tail_file = prev_zh if os.path.isfile(prev_zh) else _src_path(project, prev)
+    elif os.path.isdir(src_dir):
         files = sorted(f for f in os.listdir(src_dir) if f.endswith(".md"))
         if fname in files and files.index(fname) > 0:
             prev = files[files.index(fname) - 1]
             prev_zh = _zh_path(project, prev)
             tail_file = prev_zh if os.path.isfile(prev_zh) else os.path.join(src_dir, prev)
-            if os.path.isfile(tail_file):
-                tail = _read_text(tail_file).strip()[-PACK_PREV_TAIL:]
-                out.append(f"\n【前章末尾衔接·{'译文' if os.path.isfile(prev_zh) else '原文'}·{prev}】")
-                out.append(tail)
+    if prev and tail_file and os.path.isfile(tail_file):
+        tail = _read_text(tail_file).strip()[-PACK_PREV_TAIL:]
+        out.append(f"\n【前章末尾衔接·{'译文' if tail_file == _zh_path(project, prev) else '原文'}·{prev}】")
+        out.append(tail)
 
     # 本章标题清单
     heads = [ln.rstrip() for ln in src.splitlines() if _HEADING_RE.match(ln)]

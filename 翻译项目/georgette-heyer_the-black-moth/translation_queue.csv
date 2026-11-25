@@ -1,4 +1,5 @@
 file,size_kb,status
+prologue.md,2.5,todo
 chapter-1.md,24.9,done
 chapter-2.md,21.5,done
 chapter-3.md,23.0,done
@@ -29,4 +30,3 @@ chapter-27.md,13.5,todo
 chapter-28.md,21.2,todo
 chapter-29.md,8.8,todo
 epilogue.md,3.8,todo
-prologue.md,2.5,todo

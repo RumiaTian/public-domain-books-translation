@@ -1,0 +1,23 @@
+===Original===
+
+I watch my mind, as in the old days I would watch a new precipitate in a test-tube, to see into what sediment it would settle.
+I am very averse to trouble of any sort, so that the necessity for the simplest manual operations will rouse me to indignation: but if a thing will contribute largely to my ever-growing voluptuousness, I will undergo a considerable amount of labour to accomplish it, though without steady effort, being liable to side-winds and whims, and purposeless relaxations.
+In the country I became very irritable at the need which confronted me of occasionally cooking some green vegetable﻿—the only item of food which it was necessary to take some trouble over: for all meats, and many fish, some quite delicious, I find already prepared in forms which will remain good probably a century after my death, should I ever die. In Gloucester, however, I found peas, asparagus, olives, and other greens, already prepared to be eaten without base cares: and these, I now see, exist everywhere in stores so vast comparatively to the needs of a single man, that they may be called infinite. Everything, in fact, is infinite compared with my needs. I take my meals, therefore, without more trouble than a man who had to carve his joint, or chicken: though even that little I sometimes find most irksome. There remains the detestable degradation of lighting fires for warmth, which I have occasionally to do: for the fire at the hotel invariably goes out while I sleep. But that is an inconvenience of this vile northern island only, to which I shall soon bid eternal glad farewells.
+During the afternoon of my second day in London, I sought out a strong petrol motor in Holborn, overhauled and oiled it a little, and set off over Blackfriars Bridge, making for Woolwich through that other more putrid London on the south riverside. One after the other, I connected, as I came upon them, two drays, a cab, and a private carriage, to my motor in line behind, having cut away the withered horses, and using the reins, chain-harness, etc., as impromptu couplings. And with this novel train, I rumbled eastward.
+Halfway I happened to look at my old silver chronometer of *Boreal*-days, which I have kept carefully wound﻿—and how I can be still thrown into these sudden frantic agitations by a nothing, a nothing, my good God! I do not know.
+
+===Chinese===
+
+我观察我的心智，就像旧日观察试管里新析出的沉淀，看它究竟会沉成什么样的渣。
+我极其厌恶任何形式的麻烦，以至最简单的手上活计的必要也会激起我的愤懑：可一件事若能大大助长我日益增长的爱欲与逸乐，我便肯下相当的力气去办成它，虽然绝无恒心，动辄受旁风与任性的摆布，动辄无端地懈怠。
+在乡间，面对偶尔得煮一样青菜的必要——这是唯一需要费点事的吃食——我变得十分暴躁：因为一切肉类和许多鱼——有的相当美味——我发现都已备好，做成估计在我死后一百年也不会坏的形态，如果我终有一死的话。不过，在格洛斯特，我找到了豌豆、芦笋、橄榄和其他青菜，也已做成开罐即食、无须卑贱操心的形态；这些，我如今明白，各处存货之多，同一个男人的需要相比，简直可称为无限。事实上，样样东西同我的需要相比都是无限的。于是我用膳所费的麻烦，不过同一个要切一盘烤肉或一只鸡的人相仿：虽然连这点小事，有时我也觉得最难以忍受。剩下的还有生火取暖这可憎的屈辱，这是我偶尔不得不做的：因为旅馆的炉火总在我睡着时熄掉。但这只是这座可恶的北方小岛独有的不便，我不久就要向它道永别，欢天喜地的永别。
+回伦敦的第二天下午，我在霍尔本寻出一辆结实的汽油摩托，略加检修上油，便开过黑衣修士桥，穿过河南岸那另一个更加腐烂的伦敦，直奔伍利奇去。一路撞上什么，我就把什么挂到我摩托后面拖成一列：两辆运货马车、一辆出租马车、一辆私人马车——砍掉干瘪的马，用缰绳、链套等等权充连结。带着这支新颖的车队，我隆隆地向东开去。
+半路上，我偶然看了看我那块「北极号」时代的旧银质天文表——我一直仔细地给它上着弦——而我竟还能被一个「无」，一个「无」，猝然掷进这样的狂乱里，我的好上帝！我自己也不明白。
+
+===Original===
+
+This time it was only the simple fact that the hands chanced to point to 3:10 p.m., the precise moment at which all the clocks of London had stopped﻿—for each town has its thousand weird forefingers, pointing, pointing still, to the moment of doom. In London it was 3:10 on a Sunday afternoon. I first noticed it going up the river on the face of the Big Ben of the Parliament-house, and I now find that they all, all, have this 3:10 mania, timekeepers still, but keepers of the end of Time, fixedly noting forever and ever that one moment. The cloud-mass of fine penetrating scoriae must have instantly stopped their works, and they had fallen silent with man. But in their insistence upon this particular minute I had found something so hideously solemn, yet mock-solemn, personal, and as it were addressed to *me*, that when my own watch dared to point to the same moment, I was thrown into one of those sudden, paroxysmal, panting turmoils of mind, half rage, half horror, which have hardly once visited me since I left the *Boreal*. On the morrow, alas, another awaited me; and again on the second morrow after.
+
+===Chinese===
+
+这回，不过是这样一个简单的事实：表针碰巧指向下午三点十分，正是伦敦所有的钟停摆的那一时刻——因为每座城都有它成千上万根怪异的指针，仍旧指指点点，指着那个末日的时刻。在伦敦，那是某个礼拜天下午的三点十分。我最初是在溯河而上时，从议会大厦的大本钟的钟面上注意到的；如今我发现它们全都、全都害着这「三点十分」的执念，仍是计时者，却只是「时间之终结」的守卫者，永远永远定定地记着那一刻。那细而钻透一切的熔渣云团，必是霎时就停了它们的机括，它们便同人类一齐哑了。可它们对这个特殊时刻的执拗，在我眼中显得那样骇人地肃穆，又是嘲弄地肃穆，那样地针对我个人，仿佛特意呈给我「看」：以致当我自己的表竟敢指向同一时刻，我顿时被掷进那种猝发的、阵挛的、喘息的心神狂乱里，一半狂怒，一半恐怖——自从离开「北极号」，这样的发作几乎不曾来过。谁想第二天，唉，又来了一场；第三天，又是一场。

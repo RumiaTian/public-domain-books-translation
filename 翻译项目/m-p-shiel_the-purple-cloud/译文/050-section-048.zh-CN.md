@@ -1,0 +1,17 @@
+===Original===
+
+After a time I got up, went below in a state of somnambulism, took a packet of pemmican cakes, leapt to land, and went following the railway that runs from the Admiralty Pier. In an enclosed passage ten yards long, with railway masonry on one side, I saw five dead lie, and could not believe that I was in England, for all were dark-skinned people, three gaudily dressed, and two in flowing white robes. It was the same when I turned into a long street, leading northward, for here were a hundred, or more, and never saw I, except in Constantinople, where I once lived eighteen months, so variegated a mixture of races, black, brunette, brown, yellow, white, in all the shades, some emaciated like people dead from hunger, and, overlooking them all, one English boy with a clean Eton collar sitting on a bicycle, supported by a lamppost which his arms clasped, he proving clearly the extraordinary suddenness of the death which had overtaken them all.
+I did not know whither, nor why, I went, nor had I the least idea whether all this was visually seen by me in the world which I had known, or in some other, or was all fantasy of my disembodied spirit﻿—for I had the thought that I, too, might be dead since old ages, and my spirit wandering now through the universe of space, in which there is neither north nor south, nor up nor down, nor measure nor relation, nor aught whatever, save an uneasy consciousness of a dream about bottomlessness. Of grief or pain, I think, I felt nothing; though I have a sort of memory now that some sound, resembling a sob or groan, though it was neither, came at regular clockwork intervals from my bosom during three or four days. Meantime, my brain registered like a tape-machine details the most frivolous, the most ludicrous﻿—the name of a street, Strond Street, Snargate Street; the round fur cap﻿—black fur for the side, white ermine for the top﻿—of a portly Karaite priest on his back, whose robes had been blown to his spread knees, as if lifted and neatly folded there; a violin-bow gripped between the thick, irregular teeth of a little Spaniard with brushed-back hair and mad-looking eyes; odd shoes on the foot of a French girl, one black, one brown.
+
+===Chinese===
+
+过了一阵我起身，梦游似的下到舱里，拿了一包干肉饼，跳上岸，便沿着那条从海军部码头出发的铁路走。在一条十码长的封闭过道里，一侧是铁路的砖石建筑，我看见躺着五个死人，却不能相信自己在英格兰，因为五个全是深肤色的人，三个衣着华丽，两个披着飘拂的白袍。拐进一条向北的长街时也是一样：这里有一百人，或者更多，我除了在君士坦丁堡——我曾在那里住过十八个月——从没见过如此驳杂的种族混合：黑的、深褐的、棕的、黄的、白的，深浅百般，有些人瘦削得像饿死的；而在这一切之上，一个英国男孩，戴着挺括的伊顿领，坐在一辆自行车上，靠着一根灯柱，双臂搂着柱子——他清清楚楚地证明：那场落到他们所有人头上的死亡，来得何等突然。
+我不知道自己往哪里去，也不知道为什么去；这一切，究竟是我在我所识得的这个世界里亲眼看见的，还是在别的什么世界里，抑或全是我那脱壳的灵魂的幻境——我连这一点也毫无把握——因为我起过一个念头：说不定我自己早已死了千万年，我的灵魂此刻正在空间的宇宙里游荡，那里没有南，没有北，没有上，没有下，没有度量，没有关系，什么也没有，只有一场关于无底的梦的不安的意识。至于悲伤或痛苦，我想我是毫无所感的；虽然如今我模模糊糊记得，有那么一种声音，像呜咽，又像呻吟，却两样都不是，一连三四天，按着钟点似的间隔，从我胸中发出。与此同时，我的脑子却像一台纸带机，记录下种种最琐碎、最荒唐的细节——街名：斯特龙德街，斯纳盖特街；一个胖大的卡拉派祭司仰面躺着，他那顶圆毛帽——帽身黑毛，帽顶白貂——还有他那被风掀到张开的双膝上的袍子，仿佛被人提起、齐齐整整叠放在那里；一个小个子西班牙人，头发向后梳，眼睛发狂，不甚齐整的厚牙间咬着一支琴弓；一个法国姑娘脚上两只不成对的鞋，一只黑，一只棕。
+
+===Original===
+
+They lay in the street about as numerous as gunners who fall round their carriage, at intervals of five to ten feet, the majority﻿—as was the case also in Norway, and on the ships﻿—in poses of distraction, with spread arms, or wildly distorted limbs, like men who, the instant before death, called upon the rocks and hills to cover them.
+
+===Chinese===
+
+他们躺在街上，密集得如同阵亡在炮架四周的炮手，彼此相隔五到十英尺；大多数人——在挪威、在船上也是一样——摆着仓皇失措的姿势，双臂张开，四肢狂乱地扭曲，像是在断气前的一瞬，呼吁岩石和山冈来遮盖自己的人们。

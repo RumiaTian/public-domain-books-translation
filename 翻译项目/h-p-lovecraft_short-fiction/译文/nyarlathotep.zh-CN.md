@@ -1,0 +1,44 @@
+## Nyarlathotep / 奈亚拉托提普
+===Original===
+
+Nyarlathotep﻿ ﻿… the crawling chaos﻿ ﻿… I am the last﻿ ﻿… I will tell the audient void.﻿ ﻿…
+
+I do not recall distinctly when it began, but it was months ago. The general tension was horrible. To a season of political and social upheaval was added a strange and brooding apprehension of hideous physical danger; a danger widespread and all-embracing, such a danger as may be imagined only in the most terrible phantasms of the night. I recall that the people went about with pale and worried faces, and whispered warnings and prophecies which no one dared consciously repeat or acknowledge to himself that he had heard. A sense of monstrous guilt was upon the land, and out of the abysses between the stars swept chill currents that made men shiver in dark and lonely places. There was a demoniac alteration in the sequence of the seasons﻿—the autumn heat lingered fearsomely, and everyone felt that the world and perhaps the universe had passed from the control of known gods or forces to that of gods or forces which were unknown.
+
+And it was then that Nyarlathotep came out of Egypt. Who he was, none could tell, but he was of the old native blood and looked like a Pharaoh. The fellahin knelt when they saw him, yet could not say why. He said he had risen up out of the blackness of twenty-seven centuries, and that he had heard messages from places not on this planet. Into the lands of civilisation came Nyarlathotep, swarthy, slender, and sinister, always buying strange instruments of glass and metal and combining them into instruments yet stranger. He spoke much of the sciences﻿—of electricity and psychology﻿—and gave exhibitions of power which sent his spectators away speechless, yet which swelled his fame to exceeding magnitude. Men advised one another to see Nyarlathotep, and shuddered. And where Nyarlathotep went, rest vanished; for the small hours were rent with the screams of nightmare. Never before had the screams of nightmare been such a public problem; now the wise men almost wished they could forbid sleep in the small hours, that the shrieks of cities might less horribly disturb the pale, pitying moon as it glimmered on green waters gliding under bridges, and old steeples crumbling against a sickly sky.
+
+===Chinese===
+
+奈亚拉托提普……匍匐的混沌……我是最后一人……我要向侧耳的虚空讲述。……
+
+我记不清它始于何时，但那是几个月前了。普遍的紧张可怕极了。政治与社会动荡的季节之上，又添了一种对狰狞身体危险的阴沉预感；一种广泛而无远弗届的危险，只有在夜里最可怕的幻影中才想象得出。我记得人们走来走去，脸色苍白、愁容满面，低声传递着警告和预言，谁也不敢有意识地复述，也不敢向自己承认听见过。一种巨大的罪愆压在这片土地上，星辰之间的深渊里扫过寒流，叫人在黑暗偏僻处发抖。四季的次序起了魔性的改乱——秋暑可怖地恋着不走，人人都感到，世界、或许还有宇宙，已经从已知的神明或力量的掌握，落入未知的神明或力量的掌握。
+
+正是在那时，奈亚拉托提普从埃及出来了。他是谁，没人说得上，但他流着古老的本土的血，长得像一位法老。费拉们见了他便跪下，却说不出为什么。他说自己从二十七个世纪的黑暗中起来，说他在不在此行星上的地方听到过讯息。奈亚拉托提普来到文明人的土地上，黝黑，瘦削，阴险，总是买些玻璃和金属的奇怪器械，把它们组合成更加奇怪的器械。他大谈科学——电学与心理学——还展览种种神通，看得观众无言而散，又把他的名声胀到超等的巨大。人们互相劝告去看看奈亚拉托提普，劝罢发抖。奈亚拉托提普所到之处，安宁随之而灭；因为凌晨时分被噩梦的尖叫撕开了。从前，噩梦的尖叫从来不曾成为一桩公共问题；如今智者们几乎但愿能禁止凌晨的睡眠，好叫城市的厉嚎少些恐怖地搅扰那苍白的、怜悯的月亮——它微光闪烁在桥下滑行的绿水上，映着病态天空下剥蚀的老尖塔。
+
+===Original===
+
+I remember when Nyarlathotep came to my city﻿—the great, the old, the terrible city of unnumbered crimes. My friend had told me of him, and of the impelling fascination and allurement of his revelations, and I burned with eagerness to explore his uttermost mysteries. My friend said they were horrible and impressive beyond my most fevered imaginings; that what was thrown on a screen in the darkened room prophesied things none but Nyarlathotep dare prophesy, and that in the sputter of his sparks there was taken from men that which had never been taken before yet which showed only in the eyes. And I heard it hinted abroad that those who knew Nyarlathotep looked on sights which others saw not.
+
+It was in the hot autumn that I went through the night with the restless crowds to see Nyarlathotep; through the stifling night and up the endless stairs into the choking room. And shadowed on a screen, I saw hooded forms amidst ruins, and yellow evil faces peering from behind fallen monuments. And I saw the world battling against blackness; against the waves of destruction from ultimate space; whirling, churning; struggling around the dimming, cooling sun. Then the sparks played amazingly around the heads of the spectators, and hair stood up on end whilst shadows more grotesque than I can tell came out and squatted on the heads. And when I, who was colder and more scientific than the rest, mumbled a trembling protest about “imposture” and “static electricity,” Nyarlathotep drave us all out, down the dizzy stairs into the damp, hot, deserted midnight streets. I screamed aloud that I was *not* afraid; that I never could be afraid; and others screamed with me for solace. We sware to one another that the city *was* exactly the same, and still alive; and when the electric lights began to fade we cursed the company over and over again, and laughed at the queer faces we made.
+
+===Chinese===
+
+我记得奈亚拉托提普来到我城的那次——那座伟大的、古老的、犯下无数罪行的可怕城池。我的朋友对我讲过他，讲他启示里那种逼人的魔力和诱惑，我烧灼着渴望，要去探究他最深处的奥秘。我的朋友说，它们骇人而惊人，超出我最狂热的想象；说那暗室里投上银幕的东西，预言着除奈亚拉托提普之外无人敢预言的事；说在他的火花劈啪之间，人们身上被取走了一件从不曾被取走过、而只在眼睛里显露的东西。我还听得四处风传：认识奈亚拉托提普的人，看得见旁人看不见的景象。
+
+便是在那酷热的秋天，我随不安的人流连夜赶去见奈亚拉托提普；穿过窒闷的夜，登上无尽的楼梯，进入那间透不过气的屋子。银幕的影子里，我看见废墟中兜帽幢幢，黄色的邪恶面孔从倾颓的纪念碑后窥视。我看见世界同黑暗搏斗；同来自终极空间的毁灭之浪搏斗；旋转，翻腾，绕着那颗昏暗、冷却下去的太阳挣扎。随后，火花在观众们的头顶惊人地炸开，头发根根倒竖，而比我言语所能形容的更怪诞的影子走出来，蹲踞在他们的头上。当比旁人更冷静、更科学的我，哆嗦着咕哝出一句“骗局”和“静电”的抗议时，奈亚拉托提普把我们全体赶了出去，赶下令人晕眩的楼梯，落进潮湿、闷热、阒无一人的子夜街上。我放声尖叫，说我不怕；说我永远不可能怕；别人也同我一起尖叫，寻求慰藉。我们互相起誓，说这城一点没变，还活着；电灯开始变暗时，我们一遍又一遍咒骂电力公司，又对着自己扮出的怪脸大笑。
+
+===Original===
+
+I believe we felt something coming down from the greenish moon, for when we began to depend on its light we drifted into curious involuntary marching formations and seemed to know our destinations though we dared not think of them. Once we looked at the pavement and found the blocks loose and displaced by grass, with scarce a line of rusted metal to show where the tramways had run. And again we saw a tramcar, lone, windowless, dilapidated, and almost on its side. When we gazed around the horizon, we could not find the third tower by the river, and noticed that the silhouette of the second tower was ragged at the top. Then we split up into narrow columns, each of which seemed drawn in a different direction. One disappeared in a narrow alley to the left, leaving only the echo of a shocking moan. Another filed down a weed-choked subway entrance, howling with a laughter that was mad. My own column was sucked toward the open country, and presently felt a chill which was not of the hot autumn: for as we stalked out on the dark moor, we beheld around us the hellish moon-glitter of evil snows. Trackless, inexplicable snows, swept asunder in one direction only, where lay a gulf all the blacker for its glittering walls. The column seemed very thin indeed as it plodded dreamily into the gulf. I lingered behind, for the black rift in the green-litten snow was frightful, and I thought I had heard the reverberations of a disquieting wail as my companions vanished; but my power to linger was slight. As if beckoned by those who had gone before, I half-floated between the titanic snowdrifts, quivering and afraid, into the sightless vortex of the unimaginable.
+
+===Chinese===
+
+我相信我们都感到有什么从泛绿的月亮上下来，因为当我们开始依赖它的光，便漂进古怪的不由自主的行军队形，仿佛知道各自的目的地，却不敢去想它们。有一回我们看人行道，发现石块松动了，被草挤得错位，锈铁只剩细瘦一线，标着电车轨道的旧辙。又有一回，我们看见一辆电车，孤零零，没有窗，破烂不堪，几乎侧翻着。我们环望天际，找不到河边那第三座塔，还注意到第二座塔的剪影顶部已经残破。随后我们分裂成一支支窄队，各自像是被不同的方向牵引。一支消失在左边一条窄巷里，只留下一声骇人的呻吟的回声。另一支鱼贯走进一个杂草塞满的地铁口，狂笑着，笑声是疯的。我这一队被吸向开阔的乡野，不久便觉出一阵寒意，不是那个炎热秋天的寒：因为当我们悄然走上黑沉沉的荒野，我们看见四下里是一片邪雪的地狱般的月霜。无迹可循、无从解释的雪，只朝一个方向扫开，那里横着一道壑，因两侧雪光的闪亮而愈显漆黑。队伍梦游似的拖进壑中，显得实在单薄。我落在后面，因为绿光映雪里那道黑罅太可怕，而且同伴们消隐时，我仿佛听见一声不安的哀号的回荡；可我流连的力气微薄。像是被先行者们召唤，我半漂浮在巨硕的雪堆之间，颤抖着，害怕着，漂进那不可想象的无目力的旋涡。
+
+===Original===
+
+Screamingly sentient, dumbly delirious, only the gods that were can tell. A sickened, sensitive shadow writhing in hands that are not hands, and whirled blindly past ghastly midnights of rotting creation, corpses of dead worlds with sores that were cities, charnel winds that brush the pallid stars and make them flicker low. Beyond the worlds vague ghosts of monstrous things; half-seen columns of unsanctified temples that rest on nameless rocks beneath space and reach up to dizzy vacua above the spheres of light and darkness. And through this revolving graveyard of the universe the muffled, maddening beating of drums, and thin, monotonous whine of blasphemous flutes from inconceivable, unlighted chambers beyond Time; the detestable pounding and piping whereunto dance slowly, awkwardly and absurdly the gigantic, tenebrous ultimate gods﻿—the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep.
+
+===Chinese===
+
+尖啸地有知，呆哑地谵狂，唯有昔在的诸神能说。一道病态的、敏感的影子，在不是手的手中扭动，被盲目地卷过腐烂创世的一座座可怖的子夜——死去世界的尸身上，疮口便是城市；停尸房的风刷过苍白的星，刷得它们明灭低垂。诸世界之外，庞然之物的模糊鬼影；未受祝圣的殿宇的半见面柱，座落在空间之下无名的岩石上，直伸到光与暗的诸天之上令人晕眩的空虚。而穿过这座宇宙的旋转墓园，传来闷住的、叫人发狂的鼓点，和渎神长笛细弱而单调的呜咽，出自时间之外不可想象的、无光的密室；在那可憎的锤击与吹奏声中，缓慢地、笨拙地、荒唐地舞蹈着的，是巨人族的、幽暗的终极诸神——那些盲的、无声的、无智的怪兽，它们的魂，就是奈亚拉托提普。
