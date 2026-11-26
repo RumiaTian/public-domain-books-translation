@@ -1,0 +1,49 @@
+### XXXVIII / XXXVIII
+===Original===
+
+The painter of the heroic resided a great way off, at the western end of the town. We had some difficulty in obtaining admission to him, a maidservant, who opened the door, eyeing us somewhat suspiciously; it was not until my brother had said that he was a friend of the painter that we were permitted to pass the threshold. At length we were shown into the studio, where we found the painter, with an easel and brush, standing before a huge piece of canvas, on which he had lately commenced painting a heroic picture. The painter might be about thirty-five years old; he had a clever, intelligent countenance, with a sharp grey eye; his hair was dark brown, and cut *à la* Rafael, as I was subsequently told, that is, there was little before and much behind; he did not wear a neckcloth, but, in its stead, a black ribbon, so that his neck, which was rather fine, was somewhat exposed; he had a broad, muscular breast, and I make no doubt that he would have been a very fine figure, but unfortunately his legs and thighs were somewhat short. He recognised my brother, and appeared glad to see him.
+“What brings you to London?” said he.
+Whereupon my brother gave him a brief account of his commission. At the mention of the hundred pounds, I observed the eyes of the painter glisten. “Really,” said he, when my brother had concluded, “it was very kind to think of me. I am not very fond of painting portraits; but a mayor is a mayor, and there is something grand in that idea of the Norman arch.149 I’ll go; moreover, I am just at this moment confoundedly in need of money, and when you knocked at the door, I don’t mind telling you, I thought it was some dun. I don’t know how it is, but in the capital they have no taste for the heroic, they will scarce look at a heroic picture; I am glad to hear that they have better taste in the provinces. I’ll go; when shall we set off?”
+Thereupon it was arranged between the painter and my brother that they should depart the next day but one; they then began to talk of art. “I’ll stick to the heroic,” said the painter; “I now and then dabble in the comic, but what I do gives me no pleasure, the comic is so low; there is nothing like the heroic.
+
+===Chinese===
+
+那位英雄气的画家住得很远，在城西尽头。要进门见他颇费了些周折：开门的女仆拿颇为疑忌的眼光打量我们；直到我兄弟说明自己是画家的朋友，才获准跨过门槛。末了我们被引进画室，见画家正携着画架与画笔，立在一张巨幅画布前——画布上是他新近动笔的一幅英雄气画作。
+画家约莫三十五岁年纪；一副精明聪慧的相貌，灰色眼睛锐利有神；深棕色头发，剪的是拉斐尔式，*à la* Rafael——后来有人告诉我——就是说，前头剪得少，后头留得多；他不系领巾，只代之以一条黑缎带，因此他那相当好看的脖颈便露出一截；胸膛宽阔筋健，我毫不怀疑他本可以是一副极好的身段，只可惜双腿短了些。他认出了我兄弟，见面显得很高兴。
+「什么风把你吹到伦敦来了？」他说。
+于是兄弟把受托的事简要说了一遍。一提到那一百镑，我便看见画家的眼睛亮了一亮。「当真，」兄弟说完后他开口，「承他们想到我，真是厚意。我不大喜欢画肖像；可市长到底是市长，何况那诺曼拱门的点子里自有一股堂皇气。149我去；再说，我此时此刻正他妈的缺钱，你们敲门的时候，不瞒你们说，我还当是讨债的上门。不知怎么的，京城里人对英雄气没有胃口，英雄气的画他们掉头不看；听说外省人鉴赏力好些，我很欣慰。我去；几时动身？」
+于是画家同兄弟讲定后天动身；随后他们谈起艺术来。「我要坚守英雄气，」画家说；「谐趣之作我偶尔也涂几笔，可画起来索然无味，谐趣这路子格调太低；天下再没有比得上英雄气的。
+
+===Original===
+
+I am engaged here on a heroic picture,” said he, pointing to the canvas; “the subject is ‘Pharaoh dismissing Moses from Egypt,’ after the last plague﻿—the death of the firstborn; it is not far advanced﻿—that finished figure is Moses:” they both looked at the canvas, and I, standing behind, took a modest peep. The picture, as the painter said, was not far advanced, the Pharaoh was merely in outline; my eye was, of course, attracted by the finished figure, or rather what the painter had called the finished figure; but, as I gazed upon it, it appeared to me that there was something defective﻿—something unsatisfactory in the figure. I concluded, however, that the painter, notwithstanding what he had said, had omitted to give it the finishing touch. “I intend this to be my best picture,” said the painter; “what I want now is a face for Pharaoh; I have long been meditating on a face for Pharaoh.” Here, chancing to cast his eye upon my countenance, of whom he had scarcely taken any manner of notice, he remained with his mouth open for some time. “Who is this?” said he at last. “Oh, this is my brother, I forgot to introduce him﻿—”
+We presently afterwards departed; my brother talked much about the painter. “He is a noble fellow,” said my brother; “but, like many other noble fellows, has a great many enemies; he is hated by his brethren of the brush﻿—all the land and waterscape painters hate him﻿—but, above all, the race of portrait painters, who are ten times more numerous than the other two sorts, detest him for his heroic tendencies. It will be a kind of triumph to the last, I fear, when they hear he has condescended to paint a portrait; however, that Norman arch will enable him to escape from their malice﻿—that is a capital idea of the watchmaker, that Norman arch.”
+I spent a happy day with my brother. On the morrow he went again to the painter, with whom he dined; I did not go with him. On his return he said: “The painter has been asking a great many questions about you, and expressed a wish that you would sit to him as Pharaoh; he thinks you would make a capital Pharaoh.” “I have no wish to appear on canvas,” said I; “moreover, he can find much better Pharaohs than myself; and, if he wants a real Pharaoh, there is a certain Mr. Petulengro.” “Petulengro?”
+
+===Chinese===
+
+「我手上这幅就是英雄气的画，」他指着画布说；「题材是《法老逐摩西出埃及》，末一场灾殃之后——长子之死；画得还浅——那个画完的人像便是摩西：」两人都看那画布，我立在他们身后，也怯怯地觑了一眼。诚如画家所言，画得还浅，法老只有个轮廓；我的目光自然被那个画完的人像吸去了——或者不如说，被画家称作画完的那个像；可我越看越觉得那像有点毛病——有点叫人不惬意。不过我想，画家虽说那样说了，多半还欠最后一道润笔。「我打算拿这幅做我的压卷之作，」画家说；「如今只缺一张法老的脸；一张法老的脸，我寻思好久了。」正说着，他无意间把眼光落到我脸上——先前他几乎不曾理会过我这个人——登时张着嘴愣了好一阵。「这位是——？」他末了问。「哦，这是我兄弟，我忘记引见了——」
+我们不久便告辞出来；路上兄弟大谈这位画家。「他是条好汉，」我兄弟说；「可同许多好汉一样，仇家众多；他那班执笔的同道恨他——画风景水景的恨透了他——最恨他的还是画像那一族，人数比前两族多出十倍，恨他那一身英雄气。等他们听说他竟屈尊画起像来，我怕后一族要弹冠相庆；不过那道诺曼拱门能叫他从恶意里脱身——钟表匠那个点子真绝，那道诺曼拱门。」
+我同兄弟过了一天快活日子。次日他又去画家那里，同画家用了饭；我没有跟去。他回来时说：「画家问了你许多话，还说巴望你给他当法老的模特；他说你做一个法老保管出色。」「我不想上画布，」我说；「再说，比我像法老的多着呢；他要真法老的话，现成有一位佩图伦格罗先生。」「佩图伦格罗？」
+
+===Original===
+
+said my brother; “a strange kind of fellow came up to me some time ago in our town, and asked me about you; when I inquired his name, he told me Petulengro. No, he will not do, he is too short; by the by, do you not think that figure of Moses is somewhat short?” And then it appeared to me that I had thought the figure of Moses somewhat short, and I told my brother so. “Ah!” said my brother.
+On the morrow my brother departed with the painter for the old town, and there the painter painted the mayor. I did not see the picture for a great many years, when, chancing to be at the old town, I beheld it.
+The original mayor was a mighty, portly man, with a bull’s head, black hair, body like that of a dray horse, and legs and thighs corresponding; a man six foot high at the least. To his bull’s head, black hair and body the painter had done justice; there was one point, however, in which the portrait did not correspond with the original﻿—the legs were disproportionably short, the painter having substituted his own legs for those of the mayor, which when I perceived I rejoiced that I had not consented to be painted as Pharaoh, for, if I had, the chances are that he would have served me in exactly a similar way as he had served Moses and the mayor.
+Short legs in a heroic picture will never do; and, upon the whole, I think the painter’s attempt at the heroic in painting the mayor of the old town a decided failure. If I am now asked whether the picture would have been a heroic one provided the painter had not substituted his own legs for those of the mayor, I must say, I am afraid not. I have no idea of making heroic pictures out of English mayors, even with the assistance of Norman arches; yet I am sure that capital pictures might be made out of English mayors, not issuing from Norman arches, but rather from the door of the “Checquers” or the “Brewers Three.” The painter in question had great comic power, which he scarcely ever cultivated; he would fain be a Rafael, which he never could be, when he might have been something quite as good﻿—another Hogarth; the only comic piece which he ever presented to the world being something little inferior to the best of that illustrious master.
+
+===Chinese===
+
+我兄弟说；「前些日子有个古怪家伙在我们镇上凑上来，向我打听你；我问他名姓，他说叫佩图伦格罗。不行，他不像样，个头太矮；对了，你觉不觉得那个摩西像有点矮？」这么一说，我才醒悟自己方才也觉得那摩西像有点矮，便对兄弟说了。「可不是！」我兄弟说。
+第三天，兄弟随画家动身去了古镇，画家便在那里画市长。隔了许多年我才见到那画——恰巧重游古镇时得见的。
+市长本人是个魁伟富态的人物：一颗牛头，黑发，身躯像匹拉车重挽马，腿脚也与之相称；身高至少六英尺。牛头、黑发和身躯，画家都画得尽职；只是有一点，画像同本人不相符——那双腿短得没了比例，原来画家拿自家的腿替换了市长的腿；我一看出这一层，不由得庆幸自己当初没答应做法老的模特，不然，多半他会照样拿他打发给摩西和市长的那套来打发我。
+英雄气的画里，短腿是万万要不得的；所以总的说来，我以为画家给古镇市长造英雄气的这一尝试，是彻底的失败。倘若如今有人问我：画家若没拿自己的腿替换市长的腿，那画算不算英雄气之作？我只能答：怕还是不算。拿英国市长造英雄气，我是想不出门道的，纵有诺曼拱门帮忙也不成；不过我确信，拿英国市长造上等画作倒尽有门道——不必从诺曼拱门里走出来，不如从「棋盘酒家」或「三家酒坊」的门里走出来。这位画家自有极大的谐谑功力，却几乎从不肯耕耘；他一心想做拉斐尔，那是他万万做不成的，本可以另成一等好手——再出一个霍加斯（Hogarth）；他献给这世界唯一的一件谐谑之作，同那位大宗师最好的手笔相比，相差不过毫厘。
+
+===Original===
+
+I have often thought what a capital picture might have been made by my brother’s friend, if, instead of making the mayor issue out of the Norman arch, he had painted him moving under the sign of the “Checquers,” or the “Three Brewers,” with mace﻿—yes, with mace﻿—the mace appears in the picture issuing out of the Norman arch behind the mayor﻿—but likewise with Snap,150 and with whiffler,151 quart pot, and frying pan, Billy Blind, and Owlenglass,152 Mr. Petulengro and Pakomovna; then, had he clapped his own legs upon the mayor, or anyone else in the concourse, what matter? But I repeat that I have no hope of making heroic pictures out of English mayors, or, indeed, out of English figures in general. England may be a land of heroic hearts, but it is not, properly, a land of heroic figures, or heroic posture-making. Italy﻿—what was I going to say about Italy?
+
+===Chinese===
+
+我时常想：兄弟那位朋友若不叫市长从诺曼拱门里走出来，而画他行进在「棋盘酒家」或「三家酒坊」的招牌底下，手执权杖——对，执权杖——画里那权杖本就是从市长身后的诺曼拱门里递出来的——再带上斯纳普龙，150带上开道吏151、大酒壶和煎锅，比利·布林德同欧伦格拉斯，152佩图伦格罗先生同帕科莫夫娜——那会成一幅何等妙画！到那时，他把自己的腿安在市长身上、或队伍里随便谁的身上，又有何妨？可我再重复一遍：拿英国市长造英雄气，我是全无指望的——当真，拿英国人物造英雄气，大抵也是如此。英格兰或许是一片英雄心的国土，却算不得一片英雄身段的国土，也当不起英雄式的作势。意大利——我方才要说意大利什么来着？
