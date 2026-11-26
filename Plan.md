@@ -11,7 +11,7 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **624** 完 / **13** 译 / **10** 待（共 647 本） | **16863** / 18180 篇（**285989.7** / 305863.1 KB）· **93.5%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段二：翻译执行 (Translation)** | **624** 完 / **13** 译 / **10** 待（共 647 本） | **16878** / 18180 篇（**286163.4** / 305863.1 KB）· **93.6%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
 | **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **172** 本待审 | 覆盖精读 **452** 本（**72.4%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
 | **阶段四：出版打包 (EPUB Packaging)** | **624** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **624** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
@@ -537,7 +537,7 @@
 | 512 | `p-g-wodehouse_the-white-feather` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_the-white-feather/译文) (26篇) | [✅ 已审](翻译项目/p-g-wodehouse_the-white-feather/审核报告.md) | [📦 228KB](翻译项目/p-g-wodehouse_the-white-feather/白羽毛.epub) | A 级（优秀 · 出版级品质） | 全书 26 篇双语架构严密齐整（292 … |
 | 513 | `p-g-wodehouse_ukridge-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_ukridge-stories/译文) (15篇) | ⏳ 待审 | [📦 502KB](翻译项目/p-g-wodehouse_ukridge-stories/Ukridge Stories.epub) | 已译完待审 |
 | 514 | `p-g-wodehouse_uneasy-money` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_uneasy-money/译文) (26篇) | [✅ 已审(B)](翻译项目/p-g-wodehouse_uneasy-money/审核报告.md) | [📦 357KB](翻译项目/p-g-wodehouse_uneasy-money/Uneasy Money.epub) | B 良好 | 全书 26 篇、512 块结构完整，英文对照块逐字零走样、无整… |
-| 515 | `p-t-barnum_the-humbugs-of-the-world` | ✅ 已入库 | [🟡 50.9%](翻译项目/p-t-barnum_the-humbugs-of-the-world/译文) (37/63) | — | — | 翻译中 (done 37/63) |
+| 515 | `p-t-barnum_the-humbugs-of-the-world` | ✅ 已入库 | [🟡 78.6%](翻译项目/p-t-barnum_the-humbugs-of-the-world/译文) (52/63) | — | — | 翻译中 (done 52/63) |
 | 516 | `paul-dukes_red-dusk-and-the-morrow` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-dukes_red-dusk-and-the-morrow/译文) (18篇) | ⏳ 待审 | [📦 458KB](翻译项目/paul-dukes_red-dusk-and-the-morrow/红色黄昏与明天.epub) | 已译完待审 |
 | 517 | `paul-laurence-dunbar_the-sport-of-the-gods` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/译文) (18篇) | [✅ 已审](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/审核报告.md) | [📦 204KB](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/诸神的游戏.epub) | B+（良好偏优，需精准修复特定瑕疵以达出版级 A 等） | 全书译文文学底蕴… |
 | 518 | `paul-laurence-dunbar_the-uncalled` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-laurence-dunbar_the-uncalled/译文) (17篇) | [✅ 已审](翻译项目/paul-laurence-dunbar_the-uncalled/审核报告.md) | [📦 246KB](翻译项目/paul-laurence-dunbar_the-uncalled/未蒙召唤.epub) | A 级（优秀 / 典范级文学翻译） |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **16863/18180 篇 (93.5%)** | **452 本完成** | **624 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **16878/18180 篇 (93.6%)** | **452 本完成** | **624 本完成** | 全流程四阶段闭环 |
 
 ---
 
