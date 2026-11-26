@@ -128,9 +128,6 @@ Said he to her, your long-nose I deplore.”
 
 ===Original===
 
-Screaming with laughter he plunged forward to resume the dance, trod upon one of his trailing, exaggerated sleeves, tripped himself, and went sprawling on the tessellated floor, his laughter louder and more idiotic than ever. A dozen ran to lift him.
-The Princess tapped Bellarion sharply on the arm with her fan of ostrich-plumes. Her face was like graven stone.
-“Come,” she commanded, and passed out ahead of him.
 On the terrace she signed to her ladies to fall behind whilst with her companion she moved beyond earshot along the marble balustrade, whose moonlit pallor was here and there splashed by the black tide of trailing plants.
 “Now, sir,” she invited in a voice of ice, “will you explain this new identity and your presence here?”
 He answered in calm, level tones: “My presence explains itself when I tell you that my identity is accepted by his highness the Regent. The son of Facino Cane is not to be denied the hospitality of the Court of Montferrat.”
@@ -175,3 +172,165 @@ If she resented his words and the tone he took, she gave no expression to it. St
 「您最好先听我讲完再下断语。断语这东西，殿下，我已向您演示过一回：不是您的强项。」
 
 她若怨他的话和他的口气，并没有露出来。她僵直地倚着大理石栏杆立着，目光离开他，望向月色里的园子——墨黑的影子和高高的紫杉篱，衬着微亮的天，是锋利的黑剪影。
+
+===Original===
+
+Briefly, swiftly, lucidly, Bellarion told her how her message had been received by the conspirators.
+“You thought to checkmate them. But they perceived the move you have overlooked, whereby they checkmate you. This proves what already I have told you: that they serve none but themselves. You and your brother are but the instruments with which they go to work. There was only one way to frustrate them; one only way to serve and save you. That way I sought.”
+She interrupted him there. “You sought? You sought?” Her voice held bewilderment, unbelief, and even some anger. “Why should you desire to save or serve me? If I could believe you, I must account you impertinent. You were a messenger, no more.”
+“Was I no more when I disclosed to you the true aims of these men and the perils of your association with them?”
+“Aye, you were more,” she said bitterly. “But what were you?”
+“Your servant, madonna,” he answered simply.
+“Ah, yes. I had forgotten. My servant. Sent by Providence, was it not?”
+“You are bitter, lady,” said Bellarion.
+“Am I?” She turned at last to look at him. But his face was no more than a faint white blur. “Perhaps I find you too sweet to be real.”
+He sighed. “The rest of my tale will hardly change that opinion. Is it worth while continuing?” He spoke without any heat, a little wistfully.
+“It should be entertaining if not convincing.”
+“For your entertainment, then: what you could not do without destroying yourself was easily possible to me.” And he told her of his pretended petition, giving the Regent the names of those who plotted against his life.
+He saw her clutch her breast, caught the gasp of dread and dismay that broke from her lips.
+“You betrayed them!”
+“Was it not what you announced that you would do if they did not abandon their plan of murder? I was your deputy, no more. When I presented myself as Facino Cane’s adopted son I was readily believed﻿—because the Regent cared little whether it were true or not, since in me he perceived the very agent that he needed.”
+
+===Chinese===
+
+贝拉里翁简短、迅疾而清晰地告诉她，那些密谋者是如何接下她的口信的。
+
+「您原以为能将他们一军。可他们看穿了您漏算的那一步，反过来将了您一军。这正印证了我先前的断言：他们效忠的从来只有自己。您和您弟弟不过是他们行事的棋子。要挫败他们，只有一条路；要效劳您、救您，也只有这一条路。我寻的便是这条路。」
+
+她就在这里打断了他。「您寻？您寻？」她嗓音里带着惶惑、难以置信，甚至还有几分恼怒。「您凭什么要救我、为我效劳？若我信了您的话，倒显得您未免太僭越了。您不过是个信使罢了。」
+
+「难道我向您揭露这班人的真实图谋，点明您与他们勾连的凶险时，也不过是个信使？」
+
+「不错，您不止于此，」她苦涩地说，「可您究竟是什么人？」
+
+「您的仆人，夫人。」他只淡淡答道。
+
+「啊，对了。我倒忘了。我的仆人。莫非是天意派来的不成？」
+
+「您未免太尖刻了，贵妇人。」贝拉里翁说。
+
+「是吗？」她终于转过身来瞧他，无奈他的面容在夜色里不过是一团模糊的白影。「兴许是我觉得您甜言蜜语得太不真实了。」
+
+他叹了口气。「我接下来的话，只怕也改不了您的看法。还有必要说下去吗？」他语气平淡，略带一丝怅然。
+
+「纵然不能令人信服，听来总该解闷。」
+
+「那便权当替您解闷吧：您若做了便会自毁的事，我做起来却轻而易举。」于是他将自己假托陈情书、向摄政王密报图谋弑君者名单一事和盘托出。
+
+他看见她一把按住胸口，听见她唇边逸出一声惊惶失措的抽气。
+
+「您出卖了他们！」
+
+「倘若他们不肯放弃行刺之谋，您原先不也扬言要这么做么？我不过是代您行事罢了。当我自称是法奇诺·卡内的义子时，摄政王立时便信了——其实他根本不在乎是真是假，只因他在我身上，正巧看见了他急需的那枚棋子。」
+
+===Original===
+
+“Ah, now at last we have something that does not strain belief.”
+“Will it strain belief that the Regent was already fully informed of this conspiracy?”
+“What!”
+“Why else should he have trusted or believed me? Of his own knowledge he knew that what I told him was true.”
+“He knew and he held his hand?” Again the question was made scornful by unbelief.
+“Because he lacked evidence that you, and, through you, your brother, were parties to the plot. What to him are Barbaresco’s shabby crew? It is the Marquis Gian Giacomo who must be removed in such a manner as not to impair the Lord Regent’s credit. To gather evidence am I now sent.”
+She tore an ostrich-plume from her fan in her momentary passion.
+“You do not hesitate to confess how you betray each in turn; Barbaresco to the Regent; the Regent to me; and now, no doubt, me to the Regent.”
+“As for the last, madonna, to betray you I need not now be here. I could have supplied the Regent with all the evidence he needs against you at the same time that I supplied the evidence against the others.”
+She was silent, turning it over in her mind. And because her mind was acute, she saw the proof his words afforded. But because afraid, she mistrusted proof.
+“It may be part of the trap,” she complained. “If it were not, why should you remain after denouncing my friends? The aims you pretend would have been fully served by that.”
+His answer was prompt and complete.
+“If I had departed, you would never have known the answer of those men whom you trust, nor would you have known that there is a Judas amongst them already. It was necessary to warn you.”
+“Yes,” she said slowly. “I see, I think.” And then in sudden revolt against the conviction he was forcing upon her, and in tones which if low were vehement to the point of fierceness: “Necessary!” she cried, echoing the word he had used. “Necessary! How was it necessary? Whence this necessity of yours? A week ago you did not know me. Yet for me, who am nothing to you, whose service carries no reward, you pretend yourself prepared to labour and to take risks involving even your very life. That is what you ask me to believe. You suppose me mad, I think.”
+
+===Chinese===
+
+「啊，这回总算有几句不教人难信的话了。」
+
+「那若是告诉您，摄政王早已对这场密谋了如指掌，您可还难信？」
+
+「什么！」
+
+「不然他凭什么信任我、相信我？他自己心里明镜似的，知道我所言非虚。」
+
+「他明知却按兵不动？」不信又让她的发问带上了几分讥诮。
+
+「只因他手里还缺证据，证明您——以及通过您牵连进来的您弟弟——也是同谋。巴巴雷斯科那群乌合之众算得了什么？真正非除不可的，是吉安·贾科莫侯爵，而且必须除得神不知鬼不觉，半点不损及摄政王大人的清名。我此番奉命前来，正是为了搜罗这桩证据。」
+
+她一时激愤，竟从折扇上生生扯下一根鸵鸟毛。
+
+「您倒毫不讳言自己是如何挨个儿出卖的：把巴巴雷斯科卖给摄政王，把摄政王卖给我；接下来，想来便是把我卖给摄政王了。」
+
+「至于这最后一桩，夫人，若要出卖您，我此刻大可不必站在这里。我大可在递交那干人等罪证的同时，一并把定您罪名的铁证呈给摄政王。」
+
+她沉默下来，在心里反复掂量。她心思敏锐，自然看得出他话里的凭据；可心怀恐惧，便连凭据也信不过。
+
+「这也可能是圈套的一环，」她怨道，「若不是，您既已告发了我的朋友，何苦还留在这里？您口口声声要达到的目的，岂不是早已达成了？」
+
+他的回答干脆而周全。
+
+「我若就此一走了之，您便永远无从知晓您所信赖的那班人究竟作何答复，更无从知晓他们当中早已出了个犹大。我必须来向您示警。」
+
+「是了，」她缓缓道，「我想，我明白了。」话音刚落，她却忽然抗拒起他硬塞过来的这番令人信服的道理，嗓音虽低，却激切得近乎厉声：「必须！」她高声重复着他的字眼，「必须！怎么就必须了？您这『必须』打哪儿来的？七天前您还不认得我。可为了我这么个与您不相干、也给不了您半点报偿的人，您却自称甘愿奔走效命，甚至赌上自己的性命。您竟要我相信这种鬼话。我看您是当我疯了。」
+
+===Original===
+
+As she faced him now, she fancied that a smile broke upon that face so indistinctly seen. His voice, as he answered her, was very soft.
+“It is not mad to believe in madness. Madness exists, madonna. Set me down as suffering from it. The air of the world is proving too strong and heady, perhaps, for one bred in cloisters. It has intoxicated me, I think.”
+She laughed chillingly. “For once you offer an explanation that goes a little lame. Your invention is failing, sir.”
+“Nay, lady; my understanding,” he answered sadly.
+She set a hand upon his arm. He felt it quivering there, which surprised him almost as much as the change in her voice, now suddenly halting and unsteady.
+“Messer Bellarion, if my suspicions wound you, set them down to my distraction. It is so easy, so dangerously easy, to believe what we desire to believe.”
+“I know,” he said gently. “Yet when you’ve slept on what I’ve said, you’ll find that your safety lies in trusting me.”
+“Safety! Am I concerned with safety only? Tonight you saw my brother﻿ ﻿…”
+“I saw. If that is Messer Castruccio’s work﻿ ﻿…”
+“Castruccio is but a tool. Come, sir. We talk in vain.” She began to move along the terrace towards her waiting ladies. Suddenly she paused. “I must trust you, Ser Bellarion. I must or I shall go mad in this ugly tangle. I’ll take the risk. If you are not true, if you win my trust only to abuse it and work the evil will of the Regent, then God will surely punish you.”
+“I think so, too,” he breathed.
+“Tell me now,” she questioned, “what shall you say to my uncle?”
+“Why, that I have talked with you fruitlessly; that either you have no knowledge of Barbaresco or else you withheld it from me.”
+“Shall you come again?”
+“If you desire it. The way is open now. But what remains to do?”
+“You may discover that.” Thus she conveyed that, having resolved to give him her trust, she gave it without stint.
+They came back into the hall, where stiff and formally Bellarion made his valedictory bow, then went to take his leave of the Regent.
+The Regent disengaged himself from the group of which he was the centre, and, taking Bellarion by the arm, drew him apart a little.
+“I have made a sounding,” Bellarion informed him. “Either she mistrusts me, or else she knows nothing of Barbaresco.”
+“Be sure of the former, sir,” said the Regent softly. “Procure credentials from Barbaresco, and try again. It should be easy, so.”
+
+===Chinese===
+
+此刻她直面着他，隐约觉得那张在暗影中看不真切的脸上似乎浮起了一丝笑意。他答话时，声音放得极轻柔。
+
+「相信世上有疯魔，算不得疯。疯魔本就存在，夫人。只当我得了这病便是。许是这尘世的风气太烈、太醉人，教一个在修院里长大的人招架不住。我想，我是醉了。」
+
+她冷冷地笑了一声。「这一回，您的托词可有些站不住脚。先生，您的巧思快枯竭了。」
+
+「不，贵妇人；枯竭的不是巧思，而是我的领悟力。」他黯然答道。
+
+她将一只手搭上他的手臂。他觉出那只手在微微发颤，这令他大感意外，一如她声音里突如其来的变化——此刻那声音变得断续而不稳。
+
+「贝拉里翁先生，若我的猜疑伤了您，只当是因我心神大乱罢了。人总是太容易、太危险地去相信自己渴望相信的事。」
+
+「我明白，」他温声道，「不过等您今夜睡一觉，再细想我说的话，便会发觉唯有信我，方能保全自身。」
+
+「保全自身！我难道只在乎自己的安危么？今晚您也看见我弟弟了……」
+
+「我看见了。若那是卡斯特鲁乔先生的手笔……」
+
+「卡斯特鲁乔不过是个工具。走吧，先生，我们这番话也是白费唇舌。」她迈步沿着露台向候在一旁的女官们走去，忽然又停住脚步。「我必须信您，贝拉里翁先生。我非信不可，不然在这团丑恶的乱麻里，我非疯了不可。我愿冒这一险。倘若您并非真心，倘若您骗取我的信任只为滥用它、去替摄政王行那恶毒的勾当，那么上帝定会降罚于您。」
+
+「我也这么想。」他低声叹息。
+
+「眼下您告诉我，」她问道，「您打算如何回复我叔叔？」
+
+「自然是说我与您一番交谈毫无所得；您要么对巴巴雷斯科一无所知，要么便是不肯对我吐露半字。」
+
+「您还会再来么？」
+
+「若您愿意，门路如今已然打通。只是，还有什么未尽之事么？」
+
+「您自会察觉的。」她以此示意：既已决意托付信任，便不再有半点保留。
+
+两人回到长厅，贝拉里翁拘谨而合礼地行了个告别礼，随后前去向摄政王辞行。
+
+摄政王从众人簇拥的圈子里脱出身来，挽起贝拉里翁的手臂，将他拉到一旁稍远些的地方。
+
+「我已经试探过了，」贝拉里翁向他禀报，「她要么是不信我，要么是对巴巴雷斯科一无所知。」
+
+「必是前者无疑，先生，」摄政王轻声道，「去向巴巴雷斯科讨封凭信来，再试一回。如此一来，便轻而易举了。」
