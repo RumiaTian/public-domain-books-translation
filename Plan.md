@@ -6,16 +6,16 @@
 
 ---
 
-## 📊 全局四阶段总览（快照：2026-11-25，PR合并自动同步）
+## 📊 全局四阶段总览（快照：2026-11-26，PR合并自动同步）
 
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **621** 完 / **13** 译 / **13** 待（共 647 本） | **16788** / 18180 篇（**284333.8** / 305863.1 KB）· **93.0%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **169** 本待审 | 覆盖精读 **452** 本（**72.8%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **621** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **621** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **622** 完 / **12** 译 / **13** 待（共 647 本） | **16816** / 18180 篇（**284637.1** / 305863.1 KB）· **93.1%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **170** 本待审 | 覆盖精读 **452** 本（**72.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **622** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **622** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **621** 本译完，**452** 本完成独立审校，**621** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **622** 本译完，**452** 本完成独立审校，**622** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -537,7 +537,7 @@
 | 512 | `p-g-wodehouse_the-white-feather` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_the-white-feather/译文) (26篇) | [✅ 已审](翻译项目/p-g-wodehouse_the-white-feather/审核报告.md) | [📦 228KB](翻译项目/p-g-wodehouse_the-white-feather/白羽毛.epub) | A 级（优秀 · 出版级品质） | 全书 26 篇双语架构严密齐整（292 … |
 | 513 | `p-g-wodehouse_ukridge-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_ukridge-stories/译文) (15篇) | ⏳ 待审 | [📦 502KB](翻译项目/p-g-wodehouse_ukridge-stories/Ukridge Stories.epub) | 已译完待审 |
 | 514 | `p-g-wodehouse_uneasy-money` | ✅ 已入库 | [✅ **100%**](翻译项目/p-g-wodehouse_uneasy-money/译文) (26篇) | [✅ 已审(B)](翻译项目/p-g-wodehouse_uneasy-money/审核报告.md) | [📦 357KB](翻译项目/p-g-wodehouse_uneasy-money/Uneasy Money.epub) | B 良好 | 全书 26 篇、512 块结构完整，英文对照块逐字零走样、无整… |
-| 515 | `p-t-barnum_the-humbugs-of-the-world` | ✅ 已入库 | [🟡 9.6%](翻译项目/p-t-barnum_the-humbugs-of-the-world/译文) (12/63) | — | — |  |
+| 515 | `p-t-barnum_the-humbugs-of-the-world` | ✅ 已入库 | [🟡 46.8%](翻译项目/p-t-barnum_the-humbugs-of-the-world/译文) (35/63) | — | — | 翻译中 (done 35/63) |
 | 516 | `paul-dukes_red-dusk-and-the-morrow` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-dukes_red-dusk-and-the-morrow/译文) (18篇) | ⏳ 待审 | [📦 458KB](翻译项目/paul-dukes_red-dusk-and-the-morrow/红色黄昏与明天.epub) | 已译完待审 |
 | 517 | `paul-laurence-dunbar_the-sport-of-the-gods` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/译文) (18篇) | [✅ 已审](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/审核报告.md) | [📦 204KB](翻译项目/paul-laurence-dunbar_the-sport-of-the-gods/诸神的游戏.epub) | B+（良好偏优，需精准修复特定瑕疵以达出版级 A 等） | 全书译文文学底蕴… |
 | 518 | `paul-laurence-dunbar_the-uncalled` | ✅ 已入库 | [✅ **100%**](翻译项目/paul-laurence-dunbar_the-uncalled/译文) (17篇) | [✅ 已审](翻译项目/paul-laurence-dunbar_the-uncalled/审核报告.md) | [📦 246KB](翻译项目/paul-laurence-dunbar_the-uncalled/未蒙召唤.epub) | A 级（优秀 / 典范级文学翻译） |
@@ -558,7 +558,7 @@
 | 533 | `r-d-blackmore_the-maid-of-sker` | ✅ 已入库 | ⚪ 待译 (70篇) | — | — |  |
 | 534 | `r-h-tawney_the-acquisitive-society` | ✅ 已入库 | [✅ **100%**](翻译项目/r-h-tawney_the-acquisitive-society/译文) (12篇) | [✅ 已审(B)](翻译项目/r-h-tawney_the-acquisitive-society/审核报告.md) | [📦 238KB](翻译项目/r-h-tawney_the-acquisitive-society/占有性社会.epub) | B 良好（合格可出版，需针对发现的缺陷执行定向修复） | 全书各章节经分卷 … |
 | 535 | `radclyffe-hall_adams-breed` | ✅ 已入库 | [✅ **100%**](翻译项目/radclyffe-hall_adams-breed/译文) (37篇) | ⏳ 待审 | [📦 619KB](翻译项目/radclyffe-hall_adams-breed/Adam’s Breed.epub) | 已译完待审 |
-| 536 | `rafael-sabatini_bellarion-the-fortunate` | ✅ 已入库 | [🟡 91.2%](翻译项目/rafael-sabatini_bellarion-the-fortunate/译文) (45/50) | — | — | 翻译中 (done 45/50) |
+| 536 | `rafael-sabatini_bellarion-the-fortunate` | ✅ 已入库 | [✅ **100%**](翻译项目/rafael-sabatini_bellarion-the-fortunate/译文) (50篇) | ⏳ 待审 | [📦 778KB](翻译项目/rafael-sabatini_bellarion-the-fortunate/幸运的贝拉里翁.epub) | 已译完待审 |
 | 537 | `rafael-sabatini_captain-blood` | ✅ 已入库 | [✅ **100%**](翻译项目/rafael-sabatini_captain-blood/译文) (31篇) | ⏳ 待审 | [📦 548KB](翻译项目/rafael-sabatini_captain-blood/船长血.epub) | 已译完待审 |
 | 538 | `rafael-sabatini_scaramouche` | ✅ 已入库 | [✅ **100%**](翻译项目/rafael-sabatini_scaramouche/译文) (41篇) | ⏳ 待审 | [📦 631KB](翻译项目/rafael-sabatini_scaramouche/斯卡拉穆恰.epub) | 已译完待审 |
 | 539 | `rafael-sabatini_the-sea-hawk` | ✅ 已入库 | [✅ **100%**](翻译项目/rafael-sabatini_the-sea-hawk/译文) (37篇) | ⏳ 待审 | [📦 576KB](翻译项目/rafael-sabatini_the-sea-hawk/海鹰.epub) | 已译完待审 |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **16788/18180 篇 (93.0%)** | **452 本完成** | **621 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **16816/18180 篇 (93.1%)** | **452 本完成** | **622 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1657,6 +1657,7 @@
 | 新客栈 31 号之谜 | R Austin Freeman | `r-austin-freeman_the-mystery-of-31-new-inn` | 385KB | - | [`新客栈 31 号之谜.epub`](翻译项目/r-austin-freeman_the-mystery-of-31-new-inn/新客栈 31 号之谜.epub) |
 | 占有性社会 | R H Tawney | `r-h-tawney_the-acquisitive-society` | 238KB | - | [`占有性社会.epub`](翻译项目/r-h-tawney_the-acquisitive-society/占有性社会.epub) |
 | radclyffe-hall_adams-breed | Radclyffe Hall | `radclyffe-hall_adams-breed` | 619KB | - | [`Adam’s Breed.epub`](翻译项目/radclyffe-hall_adams-breed/Adam’s Breed.epub) |
+| 幸运的贝拉里翁 | Rafael Sabatini | `rafael-sabatini_bellarion-the-fortunate` | 778KB | - | [`幸运的贝拉里翁.epub`](翻译项目/rafael-sabatini_bellarion-the-fortunate/幸运的贝拉里翁.epub) |
 | 船长血 | Rafael Sabatini | `rafael-sabatini_captain-blood` | 548KB | - | [`船长血.epub`](翻译项目/rafael-sabatini_captain-blood/船长血.epub) |
 | 斯卡拉穆恰 | Rafael Sabatini | `rafael-sabatini_scaramouche` | 631KB | - | [`斯卡拉穆恰.epub`](翻译项目/rafael-sabatini_scaramouche/斯卡拉穆恰.epub) |
 | 海鹰 | Rafael Sabatini | `rafael-sabatini_the-sea-hawk` | 576KB | - | [`海鹰.epub`](翻译项目/rafael-sabatini_the-sea-hawk/海鹰.epub) |
