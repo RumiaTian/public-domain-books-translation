@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **627** 完 / **10** 译 / **10** 待（共 647 本） | **16952** / 18180 篇（**288210.3** / 305863.1 KB）· **94.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **175** 本待审 | 覆盖精读 **452** 本（**72.1%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **627** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **627** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **630** 完 / **7** 译 / **10** 待（共 647 本） | **17014** / 18180 篇（**289668.8** / 305863.1 KB）· **94.7%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **178** 本待审 | 覆盖精读 **452** 本（**71.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **630** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **630** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **627** 本译完，**452** 本完成独立审校，**627** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **630** 本译完，**452** 本完成独立审校，**630** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -181,7 +181,7 @@
 | 156 | `e-w-hornung_a-thief-in-the-night` | ✅ 已入库 | [✅ **100%**](翻译项目/e-w-hornung_a-thief-in-the-night/译文) (10篇) | [✅ 已审](翻译项目/e-w-hornung_a-thief-in-the-night/审核报告.md) | [📦 328KB](翻译项目/e-w-hornung_a-thief-in-the-night/A Thief in the Night.epub) | A | 全书 10 章双语块一一对应，无漏译、无截断、无语义错配、无重大数字… |
 | 157 | `e-w-hornung_the-black-mask` | ✅ 已入库 | [✅ **100%**](翻译项目/e-w-hornung_the-black-mask/译文) (8篇) | [✅ 已审(B)](翻译项目/e-w-hornung_the-black-mask/审核报告.md) | [📦 286KB](翻译项目/e-w-hornung_the-black-mask/The Black Mask.epub) | B 良好 | 全书 8 篇双语块结构完备、章末收束完整、数字核验精准无误，文… |
 | 158 | `earl-derr-biggers_the-house-without-a-key` | ✅ 已入库 | [✅ **100%**](翻译项目/earl-derr-biggers_the-house-without-a-key/译文) (24篇) | [✅ 已审(A)](翻译项目/earl-derr-biggers_the-house-without-a-key/审核报告.md) | [📦 444KB](翻译项目/earl-derr-biggers_the-house-without-a-key/没有钥匙的房子.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
-| 159 | `edgar-allan-poe_short-fiction` | ✅ 已入库 | [🟡 90.1%](翻译项目/edgar-allan-poe_short-fiction/译文) (58/66) | — | — | 翻译中 (done 58/66) |
+| 159 | `edgar-allan-poe_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-allan-poe_short-fiction/译文) (66篇) | ⏳ 待审 | [📦 1489KB](翻译项目/edgar-allan-poe_short-fiction/厄舍府的倒塌.epub) | 已译完待审 |
 | 160 | `edgar-rice-burroughs_at-the-earths-core` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-rice-burroughs_at-the-earths-core/译文) (16篇) | [✅ 已审](翻译项目/edgar-rice-burroughs_at-the-earths-core/审核报告.md) | [📦 235KB](翻译项目/edgar-rice-burroughs_at-the-earths-core/地心历险记.epub) | A 级（优秀 / Excellent） | > 全书 16 篇 219 块双… |
 | 161 | `edgar-rice-burroughs_beyond-thirty` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-rice-burroughs_beyond-thirty/译文) (9篇) | [✅ 已审(B)](翻译项目/edgar-rice-burroughs_beyond-thirty/审核报告.md) | [📦 187KB](翻译项目/edgar-rice-burroughs_beyond-thirty/三十岁之后.epub) | B 良好 | 译文忠实流畅、文笔上佳，术语表执行度高、全书统一，无 A 级问… |
 | 162 | `edgar-rice-burroughs_pirates-of-venus` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-rice-burroughs_pirates-of-venus/译文) (14篇) | [✅ 已审(B)](翻译项目/edgar-rice-burroughs_pirates-of-venus/审核报告.md) | [📦 281KB](翻译项目/edgar-rice-burroughs_pirates-of-venus/金星海盗.epub) | B 良好 | 译笔流畅、画面感强，前半 7 章无错配/漏译/截断等 A 级问… |
@@ -227,7 +227,7 @@
 | 202 | `ella-cheever-thayer_wired-love` | ✅ 已入库 | [✅ **100%**](翻译项目/ella-cheever-thayer_wired-love/译文) (19篇) | [✅ 已审](翻译项目/ella-cheever-thayer_wired-love/审核报告.md) | [📦 267KB](翻译项目/ella-cheever-thayer_wired-love/有线之恋.epub) | A 级（优秀 / Excellent） | > 全书 19 篇 446 个双… |
 | 203 | `ellis-parker-butler_jibby-jones` | ✅ 已入库 | [✅ **100%**](翻译项目/ellis-parker-butler_jibby-jones/译文) (24篇) | [✅ 已审(B)](翻译项目/ellis-parker-butler_jibby-jones/审核报告.md) | [📦 269KB](翻译项目/ellis-parker-butler_jibby-jones/吉比·琼斯.epub) | B 良好 | 全书无漏译、无截断、术语表硬约束全部达标，译文可读性和文学口吻… |
 | 204 | `emile-gaboriau_file-no-113_james-r-osgood-co` | ✅ 已入库 | [✅ **100%**](翻译项目/emile-gaboriau_file-no-113_james-r-osgood-co/译文) (25篇) | ⏳ 待审 | [📦 692KB](翻译项目/emile-gaboriau_file-no-113_james-r-osgood-co/第113号档案.epub) | 已译完待审 |
-| 205 | `emile-gaboriau_monsieur-lecoq_laura-e-kendall` | ✅ 已入库 | [🟡 31.6%](翻译项目/emile-gaboriau_monsieur-lecoq_laura-e-kendall/译文) (30/84) | — | — |  |
+| 205 | `emile-gaboriau_monsieur-lecoq_laura-e-kendall` | ✅ 已入库 | [🟡 55.1%](翻译项目/emile-gaboriau_monsieur-lecoq_laura-e-kendall/译文) (45/84) | — | — | 翻译中 (done 45/84) |
 | 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | [✅ **100%**](翻译项目/emile-gaboriau_the-mystery-of-orcival_holt-williams/译文) (29篇) | ⏳ 待审 | [📦 602KB](翻译项目/emile-gaboriau_the-mystery-of-orcival_holt-williams/奥尔西瓦尔的谜案.epub) | 已译完待审 |
 | 207 | `emile-gaboriau_the-slaves-of-paris_charles-scribners-sons` | ✅ 已入库 | [✅ **100%**](翻译项目/emile-gaboriau_the-slaves-of-paris_charles-scribners-sons/译文) (64篇) | ⏳ 待审 | [📦 933KB](翻译项目/emile-gaboriau_the-slaves-of-paris_charles-scribners-sons/巴黎的奴隶.epub) | 已译完待审 |
 | 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [✅ **100%**](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (36篇) | ⏳ 待审 | [📦 415KB](翻译项目/emma-goldman_my-disillusionment-in-russia/我在俄国的幻灭.epub) | 已译完待审 |
@@ -327,7 +327,7 @@
 | 302 | `h-p-lovecraft_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/h-p-lovecraft_short-fiction/译文) (41篇) | ⏳ 待审 | [📦 1073KB](翻译项目/h-p-lovecraft_short-fiction/洛夫克拉夫特短篇小说集.epub) | 已译完待审 |
 | 303 | `h-rider-haggard_allan-quatermain-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/h-rider-haggard_allan-quatermain-stories/译文) (5篇) | [✅ 已审(B)](翻译项目/h-rider-haggard_allan-quatermain-stories/审核报告.md) | [📦 144KB](翻译项目/h-rider-haggard_allan-quatermain-stories/夸特梅因短篇集.epub) | B 良好 | 全书译文文学功底深厚、语言生动传神、双语块完全一一对应无漏译无… |
 | 304 | `h-rider-haggard_maiwas-revenge` | ✅ 已入库 | [✅ **100%**](翻译项目/h-rider-haggard_maiwas-revenge/译文) (10篇) | [✅ 已审(A)](翻译项目/h-rider-haggard_maiwas-revenge/审核报告.md) | [📦 162KB](翻译项目/h-rider-haggard_maiwas-revenge/迈瓦的复仇.epub) | A 优秀 | 全书译文文笔沉郁老练、生动传神，极为契合哈格德维多利亚时期荒野… |
-| 305 | `h-rider-haggard_when-the-world-shook` | ✅ 已入库 | [🟡 0.2%](翻译项目/h-rider-haggard_when-the-world-shook/译文) (1/30) | — | — | 翻译中 (done 1/30) |
+| 305 | `h-rider-haggard_when-the-world-shook` | ✅ 已入库 | [✅ **100%**](翻译项目/h-rider-haggard_when-the-world-shook/译文) (30篇) | ⏳ 待审 | [📦 554KB](翻译项目/h-rider-haggard_when-the-world-shook/When the World Shook.epub) | 已译完待审 |
 | 306 | `harold-frederic_the-damnation-of-theron-ware` | ✅ 已入库 | [✅ **100%**](翻译项目/harold-frederic_the-damnation-of-theron-ware/译文) (36篇) | ⏳ 待审 | [📦 585KB](翻译项目/harold-frederic_the-damnation-of-theron-ware/塞隆·韦尔的堕落.epub) | 已译完待审 |
 | 307 | `harriet-e-wilson_our-nig` | ✅ 已入库 | [✅ **100%**](翻译项目/harriet-e-wilson_our-nig/译文) (15篇) | [✅ 已审(B)](翻译项目/harriet-e-wilson_our-nig/审核报告.md) | [📦 131KB](翻译项目/harriet-e-wilson_our-nig/我们的黑姑娘.epub) | B 良好 | 整书译文忠实严谨、文笔凝练典雅，圣经引喻与 19 世纪新英格兰… |
 | 308 | `harry-harrison_planet-of-the-damned` | ✅ 已入库 | [✅ **100%**](翻译项目/harry-harrison_planet-of-the-damned/译文) (19篇) | [✅ 已审(A)](翻译项目/harry-harrison_planet-of-the-damned/审核报告.md) | [📦 288KB](翻译项目/harry-harrison_planet-of-the-damned/该死之星.epub) | A 优秀 | 全书 19 章译文达到高水准出版级质量，不仅太空歌剧与社会学构… |
@@ -577,7 +577,7 @@
 | 552 | `ring-lardner_jack-keefe-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_jack-keefe-stories/译文) (25篇) | ⏳ 待审 | [📦 766KB](翻译项目/ring-lardner_jack-keefe-stories/Jack Keefe Stories.epub) | 已译完待审 |
 | 553 | `ring-lardner_my-four-weeks-in-france` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_my-four-weeks-in-france/译文) (8篇) | [✅ 已审(B)](翻译项目/ring-lardner_my-four-weeks-in-france/审核报告.md) | [📦 166KB](翻译项目/ring-lardner_my-four-weeks-in-france/My Four Weeks in France.epub) | B 良好（接近优秀，无 A 级问题，仅 1 处译名不一致与 3 处笔误） |… |
 | 554 | `ring-lardner_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_poetry/译文) (4篇) | [✅ 已审(A)](翻译项目/ring-lardner_poetry/审核报告.md) | [📦 29KB](翻译项目/ring-lardner_poetry/拉德纳诗集.epub) | A 优秀 |
-| 555 | `ring-lardner_short-fiction` | ✅ 已入库 | [🟡 87.7%](翻译项目/ring-lardner_short-fiction/译文) (64/74) | — | — | 翻译中 (done 64/74) |
+| 555 | `ring-lardner_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_short-fiction/译文) (74篇) | ⏳ 待审 | [📦 1935KB](翻译项目/ring-lardner_short-fiction/林·拉德纳短篇小说集.epub) | 已译完待审 |
 | 556 | `robert-derby-holmes_a-yankee-in-the-trenches` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/译文) (20篇) | [✅ 已审(A)](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/审核报告.md) | [📦 209KB](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/战壕里的美国佬.epub) | A 优秀 | 全书译文质量极高，生动传神地再现了一战西线战场美籍志愿兵与英国… |
 | 557 | `robert-e-howard_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-e-howard_short-fiction/译文) (28篇) | ⏳ 待审 | [📦 465KB](翻译项目/robert-e-howard_short-fiction/罗伯特·E·霍华德短篇小说集.epub) | 已译完待审 |
 | 558 | `robert-hugh-benson_the-necromancers` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-hugh-benson_the-necromancers/译文) (19篇) | [✅ 已审(B)](翻译项目/robert-hugh-benson_the-necromancers/审核报告.md) | [📦 406KB](翻译项目/robert-hugh-benson_the-necromancers/招魂者.epub) | B 良好 | 前半 9 章译笔精良、哥特与宗教氛围还原到位，无错配/漏译/截… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **16952/18180 篇 (94.2%)** | **452 本完成** | **627 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **17014/18180 篇 (94.7%)** | **452 本完成** | **630 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1294,6 +1294,7 @@
 | A Thief in the Night | E. W. Hornung | `e-w-hornung_a-thief-in-the-night` | 328KB | - | [`A Thief in the Night.epub`](翻译项目/e-w-hornung_a-thief-in-the-night/A Thief in the Night.epub) |
 | The Black Mask | E. W. Hornung | `e-w-hornung_the-black-mask` | 286KB | - | [`The Black Mask.epub`](翻译项目/e-w-hornung_the-black-mask/The Black Mask.epub) |
 | 没有钥匙的房子 | Earl Derr Biggers | `earl-derr-biggers_the-house-without-a-key` | 444KB | - | [`没有钥匙的房子.epub`](翻译项目/earl-derr-biggers_the-house-without-a-key/没有钥匙的房子.epub) |
+| 厄舍府的倒塌 | Edgar Allan Poe | `edgar-allan-poe_short-fiction` | 1489KB | - | [`厄舍府的倒塌.epub`](翻译项目/edgar-allan-poe_short-fiction/厄舍府的倒塌.epub) |
 | At the Earth’s Core | Edgar Rice Burroughs | `edgar-rice-burroughs_at-the-earths-core` | 235KB | - | [`地心历险记.epub`](翻译项目/edgar-rice-burroughs_at-the-earths-core/地心历险记.epub) |
 | Beyond Thirty | Edgar Rice Burroughs | `edgar-rice-burroughs_beyond-thirty` | 187KB | - | [`三十岁之后.epub`](翻译项目/edgar-rice-burroughs_beyond-thirty/三十岁之后.epub) |
 | Pirates of Venus | Edgar Rice Burroughs | `edgar-rice-burroughs_pirates-of-venus` | 281KB | - | [`金星海盗.epub`](翻译项目/edgar-rice-burroughs_pirates-of-venus/金星海盗.epub) |
@@ -1435,6 +1436,7 @@
 | 洛夫克拉夫特短篇小说集 | H P Lovecraft | `h-p-lovecraft_short-fiction` | 1073KB | - | [`洛夫克拉夫特短篇小说集.epub`](翻译项目/h-p-lovecraft_short-fiction/洛夫克拉夫特短篇小说集.epub) |
 | Allan Quatermain Stories | H. Rider Haggard | `h-rider-haggard_allan-quatermain-stories` | 144KB | - | [`夸特梅因短篇集.epub`](翻译项目/h-rider-haggard_allan-quatermain-stories/夸特梅因短篇集.epub) |
 | Maiwa’s Revenge | H. Rider Haggard | `h-rider-haggard_maiwas-revenge` | 162KB | - | [`迈瓦的复仇.epub`](翻译项目/h-rider-haggard_maiwas-revenge/迈瓦的复仇.epub) |
+| h-rider-haggard_when-the-world-shook | H Rider Haggard | `h-rider-haggard_when-the-world-shook` | 554KB | - | [`When the World Shook.epub`](翻译项目/h-rider-haggard_when-the-world-shook/When the World Shook.epub) |
 | 塞隆·韦尔的堕落 | Harold Frederic | `harold-frederic_the-damnation-of-theron-ware` | 585KB | - | [`塞隆·韦尔的堕落.epub`](翻译项目/harold-frederic_the-damnation-of-theron-ware/塞隆·韦尔的堕落.epub) |
 | Our Nig | Harriet E. Wilson | `harriet-e-wilson_our-nig` | 131KB | - | [`我们的黑姑娘.epub`](翻译项目/harriet-e-wilson_our-nig/我们的黑姑娘.epub) |
 | Planet of the Damned | Harry Harrison | `harry-harrison_planet-of-the-damned` | 288KB | - | [`该死之星.epub`](翻译项目/harry-harrison_planet-of-the-damned/该死之星.epub) |
@@ -1679,6 +1681,7 @@
 | ring-lardner_jack-keefe-stories | Ring Lardner | `ring-lardner_jack-keefe-stories` | 766KB | - | [`Jack Keefe Stories.epub`](翻译项目/ring-lardner_jack-keefe-stories/Jack Keefe Stories.epub) |
 | My Four Weeks in France | Ring Lardner | `ring-lardner_my-four-weeks-in-france` | 166KB | - | [`My Four Weeks in France.epub`](翻译项目/ring-lardner_my-four-weeks-in-france/My Four Weeks in France.epub) |
 | Poetry | Ring Lardner | `ring-lardner_poetry` | 29KB | - | [`拉德纳诗集.epub`](翻译项目/ring-lardner_poetry/拉德纳诗集.epub) |
+| 林·拉德纳短篇小说集 | Ring Lardner | `ring-lardner_short-fiction` | 1935KB | - | [`林·拉德纳短篇小说集.epub`](翻译项目/ring-lardner_short-fiction/林·拉德纳短篇小说集.epub) |
 | A Yankee in the Trenches | Robert Derby Holmes | `robert-derby-holmes_a-yankee-in-the-trenches` | 209KB | - | [`战壕里的美国佬.epub`](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/战壕里的美国佬.epub) |
 | 罗伯特·E·霍华德短篇小说集 | Robert E Howard | `robert-e-howard_short-fiction` | 465KB | - | [`罗伯特·E·霍华德短篇小说集.epub`](翻译项目/robert-e-howard_short-fiction/罗伯特·E·霍华德短篇小说集.epub) |
 | The Necromancers | Robert Hugh Benson | `robert-hugh-benson_the-necromancers` | 406KB | - | [`招魂者.epub`](翻译项目/robert-hugh-benson_the-necromancers/招魂者.epub) |
