@@ -11,7 +11,7 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **630** 完 / **7** 译 / **10** 待（共 647 本） | **17014** / 18180 篇（**289668.8** / 305863.1 KB）· **94.7%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段二：翻译执行 (Translation)** | **630** 完 / **7** 译 / **10** 待（共 647 本） | **17044** / 18180 篇（**290188.9** / 305863.1 KB）· **94.9%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
 | **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **178** 本待审 | 覆盖精读 **452** 本（**71.7%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
 | **阶段四：出版打包 (EPUB Packaging)** | **630** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **630** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
@@ -227,7 +227,7 @@
 | 202 | `ella-cheever-thayer_wired-love` | ✅ 已入库 | [✅ **100%**](翻译项目/ella-cheever-thayer_wired-love/译文) (19篇) | [✅ 已审](翻译项目/ella-cheever-thayer_wired-love/审核报告.md) | [📦 267KB](翻译项目/ella-cheever-thayer_wired-love/有线之恋.epub) | A 级（优秀 / Excellent） | > 全书 19 篇 446 个双… |
 | 203 | `ellis-parker-butler_jibby-jones` | ✅ 已入库 | [✅ **100%**](翻译项目/ellis-parker-butler_jibby-jones/译文) (24篇) | [✅ 已审(B)](翻译项目/ellis-parker-butler_jibby-jones/审核报告.md) | [📦 269KB](翻译项目/ellis-parker-butler_jibby-jones/吉比·琼斯.epub) | B 良好 | 全书无漏译、无截断、术语表硬约束全部达标，译文可读性和文学口吻… |
 | 204 | `emile-gaboriau_file-no-113_james-r-osgood-co` | ✅ 已入库 | [✅ **100%**](翻译项目/emile-gaboriau_file-no-113_james-r-osgood-co/译文) (25篇) | ⏳ 待审 | [📦 692KB](翻译项目/emile-gaboriau_file-no-113_james-r-osgood-co/第113号档案.epub) | 已译完待审 |
-| 205 | `emile-gaboriau_monsieur-lecoq_laura-e-kendall` | ✅ 已入库 | [🟡 55.1%](翻译项目/emile-gaboriau_monsieur-lecoq_laura-e-kendall/译文) (45/84) | — | — | 翻译中 (done 45/84) |
+| 205 | `emile-gaboriau_monsieur-lecoq_laura-e-kendall` | ✅ 已入库 | [🟡 91.6%](翻译项目/emile-gaboriau_monsieur-lecoq_laura-e-kendall/译文) (75/84) | — | — |  |
 | 206 | `emile-gaboriau_the-mystery-of-orcival_holt-williams` | ✅ 已入库 | [✅ **100%**](翻译项目/emile-gaboriau_the-mystery-of-orcival_holt-williams/译文) (29篇) | ⏳ 待审 | [📦 602KB](翻译项目/emile-gaboriau_the-mystery-of-orcival_holt-williams/奥尔西瓦尔的谜案.epub) | 已译完待审 |
 | 207 | `emile-gaboriau_the-slaves-of-paris_charles-scribners-sons` | ✅ 已入库 | [✅ **100%**](翻译项目/emile-gaboriau_the-slaves-of-paris_charles-scribners-sons/译文) (64篇) | ⏳ 待审 | [📦 933KB](翻译项目/emile-gaboriau_the-slaves-of-paris_charles-scribners-sons/巴黎的奴隶.epub) | 已译完待审 |
 | 208 | `emma-goldman_my-disillusionment-in-russia` | ✅ 已入库 | [✅ **100%**](翻译项目/emma-goldman_my-disillusionment-in-russia/译文) (36篇) | ⏳ 待审 | [📦 415KB](翻译项目/emma-goldman_my-disillusionment-in-russia/我在俄国的幻灭.epub) | 已译完待审 |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **17014/18180 篇 (94.7%)** | **452 本完成** | **630 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **17044/18180 篇 (94.9%)** | **452 本完成** | **630 本完成** | 全流程四阶段闭环 |
 
 ---
 
