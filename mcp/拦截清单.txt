@@ -4,7 +4,6 @@
 # 示例：
 # errico-malatesta_essays_various-translators
 j-j-connington_nordenholts-million
-georgette-heyer_the-black-moth
 william-morris_the-water-of-the-wondrous-isles
 m-e-braddon_the-venetians
 ambrose-bierce_poetry

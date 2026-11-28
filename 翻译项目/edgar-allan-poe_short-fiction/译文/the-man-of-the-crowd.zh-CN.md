@@ -1,0 +1,132 @@
+## The Man of the Crowd / 人群中的人
+===Original===
+
+Ce grand malheur, de ne pouvoir être seul.
+
+> La Bruyère
+
+It was well said of a certain German book that “*er lasst sich nicht lesen*”﻿—it does not permit itself to be read. There are some secrets which do not permit themselves to be told. Men die nightly in their beds, wringing the hands of ghostly confessors and looking them piteously in the eyes﻿—die with despair of heart and convulsion of throat, on account of the hideousness of mysteries which will not *suffer themselves* to be revealed. Now and then, alas, the conscience of man takes up a burden so heavy in horror that it can be thrown down only into the grave. And thus the essence of all crime is undivulged.
+
+Not long ago, about the closing in of an evening in autumn, I sat at the large bow window of the D﻿—﻿— Coffeehouse in London. For some months I had been ill in health, but was now convalescent, and, with returning strength, found myself in one of those happy moods which are so precisely the converse of ennui﻿—moods of the keenest appetency, when the film from the mental vision departs﻿—the αχλυϛ ῆ πριν επῆεν﻿—and the intellect, electrified, surpasses as greatly its everyday condition, as does the vivid yet candid reason of Leibnitz, the mad and flimsy rhetoric of Gorgias. Merely to breathe was enjoyment; and I derived positive pleasure even from many of the legitimate sources of pain. I felt a calm but inquisitive interest in everything. With a cigar in my mouth and a newspaper in my lap, I had been amusing myself for the greater part of the afternoon, now in poring over advertisements, now in observing the promiscuous company in the room, and now in peering through the smoky panes into the street.
+
+This latter is one of the principal thoroughfares of the city, and had been very much crowded during the whole day. But, as the darkness came on, the throng momently increased; and, by the time the lamps were well lighted, two dense and continuous tides of population were rushing past the door. At this particular period of the evening I had never before been in a similar situation, and the tumultuous sea of human heads filled me, therefore, with a delicious novelty of emotion. I gave up, at length, all care of things within the hotel, and became absorbed in contemplation of the scene without.
+
+===Chinese===
+
+「这大不幸——不能独处。」
+
+——拉布吕耶尔（La Bruyère）
+
+某部德国书得了极好的评语：「*er lasst sich nicht lesen*」——它不容许自己被阅读。有些秘密不容许自己被吐露。人们夜夜死在床上，绞着幽灵忏悔者的手，可怜巴巴地望着他们的眼睛——怀着心的绝望、喉的痉挛死去，只因那些不肯*容许自己*被揭示的奥秘的丑恶。唉，时不时而至，人的良心背起一副沉重到恐怖的负担，只有抛进坟墓才能卸下。于是，一切罪行的本质终究未被泄露。
+
+不久以前，约在秋天一个傍晚的将尽时分，我坐在伦敦D——咖啡馆的大凸窗前。有几个月我健康不佳，此刻正在痊愈；随着体力的回复，我发现自己在一种幸福的情绪里，那情绪恰是倦怠的反面——是感知最锐敏的情绪，蒙在心灵视觉上的翳膜褪去了——那先前蒙在眼上的迷雾（αχλυϛ ῆ πριν επῆεν）——智力通了电，大大胜过它的日常状态，正如莱布尼茨那鲜明而坦白的理性，大大胜过高尔吉亚那疯狂的、虚浮的修辞。仅仅呼吸便是享受；甚至从痛苦的许多正当源头，我也得到实实在在的乐趣。我对一切怀着一种平静而好奇的兴趣。嘴里叼着雪茄，膝上摊着报纸，我这样自娱了大半个下午：一时细读广告，一时观察屋里形形色色的来客，一时隔着烟雾的窗玻璃望进街道。
+
+后者是城里的主要干道之一，整天拥挤不堪。但夜色一来，人潮时时刻刻增多；到灯都点好时，两股稠密而不断的人的潮流，从门前奔涌而过。这个特别的黄昏时刻，我从前从不曾置身于类似的处境；因此这人头汹涌的海，填满我一种可口的情绪的新鲜。我终于把旅馆里的事一概抛开，沉浸在对屋外景象的观照里。
+
+===Original===
+
+At first my observations took an abstract and generalizing turn. I looked at the passengers in masses, and thought of them in their aggregate relations. Soon, however, I descended to details, and regarded with minute interest the innumerable varieties of figure, dress, air, gait, visage, and expression of countenance.
+
+By far the greater number of those who went by had a satisfied businesslike demeanor, and seemed to be thinking only of making their way through the press. Their brows were knit, and their eyes rolled quickly; when pushed against by fellow-wayfarers they evinced no symptom of impatience, but adjusted their clothes and hurried on. Others, still a numerous class, were restless in their movements, had flushed faces, and talked and gesticulated to themselves, as if feeling in solitude on account of the very denseness of the company around. When impeded in their progress, these people suddenly ceased muttering, but redoubled their gesticulations, and awaited, with an absent and overdone smile upon the lips, the course of the persons impeding them. If jostled, they bowed profusely to the jostlers, and appeared overwhelmed with confusion.﻿—There was nothing very distinctive about these two large classes beyond what I have noted. Their habiliments belonged to that order which is pointedly termed the decent. They were undoubtedly noblemen, merchants, attorneys, tradesmen, stockjobbers﻿—the Eupatrids and the commonplaces of society﻿—men of leisure and men actively engaged in affairs of their own﻿—conducting business upon their own responsibility. They did not greatly excite my attention.
+
+The tribe of clerks was an obvious one and here I discerned two remarkable divisions. There were the junior clerks of flash houses﻿—young gentlemen with tight coats, bright boots, well-oiled hair, and supercilious lips. Setting aside a certain dapperness of carriage, which may be termed *deskism* for want of a better word, the manner of these persons seemed to me an exact facsimile of what had been the perfection of bon ton about twelve or eighteen months before. They wore the cast-off graces of the gentry;﻿—and this, I believe, involves the best definition of the class.
+
+===Chinese===
+
+起初我的观察取一种抽象的、概括的方向。我把行人们看作群体，从他们的总和关系上想他们。然而不久我便降到细节里，以细密的兴趣，注视那无数形形色色的体态、衣着、神气、步态、脸面和面目的表情。
+
+过路的人里，极大多数带着心满意足的公事公办的举止，似乎只想着从人堆里挤过去。他们的眉头打着结，眼珠滴溜溜转；被同路的行人挤着时，并不显出一点不耐的征象，只整一整衣裳赶路。另一些人，人数仍然不少，动作不安定，脸孔涨红，自言自语、手舞足蹈，仿佛正因四围人群的稠密而感到孤独。行进受阻时，这些人忽然停住嘟哝，却加倍地比画，嘴唇上带着心不在焉、做过头的微笑，等着挡路的人过去。倘若被人撞了，他们向撞的人深深鞠躬，一副慌乱得不知所措的样子。——这两大类人，除我记下的以外，并没有什么很有特色的。他们的衣着属于人们特意称作「体面」的那一等。他们无疑是贵族、商人、律师、小店主、股票经纪人——社会的贵胄与凡庸——有闲的人和忙于自己事务的人——按自己的责任办事的人。他们不大引起我的注意。
+
+职员一族显而易见；在这里我辨认出两个显著的分支。一是浮华场所的下级职员——紧绷绷的外套、亮晃晃的靴子、油光光的头发、翘着嘴唇的年轻绅士。撇开某种整洁利落的仪态——没有更好的词，姑且叫作*案牍气*——这些人的气派，在我看来是一年或一年半以前上流风尚之完美的精确摹本。他们穿着绅士们穿旧了的优雅；——我相信，这便是这一类人最好的定义。
+
+===Original===
+
+The division of the upper clerks of staunch firms, or of the “steady old fellows,” it was not possible to mistake. These were known by their coats and pantaloons of black or brown, made to sit comfortably, with white cravats and waistcoats, broad solid-looking shoes, and thick hose or gaiters. They had all slightly bald heads, from which the right ears, long used to pen-holding, had an odd habit of standing off on end. I observed that they always removed or settled their hats with both hands, and wore watches, with short gold chains of a substantial and ancient pattern. Theirs was the affectation of respectability﻿—if indeed there be an affectation so honorable.
+
+There were many individuals of dashing appearance, whom I easily understood as belonging to the race of swell pickpockets with which all great cities are infested. I watched these gentry with much inquisitiveness, and found it difficult to imagine how they should ever be mistaken for gentlemen by gentlemen themselves. Their voluminousness of wristband, with an air of excessive frankness, should betray them at once.
+
+The gamblers, of whom I descried not a few, were still more easily recognisable. They wore every variety of dress, from that of the desperate thimblerig bully, with velvet waistcoat, fancy neckerchief, gilt chains, and filagreed buttons, to that of the scrupulously inornate clergyman, than which nothing could be less liable to suspicion. Still all were distinguished by a certain sodden swarthiness of complexion, a filmy dimness of eye, and pallor and compression of lip. There were two other traits, moreover, by which I could always detect them: a guarded lowness of tone in conversation, and a more than ordinary extension of the thumb in a direction at right angles with the fingers. Very often, in company with these sharpers, I observed an order of men somewhat different in habits, but still birds of a kindred feather. They may be defined as the gentlemen who live by their wits. They seem to prey upon the public in two battalions﻿—that of the dandies and that of the military men. Of the first grade the leading features are long locks and smiles; of the second, frogged coats and frowns.
+
+===Chinese===
+
+坚实商行的上层职员，或所谓「稳健的老家伙」那一分支，是不可能认错的。这些人靠他们黑或褐的外套和马裤认得出来——那衣裳做得坐着也舒舒服服——白围巾白背心，宽大厚实的鞋，厚袜子或绑腿。他们全都微微秃顶，右耳长年夹笔，养成一种怪癖，直棱棱竖着。我注意到他们总用双手摘帽或扶帽，戴着表，配短短的金链，链子式样敦实而古老。他们摆的是体面的架子——倘若真有这样一种可敬的做作的话。
+
+有许多仪表华丽的人，我轻易便明白他们属于各大都市无不滋生的那族阔绰的扒手。我满怀好奇地观察这些老爷，难以想象他们怎么会把绅士认作绅士。他们那宽大过分的袖口，配上过分的坦率的神气，就该立刻暴露他们。
+
+赌棍，我瞥见好几个，更容易认出来。他们穿着种种衣服，从亡命的三张牌骗子恶霸——天鹅绒背心、花围巾、镀金链子、金银丝纽扣——到一丝不苟地素净的牧师装，后者最不易引起疑心。但全都有一副共同的标记：肤色浮肿发暗，眼神朦胧昏翳，嘴唇苍白紧抿。此外还有两个特征，我总能借此认出他们：说话时提防的低嗓，和拇指朝与手指成直角方向的超乎寻常的伸展。常常，伴随这些骗子，我观察到一种习惯略有不同、但仍属同类羽毛的人。他们可以被定义为靠机智吃饭的绅士。他们似乎以两个纵队掠食公众——花花公子的纵队和军人气的纵队。第一等的特征是长发和微笑；第二等，绲边的外套和皱眉。
+
+===Original===
+
+Descending in the scale of what is termed gentility, I found darker and deeper themes for speculation. I saw Jew pedlars, with hawk eyes flashing from countenances whose every other feature wore only an expression of abject humility; sturdy professional street beggars scowling upon mendicants of a better stamp, whom despair alone had driven forth into the night for charity; feeble and ghastly invalids, upon whom death had placed a sure hand, and who sidled and tottered through the mob, looking everyone beseechingly in the face, as if in search of some chance consolation, some lost hope; modest young girls returning from long and late labor to a cheerless home, and shrinking more tearfully than indignantly from the glances of ruffians, whose direct contact, even, could not be avoided; women of the town of all kinds and of all ages﻿—the unequivocal beauty in the prime of her womanhood, putting one in mind of the statue in Lucian, with the surface of Parian marble, and the interior filled with filth﻿—the loathsome and utterly lost leper in rags﻿—the wrinkled, bejewelled and paint-begrimed beldame, making a last effort at youth﻿—the mere child of immature form, yet, from long association, an adept in the dreadful coquetries of her trade, and burning with a rabid ambition to be ranked the equal of her elders in vice; drunkards innumerable and indescribable﻿—some in shreds and patches, reeling, inarticulate, with bruised visage and lacklustre eyes﻿—some in whole although filthy garments, with a slightly unsteady swagger, thick sensual lips, and hearty-looking rubicund faces﻿—others clothed in materials which had once been good, and which even now were scrupulously well brushed﻿—men who walked with a more than naturally firm and springy step, but whose countenances were fearfully pale, whose eyes hideously wild and red, and who clutched with quivering fingers, as they strode through the crowd, at every object which came within their reach; beside these, pie-men, porters, coal-heavers, sweeps; organ-grinders, monkey-exhibitors, and ballad-mongers, those who vended with those who sang; ragged artizans and exhausted laborers of every description, and all full of a noisy and inordinate vivacity which jarred discordantly upon the ear, and gave an aching sensation to the eye.
+
+===Chinese===
+
+沿着所谓「体面」的阶梯往下，我找到更黑、更深的思量的题目。我看见犹太小贩，鹰隼的眼睛在脸膛上闪光，那脸膛其余的一切特征却只带着卑贱谦恭的表情；职业的街头乞丐壮汉，朝着品性较好的乞儿皱眉——那些人单是绝望才被赶到夜里来求布施；衰弱惨白的病夫，死亡已把一只确凿的手按在他们身上，他们在人群里侧身蹒跚，哀求地望着每一个人的脸，仿佛在寻觅一点偶然的安慰、一线失落的希望；谦卑的年轻姑娘，长而晚的活计做完回到没有欢乐的家，从恶少的目光里退缩，退缩里含泪多过含愤——那目光连直接的身体接触也躲不开；各色各样的娼妇，各年龄的——女盛年那种毫不含糊的美，叫人想起琉善笔下的雕像：帕罗斯大理石的表面，内里灌满污秽——衣衫褴褛、令人憎恶、彻底毁掉的麻疯——皱纹满面的老虔婆，珠宝满身，脂粉蒙垢，做着青春的最后一次挣扎——形体尚未成熟的仅仅一个孩子，却因长久的薰染，已是她那行业可怕的调情手法的能手，怀着疯热的野心，要在恶行上同她的长辈们排成平等；数不清、说不尽的醉汉——有的衣衫百结，踉踉跄跄，话不成句，脸带青肿，眼睛无光——有的衣裳完整虽然污秽，微微摇晃地大摇大摆，厚而贪欲的嘴唇，看起来快活的通红脸膛——有的穿着曾经是好料子、至今仍一丝不苟刷得干干净净的衣服——走路迈着超乎自然的坚实而有弹性的步子、脸色却怕人地苍白、眼睛怕人地狂乱而赤红、一边大步穿过人群一边用颤抖的手指抓住伸手可及的每一件东西的人；这些之外，卖馅饼的、脚夫、运煤的、扫烟囱的；摇琴的、耍猴的、唱小曲卖唱本的，卖的和唱的凑成一路；衣衫破烂的工匠和各式各样筋疲力尽的劳工，全都满载一种喧闹而无节制的活泼，那活泼不谐和地震着耳朵，给眼睛一种刺痛的感觉。
+
+===Original===
+
+As the night deepened, so deepened to me the interest of the scene; for not only did the general character of the crowd materially alter (its gentler features retiring in the gradual withdrawal of the more orderly portion of the people, and its harsher ones coming out into bolder relief, as the late hour brought forth every species of infamy from its den), but the rays of the gas-lamps, feeble at first in their struggle with the dying day, had now at length gained ascendancy, and threw over everything a fitful and garish lustre. All was dark yet splendid﻿—as that ebony to which has been likened the style of Tertullian.
+
+The wild effects of the light enchained me to an examination of individual faces; and although the rapidity with which the world of light flitted before the window, prevented me from casting more than a glance upon each visage, still it seemed that, in my then peculiar mental state, I could frequently read, even in that brief interval of a glance, the history of long years.
+
+===Chinese===
+
+夜越深，这景象对我的兴趣越深；不但人群的总体性格实质地改变（随着较守秩序的人渐次退去，人群较温柔的特征退隐，较粗暴的特征以更大的浮雕显现出来——夜深把每一种恶行都从它的巢穴里带出来了），而且煤气灯的光，起初在同垂死的白昼的搏斗里微弱，此刻终于取得优势，把一种闪烁而刺目的光泽罩在一切之上。一切都是黑的，然而华美——正如被比作德尔图良（Tertullian）文风的那种黑檀。
+
+光的狂野效果把我拴在对一张张面孔的检验上；虽然那个光的世界在窗前飞掠的迅速，不容我对每一副面目投下多于一瞥的注视，在我当时特殊的精神状态里，我似乎仍能常常在那短短一瞥的间隔里，读出悠长岁月的历史。
+
+===Original===
+
+With my brow to the glass, I was thus occupied in scrutinizing the mob, when suddenly there came into view a countenance (that of a decrepid old man, some sixty-five or seventy years of age)﻿—a countenance which at once arrested and absorbed my whole attention, on account of the absolute idiosyncrasy of its expression. Anything even remotely resembling that expression I had never seen before. I well remember that my first thought, upon beholding it, was that Retzch, had he viewed it, would have greatly preferred it to his own pictural incarnations of the fiend. As I endeavored, during the brief minute of my original survey, to form some analysis of the meaning conveyed, there arose confusedly and paradoxically within my mind, the ideas of vast mental power, of caution, of penuriousness, of avarice, of coolness, of malice, of blood thirstiness, of triumph, of merriment, of excessive terror, of intense﻿—of supreme despair. I felt singularly aroused, startled, fascinated. “How wild a history,” I said to myself, “is written within that bosom!” Then came a craving desire to keep the man in view﻿—to know more of him. Hurriedly putting on an overcoat, and seizing my hat and cane, I made my way into the street, and pushed through the crowd in the direction which I had seen him take; for he had already disappeared. With some little difficulty I at length came within sight of him, approached, and followed him closely, yet cautiously, so as not to attract his attention.
+
+I had now a good opportunity of examining his person. He was short in stature, very thin, and apparently very feeble. His clothes, generally, were filthy and ragged; but as he came, now and then, within the strong glare of a lamp, I perceived that his linen, although dirty, was of beautiful texture; and my vision deceived me, or, through a rent in a closely-buttoned and evidently second-handed roquelaire which enveloped him, I caught a glimpse both of a diamond and of a dagger. These observations heightened my curiosity, and I resolved to follow the stranger whithersoever he should go.
+
+===Chinese===
+
+我把额头抵在玻璃上，正这样忙着审视人群，忽然一张面孔进入视野（一个衰颓的老人，约莫六十五或七十岁）——那面孔以它表情的绝对的独特，立刻摄住并吸住我的全部注意。哪怕远远近似那表情的东西，我从前从未见过。我记得清清楚楚，我一见之下，头一个念头便是：雷奇（Retzsch）若见了它，会远远偏爱它，胜过他自己的那些恶魔的绘画化身。当我努力在初看那短短的一分钟里构成某种传达的意义的分析，种种观念纷乱而悖谬地在我心里升起：巨大的心智力量，谨慎，悭吝，贪婪，冷静，恶毒，嗜血，胜利，欢乐，过度的恐怖，强烈的——极度的绝望。我觉得说不出的被扰动，惊骇，着迷。「多么狂野的一部历史，」我对自己说，「写在那胸膛里！」接着来了一种渴望的欲望：把这人保持在视野里——多知道他一些。我匆匆穿上大衣，抓了帽子和手杖，走进街里，朝我望见他去的方向从人群里挤过去；因为他已经不见了。费了点小周折，我终于重新望见他，走近，紧紧地然而小心地跟随他，免得引起他的注意。
+
+此刻我有了好机会细察他这个人。他身材矮，很瘦，显然极衰弱。他的衣服总的来说又脏又破；但他不时走进一盏灯的强光里，我看出他的衬衣虽然脏，质地却极精美；或者我的视觉欺骗了我，或者，透过那件紧紧扣上、显然是二手的斗篷的一道裂缝，我瞥见了钻石和匕首各一。这些观察增高我的好奇心，我决意跟随这陌生人，无论他往哪里去。
+
+===Original===
+
+It was now fully nightfall, and a thick humid fog hung over the city, soon ending in a settled and heavy rain. This change of weather had an odd effect upon the crowd, the whole of which was at once put into new commotion, and overshadowed by a world of umbrellas. The waver, the jostle, and the hum increased in a tenfold degree. For my own part I did not much regard the rain﻿—the lurking of an old fever in my system rendering the moisture somewhat too dangerously pleasant. Tying a handkerchief about my mouth, I kept on. For half an hour the old man held his way with difficulty along the great thoroughfare; and I here walked close at his elbow through fear of losing sight of him. Never once turning his head to look back, he did not observe me. By and by he passed into a cross street, which, although densely filled with people, was not quite so much thronged as the main one he had quitted. Here a change in his demeanor became evident. He walked more slowly and with less object than before﻿—more hesitatingly. He crossed and re-crossed the way repeatedly without apparent aim; and the press was still so thick that, at every such movement, I was obliged to follow him closely. The street was a narrow and long one, and his course lay within it for nearly an hour, during which the passengers had gradually diminished to about that number which is ordinarily seen at noon in Broadway near the park﻿—so vast a difference is there between a London populace and that of the most frequented American city. A second turn brought us into a square, brilliantly lighted, and overflowing with life. The old manner of the stranger reappeared. His chin fell upon his breast, while his eyes rolled wildly from under his knit brows, in every direction, upon those who hemmed him in. He urged his way steadily and perseveringly. I was surprised, however, to find, upon his having made the circuit of the square, that he turned and retraced his steps. Still more was I astonished to see him repeat the same walk several times﻿—once nearly detecting me as he came round with a sudden movement.
+
+===Chinese===
+
+此刻已全然天黑，一层浓而湿的雾罩在城市上，不久便落成定格的大雨。这天气的变化给人群一种奇异的效应，整个人群立刻卷进新的骚动，被一个伞的世界罩住。摇摆、推挤、嗡嗡，加了十倍。就我自己而言，我并不很在乎雨——潜伏在我体质里的旧热病，使潮气带有一种太危险的甜头。我把一块手帕系在嘴上，继续走。半小时之久，老人艰难地沿那条大街走他的路；我在这里紧靠他的臂肘走，生怕把他跟丢。他一次也不曾回头，不曾察觉我。不久他拐进一条横街，那街虽然人也稠密，却不及他离开的那条大街拥挤。在这里，他举止的一种改变变得明显。他走得慢了，不如先前有目的——更迟疑了。他一次又一次横穿街道，没有明显的目的；人还那样稠密，他每这样一动，我不得不紧跟。那街又窄又长，他的路线在其中将近一小时，其间行人渐渐减到约莫中午在百老汇靠近公园那一带通常见到的数目——一个伦敦的民众同最繁华的美国城市的民众之间，差别就是这样的大。第二个转弯把我们带进一个广场，灯火辉煌，满溢着生命。陌生人的老样子重现了。他的下巴垂到胸口，眼睛从紧蹙的眉毛底下狂乱地滚动，四面八方，滚在围住他的人身上。他坚定而执拗地挤路。然而使我吃惊的是，走完广场一圈，他转身折回原路。更叫我吃惊的是看见他把同样的路又重复了几遍——有一遍他突然一转，几乎发觉了我。
+
+===Original===
+
+In this exercise he spent another hour, at the end of which we met with far less interruption from passengers than at first. The rain fell fast; the air grew cool; and the people were retiring to their homes. With a gesture of impatience, the wanderer passed into a bystreet comparatively deserted. Down this, some quarter of a mile long, he rushed with an activity I could not have dreamed of seeing in one so aged, and which put me to much trouble in pursuit. A few minutes brought us to a large and busy bazaar, with the localities of which the stranger appeared well acquainted, and where his original demeanor again became apparent, as he forced his way to and fro, without aim, among the host of buyers and sellers.
+
+During the hour and a half, or thereabouts, which we passed in this place, it required much caution on my part to keep him within reach without attracting his observation. Luckily I wore a pair of caoutchouc overshoes, and could move about in perfect silence. At no moment did he see that I watched him. He entered shop after shop, priced nothing, spoke no word, and looked at all objects with a wild and vacant stare. I was now utterly amazed at his behavior, and firmly resolved that we should not part until I had satisfied myself in some measure respecting him.
+
+===Chinese===
+
+在这功课上他又花了一个小时；结束时我们遇到的行人的阻碍比先前少得多了。雨下得紧；空气凉起来；人们正各自回家。带着一个不耐的手势，这漂泊者拐进一条比较冷僻的小街。沿着这条约四分之一英里长的街，他冲下去，带着那样一种敏捷——在这样老的人身上，做梦我也想不到看见——使我的追赶大为吃力。几分钟把我们带到一座大而热闹的市场；陌生人似乎对它的地方十分熟悉；在那里，他原来的举止又显露出来，他在成群的买者和卖者之间无目的地挤来挤去。
+
+我们在这地方过了约莫一个半小时；要我把他保持在够得着的地方而不引起他的察觉，须得极大的小心。幸而我穿着一双橡胶套鞋，能够全无声息地走动。任何时候他都不曾看见我在观察他。他一家接一家进铺子，什么都不问价，一个字不说，以一种狂乱而空虚的凝视看一切物件。此刻我对他的行为全然惊愕了，坚决决心：直到我对自己多少弄清了他，我们绝不分开。
+
+===Original===
+
+A loud-toned clock struck eleven, and the company were fast deserting the bazaar. A shopkeeper, in putting up a shutter, jostled the old man, and at the instant I saw a strong shudder come over his frame. He hurried into the street, looked anxiously around him for an instant, and then ran with incredible swiftness through many crooked and people-less lanes, until we emerged once more upon the great thoroughfare whence we had started﻿—the street of the D﻿—﻿— Hotel. It no longer wore, however, the same aspect. It was still brilliant with gas; but the rain fell fiercely, and there were few persons to be seen. The stranger grew pale. He walked moodily some paces up the once populous avenue, then, with a heavy sigh, turned in the direction of the river, and, plunging through a great variety of devious ways, came out, at length, in view of one of the principal theatres. It was about being closed, and the audience were thronging from the doors. I saw the old man gasp as if for breath while he threw himself amid the crowd; but I thought that the intense agony of his countenance had, in some measure, abated. His head again fell upon his breast; he appeared as I had seen him at first. I observed that he now took the course in which had gone the greater number of the audience﻿—but, upon the whole, I was at a loss to comprehend the waywardness of his actions.
+
+===Chinese===
+
+一座响亮的大钟敲了十一点，人们正快快离开市场。一个店家在上门板时撞了老人一下；就在那一瞬，我看见一阵强烈的战栗扫过他的身躯。他急忙冲进街里，焦灼地朝四围望了一瞬，随即以难以相信的迅速跑过许多曲折而无人的小巷，直到我们再一次冒出来，回到我们出发的那条大街——D——旅馆的街。然而它已不复原来的面目。它仍然被煤气照得辉煌；但雨下得凶，人已寥寥。陌生人变白了脸。他阴郁地在那条一度人烟鼎盛的大街上走了几步，然后沉重地叹一口气，转向河的方向去，穿过一大堆曲折的路，终于出来，望见一座主要的剧院。剧院正要关门，观众正从门里涌出。我看见老人扑进人群时喘气似的呼吸；但我以为他面孔上那极度痛苦的煎熬已在某种程度上减轻。他的头又垂到胸口；他显出我初见他时的样子。我注意到他此刻取的是多数观众走去的方向——但总的来说，他行事的任性乖张，我无从领会。
+
+===Original===
+
+As he proceeded, the company grew more scattered, and his old uneasiness and vacillation were resumed. For some time he followed closely a party of some ten or twelve roisterers; but from this number one by one dropped off, until three only remained together, in a narrow and gloomy lane little frequented. The stranger paused, and, for a moment, seemed lost in thought; then, with every mark of agitation, pursued rapidly a route which brought us to the verge of the city, amid regions very different from those we had hitherto traversed. It was the most noisome quarter of London, where everything wore the worst impress of the most deplorable poverty, and of the most desperate crime. By the dim light of an accidental lamp, tall, antique, worm-eaten, wooden tenements were seen tottering to their fall, in directions so many and capricious that scarce the semblance of a passage was discernible between them. The paving-stones lay at random, displaced from their beds by the rankly-growing grass. Horrible filth festered in the dammed-up gutters. The whole atmosphere teemed with desolation. Yet, as we proceeded, the sounds of human life revived by sure degrees, and at length large bands of the most abandoned of a London populace were seen reeling to and fro. The spirits of the old man again flickered up, as a lamp which is near its death hour. Once more he strode onward with elastic tread. Suddenly a corner was turned, a blaze of light burst upon our sight, and we stood before one of the huge suburban temples of Intemperance﻿—one of the palaces of the fiend, Gin.
+
+===Chinese===
+
+他走着走着，人群越来越散，他的旧不安和摇摆又恢复了。有一段时候他紧跟一伙十来个闹酒的人；但这数目一个一个掉队，只剩三个一起，在一条少有人走的窄而阴郁的巷里。陌生人停下，有一刻似乎沉在思想里；然后带着一切激动的标记，迅速追上一条路线，把我们带到城边，进到与我们迄今穿过的迥然不同的地带。那是伦敦最污秽的区域，一切带着最可哀的贫穷、最绝望的罪行的最坏的印记。借一盏偶然的灯的微光，可以看见高大、古老、虫蛀的木屋摇摇欲坠，方向繁多而乖张，其间几乎辨不出一条通道的形迹。铺路石乱卧着，被疯长的野草从床里掀了出来。可怕的污秽在被堵死的阴沟里溃烂。整个大气里充满荒凉。然而我们往前走，人间生活的声音渐渐复活起来，终于看见大帮大帮伦敦民众里最堕落的人，摇来晃去。老人的精神又闪出火苗，像一盏将尽的灯。他再一次迈开有弹性的步子前进。忽然拐过一个街角，一片亮光打在我们眼前，我们立在一座郊外的大庙前——纵欲的庙宇——杜松子酒的恶神的一座宫殿之一。
+
+===Original===
+
+It was now nearly daybreak; but a number of wretched inebriates still pressed in and out of the flaunting entrance. With a half shriek of joy the old man forced a passage within, resumed at once his original bearing, and stalked backward and forward, without apparent object, among the throng. He had not been thus long occupied, however, before a rush to the doors gave token that the host was closing them for the night. It was something even more intense than despair that I then observed upon the countenance of the singular being whom I had watched so pertinaciously. Yet he did not hesitate in his career, but, with a mad energy, retraced his steps at once, to the heart of the mighty London. Long and swiftly he fled, while I followed him in the wildest amazement, resolute not to abandon a scrutiny in which I now felt an interest all-absorbing. The sun arose while we proceeded, and, when we had once again reached that most thronged mart of the populous town, the street of the D﻿—﻿— Hotel, it presented an appearance of human bustle and activity scarcely inferior to what I had seen on the evening before. And here, long, amid the momently increasing confusion, did I persist in my pursuit of the stranger. But, as usual, he walked to and fro, and during the day did not pass from out the turmoil of that street. And, as the shades of the second evening came on, I grew wearied unto death, and, stopping fully in front of the wanderer, gazed at him steadfastly in the face. He noticed me not, but resumed his solemn walk, while I, ceasing to follow, remained absorbed in contemplation. “This old man,” I said at length, “is the type and the genius of deep crime. He refuses to be alone. *He is the man of the crowd.* It will be in vain to follow; for I shall learn no more of him, nor of his deeds. The worst heart of the world is a grosser book than the *Hortulus Animae*,16 and perhaps it is but one of the great mercies of God that ‘er lasst sich nicht lesen.’ ”
+
+===Chinese===
+
+此刻几乎破晓；但一些可怜的醉汉还在那炫示的门口挤进挤出。老人带着半声欢乐的尖叫挤进门里，立刻恢复他原来的姿态，在人群中间若无目的地来回踱步。他这样忙了没多久，一股向门口的冲涌便预示店主正为他们关门过夜。在我这样执拗注视过的这个奇特存在的脸上，我此刻观察到的，是比绝望甚至更强烈的东西。然而他在他的行程里并不迟疑，而以一种疯狂的精力，立刻折回那庞大的伦敦的心脏。他长久而疾速地奔，而我以最狂野的惊愕跟着他，决心不放弃这场我已感到全副心思系于其上的审视。我们走着，太阳升起来了；当我们再一次到达那人口稠密的城中最拥挤的市集——D——旅馆的街——它呈出的人的喧扰与活动，几乎不亚于我前一夜所见的景象。在这里，长久地，在那时时刻刻增长的混乱之中，我坚持我的对这陌生人的追踪。但，同往常一样，他来回地走，整个白天不曾走出那条街的喧嚣。当第二个傍晚的阴影来临时，我厌倦得要死，便完全站定在这漂泊者的正面，定定地凝视他的脸。他不曾注意我，却继续他庄严的行走；我停止跟随，留在观照里。「这老人，」我终于说，「是深罪的典型与精魂。他拒绝独处。*他是人群中的人。*跟随将是徒劳；因为我将不再知道他的更多，或他的行径。世界最坏的心，是一本比*《心灵小园》*〔16〕更粗鄙的书；而「er lasst sich nicht lesen」——它不容许自己被阅读——或许不过是上帝的大慈悲之一。
