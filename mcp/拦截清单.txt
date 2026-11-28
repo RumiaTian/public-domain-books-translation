@@ -6,5 +6,5 @@
 j-j-connington_nordenholts-million
 william-morris_the-water-of-the-wondrous-isles
 m-e-braddon_the-venetians
-ambrose-bierce_poetry
 charles-robert-maturin_melmoth-the-wanderer
+ambrose-bierce_poetry
