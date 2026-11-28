@@ -11,11 +11,11 @@
 | 流水线阶段 | 核心指标 / 覆盖书目 | 产物规模 / 推进比率 | 关键结果与存储位置 |
 |:---|:---:|:---:|:---|
 | **阶段一：下载与选品 (Download & Sourcing)** | 全量 **1499** 本已 100% 下载封存 | **647** 本精选入库 / **852** 本已过滤(已有中译本) | 原书底库：1499 本全量封存 |
-| **阶段二：翻译执行 (Translation)** | **625** 完 / **12** 译 / **10** 待（共 647 本） | **16889** / 18180 篇（**286297.4** / 305863.1 KB）· **93.6%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
-| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **173** 本待审 | 覆盖精读 **452** 本（**72.3%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
-| **阶段四：出版打包 (EPUB Packaging)** | **625** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **625** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
+| **阶段二：翻译执行 (Translation)** | **627** 完 / **10** 译 / **10** 待（共 647 本） | **16952** / 18180 篇（**288210.3** / 305863.1 KB）· **94.2%** | 译文产物：`翻译项目/<项目>/译文/*.zh-CN.md` |
+| **阶段三：独立审校 (Review & Audit)** | **452** 本已审 / **175** 本待审 | 覆盖精读 **452** 本（**72.1%** 基于已译完） | 审核报告：`翻译项目/<项目>/审核报告.md` |
+| **阶段四：出版打包 (EPUB Packaging)** | **627** 本已打包 / **0** 本待打包 | 交付标准双语 EPUB **627** 本（**100.0%** 基于已译完） | 最终出版：`翻译项目/<项目>/<书名>.epub` |
 
-> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **625** 本译完，**452** 本完成独立审校，**625** 本完成双语 EPUB 出版打包。
+> 📈 **全流程里程碑**：全量 **1499** 本原书已全部入库；精选 **647** 本无译本书目中，已有 **627** 本译完，**452** 本完成独立审校，**627** 本完成双语 EPUB 出版打包。
 
 ---
 
@@ -181,7 +181,7 @@
 | 156 | `e-w-hornung_a-thief-in-the-night` | ✅ 已入库 | [✅ **100%**](翻译项目/e-w-hornung_a-thief-in-the-night/译文) (10篇) | [✅ 已审](翻译项目/e-w-hornung_a-thief-in-the-night/审核报告.md) | [📦 328KB](翻译项目/e-w-hornung_a-thief-in-the-night/A Thief in the Night.epub) | A | 全书 10 章双语块一一对应，无漏译、无截断、无语义错配、无重大数字… |
 | 157 | `e-w-hornung_the-black-mask` | ✅ 已入库 | [✅ **100%**](翻译项目/e-w-hornung_the-black-mask/译文) (8篇) | [✅ 已审(B)](翻译项目/e-w-hornung_the-black-mask/审核报告.md) | [📦 286KB](翻译项目/e-w-hornung_the-black-mask/The Black Mask.epub) | B 良好 | 全书 8 篇双语块结构完备、章末收束完整、数字核验精准无误，文… |
 | 158 | `earl-derr-biggers_the-house-without-a-key` | ✅ 已入库 | [✅ **100%**](翻译项目/earl-derr-biggers_the-house-without-a-key/译文) (24篇) | [✅ 已审(A)](翻译项目/earl-derr-biggers_the-house-without-a-key/审核报告.md) | [📦 444KB](翻译项目/earl-derr-biggers_the-house-without-a-key/没有钥匙的房子.epub) | A 优秀（出版预备级） | 全书各章节经分卷 100% 逐段逐句对照全景精读… |
-| 159 | `edgar-allan-poe_short-fiction` | ✅ 已入库 | [🟡 50.8%](翻译项目/edgar-allan-poe_short-fiction/译文) (39/66) | — | — |  |
+| 159 | `edgar-allan-poe_short-fiction` | ✅ 已入库 | [🟡 90.1%](翻译项目/edgar-allan-poe_short-fiction/译文) (58/66) | — | — | 翻译中 (done 58/66) |
 | 160 | `edgar-rice-burroughs_at-the-earths-core` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-rice-burroughs_at-the-earths-core/译文) (16篇) | [✅ 已审](翻译项目/edgar-rice-burroughs_at-the-earths-core/审核报告.md) | [📦 235KB](翻译项目/edgar-rice-burroughs_at-the-earths-core/地心历险记.epub) | A 级（优秀 / Excellent） | > 全书 16 篇 219 块双… |
 | 161 | `edgar-rice-burroughs_beyond-thirty` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-rice-burroughs_beyond-thirty/译文) (9篇) | [✅ 已审(B)](翻译项目/edgar-rice-burroughs_beyond-thirty/审核报告.md) | [📦 187KB](翻译项目/edgar-rice-burroughs_beyond-thirty/三十岁之后.epub) | B 良好 | 译文忠实流畅、文笔上佳，术语表执行度高、全书统一，无 A 级问… |
 | 162 | `edgar-rice-burroughs_pirates-of-venus` | ✅ 已入库 | [✅ **100%**](翻译项目/edgar-rice-burroughs_pirates-of-venus/译文) (14篇) | [✅ 已审(B)](翻译项目/edgar-rice-burroughs_pirates-of-venus/审核报告.md) | [📦 281KB](翻译项目/edgar-rice-burroughs_pirates-of-venus/金星海盗.epub) | B 良好 | 译笔流畅、画面感强，前半 7 章无错配/漏译/截断等 A 级问… |
@@ -296,7 +296,7 @@
 | 271 | `george-william-russell_the-national-being` | ✅ 已入库 | [✅ **100%**](翻译项目/george-william-russell_the-national-being/译文) (22篇) | [✅ 已审(A)](翻译项目/george-william-russell_the-national-being/审核报告.md) | [📦 205KB](翻译项目/george-william-russell_the-national-being/国家存在.epub) | A 优秀（出版预备级） | 全书 22 篇 100% 逐块通读对照，结构块对… |
 | 272 | `georgette-heyer_beauvallet` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_beauvallet/译文) (29篇) | ⏳ 待审 | [📦 467KB](翻译项目/georgette-heyer_beauvallet/博瓦莱.epub) | 已译完待审 |
 | 273 | `georgette-heyer_simon-the-coldheart` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_simon-the-coldheart/译文) (36篇) | [✅ 已审(B)](翻译项目/georgette-heyer_simon-the-coldheart/审核报告.md) | [📦 460KB](翻译项目/georgette-heyer_simon-the-coldheart/冷酷之心西蒙.epub) | B 良好 | 全书34篇933块双语对照体例严谨、译笔苍劲传神，唯存2处A级… |
-| 274 | `georgette-heyer_the-black-moth` | ✅ 已入库 | [🟡 64.7%](翻译项目/georgette-heyer_the-black-moth/译文) (18/31) | — | — | 翻译中 (done 18/31) |
+| 274 | `georgette-heyer_the-black-moth` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-black-moth/译文) (31篇) | ⏳ 待审 | [📦 469KB](翻译项目/georgette-heyer_the-black-moth/The Black Moth.epub) | 已译完待审 |
 | 275 | `georgette-heyer_the-great-roxhythe` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-great-roxhythe/译文) (56篇) | [✅ 已审(B)](翻译项目/georgette-heyer_the-great-roxhythe/审核报告.md) | [📦 607KB](翻译项目/georgette-heyer_the-great-roxhythe/罗克斯海斯大人.epub) | B 良好 | 全书51章文笔典雅传神，但存在2处段句漏译及少量术语微差，经针… |
 | 276 | `georgette-heyer_the-masqueraders` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-masqueraders/译文) (33篇) | [✅ 已审(B)](翻译项目/georgette-heyer_the-masqueraders/审核报告.md) | [📦 482KB](翻译项目/georgette-heyer_the-masqueraders/化装舞会者.epub) | B 良好 | 数据层近满分（英文对照块逐字零损坏、源文覆盖 100%、数字零… |
 | 277 | `georgette-heyer_the-transformation-of-philip-jettan` | ✅ 已入库 | [✅ **100%**](翻译项目/georgette-heyer_the-transformation-of-philip-jettan/译文) (20篇) | [✅ 已审](翻译项目/georgette-heyer_the-transformation-of-philip-jettan/审核报告.md) | [📦 255KB](翻译项目/georgette-heyer_the-transformation-of-philip-jettan/The Transformation of Philip Jettan.epub) | - |
@@ -577,7 +577,7 @@
 | 552 | `ring-lardner_jack-keefe-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_jack-keefe-stories/译文) (25篇) | ⏳ 待审 | [📦 766KB](翻译项目/ring-lardner_jack-keefe-stories/Jack Keefe Stories.epub) | 已译完待审 |
 | 553 | `ring-lardner_my-four-weeks-in-france` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_my-four-weeks-in-france/译文) (8篇) | [✅ 已审(B)](翻译项目/ring-lardner_my-four-weeks-in-france/审核报告.md) | [📦 166KB](翻译项目/ring-lardner_my-four-weeks-in-france/My Four Weeks in France.epub) | B 良好（接近优秀，无 A 级问题，仅 1 处译名不一致与 3 处笔误） |… |
 | 554 | `ring-lardner_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/ring-lardner_poetry/译文) (4篇) | [✅ 已审(A)](翻译项目/ring-lardner_poetry/审核报告.md) | [📦 29KB](翻译项目/ring-lardner_poetry/拉德纳诗集.epub) | A 优秀 |
-| 555 | `ring-lardner_short-fiction` | ✅ 已入库 | [🟡 63.6%](翻译项目/ring-lardner_short-fiction/译文) (49/74) | — | — | 翻译中 (done 49/74) |
+| 555 | `ring-lardner_short-fiction` | ✅ 已入库 | [🟡 87.7%](翻译项目/ring-lardner_short-fiction/译文) (64/74) | — | — | 翻译中 (done 64/74) |
 | 556 | `robert-derby-holmes_a-yankee-in-the-trenches` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/译文) (20篇) | [✅ 已审(A)](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/审核报告.md) | [📦 209KB](翻译项目/robert-derby-holmes_a-yankee-in-the-trenches/战壕里的美国佬.epub) | A 优秀 | 全书译文质量极高，生动传神地再现了一战西线战场美籍志愿兵与英国… |
 | 557 | `robert-e-howard_short-fiction` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-e-howard_short-fiction/译文) (28篇) | ⏳ 待审 | [📦 465KB](翻译项目/robert-e-howard_short-fiction/罗伯特·E·霍华德短篇小说集.epub) | 已译完待审 |
 | 558 | `robert-hugh-benson_the-necromancers` | ✅ 已入库 | [✅ **100%**](翻译项目/robert-hugh-benson_the-necromancers/译文) (19篇) | [✅ 已审(B)](翻译项目/robert-hugh-benson_the-necromancers/审核报告.md) | [📦 406KB](翻译项目/robert-hugh-benson_the-necromancers/招魂者.epub) | B 良好 | 前半 9 章译笔精良、哥特与宗教氛围还原到位，无错配/漏译/截… |
@@ -642,7 +642,7 @@
 | 617 | `wilfred-owen_poetry` | ✅ 已入库 | [✅ **100%**](翻译项目/wilfred-owen_poetry/译文) (4篇) | [✅ 已审(A)](翻译项目/wilfred-owen_poetry/审核报告.md) | [📦 48KB](翻译项目/wilfred-owen_poetry/Poetry.epub) | A 优秀 | 全书 4 篇（序言、引言、25 首诗作、尾注）双语块结构完全对… |
 | 618 | `wilkie-collins_basil` | ✅ 已入库 | [✅ **100%**](翻译项目/wilkie-collins_basil/译文) (30篇) | ⏳ 待审 | [📦 533KB](翻译项目/wilkie-collins_basil/Basil.epub) | 已译完待审 |
 | 619 | `wilkie-collins_man-and-wife` | ✅ 已入库 | [✅ **100%**](翻译项目/wilkie-collins_man-and-wife/译文) (79篇) | ⏳ 待审 | [📦 1014KB](翻译项目/wilkie-collins_man-and-wife/丈夫与妻子.epub) | 已译完待审 |
-| 620 | `wilkie-collins_the-dead-secret` | ✅ 已入库 | [🟡 43.1%](翻译项目/wilkie-collins_the-dead-secret/译文) (13/29) | — | — |  |
+| 620 | `wilkie-collins_the-dead-secret` | ✅ 已入库 | [✅ **100%**](翻译项目/wilkie-collins_the-dead-secret/译文) (29篇) | ⏳ 待审 | [📦 620KB](翻译项目/wilkie-collins_the-dead-secret/The Dead Secret.epub) | 已译完待审 |
 | 621 | `wilkie-collins_the-haunted-hotel` | ✅ 已入库 | [✅ **100%**](翻译项目/wilkie-collins_the-haunted-hotel/译文) (34篇) | [✅ 已审(B)](翻译项目/wilkie-collins_the-haunted-hotel/审核报告.md) | [📦 295KB](翻译项目/wilkie-collins_the-haunted-hotel/The Haunted Hotel.epub) | B 良好 | 全书 34 篇逐块核对完成，中文侧整体完整、术语与数字落位良好… |
 | 622 | `will-james_smoky-the-cowhorse` | ✅ 已入库 | [✅ **100%**](翻译项目/will-james_smoky-the-cowhorse/译文) (16篇) | [✅ 已审(A)](翻译项目/will-james_smoky-the-cowhorse/审核报告.md) | [📦 346KB](翻译项目/will-james_smoky-the-cowhorse/Smoky the Cowhorse.epub) | A 优秀（出版预备级） | 全书 16 篇共 943 对双语块经分卷（Par… |
 | 623 | `willa-cather_the-professors-house` | ✅ 已入库 | [✅ **100%**](翻译项目/willa-cather_the-professors-house/译文) (34篇) | [✅ 已审(A)](翻译项目/willa-cather_the-professors-house/审核报告.md) | [📦 311KB](翻译项目/willa-cather_the-professors-house/教授之屋.epub) | A 优秀（个别 B 级小问题应修，见下） | 译文整体为文学级水准——无错配… |
@@ -670,7 +670,7 @@
 | 645 | `zitkala-sa_american-indian-stories` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_american-indian-stories/译文) (13篇) | [✅ 已审(A)](翻译项目/zitkala-sa_american-indian-stories/审核报告.md) | [📦 161KB](翻译项目/zitkala-sa_american-indian-stories/美国印第安故事.epub) | A 优秀 | 全书译文文笔极其优美流畅、文学性与情感充沛，达科他神话色彩与反… |
 | 646 | `zitkala-sa_old-indian-legends` | ✅ 已入库 | [✅ **100%**](翻译项目/zitkala-sa_old-indian-legends/译文) (15篇) | [✅ 已审(A)](翻译项目/zitkala-sa_old-indian-legends/审核报告.md) | [📦 93KB](翻译项目/zitkala-sa_old-indian-legends/古老印第安传说.epub) | A 优秀 | 全书译笔统一、忠实且富于口头文学韵味，术语表执行到位（达科他语… |
 | 647 | `zofia-nalkowska_women_michael-henry-dziewicki` | ✅ 已入库 | [✅ **100%**](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/译文) (4篇) | [✅ 已审(C)](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/审核报告.md) | [📦 292KB](翻译项目/zofia-nalkowska_women_michael-henry-dziewicki/女人们.epub) | C 需关注 | 已译部分语言质量良好，但三篇均有成段漏译（全书约 3,700… |
-| | **合计 (647 本精选)** | **100% 下载** | **16889/18180 篇 (93.6%)** | **452 本完成** | **625 本完成** | 全流程四阶段闭环 |
+| | **合计 (647 本精选)** | **100% 下载** | **16952/18180 篇 (94.2%)** | **452 本完成** | **627 本完成** | 全流程四阶段闭环 |
 
 ---
 
@@ -1405,6 +1405,7 @@
 | 国家存在 | George William Russell | `george-william-russell_the-national-being` | 205KB | - | [`国家存在.epub`](翻译项目/george-william-russell_the-national-being/国家存在.epub) |
 | 博瓦莱 | Georgette Heyer | `georgette-heyer_beauvallet` | 467KB | - | [`博瓦莱.epub`](翻译项目/georgette-heyer_beauvallet/博瓦莱.epub) |
 | Simon the Coldheart | Georgette Heyer | `georgette-heyer_simon-the-coldheart` | 460KB | - | [`冷酷之心西蒙.epub`](翻译项目/georgette-heyer_simon-the-coldheart/冷酷之心西蒙.epub) |
+| georgette-heyer_the-black-moth | Georgette Heyer | `georgette-heyer_the-black-moth` | 469KB | - | [`The Black Moth.epub`](翻译项目/georgette-heyer_the-black-moth/The Black Moth.epub) |
 | The Great Roxhythe | Georgette Heyer | `georgette-heyer_the-great-roxhythe` | 607KB | - | [`罗克斯海斯大人.epub`](翻译项目/georgette-heyer_the-great-roxhythe/罗克斯海斯大人.epub) |
 | The Masqueraders | Georgette Heyer | `georgette-heyer_the-masqueraders` | 482KB | - | [`化装舞会者.epub`](翻译项目/georgette-heyer_the-masqueraders/化装舞会者.epub) |
 | The Transformation of Philip Jettan | Georgette Heyer | `georgette-heyer_the-transformation-of-philip-jettan` | 255KB | - | [`The Transformation of Philip Jettan.epub`](翻译项目/georgette-heyer_the-transformation-of-philip-jettan/The Transformation of Philip Jettan.epub) |
@@ -1740,6 +1741,7 @@
 | Poetry | Wilfred Owen | `wilfred-owen_poetry` | 48KB | - | [`Poetry.epub`](翻译项目/wilfred-owen_poetry/Poetry.epub) |
 | wilkie-collins_basil | Wilkie Collins | `wilkie-collins_basil` | 533KB | - | [`Basil.epub`](翻译项目/wilkie-collins_basil/Basil.epub) |
 | 丈夫与妻子 | Wilkie Collins | `wilkie-collins_man-and-wife` | 1014KB | - | [`丈夫与妻子.epub`](翻译项目/wilkie-collins_man-and-wife/丈夫与妻子.epub) |
+| The Dead Secret | Wilkie Collins | `wilkie-collins_the-dead-secret` | 620KB | - | [`The Dead Secret.epub`](翻译项目/wilkie-collins_the-dead-secret/The Dead Secret.epub) |
 | The Haunted Hotel | Wilkie Collins | `wilkie-collins_the-haunted-hotel` | 295KB | - | [`The Haunted Hotel.epub`](翻译项目/wilkie-collins_the-haunted-hotel/The Haunted Hotel.epub) |
 | will-james_smoky-the-cowhorse | Will James | `will-james_smoky-the-cowhorse` | 346KB | - | [`Smoky the Cowhorse.epub`](翻译项目/will-james_smoky-the-cowhorse/Smoky the Cowhorse.epub) |
 | The Professor’s House | Willa Cather | `willa-cather_the-professors-house` | 311KB | - | [`教授之屋.epub`](翻译项目/willa-cather_the-professors-house/教授之屋.epub) |
